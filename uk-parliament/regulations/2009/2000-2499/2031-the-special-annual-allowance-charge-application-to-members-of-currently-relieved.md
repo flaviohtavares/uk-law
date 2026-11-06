@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury make this Order in exercise of the powers conferred by paragraph 20(1) and (2) of Schedule 35 to the Finance Act 2009[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-fdf7c6609ac5e65cf5f3dea023f4c6c5]
+## 1. Citation, commencement and interpretation[^c-fdf7c6609ac5e65cf5f3dea023f4c6c5]
 
 (1) This Order may be cited as the Special Annual Allowance Charge (Application to Members of Currently-Relieved Non-UK Pension Schemes) Order 2009 and shall come into force on 12th August 2009.
 
@@ -54,17 +54,17 @@ The Treasury make this Order in exercise of the powers conferred by paragraph 20
 
 (3) In this Order a reference to Schedule 35 is a reference to Schedule 35 to the Finance Act 2009.
 
-## 2. Application of the special annual allowance charge[^key-1f99247c0d8c76309ab2b0e2fe179e82]
+## 2. Application of the special annual allowance charge[^c-1f99247c0d8c76309ab2b0e2fe179e82]
 
 (1) The provisions in Schedule 35 shall apply to individuals who are members of currently-relieved non-UK pension schemes as if those schemes were registered pension schemes.
 
 (2) Paragraph (1) shall have effect subject to the modifications of Schedule 35 specified in this Order.
 
-## 3. Modifications of Schedule 35[^key-584d348ff94a7eb910f4a919b7c5f7c0]
+## 3. Modifications of Schedule 35[^c-584d348ff94a7eb910f4a919b7c5f7c0]
 
 For the words “scheme administrator”, in each place where they occur, substitute the words “scheme manager”.
 
-**4.**[^key-38f09ef34a3273acc575b7b99f3d04be] (1) In paragraph 3 of Schedule 35 the calculation of the total adjusted pension input amount for members of currently-relieved non-UK pension schemes shall be arrived at with the following modifications.
+**4.**[^c-38f09ef34a3273acc575b7b99f3d04be] (1) In paragraph 3 of Schedule 35 the calculation of the total adjusted pension input amount for members of currently-relieved non-UK pension schemes shall be arrived at with the following modifications.
 
 (2) Section 230(1) and 234(1) of FA 2004 (cash balance and defined benefits arrangements) shall apply as if the increase in the value of the individual’s rights under an arrangement under the pension scheme relating to the individual during the tax year were the greater of—
 
@@ -106,7 +106,7 @@ where—
 - EI is the total amount of employment income of the individual from any employment or employments with the employer for the tax year, excluding any such income which is exempt income (within the meaning of section 8 of ITEPA 2003), and
 - TE is so much of EI as constitutes taxable earnings from any such employment (within the meaning of section 10(2) of ITEPA 2003).
 
-**5.**[^key-fac2d4e41bf2c17e8f5df608b0b450a0] (1) Paragraph 6 of Schedule 35 shall be modified as follows.
+**5.**[^c-fac2d4e41bf2c17e8f5df608b0b450a0] (1) Paragraph 6 of Schedule 35 shall be modified as follows.
 
 (2) In sub-paragraph (2)—
 
@@ -134,7 +134,7 @@ where—
 
 .
 
-**6.**[^key-4b5c10c258f17f089c4496bffb05776f] (1) Paragraph 13 of Schedule 35 shall be modified as follows.
+**6.**[^c-4b5c10c258f17f089c4496bffb05776f] (1) Paragraph 13 of Schedule 35 shall be modified as follows.
 
 (2) In sub-paragraphs (2)(a) and (6) the references to “employer” and “employment” shall be read as including “former employer” and “former employment” where the individual was—
 
@@ -145,7 +145,7 @@ where—
 
 (3) In sub-paragraph (2)(b) the reference to “persons mentioned in sub-paragraph (1)(d)” shall be read as including persons who are employees of the former employer referred to in paragraph (2).
 
-**7.**[^key-59611529322c85b3fe59740082f01739] (1) Paragraph 15 of Schedule 35 shall be modified as follows.
+**7.**[^c-59611529322c85b3fe59740082f01739] (1) Paragraph 15 of Schedule 35 shall be modified as follows.
 
 (2) For sub-paragraph (4) substitute—
 
@@ -159,11 +159,11 @@ where—
 
 .
 
-**8.**[^key-39bda3961f94d134865072c62d950945] For sub-paragraph (3) of paragraph 16 of Schedule 35 substitute—
+**8.**[^c-39bda3961f94d134865072c62d950945] For sub-paragraph (3) of paragraph 16 of Schedule 35 substitute—
 
 > (3) In relation to a money purchase arrangement that is not a cash balance arrangement, a pre-22 April 2009 pension input amount is so much of the amount arrived at under paragraph 3(2) as is attributable to contributions—
 >
-> - (a) which are paid in the period beginning with 6 April 2009 and ending with 22[^key-8ceaded2de541a072226cb790dfda2a5] April 2009, other than any contributions paid pursuant to an agreement for the payment of contributions on a quarterly or more frequent basis; and—
+> - (a) which are paid in the period beginning with 6 April 2009 and ending with 22[^c-8ceaded2de541a072226cb790dfda2a5] April 2009, other than any contributions paid pursuant to an agreement for the payment of contributions on a quarterly or more frequent basis; and—
 > - (b) in respect of which relief is given by virtue of—
 >   - (i) Schedule 33 to FA 2004 (overseas pensions schemes: migrant member relief),
 >   - (ii) paragraph 51 of Schedule 36 to FA 2004 (individuals with pre-commencement entitlement to corresponding relief), or
@@ -171,7 +171,7 @@ where—
 
 .
 
-**9.**[^key-39c921b02981744b78ddf82475ca087c] (1) Paragraph 17 of Schedule 35 shall be modified as follows.
+**9.**[^c-39c921b02981744b78ddf82475ca087c] (1) Paragraph 17 of Schedule 35 shall be modified as follows.
 
 (2) In sub-paragraph (4) the definition of “infrequent money purchase contributions amount” shall be read as including any relevant contributions under overseas pension schemes paid in a tax year in which the individual was not resident in the UK.
 
@@ -195,7 +195,7 @@ where—
 
 .
 
-**10.**[^key-204fd5d289f8d667e46fcfdc6a52879f] For paragraph 18 of Schedule 35 substitute—
+**10.**[^c-204fd5d289f8d667e46fcfdc6a52879f] For paragraph 18 of Schedule 35 substitute—
 
 > **18.** (1)  Part 4 of FA 2004 applies in relation to a contributions refund lump sum as if it were a short service refund lump sum in excess of the limit specified in section 205(4) of that Act (so that it is not an unauthorised payment and is liable to tax at the rate chargeable on a short service refund lump sum).
 >
@@ -227,24 +227,24 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^f00001]: Footnote: [2009 c.10](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-fdf7c6609ac5e65cf5f3dea023f4c6c5]: Commencement: Art. 1 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-fdf7c6609ac5e65cf5f3dea023f4c6c5]: Commencement: Art. 1 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
 
-[^key-1f99247c0d8c76309ab2b0e2fe179e82]: Commencement: Art. 2 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-1f99247c0d8c76309ab2b0e2fe179e82]: Commencement: Art. 2 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
 
-[^key-584d348ff94a7eb910f4a919b7c5f7c0]: Commencement: Art. 3 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-584d348ff94a7eb910f4a919b7c5f7c0]: Commencement: Art. 3 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
 
-[^key-38f09ef34a3273acc575b7b99f3d04be]: Commencement: Art. 4 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-38f09ef34a3273acc575b7b99f3d04be]: Commencement: Art. 4 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
 
-[^key-fac2d4e41bf2c17e8f5df608b0b450a0]: Commencement: Art. 5 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-fac2d4e41bf2c17e8f5df608b0b450a0]: Commencement: Art. 5 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
 
-[^key-4b5c10c258f17f089c4496bffb05776f]: Commencement: Art. 6 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-4b5c10c258f17f089c4496bffb05776f]: Commencement: Art. 6 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
 
-[^key-59611529322c85b3fe59740082f01739]: Commencement: Art. 7 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-59611529322c85b3fe59740082f01739]: Commencement: Art. 7 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
 
-[^key-39bda3961f94d134865072c62d950945]: Commencement: Art. 8 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-39bda3961f94d134865072c62d950945]: Commencement: Art. 8 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
 
-[^key-8ceaded2de541a072226cb790dfda2a5]: Textual amendment: Word in art. 8 substituted (19.3.2010 for the tax year 2009-10 and subsequent tax years) by virtue of [The Special Annual Allowance Charge (Protected Pension Input Amounts) Order 2010 (S.I. 2010/429)](https://www.legislation.gov.uk/uksi/2010/429), [arts. 1](https://www.legislation.gov.uk/uksi/2010/429/article/1), [11](https://www.legislation.gov.uk/uksi/2010/429/article/11)
+[^c-8ceaded2de541a072226cb790dfda2a5]: Textual amendment: Word in art. 8 substituted (19.3.2010 for the tax year 2009-10 and subsequent tax years) by virtue of [The Special Annual Allowance Charge (Protected Pension Input Amounts) Order 2010 (S.I. 2010/429)](https://www.legislation.gov.uk/uksi/2010/429), [arts. 1](https://www.legislation.gov.uk/uksi/2010/429/article/1), [11](https://www.legislation.gov.uk/uksi/2010/429/article/11)
 
-[^key-39c921b02981744b78ddf82475ca087c]: Commencement: Art. 9 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-39c921b02981744b78ddf82475ca087c]: Commencement: Art. 9 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
 
-[^key-204fd5d289f8d667e46fcfdc6a52879f]: Commencement: Art. 10 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+[^c-204fd5d289f8d667e46fcfdc6a52879f]: Commencement: Art. 10 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)

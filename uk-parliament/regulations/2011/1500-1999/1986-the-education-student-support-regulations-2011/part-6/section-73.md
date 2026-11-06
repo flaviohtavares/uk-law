@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Type 1 and type 2 teacher training students who are 2008 cohort students[^key-8e94d7c3ea3ecddd59e67b8ac4c44f01]
+## 73. Type 1 and type 2 teacher training students who are 2008 cohort students[^c-8e94d7c3ea3ecddd59e67b8ac4c44f01]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e94d7c3ea3ecddd59e67b8ac4c44f01]: Textual amendment: Reg. 73 omitted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/3/a), [3](https://www.legislation.gov.uk/uksi/2015/1951/regulation/3)
+[^c-8e94d7c3ea3ecddd59e67b8ac4c44f01]: Textual amendment: Reg. 73 omitted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/3/a), [3](https://www.legislation.gov.uk/uksi/2015/1951/regulation/3)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**18.**[^key-40ea5a76455f687ca35a438397df84c4] In rule 51, omit “, section 22 of the Act of 1978 or paragraph 41 of Schedule 6 to the Civil Partnership Act 2004”.
+**18.**[^c-40ea5a76455f687ca35a438397df84c4] In rule 51, omit “, section 22 of the Act of 1978 or paragraph 41 of Schedule 6 to the Civil Partnership Act 2004”.
 
 ## Annotations
 
-[^key-40ea5a76455f687ca35a438397df84c4]: Commencement: Art. 18 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-40ea5a76455f687ca35a438397df84c4]: Commencement: Art. 18 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

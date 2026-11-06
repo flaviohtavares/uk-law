@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Further modifications to Part 7[^key-b33b98c10e7a0d823a4c19eb7f5305cf]
+## 70. Further modifications to Part 7[^c-b33b98c10e7a0d823a4c19eb7f5305cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Part 7 (suspension) has effect as if, for that Part, there were substituted—
 >
 > **39. Suspension of a definitive safeguarding remedy**
 >
-> (1) The Secretary of State may make a preliminary decision (a “preliminary suspension decision”) that the application of a definitive safeguarding remedy be suspended for a specified period (the “period of suspension”) in relation to [^key-537a4b21e05f922fd4b1153cc5dd2589]... goods specified in the public notice made by the Secretary of State under section 13 of the Act.
+> (1) The Secretary of State may make a preliminary decision (a “preliminary suspension decision”) that the application of a definitive safeguarding remedy be suspended for a specified period (the “period of suspension”) in relation to [^c-537a4b21e05f922fd4b1153cc5dd2589]... goods specified in the public notice made by the Secretary of State under section 13 of the Act.
 >
 > (2) The Secretary of State may make a preliminary suspension decision where—
 >
@@ -139,6 +139,6 @@ Part 7 (suspension) has effect as if, for that Part, there were substituted—
 
 ## Annotations
 
-[^key-b33b98c10e7a0d823a4c19eb7f5305cf]: Commencement: Reg. 70 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-b33b98c10e7a0d823a4c19eb7f5305cf]: Commencement: Reg. 70 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
 
-[^key-537a4b21e05f922fd4b1153cc5dd2589]: Textual amendment: Words in reg. 70 omitted (1.3.2020) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/99/regulation/13)
+[^c-537a4b21e05f922fd4b1153cc5dd2589]: Textual amendment: Words in reg. 70 omitted (1.3.2020) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/99/regulation/13)

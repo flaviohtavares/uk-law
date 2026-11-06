@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**22.**[^key-40878ae35b6271114aa469b0e65a811f] The PDS Agreements Regulations are amended in accordance with this Part.
+**22.**[^c-40878ae35b6271114aa469b0e65a811f] The PDS Agreements Regulations are amended in accordance with this Part.
 
 ## Annotations
 
-[^key-40878ae35b6271114aa469b0e65a811f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/364/regulation/22) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-40878ae35b6271114aa469b0e65a811f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/364/regulation/22) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

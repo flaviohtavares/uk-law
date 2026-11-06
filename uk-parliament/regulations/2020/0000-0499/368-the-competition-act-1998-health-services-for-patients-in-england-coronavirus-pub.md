@@ -32,7 +32,7 @@ summary: ''
 
 Competition
 
-The Competition Act 1998 (Health Services for Patients in England) (Coronavirus) (Public Policy Exclusion) Order 2020 (revoked)[^key-084373aa5ce11d3d3707adf37514dace]
+The Competition Act 1998 (Health Services for Patients in England) (Coronavirus) (Public Policy Exclusion) Order 2020 (revoked)[^c-084373aa5ce11d3d3707adf37514dace]
 
 Made
 
@@ -44,44 +44,44 @@ at 2.30 p.m. on 27th March 2020
 
 Coming into force in accordance with article 1
 
-[^key-084373aa5ce11d3d3707adf37514dace]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-084373aa5ce11d3d3707adf37514dace]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-084373aa5ce11d3d3707adf37514dace]
+## 1. Citation, commencement and application[^c-084373aa5ce11d3d3707adf37514dace]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-084373aa5ce11d3d3707adf37514dace]
+## 2. Interpretation[^c-084373aa5ce11d3d3707adf37514dace]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Qualifying activities[^key-084373aa5ce11d3d3707adf37514dace]
+## 3. Qualifying activities[^c-084373aa5ce11d3d3707adf37514dace]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exclusion from the Chapter I prohibition[^key-084373aa5ce11d3d3707adf37514dace]
+## 4. Exclusion from the Chapter I prohibition[^c-084373aa5ce11d3d3707adf37514dace]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. ...[^key-084373aa5ce11d3d3707adf37514dace]
+## 5. ...[^c-084373aa5ce11d3d3707adf37514dace]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Notification to the Secretary of State[^key-084373aa5ce11d3d3707adf37514dace]
+## 6. Notification to the Secretary of State[^c-084373aa5ce11d3d3707adf37514dace]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Register of agreements[^key-084373aa5ce11d3d3707adf37514dace]
+## 7. Register of agreements[^c-084373aa5ce11d3d3707adf37514dace]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-084373aa5ce11d3d3707adf37514dace]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-084373aa5ce11d3d3707adf37514dace]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-084373aa5ce11d3d3707adf37514dace]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-084373aa5ce11d3d3707adf37514dace]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-084373aa5ce11d3d3707adf37514dace]: Textual amendment: Order revoked (29.7.2021) by [The Competition Act 1998 (Coronavirus) (Public Policy Exclusions) (Revocations) Order 2021 (S.I. 2021/773)](https://www.legislation.gov.uk/uksi/2021/773), [art. 1](https://www.legislation.gov.uk/uksi/2021/773/article/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2021/773/schedule/paragraph/1/a)
+[^c-084373aa5ce11d3d3707adf37514dace]: Textual amendment: Order revoked (29.7.2021) by [The Competition Act 1998 (Coronavirus) (Public Policy Exclusions) (Revocations) Order 2021 (S.I. 2021/773)](https://www.legislation.gov.uk/uksi/2021/773), [art. 1](https://www.legislation.gov.uk/uksi/2021/773/article/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2021/773/schedule/paragraph/1/a)

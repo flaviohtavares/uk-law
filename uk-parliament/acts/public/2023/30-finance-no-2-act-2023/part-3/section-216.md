@@ -40,7 +40,7 @@ summary: ''
 
 (7) The adjustment amount of a member of a multinational group in respect of an asset or liability subject to a relevant adjustment is the amount given by—
 
-- (a) subtracting the carrying value of the asset or liability immediately before the event that caused, or enabled, the adjustment to be made from the fair value of the asset or liability[^key-85d8f4794aab5516b5be1c7b1c6aac2c] immediately after occurrence of that event, and
+- (a) subtracting the carrying value of the asset or liability immediately before the event that caused, or enabled, the adjustment to be made from the fair value of the asset or liability[^c-85d8f4794aab5516b5be1c7b1c6aac2c] immediately after occurrence of that event, and
 - (b) if that event resulted in a non-qualifying gain or loss (within the meaning given by section 210(2)) for the member—
   - (i) in the case of a non-qualifying gain, reducing the result of paragraph (a) by the amount of that gain, or
   - (ii) in the case of a non-qualifying loss, increasing the result of paragraph (a) by the amount of that loss.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85d8f4794aab5516b5be1c7b1c6aac2c]: Textual amendment: Words in s. 216(7)(a) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 63](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/63), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-85d8f4794aab5516b5be1c7b1c6aac2c]: Textual amendment: Words in s. 216(7)(a) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 63](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/63), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

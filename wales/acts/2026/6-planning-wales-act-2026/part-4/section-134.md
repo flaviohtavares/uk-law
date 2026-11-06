@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Issue of certificate of lawfulness on determination of appeal[^key-1468692cebf45f58b09ae5f5ac0469ed]
+## 134. Issue of certificate of lawfulness on determination of appeal[^c-1468692cebf45f58b09ae5f5ac0469ed]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1468692cebf45f58b09ae5f5ac0469ed]: Commencement: S. 134 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1468692cebf45f58b09ae5f5ac0469ed]: Commencement: S. 134 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

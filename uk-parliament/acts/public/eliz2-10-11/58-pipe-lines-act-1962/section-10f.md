@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10F. Section 10E: supplemental.[^key-aee292da489044baf015f1c802fa878c]
+## 10F. Section 10E: supplemental.[^c-aee292da489044baf015f1c802fa878c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aee292da489044baf015f1c802fa878c]: Textual amendment: Ss. 10E-10H repealed (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/5); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-aee292da489044baf015f1c802fa878c]: Textual amendment: Ss. 10E-10H repealed (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/5); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))

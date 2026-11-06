@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150A. Cryptoassets etc[^key-854ee8f9a83f34729a5136b7198afe26]
+## 150A. Cryptoassets etc[^c-854ee8f9a83f34729a5136b7198afe26]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ in such a way as to ensure, or to make it virtually certain, that it will not be
 
 ## Annotations
 
-[^key-854ee8f9a83f34729a5136b7198afe26]: Textual amendment: [S. 150A](https://www.legislation.gov.uk/ukpga/2002/29/section/150A) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 36](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/36); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-854ee8f9a83f34729a5136b7198afe26]: Textual amendment: [S. 150A](https://www.legislation.gov.uk/ukpga/2002/29/section/150A) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 36](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/36); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)

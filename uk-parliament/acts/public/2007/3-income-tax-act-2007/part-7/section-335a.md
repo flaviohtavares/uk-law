@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 335A. Carry forward of CITR[^key-7d442a83a5a54af93462d3bf5ecc9236]
+## 335A. Carry forward of CITR[^c-7d442a83a5a54af93462d3bf5ecc9236]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ the investor is also entitled to a tax reduction under this subsection which is 
 
 ## Annotations
 
-[^key-7d442a83a5a54af93462d3bf5ecc9236]: Textual amendment: S. 335A inserted (with effect in accordance with Sch. 27 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/3)
+[^c-7d442a83a5a54af93462d3bf5ecc9236]: Textual amendment: S. 335A inserted (with effect in accordance with Sch. 27 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/3)

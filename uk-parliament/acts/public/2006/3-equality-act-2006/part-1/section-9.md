@@ -34,10 +34,10 @@ summary: ''
 
 (3) In determining what action to take in pursuance of this section the Commission shall have particular regard to the importance of exercising the powers conferred by this Part in relation to the Convention rights.
 
-(4) In fulfilling a duty under section 8 [^key-b741131eaac7f1d54eaa7ef032cdb85c]... the Commission shall take account of any relevant human rights.
+(4) In fulfilling a duty under section 8 [^c-b741131eaac7f1d54eaa7ef032cdb85c]... the Commission shall take account of any relevant human rights.
 
-(5) A reference in this Part (including this section) to human rights does not exclude any matter by reason only of its being a matter to which section 8 [^key-b741131eaac7f1d54eaa7ef032cdb85c]... relates.
+(5) A reference in this Part (including this section) to human rights does not exclude any matter by reason only of its being a matter to which section 8 [^c-b741131eaac7f1d54eaa7ef032cdb85c]... relates.
 
 ## Annotations
 
-[^key-b741131eaac7f1d54eaa7ef032cdb85c]: Textual amendment: Words in [s. 9(4)(5)](https://www.legislation.gov.uk/ukpga/2006/3/section/9/4) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/5), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)
+[^c-b741131eaac7f1d54eaa7ef032cdb85c]: Textual amendment: Words in [s. 9(4)(5)](https://www.legislation.gov.uk/ukpga/2006/3/section/9/4) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/5), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)

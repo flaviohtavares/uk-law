@@ -39,16 +39,16 @@ on the adequacy of the competent authorities of certain third countries pursuant
 
 (2010/64/EU) (revoked)
 
-[^key-317f8a14709eb407c8e43f176ec2107a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-317f8a14709eb407c8e43f176ec2107a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-317f8a14709eb407c8e43f176ec2107a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-317f8a14709eb407c8e43f176ec2107a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-317f8a14709eb407c8e43f176ec2107a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-317f8a14709eb407c8e43f176ec2107a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-317f8a14709eb407c8e43f176ec2107a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-317f8a14709eb407c8e43f176ec2107a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-317f8a14709eb407c8e43f176ec2107a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-317f8a14709eb407c8e43f176ec2107a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-317f8a14709eb407c8e43f176ec2107a]: Textual amendment: Decision revoked (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [reg. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2019/177/schedule/3/paragraph/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-317f8a14709eb407c8e43f176ec2107a]: Textual amendment: Decision revoked (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [reg. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2019/177/schedule/3/paragraph/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

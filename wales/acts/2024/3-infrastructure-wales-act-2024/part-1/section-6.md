@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Open cast coal mining[^key-b72b8c8b8e1c80a963193010454c9475]
+## 6. Open cast coal mining[^c-b72b8c8b8e1c80a963193010454c9475]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ is a significant infrastructure project.
 
 ## Annotations
 
-[^key-b72b8c8b8e1c80a963193010454c9475]: Commencement: S. 6 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-b72b8c8b8e1c80a963193010454c9475]: Commencement: S. 6 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

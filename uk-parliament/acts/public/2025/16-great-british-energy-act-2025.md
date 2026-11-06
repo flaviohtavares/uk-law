@@ -36,7 +36,7 @@ An Act to make provision about Great British Energy.
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Great British Energy[^key-3171c8b706c519de616466638262970b]
+## 1. Great British Energy[^c-3171c8b706c519de616466638262970b]
 
 (1) The Secretary of State may by notice designate a company as Great British Energy.
 
@@ -73,13 +73,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - “**company**” means a company registered under the [Companies Act 2006](https://www.legislation.gov.uk/ukpga/2006/46);
 - “**Minister of the Crown**” has the same meaning as in the [Ministers of the Crown Act 1975](https://www.legislation.gov.uk/ukpga/1975/26) (see section 8(1) of that Act).
 
-## 2. Crown status[^key-cbfa16dce209bd73375519f390e9317a]
+## 2. Crown status[^c-cbfa16dce209bd73375519f390e9317a]
 
 (1) Great British Energy is not to be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
 
 (2) Great British Energy’s property is not to be regarded as property of, or property held on behalf of, the Crown.
 
-## 3. Objects[^key-1f57ec002df5c7119da5cbfa18936fa8]
+## 3. Objects[^c-1f57ec002df5c7119da5cbfa18936fa8]
 
 (1) Great British Energy must secure that its articles of association contain a statement of its objects.
 
@@ -100,7 +100,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - “**fossil fuel**” has the meaning given by section 32M of the [Electricity Act 1989](https://www.legislation.gov.uk/ukpga/1989/29);
 - “**greenhouse gas**” has the same meaning as in the [Climate Change Act 2008](https://www.legislation.gov.uk/ukpga/2008/27) (see section 92 of that Act).
 
-## 4. Financial assistance[^key-9cbeb39559b9c3159a5c905880230e8a]
+## 4. Financial assistance[^c-9cbeb39559b9c3159a5c905880230e8a]
 
 (1) The Secretary of State may provide financial assistance to Great British Energy.
 
@@ -118,7 +118,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (5) “**Minister of the Crown**” has the same meaning as in the [Ministers of the Crown Act 1975](https://www.legislation.gov.uk/ukpga/1975/26) (see section 8(1) of that Act).
 
-## 5. Strategic priorities and plans[^key-d743c314c2644fd694a8a693928316f0]
+## 5. Strategic priorities and plans[^c-d743c314c2644fd694a8a693928316f0]
 
 (1) The Secretary of State must prepare a statement of strategic priorities for Great British Energy.
 
@@ -142,7 +142,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) to publish and act in accordance with strategic plans which reflect the Secretary of State’s statement, and
 - (b) to update those plans whenever the Secretary of State revises or replaces the statement.
 
-## 6. Directions[^key-d9b330a116a3cd82a1038e8de129eb08]
+## 6. Directions[^c-d9b330a116a3cd82a1038e8de129eb08]
 
 (1) The Secretary of State may give specific or general directions to Great British Energy.
 
@@ -155,7 +155,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (4) The Secretary of State must publish and lay before Parliament any directions given to Great British Energy under this section.
 
-## 7. Reviews of Great British Energy’s effectiveness[^key-c9ea0d80a0c4c81faf64248e4016bd1f]
+## 7. Reviews of Great British Energy’s effectiveness[^c-c9ea0d80a0c4c81faf64248e4016bd1f]
 
 (1) The Secretary of State must appoint an independent person to carry out reviews of the effectiveness of Great British Energy.
 
@@ -182,17 +182,17 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) the Secretary of State, and
 - (b) Great British Energy.
 
-## 8. Annual accounts and reports[^key-c86a6e5383b9777815b80f02dd8734be]
+## 8. Annual accounts and reports[^c-c86a6e5383b9777815b80f02dd8734be]
 
 (1) Great British Energy must, as soon as reasonably practicable after its directors comply with section 441 of the [Companies Act 2006](https://www.legislation.gov.uk/ukpga/2006/46) in relation to a financial year, deliver to the Secretary of State a copy of the accounts and reports required to be delivered to the registrar for that financial year in accordance with that section.
 
 (2) The Secretary of State must lay a copy of those accounts and reports before Parliament.
 
-## 9. Sustainable development[^key-af130ce126730c59a7ce5120d68a039d]
+## 9. Sustainable development[^c-af130ce126730c59a7ce5120d68a039d]
 
 Great British Energy must keep under review the impact of its activities on the achievement of sustainable development in the United Kingdom.
 
-## 10. Extent, commencement and short title[^key-395c68b3bcbe4dbbb6d2f1be42c1f7f8]
+## 10. Extent, commencement and short title[^c-395c68b3bcbe4dbbb6d2f1be42c1f7f8]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -202,22 +202,22 @@ Great British Energy must keep under review the impact of its activities on the 
 
 ## Annotations
 
-[^key-3171c8b706c519de616466638262970b]: Commencement: S. 1 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-3171c8b706c519de616466638262970b]: Commencement: S. 1 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
 
-[^key-cbfa16dce209bd73375519f390e9317a]: Commencement: S. 2 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-cbfa16dce209bd73375519f390e9317a]: Commencement: S. 2 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
 
-[^key-1f57ec002df5c7119da5cbfa18936fa8]: Commencement: S. 3 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-1f57ec002df5c7119da5cbfa18936fa8]: Commencement: S. 3 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
 
-[^key-9cbeb39559b9c3159a5c905880230e8a]: Commencement: S. 4 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-9cbeb39559b9c3159a5c905880230e8a]: Commencement: S. 4 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
 
-[^key-d743c314c2644fd694a8a693928316f0]: Commencement: S. 5 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-d743c314c2644fd694a8a693928316f0]: Commencement: S. 5 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
 
-[^key-d9b330a116a3cd82a1038e8de129eb08]: Commencement: S. 6 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-d9b330a116a3cd82a1038e8de129eb08]: Commencement: S. 6 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
 
-[^key-c9ea0d80a0c4c81faf64248e4016bd1f]: Commencement: S. 7 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-c9ea0d80a0c4c81faf64248e4016bd1f]: Commencement: S. 7 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
 
-[^key-c86a6e5383b9777815b80f02dd8734be]: Commencement: S. 8 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-c86a6e5383b9777815b80f02dd8734be]: Commencement: S. 8 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
 
-[^key-af130ce126730c59a7ce5120d68a039d]: Commencement: S. 9 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-af130ce126730c59a7ce5120d68a039d]: Commencement: S. 9 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
 
-[^key-395c68b3bcbe4dbbb6d2f1be42c1f7f8]: Commencement: S. 10 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)
+[^c-395c68b3bcbe4dbbb6d2f1be42c1f7f8]: Commencement: S. 10 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2)

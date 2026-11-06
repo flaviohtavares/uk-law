@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Directions specifying development as a significant infrastructure project[^key-a8399a9203e3984366ad8b2c7b4a2cf9][^key-2df432fb26366f82eca3393b7fdc9769]
+## 22. Directions specifying development as a significant infrastructure project[^c-a8399a9203e3984366ad8b2c7b4a2cf9][^c-2df432fb26366f82eca3393b7fdc9769]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8399a9203e3984366ad8b2c7b4a2cf9]: Commencement: S. 22 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-a8399a9203e3984366ad8b2c7b4a2cf9]: Commencement: S. 22 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-2df432fb26366f82eca3393b7fdc9769]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2024/3/section/22) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-2df432fb26366f82eca3393b7fdc9769]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2024/3/section/22) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

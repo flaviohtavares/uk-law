@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Prohibition of use of denatured alcohol etc as beverage or medicine[^M_I_57e1af8d-a775-478a-d21a-5543965a36ba][^key-690bb9198066eac08808e0b7961b96e0]
+## 97. Prohibition of use of denatured alcohol etc as beverage or medicine[^M_I_57e1af8d-a775-478a-d21a-5543965a36ba][^c-690bb9198066eac08808e0b7961b96e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^M_I_57e1af8d-a775-478a-d21a-5543965a36ba]: Commencement: S. 97 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-690bb9198066eac08808e0b7961b96e0]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/30/section/97) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-690bb9198066eac08808e0b7961b96e0]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/30/section/97) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

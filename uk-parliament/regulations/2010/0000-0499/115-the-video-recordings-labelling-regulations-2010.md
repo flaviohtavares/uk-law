@@ -32,7 +32,7 @@ summary: ''
 
 Video Recordings
 
-The Video Recordings (Labelling) Regulations 2010 (revoked)[^key-fb60d27e9d3dcc3953486581517f78c4]
+The Video Recordings (Labelling) Regulations 2010 (revoked)[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 Made
 
@@ -46,60 +46,60 @@ Coming into force
 
 26th January 2010
 
-[^key-fb60d27e9d3dcc3953486581517f78c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb60d27e9d3dcc3953486581517f78c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 1. Citation and Commencement[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 2. Interpretation[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Labelling requirements[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 3. Labelling requirements[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 4.[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 5.[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 6.[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 7.[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 8.[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 9.[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 10.[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-fb60d27e9d3dcc3953486581517f78c4]
+## 11.[^c-fb60d27e9d3dcc3953486581517f78c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb60d27e9d3dcc3953486581517f78c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb60d27e9d3dcc3953486581517f78c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fb60d27e9d3dcc3953486581517f78c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb60d27e9d3dcc3953486581517f78c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb60d27e9d3dcc3953486581517f78c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/115) revoked (30.7.2012) by [The Video Recordings (Labelling) Regulations 2012 (S.I. 2012/1767)](https://www.legislation.gov.uk/uksi/2012/1767), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1767/regulation/1), [24](https://www.legislation.gov.uk/uksi/2012/1767/regulation/24)
+[^c-fb60d27e9d3dcc3953486581517f78c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/115) revoked (30.7.2012) by [The Video Recordings (Labelling) Regulations 2012 (S.I. 2012/1767)](https://www.legislation.gov.uk/uksi/2012/1767), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1767/regulation/1), [24](https://www.legislation.gov.uk/uksi/2012/1767/regulation/24)

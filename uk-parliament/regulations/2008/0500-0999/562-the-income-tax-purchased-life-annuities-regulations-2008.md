@@ -67,7 +67,7 @@ In these Regulations—
 - “**non-United Kingdom insurer**” means any person carrying on life annuity business and who—
   - (a) is resident outside the United Kingdom; and
   - (b) does not carry on such business through a permanent establishment in the United Kingdom;
-- “**relevant EEA State**” means an EEA State[^key-c467ce1a82646fe4ec2546ab776c286b]...;
+- “**relevant EEA State**” means an EEA State[^c-c467ce1a82646fe4ec2546ab776c286b]...;
 - “**relevant person**” means—
   - (a) a United Kingdom insurer; or
   - (b) a tax representative appointed in accordance with Part 3; or
@@ -140,9 +140,9 @@ that person must comply with the requirements of paragraphs (1) and (2) within 3
 
 (1) This regulation applies where the annuitant has complied with regulations 5 and 6(1).
 
-(2) The relevant person must calculate the exempt capital element of the annuity in accordance with the mortality table[^key-ea5f771c47c471daf39f6e4e8855e1c2] which, at the time when the annuity payments become due and payable, is prescribed[^key-38b6ce69bd571477fea959da16ca6af4] in paragraph (3).
+(2) The relevant person must calculate the exempt capital element of the annuity in accordance with the mortality table[^c-ea5f771c47c471daf39f6e4e8855e1c2] which, at the time when the annuity payments become due and payable, is prescribed[^c-38b6ce69bd571477fea959da16ca6af4] in paragraph (3).
 
-(3)[^key-5d8c3cdcab79e7d57f85b926dcb55a4a] The mortality table prescribed for the purposes of sections 720(4) and 721(4) of the 2005 Act is the table which specifies mortality rates according to “lives” and which is comprised in Table A11 set out in Appendix A on pages 181 to 183 of the booklet entitled “Continuous Mortality Investigation Reports Number 17”, published by the Institute of Actuaries and the Faculty of Actuaries in 1999.
+(3)[^c-5d8c3cdcab79e7d57f85b926dcb55a4a] The mortality table prescribed for the purposes of sections 720(4) and 721(4) of the 2005 Act is the table which specifies mortality rates according to “lives” and which is comprised in Table A11 set out in Appendix A on pages 181 to 183 of the booklet entitled “Continuous Mortality Investigation Reports Number 17”, published by the Institute of Actuaries and the Faculty of Actuaries in 1999.
 
 (4) For the purposes of this regulation the relevant person must assume that the information provided by the annuitant on the form referred to in regulation 6 is correct unless there are reasonable grounds to believe otherwise.
 
@@ -399,7 +399,7 @@ as the case may be.
 - (a) to nominate a person as tax representative in accordance with regulations 10 and 11;
 - (b) following the refusal of the Commissioners to approve a person so nominated, to nominate another person as tax representative in accordance with regulation 12(6)(b) or (7);
 - (c) following the withdrawal by the Commissioners of their approval of a person nominated, to nominate another person as tax representative in accordance with regulation 14(6);
-- (d)[^key-e297841ce52a2563ab9cf255cb58e265] following—
+- (d)[^c-e297841ce52a2563ab9cf255cb58e265] following—
   - (i) the termination of the appointment of the insurer’s tax representative under regulation 14(4); or
   - (ii) the occurrence of one of the events described in regulation 15(1),
 
@@ -449,9 +449,9 @@ may appeal against the decision contained in that notice by giving notice in wri
 
 (2) A person who has been appointed to be the tax representative of a non-United Kingdom insurer under regulation 12(1) may appeal against the decision contained in that notice by giving notice to the Commissioners within the period of 30 days after the date of the notice of the decision sought to be appealed.
 
-(3)[^key-dd39476ec0e4d5977dd56fab8fe9e1f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dd39476ec0e4d5977dd56fab8fe9e1f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The provisions in Part 5 of the Taxes Management Act 1970 [^c19148881] (appeals and other proceedings) [^key-53b1121b7e0f37ed5084f83ec7be2a03]... apply to an appeal under this regulation and on an appeal that is notified to the tribunal, the tribunal must[^key-1657893b389671660cf7b6e659e313b0] confirm the decision contained in the notice unless [^key-b6612ef3c00940fa34016cd9763447fb]... satisfied that it ought to be quashed.
+(4) The provisions in Part 5 of the Taxes Management Act 1970 [^c19148881] (appeals and other proceedings) [^c-53b1121b7e0f37ed5084f83ec7be2a03]... apply to an appeal under this regulation and on an appeal that is notified to the tribunal, the tribunal must[^c-1657893b389671660cf7b6e659e313b0] confirm the decision contained in the notice unless [^c-b6612ef3c00940fa34016cd9763447fb]... satisfied that it ought to be quashed.
 
 (5) Where a non-United Kingdom insurer appeals against a decision of the Commissioners referred to in paragraph (1)(a), (b), (d), (e) or (f), and the decision is confirmed on appeal, the period of 3 months within which another person must be nominated as tax representative does not begin to run until such time as there is no possibility of a further appeal against that decision.
 
@@ -555,29 +555,29 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c19148841]: Marginal citation: [S.I. 1956/1230](https://www.legislation.gov.uk/uksi/1956/1230), as amended by [S.I. 1960/2308](https://www.legislation.gov.uk/uksi/1960/2308); [S.I. 1990/626](https://www.legislation.gov.uk/uksi/1990/626); and [S.I. 1991/2808](https://www.legislation.gov.uk/uksi/1991/2808).
 
-[^key-c467ce1a82646fe4ec2546ab776c286b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/562/regulation/2) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [29(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/29/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c467ce1a82646fe4ec2546ab776c286b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/562/regulation/2) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [29(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/29/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea5f771c47c471daf39f6e4e8855e1c2]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2008/562/regulation/7/2) substituted (with effect in accordance with reg. 2(4)(5) of the amending S.I.) by [The Income Tax (Purchased Life Annuities) (Amendment) Regulations 2012 (S.I. 2012/2902)](https://www.legislation.gov.uk/uksi/2012/2902), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/2/2/a)
+[^c-ea5f771c47c471daf39f6e4e8855e1c2]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2008/562/regulation/7/2) substituted (with effect in accordance with reg. 2(4)(5) of the amending S.I.) by [The Income Tax (Purchased Life Annuities) (Amendment) Regulations 2012 (S.I. 2012/2902)](https://www.legislation.gov.uk/uksi/2012/2902), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/2/2/a)
 
-[^key-38b6ce69bd571477fea959da16ca6af4]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2008/562/regulation/7/2) substituted (with effect in accordance with reg. 2(4)(5) of the amending S.I.) by [The Income Tax (Purchased Life Annuities) (Amendment) Regulations 2012 (S.I. 2012/2902)](https://www.legislation.gov.uk/uksi/2012/2902), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/2/2/b)
+[^c-38b6ce69bd571477fea959da16ca6af4]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2008/562/regulation/7/2) substituted (with effect in accordance with reg. 2(4)(5) of the amending S.I.) by [The Income Tax (Purchased Life Annuities) (Amendment) Regulations 2012 (S.I. 2012/2902)](https://www.legislation.gov.uk/uksi/2012/2902), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/2/2/b)
 
-[^key-5d8c3cdcab79e7d57f85b926dcb55a4a]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2008/562/regulation/7/3) substituted (with effect in accordance with reg. 2(4)(5) of the amending S.I.) by [The Income Tax (Purchased Life Annuities) (Amendment) Regulations 2012 (S.I. 2012/2902)](https://www.legislation.gov.uk/uksi/2012/2902), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/2/3)
+[^c-5d8c3cdcab79e7d57f85b926dcb55a4a]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2008/562/regulation/7/3) substituted (with effect in accordance with reg. 2(4)(5) of the amending S.I.) by [The Income Tax (Purchased Life Annuities) (Amendment) Regulations 2012 (S.I. 2012/2902)](https://www.legislation.gov.uk/uksi/2012/2902), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/2902/regulation/2/3)
 
 [^c19148861]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9)
 
-[^key-e297841ce52a2563ab9cf255cb58e265]: Textual amendment: [Reg. 19(1)(d)](https://www.legislation.gov.uk/uksi/2008/562/regulation/19/1/d) substituted (1.7.2008) by [The Income Tax (Purchased Life Annuities) (Amendment) Regulations 2008 (S.I. 2008/1481)](https://www.legislation.gov.uk/uksi/2008/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1481/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/1481/regulation/2/2)
+[^c-e297841ce52a2563ab9cf255cb58e265]: Textual amendment: [Reg. 19(1)(d)](https://www.legislation.gov.uk/uksi/2008/562/regulation/19/1/d) substituted (1.7.2008) by [The Income Tax (Purchased Life Annuities) (Amendment) Regulations 2008 (S.I. 2008/1481)](https://www.legislation.gov.uk/uksi/2008/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1481/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/1481/regulation/2/2)
 
 [^c19148871]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-dd39476ec0e4d5977dd56fab8fe9e1f6]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/2008/562/regulation/20/3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 183(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183/2)
+[^c-dd39476ec0e4d5977dd56fab8fe9e1f6]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/2008/562/regulation/20/3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 183(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183/2)
 
 [^c19148881]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9)
 
-[^key-53b1121b7e0f37ed5084f83ec7be2a03]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2008/562/regulation/20/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 183(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183/3/a)
+[^c-53b1121b7e0f37ed5084f83ec7be2a03]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2008/562/regulation/20/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 183(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183/3/a)
 
-[^key-1657893b389671660cf7b6e659e313b0]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2008/562/regulation/20/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 183(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183/3/b)
+[^c-1657893b389671660cf7b6e659e313b0]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2008/562/regulation/20/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 183(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183/3/b)
 
-[^key-b6612ef3c00940fa34016cd9763447fb]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2008/562/regulation/20/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 183(3)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183/3/c)
+[^c-b6612ef3c00940fa34016cd9763447fb]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2008/562/regulation/20/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 183(3)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183/3/c)
 
 [^c19148891]: Marginal citation: [S.I. 1956/1230](https://www.legislation.gov.uk/uksi/1956/1230), as amended by [S.I. 1960/2308](https://www.legislation.gov.uk/uksi/1960/2308); [S.I. 1990/626](https://www.legislation.gov.uk/uksi/1990/626); and [S.I. 1991/2808](https://www.legislation.gov.uk/uksi/1991/2808)
 

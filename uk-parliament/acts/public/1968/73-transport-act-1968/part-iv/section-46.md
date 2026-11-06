@@ -24,7 +24,7 @@ summary: ''
 
 (2) It shall be incumbent on each of the authorities to whom this section applies to take such steps as appear to them to be practicable and desirable for promoting—
 
-- (a) research on lines settled from time to time with the approval of the Minister or, in the case of the Waterways Board,[^c15316761] [^key-78428cc45b0170332c641bd531c9ad3f]... the Scottish Ministers into matters affecting, or arising out of, the exercise of the functions of that authority or of any subsidiary of that authority; and
+- (a) research on lines settled from time to time with the approval of the Minister or, in the case of the Waterways Board,[^c15316761] [^c-78428cc45b0170332c641bd531c9ad3f]... the Scottish Ministers into matters affecting, or arising out of, the exercise of the functions of that authority or of any subsidiary of that authority; and
 - (b) the doing of such work as is requisite to enable—
   - (i) the results of any research into any such matter as aforesaid (whether or not promoted by that authority); and
   - (ii) anything resulting from any idea affecting, or arising out of, the exercise of any of those functions,
@@ -43,6 +43,6 @@ but nothing in this subsection shall be construed as imposing upon that authorit
 
 [^c15316761]: Textual amendment: Words in s. 46(2)(a) inserted (1.4.2001) by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2000/3251/article/1/2/b), [2](https://www.legislation.gov.uk/uksi/2000/3251/article/2), [Sch. 2 Pt. II para. 3(5)](https://www.legislation.gov.uk/uksi/2000/3251/schedule/2/part/II/paragraph/3/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2000/3251/article/4))
 
-[^key-78428cc45b0170332c641bd531c9ad3f]: Textual amendment: Words in [s. 46(2)(a)](https://www.legislation.gov.uk/ukpga/1968/73/section/46/2/a) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/34) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-78428cc45b0170332c641bd531c9ad3f]: Textual amendment: Words in [s. 46(2)(a)](https://www.legislation.gov.uk/ukpga/1968/73/section/46/2/a) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/34) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c15316771]: Modification: The text of ss. 38(1), 41(8)(9), 44(4), 46(5), 50(10), 51(3), 52(4), 94(7) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

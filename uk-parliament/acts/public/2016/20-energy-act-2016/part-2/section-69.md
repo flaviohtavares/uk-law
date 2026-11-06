@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Disclosure for purpose of proceedings[^key-34566e706668d9322995b4e0048bd6be]
+## 69. Disclosure for purpose of proceedings[^c-34566e706668d9322995b4e0048bd6be]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34566e706668d9322995b4e0048bd6be]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2016/20/section/69) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-34566e706668d9322995b4e0048bd6be]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2016/20/section/69) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Appeals: supplementary[^key-787f8bf2fc9d34c9066db5e0487cf797][^key-1aeff8e961a5467586b7ab485d0f0896]
+## 106. Appeals: supplementary[^c-787f8bf2fc9d34c9066db5e0487cf797][^c-1aeff8e961a5467586b7ab485d0f0896]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-787f8bf2fc9d34c9066db5e0487cf797]: Commencement: S. 106 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-787f8bf2fc9d34c9066db5e0487cf797]: Commencement: S. 106 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-1aeff8e961a5467586b7ab485d0f0896]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2022/30/section/106) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/x)
+[^c-1aeff8e961a5467586b7ab485d0f0896]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2022/30/section/106) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/x)

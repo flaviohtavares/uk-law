@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 327A. Follow-on funding[^key-7b87f48bae260c29986f20d90b94689d]
+## 327A. Follow-on funding[^c-7b87f48bae260c29986f20d90b94689d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b87f48bae260c29986f20d90b94689d]: Textual amendment: [S. 327A](https://www.legislation.gov.uk/ukpga/2007/3/section/327A) inserted (with effect in accordance with s. 12(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 12(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/12/3)
+[^c-7b87f48bae260c29986f20d90b94689d]: Textual amendment: [S. 327A](https://www.legislation.gov.uk/ukpga/2007/3/section/327A) inserted (with effect in accordance with s. 12(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 12(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/12/3)

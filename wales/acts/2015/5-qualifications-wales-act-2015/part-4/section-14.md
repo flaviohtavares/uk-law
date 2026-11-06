@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Restricted priority qualifications[^key-530bcb417b65008f54051cba668d7530]
+## 14. Restricted priority qualifications[^c-530bcb417b65008f54051cba668d7530]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-530bcb417b65008f54051cba668d7530]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2015/5/section/14) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-530bcb417b65008f54051cba668d7530]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2015/5/section/14) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

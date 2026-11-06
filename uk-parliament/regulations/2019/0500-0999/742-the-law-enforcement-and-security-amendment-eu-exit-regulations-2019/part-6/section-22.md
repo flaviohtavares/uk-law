@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Saving provisions – information received before commencement day[^key-70e4ba5e97dabae7f6c68b483f983c61]
+## 22. Saving provisions – information received before commencement day[^c-70e4ba5e97dabae7f6c68b483f983c61]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70e4ba5e97dabae7f6c68b483f983c61]: Textual amendment: Reg. 22 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1408/regulation/11)
+[^c-70e4ba5e97dabae7f6c68b483f983c61]: Textual amendment: Reg. 22 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1408/regulation/11)

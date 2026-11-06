@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Formal defects[^key-1ce0f49509d6e76db8659eea209ed4d4]
+## 152. Formal defects[^c-1ce0f49509d6e76db8659eea209ed4d4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ No special administration proceedings shall be invalidated by any formal defect 
 
 ## Annotations
 
-[^key-1ce0f49509d6e76db8659eea209ed4d4]: Commencement: Rule 152 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-1ce0f49509d6e76db8659eea209ed4d4]: Commencement: Rule 152 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

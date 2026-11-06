@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Disclosure of information[^key-a81e68a2e54176561cd8f72dd245f148][^key-106db121379fb8563105e82e859cb977]
+## 38. Disclosure of information[^c-a81e68a2e54176561cd8f72dd245f148][^c-106db121379fb8563105e82e859cb977]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 5 contains provision about disclosure of information obtained under thi
 
 ## Annotations
 
-[^key-a81e68a2e54176561cd8f72dd245f148]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/20/section/38) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(s)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/s)
+[^c-a81e68a2e54176561cd8f72dd245f148]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/20/section/38) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(s)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/s)
 
-[^key-106db121379fb8563105e82e859cb977]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/20/section/38) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/d)
+[^c-106db121379fb8563105e82e859cb977]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/20/section/38) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/d)

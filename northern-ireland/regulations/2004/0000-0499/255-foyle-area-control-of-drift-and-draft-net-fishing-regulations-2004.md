@@ -41,31 +41,31 @@ Coming into operation
 
 The Foyle, Carlingford and Irish Lights Commission, in exercise of its powers under section 13(1) (amended by section 34(3) of the British-Irish Agreement Act 1999[^f00001] and section 5(1) of the British-Irish Agreement (Amendment) Act 2002) and 14 of the Foyle Fisheries Act 1952 which stand transferred to it under section 34(1) of the British-Irish Agreement Act 1999, and in exercise of the powers conferred by section 13(1) and 14 of the Foyle Fisheries Act (Northern Ireland) 1952[^f00002] and now vested in it[^f00003] and of every other power enabling it in that behalf, with the approval of the Government of Ireland and the Government of the United Kingdom of Great Britain and Northern Ireland, under the agreement made between those Governments on 19th November 2002[^f00004] and section 5(1) of the British-Irish Agreement (Amendment) Act 2002, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-8facfc75e10cfe54a3000e0e5268788b]
+## 1. Citation and commencement[^c-8facfc75e10cfe54a3000e0e5268788b]
 
 These Regulations may be cited as the Foyle Area (Control of Drift and Draft Net Fishing) Regulations 2004 and shall come into operation on 1st July 2004.
 
-## 2. Interpretation[^key-b77684cd36ac01b62c073e86c18aad88]
+## 2. Interpretation[^c-b77684cd36ac01b62c073e86c18aad88]
 
 In these Regulations –
 
 - “applicant” means an individual who makes a licence application;
 - “crew member” means an individual whose name and address are included in an application for a licence in pursuance of regulation 4(1)(a) of the 2001 Regulations or are supplied to the Commission pursuant to regulation 4(7) of those Regulations;
-- “datum years” means the first three calendar years immediately preceding the calendar year in respect of which the licence application is made during which there was no suspension of netting under regulation 3 of the Foyle Area (Control of Fishing) Regulations 2010;[^key-59c98986c2d47751153eb9d820550e93]
+- “datum years” means the first three calendar years immediately preceding the calendar year in respect of which the licence application is made during which there was no suspension of netting under regulation 3 of the Foyle Area (Control of Fishing) Regulations 2010;[^c-59c98986c2d47751153eb9d820550e93]
 - “draft net fishing” means fishing lawfully using a draft net in the Foyle Area under the authority of a licence issued under the 2001 Regulations;
 - “drift net fishing” means fishing lawfully using a drift net in the Foyle Area under the authority of a licence issued under the 2001 Regulations;
-- “first datum year” means the first calendar year immediately preceding the calendar year in respect of which the licence application is made during which there was no suspension of netting under regulation 3 of the Foyle Area (Control of Fishing) Regulations 2010;[^key-61fb3f8fcc8b72c53982d9d5efc4e431]
+- “first datum year” means the first calendar year immediately preceding the calendar year in respect of which the licence application is made during which there was no suspension of netting under regulation 3 of the Foyle Area (Control of Fishing) Regulations 2010;[^c-61fb3f8fcc8b72c53982d9d5efc4e431]
 - “Fisheries Acts” means the Foyle Fisheries Acts 1952 to 1983[^f00005], the Foyle Fisheries Act (Northern Ireland) 1952, the Fisheries Acts 1959-1991 and the Fisheries Act (Northern Ireland) 1966[^f00006];
 - “licence” means a licence for drift or draft net fishing;
 - “licence application” means an application to the Commission for a licence;
 - “season” means the period or cumulation of periods in any calendar year when it is lawful to be engaged in draft net fishing or drift net fishing in the waters described individually in column 1 of the Schedule;
-- “the second datum year” means the first calendar year immediately preceding the first datum year during which there was no suspension of netting under regulation 3 of the Foyle Area (Control of Fishing) Regulations 2010;[^key-f3e4fa676b0264bccdd539b5d7f79803]
+- “the second datum year” means the first calendar year immediately preceding the first datum year during which there was no suspension of netting under regulation 3 of the Foyle Area (Control of Fishing) Regulations 2010;[^c-f3e4fa676b0264bccdd539b5d7f79803]
 - “senior helper” means an individual nominated by a licensee in pursuance of regulation 4(1)(c) of the 2001 Regulations;
-- “single parent” means the parent in a household which does not include that parent’s spouse or civil partner[^key-4e9302fec1b374268f4d20865adc9283];
+- “single parent” means the parent in a household which does not include that parent’s spouse or civil partner[^c-4e9302fec1b374268f4d20865adc9283];
 - “the 2001 Regulations” means the Foyle and Carlingford Area (Licensing of Fishing Engines) Regulations 2001[^f00007]; and
-- “third datum year” means the first calendar year immediately preceding the second calendar year during which there was no suspension of netting under regulation 3 of the Foyle Area (Control of Fishing) Regulations 2010[^key-a64158eaac537799a4242b5d1fc4fc53]
+- “third datum year” means the first calendar year immediately preceding the second calendar year during which there was no suspension of netting under regulation 3 of the Foyle Area (Control of Fishing) Regulations 2010[^c-a64158eaac537799a4242b5d1fc4fc53]
 
-## 3. Restriction on the number of drift net licences and draft net licences[^key-bad62fe41e1c2b1ab5e21c662dac233d][^key-bd81cd9a7fe26db47bf20b0dd89aad0c]
+## 3. Restriction on the number of drift net licences and draft net licences[^c-bad62fe41e1c2b1ab5e21c662dac233d][^c-bd81cd9a7fe26db47bf20b0dd89aad0c]
 
 (1) Subject to paragraphs (2) and (3), the number of licences which the Commission may issue in any year under the 2001 Regulations in respect of any waters as described in column 1 of the Schedule shall not exceed—
 
@@ -81,7 +81,7 @@ In these Regulations –
 
 (3) Where a licensee who is a single parent dies and at the date of death, has a child under the age of 18 years who could apply for and use a licence when he attains the age of 18 years and (but for the fact that the deceased licensee was a single parent) could become eligible to qualify under regulation 4(6) for the allocation of a licence the Commission shall, during the period before the child attains the age of 18 years, correspondingly reduce the number of licences in the appropriate waters specified in column 2 of the Schedule provided the deceased licensee had held a licence in each of the 3 years prior to his death and did not permit any fishing to take place in his absence during any or any part of a season or seasons in these years under the authority of his licence except when he obtained the authorisation of the Commission to have his senior helper act in his absence as provided in regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981[^f00008].
 
-## 4. Manner of allocation of drift net licence and draft net licence[^key-03481f7a293a26f3526eab0d3f0e6941]
+## 4. Manner of allocation of drift net licence and draft net licence[^c-03481f7a293a26f3526eab0d3f0e6941]
 
 (1) Where the number of licence applications in any year in respect of any of the waters described in column 1 of the Schedule exceeds the number specified in column 2 of the Schedule opposite the related description of the waters in column 1 the licences shall be allocated to applicants who are qualified, in accordance with the subsequent provisions of this regulation and regulations 5 and 6.
 
@@ -93,7 +93,7 @@ In these Regulations –
 (3) If, having allocated licences to applicants who are qualified in accordance with paragraph (2), any licences still remain to be allocated the Commission shall proceed to the allocation of such remaining licences to each applicant who meets the requirement of paragraph (2)(a) but does not meet the requirements of paragraph (2)(b) and whose failure to meet the requirements of paragraph (2)(b) was due to –
 
 - (a) the inability of the applicant to be present during the fishing operations in any or any part of a season or seasons in the datum years due to temporary illness or injury or other reasons (except chronic illness or infirmity or old age) outside the control of the applicant and he obtained the authorisation of the Commission to have his senior helper act in his absence as provided for in regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981; or
-- (b) the applicant being the spouse or civil partner[^key-db95194d2711b65616b906012f394d25] of a deceased licensee and who –
+- (b) the applicant being the spouse or civil partner[^c-db95194d2711b65616b906012f394d25] of a deceased licensee and who –
   - (i) has held a licence each year since the date of the licensee’s death;
   - (ii) has a child of the deceased licensee under the age of 18 years who could apply for and use a licence when he attains the age of 18 years; and
   - (iii) before permitting any fishing to take place in her absence under the authority of her licence obtained the authorisation of the Commission to have her senior helper act in her absence, as provided for in regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981.
@@ -104,7 +104,7 @@ In these Regulations –
 - (b) the deceased or retired licensee did not permit any fishing to take place in his absence under the authority of his licence during any of the datum years except when he obtained the authorisation of the Commission to have his senior helper act in his absence for a season or any part of a season, as provided for in regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981, due to temporary illness or injury or other reasons (except chronic illness or infirmity or old age) outside the control of the deceased or retired licensee; and
 - (c) the deceased or retired licensee held a licence in each of the datum years.
 
-(5) If, having allocated licences to applicants in accordance with paragraph (4), any licences still remain to be allocated the Commission shall proceed to the allocation of such remaining licences to each applicant who is the spouse or civil partner[^key-59e4e2cbf2671323b474a3959a4c6847] of a licensee who died since the beginning of the first datum year who –
+(5) If, having allocated licences to applicants in accordance with paragraph (4), any licences still remain to be allocated the Commission shall proceed to the allocation of such remaining licences to each applicant who is the spouse or civil partner[^c-59e4e2cbf2671323b474a3959a4c6847] of a licensee who died since the beginning of the first datum year who –
 
 - (a) did not permit any fishing to take place in his absence under the authority of his licence during any of the datum years except when he obtained the authorisation of the Commission to have his senior helper act in his absence for a season or any part of a season as provided for in regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981, due to temporary illness or injury or other reasons (except chronic illness or infirmity or old age) outside the control of the deceased licensee; and
 - (b) held a licence in each of the datum years;
@@ -114,7 +114,7 @@ and the applicant –
 - (c) undertakes to the Commission that she will use the licence and not apply for the authorisation of the Commission to have her senior helper act in her absence for the season or any part of the season as provided for in regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981 except when she is unable to be present during all or any of the fishing operations during the season due to temporary illness or injury or other reasons (except chronic illness or infirmity or old age) outside her control; or
 - (d) has a child of the deceased licensee under the age of 18 years who could apply for and use a licence when he attains the age of 18 years.
 
-(6) If, having allocated licences to applicants who are qualified in accordance with paragraph (5), any licences still remain to be allocated the Commission shall proceed to the allocation of such remaining licences to each applicant who is a child, having attained the age of 18 years, of a deceased licensee where the deceased licensee’s spouse or civil partner[^key-ac9a848590bf75bc1a33773826201b44]–
+(6) If, having allocated licences to applicants who are qualified in accordance with paragraph (5), any licences still remain to be allocated the Commission shall proceed to the allocation of such remaining licences to each applicant who is a child, having attained the age of 18 years, of a deceased licensee where the deceased licensee’s spouse or civil partner[^c-ac9a848590bf75bc1a33773826201b44]–
 
 - (a) has held a licence each year since the date of the licensee’s death;
 - (b) during the datum years has not contravened regulation 14A of the Foyle Area (Control of Netting) Regulations 1981; and
@@ -136,7 +136,7 @@ and where either the deceased licensee or his spouse or civil partner held a lic
 (9) If, having allocated licences to applicants who are qualified in accordance with paragraph (8) any licences still remain to be allocated the Commission shall proceed to the allocation of such remaining licences to each applicant who meets the requirement of paragraph (8)(a)(i) but does not meet the requirements of paragraph (8)(a)(ii) and whose failure to meet the requirements of paragraph (8)(a)(ii) was due to –
 
 - (a) the inability of the applicant to be present during all the fishing operations in any or any part of the season or seasons in either or both of the datum years due to temporary illness or injury or other reasons (except chronic illness or infirmity or old age) outside the control of the applicant and he obtained the authorisation of the Commission to have his senior helper act in his absence, as provided for in regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981; or
-- (b) the applicant being the spouse or civil partner[^key-b460f35e35ef8fcc8e15fdf9d9e4db8a] of a deceased licensee and who –
+- (b) the applicant being the spouse or civil partner[^c-b460f35e35ef8fcc8e15fdf9d9e4db8a] of a deceased licensee and who –
   - (i) has held a licence each year since the date of the licensee’s death;
   - (ii) has a child of the deceased licensee under the age of 18 years who could apply for and use a licence when he attains the age of 18 years; and
   - (iii) before permitting any fishing to take place in her absence under the authority of her licence obtained the authority of the Commission to have her nominated helper act in her absence, as provided for in regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981.
@@ -156,32 +156,32 @@ and where either the deceased licensee or his spouse or civil partner held a lic
 (11) If, having allocated licences to applicants who are qualified in accordance with paragraph (10), any licences still remain to be allocated the Commission shall proceed to the allocation of such remaining licences to each applicant who meets the requirement of paragraph (10)(a)(i) but does not meet the requirements of paragraph (10)(a)(ii) and whose failure to meet the requirements of paragraph (10)(a)(ii) was due to –
 
 - (a) the inability of the applicant to be present during all the fishing operations in the season or any part of the season in the datum year due to temporary illness or injury or other reasons (except chronic illness or infirmity or old age) outside the control of the applicant and he obtained the authorisation of the Commission to have his senior helper act in his absence, as provided for in regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981; or
-- (b) the applicant being the spouse or civil partner[^key-12df5a1e7cd782a5bda2f58a8e7e460f] of a deceased licensee and who –
+- (b) the applicant being the spouse or civil partner[^c-12df5a1e7cd782a5bda2f58a8e7e460f] of a deceased licensee and who –
   - (i) has held a licence each year since the date of the licensee’s death;
   - (ii) has a child of the deceased licensee under the age of 18 years who could apply for and use a licence when he attains the age of 18 years; and
   - (iii) before permitting any fishing to take place in her absence under the authority of her licence obtained the authorisation of the Commission to have her senior helper act in her absence, as provided by regulation 14A(2) of the Foyle Area (Control of Netting) Regulations 1981.
 
-(12)[^key-874eb32aeeef4ef19126dac0f06496b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-874eb32aeeef4ef19126dac0f06496b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-874eb32aeeef4ef19126dac0f06496b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-874eb32aeeef4ef19126dac0f06496b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-1f3c56d43a6d917e71e15a60ffaa7505]
+## 5.[^c-1f3c56d43a6d917e71e15a60ffaa7505]
 
-(1) Where a former licensee has given a written commitment under regulation 4(4), (6) [^key-28a6bf3fc90d65ef369430d42c4162ee]..., he shall be precluded from being considered under the provisions of paragraphs (2) to (11)[^key-238d42cf46bba5d52f2c266e7aa5b8e2] of regulation 4 if he applies for a licence.
+(1) Where a former licensee has given a written commitment under regulation 4(4), (6) [^c-28a6bf3fc90d65ef369430d42c4162ee]..., he shall be precluded from being considered under the provisions of paragraphs (2) to (11)[^c-238d42cf46bba5d52f2c266e7aa5b8e2] of regulation 4 if he applies for a licence.
 
-(2) If the applicant held a licence for the first time in any of the datum years when he was allocated a licence under the provisions of regulation 4(4), (5) or (6) the Commission shall regard the licence held by his parent , spouse or civil partner[^key-4fd85c4a851331d147f7ff1aabe4db7c] for one or both of the previous datum years as having been held by the applicant for the purposes of allocating licences under the provisions of regulation 4(2), (3), (8), (9), (10) and (11).
+(2) If the applicant held a licence for the first time in any of the datum years when he was allocated a licence under the provisions of regulation 4(4), (5) or (6) the Commission shall regard the licence held by his parent , spouse or civil partner[^c-4fd85c4a851331d147f7ff1aabe4db7c] for one or both of the previous datum years as having been held by the applicant for the purposes of allocating licences under the provisions of regulation 4(2), (3), (8), (9), (10) and (11).
 
 (3) If the applicant held a licence for the first time in any of the datum years when he was allocated a licence under the provisions of regulation 4(7) the applicant shall be deemed to have held a licence in all previous datum years when the Commission are allocating licences under the provisions of regulation 4(2), (3), (8), (9), (10) and (11).
 
-## 6.[^key-9c34c570f1d8e8c5dcc0526ad38f3313]
+## 6.[^c-9c34c570f1d8e8c5dcc0526ad38f3313]
 
 When in the determination of allocations under any of the provisions of regulations 4 and 5 the Commission considers the number of applicants qualified under any of the said provisions have equal or nearly equal entitlement to be granted a licence and the number of licences remaining to be allocated is less than the said number of such applicants the Commission shall allocate the remaining licences by the drawing of lots in the presence of the applicants or their representatives provided that the failure of the applicant or his representative to be present at the venue on the date and time for such drawing of lots as notified to the applicant in writing by the Commission shall not invalidate the drawing of lots and allocation of licences.
 
-## 6A.[^key-ef2a9c2f8714695be07ca6c57f0c3ef2]
+## 6A.[^c-ef2a9c2f8714695be07ca6c57f0c3ef2]
 
-Where in consideration of monies paid or payable by the Commission a person undertakes to make no further applications for a licence, that person and any spouse , civil partner[^key-e13c2416243e32e2be368eca51614c70] or child of that person shall be precluded from being considered under the provisions of paragraphs (2) to (11) of regulation 4 if he applies for a licence.
+Where in consideration of monies paid or payable by the Commission a person undertakes to make no further applications for a licence, that person and any spouse , civil partner[^c-e13c2416243e32e2be368eca51614c70] or child of that person shall be precluded from being considered under the provisions of paragraphs (2) to (11) of regulation 4 if he applies for a licence.
 
-## 7. Revocation[^key-1c7997ed3fd5d6d5bf5ac214be30e778]
+## 7. Revocation[^c-1c7997ed3fd5d6d5bf5ac214be30e778]
 
 The Foyle Area (Control of Drift Net Fishing) Regulations 1993[^f00009] are hereby revoked.
 
@@ -199,7 +199,7 @@ P. Smyth
 
 being persons authorised by those Governments to signify approval on their behalf.
 
-## SCHEDULE[^key-ed5de5ef230538604f86b6ca11febdb3]
+## SCHEDULE[^c-ed5de5ef230538604f86b6ca11febdb3]
 
 Regulations 2 to 4
 
@@ -230,62 +230,62 @@ The Regulations make the following changes of substance –
 
 [^f00004]: Footnote: Cm 5708
 
-[^key-8facfc75e10cfe54a3000e0e5268788b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
+[^c-8facfc75e10cfe54a3000e0e5268788b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
 
-[^key-b77684cd36ac01b62c073e86c18aad88]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
+[^c-b77684cd36ac01b62c073e86c18aad88]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
 
-[^key-59c98986c2d47751153eb9d820550e93]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) substituted (11.6.2010) by [The Foyle Area (Control of Fishing) Regulations 2010 (S.R. 2010/199)](https://www.legislation.gov.uk/nisr/2010/199), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/nisr/2010/199/regulation/14/2/a)
+[^c-59c98986c2d47751153eb9d820550e93]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) substituted (11.6.2010) by [The Foyle Area (Control of Fishing) Regulations 2010 (S.R. 2010/199)](https://www.legislation.gov.uk/nisr/2010/199), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/nisr/2010/199/regulation/14/2/a)
 
-[^key-61fb3f8fcc8b72c53982d9d5efc4e431]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) substituted (11.6.2010) by [The Foyle Area (Control of Fishing) Regulations 2010 (S.R. 2010/199)](https://www.legislation.gov.uk/nisr/2010/199), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/nisr/2010/199/regulation/14/2/b)
+[^c-61fb3f8fcc8b72c53982d9d5efc4e431]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) substituted (11.6.2010) by [The Foyle Area (Control of Fishing) Regulations 2010 (S.R. 2010/199)](https://www.legislation.gov.uk/nisr/2010/199), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/nisr/2010/199/regulation/14/2/b)
 
 [^f00005]: Footnote: Legislation of the Republic of Ireland
 
 [^f00006]: Footnote: [1966 c. 17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17)
 
-[^key-f3e4fa676b0264bccdd539b5d7f79803]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) substituted (11.6.2010) by [The Foyle Area (Control of Fishing) Regulations 2010 (S.R. 2010/199)](https://www.legislation.gov.uk/nisr/2010/199), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1), [14(2)(c)](https://www.legislation.gov.uk/nisr/2010/199/regulation/14/2/c)
+[^c-f3e4fa676b0264bccdd539b5d7f79803]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) substituted (11.6.2010) by [The Foyle Area (Control of Fishing) Regulations 2010 (S.R. 2010/199)](https://www.legislation.gov.uk/nisr/2010/199), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1), [14(2)(c)](https://www.legislation.gov.uk/nisr/2010/199/regulation/14/2/c)
 
-[^key-4e9302fec1b374268f4d20865adc9283]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-4e9302fec1b374268f4d20865adc9283]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00007]: Footnote: [S.R. 2001 No. 397](https://www.legislation.gov.uk/nisr/2001/397) as amended by [S.R. 2003 No. 114](https://www.legislation.gov.uk/nisr/2003/114) and [S.R. 2003 No. 524](https://www.legislation.gov.uk/nisr/2003/524)
 
-[^key-a64158eaac537799a4242b5d1fc4fc53]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) substituted (11.6.2010) by [The Foyle Area (Control of Fishing) Regulations 2010 (S.R. 2010/199)](https://www.legislation.gov.uk/nisr/2010/199), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1), [14(2)(d)](https://www.legislation.gov.uk/nisr/2010/199/regulation/14/2/d)
+[^c-a64158eaac537799a4242b5d1fc4fc53]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2004/255/regulation/2) substituted (11.6.2010) by [The Foyle Area (Control of Fishing) Regulations 2010 (S.R. 2010/199)](https://www.legislation.gov.uk/nisr/2010/199), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/199/regulation/1/1), [14(2)(d)](https://www.legislation.gov.uk/nisr/2010/199/regulation/14/2/d)
 
-[^key-bad62fe41e1c2b1ab5e21c662dac233d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/255/regulation/3) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
+[^c-bad62fe41e1c2b1ab5e21c662dac233d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/255/regulation/3) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
 
-[^key-bd81cd9a7fe26db47bf20b0dd89aad0c]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2004/255/regulation/3/1)[(1A)](https://www.legislation.gov.uk/nisr/2004/255/regulation/3/1A) substituted for [reg. 3(1)](https://www.legislation.gov.uk/nisr/2004/255/regulation/3/1) (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/275/regulation/2)
+[^c-bd81cd9a7fe26db47bf20b0dd89aad0c]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2004/255/regulation/3/1)[(1A)](https://www.legislation.gov.uk/nisr/2004/255/regulation/3/1A) substituted for [reg. 3(1)](https://www.legislation.gov.uk/nisr/2004/255/regulation/3/1) (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/275/regulation/2)
 
 [^f00008]: Footnote: [S.R. 1981 No. 169](https://www.legislation.gov.uk/nisr/1981/169); relevant amending statutory rule is [S.R. 1985 No. 342](https://www.legislation.gov.uk/nisr/1985/342)
 
-[^key-03481f7a293a26f3526eab0d3f0e6941]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/255/regulation/4) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
+[^c-03481f7a293a26f3526eab0d3f0e6941]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/255/regulation/4) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
 
-[^key-db95194d2711b65616b906012f394d25]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/3/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-db95194d2711b65616b906012f394d25]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/3/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-59e4e2cbf2671323b474a3959a4c6847]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-59e4e2cbf2671323b474a3959a4c6847]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-ac9a848590bf75bc1a33773826201b44]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/6) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(d)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/d) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-ac9a848590bf75bc1a33773826201b44]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/6) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(d)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/d) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-b460f35e35ef8fcc8e15fdf9d9e4db8a]: Textual amendment: Words in [reg. 4(9)(b)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/9/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(e)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/e) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-b460f35e35ef8fcc8e15fdf9d9e4db8a]: Textual amendment: Words in [reg. 4(9)(b)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/9/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(e)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/e) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-12df5a1e7cd782a5bda2f58a8e7e460f]: Textual amendment: Words in [reg. 4(11)(b)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/11/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(f)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/f) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-12df5a1e7cd782a5bda2f58a8e7e460f]: Textual amendment: Words in [reg. 4(11)(b)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/11/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(2)(f)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/2/f) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-874eb32aeeef4ef19126dac0f06496b7]: Textual amendment: [Reg. 4(12)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/12)[(13)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/13) revoked (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/275/regulation/3)
+[^c-874eb32aeeef4ef19126dac0f06496b7]: Textual amendment: [Reg. 4(12)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/12)[(13)](https://www.legislation.gov.uk/nisr/2004/255/regulation/4/13) revoked (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/275/regulation/3)
 
-[^key-1f3c56d43a6d917e71e15a60ffaa7505]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/255/regulation/5) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
+[^c-1f3c56d43a6d917e71e15a60ffaa7505]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/255/regulation/5) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
 
-[^key-28a6bf3fc90d65ef369430d42c4162ee]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2004/255/regulation/5/1) deleted (9.5.2007) by virtue of [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2007/275/regulation/4/1)
+[^c-28a6bf3fc90d65ef369430d42c4162ee]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2004/255/regulation/5/1) deleted (9.5.2007) by virtue of [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2007/275/regulation/4/1)
 
-[^key-238d42cf46bba5d52f2c266e7aa5b8e2]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2004/255/regulation/5/1) substituted (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2007/275/regulation/4/2)
+[^c-238d42cf46bba5d52f2c266e7aa5b8e2]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2004/255/regulation/5/1) substituted (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2007/275/regulation/4/2)
 
-[^key-4fd85c4a851331d147f7ff1aabe4db7c]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2004/255/regulation/5/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-4fd85c4a851331d147f7ff1aabe4db7c]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/2004/255/regulation/5/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-9c34c570f1d8e8c5dcc0526ad38f3313]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/255/regulation/6) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
+[^c-9c34c570f1d8e8c5dcc0526ad38f3313]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/255/regulation/6) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
 
-[^key-ef2a9c2f8714695be07ca6c57f0c3ef2]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/nisr/2004/255/regulation/6A) inserted (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [5](https://www.legislation.gov.uk/nisr/2007/275/regulation/5)
+[^c-ef2a9c2f8714695be07ca6c57f0c3ef2]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/nisr/2004/255/regulation/6A) inserted (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [5](https://www.legislation.gov.uk/nisr/2007/275/regulation/5)
 
-[^key-e13c2416243e32e2be368eca51614c70]: Textual amendment: Words in [reg. 6A](https://www.legislation.gov.uk/nisr/2004/255/regulation/6A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-e13c2416243e32e2be368eca51614c70]: Textual amendment: Words in [reg. 6A](https://www.legislation.gov.uk/nisr/2004/255/regulation/6A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [158(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/158/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-1c7997ed3fd5d6d5bf5ac214be30e778]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/255/regulation/7) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
+[^c-1c7997ed3fd5d6d5bf5ac214be30e778]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/255/regulation/7) in operation at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/255/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1993 No. 482](https://www.legislation.gov.uk/nisr/1993/482)
 
-[^key-ed5de5ef230538604f86b6ca11febdb3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/255/schedule) substituted (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [6](https://www.legislation.gov.uk/nisr/2007/275/regulation/6), [Sch.](https://www.legislation.gov.uk/nisr/2007/275/schedule)
+[^c-ed5de5ef230538604f86b6ca11febdb3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/255/schedule) substituted (9.5.2007) by [Foyle Area (Control of Drift and Draft Net Fishing) (Amendment) Regulations 2007 (S.R. 2007/275)](https://www.legislation.gov.uk/nisr/2007/275), [regs. 1](https://www.legislation.gov.uk/nisr/2007/275/regulation/1), [6](https://www.legislation.gov.uk/nisr/2007/275/regulation/6), [Sch.](https://www.legislation.gov.uk/nisr/2007/275/schedule)

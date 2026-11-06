@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114B (Extent: E+W+S). UKCS continental shelf workers certificate holder: obligations and responsibilities (Extent: E+W+S)[^key-d21af438f6bba22709ab181823a2fde6]
+## 114B (Extent: E+W+S). UKCS continental shelf workers certificate holder: obligations and responsibilities (Extent: E+W+S)[^c-d21af438f6bba22709ab181823a2fde6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ A UKCS continental shelf workers certificate holder must— *(Extent: E+W+S)*
 
 ## Annotations
 
-[^key-d21af438f6bba22709ab181823a2fde6]: Textual amendment: [Regs. 114A-114D](https://www.legislation.gov.uk/uksi/2001/1004/regulation/114A) inserted (E.W.S.) (6.4.2014) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2014 (S.I. 2014/572)](https://www.legislation.gov.uk/uksi/2014/572), [regs. 1](https://www.legislation.gov.uk/uksi/2014/572/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/572/regulation/2/3)
+[^c-d21af438f6bba22709ab181823a2fde6]: Textual amendment: [Regs. 114A-114D](https://www.legislation.gov.uk/uksi/2001/1004/regulation/114A) inserted (E.W.S.) (6.4.2014) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2014 (S.I. 2014/572)](https://www.legislation.gov.uk/uksi/2014/572), [regs. 1](https://www.legislation.gov.uk/uksi/2014/572/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/572/regulation/2/3)

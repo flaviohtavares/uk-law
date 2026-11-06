@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 184. Delegation of functions relating to allowances[^key-2be1ff6693d452b2ad9093e6543a41f1][^key-df6284c5be94222d872db842b5e1e44b]
+## 184. Delegation of functions relating to allowances[^c-2be1ff6693d452b2ad9093e6543a41f1][^c-df6284c5be94222d872db842b5e1e44b]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2be1ff6693d452b2ad9093e6543a41f1]: Commencement: S. 184 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-2be1ff6693d452b2ad9093e6543a41f1]: Commencement: S. 184 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
-[^key-df6284c5be94222d872db842b5e1e44b]: Commencement: S. 184 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-df6284c5be94222d872db842b5e1e44b]: Commencement: S. 184 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)

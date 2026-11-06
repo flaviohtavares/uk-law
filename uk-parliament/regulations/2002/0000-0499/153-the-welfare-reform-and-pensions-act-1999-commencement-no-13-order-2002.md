@@ -51,10 +51,10 @@ The Secretary of State for Work and Pensions, in exercise of powers conferred by
 - (e) section 15 (excessive pension contributions made by persons who have become bankrupt) so far as not already in force;
 - (f) section 16 (excessive pension contributions made by persons who have become bankrupt: Scotland) so far as not already in force;
 - (g) section 18 (miscellaneous amendments), so far as relating to paragraph 6 of Schedule 2;
-- (h)[^key-bf2de8fa6398de92df40c98e0d8cb16a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-bf2de8fa6398de92df40c98e0d8cb16a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) section 88 (repeals), so far as relating to the repeals in Schedule 13 referred to in paragraph (l) below;
 - (j) paragraph 6 of Schedule 2 (effect of certain orders on guaranteed minimum pensions);
-- (k)[^key-99125856503f322103342a272df825b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-99125856503f322103342a272df825b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l) Part I of Schedule 13 (pensions: miscellaneous) in respect of the following—
   - (i) the repeal of section 159(5) of the Pension Schemes Act 1993 (inalienability of guaranteed minimum pension and protected rights payments on bankruptcy),
   - (ii) the repeal of section 91(3) of the Pensions Act 1995 (inalienability of occupational pension on bankruptcy),
@@ -194,9 +194,9 @@ The following provisions have been brought into force by:—
 
 [^f00001]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-bf2de8fa6398de92df40c98e0d8cb16a]: Textual amendment: [Art. 2(h)](https://www.legislation.gov.uk/uksi/2002/153/article/2/h) omitted (25.3.2002) by virtue of [The Welfare Reform and Pensions Act 1999 (Commencement No. 15) Order 2002 (S.I. 2002/818)](https://www.legislation.gov.uk/uksi/2002/818), [art. 2](https://www.legislation.gov.uk/uksi/2002/818/article/2)
+[^c-bf2de8fa6398de92df40c98e0d8cb16a]: Textual amendment: [Art. 2(h)](https://www.legislation.gov.uk/uksi/2002/153/article/2/h) omitted (25.3.2002) by virtue of [The Welfare Reform and Pensions Act 1999 (Commencement No. 15) Order 2002 (S.I. 2002/818)](https://www.legislation.gov.uk/uksi/2002/818), [art. 2](https://www.legislation.gov.uk/uksi/2002/818/article/2)
 
-[^key-99125856503f322103342a272df825b6]: Textual amendment: [Art. 2(k)](https://www.legislation.gov.uk/uksi/2002/153/article/2/k) omitted (25.3.2002) by virtue of [The Welfare Reform and Pensions Act 1999 (Commencement No. 15) Order 2002 (S.I. 2002/818)](https://www.legislation.gov.uk/uksi/2002/818), [art. 2](https://www.legislation.gov.uk/uksi/2002/818/article/2)
+[^c-99125856503f322103342a272df825b6]: Textual amendment: [Art. 2(k)](https://www.legislation.gov.uk/uksi/2002/153/article/2/k) omitted (25.3.2002) by virtue of [The Welfare Reform and Pensions Act 1999 (Commencement No. 15) Order 2002 (S.I. 2002/818)](https://www.legislation.gov.uk/uksi/2002/818), [art. 2](https://www.legislation.gov.uk/uksi/2002/818/article/2)
 
 [^f00006]: Footnote: S.I. [2001/4049 (C. 130)](https://www.legislation.gov.uk/uksi/2001/4049).
 

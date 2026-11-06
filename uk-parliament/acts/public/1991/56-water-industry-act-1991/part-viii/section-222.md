@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Application to the Isles of Scilly.[^key-ad37253885abe79367d8c8f0fe73e3cb]
+## 222. Application to the Isles of Scilly.[^c-ad37253885abe79367d8c8f0fe73e3cb]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad37253885abe79367d8c8f0fe73e3cb]: Textual amendment: S. 222 substituted (1.2.1996 for specified purposes and 1.4.2020 in so far as not already in force) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 118(4)](https://www.legislation.gov.uk/ukpga/1995/25/section/118/4), [125(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/3) (with [ss. 7(6), 115, 117](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 2](https://www.legislation.gov.uk/uksi/1996/186/article/2); [S.I. 2020/216](https://www.legislation.gov.uk/uksi/2020/216), [art. 2](https://www.legislation.gov.uk/uksi/2020/216/article/2)
+[^c-ad37253885abe79367d8c8f0fe73e3cb]: Textual amendment: S. 222 substituted (1.2.1996 for specified purposes and 1.4.2020 in so far as not already in force) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 118(4)](https://www.legislation.gov.uk/ukpga/1995/25/section/118/4), [125(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/3) (with [ss. 7(6), 115, 117](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 2](https://www.legislation.gov.uk/uksi/1996/186/article/2); [S.I. 2020/216](https://www.legislation.gov.uk/uksi/2020/216), [art. 2](https://www.legislation.gov.uk/uksi/2020/216/article/2)

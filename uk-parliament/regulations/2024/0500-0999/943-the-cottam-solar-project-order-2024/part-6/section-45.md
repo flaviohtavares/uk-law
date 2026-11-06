@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Procedure in relation to certain approvals etc.[^key-4ffddf50e0fad587679881528cfd5f00]
+## 45. Procedure in relation to certain approvals etc.[^c-4ffddf50e0fad587679881528cfd5f00]
 
 *Extent: E+W*
 
 (1) Where an application is made to or request is made of a consenting authority for any consent, agreement or approval required or contemplated by any of the provisions of the Order (not including the requirements), such consent, agreement or approval to be validly given, must be given in writing.
 
-(2) Where paragraph (1) applies to any consent, agreement or approval, such consent, agreement or approval must[^key-ede5dfe1bd6774daf080503f2e193795] not be unreasonably withheld or delayed.
+(2) Where paragraph (1) applies to any consent, agreement or approval, such consent, agreement or approval must[^c-ede5dfe1bd6774daf080503f2e193795] not be unreasonably withheld or delayed.
 
 (3) Schedule 16 (procedure for discharge of requirements) has effect in relation to all consents, agreements or approvals required, granted, refused or withheld in relation to the requirements.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ffddf50e0fad587679881528cfd5f00]: Commencement: Art. 45 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-4ffddf50e0fad587679881528cfd5f00]: Commencement: Art. 45 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-ede5dfe1bd6774daf080503f2e193795]: Textual amendment: Word in [art. 45(2)](https://www.legislation.gov.uk/uksi/2024/943/article/45/2) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
+[^c-ede5dfe1bd6774daf080503f2e193795]: Textual amendment: Word in [art. 45(2)](https://www.legislation.gov.uk/uksi/2024/943/article/45/2) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)

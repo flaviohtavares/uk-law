@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Encouraging or assisting suicide: information society services[^key-6ce3fdabe620c41bf213ba5d21860e4a]
+## 61. Encouraging or assisting suicide: information society services[^c-6ce3fdabe620c41bf213ba5d21860e4a]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 12 makes special provision in connection with the operation of section 
 
 ## Annotations
 
-[^key-6ce3fdabe620c41bf213ba5d21860e4a]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2009/25/section/61) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/4)
+[^c-6ce3fdabe620c41bf213ba5d21860e4a]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2009/25/section/61) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/4)

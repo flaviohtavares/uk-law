@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Power to deviate[^key-0b10a7153f0932f23337c4e00a6a6608]
+## 7. Power to deviate[^c-0b10a7153f0932f23337c4e00a6a6608]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b10a7153f0932f23337c4e00a6a6608]: Commencement: Art. 7 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-0b10a7153f0932f23337c4e00a6a6608]: Commencement: Art. 7 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

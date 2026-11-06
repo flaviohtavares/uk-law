@@ -57,7 +57,7 @@ In paragraph 22(2) of Schedule 3 to the [^c788818]Local Government (Scotland) Ac
 
 ## Amendment of Building (Scotland) Act 1959
 
-### 19. Amendment of Building (Scotland) Act 1959.[^key-065b450406cf5b7b8f08fccc6d42738a]
+### 19. Amendment of Building (Scotland) Act 1959.[^c-065b450406cf5b7b8f08fccc6d42738a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -140,7 +140,7 @@ SCHEDULES
 
 ### The Building (Scotland) Act 1959 (c. 24)
 
-**1.**[^key-e73c74067c0a4e13b3ca0a2ab40e4754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e73c74067c0a4e13b3ca0a2ab40e4754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c788827]
 
@@ -243,7 +243,7 @@ SCHEDULES
 
 [^c788820]: Textual amendment: [Ss. 1–12](https://www.legislation.gov.uk/ukpga/1986/65/section/1), [18](https://www.legislation.gov.uk/ukpga/1986/65/section/18), [21](https://www.legislation.gov.uk/ukpga/1986/65/section/21), [Sch. 1](https://www.legislation.gov.uk/ukpga/1986/65/schedule/1) and Sch. 2 para. 2 repealed by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 
-[^key-065b450406cf5b7b8f08fccc6d42738a]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1986/65/section/19) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 16](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/16) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-065b450406cf5b7b8f08fccc6d42738a]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1986/65/section/19) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 16](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/16) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
 [^c788822]: Marginal citation: [1973 c. 56](https://www.legislation.gov.uk/ukpga/1973/56).
 
@@ -255,7 +255,7 @@ SCHEDULES
 
 [^c788826]: Textual amendment: [Ss. 1–12](https://www.legislation.gov.uk/ukpga/1986/65/section/1), [18](https://www.legislation.gov.uk/ukpga/1986/65/section/18), [21](https://www.legislation.gov.uk/ukpga/1986/65/section/21), [Sch. 1](https://www.legislation.gov.uk/ukpga/1986/65/schedule/1) and Sch. 2 para. 2 repealed by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 
-[^key-e73c74067c0a4e13b3ca0a2ab40e4754]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1986/65/schedule/2/paragraph/1) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 16](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/16) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-e73c74067c0a4e13b3ca0a2ab40e4754]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1986/65/schedule/2/paragraph/1) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 16](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/16) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
 [^c788827]: Textual amendment: [Ss. 1–12](https://www.legislation.gov.uk/ukpga/1986/65/section/1), [18](https://www.legislation.gov.uk/ukpga/1986/65/section/18), [21](https://www.legislation.gov.uk/ukpga/1986/65/section/21), [Sch. 1](https://www.legislation.gov.uk/ukpga/1986/65/schedule/1) and Sch. 2 para. 2 repealed by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 

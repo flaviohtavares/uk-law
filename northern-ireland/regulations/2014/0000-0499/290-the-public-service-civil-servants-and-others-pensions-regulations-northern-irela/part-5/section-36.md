@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Calculation of amount of accrued pension for purpose of partial retirement[^key-94a5b78c27020bf4f80c2e1dc162c110]
+## 36. Calculation of amount of accrued pension for purpose of partial retirement[^c-94a5b78c27020bf4f80c2e1dc162c110]
 
 *Extent: N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94a5b78c27020bf4f80c2e1dc162c110]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2014/290/regulation/36) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-94a5b78c27020bf4f80c2e1dc162c110]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2014/290/regulation/36) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00050]: Footnote: The same option proportion must be specified for accrued standard earned pension and accrued added pension. See regulation 66

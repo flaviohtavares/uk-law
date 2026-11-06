@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Absent vote at Senedd elections for a particular or an indefinite period[^key-6ebd420c15d5b7414f4585de5c056acb]
+## 6. Absent vote at Senedd elections for a particular or an indefinite period[^c-6ebd420c15d5b7414f4585de5c056acb]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ebd420c15d5b7414f4585de5c056acb]: Commencement: Art. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-6ebd420c15d5b7414f4585de5c056acb]: Commencement: Art. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

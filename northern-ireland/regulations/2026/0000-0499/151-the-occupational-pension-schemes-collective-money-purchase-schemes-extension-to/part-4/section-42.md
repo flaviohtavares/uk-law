@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Actuarial valuations[^key-32e7f0ee35410007f41634b303275544]
+## 42. Actuarial valuations[^c-32e7f0ee35410007f41634b303275544]
 
 *Extent: N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32e7f0ee35410007f41634b303275544]: Commencement: Reg. 42 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-32e7f0ee35410007f41634b303275544]: Commencement: Reg. 42 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00041]: Footnote: See section 72 of the Pension Schemes Act 2021

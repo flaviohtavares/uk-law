@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Application of key terms[^key-58e29b30d6a518a43b9df6f95913e4a9]
+## 54. Application of key terms[^c-58e29b30d6a518a43b9df6f95913e4a9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Sections 55 to 59 apply for the purposes of this Part.
 
 ## Annotations
 
-[^key-58e29b30d6a518a43b9df6f95913e4a9]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2014/7/section/54) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 5](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/5)
+[^c-58e29b30d6a518a43b9df6f95913e4a9]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2014/7/section/54) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 5](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/5)

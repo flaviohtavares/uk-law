@@ -25,7 +25,7 @@ summary: ''
 (2) This section applies to payments—
 
 - (a) made to members of the Scottish Parliament under section 81(2) of the Scotland Act 1998 (c. 46),
-- (b) made to members of the National Assembly for Wales under section 20(2) of the Government of Wales Act 2006 or to a member of the Welsh Assembly Government under section 53(2) of that Act[^key-020343a436fce231152cb85148ca1d99], or
+- (b) made to members of the National Assembly for Wales under section 20(2) of the Government of Wales Act 2006 or to a member of the Welsh Assembly Government under section 53(2) of that Act[^c-020343a436fce231152cb85148ca1d99], or
 - (c) made to members of the Northern Ireland Assembly under section 47(2) of the Northern Ireland Act 1998 (c. 47).
 
 (3) In this section “**a member’s necessary overnight expenses**” means additional expenses necessarily incurred by a member for the purpose of performing duties as a member in staying overnight away from the member’s only or main residence—
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-020343a436fce231152cb85148ca1d99]: Textual amendment: Words in s. 293(2)(b) substituted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [Sch. 1 para. 103](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/103)
+[^c-020343a436fce231152cb85148ca1d99]: Textual amendment: Words in s. 293(2)(b) substituted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [Sch. 1 para. 103](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/103)

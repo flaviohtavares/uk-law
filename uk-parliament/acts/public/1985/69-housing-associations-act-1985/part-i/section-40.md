@@ -54,7 +54,7 @@ The following Table shows provisions defining or explaining expressions used in 
 | member of family | section 105 |
 | mental disorder | section 39 |
 | mortgage (in relation to Scotland) | section 106 |
-| occupation contract *(Extent: W)*[^key-0a646744651e764a988185942cdf5392] | section 39 *(Extent: W)* |
+| occupation contract *(Extent: W)*[^c-0a646744651e764a988185942cdf5392] | section 39 *(Extent: W)* |
 | the 1965 Act | section 37 |
 | register, registered, registration and unregistered (in relation to a housing association) | section 3[^c11837631] |
 | registered charity | section 38(b) |
@@ -80,7 +80,7 @@ The following Table shows provisions defining or explaining expressions used in 
 
 [^c11837561]: Textual amendment: Entry repealed by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/140/2), [Sch. 18](https://www.legislation.gov.uk/ukpga/1988/50/schedule/18)
 
-[^key-0a646744651e764a988185942cdf5392]: Textual amendment: Words in [s. 40](https://www.legislation.gov.uk/ukpga/1985/69/section/40) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [12(4)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/12/4)
+[^c-0a646744651e764a988185942cdf5392]: Textual amendment: Words in [s. 40](https://www.legislation.gov.uk/ukpga/1985/69/section/40) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [12(4)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/12/4)
 
 [^c11837631]: Textual amendment: Figure substituted by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 59(2)(3)(4)](https://www.legislation.gov.uk/ukpga/1988/50/section/59/2/3/4), [Sch. 6 Pt. I para. 26(c)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/part/I/paragraph/26/c)
 

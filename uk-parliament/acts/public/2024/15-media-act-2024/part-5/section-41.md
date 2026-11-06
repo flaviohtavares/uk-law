@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Licensing of analogue radio services[^key-e02de915bd0e234a85055c0d45702dd7][^key-a473b0ef6eb59e106224918f8475a7cc]
+## 41. Licensing of analogue radio services[^c-e02de915bd0e234a85055c0d45702dd7][^c-a473b0ef6eb59e106224918f8475a7cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e02de915bd0e234a85055c0d45702dd7]: Commencement: S. 41 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
+[^c-e02de915bd0e234a85055c0d45702dd7]: Commencement: S. 41 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
 
-[^key-a473b0ef6eb59e106224918f8475a7cc]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2024/15/section/41) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/a)
+[^c-a473b0ef6eb59e106224918f8475a7cc]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2024/15/section/41) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/a)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) A convicted prisoner shall be required to do useful work for not more than 10 hours a day, and arrangements shall be made to allow prisoners to work, where possible, outside the cells and in association with one another.
 
-(2)[^key-0b19b12248dc193f0381b30aba71f984] A registered medical practitioner or registered nurse working within the prison may excuse a prisoner from work on medical grounds.
+(2)[^c-0b19b12248dc193f0381b30aba71f984] A registered medical practitioner or registered nurse working within the prison may excuse a prisoner from work on medical grounds.
 
 (3) No prisoner shall be set to do work of a kind not authorised by the Secretary of State.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b19b12248dc193f0381b30aba71f984]: Textual amendment: Rule 31(2) substituted (1.1.2010) by [The Prison and Young Offender Institution (Amendment) Rules 2009 (S.I. 2009/3082)](https://www.legislation.gov.uk/uksi/2009/3082), [rule 1](https://www.legislation.gov.uk/uksi/2009/3082/rule/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2009/3082/schedule/1/paragraph/3)
+[^c-0b19b12248dc193f0381b30aba71f984]: Textual amendment: Rule 31(2) substituted (1.1.2010) by [The Prison and Young Offender Institution (Amendment) Rules 2009 (S.I. 2009/3082)](https://www.legislation.gov.uk/uksi/2009/3082), [rule 1](https://www.legislation.gov.uk/uksi/2009/3082/rule/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2009/3082/schedule/1/paragraph/3)

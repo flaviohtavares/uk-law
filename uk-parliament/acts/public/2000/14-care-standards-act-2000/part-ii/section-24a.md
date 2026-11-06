@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Offences relating to suspension[^key-0561849833fe0662c01d7152cc5b02bb][^c22718271]
+## 24A. Offences relating to suspension[^c-0561849833fe0662c01d7152cc5b02bb][^c22718271]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0561849833fe0662c01d7152cc5b02bb]: Modification: S. 24A applied (with modifications) (1.7.2013) by [The Residential Holiday Schemes for Disabled Children (England) Regulations 2013 (S.I. 2013/1394)](https://www.legislation.gov.uk/uksi/2013/1394), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1), [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2013/1394/schedule/7/paragraph/12) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/2))
+[^c-0561849833fe0662c01d7152cc5b02bb]: Modification: S. 24A applied (with modifications) (1.7.2013) by [The Residential Holiday Schemes for Disabled Children (England) Regulations 2013 (S.I. 2013/1394)](https://www.legislation.gov.uk/uksi/2013/1394), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1), [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2013/1394/schedule/7/paragraph/12) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/2))
 
 [^c22718271]: Textual amendment: S. 24A inserted (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 95](https://www.legislation.gov.uk/ukpga/2008/14/section/95), [170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/22); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35)

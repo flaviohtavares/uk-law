@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Dangerous use etc[^key-6c0618b45c50d715d56b9d11d34d1645]
+## 54. Dangerous use etc[^c-6c0618b45c50d715d56b9d11d34d1645]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c0618b45c50d715d56b9d11d34d1645]: Commencement: S. 54 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-6c0618b45c50d715d56b9d11d34d1645]: Commencement: S. 54 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

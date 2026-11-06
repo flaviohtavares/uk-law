@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Death gratuities - dependants[^key-1f1c0996941ae21a756c948b1c91fc0c]
+## 41. Death gratuities - dependants[^c-1f1c0996941ae21a756c948b1c91fc0c]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f1c0996941ae21a756c948b1c91fc0c]: Commencement: Reg. 41 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-1f1c0996941ae21a756c948b1c91fc0c]: Commencement: Reg. 41 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

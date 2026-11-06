@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Section 34 regulations: further provision[^key-bbaa37ed385b9d1366424728a0aeb3a6]
+## 36. Section 34 regulations: further provision[^c-bbaa37ed385b9d1366424728a0aeb3a6]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbaa37ed385b9d1366424728a0aeb3a6]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/55/section/36) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-bbaa37ed385b9d1366424728a0aeb3a6]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/55/section/36) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

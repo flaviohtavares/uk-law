@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Report on gull population[^key-0065172dc6d0a95fb4c01c30361b97e0][^key-f052c9b487b5e9f85250b14eaba5ab35]
+## 45. Report on gull population[^c-0065172dc6d0a95fb4c01c30361b97e0][^c-f052c9b487b5e9f85250b14eaba5ab35]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0065172dc6d0a95fb4c01c30361b97e0]: Commencement: S. 45 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-0065172dc6d0a95fb4c01c30361b97e0]: Commencement: S. 45 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-f052c9b487b5e9f85250b14eaba5ab35]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2026/6/section/45) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z)
+[^c-f052c9b487b5e9f85250b14eaba5ab35]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2026/6/section/45) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z)

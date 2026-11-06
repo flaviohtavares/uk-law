@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Hearing witnesses in the UK by telephone[^key-ae08e40ddbfb039b6e1b380e9bc6441b]
+## 31. Hearing witnesses in the UK by telephone[^c-ae08e40ddbfb039b6e1b380e9bc6441b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ as made in proceedings before the nominated court.
 
 ## Annotations
 
-[^key-ae08e40ddbfb039b6e1b380e9bc6441b]: Commencement: S. 31 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-ae08e40ddbfb039b6e1b380e9bc6441b]: Commencement: S. 31 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4A — EU instruments relevant to the implementation of PEACE PLUS[^key-00015c3d40e1074c9c4095a9ec6bc247]
+## SCHEDULE 4A — EU instruments relevant to the implementation of PEACE PLUS[^c-00015c3d40e1074c9c4095a9ec6bc247]
 
 *Extent: N.I.*
 
@@ -48,7 +48,7 @@ Article 14A
 
 ## Annotations
 
-[^key-00015c3d40e1074c9c4095a9ec6bc247]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/1999/859/schedule/4A) inserted (18.5.2023) by [The PEACE PLUS Programme (Northern Ireland) Regulations 2023 (S.I. 2023/477)](https://www.legislation.gov.uk/uksi/2023/477), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/477/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/477/schedule)
+[^c-00015c3d40e1074c9c4095a9ec6bc247]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/1999/859/schedule/4A) inserted (18.5.2023) by [The PEACE PLUS Programme (Northern Ireland) Regulations 2023 (S.I. 2023/477)](https://www.legislation.gov.uk/uksi/2023/477), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/477/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/477/schedule)
 
 [^f00009]: Footnote: S.I. [1999/662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662).
 

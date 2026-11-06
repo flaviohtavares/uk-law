@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Jurisdiction of First-tier Tribunal in relation to code proceedings in Wales[^key-b64b55f0e1fddca5175b8ef8ddc60d62]
+## 71. Jurisdiction of First-tier Tribunal in relation to code proceedings in Wales[^c-b64b55f0e1fddca5175b8ef8ddc60d62]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In paragraph 95(1) of the electronic communications code (power to confer jurisd
 
 ## Annotations
 
-[^key-b64b55f0e1fddca5175b8ef8ddc60d62]: Commencement: S. 71 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-b64b55f0e1fddca5175b8ef8ddc60d62]: Commencement: S. 71 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)

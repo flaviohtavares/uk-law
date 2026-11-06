@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Members who have been dismissed or required to resign[^key-9106da091e5d12deaff5d27068b6210a]
+## 87. Members who have been dismissed or required to resign[^c-9106da091e5d12deaff5d27068b6210a]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9106da091e5d12deaff5d27068b6210a]: Commencement: Reg. 87 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-9106da091e5d12deaff5d27068b6210a]: Commencement: Reg. 87 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -33,7 +33,7 @@ An Act to make provision in respect of party walls, and excavation and construct
 
 \[18th July 1996\]
 
-[^c862656]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-2a80e07b746a1bef85b87bf919b3eb6a][^key-ff7b6166ef1e3b1c28293882578bddca]
+[^c862656]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-2a80e07b746a1bef85b87bf919b3eb6a][^c-ff7b6166ef1e3b1c28293882578bddca]
 
 ## Construction and repair of walls on line of junction
 
@@ -46,7 +46,7 @@ An Act to make provision in respect of party walls, and excavation and construct
 
 and either owner is about to build on any part of the line of junction.
 
-(2)[^c2135818][^M_C_e4c067d3-c7cc-4ac1-f7e4-71396ae3d43b][^key-b3f9a5cee392309f533f06a584d7b010][^key-147c3543d73b6015afe5b922635fa239] If a building owner desires to build a party wall or party fence wall on the line of junction he shall, at least one month before he intends the building work to start, serve on any adjoining owner a notice which indicates his desire to build and describes the intended wall.
+(2)[^c2135818][^M_C_e4c067d3-c7cc-4ac1-f7e4-71396ae3d43b][^c-b3f9a5cee392309f533f06a584d7b010][^c-147c3543d73b6015afe5b922635fa239] If a building owner desires to build a party wall or party fence wall on the line of junction he shall, at least one month before he intends the building work to start, serve on any adjoining owner a notice which indicates his desire to build and describes the intended wall.
 
 (3) If, having been served with notice described in subsection (2), an adjoining owner serves on the building owner a notice indicating his consent to the building of a party wall or party fence wall—
 
@@ -60,9 +60,9 @@ and either owner is about to build on any part of the line of junction.
 
 and consent under this subsection is consent by a notice served within the period of fourteen days beginning with the day on which the notice described in subsection (2) is served.
 
-(5)[^c2135818][^M_C_e4c067d3-c7cc-4ac1-f7e4-71396ae3d43b][^key-3ad0580c73e548297ad4c3ee23acc4e4] If the building owner desires to build on the line of junction a wall placed wholly on his own land he shall, at least one month before he intends the building work to start, serve on any adjoining owner a notice which indicates his desire to build and describes the intended wall.
+(5)[^c2135818][^M_C_e4c067d3-c7cc-4ac1-f7e4-71396ae3d43b][^c-3ad0580c73e548297ad4c3ee23acc4e4] If the building owner desires to build on the line of junction a wall placed wholly on his own land he shall, at least one month before he intends the building work to start, serve on any adjoining owner a notice which indicates his desire to build and describes the intended wall.
 
-(6)[^c2135819][^M_C_e4c067d3-c7cc-4ac1-f7e4-71396ae3d43b][^key-fd4d96fbe884d49a44399e8607a3d20a][^key-50e3540a6e7f413c45434230fbad14d2][^key-52c8b66f7df7b8a91fd0352b562b853e] Where the building owner builds a wall wholly on his own land in accordance with subsection (4) or (5) he shall have the right, at any time in the period which—
+(6)[^c2135819][^M_C_e4c067d3-c7cc-4ac1-f7e4-71396ae3d43b][^c-fd4d96fbe884d49a44399e8607a3d20a][^c-50e3540a6e7f413c45434230fbad14d2][^c-52c8b66f7df7b8a91fd0352b562b853e] Where the building owner builds a wall wholly on his own land in accordance with subsection (4) or (5) he shall have the right, at any time in the period which—
 
 - (a) begins one month after the day on which the notice mentioned in the subsection concerned was served, and
 - (b) ends twelve months after that day,
@@ -76,7 +76,7 @@ to place below the level of the land of the adjoining owner such projecting foot
 
 (8) Where any dispute arises under this section between the building owner and any adjoining owner or occupier it is to be determined in accordance with section 10.
 
-### 2. Repair etc. of party wall: rights of owner.[^c2135820][^M_C_52634a53-5adb-427e-d3aa-eb197d4491a8][^key-efbdaff8ea1ab8812250de8d3b6c90b7][^key-e2596a9e860a1642d5f168a0679fb3bb][^key-0a834f759cb51478b4c5a2161ce10d90]
+### 2. Repair etc. of party wall: rights of owner.[^c2135820][^M_C_52634a53-5adb-427e-d3aa-eb197d4491a8][^c-efbdaff8ea1ab8812250de8d3b6c90b7][^c-e2596a9e860a1642d5f168a0679fb3bb][^c-0a834f759cb51478b4c5a2161ce10d90]
 
 (1) This section applies where lands of different owners adjoin and at the line of junction the said lands are built on or a boundary wall, being a party fence wall or the external wall of a building, has been erected.
 
@@ -123,7 +123,7 @@ and relevant flues and chimney stacks are those which belong to an adjoining own
 
 (8) For the purposes of this section a building or structure which was erected before the day on which this Act was passed shall be deemed to conform with statutory requirements if it conforms with the statutes regulating buildings or structures on the date on which it was erected.
 
-### 3. Party structure notices.[^key-18a04e8efb3bc17ec5ef580a3f8e5a65][^key-0bd4acb34df18aefe07ca5f704a61141]
+### 3. Party structure notices.[^c-18a04e8efb3bc17ec5ef580a3f8e5a65][^c-0bd4acb34df18aefe07ca5f704a61141]
 
 (1) Before exercising any right conferred on him by section 2 a building owner shall serve on any adjoining owner a notice (in this Act referred to as a “**party structure notice**”) stating—
 
@@ -171,7 +171,7 @@ If an owner on whom a party structure notice or a counter notice has been served
 
 ## Adjacent excavation and construction
 
-### 6. Adjacent excavation and construction.[^c2135821][^key-6fb5545b8854af517955600cbac1be34][^key-649f35d41e68f01c3ea1b9b1b9116c03][^key-a8e95f26bd98699b0e160c58be194e01][^key-af58433a86f0dfa4efbebd638ff0bdcd][^key-53e05687e12f8bee1ab68f96a78ffd50]
+### 6. Adjacent excavation and construction.[^c2135821][^c-6fb5545b8854af517955600cbac1be34][^c-649f35d41e68f01c3ea1b9b1b9116c03][^c-a8e95f26bd98699b0e160c58be194e01][^c-af58433a86f0dfa4efbebd638ff0bdcd][^c-53e05687e12f8bee1ab68f96a78ffd50]
 
 (1) This section applies where—
 
@@ -409,7 +409,7 @@ the building owner may before beginning the work to which the requirement or not
 
 the adjoining owner does not comply with the notice or the determination, the requirement or notice by him to which the building owner’s notice under that subsection relates shall cease to have effect.
 
-### 13. Account for work carried out.[^key-555bb1e184a42cfb949fe8174b665181][^key-2edc211c6ea262a7ccdf1e0ae8281fda]
+### 13. Account for work carried out.[^c-555bb1e184a42cfb949fe8174b665181][^c-2edc211c6ea262a7ccdf1e0ae8281fda]
 
 (1) Within the period of two months beginning with the day of the completion of any work executed by a building owner of which the expenses are to be wholly or partially defrayed by an adjoining owner in accordance with section 11 the building owner shall serve on the adjoining owner an account in writing showing—
 
@@ -422,7 +422,7 @@ and in preparing the account the work shall be estimated and valued at fair aver
 
 (3) If within that period of one month the adjoining owner does not serve notice under subsection (2) he shall be deemed to have no objection to the account.
 
-### 14. Settlement of account.[^key-19ad4f2f54b9041f062d8f3c8ade742a][^key-68d427f9b6a8ec1081b1ccc7f47372a1]
+### 14. Settlement of account.[^c-19ad4f2f54b9041f062d8f3c8ade742a][^c-68d427f9b6a8ec1081b1ccc7f47372a1]
 
 (1) All expenses to be defrayed by an adjoining owner in accordance with an account served under section 13 shall be paid by the adjoining owner.
 
@@ -438,7 +438,7 @@ and in preparing the account the work shall be estimated and valued at fair aver
 - (b) by sending it by post to him at his usual or last-known residence or place of business in the United Kingdom; or
 - (c) in the case of a body corporate, by delivering it to the secretary or clerk of the body corporate at its registered or principal office or sending it by post to the secretary or clerk of that body corporate at that office.
 
-(1A)[^key-bea43cb051964f32fa9ddeff42bf74c2] A notice or other document required or authorised to be served under this Act may also be served on a person (“the recipient”) by means of an electronic communication, but only if—
+(1A)[^c-bea43cb051964f32fa9ddeff42bf74c2] A notice or other document required or authorised to be served under this Act may also be served on a person (“the recipient”) by means of an electronic communication, but only if—
 
 - (a) the recipient has stated a willingness to receive the notice or document by means of an electronic communication,
 - (b) the statement has not been withdrawn, and
@@ -553,62 +553,62 @@ In this Act, unless the context otherwise requires, the following expressions ha
 
 [^c862656]: Modification: Act: powers transferred (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-2a80e07b746a1bef85b87bf919b3eb6a]: Modification: Act modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), s. 70(1), [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/7)
+[^c-2a80e07b746a1bef85b87bf919b3eb6a]: Modification: Act modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), s. 70(1), [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/7)
 
-[^key-ff7b6166ef1e3b1c28293882578bddca]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/40) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/7)
+[^c-ff7b6166ef1e3b1c28293882578bddca]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/40) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/7)
 
 [^c2135818]: Modification: S. 1(2)(5) modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 40](https://www.legislation.gov.uk/ukpga/2008/18/section/40), [Sch. 14 para. 17(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/14/paragraph/17/1)
 
 [^M_C_e4c067d3-c7cc-4ac1-f7e4-71396ae3d43b]: Modification: S. 1(2)(5)(6) excluded (24.9.2014) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) Order 2014 (S.I. 2014/2384)](https://www.legislation.gov.uk/uksi/2014/2384), [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1), [Sch. 19 Pt. 1 para. 6(1)(2)](https://www.legislation.gov.uk/uksi/2014/2384/schedule/19/part/1/paragraph/6/1/2)
 
-[^key-b3f9a5cee392309f533f06a584d7b010]: Modification: S. 1(2)(5) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 2](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/2)
+[^c-b3f9a5cee392309f533f06a584d7b010]: Modification: S. 1(2)(5) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 2](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/2)
 
-[^key-147c3543d73b6015afe5b922635fa239]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1996/40/section/1/2) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 2](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/2)
+[^c-147c3543d73b6015afe5b922635fa239]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1996/40/section/1/2) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 2](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/2)
 
-[^key-3ad0580c73e548297ad4c3ee23acc4e4]: Modification: [S. 1(5)](https://www.legislation.gov.uk/ukpga/1996/40/section/1/5) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 2](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/2)
+[^c-3ad0580c73e548297ad4c3ee23acc4e4]: Modification: [S. 1(5)](https://www.legislation.gov.uk/ukpga/1996/40/section/1/5) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 2](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/2)
 
 [^c2135819]: Modification: S. 1(6) restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 40](https://www.legislation.gov.uk/ukpga/2008/18/section/40), [Sch. 14 para. 17(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/14/paragraph/17/2)
 
-[^key-fd4d96fbe884d49a44399e8607a3d20a]: Modification: S. 1(6) restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/3)
+[^c-fd4d96fbe884d49a44399e8607a3d20a]: Modification: S. 1(6) restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/3)
 
-[^key-50e3540a6e7f413c45434230fbad14d2]: Modification: [S. 1(6)](https://www.legislation.gov.uk/ukpga/1996/40/section/1/6) restricted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/3)
+[^c-50e3540a6e7f413c45434230fbad14d2]: Modification: [S. 1(6)](https://www.legislation.gov.uk/ukpga/1996/40/section/1/6) restricted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/3)
 
-[^key-52c8b66f7df7b8a91fd0352b562b853e]: Modification: [S. 1(6)](https://www.legislation.gov.uk/ukpga/1996/40/section/1/6) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/3/2)
+[^c-52c8b66f7df7b8a91fd0352b562b853e]: Modification: [S. 1(6)](https://www.legislation.gov.uk/ukpga/1996/40/section/1/6) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/3/2)
 
 [^c2135820]: Modification: S. 2 restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 40](https://www.legislation.gov.uk/ukpga/2008/18/section/40), [Sch. 14 para. 17(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/14/paragraph/17/2)
 
 [^M_C_52634a53-5adb-427e-d3aa-eb197d4491a8]: Modification: S. 2 excluded (24.9.2014) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) Order 2014 (S.I. 2014/2384)](https://www.legislation.gov.uk/uksi/2014/2384), [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1), [Sch. 19 Pt. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2014/2384/schedule/19/part/1/paragraph/6/2)
 
-[^key-efbdaff8ea1ab8812250de8d3b6c90b7]: Modification: S. 2 restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/3)
+[^c-efbdaff8ea1ab8812250de8d3b6c90b7]: Modification: S. 2 restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/3)
 
-[^key-e2596a9e860a1642d5f168a0679fb3bb]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1996/40/section/2) restricted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/3)
+[^c-e2596a9e860a1642d5f168a0679fb3bb]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1996/40/section/2) restricted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/3)
 
-[^key-0a834f759cb51478b4c5a2161ce10d90]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1996/40/section/2) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/3/2)
+[^c-0a834f759cb51478b4c5a2161ce10d90]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1996/40/section/2) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/3/2)
 
-[^key-18a04e8efb3bc17ec5ef580a3f8e5a65]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1996/40/section/3) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/4)
+[^c-18a04e8efb3bc17ec5ef580a3f8e5a65]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1996/40/section/3) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/4)
 
-[^key-0bd4acb34df18aefe07ca5f704a61141]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1996/40/section/3) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/4)
+[^c-0bd4acb34df18aefe07ca5f704a61141]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1996/40/section/3) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/4)
 
 [^c2135821]: Modification: S. 6 excluded (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 40](https://www.legislation.gov.uk/ukpga/2008/18/section/40), [Sch. 14 para. 17(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/14/paragraph/17/3)
 
-[^key-6fb5545b8854af517955600cbac1be34]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 5](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/5)
+[^c-6fb5545b8854af517955600cbac1be34]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 5](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/5)
 
-[^key-649f35d41e68f01c3ea1b9b1b9116c03]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/6)
+[^c-649f35d41e68f01c3ea1b9b1b9116c03]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/6)
 
-[^key-a8e95f26bd98699b0e160c58be194e01]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 5](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/5)
+[^c-a8e95f26bd98699b0e160c58be194e01]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 5](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/5)
 
-[^key-af58433a86f0dfa4efbebd638ff0bdcd]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/6)
+[^c-af58433a86f0dfa4efbebd638ff0bdcd]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/6)
 
-[^key-53e05687e12f8bee1ab68f96a78ffd50]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 3(3)](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/3/3)
+[^c-53e05687e12f8bee1ab68f96a78ffd50]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1996/40/section/6) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 3(3)](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/3/3)
 
-[^key-555bb1e184a42cfb949fe8174b665181]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1996/40/section/13) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/8)
+[^c-555bb1e184a42cfb949fe8174b665181]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1996/40/section/13) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/8)
 
-[^key-2edc211c6ea262a7ccdf1e0ae8281fda]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1996/40/section/13) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/8)
+[^c-2edc211c6ea262a7ccdf1e0ae8281fda]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1996/40/section/13) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/8)
 
-[^key-19ad4f2f54b9041f062d8f3c8ade742a]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1996/40/section/14) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/8)
+[^c-19ad4f2f54b9041f062d8f3c8ade742a]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1996/40/section/14) modified (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2017/7/schedule/23/paragraph/8)
 
-[^key-68d427f9b6a8ec1081b1ccc7f47372a1]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1996/40/section/14) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/8)
+[^c-68d427f9b6a8ec1081b1ccc7f47372a1]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1996/40/section/14) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2021/2/schedule/23/paragraph/8)
 
-[^key-bea43cb051964f32fa9ddeff42bf74c2]: Textual amendment: [S. 15(1A)-(1C)](https://www.legislation.gov.uk/ukpga/1996/40/section/15/1A) inserted (6.4.2016) by [The Party Wall etc. Act 1996 (Electronic Communications) Order 2016 (S.I. 2016/335)](https://www.legislation.gov.uk/uksi/2016/335), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/335/article/1/1), [2](https://www.legislation.gov.uk/uksi/2016/335/article/2)
+[^c-bea43cb051964f32fa9ddeff42bf74c2]: Textual amendment: [S. 15(1A)-(1C)](https://www.legislation.gov.uk/ukpga/1996/40/section/15/1A) inserted (6.4.2016) by [The Party Wall etc. Act 1996 (Electronic Communications) Order 2016 (S.I. 2016/335)](https://www.legislation.gov.uk/uksi/2016/335), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/335/article/1/1), [2](https://www.legislation.gov.uk/uksi/2016/335/article/2)
 
 [^c862657]: Subordinate legislation: [S. 22](https://www.legislation.gov.uk/ukpga/1996/40/section/22) power fully exercised (6.3.1997): 1.7.1997 appointed for whole Act by [S.I. 1997/670](https://www.legislation.gov.uk/uksi/1997/670).

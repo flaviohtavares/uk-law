@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Constitution[^key-19941d2a4ad519522c07f5ccc3b73df1]
+## 6. Constitution[^c-19941d2a4ad519522c07f5ccc3b73df1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 (which makes provision about the constitution of the Combined Authori
 
 ## Annotations
 
-[^key-19941d2a4ad519522c07f5ccc3b73df1]: Commencement: Art. 6 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-19941d2a4ad519522c07f5ccc3b73df1]: Commencement: Art. 6 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

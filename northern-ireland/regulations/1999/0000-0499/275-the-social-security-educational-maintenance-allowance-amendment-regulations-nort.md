@@ -30,7 +30,7 @@ summary: ''
 
 HOUSING; RATES; SOCIAL SECURITY
 
-The Social Security (Educational Maintenance Allowance Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-37f811d40c33c874fdc82153f8893c8c]
+The Social Security (Educational Maintenance Allowance Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-37f811d40c33c874fdc82153f8893c8c]
 
 Made
 
@@ -38,24 +38,24 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-37f811d40c33c874fdc82153f8893c8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37f811d40c33c874fdc82153f8893c8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-37f811d40c33c874fdc82153f8893c8c]
+## 1. Citation, commencement and interpretation[^c-37f811d40c33c874fdc82153f8893c8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Disregard of educational maintenance allowance[^key-37f811d40c33c874fdc82153f8893c8c]
+## 2. Disregard of educational maintenance allowance[^c-37f811d40c33c874fdc82153f8893c8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-37f811d40c33c874fdc82153f8893c8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37f811d40c33c874fdc82153f8893c8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-37f811d40c33c874fdc82153f8893c8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37f811d40c33c874fdc82153f8893c8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37f811d40c33c874fdc82153f8893c8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/275) revoked (except for reg. 2(1)(2)(a)(b)) (7.2.2000) by [The Social Security (Education Maintenance Allowance Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/2)](https://www.legislation.gov.uk/nisr/2000/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/2/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2000/2/regulation/3)
+[^c-37f811d40c33c874fdc82153f8893c8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/275) revoked (except for reg. 2(1)(2)(a)(b)) (7.2.2000) by [The Social Security (Education Maintenance Allowance Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/2)](https://www.legislation.gov.uk/nisr/2000/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/2/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2000/2/regulation/3)

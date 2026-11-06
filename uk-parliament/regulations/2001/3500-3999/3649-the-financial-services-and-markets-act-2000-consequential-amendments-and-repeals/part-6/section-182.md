@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Depositing of documents[^key-fa90cae10b800b5ebc942c260f8f4c38]
+## 182. Depositing of documents[^c-fa90cae10b800b5ebc942c260f8f4c38]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ For section 72(1) of the Industrial and Provident Societies Act 1965[^f00127] (f
 
 ## Annotations
 
-[^key-fa90cae10b800b5ebc942c260f8f4c38]: Commencement: Art. 182 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fa90cae10b800b5ebc942c260f8f4c38]: Commencement: Art. 182 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00127]: Footnote: Section 72 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), Schedule 3, paragraph 215.

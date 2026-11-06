@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Repeal of section 43 of the Weights and Measures Act 1985.[^key-0c81f616b916ea601f4b058433560500]
+## 14. Repeal of section 43 of the Weights and Measures Act 1985.[^c-0c81f616b916ea601f4b058433560500]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c81f616b916ea601f4b058433560500]: Textual amendment: [S. 14(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/14/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-0c81f616b916ea601f4b058433560500]: Textual amendment: [S. 14(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/14/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

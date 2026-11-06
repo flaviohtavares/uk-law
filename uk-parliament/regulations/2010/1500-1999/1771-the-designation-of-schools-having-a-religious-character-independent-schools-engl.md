@@ -39,15 +39,15 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation[^key-d2e8fbb360b2cf72752f849ceb31d581]
+## 1. Citation[^c-d2e8fbb360b2cf72752f849ceb31d581]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2010.
 
-## 2. Interpretation[^key-921cb7acd437197d835401119e3fa74d]
+## 2. Interpretation[^c-921cb7acd437197d835401119e3fa74d]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted (or, as the case may be, each such religious denomination).
 
-## 3. Designation of schools[^key-94d40cfb63278e416e204fccacaeadd5]
+## 3. Designation of schools[^c-94d40cfb63278e416e204fccacaeadd5]
 
 (1) The schools listed in column (1) of the Schedule are designated as schools having a religious character.
 
@@ -61,7 +61,7 @@ Department for Education
 
 7th July 2010
 
-## SCHEDULE — Schools having a religious character[^key-8fbb5e55fbecefad714be68ad27dd11d]
+## SCHEDULE — Schools having a religious character[^c-8fbb5e55fbecefad714be68ad27dd11d]
 
 Article 3
 
@@ -77,7 +77,7 @@ Article 3
 | Al-Ikhlaas Primary School, BB9 7SY | Islam |
 | **Liverpool** |  |
 | Enterprise South Liverpool Academy, L19 2PH | Church of England; Roman Catholic |
-| [^key-cc56daa646b004fbcfdbff34d4dcc887]. . . | [^key-cc56daa646b004fbcfdbff34d4dcc887]. . . |
+| [^c-cc56daa646b004fbcfdbff34d4dcc887]. . . | [^c-cc56daa646b004fbcfdbff34d4dcc887]. . . |
 | **Plymouth** |  |
 | All Saints Church of England Academy, PL5 3NE | Church of England |
 | **Surrey** |  |
@@ -101,12 +101,12 @@ Designation by this Order is not of itself a means of acquiring a religious char
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-d2e8fbb360b2cf72752f849ceb31d581]: Commencement: Art. 1 in force at made date
+[^c-d2e8fbb360b2cf72752f849ceb31d581]: Commencement: Art. 1 in force at made date
 
-[^key-921cb7acd437197d835401119e3fa74d]: Commencement: Art. 2 in force at made date
+[^c-921cb7acd437197d835401119e3fa74d]: Commencement: Art. 2 in force at made date
 
-[^key-94d40cfb63278e416e204fccacaeadd5]: Commencement: Art. 3 in force at made date
+[^c-94d40cfb63278e416e204fccacaeadd5]: Commencement: Art. 3 in force at made date
 
-[^key-8fbb5e55fbecefad714be68ad27dd11d]: Commencement: Sch. in force at made date
+[^c-8fbb5e55fbecefad714be68ad27dd11d]: Commencement: Sch. in force at made date
 
-[^key-cc56daa646b004fbcfdbff34d4dcc887]: Textual amendment: Words in Sch. revoked (30.8.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2013 (S.I. 2013/2162)](https://www.legislation.gov.uk/uksi/2013/2162), [art. 4](https://www.legislation.gov.uk/uksi/2013/2162/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2162/schedule/2)
+[^c-cc56daa646b004fbcfdbff34d4dcc887]: Textual amendment: Words in Sch. revoked (30.8.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2013 (S.I. 2013/2162)](https://www.legislation.gov.uk/uksi/2013/2162), [art. 4](https://www.legislation.gov.uk/uksi/2013/2162/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2162/schedule/2)

@@ -27,7 +27,7 @@ summary: ''
 
 (1A)[^c21802111] Article 12 does not apply in relation to the carrying out of functions of the Department or the Authority to which Article 9 of the SEM Order applies.
 
-(1B) For the purposes of Article 9 of the SEM Order, the interests of Northern Ireland consumers include their interests in the fulfilment by the Authority when carrying out functions to which that Article applies, of the objectives set out in Article 58(a) to (c), (d) (except insofar as it relates to heat) and (e) to (h)[^key-dbf2df0bb725b157b117aebe4d95600a] of the Electricity Directive.
+(1B) For the purposes of Article 9 of the SEM Order, the interests of Northern Ireland consumers include their interests in the fulfilment by the Authority when carrying out functions to which that Article applies, of the objectives set out in Article 58(a) to (c), (d) (except insofar as it relates to heat) and (e) to (h)[^c-dbf2df0bb725b157b117aebe4d95600a] of the Electricity Directive.
 
 (2) Article 12 does not apply in relation to anything done by the Authority—
 
@@ -44,7 +44,7 @@ summary: ''
 
 [^c21802111]: Textual amendment: Art. 13(1A)(1B) substituted (12.4.2013) for art. 13(1A) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [reg. 5](https://www.legislation.gov.uk/nisr/2013/92/regulation/5)
 
-[^key-dbf2df0bb725b157b117aebe4d95600a]: Textual amendment: Words in [art. 13(1B)](https://www.legislation.gov.uk/nisi/2003/419/article/13/1B) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [26](https://www.legislation.gov.uk/nisr/2020/307/regulation/26)
+[^c-dbf2df0bb725b157b117aebe4d95600a]: Textual amendment: Words in [art. 13(1B)](https://www.legislation.gov.uk/nisi/2003/419/article/13/1B) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [26](https://www.legislation.gov.uk/nisr/2020/307/regulation/26)
 
 [^c21264731]: Textual amendment: Words in art. 13(2)(b) inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 40](https://www.legislation.gov.uk/nisr/2011/155/regulation/40)
 

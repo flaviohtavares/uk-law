@@ -51,7 +51,7 @@ In accordance with section 7(5) of that Act, the Secretary of State has consulte
 
 The Secretary of State makes the following Regulations:
 
-## 1. Citation, application and commencement[^key-cc97336d782117710afc67046fdf876a]
+## 1. Citation, application and commencement[^c-cc97336d782117710afc67046fdf876a]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Miscellaneous) Regulations 2008.
 
@@ -66,11 +66,11 @@ The Secretary of State makes the following Regulations:
 - (e) regulation 6, and so much of regulation 2 as relates to that regulation, shall have effect from 6th April 2007, and
 - (f) regulations 11 to 22 shall have effect from 1st April 2008.
 
-## 2. Amendment of the 1997 Regulations[^key-cd8c16b3d488b2298b5c406ee2060286]
+## 2. Amendment of the 1997 Regulations[^c-cd8c16b3d488b2298b5c406ee2060286]
 
 The Local Government Pension Scheme Regulations 1997[^f00003] are amended in accordance with regulations 3 to 10.
 
-## 3. Optional contributions during absences[^key-9624779f0694610cdbfe905260bfc70c]
+## 3. Optional contributions during absences[^c-9624779f0694610cdbfe905260bfc70c]
 
 In regulation 18 (optional contributions during absences)[^f00004], after paragraph (2), insert—
 
@@ -78,7 +78,7 @@ In regulation 18 (optional contributions during absences)[^f00004], after paragr
 
 .
 
-## 4. Death grants[^key-be224e367cef612eaa0fd4998b69b128]
+## 4. Death grants[^c-be224e367cef612eaa0fd4998b69b128]
 
 In regulation 38 (death grants)[^f00007], for paragraph (6) substitute—
 
@@ -91,7 +91,7 @@ In regulation 38 (death grants)[^f00007], for paragraph (6) substitute—
 
 .
 
-## 5. Meaning of “eligible child”[^key-c6d9dfd8da4d651dc525891d3c9bbf6b]
+## 5. Meaning of “eligible child”[^c-c6d9dfd8da4d651dc525891d3c9bbf6b]
 
 For regulation 44 (meaning of eligible child)[^f00008], substitute—
 
@@ -112,7 +112,7 @@ For regulation 44 (meaning of eligible child)[^f00008], substitute—
 
 .
 
-## 6. Commutation: small pensions[^key-c8cfe93404d4e977b86101face160d9e]
+## 6. Commutation: small pensions[^c-c8cfe93404d4e977b86101face160d9e]
 
 In regulation 49 (commutation: small pensions)[^f00010], after paragraph (1), insert—
 
@@ -120,7 +120,7 @@ In regulation 49 (commutation: small pensions)[^f00010], after paragraph (1), in
 
 .
 
-## 7. Power of employing authority to increase total membership[^key-5b4ab2be41a7b8ab5368798892f4fa0e]
+## 7. Power of employing authority to increase total membership[^c-5b4ab2be41a7b8ab5368798892f4fa0e]
 
 In regulation 52 (power of employing authority to increase total membership)[^f00011], after paragraph (1), insert—
 
@@ -130,7 +130,7 @@ In regulation 52 (power of employing authority to increase total membership)[^f0
 
 .
 
-## 8. Rights to return of contributions[^key-a987396a568cd747918328bb72ab2c33]
+## 8. Rights to return of contributions[^c-a987396a568cd747918328bb72ab2c33]
 
 In regulation 87 (rights to return of contributions)[^f00012], after paragraph (2A), insert—
 
@@ -138,7 +138,7 @@ In regulation 87 (rights to return of contributions)[^f00012], after paragraph (
 
 .
 
-## 9. Amendment of regulations 122A, 151 and 153[^key-70013f42242bfe53942412f970817457]
+## 9. Amendment of regulations 122A, 151 and 153[^c-70013f42242bfe53942412f970817457]
 
 (1) In regulation 122A(1)[^f00013], for “regulation 122(6C)” substitute “regulation 122(6D)”.
 
@@ -146,7 +146,7 @@ In regulation 87 (rights to return of contributions)[^f00012], after paragraph (
 
 (3) In regulation 153(1)[^f00015], for “from the valuation date” substitute “from the day on which the pension sharing order takes effect”.
 
-## 10. Occupational pension schemes[^key-42aa76dcd990f8a2d2b3ea3accdc9194]
+## 10. Occupational pension schemes[^c-42aa76dcd990f8a2d2b3ea3accdc9194]
 
 In Schedule 1 (interpretation), for the definition of “Occupational pension scheme”, substitute—
 
@@ -161,11 +161,11 @@ In Schedule 1 (interpretation), for the definition of “Occupational pension sc
 
 .
 
-## 11. Amendment of the Local Government (Management and Investment of Funds) Regulations 1998[^key-b905563920dd806aadd234f8917b07c8]
+## 11. Amendment of the Local Government (Management and Investment of Funds) Regulations 1998[^c-b905563920dd806aadd234f8917b07c8]
 
 The Local Government (Management and Investment of Funds) Regulations 1998[^f00017] are amended in accordance with regulations 12 to 14.
 
-**12.**[^key-26687e470f257d519667f880a090e3fd] In regulation 2 (general definitions)—
+**12.**[^c-26687e470f257d519667f880a090e3fd] In regulation 2 (general definitions)—
 
 - (a) for the definition of “the 1997 Regulations”, substitute—
 
@@ -188,7 +188,7 @@ The Local Government (Management and Investment of Funds) Regulations 1998[^f000
 
   .
 
-**13.**[^key-ac86e830f679683a7dd39ccadd45a814] In regulation 5 (management of pension fund)—
+**13.**[^c-ac86e830f679683a7dd39ccadd45a814] In regulation 5 (management of pension fund)—
 
 - (a) in paragraph (2), for the words from the beginning to the end of sub-paragraph (b), substitute—
 
@@ -207,13 +207,13 @@ The Local Government (Management and Investment of Funds) Regulations 1998[^f000
 - (d) in paragraph (4), for “regulation 82(1) of the 1997 Regulations” substitute “regulation 44(1) of the Administration Regulations”; and
 - (e) omit paragraph (5).
 
-**14.**[^key-bdeeece551451269fbf2903b1108271b] In Schedule 2 (consequential amendments), omit paragraph 3.
+**14.**[^c-bdeeece551451269fbf2903b1108271b] In Schedule 2 (consequential amendments), omit paragraph 3.
 
-## 15. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations 2007[^key-0db614b23108680a759b56902e7fde52]
+## 15. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations 2007[^c-0db614b23108680a759b56902e7fde52]
 
 The Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations 2007[^f00021] are amended in accordance with regulations 16 to 20.
 
-**16.**[^key-fc6da11517328ee09c534af41ec53c7a] In regulation 1 (citation, commencement, interpretation and application)—
+**16.**[^c-fc6da11517328ee09c534af41ec53c7a] In regulation 1 (citation, commencement, interpretation and application)—
 
 - (a) after the definition of “the 1997 Scheme”, insert—
 
@@ -229,7 +229,7 @@ The Local Government Pension Scheme (Benefits, Membership and Contributions) Reg
 
   .
 
-**17.**[^key-49ae0b96136e148010a763245e087ea5] In regulation 12 (power of employing authority to increase total membership of active members), after paragraph (2) add—
+**17.**[^c-49ae0b96136e148010a763245e087ea5] In regulation 12 (power of employing authority to increase total membership of active members), after paragraph (2) add—
 
 > (3) If the member leaves his employment for a reason other than redundancy, a resolution under paragraph (1) may only be passed before the relevant date.
 >
@@ -241,7 +241,7 @@ The Local Government Pension Scheme (Benefits, Membership and Contributions) Reg
 
 .
 
-**18.**[^key-e8d11ed42971a0a260fe6fac98615ef1] In regulation 23 (death grants: active members), for paragraph (5) substitute—
+**18.**[^c-e8d11ed42971a0a260fe6fac98615ef1] In regulation 23 (death grants: active members), for paragraph (5) substitute—
 
 > (5) If the administering authority have not made payments under paragraph (1) equalling in aggregate the member’s death grant before the expiry of two years—
 >
@@ -252,9 +252,9 @@ The Local Government Pension Scheme (Benefits, Membership and Contributions) Reg
 
 .
 
-**19.**[^key-a9e980bbc1c8efca8b3e97b9e7c80eaa] In regulation 29 (calculation on leaving early)[^f00023], in paragraph (4) for “regulation 6(2)” substitute “regulation 6”;
+**19.**[^c-a9e980bbc1c8efca8b3e97b9e7c80eaa] In regulation 29 (calculation on leaving early)[^f00023], in paragraph (4) for “regulation 6(2)” substitute “regulation 6”;
 
-**20.**[^key-06b55b6ff327c48a410134ca35fcc8ce] In regulation 32 (death grants: deferred members), for paragraph (4) substitute—
+**20.**[^c-06b55b6ff327c48a410134ca35fcc8ce] In regulation 32 (death grants: deferred members), for paragraph (4) substitute—
 
 > (4) If the administering authority have not made payments under paragraph (1) equalling in aggregate the member’s death grant before the expiry of two years—
 >
@@ -265,7 +265,7 @@ The Local Government Pension Scheme (Benefits, Membership and Contributions) Reg
 
 .
 
-## 21. Amendment of the Local Government Pension Scheme (Transitional Provisions) Regulations 2008[^key-980db66594208ded9e894691cc93f598]
+## 21. Amendment of the Local Government Pension Scheme (Transitional Provisions) Regulations 2008[^c-980db66594208ded9e894691cc93f598]
 
 The Local Government Pension Scheme (Transitional Provisions) Regulations 2008[^f00024] are amended, in Schedule 1, by the insertion at the appropriate place in the list of provisions of the Local Government Pension Scheme Regulations 1997 which are saved from revocation, of—
 
@@ -289,7 +289,7 @@ The Local Government Pension Scheme (Transitional Provisions) Regulations 2008[^
 
 .
 
-## 22. Amendment of the Local Government Pension Scheme (Administration) Regulations 2008[^key-254b07f805d92c4f5d060778526ab179]
+## 22. Amendment of the Local Government Pension Scheme (Administration) Regulations 2008[^c-254b07f805d92c4f5d060778526ab179]
 
 The Local Government Pension Scheme (Administration) Regulations 2008[^f00026] are amended—
 
@@ -378,15 +378,15 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-cc97336d782117710afc67046fdf876a]: Commencement: Reg. 1 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-cc97336d782117710afc67046fdf876a]: Commencement: Reg. 1 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00002]: Footnote: The Secretary of State’s functions under section 7 of the Superannuation Act 1972 in so far as they were exercisable in relation to Scotland were devolved to Scottish Ministers by section 63 of the Scotland Act 1998 ([1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46)) and article 2 of, and Schedule 1 to, the Scotland Act 1998 (Transfer of Functions to Scottish Ministers etc) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
 
-[^key-cd8c16b3d488b2298b5c406ee2060286]: Commencement: Reg. 2 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-cd8c16b3d488b2298b5c406ee2060286]: Commencement: Reg. 2 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 1997/1612](https://www.legislation.gov.uk/uksi/1997/1612); various regulations were revoked by [S.I. 2008/238](https://www.legislation.gov.uk/uksi/2008/238).
 
-[^key-9624779f0694610cdbfe905260bfc70c]: Commencement: Reg. 3 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-9624779f0694610cdbfe905260bfc70c]: Commencement: Reg. 3 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00004]: Footnote: Regulation 18 was amended by [S.I. 2001/1481](https://www.legislation.gov.uk/uksi/2001/1481), regulations 2 and 6 and by [S.I. 2003/2249](https://www.legislation.gov.uk/uksi/2003/2249), regulation 2 and the Schedule.
 
@@ -394,29 +394,29 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00006]: Footnote: [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788); regulation 21A was inserted by [S.I. 2006/2014](https://www.legislation.gov.uk/uksi/2006/2014), regulation 4.
 
-[^key-be224e367cef612eaa0fd4998b69b128]: Commencement: Reg. 4 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-be224e367cef612eaa0fd4998b69b128]: Commencement: Reg. 4 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00007]: Footnote: Regulation 38 was amended by [S.I. 1998/1238](https://www.legislation.gov.uk/uksi/1998/1238), regulation 16 and by [S.I. 2007/1488](https://www.legislation.gov.uk/uksi/2007/1488). regulations 2 and 10.
 
-[^key-c6d9dfd8da4d651dc525891d3c9bbf6b]: Commencement: Reg. 5 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-c6d9dfd8da4d651dc525891d3c9bbf6b]: Commencement: Reg. 5 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00008]: Footnote: Regulation 44 was amended by [S.I. 2001/770](https://www.legislation.gov.uk/uksi/2001/770), regulations 2 and 10, and by [S.I. 2006/966](https://www.legislation.gov.uk/uksi/2006/966), regulations 2 and 20.
 
 [^f00009]: Footnote: [1995.c.50](https://www.legislation.gov.uk/ukpga/1995/50).
 
-[^key-c8cfe93404d4e977b86101face160d9e]: Commencement: Reg. 6 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-c8cfe93404d4e977b86101face160d9e]: Commencement: Reg. 6 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00010]: Footnote: Regulation 49 was amended by [S.I. 2007/1488](https://www.legislation.gov.uk/uksi/2007/1488), regulation 11.
 
-[^key-5b4ab2be41a7b8ab5368798892f4fa0e]: Commencement: Reg. 7 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-5b4ab2be41a7b8ab5368798892f4fa0e]: Commencement: Reg. 7 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00011]: Footnote: Regulation 52 was amended by [S.I. 2004/573](https://www.legislation.gov.uk/uksi/2004/573), regulations 2 and 18.
 
-[^key-a987396a568cd747918328bb72ab2c33]: Commencement: Reg. 8 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-a987396a568cd747918328bb72ab2c33]: Commencement: Reg. 8 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00012]: Footnote: Regulation 87 was amended by [S.I. 1998/1238](https://www.legislation.gov.uk/uksi/1998/1238), regulation 24 and [S.I. 2004/573](https://www.legislation.gov.uk/uksi/2004/573), regulations 2 and 25.
 
-[^key-70013f42242bfe53942412f970817457]: Commencement: Reg. 9 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-70013f42242bfe53942412f970817457]: Commencement: Reg. 9 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00013]: Footnote: Regulation 122A was inserted by [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613), regulation 27 and Schedule 3 and amended by [S.I. 2006/966](https://www.legislation.gov.uk/uksi/2006/966), regulation 42.
 
@@ -424,15 +424,15 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00015]: Footnote: Regulation 153 was inserted by [S.I. 2000/3025](https://www.legislation.gov.uk/uksi/2000/3025), regulation 3 and the Schedule.
 
-[^key-42aa76dcd990f8a2d2b3ea3accdc9194]: Commencement: Reg. 10 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-42aa76dcd990f8a2d2b3ea3accdc9194]: Commencement: Reg. 10 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00016]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-b905563920dd806aadd234f8917b07c8]: Commencement: Reg. 11 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-b905563920dd806aadd234f8917b07c8]: Commencement: Reg. 11 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00017]: Footnote: [S.I. 1998/1831](https://www.legislation.gov.uk/uksi/1998/1831), to which there are amendments not relevant to these Regulations.
 
-[^key-26687e470f257d519667f880a090e3fd]: Commencement: Reg. 12 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-26687e470f257d519667f880a090e3fd]: Commencement: Reg. 12 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00018]: Footnote: [S.I. 2008/239](https://www.legislation.gov.uk/uksi/2008/239).
 
@@ -440,35 +440,35 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00020]: Footnote: [S.I. 2008/238](https://www.legislation.gov.uk/uksi/2008/238).
 
-[^key-ac86e830f679683a7dd39ccadd45a814]: Commencement: Reg. 13 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-ac86e830f679683a7dd39ccadd45a814]: Commencement: Reg. 13 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
-[^key-bdeeece551451269fbf2903b1108271b]: Commencement: Reg. 14 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-bdeeece551451269fbf2903b1108271b]: Commencement: Reg. 14 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
-[^key-0db614b23108680a759b56902e7fde52]: Commencement: Reg. 15 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-0db614b23108680a759b56902e7fde52]: Commencement: Reg. 15 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00021]: Footnote: [S.I. 2007/1166](https://www.legislation.gov.uk/uksi/2007/1166) which was amended by [S.I. 2008/1083](https://www.legislation.gov.uk/uksi/2008/1083).
 
-[^key-fc6da11517328ee09c534af41ec53c7a]: Commencement: Reg. 16 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-fc6da11517328ee09c534af41ec53c7a]: Commencement: Reg. 16 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00022]: Footnote: [S.I. 2008/239](https://www.legislation.gov.uk/uksi/2008/239).
 
-[^key-49ae0b96136e148010a763245e087ea5]: Commencement: Reg. 17 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-49ae0b96136e148010a763245e087ea5]: Commencement: Reg. 17 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
-[^key-e8d11ed42971a0a260fe6fac98615ef1]: Commencement: Reg. 18 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-e8d11ed42971a0a260fe6fac98615ef1]: Commencement: Reg. 18 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
-[^key-a9e980bbc1c8efca8b3e97b9e7c80eaa]: Commencement: Reg. 19 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-a9e980bbc1c8efca8b3e97b9e7c80eaa]: Commencement: Reg. 19 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00023]: Footnote: Regulation 29 was amended by [S.I. 2008/1083](https://www.legislation.gov.uk/uksi/2008/1083), regulation 16.
 
-[^key-06b55b6ff327c48a410134ca35fcc8ce]: Commencement: Reg. 20 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-06b55b6ff327c48a410134ca35fcc8ce]: Commencement: Reg. 20 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
-[^key-980db66594208ded9e894691cc93f598]: Commencement: Reg. 21 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-980db66594208ded9e894691cc93f598]: Commencement: Reg. 21 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00024]: Footnote: [S.I. 2008/238](https://www.legislation.gov.uk/uksi/2008/238) which was amended by [S.I. 2008/1083](https://www.legislation.gov.uk/uksi/2008/1083).
 
 [^f00025]: Footnote: Regulation 130C was inserted by [S.I. 2001/770](https://www.legislation.gov.uk/uksi/2001/770), regulations 2 and 20.
 
-[^key-254b07f805d92c4f5d060778526ab179]: Commencement: Reg. 22 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
+[^c-254b07f805d92c4f5d060778526ab179]: Commencement: Reg. 22 in force at 17.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/2425/regulation/1/3)
 
 [^f00026]: Footnote: [S.I. 2008/239](https://www.legislation.gov.uk/uksi/2008/239) which was amended by [S.I. 2008/1083](https://www.legislation.gov.uk/uksi/2008/1083).
 

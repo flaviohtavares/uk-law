@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 325bh. Requirements on risk measurement[^key-b64b1d70fb6153b6ba469f73ddd1aa62]
+## Article 325bh. Requirements on risk measurement[^c-b64b1d70fb6153b6ba469f73ddd1aa62]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b64b1d70fb6153b6ba469f73ddd1aa62]: Textual amendment: [Pt. 3 Title 4 Ch. 1b](https://www.legislation.gov.uk/eur/2013/575/part/3/title/4/chapter/1b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(38)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/38/b)
+[^c-b64b1d70fb6153b6ba469f73ddd1aa62]: Textual amendment: [Pt. 3 Title 4 Ch. 1b](https://www.legislation.gov.uk/eur/2013/575/part/3/title/4/chapter/1b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(38)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/38/b)

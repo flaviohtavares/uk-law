@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Interpretation Act (Northern Ireland) 1954[^c16866591] shall apply to Article 1 and the following provisions of this Order as it applies to a Measure of the Northern Ireland Assembly.
 
-(2)[^key-48b8c4ae94cff5d9ff8bfe0969bcc6d0] In this Order—
+(2)[^c-48b8c4ae94cff5d9ff8bfe0969bcc6d0] In this Order—
 
 - “bridge” includes a footbridge;
 - “building” includes any erection of whatsoever material in whatsoever manner constructed, any part of a building, and any addition to an existing building;
@@ -70,7 +70,7 @@ summary: ''
 
 [^c16866591]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-48b8c4ae94cff5d9ff8bfe0969bcc6d0]: Textual amendment: Words in art. 2(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 65](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/65) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-48b8c4ae94cff5d9ff8bfe0969bcc6d0]: Textual amendment: Words in art. 2(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 65](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/65) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c16866601]: Textual amendment: [1992 NI 1](https://www.legislation.gov.uk/nisi/1992)
 

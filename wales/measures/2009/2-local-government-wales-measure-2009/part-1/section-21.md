@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Special inspections[^key-69e7c7ae4544660ef57451626c853b4d][^key-c4447ada9dba2cace57c7a6702d458cc]
+## 21. Special inspections[^c-69e7c7ae4544660ef57451626c853b4d][^c-c4447ada9dba2cace57c7a6702d458cc]
 
 *Extent: E+W*
 
@@ -32,16 +32,16 @@ summary: ''
 
 (3) An inspection under subsection (1) may relate to some or all of an authority's functions.
 
-(4) If the Welsh Ministers request that the Auditor General[^key-10a8445c70df29b0cce27277ec36bfa2] carry out an inspection of compliance with the requirements of this Part by a Welsh improvement authority, the Auditor General must comply with the request, unless it is not reasonable to do so[^key-b52f5c4060a398bf7f2703f91620920f].
+(4) If the Welsh Ministers request that the Auditor General[^c-10a8445c70df29b0cce27277ec36bfa2] carry out an inspection of compliance with the requirements of this Part by a Welsh improvement authority, the Auditor General must comply with the request, unless it is not reasonable to do so[^c-b52f5c4060a398bf7f2703f91620920f].
 
-(5) A request[^key-16a1b21bd643c2b2df3e02f947a754a1] under subsection (4) may relate to some or all of an authority's functions.
+(5) A request[^c-16a1b21bd643c2b2df3e02f947a754a1] under subsection (4) may relate to some or all of an authority's functions.
 
-(6) Before making a request[^key-11f26188c163c27a2fca07e19858948d] under subsection (4), the Welsh Ministers must consult the Auditor General.
+(6) Before making a request[^c-11f26188c163c27a2fca07e19858948d] under subsection (4), the Welsh Ministers must consult the Auditor General.
 
 (7) The Auditor General for Wales must notify a Welsh improvement authority if—
 
 - (a) the Auditor General decides to carry out an inspection of the authority under subsection (1); or
-- (b) the Welsh Ministers have requested that the Auditor General[^key-f41ff10b9ac508192c3480f23a22a4db] carry out an inspection of the authority under subsection (4).
+- (b) the Welsh Ministers have requested that the Auditor General[^c-f41ff10b9ac508192c3480f23a22a4db] carry out an inspection of the authority under subsection (4).
 
 (8) The notification must specify the functions to which the inspection relates.
 
@@ -53,16 +53,16 @@ summary: ''
 
 ## Annotations
 
-[^key-69e7c7ae4544660ef57451626c853b4d]: Commencement: S. 21 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)
+[^c-69e7c7ae4544660ef57451626c853b4d]: Commencement: S. 21 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)
 
-[^key-c4447ada9dba2cace57c7a6702d458cc]: Modification: S. 21 applied (with modifications) by 2004 c. 21, s. 24(4)(5) (as inserted (1.4.2010) by [Local Government (Wales) Measure 2009 (nawm 2)](https://www.legislation.gov.uk/mwa/2009/2), [s. 53(2)](https://www.legislation.gov.uk/mwa/2009/2/section/53/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/mwa/2009/2/schedule/1/paragraph/33); [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2))
+[^c-c4447ada9dba2cace57c7a6702d458cc]: Modification: S. 21 applied (with modifications) by 2004 c. 21, s. 24(4)(5) (as inserted (1.4.2010) by [Local Government (Wales) Measure 2009 (nawm 2)](https://www.legislation.gov.uk/mwa/2009/2), [s. 53(2)](https://www.legislation.gov.uk/mwa/2009/2/section/53/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/mwa/2009/2/schedule/1/paragraph/33); [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2))
 
-[^key-10a8445c70df29b0cce27277ec36bfa2]: Textual amendment: Words in s. 21(4) substituted (1.4.2014) by virtue of [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(2)(a)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/2/a) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-10a8445c70df29b0cce27277ec36bfa2]: Textual amendment: Words in s. 21(4) substituted (1.4.2014) by virtue of [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(2)(a)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/2/a) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-b52f5c4060a398bf7f2703f91620920f]: Textual amendment: Words in s. 21(4) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(2)(b)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/2/b) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-b52f5c4060a398bf7f2703f91620920f]: Textual amendment: Words in s. 21(4) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(2)(b)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/2/b) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-16a1b21bd643c2b2df3e02f947a754a1]: Textual amendment: Word in s. 21(5) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/3) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-16a1b21bd643c2b2df3e02f947a754a1]: Textual amendment: Word in s. 21(5) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/3) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-11f26188c163c27a2fca07e19858948d]: Textual amendment: Words in s. 21(6) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(4)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/4) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-11f26188c163c27a2fca07e19858948d]: Textual amendment: Words in s. 21(6) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(4)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/4) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-f41ff10b9ac508192c3480f23a22a4db]: Textual amendment: Words in s. 21(7)(b) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(5)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/5) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-f41ff10b9ac508192c3480f23a22a4db]: Textual amendment: Words in s. 21(7)(b) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 84(5)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/84/5) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

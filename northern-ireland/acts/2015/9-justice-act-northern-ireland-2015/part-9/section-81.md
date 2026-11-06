@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Persons excusable as of right from jury service[^key-77184ec4e851e33bc1b36e90ed050751]
+## 81. Persons excusable as of right from jury service[^c-77184ec4e851e33bc1b36e90ed050751]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77184ec4e851e33bc1b36e90ed050751]: Commencement: [S. 81](https://www.legislation.gov.uk/nia/2015/9/section/81) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/247/article/2/e)
+[^c-77184ec4e851e33bc1b36e90ed050751]: Commencement: [S. 81](https://www.legislation.gov.uk/nia/2015/9/section/81) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/247/article/2/e)

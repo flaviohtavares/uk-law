@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Exercise of intervention powers[^key-8ed2455fde8f78240e801fb2fdf79122]
+## 116. Exercise of intervention powers[^c-8ed2455fde8f78240e801fb2fdf79122]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ed2455fde8f78240e801fb2fdf79122]: Commencement: [S. 116](https://www.legislation.gov.uk/anaw/2014/7/section/116) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-8ed2455fde8f78240e801fb2fdf79122]: Commencement: [S. 116](https://www.legislation.gov.uk/anaw/2014/7/section/116) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

@@ -28,7 +28,7 @@ summary: ''
   - (ii) the rights are held for the purposes of a foreign institution, or
   - (iii) a share in them is held as security for a foreign institution's debt.
 
-(2)[^key-3188c0e11af441cc10438a95d813653a] Chapter 2 of Part 13 of ITA 2007 (which prevents avoidance of tax where a UK resident individual benefits from a transfer of assets) applies with the modifications specified in subsection (3) or (4).
+(2)[^c-3188c0e11af441cc10438a95d813653a] Chapter 2 of Part 13 of ITA 2007 (which prevents avoidance of tax where a UK resident individual benefits from a transfer of assets) applies with the modifications specified in subsection (3) or (4).
 
 (3) In a case within subsection (1)(a), Chapter 2 of Part 13 of ITA 2007 applies[^c19743271] as if—
 
@@ -44,12 +44,12 @@ summary: ''
 
 (6) If there has been a surrender or assignment of only a part of or share in rights under the policy or contract, the references in this section to those rights are references to that part or share.
 
-(7)[^key-3af4a2ef97b55330d8d68a0004b5614a] This section does not apply if someone is liable under section 465B in respect of the gain.
+(7)[^c-3af4a2ef97b55330d8d68a0004b5614a] This section does not apply if someone is liable under section 465B in respect of the gain.
 
 ## Annotations
 
-[^key-3188c0e11af441cc10438a95d813653a]: Textual amendment: S. 468(2) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 46](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/46)
+[^c-3188c0e11af441cc10438a95d813653a]: Textual amendment: S. 468(2) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 46](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/46)
 
 [^c19743271]: Textual amendment: Words in s. 468(3)(4) substituted (with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 532(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/532/b) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-3af4a2ef97b55330d8d68a0004b5614a]: Textual amendment: S. 468(7) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 141](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/141)
+[^c-3af4a2ef97b55330d8d68a0004b5614a]: Textual amendment: S. 468(7) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 141](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/141)

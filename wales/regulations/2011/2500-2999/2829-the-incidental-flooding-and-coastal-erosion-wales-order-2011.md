@@ -47,28 +47,28 @@ The Welsh Ministers, in exercise of the powers conferred by sections 38(8) and 3
 
 A draft of this instrument has been laid before and approved by a resolution of the National Assembly for Wales pursuant to sections 38(9)(b) and 39(13)(b) of that Act.
 
-## 1. Title, application and commencement[^key-85dd6695adecac2486da71f4c49ac136]
+## 1. Title, application and commencement[^c-85dd6695adecac2486da71f4c49ac136]
 
 The title of this Order is the Incidental Flooding and Coastal Erosion (Wales) Order 2011; it applies in relation to Wales and comes into force on 1 December 2011.
 
-## 2. Interpretation[^key-583276aa501c0ee92389abefd42e860e]
+## 2. Interpretation[^c-583276aa501c0ee92389abefd42e860e]
 
 In this Order—
 
 - (a) “the 1991 Act” (“*Deddf 1991*”) means the Water Resources Act 1991[^f00002]; and
 - (b) “the 2010 Act” (“*Deddf 2010*”) means the Flood and Water Management Act 2010.
 
-## 3. Application of compulsory purchase provisions to section 38 of the 2010 Act[^key-585523364f401e7e5c3071e218182c3c]
+## 3. Application of compulsory purchase provisions to section 38 of the 2010 Act[^c-585523364f401e7e5c3071e218182c3c]
 
 (1) Subject to paragraphs (3) and (4), section 154 of the 1991 Act[^f00003] applies for the purposes of section 38 of the 2010 Act as if the functions referred to in section 154(1) of the 1991 Act included functions under section 38 of the 2010 Act.
 
 (2) Section 157 of the 1991 Act[^f00004] applies for the purposes of section 38 of the 2010 Act as if—
 
 - (a) section 157(2)(b) were omitted;
-- (b) the references in section 157(6)(a) and (7)(a)[^key-169164d7354cb270205e6792f274caf2] to an order under section 168 were omitted; and
-- (c) section 157(6)(c) to (e) and (7)(c)[^key-b74dd444b893c80d537a4e213c16884a] were omitted.
+- (b) the references in section 157(6)(a) and (7)(a)[^c-169164d7354cb270205e6792f274caf2] to an order under section 168 were omitted; and
+- (c) section 157(6)(c) to (e) and (7)(c)[^c-b74dd444b893c80d537a4e213c16884a] were omitted.
 
-(3) An authorisation to the Natural Resources Body for Wales or[^key-5d49e86e4a2953340af6ede406b709d9] the Natural Resources Body for Wales[^key-732409d53d5d48cf578ca167bc147eb6] under section 154 of the 1991 Act as applied by paragraph (1) may be given only for the purposes of enabling compliance with the legislation which implemented[^key-282e752dcfb2cf17d5a6d37c09617174]—
+(3) An authorisation to the Natural Resources Body for Wales or[^c-5d49e86e4a2953340af6ede406b709d9] the Natural Resources Body for Wales[^c-732409d53d5d48cf578ca167bc147eb6] under section 154 of the 1991 Act as applied by paragraph (1) may be given only for the purposes of enabling compliance with the legislation which implemented[^c-282e752dcfb2cf17d5a6d37c09617174]—
 
 - (a) the Habitats Directive in relation to any steps and measures under Article 6 of that Directive or policies under Article 10 of that Directive;
 - (b) the Water Framework Directive in relation to any environmental objectives; or
@@ -76,36 +76,36 @@ In this Order—
 
 (4) In this article—
 
-- (a)[^key-55b0e9fd90b130b304b0f2a840efce30] “***environmental objectives***” has the same meaning as in the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017;
-- (b) “the Habitats Directive” (“*y Gyfarwyddeb Cynefinoedd*”) means Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00005] , as last amended by Council Directive 2013/17(EU)[^key-6f7c48804addf7cb90df399cffa72d4f];
-- (c) “the Water Framework Directive” (“*y Gyfarwyddeb Fframwaith Dŵr*”) means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00006] , as last amended by Commission[^key-f1aedd8eaef8d006b7048dd467988c16] [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101); [^key-e860361b52bf6e190f460a87df642da1]...
-- (d) “the Wild Birds Directive” (“ *y Gyfarwyddeb Adar Gwyllt*”) means Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds[^f00007] , as last amended by Council[^key-96bf66c94c534b605f04d814a0913678] [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017).
+- (a)[^c-55b0e9fd90b130b304b0f2a840efce30] “***environmental objectives***” has the same meaning as in the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017;
+- (b) “the Habitats Directive” (“*y Gyfarwyddeb Cynefinoedd*”) means Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00005] , as last amended by Council Directive 2013/17(EU)[^c-6f7c48804addf7cb90df399cffa72d4f];
+- (c) “the Water Framework Directive” (“*y Gyfarwyddeb Fframwaith Dŵr*”) means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00006] , as last amended by Commission[^c-f1aedd8eaef8d006b7048dd467988c16] [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101); [^c-e860361b52bf6e190f460a87df642da1]...
+- (d) “the Wild Birds Directive” (“ *y Gyfarwyddeb Adar Gwyllt*”) means Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds[^f00007] , as last amended by Council[^c-96bf66c94c534b605f04d814a0913678] [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017).
 
-## 4. Application of compulsory purchase provisions to section 39 of the 2010 Act[^key-cc18ac09f7fd0bf610845051345a3f98]
+## 4. Application of compulsory purchase provisions to section 39 of the 2010 Act[^c-cc18ac09f7fd0bf610845051345a3f98]
 
 (1) Section 154 of the 1991 Act applies for the purposes of section 39 of the 2010 Act as if—
 
-- (a) the words “A local authority” were substituted for the words “The Agency or the NRBW[^key-e3cb6dda3bf5f05e14de75eb30864e8b]” where they first appear in section 154(1);
+- (a) the words “A local authority” were substituted for the words “The Agency or the NRBW[^c-e3cb6dda3bf5f05e14de75eb30864e8b]” where they first appear in section 154(1);
 - (b) the functions referred to in section 154(1) included functions under section 39 of the 2010 Act;
-- (c) the words “the local authority” were substituted for [^key-61707bdf57f8c75c52b48ea279d2d503]...—
-  - (i) the words “the Agency or the NRBW” in[^key-9cf399e5ba6249fc132a30b1b09fc53c] the second place they appear in section 154(1);
-  - (ia)[^key-ae809386a681b0ebec2003ec6ce36459] the words “the Agency or, as the case may be, by the NRBW” in section 154(2);
-  - (ii) the words “the Agency or the NRBW”[^key-3ac9972f20a98a49cc8f3e20c7a00c28] in section 154(2), (3) and (4); and
-  - (iii) the words “the Agency or the NRBW” and “the Agency or, as the case may be, the NRBW”[^key-2eccc1bf13016d40f445b57c5ecd0f67] in section 154(6); and
+- (c) the words “the local authority” were substituted for [^c-61707bdf57f8c75c52b48ea279d2d503]...—
+  - (i) the words “the Agency or the NRBW” in[^c-9cf399e5ba6249fc132a30b1b09fc53c] the second place they appear in section 154(1);
+  - (ia)[^c-ae809386a681b0ebec2003ec6ce36459] the words “the Agency or, as the case may be, by the NRBW” in section 154(2);
+  - (ii) the words “the Agency or the NRBW”[^c-3ac9972f20a98a49cc8f3e20c7a00c28] in section 154(2), (3) and (4); and
+  - (iii) the words “the Agency or the NRBW” and “the Agency or, as the case may be, the NRBW”[^c-2eccc1bf13016d40f445b57c5ecd0f67] in section 154(6); and
 - (d) “local authority” has the same meaning as in section 39(6) of the 2010 Act.
-- (e)[^key-aa479e11f6ff078d198b82e3d4b5ed12] section 154(7) were omitted.
+- (e)[^c-aa479e11f6ff078d198b82e3d4b5ed12] section 154(7) were omitted.
 
 (2) Section 157 of the 1991 Act applies for the purposes of section 39 of the 2010 Act as if—
 
-- (a) the words “A local authority” were substituted for the words “The Agency and the NRBW[^key-2a45aa4a472dd1a0052a88d0f71558c6]” where they appear in section 157(1);
-- (b) the words “the local authority” were substituted for the words “the Agency or, as the case may be, the NRBW[^key-3ae956fbbf9ab41ab09325bdb6965911]” where they appear in section 157(2)(a) [^key-82a734c1f324d480f3cfe29159f3d48f]...;
-- (c) section 157(2)(b) and (6)[^key-c8d45d54f1267d8601b9c415e4a8083e] were omitted;
-- (ca)[^key-58e74dff32545bc675bc6f423ac19e82] the words “the local authority” were substituted for the words “the NRBW” where they appear in section 157(7);
-- (d) the reference in section 157(7)(a)[^key-c9bf22906c50887b6828da308fb00903] to an order under section 168 were omitted;
-- (e) section 157(7)(c)[^key-9ea39b08f73d02d3a8d66332502681b1] were omitted; and
+- (a) the words “A local authority” were substituted for the words “The Agency and the NRBW[^c-2a45aa4a472dd1a0052a88d0f71558c6]” where they appear in section 157(1);
+- (b) the words “the local authority” were substituted for the words “the Agency or, as the case may be, the NRBW[^c-3ae956fbbf9ab41ab09325bdb6965911]” where they appear in section 157(2)(a) [^c-82a734c1f324d480f3cfe29159f3d48f]...;
+- (c) section 157(2)(b) and (6)[^c-c8d45d54f1267d8601b9c415e4a8083e] were omitted;
+- (ca)[^c-58e74dff32545bc675bc6f423ac19e82] the words “the local authority” were substituted for the words “the NRBW” where they appear in section 157(7);
+- (d) the reference in section 157(7)(a)[^c-c9bf22906c50887b6828da308fb00903] to an order under section 168 were omitted;
+- (e) section 157(7)(c)[^c-9ea39b08f73d02d3a8d66332502681b1] were omitted; and
 - (f) “local authority” had the same meaning as in section 39(6) of the 2010 Act.
 
-## 5. Application of power of entry provisions to section 38 of the 2010 Act[^key-8df6216707649451955901dce461ad6b]
+## 5. Application of power of entry provisions to section 38 of the 2010 Act[^c-8df6216707649451955901dce461ad6b]
 
 (1) Section 170 of the 1991 Ac[^f00008]) applies for the purposes of section 38 of the 2010 Act as if the reference in subsection (4) to any power conferred by any of the provisions of sections 159, 160, 162(2) and (3) and 163 of the 1991 Act were a reference to any power conferred by section 38 of the 2010 Act.
 
@@ -124,25 +124,25 @@ In this Order—
 - (f) paragraph 8(2) were omitted; and
 - (g) “agricultural land” had the same meaning as in section 145 of the 1991 Act.
 
-## 6. Application of power of entry provisions to section 39 of the 2010 Act[^key-2a59d9d8fac0f5571e24deb222599d78]
+## 6. Application of power of entry provisions to section 39 of the 2010 Act[^c-2a59d9d8fac0f5571e24deb222599d78]
 
 (1) Section 170 of the 1991 Act applies for the purposes of section 39 of the 2010 Act as if—
 
-- (a) the words “a local authority” were substituted for the words “the Agency or by the NRBW[^key-e35ed404b5f4cc1b930fef25a2cfad69]”—
+- (a) the words “a local authority” were substituted for the words “the Agency or by the NRBW[^c-e35ed404b5f4cc1b930fef25a2cfad69]”—
   - (i) where they appear in section 170(1); and
-  - (ii) where they [^key-12d36ea320d495a1047115296d15595e]... appear in section 170(3);
-- (b) the words “the local authority” were substituted for the words “the Agency or the NRBW[^key-b4e1f82c6309dcb0f4e55f41e3df4278]”—
+  - (ii) where they [^c-12d36ea320d495a1047115296d15595e]... appear in section 170(3);
+- (b) the words “the local authority” were substituted for the words “the Agency or the NRBW[^c-b4e1f82c6309dcb0f4e55f41e3df4278]”—
   - (i) where they appear in section 170(2); and
-  - (ii) where[^key-1f631ac32c811d978802e4aea55a56dc] they appear in section 170(3);
+  - (ii) where[^c-1f631ac32c811d978802e4aea55a56dc] they appear in section 170(3);
 - (c) the reference in subsection (4) to any power conferred by any of the provisions of sections 159, 160, 162(2) and (3) and 163 of the 1991 Act were a reference to any power conferred by section 39 of the 2010 Act; and
 - (d) “local authority” had the same meaning as in section 39(6) of the 2010 Act.
 
 (2) Section 171 of the 1991 Act applies for the purposes of section 39 of the 2010 Act as if—
 
-- (a) the words “a local authority” were substituted for the words “the Agency or by the NRBW[^key-c0bc6e2ab6b6049b97f9ddaeab658bcc]” where they appear in section 171(1);
-- (b) the words “the local authority” were substituted for the words “the Agency or the NRBW[^key-2c26f24ab171064d293c551b0e624ef3]” where they appear in section 171(2)(a) and (3)(c);
+- (a) the words “a local authority” were substituted for the words “the Agency or by the NRBW[^c-c0bc6e2ab6b6049b97f9ddaeab658bcc]” where they appear in section 171(1);
+- (b) the words “the local authority” were substituted for the words “the Agency or the NRBW[^c-2c26f24ab171064d293c551b0e624ef3]” where they appear in section 171(2)(a) and (3)(c);
 - (c) the functions referred to in section 171(2)(a) included functions under section 39 of the 2010 Act;
-- (d) section 171(2)(b) and (6)[^key-b46a4997e9a9b5027768edb93539432c] were omitted; and
+- (d) section 171(2)(b) and (6)[^c-b46a4997e9a9b5027768edb93539432c] were omitted; and
 - (e) “local authority” had the same meaning as in section 39(6) of the 2010 Act.
 
 (3) Schedule 20 to the 1991 Act applies for the purposes of section 39 of the 2010 Act as if—
@@ -152,21 +152,21 @@ In this Order—
 - (c) the reference in paragraph 1(3) to the power conferred by section 170 of the 1991 Act were a reference to that power as applied by this article;
 - (d) the reference in paragraph 2(4) to the power conferred by section 171 of the 1991 Act were a reference to that power as applied by this article;
 - (e) references to a power to which Schedule 20 applies were references to any power conferred by section 170 or 171 of the 1991 Act as applied by this article, including a power exercisable by virtue of a warrant under Schedule 20;
-- (f) the words “a local authority” were substituted for “the Agency or the NRBW[^key-0acb62effe498200fd6c3b898439f318]” in paragraphs 6(3)(b) [^key-a218e580403a6901f47fd609724b2db0]...;
-- (fa)[^key-bf1b645eea04599ee90b7058740149d5] the words “or a local authority” were substituted for “, the Agency or the NRBW” in paragraph 8(1);
+- (f) the words “a local authority” were substituted for “the Agency or the NRBW[^c-0acb62effe498200fd6c3b898439f318]” in paragraphs 6(3)(b) [^c-a218e580403a6901f47fd609724b2db0]...;
+- (fa)[^c-bf1b645eea04599ee90b7058740149d5] the words “or a local authority” were substituted for “, the Agency or the NRBW” in paragraph 8(1);
 - (g) paragraph 8(2) were omitted;
 - (h) “agricultural land” had the same meaning as in section 145 of the 1991 Act; and
 - (i) “local authority” had the same meaning as in section 39(6) of the 2010 Act.
 
-## 7. Application of compensation provisions to section 38 of the 2010 Act[^key-cada02f80c4c910e85d2f827cb77c0b1]
+## 7. Application of compensation provisions to section 38 of the 2010 Act[^c-cada02f80c4c910e85d2f827cb77c0b1]
 
 Subparagraphs (1) and (2) of paragraph 5 of Schedule 21 to the 1991 Act[^f00011] apply for the purposes of section 38 of the 2010 Act as if the reference to powers under section 165(1) to (3) of the 1991 Act were a reference to powers under section 38 of the 2010 Act.
 
-## 8. Application of compensation provisions to section 39 of the 2010 Act[^key-7e42659e66b6c381a62f99289fa41ef5]
+## 8. Application of compensation provisions to section 39 of the 2010 Act[^c-7e42659e66b6c381a62f99289fa41ef5]
 
 Subparagraphs (1) and (2) of paragraph 5 of Schedule 21 to the 1991 Act apply for the purposes of section 39 of the 2010 Act as if—
 
-- (a) the words “a local authority” were substituted for the words “the appropriate agency[^key-142a1f1659f413da61c0e224bcfd2219]” where they first appear;
+- (a) the words “a local authority” were substituted for the words “the appropriate agency[^c-142a1f1659f413da61c0e224bcfd2219]” where they first appear;
 - (b) the words “the local authority” were substituted for the words “the appropriate agency” the second place they appear;
 - (c) the reference to powers under section 165(1) to (3) of the 1991 Act were a reference to powers under section 39 of the 2010 Act; and
 - (d) “local authority” had the same meaning as in section 39(6) of the 2010 Act.
@@ -194,75 +194,75 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^f00001]: Footnote: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29); the power is conferred by sections 38(8) and 39(12) of the Flood and Water Management Act 2010 on “the Minister”, and sections 38(10) and 39(14) of that Act define “the Minister” for the purposes of these sections.
 
-[^key-85dd6695adecac2486da71f4c49ac136]: Commencement: Art. 1 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
+[^c-85dd6695adecac2486da71f4c49ac136]: Commencement: Art. 1 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
 
-[^key-583276aa501c0ee92389abefd42e860e]: Commencement: Art. 2 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
+[^c-583276aa501c0ee92389abefd42e860e]: Commencement: Art. 2 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
 
 [^f00002]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-585523364f401e7e5c3071e218182c3c]: Commencement: Art. 3 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
+[^c-585523364f401e7e5c3071e218182c3c]: Commencement: Art. 3 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
 
 [^f00003]: Footnote: Section 154 was amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120 and Schedule 22, paragraphs 128 and 157. The functions are conferred on the Ministers which is defined in section 222(1) of the Water Resources Act 1991 as the Secretary of State and the Minister. The relevant functions of the Secretary of State were transferred to the National Assembly for Wales by virtue of article 2 to, and Schedule 1 of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
 [^f00004]: Footnote: Section 157 was amended by the Environment Act 1995, section 120 and Schedule 22, paragraphs 128 and 159. The functions are conferred on the Ministers which is defined in section 222(1) of the Water Resources Act 1991 as the Secretary of State and the Minister. The relevant functions of the Secretary of State were transferred to the National Assembly for Wales by virtue of article 2 to, and Schedule 1 of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-169164d7354cb270205e6792f274caf2]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/2/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 74(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/74/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-169164d7354cb270205e6792f274caf2]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/2/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 74(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/74/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b74dd444b893c80d537a4e213c16884a]: Textual amendment: Words in [art. 3(2)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/2/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 74(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/74/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b74dd444b893c80d537a4e213c16884a]: Textual amendment: Words in [art. 3(2)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/2/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 74(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/74/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-5d49e86e4a2953340af6ede406b709d9]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/3) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 74(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/74/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5d49e86e4a2953340af6ede406b709d9]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/3) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 74(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/74/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-732409d53d5d48cf578ca167bc147eb6]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 73](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/73) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-732409d53d5d48cf578ca167bc147eb6]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 73](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/73) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-282e752dcfb2cf17d5a6d37c09617174]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/3) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [4(a)](https://www.legislation.gov.uk/wsi/2019/460/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-282e752dcfb2cf17d5a6d37c09617174]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/3) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [4(a)](https://www.legislation.gov.uk/wsi/2019/460/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55b0e9fd90b130b304b0f2a840efce30]: Textual amendment: [Art. 3(4)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4/a) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [4(b)](https://www.legislation.gov.uk/wsi/2019/460/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55b0e9fd90b130b304b0f2a840efce30]: Textual amendment: [Art. 3(4)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4/a) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [4(b)](https://www.legislation.gov.uk/wsi/2019/460/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: OJ No L 206, 22.7.1992, p.7, last amended by Council Directive [2006/105/EC](https://www.legislation.gov.uk/european/directive/2006/0105) (OJ No L 363, 20.12.2006, p.368).
 
-[^key-6f7c48804addf7cb90df399cffa72d4f]: Textual amendment: Words in [art. 3(4)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4/b) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [10(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/10/a)
+[^c-6f7c48804addf7cb90df399cffa72d4f]: Textual amendment: Words in [art. 3(4)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4/b) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [10(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/10/a)
 
 [^f00006]: Footnote: OJ No L 327, 22.12.2000, p.1, last amended by Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council on the geological storage of carbon dioxide (OJ No L 140, 5.6.2009, p.114).
 
-[^key-f1aedd8eaef8d006b7048dd467988c16]: Textual amendment: Words in [art. 3(4)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4/c) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [10(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/10/b)
+[^c-f1aedd8eaef8d006b7048dd467988c16]: Textual amendment: Words in [art. 3(4)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4/c) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [10(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/10/b)
 
-[^key-e860361b52bf6e190f460a87df642da1]: Textual amendment: Word in [art. 3(4)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4) omitted (17.12.2018) by virtue of [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [10(c)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/10/c)
+[^c-e860361b52bf6e190f460a87df642da1]: Textual amendment: Word in [art. 3(4)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4) omitted (17.12.2018) by virtue of [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [10(c)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/10/c)
 
 [^f00007]: Footnote: OJ No L 20, 26.1.2010, p.7.
 
-[^key-96bf66c94c534b605f04d814a0913678]: Textual amendment: Words in [art. 3(4)(d)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4/d) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [10(d)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/10/d)
+[^c-96bf66c94c534b605f04d814a0913678]: Textual amendment: Words in [art. 3(4)(d)](https://www.legislation.gov.uk/wsi/2011/2829/article/3/4/d) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [10(d)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/10/d)
 
-[^key-cc18ac09f7fd0bf610845051345a3f98]: Commencement: Art. 4 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
+[^c-cc18ac09f7fd0bf610845051345a3f98]: Commencement: Art. 4 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
 
-[^key-e3cb6dda3bf5f05e14de75eb30864e8b]: Textual amendment: Words in [art. 4(1)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e3cb6dda3bf5f05e14de75eb30864e8b]: Textual amendment: Words in [art. 4(1)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-61707bdf57f8c75c52b48ea279d2d503]: Textual amendment: Words in [art. 4(1)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-61707bdf57f8c75c52b48ea279d2d503]: Textual amendment: Words in [art. 4(1)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9cf399e5ba6249fc132a30b1b09fc53c]: Textual amendment: Words in [art. 4(1)(c)(i)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c/i) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9cf399e5ba6249fc132a30b1b09fc53c]: Textual amendment: Words in [art. 4(1)(c)(i)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c/i) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ae809386a681b0ebec2003ec6ce36459]: Textual amendment: [Art. 4(1)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c)[(ia)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/ia) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/iii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ae809386a681b0ebec2003ec6ce36459]: Textual amendment: [Art. 4(1)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c)[(ia)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/ia) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/iii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-3ac9972f20a98a49cc8f3e20c7a00c28]: Textual amendment: Words in [art. 4(1)(c)(ii)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c/ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/iv) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3ac9972f20a98a49cc8f3e20c7a00c28]: Textual amendment: Words in [art. 4(1)(c)(ii)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c/ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/iv) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-2eccc1bf13016d40f445b57c5ecd0f67]: Textual amendment: Words in [art. 4(1)(c)(iii)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c/iii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(v)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/v) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2eccc1bf13016d40f445b57c5ecd0f67]: Textual amendment: Words in [art. 4(1)(c)(iii)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/c/iii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(b)(v)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/b/v) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-aa479e11f6ff078d198b82e3d4b5ed12]: Textual amendment: [Art. 4(1)(e)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/e) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-aa479e11f6ff078d198b82e3d4b5ed12]: Textual amendment: [Art. 4(1)(e)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/1/e) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(2)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/2/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-2a45aa4a472dd1a0052a88d0f71558c6]: Textual amendment: Words in [art. 4(2)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2a45aa4a472dd1a0052a88d0f71558c6]: Textual amendment: Words in [art. 4(2)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-3ae956fbbf9ab41ab09325bdb6965911]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(b)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/b/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3ae956fbbf9ab41ab09325bdb6965911]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(b)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/b/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-82a734c1f324d480f3cfe29159f3d48f]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/b) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/b/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-82a734c1f324d480f3cfe29159f3d48f]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/b) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/b/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c8d45d54f1267d8601b9c415e4a8083e]: Textual amendment: Words in [art. 4(2)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c8d45d54f1267d8601b9c415e4a8083e]: Textual amendment: Words in [art. 4(2)(c)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-58e74dff32545bc675bc6f423ac19e82]: Textual amendment: [Art. 4(2)(ca)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-58e74dff32545bc675bc6f423ac19e82]: Textual amendment: [Art. 4(2)(ca)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c9bf22906c50887b6828da308fb00903]: Textual amendment: Word in [art. 4(2)(d)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/d) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(e)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/e) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c9bf22906c50887b6828da308fb00903]: Textual amendment: Word in [art. 4(2)(d)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/d) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(e)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/e) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9ea39b08f73d02d3a8d66332502681b1]: Textual amendment: Word in [art. 4(2)(e)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/e) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(f)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/f) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9ea39b08f73d02d3a8d66332502681b1]: Textual amendment: Word in [art. 4(2)(e)](https://www.legislation.gov.uk/wsi/2011/2829/article/4/2/e) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 75(3)(f)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/75/3/f) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-8df6216707649451955901dce461ad6b]: Commencement: Art. 5 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
+[^c-8df6216707649451955901dce461ad6b]: Commencement: Art. 5 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
 
 [^f00008]: Footnote: Section 170 was amended by the Environment Act 1995, section 120 and Schedule 22, paragraph 128.
 
@@ -270,32 +270,32 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^f00010]: Footnote: Schedule 20 was amended by the Environment Act 1995, section 120 and Schedule 22, paragraphs 128 and 188, and S.I. [2009/1307](https://www.legislation.gov.uk/uksi/2009/1307). The relevant functions of the Secretary of State were transferred to the National Assembly for Wales by virtue of article 2 to, and Schedule 1 of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-2a59d9d8fac0f5571e24deb222599d78]: Commencement: Art. 6 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
+[^c-2a59d9d8fac0f5571e24deb222599d78]: Commencement: Art. 6 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
 
-[^key-e35ed404b5f4cc1b930fef25a2cfad69]: Textual amendment: Words in [art. 6(1)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(2)(a)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/2/a/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e35ed404b5f4cc1b930fef25a2cfad69]: Textual amendment: Words in [art. 6(1)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(2)(a)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/2/a/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-12d36ea320d495a1047115296d15595e]: Textual amendment: Word in [art. 6(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/1/a/ii) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/2/a/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-12d36ea320d495a1047115296d15595e]: Textual amendment: Word in [art. 6(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/1/a/ii) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/2/a/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b4e1f82c6309dcb0f4e55f41e3df4278]: Textual amendment: Words in [art. 6(1)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/1/b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(2)(b)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/2/b/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b4e1f82c6309dcb0f4e55f41e3df4278]: Textual amendment: Words in [art. 6(1)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/1/b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(2)(b)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/2/b/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1f631ac32c811d978802e4aea55a56dc]: Textual amendment: Word in [art. 6(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/1/b/ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/2/b/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1f631ac32c811d978802e4aea55a56dc]: Textual amendment: Word in [art. 6(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/1/b/ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/2/b/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c0bc6e2ab6b6049b97f9ddaeab658bcc]: Textual amendment: Words in [art. 6(2)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/2/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c0bc6e2ab6b6049b97f9ddaeab658bcc]: Textual amendment: Words in [art. 6(2)(a)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/2/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-2c26f24ab171064d293c551b0e624ef3]: Textual amendment: Words in [art. 6(2)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/2/b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2c26f24ab171064d293c551b0e624ef3]: Textual amendment: Words in [art. 6(2)(b)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/2/b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b46a4997e9a9b5027768edb93539432c]: Textual amendment: Words in [art. 6(2)(d)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/2/d) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(3)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/3/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b46a4997e9a9b5027768edb93539432c]: Textual amendment: Words in [art. 6(2)(d)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/2/d) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(3)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/3/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-0acb62effe498200fd6c3b898439f318]: Textual amendment: Words in [art. 6(3)(f)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/3/f) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(4)(a)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/4/a/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0acb62effe498200fd6c3b898439f318]: Textual amendment: Words in [art. 6(3)(f)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/3/f) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(4)(a)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/4/a/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-a218e580403a6901f47fd609724b2db0]: Textual amendment: Words in [art. 6(3)(f)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/3/f) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/4/a/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a218e580403a6901f47fd609724b2db0]: Textual amendment: Words in [art. 6(3)(f)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/3/f) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/4/a/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-bf1b645eea04599ee90b7058740149d5]: Textual amendment: [Art. 6(3)(fa)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/3/fa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(4)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/4/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-bf1b645eea04599ee90b7058740149d5]: Textual amendment: [Art. 6(3)(fa)](https://www.legislation.gov.uk/wsi/2011/2829/article/6/3/fa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 76(4)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/76/4/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-cada02f80c4c910e85d2f827cb77c0b1]: Commencement: Art. 7 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
+[^c-cada02f80c4c910e85d2f827cb77c0b1]: Commencement: Art. 7 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
 
 [^f00011]: Footnote: Subparagraphs (1) and (2) of paragraph 5 of Schedule 21 were amended by the Environment Act 1995, section 120 and Schedule 22, paragraphs 128, and S.I. [2009/1307](https://www.legislation.gov.uk/uksi/2009/1307). The relevant functions of the Secretary of State were transferred to the National Assembly for Wales by virtue of article 2 to, and Schedule 1 of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-7e42659e66b6c381a62f99289fa41ef5]: Commencement: Art. 8 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
+[^c-7e42659e66b6c381a62f99289fa41ef5]: Commencement: Art. 8 in force at 1.12.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/2829/article/1)
 
-[^key-142a1f1659f413da61c0e224bcfd2219]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/wsi/2011/2829/article/8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 77](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/77) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-142a1f1659f413da61c0e224bcfd2219]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/wsi/2011/2829/article/8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 77](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/77) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

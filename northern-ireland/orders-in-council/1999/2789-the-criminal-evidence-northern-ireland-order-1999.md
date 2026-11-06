@@ -46,7 +46,7 @@ The Criminal Evidence (Northern Ireland) Order 1999
 (2) In this Order—
 
 - “accused”, in relation to any criminal proceedings, means any person charged with an offence to which the proceedings relate (whether or not he has been convicted);
-- “the complainant”, in relation to any offence (or alleged offence), means a person against or in relation to whom the offence was (or is alleged to have been) committed (but see also Article 3A(2) to (5))[^key-fc945f016475be264a4c48babd134065] ;
+- “the complainant”, in relation to any offence (or alleged offence), means a person against or in relation to whom the offence was (or is alleged to have been) committed (but see also Article 3A(2) to (5))[^c-fc945f016475be264a4c48babd134065] ;
 - “judge” includes, in relation to a magistrates' court, the resident magistrate[^c17054481]. . . and (in the case of a youth court) any lay magistrate[^c21161631];
 - “picture” includes a likeness however produced;
 - “the prosecutor” means any person acting as prosecutor, whether an individual or body;
@@ -68,10 +68,10 @@ The Criminal Evidence (Northern Ireland) Order 1999
 - (f) [^c21161691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) [^c21161691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (gg) [^c21161691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ga)[^key-95c3ac70a0e295f913ce2a7a10cfc64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ga)[^c-95c3ac70a0e295f913ce2a7a10cfc64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h)[^c21161801] any offence under any provision of the Sexual Offences (Northern Ireland) Order 2008.
 
-(1A)[^key-a6489f3df27e7d5fc8523811fa2256dc] In this Order “**a slavery or human trafficking offence**” means an offence under—
+(1A)[^c-a6489f3df27e7d5fc8523811fa2256dc] In this Order “**a slavery or human trafficking offence**” means an offence under—
 
 - (a) section 57, 58, 58A or 59 of the Sexual Offences Act 2003 (trafficking for sexual exploitation);
 - (b) section 4 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (trafficking for exploitation);
@@ -80,7 +80,7 @@ The Criminal Evidence (Northern Ireland) Order 1999
 
 (2)[^c20503491] In this Order any reference (including a reference having effect by virtue of this paragraph) to an offence of any description ( “the substantive offence”) is to be taken to include a reference to an offence which consists of attempting or conspiring to commit, or of aiding, abetting, counselling, procuring or inciting the commission of, the substantive offence.
 
-### 3A. Meaning of offence involving domestic abuse” etc.[^key-ed45ac7dc9e5b8d640123f7bcfe63ad8]
+### 3A. Meaning of offence involving domestic abuse” etc.[^c-ed45ac7dc9e5b8d640123f7bcfe63ad8]
 
 (1) In this Order, “**offence involving domestic abuse**” means—
 
@@ -103,7 +103,7 @@ prevent someone else from additionally being the complainant in relation to the 
 
 (5) Article 2(2), but not paragraph (2), determines who the complainant is in relation to the offence where no notice as referred to in that paragraph is given in the case.
 
-## PART II — SPECIAL MEASURES DIRECTIONS IN CASE OF VULNERABLE AND INTIMIDATED WITNESSES[^c20129761][^key-d2feb8e3ca81c2d30ee2275943789fab]
+## PART II — SPECIAL MEASURES DIRECTIONS IN CASE OF VULNERABLE AND INTIMIDATED WITNESSES[^c20129761][^c-d2feb8e3ca81c2d30ee2275943789fab]
 
 ### Preliminary
 
@@ -146,14 +146,14 @@ prevent someone else from additionally being the complainant in relation to the 
 
 (3) In determining that question the court must in addition consider any views expressed by the witness.
 
-(4) Where the complainant in respect of an offence listed in paragraph (5)[^key-a3662dc497f2b19737a580f6dbf11038] is a witness in proceedings relating to that offence (or to that offence and any other offences), the witness is eligible for assistance in relation to those proceedings by virtue of this paragraph unless the witness has informed the court of the witness's wish not to be so eligible by virtue of this paragraph.
+(4) Where the complainant in respect of an offence listed in paragraph (5)[^c-a3662dc497f2b19737a580f6dbf11038] is a witness in proceedings relating to that offence (or to that offence and any other offences), the witness is eligible for assistance in relation to those proceedings by virtue of this paragraph unless the witness has informed the court of the witness's wish not to be so eligible by virtue of this paragraph.
 
-(5)[^key-f09176ba195ce2466185a6174890e0d0] The offences are—
+(5)[^c-f09176ba195ce2466185a6174890e0d0] The offences are—
 
 - (a) a sexual offence,
 - (b) a slavery or human trafficking offence,
 - (c) an offence involving domestic abuse (see Article 3A).
-- (d)[^key-4a386d96b5c7ec6a0ad19ebde623b779] an offence under section 1 of the Protection from Stalking Act (Northern Ireland) 2021.
+- (d)[^c-4a386d96b5c7ec6a0ad19ebde623b779] an offence under section 1 of the Protection from Stalking Act (Northern Ireland) 2021.
 
 #### 6. Special measures available to eligible witnesses
 
@@ -415,7 +415,7 @@ unless it appears to the court that no such nomination has been made.
 
 (4) A special measures direction may only provide for the exclusion of persons under this Article where—
 
-- (a) the proceedings relate to an offence listed in Article 5(5)[^key-73797847c66ad14efc0dbf4321577293] ; or
+- (a) the proceedings relate to an offence listed in Article 5(5)[^c-73797847c66ad14efc0dbf4321577293] ; or
 - (b) it appears to the court that there are reasonable grounds for believing that any person other than the accused has sought, or will seek, to intimidate the witness in connection with testifying in the proceedings.
 
 (5) Any proceedings from which persons are excluded under this Article (whether or not those persons include representatives of news gathering or reporting organisations) shall nevertheless be taken to be held in public for the purposes of any privilege or exemption from liability available in respect of fair, accurate and contemporaneous reports of legal proceedings held in public.
@@ -459,11 +459,11 @@ A special measures direction may provide for the wearing of wigs or gowns to be 
 
 (9A)[^c22545631] If the court directs under paragraph (9) that evidence is to be given by live link, it may also make such provision in that direction as it could make under Article 12(1A) in a special measures direction.
 
-(10)[^key-886b281a4ff5032b06dce417c22535a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-886b281a4ff5032b06dce417c22535a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Nothing in this Article affects the admissibility of any video recording which would be admissible apart from this Article.
 
-#### 16. Video recorded cross-examination or re-examination[^key-3325d01b76f6fe8b0eea9baa3c9198f2]
+#### 16. Video recorded cross-examination or re-examination[^c-3325d01b76f6fe8b0eea9baa3c9198f2]
 
 (1) Where a special measures direction provides for a video recording to be admitted under Article 15 as evidence in chief of the witness, the direction may also provide—
 
@@ -488,7 +488,7 @@ A special measures direction may provide for the wearing of wigs or gowns to be 
 
 (7) Nothing in this Article shall be read as applying in relation to any cross-examination of the witness by the accused in person (in a case where the accused is to be able to conduct any such cross-examination).
 
-#### 17. Examination of witness through intermediary[^key-a1a2d1d799ca00b46bf69bbcfaa047a6][^key-29a9ba2b458f623931defab62d14f4b6][^key-e51284d62a271d43a74f9563ff4bd3c6]
+#### 17. Examination of witness through intermediary[^c-a1a2d1d799ca00b46bf69bbcfaa047a6][^c-29a9ba2b458f623931defab62d14f4b6][^c-e51284d62a271d43a74f9563ff4bd3c6]
 
 (1) A special measures direction may provide for any examination of the witness (however and wherever conducted) to be conducted through an interpreter or other person approved by the court for the purposes of this Article ( “an intermediary”).
 
@@ -569,11 +569,11 @@ Where on a trial on indictment evidence has been given in accordance with a spec
 - (a) any reference to the accused in Articles 11 to 16 may be taken by a court, in connection with the giving of a special measures direction, as a reference to all or any of the accused, as the court may determine, and
 - (b) any such direction may be given on the basis of any such determination.
 
-(5)[^key-f8f7dcdfb93e36ab6f3e4fc70e8a8cbb] For the purposes of this Part as it applies in relation to a witness who is the complainant in respect of a slavery or human trafficking offence, where the age of the witness is uncertain and there are reasons to believe that the witness is under the age of 18, that witness is presumed to be under the age of 18.
+(5)[^c-f8f7dcdfb93e36ab6f3e4fc70e8a8cbb] For the purposes of this Part as it applies in relation to a witness who is the complainant in respect of a slavery or human trafficking offence, where the age of the witness is uncertain and there are reasons to believe that the witness is under the age of 18, that witness is presumed to be under the age of 18.
 
-## PART 2A — USE OF LIVE LINK AND INTERMEDIARY FOR EVIDENCE OF CERTAIN ACCUSED PERSONS[^key-5cb6caba7615d4802a82ec525c5c2529][^c21161651]
+## PART 2A — USE OF LIVE LINK AND INTERMEDIARY FOR EVIDENCE OF CERTAIN ACCUSED PERSONS[^c-5cb6caba7615d4802a82ec525c5c2529][^c21161651]
 
-### 21A. Live link directions[^c22545651][^key-5cb6caba7615d4802a82ec525c5c2529]
+### 21A. Live link directions[^c22545651][^c-5cb6caba7615d4802a82ec525c5c2529]
 
 (1) This Article applies—
 
@@ -615,7 +615,7 @@ and in this Article references to “A” are to the person concerned.
 
 and, if it is a magistrates' court, it must cause those reasons to be entered in the Order Book.
 
-### 21B. Meaning and effect of live link.[^key-5cb6caba7615d4802a82ec525c5c2529]
+### 21B. Meaning and effect of live link.[^c-5cb6caba7615d4802a82ec525c5c2529]
 
 (1) In Article 21A “**live link**” means an arrangement by which the accused, while absent from the place where the proceedings are being held, is able—
 
@@ -631,7 +631,7 @@ and for this purpose any impairment of eyesight or hearing is to be disregarded.
 - (c) legal representatives acting in the proceedings; and
 - (d) any interpreter or other person appointed by the court to assist the accused.
 
-### 21BA. Examination of accused through intermediary[^key-5cb6caba7615d4802a82ec525c5c2529][^key-a38af3965f2579c6712315de57a2f3cd][^key-5cb6caba7615d4802a82ec525c5c2529]
+### 21BA. Examination of accused through intermediary[^c-5cb6caba7615d4802a82ec525c5c2529][^c-a38af3965f2579c6712315de57a2f3cd][^c-5cb6caba7615d4802a82ec525c5c2529]
 
 (1) This Article applies to any proceedings (whether in a magistrates' court or before the Crown Court) against a person for an offence.
 
@@ -677,7 +677,7 @@ For the purposes of this paragraph any impairment of eyesight or hearing is to b
 
 (10) Article 3 of the Perjury (Northern Ireland) Order 1979 (perjury) applies in relation to a person acting as an intermediary as it applies in relation to a person lawfully sworn as an interpreter in a judicial proceeding.
 
-### 21BB. Further provision as to directions under Article 21BA(3)[^key-5cb6caba7615d4802a82ec525c5c2529][^key-5cb6caba7615d4802a82ec525c5c2529]
+### 21BB. Further provision as to directions under Article 21BA(3)[^c-5cb6caba7615d4802a82ec525c5c2529][^c-5cb6caba7615d4802a82ec525c5c2529]
 
 (1) The court may discharge a direction given under Article 21BA(3) at any time before or during the proceedings to which it applies if it appears to the court that the direction is no longer necessary in order to ensure that the accused receives a fair trial (but this does not affect the power to give a further direction under Article 21BA(3) in relation to the accused).
 
@@ -692,7 +692,7 @@ For the purposes of this paragraph any impairment of eyesight or hearing is to b
 
 and, if it is a magistrates' court, it must cause those reasons to be entered in the Order Book.
 
-### 21C. Saving[^key-5cb6caba7615d4802a82ec525c5c2529]
+### 21C. Saving[^c-5cb6caba7615d4802a82ec525c5c2529]
 
 Nothing in this Part affects—
 
@@ -705,19 +705,19 @@ Nothing in this Part affects—
 
 #### 22. Complainants in proceedings for sexual offences
 
-No person charged with a sexual offence or a slavery or human trafficking offence[^key-fcd33b4ef1e954b86a75c525184e8d30] may in any criminal proceedings cross-examine in person a witness who is the complainant, either—
+No person charged with a sexual offence or a slavery or human trafficking offence[^c-fcd33b4ef1e954b86a75c525184e8d30] may in any criminal proceedings cross-examine in person a witness who is the complainant, either—
 
 - (a) in connection with that offence, or
 - (b) in connection with any other offence (of whatever nature) with which that person is charged in the proceedings.
 
-#### 22A. Complainants in proceedings involving domestic abuse[^key-511b24b16631d3187404302b4f879519]
+#### 22A. Complainants in proceedings involving domestic abuse[^c-511b24b16631d3187404302b4f879519]
 
 No person charged with an offence involving domestic abuse (see Article 3A) may in any criminal proceedings cross-examine in person a witness who is the complainant, either—
 
 - (a) in connection with that offence, or
 - (b) in connection with any other offence (of whatever nature) with which that person is charged in the proceedings.
 
-#### 22B. Complainants in proceedings involving stalking[^key-185cf06ae0eeccf40d2043dfcd5cab78]
+#### 22B. Complainants in proceedings involving stalking[^c-185cf06ae0eeccf40d2043dfcd5cab78]
 
 No person charged with an offence under section 1 of the Protection from Stalking Act (Northern Ireland) 2021 may in any criminal proceedings cross-examine in person a witness who is the complainant, either—
 
@@ -743,14 +743,14 @@ No person charged with an offence under section 1 of the Protection from Stalkin
 - (a) a sexual offence within the meaning of the Criminal Justice (Children) (Northern Ireland) Order 1998;
 - (b) a violent offence within the meaning of that Order;
 - (c) kidnapping, false imprisonment, or an offence under Article 3 or 4 of the Child Abduction (Northern Ireland) Order 1985[^c17054541];;
-- (cc)[^key-d692cbb54991dd30278d97c74f0ea532] a slavery or human trafficking offence;
-- (cd)[^key-12074cc2f1345fa758d8bf508c12d99a] an offence involving domestic abuse (see Article 3A);
-- (ce)[^key-f07238000c7bc155d5f12461b5526406] an offence under section 1 of the Protection from Stalking Act (Northern Ireland) 2021;
+- (cc)[^c-d692cbb54991dd30278d97c74f0ea532] a slavery or human trafficking offence;
+- (cd)[^c-12074cc2f1345fa758d8bf508c12d99a] an offence involving domestic abuse (see Article 3A);
+- (ce)[^c-f07238000c7bc155d5f12461b5526406] an offence under section 1 of the Protection from Stalking Act (Northern Ireland) 2021;
 - (d) any offence (not within any of the preceding sub-paragraphs) which involves an assault on, or injury or a threat of injury to, any person.
 
 (4) In this Article “child” means—
 
-- (a) where the offence falls within paragraph (3)(a) , (cc)[^key-13bb76d1eedd653036dc1c02867dab43] , (cd) or (ce)[^key-c138db31fd5af3a5b1b09a6a8486a26d] , a person under the age of 18[^c22545671]; or
+- (a) where the offence falls within paragraph (3)(a) , (cc)[^c-13bb76d1eedd653036dc1c02867dab43] , (cd) or (ce)[^c-c138db31fd5af3a5b1b09a6a8486a26d] , a person under the age of 18[^c22545671]; or
 - (b) where the offence falls within paragraph (3)(b), (c) or (d), a person under the age of 14.
 
 (5) For the purposes of this Article “witness” includes a witness who is charged with an offence in the proceedings.
@@ -759,7 +759,7 @@ No person charged with an offence under section 1 of the Protection from Stalkin
 
 #### 24. Direction prohibiting accused from cross-examining particular witness
 
-(1) This Article applies where, in a case where none of Articles 22, 22A[^key-020707a5e396f9580ae507b9291f0e97] , 22B[^key-f146432cdbcb57a9bf4422d294a3804a] and 23 operates to prevent an accused in any criminal proceedings from cross-examining a witness in person—
+(1) This Article applies where, in a case where none of Articles 22, 22A[^c-020707a5e396f9580ae507b9291f0e97] , 22B[^c-f146432cdbcb57a9bf4422d294a3804a] and 23 operates to prevent an accused in any criminal proceedings from cross-examining a witness in person—
 
 - (a) the prosecutor makes an application for the court to give a direction under this Article in relation to the witness, or
 - (b) the court of its own motion raises the issue whether such a direction should be given.
@@ -779,7 +779,7 @@ the court may give a direction prohibiting the accused from cross-examining (or 
 - (b) the nature of the questions likely to be asked, having regard to the issues in the proceedings and the defence case advanced so far (if any);
 - (c) any behaviour on the part of the accused at any stage of the proceedings, both generally and in relation to the witness;
 - (d) any relationship (of whatever nature) between the witness and the accused;
-- (e) whether any person (other than the accused) is or has at any time been charged in the proceedings with a sexual offence or an offence to which Article 22A[^key-56c06fcefb9be5ea9008cdc6a9937348] , 22B[^key-03fdca195335afa82569f550b2f77fef] or 23 applies, and (if so) whether Article 22 , 22A[^key-a1a2e1ae3a347be1e22a1067f65a9372] , 22B or 23 operates or would have operated to prevent that person from cross-examining the witness in person;
+- (e) whether any person (other than the accused) is or has at any time been charged in the proceedings with a sexual offence or an offence to which Article 22A[^c-56c06fcefb9be5ea9008cdc6a9937348] , 22B[^c-03fdca195335afa82569f550b2f77fef] or 23 applies, and (if so) whether Article 22 , 22A[^c-a1a2e1ae3a347be1e22a1067f65a9372] , 22B or 23 operates or would have operated to prevent that person from cross-examining the witness in person;
 - (f) any direction under Article 7 which the court has given, or proposes to give, in relation to the witness.
 
 (4) For the purposes of this Article—
@@ -822,7 +822,7 @@ a direction and, if it is a magistrates' court, must cause them to be entered in
 
 #### 26. Defence representation for purposes of cross-examination
 
-(1) This Article applies where an accused is prevented from cross-examining a witness in person by virtue of Article 22, 22A,[^key-e5076aea322cc7c7d8814392231050d9] 22B,[^key-27425ea52e97a67898cb23e1606d84b0] 23 or 24.
+(1) This Article applies where an accused is prevented from cross-examining a witness in person by virtue of Article 22, 22A,[^c-e5076aea322cc7c7d8814392231050d9] 22B,[^c-27425ea52e97a67898cb23e1606d84b0] 23 or 24.
 
 (2) Where it appears to the court that this Article applies, it must—
 
@@ -859,7 +859,7 @@ the court must consider whether it is necessary in the interests of justice for 
 
 #### 27. Warning to jury
 
-(1) Where on a trial on indictment an accused is prevented from cross-examining a witness in person by virtue of Article 22, 22A,[^key-0a5b5e766218ec9f50c3ae77c5caa453] 22B,[^key-024ec40ce717c85e0ded1504d7706b5f] 23 or 24, the judge must give the jury (if there is one) such warning (if any) as the judge considers necessary to ensure that the accused is not prejudiced—
+(1) Where on a trial on indictment an accused is prevented from cross-examining a witness in person by virtue of Article 22, 22A,[^c-0a5b5e766218ec9f50c3ae77c5caa453] 22B,[^c-024ec40ce717c85e0ded1504d7706b5f] 23 or 24, the judge must give the jury (if there is one) such warning (if any) as the judge considers necessary to ensure that the accused is not prejudiced—
 
 - (a) by any inferences that might be drawn from the fact that the accused has been prevented from cross-examining the witness in person;
 - (b) where the witness has been cross-examined by a legal representative appointed under Article 26(4), by the fact that the cross-examination was carried out by such a legal representative and not by a person acting as the accused's own legal representative.
@@ -868,7 +868,7 @@ the court must consider whether it is necessary in the interests of justice for 
 
 ## PART IV — PROTECTION OF COMPLAINANTS IN PROCEEDINGS FOR SEXUAL OFFENCES
 
-### Serious sexual offences: exclusion of public from court[^key-988702495ddc87b1d85996ad38ca8384]
+### Serious sexual offences: exclusion of public from court[^c-988702495ddc87b1d85996ad38ca8384]
 
 #### 27A. Exclusion of public from trial
 
@@ -1099,7 +1099,7 @@ by or on behalf of any accused at the trial about any sexual behaviour of the co
 
 (3) Article 28 applies in relation to the following proceedings as it applies to a trial, namely—
 
-- (a) proceedings before a magistrates' court conducting a [^key-6a3353878fbfd488b16cbdd639bde68d]... preliminary inquiry into an offence,
+- (a) proceedings before a magistrates' court conducting a [^c-6a3353878fbfd488b16cbdd639bde68d]... preliminary inquiry into an offence,
 - (b) the hearing of an application under paragraph 4(1) of Schedule 1 to the [^m00007] Children's Evidence (Northern Ireland) Order 1995 (application to dismiss charge following notice of transfer of case to Crown Court),
 - (c) any hearing held, between conviction and sentencing, for the purpose of determining matters relevant to the court's decision as to how the accused is to be dealt with, and
 - (d) the hearing of an appeal,
@@ -1275,7 +1275,7 @@ Article 68 of the [^m00010] Police and Criminal Evidence (Northern Ireland) Orde
 
 (2) For the purposes of this Order the age of a person shall be taken to be that which it appears to the court to be after considering any available evidence.
 
-(3)[^key-090a369ae3a5bf969eb5b959ba397dfa] Paragraph (2) is subject to Article 21(5).
+(3)[^c-090a369ae3a5bf969eb5b959ba397dfa] Paragraph (2) is subject to Article 21(5).
 
 ### 40. Minor and consequential amendments, transitional provisions and repeals[^c22026111]
 
@@ -1367,7 +1367,7 @@ Article 40(2).
 
 [^m00001]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-fc945f016475be264a4c48babd134065]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1999/2789/article/2/2) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 25(2)](https://www.legislation.gov.uk/nia/2021/2/section/25/2); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(y)](https://www.legislation.gov.uk/nisr/2022/57/article/2/y)
+[^c-fc945f016475be264a4c48babd134065]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1999/2789/article/2/2) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 25(2)](https://www.legislation.gov.uk/nia/2021/2/section/25/2); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(y)](https://www.legislation.gov.uk/nisr/2022/57/article/2/y)
 
 [^c17054481]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
@@ -1377,29 +1377,29 @@ Article 40(2).
 
 [^c21161691]: Textual amendment: Art. 3(1)(a)-(gg) repealed (2.2.2009) by [Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))](https://www.legislation.gov.uk/nisi/2008/1769), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/1/3), [81](https://www.legislation.gov.uk/nisi/2008/1769/article/81), [83](https://www.legislation.gov.uk/nisi/2008/1769/article/83), [Sch. 1 para. 27(2)(a)](https://www.legislation.gov.uk/nisi/2008/1769/schedule/1/paragraph/27/2/a), [Sch. 3](https://www.legislation.gov.uk/nisi/2008/1769/schedule/3); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-95c3ac70a0e295f913ce2a7a10cfc64d]: Textual amendment: [Art. 3(1)(ga)](https://www.legislation.gov.uk/nisi/1999/2789/article/3/1/ga) repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+[^c-95c3ac70a0e295f913ce2a7a10cfc64d]: Textual amendment: [Art. 3(1)(ga)](https://www.legislation.gov.uk/nisi/1999/2789/article/3/1/ga) repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
 
 [^c21161801]: Textual amendment: Art. 3(1)(h) inserted (2.2.2009) by [Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))](https://www.legislation.gov.uk/nisi/2008/1769), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/1/3), [81](https://www.legislation.gov.uk/nisi/2008/1769/article/81), [Sch. 1 para. 27(2)(c)](https://www.legislation.gov.uk/nisi/2008/1769/schedule/1/paragraph/27/2/c); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-a6489f3df27e7d5fc8523811fa2256dc]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/nisi/1999/2789/article/3/1A) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(2)](https://www.legislation.gov.uk/nia/2015/2/section/24/2), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-a6489f3df27e7d5fc8523811fa2256dc]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/nisi/1999/2789/article/3/1A) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(2)](https://www.legislation.gov.uk/nia/2015/2/section/24/2), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
 
 [^c20503491]: Modification: Art. 3(2) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 63(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/1), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/38) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-ed45ac7dc9e5b8d640123f7bcfe63ad8]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisi/1999/2789/article/3A) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 25(3)](https://www.legislation.gov.uk/nia/2021/2/section/25/3); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(y)](https://www.legislation.gov.uk/nisr/2022/57/article/2/y)
+[^c-ed45ac7dc9e5b8d640123f7bcfe63ad8]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisi/1999/2789/article/3A) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 25(3)](https://www.legislation.gov.uk/nia/2021/2/section/25/3); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(y)](https://www.legislation.gov.uk/nisr/2022/57/article/2/y)
 
 [^c20129761]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1999/2789/part/II) applied (with modifications) (18.9.2006) by Anti-social [Behaviour (Northern Ireland) Order 2004 (S.I. 2004/1988 (N.I. 12))](https://www.legislation.gov.uk/nisi/2004/1988), [art. 6C(2)(3)(4)](https://www.legislation.gov.uk/nisi/2004/1988/article/6C/2/3/4) (as inserted by [Criminal Justice (Northern Ireland) Order 2005 (S.I. 2005/1965 (N.I. 15))](https://www.legislation.gov.uk/nisi/2005/1965), [arts. 1(2)(a)](https://www.legislation.gov.uk/nisi/2005/1965/article/1/2/a), [6](https://www.legislation.gov.uk/nisi/2005/1965/article/6)); [S.R. 2006/368](https://www.legislation.gov.uk/nisr/2006/368), [art. 2(a)](https://www.legislation.gov.uk/nisr/2006/368/article/2/a)
 
-[^key-d2feb8e3ca81c2d30ee2275943789fab]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1999/2789/part/II) applied (with modifications) (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2016/2/section/34/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/34/2)[63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-d2feb8e3ca81c2d30ee2275943789fab]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1999/2789/part/II) applied (with modifications) (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2016/2/section/34/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/34/2)[63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
 [^c22545271]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/nisi/1999/2789/article/4/1/a) substituted (1.1.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 7(2)](https://www.legislation.gov.uk/nia/2011/24/section/7/2), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3) (with [s. 106(4)](https://www.legislation.gov.uk/nia/2011/24/section/106/4), [Sch. 6 para. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/6/paragraph/2)); [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)
 
 [^m00003]: Marginal citation: 1986 NI 4.
 
-[^key-a3662dc497f2b19737a580f6dbf11038]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/nisi/1999/2789/article/5/4) substituted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 23(2)(a)](https://www.legislation.gov.uk/nia/2021/2/section/23/2/a); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(w)](https://www.legislation.gov.uk/nisr/2022/57/article/2/w)
+[^c-a3662dc497f2b19737a580f6dbf11038]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/nisi/1999/2789/article/5/4) substituted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 23(2)(a)](https://www.legislation.gov.uk/nia/2021/2/section/23/2/a); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(w)](https://www.legislation.gov.uk/nisr/2022/57/article/2/w)
 
-[^key-f09176ba195ce2466185a6174890e0d0]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/nisi/1999/2789/article/5/5) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 23(2)(b)](https://www.legislation.gov.uk/nia/2021/2/section/23/2/b); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(w)](https://www.legislation.gov.uk/nisr/2022/57/article/2/w)
+[^c-f09176ba195ce2466185a6174890e0d0]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/nisi/1999/2789/article/5/5) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 23(2)(b)](https://www.legislation.gov.uk/nia/2021/2/section/23/2/b); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(w)](https://www.legislation.gov.uk/nisr/2022/57/article/2/w)
 
-[^key-4a386d96b5c7ec6a0ad19ebde623b779]: Textual amendment: [Art. 5(5)(d)](https://www.legislation.gov.uk/nisi/1999/2789/article/5/5/d) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(2)](https://www.legislation.gov.uk/nia/2022/17/section/3/2), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-4a386d96b5c7ec6a0ad19ebde623b779]: Textual amendment: [Art. 5(5)(d)](https://www.legislation.gov.uk/nisi/1999/2789/article/5/5/d) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(2)](https://www.legislation.gov.uk/nia/2022/17/section/3/2), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
 [^c22545291]: Textual amendment: [Art. 9(1)(b)](https://www.legislation.gov.uk/nisi/1999/2789/article/9/1/b) repealed (1.1.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 8(2)](https://www.legislation.gov.uk/nia/2011/24/section/8/2), [110(2)](https://www.legislation.gov.uk/nia/2011/24/section/110/2), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/1) (with [s. 106(4)](https://www.legislation.gov.uk/nia/2011/24/section/106/4), [Sch. 6 para. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/6/paragraph/2)); [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)(g)(i)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a/g/i)
 
@@ -1431,7 +1431,7 @@ Article 40(2).
 
 [^c20130001]: Textual amendment: Words in [art. 12(5)](https://www.legislation.gov.uk/nisi/1999/2789/article/12/5) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 114](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/114); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 10](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/10), [12(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/b)
 
-[^key-73797847c66ad14efc0dbf4321577293]: Textual amendment: Words in [art. 13(4)(a)](https://www.legislation.gov.uk/nisi/1999/2789/article/13/4/a) substituted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 23(3)](https://www.legislation.gov.uk/nia/2021/2/section/23/3); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(w)](https://www.legislation.gov.uk/nisr/2022/57/article/2/w)
+[^c-73797847c66ad14efc0dbf4321577293]: Textual amendment: Words in [art. 13(4)(a)](https://www.legislation.gov.uk/nisi/1999/2789/article/13/4/a) substituted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 23(3)](https://www.legislation.gov.uk/nia/2021/2/section/23/3); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(w)](https://www.legislation.gov.uk/nisr/2022/57/article/2/w)
 
 [^c21431351]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisi/1999/2789/article/15) partly in operation; [art. 15](https://www.legislation.gov.uk/nisi/1999/2789/article/15) not in operation at date of making see [art. 1(2)](https://www.legislation.gov.uk/nisi/1999/2789/article/1/2); [art. 15](https://www.legislation.gov.uk/nisi/1999/2789/article/15) in operation for certain purposes at 1.6.2000 by [S.R. 2000/211](https://www.legislation.gov.uk/nisr/2000/211), [art. 2](https://www.legislation.gov.uk/nisr/2000/211/article/2); [art. 15](https://www.legislation.gov.uk/nisi/1999/2789/article/15) in operation for certain purposes at 30.6.2003 by [S.R. 2003/323](https://www.legislation.gov.uk/nisr/2003/323), [art. 2](https://www.legislation.gov.uk/nisr/2003/323/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2003/323/schedule); [art. 15](https://www.legislation.gov.uk/nisi/1999/2789/article/15) in operation for certain purposes at 1.12.2003 by [S.R. 2003/476](https://www.legislation.gov.uk/nisr/2003/476), [art. 2](https://www.legislation.gov.uk/nisr/2003/476/article/2); [art. 15](https://www.legislation.gov.uk/nisi/1999/2789/article/15) in operation for certain purposes at 1.8.2009 by [S.R. 2009/275](https://www.legislation.gov.uk/nisr/2009/275), [art. 2](https://www.legislation.gov.uk/nisr/2009/275/article/2)
 
@@ -1451,77 +1451,77 @@ Article 40(2).
 
 [^c22545631]: Textual amendment: [Art. 15(9A)](https://www.legislation.gov.uk/nisi/1999/2789/article/15/9A) inserted (1.1.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 10(2)](https://www.legislation.gov.uk/nia/2011/24/section/10/2), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3) (with [s. 106(4)](https://www.legislation.gov.uk/nia/2011/24/section/106/4), [Sch. 6 para. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/6/paragraph/2)); [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)
 
-[^key-886b281a4ff5032b06dce417c22535a7]: Textual amendment: [Art. 15(10)](https://www.legislation.gov.uk/nisi/1999/2789/article/15/10) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 15(a)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/15/a); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-886b281a4ff5032b06dce417c22535a7]: Textual amendment: [Art. 15(10)](https://www.legislation.gov.uk/nisi/1999/2789/article/15/10) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 15(a)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/15/a); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-3325d01b76f6fe8b0eea9baa3c9198f2]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisi/1999/2789/article/16) in operation at 3.4.2017 for specified purposes by [S.R. 2017/5](https://www.legislation.gov.uk/nisr/2017/5), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/5/article/2/a)
+[^c-3325d01b76f6fe8b0eea9baa3c9198f2]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisi/1999/2789/article/16) in operation at 3.4.2017 for specified purposes by [S.R. 2017/5](https://www.legislation.gov.uk/nisr/2017/5), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/5/article/2/a)
 
-[^key-a1a2d1d799ca00b46bf69bbcfaa047a6]: Commencement: Art. 17 in operation at 10.5.2013 for specified purposes by [S.R. 2013/126](https://www.legislation.gov.uk/nisr/2013/126), [art. 2](https://www.legislation.gov.uk/nisr/2013/126/article/2); art. 17 in operation for specified purposes at 11.11.2013 by S.R. 2013/251, art. 2(a)
+[^c-a1a2d1d799ca00b46bf69bbcfaa047a6]: Commencement: Art. 17 in operation at 10.5.2013 for specified purposes by [S.R. 2013/126](https://www.legislation.gov.uk/nisr/2013/126), [art. 2](https://www.legislation.gov.uk/nisr/2013/126/article/2); art. 17 in operation for specified purposes at 11.11.2013 by S.R. 2013/251, art. 2(a)
 
-[^key-29a9ba2b458f623931defab62d14f4b6]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisi/1999/2789/article/17) in operation at 1.4.2015 for specified purposes by [S.R. 2015/157](https://www.legislation.gov.uk/nisr/2015/157), [art. 2](https://www.legislation.gov.uk/nisr/2015/157/article/2)
+[^c-29a9ba2b458f623931defab62d14f4b6]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisi/1999/2789/article/17) in operation at 1.4.2015 for specified purposes by [S.R. 2015/157](https://www.legislation.gov.uk/nisr/2015/157), [art. 2](https://www.legislation.gov.uk/nisr/2015/157/article/2)
 
-[^key-e51284d62a271d43a74f9563ff4bd3c6]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisi/1999/2789/article/17) in operation at 3.4.2017 for specified purposes by [S.R. 2017/5](https://www.legislation.gov.uk/nisr/2017/5), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/5/article/2/b)
+[^c-e51284d62a271d43a74f9563ff4bd3c6]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisi/1999/2789/article/17) in operation at 3.4.2017 for specified purposes by [S.R. 2017/5](https://www.legislation.gov.uk/nisr/2017/5), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/5/article/2/b)
 
 [^m00004]: Marginal citation: 1979 NI 19.
 
 [^m00005]: Marginal citation: 1979 NI 19.
 
-[^key-f8f7dcdfb93e36ab6f3e4fc70e8a8cbb]: Textual amendment: [Art. 21(5)](https://www.legislation.gov.uk/nisi/1999/2789/article/21/5) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(5)](https://www.legislation.gov.uk/nia/2015/2/section/24/5), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-f8f7dcdfb93e36ab6f3e4fc70e8a8cbb]: Textual amendment: [Art. 21(5)](https://www.legislation.gov.uk/nisi/1999/2789/article/21/5) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(5)](https://www.legislation.gov.uk/nia/2015/2/section/24/5), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
 
-[^key-5cb6caba7615d4802a82ec525c5c2529]: Textual amendment: Words in [Pt. 2A](https://www.legislation.gov.uk/nisi/1999/2789/part/2A) inserted (10.5.2013 for specified purposes, 11.11.2013 for specified purposes, 1.4.2015 for specified purposes, 3.4.2017 for specified purposes) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 12(2)](https://www.legislation.gov.uk/nia/2011/24/section/12/2), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2013/125](https://www.legislation.gov.uk/nisr/2013/125), [art. 2](https://www.legislation.gov.uk/nisr/2013/125/article/2); [S.R. 2013/252](https://www.legislation.gov.uk/nisr/2013/252), [art. 2](https://www.legislation.gov.uk/nisr/2013/252/article/2); [S.R. 2015/158](https://www.legislation.gov.uk/nisr/2015/158), [art. 2](https://www.legislation.gov.uk/nisr/2015/158/article/2); [S.R. 2017/6](https://www.legislation.gov.uk/nisr/2017/6), [art. 2](https://www.legislation.gov.uk/nisr/2017/6/article/2)
+[^c-5cb6caba7615d4802a82ec525c5c2529]: Textual amendment: Words in [Pt. 2A](https://www.legislation.gov.uk/nisi/1999/2789/part/2A) inserted (10.5.2013 for specified purposes, 11.11.2013 for specified purposes, 1.4.2015 for specified purposes, 3.4.2017 for specified purposes) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 12(2)](https://www.legislation.gov.uk/nia/2011/24/section/12/2), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2013/125](https://www.legislation.gov.uk/nisr/2013/125), [art. 2](https://www.legislation.gov.uk/nisr/2013/125/article/2); [S.R. 2013/252](https://www.legislation.gov.uk/nisr/2013/252), [art. 2](https://www.legislation.gov.uk/nisr/2013/252/article/2); [S.R. 2015/158](https://www.legislation.gov.uk/nisr/2015/158), [art. 2](https://www.legislation.gov.uk/nisr/2015/158/article/2); [S.R. 2017/6](https://www.legislation.gov.uk/nisr/2017/6), [art. 2](https://www.legislation.gov.uk/nisr/2017/6/article/2)
 
 [^c21161651]: Textual amendment: Pt. 2A (arts. 21A-21C) inserted (2.2.2009) by [Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [82(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/82/2); [S.R. 2008/472](https://www.legislation.gov.uk/nisr/2008/472), [art. 2(4)](https://www.legislation.gov.uk/nisr/2008/472/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/2008/472/schedule/part/IV)
 
 [^c22545651]: Textual amendment: Art. 21A substituted (5.7.2011) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 19](https://www.legislation.gov.uk/nia/2011/24/section/19), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3) (with [s. 106(4)](https://www.legislation.gov.uk/nia/2011/24/section/106/4)); [S.R. 2011/224](https://www.legislation.gov.uk/nisr/2011/224), [art. 2(a)](https://www.legislation.gov.uk/nisr/2011/224/article/2/a)
 
-[^key-a38af3965f2579c6712315de57a2f3cd]: Textual amendment: [Arts. 21BA](https://www.legislation.gov.uk/nisi/1999/2789/article/21BA), [21BB](https://www.legislation.gov.uk/nisi/1999/2789/article/21BB) inserted (10.5.2013 for specified purposes, 11.11.2013 for specified purposes, 1.4.2015 for specified purposes, 3.4.2017 for specified purposes) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 12(1)](https://www.legislation.gov.uk/nia/2011/24/section/12/1), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2013/125](https://www.legislation.gov.uk/nisr/2013/125), [art. 2](https://www.legislation.gov.uk/nisr/2013/125/article/2); [S.R. 2013/252](https://www.legislation.gov.uk/nisr/2013/252), [art. 2](https://www.legislation.gov.uk/nisr/2013/252/article/2); [S.R. 2015/158](https://www.legislation.gov.uk/nisr/2015/158), [art. 2](https://www.legislation.gov.uk/nisr/2015/158/article/2); [S.R. 2017/6](https://www.legislation.gov.uk/nisr/2017/6), [art. 2](https://www.legislation.gov.uk/nisr/2017/6/article/2)
+[^c-a38af3965f2579c6712315de57a2f3cd]: Textual amendment: [Arts. 21BA](https://www.legislation.gov.uk/nisi/1999/2789/article/21BA), [21BB](https://www.legislation.gov.uk/nisi/1999/2789/article/21BB) inserted (10.5.2013 for specified purposes, 11.11.2013 for specified purposes, 1.4.2015 for specified purposes, 3.4.2017 for specified purposes) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 12(1)](https://www.legislation.gov.uk/nia/2011/24/section/12/1), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2013/125](https://www.legislation.gov.uk/nisr/2013/125), [art. 2](https://www.legislation.gov.uk/nisr/2013/125/article/2); [S.R. 2013/252](https://www.legislation.gov.uk/nisr/2013/252), [art. 2](https://www.legislation.gov.uk/nisr/2013/252/article/2); [S.R. 2015/158](https://www.legislation.gov.uk/nisr/2015/158), [art. 2](https://www.legislation.gov.uk/nisr/2015/158/article/2); [S.R. 2017/6](https://www.legislation.gov.uk/nisr/2017/6), [art. 2](https://www.legislation.gov.uk/nisr/2017/6/article/2)
 
 [^M_F_aee889b2-6b6e-4096-f201-123bad07a7e3]: Textual amendment: Words in art. 21BA inserted by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 12(1)](https://www.legislation.gov.uk/nia/2011/24/section/12/1) as amended (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 11(1)-(3)](https://www.legislation.gov.uk/nia/2013/7/section/11/1), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
 
-[^key-fcd33b4ef1e954b86a75c525184e8d30]: Textual amendment: Words in [art. 22](https://www.legislation.gov.uk/nisi/1999/2789/article/22) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(6)](https://www.legislation.gov.uk/nia/2015/2/section/24/6), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-fcd33b4ef1e954b86a75c525184e8d30]: Textual amendment: Words in [art. 22](https://www.legislation.gov.uk/nisi/1999/2789/article/22) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(6)](https://www.legislation.gov.uk/nia/2015/2/section/24/6), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
 
-[^key-511b24b16631d3187404302b4f879519]: Textual amendment: [Art. 22A](https://www.legislation.gov.uk/nisi/1999/2789/article/22A) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(2)](https://www.legislation.gov.uk/nia/2021/2/section/24/2); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
+[^c-511b24b16631d3187404302b4f879519]: Textual amendment: [Art. 22A](https://www.legislation.gov.uk/nisi/1999/2789/article/22A) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(2)](https://www.legislation.gov.uk/nia/2021/2/section/24/2); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
 
-[^key-185cf06ae0eeccf40d2043dfcd5cab78]: Textual amendment: [Art. 22B](https://www.legislation.gov.uk/nisi/1999/2789/article/22B) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(3)](https://www.legislation.gov.uk/nia/2022/17/section/3/3), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-185cf06ae0eeccf40d2043dfcd5cab78]: Textual amendment: [Art. 22B](https://www.legislation.gov.uk/nisi/1999/2789/article/22B) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(3)](https://www.legislation.gov.uk/nia/2022/17/section/3/3), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
 [^c17054541]: Textual amendment: [2003 NI 13](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-d692cbb54991dd30278d97c74f0ea532]: Textual amendment: [Art. 23(3)(cc)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/3/cc) substituted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(7)](https://www.legislation.gov.uk/nia/2015/2/section/24/7), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-d692cbb54991dd30278d97c74f0ea532]: Textual amendment: [Art. 23(3)(cc)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/3/cc) substituted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(7)](https://www.legislation.gov.uk/nia/2015/2/section/24/7), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
 
-[^key-12074cc2f1345fa758d8bf508c12d99a]: Textual amendment: [Art. 23(3)(cd)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/3/cd) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(3)(a)](https://www.legislation.gov.uk/nia/2021/2/section/24/3/a); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
+[^c-12074cc2f1345fa758d8bf508c12d99a]: Textual amendment: [Art. 23(3)(cd)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/3/cd) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(3)(a)](https://www.legislation.gov.uk/nia/2021/2/section/24/3/a); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
 
-[^key-f07238000c7bc155d5f12461b5526406]: Textual amendment: [Art. 23(3)(ce)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/3/ce) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(4)(a)](https://www.legislation.gov.uk/nia/2022/17/section/3/4/a), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-f07238000c7bc155d5f12461b5526406]: Textual amendment: [Art. 23(3)(ce)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/3/ce) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(4)(a)](https://www.legislation.gov.uk/nia/2022/17/section/3/4/a), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-13bb76d1eedd653036dc1c02867dab43]: Textual amendment: Words in [art. 23(4)(a)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/4/a) substituted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(3)(b)](https://www.legislation.gov.uk/nia/2021/2/section/24/3/b); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
+[^c-13bb76d1eedd653036dc1c02867dab43]: Textual amendment: Words in [art. 23(4)(a)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/4/a) substituted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(3)(b)](https://www.legislation.gov.uk/nia/2021/2/section/24/3/b); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
 
-[^key-c138db31fd5af3a5b1b09a6a8486a26d]: Textual amendment: Words in [art. 23(4)(a)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/4/a) substituted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(4)(b)](https://www.legislation.gov.uk/nia/2022/17/section/3/4/b), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-c138db31fd5af3a5b1b09a6a8486a26d]: Textual amendment: Words in [art. 23(4)(a)](https://www.legislation.gov.uk/nisi/1999/2789/article/23/4/a) substituted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(4)(b)](https://www.legislation.gov.uk/nia/2022/17/section/3/4/b), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
 [^c22545671]: Textual amendment: Word in art. 23(4)(a) substituted (1.1.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 13](https://www.legislation.gov.uk/nia/2011/24/section/13), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3) (with [s. 106(4)](https://www.legislation.gov.uk/nia/2011/24/section/106/4)); [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(b)](https://www.legislation.gov.uk/nisr/2011/370/article/3/b)
 
-[^key-020707a5e396f9580ae507b9291f0e97]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/1) substituted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(4)(a)](https://www.legislation.gov.uk/nia/2021/2/section/24/4/a); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
+[^c-020707a5e396f9580ae507b9291f0e97]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/1) substituted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(4)(a)](https://www.legislation.gov.uk/nia/2021/2/section/24/4/a); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
 
-[^key-f146432cdbcb57a9bf4422d294a3804a]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/1) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(5)(a)](https://www.legislation.gov.uk/nia/2022/17/section/3/5/a), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-f146432cdbcb57a9bf4422d294a3804a]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/1) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(5)(a)](https://www.legislation.gov.uk/nia/2022/17/section/3/5/a), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-56c06fcefb9be5ea9008cdc6a9937348]: Textual amendment: Words in [art. 24(3)(e)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/3/e) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(4)(b)(i)](https://www.legislation.gov.uk/nia/2021/2/section/24/4/b/i); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
+[^c-56c06fcefb9be5ea9008cdc6a9937348]: Textual amendment: Words in [art. 24(3)(e)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/3/e) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(4)(b)(i)](https://www.legislation.gov.uk/nia/2021/2/section/24/4/b/i); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
 
-[^key-03fdca195335afa82569f550b2f77fef]: Textual amendment: Words in [art. 24(3)(e)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/3/e) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(5)(b)](https://www.legislation.gov.uk/nia/2022/17/section/3/5/b), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-03fdca195335afa82569f550b2f77fef]: Textual amendment: Words in [art. 24(3)(e)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/3/e) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(5)(b)](https://www.legislation.gov.uk/nia/2022/17/section/3/5/b), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-a1a2e1ae3a347be1e22a1067f65a9372]: Textual amendment: Word in [art. 24(3)(e)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/3/e) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(4)(b)(ii)](https://www.legislation.gov.uk/nia/2021/2/section/24/4/b/ii); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
+[^c-a1a2e1ae3a347be1e22a1067f65a9372]: Textual amendment: Word in [art. 24(3)(e)](https://www.legislation.gov.uk/nisi/1999/2789/article/24/3/e) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(4)(b)(ii)](https://www.legislation.gov.uk/nia/2021/2/section/24/4/b/ii); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
 
-[^key-e5076aea322cc7c7d8814392231050d9]: Textual amendment: Word in [art. 26(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/26/1) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(5)](https://www.legislation.gov.uk/nia/2021/2/section/24/5); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
+[^c-e5076aea322cc7c7d8814392231050d9]: Textual amendment: Word in [art. 26(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/26/1) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(5)](https://www.legislation.gov.uk/nia/2021/2/section/24/5); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
 
-[^key-27425ea52e97a67898cb23e1606d84b0]: Textual amendment: Word in [art. 26(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/26/1) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(6)](https://www.legislation.gov.uk/nia/2022/17/section/3/6), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-27425ea52e97a67898cb23e1606d84b0]: Textual amendment: Word in [art. 26(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/26/1) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(6)](https://www.legislation.gov.uk/nia/2022/17/section/3/6), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
 [^c17054601]: Textual amendment: [2003 NI 13](https://www.legislation.gov.uk/2003/ni13)
 
 [^m00006]: Marginal citation: 1996 c. 25.
 
-[^key-0a5b5e766218ec9f50c3ae77c5caa453]: Textual amendment: Word in [art. 27(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/27/1) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(6)](https://www.legislation.gov.uk/nia/2021/2/section/24/6); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
+[^c-0a5b5e766218ec9f50c3ae77c5caa453]: Textual amendment: Word in [art. 27(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/27/1) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 24(6)](https://www.legislation.gov.uk/nia/2021/2/section/24/6); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
 
-[^key-024ec40ce717c85e0ded1504d7706b5f]: Textual amendment: Word in [art. 27(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/27/1) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(7)](https://www.legislation.gov.uk/nia/2022/17/section/3/7), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-024ec40ce717c85e0ded1504d7706b5f]: Textual amendment: Word in [art. 27(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/27/1) inserted (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 3(7)](https://www.legislation.gov.uk/nia/2022/17/section/3/7), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-988702495ddc87b1d85996ad38ca8384]: Textual amendment: [Arts. 27A-27F](https://www.legislation.gov.uk/nisi/1999/2789/article/27A) and cross-headings inserted (28.9.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 19(2)](https://www.legislation.gov.uk/nia/2022/19/section/19/2), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3) (with [arts. 4](https://www.legislation.gov.uk/nisr/2023/142/article/4), [5](https://www.legislation.gov.uk/nisr/2023/142/article/5))
+[^c-988702495ddc87b1d85996ad38ca8384]: Textual amendment: [Arts. 27A-27F](https://www.legislation.gov.uk/nisi/1999/2789/article/27A) and cross-headings inserted (28.9.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 19(2)](https://www.legislation.gov.uk/nia/2022/19/section/19/2), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/142](https://www.legislation.gov.uk/nisr/2023/142), [art. 3](https://www.legislation.gov.uk/nisr/2023/142/article/3) (with [arts. 4](https://www.legislation.gov.uk/nisr/2023/142/article/4), [5](https://www.legislation.gov.uk/nisr/2023/142/article/5))
 
-[^key-6a3353878fbfd488b16cbdd639bde68d]: Textual amendment: Words in [art. 29(3)(a)](https://www.legislation.gov.uk/nisi/1999/2789/article/29/3/a) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 15(b)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/15/b); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-6a3353878fbfd488b16cbdd639bde68d]: Textual amendment: Words in [art. 29(3)(a)](https://www.legislation.gov.uk/nisi/1999/2789/article/29/3/a) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 15(b)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/15/b); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^m00007]: Marginal citation: 1995 NI 3.
 
@@ -1533,6 +1533,6 @@ Article 40(2).
 
 [^c22025431]: Textual amendment: Words in [art. 38(1)](https://www.legislation.gov.uk/nisi/1999/2789/article/38/1) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2010/976/article/4/3), [Sch. 2 para. 21(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/2/paragraph/21/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-090a369ae3a5bf969eb5b959ba397dfa]: Textual amendment: [Art. 39(3)](https://www.legislation.gov.uk/nisi/1999/2789/article/39/3) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(8)](https://www.legislation.gov.uk/nia/2015/2/section/24/8), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-090a369ae3a5bf969eb5b959ba397dfa]: Textual amendment: [Art. 39(3)](https://www.legislation.gov.uk/nisi/1999/2789/article/39/3) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 24(8)](https://www.legislation.gov.uk/nia/2015/2/section/24/8), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
 
 [^c22026111]: Commencement: Art. 40 partly in operation; art. 40 not in operation at date of making see art. 1(2); art. 40 in operation for specified purposes at 30.6.2003 by [S.R. 2003/323](https://www.legislation.gov.uk/nisr/2003/323), [art. 2](https://www.legislation.gov.uk/nisr/2003/323/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2003/323/schedule); art. 40 in operation for certain purposes at 1.12.2003 by [S.R. 2003/476](https://www.legislation.gov.uk/nisr/2003/476), [art. 2](https://www.legislation.gov.uk/nisr/2003/476/article/2); art. 40(1) in operation for certain purposes at 8.11.2004 by [S.R. 2004/486](https://www.legislation.gov.uk/nisr/2004/486), [art. 2](https://www.legislation.gov.uk/nisr/2004/486/article/2); art. 40(1) in operation for certain purposes at 21.12.2004 by [S.R. 2004/531](https://www.legislation.gov.uk/nisr/2004/531), [art. 2](https://www.legislation.gov.uk/nisr/2004/531/article/2); art. 40 in operation for specified purposes at 4.5.2010 by [S.R. 2010/142](https://www.legislation.gov.uk/nisr/2010/142), [art. 2](https://www.legislation.gov.uk/nisr/2010/142/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2010/142/schedule); art. 40 in operation for specified purposes at 11.11.2013 by S.R. 2013/251, art. 2(b)

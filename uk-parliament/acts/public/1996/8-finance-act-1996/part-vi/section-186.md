@@ -28,7 +28,7 @@ summary: ''
 - “**electronic transfer system**” means a system and procedures which, in accordance with the relevant regulations, enable title to securities to be evidenced and transferred without a written instrument;
 - “**member**”, in relation to an electronic transfer system, means a person who is permitted by the operator of the system to transfer by means of the system title to securities held by him in uncertificated form;
 - “**operator**” means a person approved by the Treasury under the relevant regulations as operator of an electronic transfer system;
-- “**the relevant regulations**” means regulations under section 785[^key-f22f4df575df6159fab060d1dd030f01] of the [^c14613211]Companies Act 2006 (transfer without written instrument);
+- “**the relevant regulations**” means regulations under section 785[^c-f22f4df575df6159fab060d1dd030f01] of the [^c14613211]Companies Act 2006 (transfer without written instrument);
 - “**securities**” means stock or marketable securities;
 - “**uncertificated form**” has the same meaning as it has in the relevant regulations.
 
@@ -40,7 +40,7 @@ summary: ''
 
 [^c14613201]: Textual amendment: Ss. 186-196 repealed (with effect as mentioned in Sch. 41 Pt. VII, Note 4 of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. VII](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/VII)
 
-[^key-f22f4df575df6159fab060d1dd030f01]: Textual amendment: Word in [s. 186(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/186/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [10](https://www.legislation.gov.uk/uksi/2009/1890/article/10)
+[^c-f22f4df575df6159fab060d1dd030f01]: Textual amendment: Word in [s. 186(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/186/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [10](https://www.legislation.gov.uk/uksi/2009/1890/article/10)
 
 [^c14613211]: Marginal citation: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
 

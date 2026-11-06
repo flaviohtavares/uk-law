@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Prohibition of use of psychoactive substances[^key-c306acf89f2578f86228c197c2da0d8a]
+## 148. Prohibition of use of psychoactive substances[^c-c306acf89f2578f86228c197c2da0d8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not act as an air traffic controller or student air traffic contro
 
 ## Annotations
 
-[^key-c306acf89f2578f86228c197c2da0d8a]: Textual amendment: [Art. 148](https://www.legislation.gov.uk/uksi/2013/2870/article/148) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2021/755/article/16/3)
+[^c-c306acf89f2578f86228c197c2da0d8a]: Textual amendment: [Art. 148](https://www.legislation.gov.uk/uksi/2013/2870/article/148) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2021/755/article/16/3)

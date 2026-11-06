@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Appropriate agency[^key-3efc0d0891605584a21aa5d0f8017dcb]
+## 5. Appropriate agency[^c-3efc0d0891605584a21aa5d0f8017dcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3efc0d0891605584a21aa5d0f8017dcb]: Commencement: Reg. 5 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-3efc0d0891605584a21aa5d0f8017dcb]: Commencement: Reg. 5 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

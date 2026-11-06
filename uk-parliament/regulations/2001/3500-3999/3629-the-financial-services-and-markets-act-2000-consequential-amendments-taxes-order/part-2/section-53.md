@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Meaning of “financial trading stock” in relation to a building society[^key-a702f42eaa55728feb1f590443d14ed1]
+## 53. Meaning of “financial trading stock” in relation to a building society[^c-a702f42eaa55728feb1f590443d14ed1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ In paragraph 2(3) of Schedule 12 to the Finance Act 1988 (meaning of “financia
 
 ## Annotations
 
-[^key-a702f42eaa55728feb1f590443d14ed1]: Commencement: Art. 53 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-a702f42eaa55728feb1f590443d14ed1]: Commencement: Art. 53 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00076]: Footnote: Paragraph 2(3) was amended by section 45(2) of the Building Societies Act [1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32).
 

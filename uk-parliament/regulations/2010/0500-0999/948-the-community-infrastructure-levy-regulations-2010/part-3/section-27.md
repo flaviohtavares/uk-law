@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Effect of correction of a charging schedule[^key-bdc502f72f497e45072b4234677ee344]
+## 27. Effect of correction of a charging schedule[^c-bdc502f72f497e45072b4234677ee344]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdc502f72f497e45072b4234677ee344]: Commencement: Reg. 27 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-bdc502f72f497e45072b4234677ee344]: Commencement: Reg. 27 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00022]: Footnote: As to the requirements relating to service of a liability notice, see regulation 65.

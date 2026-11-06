@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. The non-corporate distribution rate[^key-ce6683bd249de21c2d4dd6f35a35d096]
+## 28. The non-corporate distribution rate[^c-ce6683bd249de21c2d4dd6f35a35d096]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce6683bd249de21c2d4dd6f35a35d096]: Textual amendment: S. 28 repealed (with effect in accordance with Sch. 26 Pt. 3(1) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/1)
+[^c-ce6683bd249de21c2d4dd6f35a35d096]: Textual amendment: S. 28 repealed (with effect in accordance with Sch. 26 Pt. 3(1) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/1)

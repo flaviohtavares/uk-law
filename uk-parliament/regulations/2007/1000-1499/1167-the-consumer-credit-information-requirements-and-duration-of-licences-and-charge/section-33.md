@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Amendments to the Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983[^key-7dad3131b69c7f37fd309b8c6e373575]
+## 33. Amendments to the Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983[^c-7dad3131b69c7f37fd309b8c6e373575]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7dad3131b69c7f37fd309b8c6e373575]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2007/1167/regulation/33) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-7dad3131b69c7f37fd309b8c6e373575]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2007/1167/regulation/33) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 1983/1561](https://www.legislation.gov.uk/uksi/1983/1561), as amended by [SI 2004/3237](https://www.legislation.gov.uk/uksi/2004/3237). Other amendments are not relevant to these Regulations.

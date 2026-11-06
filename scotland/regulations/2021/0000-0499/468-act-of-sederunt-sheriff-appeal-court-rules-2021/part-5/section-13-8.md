@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13.8. Issuing of orders by email[^key-7da36a2112bc601ae52f65e1ef053033]
+## 13.8. Issuing of orders by email[^c-7da36a2112bc601ae52f65e1ef053033]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the Court makes an order determining a motion which was lodged in accordan
 
 ## Annotations
 
-[^key-7da36a2112bc601ae52f65e1ef053033]: Commencement: Para. 13.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-7da36a2112bc601ae52f65e1ef053033]: Commencement: Para. 13.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

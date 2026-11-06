@@ -72,7 +72,7 @@ the court may, on the application of any other party, permit that party to call 
 
 (2) An application for permission to cross-examine<sup>(GL)</sup> under this rule must be made within 14 days beginning with the date on which a notice of intention to rely on the hearsay evidence was served on the applicant.
 
-([^key-954b2b855f5f85da94a695badcb51eef]... )
+([^c-954b2b855f5f85da94a695badcb51eef]... )
 
 ## 23.5. Credibility
 
@@ -143,11 +143,11 @@ the party who so wishes must give notice of that intention to the party who prop
 
 In proceedings to which Part 9 (financial remedies) applies*,* a document purporting to contain the written consent of a person to act as trustee and to bear that person's signature verified by some other person is evidence of such consent.
 
-## 23.9. Note of oral evidence ...[^key-714a253c99824a92ae8243766d4742c3]
+## 23.9. Note of oral evidence ...[^c-714a253c99824a92ae8243766d4742c3]
 
 *Extent: E+W*
 
-In proceedings in the family court before a lay justice or lay justices[^key-ade508aa49d67a6a8a62838cfd6eb6b5], the justices’ legal adviser[^key-e43aba3d3d9107975e3951bb4f25a075] or the court shall keep a note of the substance of the oral evidence given at a directions appointment or at a hearing of any proceedings.
+In proceedings in the family court before a lay justice or lay justices[^c-ade508aa49d67a6a8a62838cfd6eb6b5], the justices’ legal adviser[^c-e43aba3d3d9107975e3951bb4f25a075] or the court shall keep a note of the substance of the oral evidence given at a directions appointment or at a hearing of any proceedings.
 
 ## Annotations
 
@@ -155,10 +155,10 @@ In proceedings in the family court before a lay justice or lay justices[^key-ade
 
 [^c20648931]: Marginal citation: [1995 c.38](https://www.legislation.gov.uk/ukpga/1995/38).
 
-[^key-954b2b855f5f85da94a695badcb51eef]: Textual amendment: Words in [rule 23.4](https://www.legislation.gov.uk/uksi/2010/2955/rule/23.4) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-954b2b855f5f85da94a695badcb51eef]: Textual amendment: Words in [rule 23.4](https://www.legislation.gov.uk/uksi/2010/2955/rule/23.4) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-714a253c99824a92ae8243766d4742c3]: Textual amendment: Words in rule 23.9 heading omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [17(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/17/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-714a253c99824a92ae8243766d4742c3]: Textual amendment: Words in rule 23.9 heading omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [17(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/17/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-ade508aa49d67a6a8a62838cfd6eb6b5]: Textual amendment: Words in rule 23.9 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [17(b)](https://www.legislation.gov.uk/uksi/2014/667/rule/17/b) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-ade508aa49d67a6a8a62838cfd6eb6b5]: Textual amendment: Words in rule 23.9 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [17(b)](https://www.legislation.gov.uk/uksi/2014/667/rule/17/b) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-e43aba3d3d9107975e3951bb4f25a075]: Textual amendment: Words in [rule 23.9](https://www.legislation.gov.uk/uksi/2010/2955/rule/23.9) substituted (6.4.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [25](https://www.legislation.gov.uk/uksi/2020/135/rule/25)
+[^c-e43aba3d3d9107975e3951bb4f25a075]: Textual amendment: Words in [rule 23.9](https://www.legislation.gov.uk/uksi/2010/2955/rule/23.9) substituted (6.4.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [25](https://www.legislation.gov.uk/uksi/2020/135/rule/25)

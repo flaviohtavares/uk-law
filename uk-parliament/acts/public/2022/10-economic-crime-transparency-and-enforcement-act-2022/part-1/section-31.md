@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Court powers on ordering removal of material from the register[^key-a79b49a353c37c080c5063150138000e][^key-b3d2260e14fc9fac91df3ee645f8e459][^key-d28ab19f83fdc6dc05243c98dec0f8ad]
+## 31. Court powers on ordering removal of material from the register[^c-a79b49a353c37c080c5063150138000e][^c-b3d2260e14fc9fac91df3ee645f8e459][^c-d28ab19f83fdc6dc05243c98dec0f8ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a79b49a353c37c080c5063150138000e]: Commencement: S. 31 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-a79b49a353c37c080c5063150138000e]: Commencement: S. 31 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-b3d2260e14fc9fac91df3ee645f8e459]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/10/section/31) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/h)
+[^c-b3d2260e14fc9fac91df3ee645f8e459]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/10/section/31) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/h)
 
-[^key-d28ab19f83fdc6dc05243c98dec0f8ad]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/10/section/31) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-d28ab19f83fdc6dc05243c98dec0f8ad]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/10/section/31) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

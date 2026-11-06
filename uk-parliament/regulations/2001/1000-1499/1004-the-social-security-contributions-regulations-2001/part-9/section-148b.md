@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148B.[^key-9fdb7bc0d601e8efbfab587709bad0a2]
+## 148B.[^c-9fdb7bc0d601e8efbfab587709bad0a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fdb7bc0d601e8efbfab587709bad0a2]: Textual amendment: [Reg. 148B](https://www.legislation.gov.uk/uksi/2001/1004/regulation/148B) inserted (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [17](https://www.legislation.gov.uk/uksi/2015/478/regulation/17)
+[^c-9fdb7bc0d601e8efbfab587709bad0a2]: Textual amendment: [Reg. 148B](https://www.legislation.gov.uk/uksi/2001/1004/regulation/148B) inserted (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [17](https://www.legislation.gov.uk/uksi/2015/478/regulation/17)

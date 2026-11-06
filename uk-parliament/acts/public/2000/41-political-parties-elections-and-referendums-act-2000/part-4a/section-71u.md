@@ -30,7 +30,7 @@ to apply in relation to the specified election period in the case of one or more
 
 (2) In this section “**specified election period**” and “**relevant election**” have the meanings given in section 67.
 
-(3)[^key-5297b91b4304db0a3898ea7843ff86bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5297b91b4304db0a3898ea7843ff86bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -40,4 +40,4 @@ to apply in relation to the specified election period in the case of one or more
 
 [^c20235161]: Editorial: The insertion of the new heading "Chapter 1" in Pt. 4A on 1.7.2008 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under that new heading.
 
-[^key-5297b91b4304db0a3898ea7843ff86bf]: Textual amendment: S. 71U(3) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-5297b91b4304db0a3898ea7843ff86bf]: Textual amendment: S. 71U(3) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

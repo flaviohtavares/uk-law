@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Non-Domestic Rating (Hardship Relief) Regulations (Northern Ireland) 2005 (revoked)[^key-b3dd1ba148e7f3a49816c4d3c31551c5]
+Non-Domestic Rating (Hardship Relief) Regulations (Northern Ireland) 2005 (revoked)[^c-b3dd1ba148e7f3a49816c4d3c31551c5]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 31st December 2005
 
-[^key-b3dd1ba148e7f3a49816c4d3c31551c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3dd1ba148e7f3a49816c4d3c31551c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b3dd1ba148e7f3a49816c4d3c31551c5]
+## 1. Citation, commencement and interpretation[^c-b3dd1ba148e7f3a49816c4d3c31551c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Hardship relief[^key-b3dd1ba148e7f3a49816c4d3c31551c5]
+## 2. Hardship relief[^c-b3dd1ba148e7f3a49816c4d3c31551c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Hereditaments excluded from hardship relief[^key-b3dd1ba148e7f3a49816c4d3c31551c5]
+## 3. Hereditaments excluded from hardship relief[^c-b3dd1ba148e7f3a49816c4d3c31551c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3dd1ba148e7f3a49816c4d3c31551c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3dd1ba148e7f3a49816c4d3c31551c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — HEREDITAMENTS TO BE EXCLUDED FROM HARDSHIP RELIEF[^key-b3dd1ba148e7f3a49816c4d3c31551c5]
+## SCHEDULE — HEREDITAMENTS TO BE EXCLUDED FROM HARDSHIP RELIEF[^c-b3dd1ba148e7f3a49816c4d3c31551c5]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3dd1ba148e7f3a49816c4d3c31551c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3dd1ba148e7f3a49816c4d3c31551c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3dd1ba148e7f3a49816c4d3c31551c5]: Textual amendment: Regulations revoked (1.4.2007) by [The Non-Domestic Rating (Hardship Relief) Regulations (Northern Ireland) 2007 (S.R. 2007/20)](https://www.legislation.gov.uk/nisr/2007/20), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/20/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/20/regulation/5)
+[^c-b3dd1ba148e7f3a49816c4d3c31551c5]: Textual amendment: Regulations revoked (1.4.2007) by [The Non-Domestic Rating (Hardship Relief) Regulations (Northern Ireland) 2007 (S.R. 2007/20)](https://www.legislation.gov.uk/nisr/2007/20), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/20/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/20/regulation/5)

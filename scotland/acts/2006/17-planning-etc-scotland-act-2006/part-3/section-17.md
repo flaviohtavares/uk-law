@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Local developments: schemes of delegation[^key-a106f576d85a872d042ef04e4b46cb28][^key-1626c2b807b334265fa42b4a7ee21411][^key-37107a76808214a53a9578d33e6173ae]
+## 17. Local developments: schemes of delegation[^c-a106f576d85a872d042ef04e4b46cb28][^c-1626c2b807b334265fa42b4a7ee21411][^c-37107a76808214a53a9578d33e6173ae]
 
 *Extent: S*
 
@@ -114,8 +114,8 @@ After section 43 of the principal Act insert—
 
 ## Annotations
 
-[^key-a106f576d85a872d042ef04e4b46cb28]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/17/section/17) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-a106f576d85a872d042ef04e4b46cb28]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/17/section/17) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-1626c2b807b334265fa42b4a7ee21411]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/17/section/17) in force at 6.4.2009 for specified purposes by [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
+[^c-1626c2b807b334265fa42b4a7ee21411]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/17/section/17) in force at 6.4.2009 for specified purposes by [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
 
-[^key-37107a76808214a53a9578d33e6173ae]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/17/section/17) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-37107a76808214a53a9578d33e6173ae]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/17/section/17) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

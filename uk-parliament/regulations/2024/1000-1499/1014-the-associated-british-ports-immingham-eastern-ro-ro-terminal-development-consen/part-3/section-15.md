@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Application of the 1981 Act[^key-7be42f04f9cddfe5cc069ad2eefd83ad]
+## 15. Application of the 1981 Act[^c-7be42f04f9cddfe5cc069ad2eefd83ad]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (5) Omit section 5A[^f00038] (time limit for general vesting declaration).
 
-(6) In section 5B[^f00039] (extension of time limit during challenge) for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the applicable period for the purposes of section 5A” substitute “section 118 (legal challenges relating to applications for orders granting development consent) of the Planning Act 2008, the five year period mentioned in article 11of the Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Order 2024[^key-daee7307ebad6295164ebc375fa166bc]”.
+(6) In section 5B[^f00039] (extension of time limit during challenge) for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the applicable period for the purposes of section 5A” substitute “section 118 (legal challenges relating to applications for orders granting development consent) of the Planning Act 2008, the five year period mentioned in article 11of the Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Order 2024[^c-daee7307ebad6295164ebc375fa166bc]”.
 
 (7) In section 6[^f00040] (notices after execution of declaration), in subsection (1)(b) for “section 15 of, or paragraph 6 of Schedule 1 to, the Acquisition of Land Act 1981” substitute “section 134[^f00041] (notice of authorisation of compulsory acquisition) of the Planning Act 2008”.
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7be42f04f9cddfe5cc069ad2eefd83ad]: Commencement: Art. 15 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-7be42f04f9cddfe5cc069ad2eefd83ad]: Commencement: Art. 15 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00037]: Footnote: Section 5 was amended by paragraph 6 of Schedule 15 to the Housing and Planning Act 2016.
 
@@ -52,7 +52,7 @@ summary: ''
 
 [^f00039]: Footnote: Section 5B was inserted by section 202(2) of the Housing and Planning Act 2016 and amended by section 185(3)(b) of the Levelling up and Regeneration Act 2023.
 
-[^key-daee7307ebad6295164ebc375fa166bc]: Textual amendment: Word in [art. 15(6)](https://www.legislation.gov.uk/uksi/2024/1014/article/15/6) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
+[^c-daee7307ebad6295164ebc375fa166bc]: Textual amendment: Word in [art. 15(6)](https://www.legislation.gov.uk/uksi/2024/1014/article/15/6) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
 
 [^f00040]: Footnote: Section 6 was amended by section 4 of, and paragraph 52(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and paragraph 7 of Schedule 15 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

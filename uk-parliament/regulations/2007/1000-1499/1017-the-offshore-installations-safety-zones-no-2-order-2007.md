@@ -41,11 +41,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by sections 22(1) and (2) of the Petroleum Act 1987[^f00001] (“the Act”), and for the purpose of giving effect to proposals submitted to him by the Health and Safety Commission under section 24(2A) of the Act, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-d28b56161c04772bc589185bda5e6e4a]
+## 1. Citation and commencement[^c-d28b56161c04772bc589185bda5e6e4a]
 
 This Order may be cited as the Offshore Installations (Safety Zones) (No.2) Order 2007 and shall come into force on 16th April 2007.
 
-## 2. Establishment of safety zones[^key-0cb532e67bebf862f42fb807d87d82ca]
+## 2. Establishment of safety zones[^c-0cb532e67bebf862f42fb807d87d82ca]
 
 A safety zone is established around each installation specified in column 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of the Schedule.
 
@@ -59,14 +59,14 @@ Department for Work and Pensions
 
 26th March 2007
 
-## SCHEDULE — SAFETY ZONES[^key-194488107221935dbf168f3e465baa16]
+## SCHEDULE — SAFETY ZONES[^c-194488107221935dbf168f3e465baa16]
 
 Article 2
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude North* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
 | Saxon DC8 Manifold,<br>Block 21/23b, Saxon Field | 57° 15.511’ | 00° 28.752’ E |
-| [^key-6f3449b4f9c17739060fff9e59d83295]. . . | [^key-6f3449b4f9c17739060fff9e59d83295]. . . | [^key-6f3449b4f9c17739060fff9e59d83295]. . . |
+| [^c-6f3449b4f9c17739060fff9e59d83295]. . . | [^c-6f3449b4f9c17739060fff9e59d83295]. . . | [^c-6f3449b4f9c17739060fff9e59d83295]. . . |
 | Starling Drill Centre, Block 29/3A, Starling Field | 56° 57.280’ | 01° 26.268’ E |
 
 EXPLANATORY NOTE
@@ -81,10 +81,10 @@ Vessels, which for this purpose include hovercraft, submersible apparatus and in
 
 [^f00001]: Footnote: [1987 c.12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823).
 
-[^key-d28b56161c04772bc589185bda5e6e4a]: Commencement: Art. 1 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1017/article/1)
+[^c-d28b56161c04772bc589185bda5e6e4a]: Commencement: Art. 1 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1017/article/1)
 
-[^key-0cb532e67bebf862f42fb807d87d82ca]: Commencement: Art. 2 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1017/article/1)
+[^c-0cb532e67bebf862f42fb807d87d82ca]: Commencement: Art. 2 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1017/article/1)
 
-[^key-194488107221935dbf168f3e465baa16]: Commencement: Sch. in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1017/article/1)
+[^c-194488107221935dbf168f3e465baa16]: Commencement: Sch. in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1017/article/1)
 
-[^key-6f3449b4f9c17739060fff9e59d83295]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2007/1017/schedule) omitted (29.12.2025) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2025 (S.I. 2025/1291)](https://www.legislation.gov.uk/uksi/2025/1291), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1291/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/1291/article/3/2)
+[^c-6f3449b4f9c17739060fff9e59d83295]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2007/1017/schedule) omitted (29.12.2025) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2025 (S.I. 2025/1291)](https://www.legislation.gov.uk/uksi/2025/1291), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1291/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/1291/article/3/2)

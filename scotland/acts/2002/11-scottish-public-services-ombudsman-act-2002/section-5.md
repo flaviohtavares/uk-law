@@ -22,7 +22,7 @@ summary: ''
 
 (1) The matters which the Ombudsman is entitled to investigate are—
 
-- (a) in relation to a listed authority other than one to whom paragraph (b), (d) or (e) applies, any action taken by or on[^key-0816189c4017aeff12e8b1649dbfafcc] behalf of the authority (other than action consisting of a service failure) in the exercise of administrative functions of the authority,
+- (a) in relation to a listed authority other than one to whom paragraph (b), (d) or (e) applies, any action taken by or on[^c-0816189c4017aeff12e8b1649dbfafcc] behalf of the authority (other than action consisting of a service failure) in the exercise of administrative functions of the authority,
 - (b) in relation to a health service body or an independent provider, any action taken by or on behalf of the body or provider (other than action consisting of a service failure),
 - (c) in relation to a listed authority other than one to whom paragraph (d) or (e) applies, any service failure,
 - (d) in relation to a family health service provider, any action taken by or on behalf of the provider in connection with any family health services provided by that provider,
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0816189c4017aeff12e8b1649dbfafcc]: Textual amendment: Word in s. 5(1)(a) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 1](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/1) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-0816189c4017aeff12e8b1649dbfafcc]: Textual amendment: Word in s. 5(1)(a) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 1](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/1) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

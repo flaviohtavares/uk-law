@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Meaning of “commutation amount”[^key-8fc308c9beca66359996eaa0bfa419e6]
+## 72. Meaning of “commutation amount”[^c-8fc308c9beca66359996eaa0bfa419e6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In these Regulations, “commutation amount”, in relation to any pension, mean
 
 ## Annotations
 
-[^key-8fc308c9beca66359996eaa0bfa419e6]: Commencement: [Reg. 72](https://www.legislation.gov.uk/ssi/2014/292/regulation/72) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-8fc308c9beca66359996eaa0bfa419e6]: Commencement: [Reg. 72](https://www.legislation.gov.uk/ssi/2014/292/regulation/72) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

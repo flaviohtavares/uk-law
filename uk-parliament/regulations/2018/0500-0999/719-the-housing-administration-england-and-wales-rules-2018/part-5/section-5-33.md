@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.33. Notice of declaration of a dividend[^key-5ef2a6983657ee1932a21e264c6f907b]
+## 5.33. Notice of declaration of a dividend[^c-5ef2a6983657ee1932a21e264c6f907b]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ef2a6983657ee1932a21e264c6f907b]: Commencement: Rule 5.33 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-5ef2a6983657ee1932a21e264c6f907b]: Commencement: Rule 5.33 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -30,7 +30,7 @@ summary: ''
 >
 > - *Step 1*
 >
->   Determine, in accordance with Chapter 4 of Part 3, the adjusted profits for that period of that entity[^key-d95d142fc85c744d338473fd89bc1db9].
+>   Determine, in accordance with Chapter 4 of Part 3, the adjusted profits for that period of that entity[^c-d95d142fc85c744d338473fd89bc1db9].
 > - *Step 2*
 >
 >   If, on determining those adjusted profits, the entity has not made a profit, the effective tax rate is to be treated as 15%. Otherwise, proceed to Step 3.
@@ -45,24 +45,24 @@ summary: ''
 >   Divide the covered tax balance by the adjusted profits.
 > - *Step 6*
 >
->   Except where Step 2 or 4 applies, the effective tax rate of the entity is X%, where X (which will be negative if the covered tax balance is negative) is the result of Step 5 multiplied by 100 and rounded to the nearest fourth decimal place (if it would otherwise have more than four).[^key-715972600f6249dfc08fd7e706ea9df6]
+>   Except where Step 2 or 4 applies, the effective tax rate of the entity is X%, where X (which will be negative if the covered tax balance is negative) is the result of Step 5 multiplied by 100 and rounded to the nearest fourth decimal place (if it would otherwise have more than four).[^c-715972600f6249dfc08fd7e706ea9df6]
 
 (3) That Part has effect for domestic entity purposes as if—
 
 - (a) references to “**member of a multinational group**” (however framed and including references to multiple members) were to “qualifying entity”;
 - (b) any reference (however framed) to the consolidated financial statements of the ultimate parent were to the qualifying financial statements of the entity;
-- (ba)[^key-a2cac34a79f84cbb2071c932673092ef] in section 182(2)(e), after “credits”, in the first place it occurs, there were inserted “other than qualifying refundable tax credits”;
+- (ba)[^c-a2cac34a79f84cbb2071c932673092ef] in section 182(2)(e), after “credits”, in the first place it occurs, there were inserted “other than qualifying refundable tax credits”;
 - (c) in section 194 (total top-up amount), subsections (2) to (7) were omitted;
 - (d) in section 203 (additional top-up amounts: covered taxes less than expected), subsections (3) to (7) were omitted;
 - (e) in section 206 (additional top-up amounts: recalculations), subsections (4) to (8) were omitted.
 
-(4) Part 3 has effect for those purposes as if the following provisions (which are only relevant to groups or have no relevance for domestic entity[^key-6e7648322360c6b7d16ed5bb3f0d33e8] purposes) were omitted—
+(4) Part 3 has effect for those purposes as if the following provisions (which are only relevant to groups or have no relevance for domestic entity[^c-6e7648322360c6b7d16ed5bb3f0d33e8] purposes) were omitted—
 
 - (a) in section 134 (underlying profits as determined for statements of ultimate parent), subsections (2) to (9);
 - (b) section 135 (permanent establishments);
 - (c) section 139 (consolidation adjustments);
 - (d) section 140 (purchase accounting adjustments);
-- (e) in section 141 (general exclusion of dividends), subsection (3)(c)[^key-dffa9ddf99da3d534e750a317ba16d1f];
+- (e) in section 141 (general exclusion of dividends), subsection (3)(c)[^c-dffa9ddf99da3d534e750a317ba16d1f];
 - (f) section 149 (arm’s length requirement);
 - (g) section 150 (transactions between group members);
 - (h) section 154 (exclusion of qualifying intra-group financing arrangement expenses);
@@ -74,7 +74,7 @@ summary: ''
 - (n) section 169 (non-tax resident entities to be treated as flow-through entities);
 - (o) section 170 (adjustments for ultimate parent that is flow-through entity);
 - (p) section 172 (ultimate parent subject to deductible dividend regime);
-- (pa)[^key-825f558470caff0f486ff9d7008c4b7c] in section 173 (covered taxes), subsection (1)(b);
+- (pa)[^c-825f558470caff0f486ff9d7008c4b7c] in section 173 (covered taxes), subsection (1)(b);
 - (q) section 177 (allocation of covered taxes: permanent establishments);
 - (r) section 178 (reallocation of tax expense);
 - (s) sections 179 and 180 (controlled foreign company tax regimes);
@@ -85,20 +85,20 @@ summary: ''
 - (x) sections 213 to 215 (elections in relation to investment entities);
 - (y) in section 216 (election where assets and liabilities adjusted to fair value), subsection (6);
 - (z) sections 226 to 229 (joint venture groups, minority owned members and multi-parent groups).
-- (z1)[^key-e15aedde02ad57574165636922689849] Chapter 9A (qualifying undertaxed profits tax).
+- (z1)[^c-e15aedde02ad57574165636922689849] Chapter 9A (qualifying undertaxed profits tax).
 
 ## Annotations
 
-[^key-d95d142fc85c744d338473fd89bc1db9]: Textual amendment: Word in [s. 273(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/273/2) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 48(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/48/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-d95d142fc85c744d338473fd89bc1db9]: Textual amendment: Word in [s. 273(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/273/2) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 48(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/48/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-715972600f6249dfc08fd7e706ea9df6]: Textual amendment: Words in [s. 273(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/273/2) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 48(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/48/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-715972600f6249dfc08fd7e706ea9df6]: Textual amendment: Words in [s. 273(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/273/2) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 48(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/48/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-a2cac34a79f84cbb2071c932673092ef]: Textual amendment: S. 273(3)(ba) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 44(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/44/2)
+[^c-a2cac34a79f84cbb2071c932673092ef]: Textual amendment: S. 273(3)(ba) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 44(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/44/2)
 
-[^key-6e7648322360c6b7d16ed5bb3f0d33e8]: Textual amendment: Word in s. 273(4) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 57(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/57/3/a)
+[^c-6e7648322360c6b7d16ed5bb3f0d33e8]: Textual amendment: Word in s. 273(4) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 57(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/57/3/a)
 
-[^key-dffa9ddf99da3d534e750a317ba16d1f]: Textual amendment: Words in s. 273(4)(e) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 57(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/57/3/b)
+[^c-dffa9ddf99da3d534e750a317ba16d1f]: Textual amendment: Words in s. 273(4)(e) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 57(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/57/3/b)
 
-[^key-825f558470caff0f486ff9d7008c4b7c]: Textual amendment: S. 273(4)(pa) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 57(3)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/57/3/c)
+[^c-825f558470caff0f486ff9d7008c4b7c]: Textual amendment: S. 273(4)(pa) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 57(3)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/57/3/c)
 
-[^key-e15aedde02ad57574165636922689849]: Textual amendment: S. 273(4)(z1) inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 9(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/9/4), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-e15aedde02ad57574165636922689849]: Textual amendment: S. 273(4)(z1) inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 9(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/9/4), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)

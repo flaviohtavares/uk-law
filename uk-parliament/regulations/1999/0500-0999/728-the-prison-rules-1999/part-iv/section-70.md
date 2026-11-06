@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-No person shall, without authority, convey into or throw into or deposit in a prison, or convey or throw out of a prison, or convey to a prisoner, or deposit in any place with intent that it shall come into the possession of a prisoner, any [^key-cb76c3ed94459cbc58e0161b870f1a61]... article whatever. Anything so conveyed, thrown or deposited may be confiscated by the governor.
+No person shall, without authority, convey into or throw into or deposit in a prison, or convey or throw out of a prison, or convey to a prisoner, or deposit in any place with intent that it shall come into the possession of a prisoner, any [^c-cb76c3ed94459cbc58e0161b870f1a61]... article whatever. Anything so conveyed, thrown or deposited may be confiscated by the governor.
 
 ## Annotations
 
-[^key-cb76c3ed94459cbc58e0161b870f1a61]: Textual amendment: Words in [rule 70](https://www.legislation.gov.uk/uksi/1999/728/rule/70) omitted (1.4.2008) by virtue of [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [6](https://www.legislation.gov.uk/uksi/2008/597/rule/6)
+[^c-cb76c3ed94459cbc58e0161b870f1a61]: Textual amendment: Words in [rule 70](https://www.legislation.gov.uk/uksi/1999/728/rule/70) omitted (1.4.2008) by virtue of [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [6](https://www.legislation.gov.uk/uksi/2008/597/rule/6)

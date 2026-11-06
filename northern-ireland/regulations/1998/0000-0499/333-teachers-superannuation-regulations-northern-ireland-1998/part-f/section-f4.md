@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## F4. Acceptance of transfer values[^key-287e6d0e19e1d5a2048e82a1618279f1]
+## F4. Acceptance of transfer values[^c-287e6d0e19e1d5a2048e82a1618279f1]
 
 *Extent: N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-287e6d0e19e1d5a2048e82a1618279f1]: Commencement: Reg. F4 in operation at 2.11.1998, see reg. A1
+[^c-287e6d0e19e1d5a2048e82a1618279f1]: Commencement: Reg. F4 in operation at 2.11.1998, see reg. A1
 
 [^f00029]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)

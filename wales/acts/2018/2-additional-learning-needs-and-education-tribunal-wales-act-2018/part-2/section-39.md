@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Meaning of “detained person” and other key terms[^key-9dc6476fbb84e30dd253385e63c49d3e]
+## 39. Meaning of “detained person” and other key terms[^c-9dc6476fbb84e30dd253385e63c49d3e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dc6476fbb84e30dd253385e63c49d3e]: Commencement: S. 39 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/d)
+[^c-9dc6476fbb84e30dd253385e63c49d3e]: Commencement: S. 39 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/d)

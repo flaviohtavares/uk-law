@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Notional Capital[^key-5ef50cf7df05dd6c36d8241d8f851178]
+## 33. Notional Capital[^c-5ef50cf7df05dd6c36d8241d8f851178]
 
 *Extent: E+W+S*
 
@@ -30,10 +30,10 @@ summary: ''
 
 any capital which would become available to the claimant upon application being made, but which has not been acquired by him, shall be treated as possessed by him but only from the date on which it could be expected to be acquired were an application made.
 
-(3) Any payment of capital, other than a payment of capital made under the Macfarlane Trust , the Macfarlane (Special Payments) Trust[^key-7d1605e00371ce3d6060145aa328c086] or Independent Living Fund, made–
+(3) Any payment of capital, other than a payment of capital made under the Macfarlane Trust , the Macfarlane (Special Payments) Trust[^c-7d1605e00371ce3d6060145aa328c086] or Independent Living Fund, made–
 
 - (a) to a third party in respect of a single claimant or in respect of a member of the family (but not a member of the third party’s family) shall be treated as possessed by that single claimant or by that member to the extent that it is used for the food, ordinary clothing or footwear, household fuel, eligible rent to which regulation 10 of the Housing Benefit (General) Regulations 1987 refers, of that single claimant or, as the case may be, of any member of that family or is used for any personal community charge or collective community charge contribution for which that claimant or member is liable;
-- (b) to a single claimant or to a member of the family in respect of a third party (but not in respect of another member of that family)[^key-cf4fe84a33a7f1a26b78d9a5c1fc0b8f] shall be treated as possessed by that single claimant or, as the case may be, that member of the family to the extent that it is kept or used by him or used by or on behalf of any member of the family.[^key-f4cbde8b7874e885275358c8a80913ad]
+- (b) to a single claimant or to a member of the family in respect of a third party (but not in respect of another member of that family)[^c-cf4fe84a33a7f1a26b78d9a5c1fc0b8f] shall be treated as possessed by that single claimant or, as the case may be, that member of the family to the extent that it is kept or used by him or used by or on behalf of any member of the family.[^c-f4cbde8b7874e885275358c8a80913ad]
 
 (4) Where a claimant stands in relation to a company in a position analogous to that of a sole owner or partner in the business of that company, he may be treated as if he were such sole owner or partner and in such a case–
 
@@ -48,10 +48,10 @@ any capital which would become available to the claimant upon application being 
 
 ## Annotations
 
-[^key-5ef50cf7df05dd6c36d8241d8f851178]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1988/1890/regulation/33) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-5ef50cf7df05dd6c36d8241d8f851178]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1988/1890/regulation/33) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-7d1605e00371ce3d6060145aa328c086]: Textual amendment: Words in [reg. 33(3)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/33/3) inserted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/3)
+[^c-7d1605e00371ce3d6060145aa328c086]: Textual amendment: Words in [reg. 33(3)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/33/3) inserted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/3)
 
-[^key-cf4fe84a33a7f1a26b78d9a5c1fc0b8f]: Textual amendment: Words in [reg. 33(3)(b)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/33/3/b) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [9(a)](https://www.legislation.gov.uk/uksi/1989/361/regulation/9/a)
+[^c-cf4fe84a33a7f1a26b78d9a5c1fc0b8f]: Textual amendment: Words in [reg. 33(3)(b)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/33/3/b) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [9(a)](https://www.legislation.gov.uk/uksi/1989/361/regulation/9/a)
 
-[^key-f4cbde8b7874e885275358c8a80913ad]: Textual amendment: Words in [reg. 33(3)(b)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/33/3/b) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361/regulation/9/made), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1-1-b), [reg. 9(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/9/b)
+[^c-f4cbde8b7874e885275358c8a80913ad]: Textual amendment: Words in [reg. 33(3)(b)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/33/3/b) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361/regulation/9/made), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1-1-b), [reg. 9(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/9/b)

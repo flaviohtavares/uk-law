@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Ability to pursue continuity option 3: unconnected multiple employer schemes[^key-33bda518c9d8f760047e99f58cc93eb1]
+## 12. Ability to pursue continuity option 3: unconnected multiple employer schemes[^c-33bda518c9d8f760047e99f58cc93eb1]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ After section 68 insert—
 
 ## Annotations
 
-[^key-33bda518c9d8f760047e99f58cc93eb1]: Commencement: Reg. 12 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-33bda518c9d8f760047e99f58cc93eb1]: Commencement: Reg. 12 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

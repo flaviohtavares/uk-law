@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Power to deviate[^key-6df9559daf33e127660597ffae12b141]
+## 6. Power to deviate[^c-6df9559daf33e127660597ffae12b141]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In carrying out the scheduled works the undertaker may—
 
 ## Annotations
 
-[^key-6df9559daf33e127660597ffae12b141]: Commencement: Art. 6 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-6df9559daf33e127660597ffae12b141]: Commencement: Art. 6 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

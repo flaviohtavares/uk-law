@@ -34,7 +34,7 @@ An Act to make provision for the sale of the Tote; to make provision for the abo
 
 \[28th October 2004\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-dcb1dd7c7cf14277f60f927190c833f8]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-dcb1dd7c7cf14277f60f927190c833f8]
 
 ## Contents
 
@@ -79,7 +79,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 19 — Interpretation: “enactment”](part-2/section-19.md)
 - [Section 20 — Extent](part-2/section-20.md)
 
-### Part 3 — National Lottery: Olympic Lotteries[^key-cd59f0bbc8a8462c7d46ba6976312e80]
+### Part 3 — National Lottery: Olympic Lotteries[^c-cd59f0bbc8a8462c7d46ba6976312e80]
 
 #### Olympic Lotteries
 
@@ -129,6 +129,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-dcb1dd7c7cf14277f60f927190c833f8]: Modification: Act: functions cease to be exercisable concurrently (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 7(c)](https://www.legislation.gov.uk/uksi/2010/1551/article/7/c)
+[^c-dcb1dd7c7cf14277f60f927190c833f8]: Modification: Act: functions cease to be exercisable concurrently (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 7(c)](https://www.legislation.gov.uk/uksi/2010/1551/article/7/c)
 
-[^key-cd59f0bbc8a8462c7d46ba6976312e80]: Modification: Pt. 3: functions made partly exercisable concurrently (22.8.2007) by [Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)(2)(c)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1), (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
+[^c-cd59f0bbc8a8462c7d46ba6976312e80]: Modification: Pt. 3: functions made partly exercisable concurrently (22.8.2007) by [Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)(2)(c)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1), (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))

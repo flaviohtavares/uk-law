@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Public protection decisions: fixed-term prisoners[^key-b39104dcb5c90cc717dcfd4010592d62]
+## 59. Public protection decisions: fixed-term prisoners[^c-b39104dcb5c90cc717dcfd4010592d62]
 
 *Extent: E+W*
 
-(1)[^key-958cccc4f9f58411a1119ecf3693195f] The Criminal Justice Act 2003 is amended as follows.
+(1)[^c-958cccc4f9f58411a1119ecf3693195f] The Criminal Justice Act 2003 is amended as follows.
 
-(2)[^key-958cccc4f9f58411a1119ecf3693195f] After section 237 insert—
+(2)[^c-958cccc4f9f58411a1119ecf3693195f] After section 237 insert—
 
 > **237A. Public protection decisions**
 >
@@ -94,7 +94,7 @@ summary: ''
 
 .
 
-(3)[^key-958cccc4f9f58411a1119ecf3693195f] In section 246B (manslaughter: prisoner’s non-disclosure of information)—
+(3)[^c-958cccc4f9f58411a1119ecf3693195f] In section 246B (manslaughter: prisoner’s non-disclosure of information)—
 
 - (a) in subsection (1), in the words before paragraph (a), after “a prisoner” insert “under section 246A(6)(b), for the purposes of section 246A(5),”;
 - (b) in subsection (5), for the definition of “public protection decision” substitute—
@@ -103,7 +103,7 @@ summary: ''
 
   .
 
-(4)[^key-958cccc4f9f58411a1119ecf3693195f] In section 246C (indecent images: prisoner’s non-disclosure of information)—
+(4)[^c-958cccc4f9f58411a1119ecf3693195f] In section 246C (indecent images: prisoner’s non-disclosure of information)—
 
 - (a) in subsection (1), in the words before paragraph (a), after “a prisoner” insert “under section 246A(6)(b), for the purposes of section 246A(5),”;
 - (b) in subsection (6), for the definition of “public protection decision” substitute—
@@ -120,21 +120,21 @@ summary: ''
 
 > (3A) The Secretary of State must not be satisfied as mentioned in subsection (3) unless the Secretary of State considers that there is no more than a minimal risk that, if P were released, P would commit a further offence the commission of which would cause serious harm (and section 237A(4) applies for the purposes of that assessment).
 
-(7)[^key-958cccc4f9f58411a1119ecf3693195f] In section 256AZB (power to change test for release following recall), after subsection (2) insert—
+(7)[^c-958cccc4f9f58411a1119ecf3693195f] In section 256AZB (power to change test for release following recall), after subsection (2) insert—
 
 > (3) Provision made in an order under subsection (1)(c) by virtue of section 330(4) (consequential etc provision) may in particular amend, or modify the application of, section 256AZBC(1) (powers of High Court on referral of release decisions).
 
-(8)[^key-958cccc4f9f58411a1119ecf3693195f] In section 330 (orders and rules), in subsection (5)(a), before “section 246(5)” insert—
+(8)[^c-958cccc4f9f58411a1119ecf3693195f] In section 330 (orders and rules), in subsection (5)(a), before “section 246(5)” insert—
 
 > - section 237A(13),
 
 .
 
-(9)[^key-958cccc4f9f58411a1119ecf3693195f] Schedule 18B (offences relevant to public protection decisions) is inserted by Schedule 2 to this Act.
+(9)[^c-958cccc4f9f58411a1119ecf3693195f] Schedule 18B (offences relevant to public protection decisions) is inserted by Schedule 2 to this Act.
 
-(10)[^key-958cccc4f9f58411a1119ecf3693195f] Schedule 20B (modifications of Chapter 6 of Part 12 in certain transitional cases) is amended in accordance with subsections (11) and (12).
+(10)[^c-958cccc4f9f58411a1119ecf3693195f] Schedule 20B (modifications of Chapter 6 of Part 12 in certain transitional cases) is amended in accordance with subsections (11) and (12).
 
-(11)[^key-958cccc4f9f58411a1119ecf3693195f] In paragraph 38 (manslaughter: prisoner’s non disclosure of information)—
+(11)[^c-958cccc4f9f58411a1119ecf3693195f] In paragraph 38 (manslaughter: prisoner’s non disclosure of information)—
 
 - (a) in sub-paragraph (1), in the words before paragraph (a), after “making a” insert “relevant”;
 - (b) in sub-paragraph (2), in the words before paragraph (a), after “making the” insert “relevant”;
@@ -150,7 +150,7 @@ summary: ''
 
   .
 
-(12)[^key-958cccc4f9f58411a1119ecf3693195f] In paragraph 39 (indecent images: prisoner’s non disclosure of information)—
+(12)[^c-958cccc4f9f58411a1119ecf3693195f] In paragraph 39 (indecent images: prisoner’s non disclosure of information)—
 
 - (a) in sub-paragraph (1), in the words before paragraph (a), after “making a” insert “relevant”;
 - (b) in sub-paragraph (2), in the words before paragraph (a), after “making the” insert “relevant”;
@@ -171,6 +171,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b39104dcb5c90cc717dcfd4010592d62]: Commencement: S. 59 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-b39104dcb5c90cc717dcfd4010592d62]: Commencement: S. 59 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-958cccc4f9f58411a1119ecf3693195f]: Commencement: [S. 59(1)-(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/59/1)(7)-(12) in force at 3.2.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/b)
+[^c-958cccc4f9f58411a1119ecf3693195f]: Commencement: [S. 59(1)-(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/59/1)(7)-(12) in force at 3.2.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/b)

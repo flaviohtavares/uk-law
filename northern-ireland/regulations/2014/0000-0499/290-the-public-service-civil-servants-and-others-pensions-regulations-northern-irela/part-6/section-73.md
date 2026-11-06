@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Meaning of “upper tier payment threshold”[^key-91afa0520dee5d486db8406a8eabe363]
+## 73. Meaning of “upper tier payment threshold”[^c-91afa0520dee5d486db8406a8eabe363]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ An active member of this scheme meets the upper tier threshold for payment of an
 
 ## Annotations
 
-[^key-91afa0520dee5d486db8406a8eabe363]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2014/290/regulation/73) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-91afa0520dee5d486db8406a8eabe363]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2014/290/regulation/73) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

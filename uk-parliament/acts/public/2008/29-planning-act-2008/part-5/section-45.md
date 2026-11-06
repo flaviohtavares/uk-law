@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Timetable for consultation under section 42[^key-4c6811fbede52948e394e82f7798b06a]
+## 45. Timetable for consultation under section 42[^c-4c6811fbede52948e394e82f7798b06a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c6811fbede52948e394e82f7798b06a]: Textual amendment: S. 45 omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 5(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/5/d), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-4c6811fbede52948e394e82f7798b06a]: Textual amendment: S. 45 omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 5(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/5/d), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))

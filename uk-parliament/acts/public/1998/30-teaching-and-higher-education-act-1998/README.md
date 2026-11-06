@@ -33,7 +33,7 @@ An Act to make provision for the establishment of General Teaching Councils for 
 
 \[16th July 1998\]
 
-[^c13262501][^c13262511]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-d2b3bd45e5a4bc0d23518c63e36b8a73][^key-138031048ebcd8befc090a47f74623ea][^key-85e0e2d9e93700907e2f066dd7455549]
+[^c13262501][^c13262511]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-d2b3bd45e5a4bc0d23518c63e36b8a73][^c-138031048ebcd8befc090a47f74623ea][^c-85e0e2d9e93700907e2f066dd7455549]
 
 ## Contents
 
@@ -41,7 +41,7 @@ An Act to make provision for the establishment of General Teaching Councils for 
 
 *Extent: E+W+S*
 
-#### Chapter I — The General Teaching Council for Wales[^key-4d68de3201ab0545f1195dac5a053019]
+#### Chapter I — The General Teaching Council for Wales[^c-4d68de3201ab0545f1195dac5a053019]
 
 *Extent: E+W+S*
 
@@ -107,7 +107,7 @@ An Act to make provision for the establishment of General Teaching Councils for 
 
 *Extent: E+W*
 
-##### Induction periods : teachers in Wales[^key-e390f3e6a4308a194cf533ff821f49d1]
+##### Induction periods : teachers in Wales[^c-e390f3e6a4308a194cf533ff821f49d1]
 
 *Extent: E+W*
 
@@ -216,12 +216,12 @@ SCHEDULES
 
     Act applied (1.6.2001) by [S.I. 2001/1507](https://www.legislation.gov.uk/uksi/2001/1507), [reg. 2](https://www.legislation.gov.uk/uksi/2001/1507/regulation/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/1507/schedule/2/paragraph/2)
 
-[^key-d2b3bd45e5a4bc0d23518c63e36b8a73]: Modification: Act applied (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-d2b3bd45e5a4bc0d23518c63e36b8a73]: Modification: Act applied (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-138031048ebcd8befc090a47f74623ea]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
+[^c-138031048ebcd8befc090a47f74623ea]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
 
-[^key-85e0e2d9e93700907e2f066dd7455549]: Modification: Act: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-85e0e2d9e93700907e2f066dd7455549]: Modification: Act: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
-[^key-4d68de3201ab0545f1195dac5a053019]: Textual amendment: Words in Pt. I Ch. I heading substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/2); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-4d68de3201ab0545f1195dac5a053019]: Textual amendment: Words in Pt. I Ch. I heading substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/2); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-e390f3e6a4308a194cf533ff821f49d1]: Textual amendment: Words in s. 19 cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/13); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-e390f3e6a4308a194cf533ff821f49d1]: Textual amendment: Words in s. 19 cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/13); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

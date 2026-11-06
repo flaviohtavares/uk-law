@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Information services[^key-4bc7a405ff65c500370d724c90c74677]
+## 38. Information services[^c-4bc7a405ff65c500370d724c90c74677]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bc7a405ff65c500370d724c90c74677]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2008/17/section/38) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/p) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-4bc7a405ff65c500370d724c90c74677]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2008/17/section/38) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/p) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

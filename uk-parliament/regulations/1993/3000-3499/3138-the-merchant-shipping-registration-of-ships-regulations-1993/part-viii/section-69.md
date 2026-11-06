@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Provisional registration not to be renewed[^key-3706b11e8ca7a189a217a1eb2f8d7a02]
+## 69. Provisional registration not to be renewed[^c-3706b11e8ca7a189a217a1eb2f8d7a02]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a ship has been provisionally registered once, it shall not be provisional
 
 ## Annotations
 
-[^key-3706b11e8ca7a189a217a1eb2f8d7a02]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1993/3138/regulation/69) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-3706b11e8ca7a189a217a1eb2f8d7a02]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1993/3138/regulation/69) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

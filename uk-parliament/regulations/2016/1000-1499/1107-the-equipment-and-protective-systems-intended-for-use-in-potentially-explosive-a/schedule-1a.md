@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1A — Criteria determining the classification of equipment-groups into categories (Annex I to the ATEX Directive)[^key-d8c1f93a397c1fa8d7f321ea65e67c85]
+## SCHEDULE 1A — Criteria determining the classification of equipment-groups into categories (Annex I to the ATEX Directive)[^c-d8c1f93a397c1fa8d7f321ea65e67c85]
 
 *Extent: E+W+S*
 
@@ -71,4 +71,4 @@ Regulation 2
 
 ## Annotations
 
-[^key-d8c1f93a397c1fa8d7f321ea65e67c85]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2016/1107/schedule/1A) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/37) (with [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8c1f93a397c1fa8d7f321ea65e67c85]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2016/1107/schedule/1A) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/37) (with [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

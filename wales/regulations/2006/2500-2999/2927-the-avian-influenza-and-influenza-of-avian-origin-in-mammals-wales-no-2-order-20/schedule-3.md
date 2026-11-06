@@ -54,7 +54,7 @@ This Part applies to the cleansing and disinfecting of infected premises except 
 
 #### 3. Cleansing and disinfection — timing
 
-Cleansing and disinfection must be carried out during and after the killing of poultry , other captive birds or kept mammals[^key-82bae36909bc2053a5f984dd588b5c16] and in accordance with a veterinary inspector's instructions.
+Cleansing and disinfection must be carried out during and after the killing of poultry , other captive birds or kept mammals[^c-82bae36909bc2053a5f984dd588b5c16] and in accordance with a veterinary inspector's instructions.
 
 #### 4. Cleansing and disinfection precautions
 
@@ -76,10 +76,10 @@ Following killing—
   - (i) parts where the poultry or other captive birds were housed;
   - (ii) parts contaminated during the killing of the poultry or other captive birds;
   - (iii) parts contaminated during any post-mortem examination;
-  - (iv)[^key-56c8998bddef986452ef4fc446481119] such other parts of the premises as a veterinary inspector directs on the grounds that they might have been contaminated with avian influenza virus;
+  - (iv)[^c-56c8998bddef986452ef4fc446481119] such other parts of the premises as a veterinary inspector directs on the grounds that they might have been contaminated with avian influenza virus;
 - (d) any tissue or blood spilled during the killing or any post-mortem must be collected and disposed of with the killed poultry or other captive birds;
 - (e) disinfectant must remain on the surfaces to which it has been applied for at least 24 hours.
-- (f)[^key-d48d47f69ca8b1004db4b643ef0bac17] the following parts of the infected premises must have disinfectant applied to them as soon as the killed or slaughtered mammals have been removed—
+- (f)[^c-d48d47f69ca8b1004db4b643ef0bac17] the following parts of the infected premises must have disinfectant applied to them as soon as the killed or slaughtered mammals have been removed—
   - (i) parts where the mammals were housed;
   - (ii) parts where the mammals were slaughtered or killed;
   - (iii) parts contaminated during any post-mortem examination of mammals;
@@ -117,8 +117,8 @@ Following preliminary cleansing and disinfection—
 
 ## Annotations
 
-[^key-82bae36909bc2053a5f984dd588b5c16]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2006/2927/schedule/3/paragraph/3) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [45(a)](https://www.legislation.gov.uk/wsi/2025/1357/article/45/a)
+[^c-82bae36909bc2053a5f984dd588b5c16]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2006/2927/schedule/3/paragraph/3) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [45(a)](https://www.legislation.gov.uk/wsi/2025/1357/article/45/a)
 
-[^key-56c8998bddef986452ef4fc446481119]: Textual amendment: [Sch. 3 para. 5(c)(iv)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/3/paragraph/5/c/iv) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [45(b)(i)](https://www.legislation.gov.uk/wsi/2025/1357/article/45/b/i)
+[^c-56c8998bddef986452ef4fc446481119]: Textual amendment: [Sch. 3 para. 5(c)(iv)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/3/paragraph/5/c/iv) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [45(b)(i)](https://www.legislation.gov.uk/wsi/2025/1357/article/45/b/i)
 
-[^key-d48d47f69ca8b1004db4b643ef0bac17]: Textual amendment: [Sch. 3 para. 5(f)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/3/paragraph/5/f) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [45(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1357/article/45/b/ii)
+[^c-d48d47f69ca8b1004db4b643ef0bac17]: Textual amendment: [Sch. 3 para. 5(f)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/3/paragraph/5/f) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [45(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1357/article/45/b/ii)

@@ -31,18 +31,18 @@ Human Reproductive Cloning Act 2001 (repealed)
 
 2001 c. 23
 
-[^key-06119e9c5caeec20e387fd835ff1b3eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06119e9c5caeec20e387fd835ff1b3eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. The offence[^key-06119e9c5caeec20e387fd835ff1b3eb][^key-06119e9c5caeec20e387fd835ff1b3eb]
+## 1. The offence[^c-06119e9c5caeec20e387fd835ff1b3eb][^c-06119e9c5caeec20e387fd835ff1b3eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and extent[^key-06119e9c5caeec20e387fd835ff1b3eb][^key-06119e9c5caeec20e387fd835ff1b3eb]
+## 2. Short title and extent[^c-06119e9c5caeec20e387fd835ff1b3eb][^c-06119e9c5caeec20e387fd835ff1b3eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06119e9c5caeec20e387fd835ff1b3eb]: Textual amendment: Act repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 3(6)](https://www.legislation.gov.uk/ukpga/2008/22/section/3/6), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/a)
+[^c-06119e9c5caeec20e387fd835ff1b3eb]: Textual amendment: Act repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 3(6)](https://www.legislation.gov.uk/ukpga/2008/22/section/3/6), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/a)

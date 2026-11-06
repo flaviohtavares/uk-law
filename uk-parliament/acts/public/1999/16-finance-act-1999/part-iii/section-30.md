@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Children’s tax credit.[^key-19ca392e4f52b2c81316459819e04156]
+## 30. Children’s tax credit.[^c-19ca392e4f52b2c81316459819e04156]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19ca392e4f52b2c81316459819e04156]: Textual amendment: S. 30 repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/962/schedule/1)
+[^c-19ca392e4f52b2c81316459819e04156]: Textual amendment: S. 30 repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/962/schedule/1)

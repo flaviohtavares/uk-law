@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Deduction and payment of contributions[^key-ece88299217d05f53be797a7d827eb57]
+## 123. Deduction and payment of contributions[^c-ece88299217d05f53be797a7d827eb57]
 
 *Extent: E+W*
 
-(1) The contributions required to be paid under regulation 119 (member contributions) or regulation 119A (member contributions from 1 September 2025)[^key-d75a21dad20ce13f22dfa08a0271e510] may be deducted by the scheme employer from each instalment of pensionable pay as it becomes due unless another method of payment has been agreed between the scheme manager and the member.
+(1) The contributions required to be paid under regulation 119 (member contributions) or regulation 119A (member contributions from 1 September 2025)[^c-d75a21dad20ce13f22dfa08a0271e510] may be deducted by the scheme employer from each instalment of pensionable pay as it becomes due unless another method of payment has been agreed between the scheme manager and the member.
 
 (2) Contributions required to be paid under regulation 121(1) (contributions during absence from work on reserve forces service leave) may be deducted from any payment made under Part 5 of the Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^f00060] to the extent that they are payable in respect of the same period.
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ece88299217d05f53be797a7d827eb57]: Commencement: Reg. 123 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-ece88299217d05f53be797a7d827eb57]: Commencement: Reg. 123 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-d75a21dad20ce13f22dfa08a0271e510]: Textual amendment: Words in [reg. 123(1)](https://www.legislation.gov.uk/wsi/2015/622/regulation/123/1) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2025/930/regulation/10)
+[^c-d75a21dad20ce13f22dfa08a0271e510]: Textual amendment: Words in [reg. 123(1)](https://www.legislation.gov.uk/wsi/2015/622/regulation/123/1) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2025/930/regulation/10)
 
 [^f00060]: Footnote: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65).

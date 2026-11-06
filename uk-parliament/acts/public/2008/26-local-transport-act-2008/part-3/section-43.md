@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Guidance about schemes[^key-2a487462620785d0b231f6ad8bb43ef7]
+## 43. Guidance about schemes[^c-2a487462620785d0b231f6ad8bb43ef7]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ After section 134 of the TA 2000 insert—
 
 ## Annotations
 
-[^key-2a487462620785d0b231f6ad8bb43ef7]: Commencement: S. 43 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-2a487462620785d0b231f6ad8bb43ef7]: Commencement: S. 43 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

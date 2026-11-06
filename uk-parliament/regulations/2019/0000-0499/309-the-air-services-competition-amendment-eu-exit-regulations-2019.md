@@ -36,7 +36,7 @@ Civil Aviation
 
 Competition
 
-The Air Services (Competition) (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-a3f95803f5361a2f205e6817c0cdcc61]
+The Air Services (Competition) (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-a3f95803f5361a2f205e6817c0cdcc61]
 
 Made
 
@@ -44,28 +44,28 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-a3f95803f5361a2f205e6817c0cdcc61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3f95803f5361a2f205e6817c0cdcc61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-a3f95803f5361a2f205e6817c0cdcc61]
+## PART 1 — Introduction[^c-a3f95803f5361a2f205e6817c0cdcc61]
 
-### 1. Citation and commencement[^key-a3f95803f5361a2f205e6817c0cdcc61]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment of retained direct EU legislation[^key-a3f95803f5361a2f205e6817c0cdcc61]
-
-### 2. Amendment of Regulation [(EC) No 868/2004](https://www.legislation.gov.uk/eur/2004/868)[^key-a3f95803f5361a2f205e6817c0cdcc61]
+### 1. Citation and commencement[^c-a3f95803f5361a2f205e6817c0cdcc61]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3f95803f5361a2f205e6817c0cdcc61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 2 — Amendment of retained direct EU legislation[^c-a3f95803f5361a2f205e6817c0cdcc61]
+
+### 2. Amendment of Regulation [(EC) No 868/2004](https://www.legislation.gov.uk/eur/2004/868)[^c-a3f95803f5361a2f205e6817c0cdcc61]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a3f95803f5361a2f205e6817c0cdcc61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a3f95803f5361a2f205e6817c0cdcc61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3f95803f5361a2f205e6817c0cdcc61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3f95803f5361a2f205e6817c0cdcc61]: Textual amendment: Regulations revoked (31.12.2020) by [The Air Services (Competition) (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/1224)](https://www.legislation.gov.uk/uksi/2019/1224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1224/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/1224/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3f95803f5361a2f205e6817c0cdcc61]: Textual amendment: Regulations revoked (31.12.2020) by [The Air Services (Competition) (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/1224)](https://www.legislation.gov.uk/uksi/2019/1224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1224/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/1224/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

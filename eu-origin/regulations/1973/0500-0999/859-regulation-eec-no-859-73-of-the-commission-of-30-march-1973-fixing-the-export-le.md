@@ -31,10 +31,10 @@ Regulation (EEC) No 859/73 of the Commission
 
 of 30 March 1973 fixing the export levies on olive oil (revoked)
 
-[^key-37be0797bca66272a25c3090b1f28cec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37be0797bca66272a25c3090b1f28cec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-37be0797bca66272a25c3090b1f28cec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-37be0797bca66272a25c3090b1f28cec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37be0797bca66272a25c3090b1f28cec]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-37be0797bca66272a25c3090b1f28cec]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

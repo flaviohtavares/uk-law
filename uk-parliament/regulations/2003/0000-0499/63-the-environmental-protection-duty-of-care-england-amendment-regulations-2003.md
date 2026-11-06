@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Environmental Protection (Duty of Care) (England) (Amendment) Regulations 2003 (revoked)[^key-c99d218c3a8e72dd42d15f9c4df4a1ed]
+The Environmental Protection (Duty of Care) (England) (Amendment) Regulations 2003 (revoked)[^c-c99d218c3a8e72dd42d15f9c4df4a1ed]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 20th February 2003
 
-[^key-c99d218c3a8e72dd42d15f9c4df4a1ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c99d218c3a8e72dd42d15f9c4df4a1ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c99d218c3a8e72dd42d15f9c4df4a1ed]
+## 1. Citation and commencement[^c-c99d218c3a8e72dd42d15f9c4df4a1ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Territorial application[^key-c99d218c3a8e72dd42d15f9c4df4a1ed]
+## 2. Territorial application[^c-c99d218c3a8e72dd42d15f9c4df4a1ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 4 of the Environmental Protection (Duty of Care) Regulations 1991[^key-c99d218c3a8e72dd42d15f9c4df4a1ed]
+## 3. Amendment of regulation 4 of the Environmental Protection (Duty of Care) Regulations 1991[^c-c99d218c3a8e72dd42d15f9c4df4a1ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c99d218c3a8e72dd42d15f9c4df4a1ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c99d218c3a8e72dd42d15f9c4df4a1ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c99d218c3a8e72dd42d15f9c4df4a1ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c99d218c3a8e72dd42d15f9c4df4a1ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c99d218c3a8e72dd42d15f9c4df4a1ed]: Textual amendment: Regulations revoked (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/988/schedule/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-c99d218c3a8e72dd42d15f9c4df4a1ed]: Textual amendment: Regulations revoked (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/988/schedule/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

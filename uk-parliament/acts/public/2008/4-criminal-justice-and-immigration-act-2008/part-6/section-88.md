@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Procedure on receipt of certificate by clerk of petty sessions[^key-8da05c3c20f79fb0ead341048044cdb3]
+## 88. Procedure on receipt of certificate by clerk of petty sessions[^c-8da05c3c20f79fb0ead341048044cdb3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8da05c3c20f79fb0ead341048044cdb3]: Textual amendment: Ss. 80-92 omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [19(1)(a)](https://www.legislation.gov.uk/uksi/2019/780/regulation/19/1/a) (with [regs. 19(2)](https://www.legislation.gov.uk/uksi/2019/780/regulation/19/2), [20](https://www.legislation.gov.uk/uksi/2019/780/regulation/20)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [49](https://www.legislation.gov.uk/uksi/2020/1408/regulation/49), [50](https://www.legislation.gov.uk/uksi/2020/1408/regulation/50)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8da05c3c20f79fb0ead341048044cdb3]: Textual amendment: Ss. 80-92 omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [19(1)(a)](https://www.legislation.gov.uk/uksi/2019/780/regulation/19/1/a) (with [regs. 19(2)](https://www.legislation.gov.uk/uksi/2019/780/regulation/19/2), [20](https://www.legislation.gov.uk/uksi/2019/780/regulation/20)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [49](https://www.legislation.gov.uk/uksi/2020/1408/regulation/49), [50](https://www.legislation.gov.uk/uksi/2020/1408/regulation/50)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 173. Payment of benefits in certain cases[^key-a675265e36137be68acbb6983709626f]
+## 173. Payment of benefits in certain cases[^c-a675265e36137be68acbb6983709626f]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a675265e36137be68acbb6983709626f]: Commencement: [Reg. 173](https://www.legislation.gov.uk/ssi/2014/292/regulation/173) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-a675265e36137be68acbb6983709626f]: Commencement: [Reg. 173](https://www.legislation.gov.uk/ssi/2014/292/regulation/173) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00029]: Footnote: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32); the amount currently specified in [S.I. 1984/539](https://www.legislation.gov.uk/uksi/1984/539) is £5,000.

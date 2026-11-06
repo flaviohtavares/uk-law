@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Notice by the Regulator of proposed direction[^key-b79cec636c72897df8e6066d81ab0e44][^key-645b9749bba804cc5c486d80c2f4e545]
+## 49. Notice by the Regulator of proposed direction[^c-b79cec636c72897df8e6066d81ab0e44][^c-645b9749bba804cc5c486d80c2f4e545]
 
 *Extent: E+W+S*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b79cec636c72897df8e6066d81ab0e44]: Commencement: Art. 49 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-b79cec636c72897df8e6066d81ab0e44]: Commencement: Art. 49 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-645b9749bba804cc5c486d80c2f4e545]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2018/1253/article/49) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-645b9749bba804cc5c486d80c2f4e545]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2018/1253/article/49) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00083]: Footnote: Regulation 29(4) was amended by [S.I. 2015/42](https://www.legislation.gov.uk/uksi/2015/42).

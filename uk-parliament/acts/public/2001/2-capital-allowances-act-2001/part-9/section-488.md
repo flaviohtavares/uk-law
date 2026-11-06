@@ -33,7 +33,7 @@ summary: ''
 
 (3) For the purposes of subsection (1)—
 
-- (a) the permanent discontinuance of a trade does not include an event treated as a permanent discontinuance under section 577(2A) of this Act or section 18 of[^key-4b957cc5499428846f5296ec06c4f923][^key-6364791ff5d211697293d5623db6ada1] ITTOIA 2005 (effect of company ceasing to trade etc.), and
+- (a) the permanent discontinuance of a trade does not include an event treated as a permanent discontinuance under section 577(2A) of this Act or section 18 of[^c-4b957cc5499428846f5296ec06c4f923][^c-6364791ff5d211697293d5623db6ada1] ITTOIA 2005 (effect of company ceasing to trade etc.), and
 - (b) a sale does not include a sale which is within subsection (4) or (5).
 
 (4) A sale is within this subsection if any of the following conditions is met—
@@ -54,6 +54,6 @@ is the obtaining of a tax advantage under any of the provisions of this Act apar
 
 ## Annotations
 
-[^key-4b957cc5499428846f5296ec06c4f923]: Textual amendment: Words in s. 488(3)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 514](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/514) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-4b957cc5499428846f5296ec06c4f923]: Textual amendment: Words in s. 488(3)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 514](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/514) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-6364791ff5d211697293d5623db6ada1]: Textual amendment: Words in s. 488(3)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 568](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/568) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
+[^c-6364791ff5d211697293d5623db6ada1]: Textual amendment: Words in s. 488(3)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 568](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/568) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )

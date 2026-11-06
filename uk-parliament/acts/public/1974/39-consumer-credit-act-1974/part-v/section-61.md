@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Signing of agreement.[^key-59231db53cbaf5ec25046778b6f13f31]
+## 61. Signing of agreement.[^c-59231db53cbaf5ec25046778b6f13f31]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,12 +42,12 @@ whichever first occurs.
 
 (4) Where the debtor or hirer is a partnership or an unincorporated body of persons, subsection (1)(a) shall apply with the substitution for “by the debtor or hirer ” of “by or on behalf of the debtor or hirer ”.
 
-(5)[^key-946e658fc3d7f4553d09a87dd9bf6195] This section does not apply to a regulated deferred payment credit agreement.
+(5)[^c-946e658fc3d7f4553d09a87dd9bf6195] This section does not apply to a regulated deferred payment credit agreement.
 
 ## Annotations
 
-[^key-59231db53cbaf5ec25046778b6f13f31]: Modification: [S. 61](https://www.legislation.gov.uk/ukpga/1974/39/section/61) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-59231db53cbaf5ec25046778b6f13f31]: Modification: [S. 61](https://www.legislation.gov.uk/ukpga/1974/39/section/61) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c18809251]: Textual amendment: Words in s. 61(2)(b) substituted (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3236/article/2/2)
 
-[^key-946e658fc3d7f4553d09a87dd9bf6195]: Textual amendment: [S. 61(5)](https://www.legislation.gov.uk/ukpga/1974/39/section/61/5) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2025/859/article/2/6)
+[^c-946e658fc3d7f4553d09a87dd9bf6195]: Textual amendment: [S. 61(5)](https://www.legislation.gov.uk/ukpga/1974/39/section/61/5) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2025/859/article/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Effect of statutory adoption pay on a contributory allowance[^key-2bde6bb9fa06cdafd6e2f5f1beb97b77]
+## 81. Effect of statutory adoption pay on a contributory allowance[^c-2bde6bb9fa06cdafd6e2f5f1beb97b77]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bde6bb9fa06cdafd6e2f5f1beb97b77]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2008/280/regulation/81) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-2bde6bb9fa06cdafd6e2f5f1beb97b77]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2008/280/regulation/81) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
 [^f00085]: Footnote: Part 12ZB was inserted by Article 6 of the Employment (Northern Ireland) Order 2002 ([S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)) and amended by paragraph 269(2) of Schedule 6 to the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), paragraph 103 of Schedule 24 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and Article 4 of, and paragraph 20 of Schedule 1 to, the Work and Families (Northern Ireland) Order 2006 ([S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947)) and paragraph 1(7) of Schedule 7 and Schedule 8 to S.R. [2006 No. 261](https://www.legislation.gov.uk/nisr/2006/261)

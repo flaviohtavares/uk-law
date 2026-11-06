@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Independent review of operation of legislation relating to ring-fencing[^key-c21e8f7fcbbd6dcae2075b4edb169ae6]
+## 8. Independent review of operation of legislation relating to ring-fencing[^c-c21e8f7fcbbd6dcae2075b4edb169ae6]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ and any question arising under paragraph (a) or (b) is to be determined by the S
 
 ## Annotations
 
-[^key-c21e8f7fcbbd6dcae2075b4edb169ae6]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/33/section/8) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(g)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/g)
+[^c-c21e8f7fcbbd6dcae2075b4edb169ae6]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/33/section/8) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(g)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/g)

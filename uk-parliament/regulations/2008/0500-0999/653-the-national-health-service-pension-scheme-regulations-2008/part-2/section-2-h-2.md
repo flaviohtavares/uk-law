@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.H.2. Information[^key-ed92b9782a615d2d2efdd5a1776a878a]
+## 2.H.2. Information[^c-ed92b9782a615d2d2efdd5a1776a878a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed92b9782a615d2d2efdd5a1776a878a]: Textual amendment: [Regs. 2.H.2(1)-(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.2/1) substituted for [reg. 2.H.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.2) (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [46](https://www.legislation.gov.uk/uksi/2008/2263/regulation/46) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-ed92b9782a615d2d2efdd5a1776a878a]: Textual amendment: [Regs. 2.H.2(1)-(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.2/1) substituted for [reg. 2.H.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.2) (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [46](https://www.legislation.gov.uk/uksi/2008/2263/regulation/46) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))

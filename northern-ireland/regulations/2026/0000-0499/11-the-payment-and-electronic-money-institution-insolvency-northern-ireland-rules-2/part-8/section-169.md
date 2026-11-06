@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 169. Apportionment of set fee remuneration[^key-49e0e7d4fd77db28f9bd623eb42567a7]
+## 169. Apportionment of set fee remuneration[^c-49e0e7d4fd77db28f9bd623eb42567a7]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ and paragraphs (4) to (6) of this rule, apply as appropriate.
 
 ## Annotations
 
-[^key-49e0e7d4fd77db28f9bd623eb42567a7]: Commencement: [Rule 169](https://www.legislation.gov.uk/nisr/2026/11/rule/169) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-49e0e7d4fd77db28f9bd623eb42567a7]: Commencement: [Rule 169](https://www.legislation.gov.uk/nisr/2026/11/rule/169) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

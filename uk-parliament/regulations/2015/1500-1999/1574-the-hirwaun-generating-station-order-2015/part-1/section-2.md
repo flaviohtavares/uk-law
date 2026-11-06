@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-0b5d10ea9e516f0e2d34b802fcfb2c0e]
+## 2. Interpretation[^c-0b5d10ea9e516f0e2d34b802fcfb2c0e]
 
 *Extent: E+W+S*
 
@@ -51,7 +51,7 @@ summary: ''
 - “flood risk assessment” means the flood risk assessment with submission document reference number 5.2.0 submitted with the Order application and certified as the flood risk assessment by the Secretary of State for the purposes of this Order;
 - “footpath” and “footway” have the same meaning as in the 1980 Act;
 - “gas turbine generator” means either one or two gas turbines which drive a single electricity generator for the purposes of generating electricity;
-- “gross rated electrical output” means the aggregate of the gross electric power as measured at the terminals of each generator comprised in the generating station in accordance with standards agreed with the regulating authority under the the Environmental Permitting (England and Wales) Regulations 2016[^key-82b24eaa6b701f07415d484d7413a731];
+- “gross rated electrical output” means the aggregate of the gross electric power as measured at the terminals of each generator comprised in the generating station in accordance with standards agreed with the regulating authority under the the Environmental Permitting (England and Wales) Regulations 2016[^c-82b24eaa6b701f07415d484d7413a731];
 - “highway” and “highway authority” have the same meaning as in the 1980 Act;
 - “Hirwaun Power Limited” means Hirwaun Power Limited (Company No. 8190283) whose registered office is at 33 Cavendish Square, London W1G 0PW;
 - “the land plans” means revision 3 of the plans identified with document reference number 2.2 certified as the land plans by the Secretary of State for the purposes of this Order;
@@ -62,7 +62,7 @@ summary: ''
 - “National Grid” means National Grid Electricity Transmission plc. (Company No. 02366977) whose registered office is at 1-3 Strand, London, WC2N 5EH and/or National Grid Gas plc. (Company No. 02006000) whose registered office is at 1-3 Strand, London, WC2N 5EH as the context requires;
 - “operational phase” means the period of time that the relevant part of the authorised development is in operation after construction and “operation” should be construed accordingly;
 - “Order application” means the application made by the undertaker to the Secretary of State in accordance with the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009 and Part 5 of the 2008 Act for this Order;
-- “Order land” means the land required for, or required to facilitate or is incidental to, or affected by, the authorised development shown on the land plans and described in the book of reference;[^key-db6acbe526f3c135eea5aec626da9aac]
+- “Order land” means the land required for, or required to facilitate or is incidental to, or affected by, the authorised development shown on the land plans and described in the book of reference;[^c-db6acbe526f3c135eea5aec626da9aac]
 - “the Order limits” means the limits shown on figure 1 of the works plans within which the authorised development may be carried out;
 - “outline construction environmental management plan” means the outline construction environmental management plan, revision 1.0, dated September 2014 and certified as such by the Secretary of State for the purposes of this Order;
 - “outline lighting strategy” means the outline lighting strategy, revision 1.0, dated September 2014 and certified as such by the Secretary of State for the purposes of this Order;
@@ -76,7 +76,7 @@ summary: ''
 - “the tribunal” means the Lands Chamber of the Upper Tribunal;
 - “undertaker” means Hirwaun Power Limited;
 - “watercourse” includes all rivers, streams, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain; and
-- “the works plans” means the revised works plans submitted with the application dated 18th August 2016 for a non-material change to this Order under paragraph 2 of Schedule 6 to the 2008 Act and certified by the Secretary of State in accordance with article 36(1A).[^key-bc56ec32114fa7a3f6228ecc9fe0053b]
+- “the works plans” means the revised works plans submitted with the application dated 18th August 2016 for a non-material change to this Order under paragraph 2 of Schedule 6 to the 2008 Act and certified by the Secretary of State in accordance with article 36(1A).[^c-bc56ec32114fa7a3f6228ecc9fe0053b]
 
 (2) References in this Order to rights over land include references to rights to do or to place and maintain anything in, on or under land or in the air-space above its surface.
 
@@ -92,7 +92,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0b5d10ea9e516f0e2d34b802fcfb2c0e]: Commencement: Art. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-0b5d10ea9e516f0e2d34b802fcfb2c0e]: Commencement: Art. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). There are amendments to the 1961 Act which are not relevant to this Order.
 
@@ -106,10 +106,10 @@ summary: ''
 
 [^f00009]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22). Section 48(3A) was inserted by section 124 of the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26). Sections 78(4), 80(4), and 83(4) were amended by section 40 of, and Schedule 1 to, the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-82b24eaa6b701f07415d484d7413a731]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1574/article/2/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 97(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/97/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-82b24eaa6b701f07415d484d7413a731]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1574/article/2/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 97(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/97/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-db6acbe526f3c135eea5aec626da9aac]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1574/article/2/1) substituted (22.12.2015) by [The Hirwaun Generating Station (Correction) Order 2015 (S.I. 2015/2070)](https://www.legislation.gov.uk/uksi/2015/2070), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2070/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/2070/article/2/2)
+[^c-db6acbe526f3c135eea5aec626da9aac]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1574/article/2/1) substituted (22.12.2015) by [The Hirwaun Generating Station (Correction) Order 2015 (S.I. 2015/2070)](https://www.legislation.gov.uk/uksi/2015/2070), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2070/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/2070/article/2/2)
 
 [^f00011]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-bc56ec32114fa7a3f6228ecc9fe0053b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1574/article/2/1) substituted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [3](https://www.legislation.gov.uk/uksi/2016/1087/article/3)
+[^c-bc56ec32114fa7a3f6228ecc9fe0053b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1574/article/2/1) substituted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [3](https://www.legislation.gov.uk/uksi/2016/1087/article/3)

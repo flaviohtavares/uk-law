@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. General functions in respect of harbour[^key-575ecc4dea6a5c2c52d2b2a849b1e4fe]
+## 5. General functions in respect of harbour[^c-575ecc4dea6a5c2c52d2b2a849b1e4fe]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-575ecc4dea6a5c2c52d2b2a849b1e4fe]: Commencement: Art. 5 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-575ecc4dea6a5c2c52d2b2a849b1e4fe]: Commencement: Art. 5 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

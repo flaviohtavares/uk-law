@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) If it appears to the planning authority that it is expedient to revoke or modify any permission to develop land granted on an application made under this Part or section 242A[^key-c69ede45d37b0eeb8fa931d5ebbce9ce], the authority may by order revoke or modify the permission to such extent as they consider expedient.
+(1) If it appears to the planning authority that it is expedient to revoke or modify any permission to develop land granted on an application made under this Part or section 242A[^c-c69ede45d37b0eeb8fa931d5ebbce9ce], the authority may by order revoke or modify the permission to such extent as they consider expedient.
 
 (2) In exercising their functions under subsection (1) the authority shall have regard to the development plan and to any other material considerations.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c69ede45d37b0eeb8fa931d5ebbce9ce]: Textual amendment: Words in s. 65(1) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2006/243/article/4/3)
+[^c-c69ede45d37b0eeb8fa931d5ebbce9ce]: Textual amendment: Words in s. 65(1) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2006/243/article/4/3)

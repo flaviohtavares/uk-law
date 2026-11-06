@@ -33,7 +33,7 @@ In relation to a company other than a traded company, this subsection has effect
 
 - (a) a statement giving the address of the website on which the information required by section 311A (traded companies: publication of information in advance of general meeting) is published;
 - (b) a statement—
-  - (i) that the right to vote at the meeting is determined by reference to the register of members [^key-d28116ce4495dd2f43a6d9df49c6af8c]..., and
+  - (i) that the right to vote at the meeting is determined by reference to the register of members [^c-d28116ce4495dd2f43a6d9df49c6af8c]..., and
   - (ii) of the time when that right will be determined in accordance with section 360B(2) (traded companies: share dealings before general meetings);
 - (c) a statement of the procedures with which members must comply in order to be able to attend and vote at the meeting (including the date by which they must comply);
 - (d) a statement giving details of any forms to be used for the appointment of a proxy;
@@ -48,4 +48,4 @@ In relation to a company other than a traded company, this subsection has effect
 
 [^c20623041]: Textual amendment: S. 311(3) inserted (3.8.2009) by [The Companies (Shareholders' Rights) Regulations 2009 (S.I. 2009/1632)](https://www.legislation.gov.uk/uksi/2009/1632), [reg. 10(3)](https://www.legislation.gov.uk/uksi/2009/1632/regulation/10/3) (with application as stated in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1632/regulation/1/2))
 
-[^key-d28116ce4495dd2f43a6d9df49c6af8c]: Textual amendment: Words in s. 311(3)(b)(i) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/6); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-d28116ce4495dd2f43a6d9df49c6af8c]: Textual amendment: Words in s. 311(3)(b)(i) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/6); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)

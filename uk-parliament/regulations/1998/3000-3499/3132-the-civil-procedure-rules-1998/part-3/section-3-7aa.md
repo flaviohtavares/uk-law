@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.7AA. Sanctions for non-payment of the trial fee by the defendant, where proceedings continue on the counterclaim alone[^key-e051ebf6103316565618b0cc69ea4d9e]
+## 3.7AA. Sanctions for non-payment of the trial fee by the defendant, where proceedings continue on the counterclaim alone[^c-e051ebf6103316565618b0cc69ea4d9e]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ the relief will be conditional on the defendant either paying the trial fee or f
 
 ## Annotations
 
-[^key-e051ebf6103316565618b0cc69ea4d9e]: Textual amendment: [Rule 3.7AA](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.7AA) inserted (6.3.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2(b)](https://www.legislation.gov.uk/uksi/2017/95/rule/2/b), [5(9)](https://www.legislation.gov.uk/uksi/2017/95/rule/5/9) (with [rule 13(1)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/1)[(2)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/2))
+[^c-e051ebf6103316565618b0cc69ea4d9e]: Textual amendment: [Rule 3.7AA](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.7AA) inserted (6.3.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2(b)](https://www.legislation.gov.uk/uksi/2017/95/rule/2/b), [5(9)](https://www.legislation.gov.uk/uksi/2017/95/rule/5/9) (with [rule 13(1)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/1)[(2)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Consultation[^key-0537058af120d57c556b26307c120cc9]
+## 58. Consultation[^c-0537058af120d57c556b26307c120cc9]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0537058af120d57c556b26307c120cc9]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2017/16/section/58) in force at 15.1.2018 by [S.I. 2017/1217](https://www.legislation.gov.uk/uksi/2017/1217), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1217/regulation/2/c)
+[^c-0537058af120d57c556b26307c120cc9]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2017/16/section/58) in force at 15.1.2018 by [S.I. 2017/1217](https://www.legislation.gov.uk/uksi/2017/1217), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1217/regulation/2/c)

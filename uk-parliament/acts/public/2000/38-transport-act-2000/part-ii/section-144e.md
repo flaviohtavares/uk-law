@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144E. Fixed penalty notices[^key-59f9fb1d6cbd8e0a1fa3bbdaadd13a3b]
+## 144E. Fixed penalty notices[^c-59f9fb1d6cbd8e0a1fa3bbdaadd13a3b]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-59f9fb1d6cbd8e0a1fa3bbdaadd13a3b]: Textual amendment: Ss. 144A-144E and cross-heading inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/1), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5) (with [s. 28(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/2)); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/b)
+[^c-59f9fb1d6cbd8e0a1fa3bbdaadd13a3b]: Textual amendment: Ss. 144A-144E and cross-heading inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/1), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5) (with [s. 28(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/2)); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/b)

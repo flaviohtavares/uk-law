@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Provision of information and documents[^key-3c805f06037d9f9daabf16e9d91a2687]
+## 52. Provision of information and documents[^c-3c805f06037d9f9daabf16e9d91a2687]
 
 *Extent: E+W+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c805f06037d9f9daabf16e9d91a2687]: Commencement: S. 52 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-3c805f06037d9f9daabf16e9d91a2687]: Commencement: S. 52 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

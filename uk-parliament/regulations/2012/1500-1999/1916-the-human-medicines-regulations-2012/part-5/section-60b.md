@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60B. Submitting of samples and other information: EU marketing authorisations[^key-c3ba445a0043ebc05edb18d6bb189855]
+## 60B. Submitting of samples and other information: EU marketing authorisations[^c-c3ba445a0043ebc05edb18d6bb189855]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3ba445a0043ebc05edb18d6bb189855]: Textual amendment: [Reg. 60B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/60B) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [50](https://www.legislation.gov.uk/uksi/2024/832/regulation/50)
+[^c-c3ba445a0043ebc05edb18d6bb189855]: Textual amendment: [Reg. 60B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/60B) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [50](https://www.legislation.gov.uk/uksi/2024/832/regulation/50)

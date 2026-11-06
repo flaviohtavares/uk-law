@@ -39,9 +39,9 @@ Coming into operation
 
 6th April 2005
 
-The Department for Social Development, in exercise of the powers conferred on it by Articles 119(4), 280(1)(a) and (2)(b) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-85e48bf55f5e18b48bd91d3362f20503][^key-c4e3e336c592f97a18a1989472b37139]
+The Department for Social Development, in exercise of the powers conferred on it by Articles 119(4), 280(1)(a) and (2)(b) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^c-85e48bf55f5e18b48bd91d3362f20503][^c-c4e3e336c592f97a18a1989472b37139]
 
-## 1. Citation, commencement and interpretation[^key-b82241c1a8bf0757d20d619779fdd5e3]
+## 1. Citation, commencement and interpretation[^c-b82241c1a8bf0757d20d619779fdd5e3]
 
 (1) These Regulations may be cited as the Pension Protection Fund (Hybrid Schemes) (Modification) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
@@ -49,7 +49,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) In these Regulations, any reference to a numbered Article, or Schedule, is a reference to the Article of, or Schedule to, the Order bearing that number.
 
-## 2. Discharge of liabilities in respect of money purchase benefits during the assessment period[^key-82c627e362e0ebdae584ee3f2200fb89]
+## 2. Discharge of liabilities in respect of money purchase benefits during the assessment period[^c-82c627e362e0ebdae584ee3f2200fb89]
 
 (1) The circumstances prescribed for the purposes of Article 119(4) (restrictions on winding up, discharge of liabilities etc.) are that –
 
@@ -68,7 +68,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 - “pension credit rights” means rights to future benefits under the scheme which are attributable (directly or indirectly) to a pension credit, and
 - “rights” includes pension credit rights.
 
-## 3. Modification of Part III of the Order[^key-374531340470305fb1304b765fbc40d3]
+## 3. Modification of Part III of the Order[^c-374531340470305fb1304b765fbc40d3]
 
 (1) In relation to a hybrid scheme, Article 118 (directions) applies as if, after paragraph (2), there were inserted the following paragraph –
 
@@ -151,16 +151,16 @@ As the Regulations are made before the end of the period of six months beginning
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-85e48bf55f5e18b48bd91d3362f20503]: Modification: Regulations applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [52(1)(b)(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/52/1/b)
+[^c-85e48bf55f5e18b48bd91d3362f20503]: Modification: Regulations applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [52(1)(b)(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/52/1/b)
 
-[^key-c4e3e336c592f97a18a1989472b37139]: Modification: Regulations applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [56(3)](https://www.legislation.gov.uk/nisr/2014/204/regulation/56/3)
+[^c-c4e3e336c592f97a18a1989472b37139]: Modification: Regulations applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [56(3)](https://www.legislation.gov.uk/nisr/2014/204/regulation/56/3)
 
-[^key-b82241c1a8bf0757d20d619779fdd5e3]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/84/regulation/1/1)
+[^c-b82241c1a8bf0757d20d619779fdd5e3]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/84/regulation/1/1)
 
-[^key-82c627e362e0ebdae584ee3f2200fb89]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/84/regulation/1/1)
+[^c-82c627e362e0ebdae584ee3f2200fb89]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/84/regulation/1/1)
 
 [^f00002]: Footnote: *See* Articles 109 and 114(6) of the Pensions (Northern Ireland) Order 2005
 
-[^key-374531340470305fb1304b765fbc40d3]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/84/regulation/1/1)
+[^c-374531340470305fb1304b765fbc40d3]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/84/regulation/1/1)
 
 [^f00003]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)

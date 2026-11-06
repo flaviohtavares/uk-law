@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Advance application for registration as a trade repository[^key-8a7671adf2b95b426c3e6105bace0bfc]
+## 2. Advance application for registration as a trade repository[^c-8a7671adf2b95b426c3e6105bace0bfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a7671adf2b95b426c3e6105bace0bfc]: Commencement: Reg. 2 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-8a7671adf2b95b426c3e6105bace0bfc]: Commencement: Reg. 2 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

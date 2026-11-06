@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Use of accumulated value of AVCs and SCAVCs[^key-1cc4362bb843180587ceb23c746e3cad]
+## 26. Use of accumulated value of AVCs and SCAVCs[^c-1cc4362bb843180587ceb23c746e3cad]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cc4362bb843180587ceb23c746e3cad]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-1cc4362bb843180587ceb23c746e3cad]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

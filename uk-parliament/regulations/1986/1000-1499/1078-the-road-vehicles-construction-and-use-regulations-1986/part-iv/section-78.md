@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Maximum permitted wheel and axle weights[^key-6b79a129a52e9d71d88651ff992b874e]
+## 78. Maximum permitted wheel and axle weights[^c-6b79a129a52e9d71d88651ff992b874e]
 
 *Extent: E+W+S*
 
@@ -59,7 +59,7 @@ PART I
 </tbody>
 </table>
 
-[^key-4cc2971499561e3a8f9d53bfdfeb2d60][^key-0c7c68f9dc4a2c3aeb498f4431c48e6b][^key-935f16008f87f8c13bb826916d685dec][^key-b8b7feb6dabd437a44cadfe484b74d1f]
+[^c-4cc2971499561e3a8f9d53bfdfeb2d60][^c-0c7c68f9dc4a2c3aeb498f4431c48e6b][^c-935f16008f87f8c13bb826916d685dec][^c-b8b7feb6dabd437a44cadfe484b74d1f]
 
 PART II
 
@@ -97,7 +97,7 @@ PART III
 </tbody>
 </table>
 
-[^key-539d97e288650ecdcff5287109099ecd]
+[^c-539d97e288650ecdcff5287109099ecd]
 
 PART IV
 
@@ -118,7 +118,7 @@ PART IV
 </tbody>
 </table>
 
-(3) In the case of an articulated bus, or, subject to paragraph (4), of a bus first used before 1st April 1988, the laden weight, for the purposes of [^key-3152962c21b97f27cf5122a8b81705e4]... regulation 75, and the weight transmitted to the road surface by wheels of the vehicle, for the purposes of items 1 and 2 of the Table in this regulation, shall be calculated with reference to the vehicle when it is complete and fully equipped for service with—
+(3) In the case of an articulated bus, or, subject to paragraph (4), of a bus first used before 1st April 1988, the laden weight, for the purposes of [^c-3152962c21b97f27cf5122a8b81705e4]... regulation 75, and the weight transmitted to the road surface by wheels of the vehicle, for the purposes of items 1 and 2 of the Table in this regulation, shall be calculated with reference to the vehicle when it is complete and fully equipped for service with—
 
 - (a) a full supply of water, oil and fuel; and
 - (b) weights of 63.5 kg for each person (including crew)—
@@ -136,25 +136,25 @@ PART IV
 - (c) all luggage space within the vehicle but not within the passenger compartment loaded at the rate of 100 kg per m<sup>3</sup> or 10 kg per person mentioned in sub-paragraph *(b)* above, whichever is the less; and
 - (d) any area of the roof of the vehicle constructed or adapted for the storage of luggage loaded with a uniformly distributed load at the rate of 75 kg per m<sup>2</sup>.
 
-(6)[^key-c8d8fcef6763042e1c947ac85fb5b4b5] Regulation 75 shall not apply to a two axle bus if—
+(6)[^c-c8d8fcef6763042e1c947ac85fb5b4b5] Regulation 75 shall not apply to a two axle bus if—
 
 - (a) its laden weight as calculated in accordance with paragraph (5) does not exceed 17,000kg; and
 - (b) the distance between the two axles is at least 3.0m.
 
 ## Annotations
 
-[^key-6b79a129a52e9d71d88651ff992b874e]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-6b79a129a52e9d71d88651ff992b874e]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-4cc2971499561e3a8f9d53bfdfeb2d60]: Textual amendment: Words in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 1 substituted (1.4.1988) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/1987/676/regulation/13/1)
+[^c-4cc2971499561e3a8f9d53bfdfeb2d60]: Textual amendment: Words in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 1 substituted (1.4.1988) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/1987/676/regulation/13/1)
 
-[^key-0c7c68f9dc4a2c3aeb498f4431c48e6b]: Textual amendment: Word in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 3(a) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/a/i)
+[^c-0c7c68f9dc4a2c3aeb498f4431c48e6b]: Textual amendment: Word in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 3(a) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/a/i)
 
-[^key-935f16008f87f8c13bb826916d685dec]: Textual amendment: Word in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 3(a) omitted (1.1.1993) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/a/ii)
+[^c-935f16008f87f8c13bb826916d685dec]: Textual amendment: Word in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 3(a) omitted (1.1.1993) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/a/ii)
 
-[^key-b8b7feb6dabd437a44cadfe484b74d1f]: Textual amendment: Words in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 3(a) omitted (1.1.1993) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(a)(iii)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/a/iii)
+[^c-b8b7feb6dabd437a44cadfe484b74d1f]: Textual amendment: Words in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 3(a) omitted (1.1.1993) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(a)(iii)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/a/iii)
 
-[^key-539d97e288650ecdcff5287109099ecd]: Textual amendment: Words in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 9 substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/142/regulation/22)
+[^c-539d97e288650ecdcff5287109099ecd]: Textual amendment: Words in [reg. 78](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78) Table Item 9 substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/142/regulation/22)
 
-[^key-3152962c21b97f27cf5122a8b81705e4]: Textual amendment: Words in [reg. 78(3)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78/3) omitted (1.1.1993) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/b)
+[^c-3152962c21b97f27cf5122a8b81705e4]: Textual amendment: Words in [reg. 78(3)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78/3) omitted (1.1.1993) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/b)
 
-[^key-c8d8fcef6763042e1c947ac85fb5b4b5]: Textual amendment: [Reg. 78(6)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78/6) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/c)
+[^c-c8d8fcef6763042e1c947ac85fb5b4b5]: Textual amendment: [Reg. 78(6)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/78/6) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/7/c)

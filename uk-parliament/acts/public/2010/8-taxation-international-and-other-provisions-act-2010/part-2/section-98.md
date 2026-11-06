@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Attribution for section 97 purposes if category is gross roll-up business[^key-b1fd67ce4c91b4836e64da3d7b00b087]
+## 98. Attribution for section 97 purposes if category is gross roll-up business[^c-b1fd67ce4c91b4836e64da3d7b00b087]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1fd67ce4c91b4836e64da3d7b00b087]: Textual amendment: S. 98 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 237](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/237)
+[^c-b1fd67ce4c91b4836e64da3d7b00b087]: Textual amendment: S. 98 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 237](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/237)

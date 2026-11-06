@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 39. Memorandum and articles of association[^key-ce31231a373ce70d218a9d09b6954f88]
+## 39. Memorandum and articles of association[^c-ce31231a373ce70d218a9d09b6954f88]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce31231a373ce70d218a9d09b6954f88]: Commencement: [S. 39](https://www.legislation.gov.uk/ukcm/2018/8/section/39) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-ce31231a373ce70d218a9d09b6954f88]: Commencement: [S. 39](https://www.legislation.gov.uk/ukcm/2018/8/section/39) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

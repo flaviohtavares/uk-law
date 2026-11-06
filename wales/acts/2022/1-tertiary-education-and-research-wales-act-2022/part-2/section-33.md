@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Mandatory ongoing registration conditions on equal opportunity[^key-c06621699ca9d283e6ab69aa50bf3cc5][^key-20b23b3efdde4a71e3cafb3a151abb38][^key-acf8d682feb4dcc1bc0569f9794152f6]
+## 33. Mandatory ongoing registration conditions on equal opportunity[^c-c06621699ca9d283e6ab69aa50bf3cc5][^c-20b23b3efdde4a71e3cafb3a151abb38][^c-acf8d682feb4dcc1bc0569f9794152f6]
 
 *Extent: E+W*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c06621699ca9d283e6ab69aa50bf3cc5]: Commencement: S. 33 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-c06621699ca9d283e6ab69aa50bf3cc5]: Commencement: S. 33 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-20b23b3efdde4a71e3cafb3a151abb38]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2022/1/section/33) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(u)](https://www.legislation.gov.uk/wsi/2023/919/article/3/u)
+[^c-20b23b3efdde4a71e3cafb3a151abb38]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2022/1/section/33) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(u)](https://www.legislation.gov.uk/wsi/2023/919/article/3/u)
 
-[^key-acf8d682feb4dcc1bc0569f9794152f6]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2022/1/section/33) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/432/article/3/a)
+[^c-acf8d682feb4dcc1bc0569f9794152f6]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2022/1/section/33) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/432/article/3/a)

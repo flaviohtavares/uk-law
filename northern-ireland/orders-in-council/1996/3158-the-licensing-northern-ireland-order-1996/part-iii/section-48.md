@@ -46,7 +46,7 @@ may, by order, specify any part of the premises as being suitable for functions 
 - (c) a conference centre;
 - (d) a higher education institution;
 - (dd)[^c17145851] an indoor arena;
-- (de)[^key-738a50418db6dcde1b998ee42d234cda] an outdoor stadium;
+- (de)[^c-738a50418db6dcde1b998ee42d234cda] an outdoor stadium;
 - (e) any part of premises of a kind mentioned in Article 5(1)(a) which are structurally adapted and used, or intended to be used, for the purpose of providing persons frequenting the premises with a main table meal at midday or in the evening, or both.
 
 ## Annotations
@@ -55,4 +55,4 @@ may, by order, specify any part of the premises as being suitable for functions 
 
 [^c17145851]: Textual amendment: [2004 NI 17](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-738a50418db6dcde1b998ee42d234cda]: Textual amendment: Art. 48(4)(de) inserted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 6](https://www.legislation.gov.uk/nia/2016/24/section/6), 8(1)
+[^c-738a50418db6dcde1b998ee42d234cda]: Textual amendment: Art. 48(4)(de) inserted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 6](https://www.legislation.gov.uk/nia/2016/24/section/6), 8(1)

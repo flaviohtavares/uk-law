@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 12.2. Evidence given orally[^key-a05d563aec7f348ff4ac8601025cf05e]
+## 12.2. Evidence given orally[^c-a05d563aec7f348ff4ac8601025cf05e]
 
 *Extent: E*
 
-(1) Where a witness is to give evidence at a hearing, [^key-6c115e2887fb5bc53565c993fb80848f]... the witness’s evidence must be given orally under oath or solemn affirmation.
+(1) Where a witness is to give evidence at a hearing, [^c-6c115e2887fb5bc53565c993fb80848f]... the witness’s evidence must be given orally under oath or solemn affirmation.
 
 (2) Where—
 
@@ -36,6 +36,6 @@ the witness statement or report is to stand as the evidence in chief of the witn
 
 ## Annotations
 
-[^key-a05d563aec7f348ff4ac8601025cf05e]: Commencement: [Rule 12.2](https://www.legislation.gov.uk/uksi/2015/1568/article/12.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-a05d563aec7f348ff4ac8601025cf05e]: Commencement: [Rule 12.2](https://www.legislation.gov.uk/uksi/2015/1568/article/12.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
-[^key-6c115e2887fb5bc53565c993fb80848f]: Textual amendment: Words in [rule 12.2(1)](https://www.legislation.gov.uk/uksi/2015/1568/rule/12.2/1) omitted (1.7.2022) by virtue of [The Faculty Jurisdiction (Amendment) Rules 2022 (S.I. 2022/155)](https://www.legislation.gov.uk/uksi/2022/155), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2022/155/rule/5/4)
+[^c-6c115e2887fb5bc53565c993fb80848f]: Textual amendment: Words in [rule 12.2(1)](https://www.legislation.gov.uk/uksi/2015/1568/rule/12.2/1) omitted (1.7.2022) by virtue of [The Faculty Jurisdiction (Amendment) Rules 2022 (S.I. 2022/155)](https://www.legislation.gov.uk/uksi/2022/155), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2022/155/rule/5/4)

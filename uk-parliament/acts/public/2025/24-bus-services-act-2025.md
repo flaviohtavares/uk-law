@@ -39,7 +39,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 *Extent: E+W*
 
-### 1. Availability of franchising schemes[^key-d571ff5e2640905e8849b2b904ccbf71][^key-7df7465e1c2acade20026435f299a11f]
+### 1. Availability of franchising schemes[^c-d571ff5e2640905e8849b2b904ccbf71][^c-7df7465e1c2acade20026435f299a11f]
 
 (1) The [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) is amended as follows.
 
@@ -57,13 +57,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (5) In section 160(2) and (2A) (regulations and orders) omit “123A(4),”.
 
-### 2. Specification of areas[^key-7019363b94c7ba9bc2b9647ed9f0964c][^key-9ac3a0057188f8e253d49c162ac584b2]
+### 2. Specification of areas[^c-7019363b94c7ba9bc2b9647ed9f0964c][^c-9ac3a0057188f8e253d49c162ac584b2]
 
 In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) (making and publication of scheme), after subsection (2) insert—
 
 > (2A) Where a scheme specifies more than one area under subsection (2)(a), the areas specified need not be contiguous.
 
-### 3. Specification of services[^key-b1a9940414ac84f26041a9b45b510a5a][^key-473c67a65aa7506d87da555ccd8d16d0]
+### 3. Specification of services[^c-b1a9940414ac84f26041a9b45b510a5a][^c-473c67a65aa7506d87da555ccd8d16d0]
 
 (1) In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) (making and publication of scheme), after subsection (2A) (inserted by section 2 of this Act) insert—
 
@@ -88,7 +88,7 @@ In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga
 
 (5) An “existing franchising scheme” is a franchising scheme made before this section comes into force.
 
-### 4. Minimum period before provision of services[^key-19a586636bbd2aa63e4823cc4370c788][^key-da227972ab71902ae1e7652ae37f739e]
+### 4. Minimum period before provision of services[^c-19a586636bbd2aa63e4823cc4370c788][^c-da227972ab71902ae1e7652ae37f739e]
 
 (1) In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) (making and publication of scheme) omit subsection (4).
 
@@ -99,7 +99,7 @@ In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga
 
 (3) Where this subsection applies the franchising authority or authorities may, when making or varying the scheme in pursuance of the consultation document, specify a minimum period under section 123H(2)(d) or (3)(c) which is less than six months.
 
-### 5. References to local services[^key-3a58cfb831f62e45d4c31f6bff2ce241][^key-78fe927f0f1e494e11eb6e00e896760b]
+### 5. References to local services[^c-3a58cfb831f62e45d4c31f6bff2ce241][^c-78fe927f0f1e494e11eb6e00e896760b]
 
 (1) The [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) is amended as follows.
 
@@ -115,7 +115,7 @@ In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga
 
 *Extent: E+W*
 
-### 6. Criteria for granting service permits[^key-5eb22d75f761132a004ec3b424eebf39][^key-61454076ebc925aaf09bfef05d7e7083]
+### 6. Criteria for granting service permits[^c-5eb22d75f761132a004ec3b424eebf39][^c-61454076ebc925aaf09bfef05d7e7083]
 
 (1) Section 123Q of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) (application for service permit) is amended in accordance with subsections (2) to (4).
 
@@ -155,7 +155,7 @@ In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga
 
 (6) The amendments made by this section apply only in relation to applications for a service permit made on or after the date on which this section comes into force.
 
-### 7. Registration of services provided under service permits[^key-6eb5cbec4430a542efacd5e8e2d6bb17]
+### 7. Registration of services provided under service permits[^c-6eb5cbec4430a542efacd5e8e2d6bb17]
 
 **Not yet in force.**
 
@@ -194,7 +194,7 @@ In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga
 
 .
 
-### 8. Substitute road services[^key-b127a4d406546256d124e4fdeb7f677d][^key-f8e1a4817980658af0020079807dff56]
+### 8. Substitute road services[^c-b127a4d406546256d124e4fdeb7f677d][^c-f8e1a4817980658af0020079807dff56]
 
 (1) Section 123J of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) (effect of local service contracts: registration requirements and provision of services) is amended as follows.
 
@@ -218,7 +218,7 @@ In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga
 
 *Extent: E+W*
 
-### 9. Report on assessment of proposed scheme[^key-7901c9b97b07244fe59a8cda17f83cf8][^key-e99e5b5ffcfa3e2ecdd16008f9143681]
+### 9. Report on assessment of proposed scheme[^c-7901c9b97b07244fe59a8cda17f83cf8][^c-e99e5b5ffcfa3e2ecdd16008f9143681]
 
 (1) Section 123D of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) (audit) is amended in accordance with subsections (2) to (8).
 
@@ -256,7 +256,7 @@ In section 123H of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga
 
 (10) The amendments made by this section do not apply in relation to an appointment of a person as an auditor, in relation to a proposed franchising scheme, before this section comes into force.
 
-### 10. Duty to consult persons with disabilities[^key-d5755f820c8a0a3261906b42a0aee078][^key-a0a319aec7540234fb23ecfc99d93d63]
+### 10. Duty to consult persons with disabilities[^c-d5755f820c8a0a3261906b42a0aee078][^c-a0a319aec7540234fb23ecfc99d93d63]
 
 In section 123E(4) of the Transport Act 2000 (consultation), after paragraph (d) insert—
 
@@ -264,7 +264,7 @@ In section 123E(4) of the Transport Act 2000 (consultation), after paragraph (d)
 
 .
 
-### 11. Variation of schemes[^key-ea7919a27bb92b84ff98111c0bdf34e2][^key-49962eef3ddc35cd3718d12e5fb67bf7]
+### 11. Variation of schemes[^c-ea7919a27bb92b84ff98111c0bdf34e2][^c-49962eef3ddc35cd3718d12e5fb67bf7]
 
 (1) The [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) is amended as follows.
 
@@ -295,7 +295,7 @@ In section 123E(4) of the Transport Act 2000 (consultation), after paragraph (d)
 
 (4) The Schedule inserts new Schedule 9A into the Transport Act 2000.
 
-### 12. Miscellaneous amendments[^key-d2511f5b8f97dd6d1b5ffb0f753c3576][^key-52b4476b2fa140a652b9e4f0978c357e]
+### 12. Miscellaneous amendments[^c-d2511f5b8f97dd6d1b5ffb0f753c3576][^c-52b4476b2fa140a652b9e4f0978c357e]
 
 (1) The Transport Act 2000 is amended as follows.
 
@@ -339,7 +339,7 @@ In section 123E(4) of the Transport Act 2000 (consultation), after paragraph (d)
 
 ## Franchising schemes: direct award of contracts
 
-### 13. Direct award of contracts to incumbent operators[^key-88999570ecb8c0e2a78b12f3c2d41631][^key-8b21386cee3e3cc89a4694ceaeefabbb]
+### 13. Direct award of contracts to incumbent operators[^c-88999570ecb8c0e2a78b12f3c2d41631][^c-8b21386cee3e3cc89a4694ceaeefabbb]
 
 (1) The [Public Service Obligations in Transport Regulations 2023](https://www.legislation.gov.uk/uksi/2023/1369) ([S.I. 2023/1369](https://www.legislation.gov.uk/uksi/2023/1369)) are amended as follows.
 
@@ -387,7 +387,7 @@ In section 123E(4) of the Transport Act 2000 (consultation), after paragraph (d)
 
 *Extent: E+W*
 
-### 14. Socially necessary local services[^key-c4337bf1e724878ade889da582e56fdb][^key-f5d99bfb74b9430dfb0bee038ec6bfe9]
+### 14. Socially necessary local services[^c-c4337bf1e724878ade889da582e56fdb][^c-f5d99bfb74b9430dfb0bee038ec6bfe9]
 
 (1) The [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) is amended in accordance with subsections (2) and (3).
 
@@ -427,7 +427,7 @@ In section 123E(4) of the Transport Act 2000 (consultation), after paragraph (d)
 - (a) vary the plan in accordance with subsection (3) of section 138K of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) so that it identifies which of the services provided in the area are socially necessary local services, and
 - (b) vary, in accordance with that subsection, each enhanced partnership scheme which, on the commencement day, relates to the whole or part of the area to which the plan relates so that section 138C(9A) of that Act is satisfied in relation to the scheme.
 
-### 15. Measures specified in schemes[^key-cc1207e38e235482148c1fa317a9918a][^key-58ec05c16463d9aec1dd6dec18e52647]
+### 15. Measures specified in schemes[^c-cc1207e38e235482148c1fa317a9918a][^c-58ec05c16463d9aec1dd6dec18e52647]
 
 (1) The [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) is amended as follows.
 
@@ -435,7 +435,7 @@ In section 123E(4) of the Transport Act 2000 (consultation), after paragraph (d)
 
 (3) In section 138D(2)(a) (measures specified in scheme), omit “**serving the routes**” (in both places).
 
-### 16. Passenger benefit requirement[^key-aefaad71977338625143cfcbeb279e89][^key-074be180fdd6b6b34c2162e192b4824d]
+### 16. Passenger benefit requirement[^c-aefaad71977338625143cfcbeb279e89][^c-074be180fdd6b6b34c2162e192b4824d]
 
 In section 138C of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) (requirements in respect of local services), for subsection (9) substitute—
 
@@ -447,7 +447,7 @@ In section 138C of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga
 >   - (ii) a local transport authority, or
 >   - (iii) any other person exercising functions of a public nature.
 
-### 17. Variation of schemes[^key-96a531ec8e32ee162828768a5d55e6a8][^key-f6932a9fbf481d187c62339a41217512]
+### 17. Variation of schemes[^c-96a531ec8e32ee162828768a5d55e6a8][^c-f6932a9fbf481d187c62339a41217512]
 
 After section 138K of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) insert—
 
@@ -467,11 +467,11 @@ After section 138K of the [Transport Act 2000](https://www.legislation.gov.uk/uk
 >
 > (4) A direction under this section does not affect the application of the other requirements that must be met before the scheme can be varied under section 138K.
 
-### 18. Requirements enabling travel by persons with disabilities[^key-192907594e61e324cc21369322b620db]
+### 18. Requirements enabling travel by persons with disabilities[^c-192907594e61e324cc21369322b620db]
 
-(1)[^key-578a0318f2dc79b9969da72189574af9] The Transport Act 2000 is amended as follows.
+(1)[^c-578a0318f2dc79b9969da72189574af9] The Transport Act 2000 is amended as follows.
 
-(2)[^key-578a0318f2dc79b9969da72189574af9] After section 138C (requirements in respect of local services) insert—
+(2)[^c-578a0318f2dc79b9969da72189574af9] After section 138C (requirements in respect of local services) insert—
 
 > **138CA. Requirements enabling travel by persons with disabilities**
 >
@@ -490,21 +490,21 @@ After section 138K of the [Transport Act 2000](https://www.legislation.gov.uk/uk
 > - “**mobility aid**” has the meaning given by section 164A(6) of that Act;
 > - “**persons with disabilities**” means persons who have a disability within the meaning given by section 6 of that Act.
 
-(3)[^key-578a0318f2dc79b9969da72189574af9] In section 138F(6) (consultation), after paragraph (b) insert—
+(3)[^c-578a0318f2dc79b9969da72189574af9] In section 138F(6) (consultation), after paragraph (b) insert—
 
 > - (ba) such persons with disabilities (within the meaning given by section 6 of the Equality Act 2010) who are users or prospective users of local services, or such organisations appearing to the authority or authorities to be representative of such persons, as they think fit,
 
 .
 
-(4)[^key-3b6ac8e8c0e18560bcd41c922199e36d] In section 138K (variation), after subsection (8) insert—
+(4)[^c-3b6ac8e8c0e18560bcd41c922199e36d] In section 138K (variation), after subsection (8) insert—
 
 > (9) Before varying an enhanced partnership scheme, a local transport authority must consider whether the requirements proposed to be specified in the scheme as varied will enable persons with disabilities to travel independently, and in safety and reasonable comfort, on local services that have one or more stopping places in the area to which the scheme as proposed to be varied relates.
 >
 > (10) In this section “**persons with disabilities**” means persons who have a disability within the meaning given by section 6 of the Equality Act 2010.
 
-(5)[^key-bf648b9766f9eda996a9170f2892852c] In section 138A(5)(b) (requirements which may be specified in enhanced partnership schemes), for “section 138C” substitute “sections 138C and 138CA”.
+(5)[^c-bf648b9766f9eda996a9170f2892852c] In section 138A(5)(b) (requirements which may be specified in enhanced partnership schemes), for “section 138C” substitute “sections 138C and 138CA”.
 
-### 19. Objections by operators[^key-3edf5da5ac1fc38e526ed66dc3357e3e][^key-11d13b3f536eac4291ac15b33ac21f74]
+### 19. Objections by operators[^c-3edf5da5ac1fc38e526ed66dc3357e3e][^c-11d13b3f536eac4291ac15b33ac21f74]
 
 (1) The [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) is amended in accordance with subsections (2) to (6).
 
@@ -583,7 +583,7 @@ After section 138K of the [Transport Act 2000](https://www.legislation.gov.uk/uk
 
 (7) In the [Enhanced Partnership Plans and Schemes (Objections) Regulations 2018](https://www.legislation.gov.uk/uksi/2018/404) ([S.I. 2018/404](https://www.legislation.gov.uk/uksi/2018/404)) omit regulations 7(2) and 8(2).
 
-### 20. Advance notice of requirement to provide information[^key-59331003cf61b7ec4b626b514e44db09][^key-a263a8c6c1beacd3cfffa1bb68667a8f]
+### 20. Advance notice of requirement to provide information[^c-59331003cf61b7ec4b626b514e44db09][^c-a263a8c6c1beacd3cfffa1bb68667a8f]
 
 In section 143B of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) (power to obtain information about local services), after subsection (4) insert—
 
@@ -598,7 +598,7 @@ In section 143B of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga
 
 *Extent: E+W*
 
-### 21. Bus network accessibility plans[^key-d8d61436a029b774ee16f2a90dd4f19d][^key-32c00b4ffa9df6f82c215294128f6328]
+### 21. Bus network accessibility plans[^c-d8d61436a029b774ee16f2a90dd4f19d][^c-32c00b4ffa9df6f82c215294128f6328]
 
 In the Transport Act 2000, after section 113B insert—
 
@@ -634,7 +634,7 @@ In the Transport Act 2000, after section 113B insert—
 >
 > (7) In this section “**persons with disabilities**” means persons who have a disability within the meaning given by section 6 of the Equality Act 2010.
 
-### 22. Local government bus companies[^key-e68bf885987653118178a126c33e43b4][^key-40063337993bf20b350ba8a2ebda1594]
+### 22. Local government bus companies[^c-e68bf885987653118178a126c33e43b4][^c-40063337993bf20b350ba8a2ebda1594]
 
 (1) In the [Bus Services Act 2017](https://www.legislation.gov.uk/ukpga/2017/21) omit section 22 (restriction on formation of bus companies by local government in England).
 
@@ -692,7 +692,7 @@ is disqualified for being elected or being a member of a relevant authority if t
 
 (8) In Schedule 4 to the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/ukpga/2023/55) omit paragraph 212.
 
-### 23. Grants[^key-306d6966e7fca3e113773a3fed066ee6][^key-e29d3ee1324e9cddb8b357c032e9ecb0]
+### 23. Grants[^c-306d6966e7fca3e113773a3fed066ee6][^c-e29d3ee1324e9cddb8b357c032e9ecb0]
 
 In the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38), after section 154 insert—
 
@@ -732,7 +732,7 @@ In the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38), after
 
 **Not yet in force.**
 
-### 24. Information provided on registration of local services[^key-cd824139c5dac4b416093bab5a922d40]
+### 24. Information provided on registration of local services[^c-cd824139c5dac4b416093bab5a922d40]
 
 *Extent: E+W*
 
@@ -780,7 +780,7 @@ In the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38), after
 
 (5) Where a local service is provided both inside and outside England, subsection (4) does not authorise the provision of information which relates to any part of the service which is provided outside England.
 
-### 25. Information about local services[^key-738a38031e34e87b78d82e6809d216c1]
+### 25. Information about local services[^c-738a38031e34e87b78d82e6809d216c1]
 
 *Extent: E+W*
 
@@ -819,7 +819,7 @@ In the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38), after
 
 > - (b) provision for the information to be provided to a traffic commissioner.
 
-### 26. Information obtained under Statistics of Trade Act 1947[^key-59a4e122486be90a81e4f0ee90c540dd]
+### 26. Information obtained under Statistics of Trade Act 1947[^c-59a4e122486be90a81e4f0ee90c540dd]
 
 In the Statistics of Trade Act 1947, after section 9A insert—
 
@@ -862,7 +862,7 @@ In the Statistics of Trade Act 1947, after section 9A insert—
 
 ## Enforcement
 
-### 27. Powers of inspectors[^key-3e98af1525337f93e8e835f201556ed9][^key-123fbdd75c05b63a268ed175bb8e8028]
+### 27. Powers of inspectors[^c-3e98af1525337f93e8e835f201556ed9][^c-123fbdd75c05b63a268ed175bb8e8028]
 
 (1) Section 24 of the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga/1981/14) (regulation of conduct of inspectors) is amended in accordance with subsections (2) and (3).
 
@@ -890,7 +890,7 @@ In the Statistics of Trade Act 1947, after section 9A insert—
 
 (4) In the [Public Service Vehicles (Conduct of Drivers, Inspectors, Conductors and Passengers) Regulations 1990](https://www.legislation.gov.uk/uksi/1990/1020) ([S.I. 1990/1020](https://www.legislation.gov.uk/uksi/1990/1020)), “**inspector**” includes an inspector authorised as mentioned in section 24(4)(b) of the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga/1981/14).
 
-### 28. Local transport authority byelaws[^key-274bb4664063782670844bd8182742e8][^key-e010358e3a17a759fc881b2a225598b6]
+### 28. Local transport authority byelaws[^c-274bb4664063782670844bd8182742e8][^c-e010358e3a17a759fc881b2a225598b6]
 
 *Extent: E+W*
 
@@ -1055,7 +1055,7 @@ In the Statistics of Trade Act 1947, after section 9A insert—
 
 (2) Subsection (3) of section 235 of the [Local Government Act 1972](https://www.legislation.gov.uk/ukpga/1972/70) does not prevent byelaws being made under that section which could also be made under section 144A of the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) where the local authority making the byelaws made an application to the Secretary of State under regulation 6 of the Byelaws (Alternative Procedure) (England) Regulations 2016 ([S.I. 2016/165](https://www.legislation.gov.uk/uksi/2016/165)) before this section came into force.
 
-### 29. Transport for London byelaws[^key-dd93762b17764d3a168108fb9d9c14e7][^key-e534758a021a6e5ffcabea17c584cc59]
+### 29. Transport for London byelaws[^c-dd93762b17764d3a168108fb9d9c14e7][^c-e534758a021a6e5ffcabea17c584cc59]
 
 *Extent: E+W*
 
@@ -1155,7 +1155,7 @@ In the Greater London Authority Act 1999, after Chapter 8 of Part 4 insert—
 
 *Extent: E+W*
 
-### 30. Safety and accessibility of stopping places[^key-4581d726d199b7d1600aa50964e41221][^key-9ddcaa75bd608ae445ed2d485021ea5d]
+### 30. Safety and accessibility of stopping places[^c-4581d726d199b7d1600aa50964e41221][^c-9ddcaa75bd608ae445ed2d485021ea5d]
 
 (1) The Secretary of State may give guidance about stopping places for local services, and facilities in the vicinity of such stopping places, for the purposes of—
 
@@ -1194,7 +1194,7 @@ In the Greater London Authority Act 1999, after Chapter 8 of Part 4 insert—
 - “**public service vehicle**” has the same meaning as in the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga/1981/14) (see section 1 of that Act);
 - “**stopping place**” has the same meaning as in the [Transport Act 1985](https://www.legislation.gov.uk/ukpga/1985/67) (see section 137 of that Act).
 
-### 31. Provision and design of floating bus stops[^key-06ff827d9b4330886511ec9f165bf5f5]
+### 31. Provision and design of floating bus stops[^c-06ff827d9b4330886511ec9f165bf5f5]
 
 (1) The Secretary of State must give guidance about the provision and design of floating bus stops.
 
@@ -1230,7 +1230,7 @@ In the Greater London Authority Act 1999, after Chapter 8 of Part 4 insert—
   - (b) so as to incorporate a cycle track (within the meaning of the Highways Act 1980 (see section 329 of that Act));
 - “**local service**” and “stopping place” have the same meanings as in the Transport Act 1985 (see sections 2 and 137 of that Act).
 
-### 32. Duty to provide information to Secretary of State[^key-b9c503e78c8d58b93411e9902cb6702f][^key-5549897407cadaf618288b4d2987db97][^key-825107354cea7c2c7018bcaaedbbef75]
+### 32. Duty to provide information to Secretary of State[^c-b9c503e78c8d58b93411e9902cb6702f][^c-5549897407cadaf618288b4d2987db97][^c-825107354cea7c2c7018bcaaedbbef75]
 
 (1) An authority which is subject to a duty under section 30(6) or section 31(7) (duties to have regard to guidance) must, when requested to do so, provide to the Secretary of State—
 
@@ -1250,7 +1250,7 @@ In the Greater London Authority Act 1999, after Chapter 8 of Part 4 insert—
 
 *Extent: E+W*
 
-### 33. Safeguarding duty: drivers of school services[^key-426f641e3ad8b77c2aa7018fc1f79449]
+### 33. Safeguarding duty: drivers of school services[^c-426f641e3ad8b77c2aa7018fc1f79449]
 
 In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga/1981/14), after Part 2 insert—
 
@@ -1306,7 +1306,7 @@ In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga
 
 ## Training of staff
 
-### 34. Training about crime and anti-social behaviour[^key-fbda43ab1d10e875f8293a49acdfeb84][^key-5233c6ee3cb8795e4a019316b52d7e8c]
+### 34. Training about crime and anti-social behaviour[^c-fbda43ab1d10e875f8293a49acdfeb84][^c-5233c6ee3cb8795e4a019316b52d7e8c]
 
 *Extent: E+W*
 
@@ -1358,7 +1358,7 @@ In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga
 
 > (1ZDA) Where a traffic commissioner is satisfied that the holder of a PSV operator’s licence has, without reasonable excuse, failed to comply with a requirement of section 144F or of regulations made under that section, the traffic commissioner may make one or more orders under subsection (1A)(a) or (d).
 
-### 35. Training about disability[^key-b42939073fd11269d91e3e9f334add79][^key-020e894d8a2bc54811186a160a5ab302]
+### 35. Training about disability[^c-b42939073fd11269d91e3e9f334add79][^c-020e894d8a2bc54811186a160a5ab302]
 
 (1) [Regulation (EU) No 181/2011 of the European Parliament and of the Council](https://www.legislation.gov.uk/eur/2011/181) of 16 February 2011 concerning the rights of passengers in bus and coach transport and amending [Regulation (EC) No 2006/2004](https://www.legislation.gov.uk/eur/2004/2006) is amended as follows.
 
@@ -1382,7 +1382,7 @@ In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga
 
   > 1A. Carriers and terminal managing bodies must ensure that the requirements of paragraph 1 have been completed within the past five years in relation to any of their personnel who fall within point (a) or (b) of that paragraph in relation to local services.
 
-### 36. Training about disability: further provisions[^key-fe40f8553279649a29b6e15c93ce92d0][^key-0a2cbfdd1d11f54d8f2ef31d3ff1f3d7]
+### 36. Training about disability: further provisions[^c-fe40f8553279649a29b6e15c93ce92d0][^c-0a2cbfdd1d11f54d8f2ef31d3ff1f3d7]
 
 (1) The Secretary of State may by regulations made by statutory instrument require carriers and terminal managing bodies—
 
@@ -1438,7 +1438,7 @@ In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga
 
 ## Zero-emission vehicles
 
-### 37. Use of zero-emission vehicles for local services in England[^key-2961708701446a2fb231e2b5efc933c7][^key-ed9410c978780fe202e9df19c7f388d4]
+### 37. Use of zero-emission vehicles for local services in England[^c-2961708701446a2fb231e2b5efc933c7][^c-ed9410c978780fe202e9df19c7f388d4]
 
 *Extent: E+W*
 
@@ -1487,7 +1487,7 @@ In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga
 - (a) in subsection (2), for “or 141A(1)” substitute “, 141A(1) or 151A(3)(b)”, and
 - (b) in subsection (2A), for “or 141A(1)” substitute “, 141A(1) or 151A(3)(b)”.
 
-### 38. Use of zero-emission vehicles for local services in Scotland[^key-c0a6790c74e1361fa2d5030fca7836bf]
+### 38. Use of zero-emission vehicles for local services in Scotland[^c-c0a6790c74e1361fa2d5030fca7836bf]
 
 *Extent: S*
 
@@ -1538,7 +1538,7 @@ In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga
 
 ## General
 
-### 39. Power to make consequential provision[^key-8b5716551155a45af947c7eaf415f070]
+### 39. Power to make consequential provision[^c-8b5716551155a45af947c7eaf415f070]
 
 (1) The Secretary of State may by regulations make provision that is consequential on this Act.
 
@@ -1558,7 +1558,7 @@ In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga
 
 (6) Any other statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 40. Extent[^key-0dc6802d3296420947de485a0f631a3f]
+### 40. Extent[^c-0dc6802d3296420947de485a0f631a3f]
 
 (1) The following provisions extend to England and Wales and Scotland—
 
@@ -1571,7 +1571,7 @@ In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga
 
 (3) The remaining provisions of this Act extend to England and Wales only.
 
-### 41. Commencement and transitional provision[^key-0ac6d62246aa1f9a8f8ed2d956ba3770]
+### 41. Commencement and transitional provision[^c-0ac6d62246aa1f9a8f8ed2d956ba3770]
 
 (1) Sections 39 and 40, this section and section 42 come into force on the day on which this Act is passed.
 
@@ -1595,17 +1595,17 @@ In the [Public Passenger Vehicles Act 1981](https://www.legislation.gov.uk/ukpga
 
 (8) For regulations made by the Scottish Ministers under subsection (4)(b) or (6), see section 27 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) (Scottish statutory instruments).
 
-### 42. Short title[^key-fc3c2c4f04bdce94d3f22e7ef0fc0b71]
+### 42. Short title[^c-fc3c2c4f04bdce94d3f22e7ef0fc0b71]
 
 This Act may be cited as the Bus Services Act 2025.
 
 *Extent: E+W*
 
-## Schedule — Procedure for varying franchising scheme[^key-6241acd33603bed7f41a32a45967c48d][^key-81f918a570bc15a158930121cf69e3f0]
+## Schedule — Procedure for varying franchising scheme[^c-6241acd33603bed7f41a32a45967c48d][^c-81f918a570bc15a158930121cf69e3f0]
 
 Section 11(4)
 
-[^key-81f918a570bc15a158930121cf69e3f0]
+[^c-81f918a570bc15a158930121cf69e3f0]
 
 After Schedule 9 to the [Transport Act 2000](https://www.legislation.gov.uk/ukpga/2000/38) insert—
 
@@ -1883,158 +1883,158 @@ After Schedule 9 to the [Transport Act 2000](https://www.legislation.gov.uk/ukpg
 
 ## Annotations
 
-[^key-d571ff5e2640905e8849b2b904ccbf71]: Commencement: S. 1 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-d571ff5e2640905e8849b2b904ccbf71]: Commencement: S. 1 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-7df7465e1c2acade20026435f299a11f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/24/section/1) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/a)
+[^c-7df7465e1c2acade20026435f299a11f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/24/section/1) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/a)
 
-[^key-7019363b94c7ba9bc2b9647ed9f0964c]: Commencement: S. 2 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-7019363b94c7ba9bc2b9647ed9f0964c]: Commencement: S. 2 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-9ac3a0057188f8e253d49c162ac584b2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/24/section/2) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/b)
+[^c-9ac3a0057188f8e253d49c162ac584b2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/24/section/2) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/b)
 
-[^key-b1a9940414ac84f26041a9b45b510a5a]: Commencement: S. 3 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-b1a9940414ac84f26041a9b45b510a5a]: Commencement: S. 3 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-473c67a65aa7506d87da555ccd8d16d0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/24/section/3) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/c)
+[^c-473c67a65aa7506d87da555ccd8d16d0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/24/section/3) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/c)
 
-[^key-19a586636bbd2aa63e4823cc4370c788]: Commencement: S. 4 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-19a586636bbd2aa63e4823cc4370c788]: Commencement: S. 4 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-da227972ab71902ae1e7652ae37f739e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/24/section/4) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/d)
+[^c-da227972ab71902ae1e7652ae37f739e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/24/section/4) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/d)
 
-[^key-3a58cfb831f62e45d4c31f6bff2ce241]: Commencement: S. 5 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-3a58cfb831f62e45d4c31f6bff2ce241]: Commencement: S. 5 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-78fe927f0f1e494e11eb6e00e896760b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/24/section/5) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/e)
+[^c-78fe927f0f1e494e11eb6e00e896760b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/24/section/5) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/e)
 
-[^key-5eb22d75f761132a004ec3b424eebf39]: Commencement: S. 6 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-5eb22d75f761132a004ec3b424eebf39]: Commencement: S. 6 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-61454076ebc925aaf09bfef05d7e7083]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/24/section/6) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/f)
+[^c-61454076ebc925aaf09bfef05d7e7083]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/24/section/6) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/f)
 
-[^key-6eb5cbec4430a542efacd5e8e2d6bb17]: Commencement: S. 7 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-6eb5cbec4430a542efacd5e8e2d6bb17]: Commencement: S. 7 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-b127a4d406546256d124e4fdeb7f677d]: Commencement: S. 8 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-b127a4d406546256d124e4fdeb7f677d]: Commencement: S. 8 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-f8e1a4817980658af0020079807dff56]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/24/section/8) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/g)
+[^c-f8e1a4817980658af0020079807dff56]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/24/section/8) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/g)
 
-[^key-7901c9b97b07244fe59a8cda17f83cf8]: Commencement: S. 9 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-7901c9b97b07244fe59a8cda17f83cf8]: Commencement: S. 9 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-e99e5b5ffcfa3e2ecdd16008f9143681]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/24/section/9) in force at 29.10.2026 by [S.I. 2026/1136](https://www.legislation.gov.uk/uksi/2026/1136), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1136/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1136/regulation/3))
+[^c-e99e5b5ffcfa3e2ecdd16008f9143681]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/24/section/9) in force at 29.10.2026 by [S.I. 2026/1136](https://www.legislation.gov.uk/uksi/2026/1136), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1136/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1136/regulation/3))
 
-[^key-d5755f820c8a0a3261906b42a0aee078]: Commencement: S. 10 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-d5755f820c8a0a3261906b42a0aee078]: Commencement: S. 10 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-a0a319aec7540234fb23ecfc99d93d63]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/24/section/10) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/h)
+[^c-a0a319aec7540234fb23ecfc99d93d63]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/24/section/10) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/h)
 
-[^key-ea7919a27bb92b84ff98111c0bdf34e2]: Commencement: S. 11 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-ea7919a27bb92b84ff98111c0bdf34e2]: Commencement: S. 11 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-49962eef3ddc35cd3718d12e5fb67bf7]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/24/section/11) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/46/regulation/5))
+[^c-49962eef3ddc35cd3718d12e5fb67bf7]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/24/section/11) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/46/regulation/5))
 
-[^key-d2511f5b8f97dd6d1b5ffb0f753c3576]: Commencement: S. 12 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-d2511f5b8f97dd6d1b5ffb0f753c3576]: Commencement: S. 12 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-52b4476b2fa140a652b9e4f0978c357e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/24/section/12) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/j)
+[^c-52b4476b2fa140a652b9e4f0978c357e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/24/section/12) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/j)
 
-[^key-88999570ecb8c0e2a78b12f3c2d41631]: Commencement: S. 13 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-88999570ecb8c0e2a78b12f3c2d41631]: Commencement: S. 13 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-8b21386cee3e3cc89a4694ceaeefabbb]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/24/section/13) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
+[^c-8b21386cee3e3cc89a4694ceaeefabbb]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/24/section/13) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
 
-[^key-c4337bf1e724878ade889da582e56fdb]: Commencement: S. 14 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-c4337bf1e724878ade889da582e56fdb]: Commencement: S. 14 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-f5d99bfb74b9430dfb0bee038ec6bfe9]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/24/section/14) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/a)
+[^c-f5d99bfb74b9430dfb0bee038ec6bfe9]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2025/24/section/14) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/a)
 
-[^key-cc1207e38e235482148c1fa317a9918a]: Commencement: S. 15 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-cc1207e38e235482148c1fa317a9918a]: Commencement: S. 15 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-58ec05c16463d9aec1dd6dec18e52647]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/24/section/15) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/b)
+[^c-58ec05c16463d9aec1dd6dec18e52647]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/24/section/15) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/b)
 
-[^key-aefaad71977338625143cfcbeb279e89]: Commencement: S. 16 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-aefaad71977338625143cfcbeb279e89]: Commencement: S. 16 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-074be180fdd6b6b34c2162e192b4824d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/24/section/16) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/c)
+[^c-074be180fdd6b6b34c2162e192b4824d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/24/section/16) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/c)
 
-[^key-96a531ec8e32ee162828768a5d55e6a8]: Commencement: S. 17 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-96a531ec8e32ee162828768a5d55e6a8]: Commencement: S. 17 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-f6932a9fbf481d187c62339a41217512]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/24/section/17) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/d)
+[^c-f6932a9fbf481d187c62339a41217512]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/24/section/17) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/d)
 
-[^key-192907594e61e324cc21369322b620db]: Commencement: S. 18 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-192907594e61e324cc21369322b620db]: Commencement: S. 18 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-578a0318f2dc79b9969da72189574af9]: Commencement: [S. 18(1)-(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/18/1) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(e)(i)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/e/i)
+[^c-578a0318f2dc79b9969da72189574af9]: Commencement: [S. 18(1)-(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/18/1) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(e)(i)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/e/i)
 
-[^key-3b6ac8e8c0e18560bcd41c922199e36d]: Commencement: [S. 18(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/18/4) in force at 1.7.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 4](https://www.legislation.gov.uk/uksi/2026/46/regulation/4)
+[^c-3b6ac8e8c0e18560bcd41c922199e36d]: Commencement: [S. 18(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/18/4) in force at 1.7.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 4](https://www.legislation.gov.uk/uksi/2026/46/regulation/4)
 
-[^key-bf648b9766f9eda996a9170f2892852c]: Commencement: [S. 18(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/18/5) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(e)(ii)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/e/ii)
+[^c-bf648b9766f9eda996a9170f2892852c]: Commencement: [S. 18(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/18/5) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(e)(ii)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/e/ii)
 
-[^key-3edf5da5ac1fc38e526ed66dc3357e3e]: Commencement: S. 19 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-3edf5da5ac1fc38e526ed66dc3357e3e]: Commencement: S. 19 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-11d13b3f536eac4291ac15b33ac21f74]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/24/section/19) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
+[^c-11d13b3f536eac4291ac15b33ac21f74]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/24/section/19) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
 
-[^key-59331003cf61b7ec4b626b514e44db09]: Commencement: S. 20 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-59331003cf61b7ec4b626b514e44db09]: Commencement: S. 20 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-a263a8c6c1beacd3cfffa1bb68667a8f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/24/section/20) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/g)
+[^c-a263a8c6c1beacd3cfffa1bb68667a8f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/24/section/20) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/g)
 
-[^key-d8d61436a029b774ee16f2a90dd4f19d]: Commencement: S. 21 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-d8d61436a029b774ee16f2a90dd4f19d]: Commencement: S. 21 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-32c00b4ffa9df6f82c215294128f6328]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/24/section/21) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/h)
+[^c-32c00b4ffa9df6f82c215294128f6328]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/24/section/21) in force at 1.4.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/h)
 
-[^key-e68bf885987653118178a126c33e43b4]: Commencement: S. 22 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-e68bf885987653118178a126c33e43b4]: Commencement: S. 22 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-40063337993bf20b350ba8a2ebda1594]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/24/section/22) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/l)
+[^c-40063337993bf20b350ba8a2ebda1594]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/24/section/22) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/l)
 
-[^key-306d6966e7fca3e113773a3fed066ee6]: Commencement: S. 23 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-306d6966e7fca3e113773a3fed066ee6]: Commencement: S. 23 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-e29d3ee1324e9cddb8b357c032e9ecb0]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/24/section/23) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/m)
+[^c-e29d3ee1324e9cddb8b357c032e9ecb0]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/24/section/23) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/m)
 
-[^key-cd824139c5dac4b416093bab5a922d40]: Commencement: S. 24 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-cd824139c5dac4b416093bab5a922d40]: Commencement: S. 24 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-738a38031e34e87b78d82e6809d216c1]: Commencement: S. 25 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-738a38031e34e87b78d82e6809d216c1]: Commencement: S. 25 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-59a4e122486be90a81e4f0ee90c540dd]: Commencement: S. 26 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-59a4e122486be90a81e4f0ee90c540dd]: Commencement: S. 26 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-3e98af1525337f93e8e835f201556ed9]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-3e98af1525337f93e8e835f201556ed9]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-123fbdd75c05b63a268ed175bb8e8028]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/24/section/27) in force at 5.8.2026 in so far as not already in force by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/a)
+[^c-123fbdd75c05b63a268ed175bb8e8028]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/24/section/27) in force at 5.8.2026 in so far as not already in force by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/a)
 
-[^key-274bb4664063782670844bd8182742e8]: Commencement: S. 28 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-274bb4664063782670844bd8182742e8]: Commencement: S. 28 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-e010358e3a17a759fc881b2a225598b6]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/24/section/28) in force at 5.8.2026 by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/b)
+[^c-e010358e3a17a759fc881b2a225598b6]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/24/section/28) in force at 5.8.2026 by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/b)
 
-[^key-dd93762b17764d3a168108fb9d9c14e7]: Commencement: S. 29 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-dd93762b17764d3a168108fb9d9c14e7]: Commencement: S. 29 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-e534758a021a6e5ffcabea17c584cc59]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/24/section/29) in force at 5.8.2026 by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/c)
+[^c-e534758a021a6e5ffcabea17c584cc59]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/24/section/29) in force at 5.8.2026 by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/c)
 
-[^key-4581d726d199b7d1600aa50964e41221]: Commencement: S. 30 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-4581d726d199b7d1600aa50964e41221]: Commencement: S. 30 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-9ddcaa75bd608ae445ed2d485021ea5d]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/24/section/30) in force at 5.8.2026 by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/d)
+[^c-9ddcaa75bd608ae445ed2d485021ea5d]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/24/section/30) in force at 5.8.2026 by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/d)
 
-[^key-06ff827d9b4330886511ec9f165bf5f5]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/24/section/31) in force at 27.12.2025, see [s. 41(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/2)
+[^c-06ff827d9b4330886511ec9f165bf5f5]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/24/section/31) in force at 27.12.2025, see [s. 41(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/2)
 
-[^key-b9c503e78c8d58b93411e9902cb6702f]: Commencement: S. 32 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-b9c503e78c8d58b93411e9902cb6702f]: Commencement: S. 32 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-5549897407cadaf618288b4d2987db97]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/24/section/32) in force at 26.1.2026 for specified purposes by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/n)
+[^c-5549897407cadaf618288b4d2987db97]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/24/section/32) in force at 26.1.2026 for specified purposes by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/n)
 
-[^key-825107354cea7c2c7018bcaaedbbef75]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/24/section/32) in force at 5.8.2026 in so far as not already in force by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/e)
+[^c-825107354cea7c2c7018bcaaedbbef75]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/24/section/32) in force at 5.8.2026 in so far as not already in force by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/e)
 
-[^key-426f641e3ad8b77c2aa7018fc1f79449]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/24/section/33) in force at 27.4.2026, see [s. 41(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/3)
+[^c-426f641e3ad8b77c2aa7018fc1f79449]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/24/section/33) in force at 27.4.2026, see [s. 41(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/3)
 
-[^key-fbda43ab1d10e875f8293a49acdfeb84]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-fbda43ab1d10e875f8293a49acdfeb84]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-5233c6ee3cb8795e4a019316b52d7e8c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/24/section/34) in force at 5.8.2026 in so far as not already in force by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/f) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/834/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/834/regulation/4))
+[^c-5233c6ee3cb8795e4a019316b52d7e8c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/24/section/34) in force at 5.8.2026 in so far as not already in force by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/f) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/834/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/834/regulation/4))
 
-[^key-b42939073fd11269d91e3e9f334add79]: Commencement: S. 35 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-b42939073fd11269d91e3e9f334add79]: Commencement: S. 35 not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-020e894d8a2bc54811186a160a5ab302]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/24/section/35) in force at 5.8.2026 by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/g) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/834/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/834/regulation/4))
+[^c-020e894d8a2bc54811186a160a5ab302]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/24/section/35) in force at 5.8.2026 by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/g) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/834/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/834/regulation/4))
 
-[^key-fe40f8553279649a29b6e15c93ce92d0]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-fe40f8553279649a29b6e15c93ce92d0]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-0a2cbfdd1d11f54d8f2ef31d3ff1f3d7]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2025/24/section/36) in force at 5.8.2026 in so far as not already in force by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/h)
+[^c-0a2cbfdd1d11f54d8f2ef31d3ff1f3d7]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2025/24/section/36) in force at 5.8.2026 in so far as not already in force by [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/h)
 
-[^key-2961708701446a2fb231e2b5efc933c7]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-2961708701446a2fb231e2b5efc933c7]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-ed9410c978780fe202e9df19c7f388d4]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/24/section/37) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1136](https://www.legislation.gov.uk/uksi/2026/1136), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1136/regulation/2/b)
+[^c-ed9410c978780fe202e9df19c7f388d4]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/24/section/37) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1136](https://www.legislation.gov.uk/uksi/2026/1136), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1136/regulation/2/b)
 
-[^key-c0a6790c74e1361fa2d5030fca7836bf]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/4)
+[^c-c0a6790c74e1361fa2d5030fca7836bf]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/4)
 
-[^key-8b5716551155a45af947c7eaf415f070]: Commencement: S. 39 in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/1)
+[^c-8b5716551155a45af947c7eaf415f070]: Commencement: S. 39 in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/1)
 
-[^key-0dc6802d3296420947de485a0f631a3f]: Commencement: S. 40 in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/1)
+[^c-0dc6802d3296420947de485a0f631a3f]: Commencement: S. 40 in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/1)
 
-[^key-0ac6d62246aa1f9a8f8ed2d956ba3770]: Commencement: S. 41 in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/1)
+[^c-0ac6d62246aa1f9a8f8ed2d956ba3770]: Commencement: S. 41 in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/1)
 
-[^key-fc3c2c4f04bdce94d3f22e7ef0fc0b71]: Commencement: S. 42 in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/1)
+[^c-fc3c2c4f04bdce94d3f22e7ef0fc0b71]: Commencement: S. 42 in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/1)
 
-[^key-6241acd33603bed7f41a32a45967c48d]: Commencement: Sch. not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
+[^c-6241acd33603bed7f41a32a45967c48d]: Commencement: Sch. not in force at Royal Assent, see [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5)
 
-[^key-81f918a570bc15a158930121cf69e3f0]: Commencement: [Sch.](https://www.legislation.gov.uk/ukpga/2025/24/schedule) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/o) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/46/regulation/5))
+[^c-81f918a570bc15a158930121cf69e3f0]: Commencement: [Sch.](https://www.legislation.gov.uk/ukpga/2025/24/schedule) in force at 26.1.2026 by [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/o) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/46/regulation/5))

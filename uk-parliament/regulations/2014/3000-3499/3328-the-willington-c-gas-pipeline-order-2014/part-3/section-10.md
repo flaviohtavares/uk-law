@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Street works[^key-f382a4d985ae0a2b24f6a816822f2d87]
+## 10. Street works[^c-f382a4d985ae0a2b24f6a816822f2d87]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f382a4d985ae0a2b24f6a816822f2d87]: Commencement: Art. 10 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-f382a4d985ae0a2b24f6a816822f2d87]: Commencement: Art. 10 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00022]: Footnote: A number of these provisions are amended, including by the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18).
 

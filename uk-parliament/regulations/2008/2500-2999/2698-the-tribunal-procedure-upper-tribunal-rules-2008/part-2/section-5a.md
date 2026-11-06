@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
 
-## 5A. Coronavirus temporary rule (decisions without a hearing)[^key-177cc5c5d6904a954afb2a40eadc52c4]
+## 5A. Coronavirus temporary rule (decisions without a hearing)[^c-177cc5c5d6904a954afb2a40eadc52c4]
 
 (1) Notwithstanding anything in rule 34 (decision with or without a hearing), the Upper Tribunal may make a decision which disposes of proceedings without a hearing if the Upper Tribunal considers that the conditions in paragraph (2) are satisfied.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-177cc5c5d6904a954afb2a40eadc52c4]: Textual amendment: Rule 5A inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/5/2)
+[^c-177cc5c5d6904a954afb2a40eadc52c4]: Textual amendment: Rule 5A inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/5/2)

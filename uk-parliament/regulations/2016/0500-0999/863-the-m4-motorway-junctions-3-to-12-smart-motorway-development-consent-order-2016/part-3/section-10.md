@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Power to alter layout etc. of streets[^key-a800c57568c78fcce443971fba7d780c]
+## 10. Power to alter layout etc. of streets[^c-a800c57568c78fcce443971fba7d780c]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a800c57568c78fcce443971fba7d780c]: Commencement: Art. 10 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-a800c57568c78fcce443971fba7d780c]: Commencement: Art. 10 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

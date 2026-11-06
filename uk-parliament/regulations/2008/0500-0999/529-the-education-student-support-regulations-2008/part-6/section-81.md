@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Interpretation of Part 6[^key-2752d18235a0cc6ee529d90b8daabc1c]
+## 81. Interpretation of Part 6[^c-2752d18235a0cc6ee529d90b8daabc1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In this Part—
 
 ## Annotations
 
-[^key-2752d18235a0cc6ee529d90b8daabc1c]: Commencement: Reg. 81 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-2752d18235a0cc6ee529d90b8daabc1c]: Commencement: Reg. 81 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

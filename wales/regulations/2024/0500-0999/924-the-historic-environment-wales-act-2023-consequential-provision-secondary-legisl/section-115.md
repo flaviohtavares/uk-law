@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**115.**[^key-873dc685900d31240dbfa175c68dc773] In regulation 2—
+**115.**[^c-873dc685900d31240dbfa175c68dc773] In regulation 2—
 
 - (a) for the definition of “the 1979 Act” substitute ““**the 2023 Act**” (“***Deddf 2023***”) means the Historic Environment (Wales) Act 2023;”;
 - (b) in the definition of “appointed person”, for “paragraph 1 of Schedule A2 to the 1979 Act” substitute “section 9(3) of the 2023 Act”;
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-873dc685900d31240dbfa175c68dc773]: Commencement: [Reg. 115](https://www.legislation.gov.uk/wsi/2024/924/regulation/115) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-873dc685900d31240dbfa175c68dc773]: Commencement: [Reg. 115](https://www.legislation.gov.uk/wsi/2024/924/regulation/115) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

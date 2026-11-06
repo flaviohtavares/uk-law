@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Obtaining information about interests in land[^key-ac3734819d9f1037a1e502dd67f7092f][^key-75faa184f3ca102ed4790129dc293644]
+## 28. Obtaining information about interests in land[^c-ac3734819d9f1037a1e502dd67f7092f][^c-75faa184f3ca102ed4790129dc293644]
 
 *Extent: E+W*
 
@@ -83,6 +83,6 @@ to make a relevant claim in respect of any land or in respect of an interest in 
 
 ## Annotations
 
-[^key-ac3734819d9f1037a1e502dd67f7092f]: Commencement: S. 28 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-ac3734819d9f1037a1e502dd67f7092f]: Commencement: S. 28 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-75faa184f3ca102ed4790129dc293644]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2024/3/section/28) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-75faa184f3ca102ed4790129dc293644]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2024/3/section/28) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Irregularities and non-compliance[^key-9292f0a6ed1704b14c316b8e4de01875]
+## 6. Irregularities and non-compliance[^c-9292f0a6ed1704b14c316b8e4de01875]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9292f0a6ed1704b14c316b8e4de01875]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2024/1155/rule/6) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-9292f0a6ed1704b14c316b8e4de01875]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2024/1155/rule/6) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

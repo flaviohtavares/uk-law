@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Requests for information in connection with section 229 or 230[^key-d08af457c8d1e473be08036c605b84cf]
+## 231. Requests for information in connection with section 229 or 230[^c-d08af457c8d1e473be08036c605b84cf]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d08af457c8d1e473be08036c605b84cf]: Commencement: S. 231 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-d08af457c8d1e473be08036c605b84cf]: Commencement: S. 231 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

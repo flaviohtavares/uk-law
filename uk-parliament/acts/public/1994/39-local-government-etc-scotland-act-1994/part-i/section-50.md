@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Stipendiary magistrates.[^key-621daa47687bceb0c6a1b8ae31f3fbe0]
+## 50. Stipendiary magistrates.[^c-621daa47687bceb0c6a1b8ae31f3fbe0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-621daa47687bceb0c6a1b8ae31f3fbe0]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1994/39/section/50) repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2016/387/schedule/4/paragraph/2)
+[^c-621daa47687bceb0c6a1b8ae31f3fbe0]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1994/39/section/50) repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2016/387/schedule/4/paragraph/2)

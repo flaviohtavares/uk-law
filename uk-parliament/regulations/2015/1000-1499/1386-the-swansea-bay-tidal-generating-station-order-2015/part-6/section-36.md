@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Protection of riverine fisheries[^key-e4cb3d18fb094c7f7f1a871060944661]
+## 36. Protection of riverine fisheries[^c-e4cb3d18fb094c7f7f1a871060944661]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4cb3d18fb094c7f7f1a871060944661]: Commencement: Art. 36 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-e4cb3d18fb094c7f7f1a871060944661]: Commencement: Art. 36 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

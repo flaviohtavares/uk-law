@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4ZD. Modifications in relation to NCF[^key-7b31ecdbe1e081526f66b94309561e1d]
+## 4ZD. Modifications in relation to NCF[^c-7b31ecdbe1e081526f66b94309561e1d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b31ecdbe1e081526f66b94309561e1d]: Textual amendment: Ss. 4ZA-4ZD repealed (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/4/2); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-7b31ecdbe1e081526f66b94309561e1d]: Textual amendment: Ss. 4ZA-4ZD repealed (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/4/2); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Class Sizes in Primary Schools Regulations (Northern Ireland) 1999 (revoked)[^key-0c17aeaae2258d62dcadbc202bda6bb8]
+Class Sizes in Primary Schools Regulations (Northern Ireland) 1999 (revoked)[^c-0c17aeaae2258d62dcadbc202bda6bb8]
 
 Made
 
@@ -40,36 +40,36 @@ Coming into operation
 
 15th March 1999
 
-[^key-0c17aeaae2258d62dcadbc202bda6bb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c17aeaae2258d62dcadbc202bda6bb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0c17aeaae2258d62dcadbc202bda6bb8]
+## 1. Citation and commencement[^c-0c17aeaae2258d62dcadbc202bda6bb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0c17aeaae2258d62dcadbc202bda6bb8]
+## 2. Interpretation[^c-0c17aeaae2258d62dcadbc202bda6bb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-0c17aeaae2258d62dcadbc202bda6bb8]
+## 3. Application[^c-0c17aeaae2258d62dcadbc202bda6bb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The class sizes statutory limit[^key-0c17aeaae2258d62dcadbc202bda6bb8]
+## 4. The class sizes statutory limit[^c-0c17aeaae2258d62dcadbc202bda6bb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exceptions to the statutory limit on class sizes[^key-0c17aeaae2258d62dcadbc202bda6bb8]
+## 5. Exceptions to the statutory limit on class sizes[^c-0c17aeaae2258d62dcadbc202bda6bb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c17aeaae2258d62dcadbc202bda6bb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c17aeaae2258d62dcadbc202bda6bb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c17aeaae2258d62dcadbc202bda6bb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c17aeaae2258d62dcadbc202bda6bb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c17aeaae2258d62dcadbc202bda6bb8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/91) revoked (with savings) (31.3.2000) by [Class Sizes in Primary Schools Regulations (Northern Ireland) 2000 (S.R. 2000/27)](https://www.legislation.gov.uk/nisr/2000/27), [regs. 1](https://www.legislation.gov.uk/nisr/2000/27/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2000/27/regulation/6/1)
+[^c-0c17aeaae2258d62dcadbc202bda6bb8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/91) revoked (with savings) (31.3.2000) by [Class Sizes in Primary Schools Regulations (Northern Ireland) 2000 (S.R. 2000/27)](https://www.legislation.gov.uk/nisr/2000/27), [regs. 1](https://www.legislation.gov.uk/nisr/2000/27/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2000/27/regulation/6/1)

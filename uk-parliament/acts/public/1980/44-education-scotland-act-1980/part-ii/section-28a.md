@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28A. Duty to comply with parents’ requests as to schools.[^key-b64e1fd0321d27d12f77e350b4da86e7][^c9693751]
+## 28A. Duty to comply with parents’ requests as to schools.[^c-b64e1fd0321d27d12f77e350b4da86e7][^c9693751]
 
 *Extent: S*
 
@@ -39,13 +39,13 @@ have regard to such guidance as the Scottish Ministers may give in that respect.
   - (i) make it necessary for the authority to take an additional teacher into employment;
   - (ii) give rise to significant expenditure on extending or otherwise altering the accommodation at or facilities provided in connection with the school;
   - (iii) be seriously detrimental to the continuity of the child’s education;
-  - (iv)[^c9693801] be likely to be seriously detrimental to order and discipline in the school; [^key-303288890f610c50d36486206367ff99] ...
+  - (iv)[^c9693801] be likely to be seriously detrimental to order and discipline in the school; [^c-303288890f610c50d36486206367ff99] ...
   - (v) be likely to be seriously detrimental to the educational well-being of pupils attending the school;
-  - (vi)[^c9693811] assuming that pupil numbers remain constant, make it necessary, at the commencement of a future stage of the child’s primary education, for the authority to elect either to create an additional class (or an additional composite class) in the specified school or to take an additional teacher into employment at that school;or[^key-9335bc6481c5e151343086cd8cad978b]
+  - (vi)[^c9693811] assuming that pupil numbers remain constant, make it necessary, at the commencement of a future stage of the child’s primary education, for the authority to elect either to create an additional class (or an additional composite class) in the specified school or to take an additional teacher into employment at that school;or[^c-9335bc6481c5e151343086cd8cad978b]
   - (vii) though neither of the tests set out in sub-paragraphs (i) and (ii) above is satisfied, have the consequence that the capacity of the school would be exceeded in terms of pupil numbers;
 - (b) if the education normally provided at the specified school is not suited to the age, ability or aptitude of the child;
 - (c) if the education authority have already required the child to discontinue his attendance at the specified school;
-- (d) if, where the specified school is a special school, the child does not have additional support needs[^key-b2710e9bb488f2fb411a928b62a16ebc] requiring the education or special facilities normally provided at that school; or
+- (d) if, where the specified school is a special school, the child does not have additional support needs[^c-b2710e9bb488f2fb411a928b62a16ebc] requiring the education or special facilities normally provided at that school; or
 - (e) if the specified school is a single sex school (within the meaning given to that expression by section 26 of the [^c9693821] Sex Discrimination Act 1975) and the child is not of the sex admitted or taken (under that section) to be admitted to the school,
 
 but an education authority may place a child in the specified school notwithstanding paragraphs (a) to (e) above.
@@ -79,7 +79,7 @@ but an education authority may place a child in the specified school notwithstan
 
 ## Annotations
 
-[^key-b64e1fd0321d27d12f77e350b4da86e7]: Modification: S. 28A excluded (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2004/4/schedule/2/paragraph/1); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-b64e1fd0321d27d12f77e350b4da86e7]: Modification: S. 28A excluded (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2004/4/schedule/2/paragraph/1); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
 
 [^c9693751]: Textual amendment: Ss. 28A–28G inserted by [Education (Scotland) Act 1981 (c. 58)](https://www.legislation.gov.uk/ukpga/1981/58), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1981/58/section/1/1) (the insertion being in force on or before 1.1.1983 except as regards s. 28G which came into force for some purposes prior to that date and for all remaining purposes on 9.3.1983)
 
@@ -95,13 +95,13 @@ but an education authority may place a child in the specified school notwithstan
 
 [^c9693801]: Textual amendment: S. 28A(3)(a)(iv)(v) and the word preceding it substituted (18.9.1996) for s. 28A(3)(a)(iv) by [1996 c. 43](https://www.legislation.gov.uk/ukpga/1996/43), [s. 33(3)](https://www.legislation.gov.uk/ukpga/1996/43/section/33/3); [S.I. 1996/2250](https://www.legislation.gov.uk/uksi/1996/2250), [art. 2](https://www.legislation.gov.uk/uksi/1996/2250/article/2).
 
-[^key-303288890f610c50d36486206367ff99]: Textual amendment: Word in s. 28A(3)(a)(iv) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-303288890f610c50d36486206367ff99]: Textual amendment: Word in s. 28A(3)(a)(iv) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
 
 [^c9693811]: Textual amendment: S. 28A(3)(a)(vi) added (13.10.2000) by [2000 asp 6](https://www.legislation.gov.uk/asp/2000/6), [s. 44(4)](https://www.legislation.gov.uk/asp/2000/6/section/44/4); [S.S.I. 2000/361](https://www.legislation.gov.uk/ssi/2000/361), [art. 3(1)(2)](https://www.legislation.gov.uk/ssi/2000/361/article/3/1/2), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2000/361/schedule/part/I)
 
-[^key-9335bc6481c5e151343086cd8cad978b]: Textual amendment: S. 28A(3)(a)(vii) and word added (31.12.2004 in so far as not already in force) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [ss. 44(4)](https://www.legislation.gov.uk/asp/2000/6/section/44/4), [61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/528/article/2/a)
+[^c-9335bc6481c5e151343086cd8cad978b]: Textual amendment: S. 28A(3)(a)(vii) and word added (31.12.2004 in so far as not already in force) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [ss. 44(4)](https://www.legislation.gov.uk/asp/2000/6/section/44/4), [61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/528/article/2/a)
 
-[^key-b2710e9bb488f2fb411a928b62a16ebc]: Textual amendment: Words in s. 28A(3)(d) substituted (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(5)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/5); [S.S.I. 2005/516](https://www.legislation.gov.uk/ssi/2005/516), [arts. 1](https://www.legislation.gov.uk/ssi/2005/516/article/1), [4](https://www.legislation.gov.uk/ssi/2005/516/article/4); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-b2710e9bb488f2fb411a928b62a16ebc]: Textual amendment: Words in s. 28A(3)(d) substituted (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(5)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/5); [S.S.I. 2005/516](https://www.legislation.gov.uk/ssi/2005/516), [arts. 1](https://www.legislation.gov.uk/ssi/2005/516/article/1), [4](https://www.legislation.gov.uk/ssi/2005/516/article/4); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
 
 [^c9693821]: Marginal citation: [1975 c. 65](https://www.legislation.gov.uk/ukpga/1975/65).
 

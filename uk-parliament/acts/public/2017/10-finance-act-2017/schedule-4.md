@@ -623,11 +623,11 @@ Section 10
 
 .
 
-**20.**[^key-fa4464f16d0ac5538828c853bab33b76] In Schedule 56 to FA 2009 (penalty for failure to make payments on time), in the Table in paragraph 1, after the entry for item 3 insert— *(affected by repeal, see note)*[^key-fa4464f16d0ac5538828c853bab33b76]
+**20.**[^c-fa4464f16d0ac5538828c853bab33b76] In Schedule 56 to FA 2009 (penalty for failure to make payments on time), in the Table in paragraph 1, after the entry for item 3 insert— *(affected by repeal, see note)*[^c-fa4464f16d0ac5538828c853bab33b76]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| 3A | Income tax *(affected by repeal, see note)*[^key-fa4464f16d0ac5538828c853bab33b76] | Amount payable under regulations under section 244L(2)(a) of FA 2004 *(affected by repeal, see note)*[^key-fa4464f16d0ac5538828c853bab33b76] | The date falling 30 days after the due date determined by or under the regulations *(affected by repeal, see note)*[^key-fa4464f16d0ac5538828c853bab33b76] |
+| 3A | Income tax *(affected by repeal, see note)*[^c-fa4464f16d0ac5538828c853bab33b76] | Amount payable under regulations under section 244L(2)(a) of FA 2004 *(affected by repeal, see note)*[^c-fa4464f16d0ac5538828c853bab33b76] | The date falling 30 days after the due date determined by or under the regulations *(affected by repeal, see note)*[^c-fa4464f16d0ac5538828c853bab33b76] |
 
 **21.** (1) In regulation 3(1) of the Registered Pension Schemes (Accounting and Assessment) Regulations 2005 (S.I. 2005/3454), in Table 1, at the end insert—
 
@@ -1074,4 +1074,4 @@ Section 10
 
 ## Annotations
 
-[^key-fa4464f16d0ac5538828c853bab33b76]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/20) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 50](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/50); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-fa4464f16d0ac5538828c853bab33b76]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/20) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 50](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/50); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)

@@ -43,7 +43,7 @@ Coming into force
 
 1st July 2005
 
-The Treasury, in exercise of the powers conferred on them by section 21(5), (6), (9) and (10), and section 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000 [^c14203091], hereby make the following Order:[^key-6d64aa327f463c7b32d6adfc6ccde8fc]
+The Treasury, in exercise of the powers conferred on them by section 21(5), (6), (9) and (10), and section 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000 [^c14203091], hereby make the following Order:[^c-6d64aa327f463c7b32d6adfc6ccde8fc]
 
 ## Contents
 
@@ -164,7 +164,7 @@ The Treasury, in exercise of the powers conferred on them by section 21(5), (6),
 - [Section 73ZA — Certain promotions of qualifying cryptoassets](part-vi/section-73za.md)
 - [Section 73ZB — Berne Financial Services Agreement suppliers](part-vi/section-73zb.md)
 
-### PART 6A — EXEMPT COMMUNICATIONS: CONTROLLED CLAIMS MANAGEMENT ACTIVITIES[^key-f11698a7cd0ad40f9f946fbec67d6282]
+### PART 6A — EXEMPT COMMUNICATIONS: CONTROLLED CLAIMS MANAGEMENT ACTIVITIES[^c-f11698a7cd0ad40f9f946fbec67d6282]
 
 *Extent: E+W+S*
 
@@ -179,7 +179,7 @@ The Treasury, in exercise of the powers conferred on them by section 21(5), (6),
 - [Section 73I — Communications made by an insurance intermediary](part-6a/section-73i.md)
 - [Section 73J — Communications made by certain providers of referrals](part-6a/section-73j.md)
 
-### PART 7 — REVOCATIONS[^key-10b13f25a1d90b06dbd10b53669169d5]
+### PART 7 — REVOCATIONS[^c-10b13f25a1d90b06dbd10b53669169d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -227,8 +227,8 @@ A regulatory impact assessment has been prepared in relation to this Order and a
 
 [^c14203091]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-6d64aa327f463c7b32d6adfc6ccde8fc]: Modification: [Order](https://www.legislation.gov.uk/uksi/2005/1529) applied (with modifications) (temp.) (5.6.2025) by [The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025 (S.I. 2025/583)](https://www.legislation.gov.uk/uksi/2025/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/583/regulation/12), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/paragraph/4) (with [reg. 20](https://www.legislation.gov.uk/uksi/2025/583/regulation/20))
+[^c-6d64aa327f463c7b32d6adfc6ccde8fc]: Modification: [Order](https://www.legislation.gov.uk/uksi/2005/1529) applied (with modifications) (temp.) (5.6.2025) by [The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025 (S.I. 2025/583)](https://www.legislation.gov.uk/uksi/2025/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/583/regulation/12), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/paragraph/4) (with [reg. 20](https://www.legislation.gov.uk/uksi/2025/583/regulation/20))
 
-[^key-f11698a7cd0ad40f9f946fbec67d6282]: Textual amendment: Pt. 6A inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [36](https://www.legislation.gov.uk/uksi/2018/1253/article/36)
+[^c-f11698a7cd0ad40f9f946fbec67d6282]: Textual amendment: Pt. 6A inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [36](https://www.legislation.gov.uk/uksi/2018/1253/article/36)
 
-[^key-10b13f25a1d90b06dbd10b53669169d5]: Textual amendment: Pt. 7 heading inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [37](https://www.legislation.gov.uk/uksi/2018/1253/article/37)
+[^c-10b13f25a1d90b06dbd10b53669169d5]: Textual amendment: Pt. 7 heading inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [37](https://www.legislation.gov.uk/uksi/2018/1253/article/37)

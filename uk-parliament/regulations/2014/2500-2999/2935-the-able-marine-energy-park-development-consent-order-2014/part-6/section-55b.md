@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55B. Certification of additional plans etc.[^key-0dab0bbddd7ca8345e509f7838d2660a]
+## 55B. Certification of additional plans etc.[^c-0dab0bbddd7ca8345e509f7838d2660a]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dab0bbddd7ca8345e509f7838d2660a]: Textual amendment: [Art. 55B](https://www.legislation.gov.uk/uksi/2014/2935/article/55B) inserted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [arts. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/881/article/2/6)
+[^c-0dab0bbddd7ca8345e509f7838d2660a]: Textual amendment: [Art. 55B](https://www.legislation.gov.uk/uksi/2014/2935/article/55B) inserted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [arts. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/881/article/2/6)

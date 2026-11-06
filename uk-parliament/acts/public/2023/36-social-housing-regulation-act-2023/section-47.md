@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Short title[^key-6ce196a76ef70cd6066d1baa07c66433]
+## 47. Short title[^c-6ce196a76ef70cd6066d1baa07c66433]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Social Housing (Regulation) Act 2023.
 
 ## Annotations
 
-[^key-6ce196a76ef70cd6066d1baa07c66433]: Commencement: S. 47 in force at Royal Assent, see [s. 46(1)(d)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/d)
+[^c-6ce196a76ef70cd6066d1baa07c66433]: Commencement: S. 47 in force at Royal Assent, see [s. 46(1)(d)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/d)

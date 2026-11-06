@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*d*), 129(2) and (4) and 171(5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 5(1) (*j*) and (*q*) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf and with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as its consent is required, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00004], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-39781d3fcf17f1f056aee8ced865cfcd]
+## 1. Citation, commencement and interpretation[^c-39781d3fcf17f1f056aee8ced865cfcd]
 
 (1) These Regulations may be cited as the Housing Benefit (General) (Amendment No. 3) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996.
 
@@ -56,7 +56,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-f1b2f6dcc861f6e0de93e6c8d489d981]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-f1b2f6dcc861f6e0de93e6c8d489d981]
 
 In regulation 2(1) of the principal Regulations (interpretation) after the definition of “year of assessment” there shall be inserted the following definition—
 
@@ -70,7 +70,7 @@ In regulation 2(1) of the principal Regulations (interpretation) after the defin
 
 .
 
-## 3. Amendment of regulation 10A of the principal Regulations[^key-50d57ae09f979a49cf9cf50ee9302cd3]
+## 3. Amendment of regulation 10A of the principal Regulations[^c-50d57ae09f979a49cf9cf50ee9302cd3]
 
 In regulation 10A(3) of the principal Regulations (Determinations)[^f00009] after sub-paragraph (*b*) there shall be added the following sub-paragraph—
 
@@ -78,7 +78,7 @@ In regulation 10A(3) of the principal Regulations (Determinations)[^f00009] afte
 
 .
 
-## 4. Amendment of regulation 11 of the principal Regulations[^key-26ce71955b178118a27a8bee07b273d0]
+## 4. Amendment of regulation 11 of the principal Regulations[^c-26ce71955b178118a27a8bee07b273d0]
 
 In regulation 11 of the principal Regulations (maximum rent)[^f00010] —
 
@@ -97,11 +97,11 @@ In regulation 11 of the principal Regulations (maximum rent)[^f00010] —
 
   .
 
-## 5. Amendment of regulation 88 of the principal Regulations[^key-2dc8938c9886203ecbb50e549a5adf05]
+## 5. Amendment of regulation 88 of the principal Regulations[^c-2dc8938c9886203ecbb50e549a5adf05]
 
 In regulation 88(3) of the principal Regulations (time and manner of payment) for “Subject to regulations 91 to 96” there shall be substituted “Subject to regulations 90 to 96”.
 
-## 6. Amendment of regulation 90 of the principal Regulations[^key-9f65eaab50640883effb0431fe393674]
+## 6. Amendment of regulation 90 of the principal Regulations[^c-9f65eaab50640883effb0431fe393674]
 
 In regulation 90 of the principal Regulations (frequency of payment of a rent allowance)—
 
@@ -124,7 +124,7 @@ In regulation 90 of the principal Regulations (frequency of payment of a rent al
 - (c) in paragraphs (3) and (4) at the beginning of each paragraph there shall be inserted “Except in a case to which paragraph (2A) applies,”;
 - (d) in paragraph (5) at the beginning for “Subject to paragraphs (2) and (3)” there shall be substituted “Subject to paragraphs (2), (2A) and (3)”.
 
-## 7. Amendment of regulation 94 of the principal Regulations[^key-fa484bf701abb1689d877be12472d588]
+## 7. Amendment of regulation 94 of the principal Regulations[^c-fa484bf701abb1689d877be12472d588]
 
 In regulation 94 of the principal Regulations (circumstances in which payment may be made to a landlord or the Department of the Environment)—
 
@@ -140,7 +140,7 @@ In regulation 94 of the principal Regulations (circumstances in which payment ma
   ;
 - (b) in paragraph (2) for “paragraph (1)(*a*), (*b*) or (*c*)” there shall be substituted “paragraphs (1)(*a*), (*b*) or (*c*) or (1A)”.
 
-## 8. Amendment of Schedule 1A to the principal Regulations[^key-935b4644822d4a8c03c681c8c86be3e8]
+## 8. Amendment of Schedule 1A to the principal Regulations[^c-935b4644822d4a8c03c681c8c86be3e8]
 
 In Schedule 1A to the principal Regulations (Determinations of Rent Payable)[^f00015] after paragraph 4 there shall be inserted the following paragraph—
 
@@ -176,7 +176,7 @@ In Schedule 1A to the principal Regulations (Determinations of Rent Payable)[^f0
 
 .
 
-## 9. Amendment of Schedule 1B to the principal Regulations[^key-50b02124dc3be9e5aa7a532a4945ac05]
+## 9. Amendment of Schedule 1B to the principal Regulations[^c-50b02124dc3be9e5aa7a532a4945ac05]
 
 In Schedule 1B to the principal Regulations (excluded tenancies)[^f00016] in paragraph 2(3) after head (*c*) there shall be added the following head—
 
@@ -184,7 +184,7 @@ In Schedule 1B to the principal Regulations (excluded tenancies)[^f00016] in par
 
 .
 
-## 10. Transitional and saving provisions for young individuals[^key-d1dfcca466849dbbbd179d64494be602]
+## 10. Transitional and saving provisions for young individuals[^c-d1dfcca466849dbbbd179d64494be602]
 
 (1) Regulations 3, 4 and 9 of these Regulations shall not apply in the case of a young individual to whom regulation 16 (savings provision) of the Amendment Regulations applies and the eligible rent of such a person shall be determined in accordance with regulation 16 of those Regulations.
 
@@ -195,7 +195,7 @@ In Schedule 1B to the principal Regulations (excluded tenancies)[^f00016] in par
 
 and until that time his eligible rent shall be that determined in accordance with regulations 10 and 11 of the principal Regulations as in operation on the relevant date.
 
-## 11. Saving provision for payment of benefit[^key-c25841b42c0a44b147c8ed8a98155bbb]
+## 11. Saving provision for payment of benefit[^c-c25841b42c0a44b147c8ed8a98155bbb]
 
 (1) Regulations 5 and 6 of these Regulations shall not apply to a claimant who—
 
@@ -243,7 +243,7 @@ Regulations 5 and 6 create a new rule for the period within which payment of hou
 
 [^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-39781d3fcf17f1f056aee8ced865cfcd]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-39781d3fcf17f1f056aee8ced865cfcd]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending regulations are [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335) and [S.R. 1996 No. 111](https://www.legislation.gov.uk/nisr/1996/111)
 
@@ -251,15 +251,15 @@ Regulations 5 and 6 create a new rule for the period within which payment of hou
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f1b2f6dcc861f6e0de93e6c8d489d981]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-f1b2f6dcc861f6e0de93e6c8d489d981]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
 [^f00008]: Footnote: [1968 c. 34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34)
 
-[^key-50d57ae09f979a49cf9cf50ee9302cd3]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-50d57ae09f979a49cf9cf50ee9302cd3]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
 [^f00009]: Footnote: Regulation 10A was inserted by regulation 6 of [S.R. 1996 No. 111](https://www.legislation.gov.uk/nisr/1996/111)
 
-[^key-26ce71955b178118a27a8bee07b273d0]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-26ce71955b178118a27a8bee07b273d0]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
 [^f00010]: Footnote: Regulation 11 was substituted by regulation 7 of [S.R. 1996 No. 111](https://www.legislation.gov.uk/nisr/1996/111)
 
@@ -267,26 +267,26 @@ Regulations 5 and 6 create a new rule for the period within which payment of hou
 
 [^f00012]: Footnote: Paragraph 4A is inserted by regulation 8 of these Regulations
 
-[^key-2dc8938c9886203ecbb50e549a5adf05]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-2dc8938c9886203ecbb50e549a5adf05]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
-[^key-9f65eaab50640883effb0431fe393674]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-9f65eaab50640883effb0431fe393674]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
 [^f00013]: Footnote: Paragraph (1A) is inserted by regulation 7 of these Regulations
 
 [^f00014]: Footnote: Regulation 94 was amended by regulation 10 of [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335)
 
-[^key-fa484bf701abb1689d877be12472d588]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-fa484bf701abb1689d877be12472d588]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
-[^key-935b4644822d4a8c03c681c8c86be3e8]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-935b4644822d4a8c03c681c8c86be3e8]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
 [^f00015]: Footnote: Schedule 1A was inserted by regulation 15 of [S.R. 1996 No. 111](https://www.legislation.gov.uk/nisr/1996/111)
 
-[^key-50b02124dc3be9e5aa7a532a4945ac05]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-50b02124dc3be9e5aa7a532a4945ac05]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
 [^f00016]: Footnote: Schedule 1B was added by regulation 15 of [S.R. 1996 No. 111](https://www.legislation.gov.uk/nisr/1996/111)
 
 [^f00017]: Footnote: Paragraph 4A is added by regulation 8 of these Regulations
 
-[^key-d1dfcca466849dbbbd179d64494be602]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-d1dfcca466849dbbbd179d64494be602]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
 
-[^key-c25841b42c0a44b147c8ed8a98155bbb]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)
+[^c-c25841b42c0a44b147c8ed8a98155bbb]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/181/regulation/1/1)

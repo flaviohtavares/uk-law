@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Production of documents and records[^key-c4d0cd4ce9d080a6e40567c3db796422]
+## 168. Production of documents and records[^c-c4d0cd4ce9d080a6e40567c3db796422]
 
 *Extent: E+W+S+N.I.*
 
 (1) The pilot-in-command of an aircraft must, within a reasonable time after being requested to do so by an authorised person, cause to be produced to that person—
 
-- (a) the certificates of registration and airworthiness [^key-53fb3089614accb97e089fbfb86ef72c]... in respect of the aircraft;
+- (a) the certificates of registration and airworthiness [^c-53fb3089614accb97e089fbfb86ef72c]... in respect of the aircraft;
 - (b) the licences of its flight crew; and
 - (c) such other documents as the aircraft is required by article 167 to carry when in flight.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4d0cd4ce9d080a6e40567c3db796422]: Commencement: [Art. 168](https://www.legislation.gov.uk/uksi/2013/2870/article/168) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c4d0cd4ce9d080a6e40567c3db796422]: Commencement: [Art. 168](https://www.legislation.gov.uk/uksi/2013/2870/article/168) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-53fb3089614accb97e089fbfb86ef72c]: Textual amendment: Words in [art. 168(1)(a)](https://www.legislation.gov.uk/uksi/2013/2870/article/168/1/a) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2021/755/article/19/1)
+[^c-53fb3089614accb97e089fbfb86ef72c]: Textual amendment: Words in [art. 168(1)(a)](https://www.legislation.gov.uk/uksi/2013/2870/article/168/1/a) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2021/755/article/19/1)

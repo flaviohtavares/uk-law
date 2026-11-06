@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Minor surgery[^key-c0d4c04cad62a3e0299074635fde8d7c]
+## 19. Minor surgery[^c-c0d4c04cad62a3e0299074635fde8d7c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0d4c04cad62a3e0299074635fde8d7c]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/1862/regulation/19) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/16) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))
+[^c-c0d4c04cad62a3e0299074635fde8d7c]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/1862/regulation/19) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/16) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))

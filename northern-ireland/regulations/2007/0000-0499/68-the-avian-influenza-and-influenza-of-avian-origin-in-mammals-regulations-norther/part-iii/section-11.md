@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Derogations from restrictions applicable at suspect premises[^key-a0d0c86f0f1549005e641b930377da3c]
+## 11. Derogations from restrictions applicable at suspect premises[^c-a0d0c86f0f1549005e641b930377da3c]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d0c86f0f1549005e641b930377da3c]: Commencement: Reg. 11 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-a0d0c86f0f1549005e641b930377da3c]: Commencement: Reg. 11 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

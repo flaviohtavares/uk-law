@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-50083c338e59b04ae40c09210304015d] For section 31(3A) of the Children Act 1989 (no care order to be made until court has considered section 31A care plan) substitute—
+(1)[^c-50083c338e59b04ae40c09210304015d] For section 31(3A) of the Children Act 1989 (no care order to be made until court has considered section 31A care plan) substitute—
 
 > (3A) A court deciding whether to make a care order—
 >
@@ -45,8 +45,8 @@ summary: ''
   > - (a) in relation to a care plan whose preparation is the responsibility of a local authority for an area in England, means prescribed by the Secretary of State; and
   > - (b) in relation to a care plan whose preparation is the responsibility of a local authority in Wales, means prescribed by the Welsh Ministers.
 
-(3)[^key-50083c338e59b04ae40c09210304015d] In consequence of subsection (1), section 121(1) of the Adoption and Children Act 2002 is repealed.
+(3)[^c-50083c338e59b04ae40c09210304015d] In consequence of subsection (1), section 121(1) of the Adoption and Children Act 2002 is repealed.
 
 ## Annotations
 
-[^key-50083c338e59b04ae40c09210304015d]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/15/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/15/3) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/889/article/4/d) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-50083c338e59b04ae40c09210304015d]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/15/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/15/3) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/889/article/4/d) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)

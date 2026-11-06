@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Relevant education[^key-c28aa5c6430653bf7d9c1045588979d6]
+## 54. Relevant education[^c-c28aa5c6430653bf7d9c1045588979d6]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ shall not be treated as receiving relevant education.
 
 ## Annotations
 
-[^key-c28aa5c6430653bf7d9c1045588979d6]: Commencement: Reg. 54 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c28aa5c6430653bf7d9c1045588979d6]: Commencement: Reg. 54 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

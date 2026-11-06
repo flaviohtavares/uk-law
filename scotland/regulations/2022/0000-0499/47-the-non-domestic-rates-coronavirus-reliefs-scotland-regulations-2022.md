@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2022 (revoked)[^key-90d641c08ce2e76922febd6d4c752437]
+The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2022 (revoked)[^c-90d641c08ce2e76922febd6d4c752437]
 
 Made
 
@@ -46,106 +46,106 @@ Coming into force
 
 1st April 2022
 
-[^key-90d641c08ce2e76922febd6d4c752437]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90d641c08ce2e76922febd6d4c752437]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-90d641c08ce2e76922febd6d4c752437]
+## 1. Citation and commencement[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation - general[^key-90d641c08ce2e76922febd6d4c752437]
+## 2. Interpretation - general[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Applications for relief[^key-90d641c08ce2e76922febd6d4c752437]
+## 3. Applications for relief[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relief for lands and heritages used for retail, hospitality or leisure purposes[^key-90d641c08ce2e76922febd6d4c752437]
+## 4. Relief for lands and heritages used for retail, hospitality or leisure purposes[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90d641c08ce2e76922febd6d4c752437]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90d641c08ce2e76922febd6d4c752437]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Specified Purposes[^key-90d641c08ce2e76922febd6d4c752437]
+## SCHEDULE — Specified Purposes[^c-90d641c08ce2e76922febd6d4c752437]
 
 Regulation 4(1)
 
-### Class 1 Bed and breakfast accommodation[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 1 Bed and breakfast accommodation[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 2 Camping site[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 2 Camping site[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 3 Caravan[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 3 Caravan[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 4 Caravan site[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 4 Caravan site[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 5 Chalet, holiday hut and bothy[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 5 Chalet, holiday hut and bothy[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 6 Guest house, hotel and hostel[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 6 Guest house, hotel and hostel[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 7 Public house[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 7 Public house[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 8 Restaurant[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 8 Restaurant[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 9 Self-catering holiday accommodation[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 9 Self-catering holiday accommodation[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 10 Timeshare accommodation[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 10 Timeshare accommodation[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 11 Market[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 11 Market[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 12 Retail shop[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 12 Retail shop[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 13 Leisure[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 13 Leisure[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 14 Service providers[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 14 Service providers[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 15 Letting agency and funeral parlour[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 15 Letting agency and funeral parlour[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 16 Travel agency[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 16 Travel agency[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class 17 News publishing[^key-90d641c08ce2e76922febd6d4c752437]
+### Class 17 News publishing[^c-90d641c08ce2e76922febd6d4c752437]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-90d641c08ce2e76922febd6d4c752437]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90d641c08ce2e76922febd6d4c752437]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-90d641c08ce2e76922febd6d4c752437]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2022/47) revoked (1.4.2025) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/38)](https://www.legislation.gov.uk/ssi/2025/38), [regs. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1), [12(1)](https://www.legislation.gov.uk/ssi/2025/38/regulation/12/1) (with [reg. 12(2)](https://www.legislation.gov.uk/ssi/2025/38/regulation/12/2))
+[^c-90d641c08ce2e76922febd6d4c752437]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2022/47) revoked (1.4.2025) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/38)](https://www.legislation.gov.uk/ssi/2025/38), [regs. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1), [12(1)](https://www.legislation.gov.uk/ssi/2025/38/regulation/12/1) (with [reg. 12(2)](https://www.legislation.gov.uk/ssi/2025/38/regulation/12/2))

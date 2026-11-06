@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-163ee22f392edbc26dfbb3f07df9abdf]
+## 2. Interpretation[^c-163ee22f392edbc26dfbb3f07df9abdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In these Regulations, “**financial year**” is to be construed in relation to
 
 ## Annotations
 
-[^key-163ee22f392edbc26dfbb3f07df9abdf]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-163ee22f392edbc26dfbb3f07df9abdf]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

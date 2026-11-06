@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Service of notices[^key-8699ceada2f28fc19e3936ea6042c57c]
+## 56. Service of notices[^c-8699ceada2f28fc19e3936ea6042c57c]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8699ceada2f28fc19e3936ea6042c57c]: Textual amendment: S. 56 substituted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/713/article/2/4)
+[^c-8699ceada2f28fc19e3936ea6042c57c]: Textual amendment: S. 56 substituted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/713/article/2/4)

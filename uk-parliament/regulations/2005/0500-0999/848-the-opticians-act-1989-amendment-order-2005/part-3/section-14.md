@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Insertion of sections 11A and 11B[^key-6e3d6c4129f5227bcf8816e34119d63a]
+## 14. Insertion of sections 11A and 11B[^c-6e3d6c4129f5227bcf8816e34119d63a]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,4 +93,4 @@ Before section 12 insert—
 
 ## Annotations
 
-[^key-6e3d6c4129f5227bcf8816e34119d63a]: Commencement: Art. 14 comes into force in accordance with art. 1(3)-(6)
+[^c-6e3d6c4129f5227bcf8816e34119d63a]: Commencement: Art. 14 comes into force in accordance with art. 1(3)-(6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — AMENDMENTS TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHY (NORTHERN IRELAND) REGULATIONS 2002[^key-3a138b8af2876da48cf877e945ed76a6]
+## SCHEDULE 4 — AMENDMENTS TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHY (NORTHERN IRELAND) REGULATIONS 2002[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 50
 
-**1.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a138b8af2876da48cf877e945ed76a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/495) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)
+[^c-3a138b8af2876da48cf877e945ed76a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/495) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)

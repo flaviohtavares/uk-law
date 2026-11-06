@@ -44,13 +44,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 191(5) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement, effect and interpretation[^key-36a4090ab5175a4f9cfa847c54a03117]
+## 1. Citation, commencement, effect and interpretation[^c-36a4090ab5175a4f9cfa847c54a03117]
 
 (1) These Regulations may be cited as the Housing (Scotland) Act 2006 (Modification of the Repairing Standard) Regulations 2019 and come into force on 1 March 2019.
 
 (2) Regulations 2(3), 3(2)(c) and 3(3) come into effect on 1 March 2019.
 
-(3) Regulation 3(2)(b) comes into effect on 1 February 2022[^key-340a2b37b165268d2258c89a757ce7e8].
+(3) Regulation 3(2)(b) comes into effect on 1 February 2022[^c-340a2b37b165268d2258c89a757ce7e8].
 
 (4) Regulation 3(2)(a) and (d) comes into effect on 1 March 2024.
 
@@ -58,7 +58,7 @@ In accordance with section 191(5) of that Act, a draft of this instrument has be
 
 (6) In these Regulations, “**the 2006 Act**” means the Housing (Scotland) Act 2006.
 
-## 2. Modification of section 12 of the 2006 Act[^key-8fe8be7e7292d44056dba04046ac3843]
+## 2. Modification of section 12 of the 2006 Act[^c-8fe8be7e7292d44056dba04046ac3843]
 
 (1) Section 12(1) (tenancies excepted from the repairing standard duty) of the 2006 Act [^c23585961] is modified in accordance with paragraphs (2) and (3).
 
@@ -70,7 +70,7 @@ In accordance with section 191(5) of that Act, a draft of this instrument has be
 
 .
 
-## 3. Modification of section 13 of the 2006 Act[^key-eb3d91b61acca8c18a21af443e4e0a55]
+## 3. Modification of section 13 of the 2006 Act[^c-eb3d91b61acca8c18a21af443e4e0a55]
 
 (1) Section 13 (the repairing standard) of the 2006 Act [^c23585971] is modified in accordance with paragraphs (2) and (3).
 
@@ -143,14 +143,14 @@ Regulation 3(2)(c) and (3), which comes into effect on 1 March 2019, amends sect
 
 [^c23585951]: Marginal citation: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1). Section 20A was inserted by section 24(1) of the [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14).
 
-[^key-36a4090ab5175a4f9cfa847c54a03117]: Commencement: Reg. 1 in force at 1.3.2019, see reg. 1(1)
+[^c-36a4090ab5175a4f9cfa847c54a03117]: Commencement: Reg. 1 in force at 1.3.2019, see reg. 1(1)
 
-[^key-340a2b37b165268d2258c89a757ce7e8]: Textual amendment: Word in reg. 1(3) substituted (28.1.2021) by [The Housing (Scotland) Act 2006 (Modification of the Repairing Standard) Amendment Regulations 2021 (S.S.I. 2021/47)](https://www.legislation.gov.uk/ssi/2021/47), [regs. 1](https://www.legislation.gov.uk/ssi/2021/47/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/47/regulation/2/2)
+[^c-340a2b37b165268d2258c89a757ce7e8]: Textual amendment: Word in reg. 1(3) substituted (28.1.2021) by [The Housing (Scotland) Act 2006 (Modification of the Repairing Standard) Amendment Regulations 2021 (S.S.I. 2021/47)](https://www.legislation.gov.uk/ssi/2021/47), [regs. 1](https://www.legislation.gov.uk/ssi/2021/47/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/47/regulation/2/2)
 
-[^key-8fe8be7e7292d44056dba04046ac3843]: Commencement: Reg. 2 in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/61/regulation/1/1)
+[^c-8fe8be7e7292d44056dba04046ac3843]: Commencement: Reg. 2 in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/61/regulation/1/1)
 
 [^c23585961]: Marginal citation: [Section 12](https://www.legislation.gov.uk/ssi/2019/61/section/12) was amended by paragraph 9(2)(a) and (b) of schedule 2(1) of the [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18) which amendment has effect subject to transitional provisions in [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299).
 
-[^key-eb3d91b61acca8c18a21af443e4e0a55]: Commencement: Reg. 3 in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/61/regulation/1/1)
+[^c-eb3d91b61acca8c18a21af443e4e0a55]: Commencement: Reg. 3 in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/61/regulation/1/1)
 
 [^c23585971]: Marginal citation: [Section 13](https://www.legislation.gov.uk/ssi/2019/61/section/13) was amended by sections 22 and 23(1) of the [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14).

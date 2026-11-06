@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Trustees in bankruptcy[^key-1c32fd54662b1f1af926752cd2304f5b]
+## 133. Trustees in bankruptcy[^c-1c32fd54662b1f1af926752cd2304f5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c32fd54662b1f1af926752cd2304f5b]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2015/26/section/133) in force at 6.4.2017 for E.W. by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)
+[^c-1c32fd54662b1f1af926752cd2304f5b]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2015/26/section/133) in force at 6.4.2017 for E.W. by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)

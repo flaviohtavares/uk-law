@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Period of entitlement to contributory allowance[^key-17fbc9012a6b066b3dd47d5cf45c7dc4][^key-62acb8d4ec3aaadd9e8f87a729b44705]
+## 51. Period of entitlement to contributory allowance[^c-17fbc9012a6b066b3dd47d5cf45c7dc4][^c-62acb8d4ec3aaadd9e8f87a729b44705]
 
 *Extent: E+W+S*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17fbc9012a6b066b3dd47d5cf45c7dc4]: Commencement: S. 51 in force at 20.3.2012 for specified purposes by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/863/article/2/1/b)
+[^c-17fbc9012a6b066b3dd47d5cf45c7dc4]: Commencement: S. 51 in force at 20.3.2012 for specified purposes by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/863/article/2/1/b)
 
-[^key-62acb8d4ec3aaadd9e8f87a729b44705]: Commencement: S. 51 in force at 1.5.2012 in so far as not already in force by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/863/article/2/2/a)
+[^c-62acb8d4ec3aaadd9e8f87a729b44705]: Commencement: S. 51 in force at 1.5.2012 in so far as not already in force by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/863/article/2/2/a)

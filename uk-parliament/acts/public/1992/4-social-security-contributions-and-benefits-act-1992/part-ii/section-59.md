@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Invalidity benefit— disqualifications etc.[^key-9c2f7506075a62c4c28ecbf47091bd42]
+## 59. Invalidity benefit— disqualifications etc.[^c-9c2f7506075a62c4c28ecbf47091bd42]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c2f7506075a62c4c28ecbf47091bd42]: Textual amendment: S. 59 repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1995/18/section/16/3), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/1995/18/schedule/1/paragraph/16), [Sch. 2](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
+[^c-9c2f7506075a62c4c28ecbf47091bd42]: Textual amendment: S. 59 repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1995/18/section/16/3), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/1995/18/schedule/1/paragraph/16), [Sch. 2](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)

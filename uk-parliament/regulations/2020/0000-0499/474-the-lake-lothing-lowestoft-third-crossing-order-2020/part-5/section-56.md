@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Defence to proceedings in respect of statutory nuisance[^key-e159adb0ce18a63f63449701459b31c0]
+## 56. Defence to proceedings in respect of statutory nuisance[^c-e159adb0ce18a63f63449701459b31c0]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e159adb0ce18a63f63449701459b31c0]: Commencement: Art. 56 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-e159adb0ce18a63f63449701459b31c0]: Commencement: Art. 56 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091481]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to section 82(1) which are not relevant to this Order.
 

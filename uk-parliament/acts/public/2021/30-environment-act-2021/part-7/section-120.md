@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Local land charge[^key-d13ea298680a28b416831d3842804ea6][^key-a5a66644ac27f8fb768ed5992d083fd5]
+## 120. Local land charge[^c-d13ea298680a28b416831d3842804ea6][^c-a5a66644ac27f8fb768ed5992d083fd5]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d13ea298680a28b416831d3842804ea6]: Commencement: S. 120 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d13ea298680a28b416831d3842804ea6]: Commencement: S. 120 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-a5a66644ac27f8fb768ed5992d083fd5]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2021/30/section/120) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-a5a66644ac27f8fb768ed5992d083fd5]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2021/30/section/120) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

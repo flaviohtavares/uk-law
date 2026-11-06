@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Revocations, transitional and savings provisions[^key-c86cda250fafb7ccef40ff1b424421a9]
+## 42. Revocations, transitional and savings provisions[^c-c86cda250fafb7ccef40ff1b424421a9]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c86cda250fafb7ccef40ff1b424421a9]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-c86cda250fafb7ccef40ff1b424421a9]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
 [^f00048]: Footnote: [S.I. 2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747).
 

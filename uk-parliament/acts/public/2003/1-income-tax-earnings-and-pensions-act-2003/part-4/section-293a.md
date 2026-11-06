@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 293A. UK travel and subsistence expenses of MPs[^key-bc9ca5d0e326920df2d49be6e592bc25]
+## 293A. UK travel and subsistence expenses of MPs[^c-bc9ca5d0e326920df2d49be6e592bc25]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc9ca5d0e326920df2d49be6e592bc25]: Textual amendment: S. 293A inserted (with effect in accordance with Sch. 4 para. 2(2)(3) of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/4/paragraph/2/1)
+[^c-bc9ca5d0e326920df2d49be6e592bc25]: Textual amendment: S. 293A inserted (with effect in accordance with Sch. 4 para. 2(2)(3) of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/4/paragraph/2/1)

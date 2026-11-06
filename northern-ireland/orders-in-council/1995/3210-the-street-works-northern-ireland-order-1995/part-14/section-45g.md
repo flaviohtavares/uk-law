@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45G. Monetary penalties[^key-d5add1c935bebe0c19603c70e7b7bb4e]
+## 45G. Monetary penalties[^c-d5add1c935bebe0c19603c70e7b7bb4e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2ZA makes provision about the imposition of penalties in connection wit
 
 ## Annotations
 
-[^key-d5add1c935bebe0c19603c70e7b7bb4e]: Textual amendment: [Arts. 45A-45I](https://www.legislation.gov.uk/nisi/1995/3210/article/45A) and cross-heading inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/58/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/2))
+[^c-d5add1c935bebe0c19603c70e7b7bb4e]: Textual amendment: [Arts. 45A-45I](https://www.legislation.gov.uk/nisi/1995/3210/article/45A) and cross-heading inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/58/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/2))

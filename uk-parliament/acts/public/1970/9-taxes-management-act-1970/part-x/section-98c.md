@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98C. Notification under Part 7 of Finance Act 2004[^key-5817284bbf9dd3d67dfc57d50fd3c5d3]
+## 98C. Notification under Part 7 of Finance Act 2004[^c-5817284bbf9dd3d67dfc57d50fd3c5d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5817284bbf9dd3d67dfc57d50fd3c5d3]: Textual amendment: S. 98C omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/1/a) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-5817284bbf9dd3d67dfc57d50fd3c5d3]: Textual amendment: S. 98C omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/1/a) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))

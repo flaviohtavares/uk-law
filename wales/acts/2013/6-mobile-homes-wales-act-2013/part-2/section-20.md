@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Power to take action following conviction of owner[^key-af6422397bbf4318e66682fbfcb47bcd]
+## 20. Power to take action following conviction of owner[^c-af6422397bbf4318e66682fbfcb47bcd]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af6422397bbf4318e66682fbfcb47bcd]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2013/6/section/20) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-af6422397bbf4318e66682fbfcb47bcd]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2013/6/section/20) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

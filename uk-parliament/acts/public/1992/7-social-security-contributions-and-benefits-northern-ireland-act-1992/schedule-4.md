@@ -22,7 +22,7 @@ summary: ''
 
 Parts II to V.
 
-### PART I — CONTRIBUTORY PERIODICAL BENEFITS[^key-9eaa42f786bbc17353949f7c4ab152f3]
+### PART I — CONTRIBUTORY PERIODICAL BENEFITS[^c-9eaa42f786bbc17353949f7c4ab152f3]
 
 <table>
 <thead>
@@ -40,7 +40,7 @@ Parts II to V.
 
 |  |  |
 | --- | --- |
-| [^key-9948df7df646c6a27373d2dabb503b93]. . . | [^key-9948df7df646c6a27373d2dabb503b93]. . . |
+| [^c-9948df7df646c6a27373d2dabb503b93]. . . | [^c-9948df7df646c6a27373d2dabb503b93]. . . |
 
 ### PART III — NON-CONTRIBUTORY PERIODICAL BENEFITS[^M_F_f8f9270b-ad9d-4556-9bd4-4334e5f65f9c]
 
@@ -64,7 +64,7 @@ Parts II to V.
 </tbody>
 </table>
 
-[^key-7ec1ff6e7f6bdc4f16d1f9fc8c324b6a]
+[^c-7ec1ff6e7f6bdc4f16d1f9fc8c324b6a]
 
 ### PART IV — INCREASES FOR DEPENDANTS
 
@@ -126,10 +126,10 @@ Parts II to V.
 
 ## Annotations
 
-[^key-9eaa42f786bbc17353949f7c4ab152f3]: Textual amendment: Sch. 4 Pt. I: sums amended (1.4.2026 for specified purposes, 6.4.2026 in so far as not already in force, and with effect in accordance with arts. 1(2)(3), 7 of the amending S.R.) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(b)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b), [3(1)](https://www.legislation.gov.uk/nisr/2026/59/article/3/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2026/59/schedule/1)
+[^c-9eaa42f786bbc17353949f7c4ab152f3]: Textual amendment: Sch. 4 Pt. I: sums amended (1.4.2026 for specified purposes, 6.4.2026 in so far as not already in force, and with effect in accordance with arts. 1(2)(3), 7 of the amending S.R.) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(b)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b), [3(1)](https://www.legislation.gov.uk/nisr/2026/59/article/3/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2026/59/schedule/1)
 
-[^key-9948df7df646c6a27373d2dabb503b93]: Textual amendment: Sch. 4 Pt. 2 omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2015/5/section/53/1), [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2015/5/schedule/16/paragraph/19); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
+[^c-9948df7df646c6a27373d2dabb503b93]: Textual amendment: Sch. 4 Pt. 2 omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2015/5/section/53/1), [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2015/5/schedule/16/paragraph/19); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
 
 [^M_F_f8f9270b-ad9d-4556-9bd4-4334e5f65f9c]: Textual amendment: Sch. 4 Pts. III-V: (except Sch. 4 Pt. 3 para. 5) sums amended and confirmed (1.4.2026 for specified purposes, 6.4.2026 in so far as not already in force, and with effect in accordance with arts. 1(2)(3), 7 of the amending S.R.) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(b)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b), [3(1)](https://www.legislation.gov.uk/nisr/2026/59/article/3/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2026/59/schedule/1)
 
-[^key-7ec1ff6e7f6bdc4f16d1f9fc8c324b6a]: Textual amendment: Sum in [Sch. 4 Pt. III para. 5](https://www.legislation.gov.uk/ukpga/1992/7/schedule/4/part/III/paragraph/5) substituted (6.4.2026) by [The Child Benefit and Guardian’s Allowance Up-rating Order 2026 (S.I. 2026/232)](https://www.legislation.gov.uk/uksi/2026/232), [arts. 1](https://www.legislation.gov.uk/uksi/2026/232/article/1), [4](https://www.legislation.gov.uk/uksi/2026/232/article/4)
+[^c-7ec1ff6e7f6bdc4f16d1f9fc8c324b6a]: Textual amendment: Sum in [Sch. 4 Pt. III para. 5](https://www.legislation.gov.uk/ukpga/1992/7/schedule/4/part/III/paragraph/5) substituted (6.4.2026) by [The Child Benefit and Guardian’s Allowance Up-rating Order 2026 (S.I. 2026/232)](https://www.legislation.gov.uk/uksi/2026/232), [arts. 1](https://www.legislation.gov.uk/uksi/2026/232/article/1), [4](https://www.legislation.gov.uk/uksi/2026/232/article/4)

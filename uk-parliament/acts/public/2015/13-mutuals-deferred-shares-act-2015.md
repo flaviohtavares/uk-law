@@ -79,7 +79,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 (2) Regulations under section 1(1) must make provision prohibiting the holder of a deferred share who is a member of a friendly society or mutual insurer by virtue only of being such a holder from proposing or voting in respect of any of the following—
 
 - (a) a resolution under section 85, 86 or 91 of the Friendly Societies Act 1992 (amalgamation, transfer of engagements or conversions);
-- (b) a resolution to similar effect in the case of a mutual insurer, including a compromise or arrangement proposed at a meeting called under section 896 or 901C[^key-ee70c0e2d7855a071eea738bced9ed62] of the Companies Act 2006 (court order for holding of meeting);
+- (b) a resolution to similar effect in the case of a mutual insurer, including a compromise or arrangement proposed at a meeting called under section 896 or 901C[^c-ee70c0e2d7855a071eea738bced9ed62] of the Companies Act 2006 (court order for holding of meeting);
 - (c) an arrangement made in pursuance of section 110 of the Insolvency Act 1986 (acceptance of shares etc as consideration for sale of company property) or Article 96 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989 / 2405 (N.I. 19));
 - (d) such other matters as the regulations may specify.
 
@@ -121,4 +121,4 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-ee70c0e2d7855a071eea738bced9ed62]: Textual amendment: Words in s. 2(2)(b) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 51](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/51) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-ee70c0e2d7855a071eea738bced9ed62]: Textual amendment: Words in s. 2(2)(b) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 51](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/51) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

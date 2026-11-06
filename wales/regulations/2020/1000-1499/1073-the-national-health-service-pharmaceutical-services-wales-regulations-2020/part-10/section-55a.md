@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55A. Zero or nominal product reimbursement for coronavirus vaccines, coronavirus antivirals and influenza virus vaccines[^key-209adb38546977deedb34ae39b56b68c]
+## 55A. Zero or nominal product reimbursement for coronavirus vaccines, coronavirus antivirals and influenza virus vaccines[^c-209adb38546977deedb34ae39b56b68c]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ may nevertheless provide for or permit remuneration to be paid for any service p
 
 ## Annotations
 
-[^key-209adb38546977deedb34ae39b56b68c]: Textual amendment: Reg. 55A inserted (6.1.2023) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1314)](https://www.legislation.gov.uk/wsi/2022/1314), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1314/regulation/1), [4](https://www.legislation.gov.uk/wsi/2022/1314/regulation/4)
+[^c-209adb38546977deedb34ae39b56b68c]: Textual amendment: Reg. 55A inserted (6.1.2023) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1314)](https://www.legislation.gov.uk/wsi/2022/1314), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1314/regulation/1), [4](https://www.legislation.gov.uk/wsi/2022/1314/regulation/4)

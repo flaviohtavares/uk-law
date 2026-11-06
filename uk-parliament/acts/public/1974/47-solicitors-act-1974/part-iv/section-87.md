@@ -24,7 +24,7 @@ summary: ''
 
 - [^c20058661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c13354011]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “[^c13354021] **bank** ” means the Bank of England or a person[^key-34a3238e6a65fca95fa64fac118b07a9] (other than a building society) who has permission under Part 4A[^key-5947d481ce12e4ee13a0998d47902ea6] of the Financial Services and Markets Act 2000 to accept deposits [^key-7dcf13213144edd0eb01b1151ca293ad]...;
+- “[^c13354021] **bank** ” means the Bank of England or a person[^c-34a3238e6a65fca95fa64fac118b07a9] (other than a building society) who has permission under Part 4A[^c-5947d481ce12e4ee13a0998d47902ea6] of the Financial Services and Markets Act 2000 to accept deposits [^c-7dcf13213144edd0eb01b1151ca293ad]...;
 - “[^c13353861] **building society** ” means a building society within the meaning of the Building Societies Act 1986 [^c13354031] . . ..
 - “ **the Charter** ” means the Royal Charter dated 26th February 1845, whereby the Society was incorporated, together with the Royal Charters supplemental to it dated respectively 26th November 1872, 4th June 1903, 2nd June 1909 and 10th March 1954;
 - “ **client** ” includes—
@@ -51,8 +51,8 @@ summary: ''
 - “ **the roll** ” means the list of solicitors of the Senior Courts kept by the Society under section 6;
 - “Secretary” of the Society includes any deputy or person appointed temporarily to perform the duties of that office;
 - “ **the Society** ” means the Law Society, that is to say, the Society incorporated and regulated by the Charter;
-- “ **sole solicitor** ” means a solicitor who is the sole principal in a practice (other than an incorporated practice)[^key-9057457d7a4ac1637b8a1fead8b530d2] ;
-- [^key-74c42b92781d035300d12167dbd66f42]...
+- “ **sole solicitor** ” means a solicitor who is the sole principal in a practice (other than an incorporated practice)[^c-9057457d7a4ac1637b8a1fead8b530d2] ;
+- [^c-74c42b92781d035300d12167dbd66f42]...
 - “[^c22560751] **solicitor** ” means solicitor of the Senior Courts ;
 - “ **solicitor in Scotland** ” means a person enrolled or deemed to have been enrolled as a solicitor in pursuance of the [^c13354121] Solicitors (Scotland) Act 1933;
 - [^c13354131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -64,10 +64,10 @@ summary: ''
 
 (1A)[^c13354141] In this Act “authorised insurer” means—
 
-- (a) a person who has permission under Part 4A[^key-4c023c00ed8a9f94618cc635a0aee4f2] of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance of a relevant class;
+- (a) a person who has permission under Part 4A[^c-4c023c00ed8a9f94618cc635a0aee4f2] of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance of a relevant class;
 - (b) a person who carries on an insurance market activity, within the meaning of section 316(3) of that Act;
-- (c)[^key-56a81fce4bfab848f2767f9cd337c32b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-56a81fce4bfab848f2767f9cd337c32b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-56a81fce4bfab848f2767f9cd337c32b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-56a81fce4bfab848f2767f9cd337c32b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (1B) A contract of insurance is of a relevant class for the purposes of subsection (1A) if it insures against risks arising from—
 
@@ -110,11 +110,11 @@ summary: ''
 
 [^c13354021]: Textual amendment: S. 87(1): definition of "bank" substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [286(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/286/3)
 
-[^key-34a3238e6a65fca95fa64fac118b07a9]: Textual amendment: Words in s. 87(1) substituted (31.12.2020) by [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 25(a)(i)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/25/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34a3238e6a65fca95fa64fac118b07a9]: Textual amendment: Words in s. 87(1) substituted (31.12.2020) by [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 25(a)(i)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/25/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5947d481ce12e4ee13a0998d47902ea6]: Textual amendment: Words in s. 87(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 38](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/38) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-5947d481ce12e4ee13a0998d47902ea6]: Textual amendment: Words in s. 87(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 38](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/38) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-7dcf13213144edd0eb01b1151ca293ad]: Textual amendment: Words in s. 87(1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 25(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/25/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7dcf13213144edd0eb01b1151ca293ad]: Textual amendment: Words in s. 87(1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 25(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/25/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c13353861]: Textual amendment: Definition of “building society” inserted by [Building Societies Act 1986 (c. 53, SIF 16)](https://www.legislation.gov.uk/ukpga/1986/53), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1986/53/section/54/3)(*a*)(5), 120, Sch. 18, para. 11(5)
 
@@ -140,9 +140,9 @@ summary: ''
 
 [^c13354081]: Textual amendment: S. 87(1): definition of "office" inserted (6.4.2001) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1090/regulation/9), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2001/1090/schedule/5/paragraph/5)
 
-[^key-9057457d7a4ac1637b8a1fead8b530d2]: Textual amendment: Words in s. 87 inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/14/a)
+[^c-9057457d7a4ac1637b8a1fead8b530d2]: Textual amendment: Words in s. 87 inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/14/a)
 
-[^key-74c42b92781d035300d12167dbd66f42]: Textual amendment: Words in s. 87 omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/14/b)
+[^c-74c42b92781d035300d12167dbd66f42]: Textual amendment: Words in s. 87 omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/14/b)
 
 [^c22560751]: Textual amendment: S. 87(1): definition of "sole solicitor endorsement" inserted (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 75(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/75/b) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a)
 
@@ -152,9 +152,9 @@ summary: ''
 
 [^c13354141]: Textual amendment: S. 87(1A)-(1C) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [286(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/286/4)
 
-[^key-4c023c00ed8a9f94618cc635a0aee4f2]: Textual amendment: Words in s. 87(1A)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 38](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/38) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-4c023c00ed8a9f94618cc635a0aee4f2]: Textual amendment: Words in s. 87(1A)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 38](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/38) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-56a81fce4bfab848f2767f9cd337c32b]: Textual amendment: S. 87(1A)(c)(d) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 25(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/25/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56a81fce4bfab848f2767f9cd337c32b]: Textual amendment: S. 87(1A)(c)(d) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 25(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/25/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c13354151]: Textual amendment: Words inserted by [Administration of Justice Act 1985 (c. 61, SIF 34)](https://www.legislation.gov.uk/ukpga/1985/61), [s. 8](https://www.legislation.gov.uk/ukpga/1985/61/section/8), [Sch. 1 para. 12(b)(i)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/1/paragraph/12/b/i)
 

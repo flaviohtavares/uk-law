@@ -50,15 +50,15 @@ In accordance with section 9(5) of that Act, the Scottish Ministers have consult
 
 In accordance with section 9(1) of that Act, the Treasury has approved the making of these Regulations[^f00002].
 
-## 1. Citation, commencement and effect[^key-60a1bacd1a81482acb894ba8d52e8c3d]
+## 1. Citation, commencement and effect[^c-60a1bacd1a81482acb894ba8d52e8c3d]
 
 These Regulations may be cited as the Teachers’ Superannuation (Scotland) (Miscellaneous Amendments) Regulations 2014 and come into force on 1st May 2014, but regulations 3 and 5(a) have effect from 6th April 2010 and regulations 4 and 5(b) to (d) have effect from 1st October 2012.
 
-## 2. Amendment of the Teachers’ Superannuation (Scotland) Regulations 2005[^key-7008145af1105772e23ff918bd1b3baa]
+## 2. Amendment of the Teachers’ Superannuation (Scotland) Regulations 2005[^c-7008145af1105772e23ff918bd1b3baa]
 
 The Teachers’ Superannuation (Scotland) Regulations 2005[^f00003] are amended in accordance with regulations 3 to 22 of these Regulations.
 
-## 3. Additional paternity leave[^key-fcc9dd037646d2503c83c18cfcadf995]
+## 3. Additional paternity leave[^c-fcc9dd037646d2503c83c18cfcadf995]
 
 In each of the following provisions, after “paternity” insert “, additional paternity”—
 
@@ -72,14 +72,14 @@ In each of the following provisions, after “paternity” insert “, additiona
 - (h) paragraph (7)(a) of regulation E34 (pensionable salary); and
 - (i) paragraph (1)(f) of regulation J4 (records and information).
 
-## 4. Amendment of regulation B2[^key-33c49ad8352b32b822845cbf154ca53e]
+## 4. Amendment of regulation B2[^c-33c49ad8352b32b822845cbf154ca53e]
 
 In regulation B2 (part-time service)—
 
 - (a) after “new employment specified in Schedule 2” insert “or the teacher’s employer makes arrangements under section 3(2) (automatic enrolment) or 5(2) (automatic re-enrolment) of the 2008 Act”; and
 - (b) omit paragraphs (4) to (6).
 
-## 5. Amendment of regulation B6[^key-31e66dd2ff09c9499fa2a7e335f345cd]
+## 5. Amendment of regulation B6[^c-31e66dd2ff09c9499fa2a7e335f345cd]
 
 In regulation B6 (employment not pensionable)—
 
@@ -88,7 +88,7 @@ In regulation B6 (employment not pensionable)—
 - (c) in paragraph (3), after “not in pensionable employment” insert “unless the teacher’s employer makes arrangements under section 3(2) (automatic enrolment) or 5(2) (automatic re-enrolment) of the 2008 Act in respect of that employment”; and
 - (d) in paragraph (6), after “regulation B8” insert “or the teacher’s employer makes arrangements under section 3(2) (automatic enrolment) or 5(2) (automatic re-enrolment) of the 2008 Act in respect of that employment”.
 
-## 6. Substitution of regulation B7[^key-8bd266a3dda518f05a1cab58e678a1bd]
+## 6. Substitution of regulation B7[^c-8bd266a3dda518f05a1cab58e678a1bd]
 
 For regulation B7, substitute—
 
@@ -110,7 +110,7 @@ For regulation B7, substitute—
 
 .
 
-## 7. Substitution of regulation B8 and new regulation B8A[^key-fd268b335571db2a70ea7fda720c11d0]
+## 7. Substitution of regulation B8 and new regulation B8A[^c-fd268b335571db2a70ea7fda720c11d0]
 
 For regulation B8, substitute—
 
@@ -179,11 +179,11 @@ For regulation B8, substitute—
 
 .
 
-## 8. Omission of regulations C4 and C4A[^key-6fae05ccac9cb0209d5a5aae57490398]
+## 8. Omission of regulations C4 and C4A[^c-6fae05ccac9cb0209d5a5aae57490398]
 
 Omit regulations C4 (contributions where an election under regulation B2(4) has been made) and C4A (contributions where an election under regulation B8(1A) is to take effect from an earlier date).
 
-## 9. Substitution of regulation C15[^key-166ae648b1f5ac7a601351187a0d7fff]
+## 9. Substitution of regulation C15[^c-166ae648b1f5ac7a601351187a0d7fff]
 
 For regulation C15, substitute—
 
@@ -217,7 +217,7 @@ For regulation C15, substitute—
 
 .
 
-## 10. Amendment of regulation E8[^key-254b8b2b823ae2b2e2e9fcd8c8568374]
+## 10. Amendment of regulation E8[^c-254b8b2b823ae2b2e2e9fcd8c8568374]
 
 For paragraph (6) of regulation E8 (amount of retirement lump sum), substitute—
 
@@ -228,11 +228,11 @@ For paragraph (6) of regulation E8 (amount of retirement lump sum), substitute�
 
 .
 
-## 11. Amendment of regulation E18[^key-bf679223a4e00434449310398d90d89e]
+## 11. Amendment of regulation E18[^c-bf679223a4e00434449310398d90d89e]
 
 In paragraph (2)(b) of Regulation E18 (abatement of retirement pension), after “does” insert “not”.
 
-## 12. Substitution of regulation E21[^key-434fa460db4820ec17b9be1a039a1447]
+## 12. Substitution of regulation E21[^c-434fa460db4820ec17b9be1a039a1447]
 
 For regulation E21, substitute—
 
@@ -256,7 +256,7 @@ For regulation E21, substitute—
 
 .
 
-## 13. New regulation E21A[^key-f692c2b0c4c5562dd5c5b9abe05195ae]
+## 13. New regulation E21A[^c-f692c2b0c4c5562dd5c5b9abe05195ae]
 
 After regulation E21, insert—
 
@@ -272,7 +272,7 @@ After regulation E21, insert—
 
 .
 
-## 14. Amendment of regulation E24[^key-b77a6ddf9e43c0d497fe3e6d87603e24]
+## 14. Amendment of regulation E24[^c-b77a6ddf9e43c0d497fe3e6d87603e24]
 
 For paragraph (5) of regulation E24 (death grants), substitute—
 
@@ -280,7 +280,7 @@ For paragraph (5) of regulation E24 (death grants), substitute—
 
 .
 
-## 15. Amendment of regulation G2[^key-ce2085f42a501a6fdd1c6c6bf612cb5a]
+## 15. Amendment of regulation G2[^c-ce2085f42a501a6fdd1c6c6bf612cb5a]
 
 After paragraph (4) of regulation G2 (acceptance of transfer values) insert—
 
@@ -294,11 +294,11 @@ After paragraph (4) of regulation G2 (acceptance of transfer values) insert—
 
 .
 
-## 16. Omission of regulation H2[^key-09570be8c6360a26d485b87ee2cb2f7c]
+## 16. Omission of regulation H2[^c-09570be8c6360a26d485b87ee2cb2f7c]
 
 Omit regulation H2 (actuarial review).
 
-## 17. Insertion of regulation H2A[^key-1f22a6c93553d4fb940f43777250debf]
+## 17. Insertion of regulation H2A[^c-1f22a6c93553d4fb940f43777250debf]
 
 After regulation H2 (omitted under regulation 16 above), insert—
 
@@ -308,7 +308,7 @@ After regulation H2 (omitted under regulation 16 above), insert—
 
 .
 
-## 18. Amendment of regulation H3[^key-4326322241be329ee0c54804e6a63157]
+## 18. Amendment of regulation H3[^c-4326322241be329ee0c54804e6a63157]
 
 Regulation H3 (employers’ contributions) is amended as follows—
 
@@ -321,11 +321,11 @@ Regulation H3 (employers’ contributions) is amended as follows—
   ; and
 - (d) omit paragraphs (4), (6) and (7).
 
-## 19. Omission of regulations H5 and H5A[^key-73fd71e8bd77e7c1c22ce36224f5d57f]
+## 19. Omission of regulations H5 and H5A[^c-73fd71e8bd77e7c1c22ce36224f5d57f]
 
 Omit regulations H5 (employers’ contributions – part-time elections) and H5A (employers’ contributions in respect of further employment).
 
-## 20. Amendment of regulation H6[^key-b28772ff9183d5e95ccf43cad5fe1c8b]
+## 20. Amendment of regulation H6[^c-b28772ff9183d5e95ccf43cad5fe1c8b]
 
 In paragraph (10) of regulation H6 (payments by employers to Scottish Ministers), omit “and” after sub-paragraph (a) and insert at the end of sub-paragraph (b)—
 
@@ -335,7 +335,7 @@ In paragraph (10) of regulation H6 (payments by employers to Scottish Ministers)
 
 .
 
-## 21. Substitution of regulation J6B[^key-f8f36b1fe18f82822b9704aa837234f4]
+## 21. Substitution of regulation J6B[^c-f8f36b1fe18f82822b9704aa837234f4]
 
 For regulation J6B, substitute—
 
@@ -352,7 +352,7 @@ For regulation J6B, substitute—
 
 .
 
-## 22. Amendment of Schedule 1[^key-83e525c778988f43352fe5465c283490]
+## 22. Amendment of Schedule 1[^c-83e525c778988f43352fe5465c283490]
 
 In Schedule 1 (glossary of expressions)—
 
@@ -369,19 +369,19 @@ In Schedule 1 (glossary of expressions)—
   | “standard rate” (in the context of interest) | See regulation H2A (meaning of “standard rate” of interest); |
 - (b) omit the definitions of “Back Period” and “Indexing”.
 
-## 23. Amendment of the Teachers’ Superannuation (Additional Voluntary Contributions) (Scotland) Regulations 1995[^key-e0668261b2b90213a6dfeb397dce692f]
+## 23. Amendment of the Teachers’ Superannuation (Additional Voluntary Contributions) (Scotland) Regulations 1995[^c-e0668261b2b90213a6dfeb397dce692f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Amendment of regulation 5[^key-e0668261b2b90213a6dfeb397dce692f]
+## 24. Amendment of regulation 5[^c-e0668261b2b90213a6dfeb397dce692f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Amendment of regulation 11[^key-e0668261b2b90213a6dfeb397dce692f]
+## 25. Amendment of regulation 11[^c-e0668261b2b90213a6dfeb397dce692f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Amendment of regulation 12[^key-e0668261b2b90213a6dfeb397dce692f]
+## 26. Amendment of regulation 12[^c-e0668261b2b90213a6dfeb397dce692f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -459,58 +459,58 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00002]: Footnote: This function was transferred to the Treasury by the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)) and remains exercisable by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1.
 
-[^key-60a1bacd1a81482acb894ba8d52e8c3d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-60a1bacd1a81482acb894ba8d52e8c3d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-7008145af1105772e23ff918bd1b3baa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/69/regulation/2) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-7008145af1105772e23ff918bd1b3baa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/69/regulation/2) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2005/393](https://www.legislation.gov.uk/ssi/2005/393), as amended by [S.S.I. 2005/543](https://www.legislation.gov.uk/ssi/2005/543), [S.S.I. 2006/308](https://www.legislation.gov.uk/ssi/2006/308), [S.S.I. 2006/605](https://www.legislation.gov.uk/ssi/2006/605), [S.S.I. 2007/189](https://www.legislation.gov.uk/ssi/2007/189), [S.S.I. 2008/227](https://www.legislation.gov.uk/ssi/2008/227), [S.S.I. 2011/42](https://www.legislation.gov.uk/ssi/2011/42), [S.S.I. 20011/52](https://www.legislation.gov.uk/ssi/2011/52), [S.S.I. 2012/70](https://www.legislation.gov.uk/ssi/2012/70), [S.S.I. 2013/71](https://www.legislation.gov.uk/ssi/2013/71) and [S.S.I. 2014/44](https://www.legislation.gov.uk/ssi/2014/44).
 
-[^key-fcc9dd037646d2503c83c18cfcadf995]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/69/regulation/3) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-fcc9dd037646d2503c83c18cfcadf995]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/69/regulation/3) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-33c49ad8352b32b822845cbf154ca53e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/69/regulation/4) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-33c49ad8352b32b822845cbf154ca53e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/69/regulation/4) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-31e66dd2ff09c9499fa2a7e335f345cd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/69/regulation/5) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-31e66dd2ff09c9499fa2a7e335f345cd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/69/regulation/5) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-8bd266a3dda518f05a1cab58e678a1bd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/69/regulation/6) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-8bd266a3dda518f05a1cab58e678a1bd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/69/regulation/6) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-fd268b335571db2a70ea7fda720c11d0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/69/regulation/7) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-fd268b335571db2a70ea7fda720c11d0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/69/regulation/7) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-6fae05ccac9cb0209d5a5aae57490398]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/69/regulation/8) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-6fae05ccac9cb0209d5a5aae57490398]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/69/regulation/8) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-166ae648b1f5ac7a601351187a0d7fff]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/69/regulation/9) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-166ae648b1f5ac7a601351187a0d7fff]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/69/regulation/9) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-254b8b2b823ae2b2e2e9fcd8c8568374]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/69/regulation/10) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-254b8b2b823ae2b2e2e9fcd8c8568374]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/69/regulation/10) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-bf679223a4e00434449310398d90d89e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/69/regulation/11) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-bf679223a4e00434449310398d90d89e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/69/regulation/11) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-434fa460db4820ec17b9be1a039a1447]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/69/regulation/12) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-434fa460db4820ec17b9be1a039a1447]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/69/regulation/12) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-f692c2b0c4c5562dd5c5b9abe05195ae]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2014/69/regulation/13) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-f692c2b0c4c5562dd5c5b9abe05195ae]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2014/69/regulation/13) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-b77a6ddf9e43c0d497fe3e6d87603e24]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2014/69/regulation/14) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-b77a6ddf9e43c0d497fe3e6d87603e24]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2014/69/regulation/14) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-ce2085f42a501a6fdd1c6c6bf612cb5a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2014/69/regulation/15) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-ce2085f42a501a6fdd1c6c6bf612cb5a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2014/69/regulation/15) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-09570be8c6360a26d485b87ee2cb2f7c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2014/69/regulation/16) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-09570be8c6360a26d485b87ee2cb2f7c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2014/69/regulation/16) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-1f22a6c93553d4fb940f43777250debf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2014/69/regulation/17) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-1f22a6c93553d4fb940f43777250debf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2014/69/regulation/17) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-4326322241be329ee0c54804e6a63157]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2014/69/regulation/18) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-4326322241be329ee0c54804e6a63157]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2014/69/regulation/18) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-73fd71e8bd77e7c1c22ce36224f5d57f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2014/69/regulation/19) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-73fd71e8bd77e7c1c22ce36224f5d57f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2014/69/regulation/19) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-b28772ff9183d5e95ccf43cad5fe1c8b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2014/69/regulation/20) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-b28772ff9183d5e95ccf43cad5fe1c8b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2014/69/regulation/20) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
-[^key-f8f36b1fe18f82822b9704aa837234f4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/69/regulation/21) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-f8f36b1fe18f82822b9704aa837234f4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/69/regulation/21) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
 [^f00004]: Footnote: The “2004 Act” is the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
 [^f00005]: Footnote: Section 238A was inserted by the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 17, paragraph 17.
 
-[^key-83e525c778988f43352fe5465c283490]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2014/69/regulation/22) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
+[^c-83e525c778988f43352fe5465c283490]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2014/69/regulation/22) in force at 1.5.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/69/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2010/1055](https://www.legislation.gov.uk/uksi/2010/1055).
 
 [^f00007]: Footnote: [S.I. 2010/1056](https://www.legislation.gov.uk/uksi/2010/1056).
 
-[^key-e0668261b2b90213a6dfeb397dce692f]: Textual amendment: [Regs. 23-26](https://www.legislation.gov.uk/ssi/2014/69/regulation/23) revoked (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The Teachers’ Superannuation and Pension Scheme (Additional Voluntary Contributions) (Scotland) Regulations 2017 (S.S.I. 2017/283)](https://www.legislation.gov.uk/ssi/2017/283), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1), [20(1)(j)](https://www.legislation.gov.uk/ssi/2017/283/regulation/20/1/j)
+[^c-e0668261b2b90213a6dfeb397dce692f]: Textual amendment: [Regs. 23-26](https://www.legislation.gov.uk/ssi/2014/69/regulation/23) revoked (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The Teachers’ Superannuation and Pension Scheme (Additional Voluntary Contributions) (Scotland) Regulations 2017 (S.S.I. 2017/283)](https://www.legislation.gov.uk/ssi/2017/283), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1), [20(1)(j)](https://www.legislation.gov.uk/ssi/2017/283/regulation/20/1/j)

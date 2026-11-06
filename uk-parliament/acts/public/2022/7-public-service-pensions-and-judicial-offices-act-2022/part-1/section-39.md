@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Meaning of “remediable service”[^key-bbf8bd14fb0364b9f24050bb9da38913][^key-142c11c38f2568c3f6951f2c64f8dc27]
+## 39. Meaning of “remediable service”[^c-bbf8bd14fb0364b9f24050bb9da38913][^c-142c11c38f2568c3f6951f2c64f8dc27]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ See also section 66(1) (which requires section 61 of the Equality Act 2010 and p
 
 ## Annotations
 
-[^key-bbf8bd14fb0364b9f24050bb9da38913]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-bbf8bd14fb0364b9f24050bb9da38913]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-142c11c38f2568c3f6951f2c64f8dc27]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/7/section/39) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-142c11c38f2568c3f6951f2c64f8dc27]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/7/section/39) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)

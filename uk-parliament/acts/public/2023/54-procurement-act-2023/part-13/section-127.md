@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Commencement[^key-ef53d4aaf277b7b173961d9f122bbd3b]
+## 127. Commencement[^c-ef53d4aaf277b7b173961d9f122bbd3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ but “**specified regulations**” does not include regulations to bring into f
 
 ## Annotations
 
-[^key-ef53d4aaf277b7b173961d9f122bbd3b]: Commencement: S. 127 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
+[^c-ef53d4aaf277b7b173961d9f122bbd3b]: Commencement: S. 127 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Provision of copies of strategy by accountable persons[^key-70cfd846e5fadc4ceea9d142e4e8c290]
+## 41. Provision of copies of strategy by accountable persons[^c-70cfd846e5fadc4ceea9d142e4e8c290]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70cfd846e5fadc4ceea9d142e4e8c290]: Commencement: S. 41 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-70cfd846e5fadc4ceea9d142e4e8c290]: Commencement: S. 41 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

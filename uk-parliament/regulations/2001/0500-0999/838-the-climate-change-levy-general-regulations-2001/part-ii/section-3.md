@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Accounting periods[^key-3adfb618b0c1610daab3cff2ef889869]
+## 3. Accounting periods[^c-3adfb618b0c1610daab3cff2ef889869]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3adfb618b0c1610daab3cff2ef889869]: Commencement: Reg. 3 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-3adfb618b0c1610daab3cff2ef889869]: Commencement: Reg. 3 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

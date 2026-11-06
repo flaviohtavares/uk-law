@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59F. Vaccines and immunisations: nominated person[^key-f51426e6fdab03ade6c6903a2e4987a4]
+## 59F. Vaccines and immunisations: nominated person[^c-f51426e6fdab03ade6c6903a2e4987a4]
 
 *Extent: E+W*
 
@@ -28,11 +28,11 @@ summary: ''
 
 (2) The contractor must ensure that the V & I lead—
 
-- (a) has regard to all guidance issued by NHS England[^key-9520329cffeb7671913a444ac58ebf84] which is relevant to that role, and
+- (a) has regard to all guidance issued by NHS England[^c-9520329cffeb7671913a444ac58ebf84] which is relevant to that role, and
 - (b) if they are not a health care professional, is directly supervised in that role by a healthcare professional.
 
 ## Annotations
 
-[^key-f51426e6fdab03ade6c6903a2e4987a4]: Textual amendment: Pt. 10A inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/331/schedule/2/paragraph/1)
+[^c-f51426e6fdab03ade6c6903a2e4987a4]: Textual amendment: Pt. 10A inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/331/schedule/2/paragraph/1)
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

@@ -50,13 +50,13 @@ In accordance with section 22(2)(b) of the 2014 Act, the Department of Health ha
 
 In accordance with Article 12(1) of the 1972 Order and section 3(5) of the 2014 Act, these Regulations are made with the consent of the Department of Finance.
 
-## 1. Citation, commencement and effect[^key-87e5eeffa274c27e562ecdc8603631ef][^key-1b0139ab88a78bc64745618662ae89c7]
+## 1. Citation, commencement and effect[^c-87e5eeffa274c27e562ecdc8603631ef][^c-1b0139ab88a78bc64745618662ae89c7]
 
 (1) These Regulations may be cited as the Health and Social Care Pension Scheme (Member Contributions) (Amendment) Regulations (Northern Ireland) 2024.
 
 (2) These Regulations come into operation on 12<sup>th</sup> June 2024 and have effect from 1<sup>st</sup> April 2023.
 
-## 2. Amendment to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^key-40872fc1f2ce33a03a2e01fa8066e06a][^key-59e853ca2e7a5de69d224714ce47d57b]
+## 2. Amendment to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^c-40872fc1f2ce33a03a2e01fa8066e06a][^c-59e853ca2e7a5de69d224714ce47d57b]
 
 (1) The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00003] are amended as follows.
 
@@ -151,13 +151,13 @@ A full impact assessment has not been produced for this statutory rule as no, or
 
 [^f00002]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2) Section 3(1) and (2) were amended by section 94(2) and (3) of the Public Service Pensions and Judicial Offices Act [2022 (c.7)](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-87e5eeffa274c27e562ecdc8603631ef]: Commencement: Reg. 1 in operation at 12.6.2024 with effect in accordance with reg. 1(2)
+[^c-87e5eeffa274c27e562ecdc8603631ef]: Commencement: Reg. 1 in operation at 12.6.2024 with effect in accordance with reg. 1(2)
 
-[^key-1b0139ab88a78bc64745618662ae89c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/116/regulation/1) in operation at 12.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/116/regulation/1/2)
+[^c-1b0139ab88a78bc64745618662ae89c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/116/regulation/1) in operation at 12.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/116/regulation/1/2)
 
-[^key-40872fc1f2ce33a03a2e01fa8066e06a]: Commencement: Reg. 2 in operation at 12.6.2024 with effect in accordance with reg. 1(2)
+[^c-40872fc1f2ce33a03a2e01fa8066e06a]: Commencement: Reg. 2 in operation at 12.6.2024 with effect in accordance with reg. 1(2)
 
-[^key-59e853ca2e7a5de69d224714ce47d57b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/116/regulation/2) in operation at 12.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/116/regulation/1/2)
+[^c-59e853ca2e7a5de69d224714ce47d57b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/116/regulation/2) in operation at 12.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/116/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120).
 

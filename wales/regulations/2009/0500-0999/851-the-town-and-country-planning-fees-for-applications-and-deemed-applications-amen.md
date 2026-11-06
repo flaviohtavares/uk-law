@@ -47,7 +47,7 @@ The Welsh Ministers make these Regulations in exercise of their powers as the ap
 
 A draft of this instrument has been laid before the National Assembly for Wales in accordance with section 303(5) of the Town and Country Planning Act 1990 and approved by resolution of the National Assembly for Wales[^f00002].
 
-## 1. Title, commencement, interpretation and application.[^key-7f97aaf8ea181741d07623e3277c88f5]
+## 1. Title, commencement, interpretation and application.[^c-7f97aaf8ea181741d07623e3277c88f5]
 
 (1) The title of these Regulations is the Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) (Wales) Regulations 2009 and they come into force on 6 April 2009.
 
@@ -55,7 +55,7 @@ A draft of this instrument has been laid before the National Assembly for Wales 
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. General increase in fees[^key-29e38afc77f6cb9a7ead86be1bad8233]
+## 2. General increase in fees[^c-29e38afc77f6cb9a7ead86be1bad8233]
 
 (1) The 1989 Regulations, insofar as they apply to Wales, are amended in accordance with the provisions of this regulation.
 
@@ -91,7 +91,7 @@ A draft of this instrument has been laid before the National Assembly for Wales 
 
 (6) For Schedule 2 to the 1989 Regulations (scale of fees for advertisement applications), substitute the new Schedule 2 set out in Schedule 2 to these Regulations.
 
-## 3. Revocation[^key-eafc22134007f94feaf5b020b1ed80a9]
+## 3. Revocation[^c-eafc22134007f94feaf5b020b1ed80a9]
 
 The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) (Wales) Regulations 2006[^f00004] are revoked.
 
@@ -103,7 +103,7 @@ Minister for Environment, Sustainability and Housing, one of the Welsh Ministers
 
 SCHEDULES
 
-## SCHEDULE 1 — PART II OF SCHEDULE 1 TO THE 1989 REGULATIONS[^key-5bc6f23ac49b4635fdd30a29200ee34b]
+## SCHEDULE 1 — PART II OF SCHEDULE 1 TO THE 1989 REGULATIONS[^c-5bc6f23ac49b4635fdd30a29200ee34b]
 
 Regulation 2(5)
 
@@ -129,7 +129,7 @@ Regulation 2(5)
 
 .
 
-## SCHEDULE 2[^key-a5da27a94dc89ec203e4f4d476a16585]
+## SCHEDULE 2[^c-a5da27a94dc89ec203e4f4d476a16585]
 
 Regulation 2(6)
 
@@ -159,16 +159,16 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: The reference in section 303(5) to approval by each House of Parliament has effect in relation to the exercise of functions by the Welsh Ministers as if it were a reference to approval by the National Assembly for Wales by virtue of paragraph 33 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-7f97aaf8ea181741d07623e3277c88f5]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)
+[^c-7f97aaf8ea181741d07623e3277c88f5]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1989/193](https://www.legislation.gov.uk/uksi/1989/193) amended, in relation to England and Wales, by [S.I. 1990/2743](https://www.legislation.gov.uk/uksi/1990/2743), [1991/2735](https://www.legislation.gov.uk/uksi/1991/2735), [1992/1817](https://www.legislation.gov.uk/uksi/1992/1817), [1992/3052](https://www.legislation.gov.uk/uksi/1992/3052), [1993/3170](https://www.legislation.gov.uk/uksi/1993/3170) and [1997/37](https://www.legislation.gov.uk/uksi/1997/37) and, in relation to Wales, by [S.I. 2002/1876 (W.185)](https://www.legislation.gov.uk/wsi/2002/1876), [2002/2258 (W.222)](https://www.legislation.gov.uk/wsi/2002/2258), [2004/2736 (W.243)](https://www.legislation.gov.uk/wsi/2004/2736) and [2006/948 (W.97)](https://www.legislation.gov.uk/wsi/2006/948).
 
-[^key-29e38afc77f6cb9a7ead86be1bad8233]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)
+[^c-29e38afc77f6cb9a7ead86be1bad8233]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)
 
-[^key-eafc22134007f94feaf5b020b1ed80a9]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)
+[^c-eafc22134007f94feaf5b020b1ed80a9]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2006/948 (W.97)](https://www.legislation.gov.uk/wsi/2006/948).
 
-[^key-5bc6f23ac49b4635fdd30a29200ee34b]: Commencement: Sch. 1 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)
+[^c-5bc6f23ac49b4635fdd30a29200ee34b]: Commencement: Sch. 1 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)
 
-[^key-a5da27a94dc89ec203e4f4d476a16585]: Commencement: Sch. 2 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)
+[^c-a5da27a94dc89ec203e4f4d476a16585]: Commencement: Sch. 2 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/851/regulation/1/1)

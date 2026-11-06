@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. References to relevant former employers[^key-2737649f1eac0747cbdc5d31763651e5]
+## 17. References to relevant former employers[^c-2737649f1eac0747cbdc5d31763651e5]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2737649f1eac0747cbdc5d31763651e5]: Commencement: Reg. 17 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-2737649f1eac0747cbdc5d31763651e5]: Commencement: Reg. 17 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

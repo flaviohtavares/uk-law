@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Pig Carcase (Grading) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-6eb96ae5b485532836d7346e157ce365]
+The Pig Carcase (Grading) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-6eb96ae5b485532836d7346e157ce365]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 14th July 2006
 
-[^key-6eb96ae5b485532836d7346e157ce365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6eb96ae5b485532836d7346e157ce365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6eb96ae5b485532836d7346e157ce365]
+## 1. Citation, commencement and interpretation[^c-6eb96ae5b485532836d7346e157ce365]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Pig Carcase (Grading) Regulations (Northern Ireland) 1994[^key-6eb96ae5b485532836d7346e157ce365]
+## 2. Amendments to the Pig Carcase (Grading) Regulations (Northern Ireland) 1994[^c-6eb96ae5b485532836d7346e157ce365]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6eb96ae5b485532836d7346e157ce365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6eb96ae5b485532836d7346e157ce365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6eb96ae5b485532836d7346e157ce365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6eb96ae5b485532836d7346e157ce365]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6eb96ae5b485532836d7346e157ce365]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/253) revoked (6.8.2010) by [The Beef and Pig Carcase Classification Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/231)](https://www.legislation.gov.uk/nisr/2010/231), [regs. 1](https://www.legislation.gov.uk/nisr/2010/231/regulation/1), [30(c)](https://www.legislation.gov.uk/nisr/2010/231/regulation/30/c)
+[^c-6eb96ae5b485532836d7346e157ce365]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/253) revoked (6.8.2010) by [The Beef and Pig Carcase Classification Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/231)](https://www.legislation.gov.uk/nisr/2010/231), [regs. 1](https://www.legislation.gov.uk/nisr/2010/231/regulation/1), [30(c)](https://www.legislation.gov.uk/nisr/2010/231/regulation/30/c)

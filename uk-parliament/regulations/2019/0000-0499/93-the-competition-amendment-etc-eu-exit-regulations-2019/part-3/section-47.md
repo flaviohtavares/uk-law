@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47.[^key-afacfedb7aa81f3a99cd0d9c5fff8d4e]
+## 47.[^c-afacfedb7aa81f3a99cd0d9c5fff8d4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Omit sections 67 [^c23883081] and 68 [^c23883091] (and the italic heading before
 
 ## Annotations
 
-[^key-afacfedb7aa81f3a99cd0d9c5fff8d4e]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-afacfedb7aa81f3a99cd0d9c5fff8d4e]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883081]: Marginal citation: Section 67 was amended by paragraph 16 of Schedule 16 to, and section 406(7) of, and Schedule 19 to, the Communications Act 2003, paragraphs 59 and 110 of Schedule 5, and paragraphs 15 and 28 of Schedule 15 to, the Enterprise and Regulatory Reform Act 2013, [S.I. 2004/1079](https://www.legislation.gov.uk/uksi/2004/1079) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 

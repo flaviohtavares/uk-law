@@ -31,7 +31,7 @@ summary: ''
 - (f) provide for the transfer, surrender and production of registration documents,
 - (g) provide for the inspection of registration documents by the persons prescribed by the regulations, [^c12508951]...
 - (h) provide for the issue of new registration documents in place of registration documents which are or may be lost, stolen, surrendered[^c12508961], destroyed or damaged or which contain any particulars which have become illegible or inaccurate[^c12508971],
-- (ha)[^key-3918c17965a23d8e00b125a82fc86559] require the destruction of a registration document where a new registration document is issued in place of it,
+- (ha)[^c-3918c17965a23d8e00b125a82fc86559] require the destruction of a registration document where a new registration document is issued in place of it,
 - (i)[^c12508981] provide for a fee of such amount as appears to the Secretary of State to be reasonable to be paid on the issue of new registration documents in any of the circumstances mentioned in paragraph (h).
 
 (1A)[^c12508991] The Secretary of State may make regulations providing for the sale of information derived from particulars contained in the register—
@@ -50,7 +50,7 @@ if the information does not identify any person or contain anything enabling any
 
 (1D)[^c12509041] The Secretary of State may by regulations require a person—
 
-- (a)[^key-d59223dd6fc3264a43253f88545939ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d59223dd6fc3264a43253f88545939ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (aa)[^c18043391] who does not renew a vehicle licence for a vehicle registered under this Act in his name,
 - (b) who does not renew a vehicle licence for a vehicle kept by him, or
 - (c) who keeps an unlicensed vehicle at any place in the United Kingdom,
@@ -76,7 +76,7 @@ to furnish such particulars and make such declarations as may be prescribed by t
 - (a) extend any of the provisions as to registration (and provisions incidental to any of those provisions) to, and
 - (b) provide for the identification of,
 
-any exempt vehicles or[^key-62e476a5c988f0cf1dc51dfbe6b90824] any vehicles belonging to the Crown [^key-d2e29b36d16141e0d90d8a12d38901ad]....
+any exempt vehicles or[^c-62e476a5c988f0cf1dc51dfbe6b90824] any vehicles belonging to the Crown [^c-d2e29b36d16141e0d90d8a12d38901ad]....
 
 (2A)[^c12509081] Regulations under subsection (2) may, in particular—
 
@@ -86,7 +86,7 @@ any exempt vehicles or[^key-62e476a5c988f0cf1dc51dfbe6b90824] any vehicles belon
 
   (whether or not with respect to the vehicle for which the licence is to be taken out) as may be prescribed by the regulations, [^c12509121]...
 - (b) provide for any requirement to make such a declaration not to apply in such circumstances as may be so prescribed.
-- (c)[^key-f2166fee10d60ab9ad3fd69773ea3d3f][^c12509131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f2166fee10d60ab9ad3fd69773ea3d3f][^c12509131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) require a person issued with a nil licence which ceases to be in force in circumstances prescribed by the regulations to furnish to the Secretary of State any[^c12509151] such particulars and any such documentary or other evidence[^c12509161] and make any such declarations as may be so prescribed, and to do so at such times and in such manner as may be so prescribed.
 
 (2B)[^c12509081] The circumstances which may be prescribed by the regulations by virtue of subsection (2A)(b) include where a person applying for a nil licence agrees to comply with such conditions as may be specified in relation to him by the Secretary of State.
@@ -98,7 +98,7 @@ any exempt vehicles or[^key-62e476a5c988f0cf1dc51dfbe6b90824] any vehicles belon
 
 (3)[^c12509201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-039c0152a2760a0335ba0a71e4872592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-039c0152a2760a0335ba0a71e4872592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -114,7 +114,7 @@ any exempt vehicles or[^key-62e476a5c988f0cf1dc51dfbe6b90824] any vehicles belon
 
 [^c12508971]: Textual amendment: Words in s. 22(1)(h) inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 23](https://www.legislation.gov.uk/ukpga/1996/8/section/23), [Sch. 2 para. 4(1)(4)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/2/paragraph/4/1/4)
 
-[^key-3918c17965a23d8e00b125a82fc86559]: Textual amendment: S. 22(1)(ha) inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 120](https://www.legislation.gov.uk/ukpga/2009/10/section/120)
+[^c-3918c17965a23d8e00b125a82fc86559]: Textual amendment: S. 22(1)(ha) inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 120](https://www.legislation.gov.uk/ukpga/2009/10/section/120)
 
 [^c12508981]: Textual amendment: S. 22(1)(i) inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 23](https://www.legislation.gov.uk/ukpga/1996/8/section/23), [Sch. 2 para. 4(1)(4)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/2/paragraph/4/1/4)
 
@@ -128,15 +128,15 @@ any exempt vehicles or[^key-62e476a5c988f0cf1dc51dfbe6b90824] any vehicles belon
 
 [^c12509041]: Textual amendment: S. 22(1D)-(1G) inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 23](https://www.legislation.gov.uk/ukpga/1996/8/section/23), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1996/8/schedule/2/paragraph/7)
 
-[^key-d59223dd6fc3264a43253f88545939ec]: Textual amendment: S. 22(1D)(a) omitted (1.1.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/4)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)
+[^c-d59223dd6fc3264a43253f88545939ec]: Textual amendment: S. 22(1D)(a) omitted (1.1.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/4)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)
 
 [^c18043391]: Textual amendment: S. 22(1D)(aa) inserted (30.11.2003) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 19](https://www.legislation.gov.uk/ukpga/2002/23/section/19), [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/5/paragraph/6/1); [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/3086/article/2/b)
 
 [^c18031282]: Textual amendment: S. 22(1DA) inserted (24.7.2002 for the purpose of the exercise of any power to make regulations and 30.11.2003 otherwise) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 19](https://www.legislation.gov.uk/ukpga/2002/23/section/19), [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/5/paragraph/6/2); [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/3086/article/2/b)
 
-[^key-62e476a5c988f0cf1dc51dfbe6b90824]: Textual amendment: Words in [s. 22(2)](https://www.legislation.gov.uk/ukpga/1994/22/section/22/2) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/6/a)
+[^c-62e476a5c988f0cf1dc51dfbe6b90824]: Textual amendment: Words in [s. 22(2)](https://www.legislation.gov.uk/ukpga/1994/22/section/22/2) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/6/a)
 
-[^key-d2e29b36d16141e0d90d8a12d38901ad]: Textual amendment: Words in [s. 22(2)](https://www.legislation.gov.uk/ukpga/1994/22/section/22/2) omitted (19.7.2018) by virtue of [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/6/b)
+[^c-d2e29b36d16141e0d90d8a12d38901ad]: Textual amendment: Words in [s. 22(2)](https://www.legislation.gov.uk/ukpga/1994/22/section/22/2) omitted (19.7.2018) by virtue of [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/6/b)
 
 [^c12509081]: Textual amendment: S. 22(2A)-(2C) inserted (31.7.1997) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 14(3)](https://www.legislation.gov.uk/ukpga/1997/58/section/14/3)
 
@@ -148,7 +148,7 @@ any exempt vehicles or[^key-62e476a5c988f0cf1dc51dfbe6b90824] any vehicles belon
 
 [^c12509121]: Textual amendment: Word in s. 22(2A)(a) repealed (31.7.1998 with effect as mentioned in Sch. 27 Pt. I(4) Note of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. I(4)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/I/4) Note
 
-[^key-f2166fee10d60ab9ad3fd69773ea3d3f]: Textual amendment: S. 22(2A)(c) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 7(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/7/a), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-f2166fee10d60ab9ad3fd69773ea3d3f]: Textual amendment: S. 22(2A)(c) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 7(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/7/a), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
 [^c12509131]: Textual amendment: S. 22(2A)(c)(d) inserted (31.7.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 18](https://www.legislation.gov.uk/ukpga/1998/36/section/18)
 
@@ -158,4 +158,4 @@ any exempt vehicles or[^key-62e476a5c988f0cf1dc51dfbe6b90824] any vehicles belon
 
 [^c12509201]: Textual amendment: S. 22(3) repealed (31.7.1997) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 52](https://www.legislation.gov.uk/ukpga/1997/58/section/52), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1997/58/schedule/8/part/I)
 
-[^key-039c0152a2760a0335ba0a71e4872592]: Textual amendment: S. 22(4) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 7(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/7/b), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-039c0152a2760a0335ba0a71e4872592]: Textual amendment: S. 22(4) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 7(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/7/b), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)

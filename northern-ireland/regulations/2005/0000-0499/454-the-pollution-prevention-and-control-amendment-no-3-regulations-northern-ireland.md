@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENT
 
-The Pollution Prevention and Control (Amendment) (No. 3) Regulations (Northern Ireland) 2005 (revoked)[^key-f32942365e278fa72c4537bca0a9b47c]
+The Pollution Prevention and Control (Amendment) (No. 3) Regulations (Northern Ireland) 2005 (revoked)[^c-f32942365e278fa72c4537bca0a9b47c]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st November 2005
 
-[^key-f32942365e278fa72c4537bca0a9b47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f32942365e278fa72c4537bca0a9b47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f32942365e278fa72c4537bca0a9b47c]
+## 1. Citation and commencement[^c-f32942365e278fa72c4537bca0a9b47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^key-f32942365e278fa72c4537bca0a9b47c]
+## 2. Amendment to the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^c-f32942365e278fa72c4537bca0a9b47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f32942365e278fa72c4537bca0a9b47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f32942365e278fa72c4537bca0a9b47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f32942365e278fa72c4537bca0a9b47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f32942365e278fa72c4537bca0a9b47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f32942365e278fa72c4537bca0a9b47c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/454) revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
+[^c-f32942365e278fa72c4537bca0a9b47c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/454) revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))

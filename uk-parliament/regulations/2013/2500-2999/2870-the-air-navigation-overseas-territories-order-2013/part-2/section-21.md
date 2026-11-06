@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Provision of information[^key-958834a27752270f2c2c79d0bab29938]
+## 21. Provision of information[^c-958834a27752270f2c2c79d0bab29938]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ When requested to do so the Governor must transmit to the Civil Aviation Authori
 
 ## Annotations
 
-[^key-958834a27752270f2c2c79d0bab29938]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2013/2870/article/21) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-958834a27752270f2c2c79d0bab29938]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2013/2870/article/21) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

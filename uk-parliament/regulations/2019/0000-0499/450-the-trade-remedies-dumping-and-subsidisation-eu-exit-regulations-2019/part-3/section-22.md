@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Specificity[^key-42c395cadcb2ac138d6c22eaf8fd11d4]
+## 22. Specificity[^c-42c395cadcb2ac138d6c22eaf8fd11d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42c395cadcb2ac138d6c22eaf8fd11d4]: Commencement: Reg. 22 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-42c395cadcb2ac138d6c22eaf8fd11d4]: Commencement: Reg. 22 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

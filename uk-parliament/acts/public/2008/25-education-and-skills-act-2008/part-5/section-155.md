@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Application of s.444 of Education Act 1996 to alternative education provision[^key-a5deadeb5b9b2058114e4d95775b662d]
+## 155. Application of s.444 of Education Act 1996 to alternative education provision[^c-a5deadeb5b9b2058114e4d95775b662d]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5deadeb5b9b2058114e4d95775b662d]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2008/25/section/155) in force at 1.9.2012 by [S.I. 2012/2197](https://www.legislation.gov.uk/uksi/2012/2197), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2197/article/2/a)
+[^c-a5deadeb5b9b2058114e4d95775b662d]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2008/25/section/155) in force at 1.9.2012 by [S.I. 2012/2197](https://www.legislation.gov.uk/uksi/2012/2197), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2197/article/2/a)

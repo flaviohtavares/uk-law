@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Interpretation of Part 8[^key-5e8ce70b0cf6ce475272ba921bee4e07][^key-eb40907d2a53e3eda0584225f2c24105]
+## 80. Interpretation of Part 8[^c-5e8ce70b0cf6ce475272ba921bee4e07][^c-eb40907d2a53e3eda0584225f2c24105]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e8ce70b0cf6ce475272ba921bee4e07]: Commencement: Reg. 80 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-5e8ce70b0cf6ce475272ba921bee4e07]: Commencement: Reg. 80 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-eb40907d2a53e3eda0584225f2c24105]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2019/411/regulation/80) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb40907d2a53e3eda0584225f2c24105]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2019/411/regulation/80) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -23,7 +23,7 @@ summary: ''
 (1) This regulation determines the annual amount of pension payable under regulation 121 if, at the date of death, the deceased—
 
 - (a) was a deferred member of this scheme; and
-- (b) was not also[^key-8bc2327c88f0c45e0cbdf96a17c48437]... a pensioner member.
+- (b) was not also[^c-8bc2327c88f0c45e0cbdf96a17c48437]... a pensioner member.
 
 (2) The amount is the appropriate fraction of—
 
@@ -54,4 +54,4 @@ Table
 
 ## Annotations
 
-[^key-8bc2327c88f0c45e0cbdf96a17c48437]: Textual amendment: Words in [reg. 125(1)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/125/1/b) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [73](https://www.legislation.gov.uk/uksi/2016/245/regulation/73) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-8bc2327c88f0c45e0cbdf96a17c48437]: Textual amendment: Words in [reg. 125(1)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/125/1/b) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [73](https://www.legislation.gov.uk/uksi/2016/245/regulation/73) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

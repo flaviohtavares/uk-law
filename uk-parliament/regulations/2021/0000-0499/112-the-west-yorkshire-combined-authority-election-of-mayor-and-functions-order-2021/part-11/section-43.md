@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Amendment of the 2014 Order[^key-4645ecc98755961b827c1dfbe107e00d]
+## 43. Amendment of the 2014 Order[^c-4645ecc98755961b827c1dfbe107e00d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Article 5 of the 2014 Order is omitted.
 
 ## Annotations
 
-[^key-4645ecc98755961b827c1dfbe107e00d]: Commencement: Art. 43 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-4645ecc98755961b827c1dfbe107e00d]: Commencement: Art. 43 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)

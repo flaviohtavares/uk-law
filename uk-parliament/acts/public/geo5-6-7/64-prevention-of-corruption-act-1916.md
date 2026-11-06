@@ -29,23 +29,23 @@ Prevention of Corruption Act 1916 (repealed)
 
 1916 c.64
 
-[^key-fd22de070facfc3ea1b29d7e6f32ab76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd22de070facfc3ea1b29d7e6f32ab76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-fd22de070facfc3ea1b29d7e6f32ab76][^key-fd22de070facfc3ea1b29d7e6f32ab76]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-fd22de070facfc3ea1b29d7e6f32ab76][^c-fd22de070facfc3ea1b29d7e6f32ab76]
 
 **May not be in force at this date. Check the source.**
 
-## 2. Presumption of corruption in certain cases.[^key-fd22de070facfc3ea1b29d7e6f32ab76][^key-fd22de070facfc3ea1b29d7e6f32ab76]
+## 2. Presumption of corruption in certain cases.[^c-fd22de070facfc3ea1b29d7e6f32ab76][^c-fd22de070facfc3ea1b29d7e6f32ab76]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-fd22de070facfc3ea1b29d7e6f32ab76][^key-fd22de070facfc3ea1b29d7e6f32ab76]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-fd22de070facfc3ea1b29d7e6f32ab76][^c-fd22de070facfc3ea1b29d7e6f32ab76]
 
 **May not be in force at this date. Check the source.**
 
-## 4. Short title and interpretation.[^key-fd22de070facfc3ea1b29d7e6f32ab76][^key-fd22de070facfc3ea1b29d7e6f32ab76]
+## 4. Short title and interpretation.[^c-fd22de070facfc3ea1b29d7e6f32ab76][^c-fd22de070facfc3ea1b29d7e6f32ab76]
 
 **No longer in force.**
 
@@ -53,4 +53,4 @@ Prevention of Corruption Act 1916 (repealed)
 
 ## Annotations
 
-[^key-fd22de070facfc3ea1b29d7e6f32ab76]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/6-7/64) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
+[^c-fd22de070facfc3ea1b29d7e6f32ab76]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/6-7/64) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)

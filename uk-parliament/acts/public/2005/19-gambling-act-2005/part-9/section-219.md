@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Giving notice[^key-678cdb65f6fe97645f4686fccce9513c]
+## 219. Giving notice[^c-678cdb65f6fe97645f4686fccce9513c]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-678cdb65f6fe97645f4686fccce9513c]: Commencement: [S. 219](https://www.legislation.gov.uk/ukpga/2005/19/section/219) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-678cdb65f6fe97645f4686fccce9513c]: Commencement: [S. 219](https://www.legislation.gov.uk/ukpga/2005/19/section/219) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

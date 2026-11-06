@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.211. Matters to be proved under s.282(1)(b)[^key-a4e5ef132a697b1e3344d94b6e584c4f]
+## 6.211. Matters to be proved under s.282(1)(b)[^c-a4e5ef132a697b1e3344d94b6e584c4f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ If advertisement is ordered under this paragraph, and no claim on the security i
 
 ## Annotations
 
-[^key-a4e5ef132a697b1e3344d94b6e584c4f]: Commencement: [Rule 6.211](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.211) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a4e5ef132a697b1e3344d94b6e584c4f]: Commencement: [Rule 6.211](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.211) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

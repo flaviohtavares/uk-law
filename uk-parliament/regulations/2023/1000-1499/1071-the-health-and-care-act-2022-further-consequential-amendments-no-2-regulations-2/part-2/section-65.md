@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Amendment of the Controlled Drugs (Supervision of Management and Use) Regulations 2013[^key-941ea66539bad8dbc2f9942094f82dbf]
+## 65. Amendment of the Controlled Drugs (Supervision of Management and Use) Regulations 2013[^c-941ea66539bad8dbc2f9942094f82dbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-941ea66539bad8dbc2f9942094f82dbf]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2023/1071/regulation/65) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-941ea66539bad8dbc2f9942094f82dbf]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2023/1071/regulation/65) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00054]: Footnote: [S.I. 2013/373](https://www.legislation.gov.uk/uksi/2013/373), to which there are amendments not relevant to these Regulations

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 320C. Guidance on exercise of criminal jurisdiction: Northern Ireland[^key-4331273ee778c30f5f9004a90f9b0044]
+## 320C. Guidance on exercise of criminal jurisdiction: Northern Ireland[^c-4331273ee778c30f5f9004a90f9b0044]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4331273ee778c30f5f9004a90f9b0044]: Textual amendment: [Pt. 13 Ch. 3A](https://www.legislation.gov.uk/ukpga/2006/52/part/13/chapter/3A) inserted (1.5.2022 for specified purposes, 13.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 7](https://www.legislation.gov.uk/ukpga/2021/35/section/7), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/b); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)
+[^c-4331273ee778c30f5f9004a90f9b0044]: Textual amendment: [Pt. 13 Ch. 3A](https://www.legislation.gov.uk/ukpga/2006/52/part/13/chapter/3A) inserted (1.5.2022 for specified purposes, 13.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 7](https://www.legislation.gov.uk/ukpga/2021/35/section/7), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/b); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)

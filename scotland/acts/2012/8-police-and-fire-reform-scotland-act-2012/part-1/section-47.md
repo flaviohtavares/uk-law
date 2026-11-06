@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Local police plans[^key-28a46b85ff0e4bcba000dba501c7a416]
+## 47. Local police plans[^c-28a46b85ff0e4bcba000dba501c7a416]
 
 *Extent: S*
 
@@ -58,10 +58,10 @@ summary: ''
 
 (10) Subsections (3) to (5) apply in relation to a modified local police plan as they apply in relation to the plan being modified.
 
-(11) In this section “**community planning**” means the community planning processes described in Part 2 of the Community Empowerment (Scotland) Act 2015[^key-aa8e75a5ebbb3f6d0941528286e2e95a] .
+(11) In this section “**community planning**” means the community planning processes described in Part 2 of the Community Empowerment (Scotland) Act 2015[^c-aa8e75a5ebbb3f6d0941528286e2e95a] .
 
 ## Annotations
 
-[^key-28a46b85ff0e4bcba000dba501c7a416]: Commencement: S. 47 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-28a46b85ff0e4bcba000dba501c7a416]: Commencement: S. 47 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-aa8e75a5ebbb3f6d0941528286e2e95a]: Textual amendment: Words in [s. 47(11)](https://www.legislation.gov.uk/asp/2012/8/section/47/11) substituted (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 12(b)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/12/b); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-aa8e75a5ebbb3f6d0941528286e2e95a]: Textual amendment: Words in [s. 47(11)](https://www.legislation.gov.uk/asp/2012/8/section/47/11) substituted (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 12(b)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/12/b); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)

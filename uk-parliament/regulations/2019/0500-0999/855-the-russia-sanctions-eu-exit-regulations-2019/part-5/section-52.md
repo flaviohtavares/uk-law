@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Financial services and funds relating to infrastructure-related goods etc.[^key-a7d7fd62c350e73e0cde7c85b283f354]
+## 52. Financial services and funds relating to infrastructure-related goods etc.[^c-a7d7fd62c350e73e0cde7c85b283f354]
 
 *Extent: E+W+S+N.I.*
 
-(1) A person must not directly or indirectly provide, to a person connected with non-government controlled Ukrainian territory[^key-740a25ffdea110a98227ca07cccf73e8], financial services in pursuance of or in connection with an arrangement whose object or effect is—
+(1) A person must not directly or indirectly provide, to a person connected with non-government controlled Ukrainian territory[^c-740a25ffdea110a98227ca07cccf73e8], financial services in pursuance of or in connection with an arrangement whose object or effect is—
 
 - (a) the export of infrastructure-related goods,
 - (b) the direct or indirect supply or delivery of infrastructure-related goods,
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a7d7fd62c350e73e0cde7c85b283f354]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-a7d7fd62c350e73e0cde7c85b283f354]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-740a25ffdea110a98227ca07cccf73e8]: Textual amendment: Words in [reg. 52](https://www.legislation.gov.uk/uksi/2019/855/regulation/52) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(vi)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/vi)
+[^c-740a25ffdea110a98227ca07cccf73e8]: Textual amendment: Words in [reg. 52](https://www.legislation.gov.uk/uksi/2019/855/regulation/52) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(vi)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/vi)

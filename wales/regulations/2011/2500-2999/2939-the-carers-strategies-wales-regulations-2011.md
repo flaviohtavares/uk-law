@@ -33,7 +33,7 @@ NATIONAL HEALTH SERVICE, WALES
 
 SOCIAL CARE, WALES
 
-The Carers Strategies (Wales) Regulations 2011 (revoked)[^key-10ced00667ec8821b4c14096d20a4796]
+The Carers Strategies (Wales) Regulations 2011 (revoked)[^c-10ced00667ec8821b4c14096d20a4796]
 
 Made
 
@@ -43,55 +43,55 @@ Coming into force
 
 1 January 2012
 
-[^key-10ced00667ec8821b4c14096d20a4796]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10ced00667ec8821b4c14096d20a4796]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-10ced00667ec8821b4c14096d20a4796]
+## 1. Title, commencement and application[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-10ced00667ec8821b4c14096d20a4796]
+## 2. Interpretation[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Production of Strategy[^key-10ced00667ec8821b4c14096d20a4796]
+## 3. Production of Strategy[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consultation in the course of preparing a strategy[^key-10ced00667ec8821b4c14096d20a4796]
+## 4. Consultation in the course of preparing a strategy[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Content of strategies[^key-10ced00667ec8821b4c14096d20a4796]
+## 5. Content of strategies[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Appropriate information and advice[^key-10ced00667ec8821b4c14096d20a4796]
+## 6. Appropriate information and advice[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consultation with carers or persons who are cared for[^key-10ced00667ec8821b4c14096d20a4796]
+## 7. Consultation with carers or persons who are cared for[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Submission of draft strategy to the Welsh Ministers[^key-10ced00667ec8821b4c14096d20a4796]
+## 8. Submission of draft strategy to the Welsh Ministers[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Further provision about strategies[^key-10ced00667ec8821b4c14096d20a4796]
+## 9. Further provision about strategies[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Duties of Local Health Boards in relation to joint strategies[^key-10ced00667ec8821b4c14096d20a4796]
+## 10. Duties of Local Health Boards in relation to joint strategies[^c-10ced00667ec8821b4c14096d20a4796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-10ced00667ec8821b4c14096d20a4796]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10ced00667ec8821b4c14096d20a4796]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Local Authorities with which each Local Health Board must prepare strategy[^key-10ced00667ec8821b4c14096d20a4796]
+## SCHEDULE — Local Authorities with which each Local Health Board must prepare strategy[^c-10ced00667ec8821b4c14096d20a4796]
 
 Section 3(2)
 
@@ -99,8 +99,8 @@ Section 3(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-10ced00667ec8821b4c14096d20a4796]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10ced00667ec8821b4c14096d20a4796]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-10ced00667ec8821b4c14096d20a4796]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/2939) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-10ced00667ec8821b4c14096d20a4796]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/2939) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

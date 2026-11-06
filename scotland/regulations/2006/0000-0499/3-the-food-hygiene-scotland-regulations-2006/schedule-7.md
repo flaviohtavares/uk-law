@@ -26,43 +26,43 @@ Regulation 33
 
 In the Colours in Food Regulations 1995 [^c15348231] in regulation 4 (health marking etc. of certain meat and meat products), for “health marking as provided for in the Fresh Meat (Hygiene and Inspection) Regulations 1995” substitute “ health mark referred to in Article 5 of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin as amended by Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/eur/2004/882) of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules [^c15348241] ”.
 
-### 2. The Animal By-Products (Identification) Regulations 1995[^key-b62120b48aa2902a510c96e66fb36857]
+### 2. The Animal By-Products (Identification) Regulations 1995[^c-b62120b48aa2902a510c96e66fb36857]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b62120b48aa2902a510c96e66fb36857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. The Food Labelling Regulations 1996[^key-bc57bf8a189fe8b23adfdf84f78e63ab]
+### 12. The Food Labelling Regulations 1996[^c-bc57bf8a189fe8b23adfdf84f78e63ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-bc57bf8a189fe8b23adfdf84f78e63ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 19. The Products of Animal Origin (Import and Export) Regulations 1996
 
@@ -155,45 +155,45 @@ The Cattle Identification Regulations 1998 [^c15348321] are amended as provided 
 
 **29.** In regulation 2(1), in the definition of “licensed slaughterhouse”, for “licensed under the Fresh Meat (Hygiene and Inspection) Regulations 1995” substitute “ as defined in regulation 5(7) of the Food Hygiene (Scotland) Regulations 2006 ”.
 
-### 30. The Bovine and Bovine Products (Trade) Regulations 1999[^key-3cbbb3237f3c2c9e3429f767320d10ae]
+### 30. The Bovine and Bovine Products (Trade) Regulations 1999[^c-3cbbb3237f3c2c9e3429f767320d10ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-3cbbb3237f3c2c9e3429f767320d10ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-3cbbb3237f3c2c9e3429f767320d10ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-3cbbb3237f3c2c9e3429f767320d10ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-3cbbb3237f3c2c9e3429f767320d10ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-3cbbb3237f3c2c9e3429f767320d10ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-3cbbb3237f3c2c9e3429f767320d10ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-3cbbb3237f3c2c9e3429f767320d10ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-3cbbb3237f3c2c9e3429f767320d10ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. The TSE (Scotland) Regulations 2002[^key-92c233cb9e348d06ebfc72fa5d528973]
+### 35. The TSE (Scotland) Regulations 2002[^c-92c233cb9e348d06ebfc72fa5d528973]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-92c233cb9e348d06ebfc72fa5d528973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 43. The Condensed Milk and Dried Milk (Scotland) Regulations 2003 (2003/311)
 
 In the Condensed Milk and Dried Milk (Scotland) Regulations 2003 [^c15348371], in note 4 of Schedule 1, omit “Without prejudice to the generality of Part V of the Dairy Products (Hygiene) (Scotland) Regulations 1995”.
 
-### 44. The Animal By-Products (Scotland) Regulations 2003[^key-7f8da5d597472b64e39920271fc45372]
+### 44. The Animal By-Products (Scotland) Regulations 2003[^c-7f8da5d597472b64e39920271fc45372]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45. The Eggs (Marketing Standards) (Enforcement) Scotland Regulations 2005[^key-c6d6598c17c286d1c3da9f6d78d7e316]
+### 45. The Eggs (Marketing Standards) (Enforcement) Scotland Regulations 2005[^c-c6d6598c17c286d1c3da9f6d78d7e316]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -230,9 +230,9 @@ The Official Feed and Food Control (Scotland) Regulations 2005 [^c15348401] are 
 
 [^c15348241]: Marginal citation: O.J. No. L 139, 30.4.04, p.55. The revised text of Regulation 853/2004 is now set out in a Corrigendum (O.J. No. L 226, 25.6.04, p.22).
 
-[^key-b62120b48aa2902a510c96e66fb36857]: Textual amendment: Sch. 7 paras. 2-11 revoked (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2013/307/schedule/3)
+[^c-b62120b48aa2902a510c96e66fb36857]: Textual amendment: Sch. 7 paras. 2-11 revoked (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2013/307/schedule/3)
 
-[^key-bc57bf8a189fe8b23adfdf84f78e63ab]: Textual amendment: Sch. 7 paras. 12-18 revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-bc57bf8a189fe8b23adfdf84f78e63ab]: Textual amendment: Sch. 7 paras. 12-18 revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
 
 [^c15348281]: Marginal citation: [S.I. 1996/3124](https://www.legislation.gov.uk/uksi/1996/3124).
 
@@ -248,15 +248,15 @@ The Official Feed and Food Control (Scotland) Regulations 2005 [^c15348401] are 
 
 [^c15348341]: Marginal citation: S.S.I. 2006/ 3 .
 
-[^key-3cbbb3237f3c2c9e3429f767320d10ae]: Textual amendment: Sch. 7 paras. 30-34 revoked (3.5.2006) by [The TSE (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/231)](https://www.legislation.gov.uk/ssi/2006/231), [regs. 1](https://www.legislation.gov.uk/ssi/2006/231/regulation/1), [21](https://www.legislation.gov.uk/ssi/2006/231/regulation/21), [sch.](https://www.legislation.gov.uk/ssi/2006/231/schedule)
+[^c-3cbbb3237f3c2c9e3429f767320d10ae]: Textual amendment: Sch. 7 paras. 30-34 revoked (3.5.2006) by [The TSE (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/231)](https://www.legislation.gov.uk/ssi/2006/231), [regs. 1](https://www.legislation.gov.uk/ssi/2006/231/regulation/1), [21](https://www.legislation.gov.uk/ssi/2006/231/regulation/21), [sch.](https://www.legislation.gov.uk/ssi/2006/231/schedule)
 
-[^key-92c233cb9e348d06ebfc72fa5d528973]: Textual amendment: Sch. 7 paras. 35-42 revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-92c233cb9e348d06ebfc72fa5d528973]: Textual amendment: Sch. 7 paras. 35-42 revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
 
 [^c15348371]: Marginal citation: [S.S.I. 2003/311](https://www.legislation.gov.uk/ssi/2003/311).
 
-[^key-7f8da5d597472b64e39920271fc45372]: Textual amendment: [Sch. 7 para. 44](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/44) revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3)
+[^c-7f8da5d597472b64e39920271fc45372]: Textual amendment: [Sch. 7 para. 44](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/44) revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3)
 
-[^key-c6d6598c17c286d1c3da9f6d78d7e316]: Textual amendment: Sch. 7 para. 45 revoked (27.4.2008) by [The Eggs and Chicks (Scotland) Regulations 2008 (S.S.I. 2008/129)](https://www.legislation.gov.uk/ssi/2008/129), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2008/129/regulation/1/2), [21(2)](https://www.legislation.gov.uk/ssi/2008/129/regulation/21/2)
+[^c-c6d6598c17c286d1c3da9f6d78d7e316]: Textual amendment: Sch. 7 para. 45 revoked (27.4.2008) by [The Eggs and Chicks (Scotland) Regulations 2008 (S.S.I. 2008/129)](https://www.legislation.gov.uk/ssi/2008/129), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2008/129/regulation/1/2), [21(2)](https://www.legislation.gov.uk/ssi/2008/129/regulation/21/2)
 
 [^c15348401]: Marginal citation: [S.S.I. 2005/616](https://www.legislation.gov.uk/ssi/2005/616).
 

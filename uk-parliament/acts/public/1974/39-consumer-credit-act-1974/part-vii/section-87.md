@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Need for default notice.[^c20572201][^key-1707601fac723e68833acab3a3e4fe64]
+## 87. Need for default notice.[^c20572201][^c-1707601fac723e68833acab3a3e4fe64]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,14 +36,14 @@ summary: ''
 
 (5)[^c20969351] Subsection (1)(d) does not apply in a case referred to in section 98A(4) (termination or suspension of debtor's right to draw on credit under open-end agreement).
 
-(6)[^key-51488cf72a7d0b3e19b9491172a6f825] This section does not apply to a regulated deferred payment credit agreement.
+(6)[^c-51488cf72a7d0b3e19b9491172a6f825] This section does not apply to a regulated deferred payment credit agreement.
 
 ## Annotations
 
 [^c20572201]: Modification: S. 87 applied (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [52(d)](https://www.legislation.gov.uk/uksi/2009/209/regulation/52/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/209/regulation/3))
 
-[^key-1707601fac723e68833acab3a3e4fe64]: Modification: [S. 87](https://www.legislation.gov.uk/ukpga/1974/39/section/87) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-1707601fac723e68833acab3a3e4fe64]: Modification: [S. 87](https://www.legislation.gov.uk/ukpga/1974/39/section/87) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c20969351]: Textual amendment: S. 87(5) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 37](https://www.legislation.gov.uk/uksi/2010/1010/regulation/37), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
 
-[^key-51488cf72a7d0b3e19b9491172a6f825]: Textual amendment: [S. 87(6)](https://www.legislation.gov.uk/ukpga/1974/39/section/87/6) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(15)](https://www.legislation.gov.uk/uksi/2025/859/article/2/15)
+[^c-51488cf72a7d0b3e19b9491172a6f825]: Textual amendment: [S. 87(6)](https://www.legislation.gov.uk/ukpga/1974/39/section/87/6) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(15)](https://www.legislation.gov.uk/uksi/2025/859/article/2/15)

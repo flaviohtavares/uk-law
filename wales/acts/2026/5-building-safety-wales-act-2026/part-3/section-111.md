@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Application of this Part to the Crown[^key-81ce022301a52825e8dd9d260ecd9cf0]
+## 111. Application of this Part to the Crown[^c-81ce022301a52825e8dd9d260ecd9cf0]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81ce022301a52825e8dd9d260ecd9cf0]: Commencement: S. 111 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-81ce022301a52825e8dd9d260ecd9cf0]: Commencement: S. 111 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

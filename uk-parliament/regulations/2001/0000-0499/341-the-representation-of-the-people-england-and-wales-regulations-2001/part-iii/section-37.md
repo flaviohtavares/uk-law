@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Notice by registration officer of a change of address[^key-a614f450c7e218016658ac983de120fb]
+## 37. Notice by registration officer of a change of address[^c-a614f450c7e218016658ac983de120fb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a614f450c7e218016658ac983de120fb]: Commencement: Reg. 37 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-a614f450c7e218016658ac983de120fb]: Commencement: Reg. 37 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

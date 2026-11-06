@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The independent monitoring board[^key-3b4ee4cf00477f66147efad0fc1b26f7] for a prison shall meet at the prison once a month or, if they resolve for reasons specified in the resolution that less frequent meetings are sufficient, not fewer than eight times in twelve months.
+(1) The independent monitoring board[^c-3b4ee4cf00477f66147efad0fc1b26f7] for a prison shall meet at the prison once a month or, if they resolve for reasons specified in the resolution that less frequent meetings are sufficient, not fewer than eight times in twelve months.
 
 (2) The board may fix a quorum of not fewer than three members for proceedings.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b4ee4cf00477f66147efad0fc1b26f7]: Textual amendment: Words in rule 76(1) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)
+[^c-3b4ee4cf00477f66147efad0fc1b26f7]: Textual amendment: Words in rule 76(1) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)

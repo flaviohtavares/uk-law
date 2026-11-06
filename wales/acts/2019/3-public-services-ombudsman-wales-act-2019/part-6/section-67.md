@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Working collaboratively with Commissioners[^key-48c29f36a0a5832f6ab812af25a059c2]
+## 67. Working collaboratively with Commissioners[^c-48c29f36a0a5832f6ab812af25a059c2]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ the Ombudsman must inform the person who initiated the complaint (if any) about 
 
 ## Annotations
 
-[^key-48c29f36a0a5832f6ab812af25a059c2]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2019/3/section/67) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-48c29f36a0a5832f6ab812af25a059c2]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2019/3/section/67) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

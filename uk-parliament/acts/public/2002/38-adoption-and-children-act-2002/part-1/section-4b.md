@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4B. Adoption support services: duty to provide information[^key-25bd02bd742331ab25ae7d1a62d18afd]
+## 4B. Adoption support services: duty to provide information[^c-25bd02bd742331ab25ae7d1a62d18afd]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25bd02bd742331ab25ae7d1a62d18afd]: Textual amendment: S. 4B inserted (25.7.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 6](https://www.legislation.gov.uk/ukpga/2014/6/section/6), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(c)](https://www.legislation.gov.uk/uksi/2014/889/article/6/c)
+[^c-25bd02bd742331ab25ae7d1a62d18afd]: Textual amendment: S. 4B inserted (25.7.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 6](https://www.legislation.gov.uk/ukpga/2014/6/section/6), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(c)](https://www.legislation.gov.uk/uksi/2014/889/article/6/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Amount of compensation[^key-c069bdab16e98352a8111880830cb67b][^key-4ae330d22efb59103a4d01924b7a68a7]
+## 47. Amount of compensation[^c-c069bdab16e98352a8111880830cb67b][^c-4ae330d22efb59103a4d01924b7a68a7]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c069bdab16e98352a8111880830cb67b]: Commencement: S. 47 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-c069bdab16e98352a8111880830cb67b]: Commencement: S. 47 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-4ae330d22efb59103a4d01924b7a68a7]: Modification: S. 47 applied (13.6.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 117(3)](https://www.legislation.gov.uk/asp/2016/18/section/117/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)
+[^c-4ae330d22efb59103a4d01924b7a68a7]: Modification: S. 47 applied (13.6.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 117(3)](https://www.legislation.gov.uk/asp/2016/18/section/117/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)

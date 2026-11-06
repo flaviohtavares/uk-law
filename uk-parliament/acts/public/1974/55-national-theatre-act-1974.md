@@ -31,18 +31,18 @@ National Theatre Act 1974 (repealed)
 
 1974 c.55
 
-[^key-544510053e329dfa81e9a3ad40062753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-544510053e329dfa81e9a3ad40062753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Removal of limit on contribution to cost of national theatre.[^key-544510053e329dfa81e9a3ad40062753][^key-544510053e329dfa81e9a3ad40062753]
+## 1. Removal of limit on contribution to cost of national theatre.[^c-544510053e329dfa81e9a3ad40062753][^c-544510053e329dfa81e9a3ad40062753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, citation and repeals.[^key-544510053e329dfa81e9a3ad40062753][^key-544510053e329dfa81e9a3ad40062753]
+## 2. Short title, citation and repeals.[^c-544510053e329dfa81e9a3ad40062753][^c-544510053e329dfa81e9a3ad40062753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-544510053e329dfa81e9a3ad40062753]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1974/55) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/6) Group 5
+[^c-544510053e329dfa81e9a3ad40062753]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1974/55) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/6) Group 5

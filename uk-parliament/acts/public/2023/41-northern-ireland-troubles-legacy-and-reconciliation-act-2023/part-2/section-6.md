@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Operational powers of ICRIR officers[^key-03176e63f1f43114435dcef478412086][^key-6cfdd3d605d0c4fbd58a2cfb8d6a89e5]
+## 6. Operational powers of ICRIR officers[^c-03176e63f1f43114435dcef478412086][^c-6cfdd3d605d0c4fbd58a2cfb8d6a89e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,12 +30,12 @@ summary: ''
 
 (3) The powers and privileges of a constable which the Commissioner for Investigations, or any other ICRIR officer, has by virtue of a designation under this section may be exercised for the purposes of, or in connection with, any function of the ICRIR except the function of producing the historical record.
 
-(4)[^key-d4f39ff0d9fd85295ae57c1a66eef20f] Schedule 2 contains further provision about the operational powers of ICRIR officers.
+(4)[^c-d4f39ff0d9fd85295ae57c1a66eef20f] Schedule 2 contains further provision about the operational powers of ICRIR officers.
 
 ## Annotations
 
-[^key-03176e63f1f43114435dcef478412086]: Commencement: S. 6 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-03176e63f1f43114435dcef478412086]: Commencement: S. 6 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-6cfdd3d605d0c4fbd58a2cfb8d6a89e5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/41/section/6) in force at 1.5.2024 in so far as not already in force by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/d) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-6cfdd3d605d0c4fbd58a2cfb8d6a89e5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/41/section/6) in force at 1.5.2024 in so far as not already in force by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/d) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-d4f39ff0d9fd85295ae57c1a66eef20f]: Commencement: [S. 6(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/6/4) in force at 1.12.2023 for specified purposes by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/i)
+[^c-d4f39ff0d9fd85295ae57c1a66eef20f]: Commencement: [S. 6(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/6/4) in force at 1.12.2023 for specified purposes by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/i)

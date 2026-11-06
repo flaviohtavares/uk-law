@@ -556,7 +556,7 @@ shall have effect on and after that day as if it had been given by the public ga
 
 #### Restrictive trade practices
 
-**30.**[^key-c7072d69f471d150752d9700b71ae24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-c7072d69f471d150752d9700b71ae24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Rating provisions
 
@@ -613,7 +613,7 @@ shall have effect on and after that day as if it had been given by the public ga
 
 [^c1212195]: Marginal citation: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-c7072d69f471d150752d9700b71ae24a]: Textual amendment: Sch. 5 para. 30 repealed (1.3.2005) by [The Competition Act 1998 (Transitional, Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/311)](https://www.legislation.gov.uk/uksi/2000/311), [arts. 1](https://www.legislation.gov.uk/uksi/2000/311/article/1), [29](https://www.legislation.gov.uk/uksi/2000/311/article/29)
+[^c-c7072d69f471d150752d9700b71ae24a]: Textual amendment: Sch. 5 para. 30 repealed (1.3.2005) by [The Competition Act 1998 (Transitional, Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/311)](https://www.legislation.gov.uk/uksi/2000/311), [arts. 1](https://www.legislation.gov.uk/uksi/2000/311/article/1), [29](https://www.legislation.gov.uk/uksi/2000/311/article/29)
 
 [^c1212199]: Marginal citation: [1967 c.9](https://www.legislation.gov.uk/ukpga/1967/9).
 

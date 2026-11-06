@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Interpretation of Part 6[^key-fd1f7cb7ab83677640da517b6cd2a06a]
+## 69. Interpretation of Part 6[^c-fd1f7cb7ab83677640da517b6cd2a06a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In this Part—
 
 ## Annotations
 
-[^key-fd1f7cb7ab83677640da517b6cd2a06a]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2019/17/section/69) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule) (as amended by S.S.I. 2023/342, [regs. 1](https://www.legislation.gov.uk/ssi/2023/342/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/342/regulation/2/2))
+[^c-fd1f7cb7ab83677640da517b6cd2a06a]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2019/17/section/69) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule) (as amended by S.S.I. 2023/342, [regs. 1](https://www.legislation.gov.uk/ssi/2023/342/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/342/regulation/2/2))

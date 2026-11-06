@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 31(1) and (3)
 
-**1.**[^key-a9466fb302d2eb2d4fccb3a660771314] (1) In this Schedule—
+**1.**[^c-a9466fb302d2eb2d4fccb3a660771314] (1) In this Schedule—
 
 - “**arrangement**” means a voluntary arrangement entered into by an individual with their creditors;
 - “**the Bankruptcy Act**” means the Bankruptcy (Scotland) Act 2016[^f00080];
@@ -49,7 +49,7 @@ Regulation 31(1) and (3)
 
 (5) In paragraph 2(d), “**director**” has the meaning given in section 251 of the Insolvency Act.
 
-**2.**[^key-7ff5cf735daa25fa642a5966c2b0e4df] The matters that the Pensions Regulator must take into account are—
+**2.**[^c-7ff5cf735daa25fa642a5966c2b0e4df] The matters that the Pensions Regulator must take into account are—
 
 - (a) whether, in England and Wales, the person has—
   - (i) made any arrangement with the person’s creditors,
@@ -103,7 +103,7 @@ Regulation 31(1) and (3)
     - (aa) Article 29[^f00102] of that Order (persons disqualified for being trustees), or
     - (bb) any other legislation.
 
-**3.**[^key-c21e1f655e16986c7abb47a12cd57aa8] In assessing whether a person is a fit and proper person to act in a particular capacity, the Pensions Regulator must take into account—
+**3.**[^c-c21e1f655e16986c7abb47a12cd57aa8] In assessing whether a person is a fit and proper person to act in a particular capacity, the Pensions Regulator must take into account—
 
 - (a) the knowledge and skills gained from a person’s significant experience as a trustee, in assessing whether the person is fit and proper to act in that capacity;
 - (b) whether a person has successfully completed such relevant training as may be set out in a Code, in assessing whether the person is fit and proper to act in the capacity of a trustee of the scheme;
@@ -116,7 +116,7 @@ Regulation 31(1) and (3)
 
 ## Annotations
 
-[^key-a9466fb302d2eb2d4fccb3a660771314]: Commencement: Sch. 1 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-a9466fb302d2eb2d4fccb3a660771314]: Commencement: Sch. 1 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00080]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21)
 
@@ -132,7 +132,7 @@ Regulation 31(1) and (3)
 
 [^f00086]: Footnote: [S.R. 1991 No. 364](https://www.legislation.gov.uk/nisr/1991/364)
 
-[^key-7ff5cf735daa25fa642a5966c2b0e4df]: Commencement: Sch. 1 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-7ff5cf735daa25fa642a5966c2b0e4df]: Commencement: Sch. 1 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00087]: Footnote: Section 263H was inserted by section 71(2) of the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24)
 
@@ -166,6 +166,6 @@ Regulation 31(1) and (3)
 
 [^f00102]: Footnote: Article 29 was amended by paragraph 11 of Schedule 3 to the Company Directors Disqualification (Northern Ireland) Order 2002 ([S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)), paragraph 39 of Schedule 10 and Schedule 11 to the Pensions (Northern Ireland) Order 2005, paragraph 5 of the Schedule to [S.R. 2008 No. 94](https://www.legislation.gov.uk/nisr/2008/94) and paragraph 16(2)(c) of the Schedule to [S.R. 2016 No. 108](https://www.legislation.gov.uk/nisr/2016/108)
 
-[^key-c21e1f655e16986c7abb47a12cd57aa8]: Commencement: Sch. 1 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-c21e1f655e16986c7abb47a12cd57aa8]: Commencement: Sch. 1 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00103]: Footnote: Paragraphs (ba) to (bd) of section 62(2) are inserted by regulation 7 of these Regulations

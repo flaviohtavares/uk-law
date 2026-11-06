@@ -29,8 +29,8 @@ summary: ''
 
 (2) The amount released is treated as a post-cessation receipt.
 
-(3) For the purposes of this section the reference to a person permanently ceasing to carry on a trade includes a reference to a company ceasing to be within the charge to corporation tax in respect of a trade.[^key-b833b5efef8ff79033f4d4c2ad6edfb7]
+(3) For the purposes of this section the reference to a person permanently ceasing to carry on a trade includes a reference to a company ceasing to be within the charge to corporation tax in respect of a trade.[^c-b833b5efef8ff79033f4d4c2ad6edfb7]
 
 ## Annotations
 
-[^key-b833b5efef8ff79033f4d4c2ad6edfb7]: Textual amendment: Words in s. 249(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 613](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/613) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b833b5efef8ff79033f4d4c2ad6edfb7]: Textual amendment: Words in s. 249(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 613](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/613) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

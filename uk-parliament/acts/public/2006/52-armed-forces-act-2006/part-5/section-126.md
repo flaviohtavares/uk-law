@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Powers of DSP in respect of charge allocated for SCC trial[^key-e6a4f93e5189773e86b4b58faa327a7e][^key-22f8979c9e47c12473638f45fe0710bb]
+## 126. Powers of DSP in respect of charge allocated for SCC trial[^c-e6a4f93e5189773e86b4b58faa327a7e][^c-22f8979c9e47c12473638f45fe0710bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6a4f93e5189773e86b4b58faa327a7e]: Commencement: S. 126 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e6a4f93e5189773e86b4b58faa327a7e]: Commencement: S. 126 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-22f8979c9e47c12473638f45fe0710bb]: Commencement: S. 126 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-22f8979c9e47c12473638f45fe0710bb]: Commencement: S. 126 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

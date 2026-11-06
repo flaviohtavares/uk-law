@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to firearms and ammunition, in exercise of the powers conferred by that section makes the following Regulations:
 
-## 1. Citation, commencement and extent[^key-31239906753031c90d89fb7560482a16]
+## 1. Citation, commencement and extent[^c-31239906753031c90d89fb7560482a16]
 
 (1) These Regulations may be cited as the Firearms (Amendment) Act 1988 (Amendment) Regulations 2011 and shall come into force on 1st October 2011.
 
 (2) These Regulations extend to England and Wales and Scotland only.
 
-## 2. Amendment of the Firearms (Amendment) Act 1988[^key-821e1c45898eb45c3f98a35aa0949e16]
+## 2. Amendment of the Firearms (Amendment) Act 1988[^c-821e1c45898eb45c3f98a35aa0949e16]
 
 Section 17(3A) of the Firearms (Amendment) Act 1988[^f00003] (visitors’ permits) is amended as follows—
 
@@ -60,7 +60,7 @@ Section 17(3A) of the Firearms (Amendment) Act 1988[^f00003] (visitors’ permit
 - (b) in the full out words after paragraph (c), after the word “document” in the first place where it appears, insert “or copy”; and
 - (c) in the full out words after paragraph (c), after the word “document” in the second place where it appears, insert “or, where a copy has been produced, on the copy”.
 
-## 3. Review[^key-88ae22c20978587570d0cf5ca979e84e]
+## 3. Review[^c-88ae22c20978587570d0cf5ca979e84e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,10 +92,10 @@ Regulation 4 requires the Secretary of State to review the operation and effect 
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-31239906753031c90d89fb7560482a16]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/2175/regulation/1) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2175/regulation/1/1)
+[^c-31239906753031c90d89fb7560482a16]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/2175/regulation/1) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2175/regulation/1/1)
 
-[^key-821e1c45898eb45c3f98a35aa0949e16]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2175/regulation/2) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2175/regulation/1/1)
+[^c-821e1c45898eb45c3f98a35aa0949e16]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2175/regulation/2) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2175/regulation/1/1)
 
 [^f00003]: Footnote: [1988 c.45](https://www.legislation.gov.uk/ukpga/1988/45). Section 17(3A) was inserted by [SI 1992/2823](https://www.legislation.gov.uk/uksi/1992/2823), regulation 7(1).
 
-[^key-88ae22c20978587570d0cf5ca979e84e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2175/regulation/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [63](https://www.legislation.gov.uk/uksi/2019/742/regulation/63); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88ae22c20978587570d0cf5ca979e84e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2175/regulation/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [63](https://www.legislation.gov.uk/uksi/2019/742/regulation/63); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

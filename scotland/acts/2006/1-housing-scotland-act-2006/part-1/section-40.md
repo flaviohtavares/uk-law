@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Acquisition of houses to be demolished[^key-82c7ebb68947646dda1e44e71b9e27d3]
+## 40. Acquisition of houses to be demolished[^c-82c7ebb68947646dda1e44e71b9e27d3]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82c7ebb68947646dda1e44e71b9e27d3]: Commencement: S. 40 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-82c7ebb68947646dda1e44e71b9e27d3]: Commencement: S. 40 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

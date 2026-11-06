@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54C. Exemption for self-build housing: completion of development[^key-5d59ccb9943e8eeaf1a1acea15200a92]
+## 54C. Exemption for self-build housing: completion of development[^c-5d59ccb9943e8eeaf1a1acea15200a92]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d59ccb9943e8eeaf1a1acea15200a92]: Textual amendment: [Regs. 54A-54D](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(10)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/10)
+[^c-5d59ccb9943e8eeaf1a1acea15200a92]: Textual amendment: [Regs. 54A-54D](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(10)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/10)

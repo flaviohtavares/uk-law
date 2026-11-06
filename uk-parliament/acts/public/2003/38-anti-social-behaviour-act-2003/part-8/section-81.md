@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 81. Power to make further provision about documents in electronic form[^key-35fb1257e082c373b81ca0aeaf684581][^key-da8ab5a0090f66211a5a71b2c06886b2]
+## 81. Power to make further provision about documents in electronic form[^c-35fb1257e082c373b81ca0aeaf684581][^c-da8ab5a0090f66211a5a71b2c06886b2]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-35fb1257e082c373b81ca0aeaf684581]: Commencement: S. 81 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-35fb1257e082c373b81ca0aeaf684581]: Commencement: S. 81 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-da8ab5a0090f66211a5a71b2c06886b2]: Commencement: S. 81 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-da8ab5a0090f66211a5a71b2c06886b2]: Commencement: S. 81 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

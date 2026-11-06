@@ -39,17 +39,15 @@ implementing Decision No 573/2007/EC of the European Parliament and of the Counc
 
 (2007/815/EC) (revoked)
 
-[^key-9a64ae1401a1ba8f5669f773ea54664c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a64ae1401a1ba8f5669f773ea54664c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9a64ae1401a1ba8f5669f773ea54664c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9a64ae1401a1ba8f5669f773ea54664c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9a64ae1401a1ba8f5669f773ea54664c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9a64ae1401a1ba8f5669f773ea54664c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a64ae1401a1ba8f5669f773ea54664c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a64ae1401a1ba8f5669f773ea54664c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-9a64ae1401a1ba8f5669f773ea54664c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX[^c-9a64ae1401a1ba8f5669f773ea54664c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -59,19 +57,21 @@ implementing Decision No 573/2007/EC of the European Parliament and of the Counc
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a64ae1401a1ba8f5669f773ea54664c]PRIORITY 1:
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9a64ae1401a1ba8f5669f773ea54664c]PRIORITY 1:
 
 Implementation of the principles and measures set out in the Community *acquis* in the field of asylum, including those related to integration objectives.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a64ae1401a1ba8f5669f773ea54664c]PRIORITY 2:
+[^c-9a64ae1401a1ba8f5669f773ea54664c]PRIORITY 2:
 
 Development of reference tools and evaluation methodologies to assess and improve the quality of procedures for the examination of claims for international protection and to underpin administrative structures in an effort to respond to the challenges brought forward by enhanced practical cooperation with other Member States.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a64ae1401a1ba8f5669f773ea54664c]PRIORITY 3:
+[^c-9a64ae1401a1ba8f5669f773ea54664c]PRIORITY 3:
 
 Actions helping to enhance responsibility sharing between Member States and third countries (optional).
 
@@ -79,4 +79,4 @@ Actions helping to enhance responsibility sharing between Member States and thir
 
 ## Annotations
 
-[^key-9a64ae1401a1ba8f5669f773ea54664c]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a64ae1401a1ba8f5669f773ea54664c]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

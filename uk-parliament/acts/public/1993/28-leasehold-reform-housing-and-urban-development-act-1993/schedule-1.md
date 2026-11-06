@@ -87,7 +87,7 @@ the court may appoint to be the reversioner in respect of those premises (in pla
 (2) Subject to paragraph 7—
 
 - (a) the reversioner’s acts in relation to matters within the authority conferred on him by section 9(3), and
-- (b) any determination of the court or the appropriate tribunal[^key-cebc49a9090fa773f26c555d295d75e8] under this Chapter in proceedings between the reversioner and the nominee purchaser,
+- (b) any determination of the court or the appropriate tribunal[^c-cebc49a9090fa773f26c555d295d75e8] under this Chapter in proceedings between the reversioner and the nominee purchaser,
 
 shall be binding on the other relevant landlords and on their interests in the specified premises or any other property; but in the event of dispute the reversioner or any of the other relevant landlords may apply to the court for directions as to the manner in which the reversioner should act in the dispute.
 
@@ -108,7 +108,7 @@ shall be binding on the other relevant landlords and on their interests in the s
 
 (2) If the nominee purchaser so requires by notice given to the reversioner and any of the other relevant landlords, that landlord shall deal directly with the nominee purchaser for the purpose of deducing, evidencing or verifying the landlord’s title to any property.
 
-(3) Any of the other relevant landlords may by notice given to the reversioner require him to apply to the appropriate tribunal[^key-ba4887c1eb9dfcc4cc1a8575b9ef2e2f] for the determination by the tribunal of any of the terms of acquisition so far as relating to the acquisition of any interest of the landlord.
+(3) Any of the other relevant landlords may by notice given to the reversioner require him to apply to the appropriate tribunal[^c-ba4887c1eb9dfcc4cc1a8575b9ef2e2f] for the determination by the tribunal of any of the terms of acquisition so far as relating to the acquisition of any interest of the landlord.
 
 (4) Any of the other relevant landlords may also, on giving notice to the reversioner and the nominee purchaser, require that the price payable for the acquisition of his interest shall be paid by the nominee purchaser to him, or to a person authorised by him to receive it, instead of to the reversioner; but if, after being given proper notice of the time and method of completion with the nominee purchaser, either—
 
@@ -150,6 +150,6 @@ and, if any of the other relevant landlords fails to comply with this sub-paragr
 
 [^c17027291]: Textual amendment: [Sch. 1 Pt. 1A](https://www.legislation.gov.uk/ukpga/1993/28/schedule/1/part/1A) inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para.15](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/15); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1996/2212/schedule/paragraph/4))
 
-[^key-cebc49a9090fa773f26c555d295d75e8]: Textual amendment: Words in [Sch. 1 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/1/paragraph/6/2/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/123) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-cebc49a9090fa773f26c555d295d75e8]: Textual amendment: Words in [Sch. 1 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/1/paragraph/6/2/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/123) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-ba4887c1eb9dfcc4cc1a8575b9ef2e2f]: Textual amendment: Words in [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/1/paragraph/7/3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/123) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-ba4887c1eb9dfcc4cc1a8575b9ef2e2f]: Textual amendment: Words in [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/1/paragraph/7/3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/123) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

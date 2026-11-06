@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Provision of information to IPCC[^key-0fb03ca79522f9bd288f2a0ad5d40fa8]
+## 137. Provision of information to IPCC[^c-0fb03ca79522f9bd288f2a0ad5d40fa8]
 
 *Extent: E+W*
 
@@ -106,4 +106,4 @@ After paragraph 19 of Schedule 3 to the Police Reform Act 2002 there is inserted
 
 ## Annotations
 
-[^key-0fb03ca79522f9bd288f2a0ad5d40fa8]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2014/12/section/137) in force at 8.4.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 5(b)](https://www.legislation.gov.uk/uksi/2015/373/article/5/b)
+[^c-0fb03ca79522f9bd288f2a0ad5d40fa8]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2014/12/section/137) in force at 8.4.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 5(b)](https://www.legislation.gov.uk/uksi/2015/373/article/5/b)

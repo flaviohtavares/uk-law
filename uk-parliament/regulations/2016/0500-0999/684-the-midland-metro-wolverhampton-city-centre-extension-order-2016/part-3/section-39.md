@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Time limit for exercise of powers of acquisition[^key-ddaa83aaa250d088030960884639ef27]
+## 39. Time limit for exercise of powers of acquisition[^c-ddaa83aaa250d088030960884639ef27]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddaa83aaa250d088030960884639ef27]: Commencement: Art. 39 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-ddaa83aaa250d088030960884639ef27]: Commencement: Art. 39 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

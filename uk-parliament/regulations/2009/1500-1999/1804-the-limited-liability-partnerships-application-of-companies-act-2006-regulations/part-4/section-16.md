@@ -22,9 +22,9 @@ summary: ''
 
 Sections 86 and 87 apply to LLPs, modified so that they read as follows—
 
-> **86. Duty to ensure registered office at appropriate address[^key-a595c6ae14f1de8bd3f2cd6509a7d15d]**
+> **86. Duty to ensure registered office at appropriate address[^c-a595c6ae14f1de8bd3f2cd6509a7d15d]**
 >
-> (1) An LLP must ensure that its registered office is at all times at an appropriate address within the meaning given by section 2(5) of the Limited Liability[^key-7e710ffe7765c40199479f6c1b025580] Partnerships Act 2000.
+> (1) An LLP must ensure that its registered office is at all times at an appropriate address within the meaning given by section 2(5) of the Limited Liability[^c-7e710ffe7765c40199479f6c1b025580] Partnerships Act 2000.
 >
 > (2) If an LLP fails, without reasonable excuse, to comply with this section an offence is committed by—
 >
@@ -42,7 +42,7 @@ Sections 86 and 87 apply to LLPs, modified so that they read as follows—
 >
 > (1) An LLP may change the address of its registered office by giving notice to the registrar.
 >
-> (1A)[^key-8de3ecd874919dfa713cfd93a219cda9] The notice must include a statement that the new address is an appropriate address within the meaning given by section 2(5) of the Limited Liability Partnerships Act 2000.
+> (1A)[^c-8de3ecd874919dfa713cfd93a219cda9] The notice must include a statement that the new address is an appropriate address within the meaning given by section 2(5) of the Limited Liability Partnerships Act 2000.
 >
 > (2) The change takes effect upon the notice being registered by the registrar, but until the end of the period of 14 days beginning with the date on which it is registered a person may validly serve any document on the LLP at the address previously registered.
 >
@@ -64,8 +64,8 @@ Sections 86 and 87 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-a595c6ae14f1de8bd3f2cd6509a7d15d]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2009/1804/regulation/16) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/16/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-a595c6ae14f1de8bd3f2cd6509a7d15d]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2009/1804/regulation/16) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/16/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-7e710ffe7765c40199479f6c1b025580]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2009/1804/regulation/16) inserted (27.1.2025) by [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/1377/regulation/6)
+[^c-7e710ffe7765c40199479f6c1b025580]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2009/1804/regulation/16) inserted (27.1.2025) by [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/1377/regulation/6)
 
-[^key-8de3ecd874919dfa713cfd93a219cda9]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2009/1804/regulation/16) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/16/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-8de3ecd874919dfa713cfd93a219cda9]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2009/1804/regulation/16) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/16/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

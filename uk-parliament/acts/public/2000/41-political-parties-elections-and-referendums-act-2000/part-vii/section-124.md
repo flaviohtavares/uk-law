@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Public inspection of returns under section 120.[^c10574991][^c20061321][^key-cecd06d6e9b497e7e0f2cd65024cfa1a][^key-62c3fc010cdfc4aec737c2cb68271757]
+## 124. Public inspection of returns under section 120.[^c10574991][^c20061321][^c-cecd06d6e9b497e7e0f2cd65024cfa1a][^c-62c3fc010cdfc4aec737c2cb68271757]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c20061321]: Modification: S. 124 applied (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(2)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/2)
 
-[^key-cecd06d6e9b497e7e0f2cd65024cfa1a]: Modification: S. 124 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/4), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
+[^c-cecd06d6e9b497e7e0f2cd65024cfa1a]: Modification: S. 124 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/4), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
 
-[^key-62c3fc010cdfc4aec737c2cb68271757]: Modification: S. 124 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/3); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-62c3fc010cdfc4aec737c2cb68271757]: Modification: S. 124 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/3); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

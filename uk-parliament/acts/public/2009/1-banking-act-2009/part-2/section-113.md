@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Company voluntary arrangement[^key-c1dc69058271c01c7b1c3593e853ddef]
+## 113. Company voluntary arrangement[^c-c1dc69058271c01c7b1c3593e853ddef]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) shall present a final report on the bank liquidation to the liquidation committee,
 - (b) shall send a copy of the report to—
-  - (i)[^key-c656eea7a8d95d7699bb8bb510bf01ea] the PRA,
+  - (i)[^c-c656eea7a8d95d7699bb8bb510bf01ea] the PRA,
   - (ia) the FCA,
   - (ii) the FSCS,
   - (iii) the Bank of England,
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1dc69058271c01c7b1c3593e853ddef]: Commencement: S. 113 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-c1dc69058271c01c7b1c3593e853ddef]: Commencement: S. 113 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
 
-[^key-c656eea7a8d95d7699bb8bb510bf01ea]: Textual amendment: S. 113(2)(b)(i)(ia) substituted for s. 113(2)(b)(i) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 41](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/41) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c656eea7a8d95d7699bb8bb510bf01ea]: Textual amendment: S. 113(2)(b)(i)(ia) substituted for s. 113(2)(b)(i) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 41](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/41) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

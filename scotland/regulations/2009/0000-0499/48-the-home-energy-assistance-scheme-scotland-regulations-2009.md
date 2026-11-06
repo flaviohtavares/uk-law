@@ -48,11 +48,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 15 of the Social Security Act 1990[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-cc537954fee7a140492c2540994eba84]
+## 1. Citation and commencement[^c-cc537954fee7a140492c2540994eba84]
 
 These Regulations may be cited as the Home Energy Assistance Scheme (Scotland) Regulations 2009 and shall come into force on 6th April 2009.
 
-## 2. Interpretation[^key-d1c9f743f8099c04528470daa3b6d212]
+## 2. Interpretation[^c-d1c9f743f8099c04528470daa3b6d212]
 
 In these Regulations–
 
@@ -78,7 +78,7 @@ In these Regulations–
 
   but excludes a tenant of a local authority or a body registered as a social landlord by virtue of section 57 of the Housing (Scotland) Act 2001[^f00008].
 
-## 3. Administering agencies[^key-343d1497039ea7f2e43484547334aa82]
+## 3. Administering agencies[^c-343d1497039ea7f2e43484547334aa82]
 
 (1) The Scottish Ministers must appoint one or more persons or bodies of persons, known as administering agencies, to perform in an area specified in the appointment such functions as the Scottish Ministers may determine for the purpose of, or otherwise in connection with, the making of grants towards the cost of works specified in regulation 7.
 
@@ -90,7 +90,7 @@ In these Regulations–
 
 (5) An administering agency may in accordance with criteria laid down from time to time by the Scottish Ministers select and register network installers.
 
-## 4. Conditions of grant[^key-fef90fa635188913ef6d4235fa8a1ce9]
+## 4. Conditions of grant[^c-fef90fa635188913ef6d4235fa8a1ce9]
 
 (1) Works for which a grant is made must only be carried out by network installers.
 
@@ -106,11 +106,11 @@ In these Regulations–
 
 (7) The offer of a grant may be made conditional on the carrying out of other works.
 
-## 5. Applications for grant[^key-3eb72cc05da722fe6e2217e920da740f]
+## 5. Applications for grant[^c-3eb72cc05da722fe6e2217e920da740f]
 
 An application for a grant must be made to an administering agency and must contain such particulars as are required by the administering agency.
 
-## 6. Person eligible to apply for a grant[^key-0ef2c935f270776e3e5bee58badf1ade]
+## 6. Person eligible to apply for a grant[^c-0ef2c935f270776e3e5bee58badf1ade]
 
 (1) Persons from whom an application for a grant may be entertained must–
 
@@ -154,7 +154,7 @@ An application for a grant must be made to an administering agency and must cont
   - (ii) a payment under regulations made under paragraph 7(2)(b) of Schedule 8 to the 1992 Act (constant attendance allowance); and
 - (f) employment and support allowance within the meaning of Part 1 of the Welfare Reform Act 2007[^f00021].
 
-## 7. Works for which a grant may be made[^key-233a85ac7c2b0f3e6d34912e752c60c8]
+## 7. Works for which a grant may be made[^c-233a85ac7c2b0f3e6d34912e752c60c8]
 
 (1) A grant may be made towards the cost of carrying out work to improve the thermal insulation and the energy efficiency of a dwelling and providing advice to reduce or prevent the wastage of energy in a dwelling, including, but not limited to–
 
@@ -166,11 +166,11 @@ An application for a grant must be made to an administering agency and must cont
 - (f) insulation between the internal and external leaves of cavity walls of the dwelling;
 - (g) insulation to a water heating system or part of such system.
 
-## 8. Amount of grant[^key-c52993b946409b59030876540f2cd721]
+## 8. Amount of grant[^c-c52993b946409b59030876540f2cd721]
 
 The maximum amount of grant awarded by the administering agency in respect of an application is £4,000, unless the dwelling cannot be improved to a Standard Assessment Procedure rating of 39 or above within this limit, in which case the maximum amount of grant is £6,500.
 
-## 9. Revocations and transitional provisions[^key-93104c1ce2ec25924adc199a5868878e]
+## 9. Revocations and transitional provisions[^c-93104c1ce2ec25924adc199a5868878e]
 
 (1) Subject to paragraph (2), the Home Energy Efficiency Scheme (Scotland) Regulations 2006[^f00022] are revoked.
 
@@ -206,9 +206,9 @@ Regulations which make provision for similar grants are revoked by regulation 9 
 
 [^f00001]: Footnote: [1990 c. 27](https://www.legislation.gov.uk/ukpga/1990/27); section 15 was amended by section 142 of the Housing Grants, Construction and Regeneration Act [1996 (c. 53)](https://www.legislation.gov.uk/ukpga/1996/53). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). The requirement to obtain Treasury consent was removed by section 55 of that Act.
 
-[^key-cc537954fee7a140492c2540994eba84]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
+[^c-cc537954fee7a140492c2540994eba84]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
 
-[^key-d1c9f743f8099c04528470daa3b6d212]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
+[^c-d1c9f743f8099c04528470daa3b6d212]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
 
 [^f00002]: Footnote: [1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -224,13 +224,13 @@ Regulations which make provision for similar grants are revoked by regulation 9 
 
 [^f00008]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10).
 
-[^key-343d1497039ea7f2e43484547334aa82]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
+[^c-343d1497039ea7f2e43484547334aa82]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
 
-[^key-fef90fa635188913ef6d4235fa8a1ce9]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
+[^c-fef90fa635188913ef6d4235fa8a1ce9]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
 
-[^key-3eb72cc05da722fe6e2217e920da740f]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
+[^c-3eb72cc05da722fe6e2217e920da740f]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
 
-[^key-0ef2c935f270776e3e5bee58badf1ade]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
+[^c-0ef2c935f270776e3e5bee58badf1ade]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
 
 [^f00009]: Footnote: Section 71(3) was amended by section 67(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
@@ -258,10 +258,10 @@ Regulations which make provision for similar grants are revoked by regulation 9 
 
 [^f00021]: Footnote: [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^key-233a85ac7c2b0f3e6d34912e752c60c8]: Commencement: Reg. 7 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
+[^c-233a85ac7c2b0f3e6d34912e752c60c8]: Commencement: Reg. 7 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
 
-[^key-c52993b946409b59030876540f2cd721]: Commencement: Reg. 8 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
+[^c-c52993b946409b59030876540f2cd721]: Commencement: Reg. 8 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
 
-[^key-93104c1ce2ec25924adc199a5868878e]: Commencement: Reg. 9 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
+[^c-93104c1ce2ec25924adc199a5868878e]: Commencement: Reg. 9 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/48/regulation/1)
 
 [^f00022]: Footnote: [S.S.I. 2006/570](https://www.legislation.gov.uk/ssi/2006/570).

@@ -34,9 +34,9 @@ summary: ''
 
 (6) In section 480(5)(a) (securities options: deductible amounts), insert at the end “ (other than an amount of exempt income) ”.
 
-(7)[^key-9bd8ea60107cd1bb62acc7248c74c73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-9bd8ea60107cd1bb62acc7248c74c73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-9bd8ea60107cd1bb62acc7248c74c73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9bd8ea60107cd1bb62acc7248c74c73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) The amendment made by subsection (1) has effect in relation to disposals made on or after 12 March 2008.
 
@@ -46,10 +46,10 @@ summary: ''
 
 (12) The amendment made by subsection (5) has effect in relation to employment-related securities acquired (or treated as acquired) on or after that date.
 
-(13)[^key-62320f5c83cf206e9cf35db0699e3dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-62320f5c83cf206e9cf35db0699e3dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bd8ea60107cd1bb62acc7248c74c73f]: Textual amendment: [S. 49(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/49/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/49/8) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9bd8ea60107cd1bb62acc7248c74c73f]: Textual amendment: [S. 49(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/49/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/49/8) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-62320f5c83cf206e9cf35db0699e3dfe]: Textual amendment: [S. 49(13)](https://www.legislation.gov.uk/ukpga/2008/9/section/49/13) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-62320f5c83cf206e9cf35db0699e3dfe]: Textual amendment: [S. 49(13)](https://www.legislation.gov.uk/ukpga/2008/9/section/49/13) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

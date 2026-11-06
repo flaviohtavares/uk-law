@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.25. Representations in response to application for preparatory hearing[^key-1ef34f8ff9b0cd18b0f3030304eaf4a3]
+## 3.25. Representations in response to application for preparatory hearing[^c-1ef34f8ff9b0cd18b0f3030304eaf4a3]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ef34f8ff9b0cd18b0f3030304eaf4a3]: Commencement: [Rule 3.25](https://www.legislation.gov.uk/uksi/2025/909/rule/3.25) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1ef34f8ff9b0cd18b0f3030304eaf4a3]: Commencement: [Rule 3.25](https://www.legislation.gov.uk/uksi/2025/909/rule/3.25) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

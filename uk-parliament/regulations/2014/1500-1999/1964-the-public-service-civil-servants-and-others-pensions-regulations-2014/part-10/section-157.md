@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. EU and overseas transfers[^key-eb2eaf9daf349c24c2c471545d20a136]
+## 157. EU and overseas transfers[^c-eb2eaf9daf349c24c2c471545d20a136]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb2eaf9daf349c24c2c471545d20a136]: Commencement: [Reg. 157](https://www.legislation.gov.uk/uksi/2014/1964/regulation/157) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-eb2eaf9daf349c24c2c471545d20a136]: Commencement: [Reg. 157](https://www.legislation.gov.uk/uksi/2014/1964/regulation/157) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

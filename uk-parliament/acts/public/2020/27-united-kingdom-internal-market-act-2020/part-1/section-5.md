@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. The non-discrimination principle for goods[^key-d7f9b8eaac3ab8acf0dff9469532281b]
+## 5. The non-discrimination principle for goods[^c-d7f9b8eaac3ab8acf0dff9469532281b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f9b8eaac3ab8acf0dff9469532281b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/27/section/5) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-d7f9b8eaac3ab8acf0dff9469532281b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/27/section/5) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

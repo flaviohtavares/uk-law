@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57.[^key-3777678f91207c05c542b0a6b059f636]
+## 57.[^c-3777678f91207c05c542b0a6b059f636]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3777678f91207c05c542b0a6b059f636]: Textual amendment: Reg. 57 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Drivers’ Hours and Tachographs (Amendment) Regulations 2020 (S.I. 2020/1658)](https://www.legislation.gov.uk/uksi/2020/1658), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1658/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1658/regulation/2)
+[^c-3777678f91207c05c542b0a6b059f636]: Textual amendment: Reg. 57 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Drivers’ Hours and Tachographs (Amendment) Regulations 2020 (S.I. 2020/1658)](https://www.legislation.gov.uk/uksi/2020/1658), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1658/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1658/regulation/2)

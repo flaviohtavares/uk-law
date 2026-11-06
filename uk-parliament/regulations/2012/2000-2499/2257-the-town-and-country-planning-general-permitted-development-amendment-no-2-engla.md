@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (General Permitted Development) (Amendment) (No. 2) (England) Order 2012 (revoked)[^key-bb9fc1e6b9eddf4ab8ac9220aec84efd]
+The Town and Country Planning (General Permitted Development) (Amendment) (No. 2) (England) Order 2012 (revoked)[^c-bb9fc1e6b9eddf4ab8ac9220aec84efd]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2012
 
-[^key-bb9fc1e6b9eddf4ab8ac9220aec84efd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb9fc1e6b9eddf4ab8ac9220aec84efd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-bb9fc1e6b9eddf4ab8ac9220aec84efd]
+## 1. Citation, commencement and application[^c-bb9fc1e6b9eddf4ab8ac9220aec84efd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment in relation to flats in mixed use buildings[^key-bb9fc1e6b9eddf4ab8ac9220aec84efd]
+## 2. Amendment in relation to flats in mixed use buildings[^c-bb9fc1e6b9eddf4ab8ac9220aec84efd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bb9fc1e6b9eddf4ab8ac9220aec84efd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb9fc1e6b9eddf4ab8ac9220aec84efd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bb9fc1e6b9eddf4ab8ac9220aec84efd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb9fc1e6b9eddf4ab8ac9220aec84efd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb9fc1e6b9eddf4ab8ac9220aec84efd]: Textual amendment: Order revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/596/article/1/1), [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/17) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2/3))
+[^c-bb9fc1e6b9eddf4ab8ac9220aec84efd]: Textual amendment: Order revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/596/article/1/1), [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/17) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2/3))

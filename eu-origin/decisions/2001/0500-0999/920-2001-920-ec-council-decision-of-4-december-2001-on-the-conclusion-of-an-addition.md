@@ -31,10 +31,10 @@ summary: ''
 
 of 4 December 2001 on the conclusion of an Additional Protocol adjusting the trade aspects of the Europe Agreement establishing an association between the European Communities and their Member States, acting within the framework of the European Union, of the one part, and the Republic of Slovenia, of the other part, to take account of the outcome of the negotiations between the parties on reciprocal preferential concessions for certain wines, the reciprocal recognition, protection and control of wine names and the reciprocal recognition, protection and control of designations for spirits and aromatised drinks (revoked)
 
-[^key-cc559611d9747ec757ac3472fe92b435]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc559611d9747ec757ac3472fe92b435]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-cc559611d9747ec757ac3472fe92b435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-cc559611d9747ec757ac3472fe92b435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc559611d9747ec757ac3472fe92b435]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc559611d9747ec757ac3472fe92b435]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

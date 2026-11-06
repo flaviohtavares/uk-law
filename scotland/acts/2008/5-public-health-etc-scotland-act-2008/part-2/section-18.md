@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Electronic notification[^key-05e6d29eed6919525873ec3b5496634c]
+## 18. Electronic notification[^c-05e6d29eed6919525873ec3b5496634c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05e6d29eed6919525873ec3b5496634c]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2008/5/section/18) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)
+[^c-05e6d29eed6919525873ec3b5496634c]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2008/5/section/18) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)

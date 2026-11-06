@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Welsh Ministers' well-being objectives[^key-bd26c52eca35556dd6bb7c38b4c3e1cf]
+## 8. Welsh Ministers' well-being objectives[^c-bd26c52eca35556dd6bb7c38b4c3e1cf]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd26c52eca35556dd6bb7c38b4c3e1cf]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2015/2/section/8) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-bd26c52eca35556dd6bb7c38b4c3e1cf]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2015/2/section/8) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

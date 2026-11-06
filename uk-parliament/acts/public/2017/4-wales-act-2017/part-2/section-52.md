@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Repeal of intervention powers relating to water[^key-246eef71a6cfb58da138e2bfd6f11994]
+## 52. Repeal of intervention powers relating to water[^c-246eef71a6cfb58da138e2bfd6f11994]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-246eef71a6cfb58da138e2bfd6f11994]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2017/4/section/52) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/k)
+[^c-246eef71a6cfb58da138e2bfd6f11994]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2017/4/section/52) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/k)

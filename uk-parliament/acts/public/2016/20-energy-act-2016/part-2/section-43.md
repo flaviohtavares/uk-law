@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Enforcement notices[^key-214f5273f09b8aaddb8f6f09b5d18ddc]
+## 43. Enforcement notices[^c-214f5273f09b8aaddb8f6f09b5d18ddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-214f5273f09b8aaddb8f6f09b5d18ddc]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2016/20/section/43) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-214f5273f09b8aaddb8f6f09b5d18ddc]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2016/20/section/43) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

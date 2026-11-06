@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Ending ambulatory effect of section 15 of the Scotland Act 1998[^key-ab0040731cf7c49184c50b519db6a081][^key-4226d3a36b31645256ecb3566f97a47a]
+## 20. Ending ambulatory effect of section 15 of the Scotland Act 1998[^c-ab0040731cf7c49184c50b519db6a081][^c-4226d3a36b31645256ecb3566f97a47a]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab0040731cf7c49184c50b519db6a081]: Commencement: S. 20 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-ab0040731cf7c49184c50b519db6a081]: Commencement: S. 20 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-4226d3a36b31645256ecb3566f97a47a]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/4/section/20) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-4226d3a36b31645256ecb3566f97a47a]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/4/section/20) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

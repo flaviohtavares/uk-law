@@ -29,7 +29,7 @@ summary: ''
 
 Pensions
 
-[^key-aa20d16f0c6d0460a9f6851e2bb4915c]The Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations 1996 (revoked)
+[^c-aa20d16f0c6d0460a9f6851e2bb4915c]The Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations 1996 (revoked)
 
 Made
 
@@ -211,4 +211,4 @@ Coming into force
 
 ## Annotations
 
-[^key-aa20d16f0c6d0460a9f6851e2bb4915c]: Textual amendment: Regulations revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [21](https://www.legislation.gov.uk/uksi/2005/3377/regulation/21), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3377/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4))
+[^c-aa20d16f0c6d0460a9f6851e2bb4915c]: Textual amendment: Regulations revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [21](https://www.legislation.gov.uk/uksi/2005/3377/regulation/21), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3377/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4))

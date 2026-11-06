@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Advisory functions[^key-aee3b99b2931250317b7e630270e7755]
+## 17. Advisory functions[^c-aee3b99b2931250317b7e630270e7755]
 
 *Extent: S*
 
 (1) The Council must provide the Scottish Ministers with such information, advice and assistance relating to the—
 
-- (za)[^key-f3eee49f25ea846edf0bf09fbcfc6a41] provision and funding of programmes of training for employment, apprenticeships and work-based learning,
+- (za)[^c-f3eee49f25ea846edf0bf09fbcfc6a41] provision and funding of programmes of training for employment, apprenticeships and work-based learning,
 - (a) provision and funding of fundable further education and fundable higher education; and
 - (b) undertaking of research at bodies which provide fundable further education or fundable higher education,
 
@@ -34,6 +34,6 @@ as the Scottish Ministers may reasonably require.
 
 ## Annotations
 
-[^key-aee3b99b2931250317b7e630270e7755]: Commencement: S. 17 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-aee3b99b2931250317b7e630270e7755]: Commencement: S. 17 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-f3eee49f25ea846edf0bf09fbcfc6a41]: Textual amendment: [S. 17(1)(za)](https://www.legislation.gov.uk/asp/2005/6/section/17/1/za) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 14(3)](https://www.legislation.gov.uk/asp/2026/5/section/14/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-f3eee49f25ea846edf0bf09fbcfc6a41]: Textual amendment: [S. 17(1)(za)](https://www.legislation.gov.uk/asp/2005/6/section/17/1/za) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 14(3)](https://www.legislation.gov.uk/asp/2026/5/section/14/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)

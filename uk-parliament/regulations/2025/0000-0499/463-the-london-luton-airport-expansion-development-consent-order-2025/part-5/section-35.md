@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Special category land[^key-2e9996565151cc35baa7e8a4686e3621]
+## 35. Special category land[^c-2e9996565151cc35baa7e8a4686e3621]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e9996565151cc35baa7e8a4686e3621]: Commencement: Art. 35 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-2e9996565151cc35baa7e8a4686e3621]: Commencement: Art. 35 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

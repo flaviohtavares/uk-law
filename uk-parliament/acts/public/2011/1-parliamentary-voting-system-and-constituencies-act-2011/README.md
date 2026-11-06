@@ -34,7 +34,7 @@ An Act to make provision for a referendum on the voting system for parliamentary
 
 \[16th February 2011\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f6a15cb9ae9c43a0dce2b073b3d97fa1]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f6a15cb9ae9c43a0dce2b073b3d97fa1]
 
 ## Contents
 
@@ -89,4 +89,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-f6a15cb9ae9c43a0dce2b073b3d97fa1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2011/1): transfer of functions (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1376/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1376/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
+[^c-f6a15cb9ae9c43a0dce2b073b3d97fa1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2011/1): transfer of functions (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1376/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1376/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))

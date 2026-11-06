@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Interaction with the petroleum licensing requirements[^key-a06847bf7025351b795400df5089945f]
+## 15. Interaction with the petroleum licensing requirements[^c-a06847bf7025351b795400df5089945f]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where there is a licence for the recovery of gas stored in a controlled place.
 
-(2) The OGA[^key-55bbae233a2b3bf6e0a28674f10509ff] may give a direction in respect of the place or any part of it (“the relevant stratum”).
+(2) The OGA[^c-55bbae233a2b3bf6e0a28674f10509ff] may give a direction in respect of the place or any part of it (“the relevant stratum”).
 
 (3) The effect of the direction is that any operations under the licence to recover gas from the relevant stratum are not to be regarded as resulting in the boring for or getting of petroleum for the purposes of Part 1 of the Petroleum Act 1998 (c. 17).
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a06847bf7025351b795400df5089945f]: Commencement: S. 15 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-a06847bf7025351b795400df5089945f]: Commencement: S. 15 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-55bbae233a2b3bf6e0a28674f10509ff]: Textual amendment: Word in s. 15 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/51); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-55bbae233a2b3bf6e0a28674f10509ff]: Textual amendment: Word in s. 15 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/51); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

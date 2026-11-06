@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Transport for London: access to meetings and documents etc[^key-fb584e9d92a916836fcdd49c6098f963]
+## 231. Transport for London: access to meetings and documents etc[^c-fb584e9d92a916836fcdd49c6098f963]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb584e9d92a916836fcdd49c6098f963]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2011/20/section/231) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/d) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-fb584e9d92a916836fcdd49c6098f963]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2011/20/section/231) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/d) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

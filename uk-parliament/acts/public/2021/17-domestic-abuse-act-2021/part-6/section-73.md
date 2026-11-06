@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Offences against the person committed outside the UK: Northern Ireland[^key-f93f548bb4533919434528e3d36b8f72]
+## 73. Offences against the person committed outside the UK: Northern Ireland[^c-f93f548bb4533919434528e3d36b8f72]
 
 *Extent: N.I.*
 
@@ -66,4 +66,4 @@ the person is guilty in Northern Ireland of that offence.
 
 ## Annotations
 
-[^key-f93f548bb4533919434528e3d36b8f72]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2021/17/section/73) in force at 21.2.2022 by [S.R. 2022/52](https://www.legislation.gov.uk/nisr/2022/52), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/52/article/2/a)
+[^c-f93f548bb4533919434528e3d36b8f72]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2021/17/section/73) in force at 21.2.2022 by [S.R. 2022/52](https://www.legislation.gov.uk/nisr/2022/52), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/52/article/2/a)

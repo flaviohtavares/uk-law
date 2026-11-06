@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Further disclosure[^key-db761763c4372b06dc3ab810fd3f72b4]
+## 33. Further disclosure[^c-db761763c4372b06dc3ab810fd3f72b4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.42 of the 1986 Rules. For “official receiver”, substitute “bu
 
 ## Annotations
 
-[^key-db761763c4372b06dc3ab810fd3f72b4]: Commencement: Rule 33 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-db761763c4372b06dc3ab810fd3f72b4]: Commencement: Rule 33 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Annual reports to Secretary of State[^key-60298b3b8a5a59ce72e354c9bfb657a6][^key-e0231fdbb68111b2e1ff549e5bf559cf][^key-8ae4f61b00045ebee33fee3b22100c82][^key-a7ed8489e179b987a8f0f27af89fb104]
+## 212. Annual reports to Secretary of State[^c-60298b3b8a5a59ce72e354c9bfb657a6][^c-e0231fdbb68111b2e1ff549e5bf559cf][^c-8ae4f61b00045ebee33fee3b22100c82][^c-a7ed8489e179b987a8f0f27af89fb104]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 
 ## Annotations
 
-[^key-60298b3b8a5a59ce72e354c9bfb657a6]: Commencement: S. 212 in force at 21.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/6/a)
+[^c-60298b3b8a5a59ce72e354c9bfb657a6]: Commencement: S. 212 in force at 21.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/6/a)
 
-[^key-e0231fdbb68111b2e1ff549e5bf559cf]: Modification: S. 212 applied (with modifications) (24.11.2005) by [The Financial Assistance Scheme (Modifications and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3256)](https://www.legislation.gov.uk/uksi/2005/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/3256/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/3/2)
+[^c-e0231fdbb68111b2e1ff549e5bf559cf]: Modification: S. 212 applied (with modifications) (24.11.2005) by [The Financial Assistance Scheme (Modifications and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3256)](https://www.legislation.gov.uk/uksi/2005/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/3256/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/3/2)
 
-[^key-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
+[^c-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
 
-[^key-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)
+[^c-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)

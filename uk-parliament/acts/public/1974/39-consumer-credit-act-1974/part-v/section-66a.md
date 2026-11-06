@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Withdrawal from consumer credit agreement[^key-db44ea386992a35225677f75e508a0a4][^c20970051]
+## 66A. Withdrawal from consumer credit agreement[^c-db44ea386992a35225677f75e508a0a4][^c20970051]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,15 +70,15 @@ title to the goods purchased or supplied under the agreement is to pass to the d
 
 (14) For the purposes of this section, an agreement is an excluded agreement if it is—
 
-- (a) an agreement for credit exceeding £60,260 , other than a residential renovation agreement[^key-c4e386fc2d2c02578648fa7818a9430d],
+- (a) an agreement for credit exceeding £60,260 , other than a residential renovation agreement[^c-c4e386fc2d2c02578648fa7818a9430d],
 - (b) an agreement secured on land,
 - (c) a restricted-use credit agreement to finance the purchase of land, or
 - (d) an agreement for a bridging loan in connection with the purchase of land.
 
 ## Annotations
 
-[^key-db44ea386992a35225677f75e508a0a4]: Modification: S. 66A excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-db44ea386992a35225677f75e508a0a4]: Modification: S. 66A excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c20970051]: Textual amendment: S. 66A and preceding cross-heading inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010, {regs. 13}, 99(1) (with regs. 100, 101) (as amended by The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [reg. 8](https://www.legislation.gov.uk/uksi/2010/1969/regulation/8) (with [reg. 46](https://www.legislation.gov.uk/uksi/2010/1969/regulation/46)))
 
-[^key-c4e386fc2d2c02578648fa7818a9430d]: Textual amendment: Words in s. 66A(14)(a) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/2/6) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-c4e386fc2d2c02578648fa7818a9430d]: Textual amendment: Words in s. 66A(14)(a) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/2/6) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))

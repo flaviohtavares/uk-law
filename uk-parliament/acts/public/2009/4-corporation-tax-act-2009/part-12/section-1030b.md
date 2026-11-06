@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1030B. Application of Chapter where original relief a consequence of section 1007A, 1015A or 1015B[^key-3c6e126fc42b63a050c6fefa0e932ec4]
+## 1030B. Application of Chapter where original relief a consequence of section 1007A, 1015A or 1015B[^c-3c6e126fc42b63a050c6fefa0e932ec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c6e126fc42b63a050c6fefa0e932ec4]: Textual amendment: Ss. 1030A, 1030B inserted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 46](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/46), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-3c6e126fc42b63a050c6fefa0e932ec4]: Textual amendment: Ss. 1030A, 1030B inserted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 46](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/46), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

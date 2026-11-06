@@ -54,7 +54,7 @@ In accordance with section 176(1)(b) of the Administration Act[^f00004], the Sec
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and extent[^key-e5d4e2cfd5190c957d223a5701d12e88]
+### 1. Citation, commencement and extent[^c-e5d4e2cfd5190c957d223a5701d12e88]
 
 (1) This Order may be cited as the Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 and comes into force on 31st October 2021.
 
@@ -62,7 +62,7 @@ In accordance with section 176(1)(b) of the Administration Act[^f00004], the Sec
 
 ## PART 2 — AMENDMENT OF THE INCOME-RELATED BENEFITS (SUBSIDY TO AUTHORITIES) ORDER 1998
 
-### 2. Amendment of the Income-related Benefits (Subsidy to Authorities) Order 1998 and effect of amendments[^key-eae482736d895fd5d1a93a03cb439efa]
+### 2. Amendment of the Income-related Benefits (Subsidy to Authorities) Order 1998 and effect of amendments[^c-eae482736d895fd5d1a93a03cb439efa]
 
 (1) The Income-related Benefits (Subsidy to Authorities) Order 1998[^f00005] is amended in accordance with the following provisions of this Part.
 
@@ -80,11 +80,11 @@ and Schedules 3 and 4 have effect accordingly.
 
 (5) In paragraphs (2), (3) and (4), “relevant year” means the year in respect of which a claim for subsidy is made.
 
-### 3. The amount of an authority’s subsidy[^key-4ea107556c361bde7046e4fb83112836]
+### 3. The amount of an authority’s subsidy[^c-4ea107556c361bde7046e4fb83112836]
 
 For Schedule 1 (sums to be used in the calculation of subsidy) substitute the Schedule 1 set out in Schedule 1 to this Order.
 
-### 4. Housing Benefit Award Accuracy Initiative[^key-326d0c406d5cf03b459624c63124d734]
+### 4. Housing Benefit Award Accuracy Initiative[^c-326d0c406d5cf03b459624c63124d734]
 
 (1) In article 12, after paragraph (1)(bza) insert—
 
@@ -94,7 +94,7 @@ For Schedule 1 (sums to be used in the calculation of subsidy) substitute the Sc
 
 (2) After Schedule 1ZB, insert the Schedule 1ZC set out in Schedule 2 to this Order.
 
-### 5. Rent rebate deductions from the subsidy of an authority in Wales[^key-dbfa7fc47bd4e30df9d86b5ec12c8efc]
+### 5. Rent rebate deductions from the subsidy of an authority in Wales[^c-dbfa7fc47bd4e30df9d86b5ec12c8efc]
 
 (1) For article 20A substitute—
 
@@ -119,7 +119,7 @@ For Schedule 1 (sums to be used in the calculation of subsidy) substitute the Sc
   - (i) for “2020” substitute “2021”;
   - (ii) for the Table, substitute the Table set out in Schedule 4 to this Order.
 
-### 6. Additional amount of subsidy: Verify Earnings and Pension Alerts Service[^key-5557d137801a442b449d5ec69e583c4b]
+### 6. Additional amount of subsidy: Verify Earnings and Pension Alerts Service[^c-5557d137801a442b449d5ec69e583c4b]
 
 In Schedule 1ZB (additional amount of subsidy: Verify Earnings and Pension Alerts Service) for paragraph 2 substitute—
 
@@ -129,47 +129,47 @@ In Schedule 1ZB (additional amount of subsidy: Verify Earnings and Pension Alert
 
 .
 
-### 7. Minor amendments[^key-0e046206a387d7e43d4850f3ecb40c4a]
+### 7. Minor amendments[^c-0e046206a387d7e43d4850f3ecb40c4a]
 
 Schedule 5 to this Order (which makes minor amendments) has effect.
 
 ## PART 3 — AMENDMENT OF THE DISCRETIONARY HOUSING PAYMENTS (GRANTS) ORDER 2001
 
-### 8. Amendment of the Discretionary Housing Payments (Grants) Order 2001 and effect of amendments (affected by repeal, see note)[^key-cd0bcfff2d7fa36e59240dd1bcd14006][^key-9342e77f3366ecdcaab8afc12a5b3f53][^key-9342e77f3366ecdcaab8afc12a5b3f53]
+### 8. Amendment of the Discretionary Housing Payments (Grants) Order 2001 and effect of amendments (affected by repeal, see note)[^c-cd0bcfff2d7fa36e59240dd1bcd14006][^c-9342e77f3366ecdcaab8afc12a5b3f53][^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
-(1) The Discretionary Housing Payments (Grants) Order 2001 *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53][^f00008] is amended as follows. *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+(1) The Discretionary Housing Payments (Grants) Order 2001 *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53][^f00008] is amended as follows. *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
-(2) The amendments made by this article have effect in respect of any year *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53][^f00009] commencing on or after 1st April 2021. *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+(2) The amendments made by this article have effect in respect of any year *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53][^f00009] commencing on or after 1st April 2021. *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
-(3) Article 2 (determining the amount of grant) is renumbered as article 2(1) and— *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+(3) Article 2 (determining the amount of grant) is renumbered as article 2(1) and— *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
-- (a) in the renumbered article 2(1), in sub-paragraph (a)— *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
-  - (i) omit “and council tax benefit”; and *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
-  - (ii (affected by repeal, see note))[^key-9342e77f3366ecdcaab8afc12a5b3f53] at the end insert “and relevant awards of universal credit”; *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
-- (b) after the renumbered article 2(1) insert— *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+- (a) in the renumbered article 2(1), in sub-paragraph (a)— *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
+  - (i) omit “and council tax benefit”; and *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
+  - (ii (affected by repeal, see note))[^c-9342e77f3366ecdcaab8afc12a5b3f53] at the end insert “and relevant awards of universal credit”; *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
+- (b) after the renumbered article 2(1) insert— *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
-  > (2) For the purpose of paragraph (1), a “relevant award of universal credit” means an award of universal credit, the calculation of which includes an amount under section 11 of the Welfare Reform Act 2012 *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53][^f00010], calculated in accordance with Schedule 4 to the Universal Credit Regulations 2013 *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53][^f00011], or would include such an amount but for paragraph 3(h) or (i) of Schedule 1 to those Regulations. *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+  > (2) For the purpose of paragraph (1), a “relevant award of universal credit” means an award of universal credit, the calculation of which includes an amount under section 11 of the Welfare Reform Act 2012 *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53][^f00010], calculated in accordance with Schedule 4 to the Universal Credit Regulations 2013 *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53][^f00011], or would include such an amount but for paragraph 3(h) or (i) of Schedule 1 to those Regulations. *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
   .
 
-(4) In article 3 (claims)— *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+(4) In article 3 (claims)— *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
-- (a) in paragraph (2)— *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
-  - (i) omit sub-paragraphs (a) to (d); *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
-  - (ii (affected by repeal, see note))[^key-9342e77f3366ecdcaab8afc12a5b3f53] for sub-paragraph (e), substitute— *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+- (a) in paragraph (2)— *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
+  - (i) omit sub-paragraphs (a) to (d); *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
+  - (ii (affected by repeal, see note))[^c-9342e77f3366ecdcaab8afc12a5b3f53] for sub-paragraph (e), substitute— *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
-    > - (e) by 31st October in a relevant year— *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
-    >   - (i) showing the amount of payments it has made from 1st April to 30th September of that relevant year; and *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
-    >   - (ii (affected by repeal, see note))[^key-9342e77f3366ecdcaab8afc12a5b3f53] estimating the total amount of payments it believes it will make between 1st April and 31st March of that relevant year. *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+    > - (e) by 31st October in a relevant year— *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
+    >   - (i) showing the amount of payments it has made from 1st April to 30th September of that relevant year; and *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
+    >   - (ii (affected by repeal, see note))[^c-9342e77f3366ecdcaab8afc12a5b3f53] estimating the total amount of payments it believes it will make between 1st April and 31st March of that relevant year. *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
     ;
-- (b) in paragraph (3), omit sub-paragraph (b). *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+- (b) in paragraph (3), omit sub-paragraph (b). *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
-(5) For article 6 (payment), substitute— *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+(5) For article 6 (payment), substitute— *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
-> **6.** (1) Subject to paragraph (2) and article 6A, the Secretary of State may make payments by way of instalments by reference to claims submitted in accordance with article 3 but no final payment shall be made until the Secretary of State is satisfied that no request for information in accordance with article 4 is outstanding. *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+> **6.** (1) Subject to paragraph (2) and article 6A, the Secretary of State may make payments by way of instalments by reference to claims submitted in accordance with article 3 but no final payment shall be made until the Secretary of State is satisfied that no request for information in accordance with article 4 is outstanding. *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 >
-> (2) An initial instalment payment for the relevant year may be made without reference to any claim submitted in accordance with article 3. *(affected by repeal, see note)*[^key-9342e77f3366ecdcaab8afc12a5b3f53]
+> (2) An initial instalment payment for the relevant year may be made without reference to any claim submitted in accordance with article 3. *(affected by repeal, see note)*[^c-9342e77f3366ecdcaab8afc12a5b3f53]
 
 Signed by authority of the Secretary of State for Work and Pensions
 
@@ -191,7 +191,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 7th September 2021
 
-## SCHEDULE 1 — Substitution of Schedule 1 to the Income-related Benefits (Subsidy to Authorities) Order 1998[^key-c20ee98e9d20ec2ac86d38b75bfd675e]
+## SCHEDULE 1 — Substitution of Schedule 1 to the Income-related Benefits (Subsidy to Authorities) Order 1998[^c-c20ee98e9d20ec2ac86d38b75bfd675e]
 
 Article 3
 
@@ -581,7 +581,7 @@ Article 3
 > | West Dunbartonshire | 645,451 |
 > | West Lothian | 746,375 |
 
-## SCHEDULE 2 — New Schedule 1ZC to Income-related Benefits (Subsidy to Authorities) Order 1998[^key-c01e92628a10b2490cef48bdc84b4e8d]
+## SCHEDULE 2 — New Schedule 1ZC to Income-related Benefits (Subsidy to Authorities) Order 1998[^c-c01e92628a10b2490cef48bdc84b4e8d]
 
 Article 4(2)
 
@@ -604,7 +604,7 @@ Article 4(2)
 >
 > An authority must use any additional amount received under paragraph 2 in connection with relevant activities.
 
-## SCHEDULE 3 — Substitution of Schedule 4A to the Income-related Benefits (Subsidy to Authorities) Order 1998[^key-08a38fc146bacc340d43a430fcc51582]
+## SCHEDULE 3 — Substitution of Schedule 4A to the Income-related Benefits (Subsidy to Authorities) Order 1998[^c-08a38fc146bacc340d43a430fcc51582]
 
 Article 5(2)
 
@@ -674,7 +674,7 @@ Article 5(2)
 > | Vale of Glamorgan | 103.94 | 4.63 |
 > | Wrexham | 95.45 | 4.46 |
 
-## SCHEDULE 4 — Substitution of the Table in paragraph 4 of Schedule 4A to the Income-related Benefits (Subsidy to Authorities) Order 1998[^key-825b949ee14da0cfa2173295e54bb61d]
+## SCHEDULE 4 — Substitution of the Table in paragraph 4 of Schedule 4A to the Income-related Benefits (Subsidy to Authorities) Order 1998[^c-825b949ee14da0cfa2173295e54bb61d]
 
 Article 5(3)(b)
 
@@ -696,22 +696,22 @@ Article 5(3)(b)
 
 Article 7
 
-**1.**[^key-e207fe9ad5f4a3d15eeb35bbc9b392fe] In article 1(2), omit the definition of “relevant benefit”.
+**1.**[^c-e207fe9ad5f4a3d15eeb35bbc9b392fe] In article 1(2), omit the definition of “relevant benefit”.
 
-**2.**[^key-c01995ce0bbbb3159155a7d8fa486db2] In article 2—
+**2.**[^c-c01995ce0bbbb3159155a7d8fa486db2] In article 2—
 
 - (a) omit the definition of “base data return””;
 - (b) in the definition of “claim” for “, final claim or a return pursuant to article 4(4)” substitute “or a final claim”;
 - (c) in the definition of “claim form” omit “or (4)”;
 - (d) in the definition of “HBAP”, for “27th March 2018” substitute “30th March 2020”;
 
-**3.**[^key-a8a92d5af7a986725dd1691df10a93af] In article 4(2), for “relevant benefit” substitute “housing benefit”.
+**3.**[^c-a8a92d5af7a986725dd1691df10a93af] In article 4(2), for “relevant benefit” substitute “housing benefit”.
 
-**4.**[^key-2cb8bdfe8ec408f3ab0548de56103072] In article 7(c), for “relevant benefit” substitute “housing benefit”.
+**4.**[^c-2cb8bdfe8ec408f3ab0548de56103072] In article 7(c), for “relevant benefit” substitute “housing benefit”.
 
-**5.**[^key-3c3a338d3deb6c4fb9523887a42b9a2f] In article 8(1)(a), for “, mid-year claim and the returns under article 4(4)” substitute “and mid-year claim”.
+**5.**[^c-3c3a338d3deb6c4fb9523887a42b9a2f] In article 8(1)(a), for “, mid-year claim and the returns under article 4(4)” substitute “and mid-year claim”.
 
-**6.**[^key-eace4063279ce08b8b2f2641afa9c869] In article 11—.
+**6.**[^c-eace4063279ce08b8b2f2641afa9c869] In article 11—.
 
 - (a) in paragraph (1)—
   - (i) omit the definitions of “the Council Tax Benefit Regulations”, “the Council Tax Benefit (State Pension Credit) Regulations” and “period overrun”;
@@ -723,9 +723,9 @@ Article 7
   - (ii) in paragraph (c), for “sections 134(8) (arrangements for housing benefit) or 139(6) (arrangements for council tax benefit) of the Act, as the case may be” substitute “section 134(8) (arrangements for housing benefit) of the Act”;
 - (c) in paragraph (3), for “relevant benefit” substitute “housing benefit”.
 
-**7.**[^key-4a9cb326f7a6aa2defa607600fc68fa0] In article 12(1)(b), (2) and (4), for “relevant benefit” substitute “housing benefit”.
+**7.**[^c-4a9cb326f7a6aa2defa607600fc68fa0] In article 12(1)(b), (2) and (4), for “relevant benefit” substitute “housing benefit”.
 
-**8.**[^key-49ffc476e46f20a8e53c582f12770ba1] (1) Article 13 is amended as follows.
+**8.**[^c-49ffc476e46f20a8e53c582f12770ba1] (1) Article 13 is amended as follows.
 
 (2) For the heading substitute “Housing benefit”.
 
@@ -737,14 +737,14 @@ Article 7
   - (ii) omit head (ii);
   - (iii) in head (iii), omit “in respect of the relevant benefit”.
 
-**9.**[^key-b7e0097640ff055ed9944c1212d81b26] In article 14—
+**9.**[^c-b7e0097640ff055ed9944c1212d81b26] In article 14—
 
 - (a) in paragraph (1), omit “, regulation 69(13) of the Council Tax Benefit Regulations or regulation 53(13) of the Council Tax Benefit (State Pension Credit) Regulations”;
 - (b) omit paragraph (3).
 
-**10.**[^key-24b0cfe1a4036fe87d0db165b800bace] In article 16, omit paragraph (4)(a).
+**10.**[^c-24b0cfe1a4036fe87d0db165b800bace] In article 16, omit paragraph (4)(a).
 
-**11.**[^key-969e7db7fb15e9443a4fb7f4070421db] (1) Article 18 is amended as follows.
+**11.**[^c-969e7db7fb15e9443a4fb7f4070421db] (1) Article 18 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -775,16 +775,16 @@ Article 7
 - (a) for “relevant benefit” substitute “housing benefit”;
 - (b) for the words from “, paragraph (13)” to the end substitute “applies”.
 
-**12.**[^key-ac2a407ad9e5b390952dae16198d454f] In article 19(1)—
+**12.**[^c-ac2a407ad9e5b390952dae16198d454f] In article 19(1)—
 
 - (a) in sub-paragraph (g)—
   - (i) in the opening words, for “relevant benefit” substitute “housing benefit”;
   - (ii) in head (ii), for the words from “paragraph (15)” to “Council Tax Benefit (State Pension Credit) Regulations” substitute “paragraph (18) of regulation 59 of the Housing Benefit (Community Charge Rebates) (Scotland) Regulations 1988 or paragraph (12) of regulation 83 of the Housing Benefit Regulations”;
 - (b) in sub-paragraph (h), for “relevant benefit” substitute “housing benefit”.
 
-**13.**[^key-1010a96f3df4e95e49ec4ce172545131] In article 20, for “any relevant benefit” substitute “housing benefit”.
+**13.**[^c-1010a96f3df4e95e49ec4ce172545131] In article 20, for “any relevant benefit” substitute “housing benefit”.
 
-**14.**[^key-d0d3b856ed488b0f7faa75b76bea7ea4] In Schedule 4, in both paragraphs 7(b) and 8(b) omit—
+**14.**[^c-d0d3b856ed488b0f7faa75b76bea7ea4] In Schedule 4, in both paragraphs 7(b) and 8(b) omit—
 
 - (a) “the aggregate of”; and
 - (b) the words from “and those service charges” to “(ineligible service charges)”.
@@ -831,29 +831,29 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: Section 176(1)(b) is amended by paragraph 3(4) of Schedule 13 to the Housing Act 1996.
 
-[^key-e5d4e2cfd5190c957d223a5701d12e88]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/1031/article/1) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-e5d4e2cfd5190c957d223a5701d12e88]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/1031/article/1) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-eae482736d895fd5d1a93a03cb439efa]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1031/article/2) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-eae482736d895fd5d1a93a03cb439efa]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1031/article/2) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
 [^f00005]: Footnote: [S.I. 1998/562](https://www.legislation.gov.uk/uksi/1998/562); relevant amending instruments are [S.I. 2004/646](https://www.legislation.gov.uk/uksi/2004/646), [2008/695](https://www.legislation.gov.uk/uksi/2008/695), [2018/985](https://www.legislation.gov.uk/uksi/2018/985) and [2020/976](https://www.legislation.gov.uk/uksi/2020/976).
 
 [^f00006]: Footnote: See section 140G of the Administration Act for the definition of “year”.
 
-[^key-4ea107556c361bde7046e4fb83112836]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1031/article/3) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-4ea107556c361bde7046e4fb83112836]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1031/article/3) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-326d0c406d5cf03b459624c63124d734]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1031/article/4) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-326d0c406d5cf03b459624c63124d734]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1031/article/4) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-dbfa7fc47bd4e30df9d86b5ec12c8efc]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/1031/article/5) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-dbfa7fc47bd4e30df9d86b5ec12c8efc]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/1031/article/5) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-5557d137801a442b449d5ec69e583c4b]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/1031/article/6) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-5557d137801a442b449d5ec69e583c4b]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/1031/article/6) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
 [^f00007]: Footnote: https://www.gov.uk/government/publications/housing-benefit-subsidy-circulars-2021/s62021-payments-for-the-verify-earnings-and-pension-service-2021-to-2022.
 
-[^key-0e046206a387d7e43d4850f3ecb40c4a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2021/1031/article/7) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-0e046206a387d7e43d4850f3ecb40c4a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2021/1031/article/7) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-cd0bcfff2d7fa36e59240dd1bcd14006]: Commencement: Art. 8 in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-cd0bcfff2d7fa36e59240dd1bcd14006]: Commencement: Art. 8 in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-9342e77f3366ecdcaab8afc12a5b3f53]: Textual amendment: Art. 8 revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-9342e77f3366ecdcaab8afc12a5b3f53]: Textual amendment: Art. 8 revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^f00008]: Footnote: [S.I. 2001/2340](https://www.legislation.gov.uk/uksi/2001/2340). Relevant amending instruments are [S.I. 2008/1167](https://www.legislation.gov.uk/uksi/2008/1167) and [2014/1667](https://www.legislation.gov.uk/uksi/2014/1667).
 
@@ -863,42 +863,42 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00011]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376). Paragraph 3(h) is inserted by [S.I. 2014/771](https://www.legislation.gov.uk/uksi/2014/771) and paragraph 3(i) is inserted by [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65).
 
-[^key-c20ee98e9d20ec2ac86d38b75bfd675e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1031/schedule/1) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-c20ee98e9d20ec2ac86d38b75bfd675e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1031/schedule/1) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-c01e92628a10b2490cef48bdc84b4e8d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1031/schedule/2) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-c01e92628a10b2490cef48bdc84b4e8d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1031/schedule/2) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
 [^f00012]: Footnote: https://www.govt.uk/government/publications/housing-benefit-adjudication-circulars-2020/a52020-housing-benefit-award-accuracy-initiative.
 
 [^f00013]: Footnote: https://www.gov.uk/government/publications/housing-benefit-subsidy-circulars-2020/s82020-housing-benefit-award-accuracy-initiative-funding-for-english-scottish-and-welsh-local-authorities-2020-to-2021.
 
-[^key-08a38fc146bacc340d43a430fcc51582]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/1031/schedule/3) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-08a38fc146bacc340d43a430fcc51582]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/1031/schedule/3) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-825b949ee14da0cfa2173295e54bb61d]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2021/1031/schedule/4) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-825b949ee14da0cfa2173295e54bb61d]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2021/1031/schedule/4) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-e207fe9ad5f4a3d15eeb35bbc9b392fe]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/1) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-e207fe9ad5f4a3d15eeb35bbc9b392fe]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/1) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-c01995ce0bbbb3159155a7d8fa486db2]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/2) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-c01995ce0bbbb3159155a7d8fa486db2]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/2) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-a8a92d5af7a986725dd1691df10a93af]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/3) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-a8a92d5af7a986725dd1691df10a93af]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/3) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-2cb8bdfe8ec408f3ab0548de56103072]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/4) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-2cb8bdfe8ec408f3ab0548de56103072]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/4) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-3c3a338d3deb6c4fb9523887a42b9a2f]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/5) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-3c3a338d3deb6c4fb9523887a42b9a2f]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/5) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-eace4063279ce08b8b2f2641afa9c869]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/6) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-eace4063279ce08b8b2f2641afa9c869]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/6) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-4a9cb326f7a6aa2defa607600fc68fa0]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/7) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-4a9cb326f7a6aa2defa607600fc68fa0]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/7) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-49ffc476e46f20a8e53c582f12770ba1]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/8) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-49ffc476e46f20a8e53c582f12770ba1]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/8) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-b7e0097640ff055ed9944c1212d81b26]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/9) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-b7e0097640ff055ed9944c1212d81b26]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/9) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-24b0cfe1a4036fe87d0db165b800bace]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/10) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-24b0cfe1a4036fe87d0db165b800bace]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/10) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-969e7db7fb15e9443a4fb7f4070421db]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/11) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-969e7db7fb15e9443a4fb7f4070421db]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/11) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-ac2a407ad9e5b390952dae16198d454f]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/12) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-ac2a407ad9e5b390952dae16198d454f]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/12) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-1010a96f3df4e95e49ec4ce172545131]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/13) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-1010a96f3df4e95e49ec4ce172545131]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/13) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
 
-[^key-d0d3b856ed488b0f7faa75b76bea7ea4]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/14) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)
+[^c-d0d3b856ed488b0f7faa75b76bea7ea4]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/14) in force at 31.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1)

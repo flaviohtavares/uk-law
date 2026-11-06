@@ -162,21 +162,21 @@ Inspection of premises
 
 ### PART 1 — Manufacturing authorisation
 
-#### 1. Application[^key-2892b24b29a3d8b16b19c6602598c9a4]
+#### 1. Application[^c-2892b24b29a3d8b16b19c6602598c9a4]
 
 An application for a manufacturing authorisation shall be made to the Secretary of State.
 
-#### 2. Time limits[^key-c8b198c3cd4a564e00333d63d1b86e77]
+#### 2. Time limits[^c-c8b198c3cd4a564e00333d63d1b86e77]
 
 (1) The Secretary of State shall process an application for a manufacturing authorisation within 90 days of receiving it.
 
 (2) He shall process an application for a variation of a manufacturing authorisation within 30 days unless he notifies the applicant in writing that he is extending the time to 90 days.
 
-#### 3. Granting the authorisation[^key-e235b94fccccae41ffef64838b183cce]
+#### 3. Granting the authorisation[^c-e235b94fccccae41ffef64838b183cce]
 
 The Secretary of State shall grant a manufacturing authorisation if he is satisfied that the applicant has at his disposal suitable and sufficient premises, staff, technical equipment and facilities for the manufacture, control and storage of the products, and will comply with his duties under these Regulations.
 
-#### 4. The authorisation[^key-7d1686b9405b06bce040aa986365fbf2]
+#### 4. The authorisation[^c-7d1686b9405b06bce040aa986365fbf2]
 
 (1) The manufacturing authorisation shall specify—
 
@@ -188,7 +188,7 @@ The Secretary of State shall grant a manufacturing authorisation if he is satisf
 
 (2) It may specify that different activities must be carried out in different premises or parts of premises, and may require the holder of the manufacturing authorisation to restrict access to premises or parts of premises to persons carrying out activities there.
 
-#### 5. Suspension or revocation of the authorisation[^key-b279c3107756f4c165d9eee1c889284a]
+#### 5. Suspension or revocation of the authorisation[^c-b279c3107756f4c165d9eee1c889284a]
 
 (1) The Secretary of State may suspend or revoke a manufacturing authorisation if the holder—
 
@@ -199,7 +199,7 @@ The Secretary of State shall grant a manufacturing authorisation if he is satisf
 
 (2) He may also suspend or revoke it if he is satisfied that the qualified person (manufacture) is not fulfilling his duties.
 
-#### 6. Representation to the Secretary of State[^key-fcf4221eba8612b0605049d51a6af85a]
+#### 6. Representation to the Secretary of State[^c-fcf4221eba8612b0605049d51a6af85a]
 
 (1) A person may make representations against a refusal, suspension or revocation of a manufacturing authorisation to a person appointed for the purpose by the Secretary of State.
 
@@ -207,7 +207,7 @@ The Secretary of State shall grant a manufacturing authorisation if he is satisf
 
 (3) The Secretary of State shall give written notification of his final determination and the reasons for it.
 
-#### 7. Inspection of premises[^key-0c3d50cf67e75400cd719146294ff9f1]
+#### 7. Inspection of premises[^c-0c3d50cf67e75400cd719146294ff9f1]
 
 (1) The Secretary of State shall inspect the premises relating to a manufacturing authorisation on a regular basis to ensure compliance with good manufacturing practice.
 
@@ -219,13 +219,13 @@ The Secretary of State shall grant a manufacturing authorisation if he is satisf
 
 (5) If the outcome of the inspection is that the manufacturer does not comply with the principles and guidelines of good manufacturing practice, he shall provide details to the Agency for entry into the database.
 
-#### 8. Report following inspection[^key-979bbd2681f8bf2136649dacbb73b769]
+#### 8. Report following inspection[^c-979bbd2681f8bf2136649dacbb73b769]
 
 (1) After each inspection of manufacturing premises, the inspector shall make a written report to the Secretary of State on whether the principles and guidelines on good manufacturing practice and the conditions of these Regulations are being complied with.
 
 (2) The Secretary of State shall inform the inspected manufacturer of the content of such reports.
 
-#### 9. Duties on the holder of a manufacturing authorisation[^key-bc6ba2470d516ed9529a9d3492ccaa5c]
+#### 9. Duties on the holder of a manufacturing authorisation[^c-bc6ba2470d516ed9529a9d3492ccaa5c]
 
 (1) A holder of a manufacturing authorisation must ensure that the veterinary medicinal product is manufactured in accordance with the marketing authorisation.
 
@@ -247,7 +247,7 @@ The Secretary of State shall grant a manufacturing authorisation if he is satisf
 
 (7) He must keep an adequate number of representative samples of each batch of a veterinary medicinal product in stock at least until the expiry date of the batch, and must submit any such sample to the Secretary of State if he requires it in writing.
 
-#### 10. Qualified persons for manufacture[^key-7272e20ab2e5e1e503ecf56ff53b5095]
+#### 10. Qualified persons for manufacture[^c-7272e20ab2e5e1e503ecf56ff53b5095]
 
 (1) The Secretary of State may appoint as a qualified person (manufacture) any person who is—
 
@@ -259,13 +259,13 @@ who qualified on the basis of a formal course of study lasting not less than thr
 
 (2) The Secretary of State may exceptionally appoint a person who is not a member of one of those institutions to act as a qualified person (manufacture) if he is satisfied that he has the educational qualifications or practical experience to carry out the duties under this Schedule.
 
-#### 11. Refusal or revocation of appointment[^key-3174868d2cfda97e8080ff0294b10366]
+#### 11. Refusal or revocation of appointment[^c-3174868d2cfda97e8080ff0294b10366]
 
 (1) The Secretary of State may refuse or revoke an appointment if he is not satisfied that a person has fulfilled or will fulfil his duties.
 
 (2) A person may make representations against a refusal or revocation to a person appointed for the purpose by the Secretary of State, and the procedure in paragraph 6 applies.
 
-#### 12. Duties on a qualified person[^key-3a11d3a9c0b8d31b3332d6d604e7a5e4]
+#### 12. Duties on a qualified person[^c-3a11d3a9c0b8d31b3332d6d604e7a5e4]
 
 (1) The qualified person (manufacture) must ensure that each batch of veterinary medicinal product manufactured under his responsibility is manufactured and checked in compliance with these Regulations and in accordance with the data submitted in support of the application for the marketing authorisation.
 
@@ -277,11 +277,11 @@ who qualified on the basis of a formal course of study lasting not less than thr
 
 (5) It is an offence to fail to comply with this paragraph.
 
-#### 13. Register[^key-1daf72099edd8c63fab46e8f42854faf]
+#### 13. Register[^c-1daf72099edd8c63fab46e8f42854faf]
 
 The Secretary of State shall maintain and publish a register of holders of manufacturing authorisations and qualified persons (manufacture).
 
-#### 14. Test sites[^key-7490976e3779e4c76b2ded48b4988a6f]
+#### 14. Test sites[^c-7490976e3779e4c76b2ded48b4988a6f]
 
 (1) The Secretary of State may authorise premises to act as a test site to carry out contract testing for a holder of a manufacturing authorisation.
 
@@ -291,7 +291,7 @@ The Secretary of State shall maintain and publish a register of holders of manuf
 
 ### PART 2 — Authorisation of manufacturers of autogenous vaccines
 
-#### 15. Authorisation to manufacture autogenous vaccines[^key-f87b6f10925b0146a6052d2203305346]
+#### 15. Authorisation to manufacture autogenous vaccines[^c-f87b6f10925b0146a6052d2203305346]
 
 (1) The Secretary of State may authorise a person and premises to manufacture autogenous vaccines.
 
@@ -306,7 +306,7 @@ The Secretary of State shall maintain and publish a register of holders of manuf
 
 (5) It is an offence to manufacture an autogenous vaccine other than in accordance with such an authorisation.
 
-#### 16. Types of authorisation[^key-ac05472385476dc692d62710a5d8b29e]
+#### 16. Types of authorisation[^c-ac05472385476dc692d62710a5d8b29e]
 
 (1) The authorisation shall specify the products that may be manufactured.
 
@@ -316,7 +316,7 @@ The Secretary of State shall maintain and publish a register of holders of manuf
 
 (4) Only the products specified in the authorisation may be manufactured, and in the case of an authorisation for a single batch the product may only be manufactured before the expiry of the authorisation.
 
-#### 17. Labelling[^key-fc7dfd089300445f08eee37bd18befc0]
+#### 17. Labelling[^c-fc7dfd089300445f08eee37bd18befc0]
 
 (1) The operator of the premises must ensure that every container containing autogenous vaccine is labelled with—
 
@@ -330,7 +330,7 @@ The Secretary of State shall maintain and publish a register of holders of manuf
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 18. Records[^key-b08762337a8d53babed3207034f12188]
+#### 18. Records[^c-b08762337a8d53babed3207034f12188]
 
 (1) The operator of the premises must, as soon as is reasonably practicable, record—
 
@@ -343,19 +343,19 @@ The Secretary of State shall maintain and publish a register of holders of manuf
 
 (3) It is an offence to fail to comply with this paragraph.
 
-#### 19. Adverse reactions[^key-9b1af1fc385a508dd50f117fce7fce8d]
+#### 19. Adverse reactions[^c-9b1af1fc385a508dd50f117fce7fce8d]
 
 (1) The authorised person must notify the Secretary of State of any adverse reactions to an autogenous vaccine of which he becomes aware within 15 days of learning of the reaction.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 20. Inspection of premises[^key-7ef0ccdfc5cf6f9f3d98b5daa9bf928b]
+#### 20. Inspection of premises[^c-7ef0ccdfc5cf6f9f3d98b5daa9bf928b]
 
 The Secretary of State shall inspect the authorised premises every two years.
 
 ### PART 3 — Authorisation of blood banks
 
-#### 21. Authorisation of blood banks[^key-9d6dcc33aca6d471f9b3f0617be48126]
+#### 21. Authorisation of blood banks[^c-9d6dcc33aca6d471f9b3f0617be48126]
 
 (1) The Secretary of State may authorise blood banks for the collection, storage and supply of blood for the treatment of non-food-producing animals.
 
@@ -375,7 +375,7 @@ The Secretary of State shall inspect the authorised premises every two years.
 
 (6) It is an offence to operate a blood bank for treatment of animals other than in accordance with such an authorisation.
 
-#### 22. Supply and administration of blood from a blood bank[^key-6c0a753064dfb0636be007309be2a00c]
+#### 22. Supply and administration of blood from a blood bank[^c-6c0a753064dfb0636be007309be2a00c]
 
 (1) The blood may only be supplied to a veterinary surgeon.
 
@@ -385,7 +385,7 @@ The Secretary of State shall inspect the authorised premises every two years.
 
 (4) It is an offence to fail to comply with this paragraph.
 
-#### 23. Labelling[^key-b20c69e2a1fba218f5aee8f0109846b1]
+#### 23. Labelling[^c-b20c69e2a1fba218f5aee8f0109846b1]
 
 (1) The operator of a blood bank must ensure that every container used for the blood is labelled with—
 
@@ -397,7 +397,7 @@ The Secretary of State shall inspect the authorised premises every two years.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 24. Records[^key-7b4e83ccc142e96e766667b293e12241]
+#### 24. Records[^c-7b4e83ccc142e96e766667b293e12241]
 
 (1) The operator of a blood bank must, as soon as is reasonably practicable, record—
 
@@ -411,13 +411,13 @@ The Secretary of State shall inspect the authorised premises every two years.
 
 (3) It is an offence to fail to comply with this paragraph.
 
-#### 25. Inspection of blood banks[^key-aed766be2bd0897741218fa50e614ac4]
+#### 25. Inspection of blood banks[^c-aed766be2bd0897741218fa50e614ac4]
 
 The Secretary of State shall inspect a blood bank every two years.
 
 ### PART 4 — Authorisation of manufacturers of products for administration under the cascade
 
-#### 26. Authorisation to manufacture products for administration under the cascade[^key-9438165add80069c5c457c90fdcff25a]
+#### 26. Authorisation to manufacture products for administration under the cascade[^c-9438165add80069c5c457c90fdcff25a]
 
 (1) The Secretary of State may authorise a person and premises to manufacture an unauthorised veterinary medicinal product for administration under the cascade.
 
@@ -431,7 +431,7 @@ The Secretary of State shall inspect a blood bank every two years.
 
 (6) It is an offence for the holder of an authorisation to manufacture a product other than in accordance with the authorisation.
 
-#### 27. Labelling[^key-7bb093a1e2162b5ab598743b02168abe]
+#### 27. Labelling[^c-7bb093a1e2162b5ab598743b02168abe]
 
 (1) The authorised person must ensure that, before a veterinary medicinal product is supplied, every container is labelled with—
 
@@ -445,7 +445,7 @@ The Secretary of State shall inspect a blood bank every two years.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 28. Records[^key-71e84f4bad8b2b3d6d9af26187a4f118]
+#### 28. Records[^c-71e84f4bad8b2b3d6d9af26187a4f118]
 
 (1) The authorised person must, as soon as is reasonably practicable, record—
 
@@ -459,76 +459,76 @@ The Secretary of State shall inspect a blood bank every two years.
 
 (3) It is an offence to fail to comply with this paragraph.
 
-#### 29. Adverse reaction[^key-e686971d7b33846ffe1b62ee230667c4]
+#### 29. Adverse reaction[^c-e686971d7b33846ffe1b62ee230667c4]
 
 (1) The authorised person must notify the Secretary of State of any adverse reaction to a product manufactured by him within 15 days of learning of the reaction.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 30. Inspection of premises[^key-16b9d0c5085222f6362158329b1cc183]
+#### 30. Inspection of premises[^c-16b9d0c5085222f6362158329b1cc183]
 
 The Secretary of State shall inspect the authorised premises every two years.
 
 ## Annotations
 
-[^key-2892b24b29a3d8b16b19c6602598c9a4]: Commencement: Sch. 2 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-2892b24b29a3d8b16b19c6602598c9a4]: Commencement: Sch. 2 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-c8b198c3cd4a564e00333d63d1b86e77]: Commencement: Sch. 2 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-c8b198c3cd4a564e00333d63d1b86e77]: Commencement: Sch. 2 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-e235b94fccccae41ffef64838b183cce]: Commencement: Sch. 2 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e235b94fccccae41ffef64838b183cce]: Commencement: Sch. 2 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7d1686b9405b06bce040aa986365fbf2]: Commencement: Sch. 2 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7d1686b9405b06bce040aa986365fbf2]: Commencement: Sch. 2 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b279c3107756f4c165d9eee1c889284a]: Commencement: Sch. 2 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b279c3107756f4c165d9eee1c889284a]: Commencement: Sch. 2 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-fcf4221eba8612b0605049d51a6af85a]: Commencement: Sch. 2 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-fcf4221eba8612b0605049d51a6af85a]: Commencement: Sch. 2 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-0c3d50cf67e75400cd719146294ff9f1]: Commencement: Sch. 2 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-0c3d50cf67e75400cd719146294ff9f1]: Commencement: Sch. 2 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00025]: Footnote: OJ No. L 228, 17.8.91, p. 70.
 
-[^key-979bbd2681f8bf2136649dacbb73b769]: Commencement: Sch. 2 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-979bbd2681f8bf2136649dacbb73b769]: Commencement: Sch. 2 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-bc6ba2470d516ed9529a9d3492ccaa5c]: Commencement: Sch. 2 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bc6ba2470d516ed9529a9d3492ccaa5c]: Commencement: Sch. 2 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7272e20ab2e5e1e503ecf56ff53b5095]: Commencement: Sch. 2 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7272e20ab2e5e1e503ecf56ff53b5095]: Commencement: Sch. 2 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-3174868d2cfda97e8080ff0294b10366]: Commencement: Sch. 2 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-3174868d2cfda97e8080ff0294b10366]: Commencement: Sch. 2 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-3a11d3a9c0b8d31b3332d6d604e7a5e4]: Commencement: Sch. 2 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-3a11d3a9c0b8d31b3332d6d604e7a5e4]: Commencement: Sch. 2 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-1daf72099edd8c63fab46e8f42854faf]: Commencement: Sch. 2 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1daf72099edd8c63fab46e8f42854faf]: Commencement: Sch. 2 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7490976e3779e4c76b2ded48b4988a6f]: Commencement: Sch. 2 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7490976e3779e4c76b2ded48b4988a6f]: Commencement: Sch. 2 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-f87b6f10925b0146a6052d2203305346]: Commencement: Sch. 2 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-f87b6f10925b0146a6052d2203305346]: Commencement: Sch. 2 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ac05472385476dc692d62710a5d8b29e]: Commencement: Sch. 2 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ac05472385476dc692d62710a5d8b29e]: Commencement: Sch. 2 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-fc7dfd089300445f08eee37bd18befc0]: Commencement: Sch. 2 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-fc7dfd089300445f08eee37bd18befc0]: Commencement: Sch. 2 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b08762337a8d53babed3207034f12188]: Commencement: Sch. 2 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b08762337a8d53babed3207034f12188]: Commencement: Sch. 2 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-9b1af1fc385a508dd50f117fce7fce8d]: Commencement: Sch. 2 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-9b1af1fc385a508dd50f117fce7fce8d]: Commencement: Sch. 2 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7ef0ccdfc5cf6f9f3d98b5daa9bf928b]: Commencement: Sch. 2 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7ef0ccdfc5cf6f9f3d98b5daa9bf928b]: Commencement: Sch. 2 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-9d6dcc33aca6d471f9b3f0617be48126]: Commencement: Sch. 2 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-9d6dcc33aca6d471f9b3f0617be48126]: Commencement: Sch. 2 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6c0a753064dfb0636be007309be2a00c]: Commencement: Sch. 2 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6c0a753064dfb0636be007309be2a00c]: Commencement: Sch. 2 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b20c69e2a1fba218f5aee8f0109846b1]: Commencement: Sch. 2 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b20c69e2a1fba218f5aee8f0109846b1]: Commencement: Sch. 2 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7b4e83ccc142e96e766667b293e12241]: Commencement: Sch. 2 para. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7b4e83ccc142e96e766667b293e12241]: Commencement: Sch. 2 para. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-aed766be2bd0897741218fa50e614ac4]: Commencement: Sch. 2 para. 25 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-aed766be2bd0897741218fa50e614ac4]: Commencement: Sch. 2 para. 25 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-9438165add80069c5c457c90fdcff25a]: Commencement: Sch. 2 para. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-9438165add80069c5c457c90fdcff25a]: Commencement: Sch. 2 para. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7bb093a1e2162b5ab598743b02168abe]: Commencement: Sch. 2 para. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7bb093a1e2162b5ab598743b02168abe]: Commencement: Sch. 2 para. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-71e84f4bad8b2b3d6d9af26187a4f118]: Commencement: Sch. 2 para. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-71e84f4bad8b2b3d6d9af26187a4f118]: Commencement: Sch. 2 para. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-e686971d7b33846ffe1b62ee230667c4]: Commencement: Sch. 2 para. 29 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e686971d7b33846ffe1b62ee230667c4]: Commencement: Sch. 2 para. 29 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-16b9d0c5085222f6362158329b1cc183]: Commencement: Sch. 2 para. 30 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-16b9d0c5085222f6362158329b1cc183]: Commencement: Sch. 2 para. 30 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25.7. Recording objections where recording of evidence dispensed with[^key-b2bb785dc7f75ba5c6e640678231c9cd]
+## 25.7. Recording objections where recording of evidence dispensed with[^c-b2bb785dc7f75ba5c6e640678231c9cd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Where the recording of evidence has been dispensed with under rule 25.5(1), a pa
 
 ## Annotations
 
-[^key-b2bb785dc7f75ba5c6e640678231c9cd]: Commencement: Para. 25.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-b2bb785dc7f75ba5c6e640678231c9cd]: Commencement: Para. 25.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

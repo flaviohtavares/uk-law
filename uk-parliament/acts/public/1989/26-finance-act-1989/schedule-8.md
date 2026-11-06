@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Amendments of Chapter I of Part XII of Taxes Act 1988 (InsuranceCompanies)[^key-8737a35d6fd55b81d598b028dee3c2ca]
+## SCHEDULE 8 — Amendments of Chapter I of Part XII of Taxes Act 1988 (InsuranceCompanies)[^c-8737a35d6fd55b81d598b028dee3c2ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Section 84.
 
-**1.**[^key-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8737a35d6fd55b81d598b028dee3c2ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8737a35d6fd55b81d598b028dee3c2ca]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1989/26/schedule/8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/a/ii)
+[^c-8737a35d6fd55b81d598b028dee3c2ca]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1989/26/schedule/8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/a/ii)

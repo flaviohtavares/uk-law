@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Amalgamation[^key-3ddb6f7ad1006cf21e1121047a54b216]
+## 78. Amalgamation[^c-3ddb6f7ad1006cf21e1121047a54b216]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ After paragraph 15G of Schedule 1 to the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-3ddb6f7ad1006cf21e1121047a54b216]: Commencement: [S. 78](https://www.legislation.gov.uk/mwa/2011/5/section/78) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)
+[^c-3ddb6f7ad1006cf21e1121047a54b216]: Commencement: [S. 78](https://www.legislation.gov.uk/mwa/2011/5/section/78) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)

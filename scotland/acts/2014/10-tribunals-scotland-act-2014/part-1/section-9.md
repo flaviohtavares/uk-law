@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Directions on functions[^key-7ccdf67cc7ddf04c6a6b368ca2694267]
+## 9. Directions on functions[^c-7ccdf67cc7ddf04c6a6b368ca2694267]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ccdf67cc7ddf04c6a6b368ca2694267]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/10/section/9) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-7ccdf67cc7ddf04c6a6b368ca2694267]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/10/section/9) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

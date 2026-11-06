@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Residuary bodies[^key-3c9b94e77798161e7ccbfae3b4a5f01d]
+## 17. Residuary bodies[^c-3c9b94e77798161e7ccbfae3b4a5f01d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c9b94e77798161e7ccbfae3b4a5f01d]: Commencement: S. 17 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-3c9b94e77798161e7ccbfae3b4a5f01d]: Commencement: S. 17 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

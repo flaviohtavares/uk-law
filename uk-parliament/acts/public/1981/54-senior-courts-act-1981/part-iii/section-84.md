@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Rules of court may be made by the Lord Chief Justice[^key-fe37eb068a391818b0749e531afb6e24] for the purpose of regulating and prescribing , except in relation to any criminal cause or matter,[^c20646931] the practice and procedure to be followed in the Crown Court[^c12335541] [^c20646961]. . . .
+(1) Rules of court may be made by the Lord Chief Justice[^c-fe37eb068a391818b0749e531afb6e24] for the purpose of regulating and prescribing , except in relation to any criminal cause or matter,[^c20646931] the practice and procedure to be followed in the Crown Court[^c12335541] [^c20646961]. . . .
 
 (2) Without prejudice to the generality of subsection (1), the matters about which rules of court may be made under this section include all matters of practice and procedure in the Senior Courts[^c20714681] which were regulated or prescribed by rules of court immediately before the commencement of this Act.
 
@@ -63,9 +63,9 @@ to proceedings to which rules made under this section apply.
 
 (8) [^c20690361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) In this section “**special rules**” means rules applying to proceedings of any particular kind in the Senior Courts, being rules made by an authority other than the Civil Procedure Rule Committee[^c12335581], the Family Procedure Rule Committee[^c20647061] or[^key-9df658826f0aa940e27bded1e8a65c54] , the Criminal Procedure Rule Committee [^key-f6bf51c657a15efeea8739fd10496b00]... under any provision of this or any other Act which (in whatever words) confers on that authority power to make rules in relation to proceedings of that kind in the Senior Courts.
+(9) In this section “**special rules**” means rules applying to proceedings of any particular kind in the Senior Courts, being rules made by an authority other than the Civil Procedure Rule Committee[^c12335581], the Family Procedure Rule Committee[^c20647061] or[^c-9df658826f0aa940e27bded1e8a65c54] , the Criminal Procedure Rule Committee [^c-f6bf51c657a15efeea8739fd10496b00]... under any provision of this or any other Act which (in whatever words) confers on that authority power to make rules in relation to proceedings of that kind in the Senior Courts.
 
-(10)[^key-db2384821ef06531e2f5b2e242bd3865] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise the Lord Chief Justice’s functions under this section.
+(10)[^c-db2384821ef06531e2f5b2e242bd3865] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise the Lord Chief Justice’s functions under this section.
 
 ## Annotations
 
@@ -75,7 +75,7 @@ to proceedings to which rules made under this section apply.
 
     S. 84 extended (4.7.1996 but with effect as mentioned in s. 1 (3)(5)) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [s. 19(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/19/1) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1)); [S.I. 1997/682](https://www.legislation.gov.uk/uksi/1997/682).
 
-[^key-fe37eb068a391818b0749e531afb6e24]: Textual amendment: Words in [s. 84(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/84/1) inserted (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/2/2)
+[^c-fe37eb068a391818b0749e531afb6e24]: Textual amendment: Words in [s. 84(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/84/1) inserted (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/2/2)
 
 [^c20646931]: Textual amendment: Words in s. 84(1) inserted (1.9.2004) by [The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035)](https://www.legislation.gov.uk/uksi/2004/2035), [art. 3](https://www.legislation.gov.uk/uksi/2004/2035/article/3), [Sch. para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2004/2035/schedule/paragraph/15/2/a) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/2))
 
@@ -99,8 +99,8 @@ to proceedings to which rules made under this section apply.
 
 [^c20647061]: Textual amendment: Words in s. 84(9) inserted (1.9.2004) by [The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035)](https://www.legislation.gov.uk/uksi/2004/2035), [art. 3](https://www.legislation.gov.uk/uksi/2004/2035/article/3), [Sch. para. 15(4)](https://www.legislation.gov.uk/uksi/2004/2035/schedule/paragraph/15/4) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/2))
 
-[^key-9df658826f0aa940e27bded1e8a65c54]: Textual amendment: Word in [s. 84(9)](https://www.legislation.gov.uk/ukpga/1981/54/section/84/9) inserted (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/2/3/a)
+[^c-9df658826f0aa940e27bded1e8a65c54]: Textual amendment: Word in [s. 84(9)](https://www.legislation.gov.uk/ukpga/1981/54/section/84/9) inserted (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/2/3/a)
 
-[^key-f6bf51c657a15efeea8739fd10496b00]: Textual amendment: Words in [s. 84(9)](https://www.legislation.gov.uk/ukpga/1981/54/section/84/9) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/2/3/b)
+[^c-f6bf51c657a15efeea8739fd10496b00]: Textual amendment: Words in [s. 84(9)](https://www.legislation.gov.uk/ukpga/1981/54/section/84/9) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/2/3/b)
 
-[^key-db2384821ef06531e2f5b2e242bd3865]: Textual amendment: [S. 84(10)](https://www.legislation.gov.uk/ukpga/1981/54/section/84/10) inserted (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/2/4)
+[^c-db2384821ef06531e2f5b2e242bd3865]: Textual amendment: [S. 84(10)](https://www.legislation.gov.uk/ukpga/1981/54/section/84/10) inserted (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/2/4)

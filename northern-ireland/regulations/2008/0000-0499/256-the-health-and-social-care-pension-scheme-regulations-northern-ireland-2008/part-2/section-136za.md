@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136ZA. Benefit information statements[^key-8593eb877b67c2d3d75e84b6d7eb62e5]
+## 136ZA. Benefit information statements[^c-8593eb877b67c2d3d75e84b6d7eb62e5]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) A benefit information statement provided pursuant to paragraph (1) is to be treated as though it is the information mentioned in regulation 16(2)(a) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 for the purposes of determining whether or not information must be given under regulation 16(1) of those Regulations.
 
-## 136ZA. Waiting Period Joiners who are in receipt of a tier 1 ill-health pension under Regulation 13A of the 1995 Regulations[^key-0d4b52589377b86413d24e256c3b1400]
+## 136ZA. Waiting Period Joiners who are in receipt of a tier 1 ill-health pension under Regulation 13A of the 1995 Regulations[^c-0d4b52589377b86413d24e256c3b1400]
 
 *Extent: N.I.*
 
@@ -64,6 +64,6 @@ This is subject to paragraph (5).
 
 ## Annotations
 
-[^key-8593eb877b67c2d3d75e84b6d7eb62e5]: Textual amendment: [Reg. 136ZA](https://www.legislation.gov.uk/nisr/2008/256/regulation/136ZA) inserted (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2015/122/schedule/2/paragraph/15)
+[^c-8593eb877b67c2d3d75e84b6d7eb62e5]: Textual amendment: [Reg. 136ZA](https://www.legislation.gov.uk/nisr/2008/256/regulation/136ZA) inserted (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2015/122/schedule/2/paragraph/15)
 
-[^key-0d4b52589377b86413d24e256c3b1400]: Textual amendment: [Pt. 2 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 34](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/34), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-0d4b52589377b86413d24e256c3b1400]: Textual amendment: [Pt. 2 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 34](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/34), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)

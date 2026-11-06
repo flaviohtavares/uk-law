@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Appointment of scheme actuary and actuarial valuations[^key-1a4d1f64d9d060c72bc2438a4bce1399]
+## 117. Appointment of scheme actuary and actuarial valuations[^c-1a4d1f64d9d060c72bc2438a4bce1399]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a4d1f64d9d060c72bc2438a4bce1399]: Commencement: Reg. 117 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-1a4d1f64d9d060c72bc2438a4bce1399]: Commencement: Reg. 117 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

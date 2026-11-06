@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 159. Interpretation[^key-3e5d9775c73d7247d890a452e4b9e1a7]
+## 159. Interpretation[^c-3e5d9775c73d7247d890a452e4b9e1a7]
 
 *Extent: N.I.*
 
@@ -89,4 +89,4 @@ but do not include any other adoptive relationships.
 
 ## Annotations
 
-[^key-3e5d9775c73d7247d890a452e4b9e1a7]: Commencement: S. 159 in operation at 28.4.2022, see [s. 160(2)](https://www.legislation.gov.uk/nia/2022/18/section/160/2)
+[^c-3e5d9775c73d7247d890a452e4b9e1a7]: Commencement: S. 159 in operation at 28.4.2022, see [s. 160(2)](https://www.legislation.gov.uk/nia/2022/18/section/160/2)

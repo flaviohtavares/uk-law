@@ -62,13 +62,13 @@ In accordance with paragraph 19(2) of that schedule, Ministers have decided to m
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-52f3515c9f090c23625b629180df3ba2]
+### 1. Citation and commencement[^c-52f3515c9f090c23625b629180df3ba2]
 
 (1) This Order may be cited as the Stornoway Port Authority Harbour Revision Order 2019 and comes into force on the day after the day on which it is made.
 
 (2) The Stornoway Harbour Order Confirmation Act 1976, the Stornoway Harbour Revision (Constitution) Order 2003, the Stornoway Harbour Revision (Constitution) Order 2008 and this Order may be cited together as the Stornoway Harbour Act and Orders 1976 to 2019.
 
-### 2. Interpretation[^key-80aa4e064ca88f57dac7e8e5be071cf6]
+### 2. Interpretation[^c-80aa4e064ca88f57dac7e8e5be071cf6]
 
 (1) In this Order—
 
@@ -102,7 +102,7 @@ In accordance with paragraph 19(2) of that schedule, Ministers have decided to m
 
 ## PART 2 — CONSTITUTION
 
-### 3. Membership of the Authority[^key-647c0b3e3a487e227bc4e62c8a8e29e4]
+### 3. Membership of the Authority[^c-647c0b3e3a487e227bc4e62c8a8e29e4]
 
 (1) On and after the new constitution date the Authority shall consist of—
 
@@ -113,7 +113,7 @@ In accordance with paragraph 19(2) of that schedule, Ministers have decided to m
 
 (3) Members appointed under article 5 shall, unless appointed to fill a casual vacancy and subject to the provisions of this Order, hold office for the period of three years from the relevant appointment date.
 
-### 4. Applications to the Authority[^key-51bc7fd2422a3523108592add6a2ee81]
+### 4. Applications to the Authority[^c-51bc7fd2422a3523108592add6a2ee81]
 
 (1) All persons seeking appointment under article 5 shall submit an application form to the Authority by the application date in the year of the appointment date.
 
@@ -126,7 +126,7 @@ In accordance with paragraph 19(2) of that schedule, Ministers have decided to m
 - (c) such other information as the Authority may see fit to require, and
 - (d) such biographical information as the applicant sees fit to supply.
 
-### 5. Appointment as a member[^key-6d037865e289cce71b702edbb256333e]
+### 5. Appointment as a member[^c-6d037865e289cce71b702edbb256333e]
 
 (1) There shall be an appointing body consisting of the following three persons, none of whom shall have made an application under article 4—
 
@@ -160,7 +160,7 @@ In accordance with paragraph 19(2) of that schedule, Ministers have decided to m
   - (xv) any other skills and matters considered from time to time by the Authority to be relevant to the discharge of its functions.
 - (c) any guidance issued by the Scottish Ministers from time to time with respect to the exercise of such functions.
 
-### 6. Persons who may not be members[^key-4301bce805391464a62859f0ad3bd954]
+### 6. Persons who may not be members[^c-4301bce805391464a62859f0ad3bd954]
 
 (1) The appointing body may not appoint a person as a member of the Authority if the person—
 
@@ -180,11 +180,11 @@ In accordance with paragraph 19(2) of that schedule, Ministers have decided to m
 
 (3) No person shall be capable of acting as a member without having signed and delivered to the Chief Executive of the Authority a declaration in the terms set out in schedule 2 of this Order and a person shall cease to be a member if that declaration has not been made within three months of the date of appointment.
 
-### 7. Resignation of members[^key-ce2c1721bc77176b906d289aabe34739]
+### 7. Resignation of members[^c-ce2c1721bc77176b906d289aabe34739]
 
 A member may resign at any time by giving notice in writing to the Chair of the Authority.
 
-### 8. Disqualification of members[^key-8fc4043df4c897e6455c24b6b837c16e]
+### 8. Disqualification of members[^c-8fc4043df4c897e6455c24b6b837c16e]
 
 If the Authority is satisfied that a member—
 
@@ -195,11 +195,11 @@ If the Authority is satisfied that a member—
 
 the Authority may declare the office of such a person to be vacant and thereupon the office shall become vacant.
 
-### 9. Power to co-opt additional members[^key-c95d86ccd4c3d3c45967ff9b568189ec]
+### 9. Power to co-opt additional members[^c-c95d86ccd4c3d3c45967ff9b568189ec]
 
 The members referred to in articles 3(1) and 10 may at any time co-opt not more than two persons to serve as a member for such period not exceeding twelve months as the Authority may specify at the time of co-option.
 
-### 10. Casual vacancies[^key-0398ba0d613b320388dd4560940f0dc4]
+### 10. Casual vacancies[^c-0398ba0d613b320388dd4560940f0dc4]
 
 (1) A casual vacancy shall arise in the event of the death, disqualification, or vacation of office by a member, before the end of that member's term of office as specified in accordance with article 3 (or as the case may be article 9), or the failure of a member to make a declaration under article 6.
 
@@ -207,13 +207,13 @@ The members referred to in articles 3(1) and 10 may at any time co-opt not more 
 
 (3) A member appointed to fill a casual vacancy under this article shall hold office (unless that person previously dies or otherwise ceases to be a member) during the remainder of the term for which the member in whose place that person was appointed, would, in ordinary course, have continued in office.
 
-### 11. Incidental provisions relating to the Authority[^key-0326e07c1d76350f089d6e4e4e4b5e81]
+### 11. Incidental provisions relating to the Authority[^c-0326e07c1d76350f089d6e4e4e4b5e81]
 
 On and after the new constitution date, the provisions of schedule 1 of this Order shall have effect with respect to the Authority.
 
 ## PART 3 — WORKS
 
-### 12. Power to construct works[^key-a60515a3c0e7da3e21294e559ac70110]
+### 12. Power to construct works[^c-a60515a3c0e7da3e21294e559ac70110]
 
 The Authority may in the lines and situations and within the limits of deviation and according to the levels shown on the deposited plans and sections construct and maintain the following works—
 
@@ -224,30 +224,30 @@ The Authority may in the lines and situations and within the limits of deviation
 - Work No. 5 – Newton Marina - A boat hoist support structure, comprising two steel beams 37 metres long 0.7 metres deep and 1.2 metres wide supported on 12 steel bearing piles 508 millimetres in diameter, driven into the bed of the harbour, and protected on its east side by a pontoon fender, to allow the recovery and launching of vessels up to 80 tonnes in weight, the location of which is shown on sheet 3, with the limits of deviation shown in pink, and sections of which are shown on sheet 5.
 - Work No. 6 – Newton Marina – A new passing place on the causeway to Goat Island, formed by building a rock armoured rock fill extension on the west side of the causeway, with a surfaced road area of 110 square metres, the location of which is shown on sheet 3, with the limits of deviation shown in orange, and sections of which are shown on sheet 5.
 - Work No. 7 – Newton Marina – Two boat sheds, 12.5 metres long, 5 metres wide and 6 metres high, comprising steel profile clad steel framed buildings with roller shutter doors, to replace existing boat sheds which are to be removed, the location of which is shown on sheet 3, with the limits of deviation shown in brown, and sections of which are shown on sheet 6.
-- Work No. 8 – Deep Water Port - The reclamation and infilling of an area comprising 66,000 square metres of the seabed and foreshore and the excavation by blasting and levelling of 50,000 square metres of adjacent land, to form quayside working areas, laydown and storage areas, marshalling and parking areas for a freight ferry, and development areas, having berthing quay walls at its east and north edges, rock armoured revetted slopes at the south edges of the reclamation and rock faces around the edges of the excavated area, the location of which is shown on sheet 3A, with the limits of deviation shown in red, and sections of which are shown on sheet 4A.[^key-3f59817b98d6488bf6bc1535ca8311cc]
+- Work No. 8 – Deep Water Port - The reclamation and infilling of an area comprising 66,000 square metres of the seabed and foreshore and the excavation by blasting and levelling of 50,000 square metres of adjacent land, to form quayside working areas, laydown and storage areas, marshalling and parking areas for a freight ferry, and development areas, having berthing quay walls at its east and north edges, rock armoured revetted slopes at the south edges of the reclamation and rock faces around the edges of the excavated area, the location of which is shown on sheet 3A, with the limits of deviation shown in red, and sections of which are shown on sheet 4A.[^c-3f59817b98d6488bf6bc1535ca8311cc]
 - Work No. 9 – A pier of open piled construction, 114 metres in length and 15 metres in width, connected to the south east corner of Work No.8, the location of which is shown on sheet 3A, with the limits of deviation shown in brown, and sections of which are shown on sheet 4A.
 - Work No. 10 – A steel linkspan bridge 40 metres long and varying from 10 to 20 metres in width, supported at its landward end on Work No. 8; and at its seaward end, on two dolphins, one partially piled and partially supported on the quay, the other partially piled and partially founded on the seabed in concrete; the location of which is shown on sheet 3A, with the limits of deviation shown in purple, and sections of which are shown on sheet 5A.
 - Work No. 11 – A road 350 metres long and 8 metres wide connecting Work No. 8 to the existing Arnish access road, constructed by excavation by blasting and levelling and with bituminous surfacing, the location of which is shown on sheet 3A, with the limits of deviation shown in blue, and sections of which are shown on sheet 5A.
 - Work No. 12 – A road 800 metres long and 25 metres wide, connecting Work No. 8 to the Arnish Fabrication Yard, constructed variously by excavation by blasting, levelling, reclamation and infilling, the location of which is shown on sheet 3A, with the limits of deviation shown in green, and sections of which are shown on sheet 6A.
 - Work No. 13 – The reclamation and infilling of an area comprising 4,000 square metres of the seabed through the excavation by blasting and levelling of adjacent land, adjoining Work No. 12, to form an access causeway, mooring points and working area, having rock armoured revetted slopes around its perimeter, the location of which is shown on sheet 3A, with the limits of deviation shown in yellow, and sections of which are shown on sheet 7A .
 
-### 13. Power to renew, etc. works[^key-208c64df84ed389058b896e2ead4b39f]
+### 13. Power to renew, etc. works[^c-208c64df84ed389058b896e2ead4b39f]
 
 The Authority may, within the limits of deviation, renew, replace, extend or otherwise alter temporarily or permanently the works authorised by article 12 of this Order.
 
-### 14. Power to deviate[^key-c036c4630f356afeda741c74398454a8]
+### 14. Power to deviate[^c-c036c4630f356afeda741c74398454a8]
 
 In the construction or execution of the renewal, replacement, extension or alteration of the works the Authority may deviate laterally from the lines or situations shown on the deposited plans and sections to any extent not exceeding the limits of deviation and may deviate vertically from the levels of the works shown on the deposited plans and sections to any extent not exceeding 3 metres upwards and to such extent downwards as may be necessary or convenient.
 
-### 15. Rights of navigation to be interfered with[^key-3c17043b401f20157c747164d0687f6b]
+### 15. Rights of navigation to be interfered with[^c-3c17043b401f20157c747164d0687f6b]
 
 On the day on which this Order comes into force any rights of navigation within the harbour shall be extinguished to the extent only that the exercise of such rights would be prevented or hindered by the construction, presence, use or maintenance of the works authorised by article 12 (power to construct works).
 
-### 16. Subsidiary works[^key-e2a6b82697527e0f2ae5a386290a299e]
+### 16. Subsidiary works[^c-e2a6b82697527e0f2ae5a386290a299e]
 
 The Authority may from time to time within the limits of deviation construct, maintain and operate, whether temporarily or permanently, such other works as may be necessary or convenient for the purposes, or in connection with or in consequence of, the construction, maintenance or use of the works of the port; including works for the accommodation or convenience of vessels or for the loading and unloading of goods and the embarking and landing of passengers.
 
-### 17. Power to dredge[^key-930590555e73064133f45e3ca2540612]
+### 17. Power to dredge[^c-930590555e73064133f45e3ca2540612]
 
 (1) Without prejudice to any other powers which may be exercisable by the Authority within the harbour, the Authority may, for the purposes of constructing and maintaining the works or the harbour, and of affording access to the harbour by vessels, from time to time deepen, dredge, scour, cleanse, alter and improve so much of the bed, shores and channels of the harbour as lie within the limits of the harbour and may use, appropriate or dispose of the materials (other than wreck within the meaning of Part IX of the Merchant Shipping Act), from time to time dredged by them.
 
@@ -256,11 +256,11 @@ The Authority may from time to time within the limits of deviation construct, ma
 - (a) in contravention of the provisions of any enactment as respects the disposal of waste, or
 - (b) in any place below the level of high water otherwise than in such a position and under such conditions and restrictions as may be approved or prescribed by the Scottish Ministers.
 
-### 18. Obstruction of works[^key-9b52c742aa682f566c48cdd6aa47ce47]
+### 18. Obstruction of works[^c-9b52c742aa682f566c48cdd6aa47ce47]
 
 Any person who intentionally obstructs any person acting under the authority of the Authority in setting out the lines of or constructing the works or who damages, moves or removes any pole, stake, station point or bench mark established for the purpose of such setting out, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 19. Period for completion of works[^key-c40e2076014dd6c4ae7b7b327cf80d8e]
+### 19. Period for completion of works[^c-c40e2076014dd6c4ae7b7b327cf80d8e]
 
 (1) Subject to paragraph (2), if the works are not substantially completed within ten years from the coming into force of this Order or such extended time as the Scottish Ministers may on the application of the Authority allow by consent in writing, then on the expiration of that period or such extended time (as the case may be) the powers granted by this Order to the Authority for making and maintaining the works shall cease except as to those works as are at that time substantially commenced.
 
@@ -274,7 +274,7 @@ Any person who intentionally obstructs any person acting under the authority of 
 
 ## PART 4 — HARBOUR REGULATION
 
-### 20. General byelaws[^key-431a663fea5678b88f0badb35dc34ca7]
+### 20. General byelaws[^c-431a663fea5678b88f0badb35dc34ca7]
 
 (1) The Authority may from time to time make byelaws for the efficient management and regulation of the harbour.
 
@@ -301,7 +301,7 @@ Any person who intentionally obstructs any person acting under the authority of 
 - (b) relate to the whole of the harbour or to any part thereof,
 - (c) make different provision for different parts of the harbour or in relation to different classes of vessels or vehicles.
 
-### 21. Confirmation of byelaws[^key-cadb7c50102968438b8cb02a0e726b37]
+### 21. Confirmation of byelaws[^c-cadb7c50102968438b8cb02a0e726b37]
 
 (1) Byelaws made by the Authority under this Order shall not come into operation until they have been confirmed by the Scottish Ministers.
 
@@ -329,7 +329,7 @@ Any person who intentionally obstructs any person acting under the authority of 
 - (a) keep a copy of confirmed byelaws open to public inspection at all reasonable hours, at the Authority's principal office, and
 - (b) provide a copy of the byelaws to any person on request.
 
-### 22. General directions to vessels[^key-92178b96be0cca700e42bb2b394439c3]
+### 22. General directions to vessels[^c-92178b96be0cca700e42bb2b394439c3]
 
 (1) The Authority may, after consultation with the UK Chamber of Shipping and such bodies representing harbour users as the Authority think fit, give general directions for the purpose of promoting or securing conditions conducive to the ease, convenience or safety of navigation or for the conservation of fauna, avifauna and flora in the harbour and, without prejudice to the generality of the foregoing, for any of the following purposes—
 
@@ -347,13 +347,13 @@ and every direction given under this article shall specify the extent of its app
 
 (3) The Authority may, after consultation with the UK Chamber of Shipping and such bodies representing harbour users as the Authority think fit, revoke or amend directions given under this article.
 
-### 23. Publication of general directions[^key-34785e0e62ddc5d3eaebd4e3c2ced79f]
+### 23. Publication of general directions[^c-34785e0e62ddc5d3eaebd4e3c2ced79f]
 
 (1) Notice of the giving of a general direction and of any amendment or revocation of a general direction shall, except in case of emergency, be published by the Authority as soon as practicable, once in Lloyd's List or in some other newspaper specialising in shipping news, and published in a prominent place on the Authority's website, and, if the notice relates to the giving or amendment of a general direction, the notice shall state a place at which copies may be inspected or obtained.
 
 (2) In an emergency, notice of the giving of a general direction or of any amendment or revocation of a general direction may be given in any manner the Authority consider appropriate.
 
-### 24. Special directions to vessels[^key-d9e1ee9ad886d1a0c81b0db3330b9d37]
+### 24. Special directions to vessels[^c-d9e1ee9ad886d1a0c81b0db3330b9d37]
 
 (1) The harbourmaster may give a special direction—
 
@@ -368,15 +368,15 @@ and every direction given under this article shall specify the extent of its app
 
 (3) The harbourmaster may revoke or amend a special direction.
 
-### 25. Master's responsibility to be unaffected[^key-0b4e3d2938ce919d2feb33be239fe4e2]
+### 25. Master's responsibility to be unaffected[^c-0b4e3d2938ce919d2feb33be239fe4e2]
 
 The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction is given in relation to his vessel, persons on board, its cargo or any other person or property.
 
-### 26. Failure to comply with directions[^key-b8ae63200fbe66bcea41af6ec24efcc9]
+### 26. Failure to comply with directions[^c-b8ae63200fbe66bcea41af6ec24efcc9]
 
 The master of a vessel who fails without reasonable excuse to comply with a general direction or a special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 27. Enforcement of special directions[^key-8346d515e87aa5adf98d4f8156ec1f83]
+### 27. Enforcement of special directions[^c-8346d515e87aa5adf98d4f8156ec1f83]
 
 (1) Without prejudice to any other remedy available to the Authority, if a special direction is not complied with within a reasonable time, the harbourmaster may, where practicable, put persons on board the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
 
@@ -386,7 +386,7 @@ The master of a vessel who fails without reasonable excuse to comply with a gene
 
 ## PART 5 — MISCELLANEOUS AND GENERAL
 
-### 28. Defence to proceedings in respect of statutory nuisance[^key-73ff89ffc21fc3230d7f3c5d3a0eaed1]
+### 28. Defence to proceedings in respect of statutory nuisance[^c-73ff89ffc21fc3230d7f3c5d3a0eaed1]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990 (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79 (1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order shall be made under section 82(2) of that Act if the defender shows—
 
@@ -397,15 +397,15 @@ The master of a vessel who fails without reasonable excuse to comply with a gene
 
 (2) Section 61(9) (Prior consent for work on construction sites) of the Control of Pollution Act 1974 shall not apply where the consent relates to the use of premises by the Authority for the purposes of or in connection with the exercise of the powers conferred by this Order with respect to the construction or maintenance of the work.
 
-### 29. Borrowing powers[^key-87a7cbb4b8bc5fb9b06b59905d609503]
+### 29. Borrowing powers[^c-87a7cbb4b8bc5fb9b06b59905d609503]
 
 The Authority may from time to time borrow, by any methods and on such terms as it sees fit, such sums of money as it thinks necessary for the purposes of meeting its obligations in carrying out its statutory powers, duties and functions; and where moneys are borrowed by the Authority under this article, the Authority may, if it sees fit, borrow those moneys upon the security of some or all of its assets or of some or all of its revenues or of some or all of both its assets and revenues; and the Authority may effect such arrangements as it sees fit to mitigate against any financial risk incurred for the purposes of meeting such obligations.
 
-### 30. Saving for Commissioners of Northern Lighthouses[^key-d6167b14406a311f0ba842d0f5eb6ea7]
+### 30. Saving for Commissioners of Northern Lighthouses[^c-d6167b14406a311f0ba842d0f5eb6ea7]
 
 Nothing in this Order shall prejudice or derogate from any of the, rights, duties, or privileges of the Commissioners of Northern Lighthouses.
 
-### 31. Crown rights[^key-726faa16c135ff024ae0baf74a74c0c6]
+### 31. Crown rights[^c-726faa16c135ff024ae0baf74a74c0c6]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to that generality, nothing in this Order authorises the Authority to take, use, enter upon or in any manner interfere with any land or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
 
@@ -415,7 +415,7 @@ Nothing in this Order shall prejudice or derogate from any of the, rights, dutie
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions; and shall be deemed to have been given in writing where it is sent electronically.
 
-### 32. The Stornoway Harbour Order Confirmation Act 1976[^key-04e11d4515eb290018ae06d1839289bd]
+### 32. The Stornoway Harbour Order Confirmation Act 1976[^c-04e11d4515eb290018ae06d1839289bd]
 
 (1) The 1976 Act is amended as follows.
 
@@ -425,7 +425,7 @@ Nothing in this Order shall prejudice or derogate from any of the, rights, dutie
 
 (4) In section 34(2) for “not exceeding £100” substitute “ not exceeding level 3 on the standard scale ”.
 
-### 33. Repeals and Revocations[^key-f1006074ae306147bde31b519d83234c]
+### 33. Repeals and Revocations[^c-f1006074ae306147bde31b519d83234c]
 
 On the new constitution date the Stornoway Harbour Act and Orders 1976 to 2008 shall be repealed or revoked to the extent specified in the third column of schedule 3 of this Order.
 
@@ -441,7 +441,7 @@ Edinburgh
 
 Article 11
 
-### 1. Chair of the Authority[^key-2ed24921950fb4a833518e27236c70af]
+### 1. Chair of the Authority[^c-2ed24921950fb4a833518e27236c70af]
 
 (1) At the first meeting of the Authority after the new constitution date the members shall appoint one of their number to be Chair and another to be Vice Chair of the Authority.
 
@@ -463,7 +463,7 @@ Article 11
 
 (10) If the Chair and Vice Chair are ever both absent from any meeting of the Authority, one of the other members shall be chosen to be chair of the meeting for the purposes of that meeting only. At all meetings, the presiding chair shall, in the case of equality of votes, have a deliberative as well as a casting vote.
 
-### 2. Reappointment of members[^key-61d118866dfb200ee39abd36a8722fb1]
+### 2. Reappointment of members[^c-61d118866dfb200ee39abd36a8722fb1]
 
 (1) A member shall be eligible for reappointment as a member of the Authority unless they are ineligible for appointment under article 6 or have been disqualified from office under article 8.
 
@@ -473,37 +473,37 @@ Article 11
 
 (4) For the purposes of this paragraph, “**term**” does not include the remainder of a term during which the member was appointed to fill a casual vacancy under article 8.
 
-### 3. Quorum[^key-4575e2f34d39d682908c29167b9fb5e8]
+### 3. Quorum[^c-4575e2f34d39d682908c29167b9fb5e8]
 
 At all meetings of the Authority five members shall be a quorum.
 
-### 4. Time and place of meetings[^key-586d20269c961b846eccf75a487f3579]
+### 4. Time and place of meetings[^c-586d20269c961b846eccf75a487f3579]
 
 (1) The first meeting of the Authority shall be convened within one month after the new constitution date.
 
 (2) The Authority shall otherwise meet from time to time at such time and at such place as it thinks fit, and it shall meet at least four times in every year (excluding special meetings).
 
-### 5. Special meetings[^key-f24a216b21cd3276279bb66380e5c309]
+### 5. Special meetings[^c-f24a216b21cd3276279bb66380e5c309]
 
 (1) A special meeting of the Authority shall be called by the Chief Executive upon receiving a written request signed by three or more members which states the object of the proposed meeting. The Chief Executive shall give members at least three days written notice of the meeting and its object unless the Authority in meeting resolve that the time shall be more or less than three days. No business shall be discussed or transacted at any special meeting except the business specified in the written notice.
 
 (2) In the event that a situation arises which in the opinion of the Chair or, in their absence, the Vice Chair, or if the Chief Executive requires an emergency meeting of the Authority to be held, they shall be entitled to call such a meeting on such notice as they deem fit.
 
-### 6. Committees[^key-00441ec100a5516dd29b4d2e9669da10]
+### 6. Committees[^c-00441ec100a5516dd29b4d2e9669da10]
 
 The Authority may from time to time appoint committees from its members for such purposes as it may define and may delegate powers to any such committee taking into account any guidance issued by the Scottish Ministers from time to time. The Authority shall fix the quorum of any such committee, name the chair of the committee and may continue, alter or discontinue such committee. Every committee so appointed may meet from time to time and may adjourn from place to place as they think proper for carrying into effect the objects of this appointment. At all meetings of the committee the chair of the committee, or in their absence one of the members present to be appointed by that meeting, shall preside. All questions shall be determined by the majority of the votes of the members present and in the case of equality of votes the chair of the committee shall have a deliberative as well as a casting vote.
 
-### 7. Declaration of interests[^key-9a3c5cb120c2cb1f5b2daa6c98590a79]
+### 7. Declaration of interests[^c-9a3c5cb120c2cb1f5b2daa6c98590a79]
 
 No member shall take part in any debate or vote on any matter in which that member has a personal, financial or other significant involvement; and at the start of any proceedings on such a matter, such a member shall declare the interest and shall offer to withdraw from the debate or vote, whereupon the Chair and Chief Executive of the Authority will confirm if the member must withdraw.
 
-### 8. Authentication of seal and other documents[^key-1f574475af16e09bf64787debd626bea]
+### 8. Authentication of seal and other documents[^c-1f574475af16e09bf64787debd626bea]
 
 (1) The application of the seal of the Authority shall be authenticated by the signature of the Chair of the Authority or some other member authorised by the Authority to authenticate the application of the seal, and of the Chief Executive of the Authority or some person authorised by the Authority to act in his or her place in that behalf.
 
 (2) Any notice, licence or other document given or issued by the Authority shall, unless the contrary intention is expressed, be sufficiently authorised if signed by the Chief Executive of the Authority or a duly authorised officer of the Authority.
 
-### 9. General[^key-e6d913ab8e1779a556d5983ae8b040d0]
+### 9. General[^c-e6d913ab8e1779a556d5983ae8b040d0]
 
 (1) No act or proceedings of the Authority, or of any committee of their number, shall be invalid or illegal in consequence only of there being any vacancy in the number of members at the time of such act or proceeding.
 
@@ -521,11 +521,11 @@ No member shall take part in any debate or vote on any matter in which that memb
 
 Article 6
 
-[^key-5d58e61f14e077c0b1ebd0027effbf58]
+[^c-5d58e61f14e077c0b1ebd0027effbf58]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2019/76/images/ssi_20190076_en_sld_001)
 
-## SCHEDULE 3 — REPEALS AND REVOCATIONS[^key-48a0e679bdd5b8e7274d3be9dc55ed86]
+## SCHEDULE 3 — REPEALS AND REVOCATIONS[^c-48a0e679bdd5b8e7274d3be9dc55ed86]
 
 Article 33
 
@@ -557,9 +557,9 @@ The Order amends The Stornoway Harbour Order Confirmation Act 1976 and consolida
 
 [^c23604061]: Marginal citation: [Schedule 3](https://www.legislation.gov.uk/ssi/2019/76/schedule/3) was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445) and relevantly amended by the [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [section 46(5)](https://www.legislation.gov.uk/asp/2005/12/section/46/5) and by the [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [section 25(5)](https://www.legislation.gov.uk/asp/2007/8/section/25/5).
 
-[^key-52f3515c9f090c23625b629180df3ba2]: Commencement: Art. 1 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-52f3515c9f090c23625b629180df3ba2]: Commencement: Art. 1 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-80aa4e064ca88f57dac7e8e5be071cf6]: Commencement: Art. 2 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-80aa4e064ca88f57dac7e8e5be071cf6]: Commencement: Art. 2 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
 [^c23604071]: Marginal citation: 1976 C.xxi.
 
@@ -571,90 +571,90 @@ The Order amends The Stornoway Harbour Order Confirmation Act 1976 and consolida
 
 [^c23604111]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21),
 
-[^key-647c0b3e3a487e227bc4e62c8a8e29e4]: Commencement: Art. 3 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-647c0b3e3a487e227bc4e62c8a8e29e4]: Commencement: Art. 3 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-51bc7fd2422a3523108592add6a2ee81]: Commencement: Art. 4 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-51bc7fd2422a3523108592add6a2ee81]: Commencement: Art. 4 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-6d037865e289cce71b702edbb256333e]: Commencement: Art. 5 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-6d037865e289cce71b702edbb256333e]: Commencement: Art. 5 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-4301bce805391464a62859f0ad3bd954]: Commencement: Art. 6 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-4301bce805391464a62859f0ad3bd954]: Commencement: Art. 6 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-ce2c1721bc77176b906d289aabe34739]: Commencement: Art. 7 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-ce2c1721bc77176b906d289aabe34739]: Commencement: Art. 7 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-8fc4043df4c897e6455c24b6b837c16e]: Commencement: Art. 8 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-8fc4043df4c897e6455c24b6b837c16e]: Commencement: Art. 8 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-c95d86ccd4c3d3c45967ff9b568189ec]: Commencement: Art. 9 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-c95d86ccd4c3d3c45967ff9b568189ec]: Commencement: Art. 9 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-0398ba0d613b320388dd4560940f0dc4]: Commencement: Art. 10 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-0398ba0d613b320388dd4560940f0dc4]: Commencement: Art. 10 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-0326e07c1d76350f089d6e4e4e4b5e81]: Commencement: Art. 11 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-0326e07c1d76350f089d6e4e4e4b5e81]: Commencement: Art. 11 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-a60515a3c0e7da3e21294e559ac70110]: Commencement: Art. 12 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-a60515a3c0e7da3e21294e559ac70110]: Commencement: Art. 12 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-3f59817b98d6488bf6bc1535ca8311cc]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/ssi/2019/76/article/12) substituted (22.4.2021) by [The Stornoway Port Authority Harbour Revision Order 2021 (S.S.I. 2021/192)](https://www.legislation.gov.uk/ssi/2021/192), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/192/article/1/1), [3](https://www.legislation.gov.uk/ssi/2021/192/article/3), [4](https://www.legislation.gov.uk/ssi/2021/192/article/4) (with [arts. 6](https://www.legislation.gov.uk/ssi/2021/192/article/6), [7](https://www.legislation.gov.uk/ssi/2021/192/article/7))
+[^c-3f59817b98d6488bf6bc1535ca8311cc]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/ssi/2019/76/article/12) substituted (22.4.2021) by [The Stornoway Port Authority Harbour Revision Order 2021 (S.S.I. 2021/192)](https://www.legislation.gov.uk/ssi/2021/192), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/192/article/1/1), [3](https://www.legislation.gov.uk/ssi/2021/192/article/3), [4](https://www.legislation.gov.uk/ssi/2021/192/article/4) (with [arts. 6](https://www.legislation.gov.uk/ssi/2021/192/article/6), [7](https://www.legislation.gov.uk/ssi/2021/192/article/7))
 
-[^key-208c64df84ed389058b896e2ead4b39f]: Commencement: Art. 13 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-208c64df84ed389058b896e2ead4b39f]: Commencement: Art. 13 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-c036c4630f356afeda741c74398454a8]: Commencement: Art. 14 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-c036c4630f356afeda741c74398454a8]: Commencement: Art. 14 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-3c17043b401f20157c747164d0687f6b]: Commencement: Art. 15 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-3c17043b401f20157c747164d0687f6b]: Commencement: Art. 15 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-e2a6b82697527e0f2ae5a386290a299e]: Commencement: Art. 16 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-e2a6b82697527e0f2ae5a386290a299e]: Commencement: Art. 16 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-930590555e73064133f45e3ca2540612]: Commencement: Art. 17 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-930590555e73064133f45e3ca2540612]: Commencement: Art. 17 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-9b52c742aa682f566c48cdd6aa47ce47]: Commencement: Art. 18 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-9b52c742aa682f566c48cdd6aa47ce47]: Commencement: Art. 18 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-c40e2076014dd6c4ae7b7b327cf80d8e]: Commencement: Art. 19 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-c40e2076014dd6c4ae7b7b327cf80d8e]: Commencement: Art. 19 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-431a663fea5678b88f0badb35dc34ca7]: Commencement: Art. 20 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-431a663fea5678b88f0badb35dc34ca7]: Commencement: Art. 20 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-cadb7c50102968438b8cb02a0e726b37]: Commencement: Art. 21 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-cadb7c50102968438b8cb02a0e726b37]: Commencement: Art. 21 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-92178b96be0cca700e42bb2b394439c3]: Commencement: Art. 22 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-92178b96be0cca700e42bb2b394439c3]: Commencement: Art. 22 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-34785e0e62ddc5d3eaebd4e3c2ced79f]: Commencement: Art. 23 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-34785e0e62ddc5d3eaebd4e3c2ced79f]: Commencement: Art. 23 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-d9e1ee9ad886d1a0c81b0db3330b9d37]: Commencement: Art. 24 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-d9e1ee9ad886d1a0c81b0db3330b9d37]: Commencement: Art. 24 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-0b4e3d2938ce919d2feb33be239fe4e2]: Commencement: Art. 25 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-0b4e3d2938ce919d2feb33be239fe4e2]: Commencement: Art. 25 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-b8ae63200fbe66bcea41af6ec24efcc9]: Commencement: Art. 26 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-b8ae63200fbe66bcea41af6ec24efcc9]: Commencement: Art. 26 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-8346d515e87aa5adf98d4f8156ec1f83]: Commencement: Art. 27 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-8346d515e87aa5adf98d4f8156ec1f83]: Commencement: Art. 27 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-73ff89ffc21fc3230d7f3c5d3a0eaed1]: Commencement: Art. 28 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-73ff89ffc21fc3230d7f3c5d3a0eaed1]: Commencement: Art. 28 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-87a7cbb4b8bc5fb9b06b59905d609503]: Commencement: Art. 29 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-87a7cbb4b8bc5fb9b06b59905d609503]: Commencement: Art. 29 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-d6167b14406a311f0ba842d0f5eb6ea7]: Commencement: Art. 30 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-d6167b14406a311f0ba842d0f5eb6ea7]: Commencement: Art. 30 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-726faa16c135ff024ae0baf74a74c0c6]: Commencement: Art. 31 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-726faa16c135ff024ae0baf74a74c0c6]: Commencement: Art. 31 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-04e11d4515eb290018ae06d1839289bd]: Commencement: Art. 32 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-04e11d4515eb290018ae06d1839289bd]: Commencement: Art. 32 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-f1006074ae306147bde31b519d83234c]: Commencement: Art. 33 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-f1006074ae306147bde31b519d83234c]: Commencement: Art. 33 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-2ed24921950fb4a833518e27236c70af]: Commencement: Sch. 1 para. 1 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-2ed24921950fb4a833518e27236c70af]: Commencement: Sch. 1 para. 1 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-61d118866dfb200ee39abd36a8722fb1]: Commencement: Sch. 1 para. 2 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-61d118866dfb200ee39abd36a8722fb1]: Commencement: Sch. 1 para. 2 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-4575e2f34d39d682908c29167b9fb5e8]: Commencement: Sch. 1 para. 3 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-4575e2f34d39d682908c29167b9fb5e8]: Commencement: Sch. 1 para. 3 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-586d20269c961b846eccf75a487f3579]: Commencement: Sch. 1 para. 4 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-586d20269c961b846eccf75a487f3579]: Commencement: Sch. 1 para. 4 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-f24a216b21cd3276279bb66380e5c309]: Commencement: Sch. 1 para. 5 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-f24a216b21cd3276279bb66380e5c309]: Commencement: Sch. 1 para. 5 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-00441ec100a5516dd29b4d2e9669da10]: Commencement: Sch. 1 para. 6 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-00441ec100a5516dd29b4d2e9669da10]: Commencement: Sch. 1 para. 6 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-9a3c5cb120c2cb1f5b2daa6c98590a79]: Commencement: Sch. 1 para. 7 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-9a3c5cb120c2cb1f5b2daa6c98590a79]: Commencement: Sch. 1 para. 7 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-1f574475af16e09bf64787debd626bea]: Commencement: Sch. 1 para. 8 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-1f574475af16e09bf64787debd626bea]: Commencement: Sch. 1 para. 8 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-e6d913ab8e1779a556d5983ae8b040d0]: Commencement: Sch. 1 para. 9 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-e6d913ab8e1779a556d5983ae8b040d0]: Commencement: Sch. 1 para. 9 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
 [^M_I_9fd447fa-8743-4596-f3ec-51400cb941f8]: Commencement: Sch. 2 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-5d58e61f14e077c0b1ebd0027effbf58]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2019/76/schedule/2) in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-5d58e61f14e077c0b1ebd0027effbf58]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2019/76/schedule/2) in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
 
-[^key-48a0e679bdd5b8e7274d3be9dc55ed86]: Commencement: Sch. 3 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)
+[^c-48a0e679bdd5b8e7274d3be9dc55ed86]: Commencement: Sch. 3 in force at 1.3.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/76/article/1/1)

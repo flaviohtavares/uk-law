@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6A.2. Entry of information onto the individual insolvency register—individual voluntary arrangements[^key-d1919e44dc131030ccb9fcb0de2ece83]
+## 6A.2. Entry of information onto the individual insolvency register—individual voluntary arrangements[^c-d1919e44dc131030ccb9fcb0de2ece83]
 
 *Extent: E+W*
 
@@ -28,13 +28,13 @@ summary: ''
 - (b) as regards any voluntary arrangement under section 263A of which notice is given to him pursuant to Rule 5.45—
   - (i) the name and address of the debtor;
   - (ii) the date on which the arrangement was approved by the creditors; and
-  - (iii) the court in which the official receiver’s report has been filed ; and[^key-1e63dcf348bf2a2f059e4d66bbcbcf0f]
+  - (iii) the court in which the official receiver’s report has been filed ; and[^c-1e63dcf348bf2a2f059e4d66bbcbcf0f]
 - (c) in the circumstances set out in (a) and (b) above, the debtor’s gender, date of birth and any name by which he was known, not being the name in which he has entered into the voluntary arrangement
 
 (2) This Rule is subject to Rule 6A.3.
 
 ## Annotations
 
-[^key-d1919e44dc131030ccb9fcb0de2ece83]: Textual amendment: Pt. 6A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/53)
+[^c-d1919e44dc131030ccb9fcb0de2ece83]: Textual amendment: Pt. 6A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/53)
 
-[^key-1e63dcf348bf2a2f059e4d66bbcbcf0f]: Textual amendment: Rule 6A.2(1)(c) and word inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [41](https://www.legislation.gov.uk/uksi/2005/527/rule/41)
+[^c-1e63dcf348bf2a2f059e4d66bbcbcf0f]: Textual amendment: Rule 6A.2(1)(c) and word inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [41](https://www.legislation.gov.uk/uksi/2005/527/rule/41)

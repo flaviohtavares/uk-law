@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Dynamic markets: removing members from the market[^key-852c8ee1a9d8c252de8d21cd544c8a28][^key-f82a76d44c7f05bae12f09d67067927e]
+## 37. Dynamic markets: removing members from the market[^c-852c8ee1a9d8c252de8d21cd544c8a28][^c-f82a76d44c7f05bae12f09d67067927e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-852c8ee1a9d8c252de8d21cd544c8a28]: Commencement: S. 37 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-852c8ee1a9d8c252de8d21cd544c8a28]: Commencement: S. 37 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-f82a76d44c7f05bae12f09d67067927e]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/54/section/37) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-f82a76d44c7f05bae12f09d67067927e]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/54/section/37) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

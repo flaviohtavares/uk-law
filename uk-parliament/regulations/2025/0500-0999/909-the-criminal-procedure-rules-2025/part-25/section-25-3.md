@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.3. Application for ruling on procedure, evidence or other question of law[^key-be6f526bc00bd8ca84c6c7992b86e262]
+## 25.3. Application for ruling on procedure, evidence or other question of law[^c-be6f526bc00bd8ca84c6c7992b86e262]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be6f526bc00bd8ca84c6c7992b86e262]: Commencement: [Rule 25.3](https://www.legislation.gov.uk/uksi/2025/909/rule/25.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-be6f526bc00bd8ca84c6c7992b86e262]: Commencement: [Rule 25.3](https://www.legislation.gov.uk/uksi/2025/909/rule/25.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

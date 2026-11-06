@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Determination: power to make interim compulsory supervision order etc.[^key-b058da3ab91d1a7eeb6c461f1d775af9]
+## 109. Determination: power to make interim compulsory supervision order etc.[^c-b058da3ab91d1a7eeb6c461f1d775af9]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b058da3ab91d1a7eeb6c461f1d775af9]: Commencement: S. 109 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b058da3ab91d1a7eeb6c461f1d775af9]: Commencement: S. 109 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

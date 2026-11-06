@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. Assessors[^key-11e3e26bf28a365242fe4fb967f5d4e2]
+## 257. Assessors[^c-11e3e26bf28a365242fe4fb967f5d4e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11e3e26bf28a365242fe4fb967f5d4e2]: Commencement: S. 257 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-11e3e26bf28a365242fe4fb967f5d4e2]: Commencement: S. 257 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

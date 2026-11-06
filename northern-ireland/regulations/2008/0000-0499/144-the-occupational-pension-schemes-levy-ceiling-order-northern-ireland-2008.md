@@ -31,7 +31,7 @@ summary: ''
 
 Pensions
 
-The Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2008 (revoked)[^key-63d441a46a2c828a2b8954351e05c14c]
+The Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2008 (revoked)[^c-63d441a46a2c828a2b8954351e05c14c]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 31st March 2008
 
-[^key-63d441a46a2c828a2b8954351e05c14c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63d441a46a2c828a2b8954351e05c14c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-63d441a46a2c828a2b8954351e05c14c]
+## 1. Citation and commencement[^c-63d441a46a2c828a2b8954351e05c14c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The levy ceiling[^key-63d441a46a2c828a2b8954351e05c14c]
+## 2. The levy ceiling[^c-63d441a46a2c828a2b8954351e05c14c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-63d441a46a2c828a2b8954351e05c14c]
+## 3. Revocation[^c-63d441a46a2c828a2b8954351e05c14c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-63d441a46a2c828a2b8954351e05c14c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63d441a46a2c828a2b8954351e05c14c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-63d441a46a2c828a2b8954351e05c14c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63d441a46a2c828a2b8954351e05c14c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63d441a46a2c828a2b8954351e05c14c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/144) revoked (31.3.2009) by [The Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2009 (S.R. 2009/139)](https://www.legislation.gov.uk/nisr/2009/139), [arts. 1](https://www.legislation.gov.uk/nisr/2009/139/article/1), [3](https://www.legislation.gov.uk/nisr/2009/139/article/3)
+[^c-63d441a46a2c828a2b8954351e05c14c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/144) revoked (31.3.2009) by [The Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2009 (S.R. 2009/139)](https://www.legislation.gov.uk/nisr/2009/139), [arts. 1](https://www.legislation.gov.uk/nisr/2009/139/article/1), [3](https://www.legislation.gov.uk/nisr/2009/139/article/3)

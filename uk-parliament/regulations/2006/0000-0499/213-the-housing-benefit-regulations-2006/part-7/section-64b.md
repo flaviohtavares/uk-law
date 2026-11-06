@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64B. Treatment of loans for specific purposes[^key-247b6b5d8a2715385888f43e1c6f9c88]
+## 64B. Treatment of loans for specific purposes[^c-247b6b5d8a2715385888f43e1c6f9c88]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A loan under the Education (Student Support) Regulations 2011 or regulations mad
 
 ## Annotations
 
-[^key-247b6b5d8a2715385888f43e1c6f9c88]: Textual amendment: [Reg. 64B](https://www.legislation.gov.uk/uksi/2006/213/regulation/64B) substituted (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/341/regulation/4)
+[^c-247b6b5d8a2715385888f43e1c6f9c88]: Textual amendment: [Reg. 64B](https://www.legislation.gov.uk/uksi/2006/213/regulation/64B) substituted (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/341/regulation/4)

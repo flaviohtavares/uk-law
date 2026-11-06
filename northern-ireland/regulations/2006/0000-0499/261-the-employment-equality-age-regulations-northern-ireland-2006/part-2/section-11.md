@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Meaning of employment and contract work at establishment in Northern Ireland[^key-7ab40b5c9a1d1d6564e7970ad0970f56]
+## 11. Meaning of employment and contract work at establishment in Northern Ireland[^c-7ab40b5c9a1d1d6564e7970ad0970f56]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7ab40b5c9a1d1d6564e7970ad0970f56]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/261/regulation/11) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-7ab40b5c9a1d1d6564e7970ad0970f56]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/261/regulation/11) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00009]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29)

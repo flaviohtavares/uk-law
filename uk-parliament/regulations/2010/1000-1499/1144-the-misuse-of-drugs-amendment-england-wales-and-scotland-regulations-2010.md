@@ -50,7 +50,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 31(3) of that Act the Secretary of State has consulted with the Advisory Council on the Misuse of Drugs.
 
-## 1. Citation, commencement, interpretation and extent[^key-f48d268f59f707f257613434769abbca]
+## 1. Citation, commencement, interpretation and extent[^c-f48d268f59f707f257613434769abbca]
 
 (1) These Regulations may be cited as the Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2010 and shall come into force on 16th April 2010.
 
@@ -58,13 +58,13 @@ In accordance with section 31(3) of that Act the Secretary of State has consulte
 
 (3) These Regulations extend to England, Wales and Scotland.
 
-## 2. Amendment to the 2001 Regulations[^key-299f2352a88a6775dfe7bb35464c2227]
+## 2. Amendment to the 2001 Regulations[^c-299f2352a88a6775dfe7bb35464c2227]
 
 The 2001 Regulations shall be amended as follows.
 
-**3.**[^key-61b1c1030741eeff136c09526b61eaec] In Schedule 1 (which specifies controlled drugs subject to the requirements of regulations 14, 15, 16, 18, 19, 20, 23, 26 and 27)—
+**3.**[^c-61b1c1030741eeff136c09526b61eaec] In Schedule 1 (which specifies controlled drugs subject to the requirements of regulations 14, 15, 16, 18, 19, 20, 23, 26 and 27)—
 
-- (a)[^key-3e81426c58025116794e4ef07b295a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3e81426c58025116794e4ef07b295a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after paragraph 1(l), insert—
 
   > - (m) Any compound (not being bupropion, diethylpropion, pyrovalerone or a compound for the time being specified in sub–paragraph (a) above) structurally derived from 2–amino–1–phenyl–1–propanone by modification in any of the following ways, that is to say—
@@ -92,12 +92,12 @@ These Regulations insert 4–methylmethcathinone (commonly referred to as mephed
 
 [^f00001]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38) as modified by the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47). Section 22 has been amended by section 177(1) of, and paragraph 12 of Schedule 4 to, the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-f48d268f59f707f257613434769abbca]: Commencement: Reg. 1 in force at 16.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1144/regulation/1/1)
+[^c-f48d268f59f707f257613434769abbca]: Commencement: Reg. 1 in force at 16.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1144/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998). Relevant amending instruments are [S.I. 2003/1432](https://www.legislation.gov.uk/uksi/2003/1432), [S.I. 2003/1653](https://www.legislation.gov.uk/uksi/2003/1653), [S.I. 2003/2429](https://www.legislation.gov.uk/uksi/2003/2429), [S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.I. 2005/271](https://www.legislation.gov.uk/uksi/2005/271), [S.I. 2005/1653](https://www.legislation.gov.uk/uksi/2005/1653), [S.I. 2005/2864](https://www.legislation.gov.uk/uksi/2005/2864), [S.I. 2005/3372](https://www.legislation.gov.uk/uksi/2005/3372), [S.I. 2006/986](https://www.legislation.gov.uk/uksi/2006/986), [S.I. 2006/1450](https://www.legislation.gov.uk/uksi/2006/1450), [S.I. 2006/2178](https://www.legislation.gov.uk/uksi/2006/2178), [S.I. 2007/2154](https://www.legislation.gov.uk/uksi/2007/2154) and [S.I. 2009/3136](https://www.legislation.gov.uk/uksi/2009/3136).
 
-[^key-299f2352a88a6775dfe7bb35464c2227]: Commencement: Reg. 2 in force at 16.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1144/regulation/1/1)
+[^c-299f2352a88a6775dfe7bb35464c2227]: Commencement: Reg. 2 in force at 16.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1144/regulation/1/1)
 
-[^key-61b1c1030741eeff136c09526b61eaec]: Commencement: Reg. 3 in force at 16.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1144/regulation/1/1)
+[^c-61b1c1030741eeff136c09526b61eaec]: Commencement: Reg. 3 in force at 16.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1144/regulation/1/1)
 
-[^key-3e81426c58025116794e4ef07b295a17]: Textual amendment: Reg. 3(a) revoked (28.3.2011) by [The Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2011 (S.I. 2011/448)](https://www.legislation.gov.uk/uksi/2011/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/448/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/448/regulation/7)
+[^c-3e81426c58025116794e4ef07b295a17]: Textual amendment: Reg. 3(a) revoked (28.3.2011) by [The Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2011 (S.I. 2011/448)](https://www.legislation.gov.uk/uksi/2011/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/448/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/448/regulation/7)

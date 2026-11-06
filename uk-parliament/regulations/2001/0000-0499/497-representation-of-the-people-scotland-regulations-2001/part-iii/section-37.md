@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Notice by registration officer of a change of address[^key-8c2f6f2e57c2ffb67b3b1e58144cd3bb]
+## 37. Notice by registration officer of a change of address[^c-8c2f6f2e57c2ffb67b3b1e58144cd3bb]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c2f6f2e57c2ffb67b3b1e58144cd3bb]: Commencement: Reg. 37 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-8c2f6f2e57c2ffb67b3b1e58144cd3bb]: Commencement: Reg. 37 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)

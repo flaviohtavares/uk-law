@@ -52,14 +52,14 @@ A charging scheme which is made by two or more authorities jointly shall provide
 (1) A charging authority’s share of the net proceeds of any charging scheme is available only for application by—
 
 - (a) the authority for the purpose of directly or indirectly facilitating the achievement of policies in the authority’s local transport strategy; or
-- (b)[^key-4f77f39b0412b11de544fe2aac1a7adb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4f77f39b0412b11de544fe2aac1a7adb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-0958d6d59acd9726321c5c4ab6e73cb5] A charging authority may, for the purposes of sub-paragraph (1) above, pay money to any local traffic authority, local transport authority or other person.
+(1A)[^c-0958d6d59acd9726321c5c4ab6e73cb5] A charging authority may, for the purposes of sub-paragraph (1) above, pay money to any local traffic authority, local transport authority or other person.
 
 (2) A charging authority shall endeavour to apply their share of the net proceeds of a charging scheme only in ways which are economic, efficient and effective.
 
 ## Annotations
 
-[^key-4f77f39b0412b11de544fe2aac1a7adb]: Textual amendment: [Sch. 1 para. 5(1)(b)](https://www.legislation.gov.uk/asp/2001/2/schedule/1/paragraph/5/1/b) repealed (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 51(9)(a)](https://www.legislation.gov.uk/asp/2005/12/section/51/9/a), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-4f77f39b0412b11de544fe2aac1a7adb]: Textual amendment: [Sch. 1 para. 5(1)(b)](https://www.legislation.gov.uk/asp/2001/2/schedule/1/paragraph/5/1/b) repealed (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 51(9)(a)](https://www.legislation.gov.uk/asp/2005/12/section/51/9/a), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
 
-[^key-0958d6d59acd9726321c5c4ab6e73cb5]: Textual amendment: [Sch. 1 para. 5(1A)](https://www.legislation.gov.uk/asp/2001/2/schedule/1/paragraph/5/1A) inserted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 51(9)(b)](https://www.legislation.gov.uk/asp/2005/12/section/51/9/b), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-0958d6d59acd9726321c5c4ab6e73cb5]: Textual amendment: [Sch. 1 para. 5(1A)](https://www.legislation.gov.uk/asp/2001/2/schedule/1/paragraph/5/1A) inserted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 51(9)(b)](https://www.legislation.gov.uk/asp/2005/12/section/51/9/b), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

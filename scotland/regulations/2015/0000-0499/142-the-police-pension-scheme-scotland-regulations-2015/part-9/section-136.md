@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Annual rate of eligible child’s pension[^key-14cc822d6df73f5813a364eb5a9e342f]
+## 136. Annual rate of eligible child’s pension[^c-14cc822d6df73f5813a364eb5a9e342f]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14cc822d6df73f5813a364eb5a9e342f]: Commencement: Reg. 136 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-14cc822d6df73f5813a364eb5a9e342f]: Commencement: Reg. 136 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

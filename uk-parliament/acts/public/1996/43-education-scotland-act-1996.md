@@ -35,7 +35,7 @@ An Act to provide for the establishment of a body corporate to be known as the S
 
 [^c1208466]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## Part I — The Scottish Qualifications Authority[^key-3489dac80238774f56efc2924fe50d52]
+## Part I — The Scottish Qualifications Authority[^c-3489dac80238774f56efc2924fe50d52]
 
 *Extent: S*
 
@@ -255,19 +255,19 @@ but shall not prevent the functions concerned from being exercised by the Secret
 
 *Extent: S*
 
-### 28. School Boards: elections.[^key-b2e7b9a5ac29be712e1fd554c6c5f026]
+### 28. School Boards: elections.[^c-b2e7b9a5ac29be712e1fd554c6c5f026]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. School Boards: terms of office.[^key-b2e7b9a5ac29be712e1fd554c6c5f026]
+### 29. School Boards: terms of office.[^c-b2e7b9a5ac29be712e1fd554c6c5f026]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. School Boards: conflict of interest.[^key-b2e7b9a5ac29be712e1fd554c6c5f026]
+### 30. School Boards: conflict of interest.[^c-b2e7b9a5ac29be712e1fd554c6c5f026]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. School Boards: miscellaneous.[^key-b2e7b9a5ac29be712e1fd554c6c5f026]
+### 31. School Boards: miscellaneous.[^c-b2e7b9a5ac29be712e1fd554c6c5f026]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -291,7 +291,7 @@ After section 2 of the [^c1208498]Education (Scotland) Act 1980 (Secretary of St
 
 *Extent: S*
 
-(1) Section 28A of the [^c1208499]Education (Scotland) Act 1980 (which sets out the duties of education authorities in relation to placing requests),[^key-ed024c0df54d0b9e4e58444d303db7c6]... shall be amended in accordance with this section.
+(1) Section 28A of the [^c1208499]Education (Scotland) Act 1980 (which sets out the duties of education authorities in relation to placing requests),[^c-ed024c0df54d0b9e4e58444d303db7c6]... shall be amended in accordance with this section.
 
 (2) In subsection (1) for the words “and (3)” there shall be substituted the words “ , (3) and (3A) ”.
 
@@ -368,7 +368,7 @@ Stamp duty shall not be chargeable in respect of any agreement made or any trans
 
 SCHEDULES
 
-## SCHEDULE 1 — The Scottish Qualifications Authority[^key-62dfe7c0679cc0bba4acab5073612b2f]
+## SCHEDULE 1 — The Scottish Qualifications Authority[^c-62dfe7c0679cc0bba4acab5073612b2f]
 
 *Extent: E+W+S*
 
@@ -460,7 +460,7 @@ Section 1.
 
 **19.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Further Provisions and Savings relating to the Winding Down Period[^key-a8633d36cad366d27d106cd8234984c5]
+## SCHEDULE 2 — Further Provisions and Savings relating to the Winding Down Period[^c-a8633d36cad366d27d106cd8234984c5]
 
 *Extent: S*
 
@@ -476,7 +476,7 @@ Section 19.
 
 **2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Transitional Provisions for SQA[^key-635584444987227e9ec1ab0d6e292663]
+## SCHEDULE 3 — Transitional Provisions for SQA[^c-635584444987227e9ec1ab0d6e292663]
 
 *Extent: S*
 
@@ -500,29 +500,29 @@ Section 20.
 
 **4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Amendment of the School Boards (Scotland) Act 1988[^key-225013b9859290cfaeff52751c188dde]
+## SCHEDULE 4 — Amendment of the School Boards (Scotland) Act 1988[^c-225013b9859290cfaeff52751c188dde]
 
 *Extent: S*
 
 Section 31.
 
-**1.**[^key-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-225013b9859290cfaeff52751c188dde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 5 — Miscellaneous and Consequential Amendments
 
@@ -622,7 +622,7 @@ Section 36.
 
 [^c1208466]: Extent: This Act extends to Scotland only but for exceptions see [s.37(5)(6)](https://www.legislation.gov.uk/ukpga/1996/43/section/37/5/6)
 
-[^key-3489dac80238774f56efc2924fe50d52]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/ukpga/1996/43/part/1) repealed (26.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 11(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/11/2); [S.S.I. 2026/83](https://www.legislation.gov.uk/ssi/2026/83), [reg. 2](https://www.legislation.gov.uk/ssi/2026/83/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/83/schedule)
+[^c-3489dac80238774f56efc2924fe50d52]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/ukpga/1996/43/part/1) repealed (26.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 11(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/11/2); [S.S.I. 2026/83](https://www.legislation.gov.uk/ssi/2026/83), [reg. 2](https://www.legislation.gov.uk/ssi/2026/83/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/83/schedule)
 
 [^c1208483]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1996/43/part/II) (ss. 23-27) repealed (S.) (1.4.2002) by [2000 asp 6](https://www.legislation.gov.uk/asp/2000/6), [s. 39](https://www.legislation.gov.uk/asp/2000/6/section/39); [S.S.I. 2002/72](https://www.legislation.gov.uk/ssi/2002/72), [art. 2(2)](https://www.legislation.gov.uk/ssi/2002/72/article/2/2)
 
@@ -636,22 +636,22 @@ Section 36.
 
 [^c1208495]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 
-[^key-b2e7b9a5ac29be712e1fd554c6c5f026]: Textual amendment: [Ss. 28-31](https://www.legislation.gov.uk/ukpga/1996/43/section/28) repealed (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [Sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-b2e7b9a5ac29be712e1fd554c6c5f026]: Textual amendment: [Ss. 28-31](https://www.legislation.gov.uk/ukpga/1996/43/section/28) repealed (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [Sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
 [^c1208498]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 
 [^c1208499]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 
-[^key-ed024c0df54d0b9e4e58444d303db7c6]: Textual amendment: Words in [s. 33(1)](https://www.legislation.gov.uk/ukpga/1996/43/section/33/1) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/10/b); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-ed024c0df54d0b9e4e58444d303db7c6]: Textual amendment: Words in [s. 33(1)](https://www.legislation.gov.uk/ukpga/1996/43/section/33/1) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/10/b); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
 
 [^c1208500]: Subordinate legislation: [S. 37(2)](https://www.legislation.gov.uk/ukpga/1996/43/section/37/2) power partly exercised (22.8.1996): 18.9.1996 appointed for specified provisions by [S.I. 1996/2250](https://www.legislation.gov.uk/uksi/1996/2250), [art. 2](https://www.legislation.gov.uk/uksi/1996/2250/article/2).
 
-[^key-62dfe7c0679cc0bba4acab5073612b2f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1996/43/schedule/1) repealed (26.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 11(3)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/11/3); [S.S.I. 2026/83](https://www.legislation.gov.uk/ssi/2026/83), [reg. 2](https://www.legislation.gov.uk/ssi/2026/83/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/83/schedule)
+[^c-62dfe7c0679cc0bba4acab5073612b2f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1996/43/schedule/1) repealed (26.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 11(3)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/11/3); [S.S.I. 2026/83](https://www.legislation.gov.uk/ssi/2026/83), [reg. 2](https://www.legislation.gov.uk/ssi/2026/83/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/83/schedule)
 
-[^key-a8633d36cad366d27d106cd8234984c5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/43/schedule/2) repealed (26.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 11(4)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/11/4); [S.S.I. 2026/83](https://www.legislation.gov.uk/ssi/2026/83), [reg. 2](https://www.legislation.gov.uk/ssi/2026/83/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/83/schedule)
+[^c-a8633d36cad366d27d106cd8234984c5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/43/schedule/2) repealed (26.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 11(4)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/11/4); [S.S.I. 2026/83](https://www.legislation.gov.uk/ssi/2026/83), [reg. 2](https://www.legislation.gov.uk/ssi/2026/83/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/83/schedule)
 
-[^key-635584444987227e9ec1ab0d6e292663]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1996/43/schedule/3) repealed (26.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 11(5)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/11/5); [S.S.I. 2026/83](https://www.legislation.gov.uk/ssi/2026/83), [reg. 2](https://www.legislation.gov.uk/ssi/2026/83/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/83/schedule)
+[^c-635584444987227e9ec1ab0d6e292663]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1996/43/schedule/3) repealed (26.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 11(5)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/11/5); [S.S.I. 2026/83](https://www.legislation.gov.uk/ssi/2026/83), [reg. 2](https://www.legislation.gov.uk/ssi/2026/83/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/83/schedule)
 
-[^key-225013b9859290cfaeff52751c188dde]: Textual amendment: Sch. 4 repealed (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [Sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-225013b9859290cfaeff52751c188dde]: Textual amendment: Sch. 4 repealed (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [Sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
 [^c1208527]: Commencement: Sch. 6 wholly in force at 1.4.1997; Sch. 6 not in force at Royal Assent see s. 37(2); Sch. 6 in force for certain purposes at 18.9.1996 by [S.I. 1996/2250](https://www.legislation.gov.uk/uksi/1996/2250), [arts. 2](https://www.legislation.gov.uk/uksi/1996/2250/article/2), [3](https://www.legislation.gov.uk/uksi/1996/2250/article/3); Sch. 6 in force at 1.4.1997 insofar as not already in force by [S.I. 1997/365](https://www.legislation.gov.uk/uksi/1997/365), [art. 2](https://www.legislation.gov.uk/uksi/1997/365/article/2).

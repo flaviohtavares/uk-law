@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10AA. Licensing and energy efficiency[^key-4d7e3fe21967fe0f9cd367144c07b44c]
+## 10AA. Licensing and energy efficiency[^c-4d7e3fe21967fe0f9cd367144c07b44c]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d7e3fe21967fe0f9cd367144c07b44c]: Textual amendment: [Art. 10AA](https://www.legislation.gov.uk/nisi/1996/275/article/10AA) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [119](https://www.legislation.gov.uk/uksi/2019/530/regulation/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d7e3fe21967fe0f9cd367144c07b44c]: Textual amendment: [Art. 10AA](https://www.legislation.gov.uk/nisi/1996/275/article/10AA) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [119](https://www.legislation.gov.uk/uksi/2019/530/regulation/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

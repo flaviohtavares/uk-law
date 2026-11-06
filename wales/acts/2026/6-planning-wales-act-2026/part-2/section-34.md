@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Revocation of plan[^key-d6479fb05eb2285d79a04fc15f567046]
+## 34. Revocation of plan[^c-d6479fb05eb2285d79a04fc15f567046]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The Welsh Ministers may at any time revoke a plan at the request of the plan-mak
 
 ## Annotations
 
-[^key-d6479fb05eb2285d79a04fc15f567046]: Commencement: S. 34 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d6479fb05eb2285d79a04fc15f567046]: Commencement: S. 34 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

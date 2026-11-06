@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Contaminants in Food (Wales) Regulations 2009 (revoked)[^key-a97101984471da34a0ec1f9bde182db1]
+The Contaminants in Food (Wales) Regulations 2009 (revoked)[^c-a97101984471da34a0ec1f9bde182db1]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 1 July 2009
 
-[^key-a97101984471da34a0ec1f9bde182db1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a97101984471da34a0ec1f9bde182db1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-a97101984471da34a0ec1f9bde182db1]
+## 1. Title, application and commencement[^c-a97101984471da34a0ec1f9bde182db1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a97101984471da34a0ec1f9bde182db1]
+## 2. Interpretation[^c-a97101984471da34a0ec1f9bde182db1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-a97101984471da34a0ec1f9bde182db1]
+## 3. Offences and penalties[^c-a97101984471da34a0ec1f9bde182db1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and competent authorities[^key-a97101984471da34a0ec1f9bde182db1]
+## 4. Enforcement and competent authorities[^c-a97101984471da34a0ec1f9bde182db1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various sections of the Food Safety Act 1990[^key-a97101984471da34a0ec1f9bde182db1]
+## 5. Application of various sections of the Food Safety Act 1990[^c-a97101984471da34a0ec1f9bde182db1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendment[^key-a97101984471da34a0ec1f9bde182db1]
+## 6. Consequential amendment[^c-a97101984471da34a0ec1f9bde182db1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-a97101984471da34a0ec1f9bde182db1]
+## 7. Revocations[^c-a97101984471da34a0ec1f9bde182db1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a97101984471da34a0ec1f9bde182db1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a97101984471da34a0ec1f9bde182db1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a97101984471da34a0ec1f9bde182db1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a97101984471da34a0ec1f9bde182db1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a97101984471da34a0ec1f9bde182db1]: Textual amendment: Regulations revoked (22.10.2010) by [The Contaminants in Food (Wales) Regulations 2010 (S.I. 2010/2394)](https://www.legislation.gov.uk/uksi/2010/2394), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2394/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/2394/regulation/7)
+[^c-a97101984471da34a0ec1f9bde182db1]: Textual amendment: Regulations revoked (22.10.2010) by [The Contaminants in Food (Wales) Regulations 2010 (S.I. 2010/2394)](https://www.legislation.gov.uk/uksi/2010/2394), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2394/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/2394/regulation/7)

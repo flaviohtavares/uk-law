@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.34-CVL. Statement of affairs[^key-39b4db6502c411a05b9c21c881237931]
+## 4.34-CVL. Statement of affairs[^c-39b4db6502c411a05b9c21c881237931]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-39b4db6502c411a05b9c21c881237931]: Commencement: [Rule 4.34-CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.34CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-39b4db6502c411a05b9c21c881237931]: Commencement: [Rule 4.34-CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.34CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00046]: Marginal citation: \[FORM 4.18\]\[FORM 4.19\]
 

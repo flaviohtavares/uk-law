@@ -103,15 +103,15 @@ The Road Traffic, Transport and Roads (Northern Ireland) Order 1984
 
 .
 
-### 11. Conditions of road freight vehicle licences[^key-e8dbacd81147c91f873cfb6b1745844b]
+### 11. Conditions of road freight vehicle licences[^c-e8dbacd81147c91f873cfb6b1745844b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Duration of road freight vehicle licences[^key-87d94a34d413faf056fa4a09072fb60e]
+### 12. Duration of road freight vehicle licences[^c-87d94a34d413faf056fa4a09072fb60e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. False statements[^key-add735bdc3d27847cc1ccb40e2dc0dab]
+### 13. False statements[^c-add735bdc3d27847cc1ccb40e2dc0dab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -452,11 +452,11 @@ SCHEDULES
 
 [^m00003]: Marginal citation: 1981 NI 1
 
-[^key-e8dbacd81147c91f873cfb6b1745844b]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisi/1984/1986/article/11) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-e8dbacd81147c91f873cfb6b1745844b]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisi/1984/1986/article/11) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
-[^key-87d94a34d413faf056fa4a09072fb60e]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/nisi/1984/1986/article/12) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-87d94a34d413faf056fa4a09072fb60e]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/nisi/1984/1986/article/12) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
-[^key-add735bdc3d27847cc1ccb40e2dc0dab]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/nisi/1984/1986/article/13) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-add735bdc3d27847cc1ccb40e2dc0dab]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/nisi/1984/1986/article/13) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
 [^m00004]: Marginal citation: 1966 c. 21 (N.I.)
 

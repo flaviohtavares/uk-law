@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Planning obligations: modification or discharge[^key-d3cf9f056ee86ec684efc51437953e5f]
+## 37. Planning obligations: modification or discharge[^c-d3cf9f056ee86ec684efc51437953e5f]
 
 *Extent: S*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3cf9f056ee86ec684efc51437953e5f]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2019/13/section/37) in force at 18.11.2020 by [S.S.I. 2020/294](https://www.legislation.gov.uk/ssi/2020/294), [reg. 2](https://www.legislation.gov.uk/ssi/2020/294/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/294/regulation/3))
+[^c-d3cf9f056ee86ec684efc51437953e5f]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2019/13/section/37) in force at 18.11.2020 by [S.S.I. 2020/294](https://www.legislation.gov.uk/ssi/2020/294), [reg. 2](https://www.legislation.gov.uk/ssi/2020/294/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/294/regulation/3))

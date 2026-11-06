@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Proposed change in the operation of an installation or mobile plant[^key-63d53ef1369d172b28b2914eb5749f79]
+## 18. Proposed change in the operation of an installation or mobile plant[^c-63d53ef1369d172b28b2914eb5749f79]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63d53ef1369d172b28b2914eb5749f79]: Commencement: Reg. 18 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-63d53ef1369d172b28b2914eb5749f79]: Commencement: Reg. 18 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

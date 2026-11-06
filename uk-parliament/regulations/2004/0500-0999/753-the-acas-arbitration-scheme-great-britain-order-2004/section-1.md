@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, commencement, interpretation and extent[^key-bc538bee0d73541e92c92eb0792a1079]
+## 1. Citation, commencement, interpretation and extent[^c-bc538bee0d73541e92c92eb0792a1079]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc538bee0d73541e92c92eb0792a1079]: Commencement: Art. 1 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-bc538bee0d73541e92c92eb0792a1079]: Commencement: Art. 1 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210AB. Particular factor as to victim safety[^key-945160c1075ab32e2215a6fdc2b7797e]
+## 210AB. Particular factor as to victim safety[^c-945160c1075ab32e2215a6fdc2b7797e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-945160c1075ab32e2215a6fdc2b7797e]: Textual amendment: S. 210AB and cross-heading inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 8(2)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/8/2); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-945160c1075ab32e2215a6fdc2b7797e]: Textual amendment: S. 210AB and cross-heading inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 8(2)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/8/2); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Joint committees[^key-40ba19e14aa7266900e69f2a3d2c976a]
+## 28. Joint committees[^c-40ba19e14aa7266900e69f2a3d2c976a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40ba19e14aa7266900e69f2a3d2c976a]: Textual amendment: Art. 28 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(7)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/7/b)
+[^c-40ba19e14aa7266900e69f2a3d2c976a]: Textual amendment: Art. 28 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(7)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/7/b)
