@@ -244,7 +244,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2927-the-council-for-healthcare-regulatory-excellence-appointment-procedure-etc-regul.md) *(as originally made)*
+- [The Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2927-the-council-for-healthcare-regulatory-excellence-appointment-procedure-etc-regul.md) *(changes pending)*
 - [The European Qualifications (Health and Social Care Professions) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/462-the-european-qualifications-health-and-social-care-professions-amendment-regulat.md) *(as originally made)*
 - [The General Chiropractic Council (Constitution) Order 2008](../uk-parliament/regulations/2008/3000-3499/3047-the-general-chiropractic-council-constitution-order-2008.md) *(as originally made)*
 - [The General Dental Council (Constitution) (Amendment) Order of Council 2008](../uk-parliament/regulations/2008/3000-3499/3238-the-general-dental-council-constitution-amendment-order-of-council-2008.md) *(as originally made)*

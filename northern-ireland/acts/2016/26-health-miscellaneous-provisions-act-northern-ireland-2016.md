@@ -5,14 +5,14 @@ type: NorthernIrelandAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2016-05-12'
-text_date: '2023-02-13'
+text_date: '2026-10-29'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nia/2016/26
 pdf_urls:
 - http://www.legislation.gov.uk/nia/2016/26/pdfs/niaen_20160026_en.pdf
 - http://www.legislation.gov.uk/nia/2016/26/pdfs/nia_20160026_en.pdf
 - http://www.legislation.gov.uk/nia/2016/26/data.pdf
-pending_changes: 5
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Health (Miscellaneous Provisions) Act (Northern Ireland) 2016
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2023-02-13. See https://www.legislation.gov.uk/changes/affected/nia/2016/26
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/nia/2016/26
 >
 > Extent: Northern Ireland.
 
@@ -36,47 +36,23 @@ An Act to regulate the sale or use of nicotine products and tobacco, to make pro
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## PART 1 — Sale or use of nicotine products and tobacco
+## PART 1 — Use of nicotine products and tobacco[^c-1f8e2bb23667ea42d7eb0067e184346c]
 
-### 1. Prohibition of sale of nicotine products to persons under 18[^c-20226a94a11cb6b011dd7c445b898aef]
+### 1. Prohibition of sale of nicotine products to persons under 18[^c-cc173f7f2304cce8a1046dba1c47f919]
 
-(1) The Department may by regulations make provision prohibiting the sale of nicotine products to persons aged under 18.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) A person who breaches a prohibition in regulations under subsection (1) commits an offence.
+### 2. Prohibition of sale of nicotine products from vending machines[^c-cc173f7f2304cce8a1046dba1c47f919]
 
-(3) Subsection (2) does not apply if—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) at the time of the sale, the person to whom the nicotine product is sold is employed by a manufacturer of nicotine products to which regulations under subsection (1) apply or by a dealer in such products (whether wholesale or retail); and
-- (b) the purchase of the product is for the purposes of the manufacturer's or dealer's business.
+### 3. Amendments consequential on sections 1 and 2[^c-cc173f7f2304cce8a1046dba1c47f919]
 
-(4) Where a person is charged with an offence under this section it is a defence that the person took all reasonable precautions and exercised all due diligence to avoid committing the offence.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+### 4. Amendment of the Order of 1991[^c-cc173f7f2304cce8a1046dba1c47f919]
 
-(6) The Department may by regulations—
-
-- (a) amend Article 4A of the Health and Personal Social Services (Northern Ireland) Order 1978 (purchase of tobacco on behalf of persons under 18) so as to apply it (with or without modifications) in relation to nicotine products; or
-- (b) provide for that Article to apply (with or without modifications) in relation to nicotine products.
-
-### 2. Prohibition of sale of nicotine products from vending machines[^c-132ee70ac53ce6640232b030fae04ba7]
-
-(1) The Department may by regulations make provision prohibiting the sale of nicotine products from an automatic machine.
-
-(2) The regulations must make provision as to the persons who are liable in the case of any breach of a prohibition.
-
-(3) A liable person who breaches a prohibition in regulations under subsection (1) commits an offence.
-
-(4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
-
-### 3. Amendments consequential on sections 1 and 2
-
-(1)[^c-6c477c4c8e1b75dc33203ae0ead6eda1] Schedule 1 makes amendments consequential on sections 1 and 2.
-
-(2)[^c-8398b6dccb243dfef6cb5111560c7c3a] The Department may by regulations make provision amending, repealing, revoking or otherwise modifying any statutory provision (whenever passed or made) in connection with provision made by or under section 1 or 2.
-
-### 4. Amendment of the Order of 1991[^c-dc8939875e0ce4cc6ec8019cce561b7d]
-
-In Article 4A(4) of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 (prohibition of sale of tobacco from vending machines), for “level 4” substitute “ level 5 ”.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. Prohibition of use of tobacco or nicotine products in a private vehicle[^c-538a0f43da676ca14913af70c79e4138][^c-222bc5964352af67be1a1f05cbbbeee8]
 
@@ -142,31 +118,15 @@ In Article 4A(4) of the Children and Young Persons (Protection from Tobacco) (No
 
 (8) The Department may by regulations make provision prohibiting the use of nicotine products in a private vehicle where a person under the age of 18 is present in the vehicle, and such regulations may for that purpose amend, or apply with modifications, the provisions of the Smoking (Northern Ireland) Order 2006 to nicotine products.
 
-### 6. Review
+### 6. Review[^c-6afa80f35037f0eea5044b30ca7025c8]
 
 **Not yet in force.**
 
-(1) The Department must not later than 3 years after the commencement of this section review and publish a report on the implementation of Part 1.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Regulations made by the Department under this section shall set out the terms of the review.
+### 7. Interpretation of Part 1[^c-9f71ca5a40e48577abd2a4013910fbb7]
 
-### 7. Interpretation of Part 1[^c-2bc43b42d44ee2db43c489a03bbb2cb0]
-
-(1) For the purposes of this Part “**nicotine product**” means—
-
-- (a) a device which is intended to enable nicotine to be consumed by an individual or otherwise to be delivered into the human body;
-- (b) an item which is intended to form part of a device within paragraph (a); or
-- (c) a substance or item which consists of or contains nicotine and which is intended for human consumption or otherwise to be delivered into the human body.
-
-(2) It does not matter for the purposes of subsection (1)(a) whether the device is also intended to enable any other substance to be consumed by an individual or otherwise to be delivered into the human body.
-
-(3) The following are not nicotine products for the purposes of this Part—
-
-- (a) tobacco;
-- (b) cigarette papers;
-- (c) any device which is intended to be used for the consumption of lit tobacco.
-
-(4) In this section “**tobacco**” has the same meaning as in Part 2 of the Health and Personal Social Services (Northern Ireland) Order 1978.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Levy on sugar sweetened drinks
 
@@ -528,21 +488,17 @@ Section 19.
 
 ## Annotations
 
-[^c-20226a94a11cb6b011dd7c445b898aef]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/26/section/1) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/91/article/2/a)
+[^c-1f8e2bb23667ea42d7eb0067e184346c]: Textual amendment: Word in [Pt. 1](https://www.legislation.gov.uk/nia/2016/26/part/1) heading substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 28](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/28)
 
-[^c-132ee70ac53ce6640232b030fae04ba7]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/26/section/2) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/91/article/2/b)
-
-[^c-6c477c4c8e1b75dc33203ae0ead6eda1]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/nia/2016/26/section/3/1) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(a)](https://www.legislation.gov.uk/nisr/2021/329/article/2/a)
-
-[^c-8398b6dccb243dfef6cb5111560c7c3a]: Commencement: [S. 3(2)](https://www.legislation.gov.uk/nia/2016/26/section/3/2) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/91/article/2/c)
-
-[^c-dc8939875e0ce4cc6ec8019cce561b7d]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/26/section/4) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/91/article/2/d) (with [art. 3](https://www.legislation.gov.uk/nisr/2017/91/article/3))
+[^c-cc173f7f2304cce8a1046dba1c47f919]: Textual amendment: [Ss. 1-4](https://www.legislation.gov.uk/nia/2016/26/section/1) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 29](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/29)
 
 [^c-538a0f43da676ca14913af70c79e4138]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/26/section/5) in operation at 1.6.2017 for specified purposes by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(e)](https://www.legislation.gov.uk/nisr/2017/91/article/2/e)
 
 [^c-222bc5964352af67be1a1f05cbbbeee8]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/26/section/5) in operation at 1.2.2022 in so far as not already in operation by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/329/article/2/b)
 
-[^c-2bc43b42d44ee2db43c489a03bbb2cb0]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/26/section/7) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(f)](https://www.legislation.gov.uk/nisr/2017/91/article/2/f)
+[^c-6afa80f35037f0eea5044b30ca7025c8]: Textual amendment: [S. 6](https://www.legislation.gov.uk/nia/2016/26/section/6) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 30](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/30)
+
+[^c-9f71ca5a40e48577abd2a4013910fbb7]: Textual amendment: [S. 7](https://www.legislation.gov.uk/nia/2016/26/section/7) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 30](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/30)
 
 [^c-6b543e4c4451e05e356918766c02b507]: Textual amendment: [S. 13(1)](https://www.legislation.gov.uk/nia/2016/26/section/13/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 256](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/256); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 

@@ -5,14 +5,14 @@ type: ScottishAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2010-03-03'
-text_date: '2026-04-29'
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2010/3
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2010/3/pdfs/aspen_20100003_en.pdf
 - http://www.legislation.gov.uk/asp/2010/3/pdfs/asp_20100003_en.pdf
 - http://www.legislation.gov.uk/asp/2010/3/data.pdf
-pending_changes: 180
+pending_changes: 20
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Tobacco and Primary Medical Services (Scotland) Act 2010
 
-> **Warning: changes not yet applied to this text (180).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/asp/2010/3
+> **Warning: changes not yet applied to this text (20).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/asp/2010/3
 >
 > Extent: Scotland.
 
@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make provision about the retailing of tobac
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 27th January 2010 and received Royal Assent on 3rd March 2010[^c-2693e6b590162c5ae7d6dd6de70f1465]
 
-## Part 1 — Tobacco and nicotine vapour products etc.[^c-369733bcf5447856de19df41a98dd979]
+## Part 1 — Tobacco, herbal smoking, vaping and nicotine products[^c-7233ef61f3193b399b2e693a23c8a3aa][^c-958b1c46b27fea43da654a60c4ee0b5e]
 
 ### Chapter 1 — Display, sale and purchase[^c-42b994c450e6124e8b24a0924a3edab3]
 
@@ -109,11 +109,11 @@ The Scottish Ministers may by regulations provide that a display of tobacco prod
 
 (7) Before making regulations under this section the Scottish Ministers must consult any persons they consider it appropriate to consult.
 
-#### Sale and purchase of tobacco and nicotine vapour products[^c-d016d5aafd637dba8f67b87587447425]
+#### Sale and purchase of tobacco , vaping and nicotine products[^c-d016d5aafd637dba8f67b87587447425][^c-6f83dec4e80757b51ce694709801850e]
 
 ##### 4. Sale of tobacco products to persons under 18[^c-134b8d9427d8e3a2278e00b0cd709a61]
 
-(1) A person who sells a tobacco product or cigarette papers to a person under the age of 18 commits an offence.
+(1) A person who sells a tobacco product , herbal smoking product[^c-d52d8870e35d73c277bd98056630d185] or cigarette papers to a person under the age of 18 commits an offence.
 
 (2) It is a defence to a charge in proceedings against a person (“the accused”) under subsection (1) that—
 
@@ -135,9 +135,9 @@ The Scottish Ministers may by regulations provide that a display of tobacco prod
 
 (5) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-##### 4A. Sale of nicotine vapour products to persons under 18[^c-cdcd0ff8c14615dbf9898f72a4f5fd73]
+##### 4A. Sale of vaping and nicotine products to persons under 18[^c-cdcd0ff8c14615dbf9898f72a4f5fd73][^c-144a739d94601b183da31415b65670bc]
 
-(1) A person who sells a nicotine vapour product to a person under the age of 18 commits an offence.
+(1) A person who sells a vaping product or nicotine[^c-ae3aa1a1d3402b1f596d374ebd88f7b8] product to a person under the age of 18 commits an offence.
 
 (2) It is a defence to a charge in proceedings against a person (“the accused”) under subsection (1) that—
 
@@ -162,33 +162,40 @@ The Scottish Ministers may by regulations provide that a display of tobacco prod
 
 (1) A person commits an offence if the person—
 
-- (a) carries on a tobacco or nicotine vapour product business, and
-- (b) fails to operate an age verification policy in respect of premises at which the person carries on the tobacco or nicotine vapour product business.
+- (a) carries on a relevant business[^c-76e178e7cf9d16b887edb0c03455162e], and
+- (b) fails to operate an age verification policy in respect of premises at which the person carries on the relevant business[^c-88807a3344a5d36e02327db6db0ef26e].
 
-(2) Subsection (1) does not apply to premises (“the business premises”) from which—
+(1A)[^c-98eedc7693767687e749bf890aef5056] In this section “**relevant business**” means a business which involves the sale of one or more of the following by retail—
 
-- (a) tobacco products, cigarette papers or nicotine vapour products are, in pursuance of a sale, despatched for delivery to different premises, and
-- (b) no other tobacco or nicotine vapour product business is carried on from the business premises.
+- (a) tobacco products;
+- (b) herbal smoking products;
+- (c) vaping products;
+- (d) nicotine products.
 
-(3) An “age verification policy” is a policy that steps are to be taken to establish the age of a person attempting to buy a tobacco product, cigarette papers or a nicotine vapour product on the premises (the “customer”) if it appears to the person selling the tobacco product, cigarette papers or nicotine vapour product that the customer may be under the age of 25 (or such older age as may be specified in the policy).
+(2)[^c-64a807af6442270eab5564f38e757d40] Subsection (1) does not apply in relation to premises from which—
+
+- (a) a product mentioned in subsection (1A) or cigarette papers are, in pursuance of a sale, despatched for delivery to different premises, and
+- (b) no other relevant business is carried on.
+
+(3) An “age verification policy” is a policy that steps are to be taken to establish the age of a person attempting to buy a product mentioned in subsection (1A) or cigarette papers[^c-54126537e02da52a41427f34e15f4279] on the premises (the “customer”) if it appears to the person selling the product[^c-dbad08110ed35b72b121c48ffeb53240] that the customer may be under the age of 25 (or such older age as may be specified in the policy).
 
 (4) The Scottish Ministers may by regulations amend the age specified in subsection (3).
 
 (5) The Scottish Ministers may publish guidance on matters relating to age verification policies, including, in particular, guidance about—
 
 - (a) steps that should be taken to establish a customer's age,
-- (b) documents that may be shown to the person selling a tobacco product, cigarette papers or a nicotine vapour product as evidence of a customer's age,
-- (c) training that should be undertaken by the person selling the tobacco product, cigarette papers or nicotine vapour product,
+- (b) documents that may be shown to the person selling a product mentioned in subsection (1A) or cigarette papers[^c-0baf108a5909150655dd3f836494b9c5] as evidence of a customer's age,
+- (c) training that should be undertaken by the person selling the product mentioned in subsection (1A) or cigarette papers[^c-20cbecb95e5744d84f7aa166af45b9c3],
 - (d) the form and content of notices that should be displayed in the premises,
 - (e) the form and content of records that should be maintained in relation to an age verification policy.
 
-(6) A person who carries on a tobacco or nicotine vapour product business must have regard to guidance published under subsection (5) when operating an age verification policy.
+(6) A person who carries on a relevant business[^c-7a6503f821e42aedb6fae21ee7006f3b] must have regard to guidance published under subsection (5) when operating an age verification policy.
 
 (7) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-##### 4C. Sale of tobacco or nicotine vapour products by persons under 18[^c-f47cbab20457b73ae768903cc1831349]
+##### 4C. Sale of tobacco , vaping or nicotine products by persons under 18[^c-f47cbab20457b73ae768903cc1831349][^c-4059cd92b8d5ef4fa5f6e108f42a4cb8]
 
-(1) A responsible person who allows a tobacco product, cigarette papers or a nicotine vapour product to be sold by a person under the age of 18 commits an offence.
+(1) A responsible person who allows a tobacco product , herbal smoking product[^c-c9eda4d1c82bb301414c47877dc66640], cigarette papers , a vaping product or a nicotine[^c-2adf12437f8313ddfb74529dd38d9e27] product to be sold by a person under the age of 18 commits an offence.
 
 (2) For the purposes of subsection (1), “**responsible person**” means—
 
@@ -226,58 +233,38 @@ The Scottish Ministers may by regulations provide that a display of tobacco prod
 - (b) section 4A(1),
 - (c) section 4C(1).
 
-##### 5. Purchase of tobacco products by persons under 18[^c-ec84fe422078dcab1724fb8e9d6d2d35]
+##### 4E. Sale of unpackaged cigarettes[^c-400f04b73ca5d943306eeb4c9c57b356]
 
-(1) A person under the age of 18 who buys or attempts to buy a tobacco product or cigarette papers commits an offence.
+(1) A person who sells cigarettes that are not in their original packaging commits an offence.
 
-(2) It is not an offence under subsection (1) for a person under the age of 18 to buy or attempt to buy a tobacco product or cigarette papers if the person is authorised to do so by a council officer or a constable for the purpose of determining whether an offence is being committed under section 4.
+(2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(3) A council officer or a constable may authorise a person under the age of 18 to buy or attempt to buy a tobacco product or cigarette papers only if satisfied that all reasonable steps have been or will be taken to avoid any risk to the welfare of the person.
+(3) In this section—
 
-(4) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 1 on the standard scale.
+- “**original packaging**” means the retail packaging in which the cigarettes were supplied to the person for the purpose of sale;
+- “**sell**” means sell by retail.
+
+##### 5. Purchase of tobacco products by persons under 18[^c-44e86a997e90753749c85908b4cdb8f2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 6. Purchase of tobacco products on behalf of persons under 18[^c-94eb12f141624671faa9bc44305e5a2a]
 
-(1) A person aged 18 or over who knowingly buys or attempts to buy a tobacco product or cigarette papers on behalf of a person under the age of 18 commits an offence.
+(1) A person aged 18 or over who knowingly buys or attempts to buy a tobacco product , herbal smoking product[^c-998ee87c116c73e68cc578af189127e0] or cigarette papers on behalf of a person under the age of 18 commits an offence.
 
 (2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-##### 6A. Purchase of nicotine vapour products on behalf of persons under 18[^c-28b8512f82d464ba7a4f6fbe8e82c1f3]
+##### 6A. Purchase of vaping or nicotine products on behalf of persons under 18[^c-28b8512f82d464ba7a4f6fbe8e82c1f3][^c-ca6772aeb1fc323036d32b45e433cda6]
 
-(1) A person aged 18 or over who knowingly buys or attempts to buy a nicotine vapour product on behalf of a person under the age of 18 commits an offence.
+(1) A person aged 18 or over who knowingly buys or attempts to buy a vaping or nicotine[^c-c51932245904f92306e22b39c2e06af3] product on behalf of a person under the age of 18 commits an offence.
 
 (2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### Miscellaneous
+#### Age of sale notices[^c-e6d3e34569f3fea046b12c0120ca7533]
 
-##### 7. Confiscation of tobacco products from persons under 18[^c-1f0733131537e3465fa91a03781282ce]
+##### 7. Confiscation of tobacco products from persons under 18[^c-d2c4d62e2cd3a78eea2ff99101f8871f]
 
-(1) Where a constable has reasonable grounds for suspecting that a person in a public place—
-
-- (a) is under the age of 18, and
-- (b) is in possession of a tobacco product or cigarette papers,
-
-the constable may require the person to surrender the tobacco product or, as the case may be, the cigarette papers to the constable.
-
-(2) A constable making a requirement under subsection (1) may also require the person to supply the constable with the person's name and address.
-
-(3) Where a constable makes a requirement under subsection (1) the constable must inform the person concerned—
-
-- (a) of the constable's suspicion, and
-- (b) of the fact that failure to comply with a requirement made under subsection (1) or (2) is an offence.
-
-(4)[^c-6003d61251fa9e2b614978abe18187a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(5) A person who fails to comply with a requirement made under subsection (1) or (2) commits an offence.
-
-(6) A person guilty of an offence under subsection (5) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
-
-(7) The constable may dispose of any tobacco product or cigarette papers surrendered to the constable in such manner as the constable considers appropriate.
-
-(8) In this section “**public place**” includes—
-
-- (a) any place to which the public have access for the time being (whether on payment of a fee or otherwise), and
-- (b) any place to which the public do not have access but to which the person mentioned in subsection (1) has unlawfully gained access.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 8. Display of warning statements[^c-8a41f6f599596c533a9b29c561ca34d4]
 
@@ -292,9 +279,7 @@ the constable may require the person to surrender the tobacco product or, as the
 
 (4) A person guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(5)[^c-aeaab7df20c9c0473c76a2772d79c6db] The Scottish Ministers may prescribe the dimensions of the notice to be displayed in accordance with this section and the size of the statement to be displayed on it. *(affected by repeal, see note)*[^c-aeaab7df20c9c0473c76a2772d79c6db]
-
-(5) The notice must comply with any requirements set out in regulations made by the Scottish Ministers as to the size or appearance of—
+(5)[^c-aeaab7df20c9c0473c76a2772d79c6db] The notice must comply with any requirements set out in regulations made by the Scottish Ministers as to the size or appearance of—
 
 - (a) the statement on the notice to be displayed in accordance with this section, or
 - (b) any other aspect of the notice.
@@ -335,23 +320,82 @@ the constable may require the person to surrender the tobacco product or, as the
 
 (3) Regulations under this section may amend this Part.
 
-##### 9. Prohibition of vending machines for the sale of tobacco products[^c-08e0e2809db4282b3c91c2c861960def]
+#### Vending machines[^c-6706096bb0d9fd70e8a33c1892e86ff8]
 
-(1)[^c-548f16f1ef51154ed6d5ddf2c7b9c7a8] A person who has the management or control of premises on which a vending machine is available for use commits an offence. *(affected by repeal, see note)*[^c-548f16f1ef51154ed6d5ddf2c7b9c7a8]
+##### 9. Prohibited vending machines[^c-08e0e2809db4282b3c91c2c861960def]
 
-(2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 4 on the standard scale. *(affected by repeal, see note)*[^c-548f16f1ef51154ed6d5ddf2c7b9c7a8]
+(1) A person who has the management or control of premises on which a prohibited vending machine is available for use commits an offence.
 
-(3) In this section, “ *(affected by repeal, see note)*[^c-548f16f1ef51154ed6d5ddf2c7b9c7a8]**vending machine *(affected by repeal, see note)*[^c-548f16f1ef51154ed6d5ddf2c7b9c7a8]**” means an automatic machine for the sale of tobacco *(affected by repeal, see note)*[^c-548f16f1ef51154ed6d5ddf2c7b9c7a8] or nicotine vapour[^c-9dc580f024ee99cf8a0e42a85c67a58d] *(affected by repeal, see note)*[^c-548f16f1ef51154ed6d5ddf2c7b9c7a8] products (regardless of whether the machine also sells other products). *(affected by repeal, see note)*[^c-548f16f1ef51154ed6d5ddf2c7b9c7a8]
+(2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### Chapter 2 — Register of tobacco and nicotine vapour product retailers[^c-7ad6dc32a49c14a50159a9a55497e58b][^c-ab8ee9a2af282a3b732386bb6300e379]
+(3) In this section, “**prohibited vending machine**” means a machine from which any of the following products may be bought or from which they are dispensed to a customer in connection with a sale—
+
+- (a) tobacco products;
+- (b) herbal smoking products;
+- (c) cigarette papers;
+- (d) vaping products;
+- (e) nicotine products.
+
+#### Snus etc[^c-8733bc5a7f4fc745c4a85c8f1ac3316d]
+
+##### 9A. Ban on manufacture of snus etc
+
+(1) It is an offence to manufacture a relevant oral tobacco product.
+
+(2) In subsection (1) “**relevant oral tobacco product**” means a tobacco product that—
+
+- (a) is intended for oral use,
+- (b) is not intended to be inhaled or chewed, and
+- (c) consists wholly or partly of tobacco in powder or particulate form.
+
+(3) A person guilty of an offence under this section is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding 12 months, or a fine not exceeding the statutory maximum, or both;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or a fine, or both.
+
+##### 9B. Ban on sales of snus etc[^c-2c349cff970b79181432f77c9a1bcfad]
+
+(1) It is an offence to—
+
+- (a) sell a relevant oral tobacco product, or
+- (b) offer or expose a relevant oral tobacco product for sale.
+
+(2) In subsection (1) “**relevant oral tobacco product**” has the meaning given by section 9A(2).
+
+(3) It is a defence for a person charged with an offence under this section to prove that they took all reasonable steps to avoid the commission of the offence.
+
+(4) A person guilty of an offence under this section is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding 12 months, or a fine not exceeding the statutory maximum, or both;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or a fine, or both.
+
+##### 9C. Possession of snus etc with intent to supply[^c-8a508d3acdded9956b97c4c011adf37b]
+
+(1) It is an offence for a person to have a relevant oral tobacco product in their possession with intent to supply it to another in the course of business.
+
+(2) In subsection (1) “**relevant oral tobacco product**” has the meaning given by section 9A(2).
+
+(3) A person guilty of an offence under this section is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding 12 months, or a fine not exceeding the statutory maximum, or both;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or a fine, or both.
+
+### Chapter 2 — Register of tobacco , herbal smoking, vaping and nicotine product retailers[^c-7ad6dc32a49c14a50159a9a55497e58b][^c-ab8ee9a2af282a3b732386bb6300e379][^c-d5f274fd6d1f7eae1dc7ab49fc20b23d]
 
 #### Establishment
 
-##### 10. Register of tobacco and nicotine vapour product retailers[^c-aab65a82d3c2edd71acbec1fe91337a2][^c-7ad6dc32a49c14a50159a9a55497e58b][^c-7ad6dc32a49c14a50159a9a55497e58b][^c-7e3c8270395649a123ceabf877d0fe7d]
+##### 10. Register of tobacco , herbal smoking, vaping and nicotine product retailers[^c-aab65a82d3c2edd71acbec1fe91337a2][^c-7ad6dc32a49c14a50159a9a55497e58b][^c-7ad6dc32a49c14a50159a9a55497e58b][^c-7e3c8270395649a123ceabf877d0fe7d][^c-8fa704a77828cc21ecfb169c62f376a8]
 
-(1) The Scottish Ministers must keep a register of persons carrying on a tobacco or nicotine vapour product[^c-fc1f3a887cdb38f84cb6e0ab2bb5f91c] business (referred to in this Part as “**the Register**”).
+(1)[^c-a7e7fdd341209ddfe3f997b9c2ceb1c7] The Scottish Ministers must keep a register (referred to in this Part as “**the Register**”) of persons carrying on one or more of the following (each of which is a “registrable business”)—
+
+- (a) a tobacco business,
+- (b) a herbal smoking product business,
+- (c) a vaping product business,
+- (d) a nicotine product business.
 
 (2) In this Part, “**registered**” means entered in the Register, and “**unregistered**” is to be construed accordingly.
+
+(3)[^c-42ef92ded679210f1526b53a5499a374] References in this Chapter to a kind of registrable business are to a kind mentioned in subsection (1)(a), (b), (c) or (d).
 
 #### Registration
 
@@ -365,46 +409,31 @@ the constable may require the person to surrender the tobacco product or, as the
 (2) The application must—
 
 - (a) state the name and address of the applicant,
-- (b) where it is an application under subsection (1)(a), state the addresses of all premises at which the applicant proposes to carry on a tobacco or nicotine vapour product[^c-66a9b024c749134b237058507420fd63] business,
-- (c) where it is an application under subsection (1)(b), state the address of the further premises at which the applicant proposes to carry on a tobacco or nicotine vapour product business,
+- (b) where it is an application under subsection (1)(a), state the addresses of all premises at which the applicant proposes to carry on a registrable[^c-a831d3af73fff639a5e78b40ef4de73e] business,
+- (c) where it is an application under subsection (1)(b), state the address of the further premises at which the applicant proposes to carry on a registrable[^c-6241c476ca4811d81a52722a09b54c15] business,
 - (d) contain such other information as is prescribed, and
 - (e) be made in such form and manner as is determined by the Scottish Ministers.
 
-(2A)[^c-e5df208de6b1985eadcdc13bda7572e2] An application under subsection (1) must state, in relation to each of the premises included in it, whether the applicant proposes to carry on—
-
-- (a) a tobacco business at the premises,
-- (b) a nicotine vapour product business at the premises, or
-- (c) both a tobacco business and a nicotine vapour product business at the premises.
+(2A)[^c-73909ae8be2d48d5381d867ce363be5f] An application under subsection (1) must state, in relation to each of the premises included in it, each kind of registrable business that the applicant proposes to carry on at the premises.
 
 (3) The Scottish Ministers must grant the application unless—
 
 - (a) it does not comply with the requirements in subsection (2), or
-- (b) at the time the application is made, the applicant is banned, under a tobacco and nicotine vapour product banning order from carrying on a tobacco or nicotine vapour product[^c-e43a950d62812bef60a3d07856b3839f] business at any premises specified in the application.
+- (b)[^c-a6988116e8f0ee9e8ce731b57cef852f] at the time the application is made, the applicant is banned, under a banning order[^c-8dca7b7caa7651d4c09f46f87bbcffda] from carrying on a registrable business[^c-571e02786463d92a56fbe1380ebefe6c] at any premises specified in the application.
 
 (4) On granting an application under subsection (1)(a), the Scottish Ministers must enter the following information in the Register—
 
 - (a) the name and address of the applicant,
-- (b) the addresses of the premises at which the applicant proposes to carry on a tobacco or nicotine vapour product business, noting, in relation to each of the premises, whether the applicant proposes to carry on—[^c-87f4761e05f99bc44a8b90c60e4f077c]
-  - (i) a tobacco business at the premises,
-  - (ii) a nicotine vapour product business at the premises, or
-  - (iii) both a tobacco business and a nicotine vapour product business at the premises, and
+- (b)[^c-430ef3ce15d5dc6b21fadccd2255a19e] the addresses of the premises at which the applicant proposes to carry on a registrable business, noting, in relation to each of the premises, each kind of registrable business that the applicant proposes to carry on at the premises, and
 - (c) any other information which the Scottish Ministers consider appropriate.
 
-(5) On granting an application under subsection (1)(b), the Scottish Ministers must amend the applicant's entry in the Register so as to include the address of the further premises at which the applicant proposes to carry on a tobacco or nicotine vapour product business, noting, in relation to each of the premises, whether the applicant proposes to carry on—[^c-3364e0b9cf27bb7775619ced6f4e0ebf]
-
-- (a) a tobacco business at the premises,
-- (b) a nicotine vapour product business at the premises, or
-- (c) both a tobacco business and a nicotine vapour product business at the premises.
+(5)[^c-75793257f94f7ecda2ddb6029889a0b0] On granting an application under subsection (1)(b), the Scottish Ministers must amend the applicant’s entry in the Register so as to include the address of the further premises at which the applicant proposes to carry on a registrable business, noting, in relation to each of the premises, each kind of registrable business that the applicant proposes to carry on at the premises.
 
 ##### 12. Certificates of registration[^c-b0450fb310c455822d953c358c0eacc8][^c-7ad6dc32a49c14a50159a9a55497e58b][^c-7ad6dc32a49c14a50159a9a55497e58b]
 
 (1)[^c-ef278f6db6fa4aaa00115eaa35c04d3c] On granting an application under section 11(3) the Scottish Ministers must issue to the applicant a certificate of registration in respect of each premises stated in the application.
 
-(2)[^c-ea38228eb4df7948cdce066b88039297] A certificate issued under subsection (1) must state whether the premises are noted in the applicant's entry in the Register as premises at which the person carries on—
-
-- (a) a tobacco business,
-- (b) a nicotine vapour product business, or
-- (c) both a tobacco business and a nicotine vapour product business.
+(2)[^c-c0198d311946b4d1d2af4e250d58d3b2] A certificate issued under subsection (1) must state each kind of registrable business noted in the applicant’s entry in the Register in relation to the premises.
 
 #### Changes to register
 
@@ -414,7 +443,9 @@ the constable may require the person to surrender the tobacco product or, as the
 
 - (a) a change in the person's name or address,
 - (b) the fact that the person is no longer carrying on a tobacco business at an address noted in the person's entry in the Register.
-- (c)[^c-d7367ea6c4cfb7d517bf39b954a85974] the fact that the person is no longer carrying on a nicotine vapour product business at an address noted in the person's entry in the Register.
+- (c)[^c-9a827c0ed665206e54cee6adbf3aaca7] the fact that the person is no longer carrying on a herbal smoking product business at an address noted in the person’s entry in the Register,
+- (d) the fact that the person is no longer carrying on a vaping product business at an address noted in the person’s entry in the Register,
+- (e) the fact that the person is no longer carrying on a nicotine product business at an address noted in the person’s entry in the Register.
 
 (2) A notice under subsection (1) must be given within 3 months of the date of the change to which it relates.
 
@@ -422,12 +453,12 @@ the constable may require the person to surrender the tobacco product or, as the
 
 (1) The Scottish Ministers may correct the Register (following notification under section 13 or otherwise) as they consider appropriate.
 
-(2) Where a tobacco and nicotine vapour product[^c-f3f63b65b586b91037bccf5d8b390929] banning order is made against a registered person, the Scottish Ministers must amend the person's entry in the Register so as to remove references to the premises specified in the order.
+(2)[^c-b43c02d6f02725774e86546f7b2cd677] Where a [^c-7aff588b7feeb2d5264776090f5e5a9d]... banning order is made against a registered person, the Scottish Ministers must amend the person's entry in the Register so as to remove references to the premises specified in the order.
 
 (3) The Scottish Ministers may remove a person's entry from the Register if—
 
 - (a) as a result of a correction or amendment under subsection (1) or (2), there are no premises noted in the person's entry in the Register, or
-- (b) they are not satisfied that the person is carrying on a tobacco or nicotine vapour product[^c-695d75f2964f525678bdcda9c61b5c8e] business.
+- (b) they are not satisfied that the person is carrying on a registrable[^c-ed9633ea3664975dd61d7a570d0d24ee] business.
 
 (4) Where the Scottish Ministers correct, amend or remove a person's entry in the Register under this section, they must—
 
@@ -437,7 +468,7 @@ the constable may require the person to surrender the tobacco product or, as the
 (5) The Scottish Ministers must reinstate a person's entry in the register if—
 
 - (a) the entry was removed under subsection (3)(b), and
-- (b) the person notifies them no later than 28 days after notice of the removal is given under subsection (4)(a) that the person is still carrying on a tobacco or nicotine vapour product[^c-42b89f3eb0d6ad2804e51ed8e7501ea6] business.
+- (b) the person notifies them no later than 28 days after notice of the removal is given under subsection (4)(a) that the person is still carrying on a registrable[^c-5715a7425e85238ffef46688022ee6b6] business.
 
 (6) A notice under subsection (4)(a) may be given—
 
@@ -445,26 +476,26 @@ the constable may require the person to surrender the tobacco product or, as the
 - (b) by leaving it at the person's usual or last known address,
 - (c) by sending it by post to the person at that address.
 
-#### Tobacco and nicotine vapour product banning orders[^c-4e13083a66d04e77642f016ba8aed979]
+#### ... Banning orders[^c-c45ec58c1fb2535589e178c3ba6bfb06][^c-4e13083a66d04e77642f016ba8aed979]
 
-##### 15. Tobacco and nicotine vapour product banning orders[^c-a4729911aa9a74246980d57f7eefef60][^c-3469c14e99260db614a83b897c026a3e]
+##### 15. ... Banning orders[^c-a4729911aa9a74246980d57f7eefef60][^c-c19fe6a5b31654bde1f639ae502c1d80][^c-ad3258fd5fcfff2afbafa3d93eee3ea0][^c-3469c14e99260db614a83b897c026a3e]
 
-(1) A council may apply to the sheriff for an order banning a person from carrying on a tobacco or nicotine vapour product[^c-3ae945ac7464cb17115736503bbb7b55] business from premises within the council's area.
+(1) A council may apply to the sheriff for an order banning a person from carrying on a registrable[^c-b6ef76dbc41af5e9aed74696b159328f] business from premises within the council's area.
 
-(2) An application under subsection (1) must specify the premises from which the person is to be banned from carrying on a tobacco or nicotine vapour product[^c-48742ee8491105ca0ab053fa3fa2907b] business.
+(2) An application under subsection (1) must specify the premises from which the person is to be banned from carrying on a registrable[^c-c4e721aa3fda410296d04faf668247d0] business.
 
-(3) The sheriff may make an order banning the person from carrying on a tobacco or nicotine vapour product[^c-511fa414f3a15d6534941097b111c51b] business at the premises specified in the order if satisfied, on the balance of probabilities, that—
+(3) The sheriff may make an order banning the person from carrying on a registrable[^c-c3a2f1eb320bba4799de4e5f90797401] business at the premises specified in the order if satisfied, on the balance of probabilities, that—
 
 - (a) there have been[^c-f7b0adb3fe0e5c214553300504de172d] 3 or more relevant enforcement actions in respect of each premises specified in the order,
 - (b) at least one of the actions occurred in the period of 2 months ending on the date the application was made,
 - (c) the conduct to which the actions relate took place within a period of 2 years, and
-- (d) the making of the order is necessary to prevent the commission of [^c-d60c8596aa74f4797ddf4e673aad8c63]... offences under Chapter 1 or 2.
+- (d) the making of the order is necessary to prevent the commission of [^c-d60c8596aa74f4797ddf4e673aad8c63]... offences under Chapter 1 or 2 or any regulations made under those Chapters[^c-19111ebd3bc262e0a429cf2a664a33b0].
 
 (4) A relevant enforcement action occurs where a person mentioned in subsection (4A)[^c-007c1fb845cfbf0b9d4db83b04e47900] is—
 
 - (a) issued with a fixed penalty notice (which is not subsequently withdrawn), [^c-5805eac5ebd8d17387246d71b92e060c]...
-- (b) convicted of an offence under Chapter 1 or 2, or[^c-836b80ca2bf4eb02df5ca4cf1fa658f0]
-- (c) convicted of an offence under section 92(1)(b) or (c) of the Trade Marks Act 1994 (unauthorised use of trade mark in relation to goods) in circumstances where the goods in question are, or include, tobacco products, smoking related products or nicotine vapour products.
+- (b) convicted of an offence under Chapter 1 or 2 or any regulations made under those Chapters[^c-1dd06afd7bb641ed4a24aec613c08b20] , or[^c-836b80ca2bf4eb02df5ca4cf1fa658f0]
+- (c) convicted of an offence under section 92(1)(b) or (c) of the Trade Marks Act 1994 (unauthorised use of trade mark in relation to goods) in circumstances where the goods in question are, or include, tobacco products , herbal smoking products[^c-108cf7a6a2f918dcbb22542ebaa5bcbc], smoking related products , vaping products or nicotine products[^c-d59f9b64bcc7e3123010d666b3c67e39].
 
 (4A)[^c-efc3fb024e9451b879a2a9d41ba020e4] The persons are—
 
@@ -473,33 +504,33 @@ the constable may require the person to surrender the tobacco product or, as the
 
 (5) An order made under this section has effect for the period (not exceeding 24 months) specified in the order beginning with the day the order is granted.
 
-(6) In this Part, an order made under this section is referred to as a “**tobacco and nicotine vapour product[^c-3c7902949170a6230553ebf3c446e987] banning order**”.
+(6) In this Part, an order made under this section is referred to as a “**[^c-c3f39ed697fe278203880d853b85c543]... banning order**”.
 
-##### 16. Tobacco and nicotine vapour product banning orders: ancillary orders[^c-0806e32832f68f9ac26b02a880ba0755][^c-929b942dad53d42b422a8a9d71afdd1f]
+##### 16. ... Banning orders: ancillary orders[^c-0806e32832f68f9ac26b02a880ba0755][^c-b22facf13510107d671db17b793ab041][^c-7e0c3b889c07f3c3970535db914f2930][^c-929b942dad53d42b422a8a9d71afdd1f]
 
 (1) This section applies where—
 
-- (a) a council has applied for a tobacco and nicotine vapour product[^c-acd5df023bdd821b931b0cc9a01d564a] banning order in respect of a person (“P”), or
-- (b) a tobacco and nicotine vapour product banning order has been made in respect of P.
+- (a) a council has applied for a [^c-97ec9740716c58d46a3b701aff248933]... banning order in respect of a person (“P”), or
+- (b) a [^c-68665d8bc01a4549ae838b1a313ff5bc]... banning order has been made in respect of P.
 
 (2) A council may apply to the sheriff for an ancillary order—
 
 - (a) banning P from—
-  - (i) being connected to a person carrying on a tobacco or nicotine vapour product[^c-559464b12ee243782446210148b1aee3] business at the specified premises,
-  - (ii) seeking to control a person carrying on a tobacco or nicotine vapour product business at the specified premises,
+  - (i) being connected to a person carrying on a registrable[^c-53d3b0857127f4c4ecc7aa594f69a314] business at the specified premises,
+  - (ii) seeking to control a person carrying on a registrable[^c-8a2699c73d21ef0d61a59a9e3b6292b5] business at the specified premises,
 - (b) where P is not an individual, banning any person connected to P from—
-  - (i) carrying on a tobacco or nicotine vapour product business at the specified premises,
-  - (ii) being connected to a person carrying on a tobacco or nicotine vapour product business at the specified premises,
-  - (iii) seeking to control a person carrying on a tobacco or nicotine vapour product business at the specified premises.
+  - (i) carrying on a registrable[^c-0cfdbf1744bb365fac11fbc1c29853d5] business at the specified premises,
+  - (ii) being connected to a person carrying on a registrable[^c-08ac0842d415484b2436065bcea90b34] business at the specified premises,
+  - (iii) seeking to control a person carrying on a registrable[^c-bf21c61e5327481508db17cea4700362] business at the specified premises.
 
 (3) A sheriff may make the ancillary order if—
 
-- (a) the sheriff is satisfied, on the balance of probabilities, that the order is necessary to prevent the commission of further offences under Chapter 1 or 2, and
-- (b) where this section applies by virtue of subsection (1)(a), the sheriff makes the tobacco and nicotine vapour product[^c-a2ee6b0400aec3c46803c2bac8f8cdbd] banning order.
+- (a) the sheriff is satisfied, on the balance of probabilities, that the order is necessary to prevent the commission of further offences under Chapter 1 or 2 or any regulations made under those Chapters[^c-e54bf814cc53490f6c4d6dac84d83af0], and
+- (b) where this section applies by virtue of subsection (1)(a), the sheriff makes the [^c-2929f81aae38bf9e4d45ffbd16903853]... banning order.
 
-(4) An ancillary order made under this section ceases to have effect when the tobacco and nicotine vapour product[^c-2a9436ed0c32485d9fface86e32450c4] banning order to which it relates ceases to have effect.
+(4) An ancillary order made under this section ceases to have effect when the [^c-fde7d73202731a75bc78e22da5836073]... banning order to which it relates ceases to have effect.
 
-(5) In subsection (2), “**the specified premises**” means the premises specified in the tobacco and nicotine vapour product[^c-3d3cb77a9d70bdb505a4d5bb55f2b83c] banning order to which the ancillary order relates.
+(5) In subsection (2), “**the specified premises**” means the premises specified in the [^c-f30fdd5dc60d0881667ccd4a29cc1946]... banning order to which the ancillary order relates.
 
 (6) For the purposes of this section, a person is connected to a partnership, a limited liability partnership, a company or other body (whether incorporated or unincorporated) if the person—
 
@@ -515,13 +546,13 @@ the constable may require the person to surrender the tobacco product or, as the
 - (a) any of the directors of the company, or of any other company having control of the company, is accustomed to act in accordance with the person's directions or instructions, or
 - (b) the person is entitled to exercise, or to the control the exercise of, at least one third of the voting power at any general meeting of the company or of any other company having control of the company.
 
-##### 17. Tobacco and nicotine vapour product banning orders etc.: appeals[^c-1ef6c9846fa0ccd304f47f141a27f011][^c-b6471354b1180288fbe12529033ec4ee]
+##### 17. ... Banning orders etc.: appeals[^c-1ef6c9846fa0ccd304f47f141a27f011][^c-7b0a7249fe36286abe721b9521ed9289][^c-e1c39a0bb9dc62f4213ad8560ce10e4b][^c-b6471354b1180288fbe12529033ec4ee]
 
-(1) A person against whom a tobacco and nicotine vapour product[^c-245e1f8447ba957dece6e5aebffe6d00] banning order or an ancillary order under section 16 is made may appeal to the sheriff principal, whose decision is final.
+(1) A person against whom a [^c-9ca491f4181a51cee0327bbb8a68f419]... banning order or an ancillary order under section 16 is made may appeal to the sheriff principal, whose decision is final.
 
 (2) An appeal under this section must be made within 21 days of the order being made.
 
-(3) Where the appeal is against a tobacco and nicotine vapour product banning order, the sheriff principal may determine the appeal by—
+(3) Where the appeal is against a [^c-c3492675295dd9807dce6c29c1871869]... banning order, the sheriff principal may determine the appeal by—
 
 - (a) quashing the order (and any ancillary order under section 16 relating to the order),
 - (b) substituting for the period specified in the order under section 15(5) such other period of effect (ending no later than 24 months after the day the order was granted) as the sheriff principal considers appropriate, or
@@ -532,28 +563,28 @@ the constable may require the person to surrender the tobacco product or, as the
 - (a) quashing the order, or
 - (b) refusing the appeal.
 
-##### 18. Tobacco and nicotine vapour product banning orders etc.: notification to Scottish Ministers[^c-6c454f6ae2bc710acabba7ff596a14bf][^c-137ffaef43216ea072e2706a772d1f30]
+##### 18. ... Banning orders etc.: notification to Scottish Ministers[^c-6c454f6ae2bc710acabba7ff596a14bf][^c-9123a36316cc5e65db2e5a5981057ebe][^c-137ffaef43216ea072e2706a772d1f30]
 
-(1) On making a tobacco and nicotine vapour product[^c-837841706020454f646eff10d0ede227] banning order or an ancillary order under section 16, the sheriff must notify the Scottish Ministers.
+(1) On making a [^c-0dea24d1fb8fc4b1a800f90c7daa249c]... banning order or an ancillary order under section 16, the sheriff must notify the Scottish Ministers.
 
 (2) On determining an appeal under section 17, the Clerk of the Sheriff Appeal Court[^c-97fab7e41919e500964bacd6a0106b66] must notify the Scottish Ministers.
 
-##### 19. Tobacco and nicotine vapour product banning orders: display of notices[^c-77bfb8c7068144d77789393faecfa4b9][^c-b2078999f1f8361d115bc1ad7c6fccdb]
+##### 19. ... Banning orders: display of notices[^c-77bfb8c7068144d77789393faecfa4b9][^c-8edb547f7a3e3b01e81396e095915839][^c-b2078999f1f8361d115bc1ad7c6fccdb]
 
 (1) This section applies where—
 
-- (a) a tobacco and nicotine vapour product[^c-a387f153166659ddc31c3d0700ef51d2] banning order has effect in respect of a person, and
+- (a) a [^c-d581bd023d4dc047d8f2393d82e2a571]... banning order has effect in respect of a person, and
 - (b) the person carries on a retail business at the premises specified in the order.
 
 (2) The person must display a notice in the premises in accordance with subsection (3).
 
 (3) The notice must—
 
-- (a) state that the premises have been specified in a tobacco and nicotine vapour product[^c-4979bd16ac1f612788359fc098613477] banning order and the period for which the order has effect,
+- (a) state that the premises have been specified in a [^c-565575d24ea8d8438fe3e11a288e1dfd]... banning order and the period for which the order has effect,
 - (b) be displayed in a prominent position in the premises where it is readily visible to persons at every relevant point of sale, and
-- (c) be displayed no later than 14 days after the tobacco and nicotine vapour product banning order is made.
+- (c) be displayed no later than 14 days after the [^c-50b0cfbd4bc8708521e8ff893b9e7d00]... banning order is made.
 
-(4) A relevant point of sale is one that was used for the sale of tobacco products , smoking related products or nicotine vapour products[^c-1a10d39a444576daba72c8bd553f4a7f] at any time during the period of 2 months ending with the making of the banning order.
+(4) A relevant point of sale is one that was used for the sale of tobacco products , herbal smoking products[^c-a520115693e827c31ced4228bf33e92b] , smoking related products[^c-1a10d39a444576daba72c8bd553f4a7f] , vaping products or nicotine products[^c-2181a8eef27561037c89a5bcce9beef3] at any time during the period of 2 months ending with the making of the banning order.
 
 (5) The Scottish Ministers may prescribe—
 
@@ -565,15 +596,15 @@ the constable may require the person to surrender the tobacco product or, as the
 
 ##### 20. Offences relating to the Register[^c-4716b11462dfd0acda5e04dd28aaa603]
 
-(1) An unregistered person who carries on a tobacco or nicotine vapour product[^c-963ab5578aaeaf25fed67ecfeaf70b45] business commits an offence.
+(1) An unregistered person who carries on a tobacco or[^c-963ab5578aaeaf25fed67ecfeaf70b45] vaping[^c-5ae7718d6a9f80be886bc29d0bde9cba] product business commits an offence.
 
-(2) A registered person who carries on a tobacco business at premises other than those noted in the person's entry in the Register as premises at which the person carries on a tobacco business (or both a tobacco business and a nicotine vapour product business)[^c-beadbd3fa07c1d5fe13d6f19793fe9bd] commits an offence.
+(2) A registered person who carries on a tobacco business at premises other than those noted in the person's entry in the Register as premises at which the person carries on a tobacco business (or both a tobacco business and a[^c-beadbd3fa07c1d5fe13d6f19793fe9bd] vaping[^c-c792f81997b26f0b0b1b5bf89a2e6f28] product business) commits an offence.
 
-(2A)[^c-c906fb3b17d299484b34be8cdc91943b] A registered person who carries on a nicotine vapour product business at premises other than those noted in the person's entry in the Register as premises at which the person carries on a nicotine vapour product business (or both a tobacco business and a nicotine vapour product business) commits an offence.
+(2A)[^c-c906fb3b17d299484b34be8cdc91943b] A registered person who carries on a vaping[^c-0d2f9ba7d6d4854edf9bcaa86f0ac661] product business at premises other than those noted in the person's entry in the Register as premises at which the person carries on a nicotine vapour product business (or both a tobacco business and a nicotine vapour product business) commits an offence.
 
 (3) A person who fails, without reasonable excuse, to comply with section 13(1) (duty to notify certain changes) commits an offence.
 
-(4) A person who breaches a tobacco and nicotine vapour product[^c-fd1171784aa7641751c7f6b62d50bbeb] banning order or an ancillary order made under section 16 commits an offence.
+(4)[^c-ed82b0a22a5113a6a04cca2d4cd0e17f] A person who breaches a [^c-6a1c030c4aeb8d5efbab86295347f3a6]... banning order or an ancillary order made under section 16 commits an offence.
 
 (5) A person who fails, without reasonable excuse, to comply with section 19(2) (duty to display notice) commits an offence.
 
@@ -586,15 +617,11 @@ the constable may require the person to surrender the tobacco product or, as the
 - (b) subsection (3) is liable on summary conviction to a fine not exceeding level 2 on the standard scale,
 - (c) subsection (5) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-#### Register of tobacco and nicotine vapour product retailers: miscellaneous and supplementary[^c-bf92ad7bb5b6dcc21171498523b298ad]
+#### Register of tobacco , herbal smoking, vaping and nicotine product retailers: miscellaneous and supplementary[^c-bf92ad7bb5b6dcc21171498523b298ad][^c-cdf76cb57597eaa0f387933978ec44ae]
 
 ##### 21. Public inspection of Register[^c-71c2db767b6c442c7647a094e19b201a]
 
-(1) On the basis of information contained in the Register, the Scottish Ministers must make available for public inspection a list of premises, specifying for each of those premises whether there is carried on, or there is proposed to be carried on—[^c-b62cb5937a7c951d836def005d444bf7]
-
-- (a) a tobacco business,
-- (b) a nicotine vapour product business, or
-- (c) both a tobacco business and a nicotine vapour product business.
+(1)[^c-2bcbc3aa5855a29049e803bda1238452] On the basis of information contained in the Register, the Scottish Ministers must make available for public inspection a list of premises, specifying for each of those premises each kind of registrable business carried on or proposed to be carried on there.
 
 (2) The list must be made available free of charge at all reasonable times.
 
@@ -602,7 +629,7 @@ the constable may require the person to surrender the tobacco product or, as the
 
 (1) The Scottish Ministers must make available to councils the information contained in the Register.
 
-(2) Information disclosed under subsection (1) may by used by councils only for the purpose of enabling or assisting them to perform their functions under this Part.
+(2) Information disclosed under subsection (1) may be[^c-0688bdf6375cb3be2243c6a95e89f665] used by councils only for the purpose of enabling or assisting them to perform their functions under this Part.
 
 ##### 23. Delegation of functions relating to Register[^c-7c62a260fcd955d1da9ed96d9371fb70]
 
@@ -640,14 +667,14 @@ The Scottish Ministers may by regulations provide for this Chapter to apply in r
 
 (2) For the purposes of subsection (1), a programme of enforcement action is a programme involving one or both of the following—
 
-- (a) the investigation of complaints in respect of alleged offences under Chapter 1 or 2,
-- (b) the taking of other measures intended to reduce the incidence of offences under those Chapters.
+- (a) the investigation of complaints in respect of alleged offences under Chapter 1 or 2 or any regulations made under those Chapters[^c-38c9e76088f19b21f79f9fc37638ac0b],
+- (b) the taking of other measures intended to reduce the incidence of offences under those Chapters or any regulations made under those Chapters[^c-3ea1642260bc560a766d3e28a13f5159].
 
 #### Fixed penalties
 
 ##### 27. Fixed penalties[^c-7a36d3a3e2a8500fda4610d8eb3314e9]
 
-(1) An enforcement officer may give a person a fixed penalty notice if the officer has reason to believe that the person has committed an offence under Chapter 1 or 2.
+(1) An enforcement officer may give a person a fixed penalty notice if the officer has reason to believe that the person has committed an offence under Chapter 1 or 2 or any regulations made under those Chapters[^c-c6de2e473cd50e1d33ebf67e0a8a8dc4].
 
 (2) But a person may be given a fixed penalty notice only if the person is aged 16 or over.
 
@@ -722,19 +749,19 @@ commits an offence.
 
 ##### 32. Powers of entry: constables[^c-2f76a9884990a239dc3348fb4e878a1f]
 
-(1) A constable who suspects with reasonable cause that any person is committing or has committed an offence under Chapter 1 or 2 may enter any premises (other than premises used only as a private dwelling house) for the purpose of obtaining evidence of the offence.
+(1) A constable who suspects with reasonable cause that any person is committing or has committed an offence under Chapter 1 or 2 or any regulations made under those Chapters[^c-878e948cb4e289e637c8a60167851e99] may enter any premises (other than premises used only as a private dwelling house) for the purpose of obtaining evidence of the offence.
 
 (2) A right to enter any premises conferred by subsection (1) may be exercised only at a reasonable time.
 
 (3) A sheriff may by warrant authorise a constable authorised to exercise the power conferred by subsection (1) to do so (if necessary using reasonable force) in accordance with the warrant.
 
-(4) A warrant may be granted under subsection (3) only if the sheriff is satisfied, by evidence on oath, that there are reasonable grounds for suspecting that an offence under Chapter 1 or 2 is or has been committed on the premises.
+(4) A warrant may be granted under subsection (3) only if the sheriff is satisfied, by evidence on oath, that there are reasonable grounds for suspecting that an offence under Chapter 1 or 2 or any regulations made under those Chapters[^c-a2d841a61d971a9dbc4b859928b1dd70] is or has been committed on the premises.
 
 ### Chapter 4 — Miscellaneous and supplementary
 
 #### 33. Presumption as to contents of container[^c-71d4357fb5ef7eb0a6196af0abdd98d7]
 
-(1) This section applies for the purpose of any trial in proceedings for an alleged offence under section 1, 4, 4A, 4B, 4C, 5, 6, 6A or 9[^c-78d60860cf745a08cba8acb04b7fe426] .
+(1) This section applies for the purpose of any trial in proceedings for an alleged offence under section 1, 4, 4A, 4B, 4C[^c-78d60860cf745a08cba8acb04b7fe426] [^c-6900ab9fc761e19b2e46a3e0ce0d6d27]..., 6, 6A or 9 or under regulations made under section 3A[^c-064ed3d59efc28a0b988bb334b5738da].
 
 (2) Any substance displayed, sold or purchased in a container (whether sealed or not) is presumed to conform to the description of the substance on the container.
 
@@ -746,7 +773,7 @@ commits an offence.
 
 (1) Where—
 
-- (a) an offence under this Act has been committed by—
+- (a) an offence under this Act or regulations made under it[^c-49ebcd8cbfe9829cc55bedcfb81481ba] has been committed by—
   - (i) a body corporate,
   - (ii) a Scottish partnership, or
   - (iii) an unincorporated association other than a Scottish partnership, and
@@ -783,49 +810,76 @@ that individual (as well as the body corporate, partnership or, as the case may 
 
 #### 35. Interpretation of Part 1[^c-8ec70be7d90c2aade1d0c5643af7df41]
 
-(1) In this Part—
+(1)[^c-706b12ebf044aadc39fb7055eeb7fb1b] In this Part—
 
 - “area”—
   - (a) in relation to a council, means the local government area for which the council is constituted,
   - (b) in relation to a council officer, means the area of the council which authorised the officer,
+- “[^c-c449a9f181ae95f89427d276d316fa7c]**banning order**” has the meaning given in section 15(6),
 - “**council**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c.39),
 - “**council officer**” means a duly authorised officer of a council,
+- “[^c-a49df5e990526318d49b306030d49508]**filter**” means a filter that is intended to be used when smoking a tobacco product or herbal smoking product (including a filter that forms part of, or that is intended to be inserted into, an item such as a cigarette holder or pipe);
 - “**fixed penalty notice**” is to be construed in accordance with section 27 and schedule 1,
-- “[^c-deb9082adbf536fdea48559128a2d338]**nicotine vapour product business**” means a business involving the sale of nicotine vapour products by retail,
-- “**premises**” includes any place and any vehicle or moveable structure (and, for this purpose, “[^c-df6573c921441c81f69afc4d3b166c37]**vehicle**” includes any aircraft or ship, boat or other water-going vessel, other than one of a prescribed description) ,
+- “[^c-19012974d43c0f00259498fd4047ef49]**herbal smoking product**” means a product consisting wholly or partly of vegetable matter and intended to be smoked but not containing tobacco,
+- “**herbal smoking product business**” means a business involving the sale of herbal smoking products by retail,
+- “[^c-fe6a700968d7cf87d9e728c30a308dac]**medical device**” has the meaning given by the Medical Devices Regulations 2002 ([S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618)),
+- “**medicinal product**” has the meaning given by the Human Medicines Regulations 2012 ([S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916)),
+- “**nicotine product business**” means a business involving the sale of nicotine products by retail,
+- [^c-9b86001c66e892fd03ec86c71134ffe9]...
+- “**premises**” includes any place and any vehicle or moveable structure (and, for this purpose, “[^c-df6573c921441c81f69afc4d3b166c37]**vehicle**” includes any aircraft or ship, boat or other water-going vessel, other than one of a prescribed description),
 - “**prescribed**” means prescribed in regulations made by the Scottish Ministers (and “**prescribe**” is to be construed accordingly),
 - “registered” and “unregistered” have the meaning given in section 10(2),
+- “**registrable business**” has the meaning given in section 10(1) (and references to a kind of registrable business have the meaning given in section 10(3)),
+- “[^c-b6f1188966b606f3badebceb4efec095]**retail packaging**”, in relation to a product, means the packaging in which it is, or is intended to be, presented for sale by retail;
 - “**tobacco business**” means a business involving the sale of tobacco products by retail,
-- “[^c-9e9d33a515cca19e436b184d6cb78399]**tobacco or nicotine vapour product business**” means a business which involves (either or both) a tobacco business or a nicotine vapour product business,
+- [^c-e6a1ff6058ba67683daaeb85cfa763b8]...
 - “[^c-24ee954b116f5e9fdbc8cef1f9447b9c]**tobacco product**” means a product consisting wholly or partly of tobacco and intended to be smoked, sniffed, sucked, chewed or consumed in any other way,
-- “**tobacco retailing banning order**” has the meaning given in section 15(6).
+- [^c-e6a1ff6058ba67683daaeb85cfa763b8]...
+- “**vape**” means—
+  - (a) a device which—
+    - (i) vaporises substances, other than tobacco, for the purpose of inhalation through a mouthpiece (whether or not it also vaporises tobacco), and
+    - (ii) is not a medical device or a medicinal product, or
+  - (b) an item which is intended to form part of a device within paragraph (a) (including anything intended to be attached to it with a view to imparting flavour),
+- “**vaping product**” means—
+  - (a) a vape, or
+  - (b) a vaping substance,
+- “**vaping product business**” means a business involving the sale of vaping products by retail,
+- “**vaping substance**” means a substance, other than tobacco, that is intended to be vaporised by a vape,
+- “**vaporises**” includes aerosolises (and “**vaporised**” is to be construed accordingly).
 
 (2) For the purposes of this Part, the following are smoking related products—
 
 - cigarette papers
 - cigarette tubes
-- cigarette filters
+- filters that do not form part of a tobacco product or herbal smoking product[^c-dbe1d081ef9737eacbe3bb885ecae44f]
 - apparatus for making cigarettes
 - cigarette holders
 - pipes for smoking tobacco products.
 
-(3) The Scottish Ministers may by order modify the list in subsection (2) as they consider appropriate.
+(3) The Scottish Ministers may by order amend this section so as to[^c-005dd7afaa6ed64e5e0745aceeccb7ff] modify the list in subsection (2) as they consider appropriate.
 
-#### 35A. Meaning of “nicotine vapour product”[^c-50c1335a82a531b4bc68f2616b9cdd53]
+#### 35A. Meaning of “nicotine vapour product”[^c-0a1ae243f899c8378367a4ca013bc7c7]
 
-(1) In this Part, a “nicotine vapour product” is—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) a device which is intended to enable the inhalation of nicotine-containing vapour by an individual,
-- (b) a device which is intended to enable the inhalation of other vapour by an individual but is intended to resemble and be operated in a similar way to a device within paragraph (a),
-- (c) an item which is intended to form part of a device within paragraph (a) or (b),
-- (d) a substance which is intended to be vaporised by a device within paragraph (a) or (b) (and any item containing such a substance).
+#### 35B. Meaning of “nicotine product” in this Part[^c-d2fce6349cd67e0efda1bb130930c627]
 
-(2) But the following are not nicotine vapour products—
+(1) In this Part, a “nicotine product” is—
 
-- (a) a tobacco product,
-- (b) a smoking related product,
-- (c) a medicinal product (within the meaning of the Human Medicines Regulations 2012 (S.I. 2012/1916)),
-- (d) a medical device (within the meaning of the Medical Devices Regulations 2002 (S.I. 2002/618)).
+- (a) a device which is intended to enable nicotine to be delivered into the human body,
+- (b) an item which is intended to form part of a device within paragraph (a),
+- (c) nicotine, or any substance containing nicotine, which is intended to be delivered into the human body, or
+- (d) an item containing anything within paragraph (c).
+
+(2) But the following are not nicotine products—
+
+- (a) a tobacco product;
+- (b) a smoking related product;
+- (c) a herbal smoking product;
+- (d) any device which is intended to be used for the consumption of tobacco products or herbal smoking products;
+- (e) a vaping product;
+- (f) a medicinal product;
+- (g) a medical device.
 
 #### 36. Crown application[^c-11006b9762ab51e576426827cc69f94a]
 
@@ -833,7 +887,7 @@ that individual (as well as the body corporate, partnership or, as the case may 
 
 (2) No contravention by the Crown of any provision made by or under this Part makes the Crown criminally liable.
 
-(3) But the Court of Session may, on the application of the council in whose area the contravention is alleged to have taken place, declare unlawful any act or omission of the Crown which constitutes such a contravention.
+(3) But the Court of Session may, on the application of the Scottish Ministers or[^c-2c9ae23e83b7dda4dedbb0d576950af4] of the council in whose area the contravention is alleged to have taken place, declare unlawful any act or omission of the Crown which constitutes such a contravention.
 
 (4) Despite subsection (2), any provision made by or under this Part applies to persons in the public service of the Crown as it applies to other persons.
 
@@ -1181,7 +1235,9 @@ is sufficient evidence of the facts stated.
 
 [^c-2693e6b590162c5ae7d6dd6de70f1465]: Modification: [Act](https://www.legislation.gov.uk/asp/2010/3) modified (29.4.2013 for specified purposes and 6.4.2015 in so far as not already in force) by [The Sale of Tobacco (Display of Tobacco Products and Prices etc.) (Scotland) Regulations 2013 (S.S.I. 2013/85)](https://www.legislation.gov.uk/ssi/2013/85), regs. 1(1), [17](https://www.legislation.gov.uk/ssi/2013/85/regulation/17)
 
-[^c-369733bcf5447856de19df41a98dd979]: Textual amendment: [Pt. 1 title](https://www.legislation.gov.uk/asp/2010/3/part/1) substituted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(11)](https://www.legislation.gov.uk/asp/2016/14/section/15/11), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-7233ef61f3193b399b2e693a23c8a3aa]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/asp/2010/3/part/1) heading substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/2) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/20))
+
+[^c-958b1c46b27fea43da654a60c4ee0b5e]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/asp/2010/3/part/1) heading inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/2); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-42b994c450e6124e8b24a0924a3edab3]: Textual amendment: Pt. 1 Ch. 1 title substituted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(1)](https://www.legislation.gov.uk/asp/2016/14/section/15/1), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
@@ -1197,11 +1253,15 @@ is sufficient evidence of the facts stated.
 
 [^M_I_73060068-0f3c-4c02-d391-72922c77f4d8]: Commencement: S. 3 in force at 26.2.2013 for specified purposes and for further specified purposes 29.4.2013 by [S.S.I. 2013/38](https://www.legislation.gov.uk/ssi/2013/38), [art. 2(a)(b)](https://www.legislation.gov.uk/ssi/2013/38/article/2/a/b)
 
-[^c-989acd00d6e3c8815907eea3a5e10626]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/asp/2010/3/section/3A) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-989acd00d6e3c8815907eea3a5e10626]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/asp/2010/3/section/3A) inserted (29.4.2026 for specified purposes, 29.10.2026 in so far as not already in force) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
 [^c-d016d5aafd637dba8f67b87587447425]: Textual amendment: S. 4 crossheading substituted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 2(2)](https://www.legislation.gov.uk/asp/2016/14/section/2/2), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
+[^c-6f83dec4e80757b51ce694709801850e]: Textual amendment: Words in [s. 4 cross-heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/1/crossheading/sale-and-purchase-of-tobacco-products) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
 [^c-134b8d9427d8e3a2278e00b0cd709a61]: Commencement: S. 4 in force at 24.10.2010 for specified purposes and 1.4.2011 in so far as not already in force by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
+
+[^c-d52d8870e35d73c277bd98056630d185]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/asp/2010/3/section/4/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/56/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-b8d37f1b7be5005d470ada753b49b9a0]: Textual amendment: [S. 4(2)(b)](https://www.legislation.gov.uk/asp/2010/3/section/4/2/b) substituted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/63/2/a), [175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7)
 
@@ -1209,159 +1269,271 @@ is sufficient evidence of the facts stated.
 
 [^c-cdcd0ff8c14615dbf9898f72a4f5fd73]: Textual amendment: S. 4A inserted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 2(1)](https://www.legislation.gov.uk/asp/2016/14/section/2/1), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
+[^c-144a739d94601b183da31415b65670bc]: Textual amendment: Words in [s. 4A heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/1/crossheading/sale-and-purchase-of-tobacco-products) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/3/b), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-ae3aa1a1d3402b1f596d374ebd88f7b8]: Textual amendment: Words in [s. 4A(1)](https://www.legislation.gov.uk/asp/2010/3/section/4A/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/3/a), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
 [^c-48e5988b579ef66d1a98aa9f64e15d23]: Textual amendment: [S. 4A(4)(aa)](https://www.legislation.gov.uk/asp/2010/3/section/4A/4/aa) inserted (31.12.2020) by [The Public Health and Tobacco (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/142)](https://www.legislation.gov.uk/ssi/2019/142), [regs. 1](https://www.legislation.gov.uk/ssi/2019/142/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2019/142/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-ac579f87cd1835c5c45ddf1a746f98d5]: Textual amendment: S. 4B inserted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 3(1)](https://www.legislation.gov.uk/asp/2016/14/section/3/1), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
+[^c-76e178e7cf9d16b887edb0c03455162e]: Textual amendment: Words in [s. 4B(1)(a)](https://www.legislation.gov.uk/asp/2010/3/section/4B/1/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(4)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/4/a), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-88807a3344a5d36e02327db6db0ef26e]: Textual amendment: Words in [s. 4B(1)(b)](https://www.legislation.gov.uk/asp/2010/3/section/4B/1/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(4)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/4/a), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-98eedc7693767687e749bf890aef5056]: Textual amendment: [S. 4B(1A)](https://www.legislation.gov.uk/asp/2010/3/section/4B/1A) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(4)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/4/b), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-64a807af6442270eab5564f38e757d40]: Textual amendment: [S. 4B(2)](https://www.legislation.gov.uk/asp/2010/3/section/4B/2) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(4)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/4/c), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-54126537e02da52a41427f34e15f4279]: Textual amendment: Words in [s. 4B(3)](https://www.legislation.gov.uk/asp/2010/3/section/4B/3) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(4)(d)(i)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/4/d/i), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-dbad08110ed35b72b121c48ffeb53240]: Textual amendment: Words in [s. 4B(3)](https://www.legislation.gov.uk/asp/2010/3/section/4B/3) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(4)(d)(ii)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/4/d/ii), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-0baf108a5909150655dd3f836494b9c5]: Textual amendment: Words in [s. 4B(5)(b)](https://www.legislation.gov.uk/asp/2010/3/section/4B/5/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(4)(e)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/4/e), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-20cbecb95e5744d84f7aa166af45b9c3]: Textual amendment: Words in [s. 4B(5)(c)](https://www.legislation.gov.uk/asp/2010/3/section/4B/5/c) substituted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(4)(e)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/4/e), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-7a6503f821e42aedb6fae21ee7006f3b]: Textual amendment: Words in [s. 4B(6)](https://www.legislation.gov.uk/asp/2010/3/section/4B/6) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(4)(f)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/4/f), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
 [^c-f47cbab20457b73ae768903cc1831349]: Textual amendment: S. 4C inserted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 4](https://www.legislation.gov.uk/asp/2016/14/section/4), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+
+[^c-4059cd92b8d5ef4fa5f6e108f42a4cb8]: Textual amendment: Words in [s. 4C heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/1/crossheading/sale-and-purchase-of-tobacco-products) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(5)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/5/b), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-c9eda4d1c82bb301414c47877dc66640]: Textual amendment: Words in [s. 4C(1)](https://www.legislation.gov.uk/asp/2010/3/section/4C/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 56(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/56/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-2adf12437f8313ddfb74529dd38d9e27]: Textual amendment: Words in [s. 4C(1)](https://www.legislation.gov.uk/asp/2010/3/section/4C/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(5)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/5/a), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-bcfd69a886df6324d5894309648534dd]: Textual amendment: S. 4D inserted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 5](https://www.legislation.gov.uk/asp/2016/14/section/5), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-ec84fe422078dcab1724fb8e9d6d2d35]: Commencement: S. 5 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
+[^c-400f04b73ca5d943306eeb4c9c57b356]: Textual amendment: [S. 4E](https://www.legislation.gov.uk/asp/2010/3/section/4E) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 53(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/53/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-44e86a997e90753749c85908b4cdb8f2]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2010/3/section/5) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/54/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-94eb12f141624671faa9bc44305e5a2a]: Commencement: S. 6 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
+[^c-998ee87c116c73e68cc578af189127e0]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/asp/2010/3/section/6/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 56(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/56/4), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
 [^c-28b8512f82d464ba7a4f6fbe8e82c1f3]: Textual amendment: S. 6A inserted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 6](https://www.legislation.gov.uk/asp/2016/14/section/6), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-1f0733131537e3465fa91a03781282ce]: Commencement: S. 7 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
+[^c-ca6772aeb1fc323036d32b45e433cda6]: Textual amendment: Words in [s. 6A heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/1/crossheading/sale-and-purchase-of-tobacco-products) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(6)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/6/b), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^c-6003d61251fa9e2b614978abe18187a6]: Textual amendment: [S. 7(4)](https://www.legislation.gov.uk/asp/2010/3/section/7/4) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 23](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/23); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-c51932245904f92306e22b39c2e06af3]: Textual amendment: Words in [s. 6A(1)](https://www.legislation.gov.uk/asp/2010/3/section/6A/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(6)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/6/a), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-e6d3e34569f3fea046b12c0120ca7533]: Textual amendment: [S. 7 cross-heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/1/crossheading/miscellaneous) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/57/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-d2c4d62e2cd3a78eea2ff99101f8871f]: Textual amendment: [S. 7](https://www.legislation.gov.uk/asp/2010/3/section/7) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 55](https://www.legislation.gov.uk/ukpga/2026/18/section/55), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-8a41f6f599596c533a9b29c561ca34d4]: Commencement: S. 8 in force at 24.10.2010 for specified purposes and 1.4.2011 in so far as not already in force by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
-[^c-aeaab7df20c9c0473c76a2772d79c6db]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/asp/2010/3/section/8/5) substituted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/57/1), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-aeaab7df20c9c0473c76a2772d79c6db]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/asp/2010/3/section/8/5) substituted (29.4.2026 for specified purposes, 29.10.2026 in so far as not already in force) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/57/1), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^c-d344bb1736710dbb0fecb30530c0c0f4]: Textual amendment: [Ss. 8A](https://www.legislation.gov.uk/asp/2010/3/section/8A), [8B](https://www.legislation.gov.uk/asp/2010/3/section/8B) and cross-heading inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/65/1), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-d344bb1736710dbb0fecb30530c0c0f4]: Textual amendment: [Ss. 8A](https://www.legislation.gov.uk/asp/2010/3/section/8A), [8B](https://www.legislation.gov.uk/asp/2010/3/section/8B) and cross-heading inserted (29.4.2026 for specified purposes, 29.10.2026 in so far as not already in force) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/65/1), [175(1)(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1/2)
+
+[^c-6706096bb0d9fd70e8a33c1892e86ff8]: Textual amendment: [S. 9 and cross-heading](https://www.legislation.gov.uk/asp/2010/3/chapter/1/crossheading/free-distribution-etc) substituted for s. 9 (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 61(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/61/7), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-08e0e2809db4282b3c91c2c861960def]: Commencement: S. 9 in force at 29.4.2013 by [S.S.I. 2013/106](https://www.legislation.gov.uk/ssi/2013/106), [art. 3](https://www.legislation.gov.uk/ssi/2013/106/article/3)
 
-[^c-548f16f1ef51154ed6d5ddf2c7b9c7a8]: Textual amendment: S. 9 repealed and re-enacted (20.3.2013) by [The Tobacco and Primary Medical Services (Scotland) Act 2010 (Incidental Provision and Commencement No. 4) Order 2013 (S.S.I. 2013/106)](https://www.legislation.gov.uk/ssi/2013/106), [art. 1(1), 2(2)(3)](https://www.legislation.gov.uk/ssi/2013/106/article/000/2)
+[^c-8733bc5a7f4fc745c4a85c8f1ac3316d]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/asp/2010/3/section/9A) and cross-heading inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 58](https://www.legislation.gov.uk/ukpga/2026/18/section/58), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^c-9dc580f024ee99cf8a0e42a85c67a58d]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/asp/2010/3/section/9/3) inserted (25.1.2018) by [The Sale of Nicotine Vapour Products (Vending Machines) (Scotland) Regulations 2017 (S.S.I. 2017/422)](https://www.legislation.gov.uk/ssi/2017/422), [regs. 1](https://www.legislation.gov.uk/ssi/2017/422/regulation/1), [2](https://www.legislation.gov.uk/ssi/2017/422/regulation/2)
+[^c-2c349cff970b79181432f77c9a1bcfad]: Textual amendment: [S. 9B](https://www.legislation.gov.uk/asp/2010/3/section/9B) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 59](https://www.legislation.gov.uk/ukpga/2026/18/section/59), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-8a508d3acdded9956b97c4c011adf37b]: Textual amendment: [S. 9C](https://www.legislation.gov.uk/asp/2010/3/section/9C) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/60/1), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-7ad6dc32a49c14a50159a9a55497e58b]: Modification: Pt. 1 Ch. 2 applied (with modifications) (1.4.2011) by [The Sale of Tobacco (Registration of Moveable Structures and Fixed Penalty Notices) (Scotland) Regulations 2011 (S.S.I. 2011/23)](https://www.legislation.gov.uk/ssi/2011/23), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/23/regulation/1/1), [regs. 2-4](https://www.legislation.gov.uk/ssi/2011/23/regulation/2)
 
 [^c-ab8ee9a2af282a3b732386bb6300e379]: Textual amendment: Pt. 1 Ch. 2 title substituted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(10)](https://www.legislation.gov.uk/asp/2016/14/section/15/10), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
+[^c-d5f274fd6d1f7eae1dc7ab49fc20b23d]: Textual amendment: Words in [Pt. 1 Ch. 2](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2) heading substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/3); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
 [^c-aab65a82d3c2edd71acbec1fe91337a2]: Commencement: S. 10 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
 [^c-7e3c8270395649a123ceabf877d0fe7d]: Textual amendment: [S. 10 heading](https://www.legislation.gov.uk/asp/2010/3/section/10) substituted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(2)](https://www.legislation.gov.uk/asp/2016/14/section/15/2), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-fc1f3a887cdb38f84cb6e0ab2bb5f91c]: Textual amendment: Words in s. 10(1) inserted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 8(1)](https://www.legislation.gov.uk/asp/2016/14/section/8/1), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-8fa704a77828cc21ecfb169c62f376a8]: Textual amendment: Words in [s. 10 heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/establishment) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 4(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/4/c); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-a7e7fdd341209ddfe3f997b9c2ceb1c7]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/asp/2010/3/section/10/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 4(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/4/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-42ef92ded679210f1526b53a5499a374]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/asp/2010/3/section/10/3) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 4(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/4/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-c43d85ed8f376ae2397ebb606273b517]: Commencement: S. 11 in force at 24.10.2010 for specified purposes and 1.4.2011 in so far as not already in force by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
-[^c-66a9b024c749134b237058507420fd63]: Textual amendment: Words in s. 11(2) inserted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(1)(a)](https://www.legislation.gov.uk/asp/2016/14/section/9/1/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-a831d3af73fff639a5e78b40ef4de73e]: Textual amendment: Word in [s. 11(2)(b)](https://www.legislation.gov.uk/asp/2010/3/section/11/2/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/5/2); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
-[^c-e5df208de6b1985eadcdc13bda7572e2]: Textual amendment: S. 11(2A) inserted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(1)(b)](https://www.legislation.gov.uk/asp/2016/14/section/9/1/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-6241c476ca4811d81a52722a09b54c15]: Textual amendment: Word in [s. 11(2)(c)](https://www.legislation.gov.uk/asp/2010/3/section/11/2/c) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/5/2); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
-[^c-e43a950d62812bef60a3d07856b3839f]: Textual amendment: Words in s. 11(3)(b) substituted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(1)(c)](https://www.legislation.gov.uk/asp/2016/14/section/9/1/c), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-73909ae8be2d48d5381d867ce363be5f]: Textual amendment: [S. 11(2A)](https://www.legislation.gov.uk/asp/2010/3/section/11/2A) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 5(3)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/5/3); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
-[^c-87f4761e05f99bc44a8b90c60e4f077c]: Textual amendment: Words in s. 11(4)(b) substituted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(1)(d)](https://www.legislation.gov.uk/asp/2016/14/section/9/1/d), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-a6988116e8f0ee9e8ce731b57cef852f]: Modification: [S. 11(3)(b)](https://www.legislation.gov.uk/asp/2010/3/section/11/3/b) modified (29.10.2026) by [The Tobacco and Vapes Act 2026 (Commencement No. 1, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/210)](https://www.legislation.gov.uk/ssi/2026/210), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/2)[(3)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/3)
 
-[^c-3364e0b9cf27bb7775619ced6f4e0ebf]: Textual amendment: Words in s. 11(5) substituted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(1)(e)](https://www.legislation.gov.uk/asp/2016/14/section/9/1/e), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-8dca7b7caa7651d4c09f46f87bbcffda]: Textual amendment: Words in [s. 11(3)(b)](https://www.legislation.gov.uk/asp/2010/3/section/11/3/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/5/4/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-571e02786463d92a56fbe1380ebefe6c]: Textual amendment: Words in [s. 11(3)(b)](https://www.legislation.gov.uk/asp/2010/3/section/11/3/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/5/4/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-430ef3ce15d5dc6b21fadccd2255a19e]: Textual amendment: [S. 11(4)(b)](https://www.legislation.gov.uk/asp/2010/3/section/11/4/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 5(5)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/5/5); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-75793257f94f7ecda2ddb6029889a0b0]: Textual amendment: [S. 11(5)](https://www.legislation.gov.uk/asp/2010/3/section/11/5) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 5(6)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/5/6); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-b0450fb310c455822d953c358c0eacc8]: Commencement: S. 12 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
 [^c-ef278f6db6fa4aaa00115eaa35c04d3c]: Textual amendment: S. 12(1): s. 12 renumbered as s. 12(1) (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(2)(a)](https://www.legislation.gov.uk/asp/2016/14/section/9/2/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-ea38228eb4df7948cdce066b88039297]: Textual amendment: S. 12(2) inserted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(2)(b)](https://www.legislation.gov.uk/asp/2016/14/section/9/2/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-c0198d311946b4d1d2af4e250d58d3b2]: Textual amendment: [S. 12(2)](https://www.legislation.gov.uk/asp/2010/3/section/12/2) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/6); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-ef6b55c4af3f235ab0700c69043894de]: Commencement: S. 13 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
-[^c-d7367ea6c4cfb7d517bf39b954a85974]: Textual amendment: [S. 13(1)(c)](https://www.legislation.gov.uk/asp/2010/3/section/13/1/c) inserted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(3)](https://www.legislation.gov.uk/asp/2016/14/section/9/3), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-9a827c0ed665206e54cee6adbf3aaca7]: Textual amendment: [S. 13(1)(c)-(e)](https://www.legislation.gov.uk/asp/2010/3/section/13/1/c) substituted for [s. 13(1)(c)](https://www.legislation.gov.uk/asp/2010/3/section/13/1/c) (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/7); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-bb1cfa41bf846f481f93535621bd8c6a]: Commencement: S. 14 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
-[^c-f3f63b65b586b91037bccf5d8b390929]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/asp/2010/3/section/14/2) substituted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(4)(a)](https://www.legislation.gov.uk/asp/2016/14/section/9/4/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-b43c02d6f02725774e86546f7b2cd677]: Modification: [S. 14(2)](https://www.legislation.gov.uk/asp/2010/3/section/14/2) modified (29.10.2026) by [The Tobacco and Vapes Act 2026 (Commencement No. 1, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/210)](https://www.legislation.gov.uk/ssi/2026/210), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/2)[(3)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/3)
 
-[^c-695d75f2964f525678bdcda9c61b5c8e]: Textual amendment: Words in [s. 14(3)(b)](https://www.legislation.gov.uk/asp/2010/3/section/14/3/b) inserted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(4)(b)](https://www.legislation.gov.uk/asp/2016/14/section/9/4/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-7aff588b7feeb2d5264776090f5e5a9d]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/asp/2010/3/section/14/2) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 8(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/8/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
-[^c-42b89f3eb0d6ad2804e51ed8e7501ea6]: Textual amendment: Words in [s. 14(5)(b)](https://www.legislation.gov.uk/asp/2010/3/section/14/5/b) inserted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 9(4)(c)](https://www.legislation.gov.uk/asp/2016/14/section/9/4/c), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-ed9633ea3664975dd61d7a570d0d24ee]: Textual amendment: Word in [s. 14(3)(b)](https://www.legislation.gov.uk/asp/2010/3/section/14/3/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 8(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/8/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-5715a7425e85238ffef46688022ee6b6]: Textual amendment: Word in [s. 14(5)(b)](https://www.legislation.gov.uk/asp/2010/3/section/14/5/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 8(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/8/c); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-c45ec58c1fb2535589e178c3ba6bfb06]: Textual amendment: Words in [s. 15 cross-heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/tobacco-retailing-banning-orders) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/9); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-4e13083a66d04e77642f016ba8aed979]: Textual amendment: [S. 15 cross-heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/tobacco-retailing-banning-orders) substituted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(8)](https://www.legislation.gov.uk/asp/2016/14/section/15/8), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
 [^c-a4729911aa9a74246980d57f7eefef60]: Commencement: S. 15 in force at 1.10.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
+[^c-c19fe6a5b31654bde1f639ae502c1d80]: Modification: [S. 15](https://www.legislation.gov.uk/asp/2010/3/section/15) modified (29.10.2026) by [The Tobacco and Vapes Act 2026 (Commencement No. 1, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/210)](https://www.legislation.gov.uk/ssi/2026/210), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/1/1), [3(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/1)
+
+[^c-ad3258fd5fcfff2afbafa3d93eee3ea0]: Textual amendment: Words in [s. 15 heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/tobacco-retailing-banning-orders) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 10(d)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/10/d); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
 [^c-3469c14e99260db614a83b897c026a3e]: Textual amendment: S. 15 title substituted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(3)](https://www.legislation.gov.uk/asp/2016/14/section/15/3), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-3ae945ac7464cb17115736503bbb7b55]: Textual amendment: Words in s. 15(1) inserted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(a)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-b6ef76dbc41af5e9aed74696b159328f]: Textual amendment: Word in [s. 15(1)](https://www.legislation.gov.uk/asp/2010/3/section/15/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 10(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/10/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
-[^c-48742ee8491105ca0ab053fa3fa2907b]: Textual amendment: Words in s. 15(2) inserted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(b)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-c4e721aa3fda410296d04faf668247d0]: Textual amendment: Word in [s. 15(2)](https://www.legislation.gov.uk/asp/2010/3/section/15/2) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 10(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/10/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
-[^c-511fa414f3a15d6534941097b111c51b]: Textual amendment: Words in s. 15(3) inserted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(c)(i)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/c/i), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-c3a2f1eb320bba4799de4e5f90797401]: Textual amendment: Word in [s. 15(3)](https://www.legislation.gov.uk/asp/2010/3/section/15/3) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 10(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/10/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-f7b0adb3fe0e5c214553300504de172d]: Textual amendment: Words in s. 15(3)(a) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(c)(ii)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/c/ii), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
 [^c-d60c8596aa74f4797ddf4e673aad8c63]: Textual amendment: Word in s. 15(3)(d) repealed (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(c)(iii)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/c/iii), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
+[^c-19111ebd3bc262e0a429cf2a664a33b0]: Textual amendment: Words in [s. 15(3)(d)](https://www.legislation.gov.uk/asp/2010/3/section/15/3/d) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
 [^c-007c1fb845cfbf0b9d4db83b04e47900]: Textual amendment: Words in s. 15(4) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(d)(i)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/d/i), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
 [^c-5805eac5ebd8d17387246d71b92e060c]: Textual amendment: Word in s. 15(4) repealed (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(d)(ii)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/d/ii), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
+[^c-1dd06afd7bb641ed4a24aec613c08b20]: Textual amendment: Words in [s. 15(4)(b)](https://www.legislation.gov.uk/asp/2010/3/section/15/4/b) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
 [^c-836b80ca2bf4eb02df5ca4cf1fa658f0]: Textual amendment: S. 15(4)(c) and word inserted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(d)(iii)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/d/iii), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+
+[^c-108cf7a6a2f918dcbb22542ebaa5bcbc]: Textual amendment: Words in [s. 15(4)(c)](https://www.legislation.gov.uk/asp/2010/3/section/15/4/c) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 10(b)(i)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/10/b/i); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-d59f9b64bcc7e3123010d666b3c67e39]: Textual amendment: Words in [s. 15(4)(c)](https://www.legislation.gov.uk/asp/2010/3/section/15/4/c) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 10(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/10/b/ii); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-efc3fb024e9451b879a2a9d41ba020e4]: Textual amendment: S. 15(4A) inserted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(e)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/e), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-3c7902949170a6230553ebf3c446e987]: Textual amendment: Words in s. 15(6) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(1)(f)](https://www.legislation.gov.uk/asp/2016/14/section/10/1/f), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-c3f39ed697fe278203880d853b85c543]: Textual amendment: Words in [s. 15(6)](https://www.legislation.gov.uk/asp/2010/3/section/15/6) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 10(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/10/c); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-0806e32832f68f9ac26b02a880ba0755]: Commencement: S. 16 in force at 1.10.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
+[^c-b22facf13510107d671db17b793ab041]: Modification: [S. 16](https://www.legislation.gov.uk/asp/2010/3/section/16) modified (29.10.2026) by [The Tobacco and Vapes Act 2026 (Commencement No. 1, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/210)](https://www.legislation.gov.uk/ssi/2026/210), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/2)[(3)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/3)
+
+[^c-7e0c3b889c07f3c3970535db914f2930]: Textual amendment: Words in [s. 16 heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/tobacco-retailing-banning-orders) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(d)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/d); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
+
 [^c-929b942dad53d42b422a8a9d71afdd1f]: Textual amendment: S. 16 title substituted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(4)](https://www.legislation.gov.uk/asp/2016/14/section/15/4), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-acd5df023bdd821b931b0cc9a01d564a]: Textual amendment: Words in s. 16(1) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(2)(a)](https://www.legislation.gov.uk/asp/2016/14/section/10/2/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-97ec9740716c58d46a3b701aff248933]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/asp/2010/3/section/16/1/a) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
 
-[^c-559464b12ee243782446210148b1aee3]: Textual amendment: Words in s. 16(2) inserted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(2)(b)](https://www.legislation.gov.uk/asp/2016/14/section/10/2/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-68665d8bc01a4549ae838b1a313ff5bc]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/asp/2010/3/section/16/1/b) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
 
-[^c-a2ee6b0400aec3c46803c2bac8f8cdbd]: Textual amendment: Words in s. 16(3)(b) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(2)(c)](https://www.legislation.gov.uk/asp/2016/14/section/10/2/c), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-53d3b0857127f4c4ecc7aa594f69a314]: Textual amendment: Word in [s. 16(2)(a)(i)](https://www.legislation.gov.uk/asp/2010/3/section/16/2/a/i) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
 
-[^c-2a9436ed0c32485d9fface86e32450c4]: Textual amendment: Words in s. 16(4) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(2)(d)](https://www.legislation.gov.uk/asp/2016/14/section/10/2/d), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-8a2699c73d21ef0d61a59a9e3b6292b5]: Textual amendment: Word in [s. 16(2)(a)(ii)](https://www.legislation.gov.uk/asp/2010/3/section/16/2/a/ii) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
 
-[^c-3d3cb77a9d70bdb505a4d5bb55f2b83c]: Textual amendment: Words in s. 16(5) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(2)(e)](https://www.legislation.gov.uk/asp/2016/14/section/10/2/e), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-0cfdbf1744bb365fac11fbc1c29853d5]: Textual amendment: Word in [s. 16(2)(b)(i)](https://www.legislation.gov.uk/asp/2010/3/section/16/2/b/i) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
+
+[^c-08ac0842d415484b2436065bcea90b34]: Textual amendment: Word in [s. 16(2)(b)(ii)](https://www.legislation.gov.uk/asp/2010/3/section/16/2/b/ii) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
+
+[^c-bf21c61e5327481508db17cea4700362]: Textual amendment: Word in [s. 16(2)(b)(iii)](https://www.legislation.gov.uk/asp/2010/3/section/16/2/b/iii) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
+
+[^c-e54bf814cc53490f6c4d6dac84d83af0]: Textual amendment: Words in [s. 16(3)(a)](https://www.legislation.gov.uk/asp/2010/3/section/16/3/a) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-2929f81aae38bf9e4d45ffbd16903853]: Textual amendment: Words in [s. 16(3)(b)](https://www.legislation.gov.uk/asp/2010/3/section/16/3/b) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/c); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
+
+[^c-fde7d73202731a75bc78e22da5836073]: Textual amendment: Words in [s. 16(4)](https://www.legislation.gov.uk/asp/2010/3/section/16/4) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/c); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
+
+[^c-f30fdd5dc60d0881667ccd4a29cc1946]: Textual amendment: Words in [s. 16(5)](https://www.legislation.gov.uk/asp/2010/3/section/16/5) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 11(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/11/c); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/4))
 
 [^c-1ef6c9846fa0ccd304f47f141a27f011]: Commencement: S. 17 in force at 1.10.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
+[^c-7b0a7249fe36286abe721b9521ed9289]: Modification: [S. 17](https://www.legislation.gov.uk/asp/2010/3/section/17) modified (29.10.2026) by [The Tobacco and Vapes Act 2026 (Commencement No. 1, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/210)](https://www.legislation.gov.uk/ssi/2026/210), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/2)[(3)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/3)
+
+[^c-e1c39a0bb9dc62f4213ad8560ce10e4b]: Textual amendment: Words in [s. 17 heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/tobacco-retailing-banning-orders) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 12(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/12/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
 [^c-b6471354b1180288fbe12529033ec4ee]: Textual amendment: S. 17 title substituted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(5)](https://www.legislation.gov.uk/asp/2016/14/section/15/5), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-245e1f8447ba957dece6e5aebffe6d00]: Textual amendment: Words in s. 17 substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(3)](https://www.legislation.gov.uk/asp/2016/14/section/10/3), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-9ca491f4181a51cee0327bbb8a68f419]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/asp/2010/3/section/17/1) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 12(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/12/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-c3492675295dd9807dce6c29c1871869]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/asp/2010/3/section/17/3) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 12(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/12/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-6c454f6ae2bc710acabba7ff596a14bf]: Commencement: S. 18 in force at 1.10.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/345/article/4)) (which saving provision was amended (21.2.2011) by [S.S.I. 2011/131](https://www.legislation.gov.uk/ssi/2011/131), art. 2; and revoked (29.4.2013) by [S.S.I. 2013/106](https://www.legislation.gov.uk/ssi/2013/106), art. 4(a)(b))
 
+[^c-9123a36316cc5e65db2e5a5981057ebe]: Textual amendment: Words in [s. 18 heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/tobacco-retailing-banning-orders) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 13(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/13/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
 [^c-137ffaef43216ea072e2706a772d1f30]: Textual amendment: S. 18 title substituted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(6)](https://www.legislation.gov.uk/asp/2016/14/section/15/6), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-837841706020454f646eff10d0ede227]: Textual amendment: Words in s. 18(1) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(4)](https://www.legislation.gov.uk/asp/2016/14/section/10/4), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-0dea24d1fb8fc4b1a800f90c7daa249c]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/asp/2010/3/section/18/1) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 13(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/13/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-97fab7e41919e500964bacd6a0106b66]: Textual amendment: Words in s. 18(2) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/5) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
 [^c-77bfb8c7068144d77789393faecfa4b9]: Commencement: S. 19 in force at 24.10.2010 for specified purposes and 1.10.2011 in so far as not already in force by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
+[^c-8edb547f7a3e3b01e81396e095915839]: Textual amendment: Words in [s. 19 heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/tobacco-retailing-banning-orders) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 14(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/14/c); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/5))
+
 [^c-b2078999f1f8361d115bc1ad7c6fccdb]: Textual amendment: S. 19 title substituted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(7)](https://www.legislation.gov.uk/asp/2016/14/section/15/7), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-a387f153166659ddc31c3d0700ef51d2]: Textual amendment: Words in s. 19(1)(a) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(5)(a)](https://www.legislation.gov.uk/asp/2016/14/section/10/5/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-d581bd023d4dc047d8f2393d82e2a571]: Textual amendment: Words in [s. 19(1)(a)](https://www.legislation.gov.uk/asp/2010/3/section/19/1/a) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 14(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/14/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/5))
 
-[^c-4979bd16ac1f612788359fc098613477]: Textual amendment: Words in s. 19(3) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(5)(b)](https://www.legislation.gov.uk/asp/2016/14/section/10/5/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-565575d24ea8d8438fe3e11a288e1dfd]: Textual amendment: Words in [s. 19(3)(a)](https://www.legislation.gov.uk/asp/2010/3/section/19/3/a) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 14(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/14/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/5))
+
+[^c-50b0cfbd4bc8708521e8ff893b9e7d00]: Textual amendment: Words in [s. 19(3)(c)](https://www.legislation.gov.uk/asp/2010/3/section/19/3/c) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 14(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/14/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/5))
+
+[^c-a520115693e827c31ced4228bf33e92b]: Textual amendment: Words in [s. 19(4)](https://www.legislation.gov.uk/asp/2010/3/section/19/4) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 14(b)(i)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/14/b/i); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/5))
 
 [^c-1a10d39a444576daba72c8bd553f4a7f]: Textual amendment: Words in s. 19(4) substituted (6.2.2017 for specified purposes, 1.10.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 10(5)(c)](https://www.legislation.gov.uk/asp/2016/14/section/10/5/c), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+
+[^c-2181a8eef27561037c89a5bcce9beef3]: Textual amendment: Words in [s. 19(4)](https://www.legislation.gov.uk/asp/2010/3/section/19/4) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 14(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/14/b/ii); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/5))
 
 [^c-4716b11462dfd0acda5e04dd28aaa603]: Commencement: S. 20 in force at 1.10.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
 [^c-963ab5578aaeaf25fed67ecfeaf70b45]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/asp/2010/3/section/20/1) inserted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 11(a)](https://www.legislation.gov.uk/asp/2016/14/section/11/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
+[^c-5ae7718d6a9f80be886bc29d0bde9cba]: Textual amendment: Word in [s. 20(1)](https://www.legislation.gov.uk/asp/2010/3/section/20/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/15) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/20))
+
 [^c-beadbd3fa07c1d5fe13d6f19793fe9bd]: Textual amendment: Words in [s. 20(2)](https://www.legislation.gov.uk/asp/2010/3/section/20/2) inserted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 11(b)](https://www.legislation.gov.uk/asp/2016/14/section/11/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+
+[^c-c792f81997b26f0b0b1b5bf89a2e6f28]: Textual amendment: Word in [s. 20(2)](https://www.legislation.gov.uk/asp/2010/3/section/20/2) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/15) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/20))
 
 [^c-c906fb3b17d299484b34be8cdc91943b]: Textual amendment: [S. 20(2A)](https://www.legislation.gov.uk/asp/2010/3/section/20/2A) inserted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 11(c)](https://www.legislation.gov.uk/asp/2016/14/section/11/c), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-fd1171784aa7641751c7f6b62d50bbeb]: Textual amendment: Words in [s. 20(4)](https://www.legislation.gov.uk/asp/2010/3/section/20/4) substituted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 11(d)](https://www.legislation.gov.uk/asp/2016/14/section/11/d), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-0d2f9ba7d6d4854edf9bcaa86f0ac661]: Textual amendment: Word in [s. 20(2A)](https://www.legislation.gov.uk/asp/2010/3/section/20/2A) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/15) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/20))
+
+[^c-ed82b0a22a5113a6a04cca2d4cd0e17f]: Modification: [S. 20(4)](https://www.legislation.gov.uk/asp/2010/3/section/20/4) modified (29.10.2026) by [The Tobacco and Vapes Act 2026 (Commencement No. 1, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/210)](https://www.legislation.gov.uk/ssi/2026/210), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/2)[(3)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/3)
+
+[^c-6a1c030c4aeb8d5efbab86295347f3a6]: Textual amendment: Words in [s. 20(4)](https://www.legislation.gov.uk/asp/2010/3/section/20/4) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 15(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/15/c); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-178bbc680340261b6b0bc5daf76d4c83]: Textual amendment: Word in [s. 20(6)(a)](https://www.legislation.gov.uk/asp/2010/3/section/20/6/a) inserted (1.10.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 11(e)](https://www.legislation.gov.uk/asp/2016/14/section/11/e), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
 [^c-bf92ad7bb5b6dcc21171498523b298ad]: Textual amendment: [S. 21 crossheading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/register-of-tobacco-retailers-miscellaneous-and-supplementary) substituted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 15(9)](https://www.legislation.gov.uk/asp/2016/14/section/15/9), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
+[^c-cdf76cb57597eaa0f387933978ec44ae]: Textual amendment: Words in [s. 21 cross-heading](https://www.legislation.gov.uk/asp/2010/3/part/1/chapter/2/crossheading/register-of-tobacco-retailers-miscellaneous-and-supplementary) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/16); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
 [^c-71c2db767b6c442c7647a094e19b201a]: Commencement: S. 21 in force at 1.10.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
-[^c-b62cb5937a7c951d836def005d444bf7]: Textual amendment: Words in s. 21(1) substituted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 12](https://www.legislation.gov.uk/asp/2016/14/section/12), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-2bcbc3aa5855a29049e803bda1238452]: Textual amendment: [S. 21(1)](https://www.legislation.gov.uk/asp/2010/3/section/21/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/17); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-08db2599f1c1b0618041d61af0d3fdc2]: Commencement: S. 22 in force at 1.10.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
+
+[^c-0688bdf6375cb3be2243c6a95e89f665]: Textual amendment: Words in [s. 22(2)](https://www.legislation.gov.uk/asp/2010/3/section/22/2) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/18); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-7c62a260fcd955d1da9ed96d9371fb70]: Commencement: S. 23 in force at 1.10.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
@@ -1371,7 +1543,13 @@ is sufficient evidence of the facts stated.
 
 [^c-119f32426af466cbe3a4c7ffe5f0e54e]: Commencement: S. 26 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
+[^c-38c9e76088f19b21f79f9fc37638ac0b]: Textual amendment: Words in [s. 26(2)(a)](https://www.legislation.gov.uk/asp/2010/3/section/26/2/a) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-3ea1642260bc560a766d3e28a13f5159]: Textual amendment: Words in [s. 26(2)(b)](https://www.legislation.gov.uk/asp/2010/3/section/26/2/b) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/4), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
 [^c-7a36d3a3e2a8500fda4610d8eb3314e9]: Commencement: S. 27 in force at 24.10.2010 for specified purposes and 1.4.2011 in so far as not already in force by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
+
+[^c-c6de2e473cd50e1d33ebf67e0a8a8dc4]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/asp/2010/3/section/27/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-8d03471548ec9d7e71cf28609d2eead7]: Commencement: S. 28 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
@@ -1383,27 +1561,57 @@ is sufficient evidence of the facts stated.
 
 [^c-2f76a9884990a239dc3348fb4e878a1f]: Commencement: S. 32 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
+[^c-878e948cb4e289e637c8a60167851e99]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/asp/2010/3/section/32/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-a2d841a61d971a9dbc4b859928b1dd70]: Textual amendment: Words in [s. 32(4)](https://www.legislation.gov.uk/asp/2010/3/section/32/4) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
 [^c-71d4357fb5ef7eb0a6196af0abdd98d7]: Commencement: S. 33 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
 [^c-78d60860cf745a08cba8acb04b7fe426]: Textual amendment: Words in [s. 33(1)](https://www.legislation.gov.uk/asp/2010/3/section/33/1) substituted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 14](https://www.legislation.gov.uk/asp/2016/14/section/14), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
+[^c-6900ab9fc761e19b2e46a3e0ce0d6d27]: Textual amendment: Word in [s. 33(1)](https://www.legislation.gov.uk/asp/2010/3/section/33/1) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/54/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-064ed3d59efc28a0b988bb334b5738da]: Textual amendment: Words in [s. 33(1)](https://www.legislation.gov.uk/asp/2010/3/section/33/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/5), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
 [^c-64b0f897229b477fccc68c688a3beed3]: Commencement: S. 34 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
-[^c-55b32db9763fe11fca08a96762af8afa]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/asp/2010/3/section/34A) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/71/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-49ebcd8cbfe9829cc55bedcfb81481ba]: Textual amendment: Words in [s. 34(1)(a)](https://www.legislation.gov.uk/asp/2010/3/section/34/1/a) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(6)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/6), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-55b32db9763fe11fca08a96762af8afa]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/asp/2010/3/section/34A) inserted (29.4.2026 for specified purposes, 29.10.2026 in so far as not already in force) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/71/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
 [^c-8ec70be7d90c2aade1d0c5643af7df41]: Commencement: S. 35 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 
-[^c-deb9082adbf536fdea48559128a2d338]: Textual amendment: Words in s. 35(1) inserted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 8(2)(a)](https://www.legislation.gov.uk/asp/2016/14/section/8/2/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-706b12ebf044aadc39fb7055eeb7fb1b]: Modification: [S. 35(1)](https://www.legislation.gov.uk/asp/2010/3/section/35/1) modified (29.10.2026) by [The Tobacco and Vapes Act 2026 (Commencement No. 1, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/210)](https://www.legislation.gov.uk/ssi/2026/210), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2026/210/regulation/3/6)
+
+[^c-c449a9f181ae95f89427d276d316fa7c]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/asp/2010/3/section/35/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 19(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/19/b); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+
+[^c-a49df5e990526318d49b306030d49508]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/asp/2010/3/section/35/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 66(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/66/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-19012974d43c0f00259498fd4047ef49]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/asp/2010/3/section/35/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 56(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/56/5), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-fe6a700968d7cf87d9e728c30a308dac]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/asp/2010/3/section/35/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 8 para. 18(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/18/c) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/20))
+
+[^c-9b86001c66e892fd03ec86c71134ffe9]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/asp/2010/3/section/35/1) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 8 para. 18(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/18/a) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/20))
 
 [^c-df6573c921441c81f69afc4d3b166c37]: Textual amendment: Words in s. 35(1) substituted (6.2.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 13](https://www.legislation.gov.uk/asp/2016/14/section/13), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-9e9d33a515cca19e436b184d6cb78399]: Textual amendment: Words in s. 35(1) inserted (6.2.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 8(2)(b)](https://www.legislation.gov.uk/asp/2016/14/section/8/2/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-b6f1188966b606f3badebceb4efec095]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/asp/2010/3/section/35/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 53(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/53/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-e6a1ff6058ba67683daaeb85cfa763b8]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/asp/2010/3/section/35/1) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7), [Sch. 9 para. 19(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/9/paragraph/19/a); [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
 
 [^c-24ee954b116f5e9fdbc8cef1f9447b9c]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/asp/2010/3/section/35/1) substituted (29.4.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 67](https://www.legislation.gov.uk/ukpga/2026/18/section/67), [175(6)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/6)
 
-[^c-50c1335a82a531b4bc68f2616b9cdd53]: Textual amendment: S. 35A inserted (6.2.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 1](https://www.legislation.gov.uk/asp/2016/14/section/1), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
+[^c-dbe1d081ef9737eacbe3bb885ecae44f]: Textual amendment: Words in [s. 35(2)](https://www.legislation.gov.uk/asp/2010/3/section/35/2) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 66(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/66/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-005dd7afaa6ed64e5e0745aceeccb7ff]: Textual amendment: Words in [s. 35(3)](https://www.legislation.gov.uk/asp/2010/3/section/35/3) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 66(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/66/4), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+
+[^c-0a1ae243f899c8378367a4ca013bc7c7]: Textual amendment: [S. 35A](https://www.legislation.gov.uk/asp/2010/3/section/35A) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/19) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/8/paragraph/20))
+
+[^c-d2fce6349cd67e0efda1bb130930c627]: Textual amendment: [S. 35B](https://www.legislation.gov.uk/asp/2010/3/section/35B) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 62](https://www.legislation.gov.uk/ukpga/2026/18/section/62), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-11006b9762ab51e576426827cc69f94a]: Commencement: S. 36 in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
+
+[^c-2c9ae23e83b7dda4dedbb0d576950af4]: Textual amendment: Words in [s. 36(3)](https://www.legislation.gov.uk/asp/2010/3/section/36/3) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 70](https://www.legislation.gov.uk/ukpga/2026/18/section/70), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-e518a43af46bfb4660a1e5f639afa5b0]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/3/section/37) in force at 22.12.2010 in so far as not already in force by [S.S.I. 2010/372](https://www.legislation.gov.uk/ssi/2010/372), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/372/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/372/schedule/2)
 
@@ -1415,13 +1623,13 @@ is sufficient evidence of the facts stated.
 
 [^c-017e8c799ebf0857b7f519ed94459637]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/3/section/39) in force at 22.12.2010 in so far as not already in force by [S.S.I. 2010/372](https://www.legislation.gov.uk/ssi/2010/372), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/372/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/372/schedule/2)
 
-[^c-3aed5e787d7b67aa9ef59419d601366e]: Textual amendment: Words in [s. 40(4)](https://www.legislation.gov.uk/asp/2010/3/section/40/4) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/7), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-3aed5e787d7b67aa9ef59419d601366e]: Textual amendment: Words in [s. 40(4)](https://www.legislation.gov.uk/asp/2010/3/section/40/4) inserted (29.4.2026 for specified purposes, 29.10.2026 in so far as not already in force) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 64(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/64/7), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
 [^c-2d7a3809b6f4384bfa02c2e5895ced20]: Textual amendment: Words in [s. 40(4)](https://www.legislation.gov.uk/asp/2010/3/section/40/4) inserted (1.4.2017) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 3(2)](https://www.legislation.gov.uk/asp/2016/14/section/3/2), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2017/12](https://www.legislation.gov.uk/ssi/2017/12), [reg. 2](https://www.legislation.gov.uk/ssi/2017/12/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/12/schedule)
 
-[^c-4595d44e823a1bee3b70062eef989172]: Textual amendment: Words in [s. 40(4)](https://www.legislation.gov.uk/asp/2010/3/section/40/4) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/65/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-4595d44e823a1bee3b70062eef989172]: Textual amendment: Words in [s. 40(4)](https://www.legislation.gov.uk/asp/2010/3/section/40/4) inserted (29.4.2026 for specified purposes, 29.10.2026 in so far as not already in force) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/65/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^c-9fc1630b2a322d87d5a4ac1924200227]: Textual amendment: Words in [s. 40(4)](https://www.legislation.gov.uk/asp/2010/3/section/40/4) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/71/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-9fc1630b2a322d87d5a4ac1924200227]: Textual amendment: Words in [s. 40(4)](https://www.legislation.gov.uk/asp/2010/3/section/40/4) inserted (29.4.2026 for specified purposes, 29.10.2026 in so far as not already in force) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/71/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
 [^c-3a26ceb3a74f6aa6166a857b60ce9fe3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2010/3/schedule/1/paragraph/1) in force at 1.4.2011 by [S.S.I. 2010/345](https://www.legislation.gov.uk/ssi/2010/345), [art. 2](https://www.legislation.gov.uk/ssi/2010/345/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/345/schedule)
 

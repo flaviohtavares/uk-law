@@ -6,15 +6,15 @@ Laws in force under the legislation.gov.uk subject heading **EXCISE**. Repealed 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Hydrocarbon Oil Duties Act 1979](../uk-parliament/acts/public/1979/5-hydrocarbon-oil-duties-act-1979/README.md) *(changes pending)* — 43 regulations on this topic made under it
+- [Hydrocarbon Oil Duties Act 1979](../uk-parliament/acts/public/1979/5-hydrocarbon-oil-duties-act-1979/README.md) *(changes pending)* — 42 regulations on this topic made under it
 - [Customs and Excise Management Act 1979](../uk-parliament/acts/public/1979/2-customs-and-excise-management-act-1979/README.md) *(changes pending)* — 35 regulations on this topic made under it
-- [Excise Duties (Surcharges or Rebates) Act 1979](../uk-parliament/acts/public/1979/8-excise-duties-surcharges-or-rebates-act-1979.md) — 15 regulations on this topic made under it
 - [Tobacco Products Duty Act 1979](../uk-parliament/acts/public/1979/7-tobacco-products-duty-act-1979.md) *(changes pending)* — 15 regulations on this topic made under it
+- [Excise Duties (Surcharges or Rebates) Act 1979](../uk-parliament/acts/public/1979/8-excise-duties-surcharges-or-rebates-act-1979.md) — 14 regulations on this topic made under it
 - [Finance (No. 2) Act 1992](../uk-parliament/acts/public/1992/48-finance-no-2-act-1992/README.md) — 4 regulations on this topic made under it
 
 ## Regulations
 
-178 in force.
+176 in force.
 
 **2026**
 
@@ -194,16 +194,14 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Amusement Machine Licence Duty, etc (Amendments) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2693-the-amusement-machine-licence-duty-etc-amendments-regulations-2008.md) *(as originally made)*
 - [The Beer, Cider and Perry and Wine and Made–wine (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1885-the-beer-cider-and-perry-and-wine-and-madewine-amendment-regulations-2008.md) *(as originally made)*
 - [The Excise Duties (Road Fuel Gas) (Reliefs) (Revocation) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3019-the-excise-duties-road-fuel-gas-reliefs-revocation-regulations-2008.md) *(as originally made)*
-- [The Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2167-the-excise-duties-road-fuel-gas-reliefs-regulations-2008.md) *(changes pending)*
 - [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Revocation) Order 2008](../uk-parliament/regulations/2008/3000-3499/3018-the-excise-duties-surcharges-or-rebates-hydrocarbon-oils-etc-revocation-order-20.md) *(as originally made)*
-- [The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2008](../uk-parliament/regulations/2008/2000-2499/2168-the-excise-duties-surcharges-or-rebates-hydrocarbon-oils-etc-order-2008.md) *(changes pending)*
 - [The Excise Warehousing (Etc.) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2832-the-excise-warehousing-etc-amendment-regulations-2008.md) *(as originally made)*
 - [The Finance Act 1998, Schedule 2 (Assessments in Respect of Drawback) (Appointed Day) Order 2008](../uk-parliament/regulations/2008/2000-2499/2302-the-finance-act-1998-schedule-2-assessments-in-respect-of-drawback-appointed-day.md) *(as originally made)*
 - [The Hydrocarbon Oil (Supply of Rebated Heavy Oil) (Payment of Rebate) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2600-the-hydrocarbon-oil-supply-of-rebated-heavy-oil-payment-of-rebate-regulations-20.md) *(as originally made)*
 - [The Hydrocarbon Oil and Bioblend (Private Pleasure-flying and Private Pleasure Craft) (Payment of Rebate etc.) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2599-the-hydrocarbon-oil-and-bioblend-private-pleasure-flying-and-private-pleasure-cr.md)
 - [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/753-the-hydrocarbon-oil-biofuels-and-other-fuel-substitutes-determination-of-composi.md)
 - [The Other Fuel Substitutes (Rates of Excise Duty etc.) (Amendment) Order 2008](../uk-parliament/regulations/2008/0500-0999/754-the-other-fuel-substitutes-rates-of-excise-duty-etc-amendment-order-2008.md) *(as originally made)*
-- [The Travellers’ Allowances (Amendment) Order 2008](../uk-parliament/regulations/2008/3000-3499/3058-the-travellers-allowances-amendment-order-2008.md) *(as originally made)*
+- [The Travellers’ Allowances (Amendment) Order 2008](../uk-parliament/regulations/2008/3000-3499/3058-the-travellers-allowances-amendment-order-2008.md)
 - [The Value Added Tax, etc (Correction of Errors, etc) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1482-the-value-added-tax-etc-correction-of-errors-etc-regulations-2008.md) *(as originally made)*
 
 **2007**

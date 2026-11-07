@@ -3,15 +3,15 @@ title: The Credit Cards (Merchant Acquisition) Order 1990
 id: uksi/1990/2158
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '1990-10-31'
-text_date: null
-extent: null
+text_date: '2001-03-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1990/2158
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1990/2158/pdfs/uksi_19902158_en.pdf
-- http://www.legislation.gov.uk/uksi/1990/2158/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/1990/2158/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Credit Cards (Merchant Acquisition) Order 1990
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2001-03-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 1990 No. 2158
 
@@ -45,11 +49,11 @@ And whereas the Secretary of State has considered the representations made to hi
 
 Now, therefore, the Secretary of State, being the appropriate Minister within the meaning of section 56 of the said Act, in exercise of the powers conferred by sections 56(2) and 90(2), (3) and (4) of, and paragraphs 1, 2 and 4 of Schedule 8 to, the said Act, and for the purpose of remedying or preventing adverse effects specified in a report of the Monopolies and Mergers Commission entitled “Credit Card Services—a report on the supply of credit card services in the United Kingdom”[^f00002], hereby makes the following Order:—
 
-## 1. Citation and Commencement
+## 1. Citation and Commencement[^c-0e380043b13225933487f4904eb39342]
 
 This Order may be cited as the Credit Cards (Merchant Acquisition) Order 1990 and shall come into force on 28th February 1991.
 
-## 2. Interpretation
+## 2. Interpretation[^c-564636e53f31f391d031043e44c029de]
 
 (1) In this Order—
 
@@ -66,7 +70,7 @@ This Order may be cited as the Credit Cards (Merchant Acquisition) Order 1990 an
 
 (3) This Order shall extend so as to prohibit the carrying out of agreements already in existence on the making of this Order as it prohibits the carrying out of agreements made subsequently.
 
-## 3. Prohibition
+## 3. Prohibition[^c-ed21b96215b3ceb863c67d1aae94e225]
 
 (1) Subject to paragraphs (2) and (4) below, on and after 7th March 1991, if a payment card organization permits any payment card issuers to act as merchant acquirers in the United Kingdom with respect to credit cards bearing a trade mark or service mark of (or authorized for use by) the payment card organization, then it shall be unlawful for the payment card organization:
 
@@ -83,13 +87,13 @@ This Order may be cited as the Credit Cards (Merchant Acquisition) Order 1990 an
 - (a) accept (or intend to contract with a merchant acquirer to accept) in respect of payment for supplies a payment card which bears a trade mark or service mark of (or authorized for use by) the payment card organization and which is not a credit card; but
 - (b) do not accept (or intend to contract with a merchant acquirer to accept) in respect of payment for supplies a credit card bearing such a mark.
 
-**4.** This Order does not restrict the right of a payment card organization to :
+**4.**[^c-3006dbb85d5154c7d1248e9fd206e161] This Order does not restrict the right of a payment card organization to :
 
 - (a) take action against a payment card issuer which has not fulfilled a reasonable plan for the issue of payment cards in the United Kingdom previously approved by the payment card organization as a condition of authorization of the payment card issuer so to act as long as such action does not have the effect described in sub-paragraph (a) of article 3(1) above (unless the issuer ceases or is required to cease carrying on business as an issuer in the United Kingdom pursuant to the authorization);
 - (b) impose on merchant acquirers reasonable technical and administrative requirements with respect to the conduct of the business of merchant acquisition; or
 - (c) require that an application or request for authorization to act as a merchant acquirer first be made by a person who wishes so to act as long as (and subject to paragraph (b) above) such authorization is granted within three months of the delivery of the application or request to the payment card organization or by the time that the person commences to carry on business as a credit card issuer (whichever is later).
 
-**5.** This Order shall not apply in respect of an agreement so far as it is or, if made, would be an agreement to which the Restrictive Trade Practices Act 1976[^f00006] applies or would apply, as the case may be.
+**5.**[^c-b5af8fc88bfac20d39c1abcb76db063e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 John Redwood
 
@@ -115,10 +119,18 @@ Copies of the Monopolies and Mergers Commission Report on Credit Card Services a
 
 [^f00002]: Footnote: Cm 718.
 
+[^c-0e380043b13225933487f4904eb39342]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1990/2158/article/1) in force at 28.2.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2158/article/1)
+
+[^c-564636e53f31f391d031043e44c029de]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1990/2158/article/2) in force at 28.2.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2158/article/1)
+
 [^f00003]: Footnote: See section 137(5) of the Fair Trading Act 1973 for the definition of “group of interconnected bodies corporate”.
 
 [^f00004]: Footnote: Paragraph (a) of section 90(3) is affected by section 51(3) of the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61) and article 7(9) of the Hong Kong (British Nationality) Order 1986 (S.I. [1986/948](https://www.legislation.gov.uk/uksi/1986/948)).
 
+[^c-ed21b96215b3ceb863c67d1aae94e225]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1990/2158/article/3) in force at 28.2.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2158/article/1)
+
 [^f00005]: Footnote: Agreement is defined in section 137(2) of the Fair Trading Act [1973 (c. 41)](https://www.legislation.gov.uk/ukpga/1973/41).
 
-[^f00006]: Footnote: [1976 c. 34](https://www.legislation.gov.uk/ukpga/1976/34).
+[^c-3006dbb85d5154c7d1248e9fd206e161]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1990/2158/article/4) in force at 28.2.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2158/article/1)
+
+[^c-b5af8fc88bfac20d39c1abcb76db063e]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/1990/2158/article/5) revoked (1.3.2001) by [The Competition Act 1998 (Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/2031)](https://www.legislation.gov.uk/uksi/2000/2031), [arts. 1](https://www.legislation.gov.uk/uksi/2000/2031/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2000/2031/article/12/2)

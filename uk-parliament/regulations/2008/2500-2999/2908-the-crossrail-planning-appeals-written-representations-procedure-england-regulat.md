@@ -3,15 +3,15 @@ title: The Crossrail (Planning Appeals) (Written Representations Procedure) (Eng
 id: uksi/2008/2908
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-10'
-text_date: null
-extent: null
+text_date: '2008-12-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2908
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2908/pdfs/uksiem_20082908_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2908/pdfs/uksi_20082908_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2908/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2908/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-12-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2908
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2908
 
@@ -42,11 +46,11 @@ Coming into force
 
 The Secretary of State for Transport and the Secretary of State for Communities and Local Government, acting jointly in exercise of the powers conferred on them by paragraphs 30(1), 34 and 35(1) of Schedule 7 to the Crossrail Act 2008[^f00001] make the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-0164bd99607540471b590ae82a298168]
 
 These Regulations may be cited as the Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008, and shall come into force on 1st December 2008.
 
-## 2. Interpretation and notices, etc.
+## 2. Interpretation and notices, etc.[^c-30dc057c57bca33bd1f18ccf5ad07527]
 
 (1) In these Regulations:
 
@@ -73,11 +77,11 @@ These Regulations may be cited as the Crossrail (Planning Appeals) (Written Repr
 
 which makes reference to another document, a copy of that other document (or of the relevant part of it) shall be submitted served or copied (as the case may be) in a like manner and within the period specified for the submission, service or copying of the relevant document mentioned in subparagraph (a), (b), (c) or (d).
 
-## 3. Application
+## 3. Application[^c-da8163c00b4dafb3c98984b900156a5e]
 
 These Regulations shall apply to any appeal which is made under paragraph 30 Schedule 7, and which is not the subject of a direction made pursuant to paragraph 34(1) of that Schedule.
 
-## 4. Service of Notices etc.
+## 4. Service of Notices etc.[^c-0e713e16476f33e776b7c382747509bf]
 
 (1) Notices or representations required to be submitted or copied under any of the provisions of these Regulations may be sent—
 
@@ -95,11 +99,11 @@ These Regulations shall apply to any appeal which is made under paragraph 30 Sch
 - (a) he shall give notice in writing revoking any consent given by him for that purpose; and
 - (b) such revocation shall be final and shall take effect on the date specified by the person in the notice but that date shall not be less than 7 days after the date on which the notice is given.
 
-## 5. Notice of appeal
+## 5. Notice of appeal[^c-30aef4590257d70fa7e47ceffb7e381d]
 
 (1) Notice of appeal under paragraph 30(1) of Schedule 7 shall be given to the appropriate Ministers and the authority in the form prescribed in Schedule 1[^f00003].
 
-## 6. Notice of receipt of appeal
+## 6. Notice of receipt of appeal[^c-7240df782d21186268d901a6a1af3cf7]
 
 The appropriate Ministers shall, as soon as reasonably practicable after receipt of the notice of appeal, notify the appellant and the authority in writing of—
 
@@ -108,7 +112,7 @@ The appropriate Ministers shall, as soon as reasonably practicable after receipt
 - (c) the address of the site to which the appeal relates; and
 - (d) the address to which written communications to the appropriate Ministers about the appeal are to be sent.
 
-## 7. Notice to, and representations by, third parties
+## 7. Notice to, and representations by, third parties[^c-b9404b4490adffb7bc1987878a7536f9]
 
 (1) The authority shall, within a period of 7 days beginning with the starting date, serve notice on all third parties informing them of the appeal.
 
@@ -126,7 +130,7 @@ The appropriate Ministers shall, as soon as reasonably practicable after receipt
 
 (5) The appropriate Ministers shall, on receipt of representations made pursuant to paragraph (2)(c), at the same time send a copy of them to the appellant and to the authority.
 
-## 8. Submission of questionnaire and statement by the authority
+## 8. Submission of questionnaire and statement by the authority[^c-82afcddb058b90c87a9004b28ffd43c5]
 
 (1) The authority shall, within a period of 14 days beginning with the starting date, submit to the appropriate Ministers a completed questionnaire in the form prescribed in Schedule 2.
 
@@ -139,7 +143,7 @@ The appropriate Ministers shall, as soon as reasonably practicable after receipt
 
 (4) The questionnaire referred to in paragraph (1) and the statement referred to in paragraph (3) shall state the date on which it is submitted to the appropriate Ministers.
 
-## 9. Representations by the appellant and by the authority
+## 9. Representations by the appellant and by the authority[^c-4c6949fa255a83ef271433b917fbd5fa]
 
 (1) The appellant may submit to the appropriate Ministers representations in response to:
 
@@ -154,15 +158,15 @@ The appropriate Ministers shall, as soon as reasonably practicable after receipt
 
 (5) Representations pursuant to paragraph (4) shall be submitted within 7 days of receipt of any third party representations.
 
-## 10. Closing representations in respect of new matters
+## 10. Closing representations in respect of new matters[^c-131cb105f496096f2d38bb1b3db59e6b]
 
 Where the appellant submits representations pursuant to regulation 9(1), and those representations raise a new matter, the authority may, within a period of 14 days beginning with the date of the appellant’s submission of a copy of those representations pursuant to regulation 9(3), submit to the appropriate Ministers representations in respect of that new matter, copying them at the same time to the appellant.
 
-## 11. Allowing further time
+## 11. Allowing further time[^c-6c48f79e704006b7d36b9d3f2980ee19]
 
 The appropriate Ministers may in a particular case give directions setting later time limits than those prescribed by these Regulations.
 
-## 12. Power of determiner
+## 12. Power of determiner[^c-3ae533c2312e23d5700ed07ffafba2ec]
 
 (1) In this regulation—
 
@@ -201,11 +205,11 @@ Department of Communities and Local Government
 
 10th November 2008
 
-## SCHEDULE 1 — Notice of Appeal
+## SCHEDULE 1 — Notice of Appeal[^c-e4ed7045770e5a09483c322f88afb45e]
 
 Regulation 5
 
-## SCHEDULE 2 — Appeal Questionnaire
+## SCHEDULE 2 — Appeal Questionnaire[^c-7804c6f4b86dc4762275404c280e7e0d]
 
 Regulation 8
 
@@ -225,6 +229,34 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2008 c.18](https://www.legislation.gov.uk/ukpga/2008/18). See paragraph 30(9) of Schedule 7 for the definition of prescribed and paragraph 37(2) of Schedule 7 for the definition of appropriate Ministers.
 
+[^c-0164bd99607540471b590ae82a298168]: Commencement: Reg. 1 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-30dc057c57bca33bd1f18ccf5ad07527]: Commencement: Reg. 2 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
 [^f00002]: Footnote: See [S.I. 2008/2036](https://www.legislation.gov.uk/uksi/2008/2036) for the identity of the nominated undertakers.
 
+[^c-da8163c00b4dafb3c98984b900156a5e]: Commencement: Reg. 3 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-0e713e16476f33e776b7c382747509bf]: Commencement: Reg. 4 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-30aef4590257d70fa7e47ceffb7e381d]: Commencement: Reg. 5 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
 [^f00003]: Footnote: See paragraph 30(1) of Schedule 7 for the period within which an appeal may be made.
+
+[^c-7240df782d21186268d901a6a1af3cf7]: Commencement: Reg. 6 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-b9404b4490adffb7bc1987878a7536f9]: Commencement: Reg. 7 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-82afcddb058b90c87a9004b28ffd43c5]: Commencement: Reg. 8 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-4c6949fa255a83ef271433b917fbd5fa]: Commencement: Reg. 9 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-131cb105f496096f2d38bb1b3db59e6b]: Commencement: Reg. 10 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-6c48f79e704006b7d36b9d3f2980ee19]: Commencement: Reg. 11 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-3ae533c2312e23d5700ed07ffafba2ec]: Commencement: Reg. 12 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-e4ed7045770e5a09483c322f88afb45e]: Commencement: Sch. 1 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-7804c6f4b86dc4762275404c280e7e0d]: Commencement: Sch. 2 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)

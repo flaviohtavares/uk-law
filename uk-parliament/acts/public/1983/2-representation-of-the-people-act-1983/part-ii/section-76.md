@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 76
 act: Representation of the People Act 1983
 section: '76'
 status: revised-with-pending-changes
-text_date: '2026-09-30'
+text_date: '2026-10-30'
 extent: E+W | S | N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/76
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 76
 
-> **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales; Scotland; Northern Ireland (the versions of this text differ in extent).
 
@@ -87,7 +87,7 @@ shall be guilty of an illegal practice.
 - (b) for a candidate at a local government election other than an Authority election—
   - (i)[^c14493141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ia)[^c14493161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) at any other local government election, £806[^c-b2ee95bfb95ccf0e10c5d7247864b9d8] together with an additional 7p[^c-36dd806e9b1581c4de3efc22864a0ac0] for every entry in the register of electors [^c14493111]... .
+  - (ii) at any other local government election, £940[^c-025278d61e381f5c56ba6c72b3314749] together with an additional 8p[^c-d4c7de25cf703f3a6bbef7a7f14ad1a2] for every entry in the register of electors [^c14493111]... .
 
 (2A)[^c14493201] As respects Authority elections, each of the following, that is to say—
 
@@ -111,10 +111,27 @@ shall be such as the Secretary of State may prescribe in an order made by statut
 - (a) the candidate’s personal expenses;
 - (b) expenses that are reasonably attributable to the candidate having a physical or mental impairment that has a substantial and long-term adverse effect on the candidate’s ability to carry out normal day-to-day activities.
 - (c)[^c-8cb3a789b6ff3cf6c02b8c06075d7230] reasonable expenses incurred that are reasonably attributable to an individual’s disability,
-- (d) reasonable expenses incurred in providing for the protection of persons or property at rallies or other public events,
+- (d) reasonable expenses incurred that are reasonably attributable to the protection of persons or property[^c-16903d39ee69e46abe7be7e64b7630a3],
 - (e) reasonable expenses incurred that are reasonably attributable to the translation of anything into another language.
 
-(6) Where at an election a poll is countermanded or abandoned by reason of a candidate’s death, the maximum amount of election expenses shall, for any of the other candidates who then remain validly nominated, be twice or, if there has been a previous increase under this subsection, three times what it would have been but for any increase under this subsection; but the maximum amount shall not be affected for any candidate by the change in the timing of the election or of any step in the proceedings at the election.
+(6) Where at an election a poll , other than a poll for a local government election in Scotland,[^c-d11735c44ee8d68550a2c6af858da897] is countermanded or abandoned by reason of a candidate’s death, the maximum amount of election expenses shall, for any of the other candidates who then remain validly nominated, be twice or, if there has been a previous increase under this subsection, three times what it would have been but for any increase under this subsection; but the maximum amount shall not be affected for any candidate by the change in the timing of the election or of any step in the proceedings at the election.
+
+(6A)[^c-f35788ed35baf1e401d25b4aa76f6bd5] Where a poll for a local government election in Scotland is countermanded or abandoned by reason of a candidate’s death, the maximum amount will, for any of the other candidates who then remain validly nominated, be increased by an amount equal to the amount specified by subsection (2)(b)(ii) for each countermanding or abandonment which occurs.
+
+(7) Where the date of the poll at an ordinary local election has been postponed under section 43A(1) or 43B(1) of this Act, the maximum amount will have effect in relation to any candidate at that election as if the amount specified in subsection (2)(b)(ii) were increased by one half.
+
+(8) Where the date of the poll at an election to fill a casual vacancy in the office of councillor has been fixed under section 37A(2) or 37B(2) of the Local Government (Scotland) Act 1973, the maximum amount will have effect in relation to any candidate at that election as if the amount specified in subsection (2)(b)(ii) were increased by one half.
+
+(9) Where the date of the poll at an election to fill a casual vacancy in the office of councillor has been fixed under section 37A(4) of the Local Government (Scotland) Act 1973, the maximum amount will have effect in relation to any candidate at that election as if the maximum amount specified in subsection (2)(b)(ii) were increased by one half.
+
+(10) Where more than one of the circumstances described by subsections (6A), (7), (8) or (9) are applicable to a poll, the increases in the maximum amount provided for by the applicable subsections are to apply cumulatively.
+
+(11) Other than in the circumstances described by subsections (6A) to (9), the maximum amount specified in subsection (2)(b)(ii) for a candidate shall not be affected by a change in the timing of a local government election in Scotland or of any step in the proceedings at such an election.
+
+(12) For the purposes of this section—
+
+- “**casual vacancy in the office of councillor**” means a casual vacancy in the office of councillor to which section 36 of the Local Government (Scotland) Act 1973 applies,
+- “**ordinary local election**” has the meaning given in section 43(1C) of this Act.
 
 ## 76. Limitation of election expenses.[^c19540301][^c14492961][^c14492941][^c14492951][^c14493001][^c14492991][^c14492972][^c-0522e2fa742d2bc9bad6fc925dfa4d1c][^c-a74e98e474fb049a86157667748ff177]
 
@@ -245,13 +262,19 @@ shall be such as the Secretary of State may prescribe in an order made by statut
 
 [^c19540251]: Extent: This version of this provision extends to Scotland only; separate versions have been created for England and Wales and Northern Ireland only.
 
-[^c-b2ee95bfb95ccf0e10c5d7247864b9d8]: Textual amendment: Sum in [s. 76(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/1983/2/section/76/2/b/ii) substituted (S.) (1.1.2022) by [The Representation of the People (Variation of Limits of Candidates’ Local Government Election Expenses) (Scotland) Order 2021 (S.S.I. 2021/310)](https://www.legislation.gov.uk/ssi/2021/310), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/310/article/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2021/310/article/2/a)
+[^c-025278d61e381f5c56ba6c72b3314749]: Textual amendment: Sum in [s. 76(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/1983/2/section/76/2/b/ii) substituted (S.) (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2026/318/article/2/4/a/i) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
 
-[^c-36dd806e9b1581c4de3efc22864a0ac0]: Textual amendment: Sum in [s. 76(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/1983/2/section/76/2/b/ii) substituted (S.) (1.1.2022) by [The Representation of the People (Variation of Limits of Candidates’ Local Government Election Expenses) (Scotland) Order 2021 (S.S.I. 2021/310)](https://www.legislation.gov.uk/ssi/2021/310), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/310/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2021/310/article/2/b)
+[^c-d4c7de25cf703f3a6bbef7a7f14ad1a2]: Textual amendment: Sum in [s. 76(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/1983/2/section/76/2/b/ii) substituted (S.) (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/318/article/2/4/a/ii) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
 
 [^c-d2b57c9ac243085480757e49b8e3642a]: Textual amendment: S. 76(5A) inserted (S.) (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [6](https://www.legislation.gov.uk/ssi/2016/354/article/6) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
 [^c-8cb3a789b6ff3cf6c02b8c06075d7230]: Textual amendment: [S. 76(5A)(c)-(e)](https://www.legislation.gov.uk/ukpga/1983/2/section/76/5A/c) inserted (S.) (25.11.2021) by [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2021/437/article/3/2) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
+
+[^c-16903d39ee69e46abe7be7e64b7630a3]: Textual amendment: Words in [s. 76(5A)(d)](https://www.legislation.gov.uk/ukpga/1983/2/section/76/5A/d) substituted (S.) (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2026/318/article/2/4/b) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
+
+[^c-d11735c44ee8d68550a2c6af858da897]: Textual amendment: Words in [s. 76(6)](https://www.legislation.gov.uk/ukpga/1983/2/section/76/6) inserted (S.) (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2026/318/article/2/4/c) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
+
+[^c-f35788ed35baf1e401d25b4aa76f6bd5]: Textual amendment: [S. 76(6A)-(12)](https://www.legislation.gov.uk/ukpga/1983/2/section/76/6A) inserted (S.) (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2026/318/article/2/4/d) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
 
 [^c19540301]: Extent: This version of this provision extends to Northern Ireland only; separate versions have been created for Scotland and England and Wales only.
 

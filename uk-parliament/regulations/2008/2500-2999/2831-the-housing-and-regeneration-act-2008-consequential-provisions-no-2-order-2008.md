@@ -3,16 +3,16 @@ title: The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) 
 id: uksi/2008/2831
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-10-30'
-text_date: '2008-10-30'
+text_date: '2015-04-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2831
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2831/pdfs/uksiem_20082831_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2831/pdfs/uksi_20082831_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2831/data.pdf
-pending_changes: 43
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2008
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2008-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2831
+> Text as at 2015-04-06.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 This Statutory Instrument has been printed in substitution of the SI of the same number and is being issued free of charge to all known recipients of that Statutory Instrument.
 
@@ -186,9 +184,9 @@ In Schedule 1 to the Race Relations Act 1976 (Statutory Duties) Order 2001[^f000
 
 In Part 1 of Schedule 1 to the Disability Discrimination (Public Authorities) (Statutory Duties) Order 2001[^f00015], for “English Partnerships” substitute “The Homes and Communities Agency”.
 
-### 14. Social Housing (Grants to Bodies other than Registered Social Landlords) (Additional Purposes) (England) Order 2006[^c-7fd41420c0cdf6ee78f97ffa2f77ede8]
+### 14. Social Housing (Grants to Bodies other than Registered Social Landlords) (Additional Purposes) (England) Order 2006[^c-1fd898dfebf7950c69422761fe232cbb]
 
-In article 2 of the Social Housing (Grants to Bodies other than Registered Social Landlords) (Additional Purposes) (England) Order 2006[^f00016], in the definition of “public sector housing”, for “the Housing Corporation” substitute “the Homes and Communities Agency”.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Sex Discrimination Act 1975 (Public Authorities) (Statutory Duties) Regulations 2006[^c-80140ac7777c60c13333d93964d7ee85]
 
@@ -295,7 +293,7 @@ Table
 | The Town and Country Planning (Appeals) (Determination by Inspectors) (Inquiries Procedure) (England) Rules 2000[^f00030] | rule 11(1)(d) (appearances at inquiry) |
 | The Town and Country Planning (Enforcement) (Determination by Inspectors) (Inquiries Procedure) (England) Rules 2002[^f00031] | rule 11(1)(d) (appearances at inquiry) |
 | The Town and Country Planning (Enforcement) (Inquiries Procedure) (England) Rules 2002[^f00032] | rule 13(1)(d) (appearances at inquiry) |
-| The Town and Country Planning (Major Infrastructure Project Inquiries Procedure) (England) Rules 2005[^f00033] | rule 15(1)(d) (appearances at inquiry) |
+| [^c-74671306ccc41d70a711c6fb780b72d1]. . . | [^c-74671306ccc41d70a711c6fb780b72d1]. . . |
 
 **2.**[^c-d742bd17713b90acce4673fcf5b5ad37] At the end of rule 2(1) (interpretation) of—
 
@@ -335,131 +333,129 @@ The amendments are subject to transitional and saving provisions, the purpose of
 
 [^f00001]: Footnote: [2008 c.17](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^c-1b00432e618eb22d691fde85c0d83bbf]: Commencement: Art. 1 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-1b00432e618eb22d691fde85c0d83bbf]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/2831/article/1) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-0c6ee8fbdc004bb89b50f48d7dd4abbc]: Commencement: Art. 2 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-0c6ee8fbdc004bb89b50f48d7dd4abbc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/2831/article/2) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-87a2badf665ea6cce81ba7b0561d3a18]: Commencement: Art. 3 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-87a2badf665ea6cce81ba7b0561d3a18]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2008/2831/article/3) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-a2e637864aaa3f327e74d4957300c3a8]: Commencement: Art. 4 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-a2e637864aaa3f327e74d4957300c3a8]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2008/2831/article/4) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-02f0f02cbd6156e954d5a0f7dde2193b]: Commencement: Art. 5 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-02f0f02cbd6156e954d5a0f7dde2193b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2008/2831/article/5) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-133cdccce23dc4ffd7991954bc1cc66a]: Commencement: Art. 6 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-133cdccce23dc4ffd7991954bc1cc66a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2008/2831/article/6) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-48789b7d5b4873773a07d3fbbbd200a5]: Commencement: Sch. 1 para. 1 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-48789b7d5b4873773a07d3fbbbd200a5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/1) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00002]: Footnote: [S.I. 1980/1697](https://www.legislation.gov.uk/uksi/1980/1697). The forms in Schedule 1 were amended by regulation 4 of [S.I. 1984/1391](https://www.legislation.gov.uk/uksi/1984/1391) and regulation 2 of [S.I. 1993/655](https://www.legislation.gov.uk/uksi/1993/655).
 
-[^c-ec8b538a5561ec0950ec7a6d6dd4bb65]: Commencement: Sch. 1 para. 2 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-ec8b538a5561ec0950ec7a6d6dd4bb65]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/2) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00003]: Footnote: [S.I. 1986/2092](https://www.legislation.gov.uk/uksi/1986/2092).
 
-[^c-d55784f497c90fefec23b30ac29db7d8]: Commencement: Sch. 1 para. 3 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-d55784f497c90fefec23b30ac29db7d8]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/3) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00004]: Footnote: [SI 1986/2194](https://www.legislation.gov.uk/uksi/1986/2194). Schedule 1 was amended by regulation 2 of [S.I. 2007/784](https://www.legislation.gov.uk/uksi/2007/784).
 
-[^c-61ce955f8f2b6e6c26348cb58410efd0]: Commencement: Sch. 1 para. 4 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-61ce955f8f2b6e6c26348cb58410efd0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/4) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00005]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Schedule 9A was inserted by regulation 6 of [S.I. 1992/1026](https://www.legislation.gov.uk/uksi/1992/1026).
 
-[^c-b4367f10543f103a2fc38b521b889e66]: Commencement: Sch. 1 para. 5 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-b4367f10543f103a2fc38b521b889e66]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/5) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00006]: Footnote: [S.I. 1989/869](https://www.legislation.gov.uk/uksi/1989/869). The entry for the Urban Regeneration Agency was inserted by article 2 of [S.I. 2008/645](https://www.legislation.gov.uk/uksi/2008/645).
 
 [^f00007]: Footnote: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64). Section 36 was amended by paragraph 5 of Schedule 5 to the Housing and Regeneration Act 2008.
 
-[^c-10f72e0a61010aa37a1402f5c23868ca]: Commencement: Sch. 1 para. 6 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-10f72e0a61010aa37a1402f5c23868ca]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/6) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00008]: Footnote: [S.I. 1992/1708](https://www.legislation.gov.uk/uksi/1992/1708).
 
-[^c-176b683e7988f8c73a0163e985320d1f]: Commencement: Sch. 1 para. 7 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-176b683e7988f8c73a0163e985320d1f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/7) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00009]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). Regulation 19 was amended by regulation 5 of [S.I. 1998/1274](https://www.legislation.gov.uk/uksi/1998/1274).
 
-[^c-103e0f4351264820fe6660e0dbb2ed63]: Commencement: Sch. 1 para. 8 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-103e0f4351264820fe6660e0dbb2ed63]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/8) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00010]: Footnote: [S.I.. 1996/2256](https://www.legislation.gov.uk/uksi/1996/2256). Article 2 was amended by article 2 of [S.I. 2005/2863](https://www.legislation.gov.uk/uksi/2005/2863).
 
-[^c-0393c6dad56dabf769e224bd87281793]: Commencement: Sch. 1 para. 9 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-0393c6dad56dabf769e224bd87281793]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/9) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00011]: Footnote: [S.I. 1999/985](https://www.legislation.gov.uk/uksi/1999/985). Article 3 was amended by article 3 of [S.I. 2005/2863](https://www.legislation.gov.uk/uksi/2005/2863).
 
-[^c-5655f44fd3d3d2927157e507d5316177]: Commencement: Sch. 1 para. 10 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-5655f44fd3d3d2927157e507d5316177]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/10) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00012]: Footnote: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277).
 
-[^c-31ef0380f607dce65d900e77a8128840]: Commencement: Sch. 1 para. 11 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-31ef0380f607dce65d900e77a8128840]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/11) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00013]: Footnote: [S.I.. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201). Paragraph 48 was substituted by article 2(4) of [S.I. 2003/1675](https://www.legislation.gov.uk/uksi/2003/1675).
 
-[^c-eb96f0bb16745f8683c7df1c5ece62b7]: Commencement: Sch. 1 para. 12 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-eb96f0bb16745f8683c7df1c5ece62b7]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/12) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00014]: Footnote: [S.I. 2001/3458](https://www.legislation.gov.uk/uksi/2001/3458).
 
-[^c-f01625b5c9dd7fd1146cf2b518105cf0]: Commencement: Sch. 1 para. 13 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-f01625b5c9dd7fd1146cf2b518105cf0]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/13) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00015]: Footnote: [S.I. 2005/2966](https://www.legislation.gov.uk/uksi/2005/2966).
 
-[^c-7fd41420c0cdf6ee78f97ffa2f77ede8]: Commencement: Sch. 1 para. 14 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-1fd898dfebf7950c69422761fe232cbb]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/14) repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/671/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2)
 
-[^f00016]: Footnote: [S.I. 2006/583](https://www.legislation.gov.uk/uksi/2006/583).
-
-[^c-80140ac7777c60c13333d93964d7ee85]: Commencement: Sch. 1 para. 15 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-80140ac7777c60c13333d93964d7ee85]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/15) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00017]: Footnote: [S.I. 2006/2930](https://www.legislation.gov.uk/uksi/2006/2930).
 
-[^c-1f35f31ab6bc1106facc05a23f8682e2]: Commencement: Sch. 1 para. 16 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-1f35f31ab6bc1106facc05a23f8682e2]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/16) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00018]: Footnote: [S.I. 2006/1954](https://www.legislation.gov.uk/uksi/2006/1954)
 
-[^c-3cdacfddd58f5f52c361618155352ec0]: Commencement: Sch. 1 para. 17 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-3cdacfddd58f5f52c361618155352ec0]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/17) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00019]: Footnote: [S.I. 2008/928](https://www.legislation.gov.uk/uksi/2008/928).
 
-[^c-ee7467d19d3d5c7bab25ed546b237a7e]: Commencement: Sch. 2 para. 1 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-ee7467d19d3d5c7bab25ed546b237a7e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/1) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00020]: Footnote: [S.I. 1981/15](https://www.legislation.gov.uk/uksi/1981/15). Article 2 was amended by article 6 of [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971).
 
-[^c-6e3e05f3da4bc994aa312dad19613df4]: Commencement: Sch. 2 para. 2 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-6e3e05f3da4bc994aa312dad19613df4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/2) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00021]: Footnote: [S.I. 1999/1549](https://www.legislation.gov.uk/uksi/1999/1549).
 
-[^c-aa4ca9d34ac93e059128542377ae6df8]: Commencement: Sch. 2 para. 3 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-aa4ca9d34ac93e059128542377ae6df8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/3) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00022]: Footnote: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277).
 
-[^c-cf90a1f25375cb4faf894ea2270119aa]: Commencement: Sch. 2 para. 4 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-cf90a1f25375cb4faf894ea2270119aa]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/4) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00023]: Footnote: [S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201). Paragraph 48 was substituted by article 2(4) of [S.I. 2003/1675](https://www.legislation.gov.uk/uksi/2003/1675).
 
-[^c-402816ff258f31d80c51d58af25beae2]: Commencement: Sch. 2 para. 5 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-402816ff258f31d80c51d58af25beae2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/5) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00024]: Footnote: [S.I. 2001/3458](https://www.legislation.gov.uk/uksi/2001/3458).
 
-[^c-3e88bfe18e2059ae449c2f217208914e]: Commencement: Sch. 2 para. 6 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-3e88bfe18e2059ae449c2f217208914e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/6) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00025]: Footnote: [S.I. 2005/2966](https://www.legislation.gov.uk/uksi/2005/2966).
 
-[^c-2cdf63fcda3d139d48dfdd6cf4251385]: Commencement: Sch. 2 para. 7 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-2cdf63fcda3d139d48dfdd6cf4251385]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/7) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00026]: Footnote: [S.I. 2006/2930](https://www.legislation.gov.uk/uksi/2006/2930).
 
-[^c-266a25d0dba4779790951e8ddf2d1af0]: Commencement: Sch. 2 para. 8 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-266a25d0dba4779790951e8ddf2d1af0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/8) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00027]: Footnote: [S.I. 2008/928](https://www.legislation.gov.uk/uksi/2008/928).
 
-[^c-ca6aaf4c42f5a880f69089eb67dfef60]: Commencement: Sch. 3 para. 1 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-ca6aaf4c42f5a880f69089eb67dfef60]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2008/2831/schedule/3/paragraph/1) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-307d87d8c4512de177c621749e53396e]: Commencement: Sch. 3 para. 2 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-307d87d8c4512de177c621749e53396e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2008/2831/schedule/3/paragraph/2) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-bb27b0fc0074c28b246c42edc3e4c5ec]: Commencement: Sch. 3 para. 3 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-bb27b0fc0074c28b246c42edc3e4c5ec]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2008/2831/schedule/3/paragraph/3) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-7297c8a46490a9b87fd826bbb2348c0d]: Commencement: Sch. 3 para. 4 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-7297c8a46490a9b87fd826bbb2348c0d]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2008/2831/schedule/3/paragraph/4) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00028]: Footnote: [S.I. 1992/1708](https://www.legislation.gov.uk/uksi/1992/1708).
 
-[^c-2f78f2cf006c703d54a2f5d54ac324b6]: Commencement: Sch. 4 para. 1 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-2f78f2cf006c703d54a2f5d54ac324b6]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/1) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00029]: Footnote: [S.I. 2000/1624](https://www.legislation.gov.uk/uksi/2000/1624). Rule 11(1)(d) was amended by [S.I. 2002/1223](https://www.legislation.gov.uk/uksi/2002/1223).
 
@@ -469,9 +465,9 @@ The amendments are subject to transitional and saving provisions, the purpose of
 
 [^f00032]: Footnote: [S.I. 2002/2686](https://www.legislation.gov.uk/uksi/2002/2686).
 
-[^f00033]: Footnote: [S.I. 2005/2115](https://www.legislation.gov.uk/uksi/2005/2115).
+[^c-74671306ccc41d70a711c6fb780b72d1]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/1) table revoked (6.4.2015) by [The Town and Country Planning (Hearings and Inquiries Procedure) (England) (Amendment and Revocation) Rules 2015 (S.I. 2015/316)](https://www.legislation.gov.uk/uksi/2015/316), [rule 1(1)](https://www.legislation.gov.uk/uksi/2015/316/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/316/schedule) (with [rule 7(2)](https://www.legislation.gov.uk/uksi/2015/316/rule/7/2))
 
-[^c-d742bd17713b90acce4673fcf5b5ad37]: Commencement: Sch. 4 para. 2 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-d742bd17713b90acce4673fcf5b5ad37]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/2) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
 [^f00034]: Footnote: [S.I. 1995/1239](https://www.legislation.gov.uk/uksi/1995/1239). Rule 10 was amended by [S.I. 1996/1008](https://www.legislation.gov.uk/uksi/1996/1008) and [S.I. 1997/712](https://www.legislation.gov.uk/uksi/1997/712).
 
@@ -479,10 +475,10 @@ The amendments are subject to transitional and saving provisions, the purpose of
 
 [^f00036]: Footnote: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64). Section 36 was amended by section 50 of, and paragraph 5 of Schedule 5 to, the Housing and Regeneration Act 2008.
 
-[^c-172a6ee080d50875fff9873858efc82c]: Commencement: Sch. 4 para. 3 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-172a6ee080d50875fff9873858efc82c]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/3) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-aa44213f7dbefa8877644a2d0cef1bcd]: Commencement: Sch. 4 para. 4 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-aa44213f7dbefa8877644a2d0cef1bcd]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/4) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-a9316c7302772e174bfa554596184eef]: Commencement: Sch. 4 para. 5 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-a9316c7302772e174bfa554596184eef]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/5) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
 
-[^c-a9c738806a37eae90df5977b5981ddcf]: Commencement: Sch. 4 para. 6 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)
+[^c-a9c738806a37eae90df5977b5981ddcf]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/6) in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/article/1/2)

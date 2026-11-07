@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2006-02-02'
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2006/214
 pdf_urls:
@@ -25,7 +25,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/2006/214/pdfs/uksi_20060214_301114_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/214/pdfs/uksi_20060214_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/214/data.pdf
-pending_changes: 12
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -33,7 +33,7 @@ summary: ''
 
 # The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
 2006 No. 214
 

@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 70
 act: Representation of the People Act 1983
 section: '70'
 status: revised-with-pending-changes
-text_date: '2026-09-30'
+text_date: '2026-10-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/70
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 70
 
-> **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -45,10 +45,10 @@ the candidate shall be deemed to have appointed himself as from the time of deat
 - (a) in a case where the candidate’s home address given under rule 9(2)(b) of Schedule 1 or 2 to the Local Elections (Principal Areas) (Wales) Rules 2021 is in England or Wales, at that address, and
 - (b) otherwise, at the candidate’s qualifying address as stated under rule 9(2)(c) of Schedule 1 or 2 to those Rules or, where more than one qualifying address is stated, at the first of those addresses.
 
-(5) Where in a local government election in Scotland a candidate is by virtue of this section to be treated as his own election agent, he shall be deemed to have his office—
+(5)[^c-f7e091d8620c47867130cb82155ea152] Where in a local government election in Scotland a candidate is by virtue of this section to be treated as the candidate’s own election agent, the candidate’s office is deemed to be—
 
-- (a) at his address as given in his nomination paper or papers, or
-- (b) if that address is outside the permitted area for the office, at the address of the person named as the proposer of the candidate in the nomination paper first delivered in which the address of the proposer is in the local government area.
+- (a) where the candidate has given a correspondence address in accordance with rule 4(11B) of schedule 1 of the Scottish Local Government Elections Order 2011, at that address, or
+- (b) otherwise, at the address given under rule 4(10)(a)(ii) of that schedule.
 
 (6) The appropriate officer on being satisfied that a candidate is by virtue of this section to be treated as his own election agent, shall forthwith proceed to publish the like notice as if the name and address of the candidate and the address of his office had been duly given to him under sections 67 and 69 above.
 
@@ -82,6 +82,8 @@ the candidate shall be deemed to have appointed himself as from the time of deat
 [^c20195981]: Textual amendment: Words in s. 70(4)(a) inserted (4.9.2009) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 39](https://www.legislation.gov.uk/ukpga/2009/12/section/39), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/5/2); [S.I. 2009/2395](https://www.legislation.gov.uk/uksi/2009/2395), [art. 2](https://www.legislation.gov.uk/uksi/2009/2395/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/2395/article/3))
 
 [^c-6426119ed243ff22a2ab33875d9e6260]: Textual amendment: S. 70(4A) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/uksi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/263/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2022/263/regulation/6/5) (with [reg. 12(c)](https://www.legislation.gov.uk/uksi/2022/263/regulation/12/c))
+
+[^c-f7e091d8620c47867130cb82155ea152]: Textual amendment: [S. 70(5)](https://www.legislation.gov.uk/ukpga/1983/2/section/70/5) substituted (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/318/article/2/3) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
 
 [^c20196001]: Textual amendment: S. 70(7) inserted (4.9.2009) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 39](https://www.legislation.gov.uk/ukpga/2009/12/section/39), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/5/3); [S.I. 2009/2395](https://www.legislation.gov.uk/uksi/2009/2395), [art. 2](https://www.legislation.gov.uk/uksi/2009/2395/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/2395/article/3))
 

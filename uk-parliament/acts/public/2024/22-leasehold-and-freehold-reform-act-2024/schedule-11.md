@@ -2,8 +2,8 @@
 title: Leasehold and Freehold Reform Act 2024, Schedule 11
 act: Leasehold and Freehold Reform Act 2024
 section: schedule-11
-status: not-yet-in-force
-text_date: '2025-03-03'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/schedule/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, Schedule 11
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 
@@ -20,15 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-**Not yet in force.**
-
 Section 70
 
 ### Part 1 — Amendments consequential on section 68
 
-**1.**[^c-b25c5d989707df2b58bcdd3deb3881c7] The LTA 1985 is amended in accordance with paragraphs 2 to 13.
+**1.**[^c-b25c5d989707df2b58bcdd3deb3881c7][^c-d1177e607faddcb5f88b3ac0891e8baf] The LTA 1985 is amended in accordance with paragraphs 2 to 13.
 
-**2.**[^c-66b87be48d42c96633b86cfbe9f54582] In section 5 (information to be contained in rent books)—
+**2.**[^c-66b87be48d42c96633b86cfbe9f54582][^c-ca7875d4d3facf40f683231e37a2a577] In section 5 (information to be contained in rent books)—
 
 - (a) in subsection (3)—
   - (i) in the words before paragraph (a), for “Secretary of State” substitute “appropriate authority”;
@@ -37,14 +35,14 @@ Section 70
 
   > (4) A statutory instrument containing regulations under this section is subject to the negative procedure.
 
-**3.**[^c-d3f6a4c4892e89b9146c3199cc0e63c8] In section 10B(8) (regulations under section 10A), for the words from “may not be made” to the end substitute “is subject to the affirmative procedure”.
+**3.**[^c-d3f6a4c4892e89b9146c3199cc0e63c8][^c-03d6b197016c7f4909cdacd1dda97e2e] In section 10B(8) (regulations under section 10A), for the words from “may not be made” to the end substitute “is subject to the affirmative procedure”.
 
-**4.**[^c-f3adf019db6c4544952aa7ec33a7dffb] In section 20 (consultation requirements)—
+**4.**[^c-f3adf019db6c4544952aa7ec33a7dffb][^c-561b8d66ef174972a023965f64a8e315] In section 20 (consultation requirements)—
 
 - (a) in subsection (4), for “Secretary of State” substitute “appropriate authority”;
 - (b) in subsection (5), for “Secretary of State” substitute “appropriate authority”.
 
-**5.**[^c-65fb008c0b5eb66ad61fb3487152f26f] In section 20ZA (consultation requirements: supplementary)—
+**5.**[^c-65fb008c0b5eb66ad61fb3487152f26f][^c-1abc8ee99a7450e06fa2fa301ab89510] In section 20ZA (consultation requirements: supplementary)—
 
 - (a) in subsection (3), for “Secretary of State” substitute “appropriate authority”;
 - (b) in subsection (4), for “Secretary of State” substitute “appropriate authority”;
@@ -53,11 +51,11 @@ Section 70
 
   > (8) A statutory instrument containing regulations under section 20 or this section is subject to the negative procedure.
 
-**6.**[^c-7ed93ccc366818b532d39c618321fdcf] In section 20E(4) (regulations under section 20D) for the words from “annulment” to the end substitute “the negative procedure”.
+**6.**[^c-7ed93ccc366818b532d39c618321fdcf][^c-e8b721bd84593adf264f5d0b69802a05] In section 20E(4) (regulations under section 20D) for the words from “annulment” to the end substitute “the negative procedure”.
 
-**7.**[^c-c7f2ea0de530db33fd670541268add52] In section 20F(7) (limitation of service charges: excluded costs for higher risk buildings), for the words from “annulment” to the end substitute “the negative procedure”.
+**7.**[^c-c7f2ea0de530db33fd670541268add52][^c-6d3b5c8f02c9e8fa19dcf88d7fc7ac15] In section 20F(7) (limitation of service charges: excluded costs for higher risk buildings), for the words from “annulment” to the end substitute “the negative procedure”.
 
-**8.**[^c-882c8bb478e1b484796747c12db82087] In section 29 (meaning of “**recognised tenants’ association**”)—
+**8.**[^c-882c8bb478e1b484796747c12db82087][^c-88c055ef3a16bedf96bfdd6cfedd26e3] In section 29 (meaning of “**recognised tenants’ association**”)—
 
 - (a) in subsection (5), for “Secretary of State” substitute “appropriate authority”;
 - (b) in subsection (6)(b), omit the words from “which shall” to the end;
@@ -65,11 +63,11 @@ Section 70
 
   > (7) A statutory instrument containing regulations under subsection (5) is subject to the negative procedure.
 
-**9.**[^c-29c515b98b59f330edaca0519a50bd4b] In section 29A (tenants’ associations: power to request information about tenants), in subsection (7), for the words from “annulment” to the end substitute “the negative procedure”.
+**9.**[^c-29c515b98b59f330edaca0519a50bd4b][^c-a2d1e772109d0d28d288029bdeeb59c2] In section 29A (tenants’ associations: power to request information about tenants), in subsection (7), for the words from “annulment” to the end substitute “the negative procedure”.
 
-**10.**[^c-bf283fcec375eedf90582776b1825df2] In section 30D(9) (liability for building safety costs), for the words from “may not be made” to the end substitute “is subject to the affirmative procedure”.
+**10.**[^c-bf283fcec375eedf90582776b1825df2][^c-b3e699e4ee932e2f8a4de764dc5b466e] In section 30D(9) (liability for building safety costs), for the words from “may not be made” to the end substitute “is subject to the affirmative procedure”.
 
-**11.**[^c-431556807985150d1eea2c5ac18f2dfd] In section 31 (reserve power to limit rents)—
+**11.**[^c-431556807985150d1eea2c5ac18f2dfd][^c-86467540e5bf7de6327854d27e938ebf] In section 31 (reserve power to limit rents)—
 
 - (a) in subsection (1), for “Secretary of State” substitute “appropriate authority”;
 - (b) in subsection (4), omit the words from “which shall” to the end;
@@ -77,16 +75,18 @@ Section 70
 
   > (5) A statutory instrument containing an order under this section is subject to the negative procedure.
 
-**12.**[^c-14da52bc239cc2f96b9e7e15446fbb0e] In section 35 (application to Isles of Scilly)—
+**12.**[^c-14da52bc239cc2f96b9e7e15446fbb0e][^c-b68d2587bb88e1a13374c897cfff3585] In section 35 (application to Isles of Scilly)—
 
 - (a) in subsection (2), omit the words from “which shall” to the end;
 - (b) after subsection (2) insert—
 
   > (3) A statutory instrument containing an order under this section is subject to the negative procedure.
 
-**13.**[^c-782f1fc8f410c517625aa4276c7febe9] In paragraph 7(5) of the Schedule (right to notify insurers of possible claim), for “Secretary of State” substitute “appropriate authority”.
+**13.**[^c-782f1fc8f410c517625aa4276c7febe9][^c-60839bd0aeb8439da983ffb8535ff0ce] In paragraph 7(5) of the Schedule (right to notify insurers of possible claim), for “Secretary of State” substitute “appropriate authority”.
 
 ### Part 2 — Other consequential amendments
+
+**Not yet in force.**
 
 **14.**[^c-45862f0d60283137b0de8bafecf27b34] The LTA 1985 is amended in accordance with paragraphs 15 to 17.
 
@@ -171,29 +171,55 @@ Section 70
 
 [^c-b25c5d989707df2b58bcdd3deb3881c7]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
+[^c-d1177e607faddcb5f88b3ac0891e8baf]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/1) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
+
 [^c-66b87be48d42c96633b86cfbe9f54582]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-ca7875d4d3facf40f683231e37a2a577]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/2) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
 
 [^c-d3f6a4c4892e89b9146c3199cc0e63c8]: Commencement: Sch. 11 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
+[^c-03d6b197016c7f4909cdacd1dda97e2e]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/3) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
+
 [^c-f3adf019db6c4544952aa7ec33a7dffb]: Commencement: Sch. 11 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-561b8d66ef174972a023965f64a8e315]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/4) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
 
 [^c-65fb008c0b5eb66ad61fb3487152f26f]: Commencement: Sch. 11 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
+[^c-1abc8ee99a7450e06fa2fa301ab89510]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/5) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
+
 [^c-7ed93ccc366818b532d39c618321fdcf]: Commencement: Sch. 11 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-e8b721bd84593adf264f5d0b69802a05]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/6) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
 
 [^c-c7f2ea0de530db33fd670541268add52]: Commencement: Sch. 11 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
+[^c-6d3b5c8f02c9e8fa19dcf88d7fc7ac15]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/7) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
+
 [^c-882c8bb478e1b484796747c12db82087]: Commencement: Sch. 11 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-88c055ef3a16bedf96bfdd6cfedd26e3]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/8) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
 
 [^c-29c515b98b59f330edaca0519a50bd4b]: Commencement: Sch. 11 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
+[^c-a2d1e772109d0d28d288029bdeeb59c2]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/9) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
+
 [^c-bf283fcec375eedf90582776b1825df2]: Commencement: Sch. 11 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-b3e699e4ee932e2f8a4de764dc5b466e]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/10) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
 
 [^c-431556807985150d1eea2c5ac18f2dfd]: Commencement: Sch. 11 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
+[^c-86467540e5bf7de6327854d27e938ebf]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/11) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
+
 [^c-14da52bc239cc2f96b9e7e15446fbb0e]: Commencement: Sch. 11 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
+[^c-b68d2587bb88e1a13374c897cfff3585]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/12) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
+
 [^c-782f1fc8f410c517625aa4276c7febe9]: Commencement: Sch. 11 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-60839bd0aeb8439da983ffb8535ff0ce]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2024/22/schedule/11/paragraph/13) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/l)
 
 [^c-45862f0d60283137b0de8bafecf27b34]: Commencement: Sch. 11 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 

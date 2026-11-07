@@ -2,8 +2,8 @@
 title: Crime and Policing Act 2026, section 106
 act: Crime and Policing Act 2026
 section: '106'
-status: not-yet-in-force
-text_date: '2026-10-29'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/106
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Crime and Policing Act 2026, section 106
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (33).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Pornographic images of sex between relatives[^c-aaacbc8b5a87dff872e8684b1cf684d7]
+## 106. Pornographic images of sex between relatives[^c-aaacbc8b5a87dff872e8684b1cf684d7][^c-298cb85cf49f24c9e9b9bc8ae72682f1]
 
 *Extent: E+W+S+N.I.*
-
-**Not yet in force.**
 
 *Extent: E+W*
 
@@ -168,3 +166,5 @@ summary: ''
 ## Annotations
 
 [^c-aaacbc8b5a87dff872e8684b1cf684d7]: Commencement: S. 106 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+
+[^c-298cb85cf49f24c9e9b9bc8ae72682f1]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2026/20/section/106) in force at 6.11.2026 by [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c)

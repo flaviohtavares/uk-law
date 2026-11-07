@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1981-10-30'
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1981/67
 pdf_urls:
@@ -19,7 +19,7 @@ summary: ''
 
 # Acquisition of Land Act 1981
 
-> **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
+> **Warning: changes not yet applied to this text (19).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

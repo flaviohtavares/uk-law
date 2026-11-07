@@ -3,16 +3,16 @@ title: The Supply of Relevant Veterinary Medicinal Products Order 2005
 id: uksi/2005/2751
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2005-10-04'
-text_date: null
-extent: null
+text_date: '2014-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2005/2751
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2005/2751/pdfs/uksiem_20052751_en.pdf
 - http://www.legislation.gov.uk/uksi/2005/2751/pdfs/uksi_20052751_en.pdf
-- http://www.legislation.gov.uk/uksi/2005/2751/made/data.pdf
-pending_changes: 7
+- http://www.legislation.gov.uk/uksi/2005/2751/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Supply of Relevant Veterinary Medicinal Products Order 2005
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2014-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2005 No. 2751
 
@@ -48,19 +52,20 @@ The then Secretary of State, in accordance with section 91(2) of the Act[^f00005
 
 The Secretary of State has considered both the representations received and the recommendations of the Competition Commission as required by section 56(3) of the Act:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-5ec7873068156396519474c323460213]
 
 This Order may be cited as the Supply of Relevant Veterinary Medicinal Products Order 2005 and shall come into force on 31st October 2005.
 
-## 2. Interpretation
+## 2. Interpretation[^c-2f472d3313525b0b22e7387ee7023a44]
 
 In this Order—
 
 - “animals” means all animals other than man and includes birds, reptiles, fish, molluscs, crustacea and bees;
 - “client” means any person with whom a veterinary surgeon makes an agreement to supply veterinary services;
+- “the CMA” means the Competition and Markets Authority;[^c-f59c695629d7f1ee3041df89e87c7d95]
 - “feed” means any substance or product, including feed additives, whether processed, partially processed or unprocessed, intended to be used for oral feeding to animals;
 - “feed additives” means substances or micro-organisms authorised under Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council of 22 September 2003[^f00006] on additives for use in the nutrition of animals;
-- “OFT” means the Office of Fair Trading;
+- [^c-32cf4d7cecb697d3563f7b95b522a636]...
 - “pharmacist” means—
   - (a) a person who is a pharmacist within the meaning of section 132 of the Medicines Act 1968; or
   - (b) any other person who is lawfully conducting a retail pharmacy business in accordance with section 69 of the Medicines Act 1968;
@@ -79,7 +84,7 @@ In this Order—
   - (b) received in legible form; and
   - (c) capable of being used for subsequent reference.
 
-## 3. Prescription fees and prohibition of discrimination
+## 3. Prescription fees and prohibition of discrimination[^c-f1cda4fdb976d2220161f3bbba811799]
 
 (1) Subject to paragraph (2), during the relevant period a veterinary surgeon must not charge a client a fee for providing a prescription.
 
@@ -92,7 +97,7 @@ In this Order—
 
 (4) In paragraphs (1) and (2), “relevant period” means the period of 3 years beginning with the day on which this Order comes into force.
 
-## 4. Requirement for a veterinary manufacturer to notify price information
+## 4. Requirement for a veterinary manufacturer to notify price information[^c-b2bd12edeaf5a070996ce19578a07ba7]
 
 (1) At intervals of not more than 3 months, a veterinary manufacturer must notify in writing—
 
@@ -116,7 +121,7 @@ In this Order—
 
 (6) In paragraphs (1), (2) and (5) “supplied” includes supplied indirectly via a veterinary wholesaler and, in paragraphs (2) and (4), and articles 5(1) and 6 “supply” includes indirect supply via a veterinary wholesaler.
 
-## 5. Requirement for a veterinary manufacturer to notify price information on request
+## 5. Requirement for a veterinary manufacturer to notify price information on request[^c-b8d6a7003c40de667cd3cf7f548a405c]
 
 (1) Where a veterinary surgeon or pharmacist makes a request to a veterinary manufacturer to be notified of the net price at which the veterinary manufacturer would be willing to supply a relevant veterinary medicinal product during the next 3 months, the veterinary manufacturer must comply with that request within a reasonable time by notice in writing.
 
@@ -132,7 +137,7 @@ In this Order—
 - (a) “net price” means the list price less any discount or rebate which the veterinary manufacturer proposes to give to the veterinary surgeon or pharmacist in connection with the supply of the relevant veterinary medicinal product, but does not include any discount or rebate to be given to, or by, a veterinary wholesaler. The veterinary manufacturer shall state whether the net price is inclusive or exclusive of VAT and all other taxes
 - (b) “next 3 months” means the 3 month period beginning with the day on which the veterinary manufacturer notifies the information.
 
-## 6. Prohibition of discrimination by a veterinary manufacturer or a veterinary wholesaler
+## 6. Prohibition of discrimination by a veterinary manufacturer or a veterinary wholesaler[^c-d3f60c70b4507aab54ef937896bf83eb]
 
 It shall be unlawful for a veterinary manufacturer or a veterinary wholesaler to discriminate unreasonably between veterinary surgeons and pharmacists in—
 
@@ -140,9 +145,9 @@ It shall be unlawful for a veterinary manufacturer or a veterinary wholesaler to
 - (b) any discount or rebate that they give in connection with the supply of a relevant veterinary medicinal product; or
 - (c) the other terms and conditions upon which they supply a relevant veterinary medicinal product.
 
-## 7. Requirement to furnish information to the OFT
+## 7. Requirement to furnish information to the CMA[^c-bfc7d5a5cfa30c4e4fc64598a73912f4][^c-87653a6b13eb32919572890a135e56c2]
 
-(1) The OFT may require, on reasonable notice given in writing, any person mentioned in paragraph (2) to furnish the OFT with such information mentioned in paragraph (3) as the OFT may require for the purposes of monitoring compliance with this Order.
+(1) The CMA[^c-2efbd355b53c148d73167288d196b88d] may require, on reasonable notice given in writing, any person mentioned in paragraph (2) to furnish the OFT with such information mentioned in paragraph (3) as the CMA may require for the purposes of monitoring compliance with this Order.
 
 (2) The persons are—
 
@@ -154,16 +159,16 @@ It shall be unlawful for a veterinary manufacturer or a veterinary wholesaler to
 
 (3) The information is information held by or in the control of the person who is required to furnish the information under paragraph (1).
 
-## 8. Directions by the Secretary of State as to compliance
+## 8. Directions by the Secretary of State as to compliance[^c-cbc0b1ecd6f7abe360e84dd709ac06a2]
 
-(1) The Secretary of State may give directions to a person specified in the directions, or to the holder for the time being of an office so specified in any company or association—
+(1) The CMA[^c-e0888cb1f47ea3540d9a410442c9a22a] may give directions to a person specified in the directions, or to the holder for the time being of an office so specified in any company or association—
 
 - (a) to take such steps within his competence as may be specified or described in the directions for the purposes of carrying out, or securing compliance with, this Order; or
 - (b) to do or refrain from doing anything so specified or described which he might be required by this Order to do or refrain from doing.
 
 (2) In paragraph (1), “steps” includes steps to introduce and maintain arrangements to ensure that any person carries out or secures compliance with this Order.
 
-(3) The Secretary of State may vary or revoke any directions given.
+(3) The CMA may vary or revoke any directions given.
 
 Gerry Sutcliffe
 
@@ -205,8 +210,34 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00005]: Footnote: Section 91(2) was repealed by Schedule 26 to the Enterprise Act 2002 but, pursuant to the saving provisions, it continues to apply in respect of monopoly references made before 20 June 2003 under section 50 of the Fair Trading Act 1973.
 
+[^c-5ec7873068156396519474c323460213]: Commencement: Art. 1 in force at 31.10.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2751/article/1)
+
+[^c-2f472d3313525b0b22e7387ee7023a44]: Commencement: Art. 2 in force at 31.10.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2751/article/1)
+
+[^c-f59c695629d7f1ee3041df89e87c7d95]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2005/2751/article/2) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/17/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
 [^f00006]: Footnote: OJ L 268, 18.10.2003, p.29.
+
+[^c-32cf4d7cecb697d3563f7b95b522a636]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2005/2751/article/2) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/17/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
 [^f00007]: Footnote: S.I. [2005/2745](https://www.legislation.gov.uk/uksi/2005/2745)
 
 [^f00008]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
+
+[^c-f1cda4fdb976d2220161f3bbba811799]: Commencement: Art. 3 in force at 31.10.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2751/article/1)
+
+[^c-b2bd12edeaf5a070996ce19578a07ba7]: Commencement: Art. 4 in force at 31.10.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2751/article/1)
+
+[^c-b8d6a7003c40de667cd3cf7f548a405c]: Commencement: Art. 5 in force at 31.10.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2751/article/1)
+
+[^c-d3f60c70b4507aab54ef937896bf83eb]: Commencement: Art. 6 in force at 31.10.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2751/article/1)
+
+[^c-bfc7d5a5cfa30c4e4fc64598a73912f4]: Commencement: Art. 7 in force at 31.10.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2751/article/1)
+
+[^c-87653a6b13eb32919572890a135e56c2]: Textual amendment: Word in [art. 7](https://www.legislation.gov.uk/uksi/2005/2751/article/7) heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/17/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^c-2efbd355b53c148d73167288d196b88d]: Textual amendment: Word in [art. 7(1)](https://www.legislation.gov.uk/uksi/2005/2751/article/7/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/17/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^c-cbc0b1ecd6f7abe360e84dd709ac06a2]: Commencement: Art. 8 in force at 31.10.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2751/article/1)
+
+[^c-e0888cb1f47ea3540d9a410442c9a22a]: Textual amendment: Word in [art. 8(1)](https://www.legislation.gov.uk/uksi/2005/2751/article/8/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2751/article/8/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 17(4)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/17/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))

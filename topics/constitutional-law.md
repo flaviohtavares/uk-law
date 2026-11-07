@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Interpretation and Legislative Reform (Scotland) Act 2010](../scotland/acts/2010/10-interpretation-and-legislative-reform-scotland-act-2010.md) — 5 regulations on this topic made under it
 - [Wales Act 2017](../uk-parliament/acts/public/2017/4-wales-act-2017/README.md) *(changes pending)* — 5 regulations on this topic made under it
 - [Northern Ireland (Monitoring Commission etc.) Act 2003](../uk-parliament/acts/public/2003/25-northern-ireland-monitoring-commission-etc-act-2003.md) — 3 regulations on this topic made under it
-- [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021](../scotland/acts/2021/4-uk-withdrawal-from-the-european-union-continuity-scotland-act-2021.md) *(changes pending)* — 3 regulations on this topic made under it
+- [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021](../scotland/acts/2021/4-uk-withdrawal-from-the-european-union-continuity-scotland-act-2021.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
@@ -147,7 +147,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2019](../wales/regulations/2019/1000-1499/1483-the-government-of-wales-act-2006-budget-motions-and-designated-bodies-amendment.md) *(as originally made)*
 - [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019](../uk-parliament/regulations/2019/0500-0999/777-the-national-health-service-cross-border-healthcare-and-miscellaneous-amendments.md)
 - [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2019](../uk-parliament/regulations/2019/0500-0999/911-the-regulatory-reform-scotland-act-2014-consequential-modifications-order-2019.md) *(as originally made)*
-- [The Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) Order 2019](../uk-parliament/regulations/2019/0000-0499/183-the-scotland-act-1998-specification-of-functions-and-transfer-of-property-etc-or.md) *(as originally made)*
+- [The Scotland Act 1998 (Specification of Functions and Transfer of Property etc. ) Order 2019](../uk-parliament/regulations/2019/0000-0499/183-the-scotland-act-1998-specification-of-functions-and-transfer-of-property-etc-or.md) *(changes pending)*
 - [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2019](../uk-parliament/regulations/2019/0500-0999/964-the-scotland-act-1998-transfer-of-functions-to-the-scottish-ministers-etc-order.md) *(as originally made)*
 - [The Scotland Act 2016 (Transitional) (Amendment) Regulations 2019](../uk-parliament/regulations/2019/1000-1499/1439-the-scotland-act-2016-transitional-amendment-regulations-2019.md) *(as originally made)*
 - [The Social Security (Scotland) Act 2018 (Funeral Expense Assistance and Early Years Assistance) (Consequential Modifications and Savings) Order 2019](../uk-parliament/regulations/2019/1000-1499/1060-the-social-security-scotland-act-2018-funeral-expense-assistance-and-early-years.md) *(as originally made)*

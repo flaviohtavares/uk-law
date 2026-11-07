@@ -124,7 +124,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Community Restrictions](community-restrictions.md) | 0 | 5 |
 | [Companies](companies.md) | 12 | 481 |
 | [Compensation](compensation.md) | 0 | 8 |
-| [Competition](competition.md) | 5 | 172 |
+| [Competition](competition.md) | 4 | 168 |
 | [Conservation of Sea Fish](conservation-of-sea-fish.md) | 0 | 17 |
 | [Constabulary, Ireland](constabulary-ireland.md) | 0 | 7 |
 | [Constitutional Law](constitutional-law.md) | 10 | 472 |
@@ -133,7 +133,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Consular Relations](consular-relations.md) | 1 | 21 |
 | [Consular Rights and Privileges](consular-rights-and-privileges.md) | 1 | 11 |
 | [Consultant Lobbying](consultant-lobbying.md) | 1 | 5 |
-| [Consumer Credit](consumer-credit.md) | 2 | 106 |
+| [Consumer Credit](consumer-credit.md) | 2 | 105 |
 | [Consumer Protection](consumer-protection.md) | 11 | 365 |
 | [Contamination of Food](contamination-of-food.md) | 0 | 20 |
 | [Continental Shelf](continental-shelf.md) | 1 | 12 |
@@ -188,9 +188,9 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Dogs](dogs.md) | 4 | 47 |
 | [Domestic Abuse](domestic-abuse.md) | 1 | 23 |
 | [Drainage](drainage.md) | 0 | 4 |
-| [Ecclesiastical Law](ecclesiastical-law.md) | 19 | 225 |
+| [Ecclesiastical Law](ecclesiastical-law.md) | 19 | 222 |
 | [Economic Development](economic-development.md) | 0 | 5 |
-| [Education](education/README.md) | 76 | 4653 |
+| [Education](education/README.md) | 76 | 4651 |
 | [Electoral Commission](electoral-commission.md) | 0 | 15 |
 | [Electricity](electricity.md) | 12 | 554 |
 | [Electromagnetic Compatibility](electromagnetic-compatibility.md) | 0 | 22 |
@@ -220,7 +220,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [European Union](european-union.md) | 0 | 26 |
 | [Evidence](evidence.md) | 7 | 91 |
 | [Exchequer](exchequer.md) | 2 | 6 |
-| [Excise](excise.md) | 5 | 178 |
+| [Excise](excise.md) | 5 | 176 |
 | [Exiting the European Union](exiting-the-european-union/README.md) | 7 | 1059 |
 | [Explosives](explosives.md) | 0 | 8 |
 | [Export and Investment Guarantees](export-and-investment-guarantees.md) | 1 | 7 |
@@ -291,7 +291,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Human Rights](human-rights.md) | 3 | 33 |
 | [Human Tissue](human-tissue.md) | 4 | 51 |
 | [Identity Cards](identity-cards.md) | 0 | 16 |
-| [Immigration](immigration.md) | 18 | 609 |
+| [Immigration](immigration.md) | 18 | 608 |
 | [Immigration and Asylum](immigration-and-asylum.md) | 3 | 40 |
 | [Income Tax](income-tax/README.md) | 43 | 1672 |
 | [Individuals](individuals.md) | 0 | 5 |
@@ -388,7 +388,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Ministers of the Crown](ministers-of-the-crown.md) | 1 | 129 |
 | [Mobile Homes](mobile-homes.md) | 4 | 26 |
 | [Modern Slavery](modern-slavery.md) | 1 | 14 |
-| [Monopolies and Mergers](monopolies-and-mergers.md) | 1 | 45 |
+| [Monopolies and Mergers](monopolies-and-mergers.md) | 1 | 44 |
 | [Moveable Transactions](moveable-transactions.md) | 1 | 5 |
 | [Museums and Galleries](museums-and-galleries.md) | 3 | 23 |
 | [National Assistance](national-assistance.md) | 0 | 7 |
@@ -492,7 +492,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Radioactive Substances](radioactive-substances.md) | 0 | 12 |
 | [Railways](railways.md) | 0 | 10 |
 | [Rates](rates.md) | 2 | 170 |
-| [Rating and Valuation](rating-and-valuation.md) | 15 | 955 |
+| [Rating and Valuation](rating-and-valuation.md) | 15 | 956 |
 | [Recovery of Taxes](recovery-of-taxes.md) | 0 | 12 |
 | [Redress Scheme](redress-scheme.md) | 1 | 10 |
 | [Referendums](referendums.md) | 1 | 20 |
@@ -519,7 +519,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [River](river.md) | 4 | 157 |
 | [River, England and Wales River](river-england-and-wales-river.md) | 0 | 6 |
 | [Road and Railway Transport](road-and-railway-transport.md) | 0 | 30 |
-| [Road Traffic](road-traffic/README.md) | 29 | 2572 |
+| [Road Traffic](road-traffic/README.md) | 29 | 2571 |
 | [Road Traffic and Vehicles](road-traffic-and-vehicles.md) | 7 | 479 |
 | [Roads](roads.md) | 3 | 63 |
 | [Roads and Bridges](roads-and-bridges.md) | 2 | 85 |
@@ -556,7 +556,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Smallholdings and Allotments](smallholdings-and-allotments.md) | 0 | 6 |
 | [Social Care](social-care.md) | 18 | 628 |
 | [Social Partnership](social-partnership.md) | 1 | 5 |
-| [Social Security](social-security/README.md) | 70 | 3781 |
+| [Social Security](social-security/README.md) | 70 | 3780 |
 | [Social Services](social-services.md) | 1 | 48 |
 | [Social Work](social-work.md) | 1 | 33 |
 | [Soft Drinks Industry Levy](soft-drinks-industry-levy.md) | 1 | 6 |
@@ -565,9 +565,9 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Special Roads](special-roads.md) | 0 | 53 |
 | [Sports Grounds](sports-grounds.md) | 1 | 12 |
 | [Sports Grounds and Sporting Events](sports-grounds-and-sporting-events.md) | 9 | 169 |
-| [Stamp Duty](stamp-duty.md) | 1 | 55 |
+| [Stamp Duty](stamp-duty.md) | 1 | 54 |
 | [Stamp Duty Land Tax](stamp-duty-land-tax.md) | 0 | 54 |
-| [Stamp Duty Reserve Tax](stamp-duty-reserve-tax.md) | 1 | 56 |
+| [Stamp Duty Reserve Tax](stamp-duty-reserve-tax.md) | 1 | 55 |
 | [Statistics Board](statistics-board.md) | 1 | 9 |
 | [Statistics of Trade](statistics-of-trade.md) | 1 | 26 |
 | [Statutory Maternity Pay](statutory-maternity-pay.md) | 1 | 21 |
@@ -584,7 +584,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Supreme Court of Judicature](supreme-court-of-judicature.md) | 0 | 42 |
 | [Supreme Court of the](supreme-court-of-the.md) | 0 | 20 |
 | [Tax Credits](tax-credits.md) | 2 | 153 |
-| [Taxes](taxes.md) | 13 | 446 |
+| [Taxes](taxes.md) | 13 | 445 |
 | [Telecommunications](telecommunications.md) | 2 | 463 |
 | [Telegraphs](telegraphs.md) | 0 | 117 |
 | [Tenements](tenements.md) | 1 | 8 |

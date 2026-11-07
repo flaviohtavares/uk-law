@@ -3,7 +3,7 @@ title: The Housing Benefit (Persons who have attained the qualifying age for sta
 act: The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
 section: 53D
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2006/214/section/53D
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006, section 53D
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
 ## 53D. Relationship between extended payment (qualifying contributory benefits) and entitlement to housing benefit under the general conditions of entitlement[^c-5ce29de3cbe5ef0645fc85097d2c2d89]
 

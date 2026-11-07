@@ -3,16 +3,16 @@ title: The Plant Health (Official Controls and Miscellaneous Provisions) Regulat
 id: nisr/2020/293
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2020-11-30'
-text_date: '2023-10-01'
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2020/293
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2020/293/pdfs/nisrem_20200293_en.pdf
 - http://www.legislation.gov.uk/nisr/2020/293/pdfs/nisr_20200293_en.pdf
 - http://www.legislation.gov.uk/nisr/2020/293/data.pdf
-pending_changes: 49
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
 
-> **Warning: changes not yet applied to this text (49).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/nisr/2020/293
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 

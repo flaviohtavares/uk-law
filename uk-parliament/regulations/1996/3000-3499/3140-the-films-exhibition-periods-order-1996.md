@@ -3,13 +3,13 @@ title: The Films (Exhibition Periods) Order 1996
 id: uksi/1996/3140
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '1996-12-12'
-text_date: null
-extent: null
+text_date: '1997-03-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1996/3140
 pdf_urls:
-- http://www.legislation.gov.uk/uksi/1996/3140/made/data.pdf
+- http://www.legislation.gov.uk/uksi/1996/3140/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # The Films (Exhibition Periods) Order 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 1997-03-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 1996 No. 3140
 
@@ -44,9 +48,9 @@ And whereas the Secretary of State has considered the representations made to hi
 
 Now, therefore, the Secretary of State, being the appropriate Minister within the meaning of section 56 of the said Act, in exercise of the powers conferred by sections 56(2) and 90(2) of, and paragraph 5 of Schedule 8 to, the said Act, and for the purpose of remedying or preventing adverse effects specified in a report of the Monopolies and Mergers Commission entitled “Films: A report on the supply of films for exhibition in cinemas in the UK.”[^f00002] published in October 1994 hereby makes the following Order:—
 
-**1.** This Order may be cited as the Films (Exhibition Periods) Order 1996 and shall come into force on 1st March 1997.
+**1.**[^c-140349cfaa83fa61eecb0a9fab45862e] This Order may be cited as the Films (Exhibition Periods) Order 1996 and shall come into force on 1st March 1997.
 
-**2.** (1) In this Order—
+**2.**[^c-c6a0745d2094074aa8c62466768934fb] (1) In this Order—
 
 - “cinema” means any premises in the United Kingdom which are used for the exhibition of films and which require a licence or consent for that purpose under section 1 or 2 of the Cinemas Act 1985[^f00003];
 - “the day of general release”, in relation to any film, shall mean—
@@ -61,7 +65,7 @@ Now, therefore, the Secretary of State, being the appropriate Minister within th
 
 (2) If an exhibition of a film begins but is not completed on any day, the film shall be treated, for the purposes of this Order, as having been exhibited on the day on which the exhibition begins.
 
-**3.** It shall be unlawful for a distributor to require, as a condition of the supply of a film to an exhibitor for exhibition in a cinema on or after the day of general release of that film, that the exhibitor should exhibit the film for a period longer than—
+**3.**[^c-1b8e5077d762419fc2ccb94907fe4b13] It shall be unlawful for a distributor to require, as a condition of the supply of a film to an exhibitor for exhibition in a cinema on or after the day of general release of that film, that the exhibitor should exhibit the film for a period longer than—
 
 - (a) in the case of the exhibition of a film for a period commencing within six weeks of the day of general release of the film, two weeks; or
 - (b) in any other case, one week.
@@ -92,4 +96,10 @@ Copies of the report of the Monopolies and Mergers Commission (Cmnd 2673) may be
 
 [^f00002]: Footnote: Cmnd 2673.
 
+[^c-140349cfaa83fa61eecb0a9fab45862e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1996/3140/article/1) in force at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/3140/article/1)
+
+[^c-c6a0745d2094074aa8c62466768934fb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1996/3140/article/2) in force at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/3140/article/1)
+
 [^f00003]: Footnote: [1985 c. 13](https://www.legislation.gov.uk/ukpga/1985/13).
+
+[^c-1b8e5077d762419fc2ccb94907fe4b13]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1996/3140/article/3) in force at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/3140/article/1)

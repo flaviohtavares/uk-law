@@ -2,8 +2,8 @@
 title: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 16
 act: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
 section: '16'
-status: revised-with-pending-changes
-text_date: '2023-10-01'
+status: revised
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2020/293/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 16
 
-> **Warning: changes not yet applied to this text (49).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/nisr/2020/293
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) Paragraph (1) does not apply to any premises which are used wholly or mainly as a private dwelling unless 24 hours’ notice has been given to the occupier.
 
-(4) A plant health inspector may be accompanied by such other persons (including representatives of the European Commission) and bring onto the premises such equipment and vehicles as the inspector considers necessary.
+(4) A plant health inspector may be accompanied by such other persons [^c-0fdb813d250b0523edbb855d80ff8763]... and bring onto the premises such equipment and vehicles as the inspector considers necessary.
 
 (5) A person accompanying a plant health inspector under paragraph (4) may—
 
@@ -46,3 +46,5 @@ summary: ''
 ## Annotations
 
 [^c-7f6a4afc1f52fa868d174055a96b5e02]: Commencement: Reg. 16 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+
+[^c-0fdb813d250b0523edbb855d80ff8763]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/nisr/2020/293/regulation/16/4) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/8)

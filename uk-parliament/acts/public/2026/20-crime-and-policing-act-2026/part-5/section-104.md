@@ -2,8 +2,8 @@
 title: Crime and Policing Act 2026, section 104
 act: Crime and Policing Act 2026
 section: '104'
-status: not-yet-in-force
-text_date: '2026-10-29'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/104
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Crime and Policing Act 2026, section 104
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (33).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -20,11 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
-
 *Extent: E+W+N.I.*
 
-(1) After section 67 of the [Criminal Justice and Immigration Act 2008](https://www.legislation.gov.uk/ukpga/2008/4/contents) insert—
+(1)[^c-61f3d1ef871d268f4f89359b563d78d2] After section 67 of the [Criminal Justice and Immigration Act 2008](https://www.legislation.gov.uk/ukpga/2008/4/contents) insert—
 
 > **67A. Possession or publication of pornographic images of strangulation or suffocation**
 >
@@ -90,11 +88,11 @@ summary: ''
 
 *Extent: E+W+N.I.*
 
-(2) In section 68 of that Act (special rules relating to providers of information society services) for “section 63” substitute “sections 63, 67A”.
+(2)[^c-61f3d1ef871d268f4f89359b563d78d2] In section 68 of that Act (special rules relating to providers of information society services) for “section 63” substitute “sections 63, 67A”.
 
 *Extent: E+W+N.I.*
 
-(3) In Schedule 14 to that Act (special rules relating to providers of information society services)—
+(3)[^c-61f3d1ef871d268f4f89359b563d78d2] In Schedule 14 to that Act (special rules relating to providers of information society services)—
 
 - (a) in paragraphs 3(1), 4(2) and 5(1) after “63” insert “, 67A”;
 - (b) in paragraph 5(2)—
@@ -103,11 +101,11 @@ summary: ''
 
 *Extent: E+W*
 
-(4) In Schedule 34A to the Criminal Justice Act 2003 (child sex offences for purposes of section 327A), after paragraph 13 insert—
+(4)[^c-20ab5b08253b937231fa3f46c094fba8] In Schedule 34A to the Criminal Justice Act 2003 (child sex offences for purposes of section 327A), after paragraph 13 insert—
 
 > **13ZA.** An offence under section 67A of that Act (possession or publication of pornographic images of strangulation or suffocation) in relation to an image showing a person under 18.
 
-(5) In Schedule 7 to the Online Safety Act 2023 (priority offences), in paragraph 29—
+(5)[^c-20ab5b08253b937231fa3f46c094fba8] In Schedule 7 to the Online Safety Act 2023 (priority offences), in paragraph 29—
 
 - (a) for “section 63” substitute “any of the following provisions”;
 - (b) for the words in brackets substitute
@@ -122,3 +120,7 @@ summary: ''
 ## Annotations
 
 [^c-18b64a9785664a726b42b85465adc120]: Commencement: S. 104 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(h)
+
+[^c-61f3d1ef871d268f4f89359b563d78d2]: Commencement: [S. 104(1)-(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/1) in force at 6.11.2026 for E.W. by [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/a)
+
+[^c-20ab5b08253b937231fa3f46c094fba8]: Commencement: [S. 104(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/5) in force at 6.11.2026 by [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/b)

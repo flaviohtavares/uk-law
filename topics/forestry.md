@@ -45,7 +45,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Forestry and Land Management (Scotland) Act 2018 (Commencement, Transitional and Saving Provisions) Regulations 2019](../scotland/regulations/2019/0000-0499/47-the-forestry-and-land-management-scotland-act-2018-commencement-transitional-and.md)
 - [The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019](../scotland/regulations/2019/0000-0499/125-the-forestry-and-land-management-scotland-act-2018-consequential-amendments-regu.md) *(as originally made)*
 - [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019](../uk-parliament/regulations/2019/0500-0999/734-the-forestry-and-land-management-scotland-act-2018-consequential-provisions-and.md) *(as originally made)*
-- [The Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) Order 2019](../uk-parliament/regulations/2019/0000-0499/183-the-scotland-act-1998-specification-of-functions-and-transfer-of-property-etc-or.md) *(as originally made)*
+- [The Scotland Act 1998 (Specification of Functions and Transfer of Property etc. ) Order 2019](../uk-parliament/regulations/2019/0000-0499/183-the-scotland-act-1998-specification-of-functions-and-transfer-of-property-etc-or.md) *(changes pending)*
 
 **2018**
 

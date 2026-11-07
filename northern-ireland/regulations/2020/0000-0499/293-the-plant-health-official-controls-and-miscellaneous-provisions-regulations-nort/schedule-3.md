@@ -2,8 +2,8 @@
 title: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, SCHEDULE 3
 act: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
 section: schedule-3
-status: revised-with-pending-changes
-text_date: '2023-10-01'
+status: revised
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2020/293/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (49).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/nisr/2020/293
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 
@@ -76,6 +76,60 @@ Regulation 40(1)(d) to (f)
 | Article 56(1) | Requires the operator of a relevant consignment to complete the relevant part of the CHED. |
 | Article 56(4) (as read with Article 1(1) of Commission Implementing Regulation (EU) 2019/1013 on the prior notification of consignments of certain categories of animals and goods entering the Union[^f00063] and regulation 9) | Requires the operator of a relevant consignment to give prior notification to the competent authorities of the border control post of arrival of the consignment before the physical arrival of the consignment in the Union. |
 
+### PART 2A — Commission Implementing Regulations etc.[^c-5130694d40961e3d9548924b57e2296c]
+
+In the following table any reference to an EU instrument is to be construed as a reference to that EU instrument as amended from time to time.
+
+<table>
+<thead>
+<tr><th>Provision of EU legislation</th><th>Subject matter</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(1)<br>O.J. No. L 323, 19.12.2018, pp. 10-15, as last amended by Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2026/0152">Regulation (EU) 2026/152</a> (O.J. No. L 2026/152, 23.1.2026).</td></tr>
+<tr><td colspan="2">(2)<br>O.J. No. L 321, 12.12.2019, pp. 99-103.</td></tr>
+<tr><td colspan="2">(3)<br>O.J. No. L 37, 10.2.2020, pp. 1–3, as last amended by Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2022/0680">Regulation (EU) 2022/680</a> (O.J. No. L 125, 28.4.2022, pp. 1-3).</td></tr>
+<tr><td colspan="2">(4)<br>O.J. No. L 269, 17.8.2020, pp. 2–39, as last amended by Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2025/2231">Regulation (EU) 2025/2231</a> (O.J. No. L 2025/2231, 4.11.2025).</td></tr>
+<tr><td colspan="2">(5)<br>O.J. No. L 275, 24.8.2020, pp. 5–10, as last amended by Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2025/1949">Regulation (EU) 2025/1949</a> (O.J. No. L 2025/1949, 30.9.2025).</td></tr>
+<tr><td colspan="2">(6)<br>O.J. No. L 185, 12.7.2022, pp. 12–26, as last amended by Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2024/2060">Regulation (EU) 2024/2060</a> (O.J. No. L 2024/2060, 31.7.2024).</td></tr>
+<tr><td colspan="2">(7)<br>O.J. No. L 185, 12.7.2022, pp. 27–46, as last amended by Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2024/2632">Regulation (EU) 2024/2632</a> (O.J. No. L 2024/2632, 9.10.2024).</td></tr>
+<tr><td colspan="2">(8)<br>O.J. No. L 185, 12.7.2022, pp. 47–64, as last amended by Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2024/2636">Regulation (EU) 2024/2636</a> (O.J. No. L 2024/2636, 9.10.24).</td></tr>
+<tr><td colspan="2">(9)<br>O.J. No. L 185, 12.7.2022, pp. 65–76, as last amended by Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2024/2382">Regulation (EU) 2024/2382</a> (O.J. No. L 2024/2382, 10.9.2024).</td></tr>
+<tr><td colspan="2">(10)<br>O.J. No. L 268, 14.10.2022, pp. 13–15, as last amended by Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2025/0356">Regulation (EU) 2025/356</a> (O.J. No. L 2025/356, 24.2.2025).</td></tr>
+<tr><td colspan="2">(11)<br>O.J. No. L 241, 29.9.2023, pp. 111–115.</td></tr>
+<tr><td colspan="2">(12)<br>O.J. No. L 2025/311, 17.2.2025.</td></tr>
+</tfoot>
+<tbody>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2018/2019">Regulation (EU) 2018/2019</a> of 18 December 2018 establishing a provisional list of high risk plants, plant products or other objects, within the meaning of Article 42 of <a href="https://www.legislation.gov.uk/european/regulation/2016/2031">Regulation (EU) 2016/2031</a><sup></sup>and a list of plants for which phytosanitary certificates are not required for introduction into the Union, within the meaning of Article 73 of that Regulation</th></tr>
+<tr><td>Article 1 and the Annex</td><td>Prohibits the introduction of certain plants, plant products and other objects into the Union territory.</td></tr>
+<tr><th colspan="2">Commission Delegated <a href="https://www.legislation.gov.uk/european/regulation/2019/2125">Regulation (EU) 2019/2125</a> of 10 October 2019 <sup></sup>supplementing <a href="https://www.legislation.gov.uk/european/regulation/2017/0625">Regulation (EU) 2017/625</a> of the European Parliament and of the Council <sup></sup>as regards rules concerning the performance of specific official controls of wood packaging material, notification of certain consignments and measures to be taken in cases of non-compliance</th></tr>
+<tr><td>Article 5(2)</td><td>Requires the operator to provide CHED details with any customs declaration.</td></tr>
+<tr><td>Article 6(1)</td><td>Requires the operator to destroy non-compliant wood packaging material when instructed by the Competent Authority.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2020/0178">Regulation (EU) 2020/178</a> of 31 January 2020 <sup></sup>on the presentation of information to passengers arriving from third countries and to clients of postal services and of certain professional operators concerning the prohibitions as regards the introduction of plants, plant products and other objects into the Union territory in accordance with <a href="https://www.legislation.gov.uk/european/regulation/2016/2031">Regulation (EU) 2016/2031</a> of the European Parliament and of the Council</th></tr>
+<tr><td>Article 1(2)</td><td>Requires professional operators to make available information concerning prohibitions and requirements for the introduction of plants, plant products and other objects into the Union territory to their clients.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2020/1201">Regulation (EU) 2020/1201</a> of 14 August 2020 <sup></sup>as regards measures to prevent the introduction into and the spread within the Union of Xylella fastidiosa (Wells et al.)</th></tr>
+<tr><td>Articles 19 to 23 and 25 to 30</td><td>Requires operators to move specified plants under specific conditions, identifies plants subject to derogation and outlines the use of plant passports, and the movement of host plants from PFAs in infected countries.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2020/1213">Regulation (EU) 2020/1213</a> of 21 August 2020 <sup></sup>concerning the phytosanitary measures for the introduction into the Union of certain plants, plant products and other objects which have been removed from the Annex to Implementing <a href="https://www.legislation.gov.uk/european/regulation/2018/2019">Regulation (EU) 2018/2019</a></th></tr>
+<tr><td>Article 2 and the Annex</td><td>Requires operators to comply with specified phytosanitary measures for the introduction from third countries into the Union of certain plants, plant products and other objects.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2022/1192">Regulation (EU) 2022/1192</a> of 11 July 2022 <sup></sup>establishing measures to eradicate and prevent the spread of Globodera pallida (Stone) Behrens and Globodera rostochiensis (Wollenweber) Behrens</th></tr>
+<tr><td>Article 10(1)</td><td>Requires professional operators to notify Competent Authorities of symptoms of the specified pest on a resistant potato variety.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2022/1193">Regulation (EU) 2022/1193</a> of 11 July 2022 <sup></sup>establishing measures to eradicate and prevent the spread of Ralstonia solanacearum (Smith 1896) Yabuuchi et al. 1996 emend. Safni et al. 2014</th></tr>
+<tr><td>Article 6 and Annex 5</td><td>Prohibits operators from planting specified plants designated as infected or probably infected by specified pests, and where specified plants have been planted before designated as infected or probably infected, requires destruction of the planted material. Any machinery, vehicle, vessel, store, or units thereof, and any other objects including packaging material, designated as infected or probably infected, must be destroyed or cleaned and disinfected.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2022/1194">Regulation (EU) 2022/1194</a> of 11 July 2022 <sup></sup>establishing measures to eradicate and prevent the spread of Clavibacter sepedonicus (Spieckermann &amp; Kotthoff 1914) Nouioui et al. 2018</th></tr>
+<tr><td>Article 6 and Annex 5</td><td>Prohibits operators from planting specified plants designated as infected or probably infected by specified pests, and where specified plants have been planted before designated as infected or probably infected, requires destruction of the planted material. Any machinery, vehicle, vessel, store, or units thereof, and any other objects including packaging material, designated as infected or probably infected, must be destroyed or cleaned and disinfected.</td></tr>
+<tr><td>Article 8(1)</td><td>Requires operators to ensure tubers of specified plants, other than those for planting, originating in a highly infected area, only move out of that area to other areas of the Union territory if they have a plant passport and originate in a place of production registered and supervised by Competent Authorities and officially recognized to be free from the pest.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2022/1195">Regulation (EU) 2022/1195</a><sup></sup>of 11 July 2022 establishing measures to eradicate and prevent the spread of Synchytrium endobioticum (Schilbersky) Percival</th></tr>
+<tr><td>Article 8(1)</td><td>Requires professional operators to notify Competent Authorities of symptoms of the specified pest on a resistant potato variety.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2022/1941">Regulation (EU) 2022/1941</a> of 13 October 2022 on the prohibition of introduction, movement, holding, multiplication or release of certain pests pursuant to Article 30(1) of <a href="https://www.legislation.gov.uk/european/regulation/2016/2031">Regulation (EU) 2016/2031</a> of the European Parliament and of the Council</th></tr>
+<tr><td>Article 1 and the Annex</td><td>Prohibits the introduction into, or movement within, or holding, multiplying or releasing of certain pests into the Union territory.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2023/2091">Regulation (EU) 2023/2091</a> of 28 September 2023 <sup></sup>laying down rules for the application of <a href="https://www.legislation.gov.uk/european/regulation/2023/1231">Regulation (EU) 2023/1231</a> of the European Parliament and of the Council <sup></sup>as regards the requirements for the entry into Northern Ireland from other parts of the United Kingdom of consignments of tubers of Solanum tuberosum L. for planting (seed potatoes), their use in Northern Ireland, and the model form of the plant health label for seed potatoes</th></tr>
+<tr><td>Article 2(a) to (e) and (g), Article 3 and the Annex</td><td>Requires professional operators to comply with certain conditions for the entry of seed potatoes to Northern Ireland.</td></tr>
+<tr><th colspan="2">Commission Implementing <a href="https://www.legislation.gov.uk/european/regulation/2025/0311">Regulation (EU) 2025/311</a> of 14 February 2025 <sup></sup>on measures to eradicate and to prevent the establishment and spread within the Union territory of fruit flies of the species Bactrocera dorsalis (Hendel), Bactrocera latifrons (Hendel) and Bactrocera zonata (Saunders)</th></tr>
+<tr><td>Article 10</td><td>Requires professional operators to comply with certain conditions to prevent the spread of the specified pest</td></tr>
+</tbody>
+</table>
+
+[^f01000][^f01001][^f01002][^f01003][^f01004][^f01005][^f01006][^f01007][^f01008][^f01009][^f01010][^f01011]
+
 ### PART 3 — Other EU legislation[^c-506a0b6be51bd7eb3b9278507e25e3c2]
 
 <table>
@@ -128,6 +182,56 @@ Regulation 40(1)(d) to (f)
 [^f00062]: Footnote: O.J. No. L 321, 12.12.2019, p. 45.
 
 [^f00063]: Footnote: O.J. No. 165, 21.6.2019, p. 8.
+
+[^c-5130694d40961e3d9548924b57e2296c]: Textual amendment: [Sch. 3 Pt. 2A](https://www.legislation.gov.uk/nisr/2020/293/schedule/3/part/2A) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(16)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/16)
+
+[^f01000]: Footnote: (1)[^c-5130694d40961e3d9548924b57e2296c]
+
+    O.J. No. L 323, 19.12.2018, pp. 10-15, as last amended by Commission Implementing [Regulation (EU) 2026/152](https://www.legislation.gov.uk/european/regulation/2026/0152) (O.J. No. L 2026/152, 23.1.2026).
+
+[^f01001]: Footnote: (2)
+
+    O.J. No. L 321, 12.12.2019, pp. 99-103.
+
+[^f01002]: Footnote: (3)
+
+    O.J. No. L 37, 10.2.2020, pp. 1–3, as last amended by Commission Implementing [Regulation (EU) 2022/680](https://www.legislation.gov.uk/european/regulation/2022/0680) (O.J. No. L 125, 28.4.2022, pp. 1-3).
+
+[^f01003]: Footnote: (4)
+
+    O.J. No. L 269, 17.8.2020, pp. 2–39, as last amended by Commission Implementing [Regulation (EU) 2025/2231](https://www.legislation.gov.uk/european/regulation/2025/2231) (O.J. No. L 2025/2231, 4.11.2025).
+
+[^f01004]: Footnote: (5)
+
+    O.J. No. L 275, 24.8.2020, pp. 5–10, as last amended by Commission Implementing [Regulation (EU) 2025/1949](https://www.legislation.gov.uk/european/regulation/2025/1949) (O.J. No. L 2025/1949, 30.9.2025).
+
+[^f01005]: Footnote: (6)
+
+    O.J. No. L 185, 12.7.2022, pp. 12–26, as last amended by Commission Implementing [Regulation (EU) 2024/2060](https://www.legislation.gov.uk/european/regulation/2024/2060) (O.J. No. L 2024/2060, 31.7.2024).
+
+[^f01006]: Footnote: (7)
+
+    O.J. No. L 185, 12.7.2022, pp. 27–46, as last amended by Commission Implementing [Regulation (EU) 2024/2632](https://www.legislation.gov.uk/european/regulation/2024/2632) (O.J. No. L 2024/2632, 9.10.2024).
+
+[^f01007]: Footnote: (8)
+
+    O.J. No. L 185, 12.7.2022, pp. 47–64, as last amended by Commission Implementing [Regulation (EU) 2024/2636](https://www.legislation.gov.uk/european/regulation/2024/2636) (O.J. No. L 2024/2636, 9.10.24).
+
+[^f01008]: Footnote: (9)
+
+    O.J. No. L 185, 12.7.2022, pp. 65–76, as last amended by Commission Implementing [Regulation (EU) 2024/2382](https://www.legislation.gov.uk/european/regulation/2024/2382) (O.J. No. L 2024/2382, 10.9.2024).
+
+[^f01009]: Footnote: (10)
+
+    O.J. No. L 268, 14.10.2022, pp. 13–15, as last amended by Commission Implementing [Regulation (EU) 2025/356](https://www.legislation.gov.uk/european/regulation/2025/0356) (O.J. No. L 2025/356, 24.2.2025).
+
+[^f01010]: Footnote: (11)
+
+    O.J. No. L 241, 29.9.2023, pp. 111–115.
+
+[^f01011]: Footnote: (12)
+
+    O.J. No. L 2025/311, 17.2.2025.
 
 [^c-506a0b6be51bd7eb3b9278507e25e3c2]: Commencement: Sch. 3 Pt. 3 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 

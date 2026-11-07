@@ -3,7 +3,7 @@ title: Crime and Policing Act 2026, section 146
 act: Crime and Policing Act 2026
 section: '146'
 status: not-yet-in-force
-text_date: '2026-10-29'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/146
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

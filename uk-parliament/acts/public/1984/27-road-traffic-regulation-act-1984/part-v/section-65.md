@@ -3,7 +3,7 @@ title: Road Traffic Regulation Act 1984, section 65
 act: Road Traffic Regulation Act 1984
 section: '65'
 status: revised-with-pending-changes
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1984/27/section/65
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Road Traffic Regulation Act 1984, section 65
 
-> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Powers and duties of traffic authorities as to placing of traffic signs.[^c13556751][^c13556761][^c20586751][^c-86493fd68d3a10e809e9040387c39105][^c-c5633857be34c493c2d6367754452445][^c-eb2f4828e43d127d9103c147386fdc66][^c-783ac377a03aa238b54c47052c4bd921][^c-45662d5c09a32e9a8fe4e5272bab2615][^c-0da8a61866e4054d0b6748e2308ec0b7][^c-7894898955119164e5bf2257d092b234][^c-71c4c54a09d1b182163a747adc2dfcc9][^c-d4e008c69638a9265057c84a82c8c443][^c-53cda9df9e26874f269a6f73eae3f9dc][^c-d17d678e23a5f8b21c56ea8dbeb8d004][^c-d95bf4a41884943e611cb91104efcf40][^c-60f681c19dcf8b6a26e64b821e398788][^c-f6f22991b2426693bd17b407b9b2c5ca][^c-08941e18cf3adce31f2b5e5dba89011e][^c-bd5d2c49d21a2bcdfb3d48306292b23f][^c-1a33f88f8503abfbab28fe40665f01e2][^c-76d53f7a1f2aea410e4eeb9939dcd8c6][^c-7318551e1ada329c002a3553f940ddba][^c-7eef2304db8e81a2915ec9a0c5acd6d7][^c-b8f5eee3bd6e1fb832832339ce1b1855]
+## 65. Powers and duties of traffic authorities as to placing of traffic signs.[^c13556751][^c13556761][^c20586751][^c-86493fd68d3a10e809e9040387c39105][^c-c5633857be34c493c2d6367754452445][^c-eb2f4828e43d127d9103c147386fdc66][^c-783ac377a03aa238b54c47052c4bd921][^c-45662d5c09a32e9a8fe4e5272bab2615][^c-0da8a61866e4054d0b6748e2308ec0b7][^c-7894898955119164e5bf2257d092b234][^c-71c4c54a09d1b182163a747adc2dfcc9][^c-d4e008c69638a9265057c84a82c8c443][^c-53cda9df9e26874f269a6f73eae3f9dc][^c-d17d678e23a5f8b21c56ea8dbeb8d004][^c-d95bf4a41884943e611cb91104efcf40][^c-60f681c19dcf8b6a26e64b821e398788][^c-f6f22991b2426693bd17b407b9b2c5ca][^c-08941e18cf3adce31f2b5e5dba89011e][^c-bd5d2c49d21a2bcdfb3d48306292b23f][^c-1a33f88f8503abfbab28fe40665f01e2][^c-76d53f7a1f2aea410e4eeb9939dcd8c6][^c-7318551e1ada329c002a3553f940ddba][^c-7eef2304db8e81a2915ec9a0c5acd6d7][^c-3cfc5dbedc81a80c61966849b1b4c517][^c-957c623d5ef8e64fdb97b427a3ed1f5c][^c-b8f5eee3bd6e1fb832832339ce1b1855]
 
 *Extent: E+W+S*
 
@@ -131,6 +131,10 @@ with respect to the exercise of their power under subsection (1) above to permit
 [^c-7318551e1ada329c002a3553f940ddba]: Modification: [S. 65](https://www.legislation.gov.uk/ukpga/1984/27/section/65) modified (30.7.2026) by [The One Earth Solar Farm Order 2026 (S.I. 2026/934)](https://www.legislation.gov.uk/uksi/2026/934), [arts. 1](https://www.legislation.gov.uk/uksi/2026/934/article/1), [16(2)](https://www.legislation.gov.uk/uksi/2026/934/article/16/2) (with [art. 47](https://www.legislation.gov.uk/uksi/2026/934/article/47))
 
 [^c-7eef2304db8e81a2915ec9a0c5acd6d7]: Modification: [S. 65](https://www.legislation.gov.uk/ukpga/1984/27/section/65) modified (14.9.2026) by [The Beacon Fen Energy Park Order 2026 (S.I. 2026/1025)](https://www.legislation.gov.uk/uksi/2026/1025), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1025/article/1), [19(1)](https://www.legislation.gov.uk/uksi/2026/1025/article/19/1) (with [art. 39](https://www.legislation.gov.uk/uksi/2026/1025/article/39), [Sch. 11 para. 131](https://www.legislation.gov.uk/uksi/2026/1025/schedule/11/paragraph/131))
+
+[^c-3cfc5dbedc81a80c61966849b1b4c517]: Modification: [S. 65](https://www.legislation.gov.uk/ukpga/1984/27/section/65) modified (30.10.2026) by [The Green Hill Solar Farm Order 2026 (S.I. 2026/1074)](https://www.legislation.gov.uk/uksi/2026/1074), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1074/article/1), [16(2)](https://www.legislation.gov.uk/uksi/2026/1074/article/16/2) (with [Sch. 15](https://www.legislation.gov.uk/uksi/2026/1074/schedule/15))
+
+[^c-957c623d5ef8e64fdb97b427a3ed1f5c]: Modification: [S. 65](https://www.legislation.gov.uk/ukpga/1984/27/section/65) modified (31.10.2026) by [The Steeple Renewables Project Order 2026 (S.I. 2026/1086)](https://www.legislation.gov.uk/uksi/2026/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1086/article/1), [14(1)](https://www.legislation.gov.uk/uksi/2026/1086/article/14/1) (with [Sch. 10](https://www.legislation.gov.uk/uksi/2026/1086/schedule/10))
 
 [^c-b8f5eee3bd6e1fb832832339ce1b1855]: Textual amendment: Word in s. 65 heading substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 82(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/82/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 

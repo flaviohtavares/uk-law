@@ -2,8 +2,8 @@
 title: Leasehold and Freehold Reform Act 2024, section 54
 act: Leasehold and Freehold Reform Act 2024
 section: '54'
-status: not-yet-in-force
-text_date: '2025-03-03'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, section 54
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 
-## 54. Notice of future service charge demands[^c-39a8305fe41a969e49815fc4a1dd0539]
+## 54. Notice of future service charge demands[^c-39a8305fe41a969e49815fc4a1dd0539][^c-c454fa36eec02b199206782eb5e1f344]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 In section 20B of the LTA 1985 (time limit on making service charge demands), in subsection (2), for the words from “notified in writing” to the end substitute “given a future demand notice in respect of those costs.
 
@@ -68,3 +66,5 @@ In section 20B of the LTA 1985 (time limit on making service charge demands), in
 ## Annotations
 
 [^c-39a8305fe41a969e49815fc4a1dd0539]: Commencement: S. 54 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-c454fa36eec02b199206782eb5e1f344]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2024/22/section/54) in force at 6.11.2026 for specified purposes for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/a)

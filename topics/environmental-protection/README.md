@@ -35,7 +35,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023](../../wales/acts/2023/2-the-environmental-protection-single-use-plastic-products-wales-act-2023.md) *(changes pending)* — 3 regulations on this topic made under it
 - [The Waste (Amendment) (Northern Ireland) Order 2007](../../northern-ireland/orders-in-council/2007/611-the-waste-amendment-northern-ireland-order-2007.md) *(changes pending)* — 3 regulations on this topic made under it
 - [The Water (Northern Ireland) Order 1999](../../northern-ireland/orders-in-council/1999/662-the-water-northern-ireland-order-1999/README.md) — 3 regulations on this topic made under it
-- [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021](../../scotland/acts/2021/4-uk-withdrawal-from-the-european-union-continuity-scotland-act-2021.md) *(changes pending)* — 3 regulations on this topic made under it
+- [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021](../../scotland/acts/2021/4-uk-withdrawal-from-the-european-union-continuity-scotland-act-2021.md) — 3 regulations on this topic made under it
 
 ## Regulations
 

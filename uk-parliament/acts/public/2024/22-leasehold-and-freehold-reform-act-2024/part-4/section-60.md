@@ -2,8 +2,8 @@
 title: Leasehold and Freehold Reform Act 2024, section 60
 act: Leasehold and Freehold Reform Act 2024
 section: '60'
-status: not-yet-in-force
-text_date: '2025-03-03'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/60
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, section 60
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 
@@ -20,11 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-**Not yet in force.**
+(1)[^c-d4999529576c898e08196647ab13195c] The Schedule to the LTA 1985 (rights in relation to insurance) is amended as follows.
 
-(1) The Schedule to the LTA 1985 (rights in relation to insurance) is amended as follows.
-
-(2) After paragraph 1 insert—
+(2)[^c-d4999529576c898e08196647ab13195c] After paragraph 1 insert—
 
 > **1A. Duty to provide information**
 >
@@ -140,3 +138,5 @@ summary: ''
 ## Annotations
 
 [^c-f36ac119993b50fceec0f41958e4141f]: Commencement: S. 60 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-d4999529576c898e08196647ab13195c]: Commencement: [S. 60(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/60/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/22/section/60/2) in force at 6.11.2026 for specified purposes for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/f)

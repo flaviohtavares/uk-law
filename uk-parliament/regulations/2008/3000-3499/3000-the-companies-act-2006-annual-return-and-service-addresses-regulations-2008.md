@@ -3,16 +3,16 @@ title: The Companies Act 2006 (Annual Return and Service Addresses) Regulations 
 id: uksi/2008/3000
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-11-18'
-text_date: null
-extent: null
+text_date: '2011-10-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3000
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3000/pdfs/uksiem_20083000_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3000/pdfs/uksi_20083000_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3000/made/data.pdf
-pending_changes: 5
+- http://www.legislation.gov.uk/uksi/2008/3000/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Companies Act 2006 (Annual Return and Service Addresses) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2011-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 3000
 
@@ -44,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-3620639094a2167c1cb7f3b0dcb561d3]
 
 (1) These Regulations may be cited as the Companies Act 2006 (Annual Return and Service Addresses) Regulations 2008 and come into force on 1st October 2009.
 
@@ -52,7 +56,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 2 — ANNUAL RETURNS
 
-### 2. Required particulars of directors and secretaries
+### 2. Required particulars of directors and secretaries[^c-e17a1f7fbe236b3cd8897f650fb2322f]
 
 (1) In section 855(1)(c) of the Companies Act 2006 (contents of annual return: particulars of directors and secretaries), for “the prescribed particulars” substitute “the required particulars (see section 855A)”.
 
@@ -78,7 +82,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 3. Information about where company records are kept
+### 3. Information about where company records are kept[^c-ddad3db037d894a9051efe8c50eed0c3]
 
 In section 855(1) of the Companies Act 2006 (contents of annual return: general), for paragraphs (d) and (e) (information about place where register of members or register of debenture holders is kept) substitute—
 
@@ -86,7 +90,7 @@ In section 855(1) of the Companies Act 2006 (contents of annual return: general)
 
 .
 
-### 4. Information whether shares admitted to trading on regulated market
+### 4. Information whether shares admitted to trading on regulated market[^c-a6ca4d949c96b46c5bbe11b51b956a91]
 
 (1) In section 855(1) of the Companies Act 2006 (contents of annual return: general), after paragraph (d) (substituted by regulation 3 above) insert—
 
@@ -103,19 +107,19 @@ In section 855(1) of the Companies Act 2006 (contents of annual return: general)
 
 .
 
-### 5. Classification scheme for company type
+### 5. Classification scheme for company type[^c-dd019bb8862cf0a9ce11db7780733d9c]
 
 (1) The classification scheme set out in the table in Schedule 1 is prescribed for the purposes of section 855(2) of the Companies Act 2006.
 
 (2) The annual return must indicate the type of company to which the return relates as set out in column 1 of that table by reference to the code opposite that type in column 2.
 
-### 6. Classification system for company’s principal business activities
+### 6. Classification system for company’s principal business activities[^c-9aa819439ba14c1793394ebda701687f]
 
-(1) The Standard Industrial Classification 2003 is prescribed for the purposes of section 855(3) of the Companies Act 2006, with the addition of the codes and designations in the table in Schedule 2, where the code set out in column 1 of the table represents the designation opposite it in column 2 of the table.
+(1) The Standard Industrial Classification 2007[^c-024bd774b375b1dde061a504b7189fe2] is prescribed for the purposes of section 855(3) of the Companies Act 2006, with the addition of the codes and designations in the table in Schedule 2, where the code set out in column 1 of the table represents the designation opposite it in column 2 of the table.
 
-(2) In paragraph (1), “Standard Industrial Classification 2003” means the UK Standard Industrial Classification of Economic Activities 2003, prepared by the Office for National Statistics and published by The Stationery Office with ISBN number 0116216417.
+(2)[^c-dd5a5346eb5059b3450344b25a3c1570] In paragraph (1), “Standard Industrial Classification 2007” means the UK Standard Industrial Classification of Economic Activities 2007, prepared by the Office for National Statistics and published by Palgrave Macmillan with the permission of the Office of Public Sector Information (OPSI) with ISBN number 978-0-230-21012-7.
 
-### 7. Information about shareholders
+### 7. Information about shareholders[^c-895d557d6091a75f8b2b276c0a94bee3]
 
 (1) In section 856 of the Companies Act 2006 (contents of annual return: information about share capital and shareholders)—
 
@@ -174,7 +178,7 @@ In section 855(1) of the Companies Act 2006 (contents of annual return: general)
 
 .
 
-### 8. Shadow directors
+### 8. Shadow directors[^c-a334ebfbc3e4c9d4086ea1448c3437bf]
 
 (1) In section 858(1) of the Companies Act 2006 (liability of directors and others for failure to deliver annual return), after paragraph (c) insert—
 
@@ -184,7 +188,7 @@ In section 855(1) of the Companies Act 2006 (contents of annual return: general)
 
 (2) Omit section 859 of the Companies Act 2006 (application of Part to shadow directors).
 
-### 9. Index of defined expressions
+### 9. Index of defined expressions[^c-d22157b0f8e81ebda8ba4c73f9225a31]
 
 In Schedule 8 to the Companies Act 2006 (index of defined expressions), at the appropriate places insert—
 
@@ -208,7 +212,7 @@ In Schedule 8 to the Companies Act 2006 (index of defined expressions), at the a
 
 ## PART 3 — SERVICE ADDRESSES
 
-### 10. Service addresses
+### 10. Service addresses[^c-266d1e71d4828ed50dd9bd3482f112be]
 
 For the purposes of section 1141 of the Companies Act 2006 (conditions with which a service address must comply) the conditions are that the service address must be a place where—
 
@@ -223,7 +227,7 @@ Department for Business, Enterprise and Regulatory Reform
 
 18th November 2008
 
-## SCHEDULE 1 — Classification scheme for type of company
+## SCHEDULE 1 — Classification scheme for type of company[^c-83f52ad30ce31b9c9791a6ce814870ee]
 
 Regulation 5
 
@@ -243,7 +247,7 @@ Regulation 5
 </tbody>
 </table>
 
-## SCHEDULE 2 — Additional codes and designations
+## SCHEDULE 2 — Additional codes and designations[^c-8fe10f1dd4701d601c9fcb82b8695cea]
 
 Regulation 6
 
@@ -253,11 +257,13 @@ Regulation 6
 <tr><th>Codes</th><th>Designations</th></tr>
 </thead>
 <tbody>
-<tr><td>7499</td><td>Non-trading company</td></tr>
-<tr><td>9800</td><td>Residents’ property management company</td></tr>
-<tr><td>9999</td><td>Dormant company</td></tr>
+<tr><td>74990</td><td>Non-trading company</td></tr>
+<tr><td>98000</td><td>Residents’ property management company</td></tr>
+<tr><td>99999</td><td>Dormant company</td></tr>
 </tbody>
 </table>
+
+[^c-23b733ff6b1fea4c604c9a1ef8ac1873][^c-88826a3858745b7a3c4eb7a80f553f33][^c-c0cf006ee283c7f12725a17bafed8d24]
 
 EXPLANATORY NOTE
 
@@ -286,3 +292,37 @@ An Impact Assessment in respect of these Regulations has been produced and copie
 ## Annotations
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c-3620639094a2167c1cb7f3b0dcb561d3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-e17a1f7fbe236b3cd8897f650fb2322f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/3000/regulation/2) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-ddad3db037d894a9051efe8c50eed0c3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/3000/regulation/3) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-a6ca4d949c96b46c5bbe11b51b956a91]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/3000/regulation/4) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-dd019bb8862cf0a9ce11db7780733d9c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/3000/regulation/5) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-9aa819439ba14c1793394ebda701687f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/3000/regulation/6) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-024bd774b375b1dde061a504b7189fe2]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/6/1) substituted (1.10.2011 in relation to annual returns made up to that date or a later date) by [The Companies Act 2006 (Annual Returns) Regulations 2011 (S.I. 2011/1487)](https://www.legislation.gov.uk/uksi/2011/1487), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/6/1/a)
+
+[^c-dd5a5346eb5059b3450344b25a3c1570]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/6/2) substituted (1.10.2011 in relation to annual returns made up to that date or a later date) by [The Companies Act 2006 (Annual Returns) Regulations 2011 (S.I. 2011/1487)](https://www.legislation.gov.uk/uksi/2011/1487), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/6/1/b)
+
+[^c-895d557d6091a75f8b2b276c0a94bee3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/3000/regulation/7) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-a334ebfbc3e4c9d4086ea1448c3437bf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/3000/regulation/8) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-d22157b0f8e81ebda8ba4c73f9225a31]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/3000/regulation/9) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-266d1e71d4828ed50dd9bd3482f112be]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2008/3000/regulation/10) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-83f52ad30ce31b9c9791a6ce814870ee]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2008/3000/schedule/1) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-8fe10f1dd4701d601c9fcb82b8695cea]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3000/schedule/2) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3000/regulation/1/1)
+
+[^c-23b733ff6b1fea4c604c9a1ef8ac1873]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3000/schedule/2) substituted (1.10.2011 in relation to annual returns made up to that date or a later date) by [The Companies Act 2006 (Annual Returns) Regulations 2011 (S.I. 2011/1487)](https://www.legislation.gov.uk/uksi/2011/1487), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/6/2/a)
+
+[^c-88826a3858745b7a3c4eb7a80f553f33]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3000/schedule/2) substituted (1.10.2011 in relation to annual returns made up to that date or a later date) by [The Companies Act 2006 (Annual Returns) Regulations 2011 (S.I. 2011/1487)](https://www.legislation.gov.uk/uksi/2011/1487), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/6/2/b)
+
+[^c-c0cf006ee283c7f12725a17bafed8d24]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3000/schedule/2) substituted (1.10.2011 in relation to annual returns made up to that date or a later date) by [The Companies Act 2006 (Annual Returns) Regulations 2011 (S.I. 2011/1487)](https://www.legislation.gov.uk/uksi/2011/1487), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2011/1487/regulation/6/2/c)

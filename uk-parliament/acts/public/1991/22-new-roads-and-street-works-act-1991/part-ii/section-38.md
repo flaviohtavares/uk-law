@@ -3,7 +3,7 @@ title: New Roads and Street Works Act 1991, section 38
 act: New Roads and Street Works Act 1991
 section: '38'
 status: revised-with-pending-changes
-text_date: '2026-10-30'
+text_date: '2026-10-31'
 extent: S
 source_url: https://www.legislation.gov.uk/ukpga/1991/22/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # New Roads and Street Works Act 1991, section 38
 
-> **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
+> **Warning: changes not yet applied to this text (380).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
 > Extent: Scotland.
 

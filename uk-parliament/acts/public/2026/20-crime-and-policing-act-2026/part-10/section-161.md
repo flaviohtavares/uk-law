@@ -3,7 +3,7 @@ title: Crime and Policing Act 2026, section 161
 act: Crime and Policing Act 2026
 section: '161'
 status: revised-with-pending-changes
-text_date: '2026-10-29'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/161
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Crime and Policing Act 2026, section 161
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
+> **Warning: changes not yet applied to this text (33).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales.
 

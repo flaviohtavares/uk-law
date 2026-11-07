@@ -1,6 +1,6 @@
 # Coverage
 
-What this repository holds, built on 2026-11-05 from the legislation.gov.uk bulk data (Best Collection XML, Legislative Amendments, "Legislation on Website" list) plus the site itself for the few laws the bulk data lacks.
+What this repository holds, built on 2026-11-06 from the legislation.gov.uk bulk data (Best Collection XML, Legislative Amendments, "Legislation on Website" list) plus the site itself for the few laws the bulk data lacks.
 
 ## Laws with text
 
@@ -24,17 +24,17 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 | `ukppa` | uk-parliament/acts/private | 0 | 0 | 0 | 0 | 869 |
 | `ukcm` | uk-parliament/church-measures | 101 | 28 | 0 | 28 | 87 |
 | `ukci` | uk-parliament/church-instruments | 0 | 0 | 60 | 0 | 0 |
-| `uksi` | uk-parliament/regulations | 5137 | 930 | 50519 | 4044 | 48827 |
+| `uksi` | uk-parliament/regulations | 5145 | 922 | 50501 | 4062 | 48827 |
 | `uksro` | uk-parliament/regulations | 0 | 0 | 0 | 0 | 307 |
 | `ukmo` | uk-parliament/regulations | 0 | 0 | 1 | 0 | 124 |
-| `asp` | scotland/acts | 274 | 111 | 0 | 17 | 0 |
+| `asp` | scotland/acts | 275 | 110 | 0 | 17 | 0 |
 | `ssi` | scotland/regulations | 942 | 158 | 6533 | 1108 | 2754 |
 | `anaw` | wales/acts | 26 | 16 | 0 | 2 | 0 |
 | `asc` | wales/acts | 17 | 16 | 0 | 1 | 0 |
 | `mwa` | wales/measures | 13 | 6 | 0 | 3 | 0 |
-| `wsi` | wales/regulations | 707 | 98 | 3063 | 806 | 2106 |
-| `nia` | northern-ireland/acts | 166 | 35 | 11 | 26 | 0 |
-| `nisr` | northern-ireland/regulations | 1890 | 380 | 5069 | 2035 | 9184 |
+| `wsi` | wales/regulations | 707 | 98 | 3064 | 806 | 2106 |
+| `nia` | northern-ireland/acts | 167 | 35 | 11 | 26 | 0 |
+| `nisr` | northern-ireland/regulations | 1891 | 379 | 5069 | 2035 | 9184 |
 | `nisro` | northern-ireland/regulations | 0 | 0 | 1 | 0 | 8791 |
 | `nisi` | northern-ireland/orders-in-council | 296 | 160 | 61 | 41 | 133 |
 | `aep` | historic/england | 66 | 0 | 586 | 13 | 28 |
@@ -49,7 +49,7 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 | `eudr` | eu-origin/directives | 1185 | 137 | 0 | 713 | 2133 |
 | `eut` | eu-origin/treaties | 5 | 0 | 0 | 0 | 0 |
 | `ukmd` | (catalogue only) | 0 | 0 | 0 | 0 | 1 |
-| **total** |  | **41656** | **5115** | **66174** | **17421** | **228894** |
+| **total** |  | **41667** | **5105** | **66157** | **17439** | **228894** |
 
 ## Known conversion gaps
 

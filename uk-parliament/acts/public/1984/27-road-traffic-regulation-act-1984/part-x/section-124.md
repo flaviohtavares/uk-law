@@ -3,7 +3,7 @@ title: Road Traffic Regulation Act 1984, section 124
 act: Road Traffic Regulation Act 1984
 section: '124'
 status: revised-with-pending-changes
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1984/27/section/124
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Road Traffic Regulation Act 1984, section 124
 
-> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
 > Extent: England, Wales, Scotland.
 

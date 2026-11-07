@@ -3,7 +3,7 @@ title: Representation of the People Act 1983, section 67
 act: Representation of the People Act 1983
 section: '67'
 status: revised-with-pending-changes
-text_date: '2026-09-30'
+text_date: '2026-10-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/67
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Representation of the People Act 1983, section 67
 
-> **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -49,13 +49,19 @@ and the provisions which have effect by virtue of subsection (2) above in relati
 
 (5A)[^c14488491] Where a registered political party submits a list of candidates to be London members of the London Assembly at an ordinary election, subsection (5) above shall apply in relation to the candidates included in that list as if the reference to a person other than the candidate were a reference to a person other than the candidate whose name appears highest on the list.
 
-(6) Upon the name and address of an election agent being declared to the appropriate officer, the appropriate officer shall forthwith give public notice of that name and address , unless subsection (6ZA) applies *(Extent: S)*[^c-7fac68542f12b412599a42f16d309a3f].
+(6) Upon the name and address of an election agent being declared to the appropriate officer, the appropriate officer shall forthwith give public notice of that name and address (but see subsections (6ZA) and (6ZB))[^c-6c448a3e948a900a700c5a4575a9741d].
 
 *Extent: S*
 
-(6ZA)[^c-aa297a28eb2cec19679b5031a1a24487] Where an election agent is appointed in a Scottish local government election, a declaration under section 67(1) may include a request by the election agent that any public notice of their address is to a correspondence address rather than their home address.
+(6ZA)[^c-7d76f9662f2be8142c96329130641d97] Subsection (6ZB) applies where a declaration under subsection (1) or (4) in relation to an election agent of a candidate at a local government election in Scotland is accompanied by—
 
-(6ZB (Extent: S)) A request under subsection (6ZA) must be granted by the returning officer where an alternative correspondence address has been provided. *(Extent: S)*
+- (a) an address (a “correspondence address”) in the United Kingdom that may be used for correspondence with the election agent, and
+- (b) a request that a public notice under subsection (6) in relation to the declaration includes the correspondence address instead of the address stated in the declaration.
+
+(6ZB) In such a case—
+
+- (a) the address stated in the declaration must not be included in the public notice, and
+- (b) the correspondence address must be included in the public notice.
 
 (6A)[^c-28fcc919de79e83e194e75bb698dc994] Where a candidate at an election of councillors to a county or county borough council in Wales has named themself as election agent and the home address form accompanying the candidate’s nomination paper contains a statement under rule 9(6) of Schedule 1 or 2 to the Local Elections (Principal Areas) (Wales) Rules 2021 that the candidate’s home address must not be made public—
 
@@ -94,9 +100,9 @@ and the provisions which have effect by virtue of subsection (2) above in relati
 
 [^c14488491]: Textual amendment: S. 67(5A) inserted (14.12.1999) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 17](https://www.legislation.gov.uk/ukpga/1999/29/section/17), [Sch. 3 para. 12(5)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/12/5) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 
-[^c-7fac68542f12b412599a42f16d309a3f]: Textual amendment: Words in [s. 67(6)](https://www.legislation.gov.uk/ukpga/1983/2/section/67/6) inserted (S.) (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 38(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/38/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-6c448a3e948a900a700c5a4575a9741d]: Textual amendment: Words in [s. 67(6)](https://www.legislation.gov.uk/ukpga/1983/2/section/67/6) substituted (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/318/article/2/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
 
-[^c-aa297a28eb2cec19679b5031a1a24487]: Textual amendment: [S. 67(6ZA)](https://www.legislation.gov.uk/ukpga/1983/2/section/67/6ZA)[(6ZB)](https://www.legislation.gov.uk/ukpga/1983/2/section/67/6ZB) inserted (S.) (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 38(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/38/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-7d76f9662f2be8142c96329130641d97]: Textual amendment: [S. 67(6ZA)](https://www.legislation.gov.uk/ukpga/1983/2/section/67/6ZA)[(6ZB)](https://www.legislation.gov.uk/ukpga/1983/2/section/67/6ZB) substituted (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/318/article/2/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
 
 [^c-28fcc919de79e83e194e75bb698dc994]: Textual amendment: [S. 67(6A)](https://www.legislation.gov.uk/ukpga/1983/2/section/67/6A) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/6/2) (with [reg. 12(c)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/c))
 

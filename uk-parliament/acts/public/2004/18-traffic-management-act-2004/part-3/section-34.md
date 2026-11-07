@@ -3,7 +3,7 @@ title: Traffic Management Act 2004, section 34
 act: Traffic Management Act 2004
 section: '34'
 status: revised-with-pending-changes
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2004/18/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Traffic Management Act 2004, section 34
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/18
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/18
 >
 > Extent: England, Wales.
 

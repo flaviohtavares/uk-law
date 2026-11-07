@@ -3,7 +3,7 @@ title: The Housing Benefit (Persons who have attained the qualifying age for sta
 act: The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
 section: 72A
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2006/214/section/72A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006, section 72A
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
 ## 72A. Cases in which payments to a housing authority are to take the form of a rent allowance[^c-45319f581a3ca5c8cce70980f28e6453]
 

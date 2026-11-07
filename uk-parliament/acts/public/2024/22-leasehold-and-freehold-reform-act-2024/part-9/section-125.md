@@ -3,7 +3,7 @@ title: Leasehold and Freehold Reform Act 2024, section 125
 act: Leasehold and Freehold Reform Act 2024
 section: '125'
 status: revised-with-pending-changes
-text_date: '2025-03-03'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/125
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, section 125
 
-> **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 

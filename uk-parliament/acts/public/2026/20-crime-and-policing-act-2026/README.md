@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2026-04-29'
-text_date: '2026-10-29'
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/20
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2026/20/pdfs/ukpgaen_20260020_en.pdf
 - http://www.legislation.gov.uk/ukpga/2026/20/pdfs/ukpga_20260020_en.pdf
 - http://www.legislation.gov.uk/ukpga/2026/20/data.pdf
-pending_changes: 6
+pending_changes: 33
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Crime and Policing Act 2026
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
+> **Warning: changes not yet applied to this text (33).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

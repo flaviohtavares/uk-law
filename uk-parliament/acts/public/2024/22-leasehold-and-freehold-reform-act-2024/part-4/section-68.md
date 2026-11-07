@@ -2,8 +2,8 @@
 title: Leasehold and Freehold Reform Act 2024, section 68
 act: Leasehold and Freehold Reform Act 2024
 section: '68'
-status: not-yet-in-force
-text_date: '2025-03-03'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/68
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, section 68
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 
-## 68. Regulations under the LTA 1985: procedure and appropriate authority[^c-3d5ca203061c1019ca83d00811c104c1]
+## 68. Regulations under the LTA 1985: procedure and appropriate authority[^c-3d5ca203061c1019ca83d00811c104c1][^c-d78791447724cff470f264d3f18527d9]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) The LTA 1985 is amended as follows.
 
@@ -57,3 +55,5 @@ summary: ''
 ## Annotations
 
 [^c-3d5ca203061c1019ca83d00811c104c1]: Commencement: S. 68 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-d78791447724cff470f264d3f18527d9]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2024/22/section/68) in force at 6.11.2026 for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/j)

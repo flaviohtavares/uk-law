@@ -3,7 +3,7 @@ title: The Building Regulations 2010, section 44D
 act: The Building Regulations 2010
 section: 44D
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2010/2214/section/44D
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Building Regulations 2010, section 44D
 
-> **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
+> **Warning: changes not yet applied to this text (32).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
 > Extent: England, Wales.
 

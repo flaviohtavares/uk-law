@@ -3,15 +3,15 @@ title: Northern Ireland Fiscal Council Act (Northern Ireland) 2026
 id: nia/2026/8
 type: NorthernIrelandAct
 category: primary
-status: as-enacted
+status: revised
 made_date: '2026-10-07'
-text_date: null
-extent: null
+text_date: '2026-10-08'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nia/2026/8
 pdf_urls:
 - http://www.legislation.gov.uk/nia/2026/8/pdfs/niaen_20260008_en.pdf
 - http://www.legislation.gov.uk/nia/2026/8/pdfs/nia_20260008_en.pdf
-- http://www.legislation.gov.uk/nia/2026/8/enacted/data.pdf
+- http://www.legislation.gov.uk/nia/2026/8/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # Northern Ireland Fiscal Council Act (Northern Ireland) 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-10-08.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 Northern Ireland Fiscal Council Act (Northern Ireland) 2026
 
@@ -34,13 +38,13 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 ## Establishment and functions
 
-### 1. Northern Ireland Fiscal Council
+### 1. Northern Ireland Fiscal Council[^c-143792f385828e091a94b3ec5fb1fa87]
 
 (1) There is to be a body corporate known as the Northern Ireland Fiscal Council (“the Council”).
 
 (2) Schedule 1 makes further provision in relation to the Council.
 
-### 2. Main functions
+### 2. Main functions[^c-45875c791a3dcf5f00f74d5bd8f6d5dd]
 
 (1) It is the duty of the Council to examine and report on the public finances in Northern Ireland.
 
@@ -62,7 +66,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 - (a) the period of 12 months beginning with the day on which this Act comes into operation, and
 - (b) every subsequent period of 12 months.
 
-### 3. Budget assessment reports
+### 3. Budget assessment reports[^c-b71a8b089837362498cef0cc596c3785]
 
 (1) The budget assessment report for a financial year must be published as soon as practicable after the publication of the proposed budget for that year.
 
@@ -77,7 +81,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 - (a) the first programme of expenditure proposals relating to that year published by the Minister of Finance, or
 - (b) such other published programme of expenditure proposals relating to that year as the Council considers appropriate in the circumstances.
 
-### 4. Fiscal sustainability reports
+### 4. Fiscal sustainability reports[^c-eb2e42df316d89759ef57a4ac47bfafb]
 
 (1) A fiscal sustainability report must consider how the public finances in Northern Ireland are likely to affect the future delivery of public services.
 
@@ -103,7 +107,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 (5) In each year, the Council may prepare an overall report or a thematic report; but it must prepare an overall report at least once every five years.
 
-### 5. Power to confer additional functions
+### 5. Power to confer additional functions[^c-ca818e3df658f2df953da8b992c2c17e]
 
 (1) The Department may by regulations confer additional functions on the Council.
 
@@ -121,7 +125,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 (5) Regulations under this section may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-### 6. How the Council is to perform its functions
+### 6. How the Council is to perform its functions[^c-fa78ff8a0c88991cf07c6a841a0772d2]
 
 (1) The Council has complete discretion in carrying out its functions under section 2.
 
@@ -143,11 +147,11 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 ## Final provisions
 
-### 7. Consequential amendments
+### 7. Consequential amendments[^c-ea944f2d6d12508b255aaf749bc07787]
 
 Schedule 2 makes consequential provision.
 
-### 8. Meaning of certain expressions
+### 8. Meaning of certain expressions[^c-2afbc37679a7599132501089b81bc3f3]
 
 In this Act—
 
@@ -157,7 +161,7 @@ In this Act—
   - (b) a junior Minister;
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-### 9. Commencement and short title
+### 9. Commencement and short title[^c-dee71cfd8bd6cd6b0008d97e0d4a075d]
 
 (1) This Act comes into operation on the day after the day on which this Act receives Royal Assent.
 
@@ -173,7 +177,7 @@ Section 1
 
 #### Status of the Council
 
-**1.** (1) The Council is not to be regarded—
+**1.**[^c-d803fa42dca69865b92bf99b21dbc226] (1) The Council is not to be regarded—
 
 - (a) as the servant or agent of the Crown, or
 - (b) as enjoying any status, immunity or privilege of the Crown.
@@ -182,21 +186,21 @@ Section 1
 
 #### Application of section 19 of the Interpretation Act (Northern Ireland) 1954
 
-**2.** Subject to the following provisions of this Schedule, section 19 of the Interpretation Act (Northern Ireland) 1954 applies to the Council.
+**2.**[^c-bac9406231695c5094afda351a014531] Subject to the following provisions of this Schedule, section 19 of the Interpretation Act (Northern Ireland) 1954 applies to the Council.
 
 #### General powers
 
-**3.** The Council may do anything calculated to facilitate, or conducive or incidental to, the carrying out of any of its functions.
+**3.**[^c-77aa952020bf9975933b5e3ed9d2e1a0] The Council may do anything calculated to facilitate, or conducive or incidental to, the carrying out of any of its functions.
 
 #### Manner in which functions are to be carried out
 
-**4.** The Council must aim to carry out its functions efficiently and cost-effectively.
+**4.**[^c-37e2aa91d3aca562d5535e00522e9213] The Council must aim to carry out its functions efficiently and cost-effectively.
 
 ### Part 2 — Membership and staff
 
 #### Membership
 
-**5.** (1) The Council is to consist of—
+**5.**[^c-94a0609c68556afedf8da24c18139656] (1) The Council is to consist of—
 
 - (a) a chair, and
 - (b) at least 2 but no more than 5 other members.
@@ -209,7 +213,7 @@ Section 1
 
 #### Period and terms of appointment
 
-**6.** (1) The chair or any other member of the Council is to be appointed for such period, not exceeding 5 years, as may be specified in the terms of appointment.
+**6.**[^c-482a40ac456bf94c28d594f2f720a0ed] (1) The chair or any other member of the Council is to be appointed for such period, not exceeding 5 years, as may be specified in the terms of appointment.
 
 (2) A person who has been appointed (as chair or another member) under paragraph 5(2) may be appointed under paragraph 5(2) a second time, but only if that person was still a member—
 
@@ -222,11 +226,11 @@ Section 1
 
 #### Remuneration and expenses
 
-**7.** The Council may pay to the chair or any other member of the Council such remuneration and allowances as the Council, with the approval of the Department, determines.
+**7.**[^c-67647c6dbe162d3693634974f5d0517d] The Council may pay to the chair or any other member of the Council such remuneration and allowances as the Council, with the approval of the Department, determines.
 
 #### Disqualification from appointment
 
-**8.** (1) A person is disqualified from being appointed as the chair or another member of the Council if the person—
+**8.**[^c-1296265ee614630aacd3098417904676] (1) A person is disqualified from being appointed as the chair or another member of the Council if the person—
 
 - (a) is a member of—
   - (i) a district council, or
@@ -250,7 +254,7 @@ Section 1
 
 #### Automatic termination of appointment
 
-**9.** A person’s appointment as the chair or another member of the Council ceases immediately if—
+**9.**[^c-e715b1ac07a52491c9d04ef9db5a7987] A person’s appointment as the chair or another member of the Council ceases immediately if—
 
 - (a) the person becomes disqualified under paragraph 8 from being appointed as the chair or another member of the Council, or
 - (b) the person is nominated as a candidate for election to—
@@ -259,7 +263,7 @@ Section 1
 
 #### Termination of appointment by the Department
 
-**10.** The Department may remove the chair or another member of the Council by giving notice in writing if the chair or other member—
+**10.**[^c-ee467cd08805b6a5651a93b105f37e57] The Department may remove the chair or another member of the Council by giving notice in writing if the chair or other member—
 
 - (a) is incapable for medical or other reasons of performing the functions of the office,
 - (b) has, without reasonable excuse, failed to discharge the functions of the office for a continuous period of 3 months, and—
@@ -270,11 +274,11 @@ Section 1
 
 #### Resignation
 
-**11.** The chair or another member of the Council may resign by giving notice in writing to the Department.
+**11.**[^c-77f96489a978bc40080cf71b1461b682] The chair or another member of the Council may resign by giving notice in writing to the Department.
 
 #### Acting chair or other member of the Council
 
-**12.** (1) The Department may appoint a person to exercise the functions of the chair or another member of the Council where—
+**12.**[^c-87dd9c15aee80477cc0809587a7fc6d9] (1) The Department may appoint a person to exercise the functions of the chair or another member of the Council where—
 
 - (a) the position of chair or another member of the Council is vacant;
 - (b) the chair or another member is incapable of exercising the functions of the office;
@@ -286,7 +290,7 @@ Section 1
 
 #### Staff
 
-**13.** (1) The Council is to employ a person to act as the Council’s chief of staff.
+**13.**[^c-e48f8bb86e618632f6ad524ad428c2e0] (1) The Council is to employ a person to act as the Council’s chief of staff.
 
 (2) The Council may employ other staff.
 
@@ -294,7 +298,7 @@ Section 1
 
 #### Validity of things done
 
-**14.** The validity of anything done by the Council is not affected by—
+**14.**[^c-9ff13f576470678eea58355b25f802b8] The validity of anything done by the Council is not affected by—
 
 - (a) the role of chair or another member being vacant (including where the vacancy arises as a result of automatic termination of an appointment under paragraph 9), or
 - (b) a defect in the appointment of the chair or another member.
@@ -303,7 +307,7 @@ Section 1
 
 #### Committees
 
-**15.** (1) The Council may establish committees.
+**15.**[^c-8c0ffd4d43d0d2fe1f8178031f4d4ca4] (1) The Council may establish committees.
 
 (2) The membership of a committee may include (but may not consist entirely of) persons who are not members of the Council, but those persons are not entitled to vote at meetings.
 
@@ -311,7 +315,7 @@ Section 1
 
 #### Authority to perform functions
 
-**16.** (1) The Council may authorise—
+**16.**[^c-988143ac618a62d9a2e520461b513319] (1) The Council may authorise—
 
 - (a) the chair of the Council,
 - (b) any other member of the Council,
@@ -329,7 +333,7 @@ to perform such of the Council’s functions (to such extent) as the Council may
 
 #### Application of seal and execution of documents
 
-**17.** (1) The application of the seal of the Council shall be authenticated by the signature—
+**17.**[^c-f51f6a103abc0ed2bf65c828b33fca8e] (1) The application of the seal of the Council shall be authenticated by the signature—
 
 - (a) of the chair of the Council or the chief of staff, or
 - (b) of any other member or employee of the Council who has been generally or specifically authorised by the Council for that purpose.
@@ -340,7 +344,7 @@ to perform such of the Council’s functions (to such extent) as the Council may
 
 #### Annual data statement
 
-**18.** (1) At least once in each year, the Council must—
+**18.**[^c-53eec5886a005fd2fea083ff15cd1e62] (1) At least once in each year, the Council must—
 
 - (a) prepare and publish a data statement,
 - (b) lay a copy of the statement before the Assembly, and
@@ -359,7 +363,7 @@ to perform such of the Council’s functions (to such extent) as the Council may
 
 #### Access to information
 
-**19.** (1) The Council has a right of access (at any reasonable time) to all Northern Ireland government information which it may reasonably require for the purpose of the performance of the Council’s functions under section 2.
+**19.**[^c-bd401256eca0fac35dac0934e21587b2] (1) The Council has a right of access (at any reasonable time) to all Northern Ireland government information which it may reasonably require for the purpose of the performance of the Council’s functions under section 2.
 
 (2) The Council is entitled to require from any person holding or accountable for any Northern Ireland government information any assistance or explanation which the Council reasonably thinks necessary for that purpose.
 
@@ -371,7 +375,7 @@ to perform such of the Council’s functions (to such extent) as the Council may
 
 #### Annual report
 
-**20.** (1) The Council must, as soon as reasonably practicable after the end of each financial year—
+**20.**[^c-20ac23eaf95ea7291b4a6d1ecfdc5286] (1) The Council must, as soon as reasonably practicable after the end of each financial year—
 
 - (a) prepare and publish a report on the exercise of the Council’s functions during that financial year,
 - (b) lay a copy of the report before the Assembly, and
@@ -384,7 +388,7 @@ to perform such of the Council’s functions (to such extent) as the Council may
 
 #### Review of Council's performance
 
-**21.** (1) The Council must by the end of each review period appoint a suitable person or body to—
+**21.**[^c-89172f4700784c7d9bb52fb5b2eb9b15] (1) The Council must by the end of each review period appoint a suitable person or body to—
 
 - (a) review, and
 - (b) prepare a report on,
@@ -422,7 +426,7 @@ the Council’s performance of its functions under section 2 during the review p
 
 #### Audit and finance
 
-**22.** (1) The Council must—
+**22.**[^c-b626ab8866911d8c76fecf3889c93065] (1) The Council must—
 
 - (a) keep proper accounts and proper records in relation to the accounts, and
 - (b) prepare a statement of accounts in respect of each financial year.
@@ -450,7 +454,7 @@ as the Department may direct.
 
 ### Part 7 — Initial membership of the Council
 
-**23.** (1) The person who was, immediately before the day that this Act comes into operation, the chair of the non-statutory Council is deemed to have been appointed under paragraph 5 as the chair of the Council at the beginning of that day.
+**23.**[^c-e93b7c4391d39f8297095e252f6d1157] (1) The person who was, immediately before the day that this Act comes into operation, the chair of the non-statutory Council is deemed to have been appointed under paragraph 5 as the chair of the Council at the beginning of that day.
 
 (2) Any person who was, immediately before the day that this Act comes into operation, another member of the non-statutory Council is deemed to have been appointed under paragraph 5 as another member of the Council at the beginning of that day.
 
@@ -473,7 +477,7 @@ Section 7
 
 #### Superannuation (Northern Ireland) Order 1972 ([S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073))
 
-**1.** In Schedule 1 to the Superannuation (Northern Ireland) Order 1972 ([S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)) (employments to which Article 3 can apply) insert at the end—
+**1.**[^c-0c909e2cac85d46bdceafe690629e4c7] In Schedule 1 to the Superannuation (Northern Ireland) Order 1972 ([S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)) (employments to which Article 3 can apply) insert at the end—
 
 > - Employment by the Northern Ireland Fiscal Council
 
@@ -481,16 +485,92 @@ Section 7
 
 #### Northern Ireland Assembly Disqualification Act [1975 (c. 25)](https://www.legislation.gov.uk/ukpga/1975/25)
 
-**2.** In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), insert at the appropriate place “The Northern Ireland Fiscal Council”.
+**2.**[^c-727cc883268f20c9d2c5754f0704f02f] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), insert at the appropriate place “The Northern Ireland Fiscal Council”.
 
 #### Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)
 
-**3.** In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (bodies, etc. which are public authorities for the purposes of the Act), insert at the appropriate place “The Northern Ireland Fiscal Council”.
+**3.**[^c-8dd6338b389053d93bec21ad3994c7e6] In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (bodies, etc. which are public authorities for the purposes of the Act), insert at the appropriate place “The Northern Ireland Fiscal Council”.
 
 #### Public Services Ombudsman Act (Northern Ireland) [2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4)
 
-**4.** In Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities) under the ‘miscellaneous’ heading, insert at the appropriate place “The Northern Ireland Fiscal Council”.
+**4.**[^c-f97a36cf6442f813a57dbe66deafd2d7] In Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities) under the ‘miscellaneous’ heading, insert at the appropriate place “The Northern Ireland Fiscal Council”.
 
 ### Part 2 — Modification of secondary legislation
 
-**5.** In Part 5 of the Schedule to the Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) Order 2026, the reference to the “Northern Ireland Fiscal Council” is to be read as a reference to the Council established under section 1.
+**5.**[^c-1e9e9f702ff352f87a29b33a000f2aee] In Part 5 of the Schedule to the Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) Order 2026, the reference to the “Northern Ireland Fiscal Council” is to be read as a reference to the Council established under section 1.
+
+## Annotations
+
+[^c-143792f385828e091a94b3ec5fb1fa87]: Commencement: S. 1 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-45875c791a3dcf5f00f74d5bd8f6d5dd]: Commencement: S. 2 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-b71a8b089837362498cef0cc596c3785]: Commencement: S. 3 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-eb2e42df316d89759ef57a4ac47bfafb]: Commencement: S. 4 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-ca818e3df658f2df953da8b992c2c17e]: Commencement: S. 5 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-fa78ff8a0c88991cf07c6a841a0772d2]: Commencement: S. 6 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-ea944f2d6d12508b255aaf749bc07787]: Commencement: S. 7 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-2afbc37679a7599132501089b81bc3f3]: Commencement: S. 8 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-dee71cfd8bd6cd6b0008d97e0d4a075d]: Commencement: S. 9 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-d803fa42dca69865b92bf99b21dbc226]: Commencement: Sch. 1 para. 1 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-bac9406231695c5094afda351a014531]: Commencement: Sch. 1 para. 2 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-77aa952020bf9975933b5e3ed9d2e1a0]: Commencement: Sch. 1 para. 3 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-37e2aa91d3aca562d5535e00522e9213]: Commencement: Sch. 1 para. 4 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-94a0609c68556afedf8da24c18139656]: Commencement: Sch. 1 para. 5 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-482a40ac456bf94c28d594f2f720a0ed]: Commencement: Sch. 1 para. 6 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-67647c6dbe162d3693634974f5d0517d]: Commencement: Sch. 1 para. 7 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-1296265ee614630aacd3098417904676]: Commencement: Sch. 1 para. 8 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-e715b1ac07a52491c9d04ef9db5a7987]: Commencement: Sch. 1 para. 9 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-ee467cd08805b6a5651a93b105f37e57]: Commencement: Sch. 1 para. 10 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-77f96489a978bc40080cf71b1461b682]: Commencement: Sch. 1 para. 11 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-87dd9c15aee80477cc0809587a7fc6d9]: Commencement: Sch. 1 para. 12 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-e48f8bb86e618632f6ad524ad428c2e0]: Commencement: Sch. 1 para. 13 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-9ff13f576470678eea58355b25f802b8]: Commencement: Sch. 1 para. 14 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-8c0ffd4d43d0d2fe1f8178031f4d4ca4]: Commencement: Sch. 1 para. 15 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-988143ac618a62d9a2e520461b513319]: Commencement: Sch. 1 para. 16 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-f51f6a103abc0ed2bf65c828b33fca8e]: Commencement: Sch. 1 para. 17 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-53eec5886a005fd2fea083ff15cd1e62]: Commencement: Sch. 1 para. 18 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-bd401256eca0fac35dac0934e21587b2]: Commencement: Sch. 1 para. 19 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-20ac23eaf95ea7291b4a6d1ecfdc5286]: Commencement: Sch. 1 para. 20 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-89172f4700784c7d9bb52fb5b2eb9b15]: Commencement: Sch. 1 para. 21 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-b626ab8866911d8c76fecf3889c93065]: Commencement: Sch. 1 para. 22 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-e93b7c4391d39f8297095e252f6d1157]: Commencement: Sch. 1 para. 23 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-0c909e2cac85d46bdceafe690629e4c7]: Commencement: Sch. 2 para. 1 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-727cc883268f20c9d2c5754f0704f02f]: Commencement: Sch. 2 para. 2 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-8dd6338b389053d93bec21ad3994c7e6]: Commencement: Sch. 2 para. 3 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-f97a36cf6442f813a57dbe66deafd2d7]: Commencement: Sch. 2 para. 4 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)
+
+[^c-1e9e9f702ff352f87a29b33a000f2aee]: Commencement: Sch. 2 para. 5 in operation at 8.10.2026, see [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1)

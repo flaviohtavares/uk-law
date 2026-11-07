@@ -8,13 +8,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Enterprise Act 2002](../uk-parliament/acts/public/2002/40-enterprise-act-2002/README.md) *(changes pending)* — 73 regulations on this topic made under it
 - [Competition Act 1998](../uk-parliament/acts/public/1998/41-competition-act-1998/README.md) *(changes pending)* — 54 regulations on this topic made under it
-- [Fair Trading Act 1973](../uk-parliament/acts/public/1973/41-fair-trading-act-1973/README.md) — 15 regulations on this topic made under it
 - [Competition Act 1980](../uk-parliament/acts/public/1980/21-competition-act-1980.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Digital Markets, Competition and Consumers Act 2024](../uk-parliament/acts/public/2024/13-digital-markets-competition-and-consumers-act-2024/README.md) *(changes pending)* — 5 regulations on this topic made under it
 
 ## Regulations
 
-172 in force.
+168 in force.
 
 **2026**
 
@@ -183,8 +182,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Restriction On Conduct (Specialist Advertising Services) (Revocation) Order 2005](../uk-parliament/regulations/2005/2500-2999/2670-the-restriction-on-conduct-specialist-advertising-services-revocation-order-2005.md) *(as originally made)*
 - [The Restriction on Agreements (Manufacturers and Importers of Motor Cars) (Revocation) Order 2005](../uk-parliament/regulations/2005/0000-0499/355-the-restriction-on-agreements-manufacturers-and-importers-of-motor-cars-revocati.md) *(as originally made)*
 - [The Specified Body (Consumer Claims) Order 2005](../uk-parliament/regulations/2005/2000-2499/2365-the-specified-body-consumer-claims-order-2005.md) *(as originally made)*
-- [The Supply of Extended Warranties on Domestic Electrical Goods Order 2005](../uk-parliament/regulations/2005/0000-0499/37-the-supply-of-extended-warranties-on-domestic-electrical-goods-order-2005.md) *(as originally made)*
-- [The Supply of Relevant Veterinary Medicinal Products Order 2005](../uk-parliament/regulations/2005/2500-2999/2751-the-supply-of-relevant-veterinary-medicinal-products-order-2005.md) *(as originally made)*
+- [The Supply of Relevant Veterinary Medicinal Products Order 2005](../uk-parliament/regulations/2005/2500-2999/2751-the-supply-of-relevant-veterinary-medicinal-products-order-2005.md)
 
 **2004**
 
@@ -234,7 +232,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Competition Act 1998 (Public Transport Ticketing Schemes Block Exemption) Order 2001](../uk-parliament/regulations/2001/0000-0499/319-the-competition-act-1998-public-transport-ticketing-schemes-block-exemption-orde.md) *(as originally made)*
 - [The Competition Act 1998 (Section 11 Exemption) Regulations 2001](../uk-parliament/regulations/2001/2500-2999/2993-the-competition-act-1998-section-11-exemption-regulations-2001.md) *(as originally made)*
-- [The Foreign Package Holidays (Tour Operators and Travel Agents) Order 2001](../uk-parliament/regulations/2001/2500-2999/2581-the-foreign-package-holidays-tour-operators-and-travel-agents-order-2001.md) *(as originally made)*
 - [The Merger (Fees) (Amendment) Regulations 2001](../uk-parliament/regulations/2001/1000-1499/1199-the-merger-fees-amendment-regulations-2001.md) *(as originally made)*
 - [The Merger Report (Interbrew SA and Bass PLC) (Interim Provision) Order 2001](../uk-parliament/regulations/2001/0000-0499/318-the-merger-report-interbrew-sa-and-bass-plc-interim-provision-order-2001.md) *(as originally made)*
 
@@ -250,9 +247,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Competition Act 1998 (Small Agreements and Conduct of Minor Significance) Regulations 2000](../uk-parliament/regulations/2000/0000-0499/262-the-competition-act-1998-small-agreements-and-conduct-of-minor-significance-regu.md)
 - [The Competition Act 1998 (Transitional, Consequential and Supplemental Provisions) Order 2000](../uk-parliament/regulations/2000/0000-0499/311-the-competition-act-1998-transitional-consequential-and-supplemental-provisions.md) *(as originally made)*
 - [The Competition Commission Appeal Tribunal Rules 2000](../uk-parliament/regulations/2000/0000-0499/261-the-competition-commission-appeal-tribunal-rules-2000.md) *(as originally made)*
-- [The Foreign Package Holidays (Tour Operators and Travel Agents) Order 2000](../uk-parliament/regulations/2000/2000-2499/2110-the-foreign-package-holidays-tour-operators-and-travel-agents-order-2000.md) *(as originally made)*
 - [The Merger Reference (Interbrew SA and Bass PLC) (Interim Provision) Order 2000](../uk-parliament/regulations/2000/2500-2999/2566-the-merger-reference-interbrew-sa-and-bass-plc-interim-provision-order-2000.md) *(as originally made)*
-- [The Supply of New Cars Order 2000](../uk-parliament/regulations/2000/2000-2499/2088-the-supply-of-new-cars-order-2000.md) *(as originally made)*
 
 **1999**
 

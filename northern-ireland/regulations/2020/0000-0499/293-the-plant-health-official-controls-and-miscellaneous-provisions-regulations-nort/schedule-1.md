@@ -2,8 +2,8 @@
 title: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, SCHEDULE 1
 act: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
 section: schedule-1
-status: revised-with-pending-changes
-text_date: '2023-10-01'
+status: revised
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2020/293/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (49).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/nisr/2020/293
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 
@@ -68,7 +68,7 @@ In this Schedule—
 - (a) the matters set out in the corresponding entry in column (4) of that Table; and
 - (b) in the case of any plants, plant products or other objects which are not subject to Article 72, 73 or 74 of the EU Plant Health Regulation, that the plants, plant products or other objects are free from Union Quarantine pests[^f00047] and pests subject to any measures adopted pursuant to Article 30(1) of that Regulation.
 
-(3) None of the requirements specified in points 36 and 87 to 89 of Annex 7 to the Phytosanitary Conditions Regulation are to be treated for the purposes of Articles 41(1) and 71(1)(c) of the EU Plant Health Regulation as applying to the introduction of any plants, plant products or other objects described in columns (2) and (3) of Table 2 where they originate in Canada, China, the Democratic People’s Republic of Korea, Japan, Mongolia, the Republic of Korea, Russia, Taiwan or the USA.
+(3) None of the requirements specified in points 36 and 87 to 89 of Annex 7 to the Phytosanitary Conditions Regulation are to be treated for the purposes of Articles 41(1) and 71(1)(c) of the EU Plant Health Regulation as applying to the introduction of any plants, plant products or other objects described in columns (2) and (3) of Table 1[^c-64514926aaae330875a6dda5eb080c8e] where they originate in Canada, China, the Democratic People’s Republic of Korea, Japan, Mongolia, the Republic of Korea, Russia, Taiwan or the USA.
 
 (4) Sub-paragraph (2) is subject to paragraph 5(1).
 
@@ -98,9 +98,9 @@ Table 1
 - (a) accompanied by a transit declaration; and
 - (b) packed and transported in such a way that there is no risk of any Union quarantine pests, protected zone quarantine pests or pests subject to the measures adopted pursuant to Article 30(1) of the EU Plant Health Regulation being spread on its movement through Northern Ireland.
 
-### PART 2 — Plants, plant products or other objects from another part of the Union territory
+### PART 2 — Plants, plant products or other objects from ... the Union territory[^c-473ee5c390f425547c07af43257ab558]
 
-#### 6. Temporary measures applying to the introduction of plants, plant products or other objects from another part of the Union territory[^c-95c39768a0999ffd6a37c96a52ace610]
+#### 6. Temporary measures applying to the introduction of plants, plant products or other objects from ... the Union territory[^c-95c39768a0999ffd6a37c96a52ace610][^c-7f020770e261cae32c9beececec335bf]
 
 In this Part—
 
@@ -108,7 +108,9 @@ In this Part—
 - “official statement” means a statement issued by, or under the supervision of, an unauthorised representative of the competent authority in the member State of origin;
 - “Spain” means that part of Spain which is included within the Union territory for the purposes of the EU Plant Health Regulation, other than the Balearic Islands.
 
-**7.**[^c-4154e8098c4ded227be19e0d488eb025] No person may introduce or move any plants, plant products or other objects described in column 2 of Table 2 unless that person is a registered operator and the plants, plant products or other objects are accompanied by an official statement confirming the matters set out in the corresponding entry in column 3 of that Table.
+#### 7.[^c-4154e8098c4ded227be19e0d488eb025]
+
+No person may introduce or move any plants, plant products or other objects described in column 2 of Table 2 unless that person is a registered operator and the plants, plant products or other objects are accompanied by an official statement confirming the matters set out in the corresponding entry in column 3 of that Table.
 
 Table 2
 
@@ -116,7 +118,7 @@ Table 2
 | --- | --- | --- |
 | 1\. | Tubers of *Solanum tuberosum* L., including those intended for planting which originate in Spain except where those tubers originate in an area which has been established in accordance with Article 5 of [Decision 2012/270/EU](https://www.legislation.gov.uk/european/decision/2012/0270) | The official statement must confirm that the tubers have been washed so that there is no more than 0.1% of soil remaining. |
 | 2\. | Tubers of *Solanum* *tuberosum* L., originating in Poland | The official statement must confirm that the tubers have been found free from *Clavibacter michiganensis* ssp. *Sepedonicus* (Spieckermann and Kotthoff) David *et al.* in laboratory tests. |
-| 3\. | Plants intended for planting, other than seeds, of *Ulmus* L., originating in any part of the Union territory, other than the United Kingdom | The official statement must confirm that no symptoms of *Candidatus* Phytoplasma *ulmi* have been observed at the place of production of the plants or in the immediate vicinity of the place of production since the beginning of the last complete cycle of vegetation. |
+| 3\. | Plants intended for planting, other than seeds, of *Ulmus* L., originating in any part of the Union territory[^c-08a8be738ed3b647625b8a7d1d8282a5]... | The official statement must confirm that no symptoms of *Candidatus* Phytoplasma *ulmi* have been observed at the place of production of the plants or in the immediate vicinity of the place of production since the beginning of the last complete cycle of vegetation. |
 
 ### PART 3 — Official controls on consignments from third countries
 
@@ -263,17 +265,13 @@ Following the completion of official controls on a Schedule 1 consignment, a pla
 
 (1) The Department must ensure that any decision by a plant health inspector to refuse a Schedule 1 consignment entry into Northern Ireland is immediately notified in writing to—
 
-- (a) the appropriate GB authority;
-- (b) the Commission;
+- (a)[^c-3a15e8f374d649a8652e344df2beb1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4b8a3874304cbe8c7086140499d12afe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the competent authorities of other member States;
 - (d) the national plant protection organisation of the third country of origin; and
 - (e) the responsible operator.
 
-(2) In this paragraph, “GB authority” means—
-
-- (a) in relation to England, the Secretary of State or the Forestry Commissioners;
-- (b) in relation to Scotland, the Scottish Ministers;
-- (c) in relation to Wales, the Welsh Ministers.
+(2)[^c-813f2a95f2430d307371343d441703ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 18. Notices under this Part[^c-63ed9166a715df65eecd38735be0a22a]
 
@@ -299,13 +297,21 @@ A notice in relation to a Schedule 1 consignment under this Part may include any
 
 [^f00047]: Footnote: “Union quarantine pest” is defined in Article 4 of Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants (O.J. No. L 317, 23.11.2016, p.4), as amended by Regulation (EU) 2017/625 (O.J. No. L 95, 7.4.2017, p. 1).
 
+[^c-64514926aaae330875a6dda5eb080c8e]: Textual amendment: Words in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nisr/2020/293/schedule/1/paragraph/4/3) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(15)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/15/a)
+
 [^c-95e13eaf84590fa0f961321fe5cfa2ed]: Commencement: Sch. 1 para. 5 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00048]: Footnote: “Protected zone quarantine pest” is defined in Article 32 of Regulation (EU) 2016/2031.
 
+[^c-473ee5c390f425547c07af43257ab558]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2020/293/schedule/1/part/2) heading omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(15)(b)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/15/b/i)
+
 [^c-95c39768a0999ffd6a37c96a52ace610]: Commencement: Sch. 1 para. 6 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
+[^c-7f020770e261cae32c9beececec335bf]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2020/293/schedule/1/paragraph/6) heading omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/15/b/ii)
+
 [^c-4154e8098c4ded227be19e0d488eb025]: Commencement: Sch. 1 para. 7 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+
+[^c-08a8be738ed3b647625b8a7d1d8282a5]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2020/293/schedule/1/paragraph/7) Table 2 omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(15)(c)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/15/c)
 
 [^c-b72fd16219e8d6be2f27dc185e767093]: Commencement: Sch. 1 para. 8 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
@@ -328,5 +334,11 @@ A notice in relation to a Schedule 1 consignment under this Part may include any
 [^c-8ee20bed0efb34a862d661bc407d22cd]: Commencement: Sch. 1 para. 16 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^c-8d2a2fc23411c842ac8d7f1e1fb23464]: Commencement: Sch. 1 para. 17 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+
+[^c-3a15e8f374d649a8652e344df2beb1cf]: Textual amendment: [Sch. 1 para. 17(1)(a)](https://www.legislation.gov.uk/nisr/2020/293/schedule/1/paragraph/17/1/a) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(15)(d)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/15/d/i)
+
+[^c-4b8a3874304cbe8c7086140499d12afe]: Textual amendment: [Sch. 1 para. 17(1)(b)](https://www.legislation.gov.uk/nisr/2020/293/schedule/1/paragraph/17/1/b) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(15)(d)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/15/d/i)
+
+[^c-813f2a95f2430d307371343d441703ab]: Textual amendment: [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/nisr/2020/293/schedule/1/paragraph/17/2) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(15)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/15/d/ii)
 
 [^c-63ed9166a715df65eecd38735be0a22a]: Commencement: Sch. 1 para. 18 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

@@ -2,8 +2,8 @@
 title: Crime and Policing Act 2026, section 107
 act: Crime and Policing Act 2026
 section: '107'
-status: not-yet-in-force
-text_date: '2026-10-29'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/107
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Crime and Policing Act 2026, section 107
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (33).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Pornographic images of sexual activity with child under 16[^c-495b0f3d849522bd7e82a8400e894048]
+## 107. Pornographic images of sexual activity with child under 16[^c-495b0f3d849522bd7e82a8400e894048][^c-7ed8e8b6f2f78143188a16c61703b7e6]
 
 *Extent: E+W+S+N.I.*
-
-**Not yet in force.**
 
 *Extent: E+W*
 
@@ -123,3 +121,5 @@ summary: ''
 ## Annotations
 
 [^c-495b0f3d849522bd7e82a8400e894048]: Commencement: S. 107 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+
+[^c-7ed8e8b6f2f78143188a16c61703b7e6]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2026/20/section/107) in force at 6.11.2026 by [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/d)

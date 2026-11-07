@@ -3,7 +3,7 @@ title: Land Compensation Act 1973, section 35
 act: Land Compensation Act 1973
 section: '35'
 status: revised-with-pending-changes
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1973/26/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Land Compensation Act 1973, section 35
 
-> **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
+> **Warning: changes not yet applied to this text (39).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
 >
 > Extent: England, Wales.
 

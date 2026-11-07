@@ -55,7 +55,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Family Proceedings (Amendment) (No.2) Rules 2008](../uk-parliament/regulations/2008/2500-2999/2861-the-family-proceedings-amendment-no-2-rules-2008.md) *(as originally made)*
 - [The Family Proceedings (Amendment) Rules 2008](../uk-parliament/regulations/2008/2000-2499/2446-the-family-proceedings-amendment-rules-2008.md) *(as originally made)*
 - [The Family Proceedings Fees (Amendment No. 2) Order 2008](../uk-parliament/regulations/2008/3000-3499/3106-the-family-proceedings-fees-amendment-no-2-order-2008.md) *(as originally made)*
-- [The Family Proceedings Fees (Amendment) Order 2008](../uk-parliament/regulations/2008/2500-2999/2856-the-family-proceedings-fees-amendment-order-2008.md) *(as originally made)*
+- [The Family Proceedings Fees (Amendment) Order 2008](../uk-parliament/regulations/2008/2500-2999/2856-the-family-proceedings-fees-amendment-order-2008.md) *(changes pending)*
 - [The Family Proceedings Fees Order 2008](../uk-parliament/regulations/2008/1000-1499/1054-the-family-proceedings-fees-order-2008.md) *(changes pending)*
 - [The Maximum Number of Judges Order 2008](../uk-parliament/regulations/2008/1500-1999/1777-the-maximum-number-of-judges-order-2008.md) *(as originally made)*
 - [The Non-Contentious Probate Fees (Amendment) Order 2008](../uk-parliament/regulations/2008/2500-2999/2854-the-non-contentious-probate-fees-amendment-order-2008.md) *(as originally made)*

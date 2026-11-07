@@ -16,7 +16,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Jobseekers (Northern Ireland) Order 1995](../../northern-ireland/orders-in-council/1995/2705-the-jobseekers-northern-ireland-order-1995.md) *(changes pending)* — 151 regulations on this topic made under it
 - [Social Security Act 1986](../../uk-parliament/acts/public/1986/50-social-security-act-1986/README.md) *(changes pending)* — 148 regulations on this topic made under it
 - [The Welfare Reform (Northern Ireland) Order 2015](../../northern-ireland/orders-in-council/2015/2006-the-welfare-reform-northern-ireland-order-2015/README.md) *(changes pending)* — 146 regulations on this topic made under it
-- [Welfare Reform Act 2007](../../uk-parliament/acts/public/2007/5-welfare-reform-act-2007/README.md) *(changes pending)* — 145 regulations on this topic made under it
+- [Welfare Reform Act 2007](../../uk-parliament/acts/public/2007/5-welfare-reform-act-2007/README.md) *(changes pending)* — 144 regulations on this topic made under it
 - [Social Security Act 1998](../../uk-parliament/acts/public/1998/14-social-security-act-1998/README.md) *(changes pending)* — 137 regulations on this topic made under it
 - [State Pension Credit Act 2002](../../uk-parliament/acts/public/2002/16-state-pension-credit-act-2002.md) *(changes pending)* — 100 regulations on this topic made under it
 - [The Social Security (Northern Ireland) Order 1998](../../northern-ireland/orders-in-council/1998/1506-the-social-security-northern-ireland-order-1998/README.md) *(changes pending)* — 92 regulations on this topic made under it
@@ -79,7 +79,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-3781 in force, by year:
+3780 in force, by year:
 
 | year | in force |
 |---|---|
@@ -101,7 +101,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 70 |
 | [2010](2010.md) | 96 |
 | [2009](2009.md) | 80 |
-| [2008](2008.md) | 122 |
+| [2008](2008.md) | 121 |
 | [2007](2007.md) | 99 |
 | [2006](2006.md) | 88 |
 | [2005](2005.md) | 106 |

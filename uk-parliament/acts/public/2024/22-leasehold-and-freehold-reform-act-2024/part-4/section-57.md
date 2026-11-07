@@ -2,8 +2,8 @@
 title: Leasehold and Freehold Reform Act 2024, section 57
 act: Leasehold and Freehold Reform Act 2024
 section: '57'
-status: not-yet-in-force
-text_date: '2025-03-03'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, section 57
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 
@@ -20,11 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-**Not yet in force.**
+(1)[^c-30023c02ac4f69e8cc83dc4e205fccb4] The LTA 1985 is amended as follows.
 
-(1) The LTA 1985 is amended as follows.
-
-(2) After section 21E (as inserted by section 56) insert—
+(2)[^c-30023c02ac4f69e8cc83dc4e205fccb4] After section 21E (as inserted by section 56) insert—
 
 > **21F. Right to obtain information on request**
 >
@@ -123,3 +121,5 @@ summary: ''
 ## Annotations
 
 [^c-819c840219cc3cc0a46d58cb84e3f0c7]: Commencement: S. 57 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-30023c02ac4f69e8cc83dc4e205fccb4]: Commencement: [S. 57(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/57/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/22/section/57/2) in force at 6.11.2026 for specified purposes for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/d)

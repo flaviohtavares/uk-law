@@ -3,7 +3,7 @@ title: The Housing Benefit (Persons who have attained the qualifying age for sta
 act: The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
 section: '55'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2006/214/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006, section 55
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
 ## 55. Non-dependant deductions[^c-0da40fd2c377129aaccf2bcc7e68be26]
 
@@ -74,6 +74,7 @@ summary: ''
 - (bd)[^c-49d26b1b6fb2880c4e11fb6f9caaac52] any Post Office compensation payment;
 - (be)[^c-e05f44f07e798e9d4b0a3faa4c200c21] any LGBT Financial Recognition Scheme payment;
 - (bf)[^c-8a863cfef44a22b0afe8740991c246f9] any miscarriage of justice compensation payment;
+- (bg)[^c-d5de52b17c8de06464f347192d849e38] any Mother and Baby Scheme payment;
 - (c) any payment which had his income fallen to be calculated under regulation 40 of the Housing Benefit Regulations 2006 would have been disregarded under paragraph 35 of Schedule 5 (payments made under certain trusts and certain other payments) to those Regulations.
 - (d)[^c-7fa85edb53c742028c3f91ffef58666c] any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State.
 
@@ -186,6 +187,8 @@ summary: ''
 [^c-e05f44f07e798e9d4b0a3faa4c200c21]: Textual amendment: [Reg. 55(10)(be)](https://www.legislation.gov.uk/uksi/2006/214/regulation/55/10/be) inserted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2025/44/regulation/7/3)
 
 [^c-8a863cfef44a22b0afe8740991c246f9]: Textual amendment: [Reg. 55(10)(bf)](https://www.legislation.gov.uk/uksi/2006/214/regulation/55/10/bf) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2025/778/regulation/6/3)
+
+[^c-d5de52b17c8de06464f347192d849e38]: Textual amendment: [Reg. 55(10)(bg)](https://www.legislation.gov.uk/uksi/2006/214/regulation/55/10/bg) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/5/3)
 
 [^c-7fa85edb53c742028c3f91ffef58666c]: Textual amendment: Reg. 55(10)(d) inserted (23.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations 2017 (S.I. 2017/870)](https://www.legislation.gov.uk/uksi/2017/870), [regs. 1](https://www.legislation.gov.uk/uksi/2017/870/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/870/regulation/7/4)
 

@@ -12,7 +12,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [United Kingdom Internal Market Act 2020](../../uk-parliament/acts/public/2020/27-united-kingdom-internal-market-act-2020/README.md) *(changes pending)* — 11 regulations on this topic made under it
 - [Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020](../../uk-parliament/acts/public/2020/20-immigration-and-social-security-co-ordination-eu-withdrawal-act-2020.md) — 5 regulations on this topic made under it
 - [Taxation (Post-transition Period) Act 2020](../../uk-parliament/acts/public/2020/26-taxation-post-transition-period-act-2020/README.md) — 3 regulations on this topic made under it
-- [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021](../../scotland/acts/2021/4-uk-withdrawal-from-the-european-union-continuity-scotland-act-2021.md) *(changes pending)* — 3 regulations on this topic made under it
+- [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021](../../scotland/acts/2021/4-uk-withdrawal-from-the-european-union-continuity-scotland-act-2021.md) — 3 regulations on this topic made under it
 
 ## Regulations
 

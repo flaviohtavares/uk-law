@@ -3,7 +3,7 @@ title: Traffic Management Act 2004, section 50
 act: Traffic Management Act 2004
 section: '50'
 status: not-yet-in-force
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2004/18/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

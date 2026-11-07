@@ -2,8 +2,8 @@
 title: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 41
 act: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
 section: '41'
-status: revised-with-pending-changes
-text_date: '2023-10-01'
+status: revised
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2020/293/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 41
 
-> **Warning: changes not yet applied to this text (49).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/nisr/2020/293
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 

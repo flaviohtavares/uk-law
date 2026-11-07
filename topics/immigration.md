@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **IMMIGRATION**. Repe
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Immigration and Asylum Act 1999](../uk-parliament/acts/public/1999/33-immigration-and-asylum-act-1999/README.md) *(changes pending)* — 148 regulations on this topic made under it
+- [Immigration and Asylum Act 1999](../uk-parliament/acts/public/1999/33-immigration-and-asylum-act-1999/README.md) *(changes pending)* — 147 regulations on this topic made under it
 - [Immigration Act 1971](../uk-parliament/acts/public/1971/77-immigration-act-1971/README.md) *(changes pending)* — 118 regulations on this topic made under it
 - [Nationality, Immigration and Asylum Act 2002](../uk-parliament/acts/public/2002/41-nationality-immigration-and-asylum-act-2002/README.md) *(changes pending)* — 94 regulations on this topic made under it
 - [Immigration Act 2014](../uk-parliament/acts/public/2014/22-immigration-act-2014/README.md) *(changes pending)* — 91 regulations on this topic made under it
@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-609 in force.
+608 in force.
 
 **2026**
 
@@ -368,7 +368,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Immigration (Biometric Registration) (Amendment No. 2) Regulations 2009](../uk-parliament/regulations/2009/3000-3499/3321-the-immigration-biometric-registration-amendment-no-2-regulations-2009.md) *(as originally made)*
 - [The Immigration (Biometric Registration) (Amendment) Regulations 2009](../uk-parliament/regulations/2009/0500-0999/819-the-immigration-biometric-registration-amendment-regulations-2009.md) *(as originally made)*
 - [The Immigration (Passenger Transit Visa) (Amendment) (No. 2) Order 2009](../uk-parliament/regulations/2009/1000-1499/1032-the-immigration-passenger-transit-visa-amendment-no-2-order-2009.md) *(changes pending)*
-- [The Immigration (Passenger Transit Visa) (Amendment) Order 2009](../uk-parliament/regulations/2009/0000-0499/198-the-immigration-passenger-transit-visa-amendment-order-2009.md) *(changes pending)*
 - [The Immigration (Restrictions on Employment) (Amendment) Order 2009](../uk-parliament/regulations/2009/2500-2999/2908-the-immigration-restrictions-on-employment-amendment-order-2009.md) *(as originally made)*
 - [The Immigration Services Commissioner (Designated Professional Body) (Fees) Order 2009](../uk-parliament/regulations/2009/0000-0499/458-the-immigration-services-commissioner-designated-professional-body-fees-order-20.md) *(as originally made)*
 - [The Immigration and Asylum Act 1999 (Part V Exemption: Licensed Sponsors Tiers 2 and 4) Order 2009](../uk-parliament/regulations/2009/0500-0999/506-the-immigration-and-asylum-act-1999-part-v-exemption-licensed-sponsors-tiers-2-a.md) *(changes pending)*
@@ -380,7 +379,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Asylum and Immigration Tribunal (Fast Track Procedure) (Amendment) Rules 2008](../uk-parliament/regulations/2008/1000-1499/1089-the-asylum-and-immigration-tribunal-fast-track-procedure-amendment-rules-2008.md) *(changes pending)*
 - [The Asylum and Immigration Tribunal (Procedure) (Amendment) Rules 2008](../uk-parliament/regulations/2008/1000-1499/1088-the-asylum-and-immigration-tribunal-procedure-amendment-rules-2008.md) *(changes pending)*
 - [The Immigration (Biometric Registration) (Civil Penalty Code of Practice) Order 2008](../uk-parliament/regulations/2008/3000-3499/3049-the-immigration-biometric-registration-civil-penalty-code-of-practice-order-2008.md) *(as originally made)*
-- [The Immigration (Biometric Registration) (Objection to Civil Penalty) Order 2008](../uk-parliament/regulations/2008/2500-2999/2830-the-immigration-biometric-registration-objection-to-civil-penalty-order-2008.md) *(as originally made)*
+- [The Immigration (Biometric Registration) (Objection to Civil Penalty) Order 2008](../uk-parliament/regulations/2008/2500-2999/2830-the-immigration-biometric-registration-objection-to-civil-penalty-order-2008.md)
 - [The Immigration (Biometric Registration) (Pilot) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1183-the-immigration-biometric-registration-pilot-regulations-2008.md) *(as originally made)*
 - [The Immigration (Biometric Registration) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3048-the-immigration-biometric-registration-regulations-2008.md)
 - [The Immigration (Designation of Travel Bans) (Amendment) Order 2008](../uk-parliament/regulations/2008/3000-3499/3052-the-immigration-designation-of-travel-bans-amendment-order-2008.md) *(as originally made)*

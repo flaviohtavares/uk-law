@@ -3,15 +3,15 @@ title: The Credit Cards (Price Discrimination) Order 1990
 id: uksi/1990/2159
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '1990-10-31'
-text_date: null
-extent: null
+text_date: '2001-03-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1990/2159
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1990/2159/pdfs/uksi_19902159_en.pdf
-- http://www.legislation.gov.uk/uksi/1990/2159/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/1990/2159/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Credit Cards (Price Discrimination) Order 1990
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2001-03-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 1990 No. 2159
 
@@ -45,11 +49,11 @@ And whereas the Secretary of State has considered the representations made to hi
 
 Now, therefore, the Secretary of State, being the appropriate Minister within the meaning of section 56 of the said Act, in exercise of the powers conferred by sections 56(2) and 90(2), (3) and (4) of, and paragraphs 1 and 2 of Schedule 8 to, the said Act, and for the purpose of remedying or preventing adverse effects specified in a report of the Monopolies and Mergers Commission entitled “Credit Card Services—a report on the supply of credit card services in the United Kingdom”[^f00002], hereby makes the following Order:—
 
-## 1. Citation and Commencement
+## 1. Citation and Commencement[^c-b4b537138b5a65a26bd9203aa303bf67]
 
 This Order may be cited as the Credit Cards (Price Discrimination) Order 1990 and shall come into force on 28th February 1991.
 
-## 2. Interpretation
+## 2. Interpretation[^c-e1500886bb630956c7cf8c491507ad69]
 
 (1) In this Order—
 
@@ -78,9 +82,9 @@ This Order may be cited as the Credit Cards (Price Discrimination) Order 1990 an
 
 (4) In the case of a person falling within paragraph (a), (b) or (c) of section 90(3) of the Fair Trading Act 1973, this Order shall extend to his acts and omissions outside the United Kingdom.
 
-**5)** This Order shall extend so as to prohibit the carrying out of agreements already in existence on the making of this Order as it prohibits the carrying out of agreements made subsequently.
+(5) This Order shall extend so as to prohibit the carrying out of agreements already in existence on the making of this Order as it prohibits the carrying out of agreements made subsequently.
 
-## 3. Prohibition
+## 3. Prohibition[^c-c259933bdb5c6a0dc123cf9e0ba49567]
 
 (1) Subject to article 4 below, the parties to any agreement[^f00004] relating to payment cards which:
 
@@ -92,12 +96,12 @@ shall terminate it before 7th March 1991 to the extent of that prohibition, rest
 
 (2) On and after 7th March 1991, it shall be unlawful for any person to make or carry out an agreement relating to payment cards to the extent that it imposes or has the effect of imposing any prohibition, restriction or requirement falling within the preceding provisions of this article.
 
-**4.** Article 3 does not apply to a requirement:
+**4.**[^c-4c3eca132f162c2a981c0866e36ab2ec] Article 3 does not apply to a requirement:
 
 - (a) to comply with any provision of the law of the United Kingdom; or
 - (b) to limit the maximum amount of a difference in price to the amount of the fee or charge imposed under the agreement with respect to the reimbursement for supplies made on the production of a credit card.
 
-**5.** This Order shall not apply in respect of an agreement so far as it is or, if made, would be an agreement to which the Restrictive Trade Practices Act 1976[^f00005] applies or would apply, as the case may be.
+**5.**[^c-66e44d11d8a5934f1a186fa1353df294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 John Redwood
 
@@ -127,8 +131,16 @@ Copies of the Monopolies and Mergers Commission Report on Credit Card Services a
 
 [^f00002]: Footnote: Cm 718.
 
+[^c-b4b537138b5a65a26bd9203aa303bf67]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1990/2159/article/1) in force at 28.2.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2159/article/1)
+
+[^c-e1500886bb630956c7cf8c491507ad69]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1990/2159/article/2) in force at 28.2.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2159/article/1)
+
 [^f00003]: Footnote: See section 137(5) of the Fair Trading Act 1973 for the definition of “group of interconnected bodies corporate”.
+
+[^c-c259933bdb5c6a0dc123cf9e0ba49567]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1990/2159/article/3) in force at 28.2.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2159/article/1)
 
 [^f00004]: Footnote: Agreement is defined in section 137(2) of the Fair Trading Act [1973 (c. 41)](https://www.legislation.gov.uk/ukpga/1973/41).
 
-[^f00005]: Footnote: [1976 c. 34](https://www.legislation.gov.uk/ukpga/1976/34).
+[^c-4c3eca132f162c2a981c0866e36ab2ec]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1990/2159/article/4) in force at 28.2.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2159/article/1)
+
+[^c-66e44d11d8a5934f1a186fa1353df294]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/1990/2159/article/5) revoked (1.3.2001) by [The Competition Act 1998 (Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/2031)](https://www.legislation.gov.uk/uksi/2000/2031), [arts. 1](https://www.legislation.gov.uk/uksi/2000/2031/article/1), [13(2)](https://www.legislation.gov.uk/uksi/2000/2031/article/13/2)

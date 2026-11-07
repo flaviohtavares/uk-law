@@ -6,16 +6,17 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 ## Acts of the Northern Ireland Assembly (since 2000)
 
-212 in force.
+213 in force.
 
 **2026**
 
+- [Administrative and Financial Provisions Act (Northern Ireland) 2026](../northern-ireland/acts/2026/10-administrative-and-financial-provisions-act-northern-ireland-2026.md) *(as originally made)*
 - [Budget Act (Northern Ireland) 2026](../northern-ireland/acts/2026/3-budget-act-northern-ireland-2026.md)
 - [Deaths, Still-Births and Baby Loss Act (Northern Ireland) 2026](../northern-ireland/acts/2026/2-deaths-still-births-and-baby-loss-act-northern-ireland-2026.md)
 - [Hospital Parking Charges Act (Northern Ireland) 2026](../northern-ireland/acts/2026/4-hospital-parking-charges-act-northern-ireland-2026.md)
 - [Inquiry (Mother and Baby Institutions, Magdalene Laundries and Workhouses) and Redress Scheme Act (Northern Ireland) 2026](../northern-ireland/acts/2026/9-inquiry-mother-and-baby-institutions-magdalene-laundries-and-workhouses-and-redr.md)
 - [Insolvency (Amendment) Act (Northern Ireland) 2026](../northern-ireland/acts/2026/6-insolvency-amendment-act-northern-ireland-2026/README.md)
-- [Northern Ireland Fiscal Council Act (Northern Ireland) 2026](../northern-ireland/acts/2026/8-northern-ireland-fiscal-council-act-northern-ireland-2026.md) *(as originally made)*
+- [Northern Ireland Fiscal Council Act (Northern Ireland) 2026](../northern-ireland/acts/2026/8-northern-ireland-fiscal-council-act-northern-ireland-2026.md)
 - [RHI (Closure of Non-Domestic Scheme) Act (Northern Ireland) 2026](../northern-ireland/acts/2026/5-rhi-closure-of-non-domestic-scheme-act-northern-ireland-2026.md)
 - [School Uniforms (Guidelines and Allowances) Act (Northern Ireland) 2026](../northern-ireland/acts/2026/1-school-uniforms-guidelines-and-allowances-act-northern-ireland-2026.md)
 - [Sign Language Act (Northern Ireland) 2026](../northern-ireland/acts/2026/7-sign-language-act-northern-ireland-2026.md)

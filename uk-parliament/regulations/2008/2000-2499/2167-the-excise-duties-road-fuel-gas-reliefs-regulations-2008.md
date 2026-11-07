@@ -3,36 +3,36 @@ title: The Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2008
 id: uksi/2008/2167
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '2008-08-13'
-text_date: '2008-08-13'
+text_date: '2008-12-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2167
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2167/pdfs/uksiem_20082167_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2167/pdfs/uksi_20082167_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2167/data.pdf
-pending_changes: 3
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2008
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2008-08-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2167
+> This law has been repealed or revoked.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
 2008 No. 2167
 
 Excise
 
-The Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2008
+The Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2008 (revoked)[^c-67b42b75a5a710c421686f20da4e6c66]
 
 Made
 
@@ -46,49 +46,24 @@ Coming into force
 
 1st October 2008
 
-The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 20AA(1)(a) and (2)(a), (b), (c), (h) and (i) of the Hydrocarbon Oil Duties Act 1979[^f00001]:
+[^c-67b42b75a5a710c421686f20da4e6c66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^c-73eebe4b2fb420ec3260eea965067fc4]
+**No longer in force.**
 
-(1) These Regulations may be cited as the Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2008.
+## 1. Citation, commencement and interpretation[^c-67b42b75a5a710c421686f20da4e6c66]
 
-(2) They come into force on 1st October 2008 and only have effect in relation to road fuel gas that is charged with duty on or after that date.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In these Regulations, “duty” means the duty of excise charged by section 8(1) or (2) of the Hydrocarbon Oil Duties Act 1979[^f00002].
+## 2. Relief[^c-67b42b75a5a710c421686f20da4e6c66]
 
-## 2. Relief[^c-01d15d16f07cbc2868301729439c7937]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Relief from duty is allowed as follows—
+[^c-67b42b75a5a710c421686f20da4e6c66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in the case of natural road fuel gas, £0.029 a kilogram is remitted; and
-- (b) in the case of any other road fuel gas, £0.0428 a kilogram is remitted.
+**May not be in force at this date. Check the source.**
 
-Mike Eland
-
-Bernadette Kenny
-
-Two of the Commissioners for Her Majesty’s Revenue and Customs
-
-13th August 2008
-
-EXPLANATORY NOTE
-
-(This note is not part of the Regulations)
-
-These Regulations, which come into force on 1st October 2008, provide for a partial relief from the excise duty charged on road fuel gas. The relief is allowed only in respect of road fuel gas that is charged with duty on or after that date.
-
-The result of the application of the relief (which is provided in the form of a remission of part of the duty that is chargeable) is that the amount a person would otherwise be liable to pay in respect of excise duty on road fuel gas is reduced by the amounts specified in these Regulations: a person will therefore be liable to pay 13.70 pence per kilogram on natural road fuel gas and 16.49 pence per kilogram on other road fuel gas.
-
-The rates of duty charged on road fuel gas are prescribed by section 8(3) of the Hydrocarbon Oil Duties Act [1979 (c. 5)](https://www.legislation.gov.uk/ukpga/1979/5) (“the Oil Act”). Section 15(5) of the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9) (“the Finance Act”) amended section 8(3) of the Oil Act so as to increase the rates of duty, with effect from 1st October 2008. The result of the application of the relief is that a person will pay the same amount as if section 15(5) of the Finance Act had not come into effect.
-
-A full and final Impact Assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+[^c-67b42b75a5a710c421686f20da4e6c66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5); section 5 was amended to provide a definition of “natural road fuel gas” by section 6(1) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 20AA was inserted by section 2(1) of the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26). Relevant amendments were made to section 20AA by Part 1(4) of Schedule 23 to the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34) and section 10(3) of the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17). Section 27(3) applies the definition of “the Commissioners” in section 1(1) of the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), namely “the Commissioners” means “the Commissioners for Her Majesty’s Revenue and Customs” (see the amendment made by paragraph 22(b) of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11)).
-
-[^c-73eebe4b2fb420ec3260eea965067fc4]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2167/regulation/1/2)
-
-[^f00002]: Footnote: The rate of excise duty charged is specified in section 8(3). Relevant amendments were made to section 8(3) by section 6(2) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), section 1(3) of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), section 6(2) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), sections 4(6) and 5(5) of the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7), sections 6(5) and 7(5) of the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25), section 10(5) of the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11) and section 15(5) of the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9).
-
-[^c-01d15d16f07cbc2868301729439c7937]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2167/regulation/1/2)
+[^c-67b42b75a5a710c421686f20da4e6c66]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2167) revoked (1.12.2008) by [The Excise Duties (Road Fuel Gas) (Reliefs) (Revocation) Regulations 2008 (S.I. 2008/3019)](https://www.legislation.gov.uk/uksi/2008/3019), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3019/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/3019/regulation/2)

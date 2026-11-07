@@ -3,7 +3,7 @@ title: Criminal Justice Act 2003, section 259A
 act: Criminal Justice Act 2003
 section: 259A
 status: not-yet-in-force
-text_date: '2026-10-01'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2003/44/section/259A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

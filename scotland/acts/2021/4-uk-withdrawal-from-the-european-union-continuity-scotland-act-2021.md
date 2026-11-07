@@ -3,16 +3,16 @@ title: UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021
 id: asp/2021/4
 type: ScottishAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '2021-01-29'
-text_date: '2024-01-01'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2021/4
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2021/4/pdfs/aspen_20210004_en.pdf
 - http://www.legislation.gov.uk/asp/2021/4/pdfs/asp_20210004_en.pdf
 - http://www.legislation.gov.uk/asp/2021/4/data.pdf
-pending_changes: 4
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/asp/2021/4
+> Text as at 2026-10-26.
 >
 > Extent: Scotland.
 
@@ -645,7 +645,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
   - (iii) the arrangements for reviewing, and reporting on, progress in implementing the recommendations, and
 - (b) if the Scottish Ministers do not intend to implement the recommendations in the improvement report (in full or in part), the reasons for that.
 
-(3) The Scottish Ministers must lay a copy of the improvement plan before the Scottish Parliament either—
+(3) The Scottish Ministers must lay a copy of the improvement plan before the Scottish Parliament for approval[^c-395f6c6b43db250c366516196e08d68f] either—
 
 - (a) before the end of the period of 6 months beginning with the date on which the improvement report was laid before the Parliament, or
 - (b) before the end of the period of 9 months beginning with that date, if the Scottish Ministers consider that it is necessary to consult other persons (or the public more generally) about the plan.
@@ -658,16 +658,16 @@ Where Environmental Standards Scotland prepares an improvement report under sect
   - (i) details of how those views (if any) have been taken into account in preparing the plan that is laid before the Parliament, or
   - (ii) a statement that no views were expressed in response to the consultation or that no account has been taken of views expressed.
 
-(5) If, within 40 days of a copy of the improvement plan having been laid before the Scottish Parliament under subsection (3), the Parliament resolves that the plan should not be approved, the Scottish Ministers must—
+(5) If the Parliament does not resolve to approve the plan[^c-7ba3abd47b6a32cbb7dd8b126341a031], the Scottish Ministers must—
 
 - (a) review and revise the plan, having regard to any views expressed by the Parliament in relation to the plan, and
-- (b) lay a copy of a revised improvement plan before the Parliament before the end of the period of 3 months beginning with the date on which the Parliament resolved not to approve the plan.
+- (b) lay a copy of a revised improvement plan before the Parliament before the end of the period of 3 months beginning with the date on which the Parliament did not resolve to approve the plan[^c-93a6f77178eeb0941589019bb1c9dcdb].
 
 (6) Subsection (5) applies in relation to any revised improvement plan as it applies in relation to the first improvement plan.
 
 (7) Once the Scottish Parliament resolves that the improvement plan laid under subsection (3), or any revised improvement plan laid under subsection (5)(b), should be approved, the Scottish Ministers must publish the plan.
 
-(8) In calculating the period of 40 days mentioned in subsection (5), no account is to be taken of any period during which the Parliament is dissolved or in recess for more than 4 days.
+(8)[^c-c0d7231a51ed5e8e4fb0c29482bbf21c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Compliance notices
 
@@ -1515,6 +1515,14 @@ to perform such of its functions (and to such extent) as it may determine.
 [^c-a5d4f709bef844643411be62a6352210]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2021/4/section/29) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
 [^c-081cd02bfc60c27aab4969e8c9a8c2d9]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2021/4/section/30) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+
+[^c-395f6c6b43db250c366516196e08d68f]: Textual amendment: Words in [s. 30(3)](https://www.legislation.gov.uk/asp/2021/4/section/30/3) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 54(2)](https://www.legislation.gov.uk/asp/2026/6/section/54/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z9)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z9)
+
+[^c-7ba3abd47b6a32cbb7dd8b126341a031]: Textual amendment: Words in [s. 30(5)](https://www.legislation.gov.uk/asp/2021/4/section/30/5) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 54(3)(a)](https://www.legislation.gov.uk/asp/2026/6/section/54/3/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z9)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z9)
+
+[^c-93a6f77178eeb0941589019bb1c9dcdb]: Textual amendment: Words in [s. 30(5)(b)](https://www.legislation.gov.uk/asp/2021/4/section/30/5/b) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 54(3)(b)](https://www.legislation.gov.uk/asp/2026/6/section/54/3/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z9)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z9)
+
+[^c-c0d7231a51ed5e8e4fb0c29482bbf21c]: Textual amendment: [S. 30(8)](https://www.legislation.gov.uk/asp/2021/4/section/30/8) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 54(4)](https://www.legislation.gov.uk/asp/2026/6/section/54/4), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z9)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z9)
 
 [^c-7e3da3dbe752aa138faa34e2cdedc9a7]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2021/4/section/31) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 

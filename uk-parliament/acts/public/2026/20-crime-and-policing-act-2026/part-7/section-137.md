@@ -2,8 +2,8 @@
 title: Crime and Policing Act 2026, section 137
 act: Crime and Policing Act 2026
 section: '137'
-status: not-yet-in-force
-text_date: '2026-10-29'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/137
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Crime and Policing Act 2026, section 137
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (33).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales.
 
-## 137. Child abduction[^c-1bf5c9930c3bf0f1c6aa384ac4731100]
+## 137. Child abduction[^c-1bf5c9930c3bf0f1c6aa384ac4731100][^c-89623e630dd5f2318ab8afd0d526627a]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) The [Child Abduction Act 1984](https://www.legislation.gov.uk/ukpga/1984/37/contents) is amended as set out in subsections (2) to (4).
 
@@ -53,3 +51,5 @@ summary: ''
 ## Annotations
 
 [^c-1bf5c9930c3bf0f1c6aa384ac4731100]: Commencement: S. 137 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+
+[^c-89623e630dd5f2318ab8afd0d526627a]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2026/20/section/137) in force at 6.11.2026 by [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)

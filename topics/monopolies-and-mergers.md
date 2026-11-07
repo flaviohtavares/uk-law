@@ -6,11 +6,11 @@ Laws in force under the legislation.gov.uk subject heading **MONOPOLIES AND MERG
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Fair Trading Act 1973](../uk-parliament/acts/public/1973/41-fair-trading-act-1973/README.md) — 43 regulations on this topic made under it
+- [Fair Trading Act 1973](../uk-parliament/acts/public/1973/41-fair-trading-act-1973/README.md) — 42 regulations on this topic made under it
 
 ## Regulations
 
-45 in force.
+44 in force.
 
 **1999**
 
@@ -21,7 +21,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Foreign Package Holidays (Tour Operators and Travel Agents) Order 1998](../uk-parliament/regulations/1998/1500-1999/1945-the-foreign-package-holidays-tour-operators-and-travel-agents-order-1998.md) *(as originally made)*
 - [The Monopoly References (Deletion of Exclusions) Order 1998](../uk-parliament/regulations/1998/2000-2499/2253-the-monopoly-references-deletion-of-exclusions-order-1998.md) *(as originally made)*
-- [The Restriction on Agreements and Conduct (Specified Domestic Electrical Goods) Order 1998](../uk-parliament/regulations/1998/1000-1499/1271-the-restriction-on-agreements-and-conduct-specified-domestic-electrical-goods-or.md)
 
 **1997**
 
@@ -29,11 +28,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [The Films (Exhibition Periods) Order 1996](../uk-parliament/regulations/1996/3000-3499/3140-the-films-exhibition-periods-order-1996.md) *(as originally made)*
+- [The Films (Exhibition Periods) Order 1996](../uk-parliament/regulations/1996/3000-3499/3140-the-films-exhibition-periods-order-1996.md)
 
 **1995**
 
-- [The Electrical Contracting (London Exhibition Halls) Order 1995](../uk-parliament/regulations/1995/3000-3499/3299-the-electrical-contracting-london-exhibition-halls-order-1995.md) *(as originally made)*
+- [The Electrical Contracting (London Exhibition Halls) Order 1995](../uk-parliament/regulations/1995/3000-3499/3299-the-electrical-contracting-london-exhibition-halls-order-1995.md)
 - [The Fair Trading Act (Amendment) (Newspaper mergers) Order 1995](../uk-parliament/regulations/1995/1000-1499/1351-the-fair-trading-act-amendment-newspaper-mergers-order-1995.md) *(as originally made)*
 
 **1994**
@@ -63,8 +62,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1990**
 
-- [The Credit Cards (Merchant Acquisition) Order 1990](../uk-parliament/regulations/1990/2000-2499/2158-the-credit-cards-merchant-acquisition-order-1990.md) *(as originally made)*
-- [The Credit Cards (Price Discrimination) Order 1990](../uk-parliament/regulations/1990/2000-2499/2159-the-credit-cards-price-discrimination-order-1990.md) *(as originally made)*
+- [The Credit Cards (Merchant Acquisition) Order 1990](../uk-parliament/regulations/1990/2000-2499/2158-the-credit-cards-merchant-acquisition-order-1990.md)
+- [The Credit Cards (Price Discrimination) Order 1990](../uk-parliament/regulations/1990/2000-2499/2159-the-credit-cards-price-discrimination-order-1990.md)
 - [The EEC Merger Control(Consequential Provisions) Regulations 1990](../uk-parliament/regulations/1990/1500-1999/1563-the-eec-merger-control-consequential-provisions-regulations-1990.md) *(as originally made)*
 - [The Merger (Fees) Regulations 1990](../uk-parliament/regulations/1990/1500-1999/1660-the-merger-fees-regulations-1990.md) *(as originally made)*
 - [The Merger (Prenotification) Regulations 1990](../uk-parliament/regulations/1990/0500-0999/501-the-merger-prenotification-regulations-1990.md) *(as originally made)*

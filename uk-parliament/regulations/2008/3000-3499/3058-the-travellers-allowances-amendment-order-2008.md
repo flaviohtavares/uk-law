@@ -3,16 +3,16 @@ title: The Travellers’ Allowances (Amendment) Order 2008
 id: uksi/2008/3058
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-11-28'
-text_date: null
-extent: null
+text_date: '2011-04-22'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3058
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3058/pdfs/uksiem_20083058_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3058/pdfs/uksi_20083058_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3058/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/3058/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Travellers’ Allowances (Amendment) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2011-04-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 3058
 
@@ -46,13 +50,13 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make this Order exercising the powers in sections 13(1) and 13(3)[^f00001] of the Customs and Excise Duties (General Reliefs) Act 1979[^f00002]:
 
-**1.** (1) This Order may be cited as the Travellers’ Allowances (Amendment) Order 2008 and comes into force on 1st December 2008.
+**1.**[^c-949ff64330c961a102fa6121f7406304] (1) This Order may be cited as the Travellers’ Allowances (Amendment) Order 2008 and comes into force on 1st December 2008.
 
-(2) The changes it makes only have effect where the person in question enters the United Kingdom on 1st December 2008 or later (see articles 2(1) and 2(2) of the Travellers’ Allowances Order 1994[^f00003] – traveller from outside European Community’s value added tax or excise area).
+(2) The changes it makes only have effect where the person in question enters the United Kingdom on 1st December 2008 or later (see articles 2(1) and 2(2) of the Travellers’ Allowances Order 1994[^f00003] – traveller from outside European Union’s[^c-13284b2060bb8bea3368380ffade516c] value added tax or excise area).
 
-**2.** The Schedule amends the Travellers’ Allowances Order 1994.
+**2.**[^c-e1227baac32308783c78cbd76663d6a8] The Schedule amends the Travellers’ Allowances Order 1994.
 
-**3.** The Travellers’ Allowances Amendment Order 1995[^f00004] is revoked.
+**3.**[^c-17b04ae41e8b63fc8fa09247ed7e6eb9] The Travellers’ Allowances Amendment Order 1995[^f00004] is revoked.
 
 Bernadette Kenny
 
@@ -66,11 +70,11 @@ Two of the Commissioners for Her Majesty’s Revenue and Customs
 
 Article 2
 
-### 1. Article 2(1) of the Order
+### 1. Article 2(1) of the Order[^c-e6874aa3f0a1389636b7849201a81f35]
 
 Omit “obtained by him in a third country and”.
 
-### 2. Article 2(2)(c) of the Order
+### 2. Article 2(2)(c) of the Order[^c-016ed46f5c1058289633a2532a934bd9]
 
 Substitute the following for everything from “(c)” to “December 1991).”—
 
@@ -82,7 +86,7 @@ Substitute the following for everything from “(c)” to “December 1991).”�
 
 .
 
-### 3. Article 2 of the Order
+### 3. Article 2 of the Order[^c-219a3f2d9b474f7ff7843dcb1330f738]
 
 Insert as article 2(3)—
 
@@ -92,7 +96,7 @@ Insert as article 2(3)—
 
 .
 
-### 4. Article 3 of the Order
+### 4. Article 3 of the Order[^c-42f98e56d42f05de1a64a3a7697b6a77]
 
 Start a new line and continue as follows—
 
@@ -102,11 +106,11 @@ Start a new line and continue as follows—
 
 .
 
-### 5. Article 4 of the Order
+### 5. Article 4 of the Order[^c-0a5f985a9830e029e64184836f82eced]
 
 For “or alcoholic beverages” substitute “, alcoholic beverages and alcohol”.
 
-### 6. The Schedule to the Order
+### 6. The Schedule to the Order[^c-637816d45e05b40ff6e50455d8217294]
 
 Replace the content and the heading “GOODS OBTAINED IN THIRD COUNTRIES” with the following table.
 
@@ -154,11 +158,31 @@ This follows from the amendments this instrument makes to the Travellers’ Allo
 
 [^f00002]: Footnote: [1979 c. 3](https://www.legislation.gov.uk/ukpga/1979/3); section 18(2) provides that “**the Commissioners**” refers to those for Revenue and Customs, adopting the meaning in section 1(1) of the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2) as amended by Schedule 4 paragraph 22(b) to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
 
+[^c-949ff64330c961a102fa6121f7406304]: Commencement: Art. 1 in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1)
+
 [^f00003]: Footnote: [S.I. 1994/955](https://www.legislation.gov.uk/uksi/1994/955), amended by [S.I. 1995/3044](https://www.legislation.gov.uk/uksi/1995/3044).
+
+[^c-13284b2060bb8bea3368380ffade516c]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+
+[^c-e1227baac32308783c78cbd76663d6a8]: Commencement: Art. 2 in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1)
+
+[^c-17b04ae41e8b63fc8fa09247ed7e6eb9]: Commencement: Art. 3 in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1)
 
 [^f00004]: Footnote: [S.I. 1995/3044](https://www.legislation.gov.uk/uksi/1995/3044).
 
+[^c-e6874aa3f0a1389636b7849201a81f35]: Commencement: Sch. para. 1 in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1)
+
+[^c-016ed46f5c1058289633a2532a934bd9]: Commencement: Sch. para. 2 in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1)
+
 [^f00005]: Footnote: O J No L 346, 29.12.07, p 6.
+
+[^c-219a3f2d9b474f7ff7843dcb1330f738]: Commencement: Sch. para. 3 in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1)
+
+[^c-42f98e56d42f05de1a64a3a7697b6a77]: Commencement: Sch. para. 4 in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1)
+
+[^c-0a5f985a9830e029e64184836f82eced]: Commencement: Sch. para. 5 in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1)
+
+[^c-637816d45e05b40ff6e50455d8217294]: Commencement: Sch. para. 6 in force at 1.12.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1)
 
 [^f00006]: Footnote: The corresponding allowance for customs duty is in Article 45 of Council Regulation 918/83/EEC (OJ No L 305, 25.04.83, p 1), as amended by Council Regulation [(EC) No 274/2008](https://www.legislation.gov.uk/european/regulation/2008/0274) (OJ No L 85, 27.03.08, p 1) .
 

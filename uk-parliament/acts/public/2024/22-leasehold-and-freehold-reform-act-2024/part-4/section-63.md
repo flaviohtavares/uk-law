@@ -2,8 +2,8 @@
 title: Leasehold and Freehold Reform Act 2024, section 63
 act: Leasehold and Freehold Reform Act 2024
 section: '63'
-status: not-yet-in-force
-text_date: '2025-03-03'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/63
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, section 63
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 
-## 63. Right of tenants to claim litigation costs from landlords[^c-ce266de26974b6511e035fa1654c366d]
+## 63. Right of tenants to claim litigation costs from landlords[^c-ce266de26974b6511e035fa1654c366d][^c-3713a3c2a61d0c10d16d209339aeb77b]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 After section 30I of the LTA 1985 insert—
 
@@ -89,3 +87,5 @@ After section 30I of the LTA 1985 insert—
 ## Annotations
 
 [^c-ce266de26974b6511e035fa1654c366d]: Commencement: S. 63 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-3713a3c2a61d0c10d16d209339aeb77b]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2024/22/section/63) in force at 6.11.2026 for specified purposes for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/i)

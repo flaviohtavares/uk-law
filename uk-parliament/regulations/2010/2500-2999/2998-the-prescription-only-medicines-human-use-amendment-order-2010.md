@@ -3,15 +3,15 @@ title: The Prescription Only Medicines (Human Use) Amendment Order 2010
 id: uksi/2010/2998
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2010-12-16'
-text_date: null
-extent: null
+text_date: '2011-01-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2998
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/2998/pdfs/uksiem_20102998_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/2998/pdfs/uksi_20102998_en.pdf
-- http://www.legislation.gov.uk/uksi/2010/2998/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2010/2998/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Prescription Only Medicines (Human Use) Amendment Order 2010
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2011-01-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2010 No. 2998
 
@@ -44,17 +48,17 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 
 In accordance with section 129(6) of that Act, they have consulted such organisations as appear to them to be representative of interests likely to be substantially affected by this Order. In accordance with sections 58(6) and 129(7) of that Act, they have consulted and taken into account the advice of the Commission on Human Medicines[^f00003].
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-bdaf190140183f3423df600e345dde1d]
 
 (1) This Order may be cited as the Prescription Only Medicines (Human Use) Amendment Order 2010 and shall come into force on 17th January 2011.
 
 (2) In this Order, “the principal Order” means the Prescription Only Medicines (Human Use) Order 1997[^f00004].
 
-## 2. Amendment of article 7 of the principal Order
+## 2. Amendment of article 7 of the principal Order[^c-8e81adaaf5dfe3cb03f94c981b0d7e6a]
 
 In article 7 of the principal Order (exemption for parenteral administration in an emergency to human beings of certain prescription only medicines)[^f00005] for “Glucose Injection 50%” substitute “Glucose Injection”.
 
-## 3. Amendment of Part 3 of Schedule 5 to the principal Order
+## 3. Amendment of Part 3 of Schedule 5 to the principal Order[^c-271ae463ad5544abcfbf1e9fed24142b]
 
 In Part 3 of Schedule 5 to the principal Order (exemptions from restriction on administration)[^f00006], in the list in column 2 of entry 9, under item (c), after “Adrenaline Acid Tartrate” add “Adrenaline Hydrochloride”.
 
@@ -94,8 +98,14 @@ An impact assessment has not been prepared for this instrument as there is no im
 
 [^f00003]: Footnote: In section 58(6) of the Act, the expression “the appropriate committee” is defined in section 4(6) of the Act, as amended by [S.I. 2005/1094](https://www.legislation.gov.uk/uksi/2005/1094); the word “Ministers” was substituted by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
 
+[^c-bdaf190140183f3423df600e345dde1d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2998/article/1) in force at 17.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2998/article/1/1)
+
 [^f00004]: Footnote: [S.I. 1997/1830](https://www.legislation.gov.uk/uksi/1997/1830).
 
+[^c-8e81adaaf5dfe3cb03f94c981b0d7e6a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2998/article/2) in force at 17.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2998/article/1/1)
+
 [^f00005]: Footnote: Relevant amending instrument is [S.I. 2005/1507](https://www.legislation.gov.uk/uksi/2005/1507).
+
+[^c-271ae463ad5544abcfbf1e9fed24142b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2998/article/3) in force at 17.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2998/article/1/1)
 
 [^f00006]: Footnote: Relevant amending instruments are [S.I. 1998/1178](https://www.legislation.gov.uk/uksi/1998/1178), [2000/2899](https://www.legislation.gov.uk/uksi/2000/2899), [2004/1189](https://www.legislation.gov.uk/uksi/2004/1189) and [2693](https://www.legislation.gov.uk/uksi/2004/2693).

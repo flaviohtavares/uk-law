@@ -3,7 +3,7 @@ title: Leasehold and Freehold Reform Act 2024, section 26
 act: Leasehold and Freehold Reform Act 2024
 section: '26'
 status: not-yet-in-force
-text_date: '2025-03-03'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

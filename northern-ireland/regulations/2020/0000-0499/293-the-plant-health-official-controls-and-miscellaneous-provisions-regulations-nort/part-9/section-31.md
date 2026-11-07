@@ -2,8 +2,8 @@
 title: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 31
 act: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
 section: '31'
-status: revised-with-pending-changes
-text_date: '2023-10-01'
+status: revised
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2020/293/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 31
 
-> **Warning: changes not yet applied to this text (49).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/nisr/2020/293
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 
@@ -28,12 +28,10 @@ summary: ''
 
 (4) A plant health inspector may—
 
-- (a) be accompanied by—
-  - (i) a representative of the European Commission; or
-  - (ii) such other persons as the inspector considers necessary; and
+- (a)[^c-3e4964da47bcc7b7dcbd656761ac2e87] be accompanied by such other persons as the inspector considers necessary; and
 - (b) bring onto the premises such equipment and vehicles as the inspector considers necessary.
 
-(5) A person accompanying a plant health inspector under paragraph (4)(a)(ii) may—
+(5) A person accompanying a plant health inspector under paragraph (4)(a)[^c-cbf78fe44efe3f903f753c6e74f240a5] may—
 
 - (a) remain on the premises and from time to time re-enter the premises without a plant health inspector;
 - (b) bring onto the premises any equipment or vehicles that the person considers necessary; and
@@ -42,3 +40,7 @@ summary: ''
 ## Annotations
 
 [^c-fb4cc31246ae14ba0dd01cf65227d6aa]: Commencement: Reg. 31 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+
+[^c-3e4964da47bcc7b7dcbd656761ac2e87]: Textual amendment: [Reg. 31(4)(a)](https://www.legislation.gov.uk/nisr/2020/293/regulation/31/4/a) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(12)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/12/a)
+
+[^c-cbf78fe44efe3f903f753c6e74f240a5]: Textual amendment: Word in [reg. 31(5)](https://www.legislation.gov.uk/nisr/2020/293/regulation/31/5) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(12)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/12/b)

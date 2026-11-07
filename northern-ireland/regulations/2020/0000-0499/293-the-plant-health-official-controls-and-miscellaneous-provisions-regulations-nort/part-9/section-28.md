@@ -2,8 +2,8 @@
 title: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 28
 act: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
 section: '28'
-status: revised-with-pending-changes
-text_date: '2023-10-01'
+status: revised
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2020/293/section/28
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 28
 
-> **Warning: changes not yet applied to this text (49).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/nisr/2020/293
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 
@@ -51,17 +51,15 @@ summary: ''
 
 (6) A plant health inspector may—
 
-- (a) be accompanied—
-  - (i) by a representative of the European Commission or an authorised officer of any competent authority designated in the Union territory for the purposes of the EU Plant Health Regulation or the Official Controls Regulation; or
-  - (ii) such other persons as the inspector considers necessary; and
+- (a)[^c-22d944e18167cad552795ad971b4b51f] be accompanied by such other persons as the inspector considers necessary; and
 - (b) bring onto the premises such equipment and vehicles as the inspector considers necessary.
 
-(7) A plant health inspector who is accompanied by a person mentioned in paragraph (6)(a)(i) may—
+(7) A plant health inspector who is accompanied by a person mentioned in paragraph (6)(a)[^c-d88fe620747e5059361fef640e24155a] may—
 
 - (a) show the person any documents or records which are inspected by the inspector under paragraph (4)(e); and
 - (b) make copies, or require copies to be made, of those documents or records for that person.
 
-(8) A person accompanying a plant health inspector under paragraph (6)(a)(ii) may—
+(8) A person accompanying a plant health inspector under paragraph (6)(a)[^c-524de4e3ad1c5ba711e83c3cfabd401c] may—
 
 - (a) remain on the premises and from time to time re-enter the premises without a plant health inspector;
 - (b) bring onto the premises any equipment or vehicles that the person considers necessary; and
@@ -70,3 +68,9 @@ summary: ''
 ## Annotations
 
 [^c-bc5e65f8bb1ee296bd8ac299a192761d]: Commencement: Reg. 28 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+
+[^c-22d944e18167cad552795ad971b4b51f]: Textual amendment: [Reg. 28(6)(a)](https://www.legislation.gov.uk/nisr/2020/293/regulation/28/6/a) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(11)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/11/a)
+
+[^c-d88fe620747e5059361fef640e24155a]: Textual amendment: Word in [reg. 28(7)](https://www.legislation.gov.uk/nisr/2020/293/regulation/28/7) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(11)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/11/b)
+
+[^c-524de4e3ad1c5ba711e83c3cfabd401c]: Textual amendment: Word in [reg. 28(8)](https://www.legislation.gov.uk/nisr/2020/293/regulation/28/8) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(11)(c)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/11/c)

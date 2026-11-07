@@ -3,28 +3,30 @@ title: The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clear
 id: uksi/2009/194
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '2009-02-04'
-text_date: '2009-02-23'
+text_date: '2009-12-04'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2009/194
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2009/194/pdfs/uksiem_20090194_en.pdf
 - http://www.legislation.gov.uk/uksi/2009/194/pdfs/uksi_20090194_en.pdf
 - http://www.legislation.gov.uk/uksi/2009/194/data.pdf
-pending_changes: 1
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 2) 2009
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2009-02-23. See https://www.legislation.gov.uk/changes/affected/uksi/2009/194
+> This law has been repealed or revoked.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
 *Extent: E+W+S+N.I.*
+
+**No longer in force.**
 
 2009 No. 194
 
@@ -32,7 +34,7 @@ Stamp Duty
 
 Stamp Duty Reserve Tax
 
-The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 2) 2009
+The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 2) 2009 (revoked)[^c-64884c55a4fc8842b9575a16652038cc]
 
 Made
 
@@ -46,106 +48,36 @@ Coming into force
 
 23rd February 2009
 
-The Treasury make the following Regulations in exercise of the powers conferred on them by sections 116 and 117 of the Finance Act 1991[^f00001].
+[^c-64884c55a4fc8842b9575a16652038cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and effect[^c-55bdedde06aca4a3320d7560fae7b6b2]
+**No longer in force.**
 
-(1) These Regulations may be cited as the Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 2) 2009 and shall come into force on 23rd February 2009.
+## 1. Citation, commencement and effect[^c-64884c55a4fc8842b9575a16652038cc]
 
-(2) These Regulations shall have effect—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) for the purposes of the charge to stamp duty, in relation to instruments executed on or after 23rd February 2009;
-- (b) for the purposes of the charge to stamp duty reserve tax—
-  - (i) in the case of agreements to transfer traded securities which are not conditional, in relation to agreements made on or after 23rd February 2009;
-  - (ii) in the case of agreements to transfer traded securities which are conditional, in relation to agreements where the condition is satisfied on or after that date.
+## 2. Interpretation[^c-64884c55a4fc8842b9575a16652038cc]
 
-## 2. Interpretation[^c-6f7d76b8dc36067652d64a2c3be711ff]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-In these Regulations—
+## 3. Prescription of recognised investment exchange and recognised clearing house[^c-64884c55a4fc8842b9575a16652038cc]
 
-- “clearing participant” means a member of EuroCCP who as such is permitted by the Rules of EuroCCP to clear transactions made on the Facility for a traded security and who may or may not also be a participant in the Facility;
-- “client” means a person who gives instructions to a non-clearing firm for traded securities to be sold on the Facility;
-- “EuroCCP” means European Central Counterparty Limited, a body corporate which is a recognised clearing house under the Financial Services and Markets Act 2000[^f00002];
-- “the Facility” means the multilateral trading facility operated by Smartpool Trading Limited, a body corporate which is permitted to operate a multilateral trading facility for the purposes of Part 4 of the Financial Services and Markets Act 2000;
-- “nominee” means a person whose business is or includes holding traded securities as a nominee for EuroCCP acting in its capacity as a person providing clearing services in connection with a transaction made on the Facility, or as a nominee for a clearing participant (as the case may be);
-- “non-clearing firm” means a participant in the Facility other than a clearing participant;
-- “traded securities” means stocks and shares which are issued or raised by a body corporate but does not include stocks and shares issued by a body corporate not incorporated in the United Kingdom unless—
-  - (a) the stocks and shares are registered in a register kept in the United Kingdom by or on behalf of the body corporate; or
-  - (b) in the case of shares, they are paired, within the meaning of section 99(6A) of the Finance Act 1986[^f00003], with shares issued by a body corporate incorporated in the United Kingdom.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescription of recognised investment exchange and recognised clearing house[^c-6e58a1572961622db455390916516aef]
+## 4. Prescribed circumstances for the purposes of sections 116 and 117[^c-64884c55a4fc8842b9575a16652038cc]
 
-For the purposes of sections 116 and 117 of the Finance Act 1991—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the SmartPool Multilateral Trading Facility (“the Facility”) is prescribed as a recognised investment exchange; and
-- (b) EuroCCP is prescribed as a recognised clearing house.
+## 5. Consequential provision[^c-64884c55a4fc8842b9575a16652038cc]
 
-## 4. Prescribed circumstances for the purposes of sections 116 and 117[^c-d8411d55d03a14422fbd9ab493347236]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1) In the circumstances prescribed by paragraph (2) below, the charge to stamp duty and the charge to stamp duty reserve tax shall be treated as not arising.
+[^c-64884c55a4fc8842b9575a16652038cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The circumstances prescribed are where, in connection with a transaction made on the Facility conditions A and B are met.
+**May not be in force at this date. Check the source.**
 
-(3) Condition A is that traded securities of a particular kind are transferred, or agreed to be transferred, from—
-
-- (a) a clearing participant or a nominee of a clearing participant to another clearing participant or nominee, or
-- (b) a non-clearing firm or its client to a clearing participant or a nominee of a clearing participant, or
-- (c) a clearing participant or a nominee of a clearing participant to EuroCCP or to a nominee of that clearing house, or
-- (d) a person other than a clearing participant to EuroCCP or to a nominee of that clearing house, as a result of a failure by a clearing participant to fulfil his obligations in respect of the transaction concerned to transfer traded securities to EuroCCP or to a nominee of that clearing house, or
-- (e) EuroCCP or a nominee of that clearing house to a clearing participant or a nominee of a clearing participant.
-
-(4) Condition B is that the person to whom those securities are agreed to be transferred under any of the agreements specified in paragraph (3) above (“the relevant agreement”) is required on receipt of those securities to transfer traded securities under a matching agreement to another person or, in the case of an agreement falling within sub-paragraph (d), would have been so required if the failure referred to in that sub-paragraph had not occurred.
-
-(5) In paragraph (4)—
-
-- (a) “matching agreement” means an agreement under which—
-  - (i) the traded securities agreed to be transferred are of the same kind as the traded securities agreed to be transferred under the relevant agreement, and
-  - (ii) the number and transfer price of the traded securities agreed to be transferred are identical to the number and transfer price of the traded securities agreed to be transferred under the relevant agreement;
-- (b) references to EuroCCP are references to that clearing houses in its capacity as a person providing clearing services in connection with a transaction made on the Facility;
-- (c) references to a clearing participant are references to a clearing participant in his capacity as such.
-
-## 5. Consequential provision[^c-f9c11c28b8191536a732be73f4708782]
-
-(1) Traded securities which are the subject of an agreement specified in regulation 4(3) shall be dealt with by a clearing participant who is a party to the agreement in a separate designated account, and not otherwise.
-
-(2) In paragraph (1) “designated account” means an account designated by EuroCCP for a clearing participant in connection with the traded securities concerned.
-
-Steve McCabe
-
-Frank Roy
-
-Two of the Lords Commissioners of Her Majesty’s Treasury
-
-4th February 2009
-
-EXPLANATORY NOTE
-
-(This note is not part of the Regulations)
-
-These Regulations exempt from stamp duty and stamp duty reserve tax (“SDRT”) certain transfers of, or agreements to transfer traded securities made in the course of trading in those securities on the SmartPool Multilateral Trading Facility (“the Facility”). The transfers and agreements exempted are those involving European Central Counterparty Limited (“EuroCCP”) (and nominees of that clearing house), through whom transactions on the Facility are cleared, or clearing participants in EuroCCP (and their nominees).
-
-Regulation 1 provides for citation, commencement and effect and regulation 2 contains definitions.
-
-Regulation 3 prescribes the Facility as a recognised investment exchange and EuroCCP as a recognised clearing house for the purpose of the exemption and regulation 4 prescribes the circumstances in which stamp duty and SDRT will not be charged.
-
-Regulation 5 makes consequential provision requiring traded securities which are agreed to be transferred in the prescribed circumstances to be dealt with in a separate designated account.
-
-A full and final Impact Assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+[^c-64884c55a4fc8842b9575a16652038cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [1991 c. 31](https://www.legislation.gov.uk/ukpga/1991/31). Section 116(4) was amended by paragraph 5 of Schedule 20 to the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) and by paragraph 7 of Schedule 21 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
-
-[^c-55bdedde06aca4a3320d7560fae7b6b2]: Commencement: Reg. 1 in force at 23.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/194/regulation/1/1)
-
-[^c-6f7d76b8dc36067652d64a2c3be711ff]: Commencement: Reg. 2 in force at 23.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/194/regulation/1/1)
-
-[^f00002]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
-
-[^f00003]: Footnote: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41). Subsections (3) to (6A) of section 99 were substituted for subsections (3) to (6) by section 144(2) of the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39). Subsection (6A) was amended by section 113(2) of the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29). The whole of Part 4 of the 1986 Act is to be repealed from a date to be appointed (*see* sections 110 and 111(1) of the 1990 Act).
-
-[^c-6e58a1572961622db455390916516aef]: Commencement: Reg. 3 in force at 23.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/194/regulation/1/1)
-
-[^c-d8411d55d03a14422fbd9ab493347236]: Commencement: Reg. 4 in force at 23.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/194/regulation/1/1)
-
-[^c-f9c11c28b8191536a732be73f4708782]: Commencement: Reg. 5 in force at 23.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/194/regulation/1/1)
+[^c-64884c55a4fc8842b9575a16652038cc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/194) revoked (4.12.2009) by [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 15) 2009 (S.I. 2009/2977)](https://www.legislation.gov.uk/uksi/2009/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2977/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2009/2977/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2977/regulation/1/2))

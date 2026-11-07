@@ -2,8 +2,8 @@
 title: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 2
 act: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
 section: '2'
-status: revised-with-pending-changes
-text_date: '2023-10-01'
+status: revised
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2020/293/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 2
 
-> **Warning: changes not yet applied to this text (49).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/nisr/2020/293
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 
@@ -21,6 +21,11 @@ summary: ''
 *Extent: N.I.*
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00004] applies to these Regulations as it applies to an Act of the Assembly.
+
+(1A)[^c-ae050f074e62377ffcaebc783f8bb2a2] In these Regulations—
+
+- (a) any reference to a member State is to be read as if Northern Ireland were a member State of the European Union;
+- (b) any reference to the Union or Union territory is to be read so as to include Northern Ireland.
 
 (2) In these Regulations—
 
@@ -55,6 +60,8 @@ summary: ''
 [^c-a3ec51ee49967f0f896b71d4e531b55d]: Commencement: Reg. 2 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^c-ae050f074e62377ffcaebc783f8bb2a2]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/nisr/2020/293/regulation/2/1A) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/2)
 
 [^f00005]: Footnote: O.J. No. L 169, 10.7.2000, p. 1, as last amended by Commission Implementing Directive (EU) 2019/523 (O.J. No. L 86, 28.3.2019, p. 41).
 

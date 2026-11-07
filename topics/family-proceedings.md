@@ -188,7 +188,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Family Proceedings (Amendment) Rules (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/24-the-family-proceedings-amendment-rules-northern-ireland-2008.md) *(as originally made)*
 - [The Family Proceedings (Amendment) Rules 2008](../uk-parliament/regulations/2008/2000-2499/2446-the-family-proceedings-amendment-rules-2008.md) *(as originally made)*
 - [The Family Proceedings Fees (Amendment No. 2) Order 2008](../uk-parliament/regulations/2008/3000-3499/3106-the-family-proceedings-fees-amendment-no-2-order-2008.md) *(as originally made)*
-- [The Family Proceedings Fees (Amendment) Order 2008](../uk-parliament/regulations/2008/2500-2999/2856-the-family-proceedings-fees-amendment-order-2008.md) *(as originally made)*
+- [The Family Proceedings Fees (Amendment) Order 2008](../uk-parliament/regulations/2008/2500-2999/2856-the-family-proceedings-fees-amendment-order-2008.md) *(changes pending)*
 - [The Family Proceedings Fees Order 2008](../uk-parliament/regulations/2008/1000-1499/1054-the-family-proceedings-fees-order-2008.md) *(changes pending)*
 
 **2007**

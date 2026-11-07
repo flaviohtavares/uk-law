@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2004-07-22'
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2004/18
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2004/18/pdfs/ukpgaen_20040018_en.pdf
 - http://www.legislation.gov.uk/ukpga/2004/18/pdfs/ukpga_20040018_en.pdf
 - http://www.legislation.gov.uk/ukpga/2004/18/data.pdf
-pending_changes: 2
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Traffic Management Act 2004
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/18
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/18
 >
 > Extent: England, Wales.
 

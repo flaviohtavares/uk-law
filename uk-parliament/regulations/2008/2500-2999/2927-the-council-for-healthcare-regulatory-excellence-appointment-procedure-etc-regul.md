@@ -3,16 +3,16 @@ title: The Council for Healthcare Regulatory Excellence (Appointment, Procedure 
 id: uksi/2008/2927
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-10'
-text_date: null
-extent: null
+text_date: '2008-11-10'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2927
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2927/pdfs/uksiem_20082927_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2927/pdfs/uksi_20082927_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2927/made/data.pdf
-pending_changes: 9
+- http://www.legislation.gov.uk/uksi/2008/2927/data.pdf
+pending_changes: 18
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (18).** Text as at 2008-11-10. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2927
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 2927
 
@@ -42,7 +48,7 @@ Coming into force
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by section 38(5) and (7) of, and paragraph 6 of Schedule 7 to, of the National Health Service Reform and Health Care Professions Act 2002[^f00001].
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-3bb4809179a6fb5aeb73363dc58beb7d]
 
 (1) These Regulations may be cited as the Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008 and come into force on 1st January 2009.
 
@@ -63,7 +69,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
   - (a) in relation to a conviction by a court in Great Britain, a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders Act 1974[^f00003]; or
   - (b) in relation to a conviction by a court in Northern Ireland, a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978[^f00004].
 
-## 2. Conditions of appointment for chair and non-executive members of the Council
+## 2. Conditions of appointment for chair and non-executive members of the Council[^c-a3fbe5b336995bd2778b2fcfac769014]
 
 (1) It is a condition for the appointment as the chair or a non-executive member that that person—
 
@@ -113,7 +119,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
   - (viii) Pharmacists and Pharmacy Technicians Order 2007[^f00023], and
   - (ix) Pharmacy (Northern Ireland) Order 1976[^f00024].
 
-## 3. Tenure of appointment of chair and non-executive members
+## 3. Tenure of appointment of chair and non-executive members[^c-d6182f29cb2ee9dda57111352f076f9d]
 
 (1) The appointment of the chair and a non-executive member shall be for a term of four years.
 
@@ -133,7 +139,7 @@ for more than eight years in total.
 
 (6) A person appointed as the chair or a non-executive member shall cease to hold that office if the person resigns from the office by giving notice in writing to the Council.
 
-## 4. Deputising arrangements in respect of the chair
+## 4. Deputising arrangements in respect of the chair[^c-00ca303bbf3c3188e1c5fbc0ba22bbc1]
 
 (1) Subject to paragraph (2), if, for any reason, the chair is absent from a meeting of the Council, the non-executive members who are present at that meeting shall nominate one of their number to serve as chair at that meeting.
 
@@ -155,7 +161,7 @@ the Council may nominate a non-executive member (“deputy chair”) to serve as
 - (c) if the non-executive member resigns as deputy chair, which the member may do at any time by a notice in writing to the Council; or
 - (d) if the non-executive member’s membership of the Council is suspended by the Council.
 
-## 5. Circumstances in which the chair and non-executive members may be suspended
+## 5. Circumstances in which the chair and non-executive members may be suspended[^c-47b57bc30f917b7aa61638019ba4d173]
 
 The Council may suspend a person from the office of chair or as a non-executive member by a notice served on that person if —
 
@@ -164,7 +170,7 @@ The Council may suspend a person from the office of chair or as a non-executive 
 - (c) the person is, or the Council has reasonable grounds for suspecting that the person is, subject to any investigation or proceedings in the United Kingdom relating to a criminal offence, or in any other part of the world relating to an offence which, if committed in any part of the United Kingdom, would constitute a criminal offence and, in the Council’s opinion it would not be appropriate for the person to continue to participate in proceedings of the Council while the investigation or proceedings is or are ongoing; or
 - (d) the person is, or the Council has reasonable grounds for suspecting that the person is, subject to any investigation or proceedings concerning the person’s professional conduct by any licensing body and, in the Council’s opinion it would not be appropriate for the person to continue to participate in proceedings of the Council while the investigation or proceedings is or are ongoing.
 
-## 6. Circumstances in which the chair or non-executive member may be removed from office
+## 6. Circumstances in which the chair or non-executive member may be removed from office[^c-f5569d86d6c4b424d20ae06674e385b3]
 
 A person appointed as the chair or a non-executive member shall be removed from that office by the appointor if —
 
@@ -176,7 +182,7 @@ A person appointed as the chair or a non-executive member shall be removed from 
 - (d) the appointor is satisfied that the person is no longer able to perform the duties of the chair or a non-executive member because of adverse physical or mental health; or
 - (e) the appointor is satisfied that the person’s continued membership of the Council would be liable to undermine public confidence in the Council’s ability to exercise its functions.
 
-## 7. Committees
+## 7. Committees[^c-4bf9bd5f49a3419e704d7562878dcb7b]
 
 (1) The Council may appoint committees of the Council consisting wholly or partly of members of the Council or wholly of persons who are not members of the Council.
 
@@ -184,11 +190,11 @@ A person appointed as the chair or a non-executive member shall be removed from 
 
 (3) The condition applicable to the appointment of members mentioned in regulation 2(1) applies to the members of committees and sub-committees appointed under this regulation, except that in relation to paragraph (1)(b) of regulation 2, only to the extent that a person falls within paragraph (2)(a) to (h) of that regulation.
 
-## 8. Transitional arrangement in respect of appointment of non-executive members
+## 8. Transitional arrangement in respect of appointment of non-executive members[^c-a84ea28c91b17103120458e0282a6d69]
 
 In the case of the first appointments of non-executive members to the Council made immediately after these Regulations come into force, the term of appointment for three of the non-executive members may be for a period of less than four years but must not be for less than two years.
 
-## 9. Revocation
+## 9. Revocation[^c-74c1fb2e0cd8004392d030c2ad4d4a16]
 
 The Council for the Regulation of Health Care Professionals (Appointment etc.) Regulations 2002[^f00025] are revoked.
 
@@ -222,11 +228,15 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00001]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17); paragraphs 4 and 6 of Schedule 7 have been amended by section 114 of the Health and Social Care Act 2008 ([c.14](https://www.legislation.gov.uk/ukpga/2008/14)).
 
+[^c-3bb4809179a6fb5aeb73363dc58beb7d]: Commencement: Reg. 1 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
 [^f00002]: Footnote: The Council’s name was changed by section 113 of the Health and Social Care Act 2008.
 
 [^f00003]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^f00004]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
+
+[^c-a3fbe5b336995bd2778b2fcfac769014]: Commencement: Reg. 2 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
 
 [^f00005]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
@@ -267,5 +277,19 @@ An impact assessment has been prepared in relation to these Regulations and is a
 [^f00023]: Footnote: [S.I. 2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
 [^f00024]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213).
+
+[^c-d6182f29cb2ee9dda57111352f076f9d]: Commencement: Reg. 3 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
+[^c-00ca303bbf3c3188e1c5fbc0ba22bbc1]: Commencement: Reg. 4 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
+[^c-47b57bc30f917b7aa61638019ba4d173]: Commencement: Reg. 5 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
+[^c-f5569d86d6c4b424d20ae06674e385b3]: Commencement: Reg. 6 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
+[^c-4bf9bd5f49a3419e704d7562878dcb7b]: Commencement: Reg. 7 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
+[^c-a84ea28c91b17103120458e0282a6d69]: Commencement: Reg. 8 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
+[^c-74c1fb2e0cd8004392d030c2ad4d4a16]: Commencement: Reg. 9 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2002/2376](https://www.legislation.gov.uk/uksi/2002/2376).

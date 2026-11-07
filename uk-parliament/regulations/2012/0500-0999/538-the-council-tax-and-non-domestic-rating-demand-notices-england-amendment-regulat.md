@@ -58,6 +58,14 @@ In regulation 3(4), for “Part 2 of that Schedule”, substitute “paragraphs 
 
 For the explanatory notes in paragraph 7 of Part 1 of Schedule 2, substitute—
 
+[image: see source](https://www.legislation.gov.uk/uksi/2012/538/images/uksi_20120538_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2012/538/images/uksi_20120538_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2012/538/images/uksi_20120538_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2012/538/images/uksi_20120538_en_004)
+
+## 5. Matters to be contained in a rate demand notice: special authorities
+
+For the explanatory notes in paragraph 3 of Part 3 of Schedule 2, substitute—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/538/images/uksi_20120538_en_005) [image: see source](https://www.legislation.gov.uk/uksi/2012/538/images/uksi_20120538_en_006) [image: see source](https://www.legislation.gov.uk/uksi/2012/538/images/uksi_20120538_en_007) [image: see source](https://www.legislation.gov.uk/uksi/2012/538/images/uksi_20120538_en_008)
+
 Signed by authority of the Secretary of State for Communities and Local Government
 
 Bob Neill

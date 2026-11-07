@@ -1,26 +1,30 @@
 ---
-title: The Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) Order 2019
+title: The Scotland Act 1998 (Specification of Functions and Transfer of Property etc. ) Order 2019
 id: uksi/2019/183
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2019-02-13'
-text_date: null
-extent: null
+text_date: '2019-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2019/183
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2019/183/pdfs/uksiem_20190183_en.pdf
 - http://www.legislation.gov.uk/uksi/2019/183/pdfs/uksi_20190183_en.pdf
-- http://www.legislation.gov.uk/uksi/2019/183/made/data.pdf
-pending_changes: 19
+- http://www.legislation.gov.uk/uksi/2019/183/data.pdf
+pending_changes: 7
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) Order 2019
+# The Scotland Act 1998 (Specification of Functions and Transfer of Property etc. ) Order 2019
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (7).** Text as at 2019-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2019/183
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2019 No. 183
 
@@ -62,13 +66,13 @@ In accordance with section 90(5) of the Scotland Act 1998, the Forestry Commissi
 
 Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-8d4f2f664f5e431394ccdf8819ce479b]
 
 (1) This Order may be cited as the Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) Order 2019.
 
 (2) This Order comes into force on the day on which section 81 of the Forestry and Land Management (Scotland) Act 2018 comes into force.
 
-## 2. Interpretation
+## 2. Interpretation[^c-3fa95b9b39f79b750f01915edd3b5a71]
 
 In this Order—
 
@@ -80,7 +84,7 @@ In this Order—
 - “excepted property” means the property, rights and liabilities specified in the Schedule;
 - “instrument” includes Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgements, decrees, orders, rules, regulations, schemes, byelaws, awards, licences, authorisations, consents, approvals, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents.
 
-## 3. Specification of functions
+## 3. Specification of functions[^c-ac8e5bd78ea7b451a1a1c816da8f9077]
 
 (1) The functions listed in paragraph (2) are specified for the purposes of section 93(1) of the Scotland Act 1998.
 
@@ -92,7 +96,7 @@ In this Order—
 - (d) the Scottish Ministers’ functions under the Forest Reproductive Material (Great Britain) Regulations 2002[^f00007]; and
 - (e) the Scottish Ministers’ functions under the Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015[^f00008].
 
-## 4. Transfer of property and liabilities
+## 4. Transfer of property and liabilities[^c-ab8f596bb6d0725ecb4ca1f0d5c72fea]
 
 (1) On the transfer date there shall transfer to and vest in the Scottish Ministers—
 
@@ -119,7 +123,7 @@ In this Order—
   - (i) other than relevant timber; and
   - (ii) which is held, immediately before the transfer date, wholly or mainly for or in connection with the exercise of the functions of the Forestry Commissioners in or as regards Scotland.
 
-## 5. Consequential and supplementary provision
+## 5. Consequential and supplementary provision[^c-fdd0b2ff2959543473f766286f099c9d]
 
 (1) So far as may be necessary in consequence of the transfer of any property, right or liability under this Order, references to the Forestry Commissioners in any enactment or prerogative instrument, or in any other instrument, shall be read as if they were or included references to the Scottish Ministers.
 
@@ -132,7 +136,7 @@ In this Order—
 
 in order to complete title to it, shall transfer to and vest in the Scottish Ministers by virtue of this Order as if on the transfer date the Scottish Ministers had taken delivery or possession of the property, or had intimated its assignation (as the case may be).
 
-## 6. Transitional and saving provision
+## 6. Transitional and saving provision[^c-3a887ddb55e7310441a309de2b1cedea]
 
 (1) In so far as it relates to, or is connected with, any property, right or liability transferred by this Order—
 
@@ -156,14 +160,14 @@ Clerk of the Privy Council
 
 Article 2
 
-### 1. Interpretation
+### 1. Interpretation[^c-d75a8f6c8930136e3642a2873f02a537]
 
 In this Schedule—
 
 - “grid reference” means Ordnance Survey National Grid reference[^f00009];
 - “National Forest Estate” has the same meaning as in section 13 of the 2018 Act.
 
-### 2. Excepted property
+### 2. Excepted property[^c-ead60382d179a9ba4f3dad3aeb3fa2a7]
 
 (1) Standing timber located in Black Crane Cleuch Woodland (grid reference NY593924) which has been sold by or on behalf of the Forestry Commissioners prior to the transfer date and in relation to which there is a contract of sale concluded prior to the transfer date.
 
@@ -177,13 +181,13 @@ In this Schedule—
 - (b) disposes of the timber mentioned in paragraph (a) by the Forestry Commissioners to another person or persons; and
 - (c) is in writing.
 
-**3.** Tree seed collected by or on behalf of the Forestry Commissioners from the National Forest Estate prior to 1 April 2018.
+**3.**[^c-bb3f55c687234d903f8a0683aa2e57b0] Tree seed collected by or on behalf of the Forestry Commissioners from the National Forest Estate prior to 1 April 2018.
 
-**4.** Tree seed collected by or on behalf of the Forestry Commissioners from land outwith the National Forest Estate.
+**4.**[^c-867b162bfc06c6dbcdeb4ea53ee802b6] Tree seed collected by or on behalf of the Forestry Commissioners from land outwith the National Forest Estate.
 
-**5.** All rights, property, interests and liabilities held by the Forestry Commissioners in Forest Holidays Group Limited[^f00010].
+**5.**[^c-647e52913d0e7a1f9f872b99b7d52adb] All rights, property, interests and liabilities held by the Forestry Commissioners in Forest Holidays Group Limited[^f00010].
 
-**6.** All rights, property, interests and liabilities held by the Forestry Commissioners in Camping in the Forest LLP[^f00011].
+**6.**[^c-3966b9c7f75a62c5289b5a5ad76219d8] All rights, property, interests and liabilities held by the Forestry Commissioners in Camping in the Forest LLP[^f00011].
 
 EXPLANATORY NOTE
 
@@ -211,7 +215,13 @@ An impact assessment has not been prepared for this instrument because no impact
 
 [^f00003]: Footnote: [2018 asp 8](https://www.legislation.gov.uk/asp/2018/8).
 
+[^c-8d4f2f664f5e431394ccdf8819ce479b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2019/183/article/1) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
+[^c-3fa95b9b39f79b750f01915edd3b5a71]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2019/183/article/2) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
 [^f00004]: Footnote: [1967 c.10](https://www.legislation.gov.uk/ukpga/1967/10).
+
+[^c-ac8e5bd78ea7b451a1a1c816da8f9077]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2019/183/article/3) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
 
 [^f00005]: Footnote: [1967 c.8](https://www.legislation.gov.uk/ukpga/1967/8).
 
@@ -221,8 +231,26 @@ An impact assessment has not been prepared for this instrument because no impact
 
 [^f00008]: Footnote: [S.I. 2015/350](https://www.legislation.gov.uk/uksi/2015/350).
 
+[^c-ab8f596bb6d0725ecb4ca1f0d5c72fea]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2019/183/article/4) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
+[^c-fdd0b2ff2959543473f766286f099c9d]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2019/183/article/5) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
+[^c-3a887ddb55e7310441a309de2b1cedea]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2019/183/article/6) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
+[^c-d75a8f6c8930136e3642a2873f02a537]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/183/schedule/paragraph/1) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
 [^f00009]: Footnote: The National Grid is the map reference system used on all Ordnance Survey maps to identify the position of a feature.
 
+[^c-ead60382d179a9ba4f3dad3aeb3fa2a7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/183/schedule/paragraph/2) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
+[^c-bb3f55c687234d903f8a0683aa2e57b0]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/183/schedule/paragraph/3) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
+[^c-867b162bfc06c6dbcdeb4ea53ee802b6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/183/schedule/paragraph/4) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
+[^c-647e52913d0e7a1f9f872b99b7d52adb]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/183/schedule/paragraph/5) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
+
 [^f00010]: Footnote: Registered company number 08159281.
+
+[^c-3966b9c7f75a62c5289b5a5ad76219d8]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/183/schedule/paragraph/6) in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/183/article/1/2)
 
 [^f00011]: Footnote: Registered limited liability partnership number OC370500.

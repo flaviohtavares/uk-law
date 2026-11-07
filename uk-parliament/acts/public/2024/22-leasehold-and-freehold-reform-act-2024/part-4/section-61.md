@@ -2,8 +2,8 @@
 title: Leasehold and Freehold Reform Act 2024, section 61
 act: Leasehold and Freehold Reform Act 2024
 section: '61'
-status: not-yet-in-force
-text_date: '2025-03-03'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, section 61
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 
-## 61. Duty of landlords to publish administration charge schedules[^c-d906ce5d0924ea4d4a8a1da357c793df]
+## 61. Duty of landlords to publish administration charge schedules[^c-d906ce5d0924ea4d4a8a1da357c793df][^c-bebe5026d98a1c8bfe45b5d5812c7aa6]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 In Schedule 11 to the CLRA 2002 (administration charges)—
 
@@ -96,3 +94,5 @@ In Schedule 11 to the CLRA 2002 (administration charges)—
 ## Annotations
 
 [^c-d906ce5d0924ea4d4a8a1da357c793df]: Commencement: S. 61 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-bebe5026d98a1c8bfe45b5d5812c7aa6]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2024/22/section/61) in force at 6.11.2026 for specified purposes for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/g)

@@ -2,8 +2,8 @@
 title: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 36
 act: The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
 section: '36'
-status: revised-with-pending-changes
-text_date: '2023-10-01'
+status: revised
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2020/293/section/36
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020, section 36
 
-> **Warning: changes not yet applied to this text (49).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/nisr/2020/293
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) In this regulation “UK authority” means—
 
-- (a) in relation to Northern Ireland, the Department;
+- (a)[^c-814a4ef1fb4ea39e697095fb00867519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in relation to England, the Secretary of State or the Forestry Commissioners;
 - (c) in relation to Scotland, the Scottish Ministers;
 - (d) in relation to Wales, the Welsh Ministers.
@@ -34,3 +34,5 @@ summary: ''
 ## Annotations
 
 [^c-d9db8d7bf2a9b885c28affd4392b364d]: Commencement: Reg. 36 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+
+[^c-814a4ef1fb4ea39e697095fb00867519]: Textual amendment: [Reg. 36(3)(a)](https://www.legislation.gov.uk/nisr/2020/293/regulation/36/3/a) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [7(13)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/7/13)

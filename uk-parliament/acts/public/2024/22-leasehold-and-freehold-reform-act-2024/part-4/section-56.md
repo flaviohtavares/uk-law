@@ -2,8 +2,8 @@
 title: Leasehold and Freehold Reform Act 2024, section 56
 act: Leasehold and Freehold Reform Act 2024
 section: '56'
-status: not-yet-in-force
-text_date: '2025-03-03'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, section 56
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 
@@ -20,11 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-**Not yet in force.**
+(1)[^c-e9fe64b9219932dda388e016d86949f5] The LTA 1985 is amended as follows.
 
-(1) The LTA 1985 is amended as follows.
-
-(2) After section 21C (as inserted by section 55) insert—
+(2)[^c-e9fe64b9219932dda388e016d86949f5] After section 21C (as inserted by section 55) insert—
 
 > **21D. Service charge accounts**
 >
@@ -107,7 +105,7 @@ summary: ''
 >
 > (8) A statutory instrument containing regulations under this section is subject to the negative procedure.
 
-(3) In section 28 (meaning of “**qualified accountant**”)—
+(3)[^c-e9fe64b9219932dda388e016d86949f5] In section 28 (meaning of “**qualified accountant**”)—
 
 - (a) in subsection (1), for the words from “in section” to “person” substitute “in section 21D(2)(b) (report on service charge account) is to a person”;
 - (b) for subsection (2) substitute—
@@ -135,3 +133,5 @@ summary: ''
 ## Annotations
 
 [^c-d91bdefd3cd9d83dbd322535c505d5fe]: Commencement: S. 56 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-e9fe64b9219932dda388e016d86949f5]: Commencement: [S. 56(1)-(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/56/1) in force at 6.11.2026 for specified purposes for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/c)

@@ -6,12 +6,12 @@ Laws in force under the legislation.gov.uk subject heading **CONSUMER CREDIT**. 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Consumer Credit Act 1974](../uk-parliament/acts/public/1974/39-consumer-credit-act-1974/README.md) *(changes pending)* — 95 regulations on this topic made under it
+- [Consumer Credit Act 1974](../uk-parliament/acts/public/1974/39-consumer-credit-act-1974/README.md) *(changes pending)* — 94 regulations on this topic made under it
 - [Consumer Credit Act 2006](../uk-parliament/acts/public/2006/14-consumer-credit-act-2006/README.md) — 6 regulations on this topic made under it
 
 ## Regulations
 
-106 in force.
+105 in force.
 
 **2020**
 
@@ -40,7 +40,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2010**
 
-- [The Consumer Credit (Advertisements) Regulations 2010](../uk-parliament/regulations/2010/1500-1999/1970-the-consumer-credit-advertisements-regulations-2010.md)
 - [The Consumer Credit (Agreements) Regulations 2010](../uk-parliament/regulations/2010/1000-1499/1014-the-consumer-credit-agreements-regulations-2010.md) *(changes pending)*
 - [The Consumer Credit (Disclosure of Information) Regulations 2010](../uk-parliament/regulations/2010/1000-1499/1013-the-consumer-credit-disclosure-of-information-regulations-2010.md) *(changes pending)*
 

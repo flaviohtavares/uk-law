@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1984-06-26'
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1984/27
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1984/27/pdfs/ukpga_19840027_en.pdf
 - http://www.legislation.gov.uk/ukpga/1984/27/data.pdf
-pending_changes: 14
+pending_changes: 13
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Road Traffic Regulation Act 1984
 
-> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
 > Extent: England, Wales, Scotland.
 

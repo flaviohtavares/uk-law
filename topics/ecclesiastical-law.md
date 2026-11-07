@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **ECCLESIASTICAL LAW*
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Ecclesiastical Fees Measure 1986](../uk-parliament/church-measures/1986/2-ecclesiastical-fees-measure-1986.md) — 70 regulations on this topic made under it
+- [Ecclesiastical Fees Measure 1986](../uk-parliament/church-measures/1986/2-ecclesiastical-fees-measure-1986.md) — 68 regulations on this topic made under it
 - [Synodical Government Measure 1969](../uk-parliament/church-measures/1969/2-synodical-government-measure-1969/README.md) *(changes pending)* — 24 regulations on this topic made under it
 - [Care of Churches and Ecclesiastical Jurisdiction Measure 1991](../uk-parliament/church-measures/1991/1-care-of-churches-and-ecclesiastical-jurisdiction-measure-1991.md) — 18 regulations on this topic made under it
 - [Ecclesiastical Jurisdiction and Care of Churches Measure 2018](../uk-parliament/church-measures/2018/3-ecclesiastical-jurisdiction-and-care-of-churches-measure-2018/README.md) *(changes pending)* — 12 regulations on this topic made under it
@@ -28,7 +28,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-225 in force.
+222 in force.
 
 **2026**
 
@@ -175,11 +175,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2008](../uk-parliament/regulations/2008/1500-1999/1970-the-ecclesiastical-judges-legal-officers-and-others-fees-order-2008.md) *(changes pending)*
 - [The Grants to the Churches Conservation Trust Order 2008](../uk-parliament/regulations/2008/0500-0999/842-the-grants-to-the-churches-conservation-trust-order-2008.md) *(changes pending)*
-- [The Legal Officers (Annual Fees) Order 2008](../uk-parliament/regulations/2008/1500-1999/1969-the-legal-officers-annual-fees-order-2008.md) *(changes pending)*
 - [The Parochial Fees Order 2008](../uk-parliament/regulations/2008/2000-2499/2470-the-parochial-fees-order-2008.md) *(as originally made)*
-- [The Payments to the Churches Conservation Trust Order 2008](../uk-parliament/regulations/2008/1500-1999/1968-the-payments-to-the-churches-conservation-trust-order-2008.md) *(changes pending)*
 
 **2007**
 

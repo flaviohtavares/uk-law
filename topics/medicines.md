@@ -136,7 +136,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Medicines for Human Use (Miscellaneous Amendments) Order 2010](../uk-parliament/regulations/2010/1000-1499/1136-the-medicines-for-human-use-miscellaneous-amendments-order-2010.md) *(as originally made)*
 - [The Medicines for Human Use (Prescribing by EEA Practitioners) (Amendment) (No. 2) Regulations 2010](../uk-parliament/regulations/2010/2500-2999/2785-the-medicines-for-human-use-prescribing-by-eea-practitioners-amendment-no-2-regu.md) *(as originally made)*
 - [The Medicines for Human Use (Prescribing by EEA Practitioners) (Amendment) Regulations 2010](../uk-parliament/regulations/2010/1500-1999/1673-the-medicines-for-human-use-prescribing-by-eea-practitioners-amendment-regulatio.md) *(as originally made)*
-- [The Prescription Only Medicines (Human Use) Amendment Order 2010](../uk-parliament/regulations/2010/2500-2999/2998-the-prescription-only-medicines-human-use-amendment-order-2010.md) *(as originally made)*
+- [The Prescription Only Medicines (Human Use) Amendment Order 2010](../uk-parliament/regulations/2010/2500-2999/2998-the-prescription-only-medicines-human-use-amendment-order-2010.md)
 
 **2009**
 

@@ -278,7 +278,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Travellers’ Allowances (Amendment) Order 2008](../uk-parliament/regulations/2008/3000-3499/3058-the-travellers-allowances-amendment-order-2008.md) *(as originally made)*
+- [The Travellers’ Allowances (Amendment) Order 2008](../uk-parliament/regulations/2008/3000-3499/3058-the-travellers-allowances-amendment-order-2008.md)
 - [The Value Added Tax (Amendment) (No 2) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3021-the-value-added-tax-amendment-no-2-regulations-2008.md) *(as originally made)*
 - [The Value Added Tax (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/556-the-value-added-tax-amendment-regulations-2008.md) *(as originally made)*
 - [The Value Added Tax (Buildings and Land) Order 2008](../uk-parliament/regulations/2008/1000-1499/1146-the-value-added-tax-buildings-and-land-order-2008.md) *(as originally made)*

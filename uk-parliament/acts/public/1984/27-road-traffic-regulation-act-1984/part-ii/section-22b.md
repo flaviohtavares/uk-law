@@ -3,7 +3,7 @@ title: Road Traffic Regulation Act 1984, section 22B
 act: Road Traffic Regulation Act 1984
 section: 22B
 status: not-yet-in-force
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1984/27/section/22B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

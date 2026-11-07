@@ -2,8 +2,8 @@
 title: Leasehold and Freehold Reform Act 2024, section 62
 act: Leasehold and Freehold Reform Act 2024
 section: '62'
-status: not-yet-in-force
-text_date: '2025-03-03'
+status: revised-with-pending-changes
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/62
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024, section 62
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales.
 
@@ -20,13 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-**Not yet in force.**
-
-(1) The LTA 1985 is amended in accordance with subsections (2) and (3).
+(1)[^c-6e80c197225cce5deed1545f8f5b85ac] The LTA 1985 is amended in accordance with subsections (2) and (3).
 
 (2) Omit section 20C (limitation of service charges: costs of proceedings).
 
-(3) Before section 20D insert—
+(3)[^c-6e80c197225cce5deed1545f8f5b85ac] Before section 20D insert—
 
 > **20CA. Limitation of variable service charges: litigation costs**
 >
@@ -140,7 +138,7 @@ summary: ''
 >
 > (7) A statutory instrument containing regulations under this section (whether alone or with other provision) is subject to the affirmative procedure.
 
-(4) The CLRA 2002 is amended in accordance with subsections (5) to (7).
+(4)[^c-6e80c197225cce5deed1545f8f5b85ac] The CLRA 2002 is amended in accordance with subsections (5) to (7).
 
 (5) In section 172(1) (application of provision to the Crown)—
 
@@ -151,9 +149,9 @@ summary: ''
   >
   > - (i) Schedule 12 (leasehold valuation tribunals), as it applies in relation to paragraph 5B of Schedule 11.
 
-(6) In section 178(4) (orders and regulations), after “171” insert “, paragraph 5C of Schedule 11”.
+(6)[^c-6e80c197225cce5deed1545f8f5b85ac] In section 178(4) (orders and regulations), after “171” insert “, paragraph 5C of Schedule 11”.
 
-(7) In Schedule 11 (administration charges)—
+(7)[^c-6e80c197225cce5deed1545f8f5b85ac] In Schedule 11 (administration charges)—
 
 - (a) omit paragraph 5A (limitation of administration charges: costs of proceedings);
 - (b) before paragraph 6 insert—
@@ -236,3 +234,5 @@ summary: ''
 ## Annotations
 
 [^c-16c4d5fa7ad7f99ac95885c1ebed1331]: Commencement: S. 62 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+
+[^c-6e80c197225cce5deed1545f8f5b85ac]: Commencement: [S. 62(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/62/1)[(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/62/3)[(4)](https://www.legislation.gov.uk/ukpga/2024/22/section/62/4)[(6)](https://www.legislation.gov.uk/ukpga/2024/22/section/62/6)[(7)](https://www.legislation.gov.uk/ukpga/2024/22/section/62/7) in force at 6.11.2026 for specified purposes for E. by [S.I. 2026/1128](https://www.legislation.gov.uk/uksi/2026/1128), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/1128/regulation/2/h)

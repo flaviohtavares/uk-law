@@ -3,7 +3,7 @@ title: Criminal Justice Act 2003, SCHEDULE 20
 act: Criminal Justice Act 2003
 section: schedule-20
 status: repealed
-text_date: '2026-10-01'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2003/44/schedule/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

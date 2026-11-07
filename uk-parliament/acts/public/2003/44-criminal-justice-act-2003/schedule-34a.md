@@ -3,7 +3,7 @@ title: Criminal Justice Act 2003, SCHEDULE 34A
 act: Criminal Justice Act 2003
 section: schedule-34a
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2003/44/schedule/34a
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Criminal Justice Act 2003, SCHEDULE 34A
 
-> **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
+> **Warning: changes not yet applied to this text (148).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
 > Extent: England, Wales.
 
@@ -74,6 +74,12 @@ where the victim of the offence was under 18 at the time of the offence.
 
 **13.** An offence under section 63 of the Criminal Justice and Immigration Act 2008 (possession of extreme pornographic images) in relation to an image showing a person under 18.
 
+**13ZA.**[^c-73c527068cc024a1edd8ab91fa7882bc] An offence under section 67A of that Act (possession or publication of pornographic images of strangulation or suffocation) in relation to an image showing a person under 18.
+
+**13ZB.**[^c-122c94b6280cf1bc040b3d373995e43e] An offence under section 67E of that Act (possession or publication of pornographic images of sex between relatives) in relation to an image showing a person under 18.
+
+**13ZC.**[^c-e9fe956aeac194c4b696872d0f47b769] An offence under section 67H of that Act (possession or publication of pornographic images of sexual activity with child under 16) in relation to an image showing a person under 18.
+
 **13A.**[^c20697431] An offence under section 62(1) of the Coroners and Justice Act 2009 (possession of prohibited images of children).
 
 **13B.**[^c-a6acc50bf1aeff875da6d011dc68f297] An offence under section 69 of the Serious Crime Act 2015 (possession of paedophile manual).
@@ -99,16 +105,22 @@ and section 48 of that Act (attempts etc. outside England and Wales) applies for
 
 [^c20212351]: Textual amendment: Sch. 34A inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 140](https://www.legislation.gov.uk/ukpga/2008/4/section/140), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 24](https://www.legislation.gov.uk/ukpga/2008/4/schedule/24); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/43)
 
-[^c-b213ef7f33997f54b08604ef7b0038b2]: Textual amendment: Word in [Sch. 34A para. 7(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/34A/paragraph/7/b) substituted (3.4.2017) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 70(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/70/2); [S.I. 2017/511](https://www.legislation.gov.uk/uksi/2017/511), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2017/511/regulation/2/b/iv)
+[^c-b213ef7f33997f54b08604ef7b0038b2]: Textual amendment: Word in Sch. 34A para. 7(b) substituted (3.4.2017) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 70(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/70/2); [S.I. 2017/511](https://www.legislation.gov.uk/uksi/2017/511), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2017/511/regulation/2/b/iv)
 
 [^c-9722c815f0c355f9530d7d0d1ae78c13]: Textual amendment: Words in Sch. 34A para. 7(e) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 70(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/70/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(xi)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/xi)
 
-[^c-0e39386d274d1a532b6694dd22c49712]: Textual amendment: Words in [Sch. 34A para. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/34A/paragraph/10) inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/17/3/a); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-0e39386d274d1a532b6694dd22c49712]: Textual amendment: Words in Sch. 34A para. 10 inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/17/3/a); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
 [^M_F_7c9fe757-7a09-428a-ecbc-c58a6a0d46c3]: Textual amendment: Words in Sch. 34A para. 10 substituted (12.4.2019) by [Voyeurism (Offences) Act 2019 (c. 2)](https://www.legislation.gov.uk/ukpga/2019/2), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2019/2/section/1/6), [2(2)](https://www.legislation.gov.uk/ukpga/2019/2/section/2/2)
 
 [^c-f8300d0124c1ea506613ddac9469741f]: Textual amendment: Words in [Sch. 34A para. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/34A/paragraph/10) inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/17/3/b); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
+[^c-73c527068cc024a1edd8ab91fa7882bc]: Textual amendment: Sch. 34A para. 13ZA inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 104(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/4), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/b)
+
+[^c-122c94b6280cf1bc040b3d373995e43e]: Textual amendment: Sch. 34A para. 13ZB inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 106(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/106/6), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c)
+
+[^c-e9fe956aeac194c4b696872d0f47b769]: Textual amendment: Sch. 34A para. 13ZC inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 107(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/107/4), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/d)
+
 [^c20697431]: Textual amendment: Sch. 34A para. 13A inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177](https://www.legislation.gov.uk/ukpga/2009/25/section/177), [182](https://www.legislation.gov.uk/ukpga/2009/25/section/182), [Sch. 21 para. 63](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/63) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. paras. 14(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/14/a), [20(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/20/a)
 
-[^c-a6acc50bf1aeff875da6d011dc68f297]: Textual amendment: [Sch. 34A para. 13B](https://www.legislation.gov.uk/ukpga/2003/44/schedule/34A/paragraph/13B) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 70(4)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/70/4); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(xi)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/xi)
+[^c-a6acc50bf1aeff875da6d011dc68f297]: Textual amendment: Sch. 34A para. 13B inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 70(4)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/70/4); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(xi)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/xi)

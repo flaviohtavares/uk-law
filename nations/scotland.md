@@ -107,7 +107,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 - [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021](../scotland/acts/2021/12-scottish-parliamentary-standards-sexual-harassment-and-complaints-process-act-20.md)
 - [Solicitors in the Supreme Courts of Scotland (Amendment) Act 2021](../scotland/acts/2021/2-solicitors-in-the-supreme-courts-of-scotland-amendment-act-2021.md)
 - [Tied Pubs (Scotland) Act 2021](../scotland/acts/2021/17-tied-pubs-scotland-act-2021.md)
-- [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021](../scotland/acts/2021/4-uk-withdrawal-from-the-european-union-continuity-scotland-act-2021.md) *(changes pending)*
+- [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021](../scotland/acts/2021/4-uk-withdrawal-from-the-european-union-continuity-scotland-act-2021.md)
 - [University of St. Andrews (Degrees in Medicine and Dentistry) Act 2021](../scotland/acts/2021/13-university-of-st-andrews-degrees-in-medicine-and-dentistry-act-2021.md)
 
 **2020**

@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2024-05-24'
-text_date: '2025-03-03'
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2024/22
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2024/22/pdfs/ukpgaen_20240022_en.pdf
 - http://www.legislation.gov.uk/ukpga/2024/22/pdfs/ukpga_20240022_en.pdf
 - http://www.legislation.gov.uk/ukpga/2024/22/data.pdf
-pending_changes: 110
+pending_changes: 86
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Leasehold and Freehold Reform Act 2024
 
-> **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
+> **Warning: changes not yet applied to this text (86).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -241,8 +241,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 *Extent: E+W*
 
-**Not yet in force.**
-
 - [Section 53 — Extension of regulation to fixed service charges](part-4/section-53.md)
 - [Section 54 — Notice of future service charge demands](part-4/section-54.md)
 - [Section 55 — Service charge demands](part-4/section-55.md)
@@ -254,8 +252,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 *Extent: E+W*
 
-**Not yet in force.**
-
 - [Section 59 — Limitation on ability of landlord to charge insurance costs](part-4/section-59.md)
 - [Section 60 — Duty to provide information about insurance to tenants](part-4/section-60.md)
 
@@ -263,15 +259,11 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 *Extent: E+W*
 
-**Not yet in force.**
-
 - [Section 61 — Duty of landlords to publish administration charge schedules](part-4/section-61.md)
 
 #### Litigation costs
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 - [Section 62 — Limits on rights of landlords to claim litigation costs from tenants](part-4/section-62.md)
 - [Section 63 — Right of tenants to claim litigation costs from landlords](part-4/section-63.md)
@@ -302,8 +294,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 #### General
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 - [Section 68 — Regulations under the LTA 1985: procedure and appropriate authority](part-4/section-68.md)
 - [Section 69 — LTA 1985: Crown application](part-4/section-69.md)
@@ -492,8 +482,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 125 — Short title](part-9/section-125.md)
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 Schedules
 

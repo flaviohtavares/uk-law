@@ -3,14 +3,14 @@ title: The Electrical Contracting (London Exhibition Halls) Order 1995
 id: uksi/1995/3299
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '1995-12-18'
-text_date: null
-extent: null
+text_date: '2001-03-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1995/3299
 pdf_urls:
-- http://www.legislation.gov.uk/uksi/1995/3299/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/1995/3299/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,11 @@ summary: ''
 
 # The Electrical Contracting (London Exhibition Halls) Order 1995
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2001-03-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 1995 No. 3299
 
@@ -50,7 +54,7 @@ And whereas the Secretary of State has considered the representations made to hi
 
 Now therefore the Secretary of State, being the appropriate Minister within the meaning of section 56 of the said Act, in exercise of the powers conferred by sections 56(2) and 90(2) and (4) of, and paragraphs 1, 2, 5 and 9 of Schedule 8 to the said Act, and for the purpose of remedying or preventing adverse effects specified in a report of the Monopolies and Mergers Commission entitled “Electrical Contracting at Exhibition Halls in London: A report on the supply in Greater London of electrical contracting services at large exhibition halls”[^f00002], hereby makes the following Order:
 
-**1.** (1) This Order may be cited as the Electrical Contracting (London Exhibition Halls) Order 1995 and shall come into force—
+**1.**[^c-1107c3b08c2021d180b17ba07df1cdc4] (1) This Order may be cited as the Electrical Contracting (London Exhibition Halls) Order 1995 and shall come into force—
 
 - (a) for the purposes of articles 2(2)(a), 3(2)(a) and 5(2)(a) below on 1 February 1996, and
 - (b) for all other purposes on 1 September 1996.
@@ -65,43 +69,43 @@ Now therefore the Secretary of State, being the appropriate Minister within the 
 - “London exhibition hall” means a building in Greater London with a floor area used for holding exhibitions which exceeds 2,500 square metres;
 - and a person is an “exhibitor” at a hall or at an exhibition if he is exhibiting or is intending to exhibit in that hall or at that exhibition.
 
-**2.** (1) This article applies to an agreement between a hall owner and an unconnected exhibition organiser which imposes any restriction on the person or persons who may provide electrical contracting services to exhibitors at an exhibition organised by the exhibition organiser in a London exhibition hall belonging to the hall owner other than—
+**2.**[^c-ca856e9d13817ffb2e13779e0642ffdd][^c-e4eef8ce95bfe795bbfbf65c1373fd96] (1)[^c-ca856e9d13817ffb2e13779e0642ffdd] This article applies to an agreement between a hall owner and an unconnected exhibition organiser which imposes any restriction on the person or persons who may provide electrical contracting services to exhibitors at an exhibition organised by the exhibition organiser in a London exhibition hall belonging to the hall owner other than—
 
 - (a) a requirement to use the electrical contracting services of only any person who meets any standards which the hall owner has specified and which are objectively justified in respect of the provision of the particular services to be offered or provided at the exhibition;
 - (b) a limit, not being less than two, on the number of persons who may provide such services.
 
 (2) Subject to Article 7 below—
 
-- (a) the parties to an agreement to which this article applies made before 1 September 1996 shall terminate it before that date to the extent that it contains restrictions by virtue of which this article applies to it; and
-- (b) it shall be unlawful for any person to make or carry out an agreement to which this article applies except to the extent that it does not include restrictions by virtue of which this article applies to it.
+- (a)[^c-e4eef8ce95bfe795bbfbf65c1373fd96] the parties to an agreement to which this article applies made before 1 September 1996 shall terminate it before that date to the extent that it contains restrictions by virtue of which this article applies to it; and
+- (b)[^c-ca856e9d13817ffb2e13779e0642ffdd] it shall be unlawful for any person to make or carry out an agreement to which this article applies except to the extent that it does not include restrictions by virtue of which this article applies to it.
 
-(3) For the purposes of paragraph (1) above, an agreement which imposes a restriction on the person or persons who may provide electrical contracting services includes one which provides that the use of the services of any person or persons is subject to conditions or restrictions which do not apply in respect of the use of any other particular person or persons or that it is otherwise less advantageous to the exhibitor.
+(3)[^c-ca856e9d13817ffb2e13779e0642ffdd] For the purposes of paragraph (1) above, an agreement which imposes a restriction on the person or persons who may provide electrical contracting services includes one which provides that the use of the services of any person or persons is subject to conditions or restrictions which do not apply in respect of the use of any other particular person or persons or that it is otherwise less advantageous to the exhibitor.
 
-**3.** (1) This article applies to any agreement between an exhibition organiser and an exhibitor at an exhibition hall belonging to a hall owner connected with the exhibition organiser which requires the exhibitor to use the electrical contracting services of a particular person or persons other than a person (or persons) who has been competitively chosen.
+**3.**[^c-fc8d2c5f820d8e88dab8e6e4918cae0a][^c-4df396bc3c2a2afb9c0514b481c6bdcb] (1)[^c-fc8d2c5f820d8e88dab8e6e4918cae0a] This article applies to any agreement between an exhibition organiser and an exhibitor at an exhibition hall belonging to a hall owner connected with the exhibition organiser which requires the exhibitor to use the electrical contracting services of a particular person or persons other than a person (or persons) who has been competitively chosen.
 
 (2) Subject to Article 7 below—
 
-- (a) the parties to an agreement to which the article applies made before 1 September 1996 shall terminate it before that date to the extent that it contains restrictions by virtue of which this article applies to it; and
-- (b) it shall be unlawful for any person to make or carry out an agreement to which this article applies except to the extent that it does not include restrictions by virtue of which this article applies to it.
+- (a)[^c-4df396bc3c2a2afb9c0514b481c6bdcb] the parties to an agreement to which the article applies made before 1 September 1996 shall terminate it before that date to the extent that it contains restrictions by virtue of which this article applies to it; and
+- (b)[^c-fc8d2c5f820d8e88dab8e6e4918cae0a] it shall be unlawful for any person to make or carry out an agreement to which this article applies except to the extent that it does not include restrictions by virtue of which this article applies to it.
 
-(3) For the purposes of paragraph (1) above, an agreement which requires an exhibitor to use the electrical contracting services of a particular person includes one which provides that the use of the services of any other person is subject to conditions or restrictions which do not apply in respect of the use of the particular person or is otherwise less advantageous to the exhibitor.
+(3)[^c-fc8d2c5f820d8e88dab8e6e4918cae0a] For the purposes of paragraph (1) above, an agreement which requires an exhibitor to use the electrical contracting services of a particular person includes one which provides that the use of the services of any other person is subject to conditions or restrictions which do not apply in respect of the use of the particular person or is otherwise less advantageous to the exhibitor.
 
-**4.** (1) It shall be unlawful for an exhibition organiser, as a condition of supplying any goods or services to an exhibitor at an exhibition in a London exhibition hall belonging to a hall owner connected with the exhibition organiser, to require the exhibitor to use the electrical contracting services of the exhibition organiser unless that person has been competitively chosen.
+**4.**[^c-3bd42275c8add151dd2703e92cb64a43] (1) It shall be unlawful for an exhibition organiser, as a condition of supplying any goods or services to an exhibitor at an exhibition in a London exhibition hall belonging to a hall owner connected with the exhibition organiser, to require the exhibitor to use the electrical contracting services of the exhibition organiser unless that person has been competitively chosen.
 
 (2) For the purposes of paragraph (1) above, a condition which requires an exhibitor to use the electrical contracting services of a person mentioned in that paragraph includes one under which the use of the services of any other person is subject to conditions or restrictions which do not apply in respect of the use of the services of the persons mentioned in paragraph (1) above or is otherwise less advantageous to the exhibitor.
 
-**5.** (1) This article applies to an agreement between a person supplying or intending to supply electrical contracting services in a London exhibition hall and a hall owner which provides for the hall owner to receive valuable benefit for requiring or promoting the use of the services of the electrical contractor by exhibitors at an exhibition in a London exhibition hall belonging to the hall owner.
+**5.**[^c-bba6411f065ee827e98ea84645a970cf][^c-1771cb2a949d393fde01828ee15c4a9a] (1)[^c-bba6411f065ee827e98ea84645a970cf] This article applies to an agreement between a person supplying or intending to supply electrical contracting services in a London exhibition hall and a hall owner which provides for the hall owner to receive valuable benefit for requiring or promoting the use of the services of the electrical contractor by exhibitors at an exhibition in a London exhibition hall belonging to the hall owner.
 
 (2) Subject to Article 7 below—
 
-- (a) the parties to an agreement to which the article applies made before 1 September 1996 shall terminate it before that date to the extent that it contains any provisions by virtue of which this article applies to it; and
-- (b) it shall be unlawful for any person to make or carry out an agreement to which this article applies except to the extent that it does not include any provisions by virtue of which this article applies to it.
+- (a)[^c-1771cb2a949d393fde01828ee15c4a9a] the parties to an agreement to which the article applies made before 1 September 1996 shall terminate it before that date to the extent that it contains any provisions by virtue of which this article applies to it; and
+- (b)[^c-bba6411f065ee827e98ea84645a970cf] it shall be unlawful for any person to make or carry out an agreement to which this article applies except to the extent that it does not include any provisions by virtue of which this article applies to it.
 
-**6.** (1) Where an exhibition organiser requires or intends to require an exhibitor at an exhibition in a London exhibition hall belonging to a hall owner connected with the exhibition organiser to use the electrical contracting services of a particular person or of one of a number of particular persons, that person or each such person (as the case may be) shall notify his prices for those services in writing to each exhibitor before the exhibitor gives orders for them and before the exhibitor enters into a binding contract with the exhibition organiser to exhibit at the particular exhibition.
+**6.**[^c-08fc26aa464f3c3bee903de9ab88c368] (1) Where an exhibition organiser requires or intends to require an exhibitor at an exhibition in a London exhibition hall belonging to a hall owner connected with the exhibition organiser to use the electrical contracting services of a particular person or of one of a number of particular persons, that person or each such person (as the case may be) shall notify his prices for those services in writing to each exhibitor before the exhibitor gives orders for them and before the exhibitor enters into a binding contract with the exhibition organiser to exhibit at the particular exhibition.
 
 (2) The requirement in paragraph (1) above shall not apply in respect of any such person not intending to supply such services at the particular exhibition.
 
-**7.** This Order shall not apply in respect of an agreement so far as it is or, if made, would be an agreement to which the Restrictive Trade Practices Act 1976[^f00003] applies or, as the case may be, would apply.
+**7.**[^c-af03882f1826e3b3e93d0140aa303155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 John M. Taylor,
 
@@ -129,4 +133,22 @@ Copies of the report of the Monopolies and Mergers Commission on which the Order
 
 [^f00002]: Footnote: Cm. 995.
 
-[^f00003]: Footnote: [1976 c. 34](https://www.legislation.gov.uk/ukpga/1976/34).
+[^c-1107c3b08c2021d180b17ba07df1cdc4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1995/3299/article/1) in force at 1.9.1996, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/3299/article/1/1/b)
+
+[^c-ca856e9d13817ffb2e13779e0642ffdd]: Commencement: [Art. 2(1)](https://www.legislation.gov.uk/uksi/1995/3299/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/1995/3299/article/2/2/b)[(3)](https://www.legislation.gov.uk/uksi/1995/3299/article/2/3) in force at 1.9.1996, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/3299/article/1/1/b)
+
+[^c-e4eef8ce95bfe795bbfbf65c1373fd96]: Commencement: [Art. 2(2)(a)](https://www.legislation.gov.uk/uksi/1995/3299/article/2/2/a) in force at 1.2.1996, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/3299/article/1/1/a)
+
+[^c-fc8d2c5f820d8e88dab8e6e4918cae0a]: Commencement: [Art. 3(1)](https://www.legislation.gov.uk/uksi/1995/3299/article/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/1995/3299/article/3/2/b)[(3)](https://www.legislation.gov.uk/uksi/1995/3299/article/3/3) in force at 1.9.1996, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/3299/article/1/1/b)
+
+[^c-4df396bc3c2a2afb9c0514b481c6bdcb]: Commencement: [Art. 3(2)(a)](https://www.legislation.gov.uk/uksi/1995/3299/article/3/2/a) in force at 1.2.1996, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/3299/article/1/1/a)
+
+[^c-3bd42275c8add151dd2703e92cb64a43]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1995/3299/article/4) in force at 1.9.1996, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/3299/article/1/1/b)
+
+[^c-bba6411f065ee827e98ea84645a970cf]: Commencement: [Art. 5(1)](https://www.legislation.gov.uk/uksi/1995/3299/article/5/1)[(2)(b)](https://www.legislation.gov.uk/uksi/1995/3299/article/5/2/b) in force at 1.9.1996, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/3299/article/1/1/b)
+
+[^c-1771cb2a949d393fde01828ee15c4a9a]: Commencement: [Art. 5(2)(a)](https://www.legislation.gov.uk/uksi/1995/3299/article/5/2/a) in force at 1.2.1996, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/3299/article/1/1/a)
+
+[^c-08fc26aa464f3c3bee903de9ab88c368]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1995/3299/article/6) in force at 1.9.1996, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/3299/article/1/1/b)
+
+[^c-af03882f1826e3b3e93d0140aa303155]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/1995/3299/article/7) revoked (1.3.2001) by [The Competition Act 1998 (Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/2031)](https://www.legislation.gov.uk/uksi/2000/2031), [arts. 1](https://www.legislation.gov.uk/uksi/2000/2031/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2000/2031/article/14/2)

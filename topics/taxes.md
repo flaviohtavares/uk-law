@@ -22,7 +22,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-446 in force.
+445 in force.
 
 **2026**
 
@@ -216,7 +216,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Stamp Duty Reserve Tax (virt-x Exchange Limited) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/914-the-stamp-duty-reserve-tax-virt-x-exchange-limited-amendment-regulations-2008.md) *(as originally made)*
 - [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (European Central Counterparty Limited and the Turquoise Multilateral Trading Facility) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1814-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(as originally made)*
 - [The Tax Avoidance Schemes (Information) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1947-the-tax-avoidance-schemes-information-amendment-regulations-2008.md) *(as originally made)*
-- [The Taxes (Fees for Payment by Internet) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2991-the-taxes-fees-for-payment-by-internet-regulations-2008.md) *(changes pending)*
 - [The Taxes (Interest Rate) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/778-the-taxes-interest-rate-amendment-regulations-2008.md) *(as originally made)*
 - [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2264-the-tonnage-tax-training-requirement-amendment-regulations-2008.md) *(changes pending)*
 

@@ -3,7 +3,7 @@ title: Online Safety Act 2023, SCHEDULE 7
 act: Online Safety Act 2023
 section: schedule-7
 status: revised-with-pending-changes
-text_date: '2026-09-30'
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2023/50/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Online Safety Act 2023, SCHEDULE 7
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -176,7 +176,12 @@ An offence under any of the following provisions of the Sexual Offences Act 2003
 - (c)[^c-f98a5df1a86a0d6f2c43a2e0265d8190] section 66E (creating purported intimate image of adult);
 - (d) section 66F (requesting the creation of purported intimate image of adult).
 
-**29.**[^c-89a00f61162329ebd38fdfca9da80ae0] An offence under section 63 of the Criminal Justice and Immigration Act 2008 (possession of extreme pornographic images).
+**29.**[^c-89a00f61162329ebd38fdfca9da80ae0] An offence under any of the following provisions[^c-9c2bc82a5060f68592067f9ab974413d] of the Criminal Justice and Immigration Act 2008 —[^c-9e9d530fe4533762f05fcd60f4ce56c3]
+
+- (a) section 63 (possession of extreme pornographic images);
+- (b) section 67A (possession or publication of pornographic images of strangulation or suffocation) ;[^c-4c2e46fa68acd13d8c17766d4a29949f]
+- (c) section 67E (possession or publication of pornographic images of sex between relatives);
+- (d)[^c-948c28d958731dee6e9924d079a3ada2] section 67H (possession or publication of pornographic images of sexual activity with child under 16).
 
 **30.**[^c-3132f674cd1473b82af76c39f9517971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -295,6 +300,14 @@ An offence under section 4(1) of the Animal Welfare Act 2006 (unnecessary suffer
 [^c-f98a5df1a86a0d6f2c43a2e0265d8190]: Textual amendment: Sch. 7 para. 28A(c)(d) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2026/20/schedule/13/paragraph/24); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z9)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z9)
 
 [^c-89a00f61162329ebd38fdfca9da80ae0]: Commencement: Sch. 7 para. 29 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+
+[^c-9c2bc82a5060f68592067f9ab974413d]: Textual amendment: Words in Sch. 7 para. 29 substituted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 104(5)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/5/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/b)
+
+[^c-9e9d530fe4533762f05fcd60f4ce56c3]: Textual amendment: Sch. 7 para. 29(a)(b) substituted for words (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 104(5)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/5/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/b)
+
+[^c-4c2e46fa68acd13d8c17766d4a29949f]: Textual amendment: Sch. 7 para. 29(c) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 106(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/106/7), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c)
+
+[^c-948c28d958731dee6e9924d079a3ada2]: Textual amendment: Sch. 7 para. 29(d) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 107(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/107/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/d)
 
 [^c-3132f674cd1473b82af76c39f9517971]: Textual amendment: [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2023/50/schedule/7/paragraph/30) omitted (10.12.2024) by virtue of [The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2024 (S.I. 2024/1188)](https://www.legislation.gov.uk/uksi/2024/1188), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1188/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1188/regulation/2/3)
 
