@@ -3,30 +3,36 @@ title: The Offender Management Act 2007 (Approved Premises) Regulations 2008
 id: uksi/2008/1263
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: repealed
 made_date: '2008-05-06'
-text_date: null
-extent: null
+text_date: '2014-06-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1263
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1263/pdfs/uksiem_20081263_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1263/pdfs/uksi_20081263_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1263/made/data.pdf
-pending_changes: 1
-repealed_on: null
+- http://www.legislation.gov.uk/uksi/2008/1263/data.pdf
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Offender Management Act 2007 (Approved Premises) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**No longer in force.**
 
 2008 No. 1263
 
 Probation, England And Wales
 
-The Offender Management Act 2007 (Approved Premises) Regulations 2008
+The Offender Management Act 2007 (Approved Premises) Regulations 2008 (revoked)[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
 Made
 
@@ -40,203 +46,92 @@ Coming into force
 
 1st June 2008
 
-The Secretary of State, in exercise of the powers conferred by section 13(2) of the Offender Management Act 2007[^f00001], makes the following Regulations:
+[^c-caa5bdca0b169b64f3e5a84bcecc309c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement
+**No longer in force.**
 
-These Regulations may be cited as the Offender Management Act 2007 (Approved Premises) Regulations 2008 and shall come into force on 1st June 2008.
+## 1. Citation and commencement[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-## PART 1 — Interpretation, application and revocation
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Interpretation
+## PART 1 — Interpretation, application and revocation[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-In these Regulations—
+### 2. Interpretation[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-- “admissions policy”, in relation to approved premises, means a policy which specifies the categories of person considered suitable to reside at the premises;
-- “approved premises” means premises approved under section 13 of the Offender Management Act 2007;
-- “community sentence” has the meaning given to it by section 147 of the Criminal Justice Act 2003[^f00002];
-- “house rules” means rules for approved premises prepared in accordance with regulation 7(1)(c);
-- “local probation board” means a board constituted under section 4 of the Criminal Justice and Courts Services Act 2000[^f00003] that provides approved premises;
-- “other body” means a body, other than a local probation board and a probation trust, which provides approved premises;
-- “probation trust” means a trust established in accordance with section 5 of the Offender Management Act 2007 that provides approved premises;
-- “relevant local board” means, where applicable, the local probation board in whose area the approved premises are situated;
-- “relevant probation trust” means, where applicable, a probation trust operating in the area in which the approved premises are situated; and
-- “resident”, in relation to approved premises, means a person who lives in the approved premises otherwise than in the course of their employment, and “reside” shall be construed accordingly.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application
+### 3. Application[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-(1) Part 1 and Part 2 of these Regulations apply to probation trusts, local probation boards and other bodies.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Part 3 of these Regulations applies to local probation boards and other bodies.
+### 4. Revocation[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-(3) Part 4 of these Regulations applies only to other bodies.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Revocation
+## PART 2 — Regulations applying to probation trusts, local probation boards and other bodies[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-The Criminal Justice and Courts Services Act 2000 (Approved Premises) Regulations 2001[^f00004] are revoked.
+### 5. Residence conditions[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-## PART 2 — Regulations applying to probation trusts, local probation boards and other bodies
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Residence conditions
+### 6. Periods of leave[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-(1) A probation trust, local probation board or other body must not allow any person to become a resident of approved premises under its management or, where that person is a resident, allow them to continue to reside there, unless—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) they are on bail in criminal proceedings (within the meaning of the Bail Act 1976[^f00005]);
-- (b) they are serving a community sentence;
-- (c) they are on licence, or are subject to supervision by virtue of section 65 of the Criminal Justice Act 1991[^f00006];
-- (d) the chief officer of the relevant local board, someone acting on their behalf, the chief executive of the relevant probation trust, someone acting on their behalf, or the Secretary of State considers that residence at the approved premises is necessary for the protection of the public; or
-- (e) the chief officer of the relevant local board, someone acting on their behalf, the chief executive of the relevant probation trust, someone acting on their behalf or the Secretary of State considers that the person ought to receive supervision or treatment and that residence at the approved premises is necessary in order to enable them to receive it.
+## PART 3 — Regulations applying to local probation boards and other bodies[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-(2) Except with the prior consent of the Secretary of State the number of residents at any approved premises at any time must not exceed such number as may be approved in respect of those premises by the Secretary of State.
+### 7. General duties[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-(3) Except with the prior consent of the Secretary of State a probation trust, local probation board or other body must not allow any person to be present on approved premises under its management if they are outside such age limits as may be approved by the Secretary of State in respect of the premises.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Periods of leave
+### 8. Admissions[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-A person residing at approved premises who is required to reside at the premises by any provision of a community sentence may, with the consent of the officer responsible for supervising the community sentence and the person in charge of the premises, leave the premises for a period of not more than five consecutive days.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Regulations applying to local probation boards and other bodies
+### 9. Residents subject to a residence requirement[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-### 7. General duties
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1) Each local probation board and other body must—
+### 10. Absconding[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-- (a) ensure that—
-  - (i) the approved premises under its management are maintained in a condition which is satisfactory having regard to their purpose;
-  - (ii) the premises are run in a manner which promotes protection of the public and the reduction of re-offending; and
-  - (iii) at least two members of staff are present on the premises at all times;
-- (b) exercise effective control over all expenditure incurred in connection with the approved premises under its management and must prepare such statements of accounts as the Secretary of State may require;
-- (c) prepare house rules for the approved premises, governing the conduct of residents, which must comply with any requirements of the Secretary of State as to the content of such rules; and
-- (d) bring the house rules to the attention of every resident of the approved premises and take all appropriate measures to ensure that they are complied with by all such residents.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The local probation board or other body is responsible for the appointment, training, discipline and dismissal of the staff of the approved premises under its management.
+### 11. Expenses[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-### 8. Admissions
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1) Each local probation board and other body must adopt an admissions policy for approved premises under its management.
+### 12. Medical care and advice[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-(2) The admissions policy must comply with—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) regulation 5(1); and
-- (b) any requirements of the Secretary of State as to the admissions policies of approved premises.
+### 13. Records and returns[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-(3) The local probation board and other body must notify the courts for the area in which the approved premises are situated of the terms of its admissions policy.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Subject to regulation 5, the local probation board or other body must not admit as a resident of approved premises under its management any person who does not fall within one of the categories of person specified as suitable in the admissions policy.
+### 14. Inspection[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-### 9. Residents subject to a residence requirement
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1) Where a person is subject to a requirement (in this regulation referred to as a “residence requirement”) to reside at approved premises provided by a local probation board or other body by virtue of—
+## PART 4 — Regulations applying only to other bodies[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-- (a) a term of any court order;
-- (b) any condition of a licence; or
-- (c) any requirement imposed under section 65 of the Criminal Justice Act 1991,
+### 15. Management committees[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-the local probation board or other body, as applicable, must not, except in the circumstances described in paragraph (2) below, require that person to end their residence before the expiry of the residence requirement.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The circumstances referred to in paragraph (1) above are—
+### 16. Management committees: constitution[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-- (a) that an emergency has arisen; or
-- (b) that the resident has broken the house rules and that breach has been reported—
-  - (i) in a case to which paragraph (1)(a) applies, to the court which made the order; or
-  - (ii) in a case to which paragraph (1)(b) applies, to the Secretary of State.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Where a local probation board or other body intends to require a resident who is subject to a residence requirement to end their residence at the approved premises under its management, it must give reasonable notice of that intention to—
+### 17. Management committees: meetings and reports[^c-caa5bdca0b169b64f3e5a84bcecc309c]
 
-- (a) any officer of a local probation board, or where appropriate any officer of a probation trust, who is responsible for the resident; and
-- (b) in the case of a resident who is on bail, the court which granted bail.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Absconding
+[^c-caa5bdca0b169b64f3e5a84bcecc309c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Where a resident absconds from approved premises provided by a local probation board or other body, the person in charge of the premises must immediately notify—
+**May not be in force at this date. Check the source.**
 
-- (a) in the case of a resident required by or under any provision of a community sentence to reside at the approved premises, the person responsible for supervising that sentence;
-- (b) in the case of a resident required by virtue of any condition of a licence or any requirement imposed under section 65 of the Criminal Justice Act 1991 to reside at the approved premises, the person responsible for supervising that licence or notice of supervision; or
-- (c) in the case of a resident who is on bail and is required as a condition of that bail to reside at the approved premises, the court which granted bail and the police.
-
-### 11. Expenses
-
-—Each local probation board and other body must charge residents, in respect of the expenses of the resident’s maintenance, such sums as the Secretary of State may determine.
-
-### 12. Medical care and advice
-
-(1) Each local probation board and other body must ensure that facilities are available for the provision to residents of any necessary medical and dental treatment.
-
-(2) The local probation board or other body, as applicable, may appoint a medical officer to assist it in discharging its functions under paragraph (1) above.
-
-### 13. Records and returns
-
-Each local probation board and other body must arrange for the keeping of all registers and records required by the Secretary of State and must cause to be sent to the Secretary of State such returns, statements and other information as may be required by the Secretary of State from time to time.
-
-### 14. Inspection
-
-Each local probation board and other body must arrange for the approved premises under its management to be open at all times to inspection by or on behalf of the Secretary of State and must, in connection with any such inspection, make available for examination the books and records of the approved premises.
-
-## PART 4 — Regulations applying only to other bodies
-
-### 15. Management committees
-
-All approved premises provided by other bodies must be managed by a committee (referred to in this Part as a “management committee”).
-
-### 16. Management committees: constitution
-
-(1) Each management committee must prepare a written constitution, which shall not become effective until it has been agreed with the relevant local board or the relevant probation trust, as appropriate.
-
-(2) The constitution must contain information on—
-
-- (a) the membership of the management committee;
-- (b) the duration of appointments to the management committee;
-- (c) the frequency of management committee meetings;
-- (d) the quorum of the management committee; and
-- (e) such other matters as the management committee or relevant local board or relevant probation trust, as appropriate, consider appropriate.
-
-### 17. Management committees: meetings and reports
-
-(1) Each management committee must notify the relevant local board or the relevant probation trust, as appropriate, of the dates and times of its meetings and must permit—
-
-- (a) a member of the relevant local board or relevant probation trust, as appropriate;
-- (b) an officer of the relevant local board of the grade of assistant chief officer or above or, where appropriate, an officer of the relevant probation trust of the grade of assistant chief executive or above; and
-- (c) a person appointed by or on behalf of the Secretary of State,
-
-to attend its meetings for the purpose of giving advice to the management committee.
-
-(2) Each management committee must—
-
-- (a) keep minutes of its meetings and make them available for inspection by or on behalf of the Secretary of State and by any auditor appointed to audit its accounts; and
-- (b) publish an annual report containing the names of its members and such other information as the Secretary of State may require.
-
-Signed by authority of the Secretary of State
-
-Maria Eagle
-
-Parliamentary Under Secretary of State
-
-Ministry of Justice
-
-6th May 2008
-
-EXPLANATORY NOTE
-
-(This note is not part of the Regulations)
-
-These Regulations make provision for the regulation, management and inspection of premises approved under section 13 of the Offender Management Act [2007 (c.21)](https://www.legislation.gov.uk/ukpga/2007/21). Approved premises may be provided by a probation trust, by a local probation board or by another type of body.
-
-Part II of the Regulations sets out requirements that apply to the management of all approved premises. In particular, Part II stipulates the conditions for residence at approved premises and provides for periods of leave from approved premises by residents who are serving a community sentence.
-
-Part III of the Regulations applies to approved premises which are provided by local probation boards and by other bodies. Part III sets out general duties in respect of approved premises and requirements as to an admissions policy. It also sets out the steps which must be taken in a case where a resident is asked to leave, or absconds from, the approved premises and contains requirements about financial control, medical care and the keeping and inspection of records.
-
-Part IV of the Regulations applies only to approved premises provided by other bodies. It requires that approved premises provided by other bodies are managed by a management committee. It makes provision for the constitution of such management committees and sets out requirements as to attendance at meetings and the preparation of minutes and reports.
+[^c-caa5bdca0b169b64f3e5a84bcecc309c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
-
-[^f00002]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44).
-
-[^f00003]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43). Section 4 has been repealed in relation to the areas of Humberside, Leicestershire, Merseyside, West Mercia, Dyfed Powys and South Wales, by section 39 to, and Part 1 of Schedule 5 to, the Offender Management Act [2007 (c.21)](https://www.legislation.gov.uk/ukpga/2007/21). For the remaining purposes, section 4 is to be repealed by section 39 of, and Part 1 of Schedule 5 to, the Offender Management Act 2007 on a date to be appointed.
-
-[^f00004]: Footnote: [S.I. 2001/850](https://www.legislation.gov.uk/uksi/2001/850).
-
-[^f00005]: Footnote: [1976 c.63](https://www.legislation.gov.uk/ukpga/1976/63).
-
-[^f00006]: Footnote: [1991 c.53](https://www.legislation.gov.uk/ukpga/1991/53). Section 65 was amended by section 119 of, and paragraph 94(2) of Schedule 8 to, the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), section 165(1) of, and paragraph 145 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c.6)](https://www.legislation.gov.uk/ukpga/2000/6), sections 63(1), (2) and (3) and 74 of, and paragraph 4(1)(a), (1)(b) and (2) of Part 1 of Schedule 7 to, the Criminal Justice and Courts Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), section 64 of, and Part 4 of Schedule 5 to, the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31) and article 9 of The Offender Management Act 2007 (Consequential Amendments) Order 2008 ([S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912)). Section 65 is to be repealed by sections 304 and 332 of, and paragraphs 62 and 63 of Part 1 of Schedule 32 and Part 7 of Schedule 37 to, the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), from a date to be appointed. Until that date, section 65 has effect subject to the modifications in paragraph 5 of Schedule 38 to the Criminal Justice Act 2003, as amended by Part 4 of Schedule 5 to the Children Act 2004.
+[^c-caa5bdca0b169b64f3e5a84bcecc309c]: Textual amendment: Regulations revoked (1.6.2014) by [The Offender Management Act 2007 (Approved Premises) Regulations 2014 (S.I. 2014/1198)](https://www.legislation.gov.uk/uksi/2014/1198), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1198/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/1198/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/1198/regulation/3))

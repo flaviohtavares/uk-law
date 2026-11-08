@@ -6,11 +6,11 @@ Laws in force under the legislation.gov.uk subject heading **PROBATION**. Repeal
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Offender Management Act 2007](../uk-parliament/acts/public/2007/21-offender-management-act-2007/README.md) *(changes pending)* — 17 regulations on this topic made under it
+- [Offender Management Act 2007](../uk-parliament/acts/public/2007/21-offender-management-act-2007/README.md) *(changes pending)* — 16 regulations on this topic made under it
 
 ## Regulations
 
-155 in force.
+154 in force.
 
 **2023**
 
@@ -56,7 +56,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Offender Management Act 2007 (Approved Premises) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1263-the-offender-management-act-2007-approved-premises-regulations-2008.md) *(as originally made)*
 - [The Offender Management Act 2007 (Commencement No. 2 and Transitional Provision) Order 2008](../uk-parliament/regulations/2008/0500-0999/504-the-offender-management-act-2007-commencement-no-2-and-transitional-provision-or.md) *(as originally made)*
 - [The Offender Management Act 2007 (Consequential Amendments) Order 2008](../uk-parliament/regulations/2008/0500-0999/912-the-offender-management-act-2007-consequential-amendments-order-2008.md)
 - [The Offender Management Act 2007 (Establishment of Probation Trusts) Order 2008](../uk-parliament/regulations/2008/0500-0999/598-the-offender-management-act-2007-establishment-of-probation-trusts-order-2008.md) *(as originally made)*

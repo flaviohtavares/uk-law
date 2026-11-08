@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1991-07-25'
-text_date: '2026-07-30'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1991/59
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1991/59/pdfs/ukpga_19910059_en.pdf
 - http://www.legislation.gov.uk/ukpga/1991/59/data.pdf
-pending_changes: 13
+pending_changes: 9
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Land Drainage Act 1991
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/59
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/59
 >
 > Extent: England, Wales.
 

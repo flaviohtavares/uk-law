@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **COMPANIES**. Repeal
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Companies Act 2006](../uk-parliament/acts/public/2006/46-companies-act-2006/README.md) *(changes pending)* — 138 regulations on this topic made under it
+- [Companies Act 2006](../uk-parliament/acts/public/2006/46-companies-act-2006/README.md) *(changes pending)* — 137 regulations on this topic made under it
 - [Companies Act 1985](../uk-parliament/acts/public/1985/6-companies-act-1985/README.md) *(changes pending)* — 112 regulations on this topic made under it
 - [Companies Act 1989](../uk-parliament/acts/public/1989/40-companies-act-1989/README.md) *(changes pending)* — 37 regulations on this topic made under it
 - [Limited Liability Partnerships Act 2000](../uk-parliament/acts/public/2000/12-limited-liability-partnerships-act-2000.md) — 22 regulations on this topic made under it
@@ -21,7 +21,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-481 in force.
+480 in force.
 
 **2026**
 
@@ -269,7 +269,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Companies (Reduction of Share Capital) Order 2008](../uk-parliament/regulations/2008/1500-1999/1915-the-companies-reduction-of-share-capital-order-2008.md) *(as originally made)*
 - [The Companies (Registration) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3014-the-companies-registration-regulations-2008.md) *(as originally made)*
 - [The Companies (Revision of Defective Accounts and Reports) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/373-the-companies-revision-of-defective-accounts-and-reports-regulations-2008.md)
-- [The Companies (Summary Financial Statement) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/374-the-companies-summary-financial-statement-regulations-2008.md) *(changes pending)*
 - [The Companies (Tables A to F) (Amendment) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/161-the-companies-tables-a-to-f-amendment-regulations-northern-ireland-2008.md) *(as originally made)*
 - [The Companies (Tables A to F) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/739-the-companies-tables-a-to-f-amendment-regulations-2008.md) *(as originally made)*
 - [The Companies (Trading Disclosures) (Insolvency) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1897-the-companies-trading-disclosures-insolvency-regulations-2008.md) *(as originally made)*

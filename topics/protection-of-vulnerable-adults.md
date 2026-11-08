@@ -6,12 +6,12 @@ Laws in force under the legislation.gov.uk subject heading **PROTECTION OF VULNE
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Safeguarding Vulnerable Groups Act 2006](../uk-parliament/acts/public/2006/47-safeguarding-vulnerable-groups-act-2006/README.md) *(changes pending)* — 34 regulations on this topic made under it
+- [Safeguarding Vulnerable Groups Act 2006](../uk-parliament/acts/public/2006/47-safeguarding-vulnerable-groups-act-2006/README.md) *(changes pending)* — 33 regulations on this topic made under it
 - [Protection of Vulnerable Groups (Scotland) Act 2007](../scotland/acts/2007/14-protection-of-vulnerable-groups-scotland-act-2007/README.md) *(changes pending)* — 24 regulations on this topic made under it
 
 ## Regulations
 
-71 in force.
+70 in force.
 
 **2023**
 
@@ -108,7 +108,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Protection of Children and Vulnerable Adults and Care Standards Tribunal (Children’s and Adults’ Barred Lists) (Transitional Provisions) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1497-the-protection-of-children-and-vulnerable-adults-and-care-standards-tribunal-chi.md) *(changes pending)*
 - [The Safeguarding Vulnerable Groups Act 2006 (Barred List Prescribed Information) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/16-the-safeguarding-vulnerable-groups-act-2006-barred-list-prescribed-information-r.md) *(as originally made)*
 - [The Safeguarding Vulnerable Groups Act 2006 (Barring Procedure) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/474-the-safeguarding-vulnerable-groups-act-2006-barring-procedure-regulations-2008.md) *(as originally made)*
 - [The Safeguarding Vulnerable Groups Act 2006 (Commencement No. 1) (England) Order 2008](../uk-parliament/regulations/2008/3000-3499/3204-the-safeguarding-vulnerable-groups-act-2006-commencement-no-1-england-order-2008.md) *(as originally made)*

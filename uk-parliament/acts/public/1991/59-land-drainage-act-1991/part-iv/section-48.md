@@ -3,7 +3,7 @@ title: Land Drainage Act 1991, section 48
 act: Land Drainage Act 1991
 section: '48'
 status: revised-with-pending-changes
-text_date: '2026-07-30'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1991/59/section/48
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Land Drainage Act 1991, section 48
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/59
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/59
 >
 > Extent: England, Wales.
 

@@ -13,8 +13,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Adoption and Children Act 2002](../../uk-parliament/acts/public/2002/38-adoption-and-children-act-2002/README.md) *(changes pending)* — 70 regulations on this topic made under it
 - [Child Abduction and Custody Act 1985](../../uk-parliament/acts/public/1985/60-child-abduction-and-custody-act-1985.md) *(changes pending)* — 57 regulations on this topic made under it
 - [Children (Scotland) Act 1995](../../uk-parliament/acts/public/1995/36-children-scotland-act-1995/README.md) *(changes pending)* — 49 regulations on this topic made under it
-- [Safeguarding Vulnerable Groups Act 2006](../../uk-parliament/acts/public/2006/47-safeguarding-vulnerable-groups-act-2006/README.md) *(changes pending)* — 35 regulations on this topic made under it
 - [Adoption Act 1976](../../uk-parliament/acts/public/1976/36-adoption-act-1976/README.md) *(changes pending)* — 34 regulations on this topic made under it
+- [Safeguarding Vulnerable Groups Act 2006](../../uk-parliament/acts/public/2006/47-safeguarding-vulnerable-groups-act-2006/README.md) *(changes pending)* — 34 regulations on this topic made under it
 - [Children Act 2004](../../uk-parliament/acts/public/2004/31-children-act-2004/README.md) *(changes pending)* — 33 regulations on this topic made under it
 - [Adoption and Children (Scotland) Act 2007](../../scotland/acts/2007/4-adoption-and-children-scotland-act-2007/README.md) *(changes pending)* — 29 regulations on this topic made under it
 - [Protection of Vulnerable Groups (Scotland) Act 2007](../../scotland/acts/2007/14-protection-of-vulnerable-groups-scotland-act-2007/README.md) *(changes pending)* — 24 regulations on this topic made under it
@@ -40,7 +40,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1031 in force, by year:
+1030 in force, by year:
 
 | year | in force |
 |---|---|
@@ -62,7 +62,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 29 |
 | [2010](2010.md) | 62 |
 | [2009](2009.md) | 54 |
-| [2008](2008.md) | 53 |
+| [2008](2008.md) | 52 |
 | [2007](2007.md) | 46 |
 | [2006](2006.md) | 25 |
 | [2005](2005.md) | 66 |

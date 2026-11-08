@@ -8,11 +8,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Immigration and Asylum Act 1999](../uk-parliament/acts/public/1999/33-immigration-and-asylum-act-1999/README.md) *(changes pending)* — 147 regulations on this topic made under it
 - [Immigration Act 1971](../uk-parliament/acts/public/1971/77-immigration-act-1971/README.md) *(changes pending)* — 118 regulations on this topic made under it
-- [Nationality, Immigration and Asylum Act 2002](../uk-parliament/acts/public/2002/41-nationality-immigration-and-asylum-act-2002/README.md) *(changes pending)* — 94 regulations on this topic made under it
+- [Nationality, Immigration and Asylum Act 2002](../uk-parliament/acts/public/2002/41-nationality-immigration-and-asylum-act-2002/README.md) *(changes pending)* — 92 regulations on this topic made under it
 - [Immigration Act 2014](../uk-parliament/acts/public/2014/22-immigration-act-2014/README.md) *(changes pending)* — 91 regulations on this topic made under it
-- [Immigration, Asylum and Nationality Act 2006](../uk-parliament/acts/public/2006/13-immigration-asylum-and-nationality-act-2006.md) *(changes pending)* — 53 regulations on this topic made under it
+- [Immigration, Asylum and Nationality Act 2006](../uk-parliament/acts/public/2006/13-immigration-asylum-and-nationality-act-2006.md) *(changes pending)* — 52 regulations on this topic made under it
 - [Immigration Act 2016](../uk-parliament/acts/public/2016/19-immigration-act-2016/README.md) *(changes pending)* — 33 regulations on this topic made under it
-- [UK Borders Act 2007](../uk-parliament/acts/public/2007/30-uk-borders-act-2007.md) *(changes pending)* — 31 regulations on this topic made under it
+- [UK Borders Act 2007](../uk-parliament/acts/public/2007/30-uk-borders-act-2007.md) *(changes pending)* — 30 regulations on this topic made under it
 - [Immigration Act 1988](../uk-parliament/acts/public/1988/14-immigration-act-1988.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Asylum and Immigration Act 1996](../uk-parliament/acts/public/1996/49-asylum-and-immigration-act-1996.md) *(changes pending)* — 12 regulations on this topic made under it
 - [Special Immigration Appeals Commission Act 1997](../uk-parliament/acts/public/1997/68-special-immigration-appeals-commission-act-1997.md) *(changes pending)* — 11 regulations on this topic made under it
@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-608 in force.
+604 in force.
 
 **2026**
 
@@ -376,11 +376,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Asylum Support (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/760-the-asylum-support-amendment-regulations-2008.md) *(changes pending)*
-- [The Asylum and Immigration Tribunal (Fast Track Procedure) (Amendment) Rules 2008](../uk-parliament/regulations/2008/1000-1499/1089-the-asylum-and-immigration-tribunal-fast-track-procedure-amendment-rules-2008.md) *(changes pending)*
-- [The Asylum and Immigration Tribunal (Procedure) (Amendment) Rules 2008](../uk-parliament/regulations/2008/1000-1499/1088-the-asylum-and-immigration-tribunal-procedure-amendment-rules-2008.md) *(changes pending)*
 - [The Immigration (Biometric Registration) (Civil Penalty Code of Practice) Order 2008](../uk-parliament/regulations/2008/3000-3499/3049-the-immigration-biometric-registration-civil-penalty-code-of-practice-order-2008.md) *(as originally made)*
 - [The Immigration (Biometric Registration) (Objection to Civil Penalty) Order 2008](../uk-parliament/regulations/2008/2500-2999/2830-the-immigration-biometric-registration-objection-to-civil-penalty-order-2008.md)
-- [The Immigration (Biometric Registration) (Pilot) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1183-the-immigration-biometric-registration-pilot-regulations-2008.md) *(as originally made)*
 - [The Immigration (Biometric Registration) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3048-the-immigration-biometric-registration-regulations-2008.md)
 - [The Immigration (Designation of Travel Bans) (Amendment) Order 2008](../uk-parliament/regulations/2008/3000-3499/3052-the-immigration-designation-of-travel-bans-amendment-order-2008.md) *(as originally made)*
 - [The Immigration (Disposal of Property) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/786-the-immigration-disposal-of-property-regulations-2008.md) *(as originally made)*
@@ -392,7 +389,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Immigration (Supply of Information to the Secretary of State for Immigration Purposes) Order 2008](../uk-parliament/regulations/2008/2000-2499/2077-the-immigration-supply-of-information-to-the-secretary-of-state-for-immigration.md) *(as originally made)*
 - [The Immigration Services Commissioner (Designated Professional Body) (Fees) Order 2008](../uk-parliament/regulations/2008/0500-0999/505-the-immigration-services-commissioner-designated-professional-body-fees-order-20.md) *(as originally made)*
 - [The Immigration and Nationality (Cost Recovery Fees) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2790-the-immigration-and-nationality-cost-recovery-fees-amendment-no-3-regulations-20.md) *(as originally made)*
-- [The Immigration and Nationality (Cost Recovery Fees) (Amendment No.2) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1337-the-immigration-and-nationality-cost-recovery-fees-amendment-no-2-regulations-20.md) *(as originally made)*
 - [The Immigration and Nationality (Cost Recovery Fees)(Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/218-the-immigration-and-nationality-cost-recovery-fees-amendment-regulations-2008.md) *(changes pending)*
 - [The Immigration and Nationality (Fees) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3017-the-immigration-and-nationality-fees-amendment-no-3-regulations-2008.md) *(as originally made)*
 - [The Immigration, Asylum and Nationality Act 2006 (Commencement No. 8 and Transitional and Saving Provisions) Order 2008](../uk-parliament/regulations/2008/0000-0499/310-the-immigration-asylum-and-nationality-act-2006-commencement-no-8-and-transition.md) *(as originally made)*

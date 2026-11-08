@@ -13,7 +13,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-176 in force.
+175 in force.
 
 **2026**
 
@@ -66,10 +66,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Building Society Special Administration (Scotland) Rules 2009](../uk-parliament/regulations/2009/0500-0999/806-the-building-society-special-administration-scotland-rules-2009.md) *(as originally made)*
 - [The Dormant Bank and Building Society Accounts Act 2008 (Commencement and Transitional Provisions) Order 2009](../uk-parliament/regulations/2009/0000-0499/490-the-dormant-bank-and-building-society-accounts-act-2008-commencement-and-transit.md) *(as originally made)*
 - [The Mutual Societies (Transfers) Order 2009](../uk-parliament/regulations/2009/0500-0999/509-the-mutual-societies-transfers-order-2009.md)
-
-**2008**
-
-- [The Building Societies (Financial Assistance) Order 2008](../uk-parliament/regulations/2008/1000-1499/1427-the-building-societies-financial-assistance-order-2008.md) *(as originally made)*
 
 **2007**
 

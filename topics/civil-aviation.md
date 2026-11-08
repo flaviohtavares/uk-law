@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **CIVIL AVIATION**. R
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Civil Aviation Act 1982](../uk-parliament/acts/public/1982/16-civil-aviation-act-1982/README.md) *(changes pending)* — 212 regulations on this topic made under it
+- [Civil Aviation Act 1982](../uk-parliament/acts/public/1982/16-civil-aviation-act-1982/README.md) *(changes pending)* — 211 regulations on this topic made under it
 - [Airports Act 1986](../uk-parliament/acts/public/1986/31-airports-act-1986/README.md) *(changes pending)* — 35 regulations on this topic made under it
 - [Civil Aviation Act 1949](../uk-parliament/acts/public/geo6-12-13-14/67-civil-aviation-act-1949/README.md) *(as originally made)* — 29 regulations on this topic made under it
 - [Carriage by Air Act 1961](../uk-parliament/acts/public/eliz2-9-10/27-carriage-by-air-act-1961/README.md) *(changes pending)* — 21 regulations on this topic made under it
@@ -21,7 +21,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-531 in force.
+529 in force.
 
 **2026**
 
@@ -247,11 +247,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Air Navigation (Dangerous Goods) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1943-the-air-navigation-dangerous-goods-amendment-regulations-2008.md) *(as originally made)*
 - [The Air Navigation (Environmental Standards For Non-Part 21 Aircraft) Order 2008](../uk-parliament/regulations/2008/3000-3499/3133-the-air-navigation-environmental-standards-for-non-part-21-aircraft-order-2008.md)
 - [The Air Navigation (Guernsey) (Revocation) Order 2008](../uk-parliament/regulations/2008/3000-3499/3121-the-air-navigation-guernsey-revocation-order-2008.md) *(as originally made)*
-- [The Air Navigation (Isle of Man) (Amendment) Order 2008](../uk-parliament/regulations/2008/1000-1499/1487-the-air-navigation-isle-of-man-amendment-order-2008.md) *(changes pending)*
 - [The Air Navigation (Jersey) Order 2008](../uk-parliament/regulations/2008/2500-2999/2562-the-air-navigation-jersey-order-2008/README.md) *(as originally made)*
 - [The Air Navigation (Overseas Territories) (Amendment) Order 2008](../uk-parliament/regulations/2008/3000-3499/3125-the-air-navigation-overseas-territories-amendment-order-2008.md) *(as originally made)*
 - [The Air Navigation (Restriction of Flying) (Nuclear Installations) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3169-the-air-navigation-restriction-of-flying-nuclear-installations-amendment-regulat.md) *(as originally made)*
-- [The Air Navigation (Restriction of Flying) (Scottish Highlands) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1239-the-air-navigation-restriction-of-flying-scottish-highlands-regulations-2008.md) *(as originally made)*
 - [The Civil Aviation (Overseas Territories) (Gibraltar) (Revocations) (No. 2) Order 2008](../uk-parliament/regulations/2008/3000-3499/3120-the-civil-aviation-overseas-territories-gibraltar-revocations-no-2-order-2008.md) *(as originally made)*
 - [The Civil Aviation (Overseas Territories) (Gibraltar) (Revocations) Order 2008](../uk-parliament/regulations/2008/3000-3499/3119-the-civil-aviation-overseas-territories-gibraltar-revocations-order-2008.md) *(as originally made)*
 - [The Economic Regulation of Airports (Designation) Order (Amendment) Order 2008](../uk-parliament/regulations/2008/2500-2999/2702-the-economic-regulation-of-airports-designation-order-amendment-order-2008.md) *(as originally made)*

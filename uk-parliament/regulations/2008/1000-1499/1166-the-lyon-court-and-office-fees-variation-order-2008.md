@@ -3,16 +3,16 @@ title: The Lyon Court and Office Fees (Variation) Order 2008
 id: uksi/2008/1166
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-04-28'
-text_date: '2008-05-23'
+text_date: '2017-01-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1166
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1166/pdfs/uksiem_20081166_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1166/pdfs/uksi_20081166_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1166/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Lyon Court and Office Fees (Variation) Order 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-05-23. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1166
+> Text as at 2017-01-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -28,82 +28,82 @@ summary: ''
 
 2008 No. 1166
 
-ARMORIAL BEARINGS, ENSIGNS AND FLAGS
+ARMORIAL BEARINGS, ENSIGNS AND FLAGS *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-The Lyon Court and Office Fees (Variation) Order 2008
+The Lyon Court and Office Fees (Variation) Order 2008 *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-Made
+Made *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-28th April 2008
+28th April 2008 *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-Laid before Parliament
+Laid before Parliament *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-30th April 2008
+30th April 2008 *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-Coming into force
+Coming into force *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-23rd May 2008
+23rd May 2008 *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-The Secretary of State makes the following Order in exercise of the powers conferred by section 5 of, as read with paragraph 3 of Schedule 3 to, the Public Expenditure and Receipts Act 1968[^f00001]:
+The Secretary of State makes the following Order in exercise of the powers conferred by section 5 of, as read with paragraph 3 of Schedule 3 to, the Public Expenditure and Receipts Act 1968 *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b][^f00001]: *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
 ## 1. Citation and commencement[^c-5a5dfd1543efb7165fc6235c7f9e8f52]
 
 This Order may be cited as the Lyon Court and Office Fees (Variation) Order 2008 and shall come into force on 23rd May 2008.
 
-## 2. Variation of fees[^c-a5768840f6f12cff30ba7896a5b34d8b]
+## 2 (Extent: S) (affected by repeal, see note). Variation of fees (Extent: S) (affected by repeal, see note)[^c-a5768840f6f12cff30ba7896a5b34d8b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b]
 
-Schedule B to the Lyon King of Arms Act 1867[^f00002] is amended in accordance with Article 3 of, and Schedules 1 and 2 to, this Order.
+Schedule B to the Lyon King of Arms Act 1867 *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b][^f00002] is amended in accordance with Article 3 of, and Schedules 1 and 2 to, this Order. *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-**3.**[^c-cb54b72bf60a823a69954ba721539e6d] (1) The entries and corresponding fees in Schedule B listed in Schedule 1 are deleted.
+**3 (Extent: S) (affected by repeal, see note).**[^c-cb54b72bf60a823a69954ba721539e6d][^c-64a960962ab7915e1a872e70f4f1c48b] (1 (Extent: S) (affected by repeal, see note))[^c-64a960962ab7915e1a872e70f4f1c48b] The entries and corresponding fees in Schedule B listed in Schedule 1 are deleted. *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-(2) The contents of Schedule 2 are inserted as Part 1 (fees payable in respect of reserved functions) at the beginning of Schedule B.
+(2 (Extent: S) (affected by repeal, see note))[^c-64a960962ab7915e1a872e70f4f1c48b] The contents of Schedule 2 are inserted as Part 1 (fees payable in respect of reserved functions) at the beginning of Schedule B. *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-DAVID CAIRNS
+DAVID CAIRNS *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-Minister of State, Scotland Office, Ministry of Justice
+Minister of State, Scotland Office, Ministry of Justice *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-Dover House,
+Dover House, *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-London
+London *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-28th April 2008
+28th April 2008 *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-## SCHEDULE 1[^c-db00807ebba1a985f9217d790f011f07]
+## SCHEDULE 1 (Extent: S) (affected by repeal, see note)[^c-db00807ebba1a985f9217d790f011f07][^c-64a960962ab7915e1a872e70f4f1c48b]
 
-Article 2 and 3
+Article 2 and 3 *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
 <table>
 <thead>
-<tr><th><em>Column 1</em></th><th><em>Column 2</em></th></tr>
-<tr><th>(Matter to which fee relates)</th><th>(Fee formerly payable)</th></tr>
-<tr><th></th><th><em>£</em></th></tr>
+<tr><th><em>Column 1 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></em></th><th><em>Column 2 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></em></th></tr>
+<tr><th>(Matter to which fee relates) <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></th><th>(Fee formerly payable) <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></th></tr>
+<tr><th></th><th><em>£ <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></em></th></tr>
 </thead>
 <tbody>
-<tr><td>On every patent of arms with supporters</td><td>734.00</td></tr>
-<tr><td>On every patent of arms without supporters</td><td>448.00</td></tr>
-<tr><td>On every extract from a register</td><td>14.00</td></tr>
-<tr><td>On affixing seal of office to warrant, decree or precept</td><td>14.00</td></tr>
-<tr><td>On the appointment of a herald</td><td>11.00</td></tr>
-<tr><td>On the appointment of a pursuivant</td><td>11.00</td></tr>
+<tr><td>On every patent of arms with supporters <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td><td>734.00 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td></tr>
+<tr><td>On every patent of arms without supporters <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td><td>448.00 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td></tr>
+<tr><td>On every extract from a register <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td><td>14.00 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td></tr>
+<tr><td>On affixing seal of office to warrant, decree or precept <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td><td>14.00 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td></tr>
+<tr><td>On the appointment of a herald <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td><td>11.00 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td></tr>
+<tr><td>On the appointment of a pursuivant <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td><td>11.00 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td></tr>
 </tbody>
 </table>
 
-[^f00003]
+[^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^f00003][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b]
 
-## SCHEDULE 2
+## SCHEDULE 2 (Extent: S) (affected by repeal, see note)[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-Article 2 and 3
+Article 2 and 3 *(Extent: S)* *(affected by repeal, see note)*[^c-64a960962ab7915e1a872e70f4f1c48b]
 
-### PART 1 — Fees payable in respect of reserved functions[^c-9fd5de364381000c2f935c50286e29e8]
+### PART 1 (Extent: S) (affected by repeal, see note) — Fees payable in respect of reserved functions (Extent: S) (affected by repeal, see note)[^c-9fd5de364381000c2f935c50286e29e8][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b]
 
 <table>
 <thead>
-<tr><th><em>Column 1</em></th><th><em>Column 2</em></th></tr>
-<tr><th>(Matter to which fee relates)</th><th>(Fee payable)</th></tr>
-<tr><th></th><th><em>£</em></th></tr>
+<tr><th><em>Column 1 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></em></th><th><em>Column 2 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></em></th></tr>
+<tr><th>(Matter to which fee relates) <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></th><th>(Fee payable) <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></th></tr>
+<tr><th></th><th><em>£ <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></em></th></tr>
 </thead>
 <tfoot>
-<tr><td colspan="2">Note: In Part 1–<br>(a) “commercial organisation” means–<br>(i) any partnership within the meaning of section 1 (definition of partnership) of the Partnership Act 1890;<br>(ii) any limited liability partnership incorporated under section 2 (incorporation document etc.) of the Limited Liability Partnerships Act 2000;<br>(iii) any company registered under the Companies Acts; or<br>(iv) any overseas company having an established place of business in the United Kingdom,<br>but does not include companies registered for charitable purposes, community interest companies within the meaning of Part 2 (community interest companies) of the Companies (Audit, Investigations and Community Enterprise) Act 2004 or private companies limited by guarantee; and<br>(b) in paragraph (a) “Companies Acts” means the Companies Act 2006, any Act amending or replacing that Act and any former enactment relating to companies.</td></tr>
+<tr><td colspan="2">Note: In Part 1– <em>(Extent: S)</em> <em>(affected by repeal, see note)</em><br>(a) “commercial organisation” means– <em>(Extent: S)</em> <em>(affected by repeal, see note)</em><br>(i) any partnership within the meaning of section 1 (definition of partnership) of the Partnership Act 1890 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em>; <em>(Extent: S)</em> <em>(affected by repeal, see note)</em><br>(ii) any limited liability partnership incorporated under section 2 (incorporation document <em>(Extent: S)</em> <em>(affected by repeal, see note)</em> etc. <em>(Extent: S)</em> <em>(affected by repeal, see note)</em>) of the Limited Liability Partnerships Act 2000 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em>; <em>(Extent: S)</em> <em>(affected by repeal, see note)</em><br>(iii) any company registered under the Companies Acts; or <em>(Extent: S)</em> <em>(affected by repeal, see note)</em><br>(iv) any overseas company having an established place of business in the United Kingdom, <em>(Extent: S)</em> <em>(affected by repeal, see note)</em><br>but does not include companies registered for charitable purposes, community interest companies within the meaning of Part 2 (community interest companies) of the Companies (Audit, Investigations and Community Enterprise) Act 2004 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em> or private companies limited by guarantee; and <em>(Extent: S)</em> <em>(affected by repeal, see note)</em><br>(b) in paragraph (a) “Companies Acts” means the Companies Act 2006 <em>(Extent: S)</em> <em>(affected by repeal, see note)</em>, any Act amending or replacing that Act and any former enactment relating to companies. <em>(Extent: S)</em> <em>(affected by repeal, see note)</em></td></tr>
 </tfoot>
 <tbody>
 <tr><td>1. On every patent of arms</td><td>627.00</td></tr>
@@ -119,13 +119,15 @@ Article 2 and 3
 </tbody>
 </table>
 
-[^f00004][^f00005][^f00006][^f00007]
+[^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^f00004][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^f00005][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^f00006][^c-64a960962ab7915e1a872e70f4f1c48b][^c-64a960962ab7915e1a872e70f4f1c48b][^f00007][^c-64a960962ab7915e1a872e70f4f1c48b]
 
 (This note is not part of the Order)
 
 This Order varies the fees payable in respect of reserved functions in Schedule B to the Lyon King of Arms Act 1867 by replacing them with the fees listed in Schedule 2 to this Order. The Lyon Court and Office Fees (Variation) (No. 2) Order 2008 comes into force immediately after the coming into force of this Order and varies the fees payable in respect of devolved functions in Schedule B by replacing them with the fees listed in the Schedule to that Order.
 
 ## Annotations
+
+[^c-64a960962ab7915e1a872e70f4f1c48b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1166) revoked (S.) (1.1.2017) by [The Lyon Court and Office Fees (Variation) (Reserved Functions) Order 2016 (S.I. 2016/1138)](https://www.legislation.gov.uk/uksi/2016/1138), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1138/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/1138/article/4)
 
 [^f00001]: Footnote: [1968 c. 14](https://www.legislation.gov.uk/ukpga/1968/14).
 

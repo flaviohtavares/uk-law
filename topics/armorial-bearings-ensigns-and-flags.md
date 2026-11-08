@@ -34,7 +34,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Lyon Court and Office Fees (Variation) Order 2008](../uk-parliament/regulations/2008/1000-1499/1166-the-lyon-court-and-office-fees-variation-order-2008.md) *(changes pending)*
+- [The Lyon Court and Office Fees (Variation) Order 2008](../uk-parliament/regulations/2008/1000-1499/1166-the-lyon-court-and-office-fees-variation-order-2008.md)
 
 **1996**
 

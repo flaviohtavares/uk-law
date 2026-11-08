@@ -11,7 +11,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-59 in force.
+58 in force.
 
 **2026**
 
@@ -117,7 +117,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Immigration and Nationality (Cost Recovery Fees) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2790-the-immigration-and-nationality-cost-recovery-fees-amendment-no-3-regulations-20.md) *(as originally made)*
-- [The Immigration and Nationality (Cost Recovery Fees) (Amendment No.2) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1337-the-immigration-and-nationality-cost-recovery-fees-amendment-no-2-regulations-20.md) *(as originally made)*
 - [The Immigration and Nationality (Cost Recovery Fees)(Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/218-the-immigration-and-nationality-cost-recovery-fees-amendment-regulations-2008.md) *(changes pending)*
 - [The Immigration and Nationality (Fees) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3017-the-immigration-and-nationality-fees-amendment-no-3-regulations-2008.md) *(as originally made)*
 

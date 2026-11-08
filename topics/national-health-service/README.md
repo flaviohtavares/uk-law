@@ -9,7 +9,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [National Health Service Act 1977](../../uk-parliament/acts/public/1977/49-national-health-service-act-1977/README.md) *(changes pending)* — 2324 regulations on this topic made under it
 - [National Health Service and Community Care Act 1990](../../uk-parliament/acts/public/1990/19-national-health-service-and-community-care-act-1990/README.md) *(changes pending)* — 1211 regulations on this topic made under it
 - [National Health Service (Scotland) Act 1978](../../uk-parliament/acts/public/1978/29-national-health-service-scotland-act-1978/README.md) *(changes pending)* — 666 regulations on this topic made under it
-- [National Health Service Act 2006](../../uk-parliament/acts/public/2006/41-national-health-service-act-2006/README.md) *(changes pending)* — 453 regulations on this topic made under it
+- [National Health Service Act 2006](../../uk-parliament/acts/public/2006/41-national-health-service-act-2006/README.md) *(changes pending)* — 452 regulations on this topic made under it
 - [National Health Service (Wales) Act 2006](../../uk-parliament/acts/public/2006/42-national-health-service-wales-act-2006/README.md) *(changes pending)* — 146 regulations on this topic made under it
 - [Superannuation Act 1972](../../uk-parliament/acts/public/1972/11-superannuation-act-1972/README.md) *(changes pending)* — 122 regulations on this topic made under it
 - [Health and Social Care (Community Health and Standards) Act 2003](../../uk-parliament/acts/public/2003/43-health-and-social-care-community-health-and-standards-act-2003/README.md) *(changes pending)* — 95 regulations on this topic made under it
@@ -38,7 +38,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-4853 in force, by year:
+4852 in force, by year:
 
 | year | in force |
 |---|---|
@@ -60,7 +60,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 73 |
 | [2010](2010.md) | 78 |
 | [2009](2009.md) | 69 |
-| [2008](2008.md) | 90 |
+| [2008](2008.md) | 89 |
 | [2007](2007.md) | 81 |
 | [2006](2006.md) | 142 |
 | [2005](2005.md) | 103 |

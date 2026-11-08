@@ -1,6 +1,6 @@
 # Coverage
 
-What this repository holds, built on 2026-11-06 from the legislation.gov.uk bulk data (Best Collection XML, Legislative Amendments, "Legislation on Website" list) plus the site itself for the few laws the bulk data lacks.
+What this repository holds, built on 2026-11-07 from the legislation.gov.uk bulk data (Best Collection XML, Legislative Amendments, "Legislation on Website" list) plus the site itself for the few laws the bulk data lacks.
 
 ## Laws with text
 
@@ -24,7 +24,7 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 | `ukppa` | uk-parliament/acts/private | 0 | 0 | 0 | 0 | 869 |
 | `ukcm` | uk-parliament/church-measures | 101 | 28 | 0 | 28 | 87 |
 | `ukci` | uk-parliament/church-instruments | 0 | 0 | 60 | 0 | 0 |
-| `uksi` | uk-parliament/regulations | 5145 | 922 | 50501 | 4062 | 48827 |
+| `uksi` | uk-parliament/regulations | 5146 | 914 | 50494 | 4076 | 48827 |
 | `uksro` | uk-parliament/regulations | 0 | 0 | 0 | 0 | 307 |
 | `ukmo` | uk-parliament/regulations | 0 | 0 | 1 | 0 | 124 |
 | `asp` | scotland/acts | 275 | 110 | 0 | 17 | 0 |
@@ -49,7 +49,7 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 | `eudr` | eu-origin/directives | 1185 | 137 | 0 | 713 | 2133 |
 | `eut` | eu-origin/treaties | 5 | 0 | 0 | 0 | 0 |
 | `ukmd` | (catalogue only) | 0 | 0 | 0 | 0 | 1 |
-| **total** |  | **41667** | **5105** | **66157** | **17439** | **228894** |
+| **total** |  | **41668** | **5097** | **66150** | **17453** | **228894** |
 
 ## Known conversion gaps
 

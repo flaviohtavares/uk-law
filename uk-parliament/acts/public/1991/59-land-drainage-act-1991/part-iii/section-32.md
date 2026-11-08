@@ -3,7 +3,7 @@ title: Land Drainage Act 1991, section 32
 act: Land Drainage Act 1991
 section: '32'
 status: revised-with-pending-changes
-text_date: '2026-07-30'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1991/59/section/32
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Land Drainage Act 1991, section 32
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/59
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/59
 >
 > Extent: England, Wales.
 
-## 32. Variation of awards.[^c-0008f164af34e2aa0792394839d8254d][^c-b8cf32733b534ba53c0f289bf4a9e4c8][^c-46e2235f79d025091f8df008c7822a52][^c-ed8df5fb828e88deaa3a0f249e51ed6c][^c-9b0d707560668ab4d949e253e8e05a23][^c-f0a913bb4604189d710786716963dc13][^c-71cb326845678f46d5b1d73b25a1365b][^c-05f262256c12fffe49b950ebbf2ccb7a][^c-fc6afa484f4cdabe2bfa91f744e5fce7][^c-6899321acc32c94a8035f30bdd926d13][^M_C_7b48fd2e-8b5f-4843-8740-19c31cad6e7a][^c-267074e68b6e17313deac9c2ddcd028c][^c-3c11bb6e3140af50bc74ac6e34480042][^c-0059390a8ad22055460f3cd897e66ca8][^c-63622419eb8cf5607ccfe55785f835fe][^c-9f7b8c396f4ca277f16cc5f819c37fb1][^c-722286796e7615b535519d176b055c7e][^c-f602e168a1c116a8ff6abe0eba743d80][^c-eb1a7b182eaf738dd291aabf75f64bcf][^c-32fb7c7b3f833cd74d097135e671efc6][^c-474cb18f3c2f73e671ce983cdc3c1579][^c-ff46b3d0877a14c96f2754c48bb76be2][^c-634692971d435ad5b9bdae1a1ee708e3][^c-1ec2f7235b44b29d2bef3b9537b5b37e][^c-0515a7ddea50554a49d87b3feb5c81a1][^c-a21c3e84ac2bce93c7203636dc08096b][^c-8accc896e5c450b18c848153592f2968][^c-1f3b89d3cfc8b9964b1d5efdc031d496][^c-2d7ad02c1a9e26e03a8f7974936540bc][^c-afc841bd4eb93e82143d815dcbad31a9][^c-445fba6b61a8fa20576418aa4b2a084c][^c-3f6792f3edb9e2398fed1802affd0531][^c-5b4604052538731c83275ace2fda8e66][^c-6c2b01f0100d833c527d619a0779579e][^c-dab3520bca7a110a7ffc8930eef08416][^c-68b6511425b2d294eccda0520f9e7b69][^c-9c8e0faf9ee87b4f644a59ac58c57388][^c-c67c4eb132a84516ab908996dedf10fa]
+## 32. Variation of awards.[^c-0008f164af34e2aa0792394839d8254d][^c-b8cf32733b534ba53c0f289bf4a9e4c8][^c-46e2235f79d025091f8df008c7822a52][^c-ed8df5fb828e88deaa3a0f249e51ed6c][^c-9b0d707560668ab4d949e253e8e05a23][^c-f0a913bb4604189d710786716963dc13][^c-71cb326845678f46d5b1d73b25a1365b][^c-05f262256c12fffe49b950ebbf2ccb7a][^c-fc6afa484f4cdabe2bfa91f744e5fce7][^c-6899321acc32c94a8035f30bdd926d13][^M_C_7b48fd2e-8b5f-4843-8740-19c31cad6e7a][^c-267074e68b6e17313deac9c2ddcd028c][^c-3c11bb6e3140af50bc74ac6e34480042][^c-0059390a8ad22055460f3cd897e66ca8][^c-63622419eb8cf5607ccfe55785f835fe][^c-9f7b8c396f4ca277f16cc5f819c37fb1][^c-722286796e7615b535519d176b055c7e][^c-f602e168a1c116a8ff6abe0eba743d80][^c-eb1a7b182eaf738dd291aabf75f64bcf][^c-32fb7c7b3f833cd74d097135e671efc6][^c-474cb18f3c2f73e671ce983cdc3c1579][^c-ff46b3d0877a14c96f2754c48bb76be2][^c-634692971d435ad5b9bdae1a1ee708e3][^c-1ec2f7235b44b29d2bef3b9537b5b37e][^c-0515a7ddea50554a49d87b3feb5c81a1][^c-a21c3e84ac2bce93c7203636dc08096b][^c-8accc896e5c450b18c848153592f2968][^c-1f3b89d3cfc8b9964b1d5efdc031d496][^c-2d7ad02c1a9e26e03a8f7974936540bc][^c-afc841bd4eb93e82143d815dcbad31a9][^c-445fba6b61a8fa20576418aa4b2a084c][^c-3f6792f3edb9e2398fed1802affd0531][^c-5b4604052538731c83275ace2fda8e66][^c-6c2b01f0100d833c527d619a0779579e][^c-dab3520bca7a110a7ffc8930eef08416][^c-68b6511425b2d294eccda0520f9e7b69][^c-9c8e0faf9ee87b4f644a59ac58c57388][^c-c67c4eb132a84516ab908996dedf10fa][^c-92e0ef08a173c782599c28b9427930ef][^c-b8892dbd0a127f6bf859fba7efb8626b]
 
 *Extent: E+W*
 
@@ -126,5 +126,9 @@ summary: ''
 [^c-9c8e0faf9ee87b4f644a59ac58c57388]: Modification: [S. 32](https://www.legislation.gov.uk/ukpga/1991/59/section/32) excluded (24.7.2026) by [The Dean Moor Solar Farm Order 2026 (S.I. 2026/754)](https://www.legislation.gov.uk/uksi/2026/754), [arts. 1](https://www.legislation.gov.uk/uksi/2026/754/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2026/754/article/8/1) (with [Sch. 13](https://www.legislation.gov.uk/uksi/2026/754/schedule/13))
 
 [^c-c67c4eb132a84516ab908996dedf10fa]: Modification: [S. 32](https://www.legislation.gov.uk/ukpga/1991/59/section/32) excluded (30.7.2026) by [The One Earth Solar Farm Order 2026 (S.I. 2026/934)](https://www.legislation.gov.uk/uksi/2026/934), [arts. 1](https://www.legislation.gov.uk/uksi/2026/934/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2026/934/article/6/1) (with [art. 47](https://www.legislation.gov.uk/uksi/2026/934/article/47))
+
+[^c-92e0ef08a173c782599c28b9427930ef]: Modification: [S. 32](https://www.legislation.gov.uk/ukpga/1991/59/section/32) excluded (30.10.2026) by [The Green Hill Solar Farm Order 2026 (S.I. 2026/1074)](https://www.legislation.gov.uk/uksi/2026/1074), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1074/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2026/1074/article/6/1) (with [Sch. 15](https://www.legislation.gov.uk/uksi/2026/1074/schedule/15))
+
+[^c-b8892dbd0a127f6bf859fba7efb8626b]: Modification: [S. 32](https://www.legislation.gov.uk/ukpga/1991/59/section/32) excluded (31.10.2026) by [The Steeple Renewables Project Order 2026 (S.I. 2026/1086)](https://www.legislation.gov.uk/uksi/2026/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1086/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2026/1086/article/6/1) (with [Sch. 10](https://www.legislation.gov.uk/uksi/2026/1086/schedule/10))
 
 [^c-cbb50a65e3c76e4cc60366ca8cd257cd]: Textual amendment: Words in [s. 32](https://www.legislation.gov.uk/ukpga/1991/59/section/32) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 323](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/323) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
