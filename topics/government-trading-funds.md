@@ -83,7 +83,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Defence Aviation Repair Agency Trading Fund (Amendment) Order 2008](../uk-parliament/regulations/2008/0500-0999/628-the-defence-aviation-repair-agency-trading-fund-amendment-order-2008.md) *(as originally made)*
 - [The Defence Aviation Repair Agency Trading Fund (Revocation) Order 2008](../uk-parliament/regulations/2008/1000-1499/1208-the-defence-aviation-repair-agency-trading-fund-revocation-order-2008.md) *(as originally made)*
-- [The FCO Services Trading Fund Order 2008](../uk-parliament/regulations/2008/0500-0999/590-the-fco-services-trading-fund-order-2008.md) *(as originally made)*
+- [The FCO Services Trading Fund Order 2008](../uk-parliament/regulations/2008/0500-0999/590-the-fco-services-trading-fund-order-2008.md) *(changes pending)*
 
 **2007**
 

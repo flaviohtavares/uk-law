@@ -3,16 +3,16 @@ title: The Policing Plan Regulations 2008
 id: uksi/2008/312
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-11'
-text_date: null
-extent: null
+text_date: '2008-02-11'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/312
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/312/pdfs/uksiem_20080312_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/312/pdfs/uksi_20080312_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/312/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/312/data.pdf
+pending_changes: 7
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Policing Plan Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (7).** Text as at 2008-02-11. See https://www.legislation.gov.uk/changes/affected/uksi/2008/312
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 312
 
@@ -48,11 +54,11 @@ In accordance with section 6ZB(8) of the Police Act 1996 the Secretary of State 
 - (b) the Association of Chief Police Officers,
 - (c) such other persons as he thought fit.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-c9c7f3b613dfeca17790cff7c1d917dd]
 
 These Regulations may be cited as the Policing Plan Regulations 2008 and shall come into force on 14th March 2008.
 
-**2.** In these Regulations
+**2.**[^c-fba0699e437a926bba9c416c72386291] In these Regulations
 
 - “local government area” has the meaning given to it in section 5 of the 1998 Act (authorities responsible for strategy)[^f00003],
 - “local improvement target” has the meaning given to it in section 105 of the 2007 Act (local improvement targets: interpretation),
@@ -64,7 +70,7 @@ These Regulations may be cited as the Policing Plan Regulations 2008 and shall c
 - “the 1998 Act” means the Crime and Disorder Act 1998[^f00004],
 - “the 2007 Act” means the Local Government and Public Involvement in Health Act 2007[^f00005].
 
-## 3. Consideration of Policing Plans
+## 3. Consideration of Policing Plans[^c-1a50a1d825153227a0c1d0bf6a5cd006]
 
 Before issuing a police plan a police authority shall consider—
 
@@ -76,7 +82,7 @@ Before issuing a police plan a police authority shall consider—
 - (d) the strategies for the plan period formulated by the relevant responsible authorities under section 6 (formulation and implementation of crime and disorder reduction stratagies) of the 1998 Act[^f00008]; and
 - (e) any local improvement target to which the police authority must have regard under section 108[^f00009] (duty to have regard to local improvement targets) of the 2007 Act.
 
-## 4. Contents of Policing Plans
+## 4. Contents of Policing Plans[^c-99a0ddc34551fc25f46e407f9c9051e5]
 
 In addition to the matters set out in section 6ZB(1) (contents of policing plans) of the 1996 Act the policing plan of a police authority shall set out—
 
@@ -98,11 +104,11 @@ In addition to the matters set out in section 6ZB(1) (contents of policing plans
   - (ii) is proposed for the plan period;and
 - (k) any local improvement target to which the police authority must have regard under section 108 of the 2007 Act.
 
-## 5. Publication of Policing Plans
+## 5. Publication of Policing Plans[^c-768a7450b10b77adebf026dd24efe60d]
 
 A police authority shall arrange for every policing plan issued by it to be published in such manner as appears to it to be appropriate by 30th June of the financial year before the beginning of which it was issued, and shall send a copy of the plan to the Secretary of State.
 
-## 6. Transitional Provisions
+## 6. Transitional Provisions[^c-a75ba089ee5dd74cbe4d9d6e42f0daf4]
 
 For the plan period beginning on 1st April 2008—
 
@@ -131,11 +137,17 @@ The Association of Chief Police Officers’ document “Protective Services Mini
 
 [^f00002]: Footnote: [2006 c.48](https://www.legislation.gov.uk/ukpga/2006/48).
 
+[^c-c9c7f3b613dfeca17790cff7c1d917dd]: Commencement: Reg. 1 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+
+[^c-fba0699e437a926bba9c416c72386291]: Commencement: Reg. 2 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+
 [^f00003]: Footnote: Section 5 of the 1998 Act was amended by section 22 of, and paragraph 2 of Schedule 9 to, the 2006 Act.
 
 [^f00004]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37).
 
 [^f00005]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^c-1a50a1d825153227a0c1d0bf6a5cd006]: Commencement: Reg. 3 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
 
 [^f00006]: Footnote: Section 38 of the 1996 Act was amended by paragraph 26 of Schedule 2 to the 2006 Act.
 
@@ -145,8 +157,14 @@ The Association of Chief Police Officers’ document “Protective Services Mini
 
 [^f00009]: Footnote: Section 108 of the Local Government and Public Involvement in Health Act 2007 is not yet in force.
 
+[^c-99a0ddc34551fc25f46e407f9c9051e5]: Commencement: Reg. 4 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+
 [^f00010]: Footnote: Section 37A of the 1996 Act was inserted by section 2 of, and paragraph 25 of Schedule 2 to, the 2006 Act.
 
 [^f00011]: Footnote: Section 6ZA of the Police Act 1996 was inserted by paragraph 8 of Schedule 2 to the Police and Justice Act 2006. Additional functions in respect of arrangements about cooperation were conferred on police authorities by [S.I.2008/82](https://www.legislation.gov.uk/uksi/2008/82).
+
+[^c-768a7450b10b77adebf026dd24efe60d]: Commencement: Reg. 5 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
+
+[^c-a75ba089ee5dd74cbe4d9d6e42f0daf4]: Commencement: Reg. 6 in force at 14.3.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/312/regulation/1)
 
 [^f00012]: Footnote: Section 4 of the Local Government Act 1999 was amended by section 139 of the Local Government and Public Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28).

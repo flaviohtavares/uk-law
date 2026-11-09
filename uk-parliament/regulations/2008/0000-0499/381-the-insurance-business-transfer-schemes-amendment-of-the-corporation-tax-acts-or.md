@@ -3,15 +3,15 @@ title: The Insurance Business Transfer Schemes (Amendment of the Corporation Tax
 id: uksi/2008/381
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-18'
-text_date: null
-extent: null
+text_date: '2008-02-19'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/381
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/381/pdfs/uksiem_20080381_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/381/pdfs/uksi_20080381_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/381/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/381/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Insurance Business Transfer Schemes (Amendment of the Corporation Tax Acts) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-02-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/381
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 381
 
@@ -40,7 +44,7 @@ The Treasury make the following Order in exercise of the powers conferred by par
 
 A draft of this instrument has been laid before the House of Commons in accordance with sub-paragraph (5) of that paragraph and approved by a resolution of that House.
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-a732184d8f1c85f31baece86befe0a00]
 
 (1) This Order may be cited as the Insurance Business Transfer Schemes (Amendment of the Corporation Tax Acts) Order 2008 and shall come into force on the day after this Order is made.
 
@@ -52,23 +56,23 @@ A draft of this instrument has been laid before the House of Commons in accordan
 
 (5) Articles 9 and 30 have effect in relation to transfers of business taking place on or after 1st January 2007 (but do not have any effect in relation to periods of account other than those which are current when this Order is made).
 
-## 2. Amendment of the Income and Corporation Taxes Act 1988
+## 2. Amendment of the Income and Corporation Taxes Act 1988[^c-4db5ab5e27cfdddb7fb1d3aa6c456aa0]
 
 The Income and Corporation Taxes Act 1988[^f00002] is amended as follows.
 
-## 3. Amendment of section 12
+## 3. Amendment of section 12[^c-cf190724efd8f4c79a7d8a85a56ee6ec]
 
 In section 12 (basis of, and periods of, assessment)[^f00003], omit subsections (7A) and (7C).
 
-## 4. Amendment of section 431
+## 4. Amendment of section 431[^c-239175a324e6187610d7912aa83ab854]
 
 In section 431(2) (interpretative provisions relating to insurance companies)[^f00004], in paragraph (a) of the definition of “insurance business transfer scheme”, for “or 4” substitute “, 4 or 5[^f00005]”.
 
-## 5. Amendment of section 432YA
+## 5. Amendment of section 432YA[^c-a6424789c6859d44dc7eb7c68c401dbe]
 
 In section 432YA (long-term business other than life assurance business – adjustment consequent on change in Insurance Prudential Sourcebook)[^f00006], omit subsection (2A).
 
-## 6. Amendment of section 432E
+## 6. Amendment of section 432E[^c-e2a65110c894a61849b6460c559d5e46]
 
 In section 432E(2A) (apportionments: participating funds)[^f00007]—
 
@@ -77,11 +81,11 @@ In section 432E(2A) (apportionments: participating funds)[^f00007]—
 - (c) in paragraph (aa), omit “or 444ABC”, and
 - (d) in paragraph (ab), after “444AEA” insert “or 444AECA”.
 
-## 7. Amendment of section 440B
+## 7. Amendment of section 440B[^c-545b0eb9f612f44a8f505cbff2c513cf]
 
 In section 440B(4B) (modifications where tax charged under Case I of Schedule D)[^f00008], after “apply” insert “in relation to assets which are referable to the life assurance business of the transferor”.
 
-## 8. Amendment of section 444A
+## 8. Amendment of section 444A[^c-2a29c79dcd650b593f0b4ecde108481b]
 
 (1) Section 444A (transfers of business)[^f00009] is amended as follows.
 
@@ -96,7 +100,7 @@ In section 440B(4B) (modifications where tax charged under Case I of Schedule D)
 
 (4) Omit subsection (3ZA).
 
-## 9. Insertion of sections 444AZA and 444AZB
+## 9. Insertion of sections 444AZA and 444AZB[^c-d3aa9386d9f8e4c914272377157585e1]
 
 After section 444A insert—
 
@@ -149,7 +153,7 @@ After section 444A insert—
 >
 > (5) Any question arising as to the operation of subsection (4) above shall be determined by the Special Commissioners who shall determine the question in the same manner as they determine appeals; but both the transferor and the transferee shall be entitled to appear and be heard or to make representations in writing.
 
-## 10. Substitution of section 444AA
+## 10. Substitution of section 444AA[^c-972b38c5e9d0611812444657d0b68615]
 
 For section 444AA (transfers of business: deemed periodical return)[^f00012] substitute—
 
@@ -197,7 +201,7 @@ For section 444AA (transfers of business: deemed periodical return)[^f00012] sub
 >
 > (9) In this section and sections 444AB to 444AECC[^f00014] “the transfer date”, in relation to an insurance business transfer scheme, means the date on which it takes effect.
 
-## 11. Amendment of section 444AB
+## 11. Amendment of section 444AB[^c-c77569cd2d4c8155bb8b677b00278fa0]
 
 (1) Section 444AB (transfer schemes transferring whole of business: transferor) is amended as follows.
 
@@ -229,7 +233,7 @@ For section 444AA (transfers of business: deemed periodical return)[^f00012] sub
 
 (6) The heading accordingly becomes “Transfer schemes: transferor”.
 
-## 12. Amendment of section 444ABA
+## 12. Amendment of section 444ABA[^c-60eade9749c421528b89388a1165717b]
 
 (1) Section 444ABA (relevant non-transferred assets) is amended as follows.
 
@@ -246,7 +250,7 @@ For section 444AA (transfers of business: deemed periodical return)[^f00012] sub
 
 (4) In subsection (7), omit “, and section 444AB for the meaning of “the relevant period of account,”.
 
-## 13. Amendment of section 444ABB
+## 13. Amendment of section 444ABB[^c-daa776d6fd2ded369a1a899cafbff914]
 
 (1) Section 444ABB (retained assets) is amended as follows.
 
@@ -275,7 +279,7 @@ For section 444AA (transfers of business: deemed periodical return)[^f00012] sub
 >   - (ii) VTL means the amount of the liabilities transferred by the insurance business transfer scheme; and
 > - (c) relevant retained liabilities are any liabilities of the company’s long-term business which are owed by the company immediately after the transfer date and are shown (or treated as shown) in any of lines 17, 21 to 23 and 31 to 38 in Form 14 in a periodical return for the period of account ending (or treated as ending by section 444AA) immediately before the transfer date.
 
-## 14. Insertion of section 444ABBA
+## 14. Insertion of section 444ABBA[^c-0eaa318db531a2cf9a37d37f25f453db]
 
 After section 444ABB (retained assets) insert—
 
@@ -308,11 +312,11 @@ After section 444ABB (retained assets) insert—
 >
 > (6) See section 444AA for the meaning of “the transfer date” in this section.
 
-## 15. Omission of section 444ABC
+## 15. Omission of section 444ABC[^c-8ed7c72172a13415c468ad791cfed760]
 
 Omit section 444ABC (transfer scheme transferring part of business: transferor).
 
-## 16. Amendment of section 444ABD
+## 16. Amendment of section 444ABD[^c-b7dbc945f81c882984ae35dcc8561082]
 
 (1) Section 444ABD (transferor’s period of account including transfer) is amended as follows.
 
@@ -334,7 +338,7 @@ Omit section 444ABC (transfer scheme transferring part of business: transferor).
 >
 > (1E) Where the value mentioned in paragraph (b) of subsection (1) above exceeds the amount mentioned in paragraph (a) of that subsection, the amount of the excess is not to be taken into account as a loss of the transferor.
 
-## 17. Amendment of section 444AC
+## 17. Amendment of section 444AC[^c-685423ef4559f2895475c9d94a55f578]
 
 (1) Section 444AC (transfer schemes transferring whole of business: reduction in income of transferee) is amended as follows.
 
@@ -364,11 +368,11 @@ Omit section 444ABC (transfer scheme transferring part of business: transferor).
 
 (8) The heading accordingly becomes “Transfer schemes: reduction of income of transferee”.
 
-## 18. Omission of section 444ACZA
+## 18. Omission of section 444ACZA[^c-6ba46452b82fb106fc0a236a734dc6ab]
 
 Omit section 444ACZA (transfer schemes transferring part of business: reduction in income of transferee).
 
-## 19. Amendment of section 444AEA
+## 19. Amendment of section 444AEA[^c-9c09e7daadcb05592f09213f112ebaaf]
 
 (1) Section 444AEA (transfer schemes: anti-avoidance rule) is amended as follows.
 
@@ -387,7 +391,7 @@ Omit section 444ACZA (transfer schemes transferring part of business: reduction 
 
 (5) In subsection (5), for “and 444AEC” substitute “to 444AECC”.
 
-## 20. Amendment of section 444AEB
+## 20. Amendment of section 444AEB[^c-13931a070823a1b2c7deccb7445b98f8]
 
 (1) Section 444AEB (Case I advantage: transferor) is amended as follows.
 
@@ -408,7 +412,7 @@ Omit section 444ACZA (transfer schemes transferring part of business: reduction 
 > - “Case I profits” and “Case I losses” means profits and losses computed in accordance with the provisions of Case I of Schedule D, and
 > - “the relevant time” is the time at which any application under section 444AED[^f00020] is made, or, if no such application is made, the transfer date.
 
-## 21. Amendment of section 444AEC
+## 21. Amendment of section 444AEC[^c-4c451e73197430cb1317e207bed04d90]
 
 (1) Section 444AEC (Case I advantage: transferee) is amended as follows.
 
@@ -424,7 +428,7 @@ Omit section 444ACZA (transfer schemes transferring part of business: reduction 
 
 (4) In subsection (4), after ““Case I losses”” insert “and “the relevant time””.
 
-## 22. Insertion of sections 444AECA, 444AECB and 444AECC
+## 22. Insertion of sections 444AECA, 444AECB and 444AECC[^c-ffc851ff0ac704955650539b0ecd71f7]
 
 After section 444AEC insert—
 
@@ -494,19 +498,19 @@ After section 444AEC insert—
 >
 > (5) See section 444AA for the meaning of “the transfer date”, section 444AEA for the meaning of “relevant associated operations”, section 444AEB for the meaning of “Case I profits” and “Case I losses” and “the relevant time” and section 444AECB for the meaning of “the relevant part of the arrangements”, in this section.
 
-## 23. Amendment of section 444AED
+## 23. Amendment of section 444AED[^c-e6303e31e450398d5e211b27df25c9f3]
 
 In section 444AED(1) (clearance: no avoidance or group advantage), for “Section 444AEA does” substitute “Sections 444AEA and 444AECA do”.
 
-## 24. Amendment of the Finance Act 1989
+## 24. Amendment of the Finance Act 1989[^c-2329c76d307de7ebfa8cda181b9c1de8]
 
 The Finance Act 1989[^f00024] is amended as follows.
 
-## 25. Amendment of section 82D
+## 25. Amendment of section 82D[^c-6db0a89c450451ae706dddcc3daa6ace]
 
 In section 82D (treatment of profits: life assurance – adjustment consequent on change in Insurance Prudential Sourcebook)[^f00025], omit subsection (2A).
 
-## 26. Amendment of section 83YA
+## 26. Amendment of section 83YA[^c-64ca4521da67c43932b611a7fe3aa0c3]
 
 (1) Section 83YA (changes in value of assets brought into account: non-profit companies)[^f00026] is amended as follows.
 
@@ -521,11 +525,11 @@ In section 82D (treatment of profits: life assurance – adjustment consequent o
 
 .
 
-## 27. Amendment of the Taxation of Chargeable Gains Act 1992
+## 27. Amendment of the Taxation of Chargeable Gains Act 1992[^c-b41be39a3f18dac63e933d8d19cce2fe]
 
 The Taxation of Chargeable Gains Act 1992[^f00028] is amended as follows.
 
-## 28. Amendment of section 211ZA
+## 28. Amendment of section 211ZA[^c-7fb1f2722f3fcf6ea6488cf53eca064c]
 
 (1) Section 211ZA (transfers of business: transfer of unused losses)[^f00029] is amended as follows.
 
@@ -539,7 +543,7 @@ The Taxation of Chargeable Gains Act 1992[^f00028] is amended as follows.
 
 (3) In subsection (3)(a), after “accounting period” insert “ending”.
 
-## 29. Amendment of section 213
+## 29. Amendment of section 213[^c-93ccd96612f7c09db13864f7cd781b96]
 
 (1) Section 213 (spreading of gains and losses under section 212)[^f00030] is amended as follows.
 
@@ -573,7 +577,7 @@ The Taxation of Chargeable Gains Act 1992[^f00028] is amended as follows.
 
 (10) Omit subsection (10).
 
-## 30. Amendment of Schedule 7 to the Finance Act 2007
+## 30. Amendment of Schedule 7 to the Finance Act 2007[^c-cd4a1e87cdbd14287c263a08cc3ba2ca]
 
 At the end of Part 2 of Schedule 7 to the Finance Act 2007 (insurance business: transitional provisions) add—
 
@@ -627,7 +631,7 @@ At the end of Part 2 of Schedule 7 to the Finance Act 2007 (insurance business: 
 > - “*NPBTL*” is the mean of the opening and closing liabilities of the transferred gross roll-up business which is not pension business for the period of account, and
 > - “*TL*” is the mean of the opening and closing liabilities of the transferred life assurance business for the period of account.
 
-## 31. Repeals and revocations
+## 31. Repeals and revocations[^c-67972a6401c5055ef7ecfe6137d87ca6]
 
 (1) The enactments specified in Part 1 of the Schedule are repealed to the extent specified.
 
@@ -645,7 +649,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Article 31
 
-### PART 1
+### PART 1[^c-23cf455d4af5ff765b7b74c5093a4f58]
 
 | Short title and chapter | Extent of repeal |
 | --- | --- |
@@ -655,7 +659,7 @@ Article 31
 | Finance (No. 2) Act [2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22) | In Schedule 9, paragraph 20(2), (3) and (6). |
 | Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) | In Schedule 9, paragraph 3(2) and (3)(a). |
 
-### PART 2
+### PART 2[^c-7adcfede951a9cac00f39d83adab39ab]
 
 | Title and number | Extent of revocation |
 | --- | --- |
@@ -717,25 +721,45 @@ This Order, together with the relevant legislation in FA 2007, is part of the ou
 
 [^f00001]: Footnote: [2007 c. 11](https://www.legislation.gov.uk/ukpga/2007/11).
 
+[^c-a732184d8f1c85f31baece86befe0a00]: Commencement: Art. 1 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-4db5ab5e27cfdddb7fb1d3aa6c456aa0]: Commencement: Art. 2 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00002]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
+[^c-cf190724efd8f4c79a7d8a85a56ee6ec]: Commencement: Art. 3 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00003]: Footnote: Section 12 was relevantly amended by paragraph 3 of Schedule 9 to the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29), [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), paragraph 1(6) of Schedule 41 to the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), paragraph 20(2) and (3) of Schedule 9 to the Finance (No. 2) Act [2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22) and paragraph 3(2) of Schedule 9 to the Finance Act 2007.
+
+[^c-239175a324e6187610d7912aa83ab854]: Commencement: Art. 4 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00004]: Footnote: Section 431(2) was relevantly amended by paragraph 1(1) of Schedule 9 to the Finance Act 2007.
 
 [^f00005]: Footnote: Case 5 was inserted in section 105(3) of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253).
 
+[^c-a6424789c6859d44dc7eb7c68c401dbe]: Commencement: Art. 5 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00006]: Footnote: Section 432YA was inserted by [S.I. 2006/3387](https://www.legislation.gov.uk/uksi/2006/3387) and relevantly amended by [S.I. 2007/1031](https://www.legislation.gov.uk/uksi/2007/1031) and paragraph 3(3)(a) of Schedule 9 to the Finance Act 2007.
+
+[^c-e2a65110c894a61849b6460c559d5e46]: Commencement: Art. 6 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00007]: Footnote: Section 432E was inserted by paragraph 4 of Schedule 6 to the Finance Act 1990. Subsection (2A) of that section was inserted by paragraph 10(4) of Schedule 33 to the Finance Act 2003 and relevantly amended by paragraph 2(2) of Schedule 11 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and paragraphs 4(2) and 8(2) of Schedule 9 to the Finance Act 2007.
 
+[^c-545b0eb9f612f44a8f505cbff2c513cf]: Commencement: Art. 7 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00008]: Footnote: Section 440A was inserted by paragraph 28(1) of Schedule 8 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and subsection (4B) of that section was inserted section by paragraph 8(4) of Schedule 8 to the Finance Act 2007.
 
+[^c-2a29c79dcd650b593f0b4ecde108481b]: Commencement: Art. 8 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00009]: Footnote: Section 444A was inserted by paragraph 4 of Schedule 9 to the Finance Act 1990 and relevantly amended by paragraphs 17(4) and 27(2) of Schedule 8, and paragraph 1(2)(b) of Schedule 9, to the Finance Act 1995, paragraph 24 of Schedule 33 of the Finance Act 2003, paragraph 1 of Schedule 7 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [S.I. 2004/2310](https://www.legislation.gov.uk/uksi/2004/2310) and paragraph 19(2) of Schedule 9 to the Finance (No. 2) Act 2005.
+
+[^c-d3aa9386d9f8e4c914272377157585e1]: Commencement: Art. 9 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00010]: Footnote: Section 431G was substituted by paragraph 4 of Schedule 8 to the Finance Act 2007.
 
 [^f00011]: Footnote: Section 436A was inserted by paragraph 25 of Schedule 7, and amended by paragraph 12 of Schedule 9, to the Finance Act 2007.
+
+[^c-972b38c5e9d0611812444657d0b68615]: Commencement: Art. 10 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00012]: Footnote: Section 444AA was inserted by paragraph 18 of Schedule 33 to the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) and substituted by paragraph 3 of Schedule 9 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
@@ -743,7 +767,19 @@ This Order, together with the relevant legislation in FA 2007, is part of the ou
 
 [^f00014]: Footnote: Sections 444AB to 444AED were relevantly amended as follows: sections 444AB to 444ABC were substituted for sections 444AB and 444ABA by paragraph 4 of Schedule 9 to the Finance Act 2007; section 444ABD was inserted by paragraph 5 of that Schedule; sections 444AC and 444ACZA were substituted for section 444AC by paragraph 6 of that Schedule; section 444AD was repealed by paragraph 7 of that Schedule; and sections 444AEA to 444AED were inserted by paragraph 8 of that Schedule. Sections 444AB to 444AED are amended by articles 11 to 21 and 23 of this Order and sections 444AECA to 444AECC are inserted by article 22 of this Order.
 
+[^c-c77569cd2d4c8155bb8b677b00278fa0]: Commencement: Art. 11 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-60eade9749c421528b89388a1165717b]: Commencement: Art. 12 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-daa776d6fd2ded369a1a899cafbff914]: Commencement: Art. 13 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-0eaa318db531a2cf9a37d37f25f453db]: Commencement: Art. 14 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00015]: Footnote: [1970 c. 7](https://www.legislation.gov.uk/ukpga/1970/7); section 59D was substituted by paragraph 29(2) of Schedule 19 to the Finance Act 1998 and amended by paragraph 2 of Schedule 12 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^c-8ed7c72172a13415c468ad791cfed760]: Commencement: Art. 15 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-b7dbc945f81c882984ae35dcc8561082]: Commencement: Art. 16 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00016]: Footnote: Section 431G was substituted by paragraph 4 of Schedule 8 to the Finance Act 2007.
 
@@ -751,9 +787,21 @@ This Order, together with the relevant legislation in FA 2007, is part of the ou
 
 [^f00018]: Footnote: Section 436A was inserted by paragraph 25 of Schedule 7, and amended by paragraph 12 pf Schedule 9, to the Finance Act 2007.
 
+[^c-685423ef4559f2895475c9d94a55f578]: Commencement: Art. 17 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-6ba46452b82fb106fc0a236a734dc6ab]: Commencement: Art. 18 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-9c09e7daadcb05592f09213f112ebaaf]: Commencement: Art. 19 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-13931a070823a1b2c7deccb7445b98f8]: Commencement: Art. 20 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00019]: Footnote: Section 444AEC was inserted by paragraph 8 of Schedule 9 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) and is amended by article 21 of this Order. Sections 444AECB and 444AECC are inserted by article 22 of this Order.
 
 [^f00020]: Footnote: Section 444AED is inserted by paragraph 8 of Schedule 9 to the Finance Act 2007 and is amended by article 23 of this Order.
+
+[^c-4c451e73197430cb1317e207bed04d90]: Commencement: Art. 21 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-ffc851ff0ac704955650539b0ecd71f7]: Commencement: Art. 22 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00021]: Footnote: Section 444AA was inserted by paragraph 18 of Schedule 33 to the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) and is substituted by article 10 of this Order.
 
@@ -761,20 +809,42 @@ This Order, together with the relevant legislation in FA 2007, is part of the ou
 
 [^f00023]: Footnote: Section 444AEB was inserted by paragraph 8 of Schedule 9 to the Finance Act 2007 and is amended by article 20 of this Order.
 
+[^c-e6303e31e450398d5e211b27df25c9f3]: Commencement: Art. 23 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-2329c76d307de7ebfa8cda181b9c1de8]: Commencement: Art. 24 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00024]: Footnote: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 
+[^c-6db0a89c450451ae706dddcc3daa6ace]: Commencement: Art. 25 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00025]: Footnote: Section 82D was inserted by [S.I. 2006/3387](https://www.legislation.gov.uk/uksi/2006/3387) and relevantly amended by [S.I. 2007/1031](https://www.legislation.gov.uk/uksi/2007/1031).
+
+[^c-64ca4521da67c43932b611a7fe3aa0c3]: Commencement: Art. 26 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00026]: Footnote: Section 83YA was inserted by paragraph 7(1) of Schedule 11 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and relevantly amended by paragraph 7(2) of Schedule 9, and paragraph 8(2)(c) of Schedule 10, to the Finance Act 2007.
 
 [^f00027]: Footnote: Section 83XA was inserted by paragraph 2(1) of Schedule 10 to the Finance Act 2007.
 
+[^c-b41be39a3f18dac63e933d8d19cce2fe]: Commencement: Art. 27 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00028]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
+
+[^c-7fb1f2722f3fcf6ea6488cf53eca064c]: Commencement: Art. 28 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00029]: Footnote: Section 211ZA was inserted by paragraph 21 of Schedule 33 to the Finance Act 2003.
 
+[^c-93ccd96612f7c09db13864f7cd781b96]: Commencement: Art. 29 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
 [^f00030]: Footnote: Section 213 was relevantly amended by paragraph 16 of Schedule 33 to the Finance Act 2003, paragraph 20(6) of Schedule 9 to the Finance (No. 2) Act [2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), section 70(5) of the Finance Act 2006 and paragraph 3(4) of Schedule 9 to the Finance Act 2007.
+
+[^c-cd4a1e87cdbd14287c263a08cc3ba2ca]: Commencement: Art. 30 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
 
 [^f00031]: Footnote: Section 439A was inserted by paragraph 26 of Schedule 8 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and repealed by paragraph 7 of Schedule 8 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
 [^f00032]: Footnote: Section 436A was inserted by paragraph 25 of Schedule 7, and amended by paragraph 12 of Schedule 9, to the Finance Act 2007.
+
+[^c-67972a6401c5055ef7ecfe6137d87ca6]: Commencement: Art. 31 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-23cf455d4af5ff765b7b74c5093a4f58]: Commencement: Sch. Pt. 1 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)
+
+[^c-7adcfede951a9cac00f39d83adab39ab]: Commencement: Sch. Pt. 2 in force at 19.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1)

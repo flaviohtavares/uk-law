@@ -111,7 +111,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Inheritance Tax (Delivery of Accounts) (Excepted Settlements) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/606-the-inheritance-tax-delivery-of-accounts-excepted-settlements-regulations-2008.md) *(as originally made)*
+- [The Inheritance Tax (Delivery of Accounts) (Excepted Settlements) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/606-the-inheritance-tax-delivery-of-accounts-excepted-settlements-regulations-2008.md) *(changes pending)*
 - [The Inheritance Tax (Delivery of Accounts) (Excepted Transfers and Excepted Terminations) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/605-the-inheritance-tax-delivery-of-accounts-excepted-transfers-and-excepted-termina.md) *(as originally made)*
 
 **2007**

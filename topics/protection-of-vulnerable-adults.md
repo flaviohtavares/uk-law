@@ -109,14 +109,14 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Safeguarding Vulnerable Groups Act 2006 (Barred List Prescribed Information) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/16-the-safeguarding-vulnerable-groups-act-2006-barred-list-prescribed-information-r.md) *(as originally made)*
-- [The Safeguarding Vulnerable Groups Act 2006 (Barring Procedure) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/474-the-safeguarding-vulnerable-groups-act-2006-barring-procedure-regulations-2008.md) *(as originally made)*
+- [The Safeguarding Vulnerable Groups Act 2006 (Barring Procedure) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/474-the-safeguarding-vulnerable-groups-act-2006-barring-procedure-regulations-2008.md) *(changes pending)*
 - [The Safeguarding Vulnerable Groups Act 2006 (Commencement No. 1) (England) Order 2008](../uk-parliament/regulations/2008/3000-3499/3204-the-safeguarding-vulnerable-groups-act-2006-commencement-no-1-england-order-2008.md) *(as originally made)*
 - [The Safeguarding Vulnerable Groups Act 2006 (Commencement No. 1) (Northern Ireland) Order 2008](../uk-parliament/regulations/2008/0500-0999/930-the-safeguarding-vulnerable-groups-act-2006-commencement-no-1-northern-ireland-o.md) *(as originally made)*
 - [The Safeguarding Vulnerable Groups Act 2006 (Commencement No. 2) Order 2008](../uk-parliament/regulations/2008/1000-1499/1320-the-safeguarding-vulnerable-groups-act-2006-commencement-no-2-order-2008.md) *(as originally made)*
 - [The Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Foreign Offences) Order 2008](../uk-parliament/regulations/2008/3000-3499/3050-the-safeguarding-vulnerable-groups-act-2006-prescribed-criteria-foreign-offences.md) *(as originally made)*
 - [The Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Transitional Provisions) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1062-the-safeguarding-vulnerable-groups-act-2006-prescribed-criteria-transitional-pro.md) *(as originally made)*
 - [The Safeguarding Vulnerable Groups Act 2006 (Prescribed Information) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3265-the-safeguarding-vulnerable-groups-act-2006-prescribed-information-regulations-2.md) *(as originally made)*
-- [The Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/0000-0499/473-the-safeguarding-vulnerable-groups-act-2006-transitional-provisions-order-2008.md) *(as originally made)*
+- [The Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/0000-0499/473-the-safeguarding-vulnerable-groups-act-2006-transitional-provisions-order-2008.md) *(changes pending)*
 
 **2007**
 

@@ -3,15 +3,15 @@ title: The National Health Service (Charges for Drugs and Appliances) and (Trave
 id: uksi/2008/571
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-03'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/571
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/571/pdfs/uksiem_20080571_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/571/pdfs/uksi_20080571_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/571/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/571/data.pdf
 pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/571
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 571
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 172, 174, 182, 183, 184 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation, commencement, application and interpretation
+## 1. Citation, commencement, application and interpretation[^c-5d7449385e6417986c94512711ea324b]
 
 (1) These Regulations may be cited as the National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment Regulations 2008 and shall come into force on 1st April 2008.
 
@@ -53,7 +57,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - “the Charges Regulations” means the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^f00002]; and
 - “the Travel Expenses and Remission of Charges Regulations” means the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00003].
 
-## 2. Amendment of the Charges Regulations to increase charges
+## 2. Amendment of the Charges Regulations to increase charges[^c-50d32fdacd2f6766c918aa9b43d1c861]
 
 (1) The Charges Regulations are amended as follows.
 
@@ -88,7 +92,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - (d) for “£150.75”, “£156.60”; and
 - (e) for “£220.50”, “£229.05”.
 
-## 3. Amendment of regulation 2 of the Charges Regulations
+## 3. Amendment of regulation 2 of the Charges Regulations[^c-97f31417f408281911c7b998a23af6c7]
 
 (1) Regulation 2 of the Charges Regulations (interpretation) is amended as follows.
 
@@ -108,7 +112,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 .
 
-## 4. Amendment of regulation 3 of the Charges Regulations
+## 4. Amendment of regulation 3 of the Charges Regulations[^c-8fc4aa3e261f5fd7b5250e573eb5b9c9]
 
 (1) Regulation 3 of the Charges Regulations (supply of drugs and appliances by chemists) is amended as follows.
 
@@ -120,7 +124,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 .
 
-## 5. Amendment of regulation 4 of the Charges Regulations
+## 5. Amendment of regulation 4 of the Charges Regulations[^c-bacf684d6d8d94fec648eed93601be70]
 
 In regulation 4 of the Charges Regulations (supply of drugs and appliances by doctors), in paragraph (3)—
 
@@ -131,7 +135,7 @@ In regulation 4 of the Charges Regulations (supply of drugs and appliances by do
 
   .
 
-## 6. Amendment of regulation 7A of the Charges Regulations
+## 6. Amendment of regulation 7A of the Charges Regulations[^c-5afff4d3146c474b27c6c777578fc9eb]
 
 (1) Regulation 7A of the Charges Regulations (exemption from charges for prisoners)[^f00008] is amended as follows.
 
@@ -150,7 +154,7 @@ In regulation 4 of the Charges Regulations (supply of drugs and appliances by do
 
 .
 
-## 7. Amendments of the Charges Regulations concerning detainees
+## 7. Amendments of the Charges Regulations concerning detainees[^c-d41efd6a08d319ad282cedf87fb89ccd]
 
 After regulation 7A of the Charges Regulations (exemption from charges for prisoners), insert—
 
@@ -160,7 +164,7 @@ After regulation 7A of the Charges Regulations (exemption from charges for priso
 
 .
 
-## 8. Transitional provision relating to the Charges Regulations
+## 8. Transitional provision relating to the Charges Regulations[^c-fe94ce57aa41ebf237a5df0c8504509f]
 
 Where, on or after 1st April 2008—
 
@@ -169,7 +173,7 @@ Where, on or after 1st April 2008—
 
 - the Charges Regulations shall have effect in relation to that supply, or as the case may be, the grant of, or any refund in relation to, that certificate, as if these Regulations had not come into force.
 
-## 9. Amendment of regulation 2 of the Travel Expenses and Remission of Charges Regulations
+## 9. Amendment of regulation 2 of the Travel Expenses and Remission of Charges Regulations[^c-46ddb9394661313ace4905e971435b5a]
 
 In regulation 2 of the Travel Expenses and Remission of Charges Regulations (interpretation), after the definition of “the 1990 Act”, insert—
 
@@ -177,7 +181,7 @@ In regulation 2 of the Travel Expenses and Remission of Charges Regulations (int
 
 .
 
-## 10. Amendment of regulation 3 of the Travel Expenses and Remission of Charges Regulations
+## 10. Amendment of regulation 3 of the Travel Expenses and Remission of Charges Regulations[^c-1974f44a8d1885b01de5d7b1f445ece5]
 
 (1) Regulation 3 of the Travel Expenses and Remission of Charges Regulations (NHS travel expenses) is amended as follows.
 
@@ -229,9 +233,15 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
+[^c-5d7449385e6417986c94512711ea324b]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2000/620](https://www.legislation.gov.uk/uksi/2000/620); relevant amendments are made by [S.I. 2000/3189](https://www.legislation.gov.uk/uksi/2000/3189), [2001/2887](https://www.legislation.gov.uk/uksi/2001/2887), [2002/548](https://www.legislation.gov.uk/uksi/2002/548), [2002/2352](https://www.legislation.gov.uk/uksi/2002/2352), [2003/1084](https://www.legislation.gov.uk/uksi/2003/1084), [2004/663](https://www.legislation.gov.uk/uksi/2004/663), [2004/696](https://www.legislation.gov.uk/uksi/2004/696), [2004/865](https://www.legislation.gov.uk/uksi/2004/865), [2005/578](https://www.legislation.gov.uk/uksi/2005/578), [2006/552](https://www.legislation.gov.uk/uksi/2006/552), [2007/543](https://www.legislation.gov.uk/uksi/2007/543), [2007/1510](https://www.legislation.gov.uk/uksi/2007/1510) and [2007/1975](https://www.legislation.gov.uk/uksi/2007/1975).
 
 [^f00003]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); relevant amendments are made by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/562](https://www.legislation.gov.uk/uksi/2006/562).
+
+[^c-50d32fdacd2f6766c918aa9b43d1c861]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)
+
+[^c-97f31417f408281911c7b998a23af6c7]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)
 
 [^f00004]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -241,6 +251,20 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00007]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33); section 147 was amended by the Nationality, Immigration and Asylum Act 2002, sections 62(14) and 66.
 
+[^c-8fc4aa3e261f5fd7b5250e573eb5b9c9]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)
+
+[^c-bacf684d6d8d94fec648eed93601be70]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)
+
+[^c-5afff4d3146c474b27c6c777578fc9eb]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)
+
 [^f00008]: Footnote: Regulation 7A was inserted by [S.I. 2004/663](https://www.legislation.gov.uk/uksi/2004/663).
 
+[^c-d41efd6a08d319ad282cedf87fb89ccd]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)
+
+[^c-fe94ce57aa41ebf237a5df0c8504509f]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)
+
+[^c-46ddb9394661313ace4905e971435b5a]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)
+
 [^f00009]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c-1974f44a8d1885b01de5d7b1f445ece5]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/571/regulation/1/1)

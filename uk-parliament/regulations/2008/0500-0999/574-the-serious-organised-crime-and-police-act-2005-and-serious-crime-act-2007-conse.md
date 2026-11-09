@@ -3,15 +3,15 @@ title: The Serious Organised Crime and Police Act 2005 and Serious Crime Act 200
 id: uksi/2008/574
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-04'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/574
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/574/pdfs/uksiem_20080574_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/574/pdfs/uksi_20080574_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/574/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/574/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/574
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 574
 
@@ -42,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on her by section 173(1) of the Serious Organised Crime and Police Act 2005[^f00001] and section 90(1) of the Serious Crime Act 2007[^f00002], makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-e96ec3104eb84a072074e254f3b101c5]
 
 This Order may be cited as the Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008 and shall come into force on 1st April 2008.
 
-## 2. Amendment Schedule
+## 2. Amendment Schedule[^c-bf18f3e96a298b5cfff5a322f354b9db]
 
 The Schedule to this Order (Amendment of statutory instruments and statutory rules of Northern Ireland relating to the Assets Recovery Agency (“ARA”), its Director (“the Director”) and the Serious Organised Crime Agency (“SOCA”)) shall have effect.
 
@@ -62,7 +66,7 @@ Home Office
 
 Article 2
 
-**1.** (1) The Crown Court Rules (Northern Ireland) 1979[^f00003] are amended as follows.
+**1.**[^c-0640bee9913d41eeacc65bd4702c6bac] (1) The Crown Court Rules (Northern Ireland) 1979[^f00003] are amended as follows.
 
 (2) Rule 75 is revoked.
 
@@ -96,7 +100,7 @@ Article 2
 
 (14) In Rule 101(b) for the word “Director” substitute “prosecutor”.
 
-**2.** (1) Order 116[^f00004] (Terrorism Act 2000 and confiscation and forfeiture in connection with criminal proceedings) of the Rules of the Supreme Court (Northern Ireland) 1980[^f00005] is amended as follows.
+**2.**[^c-2ee488ad135e7cd8eb20e9c601570bcb] (1) Order 116[^f00004] (Terrorism Act 2000 and confiscation and forfeiture in connection with criminal proceedings) of the Rules of the Supreme Court (Northern Ireland) 1980[^f00005] is amended as follows.
 
 (2) In Rule 50(2)(e) omit the words “the Agency”.
 
@@ -104,7 +108,7 @@ Article 2
 
 (4) Rule 60 is revoked.
 
-**3.** (1) Order 123[^f00006] (civil recovery) of the Rules of the Supreme Court (Northern Ireland) 1980 is amended as follows.
+**3.**[^c-645fa12d684a5a575c5e392adfdacda8] (1) Order 123[^f00006] (civil recovery) of the Rules of the Supreme Court (Northern Ireland) 1980 is amended as follows.
 
 (2) For Rule 3 substitute—
 
@@ -171,9 +175,9 @@ Article 2
 - (c) in paragraph 2 for the words “Assets Recovery Agency” substitute “\[*insert appropriate officer*\]”; and
 - (d) in paragraph 3 for the words “(“the named officer”) who is an officer of the Agency \[and \[*insert name*\], who is an officer of the Agency authorised by the Director of the Agency to accompany the named officer,\]” substitute “\[who is a member of staff of the Director of Public Prosecutions for Northern Ireland\] \[who is a member of staff of the Serious Fraud Office\] \[who is a member of staff of the Serious Organised Crime Agency\]. *(delete as appropriate)*”.
 
-**4.** In paragraph (a) of the definition of “respondent” in regulation 2 of the Special Commissioners (Jurisdiction and Procedure) Regulations 1994[^f00007] (interpretation) for the words “the Director of the Assets Recovery Agency” substitute “the Serious Organised Crime Agency”.
+**4.**[^c-6a1ffae33ed15e79d5b65dc875eb5ee5] In paragraph (a) of the definition of “respondent” in regulation 2 of the Special Commissioners (Jurisdiction and Procedure) Regulations 1994[^f00007] (interpretation) for the words “the Director of the Assets Recovery Agency” substitute “the Serious Organised Crime Agency”.
 
-**5.** (1) The Proceeds of Crime (Northern Ireland) Order 1996[^f00008] is amended as follows.
+**5.**[^c-f4939d635afbe6fbe0f7aef253e1d382] (1) The Proceeds of Crime (Northern Ireland) Order 1996[^f00008] is amended as follows.
 
 (2) In Article 49(1A) (additional investigation powers)[^f00009]—
 
@@ -197,7 +201,7 @@ Article 2
 
 (5) In paragraph 3A(4) of Schedule 2 (financial investigations)[^f00012] for the words “the Director of the Assets Recovery Agency” substitute “a member of staff of the Serious Organised Crime Agency or a relevant Director (within the meaning of Article 49(5))”.
 
-**6.** (1) The Land Registration Rules 2003[^f00013] are amended as follows.
+**6.**[^c-ea99ed4066b65ac28b42b26a411de8d5] (1) The Land Registration Rules 2003[^f00013] are amended as follows.
 
 (2) In Form CIT in Schedule 1—
 
@@ -228,9 +232,9 @@ Article 2
 
     .
 
-**7.** In the Schedule to the Magistrates’ Courts (Proceeds of Crime Act 2002) (Confiscation) Rules (Northern Ireland) 2003[^f00014] paragraph (d) of Form 1 is revoked.
+**7.**[^c-019bc7c973e097bf2a195e0543e2ea1d] In the Schedule to the Magistrates’ Courts (Proceeds of Crime Act 2002) (Confiscation) Rules (Northern Ireland) 2003[^f00014] paragraph (d) of Form 1 is revoked.
 
-**8.** (1) The Lay Magistrates (Eligibility) (Northern Ireland) Order 2004[^f00015] is amended as follows.
+**8.**[^c-0afd341caefd4f6296c9bc9cfa5bbad8] (1) The Lay Magistrates (Eligibility) (Northern Ireland) Order 2004[^f00015] is amended as follows.
 
 (2) In Article 2(e)—
 
@@ -267,7 +271,7 @@ Article 2
 > - (xii) the Director General of the Serious Organised Crime Agency,
 > - (xiii) a member of staff of the Serious Organised Crime Agency.
 
-**9.** (1) Part 1 of the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00017] (list of regulatory functions) is amended as follows.
+**9.**[^c-a10275a6d3f0ea5eb63c8f709ca17607] (1) Part 1 of the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00017] (list of regulatory functions) is amended as follows.
 
 (2) The entry and footnote (i) for the Director of the Assets Recovery Agency are revoked.
 
@@ -289,15 +293,29 @@ Sub-paragraphs 6(2)(d), 6(3)(e)(i), 8(2)(b), 8(3)(b), 8(4)(b) and 8(5) of the Sc
 
 [^f00002]: Footnote: [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27); the power in section 90(1) is extended by section 90(2).
 
+[^c-e96ec3104eb84a072074e254f3b101c5]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
+
+[^c-bf18f3e96a298b5cfff5a322f354b9db]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
+
+[^c-0640bee9913d41eeacc65bd4702c6bac]: Commencement: Sch. para. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
+
 [^f00003]: Footnote: [S.R. 1979/90](https://www.legislation.gov.uk/nisr/1979/90). The rules to be amended were inserted by [S.R. 2003/71](https://www.legislation.gov.uk/nisr/2003/71).
+
+[^c-2ee488ad135e7cd8eb20e9c601570bcb]: Commencement: Sch. para. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
 
 [^f00004]: Footnote: The rules to be amended in Order 116 were inserted by [S.R. 2003/54](https://www.legislation.gov.uk/nisr/2003/54).
 
 [^f00005]: Footnote: [S.R. 1980/346](https://www.legislation.gov.uk/nisr/1980/346).
 
+[^c-645fa12d684a5a575c5e392adfdacda8]: Commencement: Sch. para. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
+
 [^f00006]: Footnote: Order 123 was amended by [S.R. 2006/10](https://www.legislation.gov.uk/nisr/2006/10).
 
+[^c-6a1ffae33ed15e79d5b65dc875eb5ee5]: Commencement: Sch. para. 4 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
+
 [^f00007]: Footnote: [S.I. 1994/1811](https://www.legislation.gov.uk/uksi/1994/1811). The definition of respondent was inserted into regulation 2 by [S.I. 2003/968](https://www.legislation.gov.uk/uksi/2003/968).
+
+[^c-f4939d635afbe6fbe0f7aef253e1d382]: Commencement: Sch. para. 5 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
 
 [^f00008]: Footnote: [S.I. 1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299).
 
@@ -309,12 +327,20 @@ Sub-paragraphs 6(2)(d), 6(3)(e)(i), 8(2)(b), 8(3)(b), 8(4)(b) and 8(5) of the Sc
 
 [^f00012]: Footnote: Paragraph 3A was inserted by Article 6 of [S.I. 2001/1866 (N.I. 1)](https://www.legislation.gov.uk/nisi/2001/1866).
 
+[^c-ea99ed4066b65ac28b42b26a411de8d5]: Commencement: Sch. para. 6 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
+
 [^f00013]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417) as amended by [S.I. 2005/1766](https://www.legislation.gov.uk/uksi/2005/1766) and [S.I. 2006/594](https://www.legislation.gov.uk/uksi/2006/594).
 
+[^c-019bc7c973e097bf2a195e0543e2ea1d]: Commencement: Sch. para. 7 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
+
 [^f00014]: Footnote: [S.R. 2003/122](https://www.legislation.gov.uk/nisr/2003/122).
+
+[^c-0afd341caefd4f6296c9bc9cfa5bbad8]: Commencement: Sch. para. 8 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
 
 [^f00015]: Footnote: [S.R. 2004/246](https://www.legislation.gov.uk/nisr/2004/246).
 
 [^f00016]: Footnote: Paragraph 8(1A) is inserted by paragraph 174 of Schedule 8 to the Serious Crime Act 2007, that amendment is not yet in force.
+
+[^c-a10275a6d3f0ea5eb63c8f709ca17607]: Commencement: Sch. para. 9 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/574/article/1)
 
 [^f00017]: Footnote: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544).

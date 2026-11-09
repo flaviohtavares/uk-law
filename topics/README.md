@@ -433,7 +433,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Payment Scheme](payment-scheme.md) | 2 | 37 |
 | [Peace Treaties](peace-treaties.md) | 0 | 5 |
 | [Pension](pension.md) | 0 | 11 |
-| [Pensions](pensions/README.md) | 46 | 2062 |
+| [Pensions](pensions/README.md) | 46 | 2061 |
 | [Pensions (Northern Ireland)](pensions-northern-ireland.md) | 0 | 6 |
 | [Period Products (Free Provision)](period-products-free-provision.md) | 0 | 10 |
 | [Pesticides](pesticides.md) | 0 | 76 |

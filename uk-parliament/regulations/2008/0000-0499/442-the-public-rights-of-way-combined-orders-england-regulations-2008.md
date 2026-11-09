@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2008-02-19'
-text_date: '2008-04-06'
+text_date: '2008-02-19'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/442
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/442/pdfs/uksiem_20080442_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/442/pdfs/uksi_20080442_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/442/data.pdf
-pending_changes: 1
+pending_changes: 17
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,11 +20,13 @@ summary: ''
 
 # The Public Rights of Way (Combined Orders) (England) Regulations 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2008/442
+> **Warning: changes not yet applied to this text (17).** Text as at 2008-02-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/442
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 442
 
@@ -46,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 53A(1)(a), 56(3A) and 57(1), (2) and (6A) of the Wildlife and Countryside Act 1981[^f00001]:
 
-## 1. Title, commencement and application
+## 1. Title, commencement and application[^c-9ed53d1bfdc53a41bd0702fed0ac3453]
 
 These Regulations—
 
@@ -54,14 +56,14 @@ These Regulations—
 - (b) come into force on 6th April 2008; and
 - (c) apply in relation to England only[^f00002].
 
-## 2. Interpretation
+## 2. Interpretation[^c-7789ac1edb632f51c3aa3f9bbd05a078]
 
 In these Regulations—
 
 - “the Act” means the Wildlife and Countryside Act 1981;
 - “section 53A Order” means an order to which section 53A of the Act applies by virtue of regulation 3, and a “relevant section 53A Order” is one for which a form is prescribed by any enactment[^f00003].
 
-## 3. Section 53A Orders
+## 3. Section 53A Orders[^c-6fe62abaa59be30a8f249292f20d941c]
 
 The following descriptions of order are prescribed as descriptions of order to which section 53A of the Act applies (where they are of the kind described in paragraphs (b) to (d) of section 53A(1))—
 
@@ -81,15 +83,15 @@ The following descriptions of order are prescribed as descriptions of order to w
   - (ii) section 257 (footpaths, bridleways and restricted byways affected by development: orders by other authorities);
   - (iii) subsection (1) of section 258 (extinguishment of public rights of way over land held for planning purposes).
 
-## 4. Relevant date
+## 4. Relevant date[^c-75a4853dc750524838ef5426b9e3567c]
 
 The relevant date required[^f00008] to be specified in a section 53A Order which includes provision made by virtue of section 53A(2) of the Act is the date upon which the stopping up (also referred to as the extinguishment), diversion or, as the case may be, creation of the path effected by that Order comes fully into effect.
 
-## 5. Form of order
+## 5. Form of order[^c-b524a6d2c28b645396fcc7e4547ace02]
 
 That part of a relevant section 53A Order which contains provision made by virtue of section 53A(2) of the Act must be in the form prescribed for an order of the description in question, as modified in the manner set out in the Schedule, or in a form substantially to the like effect, with such insertions or omissions as are necessary in any particular case[^f00009].
 
-## 6. Scale of maps in orders
+## 6. Scale of maps in orders[^c-99cea1b333d5cb86668abc16af276797]
 
 Any map contained in a section 53A Order which shows anything as a consequence of provision made by virtue of section 53A(2) of the Act must be on a scale of not less than 1:2,500.
 
@@ -105,7 +107,7 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 5
 
-### 1. Public path creation order
+### 1. Public path creation order[^c-6ec51a07923f124644dfa2e205337e71]
 
 In relation to an Order made under section 26 of the Highways Act 1980 (referred to in that Act as a “public path creation order”[^f00010]), being a section 53A Order, Form 1 in Schedule 1 to the Public Path Orders Regulations 1993[^f00011] (being the form prescribed for such an Order) is amended as follows—
 
@@ -116,7 +118,7 @@ In relation to an Order made under section 26 of the Highways Act 1980 (referred
   ;
 - (b) insert, at the end of paragraph 1 of the Order, the words “, and thereupon the \[*title*\] definitive map and statement shall be modified accordingly”.
 
-### 2. Public path extinguishment order
+### 2. Public path extinguishment order[^c-a90efa2baed5eb9fb411d525ecf4246c]
 
 In relation to an Order made under section 118 of the Highways Act 1980 (referred to in that Act as a “public path extinguishment order”[^f00012]), being a section 53A Order, Form 3 in Schedule 1 to the Public Path Orders Regulations 1993 (being the form prescribed for such an Order) is amended as follows—
 
@@ -127,7 +129,7 @@ In relation to an Order made under section 118 of the Highways Act 1980 (referre
   ;
 - (b) insert, at the end of paragraph 1 of the Order, the words “, and thereupon the \[*title*\] definitive map and statement shall be modified accordingly”.
 
-### 3. Rail crossing extinguishment order
+### 3. Rail crossing extinguishment order[^c-dbfbbcff4572a7365df09728bcf44556]
 
 In relation to an Order made under section 118A of the Highways Act 1980 (referred to in that Act as a “rail crossing extinguishment order”[^f00013]), being a section 53A Order, Form 1 in Schedule 2 to the Rail Crossing Extinguishment and Diversion Orders Regulations 1993[^f00014] (being the form prescribed for such an Order) is amended as follows—
 
@@ -138,7 +140,7 @@ In relation to an Order made under section 118A of the Highways Act 1980 (referr
   ;
 - (b) insert, in the final paragraph of the Order after the words “the date of confirmation of this order”, the words “and requires that upon the occurrence of that extinguishment the \[*title*\] definitive map and statement are to be modified accordingly”.
 
-### 4. Special extinguishment order
+### 4. Special extinguishment order[^c-1dbb143d7b0daa59d4c0d73ac05fee19]
 
 In relation to an Order made under section 118B(4) of the Highways Act 1980, being a section 53A Order, both Form 1 (being the form prescribed for such an Order made as respects a relevant highway in an area designated by the Secretary of State pursuant to section 118B(1)(a)) and Form 2 (being the form prescribed for such an Order made as respects a relevant highway which crosses land occupied for the purposes of a school in the circumstances specified in section 118B(1)(b)) in Schedule 1 to the Highways, Crime Prevention etc. (Special Extinguishment and Special Diversion Orders) Regulations 2003[^f00015] are amended as follows—
 
@@ -149,7 +151,7 @@ In relation to an Order made under section 118B(4) of the Highways Act 1980, bei
   ;
 - (b) insert, at the end of paragraph 1 of the Order, the words “, and upon the occurrence of that extinguishment the \[*title*\] definitive map and statement shall be modified accordingly”.
 
-### 5. Public path diversion order
+### 5. Public path diversion order[^c-729ba4be9228e102a5ae49cf46a3311e]
 
 In relation to an Order made under section 119 of the Highways Act 1980 (referred to in that Act as a “public path diversion order”[^f00016]), being a section 53A Order, Form 2 in Schedule 1 to the Public Path Orders Regulations 1993 (being the form prescribed for such an Order) is amended as follows—
 
@@ -160,7 +162,7 @@ In relation to an Order made under section 119 of the Highways Act 1980 (referre
   ;
 - (b) insert, at the end of both paragraph 1 and paragraph 3 of the Order, the words “, and thereupon the \[*title*\] definitive map and statement shall be modified accordingly”.
 
-### 6. Rail crossing diversion order
+### 6. Rail crossing diversion order[^c-4ad0f9a4d56d74d47c934b4224ca4508]
 
 In relation to an Order made under section 119A of the Highways Act 1980 (referred to in that Act as a “rail crossing diversion order”[^f00017]), being a section 53A Order, Form 2 in Schedule 2 to the Rail Crossing Extinguishment and Diversion Orders Regulations 1993 (being the form prescribed for such an Order) is amended as follows—
 
@@ -171,7 +173,7 @@ In relation to an Order made under section 119A of the Highways Act 1980 (referr
   ;
 - (b) insert, at the end of both paragraph 1 and paragraph 3 of the Order, the words “, and thereupon the \[*title*\] definitive map and statement shall be modified accordingly”.
 
-### 7. Special diversion order
+### 7. Special diversion order[^c-2cb71f31b594440a0f3ac8ce688470c0]
 
 In relation to an Order made under section 119B(4) of the Highways Act 1980 (referred to in that Act as a “special diversion order”[^f00018]), being a section 53A Order, both Form 3 (being the form prescribed for such an Order made as respects a relevant highway in an area designated by the Secretary of State pursuant to section 118B(1)(a) of that Act) and Form 4 (being the form prescribed for such an Order made as respects a relevant highway which crosses land occupied for the purposes of a school in the circumstances specified in section 119B(1)(b)) in Schedule 1 to the Highways, Crime Prevention etc. (Special Extinguishment and Special Diversion Orders) Regulations 2003 are amended as follows—
 
@@ -182,7 +184,7 @@ In relation to an Order made under section 119B(4) of the Highways Act 1980 (ref
   ;
 - (b) insert, at the end of both paragraph 1 and paragraph 3 of the Order, the words “, and thereupon the \[*title*\] definitive map and statement shall be modified accordingly”.
 
-### 8. Order made under section 294 of the Housing Act 1985
+### 8. Order made under section 294 of the Housing Act 1985[^c-f5b7f234e1f4013788fa8fdec7af9abd]
 
 In relation to an Order made under section 294 of the Housing Act 1985, being a section 53A Order, Form 1 in the Schedule to the Housing (Prescribed Forms) Regulations 1990[^f00019] (being the form prescribed for such an Order) is amended by inserting after paragraph 3 of the Order—
 
@@ -190,7 +192,7 @@ In relation to an Order made under section 294 of the Housing Act 1985, being a 
 
 .
 
-### 9. Public path orders made under section 257 of the Town and Country Planning Act 1990
+### 9. Public path orders made under section 257 of the Town and Country Planning Act 1990[^c-3af75354a12e3760f9ba1133daaf6a43]
 
 In relation to an Order made under section 257 of the Town and Country Planning Act 1990, being a section 53A Order, Form 1 in Schedule 1 to the Town and Country Planning (Public Path Orders) Regulations 1993[^f00020] (being the form prescribed for such an Order) is amended as follows—
 
@@ -202,7 +204,7 @@ In relation to an Order made under section 257 of the Town and Country Planning 
 - (b) insert, in paragraph 1 of the Order after the words “\[stopped up\] \[diverted\]”, the words “, and the \[*title*\] definitive map and statement shall be modified accordingly,”;
 - (c) insert, at the end of paragraph 3 of the Order, the words “, and upon the occurrence of that \[stopping up\] \[diversion\] the \[*title*\] definitive map and statement shall be modified accordingly”.
 
-### 10. Public path orders made under section 258(1) of the Town and Country Planning Act 1990
+### 10. Public path orders made under section 258(1) of the Town and Country Planning Act 1990[^c-3aca36a819e7a620ff4672e3674b24cf]
 
 In relation to an Order made under section 258(1) of the Town and Country Planning Act 1990, being a section 53A Order, Form 2 in Schedule 1 to the Town and Country Planning (Public Path Orders) Regulations 1993 (being the form prescribed for such an Order) is amended as follows—
 
@@ -231,9 +233,15 @@ An impact assessment has been prepared in respect of these Regulations. A copy m
 
 [^f00001]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69); section 53A was inserted by section 51 of, and paragraph 2 of Schedule 5 to, the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) (“the 2000 Act”); section 56(3A) was inserted by section 51 of, and paragraph 6(6) of Schedule 5 to, the 2000 Act; relevant amendments to section 57 were made by sections 51 and 102 of, paragraph 7(1), (2), (3) and (6) of Schedule 5 to, and Part II of Schedule 16 to, the 2000 Act.
 
+[^c-9ed53d1bfdc53a41bd0702fed0ac3453]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
 [^f00002]: Footnote: The functions of the Secretary of State under section 53A of the Wildlife and Countryside Act 1981 are, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), as extended by section 99 of the 2000 Act.
 
+[^c-7789ac1edb632f51c3aa3f9bbd05a078]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
 [^f00003]: Footnote: Forms of orders for an order made under section 26, 118 or 119 of the Highways Act 1980 are prescribed in the Public Paths Orders Regulations 1993 ([S.I. 1993/11](https://www.legislation.gov.uk/uksi/1993/11), amended by [S.I. 1995/451](https://www.legislation.gov.uk/uksi/1995/451), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [1999/416](https://www.legislation.gov.uk/uksi/1999/416), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177)). Forms of orders for an order made under section 118A or 119A of the Highways Act 1980 are prescribed in the Rail Crossing Extinguishment and Diversion Orders Regulations 1993 ([S.I. 1993/9](https://www.legislation.gov.uk/uksi/1993/9), amended by [S.I. 1995/451](https://www.legislation.gov.uk/uksi/1995/451), [1996/416](https://www.legislation.gov.uk/uksi/1996/416), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177)). Forms of orders for an order made under section 118B(4) or 119B(4) of the Highways Act 1980 are prescribed in the Highways, Crime Prevention etc. (Special Extinguishment and Special Diversion Orders) Regulations 2003 ([S.I. 2003/1479](https://www.legislation.gov.uk/uksi/2003/1479), amended by [S.I. 2004/3168](https://www.legislation.gov.uk/uksi/2004/3168)). A form of order for an order made under section 294 of the Housing Act 1985 is prescribed in the Housing (Prescribed Forms) Regulations 1990 ([S.I. 1990/447](https://www.legislation.gov.uk/uksi/1990/447), amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971)). Forms of orders for an order made under section 257 or 258(1) of the Town and Country Planning Act 1990 are prescribed in the Town and Country Planning (Public Path Orders) Regulations 1993 ([S.I. 1993/10](https://www.legislation.gov.uk/uksi/1993/10), amended by [S.I. 1995/451](https://www.legislation.gov.uk/uksi/1995/451), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177)). No forms of orders have been prescribed for an order made under section 119D of the Highways Act 1980, section 32 of the Acquisition of Land Act 1981, or section 247(2A) of the Town and Country Planning Act 1990.
+
+[^c-6fe62abaa59be30a8f249292f20d941c]: Commencement: Reg. 3 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
 
 [^f00004]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66); section 118A was inserted by section 47 of, and paragraph 3 of Schedule 2 to, the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42); section 118B was inserted by section 57 of, and paragraph 8 of Schedule 6 to, the Countryside and Rights of Way Act 2000 (“the 2000 Act”); section 119A was inserted by section 47 of, and paragraph 4 of Schedule 2 to, the Transport and Works Act 1992; sections 119B and 119D were inserted by section 57 of, and paragraph 12 of Schedule 6 to, the 2000 Act; sections 26, 118, 118A, 119, 119A and 119B have been amended by [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177); section 119D has been amended by section 105(1) of, and paragraph 64 of Schedule 11 to, the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
@@ -243,28 +251,54 @@ An impact assessment has been prepared in respect of these Regulations. A copy m
 
 [^f00007]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8); section 247 has been amended by the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) and [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281); sections 257 and 258 have been amended by [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177).
 
+[^c-75a4853dc750524838ef5426b9e3567c]: Commencement: Reg. 4 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
 [^f00008]: Footnote: The requirement is contained in section 56(3A) of the Wildlife and Countryside Act 1981 (inserted by section 51 of, and paragraph 6(6) of Schedule 5 to, the 2000 Act). The “relevant date” is the date on which the provisions of the section 53A Order take effect: *see* section 53A(6).
 
+[^c-b524a6d2c28b645396fcc7e4547ace02]: Commencement: Reg. 5 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
 [^f00009]: Footnote: Forms of orders for an order made under section 26, 118 or 119 of the Highways Act 1980 are prescribed in the Public Paths Orders Regulations 1993 ([S.I. 1993/11](https://www.legislation.gov.uk/uksi/1993/11), amended by [S.I. 1995/451](https://www.legislation.gov.uk/uksi/1995/451), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [1999/416](https://www.legislation.gov.uk/uksi/1999/416), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177)). Forms of orders for an order made under section 118A or 119A of the Highways Act 1980 are prescribed in the Rail Crossing Extinguishment and Diversion Orders Regulations 1993 ([S.I. 1993/9](https://www.legislation.gov.uk/uksi/1993/9), amended by [S.I. 1995/451](https://www.legislation.gov.uk/uksi/1995/451), [1996/416](https://www.legislation.gov.uk/uksi/1996/416), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177)). Forms of orders for an order made under section 118B(4) or 119B(4) of the Highways Act 1980 are prescribed in the Highways, Crime Prevention etc. (Special Extinguishment and Special Diversion Orders) Regulations 2003 ([S.I. 2003/1479](https://www.legislation.gov.uk/uksi/2003/1479)), amended by [S.I. 2004/3168](https://www.legislation.gov.uk/uksi/2004/3168). A form of order for an order made under section 294 of the Housing Act 1985 is prescribed in the Housing (Prescribed Forms) Regulations 1990 ([S.I. 1990/447](https://www.legislation.gov.uk/uksi/1990/447), amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971)). Forms of orders for an order made under section 257 or 258(1) of the Town and Country Planning Act 1990 are prescribed in the Town and Country Planning (Public Path Orders) Regulations 1993 ([S.I. 1993/10](https://www.legislation.gov.uk/uksi/1993/10), amended by [S.I. 1995/451](https://www.legislation.gov.uk/uksi/1995/451), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177)). No forms of orders have been prescribed for an order made under section 119D of the Highways Act 1980, section 32 of the Acquisition of Land Act 1981, or section 247(2A) of the Town and Country Planning Act 1990.
+
+[^c-99cea1b333d5cb86668abc16af276797]: Commencement: Reg. 6 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
+[^c-6ec51a07923f124644dfa2e205337e71]: Commencement: Sch. para. 1 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
 
 [^f00010]: Footnote: *See* the Highways Act 1980, section 26(1).
 
 [^f00011]: Footnote: [S.I. 1993/11](https://www.legislation.gov.uk/uksi/1993/11), amended by [S.I. 1995/451](https://www.legislation.gov.uk/uksi/1995/451), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [1999/416](https://www.legislation.gov.uk/uksi/1999/416), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177).
 
+[^c-a90efa2baed5eb9fb411d525ecf4246c]: Commencement: Sch. para. 2 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
 [^f00012]: Footnote: *See* the Highways Act 1980, section 118(1).
+
+[^c-dbfbbcff4572a7365df09728bcf44556]: Commencement: Sch. para. 3 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
 
 [^f00013]: Footnote: *See* the Highways Act 1980, section 118A(3).
 
 [^f00014]: Footnote: [S.I. 1993/9](https://www.legislation.gov.uk/uksi/1993/9), amended by [S.I. 1995/451](https://www.legislation.gov.uk/uksi/1995/451), [1996/416](https://www.legislation.gov.uk/uksi/1996/416), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177).
 
+[^c-1dbb143d7b0daa59d4c0d73ac05fee19]: Commencement: Sch. para. 4 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
 [^f00015]: Footnote: [S.I. 2003/1479](https://www.legislation.gov.uk/uksi/2003/1479), amended by [S.I. 2004/3168](https://www.legislation.gov.uk/uksi/2004/3168).
+
+[^c-729ba4be9228e102a5ae49cf46a3311e]: Commencement: Sch. para. 5 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
 
 [^f00016]: Footnote: *See* the Highways Act 1980, section 119(1).
 
+[^c-4ad0f9a4d56d74d47c934b4224ca4508]: Commencement: Sch. para. 6 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
 [^f00017]: Footnote: *See* the Highways Act 1980, section 119A(3).
+
+[^c-2cb71f31b594440a0f3ac8ce688470c0]: Commencement: Sch. para. 7 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
 
 [^f00018]: Footnote: *See* the Highways Act 1980, section 119B(5).
 
+[^c-f5b7f234e1f4013788fa8fdec7af9abd]: Commencement: Sch. para. 8 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
 [^f00019]: Footnote: [S.I. 1990/447](https://www.legislation.gov.uk/uksi/1990/447), amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971).
 
+[^c-3af75354a12e3760f9ba1133daaf6a43]: Commencement: Sch. para. 9 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)
+
 [^f00020]: Footnote: [S.I. 1993/10](https://www.legislation.gov.uk/uksi/1993/10), amended by [S.I. 1995/451](https://www.legislation.gov.uk/uksi/1995/451), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2006/1177](https://www.legislation.gov.uk/uksi/2006/1177).
+
+[^c-3aca36a819e7a620ff4672e3674b24cf]: Commencement: Sch. para. 10 in force at 6.4.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/442/regulation/1/b)

@@ -5,12 +5,12 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '1996-09-19'
-text_date: '2026-06-01'
+text_date: '2026-09-01'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/1996/2447
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1996/2447/data.pdf
-pending_changes: 48
+pending_changes: 16
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Advice and Assistance (Scotland) (Consolidation and Amendment) Regulations 1996
 
-> **Warning: changes not yet applied to this text (48).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/uksi/1996/2447
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/1996/2447
 >
 > Extent: Scotland.
 
@@ -414,7 +414,7 @@ A solicitor who gives advice and assistance shall supply the Board with such inf
 - (e)[^c-7e20243b46b97240bad9a38e57a4599b] Part VII of schedule 3, the reference to Part I of schedule 3 in paragraph (1)(a) above should be read as a reference to Part VII of schedule 3,
 - (f) Part VIII of schedule 3, the reference to Part II of schedule 3 in paragraph (1)(a) above should be read as a reference to Part VIII of schedule 3.
 
-(1B)[^c-187659a94cef4b47fe7c7308e0cae7b7] An inclusive fee of £572.00[^c-1a37c3579f3bbba4361a1b71c912ce12] is payable, subject to paragraph (1C), instead of any fee that would otherwise be payable under paragraph (1)(a)(ii) where—
+(1B)[^c-187659a94cef4b47fe7c7308e0cae7b7] An inclusive fee of £646.36[^c-fed929933b996670e425bd33c2d93680] is payable, subject to paragraph (1C), instead of any fee that would otherwise be payable under paragraph (1)(a)(ii) where—
 
 - (a) one solicitor represents a client and—
   - (i) the solicitor was appointed by the client;
@@ -686,42 +686,39 @@ Regulation 17
 <tr><th colspan="3"></th><th><em><strong>Criminal</strong></em></th><th><em><strong>Civil</strong></em></th><th><em><strong>Children’s</strong></em></th></tr>
 </thead>
 <tbody>
-<tr><td colspan="3"><em>(b) fees, as undernoted, for work other than or subsequent to that described in schedule 1B of the Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999</em><em>—</em></td><td></td><td></td><td></td></tr>
 <tr><td colspan="6"><strong>1.</strong> The fee for—</td></tr>
-<tr><td rowspan="2"></td><td>(i)</td><td>any time up to the first half hour spent by a solicitor appearing in court or conducting another hearing</td><td>£34.32</td><td>£41.51</td><td>£41.51</td></tr>
-<tr><td>(ii)</td><td>each quarter hour (or part thereof) subsequent to the first half hour spent in court or conducting another hearing</td><td>£17.17</td><td>£20.79</td><td>£20.79</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="6"><strong>1A</strong>.</td></tr>
-<tr><td></td><td></td><td>Supplementary fee, payable in addition to the fee under paragraph 1, where at a holiday court sitting a solicitor acts for a person appearing from custody on the day on which that person is first brought to a court to answer to a complaint</td><td>£88.16</td><td></td><td></td></tr>
-<tr><td colspan="6"><strong>2</strong>.The fee for—</td></tr>
-<tr><td rowspan="2"></td><td>(i)</td><td>each quarter hour (or part thereof) spent by a solicitor in carrying out work other than that prescribed in paragraphs1 and 3 to 5 of this table, provided that any time is additional to the total time charged for under paragraph 1</td><td>£13.23</td><td>£15.97</td><td>£15.97</td></tr>
-<tr><td>(ii)</td><td>for each quarter hour (or part thereof) spent by a solicitor’s clerk in carrying out work other than that prescribed in paragraphs3 to 5 of this table</td><td>£6.59</td><td>£7.97</td><td>£7.97</td></tr>
-<tr><td colspan="3"><strong>3</strong>.The fee for—</td><td>£7.52</td><td>£9.10</td><td>£9.10</td></tr>
-<tr><td rowspan="5"></td><td>(i)</td><td>each citation of a witness including execution thereof,</td><td></td><td></td><td></td></tr>
-<tr><td>(ii)</td><td>framing and drawing precognitions and other necessary papers, subject to paragraph4(iii) below - per sheet (or part thereof),</td><td></td><td></td><td></td></tr>
-<tr><td>(iii)</td><td>instructing messengers-at-arms and sheriff officers, including examining execution and settling fee,</td><td></td><td></td><td></td></tr>
-<tr><td>(iv)</td><td>lengthy telephone calls (of over 4 and up to 10 minutes duration), and</td><td></td><td></td><td></td></tr>
+<tr><td rowspan="2"></td><td>(i)</td><td>any time up to the first half hour spent by a solicitor appearing in court or conducting another hearing</td><td>£38.79</td><td>£46.91</td><td>£46.91</td></tr>
+<tr><td>(ii)</td><td>each quarter hour (or part thereof) subsequent to the first half hour spent in court or conducting another hearing.</td><td>£19.41</td><td>£23.50</td><td>£23.50</td></tr>
+<tr><td><strong>1A.</strong></td><td colspan="2">Supplementary fee, payable in addition to the fee under paragraph 1, where at a holiday court sitting a solicitor acts for a person appearing from custody on the day on which that person is first brought to a court to answer to a complaint or attend a first examination.</td><td>£99.63</td><td></td><td></td></tr>
+<tr><td colspan="6"><strong>2.</strong> The fee for—</td></tr>
+<tr><td rowspan="2"></td><td>(i)</td><td>each quarter hour (or part thereof) spent by a solicitor in carrying out work other than that prescribed in paragraphs 1 and 3 to 5 of this table, provided that any time is additional to the total time charged for under paragraph 1.</td><td>£14.95</td><td>£18.05</td><td>£18.05</td></tr>
+<tr><td>(ii)</td><td>for each quarter hour (or part thereof) spent by a solicitor’s clerk in carrying out work other than that prescribed in paragraphs 3 to 5 of this table.</td><td>£7.45</td><td>£9.01</td><td>£9.01</td></tr>
+<tr><td colspan="3"><strong>3</strong>. The fee for—</td><td>£8.50</td><td>£10.29</td><td>£10.29</td></tr>
+<tr><td rowspan="5"></td><td>(i)</td><td>each citation of a witness including execution thereof</td><td></td><td></td><td></td></tr>
+<tr><td>(ii)</td><td>framing and drawing precognitions and other necessary papers, subject to paragraph 4(iii) below - per sheet (or part thereof)</td><td></td><td></td><td></td></tr>
+<tr><td>(iii)</td><td>instructing messengers-at-arms and sheriff officers, including examining execution and settling fee</td><td></td><td></td><td></td></tr>
+<tr><td>(iv)</td><td>lengthy telephone calls (of over 4 and up to 10 minutes duration)</td><td></td><td></td><td></td></tr>
 <tr><td>(v)</td><td>letters, including instructions to counsel, subject to paragraph 4(ii) below – per page (or part thereof).</td><td></td><td></td><td></td></tr>
-<tr><td colspan="3"><strong>4.</strong> The fee for—</td><td>£3.04</td><td>£3.64</td><td>£3.64</td></tr>
-<tr><td rowspan="5"></td><td>(i)</td><td>attendance at court offices for performance of formal work including each necessary lodging in or uplifting from court or each necessary enquiry for documents due to be lodged,</td><td></td><td></td><td></td></tr>
-<tr><td>(ii)</td><td>short letters of a formal nature, intimations and letters confirming telephone calls,</td><td></td><td></td><td></td></tr>
-<tr><td>(iii)</td><td>framing formal papers, including inventories and title pages - per sheet (or part thereof),</td><td></td><td></td><td></td></tr>
-<tr><td>(iv)</td><td>revising papers drawn by counsel or where revisal ordered by court – per 5 sheets (or part thereof), and</td><td></td><td></td><td></td></tr>
+<tr><td colspan="3"><strong>4.</strong> The fee for—</td><td>£3.44</td><td>£4.12</td><td>£4.12</td></tr>
+<tr><td rowspan="5"></td><td>(i)</td><td>attendance at court offices for performance of formal work including each necessary lodging in or uplifting from court or each necessary enquiry for documents due to be lodged</td><td></td><td></td><td></td></tr>
+<tr><td>(ii)</td><td>short letters of a formal nature, intimations and letters confirming telephone calls</td><td></td><td></td><td></td></tr>
+<tr><td>(iii)</td><td>framing formal papers, including inventories and title pages - per sheet (or part thereof)</td><td></td><td></td><td></td></tr>
+<tr><td>(iv)</td><td>revising papers drawn by counsel or where revisal ordered by court – per 5 sheets (or part thereof)</td><td></td><td></td><td></td></tr>
 <tr><td>(v)</td><td>short telephone calls (of up to 4 minutes duration).</td><td></td><td></td><td></td></tr>
 <tr><td colspan="6"><strong>4A.</strong> The fee for each quarter of an hour (or part thereof) spent travelling—</td></tr>
-<tr><td>(a)</td><td colspan="2">by a solicitor</td><td>£6.63</td><td>£8.01</td><td>£8.01</td></tr>
-<tr><td>(b)</td><td colspan="2">by a solicitor’s clerk</td><td>£3.31</td><td>£4.01</td><td>£4.01</td></tr>
+<tr><td>(a)</td><td colspan="2">by a solicitor</td><td>£7.50</td><td>£9.06</td><td>£9.06</td></tr>
+<tr><td>(b)</td><td colspan="2">by a solicitor’s clerk.</td><td>£3.75</td><td>£4.54</td><td>£4.54</td></tr>
 <tr><td colspan="6"><strong>5.</strong></td></tr>
 <tr><td colspan="6">(a) There is no fee for photocopying—</td></tr>
-<tr><td rowspan="2"></td><td>(i)</td><td>where fewer than 20 sheets are copied at one time,</td><td colspan="3"></td></tr>
+<tr><td rowspan="2"></td><td>(i)</td><td>where fewer than 20 sheets are copied at one time</td><td colspan="3"></td></tr>
 <tr><td>(ii)</td><td>in relation to the first 20 sheets copied at any one time.</td><td colspan="3"></td></tr>
 <tr><td rowspan="3">(b)</td><td colspan="5">Subject to sub-paragraph (a), the fee for all photocopying in the matter in relation to which assistance by way of representation was given is—</td></tr>
-<tr><td>(i)</td><td>for each sheet copied, up to 10,000 sheets, and</td><td colspan="3">£0.05</td></tr>
-<tr><td>(ii)</td><td>for each sheet copied in addition to the first 10,000 sheets</td><td colspan="3">£0.01</td></tr>
+<tr><td>(i)</td><td>6 pence for each sheet copied for up to 10,000 sheets</td><td colspan="3"></td></tr>
+<tr><td>(ii)</td><td>2 pence per sheet for each sheet copied in addition to the first 10,000 sheets.</td><td colspan="3"></td></tr>
 </tbody>
 </table>
 
-[^c-bfc81639c317b17ccb9cf89497516496]
+[^c-0c0b1b27fa60de80164149beb6729ac2]
 
 #### 1A. Calculation of fees for time at court and travelling[^c-415c68034f766b1092ecea28ca8ea693]
 
@@ -740,8 +737,8 @@ In this table–
 
 The fees allowable to a solicitor for providing assistance by way of representation in relation to a petition by a debtor for the sequestration of his estate under section 5(2)(a) of the Bankruptcy (Scotland) Act 1985 shall be–
 
-- (a) £41.51[^c-528d4ab457f5db2e9e2897cadf56b262] for any time spent by a solicitor appearing in court in connection with the petition; and
-- (b) £68.16[^c-637f782cb63a11e5a61922f09c5b0415] for all other work in connection with the petition.
+- (a) £46.91[^c-f84c082ae63705ca0d6e05741aa838b2] for any time spent by a solicitor appearing in court in connection with the petition; and
+- (b) £77.03[^c-7aadcbc01d572886311af708542a7e5a] for all other work in connection with the petition.
 
 ### PART II — TABLE OF FEES ALLOWED TO SOLICITORS FOR ADVICE AND ASSISTANCE OTHER THAN ASSISTANCE BY WAY OF REPRESENTATION
 
@@ -753,26 +750,26 @@ The fees allowable to a solicitor for providing assistance by way of representat
 </thead>
 <tbody>
 <tr><td rowspan="3">A.</td><td colspan="4">Time occupied in carrying out work for the client other than work described in paragraphs B to E below—</td><td></td><td></td><td></td></tr>
-<tr><td>(i)</td><td colspan="3">Solicitor – per quarter hour (or part thereof)</td><td>£14.53</td><td>£15.97</td><td>£15.97</td></tr>
-<tr><td>(ii)</td><td colspan="3">Solicitor’s clerk – per quarter hour (or part thereof)</td><td>£7.25</td><td>£7.97</td><td>£7.97</td></tr>
-<tr><td>B.</td><td colspan="4">For short letters of a formal nature, short telephone calls (of up to 4 minutes duration), framing formal documents such as inventories and engrossing formal documents for signature – per sheet (or part thereof)</td><td>£3.32</td><td>£3.64</td><td>£3.64</td></tr>
-<tr><td>C.</td><td colspan="4">For letters other than B above – per page (or part thereof), framing non-formal documents other than precognitions – per sheet of 250 words (or part thereof) and lengthy telephone calls (of over 4 and up to 10 minutes duration)</td><td>£8.27</td><td>£9.10</td><td>£9.10</td></tr>
-<tr><td rowspan="3">D.</td><td colspan="4">For taking and drawing precognitions – for the first sheet of 250 words or less</td><td>£29.00</td><td>£31.93</td><td>£31.93</td></tr>
-<tr><td colspan="4">for each subsequent sheet of 250 words</td><td>£29.00</td><td>£31.93</td><td>£31.93</td></tr>
-<tr><td colspan="4">for each subsequent sheet of less than 250 words</td><td>£14.53</td><td>£15.97</td><td>£15.97</td></tr>
+<tr><td>(i)</td><td colspan="3">Solicitor – per quarter hour (or part thereof)</td><td>£16.42</td><td>£18.05</td><td>£18.05</td></tr>
+<tr><td>(ii)</td><td colspan="3">Solicitor’s clerk – per quarter hour (or part thereof).</td><td>£8.20</td><td>£9.01</td><td>£9.01</td></tr>
+<tr><td>B.</td><td colspan="4">For short letters of a formal nature, short telephone calls (of up to 4 minutes duration), framing formal documents such as inventories and engrossing formal documents for signature – per sheet (or part thereof).</td><td>£3.76</td><td>£4.12</td><td>£4.12</td></tr>
+<tr><td>C.</td><td colspan="4">For letters other than B above – per page (or part thereof), framing non-formal documents other than precognitions – per sheet of 250 words (or part thereof) and lengthy telephone calls (of over 4 and up to 10 minutes duration).</td><td>£9.35</td><td>£10.29</td><td>£10.29</td></tr>
+<tr><td rowspan="3">D.</td><td colspan="4">For taking and drawing precognitions – for the first sheet of 250 words or less.</td><td>£32.77</td><td>£36.09</td><td>£36.09</td></tr>
+<tr><td colspan="4">for each subsequent sheet of 250 words.</td><td>£32.77</td><td>£36.09</td><td>£36.09</td></tr>
+<tr><td colspan="4">for each subsequent sheet of less than 250 words.</td><td>£16.42</td><td>£18.05</td><td>£18.05</td></tr>
 <tr><td rowspan="3">DA.</td><td colspan="4">The fee for each quarter of an hour (or part thereof) spent travelling—</td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">(a)</td><td colspan="2">by a solicitor</td><td>£7.28</td><td>£8.01</td><td>£8.01</td></tr>
-<tr><td colspan="2">(b)</td><td colspan="2">by a solicitor’s clerk</td><td>£3.63</td><td>£4.01</td><td>£4.01</td></tr>
+<tr><td colspan="2">(a)</td><td colspan="2">by a solicitor</td><td>£8.23</td><td>£9.06</td><td>£9.06</td></tr>
+<tr><td colspan="2">(b)</td><td colspan="2">by a solicitor’s clerk.</td><td>£4.11</td><td>£4.54</td><td>£4.54</td></tr>
 <tr><td rowspan="6">E.</td><td colspan="2" rowspan="3">(a)</td><td colspan="2">There is no fee for photocopying—</td><td></td><td></td><td></td></tr>
-<tr><td>(i)</td><td>where fewer than 20 sheets are copied at one time,</td><td></td><td></td><td></td></tr>
+<tr><td>(i)</td><td>where fewer than 20 sheets are copied at one time</td><td></td><td></td><td></td></tr>
 <tr><td>(ii)</td><td>in relation to the first 20 sheets copied at any one time.</td><td></td><td></td><td></td></tr>
 <tr><td colspan="2" rowspan="3">(b)</td><td colspan="2">Subject to sub-paragraph (a), the fee for all photocopying in the matter is—</td><td></td><td></td><td></td></tr>
-<tr><td>(i)</td><td>for each sheet copied, up to 10,000 sheets, and</td><td colspan="3">£0.05</td></tr>
-<tr><td>(ii)</td><td>for each sheet copied in addition to the first 10,000 sheets</td><td colspan="3">£0.01</td></tr>
+<tr><td>(i)</td><td>6 pence for each sheet copied for up to 10,000 sheets</td><td></td><td></td><td></td></tr>
+<tr><td>(ii)</td><td>2 pence per sheet for each sheet copied in addition to the first 10,000 sheets.</td><td></td><td></td><td></td></tr>
 </tbody>
 </table>
 
-[^c-06c5aa70d7dc90fa08ca4605d5cc9afe]
+[^c-616e282322ba2a1d811bb8bd20ca223f]
 
 #### 2. Interpretation[^c-5df7f633ab18918ddebad44bcb828e0f]
 
@@ -792,25 +789,25 @@ The fees allowable to a solicitor for providing assistance by way of representat
 <table>
 <tbody>
 <tr><td colspan="2">A reference in this Table of Fees to a section is a reference to a section of the Criminal Justice (Scotland) Act 2016.</td><td></td></tr>
-<tr><td>1.</td><td>Section 19 - <em>Application for review of conditions of investigative liberation</em></td><td></td></tr>
-<tr><td>(a)</td><td>Inclusive fee, excluding travel, for all work where matter does not proceed to a court hearing</td><td>£62.59</td></tr>
-<tr><td>(b)</td><td>Inclusive fee, excluding travel, for all work where matter proceeds to a court hearing</td><td>£93.87</td></tr>
-<tr><td>(c)</td><td>Additional fee, excluding travel, for second or subsequent court hearing, per hearing</td><td>£62.59</td></tr>
-<tr><td>(d)</td><td>Fee for time necessarily spent travelling to and from court, where the court is not in a town or place where the solicitor has a place of business, per quarter hour</td><td>£7.28</td></tr>
-<tr><td>2.</td><td>Section 30 - <em>Application for review of undertaking conditions</em></td><td></td></tr>
-<tr><td>(a)</td><td>Inclusive fee, excluding travel, for all work where matter does not proceed to a court hearing</td><td>£62.59</td></tr>
-<tr><td>(b)</td><td>Inclusive fee, excluding travel, for all work where matter proceeds to a court hearing</td><td>£93.87</td></tr>
-<tr><td>(c)</td><td>Additional fee, excluding travel, for second or subsequent court hearing, per hearing</td><td>£62.59</td></tr>
-<tr><td>(d)</td><td>Fee for time necessarily spent travelling to and from court, where the court is not in a town or place where the solicitor has a place of business, per quarter hour</td><td>£7.28</td></tr>
+<tr><td>1.</td><td>Section 19 – <em>Application for review of conditions of investigative liberation</em></td><td></td></tr>
+<tr><td>(a)</td><td>Inclusive fee, excluding travel, for all work where matter does not proceed to a court hearing</td><td>£70.73</td></tr>
+<tr><td>(b)</td><td>Inclusive fee, excluding travel, for all work where matter proceeds to a court hearing</td><td>£106.08</td></tr>
+<tr><td>(c)</td><td>Additional fee, excluding travel, for second or subsequent court hearing, per hearing</td><td>£70.73</td></tr>
+<tr><td>(d)</td><td>Fee for time necessarily spent travelling to and from court, where the court is not in a town or place where the solicitor has a place of business, per quarter hour.</td><td>£8.23</td></tr>
+<tr><td>2.</td><td>Section 30 – <em>Application for review of undertaking conditions</em></td><td></td></tr>
+<tr><td>(a)</td><td>Inclusive fee, excluding travel, for all work where matter does not proceed to a court hearing.</td><td>£70.73</td></tr>
+<tr><td>(b)</td><td>Inclusive fee, excluding travel, for all work where matter proceeds to a court hearing.</td><td>£106.08</td></tr>
+<tr><td>(c)</td><td>Additional fee, excluding travel, for second or subsequent court hearing, per hearing.</td><td>£70.73</td></tr>
+<tr><td>(d)</td><td>Fee for time necessarily spent travelling to and from court, where the court is not in a town or place where the solicitor has a place of business, per quarter hour.</td><td>£8.23</td></tr>
 <tr><td>3.</td><td>Section 36(1)(a) – <em>Application for authorisation for questioning by a prosecutor</em></td><td></td></tr>
-<tr><td>(a)</td><td>Inclusive fee, excluding travel, for all work where matter does not proceed to a court hearing</td><td>£62.59</td></tr>
-<tr><td>(b)</td><td>Inclusive fee, excluding travel, for all work where matter proceeds to a court hearing</td><td>£93.87</td></tr>
-<tr><td>(c)</td><td>Additional fee, excluding travel, for second or subsequent court hearing, per hearing</td><td>£62.59</td></tr>
-<tr><td>(d)</td><td>Fee for time necessarily spent travelling to and from court, where the court is not in a town or place where the solicitor has a place of business, per quarter hour</td><td>£7.28</td></tr>
+<tr><td>(a)</td><td>Inclusive fee, excluding travel, for all work where matter does not proceed to a court hearing.</td><td>£70.73</td></tr>
+<tr><td>(b)</td><td>Inclusive fee, excluding travel, for all work where matter proceeds to a court hearing.</td><td>£106.08</td></tr>
+<tr><td>(c)</td><td>Additional fee, excluding travel, for second or subsequent court hearing, per hearing.</td><td>£70.73</td></tr>
+<tr><td>(d)</td><td>Fee for time necessarily spent travelling to and from court, where the court is not in a town or place where the solicitor has a place of business, per quarter hour.</td><td>£8.23</td></tr>
 </tbody>
 </table>
 
-[^c-cba88a556f231bbd789d5ac13aeff144]
+[^c-a6e30c01ab5de8f2657d567d097f60fe]
 
 ### PART IV — TABLE OF FEES ALLOWED TO SOLICITORS FOR ADVICE AND ASSISTANCE IN RELATION TO SECTIONS 32 AND 44 OF THE CRIMINAL JUSTICE (SCOTLAND) ACT 2016
 
@@ -835,19 +832,19 @@ The fees allowable to a solicitor for providing assistance by way of representat
 <tr><td colspan="5">(a) Good Friday;<br>(b) Easter Monday;<br>(c) the first Monday in May;<br>(d) 30th November, if it is not a Saturday or Sunday or, if it is a Saturday or Sunday, the first Monday following the 30th November;<br>(e) Christmas Day, if it is not a Saturday or Sunday or, if it is a Saturday or Sunday, the first Monday following Christmas Day;<br>(f) 26th December or</td><td></td></tr>
 <tr><td colspan="5">(i) if it is a Saturday, 28th December;<br>(ii) if it is a Sunday, 28th December.</td><td></td></tr>
 <tr><td colspan="4"></td><td>Standard Rate</td><td>Higher Rate</td></tr>
-<tr><td colspan="2">3.</td><td colspan="2">Inclusive fee, excluding travel, for personal attendance by a solicitor where a constable determines the client has a mental disorder and the client has exercised a right to consultation under section 44.</td><td>£93.87</td><td>£124.85</td></tr>
+<tr><td colspan="2">3.</td><td colspan="2">Inclusive fee, excluding travel, for personal attendance by a solicitor where a constable determines the client has a mental disorder and the client has exercised a right to consultation under section 44.</td><td>£106.08</td><td>£141.09</td></tr>
 <tr><td colspan="2">4.</td><td colspan="2">Inclusive fee, excluding travel, for personal attendance by a solicitor where the client has exercised a right to have a solicitor present in terms of section 32(2)—</td><td></td><td></td></tr>
-<tr><td colspan="2">(a)</td><td colspan="2">aggregate time engaged or waiting is 2 hours or less; or</td><td>£143.93</td><td>£191.42</td></tr>
-<tr><td colspan="2">(b)(i)</td><td colspan="2">aggregate time engaged or waiting is more than 2 hours, up to and including 4 hours; and</td><td>£250.29</td><td>£332.89</td></tr>
-<tr><td colspan="2">(ii)</td><td colspan="2">for each additional hour over 4 hours (or part thereof).</td><td>£62.59</td><td>£83.24</td></tr>
-<tr><td colspan="2">5.</td><td colspan="2">Inclusive fee, excluding travel, for attendance by a solicitor where the client has exercised a right to consultation under section 44 other than in the circumstances provided for in paragraph 3.</td><td>£37.56</td><td>£49.95</td></tr>
+<tr><td colspan="2">(a)</td><td colspan="2">aggregate time engaged or waiting is 2 hours or less; or</td><td>£162.65</td><td>£216.31</td></tr>
+<tr><td colspan="2">(b)(i)</td><td colspan="2">aggregate time engaged or waiting is more than 2 hours, up to and including 4 hours; and</td><td>£282.83</td><td>£376.17</td></tr>
+<tr><td colspan="2">(ii)</td><td colspan="2">for each additional hour over 4 hours (or part thereof).</td><td>£70.73</td><td>£94.07</td></tr>
+<tr><td colspan="2">5.</td><td colspan="2">Inclusive fee, excluding travel, for attendance by a solicitor where the client has exercised a right to consultation under section 44 other than in the circumstances provided for in paragraph 3.</td><td>£42.45</td><td>£56.45</td></tr>
 <tr><td colspan="2">6.</td><td colspan="2">Fee for travelling time in relation to personal attendance—</td><td></td><td></td></tr>
-<tr><td colspan="2">(a)</td><td colspan="2">travel time engaged is 2 hours or less per half hour (or part thereof); and</td><td>£14.53</td><td>£19.33</td></tr>
-<tr><td colspan="2">(b)</td><td colspan="2">travel time engaged is more than 2 hours, where authorised by the Board, in advance per half hour (or part thereof).</td><td>£14.53</td><td>£19.33</td></tr>
+<tr><td colspan="2">(a)</td><td colspan="2">travel time engaged is 2 hours or less per half hour (or part thereof); and</td><td>£16.42</td><td>£21.85</td></tr>
+<tr><td colspan="2">(b)</td><td colspan="2">travel time engaged is more than 2 hours, where authorised by the Board, in advance per half hour (or part thereof).</td><td>£16.42</td><td>£21.85</td></tr>
 </tbody>
 </table>
 
-[^c-f63ac4555de5472df851c1f025052a7e][^c-39e2940143805567a17af6cfe0585e5b][^c-07743c637d931d7d451e902d652cb014][^c-d57d93877ebf1be4aef515cf4be4f2ad][^M_F_b16b6d7a-a283-4f27-a0f9-9fd65daaf6fc][^c-7bf663686033dacc5765c7832289fb38][^c-8bec44701511984f40999f5c1b0c2327][^c-bd700fe0e3a39e2cd5d9465d04a4c90b][^c-5b082897da63bbb0fe6d976f7ff81f09][^c-a3520a85ce001790d4257518a44aac84][^c-4b213e1ad6962c9e62286552a36ac71a][^c-89a7ab00e489f94fdf10dff7e682a9af]
+[^c-ce0bb055cd09baee55490d115b81501b][^c-db036196c2fb438fbfeb144be2240a68][^c-4cb1ede1c52d28603d95eb0815c82659][^c-8b19751240cbaa6edf37c4ffea242ec1][^c-b98357fab9ae72bf3cd4bc632c4b455f][^c-62357335d6d2817073c0eaf430524571][^c-81e9f79dfbee9f52ca435d7a0b784319][^c-6f445b89bfb21e97bd628bdd7cc4e1d8][^c-f42a74c4302dd2e1c11dc9723cbb539e][^c-065414981e94d8073e51d24b7d0bb0e3][^c-79ad0366e908ac612cefb53a59d3beec][^c-2fa303e52db1df4f5f4a6833553bda7f]
 
 ### PART V — TABLE OF FEES ALLOWABLE TO SOLICITORS FOR ASSISTANCE BY WAY OF REPRESENTATION FOR PROCEEDINGS UNDER SCHEDULE 8 OF THE TERRORISM ACT 2000[^c-d82294f2d9fe99da7e842f76180c6d9b]
 
@@ -856,10 +853,10 @@ In this Table of Fees “**the 2000 Act**” means the Terrorism Act 2000.
 |  |  |  |
 | --- | --- | --- |
 |  | Paragraph 29 (application for warrant of further detention) or 36 (application for extension of warrant of further detention) of schedule 8 of the Terrorism Act 2000[^c-61c8874da8509628db8deaa0732efa80] |  |
-| (a) | Inclusive fee, excluding travel, for all work where matter does not proceed to a court hearing. | £62.59 |
-| (b) | Inclusive fee, excluding travel, for all work where matter proceeds to a court hearing. | £93.87 |
-| (c) | Additional fee, excluding travel, for second or subsequent court hearing, per hearing. | £62.59 |
-| (d) | Fee for time necessarily spent travelling to and from court, where the court is not in a town or place where the solicitor has a place of business, per quarter hour. | £7.28 |
+| (a) | Inclusive fee, excluding travel, for all work where matter does not proceed to a court hearing. | £70.73[^c-0652822a37da6ed1dd07b8b1c874680a] |
+| (b) | Inclusive fee, excluding travel, for all work where matter proceeds to a court hearing. | £106.08[^c-d8367b207365ce280c25c274840b3bb6] |
+| (c) | Additional fee, excluding travel, for second or subsequent court hearing, per hearing. | £70.73[^c-8c961f2f7b5331f380a490337370d8be] |
+| (d) | Fee for time necessarily spent travelling to and from court, where the court is not in a town or place where the solicitor has a place of business, per quarter hour. | £8.23[^c-d8f555d90881fdca665f183fed333be2] |
 
 ### PART VI — TABLE OF FEES ALLOWABLE TO SOLICITORS FOR ADVICE AND ASSISTANCE IN RELATION TO SECTION 41 AND SCHEDULE 7 OF THE TERRORISM ACT 2000 AND PART 1 OF SCHEDULE 3 OF THE COUNTER-TERRORISM AND BORDER SECURITY ACT 2019
 
@@ -881,18 +878,18 @@ In this Table of Fees “**the 2000 Act**” means the Terrorism Act 2000 and �
 <tr><td>“<strong>unsocial time</strong>” has the meaning given in Part IV of this schedule</td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Standard Rate</td><td>Higher Rate</td></tr>
 <tr><td>3.</td><td>Inclusive fee, excluding travel, for personal attendance by a solicitor where the client has exercised a right to consult a solicitor in person –</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td>(a) aggregate time engaged or waiting is 2 hours or less; or</td><td></td><td>£143.93</td><td>£191.42</td></tr>
+<tr><td></td><td></td><td>(a) aggregate time engaged or waiting is 2 hours or less; or</td><td></td><td>£162.65</td><td>£216.31</td></tr>
 <tr><td></td><td></td><td>(b)</td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>(i) aggregate time engaged or waiting is more than 2 hours, up to<br>and including 4 hours;<br>and</td><td>£250.29</td><td>£332.89</td></tr>
-<tr><td></td><td></td><td></td><td>(ii) for each additional hour over 4 hours (or part thereof).</td><td>£62.59</td><td>£83.24</td></tr>
-<tr><td>4.</td><td>Inclusive fee for a consultation conducted by a solicitor, otherwise than in person—</td><td></td><td></td><td>£37.56</td><td>£49.95</td></tr>
+<tr><td></td><td></td><td></td><td>(i) aggregate time engaged or waiting is more than 2 hours, up to<br>and including 4 hours;<br>and</td><td>£282.83</td><td>£376.17</td></tr>
+<tr><td></td><td></td><td></td><td>(ii) for each additional hour over 4 hours (or part thereof).</td><td>£70.73</td><td>£94.07</td></tr>
+<tr><td>4.</td><td>Inclusive fee for a consultation conducted by a solicitor, otherwise than in person—</td><td></td><td></td><td>£42.45</td><td>£56.45</td></tr>
 <tr><td>5.</td><td>Fee for travelling time in relation to personal attendance—</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td>(a) travel time engaged is 2 hours or less per half hour (or part thereof); and</td><td></td><td>£14.53</td><td>£19.33</td></tr>
-<tr><td></td><td></td><td>(b) travel time engaged is more than 2 hours, where authorised by the Board, in advance per half hour (or part thereof).</td><td></td><td>£14.53</td><td>£19.33</td></tr>
+<tr><td></td><td></td><td>(a) travel time engaged is 2 hours or less per half hour (or part thereof); and</td><td></td><td>£16.42</td><td>£21.85</td></tr>
+<tr><td></td><td></td><td>(b) travel time engaged is more than 2 hours, where authorised by the Board, in advance per half hour (or part thereof).</td><td></td><td>£16.42</td><td>£21.85</td></tr>
 </tbody>
 </table>
 
-[^c-f08e4ee261038f80c41931cb485e70ef][^c-748262f939c0e6d77408ce245ef903ba][^c-1b36ca1325b79853459f8a219f026f3e][^c-0bcc613b1f434a6c7bdb8632d367cdbf][^c-fe101339d658fd362ca4167fece07ffc][^c-f14c1766f9ede0598e339f475ce71f39][^c-17d04bff2491ee85d5487187a332c502][^c-4d0d5a3b41804579401dfcc1960c4221][^c-c085dd2dfb4602b876359f1355e8babf][^c-95738bc2aa3f3bc45cb113911f9543da][^c-3f09c1780e84bd7fec618f0c0396ccfb]
+[^c-f08e4ee261038f80c41931cb485e70ef][^c-f610496a8a187098e66d41556a799df6][^c-a5fb2127ea1638a5e4aa021cd68693b4][^c-69a834730c39361f96796eff47bb0c3a][^c-03eda048a3f08bb9afd413180b22657b][^c-f3d66d82f3be7b64c0f8819d3a43c2f4][^c-de67aba18fbeb0f9fd627a6f0d967156][^c-8e50b5300473635f3a6ce25680ea3778][^c-c190139ee56127690f0a93699aa3996d][^c-809617924325ffa20a1ca369046053d6][^c-ddca3981961edcb0e7762afc9667bb80]
 
 ### PART VII — TABLE OF FEES ALLOWABLE TO SOLICITORS FOR ASSISTANCE BY WAY OF REPRESENTATION FOR PROCEEDINGS UNDER SCHEDULE 6 OF THE NATIONAL SECURITY ACT 2023[^c-2c0130b4ce27347672ba8fd4cda59a9f]
 
@@ -1210,7 +1207,7 @@ The main amendments are as follows:–
 
 [^c-187659a94cef4b47fe7c7308e0cae7b7]: Textual amendment: [Reg. 17(1B)](https://www.legislation.gov.uk/uksi/1996/2447/regulation/17/1B)[(1C)](https://www.legislation.gov.uk/uksi/1996/2447/regulation/17/1C) inserted (4.11.2022) by [The Advice and Assistance (Summary Criminal Proceedings) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/292)](https://www.legislation.gov.uk/ssi/2022/292), [regs. 1](https://www.legislation.gov.uk/ssi/2022/292/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2022/292/regulation/3/b)
 
-[^c-1a37c3579f3bbba4361a1b71c912ce12]: Textual amendment: Sum in [reg. 17(1B)](https://www.legislation.gov.uk/uksi/1996/2447/regulation/17/1B) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-fed929933b996670e425bd33c2d93680]: Textual amendment: Sum in [reg. 17(1B)](https://www.legislation.gov.uk/uksi/1996/2447/regulation/17/1B) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(2)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
 [^c-bd0ede556826f2aa4a71ca4dae690c11]: Textual amendment: [Reg. 17(3)-(5)](https://www.legislation.gov.uk/uksi/1996/2447/regulation/17/3) added (30.6.2008) by [The Criminal Legal Assistance (Fees and Information etc.) (Scotland) Regulations 2008 (S.S.I. 2008/240)](https://www.legislation.gov.uk/ssi/2008/240), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/240/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2008/240/regulation/3/6) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/240/regulation/1/2))
 
@@ -1310,21 +1307,21 @@ The main amendments are as follows:–
 
 [^c-926f55618d4f23641b47d0ce4e69d270]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/I) Table inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2021/368/regulation/5/3)
 
-[^c-bfc81639c317b17ccb9cf89497516496]: Textual amendment: [Sch. 3 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/1/paragraph/1) Table substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [reg. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2023/135/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-0c0b1b27fa60de80164149beb6729ac2]: Textual amendment: [Sch. 3 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/I/paragraph/1) table substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [sch. 9](https://www.legislation.gov.uk/ssi/2026/144/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
 [^c-415c68034f766b1092ecea28ca8ea693]: Textual amendment: [Sch. 3 Pt. 1 para. 1A](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/I/paragraph/1A) inserted (10.11.2014) by [The Legal Aid and Assistance By Way of Representation (Fees for Time at Court and Travelling) (Scotland) Regulations 2014 (S.S.I. 2014/257)](https://www.legislation.gov.uk/ssi/2014/257), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/257/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2014/257/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/257/regulation/1/2))
 
 [^c-2440a8b74fea913dce22f94ac984ee52]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/I/paragraph/2) inserted (1.4.2022) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/30)](https://www.legislation.gov.uk/ssi/2022/30), [regs. 1](https://www.legislation.gov.uk/ssi/2022/30/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2022/30/regulation/6/2/b) (with [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/30/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2022/30/regulation/2/3))
 
-[^c-528d4ab457f5db2e9e2897cadf56b262]: Textual amendment: Sum in [Sch. 3 Pt. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/I/paragraph/3/a) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/a/ii/aa) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-f84c082ae63705ca0d6e05741aa838b2]: Textual amendment: Sum in [Sch. 3 Pt. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/I/paragraph/3/a) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/a/ii/aa) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-637f782cb63a11e5a61922f09c5b0415]: Textual amendment: Sum in [Sch. 3 Pt. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/I/paragraph/3/b) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/a/ii/bb) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-7aadcbc01d572886311af708542a7e5a]: Textual amendment: Sum in [Sch. 3 Pt. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/I/paragraph/3/b) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/a/ii/bb) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
 [^c-71c980959c811398161ab382cc76e4f0]: Textual amendment: Word in [Sch. 3 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/II/paragraph/1) substituted (30.6.2008) by [The Criminal Legal Assistance (Fees and Information etc.) (Scotland) Regulations 2008 (S.S.I. 2008/240)](https://www.legislation.gov.uk/ssi/2008/240), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/240/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/ssi/2008/240/regulation/3/9/a) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/240/regulation/1/2))
 
 [^c-e17f474fe7defc1dbcc1290f3145e933]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/II/paragraph/1) inserted (24.6.2013) by [The Children’s Legal Assistance (Fees) (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/144)](https://www.legislation.gov.uk/ssi/2013/144), [regs. 1](https://www.legislation.gov.uk/ssi/2013/144/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2013/144/regulation/2/3)
 
-[^c-06c5aa70d7dc90fa08ca4605d5cc9afe]: Textual amendment: [Sch. 3 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/II/paragraph/1) Table substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [reg. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [sch. 10](https://www.legislation.gov.uk/ssi/2023/135/schedule/10) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-616e282322ba2a1d811bb8bd20ca223f]: Textual amendment: [Sch. 3 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/II/paragraph/1) table substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [sch. 10](https://www.legislation.gov.uk/ssi/2026/144/schedule/10) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
 [^c-5df7f633ab18918ddebad44bcb828e0f]: Textual amendment: [Sch. 3 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/II/paragraph/2) omitted (30.6.2008) by virtue of [The Criminal Legal Assistance (Fees and Information etc.) (Scotland) Regulations 2008 (S.S.I. 2008/240)](https://www.legislation.gov.uk/ssi/2008/240), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/240/regulation/1/1), [3(9)(c)](https://www.legislation.gov.uk/ssi/2008/240/regulation/3/9/c) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/240/regulation/1/2))
 
@@ -1334,56 +1331,64 @@ The main amendments are as follows:–
 
 [^c-7c37e4a744a855dcb6f4897f53fff85c]: Textual amendment: [Sch. 3 Pts. 3](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/3), [4](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4) inserted (25.1.2018) by [The Criminal Legal Assistance (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/466)](https://www.legislation.gov.uk/ssi/2017/466), [regs. 1](https://www.legislation.gov.uk/ssi/2017/466/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/ssi/2017/466/regulation/5/5/b)
 
-[^c-cba88a556f231bbd789d5ac13aeff144]: Textual amendment: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/3) Table substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [reg. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [sch. 11](https://www.legislation.gov.uk/ssi/2023/135/schedule/11) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-a6e30c01ab5de8f2657d567d097f60fe]: Textual amendment: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/3) table substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [sch. 11](https://www.legislation.gov.uk/ssi/2026/144/schedule/11) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-f63ac4555de5472df851c1f025052a7e]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 3](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/3) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(i)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-ce0bb055cd09baee55490d115b81501b]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 3](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/3) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(i)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-39e2940143805567a17af6cfe0585e5b]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 3](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/3) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-db036196c2fb438fbfeb144be2240a68]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 3](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/3) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-07743c637d931d7d451e902d652cb014]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/a) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/iii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-4cb1ede1c52d28603d95eb0815c82659]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/a) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/iii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-d57d93877ebf1be4aef515cf4be4f2ad]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/a) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(iv)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/iv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-8b19751240cbaa6edf37c4ffea242ec1]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/a) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(iv)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/iv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^M_F_b16b6d7a-a283-4f27-a0f9-9fd65daaf6fc]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/b) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(v)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/v) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-b98357fab9ae72bf3cd4bc632c4b455f]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/b/i) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(v)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/v) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-7bf663686033dacc5765c7832289fb38]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/b/i) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(vi)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/vi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-62357335d6d2817073c0eaf430524571]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/b/i) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(vi)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/vi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-8bec44701511984f40999f5c1b0c2327]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/b/ii) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(vii)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/vii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-81e9f79dfbee9f52ca435d7a0b784319]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/b/ii) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(vii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/vii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-bd700fe0e3a39e2cd5d9465d04a4c90b]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/b/ii) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(viii)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/viii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-6f445b89bfb21e97bd628bdd7cc4e1d8]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/4/b/ii) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(viii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/viii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-5b082897da63bbb0fe6d976f7ff81f09]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/5) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(ix)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-f42a74c4302dd2e1c11dc9723cbb539e]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/5) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(ix)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-a3520a85ce001790d4257518a44aac84]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/5) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(x)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/x) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-065414981e94d8073e51d24b7d0bb0e3]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/5) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(x)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/x) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-4b213e1ad6962c9e62286552a36ac71a]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 6](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/6) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(xi)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/xi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-79ad0366e908ac612cefb53a59d3beec]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 6](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/6) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(xi)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/xi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-89a7ab00e489f94fdf10dff7e682a9af]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 6](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/6) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(d)(xii)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/d/xii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-2fa303e52db1df4f5f4a6833553bda7f]: Textual amendment: Sum in [Sch. 3 Pt. 4 para. 6](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/4/paragraph/6) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(d)(xii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/d/xii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
 [^c-d82294f2d9fe99da7e842f76180c6d9b]: Textual amendment: [Sch. 3 Pts. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/5), [6](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6) inserted (17.2.2021) by [The Criminal Legal Aid and Advice and Assistance (Counter-Terrorism and Border Security) (Scotland) Regulations 2021 (S.S.I. 2021/55)](https://www.legislation.gov.uk/ssi/2021/55), [regs. 1](https://www.legislation.gov.uk/ssi/2021/55/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2021/55/regulation/3/5)
 
 [^c-61c8874da8509628db8deaa0732efa80]: Textual amendment: [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/5) Table substituted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [5(5)(a)](https://www.legislation.gov.uk/ssi/2023/313/regulation/5/5/a)
 
+[^c-0652822a37da6ed1dd07b8b1c874680a]: Textual amendment: Sum in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/5) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(e)(i)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/e/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
+
+[^c-d8367b207365ce280c25c274840b3bb6]: Textual amendment: Sum in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/5) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(e)(ii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/e/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
+
+[^c-8c961f2f7b5331f380a490337370d8be]: Textual amendment: Sum in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/5) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(e)(i)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/e/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
+
+[^c-d8f555d90881fdca665f183fed333be2]: Textual amendment: Sum in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/5) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(e)(iii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/e/iii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
+
 [^c-f08e4ee261038f80c41931cb485e70ef]: Textual amendment: Words in [Sch. 3 Pt. 6 Sch. para. 2](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/schedule/paragraph/2) Table para. 2 substituted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/ssi/2023/313/regulation/5/5/b)
 
-[^c-748262f939c0e6d77408ce245ef903ba]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/a) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(i)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-f610496a8a187098e66d41556a799df6]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/a) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(i)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-1b36ca1325b79853459f8a219f026f3e]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/a) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(ii)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-a5fb2127ea1638a5e4aa021cd68693b4]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(a)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/a) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(ii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-0bcc613b1f434a6c7bdb8632d367cdbf]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/b/i) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(iii)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/iii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-69a834730c39361f96796eff47bb0c3a]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/b/i) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(iii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/iii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-fe101339d658fd362ca4167fece07ffc]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/b/i) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(iv)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/iv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-03eda048a3f08bb9afd413180b22657b]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/b/i) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(iv)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/iv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-f14c1766f9ede0598e339f475ce71f39]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/b/ii) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(v)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/v) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-f3d66d82f3be7b64c0f8819d3a43c2f4]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/b/ii) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(v)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/v) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-17d04bff2491ee85d5487187a332c502]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/b/ii) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(vi)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/vi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-de67aba18fbeb0f9fd627a6f0d967156]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/3/b/ii) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(vi)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/vi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-4d0d5a3b41804579401dfcc1960c4221]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 4](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/4) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(vii)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/vii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-8e50b5300473635f3a6ce25680ea3778]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 4](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/4) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(vii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/vii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-c085dd2dfb4602b876359f1355e8babf]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 4](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/4) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(viii)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/viii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-c190139ee56127690f0a93699aa3996d]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 4](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/4) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(viii)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/viii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-95738bc2aa3f3bc45cb113911f9543da]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/5) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(ix)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-809617924325ffa20a1ca369046053d6]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/5) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(ix)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^c-3f09c1780e84bd7fec618f0c0396ccfb]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/5) substituted (29.4.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2023 (S.S.I. 2023/135)](https://www.legislation.gov.uk/ssi/2023/135), [regs. 1](https://www.legislation.gov.uk/ssi/2023/135/regulation/1), [7(3)(f)(x)](https://www.legislation.gov.uk/ssi/2023/135/regulation/7/3/f/x) (with [reg. 2](https://www.legislation.gov.uk/ssi/2023/135/regulation/2))
+[^c-ddca3981961edcb0e7762afc9667bb80]: Textual amendment: Sum in [Sch. 3 Pt. 6 para. 5](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/6/paragraph/5) substituted (1.9.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/3), [7(3)(f)(x)](https://www.legislation.gov.uk/ssi/2026/144/regulation/7/3/f/x) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
 [^c-2c0130b4ce27347672ba8fd4cda59a9f]: Textual amendment: [Sch. 3 Pts. 7](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/7), [8](https://www.legislation.gov.uk/uksi/1996/2447/schedule/3/part/8) inserted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [5(5)(c)](https://www.legislation.gov.uk/ssi/2023/313/regulation/5/5/c)

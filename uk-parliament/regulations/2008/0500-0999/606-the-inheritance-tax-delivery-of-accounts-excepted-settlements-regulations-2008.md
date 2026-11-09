@@ -3,16 +3,16 @@ title: The Inheritance Tax (Delivery of Accounts) (Excepted Settlements) Regulat
 id: uksi/2008/606
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-06'
-text_date: null
-extent: null
+text_date: '2008-03-06'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/606
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/606/pdfs/uksiem_20080606_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/606/pdfs/uksi_20080606_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/606/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/606/data.pdf
+pending_changes: 10
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Inheritance Tax (Delivery of Accounts) (Excepted Settlements) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (10).** Text as at 2008-03-06. See https://www.legislation.gov.uk/changes/affected/uksi/2008/606
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 606
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 256(1)(a) of the Inheritance Tax Act 1984[^f00001], after consultation with the Lord Chancellor, the Scottish Ministers and the Lord Chief Justice of Northern Ireland in accordance with section 256(3A)[^f00002].
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-1ee68a65be8510bdb71770a076d0bf58]
 
 These Regulations may be cited as the Inheritance Tax (Delivery of Accounts) (Excepted Settlements) Regulations 2008, shall come into force on 6th April 2008 and shall have effect in relation to chargeable events occurring on or after 6th April 2007.
 
-## 2. Interpretation
+## 2. Interpretation[^c-88893ae335aef634e10c785c0627b3a7]
 
 (1) In these Regulations—
 
@@ -64,13 +70,13 @@ These Regulations may be cited as the Inheritance Tax (Delivery of Accounts) (Ex
 
 (2) In these Regulations, a reference to a section is a reference to the section of the 1984 Act bearing that number.
 
-## 3. Accounts
+## 3. Accounts[^c-3c65aa71d40d9eca1729d268219fd5ed]
 
 (1) No person is required to deliver an account under section 216 of the property comprised in an excepted settlement unless the Commissioners so require by notice in writing addressed to that person.
 
 (2) If in reliance on these Regulations a person has not delivered an account and it is discovered at any time that the settlement is not an excepted settlement, the delivery to the Commissioners within six months of that time of an account of the property comprised in that settlement shall satisfy any requirement to deliver an account imposed on that person.
 
-## 4. Excepted settlement
+## 4. Excepted settlement[^c-4bc285c80b7575542952cd51fd44da3b]
 
 (1) An excepted settlement means a settlement in which no qualifying interest in possession subsists on an occasion of a chargeable event on or after 6th April 2007 in the circumstances in paragraph (2) or (3).
 
@@ -104,7 +110,7 @@ These Regulations may be cited as the Inheritance Tax (Delivery of Accounts) (Ex
 - (a) trustees of a settlement shall be regarded as resident in the United Kingdom if the general administration of the settlement is ordinarily carried on in the United Kingdom and the trustees or a majority of them (and, where there is more than one class of trustees, a majority of each class) are for the time being resident in the United Kingdom; and
 - (b) in determining value for the purposes of paragraph (4), (6), (7) or (8) disregard any liabilities or reliefs contained in the 1984 Act.
 
-## 5. Discharge of trustees and property from tax
+## 5. Discharge of trustees and property from tax[^c-2814e27526890785258b9a41912620b2]
 
 (1) Paragraph (2) shall apply to an excepted settlement within regulation 4(2).
 
@@ -112,16 +118,16 @@ These Regulations may be cited as the Inheritance Tax (Delivery of Accounts) (Ex
 
 (3) This regulation is subject to regulation 6.
 
-**6.** Regulation 5 does not—
+**6.**[^c-e2a5219af3a7b8ed157c7d7b3621d2a2] Regulation 5 does not—
 
 - (a) discharge any person from tax in the case of fraud or failure to disclose material facts; or
 - (b) affect the liability to tax of any persons other than the trustees of the settlement, or any tax that may be payable if the settlement is not an excepted settlement.
 
-## 7. Transfers reported late
+## 7. Transfers reported late[^c-f691615ee64c86fd21d4d4eb598ff4c4]
 
 Where no account of an excepted settlement is required by the Commissioners, an account of that settlement shall, for the purposes of section 264(8) (delivery of account to be treated as payment where tax rate nil), be treated as having been delivered twelve months after the end of the month in which the chargeable event occurred.
 
-## 8. Revocation
+## 8. Revocation[^c-938f496004f73445b4d8a7db713203dc]
 
 The Inheritance Tax (Delivery of Accounts) (Excepted Settlements) Regulations 2002[^f00004] are revoked in relation to an occasion of a chargeable event on or after 6th April 2007.
 
@@ -171,6 +177,22 @@ These Regulations do not impose new costs on business or charities.
 
 [^f00002]: Footnote: Subsection (3A) was inserted by section 293(6) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Subsections (3A) and (3B) were substituted for subsection (3A) by paragraphs 175 and 176 of Schedule 4 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
+[^c-1ee68a65be8510bdb71770a076d0bf58]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/606/regulation/1)
+
+[^c-88893ae335aef634e10c785c0627b3a7]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/606/regulation/1)
+
 [^f00003]: Footnote: Sections 71A to 71H were inserted by paragraph 1 of Schedule 20 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25).
+
+[^c-3c65aa71d40d9eca1729d268219fd5ed]: Commencement: Reg. 3 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/606/regulation/1)
+
+[^c-4bc285c80b7575542952cd51fd44da3b]: Commencement: Reg. 4 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/606/regulation/1)
+
+[^c-2814e27526890785258b9a41912620b2]: Commencement: Reg. 5 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/606/regulation/1)
+
+[^c-e2a5219af3a7b8ed157c7d7b3621d2a2]: Commencement: Reg. 6 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/606/regulation/1)
+
+[^c-f691615ee64c86fd21d4d4eb598ff4c4]: Commencement: Reg. 7 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/606/regulation/1)
+
+[^c-938f496004f73445b4d8a7db713203dc]: Commencement: Reg. 8 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/606/regulation/1)
 
 [^f00004]: Footnote: [S. I. 2002/1732](https://www.legislation.gov.uk/uksi/2002/1732).

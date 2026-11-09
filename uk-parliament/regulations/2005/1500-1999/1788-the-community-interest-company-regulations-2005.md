@@ -3,16 +3,16 @@ title: The Community Interest Company Regulations 2005
 id: uksi/2005/1788
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2005-06-30'
-text_date: '2005-07-01'
+text_date: '2025-07-21'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2005/1788
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2005/1788/pdfs/uksiem_20051788_en.pdf
 - http://www.legislation.gov.uk/uksi/2005/1788/pdfs/uksi_20051788_en.pdf
 - http://www.legislation.gov.uk/uksi/2005/1788/data.pdf
-pending_changes: 156
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Community Interest Company Regulations 2005
 
-> **Warning: changes not yet applied to this text (156).** Text as at 2005-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2005/1788
+> Text as at 2025-07-21.
 >
 > Extent: England, Wales, Scotland.
 
@@ -54,20 +54,26 @@ These Regulations may be cited as the Community Interest Company Regulations 200
 
 In these Regulations—
 
-- “the 1985 Act” means the Companies Act 1985[^f00002];
+- “the 1965 Act” means the Industrial and Provident Societies Act 1965;[^c-02f69ce83c336e84ff9bbef3f244ee64]
+- “the 1969 Northern Ireland Act” means the Industrial and Provident Societies Act (Northern Ireland) 1969;
+- [^c-c70114bf93b3f571f9278126c267c3eb]...
+- [^c-c70114bf93b3f571f9278126c267c3eb]...
 - “the 2004 Act” means the Companies (Audit, Investigations and Community Enterprise) Act 2004;
+- “[^c-0f1045ffbcc906affa2ba23205bc9cf4]**the 2006 Act**” means the Companies Act 2006;
 - “aggregate dividend cap” means a cap set under regulation 22 for the purposes of determining maximum aggregate dividends;
 - “appellant” means, in respect of an appeal to the Appeal Officer, the person bringing the appeal;
-- “applicable share dividend cap” has the meaning given in regulation 18(2) and (3);
+- [^c-49d3df53273a377fbadfdbbd9957543b]...
 - “applicable interest cap” has the meaning given in regulation 21(3);
 - “asset-locked body” means—
-  - (a) a community interest company, charity or Scottish charity; or
-  - (b) a body established outside Great Britain that is equivalent to any of those persons;
+  - (a) a community interest company, a charity or a[^c-6ff5534a12c38e0108c431eebb13a0bc] permitted society[^c-2c2caca9e55ece345db9d958f54f43ef]; or
+  - (b) a body established outside the United Kingdom[^c-e1a42072878f5bd94f868a4fdf67bc37] that is equivalent to either of those;
+- “[^c-2837351b22bd28e2f2fd608fa3a6bea7]**authenticated**” means that the person required to authenticate the document in question has signed, or printed their name on, that document;
+- “the Authority” means the Financial Conduct Authority[^c-6d5052fe97c55c8efea59706b0e8f5ad];
 - “community interest statement” means a statement in a form approved by the Regulator which—
   - (a) contains a declaration that the company will carry on its activities for the benefit of the community or a section of the community; and
   - (b) indicates how it is proposed that the company’s activities will benefit the community (or a section of the community);
-- “distributable profits” means, in relation to a company, its accumulated, realised profits, so far as not previously utilised by distribution or capitalisation, less its accumulated, realised losses, so far as not previously written off in a reduction or reorganisation of capital duly made, and is to be interpreted in accordance with the provisions of section 263(3) of the 1985 Act relating to the meaning of a company’s profits available for distribution;
-- “election” means any election to public office held in Great Britain or elsewhere;
+- “distributable profits” means, in relation to a company, its accumulated, realised profits, so far as not previously utilised by distribution or capitalisation, less its accumulated, realised losses, so far as not previously written off in a reduction or reorganisation of capital duly made, [^c-ae0f181c00212f5656a48bd4f2bdd9be]...;
+- “election” means any election to public office held in the United Kingdom[^c-d3ab8ac265c580b41364e06b4a513c8a] or elsewhere;
 - “employee” means a person who has entered into or works under (or, where the employment has ceased, worked under)—
   - (a) a contract of service or apprenticeship; or
   - (b) a contract for services under which it is agreed that a specified individual is to perform services,
@@ -75,30 +81,40 @@ In these Regulations—
   whether express or implied, and (if it is express) whether oral or in writing;
 - “employer” means the person by whom an employee is (or, where the employment has ceased, was) employed;
 - “exempt dividend” has the meaning given in regulation 17(3);
-- “governmental authority” includes—
-  - (a) any national, regional or local government in Great Britain or elsewhere, including any organ or agency of any such government;
-  - (b) the European Community, or any of its institutions or agencies; and
-  - (c) any organisation which is able to make rules or adopt decisions which are legally binding on any governmental authority falling within sub-paragraph (a) or (b);
+- “governmental authority” includes—[^c-0f435d77054d73012ce49d91e29cca12]
+  - (a) any national, regional or local government in the United Kingdom or elsewhere;
+  - (b) the European Community;
+  - (c) any inter-governmental organisation; and
+  - (d) any organisation which is able to make rules or adopt decisions which are legally binding on any governmental authority falling within sub‑paragraph (a), (b) or (c);
+
+  or any of their organs, institutions or agencies;.
 - “interest cap” means a cap set under regulation 22 for the purpose of determining the maximum rate of interest payable under regulation 21;
 - “manager” means a person appointed by order under section 47(1) of the 2004 Act;
 - “maximum aggregate dividend” has the meaning given to it in regulation 19;
-- “maximum dividend per share” has the meaning given to it in regulation 18(1);
+- [^c-5c464e1a07ef2c598994e58af5d4d35b]...
 - “paid up value” means, in respect of any share in a company, the sum of—
   - (a) so much of the share’s nominal value as has been paid up; and
   - (b) any premium on that share paid to the company;
 - “performance-related rate” means any rate which is linked to the company’s profits or turnover or to any item in the balance sheet of the company;
+- “permitted society” means a registered society which has a restriction on the use of its assets in accordance with regulation 4 of the Community Benefit Societies (Restriction on Use of Assets) Regulations 2006 or regulation 4 of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006;[^c-498b955889d17047efab5e8f22271c05]
 - “political party” includes any person standing, or proposing to stand, as a candidate at any election, and any person holding public office following his election to that office;
 - “political campaigning organisation” means any person carrying on, or proposing to carry on activities—
-  - (a) to promote, or oppose, changes in any law applicable in Great Britain or elsewhere, or any policy of a governmental or public authority (unless such activities are incidental to other activities carried on by that person); or
+  - (a) to promote, or oppose, changes in any law applicable in the United Kingdom[^c-b29d91bd35057c70d7f7522012fb719a] or elsewhere, or any policy of a governmental or public authority (unless such activities are incidental to other activities carried on by that person); or
   - (b) which could reasonably be regarded as intended to affect public support for a political party, or to influence voters in relation to any election or referendum (unless such activities are incidental to other activities carried on by that person);
-- “public authority” includes—
+- “public authority” includes—[^c-2b427635169848fafe4e1bcac1890ae4]
   - (a) a court or tribunal; and
-  - (b) any person certain of whose functions are functions of a public nature;
+  - (b) any person certain of whose functions are functions of a public nature,
+
+  whether in the United Kingdom or elsewhere;
+- “quoted company” has the meaning given by section 385 of the 2006 Act;[^c-41609e59fa352ea7eb35e963e4b878ca]
 - “referendum” includes any national or regional referendum or other poll held in pursuance of any provision made by or under the law of any state on one or more questions or propositions specified in or in accordance with any such provision;
+- “registered society” means—[^c-366a3551ecf40a2c1e5375afefcd4499]
+  - (a) a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014; or
+  - (b) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969;
 - “relevant company” means a community interest company which is a company limited by shares or a company limited by guarantee with a share capital;
-- “share dividend cap” means a cap set under regulation 22 for the purpose of determining maximum dividends per share;
-- “subsidiary” has the meaning given to it in section 736 of the 1985 Act[^f00003]; and
-- “unused dividend capacity” has the meaning given to it in regulation 20(2).
+- [^c-da0f2e7472bbacc2c342bf6316453a42]...
+- “subsidiary” has the meaning given to it by section 1159 of the 2006 Act[^c-6fde3ead4db3be96ec32b193ee4637b7]; [^c-ee71f4026b74d2974000a9c853dd0729]...
+- [^c-7222c2c6e0404ba77f4cef4b1a5c2f07]...
 
 ## PART 2 — The community interest test and excluded companies
 
@@ -107,7 +123,7 @@ In these Regulations—
 (1) For the purposes of the community interest test the following activities are to be treated as not being activities which a reasonable person might consider are activities carried on for the benefit of the community:
 
 - (a) the promotion of, or the opposition to, changes in—
-  - (i) any law applicable in Great Britain or elsewhere; or
+  - (i) any law applicable in the United Kingdom[^c-d39eee579441df0d32b421d035733a40] or elsewhere; or
   - (ii) the policy adopted by any governmental or public authority in relation to any matter;
 - (b) the promotion of, or the opposition (including the promotion of changes) to, the policy which any governmental or public authority proposes to adopt in relation to any matter; and
 - (c) activities which can reasonably be regarded as intended or likely to—
@@ -123,12 +139,12 @@ In these Regulations—
 
 For the purposes of the community interest test, an activity is to be treated as not being an activity which a reasonable person might consider is an activity carried on for the benefit of the community if, or to the extent that, a reasonable person might consider that that activity benefits only the members of a particular body or the employees of a particular employer.
 
-### 5. Section of the community[^c-97160d8612090609381b7600ea6475a2]
+### 5. Section of the community[^c-81f4835142f55f061f2cbe0232cab59a]
 
 For the purposes of the community interest test, any group of individuals may constitute a section of the community if—
 
-- (a) they share a readily identifiable characteristic; and
-- (b) other members of the community of which that group forms part do not share that characteristic.
+- (a) they share a common characteristic which distinguishes them from other members of the community; and
+- (b) a reasonable person might consider that they constitute a section of the community.
 
 ### 6. Excluded companies[^c-60015cd44a93f9851af79ff94334b461]
 
@@ -138,30 +154,171 @@ For the purposes of section 35(6) of the 2004 Act, the following are excluded co
 - (b) a company which is (or when formed would be) a political campaigning organisation; or
 - (c) a company which is (or when formed would be) a subsidiary of a political party or of a political campaigning organisation.
 
-## PART 3 — Requirements concerning the memorandum and articles
+## PART 2A — CONVERSION TO A REGISTERED SOCIETY[^c-fa42ab51b8ab8061aa59e8962777e6ff][^c-a2cf25e3bdc1214400f7c431dde87fb7]
 
-### 7. Company without share capital[^c-b92f71923b3331e58264adcc980a1d3b]
+### 6A. Becoming a registered society[^c-e0de0dedc6318b85cff68e12205b7582]
 
-A community interest company which is a company limited by guarantee without a share capital must include in its memorandum or articles the provisions prescribed by Schedule 1.
+Pursuant to section 56 of the 2004 Act, a community interest company may convert itself into a permitted society[^c-ffdc663b375aca1b942b734da400a218] and section 53 of the 1965 Act and section 62 of the 1969 Northern Ireland Act apply to community interest companies, modified so that they read as follows—
 
-### 8. Company with share capital[^c-00c7b054d6f583893415fd0b69e4cb34]
+- (a) section 53 of the 1965 Act—
 
-A community interest company which is a company limited by shares or a company limited by guarantee with a share capital must include in its memorandum or articles either—
+  > **53. Conversion of company into registered society**
+  >
+  > (1) A company registered under the Companies Acts which is a community interest company may, by special resolution, determine to convert itself into a registered society which has a restriction on use of assets in accordance with the provisions of the Community Benefit Societies (Restriction on Use of Assets) Regulations 2006; and for this purpose, in any case where the nominal value of the company’s shares held by any member other than a registered society exceeds the maximum for the time being permitted by section 6(1) of this Act in the case of a member of a registered society the resolution may provide for the conversion of the shares representing that excess into a transferable loan stock bearing such rate of interest as may be fixed, and repayable on such conditions only as are determined by the resolution.
+  >
+  > (2) Any such resolution as aforesaid shall be accompanied by a copy of the rules of the society therein referred to and shall appoint three persons, being members of the company, who, together with a director, shall sign the rules and who may either—
+  >
+  > - (a) be authorised to accept any alterations made by the Authority therein without further consulting the company; or
+  > - (b) be required to lay any such alterations before the company in general meeting for acceptance as the resolution may direct.
+  >
+  > (2A) The following documents shall be sent to the registrar of companies—
+  >
+  > - (a) a copy of the resolution;
+  > - (b) a copy of the rules of the society therein referred to; and
+  > - (c) a statement by the Authority that, in its opinion, if those rules take effect, the company will become a registered society which has a restriction on use of assets in accordance with the provisions of the Community Benefit Societies (Restriction on Use of Assets) Regulations 2006,
+  >
+  > and, on receiving them, the registrar of companies must forward each of the documents to the Regulator.
+  >
+  > (2B) The Regulator must decide whether the company is eligible to cease being a community interest company.
+  >
+  > (2C) The company is eligible to cease being a community interest company if none of the following applies—
+  >
+  > - (a) the Regulator has under section 43 of the 2004 Act appointed an auditor to audit the company’s annual accounts and the audit has not been completed,
+  > - (b) civil proceedings instituted by the Regulator in the name of the company under section 44 of the 2004 Act have not been determined or discontinued,
+  > - (c) a director of the company holds office by virtue of an order under section 45 of the 2004 Act,
+  > - (d) a director of the company is suspended under section 46(3) of the 2004 Act,
+  > - (e) there is a manager in respect of the property and affairs of the company appointed under section 47 of the 2004 Act,
+  > - (f) the Official Property Holder holds property as trustee for the company,
+  > - (g) an order under section 48(2) or (3) of the 2004 Act is in force in relation to the company,
+  > - (h) a petition has been presented for the company to be wound up.
+  >
+  > (2D) The Regulator must give notice of the decision to the company.
+  >
+  > (2E) The Authority shall register the community interest company as a registered society under this Act if the following conditions are met—
+  >
+  > - (a) a copy of the resolution aforesaid and a copy of the rules aforesaid is delivered to the Authority;
+  > - (b) a copy of the decision of the Regulator that the company is eligible to cease being a community interest company is delivered to the Authority;
+  > - (c) the company has a restriction on use of assets in accordance with the provisions of the Community Benefit Societies (Restriction on Use of Assets) Regulations 2006.
+  >
+  > (3) The Authority upon the registration of the society under this Act, shall give to it, in addition to an acknowledgement of registration under section 2(3) of this Act, a certificate similarly sealed or signed that the rules of the society referred to in the resolution have been registered.
+  >
+  > (4) A copy of any such resolution as aforesaid together with a copy of the notice of the decision issued by the Regulator and the certificate issued as aforesaid by the Authority shall be sent to the registrar of companies and, upon his registering that resolution and certificate (but not the notice of the decision issued by the Regulator), the conversion shall take effect.
+  >
+  > (5) The name under which any community interest company is registered under this section as a registered society shall not include any of the following words, expressions or abbreviations—
+  >
+  > - (a) “company”,
+  > - (b) “community interest company” or (with or without full stops) the abbreviation “cic”,
+  > - (c) “cwmni buddiant cymunedol” or (with or without full stops) the abbreviation “cbc”,
+  > - (d) “community interest public limited company” or (with or without full stops) the abbreviation “community interest plc”, or
+  > - (e) “cwmni buddiant cymunedol cyhoeddus cyfyngedig” or (with or without full stops) the abbreviation “cwmni buddiant cymunedol ccc”.
+  >
+  > (6) Subject to the next following subsection, upon the conversion of a community interest company into a registered society under this section, the registration of the company under the Companies Acts shall become void and shall be cancelled by the registrar of companies.
+  >
+  > (7) The registration of a community interest company as a registered society shall not affect any right or claim for the time being subsisting against the company or any penalty for the time being incurred by the company; and—
+  >
+  > - (a) for the purpose of enforcing any such right, penalty or claim the company may be sued and proceeded against in the same manner as if it had not been registered as a society;
+  > - (b) any such right or claim and the liability to any such penalty shall have priority as against the property of the registered society over all other rights or claims against or liabilities of the society.
+  >
+  > (8) In this section—
+  >
+  > - “the 2004 Act” means the Companies (Audit, Investigations and Community Enterprise) Act 2004;
+  > - “the Official Property Holder” has the meaning given in section 29 of the 2004 Act; and
+  > - “the Regulator” has the meaning given in section 27 of the 2004 Act.
+
+  ,
+- (b) section 62 of the 1969 Northern Ireland Act—
+
+  > **62. Conversion of company into registered society**
+  >
+  > (1) A company registered under the Companies Act 2006 which is a community interest company may, by special resolution, determine to convert itself into a registered society which has a restriction on use of assets in accordance with the provisions of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006; and for this purpose, in any case where the nominal value of the company’s shares held by any member other than a registered society exceeds the maximum for the time being permitted by section 6(1), the resolution may provide for the conversion of the shares representing that excess into a transferable loan stock bearing such rate of interest as may be fixed, and repayable on such conditions only as are determined by the resolution.
+  >
+  > (2) Any such resolution as aforesaid shall be accompanied by a copy of the rules of the society therein referred to and shall appoint three persons, being members of the company, who, together with a director, shall sign the rules and who may either—
+  >
+  > - (a) be authorised to accept any alterations made by the registrar therein without further consulting the company; or
+  > - (b) be required to lay any such alterations before the company in general meeting for acceptance as the resolution may direct.
+  >
+  > (2A) The following documents shall be sent to the registrar of companies—
+  >
+  > - (a) a copy of the resolution;
+  > - (b) a copy of the rules of the society therein referred to; and
+  > - (c) a statement by the registrar that, in its opinion, if those rules take effect, the company will become a registered society which has a restriction on use of assets in accordance with the provisions of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006,
+  >
+  > and, on receiving them, the registrar of companies must forward each of the documents to the Regulator.
+  >
+  > (2B) The Regulator must decide whether the company is eligible to cease being a community interest company.
+  >
+  > (2C) The company is eligible to cease being a community interest company if none of the following applies—
+  >
+  > - (a) the Regulator has under section 43 of the 2004 Act appointed an auditor to audit the company’s annual accounts and the audit has not been completed,
+  > - (b) civil proceedings instituted by the Regulator in the name of the company under section 44 of the 2004 Act have not been determined or discontinued,
+  > - (c) a director of the company holds office by virtue of an order under section 45 of the 2004 Act,
+  > - (d) a director of the company is suspended under section 46(3) of the 2004 Act,
+  > - (e) there is a manager in respect of the property and affairs of the company appointed under section 47 of the 2004 Act,
+  > - (f) the Official Property Holder holds property as trustee for the company,
+  > - (g) an order under section 48(2) or (3) of the 2004 Act is in force in relation to the company,
+  > - (h) a petition has been presented for the company to be wound up.
+  >
+  > (2D) The Regulator must give notice of the decision to the company.
+  >
+  > (2E) The registrar shall register the community interest company as a registered society under this Act if the following conditions are met—
+  >
+  > - (a) a copy of the resolution aforesaid and a copy of the rules aforesaid is delivered to the registrar;
+  > - (b) a copy of the decision of the Regulator that the company is eligible to cease being a community interest company is delivered to the registrar;
+  > - (c) the company has a restriction on use of assets in accordance with the provisions of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006.
+  >
+  > (3) The registrar, upon the registration of the society under this Act, shall give to it, in addition to an acknowledgment of registration under section 2(3), a certificate that the rules of the society referred to in the resolution have been registered.
+  >
+  > (4) A copy of any such resolution as aforesaid together with a copy of the notice of the decision issued by the Regulator and the certificate issued as aforesaid by the registrar shall be sent to the registrar of companies and, upon his registering the copy of the resolution and the certificate (but not the notice of the decision issued by the Regulator), the conversion shall take effect and the property of the company shall vest in the society without any conveyance or assignment.
+  >
+  > (5) The name under which any community interest company is registered under this section as a registered society shall not include any of the following words, expressions or abbreviations—
+  >
+  > - (a) “company”,
+  > - (b) “community interest company” or (with or without full stops) the abbreviation “cic”,
+  > - (c) “cwmni buddiant cymunedol” or (with or without full stops) the abbreviation “cbc”,
+  > - (d) “community interest public limited company” or (with or without full stops) the abbreviation “community interest plc”, or
+  > - (e) “cwmni buddiant cymunedol cyhoeddus cyfyngedig” or (with or without full stops) the abbreviation “cwmni buddiant cymunedol ccc”.
+  >
+  > (6) Subject to subsection (7), upon the conversion of a community interest company into a registered society under this section, the registration of the company under the Companies Act 2006 shall become void and the registrar of companies shall thereupon strike the name of the company off the register.
+  >
+  > (7) The registration of a community interest company as a registered society shall not affect any right or claim for the time being subsisting against the company or any penalty for the time being incurred by the company; and—
+  >
+  > - (a) for the purpose of enforcing any such right, penalty or claim the company may be sued and proceeded against in the same manner as if it had not been registered as a society;
+  > - (b) any such right or claim and the liability to any such penalty shall have priority as against the property of the registered society over all other rights or claims against or liabilities of the society.
+  >
+  > (8) In this section—
+  >
+  > - “the 2004 Act” means the Companies (Audit, Investigations and Community Enterprise) Act 2004;
+  > - “the Official Property Holder” has the meaning given in section 29 of the 2004 Act; and
+  > - “the Regulator” has the meaning given in section 27 of the 2004 Act.
+
+  .
+
+## PART 3 — Requirements concerning the articles of association[^c-5830932637ce40e9dc37d150b8fdfec3]
+
+### 7. Company without share capital[^c-a9dfc00b98469c9c85669a37dc1fe11c]
+
+A community interest company which is a company limited by guarantee without a share capital must include in its articles the provisions prescribed by Schedule 1, but if the company is a community interest company immediately prior to 1st October 2009 it may continue to comply with Schedule 1, as Schedule 1 read immediately prior to that date.
+
+### 8. Company with share capital[^c-8c7fe137ea9745365d6c11ef239103ce]
+
+A community interest company which is a company limited by shares or a company limited by guarantee with a share capital must include in its articles either—
 
 - (a) the provisions prescribed by Schedule 2; or
-- (b) the provisions prescribed by Schedule 3.
+- (b) the provisions prescribed by Schedule 3,
+
+but if the company is a community interest company immediately prior to 1st October 2009 it may continue to comply with Schedule 2 or Schedule 3 (as the case may be), as Schedule 2 or Schedule 3 read immediately prior to that date.
 
 ### 9. Alternative provisions[^c-12daf9b7ae09fd79c6be2ee498d75b53]
 
 (1) For paragraph 1(4)(a) of the provisions prescribed by Schedule 1, 2 or 3 a community interest company may substitute—
 
-> - “charitable body” means a charity, Scottish charity or a body established outside Great Britain that is equivalent to any of those persons;
+> - “charitable body” means a charity or an equivalent body established outside the United Kingdom;[^c-a14a23bf344da3d533ba5b830b76491d]
 
 (2) If a community interest company makes the substitution permitted by paragraph (1), it must also for every reference to “asset-locked body” in paragraph 1(2) of the provisions prescribed by Schedule 1, 2 or 3 substitute a reference to “charitable body”.
 
 ### 10. Declaration of dividends[^c-43634091fd344ab84646c688ea098fd2]
 
-A relevant company must not include in its memorandum or articles any provision which purports to permit a dividend to be declared otherwise than by an ordinary or special resolution of its members.
+A relevant company must not include in its [^c-98efb156b10476e2bd3c24ee5d2ac0a5]... articles any provision which purports to permit a dividend to be declared otherwise than by an ordinary or special resolution of its members.
 
 ## PART 4 — Prescribed documents
 
@@ -169,7 +326,7 @@ A relevant company must not include in its memorandum or articles any provision 
 
 (1) For the purposes of section 36 of the 2004 Act, the prescribed formation documents are—
 
-- (a) a community interest statement signed by each person who is to be a first director of the company; and
+- (a) a community interest statement authenticated[^c-bf07f1c2e6d8c77b1989562880d4e9ce] by each person who is to be a first director of the company; and
 - (b) a declaration that the company, when formed, will not be an excluded company.
 
 (2) The declaration referred to in paragraph (1)(b) must be in a form approved by the Regulator and must be made by each person who is to be a first director of the company.
@@ -178,11 +335,12 @@ A relevant company must not include in its memorandum or articles any provision 
 
 (1) For the purposes of section 37 of the 2004 Act, the prescribed conversion documents are—
 
-- (a) a community interest statement signed by each person who is a director of the company;
+- (a) a community interest statement authenticated[^c-c9b78c2961d679ec4661ee405207bb58] by each person who is a director of the company;
 - (b) a declaration that the company is not an excluded company; and
-- (c) either—
-  - (i) a declaration that the company is not a charity or a Scottish charity; or
-  - (ii) if the company is not a Scottish charitable company within the meaning of section 40 of the 2004 Act, a declaration that the Charity Commissioners have given the company the written consent required by section 39 of the 2004 Act.
+- (c)[^c-f95818d763c3913e88157fe860a616d4] either—
+  - (i) a declaration that the company is not a charity, [^c-4c4e13d8790297b33b568f51deb7e131]...
+  - (ii) in the case of a company that is an English charity, a declaration that the Charity Commissioners have given the company the written consent required by section 39 of the 2004 Act , or[^c-18c2199f7ea8a834e57499d1b8c0ec57],
+  - (iii)[^c-08496b2f5ceab57d37e79f40c41c4d8c] in the case of a company that is a Scottish charity, a declaration that the Scottish Charity Regulator, and, where applicable, the Charity Commission, has given the company the written consent required by section 40 of the 2004 Act.
 
 (2) The declarations referred to in sub-paragraphs (b) and (c) of paragraph (1) must be in a form approved by the Regulator and must be made by each person who is a director of the company.
 
@@ -190,25 +348,25 @@ A relevant company must not include in its memorandum or articles any provision 
 
 ### 13. Requirement for Regulator’s approval[^c-0386402cd8afcec6deb5921ed7361323]
 
-An alteration of the memorandum of a community interest company with respect to the statement of the company’s objects does not have effect except in so far as it is approved by the Regulator.
+An alteration of the articles[^c-ab50da3c8a03d7083c48c47c4857d3e1] of a community interest company with respect to the statement of the company’s objects does not have effect except in so far as it is approved by the Regulator.
 
 ### 14. Documents to be delivered to registrar of companies[^c-95ff178c437c9dd18393777044791e49]
 
-(1) If a copy of a special resolution under section 4(1) of the 1985 Act is delivered to the registrar of companies pursuant to section 380 of the 1985 Act[^f00004] (registration of resolutions), the company must also deliver—
+(1) If notice under section 31(2)(a) of the 2006 Act (notice of amendment of articles so as to add, remove or alter a statement of the company’s objects) is given to the registrar of companies[^c-a07a13cff68d71c256af4ef29211ec99], the company must also deliver—
 
 - (a) a community interest statement; and
 - (b) a statement, in a form approved by the Regulator, of the steps that have been taken to bring the proposed alteration to the notice of persons affected by the company’s activities.
 
-(2) The community interest statement and the statement under paragraph (1)(b) must be signed by each person who is a director of the company.
+(2) The community interest statement and the statement under paragraph (1)(b) must be authenticated[^c-b86aa66bef2df002938d9eefa45880dc] by each person who is a director of the company.
 
 ### 15. Decisions etc[^c-5d8dc420397cd54fbf63b4ce1b8a0b50]
 
-(1) On receiving the copies of the special resolution under section 4(1) of the 1985 Act, the community interest statement delivered under regulation 14(1)(a) and the statement delivered under regulation 14(1)(b), the registrar of companies must—
+(1) On receiving notice under section 31(2)(a) of the 2006 Act[^c-a6243752f36338c93e5222dcb635e6f5], the community interest statement delivered under regulation 14(1)(a) and the statement delivered under regulation 14(1)(b), the registrar of companies must—
 
 - (a) forward a copy of each of the documents to the Regulator; and
 - (b) retain the documents pending the Regulator’s decision.
 
-(2) The Regulator must decide whether to approve the proposed alteration of the memorandum of the community interest company with respect to the statement of the company’s objects.
+(2) The Regulator must decide whether to approve the proposed alteration of the articles[^c-636812aff5e846512762d5e93e07c096] of the community interest company with respect to the statement of the company’s objects.
 
 (3) The Regulator may approve the proposed alteration if he considers that—
 
@@ -226,9 +384,9 @@ An alteration of the memorandum of a community interest company with respect to 
 
 (6) The registrar shall not—
 
-- (a) record the special resolution delivered pursuant to section 380 of the 1985 Act;
-- (b) register any copy of the altered memorandum delivered pursuant to section 6 of the 1985 Act; or
-- (c) cause notice of that alteration to be published pursuant to section 711 of the 1985 Act[^f00005] (public notice by registrar of receipt of documents),
+- (a)[^c-04008afa9068347147bcd164f98d41ff] register the notice under section 31(2)(a) of the 2006 Act;
+- (b) register any copy of the amended articles delivered pursuant to section 26(1) of that Act; or
+- (c) cause notice of that alteration to be published pursuant to section 1077 of the Companies Act 2006[^c-dd7929593bdda3d43991306546d3f3a0] (public notice by registrar of receipt of documents),
 
 unless and until the Regulator has given notice of a decision to approve the proposed alteration.
 
@@ -241,7 +399,7 @@ unless and until the Regulator has given notice of a decision to approve the pro
 
 ### 16. Exemptions[^c-d588d87f1bfce354084872a1a4981ccc]
 
-Regulations 13 to 15 do not apply where a community interest company is to cease being a community interest company by becoming a charity or a Scottish charity and the special resolution to alter the memorandum of the company with respect to the statement of its objects is forwarded to the registrar of companies in accordance with section 54 of the 2004 Act.
+Regulations 13 to 15 do not apply where a community interest company is to cease being a community interest company by becoming a charity [^c-4a64b654749da993ea49acb37d81c247]... and the special resolution to alter the articles[^c-db3dafabba906eae127305d900945ab3] of the company with respect to the statement of its objects is forwarded to the registrar of companies in accordance with section 54 of the 2004 Act.
 
 ## PART 6 — Restrictions on distributions and interest
 
@@ -249,11 +407,9 @@ Regulations 13 to 15 do not apply where a community interest company is to cease
 
 (1) A relevant company may declare a dividend to its members only —
 
-- (a) to the extent that its memorandum and articles permit it to do so;
+- (a) to the extent that its [^c-8a3969de4795426906523e12e08056aa]... articles permit it to do so;
 - (b) if an ordinary or special resolution of the company’s members has approved the declaration of the dividend; and
-- (c) if the declaration of the dividend does not cause —
-  - (i) the total amount of dividend declared on any of the company’s shares for the financial year for which it is declared to exceed the maximum dividend per share for that financial year; or
-  - (ii) the total amount of all the dividends declared on shares in the relevant company for the financial year for which it is declared to exceed the maximum aggregate dividend for that financial year.
+- (c)[^c-c4c903131b4108cef2bd76e362918e20] if the declaration of the dividend does not cause the total amount of all the dividends declared on shares in the relevant company for the financial year for which it is declared to exceed the maximum aggregate dividend for that financial year.
 
 (2) Paragraph (1)(c) does not apply to a dividend if, or to the extent that, it is an exempt dividend.
 
@@ -271,26 +427,17 @@ Regulations 13 to 15 do not apply where a community interest company is to cease
 
 (6) If a relevant company has made the substitutions prescribed in regulation 9(2), references to “asset-locked body” in this article shall have effect as if there were substituted for them references to “charitable body”, with the meaning prescribed in regulation 9(1).
 
-### 18. Maximum dividend per share[^c-b5315839a52e2454cc2bb0aced8b0ba0]
+### 18. Maximum dividend per share[^c-021cd21d8e6770fd0a2286771e495f5b]
 
-(1) The maximum dividend per share for a financial year is the dividend which a relevant company declares on a share when the total amount of dividend declared on that share for that year (when expressed as a percentage of the paid up value of the share) equals that share’s applicable share dividend cap.
-
-(2) The applicable share dividend cap of a share in a relevant company is the share dividend cap which had effect in relation to that share at the time that the share was issued or the company became a community interest company, whichever is the later.
-
-(3) Where the expression of the applicable dividend cap includes reference to a rate or figure determined by any person other than the company, the Regulator or the Secretary of State, the maximum dividend per share for any financial year shall be calculated by reference to that rate or figure as it had effect at the beginning of the first day of that financial year.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 19. Maximum aggregate dividend[^c-ed5f6ba83fc2f7c7b76cb990593ee5e4]
 
 The maximum aggregate dividend for a financial year of a relevant company is declared when the total amount of all dividends declared on its shares for that year, less the amount of any exempt dividends, equals (when expressed as a percentage of the relevant company’s distributable profits) the aggregate dividend cap which had effect in relation to that company on the first day of the financial year in respect of which the dividends are declared.
 
-### 20. Carrying forward of unused dividend capacity from previous financial years[^c-6fa5facb60b553d51bd066dd25f986ae]
+### 20. Carrying forward of unused dividend capacity from previous financial years[^c-98f3ebda2eed186d007a6d9299c16dd3]
 
-(1) Notwithstanding regulation 17(1)(c)(i), but subject to regulation 17(1)(c)(ii), the total amount of dividends declared on a share in a relevant company for a financial year may, subject to the company’s articles, include the whole or any part of the share’s unused dividend capacity.
-
-(2) For the purposes of this regulation, a share’s unused dividend capacity is A minus B where—
-
-- A is the aggregate of any sums by which, for any of the four financial years immediately preceding the financial year for which a dividend is to be declared under this regulation, the total amount of dividend declared and paid on the share for that financial year was less than the maximum dividend per share for that financial year; and
-- B is any part of A which has already been distributed by way of a dividend declared and paid for a previous financial year.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. The interest cap[^c-189c94136ab207667388463f9fd0b921]
 
@@ -303,31 +450,31 @@ The maximum aggregate dividend for a financial year of a relevant company is dec
 
 (3) The applicable interest cap is the interest cap which had effect at the time that the agreement to pay interest at a performance-related rate was made.
 
-(4) Where the expression of the interest cap includes reference to a rate or figure determined by any person other than the company, the Regulator or the Secretary of State, the interest payable on any debt or debenture to which the interest cap applies shall be calculated by reference to that rate or figure as it had effect at the beginning of the first day of the financial year in which the interest became due.
+(4) Where the expression of the interest cap includes reference to a rate or figure determined by any person other than the company, the Regulator or the Secretary of State (in Northern Ireland, the Department of Enterprise, Trade and Investment for Northern Ireland)[^c-b320b6d58f4c2ef01dab0af41060750c], the interest payable on any debt or debenture to which the interest cap applies shall be calculated by reference to that rate or figure as it had effect at the beginning of the first day of the financial year in which the interest became due.
 
 (5) Nothing in paragraph (2) shall be taken as releasing a community interest company from liability to pay, or as preventing a community interest company from paying—
 
 - (a) interest which accrued before the company became a community interest company; or
 - (b) arrears of interest which if it had been paid at the time it became due would not have breached paragraph (2).
 
-### 22. Initial level and subsequent variation of dividend caps and interest cap[^c-e757d0226da5e5d8df9c2a3221f4f10c]
+### 22. Initial level and subsequent variation of dividend cap and interest cap[^c-e757d0226da5e5d8df9c2a3221f4f10c][^c-e8d567d10981c77c1794a1bc7e0755b9]
 
 (1) Subject to paragraph (3)—
 
-- (a) the share dividend cap shall be that percentage of the paid up value of a share in a relevant company which is 5 percentage points higher than the Bank of England’s base lending rate;
+- (a)[^c-13ed8d518740fa6e36da3912c1b45971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the aggregate dividend cap shall be 35 per cent of a relevant company’s distributable profits; and
 - (c) the interest cap shall be that percentage of the average amount of a community interest company’s debt, or the sum outstanding under a debenture issued by it, during the 12 month period immediately preceding the date on which the interest on that debt or debenture becomes due (determined in accordance with Schedule 4) which is 4 percentage points higher than the Bank of England’s base lending rate.
 
 (2) For the purposes of paragraph (1), the Bank of England’s base lending rate is the base lending rate most recently set by the Monetary Policy Committee of the Bank of England in connection with its responsibilities under Part II of the Bank of England Act 1998.
 
-(3) The Regulator may from time to time, with the approval of the Secretary of State, set a new share dividend cap, aggregate dividend cap, or interest cap.
+(3) The Regulator may from time to time, with the approval of the Secretary of State, set a new [^c-d4d452e3c70467ffe2e4842b205b9aa0]... aggregate dividend cap, or interest cap.
 
 (4) A new cap set under paragraph (3)—
 
 - (a) shall not take effect from a date less than three months after it is published; and
-- (b) subject to paragraphs (5) to (7), may result in a change to both the level of any cap and the way in which it is expressed.
+- (b) subject to paragraphs (6) and[^c-346f23939a2cc608bdf8019507992e98] (7), may result in a change to both the level of any cap and the way in which it is expressed.
 
-(5) The share dividend cap must be expressed as a percentage of the paid up value of the shares to which it applies.
+(5)[^c-e8d53edec84a39230364a4a791cee5d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The aggregate dividend cap must be expressed as a percentage of distributable profits.
 
@@ -339,7 +486,7 @@ The maximum aggregate dividend for a financial year of a relevant company is dec
 
 (1) This regulation applies where—
 
-- (a) a community interest company is wound up under the Insolvency Act 1986[^f00006]; and
+- (a) a community interest company is wound up under the Insolvency Act 1986[^f00006] or the Insolvency (Northern Ireland) Order 1989[^c-7cfc5842e367947a2bd420fe00e096aa]; and
 - (b) some property of the company (the “residual assets”) remains after satisfaction of the company’s liabilities.
 
 (2) Subject to paragraph (3), the residual assets shall be distributed to those members of the community interest company (if any) who are entitled to share in any distribution of assets on the winding up of the company according to their rights and interests in the company.
@@ -348,14 +495,14 @@ The maximum aggregate dividend for a financial year of a relevant company is dec
 
 (4) If any residual assets remain after any distribution to members under paragraph (2) (the “remaining residual assets”), they shall be distributed in accordance with paragraphs (5) and (6).
 
-(5) If the memorandum or articles of the company specify an asset-locked body to which any remaining residual assets of the company should be distributed, then, unless either of the conditions specified in sub-paragraphs (b) and (c) of paragraph (6) is satisfied, the remaining residual assets shall be distributed to that asset-locked body in such proportions or amounts as the Regulator shall direct.
+(5) If the [^c-b9799bd9c58116ebcb065a3e81054624]... articles of the company specify an asset-locked body to which any remaining residual assets of the company should be distributed, then, unless either of the conditions specified in sub-paragraphs (b) and (c) of paragraph (6) is satisfied, the remaining residual assets shall be distributed to that asset-locked body in such proportions or amounts as the Regulator shall direct.
 
 (6) If—
 
-- (a) the memorandum and articles of the company do not specify an asset-locked body to which any remaining residual assets of the company should be distributed;
-- (b) the Regulator is aware that the asset-locked body to which the memorandum or articles of the company specify that the remaining residual assets of the company should be distributed is itself in the process of being wound up; or
+- (a) the [^c-014a3539117a5486fa3ee2eb920f7dd6]... articles of the company do not specify an asset-locked body to which any remaining residual assets of the company should be distributed;
+- (b) the Regulator is aware that the asset-locked body to which the [^c-953b5071f61c8d9af507ceeaa839f7c7]... articles of the company specify that the remaining residual assets of the company should be distributed is itself in the process of being wound up; or
 - (c) the Regulator—
-  - (i) has received representations from a member or director of the company stating, with reasons, that the asset-locked body to which the memorandum or articles of the company specify that the remaining residual assets of the company should be distributed is not an appropriate recipient of the company’s remaining residual assets; and
+  - (i) has received representations from a member or director of the company stating, with reasons, that the asset-locked body to which the [^c-953b5071f61c8d9af507ceeaa839f7c7]... articles of the company specify that the remaining residual assets of the company should be distributed is not an appropriate recipient of the company’s remaining residual assets; and
   - (ii) has agreed with those representations,
 
   then the remaining residual assets shall be distributed to such asset-locked bodies, and in such proportions or amounts, as the Regulator shall direct.
@@ -363,13 +510,13 @@ The maximum aggregate dividend for a financial year of a relevant company is dec
 (7) In considering any direction to be made under this regulation, the Regulator must—
 
 - (a) consult the directors and members of the company, to the extent that he considers it practicable and appropriate to do so; and
-- (b) have regard to the desirability of distributing assets in accordance with any relevant provisions of the company’s memorandum and articles.
+- (b) have regard to the desirability of distributing assets in accordance with any relevant provisions of the company’s [^c-d2dd23e86dfd5a4965aeef3ea73dd705]... articles.
 
 (8) The Regulator must give notice of any direction under this regulation to the company and the liquidator.
 
-(9) This regulation has effect notwithstanding anything in the Insolvency Act 1986.
+(9) This regulation has effect notwithstanding anything in the Insolvency Act 1986 or the Insolvency (Northern Ireland) Order 1989[^c-3341439d1814582b212bc904642c034f].
 
-(10) This regulation has effect subject to the provisions of the Housing Act 1996[^f00007] and the Housing (Scotland) Act 2001[^f00008].
+(10) This regulation has effect subject to the provisions of the Housing Act 1996[^f00007] , Part 2 of the Housing and Regeneration Act 2008[^c-f231731cc3604c6700a747d848e780f4] and the Housing (Scotland) Act 2001[^f00008].
 
 (11) Any member or director of the company may appeal to the Appeal Officer against a direction of the Regulator made under this regulation.
 
@@ -392,7 +539,13 @@ A relevant company may not distribute assets to its members by way of a reductio
 
 - (a) a fair and accurate description of the manner in which the company’s activities during the financial year have benefited the community;
 - (b) a description of the steps, if any, which the company has taken during the financial year to consult persons affected by the company’s activities, and the outcome of any such consultation; and
-- (c) the information specified in paragraphs 1 to 14 of Part 1 of Schedule 6 to the 1985 Act[^f00009] (chairman’s and directors' emoluments, pensions and compensation for loss of office) save that the information specified in paragraphs 2 to 14 shall be given only in the case of a company which is not a quoted company.
+- (c)[^c-4b3e2ab9f89061e5f0fe793f0abe3c83] directors’ remuneration information.
+- (c)[^c-d4e05684bf3cbffbe97a2157f60e0dfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^c-bb3842b2c3a47b57e07f90ceaec65923] In paragraph (1)(c) “directors’ remuneration information” means—
+
+- (a) in the case of a company to which the Small Companies and Groups (Accounts and Directors’ Report) Regulations 2008 apply, the information specified in Schedule 4A to these Regulations;
+- (b) in the case of a company to which the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 apply, the information specified in Schedule 5 to those Regulations, save that the information specified in Part 2 of that Schedule need only be given in the case of a company which is not a quoted company.
 
 (2) If, during a financial year, a community interest company has transferred any of its assets other than for full consideration—
 
@@ -401,38 +554,31 @@ A relevant company may not distribute assets to its members by way of a reductio
 
 its community interest report for that financial year shall specify the amount, or contain a fair estimate of the value, of such transfer.
 
-(3) If—
+(3)[^c-2ee9e39cf6aec96c75b8afd15d379721] If—
 
-- (a) a community interest company has provided the information required by paragraph (1)(c) in its copy of the annual accounts for the year delivered to the registrar of companies under section 242(1) of the 1985 Act[^f00010]; and
+- (a) a community interest company has provided the information required by paragraph (1)(c) in its copy of the annual accounts for the year delivered to the registrar of companies under section 441 of the 2006 Act; and
 - (b) its community interest company report contains a statement that details of the remuneration of the directors of the company during the financial year may be found in the notes to the annual accounts of the company,
 
-the community interest company report need not contain the information required by paragraph (1)(c).
+the community interest report need not contain the information required by paragraph (1)(c).
 
-### 27. Information about dividends[^c-7346daacce4a45b457efdeadfa9ea897]
+(4) Paragraphs (1)(c) and (3) have effect for financial years ending on or after 1st October 2009.
 
-(1) This regulation applies to the community interest company report of any community interest company—
+(3)[^c-d45083f07c0015191008bd7ed1ad1d5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) which has declared, or whose directors propose to declare, a dividend for the financial year to which the report relates; or
-- (b) which has declared a dividend for any of the four financial years immediately preceding that financial year.
+### 27. Information about dividends[^c-cb00decc3b28a52b7f0b10c74d2cfec8]
 
-(2) The report must state—
+(1) This regulation applies to the community interest company report of any community interest company which has declared, or whose directors propose to declare, a dividend for the financial year to which the report relates.
 
-- (a) the amount of any dividend declared, or proposed to be declared, by the company on each of its shares for the financial year to which the report relates; and
-- (b) for each of the four financial years immediately preceding the financial year to which the report relates (in so far as the company was formed and trading during that period)—
-  - (i) the amount of any dividend declared and paid on each of the company’s shares; and
-  - (ii) the maximum dividend per share in respect of each of the company’s shares.
+(2) The report must state the amount of any dividend declared, or proposed to be declared, by the company on each of its shares for the financial year to which the report relates.
 
-(3) The report must also explain how the declaration or proposed declaration of any dividend declared, or proposed to be declared, by the company in respect of the financial year to which the report relates complies, or will comply, with regulations 17 to 20.
+(3) The report must also explain how the declaration or proposed declaration of any dividend declared, or proposed to be declared, by the company in respect of the financial year to which the report relates complies, or will comply, with regulations 17 and 19.
 
 (4) The explanation provided under paragraph (3) must include details of—
 
-- (a) in the case of an exempt dividend, why it is an exempt dividend;
-- (b) in the case of any other dividend—
-  - (i) the applicable share dividend cap and the maximum dividend per share for each share on which the dividend has been, or is to be, declared;
-  - (ii) the amount of any unused dividend capacity distributed or to be distributed as part of the dividend declared, or proposed to be declared; and
-  - (iii) the maximum aggregate dividend,
+- (a) in the case of an exempt dividend, why it is an exempt dividend; and
+- (b) in the case of any other dividend, the maximum aggregate dividend
 
-  and how each of these has been determined.
+and how each of these has been determined.
 
 ### 28. Information about debts or debentures on which a performance-related rate is payable[^c-cf9f436e44ee298855cd7c0a0e7813a6]
 
@@ -448,17 +594,26 @@ and how each of these has been determined.
 - (a) the rate of interest payable on that debt or debenture as calculated over a 12 month period ending with the most recent date on which interest became payable in respect of that debt or debenture during the financial year; and
 - (b) why regulation 21 does not apply to that debt or debenture.
 
-### 29. Application of the 1985 Act[^c-598fc1d6a4e7938cb87061db58108dae]
+### 29. Application of provisions relating to directors' report[^c-21b2b4d9feb805f59e05bf47f8bc9729]
 
-(1) The following provisions of the 1985 Act shall apply to the community interest company report as they apply to the directors' report:
+The following provisions of the 2006 Act apply to the community interest company report as they apply to the directors' report—
 
-- section 234A[^f00011] (approval and signing of directors' report);
-- section 238[^f00012] (persons entitled to receive copies of accounts and reports);
-- section 239[^f00013] (right to demand copies of accounts and reports);
-- section 241[^f00014] (accounts and reports to be laid before company in general meeting);
-- section 244[^f00015] (period allowed for laying and delivering accounts and reports);
-- section 245(1) and (2) [^f00016] (voluntary revision of accounts or directors' report); and
-- section 252(1), (2) and (4) [^f00017] (election to dispense with laying of accounts and reports before general meeting).
+- section 419 (approval and signing);
+- sections 423 to 425, 430 to 433 and 436 (publication);
+- sections 437 and 438 (public companies: laying before general meeting);
+- [^c-32f08d6b41623e82990bdd612765bf30]...
+- section 454 (voluntary revision).
+
+### 29A. Delivery of community interest company report to the registrar of companies[^c-f3baf10ebc04f9c1e7a733d1e8513322]
+
+(1) The directors of a community interest company must deliver to the registrar of companies for each financial year a copy of the community interest company report.
+
+(2) For these purposes, sections 441 to 443, 445(1) and (5), 446(1) and (3), 447(1) and (3) and 451 to 453 of the 2006 Act apply to a community interest company report as they apply to a directors’ report.
+
+(3) Sections 444(1) and (6) and 444A(1) and (3) apply to a community interest company report as they apply to a directors’ report with the following modifications—
+
+- (a) section 444(1) has effect as if the directors of a community interest company subject to the small companies regime must deliver a copy of the community interest company report for each financial year to the registrar; and
+- (b) section 444A(1) has effect as if the directors of a community interest company which is entitled to the small companies exemption in relation to the directors’ report for a financial year must deliver a copy of the community interest company report for that year to the registrar.
 
 ## PART 8 — Managers
 
@@ -512,21 +667,21 @@ The manager must make such reports to the Regulator as the Regulator may from ti
 
 ### 34. Modifications and amendments[^c-0c622c441c06a15479d66fa7ffa8a219]
 
-(1) The registrar of companies shall not cause to be published in the Gazette notice pursuant to section 711 of the 1985 Act of the receipt of documents under sections 37 or 54 of the 2004 Act unless the registrar records those documents pursuant to sections 38(6) or 55(6) of the 2004 Act.
+(1)[^c-a0c65a5d554ac09e401ba9209efc2009] The registrar of companies shall not cause to be published in the Gazette notice pursuant to section 1077 of the Companies Act 2006 of the receipt of documents under section 37C(3) or 54C(4) of the 2004 Act unless the registrar records those documents pursuant to section 38A(1)(b) or 55A(1)(b) of the 2004 Act.
 
 (2) In section 715A of the 1985 Act[^f00018] (interpretation), after subsection (2) insert—
 
 > (3) References in this Part to the Companies Acts include Part 2 of the Companies (Audit, Investigations and Community Enterprise) Act 2004.
 
-(3) In section 710B(1)(a) of the 1985 Act[^f00019] (documents relating to Welsh companies), for “or the Insolvency Act 1986” substitute “, the Insolvency Act 1986 or Part 2 of the Companies (Audit, Investigations and Community Enterprise) Act 2004”.
+(3)[^c-b831cfb9d1a4ceed94c2ea650e49005f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) For the purposes of Part 24 of the 1985 Act, these Regulations shall be regarded as provisions of Part 2 of the 2004 Act.
+(4)[^c-7dabdf7da3c9e4c80fa0518b49bfd974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 35. Documents[^c-41f0633882a47cf8c74a45869b9745c9]
 
-(1) The registrar of companies shall, on receiving any notice under section 109(1) of the Insolvency Act 1986[^f00020] (notice by liquidator of his appointment) in relation to a community interest company, provide a copy of that notice to the Regulator.
+(1) The registrar of companies shall, on receiving any notice under section 109(1) of the Insolvency Act 1986[^f00020] or Article 95 of the Insolvency (Northern Ireland) Order 1989[^c-d8c75f63a76a298bc0f93bf22fa892e4] (notice by liquidator of his appointment) in relation to a community interest company, provide a copy of that notice to the Regulator.
 
-(2) The registrar of companies shall, on receiving any copy of a winding-up order forwarded under section 130(1) of the Insolvency Act 1986[^f00021] (consequences of a winding-up order) in relation to a community interest company, provide the Regulator with a copy of that winding-up order.
+(2) The registrar of companies shall, on receiving any copy of a winding-up order forwarded under section 130(1) of the Insolvency Act 1986[^f00021] or Article 110 of the Insolvency (Northern Ireland) Order 1989[^c-cc6d08336d4280cfecf78c3665fe5e2e] (consequences of a winding-up order) in relation to a community interest company, provide the Regulator with a copy of that winding-up order.
 
 ## PART 10 — Fees
 
@@ -561,7 +716,7 @@ The fees set out in the second column of Schedule 5—
 (1) The notice of appeal must state—
 
 - (a) the name and address of the appellant; and
-- (b) an address for service in Great Britain.
+- (b) an address for service in the United Kingdom[^c-c498fd0be1827baaa5fe08a343ba8f35].
 
 (2) Unless regulation 37(2) applies, the notice of appeal must—
 
@@ -580,7 +735,7 @@ The fees set out in the second column of Schedule 5—
 - (a) in the case of a disputed order or decision, a copy of any reasons given by the Regulator under section 61(5) of the 2004 Act; and
 - (b) as far as practicable a copy of every document on which the appellant relies.
 
-(5) The notice of appeal must be signed and dated by the appellant, or on his behalf by his duly authorised officer or his legal representative.
+(5) The notice of appeal must be authenticated[^c-6099463a12afa7eef6376a2a0f1e5b61] and dated by the appellant, or on his behalf by his duly authorised officer or his legal representative.
 
 ### 39. Appeal procedure etc[^c-1f236d7814e6d57377b1549f976e63b9]
 
@@ -641,7 +796,7 @@ Department of Trade and Industry
 
 30th June 2005
 
-## SCHEDULE 1 — PROVISIONS PRESCRIBED FOR THE MEMORANDUM OR ARTICLES OF A COMMUNITY INTEREST COMPANY LIMITED BY GUARANTEE WITHOUT A SHARE CAPITAL
+## SCHEDULE 1 — PROVISIONS PRESCRIBED FOR THE ... ARTICLES OF A COMMUNITY INTEREST COMPANY LIMITED BY GUARANTEE WITHOUT A SHARE CAPITAL[^c-ccdee05268a4dd634a4a25eb9ada5516]
 
 Regulation 7
 
@@ -657,12 +812,16 @@ Regulation 7
 (4) In this paragraph—
 
 - (a) “asset-locked body” means—
-  - (i) a community interest company, charity or Scottish charity; or
-  - (ii) a body established outside the United Kingdom that is equivalent to any of those persons;
+  - (i) a community interest company, a charity, or a[^c-38e6ebb05c8c8fc71c3f32658d0e4962] permitted society[^c-8c8ba45c306dbf33c8ed0e75d315bb23]; or
+  - (ii) a body established outside the United Kingdom that is equivalent to either of those[^c-cb9afa92dc508ca76d2dc30bedd75e4a];
 - (b) “community” is to be construed in accordance with section 35(5) of the Companies (Audit, Investigations and Community Enterprise) Act 2004;
-- (c) “charity” (except in the phrase “Scottish charity”) has the meaning given by section 96(1) of the Charities Act 1993[^f00022];
+- (ba)[^c-8e9c22aad0443ce5e8509c83f29c4af0] “permitted society” means a registered society which has a restriction on the use of its assets in accordance with regulation 4 of the Community Benefit Societies (Restriction on Use of Assets) Regulations 2006 or regulation 4 of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006;
+- (bb) “registered society” means—
+  - (i) a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014; or
+  - (ii) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969;
+- (c)[^c-22e52c40be6c2401ecf1d486b83bb78a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) “the Regulator” means the Regulator of Community Interest Companies;
-- (e) “Scottish charity” has the meaning given by section 1(7) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00023];
+- (e)[^c-388c049e99b368eaea1dcffb444fa117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) “specified” means specified in the memorandum or articles of association of the company for the purposes of this paragraph; and
 - (g) “transfer” includes every description of disposition, payment, release or distribution, and the creation or extinction of an estate or interest in, or a right over, any property.
 
@@ -683,24 +842,21 @@ Regulation 7
 
 **3.**[^c-10e00edef96db680c2f0a8f1f472b10d] (1) A person who is not a member of the company shall not have any right to vote at a general meeting of the company; but this is without prejudice to any right to vote on a resolution affecting the rights attached to a class of the company’s debentures.
 
-(2) No powers to appoint directors of the company may be given to persons who are not members of the company which immediately after their exercise could result in the majority of the directors of the company having been appointed by persons who are not members of the company.
+(2)[^c-c2104f00489c84ee60136090078e0aab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) No powers to remove directors of the company may be given to persons who are not members of the company which immediately after their exercise could result in either—
+(3)[^c-c2104f00489c84ee60136090078e0aab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the majority of the remaining directors of the company having been appointed by persons who are not members of the company; or
-- (b) the number of directors removed during the current financial year of the company by persons who are not members of the company exceeding the number of the remaining directors of the company.
+(4)[^c-c2104f00489c84ee60136090078e0aab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) However, sub-paragraphs (2) and (3) shall not prevent a director from appointing, or subsequently removing, an alternate director, if permitted to do so by the articles.
+(5)[^c-c2104f00489c84ee60136090078e0aab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) In this paragraph, “financial year” has the meaning given in section 223 of the Companies Act 1985[^f00024].
+**4.**[^c-05e19aa96848f325643043904bb483e6] (1) Questions arising at a meeting of directors shall be decided by a majority of votes [^c-8e08d739c41c9c90b89e2f0a9f6d4c56]....
 
-**4.**[^c-05e19aa96848f325643043904bb483e6] (1) Questions arising at a meeting of directors shall be decided by a majority of votes; in case of an equality of votes, the chairman shall have a second or casting vote.
-
-(2) A director who is also an alternate director shall be entitled in the absence of his appointer to a separate vote on behalf of his appointer in addition to his own vote.
+(2)[^c-7eba26d35d5c63584150d0ea805f3267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Except as provided by sub-paragraphs (1) and (2) in all proceedings of directors each director must not have more than one vote.
 
-## SCHEDULE 2 — PROVISIONS PRESCRIBED FOR THE MEMORANDUM OR ARTICLES OF A COMMUNITY INTEREST COMPANY LIMITED BY SHARES, OR LIMITED BY GUARANTEE WITH A SHARE CAPITAL
+## SCHEDULE 2 — PROVISIONS PRESCRIBED FOR THE ... ARTICLES OF A COMMUNITY INTEREST COMPANY LIMITED BY SHARES, OR LIMITED BY GUARANTEE WITH A SHARE CAPITAL[^c-292b6953115d6da69ed3200590ea9de4]
 
 Regulation 8(a)
 
@@ -716,12 +872,16 @@ Regulation 8(a)
 (4) In this paragraph—
 
 - (a) “asset-locked body” means—
-  - (i) a community interest company, charity or Scottish charity; or
-  - (ii) a body established outside Great Britain that is equivalent to any of those persons;
+  - (i) a community interest company a charity, or a[^c-5982eb8f141b24bdc1cf98932d843dad] permitted society[^c-35441bb812f13477a118cff56bea3784]; or
+  - (ii) a body established outside the United Kingdom[^c-4cbd73a464ae9fd37ca8082e6d3e1205] that is equivalent to either of those;
 - (b) “community” is to be construed in accordance with section 35(5) of the Companies (Audit, Investigations and Community Enterprise) Act 2004;
-- (c) “charity” (except in the phrase “Scottish charity”) has the meaning given by section 96 of the Charities Act 1993;
+- (ba)[^c-5082efd11620c4245764b09f2c641ec5] “permitted society” means a registered society which has a restriction on the use of its assets in accordance with regulation 4 of the Community Benefit Societies (Restriction on Use of Assets) Regulations 2006 or regulation 4 of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006;
+- (bb) “registered society” means—
+  - (i) a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014; or
+  - (ii) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969;
+- (c)[^c-a48bff130563268fb26d4da90a59abed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) “the Regulator” means the Regulator of Community Interest Companies;
-- (e) “Scottish charity” has the meaning given by section 1(7) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990;
+- (e)[^c-5efd83156136f566021f0557ab5bbfcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) “specified” means specified in the memorandum or articles of association of the company for the purposes of this paragraph; and
 - (g) “transfer” includes every description of disposition, payment, release or distribution, and the creation or extinction of an estate or interest in, or a right over, any property.
 
@@ -735,24 +895,21 @@ Regulation 8(a)
 
 **3.**[^c-3410e1bc68d28c00e5630a6238a9680a] (1) A person who is not a member of the company shall not have any right to vote at a general meeting of the company; but this is without prejudice to any right to vote on a resolution affecting the rights attached to a class of the company’s debentures.
 
-(2) No powers to appoint directors of the company may be given to persons who are not members of the company which immediately after their exercise could result in the majority of the directors of the company having been appointed by persons who are not members of the company.
+(2)[^c-e6186449e1582fe45c8719099aa64d36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) No powers to remove directors of the company may be given to persons who are not members of the company which immediately after their exercise could result in either—
+(3)[^c-e6186449e1582fe45c8719099aa64d36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the majority of the remaining directors of the company having been appointed by persons who are not members of the company; or
-- (b) the number of directors removed during the current financial year of the company by persons who are not members of the company exceeding the number of the remaining directors of the company.
+(4)[^c-e6186449e1582fe45c8719099aa64d36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) However, sub-paragraphs (2) and (3) shall not prevent a director from appointing, or subsequently removing, an alternate director, if permitted to do so by the articles.
+(5)[^c-e6186449e1582fe45c8719099aa64d36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) In this paragraph, “financial year” has the meaning given in section 223 of the Companies Act 1985.
+**4.**[^c-b3bfe8c73467cb6d1d51c4625b0cbad2] (1) Questions arising at a meeting of directors shall be decided by a majority of votes [^c-af0fcdd82c54868cbed047a175c9eeca]....
 
-**4.**[^c-b3bfe8c73467cb6d1d51c4625b0cbad2] (1) Questions arising at a meeting of directors shall be decided by a majority of votes; in case of an equality of votes, the chairman shall have a second or casting vote.
-
-(2) A director who is also an alternate director shall be entitled in the absence of his appointer to a separate vote on behalf of his appointer in addition to his own vote.
+(2)[^c-09975e27ee74ce3481e627e75f8191aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Except as provided by sub-paragraphs (1) and (2) in all proceedings of directors each director must not have more than one vote.
 
-## SCHEDULE 3 — ALTERNATIVE PROVISIONS PRESCRIBED FOR THE MEMORANDUM OR ARTICLES OF A COMMUNITY INTEREST COMPANY LIMITED BY SHARES, OR LIMITED BY GUARANTEE WITH A SHARE CAPITAL
+## SCHEDULE 3 — ALTERNATIVE PROVISIONS PRESCRIBED FOR THE ... ARTICLES OF A COMMUNITY INTEREST COMPANY LIMITED BY SHARES, OR LIMITED BY GUARANTEE WITH A SHARE CAPITAL[^c-7def4e23aa0d3ee10936c04ba623d45d]
 
 Regulation 8(b)
 
@@ -776,12 +933,16 @@ Regulation 8(b)
 (4) In this paragraph—
 
 - (a) “asset-locked body” means—
-  - (i) a community interest company, charity or Scottish charity; or
-  - (ii) a body established outside Great Britain that is equivalent to any of those persons;
+  - (i) a community interest company a charity, or a[^c-8a73beb89d530b1b0d9d7631c716d883] permitted society[^c-b5142d473fb1b58ffd9ede9591d5be9b]; or
+  - (ii) a body established outside the United Kingdom[^c-beef36bce58e8f5996b2fbd391050f28] that is equivalent to either of those;
 - (b) “community” is to be construed in accordance with section 35(5) of the Companies (Audit, Investigations and Community Enterprise) Act 2004;
-- (c) “charity” (except in the phrase “Scottish charity”) has the meaning given by section 96 of the Charities Act 1993;
+- (ba)[^c-12b3cd68c77420c2e260d9afee9d267e] “permitted society” means a registered society which has a restriction on the use of its assets in accordance with regulation 4 of the Community Benefit Societies (Restriction on Use of Assets) Regulations 2006 or regulation 4 of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006;
+- (bb) “registered society” means—
+  - (i) a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014; or
+  - (ii) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969;
+- (c)[^c-102d9e29cf5ed6d4a297e17d3ee2b4b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) “the Regulator” means the Regulator of Community Interest Companies;
-- (e) “Scottish charity” has the meaning given by section 1(7) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990;
+- (e)[^c-c9b61dc97a44b6b827beb787d9e370bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) “specified” means specified in the memorandum or articles of association of the company for the purposes of this paragraph; and
 - (g) “transfer” includes every description of disposition, payment, release or distribution, and the creation or extinction of an estate or interest in, or a right over, any property.
 
@@ -795,20 +956,17 @@ Regulation 8(b)
 
 **3.**[^c-bfaf3bb1f9ff071f64977d7c75cbb4f2] (1) A person who is not a member of the company shall not have any right to vote at a general meeting of the company; but this is without prejudice to any right to vote on a resolution affecting the rights attached to a class of the company’s debentures.
 
-(2) No powers to appoint directors of the company may be given to persons who are not members of the company which immediately after their exercise could result in the majority of the directors of the company having been appointed by persons who are not members of the company.
+(2)[^c-a63be9c89bca8ff07b0c41fd1107d8ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) No powers to remove directors of the company may be given to persons who are not members of the company which immediately after their exercise could result in either—
+(3)[^c-a63be9c89bca8ff07b0c41fd1107d8ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the majority of the remaining directors of the company having been appointed by persons who are not members of the company; or
-- (b) the number of directors removed during the current financial year of the company by persons who are not members of the company exceeding the number of the remaining directors of the company.
+(4)[^c-a63be9c89bca8ff07b0c41fd1107d8ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) However, sub-paragraphs (2) and (3) shall not prevent a director from appointing, or subsequently removing, an alternate director, if permitted to do so by the articles.
+(5)[^c-a63be9c89bca8ff07b0c41fd1107d8ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) In this paragraph “financial year” has the meaning given in section 223 of the Companies Act 1985.
+**4.**[^c-0004c0adfcfb9aa2700edffbc338e686] (1) Questions arising at a meeting of directors shall be decided by a majority of votes [^c-3b5db42127cb381692c07a1ae4f1693d]....
 
-**4.**[^c-0004c0adfcfb9aa2700edffbc338e686] (1) Questions arising at a meeting of directors shall be decided by a majority of votes; in case of an equality of votes, the chairman shall have a second or casting vote.
-
-(2) A director who is also an alternate director shall be entitled in the absence of his appointer to a separate vote on behalf of his appointer in addition to his own vote.
+(2)[^c-f6509ceadb562a209c2211f52c6a9512] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Except as provided by sub-paragraphs (1) and (2) in all proceedings of directors each director must not have more than one vote.
 
@@ -829,15 +987,188 @@ Regulation 22(7)
 
 **2.**[^c-ee79e1abe84fae41dc8fc8551644381c] Where the amount of the debt or the sum outstanding under the debenture is not known as at the end of any particular date, the directors of the community interest company may, for the purposes of the calculation referred to in paragraph 1, substitute for the debt or the sum outstanding under the debenture such amount or sum as they estimate to be the amount of the debt or the sum outstanding under the debenture as at the end of that particular date.
 
-## SCHEDULE 5 — FEES PAYABLE TO THE REGISTRAR OF COMPANIES[^c-fc6f0fd21e34bd4023cd2f48f7ade6b8]
+## SCHEDULE 4A — INFORMATION ABOUT DIRECTORS’ BENEFITS[^c-700931e65c24c52849263dc32a1eecab]
+
+Regulation 26
+
+### PART 1 — INFORMATION REQUIRED TO BE DISCLOSED
+
+#### 1. Total amount of directors’ remuneration etc.
+
+(1) There must be shown the overall total of the following amounts—
+
+- (a) the amount of remuneration paid to or receivable by directors in respect of qualifying services,
+- (b) the amount of money paid to or receivable by directors, and the net value of assets (other than money, share options or shares) received or receivable by directors, under long term incentive schemes in respect of qualifying services, and
+- (c) the value of any company contributions—
+  - (i) paid, or treated as paid, to a pension scheme in respect of directors’ qualifying services, and
+  - (ii) by reference to which the rate or amount of any money purchase benefits that may become payable will be calculated.
+
+(2) There must be shown the number of directors (if any) to whom retirement benefits are accruing in respect of qualifying services—
+
+- (a) under money purchase schemes, and
+- (b) under defined benefit schemes.
+
+#### 2. Payments for loss of office
+
+(1) There must be shown the aggregate amount of any payments for loss of office.
+
+(2) “Payment for loss of office” has the same meaning as in section 215 of the 2006 Act.
+
+#### 3. Sums paid to third parties in respect of directors’ services
+
+(1) There must be shown the aggregate amount of any consideration paid to or receivable by third parties for making available the services of any person—
+
+- (a) as a director of the company, or
+- (b) while director of the company—
+  - (i) as director of any of its subsidiary undertakings, or
+  - (ii) otherwise in connection with the management of the affairs of the company or any of its subsidiary undertakings.
+
+(2) In sub-paragraph (1)—
+
+- (a) the reference to consideration includes benefits otherwise than in cash, and
+- (b) in relation to such consideration the reference to its amount is to the estimated money value of the benefit.
+
+The nature of any such consideration must be disclosed.
+
+(3) For the purposes of this paragraph a “third party” means a person other than—
+
+- (a) the director, a person connected with the director, or body corporate controlled by the director, or
+- (b) the company or any of its subsidiary undertakings.
+
+### PART 2 — SUPPLEMENTARY PROVISIONS
+
+#### 4. General nature of obligations
+
+(1) This Schedule requires information to be given only so far as it is contained in the company’s books and papers or the company has the right to obtain it from the persons concerned.
+
+(2) For the purposes of this Schedule information is treated as shown if it is capable of being readily ascertained from other information which is shown.
+
+#### 5. Provisions as to amounts to be shown
+
+(1) The following provisions apply with respect to the amounts to be shown under this Schedule.
+
+(2) The amount in each case includes all relevant sums, whether paid by or receivable from the company, any of the company’s subsidiary undertakings or any other person.
+
+(3) References to amounts paid to or receivable by a person include amounts paid to or receivable by a person connected with that person or a body corporate controlled by the person (but not so as to require an amount to be counted twice).
+
+(4) Except as otherwise provided, the amounts to be shown for any financial year are—
+
+- (a) the sums receivable in respect of that year (whenever paid), or
+- (b) in the case of sums not receivable in respect of a period, the sums paid during that year.
+
+(5) Sums paid by way of expenses allowance that are charged to United Kingdom income tax after the end of the relevant financial year must be shown in a note to the first accounts in which it is practicable to show them and must be distinguished from the amounts to be shown apart from this provision.
+
+(6) Where it is necessary to do so for the purpose of making any distinction required in complying with this Schedule, the directors may apportion payments between the matters in respect of which they have been paid or are receivable in such manner as they think appropriate.
+
+#### 6. Exclusion of sums liable to be accounted for to company etc.
+
+(1) The amounts to be shown under this Schedule do not include any sums that are to be accounted for—
+
+- (a) to the company or any of its subsidiary undertakings, or
+- (b) by virtue of sections 219 and 222(3) of the 2006 Act (payments in connection with share transfers: duty to account), to persons who sold their shares as a result of the offer made.
+
+(2) Where—
+
+- (a) any such sums are not shown in a note to the accounts for the relevant financial year on the ground that the person receiving them is liable to account for them, and
+- (b) the liability is afterwards wholly or partly released or is not enforced within a period of two years,
+
+those sums, to the extent to which the liability is released or not enforced, must be shown in a note to the first accounts in which it is practicable to show them and must be distinguished from the amounts to be shown apart from this provision.
+
+#### 7. Meaning of “remuneration”
+
+(1) In this Schedule “remuneration” of a director includes—
+
+- (a) salary, fees and bonuses, sums paid by way of expenses allowance (so far as they are chargeable to United Kingdom income tax), and
+- (b) subject to sub-paragraph (2), the estimated money value of any other benefits received by the director otherwise than in cash.
+
+(2) The expression “remuneration” does not include—
+
+- (a) the value of any share options granted to a director or the amount of any gains made on the exercise of any such options,
+- (b) any company contributions paid, or treated as paid, in respect of the director under any pension scheme or any benefits to which the director is entitled under any such scheme, or
+- (c) any money or other assets paid to or received or receivable by the director under any long term incentive scheme.
+
+#### 8. Meaning of “long term incentive scheme”
+
+(1) In this Schedule “long term incentive scheme” means an agreement or arrangement—
+
+- (a) under which money or other assets may become receivable by a director, and
+- (b) which includes one or more qualifying conditions with respect to service or performance which cannot be fulfilled within a single financial year.
+
+(2) For this purpose the following must be disregarded—
+
+- (a) bonuses the amount of which falls to be determined by reference to service or performance within a single financial year,
+- (b) compensation for loss of office, payments for breach of contract and other termination payments, and
+- (c) retirement benefits.
+
+#### 9. Meaning of “shares” and “share option” and related expressions
+
+In this Schedule—
+
+- (a) “shares” means shares (whether allotted or not) in the company, or any undertaking which is a group undertaking in relation to the company, and includes a share warrant as defined by section 779(1) of the 2006 Act, and
+- (b) “share option” means a right to acquire shares.
+
+#### 10. Meaning of “pension scheme” and related expressions
+
+(1) In this Schedule—
+
+- “pension scheme” means a retirement benefits scheme within the meaning given by section 150(1) of the Finance Act 2004 which is—
+  - (a) one in which the company participates, or
+  - (b) one to which the company paid a contribution during the financial year, and
+- “retirement benefits” means relevant benefits within the meaning given by section 393B of the Income Tax (Earnings and Pensions) Act 2003 read as if subsection (2) were omitted.
+
+(2) In this Schedule, “company contributions”, in relation to a pension scheme and a director, means any payments (including insurance premiums) made, or treated as made, to the scheme in respect of the director by a person other than the director.
+
+(3) In this Schedule, in relation to a director—
+
+- “defined benefits” means retirement benefits payable under a pension scheme that are not money purchase benefits,
+- “defined benefit scheme” means a pension scheme that is not a money purchase scheme,
+- “money purchase benefits” means retirement benefits payable under a pension scheme the rate or amount of which is calculated by reference to payments made, or treated as made, by the director or by any other person in respect of the director and which are not average salary benefits, and
+- “money purchase scheme” means a pension scheme under which all of the benefits that may become payable to or in respect of the director are money purchase benefits.
+
+(4) Where a pension scheme provides for any benefits that may become payable to or in respect of any director to be whichever are the greater of—
+
+- (a) money purchase benefits as determined by or under the scheme, and
+- (b) defined benefits as so determined,
+
+the company may assume for the purposes of this paragraph that those benefits will be money purchase benefits, or defined benefits, according to whichever appears more likely at the end of the financial year.
+
+(5) For the purpose of determining whether a pension scheme is a money purchase or defined benefit scheme, any death in service benefits provided for by the scheme are to be disregarded.
+
+#### 11. References to subsidiary undertakings
+
+(1) Any reference in this Schedule to a subsidiary undertaking of the company, in relation to a person who is or was, while a director of the company, a director also, by virtue of the company’s nomination (direct or indirect) of any other undertaking, includes that undertaking, whether or not it is or was in fact a subsidiary undertaking of the company.
+
+(2) Any reference to a subsidiary undertaking of the company—
+
+- (a) for the purposes of paragraph 1 (remuneration etc.) is to an undertaking which is a subsidiary undertaking at the time the services were rendered, and
+- (b) for the purposes of paragraph 2 (compensation for loss of office) is to a subsidiary undertaking immediately before the loss of office as director.
+
+#### 12. Other minor definitions
+
+(1) In this Schedule—
+
+- “net value”, in relation to any assets received or receivable by a director, means value after deducting any money paid or other value given by the director in respect of those assets;
+- “qualifying services”, in relation to any person, means the person’s services as a director of the company, and that person’s services while director of the company—
+  - (a) as director of any of its subsidiary undertakings, or
+  - (b) otherwise in connection with the management of the affairs of the company or any of its subsidiary undertakings.
+
+(2) For the purposes of this Schedule, remuneration paid or receivable or share options granted in respect of a person’s accepting office as a director are treated as emoluments paid or receivable or share options granted in respect of the person’s services as a director.
+
+## SCHEDULE 5 — FEES PAYABLE TO THE REGISTRAR OF COMPANIES[^c-1b6e7cf5017c5303bb215d93531f09db]
 
 Regulation 36
 
-| Matter in relation to which fee is payable | Amount of fee | When payable |
-| --- | --- | --- |
-| Decision under section 36(4) of the 2004 Act as to whether a company is eligible to be formed as a community interest company | £15.00 | On delivery to the registrar under section 10 of the 1985 Act, section 36 of the 2004 Act and regulation 11 of the documents constituting an application to form a community interest company |
-| Decision under section 38(3) of the 2004 Act as to whether a company is eligible to become a community interest company | £15.00 | On delivery to the registrar under section 380 of the 1985 Act, section 37 of the 2004 Act and regulation 12 of the documents constituting an application to the registrar to become a community interest company |
-| Consideration of a community interest company report forwarded by the registrar under section 34(4) of the 2004 Act | £15.00 | On delivery of the report to the registrar |
+<table>
+<thead>
+<tr><th>Matter in relation to which fee is payable</th><th>Amount of fee</th><th colspan="2">When payable</th></tr>
+</thead>
+<tbody>
+<tr><td>Decision under section 36A(1) of the 2004 Act as to whether a company is eligible to be formed as a community interest company</td><td>£15.00</td><td colspan="2">On delivery to the registrar under section 9 of the 2006 Act, section 36 of the 2004 Act and regulation 11 of the documents constituting an application to form a community interest company</td></tr>
+<tr><td>Decision under section 38(1) of the 2004 Act as to whether a company is eligible to become a community interest company</td><td>£15.00</td><td colspan="2">On delivery to the registrar under section 30 of the 2006 Act, section 37 of the 2004 Act and regulation 12 of the documents constituting an application to the registrar to become a community interest company</td></tr>
+<tr><td>Consideration of a community interest company report forwarded by the registrar under section 34(4) of the 2004 Act</td><td>£15.00</td><td colspan="2">On delivery of the report to the registrar</td></tr>
+<tr><td colspan="3"></td><td></td></tr>
+</tbody>
+</table>
 
 (This note is not part of the Regulations)
 
@@ -892,59 +1223,171 @@ The effects that this instrument will have on the costs of business were taken i
 
 [^c-90ff85cd39546c0e3735a96dfd107810]: Commencement: Reg. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^f00002]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
+[^c-02f69ce83c336e84ff9bbef3f244ee64]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) inserted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/3/2)
 
-[^f00003]: Footnote: Section 736 was substituted by section 144(1) of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
+[^c-c70114bf93b3f571f9278126c267c3eb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) omitted (1.10.2009) by virtue of [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/3/3)
+
+[^c-0f1045ffbcc906affa2ba23205bc9cf4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) inserted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 242(2)(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/242/2/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+
+[^c-49d3df53273a377fbadfdbbd9957543b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) omitted (1.10.2014) by virtue of [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
+
+[^c-6ff5534a12c38e0108c431eebb13a0bc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/3/4)
+
+[^c-2c2caca9e55ece345db9d958f54f43ef]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(4)(a)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/4/a)
+
+[^c-e1a42072878f5bd94f868a4fdf67bc37]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 27(b)(ii)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/27/b/ii)
+
+[^c-2837351b22bd28e2f2fd608fa3a6bea7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) inserted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [11(2)](https://www.legislation.gov.uk/uksi/2025/874/regulation/11/2)
+
+[^c-6d5052fe97c55c8efea59706b0e8f5ad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 14](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/14) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^c-ae0f181c00212f5656a48bd4f2bdd9be]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) omitted (6.4.2008) by virtue of [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 242(2)(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/242/2/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+
+[^c-d3ab8ac265c580b41364e06b4a513c8a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 27(d)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/27/d)
+
+[^c-0f435d77054d73012ce49d91e29cca12]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/3/5)
+
+[^c-5c464e1a07ef2c598994e58af5d4d35b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) omitted (1.10.2014) by virtue of [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
+
+[^c-498b955889d17047efab5e8f22271c05]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/2/a)
+
+[^c-b29d91bd35057c70d7f7522012fb719a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 27(f)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/27/f)
+
+[^c-2b427635169848fafe4e1bcac1890ae4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/3/6)
+
+[^c-41609e59fa352ea7eb35e963e4b878ca]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) inserted (7.8.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/3), [21](https://www.legislation.gov.uk/uksi/2018/860/regulation/21)
+
+[^c-366a3551ecf40a2c1e5375afefcd4499]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) inserted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/2/b)
+
+[^c-da0f2e7472bbacc2c342bf6316453a42]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) omitted (1.10.2014) by virtue of [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/3/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
+
+[^c-6fde3ead4db3be96ec32b193ee4637b7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/3/7)
+
+[^c-ee71f4026b74d2974000a9c853dd0729]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) omitted (1.10.2014) by virtue of [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/3/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
+
+[^c-7222c2c6e0404ba77f4cef4b1a5c2f07]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/1788/regulation/2) omitted (1.10.2014) by virtue of [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/3/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
 
 [^c-7273f33d8dfc7e8fd2b640b4433db6d0]: Commencement: Reg. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-d39eee579441df0d32b421d035733a40]: Textual amendment: Words in [reg. 3(1)(a)(i)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/3/1/a/i) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/28)
+
 [^c-d1e0b88587b76a1c00ce033553f88728]: Commencement: Reg. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^c-97160d8612090609381b7600ea6475a2]: Commencement: Reg. 5 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-81f4835142f55f061f2cbe0232cab59a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/1788/regulation/5) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1942/regulation/4)
 
 [^c-60015cd44a93f9851af79ff94334b461]: Commencement: Reg. 6 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^c-b92f71923b3331e58264adcc980a1d3b]: Commencement: Reg. 7 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-fa42ab51b8ab8061aa59e8962777e6ff]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2005/1788/part/2A) inserted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2009/1942/regulation/5)
 
-[^c-00c7b054d6f583893415fd0b69e4cb34]: Commencement: Reg. 8 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-a2cf25e3bdc1214400f7c431dde87fb7]: Textual amendment: Words in [Pt. 2A](https://www.legislation.gov.uk/uksi/2005/1788/part/2A) heading substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(5)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/5)
+
+[^c-e0de0dedc6318b85cff68e12205b7582]: Textual amendment: Words in [reg. 6A](https://www.legislation.gov.uk/uksi/2005/1788/regulation/6A) heading substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(5)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/5)
+
+[^c-ffdc663b375aca1b942b734da400a218]: Textual amendment: Words in [reg. 6A](https://www.legislation.gov.uk/uksi/2005/1788/regulation/6A) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(4)(b)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/4/b)
+
+[^c-5830932637ce40e9dc37d150b8fdfec3]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2005/1788/part/3) heading substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/6/1)
+
+[^c-a9dfc00b98469c9c85669a37dc1fe11c]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/1788/regulation/7) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/1942/regulation/7)
+
+[^c-8c7fe137ea9745365d6c11ef239103ce]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1788/regulation/8) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2009/1942/regulation/8)
 
 [^c-12daf9b7ae09fd79c6be2ee498d75b53]: Commencement: Reg. 9 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-a14a23bf344da3d533ba5b830b76491d]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/9/1) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/29) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
+
 [^c-43634091fd344ab84646c688ea098fd2]: Commencement: Reg. 10 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+
+[^c-98efb156b10476e2bd3c24ee5d2ac0a5]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2005/1788/regulation/10) omitted (1.10.2009) by virtue of [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/6/2)
 
 [^c-96f303f26151cee4cb29c3d1fd4c7978]: Commencement: Reg. 11 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-bf07f1c2e6d8c77b1989562880d4e9ce]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/11/1/a) substituted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [11(3)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/11/3/a)
+
 [^c-b2b0faf8d2522524c928cb289c9f855f]: Commencement: Reg. 12 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+
+[^c-c9b78c2961d679ec4661ee405207bb58]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/12/1/a) substituted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [11(3)(b)](https://www.legislation.gov.uk/uksi/2025/874/regulation/11/3/b)
+
+[^c-f95818d763c3913e88157fe860a616d4]: Textual amendment: [Reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/12/1/c) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 30](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/30)
+
+[^c-4c4e13d8790297b33b568f51deb7e131]: Textual amendment: Word in [reg. 12(1)(c)(i)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/12/1/c/i) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/9/a)
+
+[^c-18c2199f7ea8a834e57499d1b8c0ec57]: Textual amendment: Word in [reg. 12(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/12/1/c/ii) inserted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/9/b)
+
+[^c-08496b2f5ceab57d37e79f40c41c4d8c]: Textual amendment: [Reg. 12(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/12/1/c/iii) inserted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/9/c)
 
 [^c-0386402cd8afcec6deb5921ed7361323]: Commencement: Reg. 13 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-ab50da3c8a03d7083c48c47c4857d3e1]: Textual amendment: Word in [reg. 13](https://www.legislation.gov.uk/uksi/2005/1788/regulation/13) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2009/1942/regulation/10)
+
 [^c-95ff178c437c9dd18393777044791e49]: Commencement: Reg. 14 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^f00004]: Footnote: There are amendments to section 380 of the 1985 Act but none is relevant to these Regulations.
+[^c-a07a13cff68d71c256af4ef29211ec99]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/14/1) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2009/1942/regulation/11)
+
+[^c-b86aa66bef2df002938d9eefa45880dc]: Textual amendment: Word in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/14/2) substituted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [11(3)(c)](https://www.legislation.gov.uk/uksi/2025/874/regulation/11/3/c)
 
 [^c-5d8dc420397cd54fbf63b4ce1b8a0b50]: Commencement: Reg. 15 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^f00005]: Footnote: There are amendments to section 711 of the 1985 Act but none is relevant to these Regulations.
+[^c-a6243752f36338c93e5222dcb635e6f5]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/15/1) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/12/a)
+
+[^c-636812aff5e846512762d5e93e07c096]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/15/2) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/12/b)
+
+[^c-04008afa9068347147bcd164f98d41ff]: Textual amendment: [Reg. 15(6)(a)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/15/6/a)[(b)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/15/6/b) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/12/c)
+
+[^c-dd7929593bdda3d43991306546d3f3a0]: Textual amendment: Words in [reg. 15(6)(c)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/15/6/c) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 32(d)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/32/d)
 
 [^c-d588d87f1bfce354084872a1a4981ccc]: Commencement: Reg. 16 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-4a64b654749da993ea49acb37d81c247]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2005/1788/regulation/16) omitted (6.4.2007) by virtue of [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 33](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/33)
+
+[^c-db3dafabba906eae127305d900945ab3]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2005/1788/regulation/16) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2009/1942/regulation/13)
+
 [^c-4727f76173878d712abfeec6edeb5ccb]: Commencement: Reg. 17 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^c-b5315839a52e2454cc2bb0aced8b0ba0]: Commencement: Reg. 18 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-8a3969de4795426906523e12e08056aa]: Textual amendment: Words in [reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/17/1/a) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2009/1942/regulation/14)
+
+[^c-c4c903131b4108cef2bd76e362918e20]: Textual amendment: [Reg. 17(1)(c)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/17/1/c) substituted (1.10.2014) by [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/2483/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
+
+[^c-021cd21d8e6770fd0a2286771e495f5b]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/1788/regulation/18) revoked (1.10.2014) by [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2014/2483/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
 
 [^c-ed5f6ba83fc2f7c7b76cb990593ee5e4]: Commencement: Reg. 19 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^c-6fa5facb60b553d51bd066dd25f986ae]: Commencement: Reg. 20 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-98f3ebda2eed186d007a6d9299c16dd3]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/1788/regulation/20) revoked (1.10.2014) by [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/2483/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
 
 [^c-189c94136ab207667388463f9fd0b921]: Commencement: Reg. 21 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-b320b6d58f4c2ef01dab0af41060750c]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/21/4) inserted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 35](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/35)
+
 [^c-e757d0226da5e5d8df9c2a3221f4f10c]: Commencement: Reg. 22 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+
+[^c-e8d567d10981c77c1794a1bc7e0755b9]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2005/1788/regulation/22) heading substituted (1.10.2014) by [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/7/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
+
+[^c-13ed8d518740fa6e36da3912c1b45971]: Textual amendment: [Reg. 22(1)(a)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/22/1/a) omitted (1.10.2014) by virtue of [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/7/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
+
+[^c-d4d452e3c70467ffe2e4842b205b9aa0]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/22/3) omitted (1.10.2014) by virtue of [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/7/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
+
+[^c-346f23939a2cc608bdf8019507992e98]: Textual amendment: Words in [reg. 22(4)(b)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/22/4/b) substituted (1.10.2014) by [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/7/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
+
+[^c-e8d53edec84a39230364a4a791cee5d0]: Textual amendment: [Reg. 22(5)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/22/5) omitted (1.10.2014) by virtue of [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/7/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
 
 [^c-d95e4df85e11197c1b71829074e07a64]: Commencement: Reg. 23 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00006]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
+[^c-7cfc5842e367947a2bd420fe00e096aa]: Textual amendment: Words in [reg. 23(1)(a)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/23/1/a) inserted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 36](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/36)
+
+[^c-b9799bd9c58116ebcb065a3e81054624]: Textual amendment: Words in [reg. 23(5)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/23/5) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/15/a)
+
+[^c-014a3539117a5486fa3ee2eb920f7dd6]: Textual amendment: Words in [reg. 23(6)(a)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/23/6/a) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/15/b)
+
+[^c-953b5071f61c8d9af507ceeaa839f7c7]: Textual amendment: Words in [reg. 23(6)(b)(c)(i)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/23/6/b) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/15/c)
+
+[^c-d2dd23e86dfd5a4965aeef3ea73dd705]: Textual amendment: Words in [reg. 23(7)(b)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/23/7/b) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [15(d)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/15/d)
+
+[^c-3341439d1814582b212bc904642c034f]: Textual amendment: Words in [reg. 23(9)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/23/9) inserted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 36](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/36)
+
 [^f00007]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
+
+[^c-f231731cc3604c6700a747d848e780f4]: Textual amendment: Words in [reg. 23(10)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/23/10) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/42) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2)
 
 [^f00008]: Footnote: [2001 asp10](https://www.legislation.gov.uk/asp/2001/10).
 
@@ -954,29 +1397,25 @@ The effects that this instrument will have on the costs of business were taken i
 
 [^c-f46e048cccb77f31fcd7f9d3af7ad583]: Commencement: Reg. 26 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^f00009]: Footnote: Part 1 of Schedule 6 to the 1985 Act was inserted by schedule 4 to the Companies Act 1989. Relevant amending instruments are S.I. [1997/570](https://www.legislation.gov.uk/uksi/1997/570) (regulations 2 to 6), S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) (article 33) and S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) (regulation 10).
+[^c-4b3e2ab9f89061e5f0fe793f0abe3c83]: Textual amendment: [Reg. 26(1)(c)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/26/1/c) substituted (7.8.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/3), [22(a)](https://www.legislation.gov.uk/uksi/2018/860/regulation/22/a)
 
-[^f00010]: Footnote: Section 242 was inserted by section 11 of the Companies Act 1985. It has been amended, but the amendments are not relevant to these Regulations.
+[^c-d4e05684bf3cbffbe97a2157f60e0dfd]: Textual amendment: [Reg. 26(1)(c)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/26/1/c) revoked (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 242(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/242/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/948/schedule/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^c-7346daacce4a45b457efdeadfa9ea897]: Commencement: Reg. 27 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-bb3842b2c3a47b57e07f90ceaec65923]: Textual amendment: [Reg. 26(1A)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/26/1A) inserted (7.8.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/3), [22(b)](https://www.legislation.gov.uk/uksi/2018/860/regulation/22/b)
+
+[^c-2ee9e39cf6aec96c75b8afd15d379721]: Textual amendment: [Reg. 26(3)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/26/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/26/4) inserted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/16/3)
+
+[^c-d45083f07c0015191008bd7ed1ad1d5c]: Textual amendment: [Reg. 26(3)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/26/3) revoked (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 242(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/242/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/948/schedule/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+
+[^c-cb00decc3b28a52b7f0b10c74d2cfec8]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2005/1788/regulation/27) substituted (1.10.2014) by [The Community Interest Company (Amendment) Regulations 2014 (S.I. 2014/2483)](https://www.legislation.gov.uk/uksi/2014/2483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2014/2483/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2483/regulation/1/2))
 
 [^c-cf9f436e44ee298855cd7c0a0e7813a6]: Commencement: Reg. 28 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^c-598fc1d6a4e7938cb87061db58108dae]: Commencement: Reg. 29 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-21b2b4d9feb805f59e05bf47f8bc9729]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2005/1788/regulation/29) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 242(4)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/242/4) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^f00011]: Footnote: Section 234A of the 1985 Act was inserted by section 8(1) of the Companies Act 1989.
+[^c-32f08d6b41623e82990bdd612765bf30]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2005/1788/regulation/29) omitted (1.10.2012) by virtue of [The Community Interest Company (Amendment) Regulations 2012 (S.I. 2012/2335)](https://www.legislation.gov.uk/uksi/2012/2335), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2335/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2335/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2335/regulation/3))
 
-[^f00012]: Footnote: Section 238 of the 1985 Act was inserted by section 10 of the Companies Act 1989. Relevant amending instruments are S.I. [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373) (article 12) and S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) (regulation 10).
-
-[^f00013]: Footnote: Section 239 of the 1985 Act was inserted by section 10 of the Companies Act 1989. Relevant amending instruments are S.I. [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373) (article 13) and S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) (regulation 10).
-
-[^f00014]: Footnote: Section 241 of the 1985 Act was inserted by section 11 of the Companies Act 1989. It has been amended by S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) (regulation 10).
-
-[^f00015]: Footnote: Section 244 of the 1985 Act was inserted by section 11 of the Companies Act 1989. It has been amended by regulation 10 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) and by regulation 9 of S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
-
-[^f00016]: Footnote: Section 245(1) and (2) of the 1985 Act was inserted by section 12 of the Companies Act 1989. Relevant amending instruments are S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) (regulation 10) and S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947) (regulation 10 and paragraph 11 of Schedule 1).
-
-[^f00017]: Footnote: Section 252(1), (2) and (4) of the 1985 Act was inserted by section 16 of the Companies Act 1989.
+[^c-f3baf10ebc04f9c1e7a733d1e8513322]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2005/1788/regulation/29A) inserted (1.10.2012) by [The Community Interest Company (Amendment) Regulations 2012 (S.I. 2012/2335)](https://www.legislation.gov.uk/uksi/2012/2335), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2335/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2335/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2335/regulation/3))
 
 [^c-458de144957eef1b902af2ccc6bd7694]: Commencement: Reg. 30 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
@@ -988,21 +1427,33 @@ The effects that this instrument will have on the costs of business were taken i
 
 [^c-0c622c441c06a15479d66fa7ffa8a219]: Commencement: Reg. 34 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-a0c65a5d554ac09e401ba9209efc2009]: Textual amendment: [Reg. 34(1)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/34/1) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/17/a)
+
 [^f00018]: Footnote: Section 715A of the 1985 Act was inserted by section 127(1) of the Companies Act 1989.
 
-[^f00019]: Footnote: Section 710B of the 1985 Act was inserted by section 30(6) of the Welsh Language Act [1993 (c. 38)](https://www.legislation.gov.uk/ukpga/1993/38).
+[^c-b831cfb9d1a4ceed94c2ea650e49005f]: Textual amendment: [Reg. 34(3)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/34/3) omitted (6.4.2007) by virtue of [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 39(b)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/39/b)
+
+[^c-7dabdf7da3c9e4c80fa0518b49bfd974]: Textual amendment: [Reg. 34(4)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/34/4) omitted (1.10.2009) by virtue of [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/17/b)
 
 [^c-41f0633882a47cf8c74a45869b9745c9]: Commencement: Reg. 35 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^f00020]: Footnote: Section 109 of the Insolvency Act 1986 has been modified in relation to Scotland. By virtue of sub-paragraphs 23(4) and (5) of Schedule 8 to the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (as amended by S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)) anything directed to be done to the registrar of companies in Scotland by virtue of section 109(1) of the Insolvency Act 1986, shall instead be done to the Accountant in Bankruptcy.
 
+[^c-d8c75f63a76a298bc0f93bf22fa892e4]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/35/1) inserted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 40(a)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/40/a)
+
 [^f00021]: Footnote: Section 130 of the Insolvency Act 1986 has been modified in relation to Scotland. By virtue of sub-paragraphs 23(2) and (3) of Schedule 8 to the Scotland Act 1998 (as amended by article 360 of S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)) anything directed to be done to the registrar of companies in Scotland by virtue of section 130(1) of the Insolvency Act 1986, shall also be done to the Accountant in Bankruptcy.
+
+[^c-cc6d08336d4280cfecf78c3665fe5e2e]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/35/2) inserted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 40(b)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/40/b)
 
 [^c-a0f8baf7a4406b68a504bf073dfecb97]: Commencement: Reg. 36 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^c-11a519e22f2eed89a446f3cdeee70cc8]: Commencement: Reg. 37 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^c-5a58d6c87e9f49cbcfc4bb3b1574ca89]: Commencement: Reg. 38 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+
+[^c-c498fd0be1827baaa5fe08a343ba8f35]: Textual amendment: Words in [reg. 38(1)(b)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/38/1/b) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 41](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/41)
+
+[^c-6099463a12afa7eef6376a2a0f1e5b61]: Textual amendment: Word in [reg. 38(5)](https://www.legislation.gov.uk/uksi/2005/1788/regulation/38/5) substituted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [11(3)(d)](https://www.legislation.gov.uk/uksi/2025/874/regulation/11/3/d)
 
 [^c-1f236d7814e6d57377b1549f976e63b9]: Commencement: Reg. 39 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
@@ -1012,38 +1463,94 @@ The effects that this instrument will have on the costs of business were taken i
 
 [^c-06516c19ea079d3da83b0cafdfdb0958]: Commencement: Reg. 42 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-ccdee05268a4dd634a4a25eb9ada5516]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1) heading omitted (1.10.2009) by virtue of [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2009/1942/regulation/18)
+
 [^c-3272752686add750ff91864614308425]: Commencement: Sch. 1 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^f00022]: Footnote: [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10).
+[^c-38e6ebb05c8c8fc71c3f32658d0e4962]: Textual amendment: Words in [Sch. 1 para. 1(4)(a)(i)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/1/4/a/i) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2009/1942/regulation/19)
 
-[^f00023]: Footnote: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40).
+[^c-8c8ba45c306dbf33c8ed0e75d315bb23]: Textual amendment: Words in [Sch. 1 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/1/4/a) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(4)(c)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/4/c)
+
+[^c-cb9afa92dc508ca76d2dc30bedd75e4a]: Textual amendment: Words in [Sch. 1 para. 1(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/1/4/a/ii) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 42(b)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/42/b) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
+
+[^c-8e9c22aad0443ce5e8509c83f29c4af0]: Textual amendment: [Sch. 1 para. 1(4)(ba)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/1/4/ba)[(bb)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/1/4/bb) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1) [para. 1(4)(ba)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/1/4/ba) (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/3)
+
+[^c-22e52c40be6c2401ecf1d486b83bb78a]: Textual amendment: [Sch. 1 para. 1(4)(c)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/1/4/c) omitted (6.4.2007) by virtue of [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 42(c)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/42/c) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
+
+[^c-388c049e99b368eaea1dcffb444fa117]: Textual amendment: [Sch. 1 para. 1(4)(e)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/1/4/e) omitted (6.4.2007) by virtue of [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 42(c)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/42/c) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
 
 [^c-39ca1eec717f0ccf7f6104f12433e372]: Commencement: Sch. 1 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^c-10e00edef96db680c2f0a8f1f472b10d]: Commencement: Sch. 1 para. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^f00024]: Footnote: Section 223 of the 1985 Act was inserted by section 3 of the Companies Act 1989.
+[^c-c2104f00489c84ee60136090078e0aab]: Textual amendment: [Sch. 1 para. 3(2)-(5)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/3/2) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2009/1942/regulation/21)
 
 [^c-05e19aa96848f325643043904bb483e6]: Commencement: Sch. 1 para. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-8e08d739c41c9c90b89e2f0a9f6d4c56]: Textual amendment: Words in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/4/1) omitted (1.10.2009) by virtue of [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [22(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/22/1)
+
+[^c-7eba26d35d5c63584150d0ea805f3267]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/1/paragraph/4/2) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/22/2)
+
+[^c-292b6953115d6da69ed3200590ea9de4]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2) heading omitted (1.10.2009) by virtue of [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2009/1942/regulation/18)
+
 [^c-0eff14ba3418efdf3ec90eab0ab8a951]: Commencement: Sch. 2 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+
+[^c-5982eb8f141b24bdc1cf98932d843dad]: Textual amendment: Words in [Sch. 2 para. 1(4)(a)(i)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/1/4/a/i) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2009/1942/regulation/19)
+
+[^c-35441bb812f13477a118cff56bea3784]: Textual amendment: Words in [Sch. 2 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/1/4/a) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(4)(c)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/4/c)
+
+[^c-4cbd73a464ae9fd37ca8082e6d3e1205]: Textual amendment: Words in [Sch. 2 para. 1(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/1/4/a/ii) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 43(b)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/43/b) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
+
+[^c-5082efd11620c4245764b09f2c641ec5]: Textual amendment: [Sch. 2 para. 1(4)(ba)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/1/4/ba)[(bb)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/1/4/bb) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2) [para. 1(4)(ba)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/1/4/ba) (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/3)
+
+[^c-a48bff130563268fb26d4da90a59abed]: Textual amendment: [Sch. 2 para. 1(4)(c)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/1/4/c) omitted (6.4.2007) by virtue of [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 43(c)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/43/c) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
+
+[^c-5efd83156136f566021f0557ab5bbfcc]: Textual amendment: [Sch. 2 para. 1(4)(e)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/1/4/e) omitted (6.4.2007) by virtue of [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 43(c)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/43/c) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
 
 [^c-8d9526edd3ef7cc31b421fd626833de1]: Commencement: Sch. 2 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^c-3410e1bc68d28c00e5630a6238a9680a]: Commencement: Sch. 2 para. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-e6186449e1582fe45c8719099aa64d36]: Textual amendment: [Sch. 2 para. 3(2)-(5)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/3/2) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2009/1942/regulation/21)
+
 [^c-b3bfe8c73467cb6d1d51c4625b0cbad2]: Commencement: Sch. 2 para. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-af0fcdd82c54868cbed047a175c9eeca]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/4/1) omitted (1.10.2009) by virtue of [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [22(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/22/1)
+
+[^c-09975e27ee74ce3481e627e75f8191aa]: Textual amendment: [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/2/paragraph/4/2) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/22/2)
+
+[^c-7def4e23aa0d3ee10936c04ba623d45d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3) heading omitted (1.10.2009) by virtue of [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2009/1942/regulation/18)
+
 [^c-ca1fd1567c6dbe30fcc663e936629cad]: Commencement: Sch. 3 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+
+[^c-8a73beb89d530b1b0d9d7631c716d883]: Textual amendment: Words in [Sch. 3 para. 1(4)(a)(i)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/1/4/a/i) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2009/1942/regulation/19)
+
+[^c-b5142d473fb1b58ffd9ede9591d5be9b]: Textual amendment: Words in [Sch. 3 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/1/4/a) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(4)(c)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/4/c)
+
+[^c-beef36bce58e8f5996b2fbd391050f28]: Textual amendment: Words in [Sch. 3 para. 1(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/1/4/a/ii) substituted (6.4.2007) by [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 44(b)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/44/b) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
+
+[^c-12b3cd68c77420c2e260d9afee9d267e]: Textual amendment: [Sch. 3 para. 1(4)(ba)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/1/4/ba)[(bb)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/1/4/bb) substituted for [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3) [para. 1(4)(ba)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/1/4/ba) (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/16/3)
+
+[^c-102d9e29cf5ed6d4a297e17d3ee2b4b1]: Textual amendment: [Sch. 3 para. 1(4)(c)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/1/4/c) omitted (6.4.2007) by virtue of [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 44(c)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/44/c) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
+
+[^c-c9b61dc97a44b6b827beb787d9e370bd]: Textual amendment: [Sch. 3 para. 1(4)(e)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/1/4/e) omitted (6.4.2007) by virtue of [The Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/1093)](https://www.legislation.gov.uk/uksi/2007/1093), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1093/article/1/3), [Sch. 4 para. 44(c)](https://www.legislation.gov.uk/uksi/2007/1093/schedule/4/paragraph/44/c) (with [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2007/1093/schedule/6/paragraph/4))
 
 [^c-162eb28af5aaa564611068c32aa7d208]: Commencement: Sch. 3 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^c-bfaf3bb1f9ff071f64977d7c75cbb4f2]: Commencement: Sch. 3 para. 3 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
+[^c-a63be9c89bca8ff07b0c41fd1107d8ce]: Textual amendment: [Sch. 3 para. 3(2)-(5)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/3/2) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2009/1942/regulation/21)
+
 [^c-0004c0adfcfb9aa2700edffbc338e686]: Commencement: Sch. 3 para. 4 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+
+[^c-3b5db42127cb381692c07a1ae4f1693d]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/4/1) omitted (1.10.2009) by virtue of [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [22(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/22/1)
+
+[^c-f6509ceadb562a209c2211f52c6a9512]: Textual amendment: [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2005/1788/schedule/3/paragraph/4/2) revoked (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/22/2)
 
 [^c-e052fe6fcbd85c7a0b630284b30caea0]: Commencement: Sch. 4 para. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
 [^c-ee79e1abe84fae41dc8fc8551644381c]: Commencement: Sch. 4 para. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
 
-[^c-fc6f0fd21e34bd4023cd2f48f7ade6b8]: Commencement: Sch. 5 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1788/regulation/1)
+[^c-700931e65c24c52849263dc32a1eecab]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2005/1788/schedule/4A) inserted (7.8.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2018/860/schedule)
+
+[^c-1b6e7cf5017c5303bb215d93531f09db]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1788/schedule/5) substituted (1.10.2009) by [The Community Interest Company (Amendment) Regulations 2009 (S.I. 2009/1942)](https://www.legislation.gov.uk/uksi/2009/1942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1942/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2009/1942/regulation/23)

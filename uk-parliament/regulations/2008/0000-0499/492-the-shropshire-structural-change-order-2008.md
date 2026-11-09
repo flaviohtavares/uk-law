@@ -3,14 +3,14 @@ title: The Shropshire (Structural Change) Order 2008
 id: uksi/2008/492
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-25'
-text_date: null
-extent: null
+text_date: '2008-02-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/492
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/492/pdfs/uksi_20080492_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/492/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/492/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Shropshire (Structural Change) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-02-26. See https://www.legislation.gov.uk/changes/affected/uksi/2008/492
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 492
 
@@ -50,11 +54,11 @@ The Secretary of State for Communities and Local Government makes this Order in 
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-a59fa642355bee9e5fac9444c30db984]
 
 This Order may be cited as the Shropshire (Structural Change) Order 2008 and shall come into force on the day after that on which it is made.
 
-### 2. Interpretation
+### 2. Interpretation[^c-51a64c8f75e81018a4a40d1621ec0d00]
 
 In this Order—
 
@@ -71,13 +75,13 @@ In this Order—
 
 ## PART 2 — ESTABLISHMENT OF SINGLE TIER LOCAL GOVERNMENT IN SHROPSHIRE
 
-### 3. Single tier local government in Shropshire
+### 3. Single tier local government in Shropshire[^c-ace43714af687441f6a2b7546adffed3]
 
 (1) On and after 1st April 2009 the Shropshire council shall be the sole principal authority for Shropshire.
 
 (2) For the purposes of enactments relating to local government, there shall be a new district, whose area shall be co-terminous with that of Shropshire; and the name of that new district shall be Shropshire.
 
-### 4. Abolition of districts and winding up and dissolution of district councils
+### 4. Abolition of districts and winding up and dissolution of district councils[^c-3e8f366fb9d07ae28a5cb28550d97a43]
 
 On 1st April 2009—
 
@@ -94,13 +98,13 @@ On 1st April 2009—
   - (iv) North Shropshire District Council, and
   - (v) South Shropshire District Council.
 
-### 5. Cessation of term of office of district councillors
+### 5. Cessation of term of office of district councillors[^c-468832eac591911f160960e45b1f8023]
 
 Every person who holds office as a councillor of one of the district councils immediately before 1st April 2009 shall cease to hold office on that date.
 
 ## PART 3 — TRANSITIONAL FUNCTIONS AND THEIR DISCHARGE
 
-### 6. Transitional functions of the Shropshire council and establishment of Implementation Executive
+### 6. Transitional functions of the Shropshire council and establishment of Implementation Executive[^c-9cb271c169b160397335bf4e877a6872]
 
 (1) On the coming into force of this Order there shall be added to the functions of the Shropshire council the function, which is to be exercisable only during the transitional period ending on the fourth day after the 2009 election day, of preparing for and facilitating the economic, effective, efficient and timely transfer of the district councils’ functions, property, rights and liabilities (“the main transitional function”).
 
@@ -145,7 +149,7 @@ as if, in subsection (1), after the words “19 or 20,” there were inserted �
 
 (11) In paragraph (5)(e) “Independent”, in relation to a person, means that the person is not a member of any registered party within the meaning of the Political Parties, Elections and Referendums Act 2000[^f00006].
 
-### 7. Other transitional functions
+### 7. Other transitional functions[^c-68f8abf0b700530ad5d764efeaf61df4]
 
 (1) The other transitional functions referred to in article 6(2)(b), which are to be exercisable only during the transitional period ending on the fourth day after the 2009 election day, are—
 
@@ -161,7 +165,7 @@ as, by any of the means mentioned in paragraph (2), the Secretary of State may s
 - (c) an order under section 20 of the 2007 Act (correction of orders), and
 - (d) regulations under section 14 of the 2007 Act (regulations for supplementing orders).
 
-### 8. Discharge of functions by Implementation Executive
+### 8. Discharge of functions by Implementation Executive[^c-639b7f6479c1f927d9b8f3d9f5b51423]
 
 (1) The discharge of the main transitional function and the article 7 functions shall be a responsibility of the Implementation Executive, and shall not be a responsibility of the executive of the Shropshire council.
 
@@ -200,7 +204,7 @@ as, by any of the means mentioned in paragraph (2), the Secretary of State may s
 
 (9) Any joint committee established as mentioned in paragraph (6) shall be dissolved on 1st April 2009.
 
-### 9. Implementation Plan and further provisions relevant to discharge of functions by Implementation Executive
+### 9. Implementation Plan and further provisions relevant to discharge of functions by Implementation Executive[^c-4683953b684b64fcd5ba77c2e1ed847f]
 
 (1) The Implementation Executive shall prepare, keep under review, and revise as necessary, an Implementation Plan which shall include—
 
@@ -224,7 +228,7 @@ require the council referred to in the notice to take such action relevant to th
 
 (4) In paragraph (3), “the proper officer”, means the officer appointed by the Shropshire council or the district council concerned (as the case may be) for the purpose of receiving such notices.
 
-### 10. Implementation Team
+### 10. Implementation Team[^c-f3ceedefa1d45adb95288420067adb21]
 
 (1) Not later than 21 days after the coming into force of this Order the Implementation Executive shall form a team of officers for the purpose of assisting the Executive in the discharge of the main transitional function and the article 7 functions (“the Implementation Team”).
 
@@ -236,7 +240,7 @@ require the council referred to in the notice to take such action relevant to th
 
 ## PART 4 — DUTIES OF THE SHROPSHIRE COUNCIL AND THE DISTRICT COUNCILS RELEVANT TO TRANSITION
 
-### 11. General transitional duties of the Shropshire council and the district councils
+### 11. General transitional duties of the Shropshire council and the district councils[^c-0ea9727cc91ce219c91c7cda3b30bf92]
 
 (1) It shall be the duty of the Shropshire council and the district councils—
 
@@ -255,7 +259,7 @@ require the council referred to in the notice to take such action relevant to th
 
 ## PART 5 — ELECTORAL MATTERS
 
-### 12. Cancellation of district council elections in 2008, etc
+### 12. Cancellation of district council elections in 2008, etc[^c-13287d44bd2a63405a3842c1252e6868]
 
 (1) Notwithstanding section 7(8) and (9) of the 1972 Act (elections of councillors)—
 
@@ -264,7 +268,7 @@ require the council referred to in the notice to take such action relevant to th
 
 (2) Nothing in section 89 of the 1972 Act (filling of casual vacancies in case of councillors) shall authorise the holding of an election to fill a casual vacancy in the office of councillor of any of the district councils where that vacancy arises after 30th September 2008 and before 1st April 2009.
 
-### 13. Cancellation of parish council elections, etc
+### 13. Cancellation of parish council elections, etc[^c-05152c962b9e8fd0bfcfab551ff2855c]
 
 (1) Notwithstanding section 16(3) of the 1972 Act (election of parish councillors)—
 
@@ -303,7 +307,7 @@ require the council referred to in the notice to take such action relevant to th
 
 ## PART 6 — AMENDMENT OF ORDER
 
-### 14. Amendment of Order
+### 14. Amendment of Order[^c-42c025db321dd42a485ea4318ab164c6]
 
 The Borough of Shrewsbury and Atcham (Electoral Changes) Order 2000[^f00018] is amended, in article 4, by the omission of paragraphs (2), (4) and (5).
 
@@ -365,19 +369,45 @@ A full impact assessment has been produced for this and other orders that provid
 
 [^f00002]: Footnote: *See* section 7(4) as to authorities “affected by” a proposal for the purposes of that section.
 
+[^c-a59fa642355bee9e5fac9444c30db984]: Commencement: Art. 1 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
+[^c-51a64c8f75e81018a4a40d1621ec0d00]: Commencement: Art. 2 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
 [^f00003]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Relevant amendments are made by Part 3 of the Local Government and Public Involvement in Health Act 2007, but see paragraph 2 of Schedule 4 to that Act for transitional provisions relevant to the Shropshire council.
 
 [^f00004]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00005]: Footnote: *See* section 37 of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
+[^c-ace43714af687441f6a2b7546adffed3]: Commencement: Art. 3 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
+[^c-3e8f366fb9d07ae28a5cb28550d97a43]: Commencement: Art. 4 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
+[^c-468832eac591911f160960e45b1f8023]: Commencement: Art. 5 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
+[^c-9cb271c169b160397335bf4e877a6872]: Commencement: Art. 6 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
 [^f00006]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). *See* the definition in section 160(1), and Part 2 of the Act.
+
+[^c-68f8abf0b700530ad5d764efeaf61df4]: Commencement: Art. 7 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
 
 [^f00007]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
+[^c-639b7f6479c1f927d9b8f3d9f5b51423]: Commencement: Art. 8 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
+[^c-4683953b684b64fcd5ba77c2e1ed847f]: Commencement: Art. 9 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
 [^f00008]: Footnote: The guidance was published by the Department for Communities and Local Government. Copies of the guidance may be obtained from Communities and Local Government Publications, PO Box 236, Wetherby, West Yorkshire, LS23 7NB, quoting Product Code 06 LGSRU 04198 (Tel: 08701 226 236; Email: communities@twoten.com or online at www.communities.gov.uk).
 
+[^c-f3ceedefa1d45adb95288420067adb21]: Commencement: Art. 10 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
+[^c-0ea9727cc91ce219c91c7cda3b30bf92]: Commencement: Art. 11 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
+[^c-13287d44bd2a63405a3842c1252e6868]: Commencement: Art. 12 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
+
 [^f00009]: Footnote: Under section 7(9) of the Local Government Act 1972, the term of office of councillors of non-metropolitan district councils is four years.
+
+[^c-05152c962b9e8fd0bfcfab551ff2855c]: Commencement: Art. 13 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
 
 [^f00010]: Footnote: Under section 16(3) of the Local Government Act 1972, the term of office of parish councillors is four years.
 
@@ -394,5 +424,7 @@ A full impact assessment has been produced for this and other orders that provid
 [^f00016]: Footnote: Under section 16(3) of the Local Government Act 1972, the term of office of parish councillors is four years.
 
 [^f00017]: Footnote: Under section 16(3) of the Local Government Act 1972, the term of office of parish councillors is four years.
+
+[^c-42c025db321dd42a485ea4318ab164c6]: Commencement: Art. 14 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/492/article/1)
 
 [^f00018]: Footnote: [S.I. 2000/1725](https://www.legislation.gov.uk/uksi/2000/1725).

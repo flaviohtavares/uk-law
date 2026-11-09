@@ -3,16 +3,16 @@ title: The Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Ord
 id: uksi/2008/473
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-28'
-text_date: null
-extent: null
+text_date: '2008-02-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/473
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/473/pdfs/uksiem_20080473_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/473/pdfs/uksi_20080473_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/473/made/data.pdf
-pending_changes: 14
+- http://www.legislation.gov.uk/uksi/2008/473/data.pdf
+pending_changes: 18
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (18).** Text as at 2008-02-28. See https://www.legislation.gov.uk/changes/affected/uksi/2008/473
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 473
 
@@ -44,7 +50,7 @@ Coming into force
 
 The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by sections 61(5) and 64(1) of, and paragraphs 2 and 3 of Schedule 8 to, the Safeguarding Vulnerable Groups Act 2006[^f00001]:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-3b9e603d804cd62485f506489f783301]
 
 (1) This Order may be cited as the Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008 and comes into force on 7th April 2008.
 
@@ -58,7 +64,7 @@ The Secretary of State for Children, Schools and Families makes the following Or
 - “disqualification order” means an order under section 28, 29 or 29A of the 2000 Act[^f00006];
 - “Tribunal” means the Tribunal established under section 9[^f00007] of the 1999 Act.
 
-## 2. Inclusion in the children’s barred list: persons disqualified from working with children
+## 2. Inclusion in the children’s barred list: persons disqualified from working with children[^c-04e4f437e9c2ce066189d76028ac4ba3]
 
 (1) This article applies to a person, other than a person to whom article 3(1) applies, (“X”)—
 
@@ -112,7 +118,7 @@ The Secretary of State for Children, Schools and Families makes the following Or
 
 (7) Paragraph (2)(b) does not apply to a person if any of the criteria prescribed for the purposes of paragraph 1 of Schedule 3 to the Act as it has effect for the purposes of this paragraph is satisfied in relation to that person.
 
-## 3. Inclusion in the children’s barred list: other persons prohibited from teaching etc.
+## 3. Inclusion in the children’s barred list: other persons prohibited from teaching etc.[^c-88bf8b15ef46519630e8a28249c34e81]
 
 (1) This article applies to a person (“Y”)—
 
@@ -127,7 +133,7 @@ The Secretary of State for Children, Schools and Families makes the following Or
 
 (2) IBB must consider including Y in the children’s barred list in accordance with paragraphs 3 to 5 of Schedule 3 to the Act.
 
-## 4. Inclusion in the adults’ barred list: persons considered unsuitable to work with vulnerable adults
+## 4. Inclusion in the adults’ barred list: persons considered unsuitable to work with vulnerable adults[^c-e7d5cf971d37ce6cf8c1c04530aea519]
 
 (1) This article applies to a person (“X”)—
 
@@ -198,6 +204,8 @@ Articles 2(3) and 4(3) provide that regulation 2 of the Safeguarding Vulnerable 
 
 [^f00001]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
+[^c-3b9e603d804cd62485f506489f783301]: Commencement: Art. 1 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/473/article/1/1)
+
 [^f00002]: Footnote: [1999 c.14](https://www.legislation.gov.uk/ukpga/1999/14).
 
 [^f00003]: Footnote: [2000 c.43](https://www.legislation.gov.uk/ukpga/2000/43).
@@ -209,6 +217,8 @@ Articles 2(3) and 4(3) provide that regulation 2 of the Safeguarding Vulnerable 
 [^f00006]: Footnote: Section 29A was inserted by paragraph 2 of Schedule 30 to the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
 [^f00007]: Footnote: Section 9 was amended by paragraph 26(3) of Schedule 4 to the Care Standards Act 2000 (“CSA”), paragraphs 154 and 157(a) and (d) of Part 2 of Schedule 7 to the Criminal Justice and Court Services Act 2000 (“the 2000 Act”), paragraph 6 of Schedule 14 and paragraph 122 of Schedule 21 to the Education Act 2002 (“the 2002 Act”), paragraph 23 of Schedule 9 and Part 1 of Schedule 19 to the Education Act [2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18), paragraph 38(b) of Schedule 2 to the Childcare Act [2006 (c.21)](https://www.legislation.gov.uk/ukpga/2006/21), section 170(3) of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), and paragraph 8(3)(b)(ii) of Schedule 9 to the Safeguarding Vulnerable Groups Act 2006 (“the Act”). It was repealed in part by Part 3 of Schedule 22 to the 2002 Act, paragraph 38(a) of Schedule 2 and Part 2 of Schedule 3 to the Childcare Act 2006, and is to be further repealed by paragraph 8(3)(a), (b)(i) and (iii) and (c) of Schedule 9, and Schedule 10, to the Act. The amendments and repeals made under the Education and Inspections Act 2006 and the Act were not in force on the making of these Regulations.
+
+[^c-04e4f437e9c2ce066189d76028ac4ba3]: Commencement: Art. 2 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/473/article/1/1)
 
 [^f00008]: Footnote: Section 1 was amended by sections 95 to 98 of the CSA.
 
@@ -225,6 +235,10 @@ Articles 2(3) and 4(3) provide that regulation 2 of the Safeguarding Vulnerable 
 [^f00014]: Footnote: See section 60(1) of the Act for the meaning of the children’s barred list. Although X is included in the children’s barred list, X will not be barred from engaging in regulated activity in relation to children until section 3(2) of the Act comes into force. X will remain subject to the current restrictions until the provisions repealing the restrictions are brought into force subject to any savings.
 
 [^f00015]: Footnote: [S.I. 2008/474](https://www.legislation.gov.uk/uksi/2008/474).
+
+[^c-88bf8b15ef46519630e8a28249c34e81]: Commencement: Art. 3 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/473/article/1/1)
+
+[^c-e7d5cf971d37ce6cf8c1c04530aea519]: Commencement: Art. 4 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/473/article/1/1)
 
 [^f00016]: Footnote: A person included in the list kept under section 81 of the CSA may appeal to the Tribunal under section 86 or apply to the Tribunal under section 87 to be removed from the list.
 

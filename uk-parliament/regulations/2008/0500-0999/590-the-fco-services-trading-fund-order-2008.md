@@ -3,15 +3,15 @@ title: The FCO Services Trading Fund Order 2008
 id: uksi/2008/590
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-03'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/590
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/590/pdfs/uksiem_20080590_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/590/pdfs/uksi_20080590_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/590/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/590/data.pdf
 pending_changes: 9
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The FCO Services Trading Fund Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (9).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/590
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 590
 
@@ -51,21 +55,21 @@ Whereas:
 
 Accordingly, the Secretary of State in exercise of the powers conferred by sections 1, 2, 2AA(1) and (2), 2A(1) and 2C(1) of the 1973 Act, with the concurrence of the Treasury, makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-fcc5883e471bee1691272d6387c2cb6f]
 
 This Order may be cited as the FCO Services Trading Fund Order 2008 and shall come into force on 1st April 2008.
 
-## 2. Establishment of the Fund
+## 2. Establishment of the Fund[^c-99a3e4efc852ed0aebad2c12f7202fea]
 
 (1) A trading fund, to be known as the FCO Services Trading Fund (“the fund”), shall be established from 1st April 2008 for the operations of the Foreign and Commonwealth Office undertaken by FCO Services from that date.
 
 (2) The operations of FCO Services described in Schedule 1 shall be financed by means of the fund.
 
-## 3. Source of loans
+## 3. Source of loans[^c-92a080c4aa8a024cc3acfc742170d01d]
 
 The Secretary of State for Foreign and Commonwealth Affairs is designated as the source of issues to the fund by way of loan.
 
-## 4. Assets, liabilities, reserves and public dividend capital
+## 4. Assets, liabilities, reserves and public dividend capital[^c-5345d6fa95c9a0aa2729747c30f2d277]
 
 (1) The Crown assets and liabilities set out in Schedule 2 shall be appropriated as assets and liabilities of the fund.
 
@@ -73,7 +77,7 @@ The Secretary of State for Foreign and Commonwealth Affairs is designated as the
 
 (3) The sum of £3,204,000, being part of the amount by which the value of those assets exceeds the amount of those liabilities shall be treated as public dividend capital.
 
-## 5. Maximum borrowing etc.
+## 5. Maximum borrowing etc.[^c-319f48b4b31f47da3f1d8e62ca18f656]
 
 The aggregate of the following shall not exceed £30,000,000—
 
@@ -98,7 +102,7 @@ Two of the Lords’ Commissioners of Her Majesty’s Treasury
 
 3rd March 2008
 
-## SCHEDULE 1 — FUNDED OPERATIONS
+## SCHEDULE 1 — FUNDED OPERATIONS[^c-79cf8a27b1cc5c3e1d274532b4354b1c]
 
 Article 2(2)
 
@@ -137,3 +141,15 @@ A report setting out the results of a consultation exercise and an impact assess
 ## Annotations
 
 [^f00001]: Footnote: [1973 c.63](https://www.legislation.gov.uk/ukpga/1973/63), as amended by the Government Trading Act [1990 (c.30)](https://www.legislation.gov.uk/ukpga/1990/30). The 1973 Act, as amended, is set out in Schedule 1 to the 1990 Act. The 1973 Act was further amended by section 119 of the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), Schedule 22 to the Finance Act [1993 (c.34)](https://www.legislation.gov.uk/ukpga/1993/34), section 29 of the Government Resource and Accounts Act [2000 (c. 20)](https://www.legislation.gov.uk/ukpga/2000/20), and by section 108 of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9).
+
+[^c-fcc5883e471bee1691272d6387c2cb6f]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/590/article/1)
+
+[^c-99a3e4efc852ed0aebad2c12f7202fea]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/590/article/1)
+
+[^c-92a080c4aa8a024cc3acfc742170d01d]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/590/article/1)
+
+[^c-5345d6fa95c9a0aa2729747c30f2d277]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/590/article/1)
+
+[^c-319f48b4b31f47da3f1d8e62ca18f656]: Commencement: Art. 5 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/590/article/1)
+
+[^c-79cf8a27b1cc5c3e1d274532b4354b1c]: Commencement: Sch. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/590/article/1)

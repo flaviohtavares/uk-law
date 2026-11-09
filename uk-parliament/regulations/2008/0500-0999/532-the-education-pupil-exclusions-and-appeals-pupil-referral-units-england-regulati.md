@@ -3,16 +3,16 @@ title: The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Engl
 id: uksi/2008/532
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-26'
-text_date: null
-extent: null
+text_date: '2008-02-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/532
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/532/pdfs/uksiem_20080532_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/532/pdfs/uksi_20080532_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/532/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/532/data.pdf
+pending_changes: 30
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (30).** Text as at 2008-02-26. See https://www.legislation.gov.uk/changes/affected/uksi/2008/532
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 532
 
@@ -44,13 +50,13 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 In accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00002], he has consulted with the Administrative Justice and Tribunals Council.
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-beb8a2da36a0ea8740cc2a0c1d94f638]
 
 (1) These Regulations may be cited as the Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (England) Regulations 2008 and come into force on 1st April 2008.
 
 (2) These Regulations apply only in relation to England.
 
-## 2. Interpretation
+## 2. Interpretation[^c-d0902c00eb78530666faae67630bac2c]
 
 (1) In these Regulations—
 
@@ -63,15 +69,15 @@ In accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00002], h
 
 (2) Any exclusion for a fixed period consisting of the period between the morning and afternoon school sessions shall for the purposes of these Regulations be taken as equivalent to half a school day.
 
-## 3. Responsible body
+## 3. Responsible body[^c-c36dc03f54f828ea9e968c7370a70723]
 
 For the purposes of section 52(5) of the 2002 Act, the management committee of a pupil referral unit is prescribed as the responsible body.
 
-## 4. Power of teacher in charge to exclude pupils
+## 4. Power of teacher in charge to exclude pupils[^c-ea4977275a95c165b87dcd9666a789b3]
 
 The teacher in charge of a pupil referral unit may not exercise the power under section 52(2) of the 2002 Act so as to exclude a pupil from the pupil referral unit for one or more fixed periods if, as a result, the pupil would be excluded for more than 45 school days in any one school year.
 
-## 5. Exclusion of pupils : duty to inform parents, management committee and local education authority
+## 5. Exclusion of pupils : duty to inform parents, management committee and local education authority[^c-8dcfb944e80876a7f69ce88c5c2d13bc]
 
 (1) Where the teacher in charge of a pupil referral unit excludes any pupil for a fixed period, the teacher in charge shall, as soon as practicable, inform the relevant person of the following matters—
 
@@ -112,7 +118,7 @@ the teacher in charge shall, as soon as practicable, inform the local education 
 
 (7) For the purposes of paragraph (5)(b)(ii), if a reference date does not fall during a term, the reference to the term during which the reference date falls is to be taken as a reference to the term which last preceded that date.
 
-## 6. Functions of management committee in relation to excluded pupils
+## 6. Functions of management committee in relation to excluded pupils[^c-997c0d121318a5ecb00efcbc37243bb9]
 
 (1) Paragraphs (2) to (6) apply where the management committee is informed under regulation 5(2) or (3) of—
 
@@ -184,7 +190,7 @@ after the date on which they were informed of the matters referred to in regulat
 - (a) by delivering it to the relevant person’s last known address, or
 - (b) by properly addressing, pre-paying and sending by first class post to the relevant person’s last known address a letter containing the notice.
 
-## 7. Appeals against permanent exclusion of pupils
+## 7. Appeals against permanent exclusion of pupils[^c-53c1f7afaf69fa0d20a4caf5c5ba9377]
 
 (1) A local education authority shall make arrangements for enabling the relevant person to appeal against any decision of the management committee under regulation 6 not to reinstate a pupil who has been permanently excluded from a pupil referral unit maintained by the authority.
 
@@ -202,7 +208,7 @@ after the date on which they were informed of the matters referred to in regulat
 - (b) direct that the pupil is to be reinstated (either immediately or by a date specified in the direction), or
 - (c) decide that because of exceptional circumstances or for other reasons it is not practical to give a direction requiring his reinstatement, but that it would otherwise have been appropriate to give such a direction.
 
-## 8. Exclusion of pupils : guidance
+## 8. Exclusion of pupils : guidance[^c-10a95512d793c20185ad21d665d92551]
 
 (1) This regulation applies to any functions of—
 
@@ -215,7 +221,7 @@ under section 52(2) of the 2002 Act or these Regulations.
 
 (2) In discharging any such function, such a person or body shall have regard to any guidance given from time to time by the Secretary of State.
 
-## 9. Exclusions : standard of proof
+## 9. Exclusions : standard of proof[^c-eaa07addb59b0912f6dcd1eceaa2b33b]
 
 Where it falls to —
 
@@ -225,11 +231,11 @@ Where it falls to —
 
 to establish any fact, any question as to whether that fact is established shall be decided on a balance of probabilities.
 
-## 10. Information
+## 10. Information[^c-d82daea25ff71d6738be49500b37a873]
 
 A local education authority shall give to the Secretary of State at his request any information they have received from a teacher in charge under regulation 5.
 
-## 11. Revocation and transitional provisions
+## 11. Revocation and transitional provisions[^c-c98eb281ae4f72cc7a5faedd7b844ca8]
 
 (1) The following provisions are revoked.
 
@@ -255,7 +261,7 @@ Department for Children, Schools and Families
 
 Regulation 7
 
-### 1. Time limits and notices waiving right to appeal
+### 1. Time limits and notices waiving right to appeal[^c-c8f7197264b8c51a9e0213d2f5650d90]
 
 (1) No appeal under regulation 7(1) against a decision not to reinstate a pupil may be made after the fifteenth school day after the day on which the relevant person is given notice in writing under regulation 6(6)(b).
 
@@ -268,7 +274,7 @@ unless in either case the contrary is shown.
 
 (3) Any notice in writing given by the relevant person to the local education authority which states that he does not intend to appeal against a decision not to reinstate the pupil shall be final.
 
-### 2. Constitution of appeal panels
+### 2. Constitution of appeal panels[^c-7b0c6905743c5b0e70e480153765f02b]
 
 (1) An appeal pursuant to arrangements made by a local education authority under regulation 7(1) shall be to an appeal panel constituted in accordance with this paragraph.
 
@@ -315,13 +321,13 @@ the panel may continue with their consideration and determination of the appeal 
 
 (10) An appeal panel shall be chaired by the person appointed as a lay member.
 
-### 3. Clerks to appeal panels
+### 3. Clerks to appeal panels[^c-b09888edf309e03a0c237458a9cf2886]
 
 (1) A local education authority may appoint a clerk to assist the members of an appeal panel.
 
 (2) No person shall serve as a clerk to an appeal panel unless he satisfies the training requirements of paragraph 4.
 
-### 4. Training requirements for clerks and members
+### 4. Training requirements for clerks and members[^c-b48b574f6e6074cb865d5bdfa522f13a]
 
 (1) A person satisfies the training requirements referred to in paragraph 2(7)(e) or 3(2) if—
 
@@ -342,13 +348,13 @@ the panel may continue with their consideration and determination of the appeal 
 
 (4) In sub-paragraph (1)(a) the reference to an appeal panel includes an appeal panel constituted in accordance with the Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (England) Regulations 2002.
 
-### 5. Allowances for members
+### 5. Allowances for members[^c-cd735260c0bbbbb17512d921dfe119cd]
 
 (1) Section 173(4) of the Local Government Act 1972[^f00012] (which provides for the payment of financial loss allowance) shall apply to any member of an appeal panel constituted in accordance with paragraph 2; and in that section as it so applies the reference to an approved duty shall be read as a reference to attendance at a meeting of an appeal panel.
 
 (2) Section 174(1) of that Act shall apply in relation to an appeal panel constituted in accordance with paragraph 2 and in that section as it so applies the reference to payments at rates determined by the body in question shall be read as a reference to payments at rates determined by the local education authority.
 
-### 6. Duty to advertise for lay members
+### 6. Duty to advertise for lay members[^c-c92f78d7b7b380d714ebad341228c1bb]
 
 (1) Any local education authority who are required to make arrangements under regulation 7(1) shall, at the intervals specified in sub-paragraph (2), secure the publication of an advertisement for lay members of appeal panels constituted by that authority.
 
@@ -362,21 +368,21 @@ the panel may continue with their consideration and determination of the appeal 
 
 (4) Before appointing any lay member the local education authority shall consider any persons eligible to be so appointed who have applied to the authority in response to the most recent advertisement or series of advertisements placed in accordance with this paragraph indicating that they wish to be considered for such appointment.
 
-### 7. Indemnity
+### 7. Indemnity[^c-c81b2b9d2c2ad0277c2257890bc8bcdd]
 
 Any local education authority required to make arrangements under regulation 7(1) shall indemnify the members of any appeal panel required to be constituted for the purposes of those arrangements against any reasonable legal costs and expenses reasonably incurred by those members in connection with any decision or action taken by them in good faith in pursuance of their functions as members of that panel.
 
-### 8. Procedure on an appeal
+### 8. Procedure on an appeal[^c-de742ca35a870f002715976131d09e24]
 
 In the following provisions of this Schedule “appeal” means an appeal under regulation 7(1) and “the closing date for appeals” means the fifteenth school day after the day on which the appeal is lodged.
 
-**9.** An appeal shall be by notice in writing setting out the grounds on which it is made.
+**9.**[^c-9b3be20b0113b53d0c6e30e563d11ab0] An appeal shall be by notice in writing setting out the grounds on which it is made.
 
-**10.** (1) The appeal panel shall meet to consider an appeal on such date as the local education authority may determine.
+**10.**[^c-447f3846ef99dd9d23aeab7e6943efa0] (1) The appeal panel shall meet to consider an appeal on such date as the local education authority may determine.
 
 (2) The date so determined must not be later than the closing date for appeals.
 
-**11.** (1) For the purpose of fixing the time (in accordance with paragraph 10) at which the hearing of an appeal is to take place, the local education authority shall take reasonable steps to ascertain any times falling on or before the closing date for appeals when—
+**11.**[^c-1945fe0db8facce72725b096ec157b45] (1) For the purpose of fixing the time (in accordance with paragraph 10) at which the hearing of an appeal is to take place, the local education authority shall take reasonable steps to ascertain any times falling on or before the closing date for appeals when—
 
 - (a) the relevant person, or
 - (b) any other person who wishes, and would be entitled, to appear and make oral representations in accordance with paragraph 12,
@@ -385,7 +391,7 @@ would be unable to attend.
 
 (2) Where in accordance with sub-paragraph (1) the authority have ascertained any such times in the case of any such person, they shall, when fixing the time at which the hearing is to take place, take those times into account with a view to ensuring, so far as it is reasonably practicable to do so, that that person is able to appear and make such representations at the hearing.
 
-**12.** (1) The appeal panel shall give each of the following persons an opportunity of making written representations and appearing and making oral representations, and shall allow that person to be represented, or (except in the case of the management committee and local education authority) to be accompanied by a friend—
+**12.**[^c-673a670f64c72966c344a5af3e1410ae] (1) The appeal panel shall give each of the following persons an opportunity of making written representations and appearing and making oral representations, and shall allow that person to be represented, or (except in the case of the management committee and local education authority) to be accompanied by a friend—
 
 - (a) the relevant person,
 - (b) the teacher in charge,
@@ -394,22 +400,22 @@ would be unable to attend.
 
 (2) The appeal panel may from time to time adjourn the hearing.
 
-**13.** Appeals shall be heard in private except when the local education authority direct otherwise; but if the panel so direct, one member of the local education authority may attend, as an observer, any hearing of an appeal by an appeal panel.
+**13.**[^c-0a53fd443a8b5a38032e69a2915d5855] Appeals shall be heard in private except when the local education authority direct otherwise; but if the panel so direct, one member of the local education authority may attend, as an observer, any hearing of an appeal by an appeal panel.
 
-**14.** Two or more appeals may be combined and dealt with in the same proceedings if the appeal panel consider that it is expedient to do so because the issues raised by the appeals are the same or connected.
+**14.**[^c-e76111e3caf3c26c42ebd44de9858250] Two or more appeals may be combined and dealt with in the same proceedings if the appeal panel consider that it is expedient to do so because the issues raised by the appeals are the same or connected.
 
-**15.** In the event of a disagreement between the members of an appeal panel, the appeal under consideration shall be decided by a simple majority of the votes cast and, in the case of an equality of votes, the chairman of the panel shall have a second or casting vote.
+**15.**[^c-b635be0f27a806d1e3a5e0efd380c15a] In the event of a disagreement between the members of an appeal panel, the appeal under consideration shall be decided by a simple majority of the votes cast and, in the case of an equality of votes, the chairman of the panel shall have a second or casting vote.
 
-**16.** The decision of an appeal panel and the grounds on which it is made shall—
+**16.**[^c-d93870105fd7226e82618d34a18be5fb] The decision of an appeal panel and the grounds on which it is made shall—
 
 - (a) be communicated by the panel in writing to the relevant person, the local education authority, the management committee and the teacher in charge, and
 - (b) be so communicated by the end of the second working day after the conclusion of the hearing of the appeal.
 
-**17.** (1) Subject to paragraphs 9 to 16, all matters relating to the procedure on appeals shall be determined by the local education authority.
+**17.**[^c-395d98e12df06be1dcb1ed4e5fa8cf40] (1) Subject to paragraphs 9 to 16, all matters relating to the procedure on appeals shall be determined by the local education authority.
 
 (2) The local education authority shall, in setting any time limits in connection with appeals, have regard to the desirability of securing that appeals are disposed of without delay.
 
-**18.** In paragraphs 1(2) and 16 “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the [Banking and Financial Dealings Act 1971](https://www.legislation.gov.uk/ukpga/1971/80)[^f00014].
+**18.**[^c-44fe7492fa92b2f9c2ad4497c5688180] In paragraphs 1(2) and 16 “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the [Banking and Financial Dealings Act 1971](https://www.legislation.gov.uk/ukpga/1971/80)[^f00014].
 
 EXPLANATORY NOTE
 
@@ -441,7 +447,29 @@ The Schedule prescribes the constitution and procedure for appeal panels.
 
 [^f00002]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53), as amended by paragraph 30 of Schedule 8 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
+[^c-beb8a2da36a0ea8740cc2a0c1d94f638]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-d0902c00eb78530666faae67630bac2c]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
 [^f00003]: Footnote: [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978).
+
+[^c-c36dc03f54f828ea9e968c7370a70723]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-ea4977275a95c165b87dcd9666a789b3]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-8dcfb944e80876a7f69ce88c5c2d13bc]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-997c0d121318a5ecb00efcbc37243bb9]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-53c1f7afaf69fa0d20a4caf5c5ba9377]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-10a95512d793c20185ad21d665d92551]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-eaa07addb59b0912f6dcd1eceaa2b33b]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-d82daea25ff71d6738be49500b37a873]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-c98eb281ae4f72cc7a5faedd7b844ca8]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2002/3179](https://www.legislation.gov.uk/uksi/2002/3179).
 
@@ -451,6 +479,14 @@ The Schedule prescribes the constitution and procedure for appeal panels.
 
 [^f00007]: Footnote: [S.I. 2007/1870](https://www.legislation.gov.uk/uksi/2007/1870).
 
+[^c-c8f7197264b8c51a9e0213d2f5650d90]: Commencement: Sch. para. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-7b0c6905743c5b0e70e480153765f02b]: Commencement: Sch. para. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-b09888edf309e03a0c237458a9cf2886]: Commencement: Sch. para. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-b48b574f6e6074cb865d5bdfa522f13a]: Commencement: Sch. para. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
 [^f00008]: Footnote: [1976 c. 74](https://www.legislation.gov.uk/ukpga/1976/74).
 
 [^f00009]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).
@@ -459,8 +495,36 @@ The Schedule prescribes the constitution and procedure for appeal panels.
 
 [^f00011]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
+[^c-cd735260c0bbbbb17512d921dfe119cd]: Commencement: Sch. para. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
 [^f00012]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
+[^c-c92f78d7b7b380d714ebad341228c1bb]: Commencement: Sch. para. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
 [^f00013]: Footnote: [S.I. 2002/3178](https://www.legislation.gov.uk/uksi/2002/3178) to which there are amendments not relevant to these Regulations.
+
+[^c-c81b2b9d2c2ad0277c2257890bc8bcdd]: Commencement: Sch. para. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-de742ca35a870f002715976131d09e24]: Commencement: Sch. para. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-9b3be20b0113b53d0c6e30e563d11ab0]: Commencement: Sch. para. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-447f3846ef99dd9d23aeab7e6943efa0]: Commencement: Sch. para. 10 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-1945fe0db8facce72725b096ec157b45]: Commencement: Sch. para. 11 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-673a670f64c72966c344a5af3e1410ae]: Commencement: Sch. para. 12 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-0a53fd443a8b5a38032e69a2915d5855]: Commencement: Sch. para. 13 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-e76111e3caf3c26c42ebd44de9858250]: Commencement: Sch. para. 14 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-b635be0f27a806d1e3a5e0efd380c15a]: Commencement: Sch. para. 15 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-d93870105fd7226e82618d34a18be5fb]: Commencement: Sch. para. 16 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-395d98e12df06be1dcb1ed4e5fa8cf40]: Commencement: Sch. para. 17 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
+
+[^c-44fe7492fa92b2f9c2ad4497c5688180]: Commencement: Sch. para. 18 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/532/regulation/1/1)
 
 [^f00014]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

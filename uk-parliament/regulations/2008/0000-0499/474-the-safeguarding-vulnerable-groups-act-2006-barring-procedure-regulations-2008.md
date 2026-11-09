@@ -3,16 +3,16 @@ title: The Safeguarding Vulnerable Groups Act 2006 (Barring Procedure) Regulatio
 id: uksi/2008/474
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-28'
-text_date: null
-extent: null
+text_date: '2008-02-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/474
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/474/pdfs/uksiem_20080474_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/474/pdfs/uksi_20080474_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/474/made/data.pdf
-pending_changes: 9
+- http://www.legislation.gov.uk/uksi/2008/474/data.pdf
+pending_changes: 20
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Safeguarding Vulnerable Groups Act 2006 (Barring Procedure) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (20).** Text as at 2008-02-28. See https://www.legislation.gov.uk/changes/affected/uksi/2008/474
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 474
 
@@ -44,7 +50,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 61(5) and 64(1) of, and paragraphs 15(1) and (2), and 18(3)(b) and (6)[^f00001] of Schedule 3 to, the Safeguarding Vulnerable Groups Act 2006[^f00002]:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-d46041aee2f6806b71d3d14d5e486cb9]
 
 (1) These Regulations may be cited as the Safeguarding Vulnerable Groups Act 2006 (Barring Procedure) Regulations 2008 and come into force on 7th April 2008.
 
@@ -62,7 +68,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (d) a direction under section 142(1)[^f00008] of the 2002 Act (other than one made on the grounds that condition A or condition B in Part 1 of Schedule 2 to the 2003 Regulations are satisfied in relation to a person, or on grounds of that person’s misconduct, health, or professional incompetence); and
 - “Tribunal” means the Tribunal established under section 9[^f00009] of the Protection of Children Act 1999.
 
-## 2. Representations
+## 2. Representations[^c-1b71007e708c89f45fdad62f4656256a]
 
 (1) This paragraph applies to any person to whom IBB must, in accordance with any provision of Schedule 3 to the Act, give the opportunity to make representations as to his removal from, or inclusion in, a barred list.
 
@@ -81,11 +87,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 IBB may allow that person such further period to make his representations as IBB considers reasonable.
 
-## 3. The minimum barred period: persons subject to previous restrictions (children’s barred list)
+## 3. The minimum barred period: persons subject to previous restrictions (children’s barred list)[^c-303e11a00f109a4eeab1125792506a23]
 
 In the case of any person who is included by IBB in the children’s barred list pursuant to article 2 of the Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008[^f00011] (inclusion in the children’s barred list: persons disqualified from working with children) the minimum barred period is the period calculated in the manner set out in regulations 4 to 7.
 
-## 4. The minimum barred period: persons included in the list maintained under section 1 of the Protection of Children Act 1999
+## 4. The minimum barred period: persons included in the list maintained under section 1 of the Protection of Children Act 1999[^c-22c139e6da82e53921e32b1d7d4f71ab]
 
 (1) In relation to any person mentioned in regulation 3 who, at the point at which he is included in the children’s barred list, is included (otherwise than provisionally) in the list kept by the Secretary of State under section 1 of the Protection of Children Act 1999—
 
@@ -99,7 +105,7 @@ In the case of any person who is included by IBB in the children’s barred list
   - (ii) not to remove the person from that list;
 - (b) the Tribunal not to direct the person’s removal from that list.
 
-## 5. The minimum barred period: persons subject to disqualification orders
+## 5. The minimum barred period: persons subject to disqualification orders[^c-23a2f30c784a69e37b4e7653a473ed64]
 
 (1) In relation to any person mentioned in regulation 3 who, at the point at which he is included in the children’s barred list, is subject to a disqualification order in connection with the commission of an offence against a child—
 
@@ -111,7 +117,7 @@ In the case of any person who is included by IBB in the children’s barred list
 - (a) the Court, to make the person subject to the disqualification order;
 - (b) the Tribunal, that the person should continue to be subject to the disqualification order.
 
-## 6. The minimum barred period: persons subject to directions made under section 142(1) of the Education Act 2002
+## 6. The minimum barred period: persons subject to directions made under section 142(1) of the Education Act 2002[^c-1d86eac46ec6136a38ccafd10255aedf]
 
 (1) In relation to any person mentioned in regulation 3 who, at the point at which he is included in the children’s barred list, is subject to a direction of the Secretary of State under section 142(1) of the 2002 Act (other than one made on the grounds that condition A or condition B in Part 1 of Schedule 2 to the 2003 Regulations are satisfied in relation to that person, or on grounds of that person’s misconduct, health, or professional incompetence)—
 
@@ -125,7 +131,7 @@ In the case of any person who is included by IBB in the children’s barred list
   - (ii) not to revoke that direction;
 - (b) the Tribunal not to order the Secretary of State to revoke that direction.
 
-## 7. The minimum barred period: persons subject to more than one previous disqualification
+## 7. The minimum barred period: persons subject to more than one previous disqualification[^c-f514c1a55b337091758f408995af3a38]
 
 (1) In relation to any person mentioned in regulation 3 who, at the point at which he is included in the children’s barred list, is subject to more than one of the previous restrictions referred to in regulations 4 to 6, the minimum barred period is the period calculated in the manner set out in this regulation.
 
@@ -139,7 +145,7 @@ In the case of any person who is included by IBB in the children’s barred list
 - (b) a disqualification decision within the meaning of regulation 5(2);
 - (c) a direction decision within the meaning of regulation 6(2).
 
-## 8. The minimum barred period: persons subject to previous restrictions (adults’ barred list)
+## 8. The minimum barred period: persons subject to previous restrictions (adults’ barred list)[^c-40248c68df25fed80ebb9cddbc048639]
 
 (1) In the case of any person who is included by IBB in the adults’ barred list pursuant to article 4 of the Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008 (inclusion in the adult’s barred list: persons considered unsuitable to work with vulnerable adults) the minimum barred period is the period calculated in the manner set out in this regulation.
 
@@ -154,7 +160,7 @@ In the case of any person who is included by IBB in the children’s barred list
   - (ii) not to remove the person from that list;
 - (b) the Tribunal not to direct the person’s removal from that list.
 
-## 9. The minimum barred period: persons not subject to previous restrictions
+## 9. The minimum barred period: persons not subject to previous restrictions[^c-74d835a6f53fc7b191d88f82dab4ea47]
 
 (1) This regulation applies to any person to whom none of regulations 4 to 8 apply.
 
@@ -164,13 +170,13 @@ In the case of any person who is included by IBB in the children’s barred list
 
 (4) In relation to any person who has reached the age of 25 when IBB includes him in a barred list the minimum barred period is 10 years.
 
-## 10. Start of minimum barred period
+## 10. Start of minimum barred period[^c-680e0c0fbebeb37500fe0b8f9666cf37]
 
 (1) In relation to a person who is included in a barred list because he satisfies any of the criteria prescribed for the purposes of paragraph 1(1), 2(1), 7(1), or 8(1) of Schedule 3 to the Act, the minimum barred period starts when the person satisfies the relevant criteria.
 
 (2) In any other case the minimum barred period starts when the IBB includes the person in a barred list.
 
-## 11. Review
+## 11. Review[^c-500cd9e85fc2870f986fad1179c089a8]
 
 (1) The period prescribed for the purposes of paragraph 18(3)(b) of Schedule 3 to the Act (period within which a person must not have applied for permission to apply for review) is the period determined in accordance with paragraphs (2) to (6), below.
 
@@ -235,6 +241,8 @@ In general, if a person is under 18, the period within which they must not have 
 
 [^f00002]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
+[^c-d46041aee2f6806b71d3d14d5e486cb9]: Commencement: Reg. 1 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
 [^f00003]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
 
 [^f00004]: Footnote: [S.I. 2003/1184](https://www.legislation.gov.uk/uksi/2003/1184), as amended by [S.I. 2007/195](https://www.legislation.gov.uk/uksi/2007/195).
@@ -249,6 +257,26 @@ In general, if a person is under 18, the period within which they must not have 
 
 [^f00009]: Footnote: Section 9 was amended by paragraph 26(3) of Schedule 4 to the Care Standards Act [2000 (c.14)](https://www.legislation.gov.uk/ukpga/2000/14), paragraphs 154 and 157(a) and (d) of Part 2 of Schedule 7 to the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), paragraph 6 of Schedule 14 and paragraph 122 of Schedule 21 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32) (“the 2002 Act”), paragraph 23 of Schedule 9 and Part 1 of Schedule 19 to the Education Act [2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18), paragraph 38(b) of Schedule 2 to the Childcare Act [2006 (c.21)](https://www.legislation.gov.uk/ukpga/2006/21), section 170(3) of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), and paragraph 8(3)(b)(ii) of Schedule 9 to the 2006 Act. It was repealed in part by Part 3 of Schedule 22 to the 2002 Act, paragraph 38(a) of Schedule 2 and Part 2 of Schedule 3 to the Childcare Act 2006, and is to be further repealed by paragraph 8(3)(a), (b)(i) and (iii) and (c) of Schedule 9, and Schedule 10, to the 2006 Act. The amendments and repeals made under the Education and Inspections Act 2006 and the 2006 Act were not in force on the making of these Regulations.
 
+[^c-1b71007e708c89f45fdad62f4656256a]: Commencement: Reg. 2 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
 [^f00010]: Footnote: The barred lists are the children’s barred list and the adults’ barred list which IBB is required to establish and maintain under section 2 of the 2006 Act.
 
+[^c-303e11a00f109a4eeab1125792506a23]: Commencement: Reg. 3 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
 [^f00011]: Footnote: [S.I. 2008/473](https://www.legislation.gov.uk/uksi/2008/473).
+
+[^c-22c139e6da82e53921e32b1d7d4f71ab]: Commencement: Reg. 4 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
+[^c-23a2f30c784a69e37b4e7653a473ed64]: Commencement: Reg. 5 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
+[^c-1d86eac46ec6136a38ccafd10255aedf]: Commencement: Reg. 6 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
+[^c-f514c1a55b337091758f408995af3a38]: Commencement: Reg. 7 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
+[^c-40248c68df25fed80ebb9cddbc048639]: Commencement: Reg. 8 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
+[^c-74d835a6f53fc7b191d88f82dab4ea47]: Commencement: Reg. 9 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
+[^c-680e0c0fbebeb37500fe0b8f9666cf37]: Commencement: Reg. 10 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)
+
+[^c-500cd9e85fc2870f986fad1179c089a8]: Commencement: Reg. 11 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/474/regulation/1/1)

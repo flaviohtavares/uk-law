@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2008-02-27'
-text_date: '2008-04-06'
+text_date: '2008-02-27'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/514
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/514/pdfs/uksiem_20080514_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/514/pdfs/uksi_20080514_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/514/data.pdf
-pending_changes: 10
+pending_changes: 62
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,11 +20,13 @@ summary: ''
 
 # The Smoke Control Areas (Authorised Fuels) (England) Regulations 2008
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2008-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2008/514
+> **Warning: changes not yet applied to this text (62).** Text as at 2008-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2008/514
 >
 > Extent: England, Wales, Scotland.
 
 *Extent: E+W+S*
+
+**Not yet in force.**
 
 2008 No. 514
 
@@ -46,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 20(6) and 63(1) of the Clean Air Act 1993[^f00001].
 
-## 1. Citation, application and commencement
+## 1. Citation, application and commencement[^c-eb18f600eb832ef36a4b67510d7fe541]
 
 These Regulations—
 
@@ -54,7 +56,7 @@ These Regulations—
 - (b) apply in England; and
 - (c) come into force on 6th April 2008.
 
-## 2. Authorised fuels for the purposes of Part III of the Clean Air Act 1993
+## 2. Authorised fuels for the purposes of Part III of the Clean Air Act 1993[^c-88b6dd274e90c4881928a4fe6c578f64]
 
 For the purposes of Part III of the Clean Air Act 1993, the following are declared to be authorised fuels—
 
@@ -65,7 +67,7 @@ For the purposes of Part III of the Clean Air Act 1993, the following are declar
 - (e) low volatile steam coals; and
 - (f) the fuels described in Schedule 1.
 
-## 3. Revocations and savings
+## 3. Revocations and savings[^c-48d2a9199957495bd056afda3418b5b3]
 
 (1) The Regulations listed in Schedule 2 are revoked.
 
@@ -83,7 +85,7 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 2
 
-**1.** Aimcor Excel briquettes, manufactured by Applied Industrial Materials UK Limited at Newfield, County Durham, or manufactured by Oxbow Carbon & Minerals UK Limited, Windsor House, Cornwall Road, Harrogate, North Yorkshire, which—
+**1.**[^c-3c7a2214032a3cf0d5cf32d66d2c15c1] Aimcor Excel briquettes, manufactured by Applied Industrial Materials UK Limited at Newfield, County Durham, or manufactured by Oxbow Carbon & Minerals UK Limited, Windsor House, Cornwall Road, Harrogate, North Yorkshire, which—
 
 - (a) comprise petroleum coke (as to 60 to 75% of the total weight), low volatile coal and reactive coke (as to 20 to 25% of the total weight) and cold-setting resin binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing;
@@ -91,7 +93,7 @@ Regulation 2
 - (d) have an average weight of 73 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**2.** Aimcor Pureheat briquettes, manufactured by Applied Industrial Materials UK Limited at Immingham, North East Lincolnshire, or manufactured by Oxbow Carbon & Minerals UK Limited, Windsor House, Cornwall Road, Harrogate, North Yorkshire, which—
+**2.**[^c-666dfd9166ff23ff34ed235ed0ccbe68] Aimcor Pureheat briquettes, manufactured by Applied Industrial Materials UK Limited at Immingham, North East Lincolnshire, or manufactured by Oxbow Carbon & Minerals UK Limited, Windsor House, Cornwall Road, Harrogate, North Yorkshire, which—
 
 - (a) comprise anthracite (as to approximately 60% of the total weight), petroleum coke (as to approximately 25% of the total weight) and binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 250°C;
@@ -99,7 +101,7 @@ Regulation 2
 - (d) have an average weight of 75 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**3.** Ancit briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**3.**[^c-d5655983b736ca1877c5f0733d4aa8af] Ancit briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite (as to approximately 60 to 95% of the total weight), petroleum coke (up to approximately 30% of the total weight), bituminous coal (up to approximately 15% of the total weight) and a molasses and phosphoric acid binder or an organic binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 300°C;
@@ -107,7 +109,7 @@ Regulation 2
 - (d) have an average weight of 48 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**4.** Big K Instant Lighting Fire Logs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which—
+**4.**[^c-3ee1a6bdf09d5424908bb5b88e5184ae] Big K Instant Lighting Fire Logs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which—
 
 - (a) comprise slack wax (as to approximately 58 to 59% of the total weight) and hardwood sawdust (as to approximately 41 to 42% of the total weight);
 - (b) were manufactured from those constituents by a process of heat treatment and extrusion;
@@ -115,7 +117,7 @@ Regulation 2
 - (d) have an average weight of 1.1 kilograms per firelog; and
 - (e) have a sulphur content not exceeding 0.1% of the total weight.
 
-**5.** Black Diamond Gem briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**5.**[^c-fa9b9f8e9544c332d83d637b2e48cb67] Black Diamond Gem briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite duff (as to 20 to 30% of the total weight), petroleum coke (as to 40 to 45% of the total weight), bituminous coal (as to 12 to 22% of the total weight) and molasses and phosphoric acid binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 300°C;
@@ -123,7 +125,7 @@ Regulation 2
 - (d) have an average weight of 160 grams per briquette; and
 - (e) have a sulphur content not exceeding 1.5% of the total weight.
 
-**6.** Bord na Móna Firelogs, manufactured by Bord na Móna Fuels Limited, Newbridge, County Kildare, Republic of Ireland, which—
+**6.**[^c-cef661071e4ea3f5605e325dcf1a3d3d] Bord na Móna Firelogs, manufactured by Bord na Móna Fuels Limited, Newbridge, County Kildare, Republic of Ireland, which—
 
 - (a) comprise slack wax (as to approximately 55% of the total weight) and hardwood sawdust (as to approximately 45% of the total weight);
 - (b) were manufactured from those constituents by a process of heat treatment and extrusion;
@@ -131,7 +133,7 @@ Regulation 2
 - (d) have an average weight of 1.3 kilograms per firelog; and
 - (e) have a sulphur content not exceeding 0.1% of the total weight.
 
-**7.** Bord na Móna Firepak (also marketed as Arigna Special coal briquettes), manufactured by Bord na Móna Fuels Limited, Newbridge, County Kildare, Republic of Ireland, which—
+**7.**[^c-b71ea58176ca35da9be564c23477bf6f] Bord na Móna Firepak (also marketed as Arigna Special coal briquettes), manufactured by Bord na Móna Fuels Limited, Newbridge, County Kildare, Republic of Ireland, which—
 
 - (a) comprise anthracite (as to approximately 50% of the total weight), petroleum coke (as to approximately 20 to 40% of the total weight), bituminous coal (as to approximately 10 to 30% of the total weight) and starch based binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment;
@@ -139,7 +141,7 @@ Regulation 2
 - (d) have an average weight of 50 grams per briquette; and
 - (e) have a sulphur content not exceeding 1.5% of the total weight.
 
-**8.** Briteflame briquettes, manufactured by Maxibrite Limited at Mwyndy Industrial Estate, Llantrisant, Mid Glamorgan, which—
+**8.**[^c-c9cff7c7350588809ffd2450e141196b] Briteflame briquettes, manufactured by Maxibrite Limited at Mwyndy Industrial Estate, Llantrisant, Mid Glamorgan, which—
 
 - (a) comprise 10 to 15% bituminous coal, 10 to 15% petroleum coke, 70 to 80% anthracite duff and starch binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 260°C;
@@ -147,7 +149,7 @@ Regulation 2
 - (d) have an average weight of 140 grams per briquette; and
 - (e) have a sulphur content not exceeding 1.9% sulphur on a dry basis.
 
-**9.** Briteheat briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, North East Lincolnshire, which—
+**9.**[^c-31b66a0296f8902148c37844a2660daa] Briteheat briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, North East Lincolnshire, which—
 
 - (a) comprise anthracite (as to approximately 60 to 85% of the total weight), petroleum coke (up to approximately 30% of the total weight), bituminous coal (up to approximately 15% of the total weight) and a molasses and phosphoric acid binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 300°C;
@@ -155,7 +157,7 @@ Regulation 2
 - (d) have an average weight of 30 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**10.** Bryant and May Firelogs, manufactured by Swedish Match at Kostenetz, Bulgaria, which—
+**10.**[^c-8150bc6444af9045b31aa192725d7ac3] Bryant and May Firelogs, manufactured by Swedish Match at Kostenetz, Bulgaria, which—
 
 - (a) comprise paraffin wax (as to approximately 50% of the total weight), ground poplar wood (as to approximately 25% of the total weight), wheatflour (as to approximately 15% of the total weight), ignitable solids dispersed in gelled paraffin wax (as to approximately 1% of the total weight) and water, swelling agents and preservative (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving extrusion;
@@ -163,7 +165,7 @@ Regulation 2
 - (d) have an approximate weight of 1.15 kilograms per firelog; and
 - (e) have a sulphur content not exceeding 0.1% of the total weight.
 
-**11.** Charglow briquettes, manufactured by Polchar Spolka z ograniczona odpowiedzialnoscia, Ulica Kuznicka 1, Police, Zachodniepomorskie, Poland, which—
+**11.**[^c-6f6980d945fbdfedbb2acb3960b85cd1] Charglow briquettes, manufactured by Polchar Spolka z ograniczona odpowiedzialnoscia, Ulica Kuznicka 1, Police, Zachodniepomorskie, Poland, which—
 
 - (a) comprise bituminous coal char (as to approximately 45 to 95% of the total weight), anthracite (as to approximately 0 to 20% of the total weight), petroleum coke (as to approximately 0 to 20% of the total weight), bituminous coal (as to approximately 0 to 10% of the total weight) and an organic binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 110°C;
@@ -171,23 +173,23 @@ Regulation 2
 - (d) have an average weight of 100 grams per briquette; and
 - (e) have a sulphur content not exceeding 1.5% of the total weight.
 
-**12.** Coalite manufactured by Coalite Products Limited at Bolsover, near Chesterfield, Derbyshire and at Grimethorpe, South Yorkshire using a low temperature carbonisation process.
+**12.**[^c-2b20a57f7f342a5f0239443b20287303] Coalite manufactured by Coalite Products Limited at Bolsover, near Chesterfield, Derbyshire and at Grimethorpe, South Yorkshire using a low temperature carbonisation process.
 
-**13.** Coke manufactured by—
+**13.**[^c-49e0aa56b153057cb2b71037df6fe812] Coke manufactured by—
 
 - (a) Coal Products Limited at Cwm Coking Works, Llantwit Fardre, Pontypridd, Rhondda Cynon Taff, and sold as “Sunbrite”;
 - (b) Monckton Coke & Chemical Company Limited at Royston, near Barnsley, South Yorkshire, and sold as “Sunbrite” or “Monckton Boiler Beans”;
 - (c) Corus UK Limited at Teesside Works, Redcar and sold as “Redcar Coke Nuts (Doubles)”; and
 - (d) Coal Products Limited at Cwm Coking Works, Llantwit Fardre, Pontypridd, Rhondda Cynon Taff and sold as “Cwm Coke Doubles”.
 
-**14.** Cosycoke (also marketed as Lionheart Crusader or Sunbrite Plus), manufactured by Monckton Coke & Chemical Company Limited at Royston, near Barnsley, South Yorkshire, and Aimcor Supercoke (also marketed as Supercoke), manufactured by M & G Fuels Limited at Hartlepool Docks, Hartlepool, which in each case—
+**14.**[^c-c5beda1b4652cef86c4f88a12d63a4dc] Cosycoke (also marketed as Lionheart Crusader or Sunbrite Plus), manufactured by Monckton Coke & Chemical Company Limited at Royston, near Barnsley, South Yorkshire, and Aimcor Supercoke (also marketed as Supercoke), manufactured by M & G Fuels Limited at Hartlepool Docks, Hartlepool, which in each case—
 
 - (a) comprise sized hard coke (as to approximately 45 to 65% of the total weight) and sized petroleum coke (as to the remaining weight);
 - (b) were manufactured from those constituents by blending;
 - (c) are unmarked random shapes; and
 - (d) have a sulphur content not exceeding 2% of the total weight.
 
-**15.** Dragonglow briquettes, manufactured by Tower Colliery Limited at Aberdare, Mid Glamorgan, South Wales, which—
+**15.**[^c-2abfdf8876403f7659f37ef2774b0361] Dragonglow briquettes, manufactured by Tower Colliery Limited at Aberdare, Mid Glamorgan, South Wales, which—
 
 - (a) comprise tower duff (as to approximately 95% of the total weight) and a resin based binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving cold cure roll pressing;
@@ -195,7 +197,7 @@ Regulation 2
 - (d) have an average weight of 100 grams per briquette; and
 - (e) have a sulphur content not exceeding 1% of the total weight.
 
-**16.** Dragonbrite briquettes, manufactured by Tower Colliery Limited at Aberdare, Mid Glamorgan, South Wales, which—
+**16.**[^c-560457b8e7e157e85fafe680e70319e2] Dragonbrite briquettes, manufactured by Tower Colliery Limited at Aberdare, Mid Glamorgan, South Wales, which—
 
 - (a) comprise tower duff (as to approximately 95% of the total weight) and a resin based binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving cold cure roll pressing;
@@ -203,7 +205,7 @@ Regulation 2
 - (d) have an average weight of 50 grams per briquette; and
 - (e) have a sulphur content not exceeding 1% of the total weight.
 
-**17.** Duraflame Firelogs, manufactured by Paramelt B.V., Costerstraat 18, PO Box 86, 1700 AB Heerhugowaard, the Netherlands, which—
+**17.**[^c-be871f443af61ad87124253594745bca] Duraflame Firelogs, manufactured by Paramelt B.V., Costerstraat 18, PO Box 86, 1700 AB Heerhugowaard, the Netherlands, which—
 
 - (a) comprise mineral-based petroleum wax (as to approximately 55% of the total weight) and ground hardwood fibre (as to approximately 45% of the total weight);
 - (b) were manufactured from those constituents by a process of heat treatment and extrusion;
@@ -211,7 +213,7 @@ Regulation 2
 - (d) have an average weight of 1.45 kilograms per firelog; and
 - (e) have a sulphur content not exceeding 0.1% of the total weight.
 
-**18.** Ecoal briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**18.**[^c-44f5b78047f37b312be000a9e8157378] Ecoal briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite fines (as to approximately 40 to 65% of the total weight), petroleum coke (as to approximately 20 to 40% of the total weight), char (as to approximately 0 to 10% of the total weight), bituminous coal (as to approximately 0 to 20% of the total weight), biomass (as to approximately 5 to 20% of the total weight) and molasses and phosphoric acid as binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing;
@@ -219,7 +221,7 @@ Regulation 2
 - (d) have an average weight of 125 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**19.** Ecobrite briquettes, manufactured by Arigna Fuels Limited at Arigna, Carrick-on-Shannon, County Roscommon, Republic of Ireland, which—
+**19.**[^c-45dbccbd873b9a87fb40a898e55f862d] Ecobrite briquettes, manufactured by Arigna Fuels Limited at Arigna, Carrick-on-Shannon, County Roscommon, Republic of Ireland, which—
 
 - (a) comprise anthracite fines (as to approximately 96% of the total weight) and starch as binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 250°C;
@@ -227,7 +229,7 @@ Regulation 2
 - (d) have an average weight per briquette of 37 grams in the case of the smaller size and 48 grams in the case of the larger size; and
 - (e) have a sulphur content not exceeding 1.5% of the total weight.
 
-**20.** Extracite briquettes, manufactured by Sophia-Jacoba Handelsgesellschaft mbH at Hückelhoven, Germany, which—
+**20.**[^c-d42c4d4d6862ac1e8540205cd38f138c] Extracite briquettes, manufactured by Sophia-Jacoba Handelsgesellschaft mbH at Hückelhoven, Germany, which—
 
 - (a) comprise anthracite duff (as to approximately 95.5% of the total weight) and ammonium lignosulphonate lye as binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 260°C;
@@ -235,7 +237,7 @@ Regulation 2
 - (d) have an average weight of 40 grams per briquette; and
 - (e) have a sulphur content of approximately 1.2% of the total weight.
 
-**21.** Fireglo briquettes, manufactured by Les Combustibles de Normandie at Caen, France, and by La Société Rouennaise de Defumage at Rouen, France, which—
+**21.**[^c-db3c23eb02f8215fba62c1812966d450] Fireglo briquettes, manufactured by Les Combustibles de Normandie at Caen, France, and by La Société Rouennaise de Defumage at Rouen, France, which—
 
 - (a) comprise washed Welsh duffs (as to approximately 92% of the total weight) and coal pitch binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 330°C;
@@ -243,7 +245,7 @@ Regulation 2
 - (d) have an average weight of 30 grams per briquette; and
 - (e) have a sulphur content not exceeding 0.8% of the total weight.
 
-**22.** Homefire briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**22.**[^c-4baf014add707fda13e06293c5145fd9] Homefire briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite fines (as to approximately 40 to 70% of the total weight), petroleum coke (as to approximately 20 to 45% of the total weight), char (as to approximately 0 to 10% of the total weight), bituminous coal (as to approximately 5 to 30% of the total weight) and an organic binder or a molasses and phosphoric acid binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing;
@@ -252,7 +254,7 @@ Regulation 2
 - (e) have an average weight of 140 grams per briquette; and
 - (f) have a sulphur content not exceeding 2% of the total weight.
 
-**23.** Homefire ovals, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**23.**[^c-cba12719f8f6537020007988cf399001] Homefire ovals, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite duff (as to approximately 57% of the total weight), petroleum coke (as to approximately 17% of the total weight), bituminous coal (as to approximately 13% of the total weight) and molasses and phosphoric acid as binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 300°C;
@@ -260,7 +262,7 @@ Regulation 2
 - (d) have an average weight of 135 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**24.** Homefire Ovals (R), manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**24.**[^c-293179f8c9613bf13e00b08544fc46d9] Homefire Ovals (R), manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite fines (as to approximately 50 to 75% of the total weight), petroleum coke (as to approximately 20 to 45% of the total weight), bituminous coal (as to approximately 5 to 17% of the total weight) and an organic binder (as to the remaining weight);
 - (b) were manufactured from those constituents by process involving roll-pressing;
@@ -268,7 +270,7 @@ Regulation 2
 - (d) have an average weight of 130 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**25.** Island Lump and Island Nuts, manufactured by Unocal Refinery, California, the United States of America, which—
+**25.**[^c-1e4530ea7e38c856c18a01c2c4671513] Island Lump and Island Nuts, manufactured by Unocal Refinery, California, the United States of America, which—
 
 - (a) comprise petroleum coke;
 - (b) were manufactured from the petroleum coke by a process involving heat treatment and steam injection;
@@ -276,7 +278,7 @@ Regulation 2
 - (d) have an average weight of 80 grams (per briquette of Island Lump) or 30 grams (per briquette of Island Nuts); and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**26.** Jewel briquettes, manufactured by Eldon Colliery Limited at Newfield Works, Bishop Auckland, County Durham, which—
+**26.**[^c-27bafc90a9df81b3a58bb169b8978518] Jewel briquettes, manufactured by Eldon Colliery Limited at Newfield Works, Bishop Auckland, County Durham, which—
 
 - (a) comprise anthracite (as to approximately 30 to 50% of the total weight), Long Beach petroleum coke (as to approximately 50 to 70% of the total weight) and a carbohydrate binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 150°C;
@@ -284,16 +286,16 @@ Regulation 2
 - (d) have an average weight of 33 grams per briquette; and
 - (e) have a sulphur content not exceeding 1.5% of the total weight.
 
-**27.** La Hacienda Easy Logs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which meet the conditions specified for Big K Instant Lighting Fire Logs at paragraph 4.
+**27.**[^c-925dac0f2d0ab317344a8682061b6d1d] La Hacienda Easy Logs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which meet the conditions specified for Big K Instant Lighting Fire Logs at paragraph 4.
 
-**28.** Long Beach Lump nuts (otherwise known as LBL nuts), manufactured by Aimcor Carbon Corporation at Long Beach, California, the United States of America, or manufactured by Oxbow Carbon & Minerals LLC, 330 Golden Shore, Suite 210, Long Beach, California 90802, the United States of America, which—
+**28.**[^c-310548ee91571f7fdc85a354044b4609] Long Beach Lump nuts (otherwise known as LBL nuts), manufactured by Aimcor Carbon Corporation at Long Beach, California, the United States of America, or manufactured by Oxbow Carbon & Minerals LLC, 330 Golden Shore, Suite 210, Long Beach, California 90802, the United States of America, which—
 
 - (a) comprise petroleum coke (as to approximately 85 to 100% of the total weight), limestone (as to approximately 0 to 10% of the total weight) and coal tar pitch (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving heat treatment and steam injection;
 - (c) are unmarked random shapes; and
 - (d) have a sulphur content not exceeding 2% of the total weight.
 
-**29.** Maxibrite briquettes, manufactured by Maxibrite Limited at Llantrisant, Rhondda Cynon Taff, which—
+**29.**[^c-ef807a8e6ea02736b55b150ea57877b8] Maxibrite briquettes, manufactured by Maxibrite Limited at Llantrisant, Rhondda Cynon Taff, which—
 
 - (a) comprise anthracite fines (as to approximately 84% of the total weight), petroleum coke (as to approximately 12% of the total weight) and starch as binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at 250°C;
@@ -301,7 +303,7 @@ Regulation 2
 - (d) have an average weight of 35 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**30.** Multiheat briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**30.**[^c-5876eedffd69fe3a046d520c787b8090] Multiheat briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite (as to approximately 60 to 80% of the total weight), petroleum coke (as to approximately 10 to 30% of the total weight) and a molasses and phosphoric acid binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 300°C;
@@ -309,7 +311,7 @@ Regulation 2
 - (d) have average weights per briquette of either 55 or 80 grams; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**31.** Newflame briquettes, manufactured by Maxibrite Limited at Llantrisant, Rhondda Cynon Taff, which—
+**31.**[^c-985be87030a5c4a3016ba10e97d0f4fb] Newflame briquettes, manufactured by Maxibrite Limited at Llantrisant, Rhondda Cynon Taff, which—
 
 - (a) comprise anthracite fines (as to approximately 84% of the total weight), petroleum coke (as to approximately 12% of the total weight) and starch as binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 260°C;
@@ -317,9 +319,9 @@ Regulation 2
 - (d) have an average weight of 78 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**32.** Optima Fire Logs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which meet the conditions specified for Big K Instant Lighting Fire Logs at paragraph 4.
+**32.**[^c-f6eb5d62bcebea28a33f1b66060655dc] Optima Fire Logs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which meet the conditions specified for Big K Instant Lighting Fire Logs at paragraph 4.
 
-**33.** Phurnacite briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**33.**[^c-c60f1143a3d884a00c34989e563b9ba8] Phurnacite briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite duff (as to approximately 65 to 85% of the total weight), petroleum coke (as to approximately 20% of the total weight) and a molasses and phosphoric acid binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 300°C;
@@ -327,7 +329,7 @@ Regulation 2
 - (d) have an average weight of 40 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**34.** Pyrobloc Fire Logs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which—
+**34.**[^c-03720a6474c7b043c8d9dcf927d98b90] Pyrobloc Fire Logs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which—
 
 - (a) comprise slack wax (as to approximately 58 to 59% of the total weight) and hardwood sawdust (as to approximately 41 to 42% of the total weight);
 - (b) were manufactured from those constituents by a process of heat treatment and extrusion;
@@ -335,7 +337,7 @@ Regulation 2
 - (d) have an average weight of 1.3 kilograms per firelog; and
 - (e) have a sulphur content not exceeding 0.1% of the total weight.
 
-**35.** Safelight Firelogs, manufactured by Advanced Natural Fuels Limited, at Pocklington, East Riding of Yorkshire, which—
+**35.**[^c-cb122e26ca90b5c680933214d9eac243] Safelight Firelogs, manufactured by Advanced Natural Fuels Limited, at Pocklington, East Riding of Yorkshire, which—
 
 - (a) comprise woodchip (as to approximately 40 to 55% of the total weight) and Palm Wax binder (as to approximately 45 to 60% of the total weight);
 - (b) were manufactured from those constituents by a process involving pressing of the mixed ingredients at about 40°C to 50°C;
@@ -343,7 +345,7 @@ Regulation 2
 - (d) have an average weight of 1.8 kilograms per firelog; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**36.** Sovereign briquettes, manufactured by Monckton Coke & Chemical Company Limited at Royston, near Barnsley, South Yorkshire, which—
+**36.**[^c-b7d6b6c6238a7fca8da183ee2fd00409] Sovereign briquettes, manufactured by Monckton Coke & Chemical Company Limited at Royston, near Barnsley, South Yorkshire, which—
 
 - (a) comprise anthracite (as to approximately 75% of the total weight), coal and reactive coke (as to approximately 21% of the total weight) and cold-setting resin binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving extrusion;
@@ -351,7 +353,7 @@ Regulation 2
 - (d) have an average weight of 130 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**37.** Stoveheat Premium briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**37.**[^c-c57948edc22ba40f392137b6b6d171cd] Stoveheat Premium briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite duff (as to approximately 65 to 85% of the total weight), petroleum coke (as to approximately 20% of the total weight) and a molasses and phosphoric acid binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 300°C;
@@ -359,14 +361,14 @@ Regulation 2
 - (d) have an average weight of 40 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**38.** Supabrite Coke Doubles, manufactured by H.J. Banks and Company Limited at Inkerman Road Depot, Tow Law, County Durham, which—
+**38.**[^c-58696d0a8f1bf18240fc8e8785a29743] Supabrite Coke Doubles, manufactured by H.J. Banks and Company Limited at Inkerman Road Depot, Tow Law, County Durham, which—
 
 - (a) comprise metallurgical coke (as to approximately 40 to 60% of the total weight) and petroleum coke (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving blending and screening;
 - (c) are unmarked random shapes; and
 - (d) have a sulphur content not exceeding 1.95% of the total weight.
 
-**39.** Supacite briquettes, manufactured by Maxibrite Limited at Llantrisant, Rhondda Cynon Taff, which—
+**39.**[^c-3ff14d27541c46f1f72cfafb55a3a0cb] Supacite briquettes, manufactured by Maxibrite Limited at Llantrisant, Rhondda Cynon Taff, which—
 
 - (a) comprise anthracite fines (as to approximately 84% of the total weight), petroleum coke (as to approximately 12% of the total weight) and starch as binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 240°C;
@@ -374,7 +376,7 @@ Regulation 2
 - (d) have an average weight of 45 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**40.** Supertherm briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**40.**[^c-a727d7bc20507e5bcc248f58969eddfc] Supertherm briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise a blend (in the proportion of 19:1 by weight) of anthracite and medium volatile coal (as to approximately 93% of the total weight) and cold-setting organic binder or a molasses and phosphoric acid binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing;
@@ -382,7 +384,7 @@ Regulation 2
 - (d) have an average weight of 160 grams per briquette; and
 - (e) have a sulphur content not exceeding 1.5% of the total weight.
 
-**41.** Supertherm II briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**41.**[^c-309c9dbd95f7bed9d6da319e85856326] Supertherm II briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite (as to approximately 36 to 51% of the total weight), petroleum coke (as to approximately 40 to 55% of the total weight) and an organic binder or a molasses and phosphoric acid binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing;
@@ -390,7 +392,7 @@ Regulation 2
 - (d) have an average weight of 140 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**42.** Taybrite briquettes (otherwise known as Surefire briquettes), manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**42.**[^c-4a56693f765e1fd46e696237db65f8ba] Taybrite briquettes (otherwise known as Surefire briquettes), manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite (as to approximately 60 to 80% of the total weight), petroleum coke (as to approximately 10 to 30% of the total weight) and a molasses and phosphoric acid binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing and heat treatment at about 300°C;
@@ -398,7 +400,7 @@ Regulation 2
 - (d) have an average weight of 80 grams per briquette; and
 - (e) have a sulphur content not exceeding 2% of the total weight.
 
-**43.** Thermac briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
+**43.**[^c-bdc1893d9716d53efc59e107358eb0b0] Thermac briquettes, manufactured by Coal Products Limited at Immingham Briquetting Works, Immingham, North East Lincolnshire, which—
 
 - (a) comprise anthracite (as to approximately 90% of the total weight) and cold-setting organic binder (as to the remaining weight);
 - (b) were manufactured from those constituents by a process involving roll-pressing;
@@ -406,7 +408,7 @@ Regulation 2
 - (d) have an average weight of 48 grams per briquette; and
 - (e) have a sulphur content not exceeding 1.5% of the total weight.
 
-**44.** Unicite, manufactured by D.J. Davies Fuels Ltd at Blaenau Fuel Depot, Ammanford, Carmarthenshire, or manufactured by A.I.Simson at Cabby Latch, Logie by Kirriemuir, Angus, which—
+**44.**[^c-ac09fd836dc19ee916c25256bebdebc4] Unicite, manufactured by D.J. Davies Fuels Ltd at Blaenau Fuel Depot, Ammanford, Carmarthenshire, or manufactured by A.I.Simson at Cabby Latch, Logie by Kirriemuir, Angus, which—
 
 - (a) is a mixture of the following separate fuels—
   - (i) anthracite large nuts, and
@@ -415,7 +417,7 @@ Regulation 2
 - (c) is declared to be an authorised fuel only in so far as the proportion of Union briquettes combusted in the use of Unicite does not exceed the percentage range specified in sub-paragraph (a)(ii); and
 - (d) in so far as it is constituted by the Union briquettes referred to in sub-paragraph (a)(ii), must consist of compressed lignite with each briquette measuring approximately 75 millimetres wide, 60 millimetres high and 55 millimetres thick.
 
-**45.** ZIP Cracklelog firelogs, ZIP Crackle-log firelogs and ZIP Crackling Log firelogs, manufactured by Allspan B.V., Macroweg 4, 5804 CL Venray, the Netherlands, which—
+**45.**[^c-01147a13b27c1d508d5c645146ec0653] ZIP Cracklelog firelogs, ZIP Crackle-log firelogs and ZIP Crackling Log firelogs, manufactured by Allspan B.V., Macroweg 4, 5804 CL Venray, the Netherlands, which—
 
 - (a) comprise slack wax (as to approximately 55% of the total weight), hardwood sawdust (as to approximately 42% of the total weight) and crackle seeds (as to approximately 3.2% of the total weight);
 - (b) were manufactured from those constituents by a process of heat treatment and extrusion;
@@ -423,7 +425,7 @@ Regulation 2
 - (d) have an average weight of 1.1 kilograms per firelog; and
 - (e) have a sulphur content not exceeding 0.1% of the total weight.
 
-**46.** ZIP Firelogs, manufactured by Allspan B.V., Macroweg 4, 5804 CL Venray, the Netherlands, which—
+**46.**[^c-ae8c857832b302d221f63d8aed1cb3e6] ZIP Firelogs, manufactured by Allspan B.V., Macroweg 4, 5804 CL Venray, the Netherlands, which—
 
 - (a) comprise slack wax (as to approximately 58 to 59% of the total weight) and hardwood sawdust (as to approximately 41 to 42% of the total weight);
 - (b) were manufactured from those constituents by a process of heat treatment and extrusion;
@@ -431,7 +433,7 @@ Regulation 2
 - (d) have an average weight of 1.3 kilograms per firelog; and
 - (e) have a sulphur content not exceeding 0.1% of the total weight.
 
-**47.** ZIP Firelogs, manufactured by Woodflame Moerdijk B.V., Appolloweg 4, Harbour No: M189A, 4782 SB Moerdijk, the Netherlands, which—
+**47.**[^c-f04c946bbea00e4a39d3333d6fc6d8a6] ZIP Firelogs, manufactured by Woodflame Moerdijk B.V., Appolloweg 4, Harbour No: M189A, 4782 SB Moerdijk, the Netherlands, which—
 
 - (a) comprise slack wax (as to approximately 55 to 60% of the total weight) and hardwood sawdust (as to approximately 40 to 45% of the total weight);
 - (b) were manufactured from those constituents by a process of heat treatment and extrusion;
@@ -439,9 +441,9 @@ Regulation 2
 - (d) have an average weight of 1.3 kilograms per firelog; and
 - (e) have a sulphur content not exceeding 0.1% of the total weight.
 
-**48.** Zip Firelogs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which meet the conditions specified for Big K Instant Lighting Fire Logs at paragraph 4.
+**48.**[^c-0628947ed47ba7ecb187bc903d34093f] Zip Firelogs, manufactured by Allspan B.V. at Macroweg 4, 5804 CL Venray, the Netherlands, which meet the conditions specified for Big K Instant Lighting Fire Logs at paragraph 4.
 
-## SCHEDULE 2 — Revocations
+## SCHEDULE 2 — Revocations[^c-242e09d4c84c28a98fbdee3426c8ec06]
 
 Regulation 3
 
@@ -466,3 +468,107 @@ An impact assessment has not been produced for this instrument as no impact on b
 ## Annotations
 
 [^f00001]: Footnote: [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11).
+
+[^c-eb18f600eb832ef36a4b67510d7fe541]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-88b6dd274e90c4881928a4fe6c578f64]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-48d2a9199957495bd056afda3418b5b3]: Commencement: Reg. 3 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-3c7a2214032a3cf0d5cf32d66d2c15c1]: Commencement: Sch. 1 para. 1 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-666dfd9166ff23ff34ed235ed0ccbe68]: Commencement: Sch. 1 para. 2 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-d5655983b736ca1877c5f0733d4aa8af]: Commencement: Sch. 1 para. 3 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-3ee1a6bdf09d5424908bb5b88e5184ae]: Commencement: Sch. 1 para. 4 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-fa9b9f8e9544c332d83d637b2e48cb67]: Commencement: Sch. 1 para. 5 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-cef661071e4ea3f5605e325dcf1a3d3d]: Commencement: Sch. 1 para. 6 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-b71ea58176ca35da9be564c23477bf6f]: Commencement: Sch. 1 para. 7 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-c9cff7c7350588809ffd2450e141196b]: Commencement: Sch. 1 para. 8 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-31b66a0296f8902148c37844a2660daa]: Commencement: Sch. 1 para. 9 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-8150bc6444af9045b31aa192725d7ac3]: Commencement: Sch. 1 para. 10 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-6f6980d945fbdfedbb2acb3960b85cd1]: Commencement: Sch. 1 para. 11 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-2b20a57f7f342a5f0239443b20287303]: Commencement: Sch. 1 para. 12 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-49e0aa56b153057cb2b71037df6fe812]: Commencement: Sch. 1 para. 13 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-c5beda1b4652cef86c4f88a12d63a4dc]: Commencement: Sch. 1 para. 14 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-2abfdf8876403f7659f37ef2774b0361]: Commencement: Sch. 1 para. 15 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-560457b8e7e157e85fafe680e70319e2]: Commencement: Sch. 1 para. 16 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-be871f443af61ad87124253594745bca]: Commencement: Sch. 1 para. 17 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-44f5b78047f37b312be000a9e8157378]: Commencement: Sch. 1 para. 18 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-45dbccbd873b9a87fb40a898e55f862d]: Commencement: Sch. 1 para. 19 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-d42c4d4d6862ac1e8540205cd38f138c]: Commencement: Sch. 1 para. 20 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-db3c23eb02f8215fba62c1812966d450]: Commencement: Sch. 1 para. 21 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-4baf014add707fda13e06293c5145fd9]: Commencement: Sch. 1 para. 22 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-cba12719f8f6537020007988cf399001]: Commencement: Sch. 1 para. 23 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-293179f8c9613bf13e00b08544fc46d9]: Commencement: Sch. 1 para. 24 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-1e4530ea7e38c856c18a01c2c4671513]: Commencement: Sch. 1 para. 25 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-27bafc90a9df81b3a58bb169b8978518]: Commencement: Sch. 1 para. 26 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-925dac0f2d0ab317344a8682061b6d1d]: Commencement: Sch. 1 para. 27 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-310548ee91571f7fdc85a354044b4609]: Commencement: Sch. 1 para. 28 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-ef807a8e6ea02736b55b150ea57877b8]: Commencement: Sch. 1 para. 29 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-5876eedffd69fe3a046d520c787b8090]: Commencement: Sch. 1 para. 30 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-985be87030a5c4a3016ba10e97d0f4fb]: Commencement: Sch. 1 para. 31 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-f6eb5d62bcebea28a33f1b66060655dc]: Commencement: Sch. 1 para. 32 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-c60f1143a3d884a00c34989e563b9ba8]: Commencement: Sch. 1 para. 33 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-03720a6474c7b043c8d9dcf927d98b90]: Commencement: Sch. 1 para. 34 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-cb122e26ca90b5c680933214d9eac243]: Commencement: Sch. 1 para. 35 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-b7d6b6c6238a7fca8da183ee2fd00409]: Commencement: Sch. 1 para. 36 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-c57948edc22ba40f392137b6b6d171cd]: Commencement: Sch. 1 para. 37 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-58696d0a8f1bf18240fc8e8785a29743]: Commencement: Sch. 1 para. 38 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-3ff14d27541c46f1f72cfafb55a3a0cb]: Commencement: Sch. 1 para. 39 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-a727d7bc20507e5bcc248f58969eddfc]: Commencement: Sch. 1 para. 40 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-309c9dbd95f7bed9d6da319e85856326]: Commencement: Sch. 1 para. 41 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-4a56693f765e1fd46e696237db65f8ba]: Commencement: Sch. 1 para. 42 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-bdc1893d9716d53efc59e107358eb0b0]: Commencement: Sch. 1 para. 43 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-ac09fd836dc19ee916c25256bebdebc4]: Commencement: Sch. 1 para. 44 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-01147a13b27c1d508d5c645146ec0653]: Commencement: Sch. 1 para. 45 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-ae8c857832b302d221f63d8aed1cb3e6]: Commencement: Sch. 1 para. 46 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-f04c946bbea00e4a39d3333d6fc6d8a6]: Commencement: Sch. 1 para. 47 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-0628947ed47ba7ecb187bc903d34093f]: Commencement: Sch. 1 para. 48 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)
+
+[^c-242e09d4c84c28a98fbdee3426c8ec06]: Commencement: Sch. 2 in force at 6.4.2008, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/514/regulation/1/c)

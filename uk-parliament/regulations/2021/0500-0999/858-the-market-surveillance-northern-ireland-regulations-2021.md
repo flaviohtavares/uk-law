@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2021-07-15'
-text_date: '2024-03-21'
+text_date: '2026-10-17'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/uksi/2021/858
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2021/858/pdfs/uksiem_20210858_en.pdf
 - http://www.legislation.gov.uk/uksi/2021/858/pdfs/uksi_20210858_en.pdf
 - http://www.legislation.gov.uk/uksi/2021/858/data.pdf
-pending_changes: 3
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Market Surveillance (Northern Ireland) Regulations 2021
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2024-03-21. See https://www.legislation.gov.uk/changes/affected/uksi/2021/858
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-17. See https://www.legislation.gov.uk/changes/affected/uksi/2021/858
 >
 > Extent: Northern Ireland.
 
@@ -188,6 +188,7 @@ The duties and powers of an enforcer are those arising under any of the followin
 - (pp) paragraph 17 of Schedule 3 to the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 [^c24560431];
 - (qq) regulation 3 of the Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 [^c24560441].
 - (rr)[^c-ed816a4adc35d489c41c417b310c2df5] regulation 26 of the Medical Devices (Northern Ireland Protocol) Regulations 2021.
+- (ss)[^c-00659afc07a946d1adad07ce5770f974] regulation 9 of the Batteries (Placing on the Market) (Northern Ireland) Regulations 2026.
 
 ## 7. Table of enforcer's legislation[^c-f401310ae1d9e6c9dce417b8e3763a14]
 
@@ -1319,7 +1320,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-b9dd0d92bd260d9a7a7cd0f9fa028e1c]: Commencement: Reg. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^c-76c8963127046583a463395f59e7a32b]: Commencement: Reg. 6 in force at 16.7.2021, see reg. 1(1)
+[^c-76c8963127046583a463395f59e7a32b]: Commencement: Reg. 6 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
 [^c24560021]: Marginal citation: [1968 c. 29](https://www.legislation.gov.uk/ukpga/1968/29). There are amendments to section 40 but none are relevant.
 
@@ -1408,6 +1409,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 [^c24560441]: Marginal citation: [S.I. 2020/1509](https://www.legislation.gov.uk/uksi/2020/1509).
 
 [^c-ed816a4adc35d489c41c417b310c2df5]: Textual amendment: [Reg. 6(rr)](https://www.legislation.gov.uk/uksi/2021/858/regulation/6/rr) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/2)
+
+[^c-00659afc07a946d1adad07ce5770f974]: Textual amendment: [Reg. 6(ss)](https://www.legislation.gov.uk/uksi/2021/858/regulation/6/ss) inserted (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2026/1053/regulation/22)
 
 [^c-f401310ae1d9e6c9dce417b8e3763a14]: Commencement: Reg. 7 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 

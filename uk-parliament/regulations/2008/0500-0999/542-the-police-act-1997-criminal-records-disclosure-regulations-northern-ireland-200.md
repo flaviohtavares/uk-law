@@ -3,16 +3,16 @@ title: The Police Act 1997 (Criminal Records)(Disclosure) Regulations (Northern 
 id: uksi/2008/542
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-27'
-text_date: null
-extent: null
+text_date: '2008-02-27'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/542
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/542/pdfs/uksiem_20080542_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/542/pdfs/uksi_20080542_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/542/made/data.pdf
-pending_changes: 37
+- http://www.legislation.gov.uk/uksi/2008/542/data.pdf
+pending_changes: 49
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Police Act 1997 (Criminal Records)(Disclosure) Regulations (Northern Ireland) 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (49).** Text as at 2008-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2008/542
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 2008 No. 542
 
@@ -42,13 +48,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by the provisions which are specified in Schedule 1 to these Regulations, hereby makes the following Regulations—
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-a9c66f28189d9cf2aee46c6d6dbc7fc5]
 
 (1) These Regulations may be cited as the Police Act 1997 (Criminal Records)(Disclosure) Regulations (Northern Ireland) 2008 and shall come into force on 1st April 2008.
 
 (2) These Regulations extend to Northern Ireland only.
 
-## 2. Interpretation
+## 2. Interpretation[^c-ab9b5c364fab5c1b0b69e180eabf2535]
 
 (1) In these Regulations—
 
@@ -61,15 +67,15 @@ The Secretary of State, in exercise of the powers conferred by the provisions wh
 - (b) is received in a legible form; and,
 - (c) is capable of being used for subsequent reference.
 
-## 3. Application form
+## 3. Application form[^c-843831989551af6df2d07110ec50b805]
 
 The form set out in Schedule 2 to these Regulations, or a form to the like effect, is the prescribed form for the purposes of an application for a basic, standard or enhanced disclosure.
 
-## 4. Fees for disclosures
+## 4. Fees for disclosures[^c-22256fe2a488aff3def015f39b7d6bbd]
 
 The fee payable in relation to an application for the issue of a basic, standard or enhanced disclosure, is respectively £26, £28 and £30.
 
-## 5. Basic disclosure: prescribed details
+## 5. Basic disclosure: prescribed details[^c-da5e48a861ed598bcdcd2187a3a39015]
 
 The following details of a conviction for the purposes of section 112(2)(a) of the Act are hereby prescribed:—
 
@@ -78,7 +84,7 @@ The following details of a conviction for the purposes of section 112(2)(a) of t
 - (c) the offence; and
 - (d) the method of disposal for the offence.
 
-## 6. Relevant matters: prescribed details
+## 6. Relevant matters: prescribed details[^c-77eafaee68fe654197c84ad221983cd9]
 
 The following details of a relevant matter for the purposes of sections 113A(3)(a) and 113B(9) of the Act (including those provisions as applied by sections 114(3) and 116(3) respectively) are hereby prescribed—
 
@@ -92,7 +98,7 @@ The following details of a relevant matter for the purposes of sections 113A(3)(
   - (ii) the place where the caution was given; and
   - (iii) the offence which the person given the caution had admitted.
 
-## 7. Central records: prescribed details
+## 7. Central records: prescribed details[^c-3fe63d68fecbd408b415682e78525526]
 
 (1) Information in any form relating to convictions—
 
@@ -108,7 +114,7 @@ is hereby prescribed as “central records” for the purposes of section 112(3)
 
 is hereby prescribed as “central records” for the purposes of section 113A(6) of the Act (including that provision as applied by sections 113B(3)(a), 114(3), and 116(3)).
 
-## 8. Enhanced criminal record certificates: relevant police forces
+## 8. Enhanced criminal record certificates: relevant police forces[^c-d1cad8e08b84b760e383d55643603780]
 
 (1) For the purposes of an application for an enhanced criminal record certificate, “relevant police force” means—
 
@@ -124,7 +130,7 @@ is hereby prescribed as “central records” for the purposes of section 113A(6
 
 (2) In this regulation, “chief officer of police” means the chief officer of police in whose area the conviction was put on to the computer.
 
-## 9. Enhanced criminal record certificates: prescribed purposes
+## 9. Enhanced criminal record certificates: prescribed purposes[^c-1d9fc957fd3cb43720f6a5352be8bb64]
 
 (1) The purposes for which an enhanced criminal record certificate may be required in accordance with a statement made by a registered person under section 113B (2)(b) of the Act, are prescribed as follows; namely, the purposes of—
 
@@ -177,7 +183,7 @@ is hereby prescribed as “central records” for the purposes of section 113A(6
 
 (7) In this regulation “residential care home”, “nursing home”, “independent clinic”, “independent hospital” and “independent medical agency” all have the same meaning as in the Health and Personal Social Services (Quality, Improvement and Regulation)(Northern Ireland) Order 2003[^f00013]; personal social services has the same meaning as in Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00014]; health services body has the same meaning as in Article 48(4) of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^f00015].
 
-## 10. Evidence of Identity
+## 10. Evidence of Identity[^c-d426936a429cefbc4568107afe4b54dd]
 
 (1) Applicants for a basic disclosure must provide all the information and supporting documentation as may be specified in the prescribed application form.
 
@@ -191,14 +197,14 @@ Northern Ireland Office
 
 27th February 2008
 
-## SCHEDULE 1 — Enabling Powers
+## SCHEDULE 1 — Enabling Powers[^c-3cec70f2c298bd68bbce53e3ce1b0868]
 
 These Regulations are made under the following provisions of the Police Act 1997[^f00016]—
 
 - (a) sections 112(1)(a), 113B(9), 125(1) and (5);
 - (b) having regard to the meaning of “prescribed” in section 125(1), in sections 112(1)(a), (2)(a) and (3), 113A(1)(a), (3)(a), 114(1)(a), 116(1)(a) and (b).
 
-## SCHEDULE 2 — Access NI
+## SCHEDULE 2 — Access NI[^c-7e766824657f10af8a8adc9777f20c87]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/542/images/uksi_20080542_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2008/542/images/uksi_20080542_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2008/542/images/uksi_20080542_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2008/542/images/uksi_20080542_en_004) [image: see source](https://www.legislation.gov.uk/uksi/2008/542/images/uksi_20080542_en_005) [image: see source](https://www.legislation.gov.uk/uksi/2008/542/images/uksi_20080542_en_006) [image: see source](https://www.legislation.gov.uk/uksi/2008/542/images/uksi_20080542_en_007) [image: see source](https://www.legislation.gov.uk/uksi/2008/542/images/uksi_20080542_en_008) [image: see source](https://www.legislation.gov.uk/uksi/2008/542/images/uksi_20080542_en_009)
 
@@ -224,9 +230,27 @@ Regulation 10 requires the applicant to provide all appropriate information as r
 
 ## Annotations
 
+[^c-a9c66f28189d9cf2aee46c6d6dbc7fc5]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
+[^c-ab9b5c364fab5c1b0b69e180eabf2535]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
 [^f00001]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
 
+[^c-843831989551af6df2d07110ec50b805]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
+[^c-22256fe2a488aff3def015f39b7d6bbd]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
+[^c-da5e48a861ed598bcdcd2187a3a39015]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
+[^c-77eafaee68fe654197c84ad221983cd9]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
 [^f00002]: Footnote: [1978 (No. 1908 (N.I. 27))](https://www.legislation.gov.uk/nisi/1978/1908)
+
+[^c-3fe63d68fecbd408b415682e78525526]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
+[^c-d1cad8e08b84b760e383d55643603780]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
+[^c-1d9fc957fd3cb43720f6a5352be8bb64]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
 
 [^f00003]: Footnote: [1986 (No. 594 (N.I. 3))](https://www.legislation.gov.uk/nisi/1986/594)
 
@@ -254,4 +278,10 @@ Regulation 10 requires the applicant to provide all appropriate information as r
 
 [^f00015]: Footnote: [2003 (No. 417 (N.I. 4))](https://www.legislation.gov.uk/nisi/2003/417)
 
+[^c-d426936a429cefbc4568107afe4b54dd]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
+[^c-3cec70f2c298bd68bbce53e3ce1b0868]: Commencement: Sch. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)
+
 [^f00016]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
+
+[^c-7e766824657f10af8a8adc9777f20c87]: Commencement: Sch. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/542/regulation/1/1)

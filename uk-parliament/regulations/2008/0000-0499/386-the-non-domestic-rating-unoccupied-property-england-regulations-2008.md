@@ -3,16 +3,16 @@ title: The Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008
 id: uksi/2008/386
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-18'
-text_date: null
-extent: null
+text_date: '2008-02-18'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/386
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/386/pdfs/uksiem_20080386_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/386/pdfs/uksi_20080386_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/386/made/data.pdf
-pending_changes: 8
+- http://www.legislation.gov.uk/uksi/2008/386/data.pdf
+pending_changes: 15
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (15).** Text as at 2008-02-18. See https://www.legislation.gov.uk/changes/affected/uksi/2008/386
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 386
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 45(1)(d), (9) and 10, 143(2) and 146(6) of the Local Government Finance Act 1988[^f00001], makes the following Regulations:
 
-## 1. Citation, application and commencement
+## 1. Citation, application and commencement[^c-3d043ce1f935e180abbbd7dd6a8352f1]
 
 These Regulations, which apply in relation to England only, may be cited as the Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008 and shall come into force on 1st April 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-6bf3a6d589e28c8fe850a97b8380c580]
 
 In these Regulations—
 
@@ -63,11 +69,11 @@ In these Regulations—
   - (b) services, other than storage for distribution services, where the services are to be provided on or from the hereditament; and
 - “the Act” means the Local Government Finance Act 1988.
 
-## 3. Hereditaments prescribed for the purposes of section 45(1)(d) of the Act
+## 3. Hereditaments prescribed for the purposes of section 45(1)(d) of the Act[^c-8180f9fd05238d44ce08fd27dc2bbaa5]
 
 The class of non-domestic hereditaments prescribed for the purposes of section 45(1)(d) of the Act consists of all relevant non-domestic hereditaments other than those described in regulation 4.
 
-## 4. Hereditaments not prescribed for the purposes of section 45(1)(d) of the Act
+## 4. Hereditaments not prescribed for the purposes of section 45(1)(d) of the Act[^c-7006b71cd07d282e4b498f39b10176bf]
 
 The relevant non-domestic hereditaments described in this regulation are any hereditament—
 
@@ -85,18 +91,18 @@ The relevant non-domestic hereditaments described in this regulation are any her
 - (l) whose owner is a company in administration within the meaning of paragraph 1 of Schedule B1 to the Insolvency Act 1986 or is subject to an administration order made under the former administration provisions within the meaning of article 3 of the Enterprise Act 2002 (Commencement No. 4 and Transitional Provisions and Savings) Order 2003[^f00006];
 - (m) whose owner is entitled to possession of the hereditament in his capacity as liquidator by virtue of an order made under section 112 or section 145 of the Insolvency Act 1986.
 
-## 5. Continuous occupation
+## 5. Continuous occupation[^c-344c252e396d20abfeaa79cc5188918c]
 
 A hereditament which has been unoccupied and becomes occupied on any day shall be treated as having been continuously unoccupied for the purposes of regulation 4(a) and (b) if it becomes unoccupied again on the expiration of a period of less than six weeks beginning with that day.
 
-## 6. Hereditaments not previously occupied
+## 6. Hereditaments not previously occupied[^c-e3b0ad7990c6bbf0fed637fbb6f34332]
 
 For the purposes of regulation 4(a) and (b), a hereditament which has not previously been occupied shall be treated as becoming unoccupied—
 
 - (a) on the day determined under paragraph 8 of Schedule 1 to the General Rate Act 1967[^f00007], or on the day determined under Schedule 4A to the Act[^f00008], whichever day first occurs; or
 - (b) where paragraph (a) does not apply, on the day for which the hereditament is first shown in a local rating list.
 
-## 7. Revocation and saving
+## 7. Revocation and saving[^c-a094b052d8f8170c01a7d1d728378a13]
 
 (1) Subject to paragraph (2), the Non-Domestic Rating (Unoccupied Property) Regulations 1989[^f00009] are revoked in their application to England.
 
@@ -130,6 +136,14 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41); section 45(1)(d) was amended, and subsections (9) and (10) inserted, by the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraphs 23(2) and (3) and 79(3). These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the entry in Schedule 1 for the Local Government Finance Act 1988. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
+[^c-3d043ce1f935e180abbbd7dd6a8352f1]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+
+[^c-6bf3a6d589e28c8fe850a97b8380c580]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+
+[^c-8180f9fd05238d44ce08fd27dc2bbaa5]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+
+[^c-7006b71cd07d282e4b498f39b10176bf]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+
 [^f00002]: Footnote: [1990 c.9](https://www.legislation.gov.uk/ukpga/1990/9). “Building preservation notice” is defined in section 91(1).
 
 [^f00003]: Footnote: [1976 c.46](https://www.legislation.gov.uk/ukpga/1976/46).
@@ -140,8 +154,14 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), to which there are amendments not relevant to these Regulations.
 
+[^c-344c252e396d20abfeaa79cc5188918c]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+
+[^c-e3b0ad7990c6bbf0fed637fbb6f34332]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
+
 [^f00007]: Footnote: [1967 c.9](https://www.legislation.gov.uk/ukpga/1967/9).
 
 [^f00008]: Footnote: Schedule 4A was inserted by paragraph 36 of Schedule 5 to the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^c-a094b052d8f8170c01a7d1d728378a13]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/386/regulation/1)
 
 [^f00009]: Footnote: [S.I. 1989/2261](https://www.legislation.gov.uk/uksi/1989/2261), to which there are amendments not relevant to these Regulations.

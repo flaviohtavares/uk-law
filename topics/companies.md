@@ -332,7 +332,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2005**
 
 - [The Accounting Standards (Prescribed Body) Regulations 2005](../uk-parliament/regulations/2005/0500-0999/697-the-accounting-standards-prescribed-body-regulations-2005.md) *(as originally made)*
-- [The Community Interest Company Regulations 2005](../uk-parliament/regulations/2005/1500-1999/1788-the-community-interest-company-regulations-2005.md) *(changes pending)*
+- [The Community Interest Company Regulations 2005](../uk-parliament/regulations/2005/1500-1999/1788-the-community-interest-company-regulations-2005.md)
 - [The Companies (1986 Order) (Operating and Financial Review and Directors' Report etc.) Regulations (Northern Ireland) 2005](../northern-ireland/regulations/2005/0000-0499/61-the-companies-1986-order-operating-and-financial-review-and-directors-report-etc.md) *(as originally made)*
 - [The Companies (Defective Accounts) (Authorised Person) Order 2005](../uk-parliament/regulations/2005/0500-0999/699-the-companies-defective-accounts-authorised-person-order-2005.md) *(as originally made)*
 - [The Companies (Disclosure of Auditor Remuneration) Regulations 2005](../uk-parliament/regulations/2005/2000-2499/2417-the-companies-disclosure-of-auditor-remuneration-regulations-2005.md) *(as originally made)*

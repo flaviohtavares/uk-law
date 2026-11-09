@@ -3,14 +3,14 @@ title: The County Durham (Structural Change) Order 2008
 id: uksi/2008/493
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-25'
-text_date: null
-extent: null
+text_date: '2008-02-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/493
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/493/pdfs/uksi_20080493_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/493/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/493/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The County Durham (Structural Change) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-02-26. See https://www.legislation.gov.uk/changes/affected/uksi/2008/493
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 493
 
@@ -50,11 +54,11 @@ The Secretary of State for Communities and Local Government makes this Order in 
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-210545bc2ace467c8a968e895a108c00]
 
 This Order may be cited as the County Durham (Structural Change) Order 2008 and shall come into force on the day after that on which it is made.
 
-### 2. Interpretation
+### 2. Interpretation[^c-a06fb319372a81e4e3ca2274909e4e5b]
 
 In this Order—
 
@@ -74,13 +78,13 @@ In this Order—
 
 ## PART 2 — ESTABLISHMENT OF SINGLE TIER LOCAL GOVERNMENT IN COUNTY DURHAM
 
-### 3. Single tier local government in County Durham
+### 3. Single tier local government in County Durham[^c-0388c06277305a9cf91c60e108e794db]
 
 (1) On and after 1st April 2009 the County Durham council shall be the sole principal authority for County Durham.
 
 (2) For the purposes of enactments relating to local government, there shall be a new district, whose area shall be co-terminous with that of County Durham; and the name of that new district shall be County Durham.
 
-### 4. Abolition of districts and winding up and dissolution of district councils
+### 4. Abolition of districts and winding up and dissolution of district councils[^c-c88457d89f61ce9f29e90b20a98cce84]
 
 On 1st April 2009—
 
@@ -101,13 +105,13 @@ On 1st April 2009—
   - (vi) Teesdale District Council, and
   - (vii) Wear Valley District Council.
 
-### 5. Cessation of term of office of district councillors
+### 5. Cessation of term of office of district councillors[^c-902c001e5dd4daba9e788e7c56f71ae2]
 
 Every person who holds office as a councillor of one of the district councils immediately before 1st April 2009 shall cease to hold office on that date.
 
 ## PART 3 — TRANSITIONAL FUNCTIONS AND THEIR DISCHARGE
 
-### 6. Main transitional function and Implementation Executive
+### 6. Main transitional function and Implementation Executive[^c-2abf42d40a8fc6a209d4bcb73cabaafc]
 
 (1) On the coming into force of this Order there shall be added to the functions of the County Durham council the function, which is to be exercisable only during the first and second transitional periods, of preparing for and facilitating the economic, effective, efficient and timely transfer of the district councils’ functions, property, rights and liabilities (“the main transitional function”).
 
@@ -142,7 +146,7 @@ as if, in subsection (1), after the words “19 or 20,” there were inserted �
 
 (10) In the case of an equality of votes, the person presiding at the meeting (whether or not the leader of the Executive) shall have a casting vote, in addition to any other vote the person may have.
 
-### 7. Other transitional functions
+### 7. Other transitional functions[^c-cc35dcfe066734a91a573da65dd6e530]
 
 (1) The other transitional functions referred to in article 6(2)(b), which are to be exercisable only during the first and second transitional periods, are—
 
@@ -158,7 +162,7 @@ as, by any of the means mentioned in paragraph (2), the Secretary of State may s
 - (c) an order under section 20 of the 2007 Act (correction of orders), and
 - (d) regulations under section 14 of the 2007 Act (regulations for supplementing orders).
 
-### 8. Discharge of functions by Implementation Executive
+### 8. Discharge of functions by Implementation Executive[^c-201914ec4bdbb3c8c346d392d786e7d0]
 
 (1) The discharge of the main transitional function and the article 7 functions shall be a responsibility, throughout the first transitional period, of the Implementation Executive, and shall not, during that period, be a responsibility of the executive of the County Durham council.
 
@@ -193,7 +197,7 @@ as, by any of the means mentioned in paragraph (2), the Secretary of State may s
 - (a) of the matters that it has considered, and
 - (b) of the conclusions (if any) that it has reached concerning those matters.
 
-### 9. Implementation Plan and further provisions relevant to discharge of functions by Implementation Executive
+### 9. Implementation Plan and further provisions relevant to discharge of functions by Implementation Executive[^c-39c7a63ac3928afc0945016692ba9d91]
 
 (1) During the first transitional period, the Implementation Executive shall prepare, keep under review, and revise as necessary, an Implementation Plan which shall include—
 
@@ -217,7 +221,7 @@ require the council referred to in the notice to take such action relevant to th
 
 (4) In paragraph (3), “the proper officer” means the officer appointed by the County Durham council or the district council concerned (as the case may be) for the purpose of receiving such notices.
 
-### 10. Implementation Team
+### 10. Implementation Team[^c-5fea07eed772db79afd273b2092486b6]
 
 (1) Not later than 21 days after the coming into force of this Order the Implementation Executive shall form a team of officers (“the Implementation Team”) for the purposes of—
 
@@ -230,7 +234,7 @@ require the council referred to in the notice to take such action relevant to th
 
 (4) It shall be the duty of the County Durham council and each of the district councils to co-operate in the formation of the Implementation Team and to release the officers concerned from their normal duties at such times or for such periods as the Implementation Executive or the executive of the County Durham council may reasonably require.
 
-### 11. Dissolution of Implementation Executive, etc and further provisions relevant to transition
+### 11. Dissolution of Implementation Executive, etc and further provisions relevant to transition[^c-75d89957a2e5d9baeebbb47aa2334ce1]
 
 (1) The Implementation Executive, any sub-committee of that Executive and any joint committee established as mentioned in article 8(6) shall be dissolved on the fourth day after the 2008 election day.
 
@@ -246,7 +250,7 @@ require the council referred to in the notice to take such action relevant to th
 
 ## PART 4 — DUTIES OF COUNTY DURHAM COUNCIL AND DISTRICT COUNCILS RELEVANT TO TRANSITION
 
-### 12. General transitional duties of County Durham council and district councils
+### 12. General transitional duties of County Durham council and district councils[^c-73517adcc33b1a4153b5306964dcb993]
 
 (1) It shall be the duty of the County Durham council and the district councils—
 
@@ -265,7 +269,7 @@ require the council referred to in the notice to take such action relevant to th
 
 ## PART 5 — ELECTORAL MATTERS
 
-### 13. County Durham council election in 2008
+### 13. County Durham council election in 2008[^c-ba153164fd95b1e35d39c23c190a7fa2]
 
 (1) A whole council election of councillors of the County Durham council shall be held on the 2008 election day, on the ordinary day of election of councillors[^f00008] in 2013, and every fourth year thereafter.
 
@@ -279,7 +283,7 @@ require the council referred to in the notice to take such action relevant to th
 
 (6) In paragraph (5) “electoral division” means an electoral division of County Durham established by article 3 of the 2005 Order
 
-### 14. Cancellation of parish council elections, etc
+### 14. Cancellation of parish council elections, etc[^c-22f12b312b74cf6a536247537a1b0a2b]
 
 (1) Notwithstanding section 16(3) of the 1972 Act (election of parish councillors)—
 
@@ -346,20 +350,48 @@ A full impact assessment has been produced for this and other orders that provid
 
 [^f00002]: Footnote: *See* section 7(4) as to authorities “affected by” a proposal for the purposes of that section.
 
+[^c-210545bc2ace467c8a968e895a108c00]: Commencement: Art. 1 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
+[^c-a06fb319372a81e4e3ca2274909e4e5b]: Commencement: Art. 2 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
 [^f00003]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Relevant amendments are made by Part 3 of the Local Government and Public Involvement in Health Act 2007, but see paragraph 2 of Schedule 4 to that Act for transitional provisions relevant to the County Durham council.
 
 [^f00004]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00005]: Footnote: *See* section 37 of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
+[^c-0388c06277305a9cf91c60e108e794db]: Commencement: Art. 3 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
+[^c-c88457d89f61ce9f29e90b20a98cce84]: Commencement: Art. 4 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
+[^c-902c001e5dd4daba9e788e7c56f71ae2]: Commencement: Art. 5 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
+[^c-2abf42d40a8fc6a209d4bcb73cabaafc]: Commencement: Art. 6 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
+[^c-cc35dcfe066734a91a573da65dd6e530]: Commencement: Art. 7 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
 [^f00006]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
+[^c-201914ec4bdbb3c8c346d392d786e7d0]: Commencement: Art. 8 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
+[^c-39c7a63ac3928afc0945016692ba9d91]: Commencement: Art. 9 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
 [^f00007]: Footnote: The guidance was published by the Department for Communities and Local Government. Copies of the guidance may be obtained from Communities and Local Government Publications, PO Box 236, Wetherby, West Yorkshire, LS23 7NB, quoting Product Code 06 LGSRU 04198 (Tel: 08701 226 236; Email: Email: communities@twoten.com or online at www.communities.gov.uk).
+
+[^c-5fea07eed772db79afd273b2092486b6]: Commencement: Art. 10 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
+[^c-75d89957a2e5d9baeebbb47aa2334ce1]: Commencement: Art. 11 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
+[^c-73517adcc33b1a4153b5306964dcb993]: Commencement: Art. 12 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
+
+[^c-ba153164fd95b1e35d39c23c190a7fa2]: Commencement: Art. 13 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
 
 [^f00008]: Footnote: *See* section 37 of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
 [^f00009]: Footnote: *See* section 35 of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
 [^f00010]: Footnote: [S.I. 2005/176](https://www.legislation.gov.uk/uksi/2005/176).
+
+[^c-22f12b312b74cf6a536247537a1b0a2b]: Commencement: Art. 14 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/493/article/1)
 
 [^f00011]: Footnote: Under section 16(3) of the Local Government Act 1972, the term of office of parish councillors is four years.

@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **PENSIONS**. Repeale
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Pension Schemes Act 1993](../../uk-parliament/acts/public/1993/48-pension-schemes-act-1993/README.md) *(changes pending)* — 277 regulations on this topic made under it
-- [Superannuation Act 1972](../../uk-parliament/acts/public/1972/11-superannuation-act-1972/README.md) *(changes pending)* — 257 regulations on this topic made under it
+- [Superannuation Act 1972](../../uk-parliament/acts/public/1972/11-superannuation-act-1972/README.md) *(changes pending)* — 256 regulations on this topic made under it
 - [Pensions Act 2004](../../uk-parliament/acts/public/2004/35-pensions-act-2004/README.md) *(changes pending)* — 198 regulations on this topic made under it
 - [Pension Schemes (Northern Ireland) Act 1993](../../uk-parliament/acts/public/1993/49-pension-schemes-northern-ireland-act-1993/README.md) *(changes pending)* — 189 regulations on this topic made under it
 - [The Pensions (Northern Ireland) Order 2005](../../northern-ireland/orders-in-council/2005/255-the-pensions-northern-ireland-order-2005/README.md) *(changes pending)* — 144 regulations on this topic made under it
@@ -55,7 +55,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-2062 in force, by year:
+2061 in force, by year:
 
 | year | in force |
 |---|---|
@@ -77,7 +77,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 56 |
 | [2010](2010.md) | 64 |
 | [2009](2009.md) | 58 |
-| [2008](2008.md) | 59 |
+| [2008](2008.md) | 58 |
 | [2007](2007.md) | 62 |
 | [2006](2006.md) | 111 |
 | [2005](2005.md) | 172 |

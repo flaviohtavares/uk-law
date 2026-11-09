@@ -3,16 +3,16 @@ title: The Concessionary Bus Travel (Permits)(England) Regulations 2008
 id: uksi/2008/417
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-20'
-text_date: null
-extent: null
+text_date: '2008-02-20'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/417
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/417/pdfs/uksiem_20080417_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/417/pdfs/uksi_20080417_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/417/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/417/data.pdf
+pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Concessionary Bus Travel (Permits)(England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2008-02-20. See https://www.legislation.gov.uk/changes/affected/uksi/2008/417
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2008 No. 417
 
@@ -42,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 243(7) and 420(1) of the Greater London Authority Act 1999[^f00001] and sections 145A(5) and 160 of the Transport Act 2000[^f00002]:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-d0f6f5d22562f447e13af981a4969a49]
 
 (1) These Regulations may be cited as the Concessionary Bus Travel (Permits)(England) Regulations 2008 and shall come into force on 21st March 2008.
 
@@ -62,7 +68,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (ii) a travel concession permit issued by a London authority pursuant to Chapter 8 of Part 4 of the Greater London Authority Act 1999; and
 - “red” means the colour created by combining coloured printing inks in the measures Cyan 0, Magenta 100, Yellow 100 and Black 20.
 
-## 2. Form and period of validity of permit
+## 2. Form and period of validity of permit[^c-b5c0455c3b22582b817e2237793bab8f]
 
 (1) The form of any permit shall be as follows.
 
@@ -118,7 +124,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (11) The permit shall contain an electronic chip in the form of the electronic media device specified in ITSO version 2.1.2 (ISBN 0-9548042-2-8) published by ITSO Limited[^f00003] on 28th June 2007 or any earlier version of such device which is compatible with that specified in ITSO version 2.1.2.
 
-## 3. Transitional provision: authorities in Greater London
+## 3. Transitional provision: authorities in Greater London[^c-8e942ac193919d01cacf0f7e7e8f5404]
 
 (1) Notwithstanding regulation 2, on or before 31st March 2010 the form of permit issued by an issuing authority whose area is in Greater London may alternatively be an adhesive sticker, fixed to a permit issued by that authority pursuant to Chapter 8 of Part 4 of the Greater London Authority Act 1999 in the position shown in Schedule 4.
 
@@ -131,7 +137,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) The expiry date on the permit may not be a date after 31st March 2010.
 
-## 4. Transitional provision: authorities outside Greater London
+## 4. Transitional provision: authorities outside Greater London[^c-d113e940ebd022a82a84551ae43cfda3]
 
 (1) Notwithstanding regulation 2, on or before 30th September 2008 the form of any permit issued by an issuing authority whose area is outside Greater London may alternatively be as follows.
 
@@ -155,7 +161,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) The expiry date of the permit shall be 30th September 2008.
 
-## 5. Dates in permits
+## 5. Dates in permits[^c-f5954f372573b6c12fea7634e01cbb72]
 
 (1) A date required by these Regulations to be included in a permit shall be expressed as follows–
 
@@ -175,7 +181,7 @@ Department for Transport
 
 20th February 2008
 
-## SCHEDULE 1 — The permit
+## SCHEDULE 1 — The permit[^c-2e5856bcaa0b1af8f5a886932cb4a6e0]
 
 Regulation 2
 
@@ -191,13 +197,13 @@ In this Schedule–
 
   [image: see source](https://www.legislation.gov.uk/uksi/2008/417/images/uksi_20080417_en_001)
 
-## SCHEDULE 2 — The size and layout of the permit and each item on its face
+## SCHEDULE 2 — The size and layout of the permit and each item on its face[^c-7ec9a823c05e5667d4d8a66f1b980060]
 
 Regulation 2(7)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/417/images/uksi_20080417_en_002)
 
-## SCHEDULE 3 — The fonts and font sizes
+## SCHEDULE 3 — The fonts and font sizes[^c-6799b5094ad9e4ca6e81b5cde42c5225]
 
 Regulation 2(8)
 
@@ -213,13 +219,13 @@ In the diagram shown below the fonts and font sizes for each lettered item shall
 | D | Number of permit | Din Schrift -1451 Mittelschrift | 10 point |
 | E | Funding statement | Gill sans light | 7 point |
 
-## SCHEDULE 4 — Transitional forms of permits for authorities in Greater London
+## SCHEDULE 4 — Transitional forms of permits for authorities in Greater London[^c-bc5d0fd6136ef8fba09f3586144ba1fa]
 
 Regulation 3
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/417/images/uksi_20080417_en_004) [image: see source](https://www.legislation.gov.uk/uksi/2008/417/images/uksi_20080417_en_005)
 
-## SCHEDULE 5 — Transitional form of permits for authorities outside Greater London
+## SCHEDULE 5 — Transitional form of permits for authorities outside Greater London[^c-8da91015d5487aa2638957f25a6b2210]
 
 Regulation 4
 
@@ -264,6 +270,26 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00002]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38). Section 145A was inserted by section 1 of the Concessionary Bus Travel Act 2007.
 
+[^c-d0f6f5d22562f447e13af981a4969a49]: Commencement: Reg. 1 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)
+
+[^c-b5c0455c3b22582b817e2237793bab8f]: Commencement: Reg. 2 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)
+
 [^f00003]: Footnote: A company limited by guarantee, registered number 04115311
 
+[^c-8e942ac193919d01cacf0f7e7e8f5404]: Commencement: Reg. 3 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)
+
+[^c-d113e940ebd022a82a84551ae43cfda3]: Commencement: Reg. 4 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)
+
 [^f00004]: Footnote: Section 145A is substituted for section 145 by section 1 of the Concessionary Bus Travel Act [2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13).
+
+[^c-f5954f372573b6c12fea7634e01cbb72]: Commencement: Reg. 5 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)
+
+[^c-2e5856bcaa0b1af8f5a886932cb4a6e0]: Commencement: Sch. 1 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)
+
+[^c-7ec9a823c05e5667d4d8a66f1b980060]: Commencement: Sch. 2 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)
+
+[^c-6799b5094ad9e4ca6e81b5cde42c5225]: Commencement: Sch. 3 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)
+
+[^c-bc5d0fd6136ef8fba09f3586144ba1fa]: Commencement: Sch. 4 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)
+
+[^c-8da91015d5487aa2638957f25a6b2210]: Commencement: Sch. 5 in force at 21.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/417/regulation/1/1)

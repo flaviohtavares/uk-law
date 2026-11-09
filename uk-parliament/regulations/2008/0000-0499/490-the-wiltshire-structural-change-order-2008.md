@@ -3,14 +3,14 @@ title: The Wiltshire (Structural Change) Order 2008
 id: uksi/2008/490
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-25'
-text_date: null
-extent: null
+text_date: '2008-02-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/490
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/490/pdfs/uksi_20080490_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/490/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/490/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Wiltshire (Structural Change) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-02-26. See https://www.legislation.gov.uk/changes/affected/uksi/2008/490
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 490
 
@@ -50,11 +54,11 @@ The Secretary of State for Communities and Local Government makes this Order in 
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-3a79c90fd904f136c50f50c6b152f9b4]
 
 This Order may be cited as the Wiltshire (Structural Change) Order 2008 and shall come into force on the day after that on which it is made.
 
-### 2. Interpretation
+### 2. Interpretation[^c-5267fd953571ed886ee67f1479ec084e]
 
 In this Order—
 
@@ -71,13 +75,13 @@ In this Order—
 
 ## PART 2 — ESTABLISHMENT OF SINGLE TIER LOCAL GOVERNMENT IN WILTSHIRE
 
-### 3. Single tier local government in Wiltshire
+### 3. Single tier local government in Wiltshire[^c-c5e3e9151eac8d918f626b295ca8f9aa]
 
 (1) On and after 1st April 2009 the Wiltshire council shall be the sole principal authority for Wiltshire.
 
 (2) For the purposes of enactments relating to local government, there shall be a new district, whose area shall be co-terminous with that of Wiltshire; and the name of that new district shall be Wiltshire.
 
-### 4. Abolition of districts and winding up and dissolution of district councils
+### 4. Abolition of districts and winding up and dissolution of district councils[^c-21d8dc9da100ed2f4cd4ab7a195873d2]
 
 On 1st April 2009—
 
@@ -92,13 +96,13 @@ On 1st April 2009—
   - (iii) Salisbury District Council, and
   - (iv) West Wiltshire District Council.
 
-### 5. Cessation of term of office of district councillors
+### 5. Cessation of term of office of district councillors[^c-21b02daa87188de97a3c00ea7192e132]
 
 Every person who holds office as a councillor of one of the district councils immediately before 1st April 2009 shall cease to hold office on that date.
 
 ## PART 3 — TRANSITIONAL FUNCTIONS AND THEIR DISCHARGE
 
-### 6. Transitional functions of the Wiltshire council and establishment of Implementation Executive
+### 6. Transitional functions of the Wiltshire council and establishment of Implementation Executive[^c-dce9977f5ffefa8bd0cfd2f2d8280a30]
 
 (1) On the coming into force of this Order there shall be added to the functions of the Wiltshire council the function, which is to be exercisable only during the transitional period ending on the fourth day after the 2009 election day, of preparing for and facilitating the economic, effective, efficient and timely transfer of the district councils’ functions, property, rights and liabilities (“the main transitional function”).
 
@@ -134,7 +138,7 @@ as if, in subsection (1), after the words “19 or 20,” there were inserted �
 
 (11) In the case of an equality of votes, the person presiding at the meeting (whether or not the leader of the Executive) shall have a casting vote, in addition to any other vote the person may have.
 
-### 7. Other transitional functions
+### 7. Other transitional functions[^c-e74df57795cb33d25d891dc0a4860907]
 
 (1) The other transitional functions referred to in article 6(2)(b), which are to be exercisable only during the transitional period ending on the fourth day after the 2009 election day, are—
 
@@ -150,7 +154,7 @@ as, by any of the means mentioned in paragraph (2), the Secretary of State may s
 - (c) an order under section 20 of the 2007 Act (correction of orders), and
 - (d) regulations under section 14 of the 2007 Act (regulations for supplementing orders).
 
-### 8. Discharge of functions by Implementation Executive
+### 8. Discharge of functions by Implementation Executive[^c-36c6e7aeccfa3149177ba9d401d5359b]
 
 (1) The discharge of the main transitional function and the article 7 functions shall be a responsibility of the Implementation Executive, and shall not be a responsibility of the executive of the Wiltshire council.
 
@@ -189,7 +193,7 @@ as, by any of the means mentioned in paragraph (2), the Secretary of State may s
 
 (9) Any joint committee established as mentioned in paragraph (6) shall be dissolved on 1st April 2009.
 
-### 9. Implementation Plan and further provisions relevant to discharge of functions by Implementation Executive
+### 9. Implementation Plan and further provisions relevant to discharge of functions by Implementation Executive[^c-f80a1e38d556f13226676ad04d0ce578]
 
 (1) The Implementation Executive shall prepare, keep under review, and revise as necessary, an Implementation Plan which shall include—
 
@@ -213,7 +217,7 @@ require the council referred to in the notice to take such action relevant to th
 
 (4) In paragraph (3), “the proper officer”, means the officer appointed by the Wiltshire council or the district council concerned (as the case may be) for the purpose of receiving such notices.
 
-### 10. Implementation Team
+### 10. Implementation Team[^c-ed67646bbdbb446af3e0f672b8671bb1]
 
 (1) Not later than 21 days after the coming into force of this Order the Implementation Executive shall form a team of officers for the purpose of assisting the Executive in the discharge of the main transitional function and the article 7 functions (“the Implementation Team”).
 
@@ -225,7 +229,7 @@ require the council referred to in the notice to take such action relevant to th
 
 ## PART 4 — DUTIES OF THE WILTSHIRE COUNCIL AND THE DISTRICT COUNCILS RELEVANT TO TRANSITION
 
-### 11. General transitional duties of the Wiltshire council and the district councils
+### 11. General transitional duties of the Wiltshire council and the district councils[^c-93a586871aed415cbe3614a196bb0682]
 
 (1) It shall be the duty of the Wiltshire council and the district councils—
 
@@ -244,7 +248,7 @@ require the council referred to in the notice to take such action relevant to th
 
 ## PART 5 — ELECTORAL MATTERS
 
-### 12. Cancellation of parish council elections, etc
+### 12. Cancellation of parish council elections, etc[^c-9db3bd602f3def541598d8baff1b49d5]
 
 Notwithstanding section 16(3) of the 1972 Act (election of parish councillors)—
 
@@ -306,14 +310,38 @@ A full impact assessment has been produced for this and other orders that provid
 
 [^f00002]: Footnote: *See* section 7(4) as to authorities “affected by” a proposal for the purposes of that section.
 
+[^c-3a79c90fd904f136c50f50c6b152f9b4]: Commencement: Art. 1 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
+[^c-5267fd953571ed886ee67f1479ec084e]: Commencement: Art. 2 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
 [^f00003]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Relevant amendments are made by Part 3 of the Local Government and Public Involvement in Health Act 2007, but see paragraph 2 of Schedule 4 to that Act for transitional provisions relevant to the Wiltshire council.
 
 [^f00004]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00005]: Footnote: *See* section 37 of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
+[^c-c5e3e9151eac8d918f626b295ca8f9aa]: Commencement: Art. 3 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
+[^c-21d8dc9da100ed2f4cd4ab7a195873d2]: Commencement: Art. 4 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
+[^c-21b02daa87188de97a3c00ea7192e132]: Commencement: Art. 5 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
+[^c-dce9977f5ffefa8bd0cfd2f2d8280a30]: Commencement: Art. 6 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
+[^c-e74df57795cb33d25d891dc0a4860907]: Commencement: Art. 7 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
 [^f00006]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
+[^c-36c6e7aeccfa3149177ba9d401d5359b]: Commencement: Art. 8 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
+[^c-f80a1e38d556f13226676ad04d0ce578]: Commencement: Art. 9 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
 [^f00007]: Footnote: The guidance was published by the Department for Communities and Local Government. Copies of the guidance may be obtained from Communities and Local Government Publications, PO Box 236, Wetherby, West Yorkshire, LS23 7NB, quoting Product Code 06 LGSRU 04198 (Tel: 08701 226 236; Email: communities@twoten.com or online at www.communities.gov.uk).
+
+[^c-ed67646bbdbb446af3e0f672b8671bb1]: Commencement: Art. 10 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
+[^c-93a586871aed415cbe3614a196bb0682]: Commencement: Art. 11 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
+
+[^c-9db3bd602f3def541598d8baff1b49d5]: Commencement: Art. 12 in force at 26.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/490/article/1)
 
 [^f00008]: Footnote: Under section 16(3) of the Local Government Act 1972, the term of office of parish councillors is four years.
