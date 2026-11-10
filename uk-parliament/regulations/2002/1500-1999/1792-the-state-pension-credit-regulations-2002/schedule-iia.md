@@ -3,7 +3,7 @@ title: The State Pension Credit Regulations 2002, SCHEDULE IIA
 act: The State Pension Credit Regulations 2002
 section: schedule-iia
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/1792/schedule/iia
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The State Pension Credit Regulations 2002, SCHEDULE IIA
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
 ## SCHEDULE IIA — Additional amount applicable for claimants responsible for a child or qualifying young person[^c-709d3b937668fdae017111b8b144fda8]
 

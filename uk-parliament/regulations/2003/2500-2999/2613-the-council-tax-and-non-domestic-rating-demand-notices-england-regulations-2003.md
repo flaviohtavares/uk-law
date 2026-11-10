@@ -5,13 +5,13 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2003-10-06'
-text_date: '2010-04-01'
+text_date: '2012-03-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2003/2613
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2003/2613/pdfs/uksi_20032613_en.pdf
 - http://www.legislation.gov.uk/uksi/2003/2613/data.pdf
-pending_changes: 165
+pending_changes: 127
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003
 
-> **Warning: changes not yet applied to this text (165).** Text as at 2010-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2613
+> **Warning: changes not yet applied to this text (127).** Text as at 2012-03-31. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2613
 >
 > Extent: England, Wales.
 
@@ -105,7 +105,7 @@ need not contain the matter specified in paragraph 24[^c-21b54f2a89eb31b3564636e
 - (c) served by the Common Council or an authorised person on behalf of the Common Council, shall contain the matters mentioned in Part 3 ; and[^c-8260790ca8f92402c7456b2954d10348]
 - (d)[^c-5751a71f4eea7de9c1e9919e2804fc04] served by a BRS authority or an authorised person on behalf of the BRS authority on a person liable to pay BRS to the authority, shall contain the matters mentioned in Part 1 of Schedule 2 as modified by Part 2A or, where the BRS authority concerned is the Common Council, the matters mentioned in Part 3 of Schedule 2 as modified by Part 3A.
 
-(4) Subject to paragraph (5), a billing authority must when it serves a council tax demand notice supply to the person on whom the notice is served the information mentioned in Part 1 of Schedule 3, and must when it serves a rate demand notice supply to the person on whom the notice is served the information mentioned in Part 2 of that Schedule; and Part 3 of that Schedule shall have effect for the purposes of both Parts 1 and 2.
+(4) Subject to paragraph (5), a billing authority must when it serves a council tax demand notice supply to the person on whom the notice is served the information mentioned in Part 1 of Schedule 3, and must when it serves a rate demand notice supply to the person on whom the notice is served the information mentioned in paragraphs 2 to 4 of Part 2 of Schedule 2 to the Council Tax (Demand Notices) (England) Regulations 2011 *(Extent: E)*[^c-dee4010612161b1f79bb905e4ba218fe]; and Part 3 of that Schedule shall have effect for the purposes of both Parts 1 and 2.
 
 (5) Paragraph (4) does not apply when a council tax demand notice or a rate demand notice is served after the end of the relevant year.
 
@@ -368,89 +368,9 @@ Regulation 3(3)
 
 together with a statement of the manner in which the chargeable amount for those days was calculated and of the amount by which the aggregate amount demanded under the notice is reduced as compared with the amount which would have been demanded if section 43(4), without modification, and (so far as is relevant) section 44(2) without substitution, applied to the calculation of the chargeable amount for those days.
 
-**7.** Explanatory notes either in the following terms or substantially similar terms—
+**7.** Explanatory notes either in the following terms or substantially similar terms— [^c-4e949060f39aa786fc40cb4dfef1c1ba]
 
-> EXPLANATORY NOTES[^c-0c3da5a6a7d418f7baa80338415209ae]
->
-> Non-Domestic Rates
->
-> Non-Domestic Rates, or business rates, collected by local authorities are the way that those who occupy non-domestic property contribute towards the cost of local services. Except in the City of London, where special arrangements apply, the rates are pooled by central government and redistributed to local authorities as part of the annual formula grant settlement. The money, together with revenue from council tax payers, revenue support grant provided by the Government and certain other sums, is used to pay for the services provided by your local authority and other local authorities in your area.
->
-> Rateable Value
->
-> Apart from properties that are exempt from Business Rates, each non-domestic property has a rateable value which is set by the valuation officers of the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They draw up and maintain a full list of all rateable values, available on their website at www.voa.gov.uk. The rateable value of your property is shown on the front of this bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date. For the revaluation that came into effect on 1st April 2010, this date was set as 1st April 2008.
->
-> The valuation officer may alter the value if circumstances change. The ratepayer (and certain others who have an interest in the property) can appeal against the value shown in the list if they believe it is wrong. Further information about the grounds on which appeals may be made and the process for doing so can be found on the VOA website or from your local valuation office.
->
-> National Non-Domestic Rating Multiplier
->
-> The local authority works out the business rates bill by multiplying the rateable value of the property by the appropriate multiplier. There are two multipliers; the standard non-domestic rating multiplier and the small business non-domestic rating multiplier. The former is higher to pay for small business rate relief. Except in the City of London where special arrangements apply, the Government sets the multipliers for each financial year for the whole of England according to formulae set by legislation. Between revaluations the multipliers change each year in line with inflation and to take account of the cost of small business rate relief. In the year of revaluation the multipliers are rebased to account for overall changes to total rateable value and to ensure that the revaluation does not raise extra money for Government. The current multipliers are shown on the front of this bill.
->
-> Revaluation 2010 and Transitional Arrangements
->
-> All rateable values are reassessed every five years at a general revaluation. The current rating list is based on the 2010 revaluation. Five-yearly revaluations make sure each ratepayer pays their fair contribution and no more, by ensuring that the share of the national rates bill paid by any one ratepayer reflects changes over time in the value of their property relative to others. Revaluation does not raise extra money for Government.
->
-> Whilst the 2010 revaluation will not increase the amount of rates collected nationally, within this overall picture, over a million properties will see their business rate liabilities reduced and some ratepayers will see increases.
->
-> For those that would otherwise see significant increases in their rates liability, the Government has put in place a £2 billion transitional relief scheme to limit and phase in changes in rate bills as a result of the 2010 revaluation. To help pay for the limits on increases in bills, there also have to be limits on reductions in bills. Under the transition scheme, limits continue to apply to yearly increases and decreases until the full amount is due (rateable value times the appropriate multiplier). The scheme applies only to the bill based on a property at the time of the revaluation. If there are any changes to the property after 1st April 2010, transitional arrangements will not normally apply to the part of a bill that relates to any increase in rateable value due to those changes. Changes to your bill as a result of other reasons (such as because of changes to the amount of small business rate relief) are not covered by the transitional arrangements.
->
-> The transitional arrangements are applied automatically and are shown on the front of this bill. Further information about transitional arrangements and other reliefs may be obtained from \[insert name of billing authority\] or the website www.mybusinessrates.gov.uk.
->
-> More information on revaluation 2010 can be found at www.voa.gov.uk.
->
-> Unoccupied Property Rating
->
-> Business rates will not be payable in the first three months that a property is empty. This is extended to six months in the case of certain industrial properties. After this period rates are payable in full unless the unoccupied property rate has been reduced by the Government by order. In most cases the unoccupied property rate is zero for properties owned by charities and community amateur sports clubs. In addition, there are a number of exemptions from the unoccupied property rate. Full details on exemptions can be obtained from the local authority. If the unoccupied property rate for the financial year has been reduced by order, it will be shown on the front of this bill.
->
-> Partly Occupied Property Relief
->
-> A ratepayer is liable for the full non-domestic rate whether a property is wholly occupied or only partly occupied. Where a property is partly occupied for a short time, the local authority has discretion in certain cases to award relief in respect of the unoccupied part. Full details can be obtained from the local authority.
->
-> Small Business Rate Relief
->
-> This relief is only available to ratepayers who apply to their local authority and who occupy either—
->
-> - (a) one property, or
-> - (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed £2,599.
->
-> The rateable value of the property mentioned in (a), or the aggregate rateable value of all the properties mentioned in (b), must not exceed £17,999 outside London or £25,499 in London on each day for which relief is being sought. If the rateable value, or aggregate rateable value, increases above those levels, relief will cease from the day of the increase.
->
-> Ratepayers who satisfy these conditions will have the bill for their sole or main property calculated using the lower small business non-domestic rating multiplier rather than the national non-domestic rating multiplier that is used to calculate the liability of other businesses.
->
-> In addition, if the sole or main property is shown on the rating list with a rateable value which does not exceed £12,000, the ratepayer will receive a percentage reduction in their rates bill for this property of up to a maximum of 50% for a property with a rateable value of not more than £6,000.
->
-> If an application for relief is granted, provided the ratepayer continues to satisfy the conditions for relief which apply at the relevant time as regards the property and the ratepayer, they will not need to re-apply for relief in each new valuation period.
->
-> Certain changes in circumstances will need to be notified to the local authority by the ratepayer (other changes will be picked up by the local authority). The changes which must be notified are—
->
-> - (a) the ratepayer taking up occupation of a property they did not occupy at the time of making their application for relief, and
-> - (b) an increase in the rateable value of a property occupied by the ratepayer in an area other than the area of the local authority which granted the relief.
->
-> Notification of these changes must be given to the local authority within 4 weeks of the day after the day on which the change happened. If this happens, there will be no interruption to the ratepayer’s entitlement to the relief. A notification that the ratepayer has taken up occupation of an additional property must be by way of a fresh application for relief; notice of an increase in rateable value must be given in writing.
->
-> Full details on the eligibility criteria and on how to apply for this relief are available from the local authority.
->
-> Charity and Community Amateur Sports Club (CASC) Relief
->
-> Charities and registered CASCs are entitled to 80% relief where the property is occupied by the charity or the CASC, and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the CASC (or of that and other CASCs).
->
-> The local authority has discretion to give further relief on the remaining bill. Full details can be obtained from the local authority.
->
-> Non-Profit Making Organisation Relief
->
-> The local authority has discretion to give relief to non-profit making organisations. Full details can be obtained from the local authority.
->
-> Hardship Relief
->
-> The local authority has discretion to give relief in special circumstances. Full details can be obtained from the local authority.
->
-> Deferred payment of 2009/10 rates liabilities
->
-> Ratepayers in 2009/10 were able to defer payment of 3% of their 2009/10 rates bill and, where applicable, 60% of the increase in that bill due to the ending of the 2005 rating list transitional relief scheme. The right to apply for deferral has now ended. For those ratepayers who applied for this scheme, the deferred amount to be collected in 2010/11 and 2011/12 will be included in the bills for each of those years respectively.
->
-> Rating advisers
->
-> Ratepayers do not have to be represented in discussions about their rateable value or their rates bill. Appeals against rateable values can be made free of charge. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS – website www.rics.org) and the Institute and Revenues and Rating (IRRV – website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further advice before entering into any contract.
+> [image: see source](https://www.legislation.gov.uk/uksi/2003/2613/images/uksi_20032613_en_epp_029.gif)[image: see source](https://www.legislation.gov.uk/uksi/2003/2613/images/uksi_20032613_en_epp_030.gif)[image: see source](https://www.legislation.gov.uk/uksi/2003/2613/images/uksi_20032613_en_epp_031.gif)[image: see source](https://www.legislation.gov.uk/uksi/2003/2613/images/uksi_20032613_en_epp_032.gif)
 
 .
 
@@ -507,93 +427,9 @@ In relation to rural settlement authorities, Part 1 shall have effect as if—
 
 **2.** A statement of the non-domestic rating multipliers set by the Common Council for the relevant year in accordance with Part 2 of Schedule 7 to the 1988 Act.
 
-**3.** Explanatory notes either in the following terms or substantially similar terms—
+**3.** Explanatory notes either in the following terms or substantially similar terms—[^c-9597246d87278c216556baca3b718159]
 
-> EXPLANATORY NOTES[^c-c7d3c1ff9054348133b913a7edbdf844]
->
-> Non-Domestic Rates
->
-> Non-Domestic Rates, or business rates, collected by local authorities are the way that those who occupy non-domestic property contribute towards the cost of local services. Except in the City of London, where special arrangements apply, the rates are pooled by central government and redistributed to local authorities as part of the annual formula grant settlement. The money, together with revenue from council tax payers, revenue support grant provided by the Government and certain other sums, is used to pay for the services provided by your local authority and other local authorities in your area.
->
-> Rateable Value
->
-> Apart from properties that are exempt from Business Rates, each non-domestic property has a rateable value which is set by the valuation officers of the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They draw up and maintain a full list of all rateable values, available on their website at www.voa.gov.uk. The rateable value of your property is shown on the front of this bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date. For the revaluation that came into effect on 1st April 2010, this date was set as 1st April 2008.
->
-> The valuation officer may alter the value if circumstances change. The ratepayer (and certain others who have an interest in the property) can appeal against the value shown in the list if they believe it is wrong. Further information about the grounds on which appeals may be made and the process for doing so can be found on the VOA website or from your local valuation office.
->
-> Special arrangements for the City of London
->
-> As indicated above, because of its special circumstances – notably its very small resident population – the Common Council of the City of London can set its own rate – or multiplier – and retain part of the proceeds to help pay for the services it provides. It may set this rate, subject to certain constraints, at a higher or lower level than the rate which applies outside the City of London. The amount it must pay into the central pool (as described above) is reduced by the amount, if any, which the Government believes is reasonable for it to retain for that financial year. These arrangements ensure that the City of London ratepayers and council tax payers each bear an appropriate share of the cost of providing the services which benefit them.
->
-> The City of London Rating Multiplier
->
-> There are two multipliers; the standard non-domestic rating multiplier and the small business non-domestic rating multiplier. The former is higher to pay for small business rate relief. The City sets the multipliers for each financial year according to formulae set by legislation.
->
-> Revaluation 2010 and Transitional Arrangements
->
-> All rateable values are reassessed every five years at a general revaluation. The current rating list is based on the 2010 revaluation. Five-yearly revaluations make sure each ratepayer pays their fair contribution and no more, by ensuring that the share of the national rates bill paid by any one ratepayer reflects changes over time in the value of their property relative to others. Revaluation does not raise extra money for Government.
->
-> Whilst the 2010 revaluation will not increase the amount of rates collected nationally, within this overall picture, over a million properties will see their business rate liabilities reduced and some ratepayers will see increases.
->
-> For those that would otherwise see significant increases in their rates liability, the Government has put in place a £2 billion transitional relief scheme to limit and phase in changes in rate bills as a result of the 2010 revaluation. To help pay for the limits on increases in bills, there also have to be limits on reductions in bills. Under the transition scheme, limits continue to apply to yearly increases and decreases until the full amount is due (rateable value times the appropriate multiplier). The scheme applies only to the bill based on a property at the time of the revaluation. If there are any changes to the property after 1st April 2010, transitional arrangements will not normally apply to the part of a bill that relates to any increase in rateable value due to those changes. Changes to your bill as a result of other reasons (such as because of changes to the amount of small business rate relief) are not covered by the transitional arrangements.
->
-> The transitional arrangements are applied automatically and are shown on the front of this bill. Further information about transitional arrangements and other reliefs may be obtained from \[insert name of billing authority\] or the website www.mybusinessrates.gov.uk.
->
-> More information on revaluation 2010 can be found at www.voa.gov.uk.
->
-> Unoccupied Property Rating
->
-> Business rates will not be payable in the first three months that a property is empty. This is extended to six months in the case of certain industrial properties. After this period rates are payable in full unless the unoccupied property rate has been reduced by the Government by order. In most cases the unoccupied property rate is zero for properties owned by charities and community amateur sports clubs. In addition, there are a number of exemptions from the unoccupied property rate. Full details on exemptions can be obtained from the local authority. If the unoccupied property rate for the financial year has been reduced by order, it will be shown on the front of this bill.
->
-> Partly Occupied Property Relief
->
-> A ratepayer is liable for the full non-domestic rate whether a property is wholly occupied or only partly occupied. Where a property is partly occupied for a short time, the local authority has discretion in certain cases to award relief in respect of the unoccupied part. Full details can be obtained from the local authority.
->
-> Small Business Rate Relief
->
-> This relief is only available to ratepayers who apply to their local authority and who occupy either—
->
-> - (a) one property, or
-> - (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed £2,599.
->
-> The rateable value of the property mentioned in (a), or the aggregate rateable value of all the properties mentioned in (b), must not exceed £17,999 outside London or £25,499 in London on each day for which relief is being sought. If the rateable value, or aggregate rateable value, increases above those levels, relief will cease from the day of the increase.
->
-> Ratepayers who satisfy these conditions will have the bill for their sole or main property calculated using the lower small business non-domestic rating multiplier rather than the national non-domestic rating multiplier that is used to calculate the liability of other businesses.
->
-> In addition, if the sole or main property is shown on the rating list with a rateable value which does not exceed £12,000, the ratepayer will receive a percentage reduction in their rates bill for this property of up to a maximum of 50% for a property with a rateable value of not more than £6,000.
->
-> If an application for relief is granted, provided the ratepayer continues to satisfy the conditions for relief which apply at the relevant time as regards the property and the ratepayer, they will not need to re-apply for relief in each new valuation period.
->
-> Certain changes in circumstances will need to be notified to the local authority by the ratepayer (other changes will be picked up by the local authority). The changes which must be notified are—
->
-> - (a) the ratepayer taking up occupation of a property they did not occupy at the time of making their application for relief, and
-> - (b) an increase in the rateable value of a property occupied by the ratepayer in an area other than the area of the local authority which granted the relief.
->
-> Notification of these changes must be given to the local authority within 4 weeks of the day after the day on which the change happened. If this happens, there will be no interruption to the ratepayer’s entitlement to the relief. A notification that the ratepayer has taken up occupation of an additional property must be by way of a fresh application for relief; notice of an increase in rateable value must be given in writing.
->
-> Full details on the eligibility criteria and on how to apply for this relief are available from the local authority.
->
-> Charity and Community Amateur Sports Club (CASC) Relief
->
-> Charities and registered CASCs are entitled to 80% relief where the property is occupied by the charity or the CASC, and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the CASC (or of that and other CASCs).
->
-> The local authority has discretion to give further relief on the remaining bill. Full details can be obtained from the local authority.
->
-> Non-Profit Making Organisation Relief
->
-> The local authority has discretion to give relief to non-profit making organisations. Full details can be obtained from the local authority.
->
-> Hardship Relief
->
-> The local authority has discretion to give relief in special circumstances. Full details can be obtained from the local authority.
->
-> Deferred payment of 2009/10 rates liabilities
->
-> Ratepayers in 2009/10 were able to defer payment of 3% of their 2009/10 rates bill and, where applicable, 60% of the increase in that bill due to the ending of the 2005 rating list transitional relief scheme. The right to apply for deferral has now ended. For those ratepayers who applied for this scheme, the deferred amount to be collected in 2010/11 and 2011/12 will be included in the bills for each of those years respectively.
->
-> Rating advisers
->
-> Ratepayers do not have to be represented in discussions about their rateable value or their rates bill. Appeals against rateable values can be made free of charge. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS – website www.rics.org) and the Institute and Revenues and Rating (IRRV – website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further advice before entering into any contract.
+> [image: see source](https://www.legislation.gov.uk/uksi/2003/2613/images/uksi_20032613_en_epp_033.gif)[image: see source](https://www.legislation.gov.uk/uksi/2003/2613/images/uksi_20032613_en_epp_034.gif)[image: see source](https://www.legislation.gov.uk/uksi/2003/2613/images/uksi_20032613_en_epp_035.gif)[image: see source](https://www.legislation.gov.uk/uksi/2003/2613/images/uksi_20032613_en_epp_036.gif)
 
 .
 
@@ -770,6 +606,8 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^c-5751a71f4eea7de9c1e9919e2804fc04]: Textual amendment: Reg. 3(3)(d) inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/c)
 
+[^c-dee4010612161b1f79bb905e4ba218fe]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/3/4) substituted (31.3.2012) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/538)](https://www.legislation.gov.uk/uksi/2012/538), [regs. 1](https://www.legislation.gov.uk/uksi/2012/538/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/538/regulation/3)
+
 [^c-49d3a898e4afc6ba556d064f15ecd8a3]: Commencement: Reg. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
 [^c-317331f204acfbc1c264b19cebf5e953]: Commencement: Reg. 5 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
@@ -788,7 +626,7 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^c-c513fafa9c19183d474be20d46b6a9bc]: Textual amendment: Sch. 2 substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [reg. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/387/schedule/part/2)
 
-[^c-0c3da5a6a7d418f7baa80338415209ae]: Textual amendment: Sch. 2 Pt. 1 para. 7: Explanatory Notes substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/140/regulation/3)
+[^c-4e949060f39aa786fc40cb4dfef1c1ba]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 7](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/1/paragraph/7) substituted (31.3.2012) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/538)](https://www.legislation.gov.uk/uksi/2012/538), [regs. 1](https://www.legislation.gov.uk/uksi/2012/538/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/538/regulation/4)
 
 [^c-d0b73d346a56730600144c14674dfae1]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/a)
 
@@ -798,7 +636,7 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^c-74f3be925957045c3f8987275c7b70c0]: Textual amendment: Sch. 2 Pt. 2A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/a)
 
-[^c-c7d3c1ff9054348133b913a7edbdf844]: Textual amendment: Sch. 2 Pt. 3 para. 3: Explanatory Notes substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/140/regulation/5)
+[^c-9597246d87278c216556baca3b718159]: Textual amendment: Words in [Sch. 2 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2003/2613/schedule/2/part/3/paragraph/3) substituted (E.) (31.3.2012) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/538)](https://www.legislation.gov.uk/uksi/2012/538), [regs. 1](https://www.legislation.gov.uk/uksi/2012/538/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/538/regulation/5)
 
 [^c-20a37fa9766b4710fd47610aa84a48a7]: Textual amendment: Sch. 2 Pt. 3A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/b)
 

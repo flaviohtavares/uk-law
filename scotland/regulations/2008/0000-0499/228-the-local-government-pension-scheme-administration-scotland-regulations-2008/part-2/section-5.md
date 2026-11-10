@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 5
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 5. Employees of non-Scheme employers: transferee admission bodies
+## 5. Employees of non-Scheme employers: transferee admission bodies[^c-1d3d362a9197d2f2bbb17a5d9a6e7d4e]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Subject to the requirements of this regulation and regulation 6 (admission agreements further provisions), an administering authority may make an admission agreement with any transferee admission body.
 
@@ -59,6 +65,8 @@ summary: ''
 (10) Only those employees of the transferee admission body who are employed in connection with the provision of a service or assets mentioned in paragraph (2) are eligible to be designated, under regulation 6(1) (admission agreements – further provisions), members of the Scheme.
 
 ## Annotations
+
+[^c-1d3d362a9197d2f2bbb17a5d9a6e7d4e]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00009]: Footnote: [2003 asp 1](https://www.legislation.gov.uk/asp/2003/1).
 

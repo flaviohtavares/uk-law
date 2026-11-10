@@ -3,7 +3,7 @@ title: Local Government (Scotland) Act 1973, SCHEDULE 6A
 act: Local Government (Scotland) Act 1973
 section: schedule-6a
 status: repealed
-text_date: '2025-08-01'
+text_date: '2026-10-26'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1973/65/schedule/6a
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

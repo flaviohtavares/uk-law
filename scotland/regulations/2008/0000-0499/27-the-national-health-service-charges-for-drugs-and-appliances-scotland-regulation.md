@@ -3,16 +3,16 @@ title: The National Health Service (Charges for Drugs and Appliances) (Scotland)
 id: ssi/2008/27
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-31'
-text_date: null
-extent: null
+text_date: '2008-01-31'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/27
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/27/pdfs/ssien_20080027_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/27/pdfs/ssi_20080027_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/27/made/data.pdf
-pending_changes: 36
+- http://www.legislation.gov.uk/ssi/2008/27/data.pdf
+pending_changes: 58
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (58).** Text as at 2008-01-31. See https://www.legislation.gov.uk/changes/affected/ssi/2008/27
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 27
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 17E, 17K, 17N, 17P, 25(2), 27(1) and (2), 28(1), 69(1) and (2), 75(a), 75A, 105(7) and 108(1) of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-a97c28c1308034069f686d6a020e554b]
 
 These Regulations may be cited as the National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008 and come into force on 1st April 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-8da0752bde40d933cccf8b94e96fc191]
 
 (1) In these Regulations–
 
@@ -148,7 +154,7 @@ These Regulations may be cited as the National Health Service (Charges for Drugs
 - (a) any reference to a numbered regulation or a numbered Schedule is, unless otherwise expressly provided, a reference to the regulation or the Schedule bearing that number in these Regulations; and
 - (b) any reference in a regulation to a numbered paragraph is, unless otherwise expressly provided, a reference to the paragraph bearing that number in that regulation.
 
-## 3. Supply of drugs and appliances by chemists
+## 3. Supply of drugs and appliances by chemists[^c-df9c19a0f42bd239de1b48ff623329d6]
 
 (1) Except as provided for in paragraph (2), a chemist who provides pharmaceutical services to a patient shall make and recover from the patient–
 
@@ -175,7 +181,7 @@ These Regulations may be cited as the National Health Service (Charges for Drugs
 - (a) where the patient presents a Scottish prescription form, the sum specified in paragraph (1)(b)(i) in respect of each quantity of a drug supplied and by the sum specified in paragraph (1)(a)(i) or, as the case may require, paragraph (1)(b)(i), in respect of each appliance as supplied as part of such services; and
 - (b) where the patient presents an equivalent prescription form, the sum referred to in paragraph (1)(b)(ii), in respect of each quantity of a drug supplied and by the sum referred to in paragraph (1)(a)(ii) or, as the case may require, paragraph (1)(b)(ii) in respect of each appliance as supplied as part of such services.
 
-## 4. Supply of drugs and appliances by doctors
+## 4. Supply of drugs and appliances by doctors[^c-d6d4bea4cf34ca432a6eae44f50f1e5a]
 
 (1) Except as provided for in paragraph (2), a doctor who provides services corresponding to pharmaceutical services under the terms of a GMS contract which gives effect to paragraph 44 of Schedule 5 to the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^f00029] or under the terms of a section 17C agreement which gives effect to paragraph 15 of Schedule 1 to the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^f00030] shall make and recover from the patient–
 
@@ -192,7 +198,7 @@ These Regulations may be cited as the National Health Service (Charges for Drugs
 
 (6) A doctor who makes and recovers a charge under paragraph (1) shall, if required by the patient, give the patient a receipt for the amount paid, on a form provided for the purpose by the Health Board, which contains forms of declaration in support of an application for a refund.
 
-## 5. Supply of drugs and appliances to out-patients
+## 5. Supply of drugs and appliances to out-patients[^c-bf6cccae5d5cfd6ac9b6838e2adf61a3]
 
 (1) Except as provided for in paragraph (2), a Health Board which supplies an out-patient attending hospital with appliances or drugs (to be administered outwith the hospital), shall make and recover from the out-patient–
 
@@ -206,7 +212,7 @@ These Regulations may be cited as the National Health Service (Charges for Drugs
 
 (4) A Health Board which makes and recovers a charge under paragraph (1) shall, if required by the patient, give the patient a receipt for the amount paid, on a form provided for the purpose by the Health Board, which contains forms of declaration in support of an application for a refund.
 
-## 6. Fabric support and wigs
+## 6. Fabric support and wigs[^c-a2b33f037f60fe1f39a7a78fe0ae2f87]
 
 (1) Except as provided for in paragraph (2), a Health Board which, otherwise than under Part II of the Act, supplies a patient with an appliance specified in column 1 of Schedule 1, shall make and recover from the patient the charge specified in column 2 of Schedule 1 in respect of that appliance.
 
@@ -214,7 +220,7 @@ These Regulations may be cited as the National Health Service (Charges for Drugs
 
 (3) A Health Board which makes and recovers a charge under paragraph (1) shall, if required by the patient, give the patient a receipt for the amount paid, on a form provided for the purpose by the Health Board, which contains forms of declaration in support of an application for a refund.
 
-## 7. Exemptions
+## 7. Exemptions[^c-4869f4aa5ebc05dcbfee53b6785bee59]
 
 (1) Subject to the provisions of paragraphs 1(1) and 4 of Schedule 11 to the Act and to the following provisions of this regulation, no charge shall be payable under these Regulations by–
 
@@ -263,7 +269,7 @@ These Regulations may be cited as the National Health Service (Charges for Drugs
 
 (8) The charges which may be made and recovered by virtue of these Regulations are subject to the provisions of the Travelling Expenses and Remission of Charges Regulations.
 
-## 8. Pre-payment certificates
+## 8. Pre-payment certificates[^c-8c9170cfcddfe23dedf19cdea363b9ff]
 
 (1) A person who holds a Community Health Index number or a person who holds a valid entitlement certificate may apply for a pre-payment certificate by completing and sending a form provided for that purpose by the Health Board to the address specified in the form.
 
@@ -338,7 +344,7 @@ an application for a refund may be made by or on behalf of that person in accord
 
 (14) In this regulation a “Community Health Index number” means a patient identifying number issued to patients by the Agency.
 
-## 9. Entitlement cards
+## 9. Entitlement cards[^c-9473d33440b6e8601fa6d4d4f90d15d3]
 
 (1) Any qualifying patient may apply for a card (in these Regulations referred to as an “entitlement card”) by completing and sending a form provided for that purpose by the Agency to the address specified in the form.
 
@@ -359,7 +365,7 @@ an application for a refund may be made by or on behalf of that person in accord
 - (a) “the sum referred to in paragraph (1)(b)(ii)” shall read as “the sum specified in paragraph (1)(b)(i)”; and
 - (b) “the sum referred to in paragraph (1)(a)(ii)” shall read as “the sum specified in paragraph (1)(a)(i)”.
 
-## 10. Refunds of charges paid
+## 10. Refunds of charges paid[^c-6f2be6fc1ebebf827bf2351b73ac3121]
 
 (1) Where a charge has been paid under these Regulations by or on behalf of a person who was at the time of payment eligible for exemption from that charge, a claim for refund may be made by or on behalf of that person.
 
@@ -369,7 +375,7 @@ an application for a refund may be made by or on behalf of that person in accord
 
 (4) A claim under this regulation for a refund shall be made to the Health Board which received payment of the charge, and any refund shall be made in such manner and subject to such conditions as the Scottish Ministers may determine.
 
-## 11. Partial refunds of pre-payment certificates due to price reduction
+## 11. Partial refunds of pre-payment certificates due to price reduction[^c-f132318669134603a1caabbcf1446e66]
 
 (1) Where a person has obtained a pre-payment certificate prior to 1st April 2008 by virtue of making any payment in accordance with–
 
@@ -391,7 +397,7 @@ and the pre-payment certificate remains valid for one or more complete months fo
 
 (6) For the purposes of this regulation, “complete month” means the month beginning on the monthly anniversary of the date upon which the pre-payment certificate became valid and ending on the date immediately preceding that date in the following month.
 
-## 12. Revocations and transitional provisions
+## 12. Revocations and transitional provisions[^c-65640b531eff17126b9fdb2f73f771c1]
 
 (1) The 2007 (No. 2) Regulations are revoked.
 
@@ -415,7 +421,7 @@ and the pre-payment certificate remains valid for one or more complete months fo
 
   shall be valid for the purposes of these Regulations, as if such certificates had been issued under regulation 7 or regulation 8 respectively of these Regulations.
 
-## 13. Consequential amendments
+## 13. Consequential amendments[^c-78c9fe14d19fa7d4d1a1e0fbdd8f9849]
 
 The provisions listed in Schedule 3 are amended as specified in that Schedule.
 
@@ -429,7 +435,7 @@ Edinburgh
 
 31st January 2008
 
-## SCHEDULE 1 — CHARGES FOR FABRIC SUPPORTS AND WIGS
+## SCHEDULE 1 — CHARGES FOR FABRIC SUPPORTS AND WIGS[^c-f6929cc4b909420d7988d7022870df37]
 
 Regulation 6
 
@@ -450,7 +456,7 @@ Regulation 6
 
 Regulation 7(1)(i)
 
-**1.** Any of the following drugs or preparations containing these drugs, used for the purpose of treating Tuberculosis:
+**1.**[^c-dc3abdba918b58d559f650baca2a8427] Any of the following drugs or preparations containing these drugs, used for the purpose of treating Tuberculosis:
 
 - Capreomycin
 - Cylocersine
@@ -461,14 +467,14 @@ Regulation 7(1)(i)
 - Rifampicin
 - Streptomycin
 
-**2.** Any of the following drugs or preparations containing these drugs, used for the purpose of treating drug resistant Tuberculosis or associated infections:
+**2.**[^c-7ef4952d745afdc54f3d13f3f1d2d8a3] Any of the following drugs or preparations containing these drugs, used for the purpose of treating drug resistant Tuberculosis or associated infections:
 
 - Amikacin
 - Macrolides
 - Quinolones
 - Protionamide
 
-**3.** The following drug or preparation used prophylactically, when treating Tuberculosis:
+**3.**[^c-b7f799d0ca905a8223312b16ec619eab] The following drug or preparation used prophylactically, when treating Tuberculosis:
 
 - Pyridoxine
 
@@ -476,7 +482,7 @@ Regulation 7(1)(i)
 
 Regulation 13
 
-### 1. The National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995
+### 1. The National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995[^c-67b02d981d2e63d48ee557a409e7416a]
 
 (1) The National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995[^f00038] are amended as follows.
 
@@ -486,7 +492,7 @@ Regulation 13
 - (b) in paragraph (aa) for “2007” substitute “2008”; and
 - (c) in paragraphs (b) and (c) for “(g) of the 2007 Regulations” substitute “(i) of the 2008 Regulations”.
 
-### 2. The National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003
+### 2. The National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^c-6393e31dcaeccd5f73d956a0b7bbdb05]
 
 (1) The National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^f00042] are amended as follows.
 
@@ -506,7 +512,7 @@ Regulation 13
 - (a) for “(a) or (b)” substitute “(a), (b) or (c)”; and
 - (b) for “2007” substitute “2008”.
 
-### 3. The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004
+### 3. The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^c-a57fb52c0e506656be79ee96b113eedd]
 
 (1) The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulation 2004[^f00047] are amended as follows.
 
@@ -521,7 +527,7 @@ Regulation 13
 - (a) for “7 of the 2007 Regulations” substitute “7 of the 2008 Regulations”; and
 - (b) for “7(1)(a) to (g) of the 2007 Regulations” substitute “7(1)(a) to (i) of the 2008 Regulations”.
 
-### 4. The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004
+### 4. The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^c-d293d67ff4612287d0b89adc55234338]
 
 (1) The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^f00051] are amended as follows.
 
@@ -536,7 +542,7 @@ Regulation 13
 - (a) in sub paragraph (9) for “2007” substitute “2008”; and
 - (b) in sub paragraphs (10) and (11) for “7(1)(a) to (g) of the 2007 Regulations” substitute “7(1)(a) to (i) of the 2008 Regulations”.
 
-### 5. The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004
+### 5. The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^c-2325263ebeae206de4200cf533c88ba7]
 
 (1) The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^f00055] are amended as follows.
 
@@ -618,6 +624,10 @@ Schedule 3 sets out consequential amendments.
 
 [^f00001]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); section 25(2) was amended by the European Communities (Medical, Dental and Nursing Professions) (Linguistic Knowledge) Order 1981 (S.I. [1981/432](https://www.legislation.gov.uk/uksi/1981/432)), article 4(3), the Health and Medicines Act [1998 (c. 49)](https://www.legislation.gov.uk/ukpga/1998/49), Schedule 2, paragraph 11, the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 40(2) and Schedule 9, paragraph 19(6), the National Health Service (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), Schedule 2, paragraph 43 and Schedule 3, Part I and the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), section 56(3); section 27(2) was substituted by the National Health Service (Amendment) Act [1986 (c. 66)](https://www.legislation.gov.uk/ukpga/1986/66), section 3(3) and amended by the 1990 Act, Schedule 9, Part I, paragraph 19(7); section 105(7), was amended by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 6, paragraph 5(1) and Schedule 7, the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), Schedule 9, paragraph 24, and by the 1999 Act, Schedule 4, paragraph 60, contains provisions relevant to the making of these regulations; section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. See section 66(1) of the 1999 Act in relation to any provision of that Act being taken to be a pre-commencement enactment within the meaning of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”). The functions of the Secretary of State were transferred to the Scottish Ministers, by virtue of section 53 of the 1998 Act.
 
+[^c-a97c28c1308034069f686d6a020e554b]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-8da0752bde40d933cccf8b94e96fc191]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
 [^f00002]: Footnote: S.I. [2000/620](https://www.legislation.gov.uk/uksi/2000/620); amended by S.I. [2000/2393](https://www.legislation.gov.uk/uksi/2000/2393) and [3189](https://www.legislation.gov.uk/uksi/2000/3189), [2001/746](https://www.legislation.gov.uk/uksi/2001/746) and [2887](https://www.legislation.gov.uk/uksi/2001/2887), [2002/548](https://www.legislation.gov.uk/uksi/2002/548), [1386](https://www.legislation.gov.uk/uksi/2002/1386) and [2352](https://www.legislation.gov.uk/uksi/2002/2352), [2003/585](https://www.legislation.gov.uk/uksi/2003/585), [699](https://www.legislation.gov.uk/uksi/2003/699) and [1084](https://www.legislation.gov.uk/uksi/2003/1084), [2004/663](https://www.legislation.gov.uk/uksi/2004/663) and [696](https://www.legislation.gov.uk/uksi/2004/696), [2005/578](https://www.legislation.gov.uk/uksi/2005/578), [2006/675](https://www.legislation.gov.uk/uksi/2006/675), [2007/543](https://www.legislation.gov.uk/uksi/2007/543), [674](https://www.legislation.gov.uk/uksi/2007/674), [1510](https://www.legislation.gov.uk/uksi/2007/1510) and [1975](https://www.legislation.gov.uk/uksi/2007/1975) and [2008/571](https://www.legislation.gov.uk/uksi/2008/571).
 
 [^f00003]: Footnote: [S.S.I. 2001/430](https://www.legislation.gov.uk/ssi/2001/430); amended by [S.S.I. 2002/100](https://www.legislation.gov.uk/ssi/2002/100), [2003/130](https://www.legislation.gov.uk/ssi/2003/130) and [295](https://www.legislation.gov.uk/ssi/2003/295), [2004/66](https://www.legislation.gov.uk/ssi/2004/66) and [212](https://www.legislation.gov.uk/ssi/2004/212), [2005/124](https://www.legislation.gov.uk/ssi/2005/124), [326](https://www.legislation.gov.uk/ssi/2005/326) and [617](https://www.legislation.gov.uk/ssi/2005/617), and [2006/149](https://www.legislation.gov.uk/ssi/2006/149) and [246](https://www.legislation.gov.uk/ssi/2006/246); and S.I. [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771); revoked by [S.S.I. 2007/139](https://www.legislation.gov.uk/ssi/2007/139) but continued to apply for certain purposes by virtue of [S.S.I. 2007/139](https://www.legislation.gov.uk/ssi/2007/139) and [389](https://www.legislation.gov.uk/ssi/2007/389).
@@ -668,13 +678,23 @@ Schedule 3 sets out consequential amendments.
 
 [^f00026]: Footnote: [S.S.I. 2004/163](https://www.legislation.gov.uk/ssi/2004/163).
 
+[^c-df9c19a0f42bd239de1b48ff623329d6]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
 [^f00027]: Footnote: The charge specified in regulation 3(1)(a) of the 2000 Regulations, as at 1st April 2008, is £7.10, that is to say a charge of £14.20 per pair.
 
 [^f00028]: Footnote: The charge specified in regulation 3(1)(b) of the 2000 Regulations, as at 1st April 2008, is £7.10.
 
+[^c-d6d4bea4cf34ca432a6eae44f50f1e5a]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
 [^f00029]: Footnote: [S.S.I. 2004/115](https://www.legislation.gov.uk/ssi/2004/115). Paragraph 44 of Schedule 5 was amended by [S.S.I. 2007/206](https://www.legislation.gov.uk/ssi/2007/206), [392](https://www.legislation.gov.uk/ssi/2007/392) and [501](https://www.legislation.gov.uk/ssi/2007/501).
 
 [^f00030]: Footnote: [S.S.I. 2004/116](https://www.legislation.gov.uk/ssi/2004/116). Paragraph 15 of Schedule 1 was amended by [S.S.I. 2007/205](https://www.legislation.gov.uk/ssi/2007/205), [393](https://www.legislation.gov.uk/ssi/2007/393) and [502](https://www.legislation.gov.uk/ssi/2007/502).
+
+[^c-bf6cccae5d5cfd6ac9b6838e2adf61a3]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-a2b33f037f60fe1f39a7a78fe0ae2f87]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-4869f4aa5ebc05dcbfee53b6785bee59]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
 
 [^f00031]: Footnote: Paragraph 7 of Schedule 11 was inserted by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), section 26(2) and Schedule 5, Part II, paragraph 8.
 
@@ -682,13 +702,35 @@ Schedule 3 sets out consequential amendments.
 
 [^f00033]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20).
 
+[^c-8c9170cfcddfe23dedf19cdea363b9ff]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-9473d33440b6e8601fa6d4d4f90d15d3]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
 [^f00034]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c-6f2be6fc1ebebf827bf2351b73ac3121]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-f132318669134603a1caabbcf1446e66]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
 
 [^f00035]: Footnote: [S.S.I. 2007/139](https://www.legislation.gov.uk/ssi/2007/139), amended by [S.S.I. 2007/317](https://www.legislation.gov.uk/ssi/2007/317); [S.S.I. 2007/139](https://www.legislation.gov.uk/ssi/2007/139) and [317](https://www.legislation.gov.uk/ssi/2007/317) were revoked by [S.S.I. 2007/389](https://www.legislation.gov.uk/ssi/2007/389), but the provisions of [S.S.I. 2007/139](https://www.legislation.gov.uk/ssi/2007/139) continue to apply after 1st October 2007 in respect of pre-payment certificates issued under regulation 8 of those Regulations (by virtue of regulation 10(2)(c)(ii) of [S.S.I. 2007/389](https://www.legislation.gov.uk/ssi/2007/389)).
 
 [^f00036]: Footnote: [S.S.I. 2007/389](https://www.legislation.gov.uk/ssi/2007/389).
 
+[^c-65640b531eff17126b9fdb2f73f771c1]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
 [^f00037]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c-78c9fe14d19fa7d4d1a1e0fbdd8f9849]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-f6929cc4b909420d7988d7022870df37]: Commencement: Sch. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-dc3abdba918b58d559f650baca2a8427]: Commencement: Sch. 2 para. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-7ef4952d745afdc54f3d13f3f1d2d8a3]: Commencement: Sch. 2 para. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-b7f799d0ca905a8223312b16ec619eab]: Commencement: Sch. 2 para. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
+[^c-67b02d981d2e63d48ee557a409e7416a]: Commencement: Sch. 3 para. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
 
 [^f00038]: Footnote: S.I. [1995/414](https://www.legislation.gov.uk/uksi/1995/414); amended by S.I. [1996/840](https://www.legislation.gov.uk/uksi/1996/840) and [1504](https://www.legislation.gov.uk/uksi/1996/1504), [1997/696](https://www.legislation.gov.uk/uksi/1997/696), [1998/2224](https://www.legislation.gov.uk/uksi/1998/2224) and [3031](https://www.legislation.gov.uk/uksi/1998/3031), [S.S.I. 1999/57](https://www.legislation.gov.uk/ssi/1999/57), [2001/70](https://www.legislation.gov.uk/ssi/2001/70), [2002/111](https://www.legislation.gov.uk/ssi/2002/111), [2003/296](https://www.legislation.gov.uk/ssi/2003/296), [2004/39](https://www.legislation.gov.uk/ssi/2004/39) and [212](https://www.legislation.gov.uk/ssi/2004/212), S.I. [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.S.I. 2005/327](https://www.legislation.gov.uk/ssi/2005/327) and [618](https://www.legislation.gov.uk/ssi/2005/618), [2006/143](https://www.legislation.gov.uk/ssi/2006/143), [245](https://www.legislation.gov.uk/ssi/2006/245) and [320](https://www.legislation.gov.uk/ssi/2006/320), S.I. [2007/289](https://www.legislation.gov.uk/uksi/2007/289), [S.S.I. 2007/208](https://www.legislation.gov.uk/ssi/2007/208), [390](https://www.legislation.gov.uk/ssi/2007/390) and [500](https://www.legislation.gov.uk/ssi/2007/500).
 
@@ -697,6 +739,8 @@ Schedule 3 sets out consequential amendments.
 [^f00040]: Footnote: [S.S.I. 2007/389](https://www.legislation.gov.uk/ssi/2007/389).
 
 [^f00041]: Footnote: [S.S.I. 2008/27](https://www.legislation.gov.uk/ssi/2008/27); amended by S.S.I [2008/105](https://www.legislation.gov.uk/ssi/2008/105).
+
+[^c-6393e31dcaeccd5f73d956a0b7bbdb05]: Commencement: Sch. 3 para. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
 
 [^f00042]: Footnote: [S.S.I. 2003/460](https://www.legislation.gov.uk/ssi/2003/460); amended by [S.S.I. 2004/102](https://www.legislation.gov.uk/ssi/2004/102) and [166](https://www.legislation.gov.uk/ssi/2004/166), [2005/3](https://www.legislation.gov.uk/ssi/2005/3) and [179](https://www.legislation.gov.uk/ssi/2005/179), [2006/142](https://www.legislation.gov.uk/ssi/2006/142), [183](https://www.legislation.gov.uk/ssi/2006/183) and [440](https://www.legislation.gov.uk/ssi/2006/440) and [2007/225](https://www.legislation.gov.uk/ssi/2007/225), [259](https://www.legislation.gov.uk/ssi/2007/259) and [391](https://www.legislation.gov.uk/ssi/2007/391).
 
@@ -708,6 +752,8 @@ Schedule 3 sets out consequential amendments.
 
 [^f00046]: Footnote: Regulation 11(6)(a)(i) was substituted by [S.S.I. 2004/166](https://www.legislation.gov.uk/ssi/2004/166) and amended by [S.S.I. 2007/259](https://www.legislation.gov.uk/ssi/2007/259).
 
+[^c-a57fb52c0e506656be79ee96b113eedd]: Commencement: Sch. 3 para. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
 [^f00047]: Footnote: [S.S.I. 2004/114](https://www.legislation.gov.uk/ssi/2004/114); amended by [S.S.I. 2004/216](https://www.legislation.gov.uk/ssi/2004/216), [2005/333](https://www.legislation.gov.uk/ssi/2005/333), [2006/136](https://www.legislation.gov.uk/ssi/2006/136), S.I. [2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [S.S.I. 2007/207](https://www.legislation.gov.uk/ssi/2007/207) and [413](https://www.legislation.gov.uk/ssi/2007/413).
 
 [^f00048]: Footnote: Regulation 2 was amended by [S.S.I. 2005/333](https://www.legislation.gov.uk/ssi/2005/333), [2006/136](https://www.legislation.gov.uk/ssi/2006/136), S.I. [2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [S.S.I. 2007/207](https://www.legislation.gov.uk/ssi/2007/207) and [413](https://www.legislation.gov.uk/ssi/2007/413). The definition of “the 2007 Regulations” was inserted by [S.S.I. 2007/207](https://www.legislation.gov.uk/ssi/2007/207) and substituted by [S.S.I. 2007/413](https://www.legislation.gov.uk/ssi/2007/413).
@@ -716,6 +762,8 @@ Schedule 3 sets out consequential amendments.
 
 [^f00050]: Footnote: Paragraph 3(f) of Schedule 1 was amended by [S.S.I. 2007/207](https://www.legislation.gov.uk/ssi/2007/207) and [413](https://www.legislation.gov.uk/ssi/2007/413).
 
+[^c-d293d67ff4612287d0b89adc55234338]: Commencement: Sch. 3 para. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
+
 [^f00051]: Footnote: [S.S.I. 2004/115](https://www.legislation.gov.uk/ssi/2004/115); amended by [S.S.I. 2004/162](https://www.legislation.gov.uk/ssi/2004/162) and [215](https://www.legislation.gov.uk/ssi/2004/215), [2005/337](https://www.legislation.gov.uk/ssi/2005/337), [2006/247](https://www.legislation.gov.uk/ssi/2006/247), S.I. [2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [S.S.I. 2007/206](https://www.legislation.gov.uk/ssi/2007/206), [392](https://www.legislation.gov.uk/ssi/2007/392) and [501](https://www.legislation.gov.uk/ssi/2007/501).
 
 [^f00052]: Footnote: Regulation 2(1) was amended by [S.S.I. 2004/162](https://www.legislation.gov.uk/ssi/2004/162), [2005/337](https://www.legislation.gov.uk/ssi/2005/337), [2006/247](https://www.legislation.gov.uk/ssi/2006/247), S.I. [2007/289](https://www.legislation.gov.uk/uksi/2007/289), [S.S.I. 2007/206](https://www.legislation.gov.uk/ssi/2007/206), [392](https://www.legislation.gov.uk/ssi/2007/392) and [501](https://www.legislation.gov.uk/ssi/2007/501). The definition of “the 2007 Regulations” was inserted by [S.S.I. 2007/206](https://www.legislation.gov.uk/ssi/2007/206) and substituted by [S.S.I. 2007/392](https://www.legislation.gov.uk/ssi/2007/392).
@@ -723,6 +771,8 @@ Schedule 3 sets out consequential amendments.
 [^f00053]: Footnote: [S.S.I. 2008/27](https://www.legislation.gov.uk/ssi/2008/27); amended by S.S.I [2008/105](https://www.legislation.gov.uk/ssi/2008/105).
 
 [^f00054]: Footnote: Paragraph 44(9), (10) and (11) was amended by [S.S.I. 2007/206](https://www.legislation.gov.uk/ssi/2007/206) and [501](https://www.legislation.gov.uk/ssi/2007/501).
+
+[^c-2325263ebeae206de4200cf533c88ba7]: Commencement: Sch. 3 para. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/27/regulation/1)
 
 [^f00055]: Footnote: [S.S.I. 2004/116](https://www.legislation.gov.uk/ssi/2004/116); amended by [2004/162](https://www.legislation.gov.uk/ssi/2004/162), [217](https://www.legislation.gov.uk/ssi/2004/217), [2005/336](https://www.legislation.gov.uk/ssi/2005/336), [2006/248](https://www.legislation.gov.uk/ssi/2006/248), S.I. [2007/289](https://www.legislation.gov.uk/uksi/2007/289), [S.S.I. 2007/205](https://www.legislation.gov.uk/ssi/2007/205), [393](https://www.legislation.gov.uk/ssi/2007/393) and [502](https://www.legislation.gov.uk/ssi/2007/502).
 

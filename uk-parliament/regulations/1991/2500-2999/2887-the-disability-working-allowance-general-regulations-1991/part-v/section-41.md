@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 41
 act: The Disability Working Allowance (General) Regulations 1991
 section: '41'
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 41
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -26,12 +26,12 @@ In this Chapter, unless the context otherwise requires—
 - “a course of advanced education” means
   - (a) a full-time course leading to a postgraduate degree or comparable qualification, a first degree or comparable qualification, a diploma of higher education, a higher national diploma, a higher national diploma or higher national certificate of either the Business &[^c-053b1e784c40142f21d094866276200c] Technology[^c-cfa86607fc89321de35a1468cd9bb6a6] Education Council or the Scottish Vocational Education Council or a teaching qualification; or
   - (b) any other full-time course which is a course of a standard above ordinary national diploma, a national diploma or national certificate of either the Business &[^c-ff5feaf3fe9bbca7ea19b74f4aa8a83b] Technology Education Council or the Scottish Vocational Education Council a general certificate of education (advanced level), a Scottish certificate of education (higher level) or a Scottish certificate of sixth year studies;
-- “contribution” means any contribution in respect of the income of a student or[^c-90bafc4abfe6f3b566770cbe470a7446] of any other person which a Minister of the Crown or an education authority takes into account in assessing the amount of the student’s grant or student loan; or any sums, which in determining the amount of the student’s allowance or bursary in Scotland in terms of the Students’ Allowances (Scotland) Regulations 1996 or the Education Authority (Bursaries) (Scotland) Regulations 1995, the Secretary of State or education authority takes into account being sums which the Secretary of State or the education authority consider that the holder of the allowance or bursary, the holder’s parents and the holder’s spouse can reasonably be expected to contribute towards the holder’s expenses;[^c-e8b2199fb64a8c2b4e9901a19133594c]
+- “contribution” means any contribution in respect of the income of a student or[^c-90bafc4abfe6f3b566770cbe470a7446] of any other person which the Secretary of State, the Scottish Ministers[^c-0d7b91bde8d1f23a44aaa7a283dd6b68] or an education authority takes into account in assessing the amount of the student’s grant or student loan; or any sums, which in determining the amount of the student’s allowance or bursary in Scotland in terms of the Students’ Allowances (Scotland) Regulations 1996 or the Education Authority (Bursaries) (Scotland) Regulations 1995,[^c-e8b2199fb64a8c2b4e9901a19133594c] the Scottish Ministers or education authority take[^c-e7b7b964c141f48f67ee1c0b6381f59b] into account being sums which the Scottish Ministers or the education authority consider[^c-6cc081f49aaa7e805f8cfc171dd38738] that the holder of the allowance or bursary, the holder’s parents and the holder’s spouse can reasonably be expected to contribute towards the holder’s expenses;
 - “course of study” means any [^c-1d3aff8713d4703b043e2807f5bb23d8]... course of study or sandwich course whether or not a grant is made for attending it;
 - “covenant income” means the gross income payable to a student under a Deed of Covenant by a person whose income is, or is likely to be, taken into account in assessing the student’s grant or award;
 - “daily living costs” means food, ordinary clothing or footwear, household fuel or housing costs;[^c-793bc8896359769eedde1434f7f43ce9]
 - “education authority” means a government department, a local education authority as defined in section 114(1) of the Education Act 1944[^f00065] (interpretation), an education authority as defined in section 135(1) of the Education (Scotland) Act 1980[^f00066] (interpretation), an education and library board established under Article 3 of the Education and Libraries (Northern Ireland) Order 1986[^f00067] , any body which is a research council for the purposes of the Science and Technology Act 1965[^f00068] or any analogous government department, authority, board or body of the Channel Islands, Isle of Man or any other country outside Great Britain;
-- “grant” means any kind of educational grant or award and includes any scholarship, studentship, exhibition, allowance or bursary but does not include a payment derived from funds made available by the Secretary of State for the purpose of assisting students in financial difficulties under section 100 of the Education Act 1944, sections 131 and 132 of the Education Reform Act 1988[^f00069] or section 73 of the Education (Scotland) Act 1980;
+- “grant” means any kind of educational grant or award and includes any scholarship, studentship, exhibition, allowance or bursary but does not include a payment derived from funds made available by the Secretary of State or the Scottish Ministers[^c-2702dd82d8d2d0ef28d4bc4bdbd9fef1] for the purpose of assisting students in financial difficulties under section 100 of the Education Act 1944, sections 131 and 132 of the Education Reform Act 1988[^f00069] or section 73 of the Education (Scotland) Act 1980;
 - “grant income” means—
   - (a) any income by way of a grant;
   - (b) any contribution which has been assessed whether or not it has been paid,
@@ -72,7 +72,13 @@ In this Chapter, unless the context otherwise requires—
 
 [^c-90bafc4abfe6f3b566770cbe470a7446]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1991/2887/regulation/41) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 1998 (S.I. 1998/563)](https://www.legislation.gov.uk/uksi/1998/563), [regs. 1(5)](https://www.legislation.gov.uk/uksi/1998/563/regulation/1/5), [4(1)](https://www.legislation.gov.uk/uksi/1998/563/regulation/4/1)[(2)(b)](https://www.legislation.gov.uk/uksi/1998/563/regulation/4/2/b)
 
+[^c-0d7b91bde8d1f23a44aaa7a283dd6b68]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1991/2887/regulation/41) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/4/a)
+
 [^c-e8b2199fb64a8c2b4e9901a19133594c]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1991/2887/regulation/41) substituted (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(2)(a)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/2/a)
+
+[^c-e7b7b964c141f48f67ee1c0b6381f59b]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1991/2887/regulation/41) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/4/b)
+
+[^c-6cc081f49aaa7e805f8cfc171dd38738]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1991/2887/regulation/41) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/4/c)
 
 [^c-1d3aff8713d4703b043e2807f5bb23d8]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1991/2887/regulation/41) omitted (with effect in accordance with reg. 7(4) of the amending S.I.) by virtue of [The Tax Credits Schemes (Miscellaneous Amendments No. 4) Regulations 2000 (S.I. 2000/2978)](https://www.legislation.gov.uk/uksi/2000/2978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/7/1)[(2)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/7/2)
 
@@ -85,6 +91,8 @@ In this Chapter, unless the context otherwise requires—
 [^f00067]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594).
 
 [^f00068]: Footnote: [1965 c. 4](https://www.legislation.gov.uk/ukpga/1965/4).
+
+[^c-2702dd82d8d2d0ef28d4bc4bdbd9fef1]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1991/2887/regulation/41) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2001/2539/regulation/5)
 
 [^f00069]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 

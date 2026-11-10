@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 56
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '56'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 56
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 56. Modification of loan for living costs entitlement calculation where students change location category
+## 56. Modification of loan for living costs entitlement calculation where students change location category[^c-9e2fc20e7cc4486c53060aefe94ccdcc]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) This regulation applies where an eligible student falls, consecutively, into two or more of categories A, B, C and D during a course year.
 
@@ -33,3 +39,7 @@ where—
 
 - (a) subject to sub-paragraph (b), the eligible student is treated as falling into a particular category on every day that they do so;
 - (b) on the day that the eligible student changes category, they are treated as falling into the new category for all of that day.
+
+## Annotations
+
+[^c-9e2fc20e7cc4486c53060aefe94ccdcc]: Commencement: Reg. 56 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

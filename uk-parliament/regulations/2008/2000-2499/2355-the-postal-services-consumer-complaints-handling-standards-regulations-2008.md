@@ -3,33 +3,35 @@ title: The Postal Services (Consumer Complaints Handling Standards) Regulations 
 id: uksi/2008/2355
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '2008-09-03'
-text_date: '2008-10-01'
+text_date: '2011-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2355
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2355/pdfs/uksi_20082355_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2355/data.pdf
-pending_changes: 1
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Postal Services (Consumer Complaints Handling Standards) Regulations 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2355
+> This law has been repealed or revoked.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
 *Extent: E+W+S+N.I.*
 
+**No longer in force.**
+
 2008 No. 2355
 
 Postal Services
 
-The Postal Services (Consumer Complaints Handling Standards) Regulations 2008
+The Postal Services (Consumer Complaints Handling Standards) Regulations 2008 (revoked)[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
 Made
 
@@ -39,197 +41,58 @@ Coming into force
 
 1st October 2008
 
-The Postal Services Commission[^f00001] in exercise of the powers conferred by sections 43, 44 and 46 of the Consumers, Estate Agents and Redress Act 2007[^f00002], after considering the results of research to discover the views of a representative sample of persons likely to be affected and after consultation with persons and bodies appearing to be representative of persons likely to be affected by the Regulations in accordance with section 44(1) of the Act, and with the consent of the Secretary of State in accordance with section 43(4) of that Act, makes the following Regulations:
+[^c-56f5e45888d7dac8212cd2ab8d10409c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART I — General
+**No longer in force.**
 
-### 1. Citation and commencement[^c-732b3d8aa27fbe5b76abb22c13f08aa7]
+## PART I — General[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-These Regulations may be cited as the Postal Services (Consumer Complaints Handling Standards) Regulations 2008 and shall come into force on 1st October 2008.
+### 1. Citation and commencement[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-### 2. Interpretation[^c-48181520c0e33482fd2ef5d21d4921ce]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-In these Regulations—
+### 2. Interpretation[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-- “the Act” means the Consumers, Estate Agents and Redress Act 2007;
-- “the Commission” means the Postal Services Commission;
-- “complaint” means any expression of dissatisfaction made to an organisation, related to any one or more of its products, services or the manner in which the organisation has dealt with any such expression of dissatisfaction, where a response is explicitly or implicitly required or expected to be provided;
-- “complainant” means a person who has made a consumer complaint;
-- “complaints handling procedure” means, in relation to each regulated provider, a procedure which complies with Regulation 3 and which sets out how a consumer complaint can be made to, and will be handled and progressed by, that regulated provider;
-- “completed complaint” means a consumer complaint in respect of which there remains no outstanding action to be taken by the regulated provider in accordance with its complaint handling procedure;
-- “consumer complaint” means a complaint which is made against a regulated provider either—
-  - (a) by a person in that person’s capacity as a relevant consumer in relation to that regulated provider; or
-  - (b) by a person acting on behalf of such a relevant consumer;
-- “consumer complaint report” means the report which is to be prepared and published in accordance with Regulation 9;
-- “Consumer Direct” means the telephone and online consumer advice service operated by the Office of Fair Trading;
-- “contract customer” means a person who is a consumer in relation to a relevant postal service where the provision of the relevant postal service is governed by a contract between that consumer and the regulated provider;
-- “the Council” means the National Consumer Council established by section 1 of the Act;
-- “Office of Fair Trading” means the body of that name which is established by section 1 of the Enterprise Act 2002[^f00003];
-- “qualifying redress scheme” means a redress scheme which is approved by the Commission in accordance with section 49 of the Act or which is administered and designated in accordance with section 47(1)(b) of the Act;
-- “regulated provider” means a person holding a licence under Part 2 of the Postal Services Act 2000 who provides relevant postal services to a relevant consumer.
-- “relevant consumer” means a person who is a consumer in relation to relevant postal services, including an addressee of mail, but excluding a consumer of a relevant postal service who is a contract customer in respect of that service;
-- “section 12 complaint” means a consumer complaint to which section 12(3) of the Act applies;
-- “specified time period” means the time period specified by the regulated provider in its complaint handling procedure or as otherwise agreed with a relevant consumer, as the maximum period that the regulated provider has to complete a consumer complaint before the relevant consumer who made that consumer complaint, or on whose behalf that consumer complaint was made, becomes entitled to refer that consumer complaint to a qualifying redress scheme;
-- “vulnerable consumer” means a person who is vulnerable for the purpose of section 12(2) of the Act; and
-- “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971[^f00004].
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — Standards for handling consumer complaints
+## PART II — Standards for handling consumer complaints[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-### 3. Regulated providers’ complaints handling procedure[^c-7c3e9731ee9a4229138e86c64b012a10]
+### 3. Regulated providers’ complaints handling procedure[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-(1) Each regulated provider must have in place at all times a complaints handling procedure.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Each regulated provider must comply with its complaints handling procedure in relation to each consumer complaint made through that complaint handling procedure.
+### 4. Recording consumer complaints[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-(3) Each regulated provider’s complaints handling procedure must—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) be transparent, simple and inexpensive;
-- (b) be in plain and intelligible language;
-- (c) allow for consumer complaints to be made orally or in writing (including electronically);
-- (d) set out contact details to allow a relevant consumer to make a consumer complaint;
-- (e) allow for consumer complaints to be progressed through each stage of the complaints handling procedure orally or in writing (including electronically);
-- (f) allow for consumer complaints with no evidence base to be dealt with;
-- (g) describe the process which the regulated provider will follow with a view to investigating and resolving a consumer complaint and the likely timescales for that process;
-- (h) provide for an internal review of an existing consumer complaint where a complainant indicates that they would like such a review to occur because he or she is dissatisfied with the handling of that consumer complaint;
-- (i) set out contact details for Consumer Direct;
-- (j) describe the complainant’s right to refer a consumer complaint to a qualifying redress scheme—
-  - (i) from the point at which the regulated provider notifies the complainant in writing, that it is unable to complete the consumer complaint to the complainant’s satisfaction; or
-  - (ii) after the expiry of the specified time period.
+### 5. Signposting consumers to the redress scheme if consumer complaints cannot be completed[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-(4) Each regulated provider must, not less than once every three calendar years, review its complaints handling procedure and seek feedback from a reasonable number of complainants to ensure the complaints handling procedure meets the needs of relevant consumers.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Recording consumer complaints[^c-906c94c0dfff10936fcc29bc958ba935]
+### 6. Allocation and maintenance of adequate resources for complaints handling[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-(1) Upon receipt of a consumer complaint made through its complaints handling procedure each regulated provider must record in a written or electronic format the following details—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the date that the consumer complaint was received;
-- (b) whether the consumer complaint was made orally or in writing;
-- (c) the identity and contact details of the complainant; and
-- (d) a summary of the consumer complaint.
+### 7. Vulnerable consumers[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-(2) For each consumer complaint received through its complaints handling procedure the regulated provider must also record—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) a summary of any subsequent contact with the complainant and any advice given or action taken in response to the consumer complaint;
-- (b) the date (if any) on which the consumer complaint became a completed complaint; and
-- (c) the date (if any) on which the regulated provider sends a written notice to a complainant in accordance with Regulation 5.
+## PART III — Supply of information to consumers[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-(3) Where a regulated provider has recorded a consumer complaint as a completed complaint but within three months of the date of making that record a subsequent contact is made by or on behalf of the complainant in relation to that consumer complaint which indicates that it is not a completed complaint, the regulated provider—
+### 8. Information to be provided to consumers[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-- (a) must as soon as reasonably practicable take account of that consumer complaint in any report which it is obliged to prepare and publish in accordance with Regulation 9;
-- (b) shall not otherwise be entitled to treat that consumer complaint as a completed complaint for the purposes of these Regulations until that consumer complaint is demonstrably a completed complaint.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Signposting consumers to the redress scheme if consumer complaints cannot be completed[^c-7795a935c610328d4f5250e09a7d7901]
+### 9. Publication of information on consumer complaints[^c-56f5e45888d7dac8212cd2ab8d10409c]
 
-(1) Each regulated provider must send a notice to a complainant in accordance with paragraph (2) on the earlier of—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the first working day after the day on which the regulated provider becomes aware that it is not able to complete a consumer complaint made through its complaints handling procedure to the complainant’s satisfaction; or
-- (b) the first working day after the day on which the specified time period for that consumer complaint expires.
+[^c-56f5e45888d7dac8212cd2ab8d10409c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The notice must be in writing (including electronically) or in such other format as may have been agreed with the complainant, to notify the complainant—
+**May not be in force at this date. Check the source.**
 
-- (a) of their right to refer the consumer complaint to a qualifying redress scheme;
-- (b) of the contact details of the qualifying redress scheme;
-- (c) that the qualifying redress scheme process is independent of the regulated provider;
-- (d) that the qualifying redress scheme process is free of charge to the complainant;
-- (e) of the types of redress that may be available under a qualifying redress scheme; and
-- (f) that any outcome of the qualifying redress scheme process is binding upon the regulated provider but not upon the complainant.
-
-### 6. Allocation and maintenance of adequate resources for complaints handling[^c-5b56a5c06c699c316bed07bc594b2957]
-
-Each regulated provider must allocate and maintain such level of resources as may reasonably be required to enable that regulated provider to receive, handle and process consumer complaints made through its complaints handling procedure in an efficient and timely manner and in accordance with these Regulations.
-
-### 7. Vulnerable consumers[^c-15c0065cf5da859b76970a89086580c0]
-
-(1) Each regulated provider must put in place arrangements to deal with section 12 complaints made through its complaints handling procedure.
-
-(2) If a regulated provider identifies a consumer as a vulnerable consumer with a consumer complaint, or the Council refers such a consumer to a regulated provider, that regulated provider must take such additional steps as it considers necessary or appropriate with a view to assisting that vulnerable consumer and completing their consumer complaint in an appropriate and prompt manner.
-
-## PART III — Supply of information to consumers
-
-### 8. Information to be provided to consumers[^c-bc7224d6647cd37dbf628fa7a623137e]
-
-(1) Each regulated provider must—
-
-- (a) publish its complaints handling procedure in such a manner as will ensure reasonable publicity for it;
-- (b) ensure that its complaints handling procedure appears at a clear and prominent location on any relevant website it operates or controls; and
-- (c) ensure that details of how to make a consumer complaint are made available at all its business premises which are accessible to the public, including the premises of its agents.
-
-(2) Where a regulated provider becomes aware, following contact by or on behalf of the complainant, that a consumer complaint which the regulated provider had recorded as a completed complaint is not a completed complaint, the regulated provider must as soon as reasonably practicable—
-
-- (a) direct the complainant to the complaints handling procedure; and
-- (b) offer to provide a copy of the complaints handling procedure to the complainant free of charge.
-
-(3) Each regulated provider must provide a copy of its complaints handling procedure, free of charge, to any person who requests it.
-
-### 9. Publication of information on consumer complaints[^c-562b01b0938c04c3a8c752b53e20b35c]
-
-(1) Each regulated provider must—
-
-- (a) publish by 30th June each year a consumer complaints report in such a manner as will ensure reasonable publicity for it;
-- (b) publish its consumer complaints report at a clear and prominent location on any website it operates or controls; and
-- (c) provide a copy of its consumer complaints report, free of charge, to any person who requests it.
-
-(2) A consumer complaints report is a report in relation to the twelve month period ending on 31st March of the year in which the report is published which contains the following information—
-
-- (a) the number of consumer complaints which the regulated provider received from relevant consumers, during that period, which had not become completed complaints within that period; and
-- (b) the number of consumer complaints which the regulated provider received from relevant consumers, during that period, which had become completed complaints within that period,
-
-in each case presenting the information broken down by no more than ten of the main causes of consumer complaint.
-
-The seal of the Postal Services Commission here affixed is authenticated by the signature of
-
-Sarah Chambers
-
-A member of the Postal Services Commission
-
-3rd September 2008
-
-I consent
-
-Gareth Thomas
-
-Parliamentary Under Secretary of State for Trade and Consumer Affairs
-
-Department for Business, Enterprise & Regulatory Reform
-
-2nd September 2008
-
-EXPLANATORY NOTE
-
-(This note is not part of the Regulations)
-
-These Regulations require a licensed provider of postal services that provide licensed postal services to relevant consumers to have in place, publish and comply with a complaints handling procedure to handle consumer complaints from receipt through to completion. The complaints handling procedure must meet the requirements set out in regulation 3, which include a requirement that the procedure be transparent, simple and inexpensive, be in plain and intelligible language and must describe the process the licensed provider will follow to investigate and complete a complaint, and the likely timescale for that process.
-
-Regulation 4 specifies the information that the licensed provider must record about a consumer complaint, and regulation 5 provides that where the licensed provider becomes aware that it will not be able to complete a consumer complaint through its complaints handling procedure it must inform the complainant of their right to refer the complaint to a qualifying redress scheme. Regulation 6 requires each licensed provider to allocate sufficient resources to enable them to handle consumer complaints, and regulation 7 makes provision for the handling of consumer complaints made by vulnerable consumers.
-
-The Regulations also require each licensed provider to record consumer complaints made through its complaints handling procedure and publish an annual report containing information on the consumer complaints it has received.
-
-The Regulations do not require complaints handling procedures to apply to senders of mail who have a contract with a licensed provider, where the complaint relates to mail items conveyed under that contract.
+[^c-56f5e45888d7dac8212cd2ab8d10409c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: The Postal Services Commission was established by the Postal Services Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
-
-[^f00002]: Footnote: [2007 c.17](https://www.legislation.gov.uk/ukpga/2007/17).
-
-[^c-732b3d8aa27fbe5b76abb22c13f08aa7]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
-
-[^c-48181520c0e33482fd2ef5d21d4921ce]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
-
-[^f00003]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40).
-
-[^f00004]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
-
-[^c-7c3e9731ee9a4229138e86c64b012a10]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
-
-[^c-906c94c0dfff10936fcc29bc958ba935]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
-
-[^c-7795a935c610328d4f5250e09a7d7901]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
-
-[^c-5b56a5c06c699c316bed07bc594b2957]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
-
-[^c-15c0065cf5da859b76970a89086580c0]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
-
-[^c-bc7224d6647cd37dbf628fa7a623137e]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
-
-[^c-562b01b0938c04c3a8c752b53e20b35c]: Commencement: Reg. 9 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-56f5e45888d7dac8212cd2ab8d10409c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2355) revoked (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2085/schedule/2)

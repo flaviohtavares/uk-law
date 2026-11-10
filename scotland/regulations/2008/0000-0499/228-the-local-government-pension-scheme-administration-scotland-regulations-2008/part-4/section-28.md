@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 28
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '28'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/28
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 28
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 28. Appropriate funds
+## 28. Appropriate funds[^c-3d04de07b15f4368f3ce842c1e034623]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) The appropriate fund for a member or a person who is entitled to any benefit in respect of a person who has been a member is–
 
@@ -27,3 +33,7 @@ summary: ''
 (2) Where these Regulations or the Benefits Regulations refer to payments being made without referring to the fund to which or from which they are to be made, the reference is to payments being made to or from the fund which is the appropriate fund for the member in question.
 
 (3) Paragraph (2) does not apply where the payments made are benefits paid under an additional voluntary contributions scheme or a shared cost additional voluntary contributions scheme.
+
+## Annotations
+
+[^c-3d04de07b15f4368f3ce842c1e034623]: Commencement: Reg. 28 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

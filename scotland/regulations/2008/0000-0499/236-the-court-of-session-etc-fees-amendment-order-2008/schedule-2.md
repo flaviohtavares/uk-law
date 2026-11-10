@@ -2,9 +2,9 @@
 title: The Court of Session etc. Fees Amendment Order 2008, SCHEDULE 2
 act: The Court of Session etc. Fees Amendment Order 2008
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-06'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/236/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Court of Session etc. Fees Amendment Order 2008, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## SCHEDULE 2 — TABLE OF FEES
+## SCHEDULE 2 — TABLE OF FEES[^c-163e1eeb2fab8d6c27d8305ba4d4d505]
+
+*Extent: S*
+
+**Not yet in force.**
 
 Article 2(2)(b), as read with article 1
 
@@ -167,6 +173,8 @@ Fees payable from 1st April 2009
 [^f00009][^f00010][^f00011][^f00012][^f00013]
 
 ## Annotations
+
+[^c-163e1eeb2fab8d6c27d8305ba4d4d505]: Commencement: Sch. 2 in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/236/article/1/2)
 
 [^f00009]: Footnote: Column 3 shows the fees which were payable in Schedule 1 to this Order immediately before the coming into force of this Schedule. Where there is no entry in column 3 but an entry in column 2, the matter is new or has been amended such that no direct comparison can be made with the fee formerly payable.
 

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 95
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '95'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/95
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 95
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 95. “Appropriate Rights”/“Pension credit benefits” under the Scheme
+## 95. “Appropriate Rights”/“Pension credit benefits” under the Scheme[^c-195df1f830aab43b4b629a573cca3ab3]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Except as referred to in this regulation or otherwise in this Part of the Scheme, the appropriate rights under the Scheme to which a pension credit member shall be entitled shall consist only of a pension, a retirement grant and rights in relation to a death grant as provided under the Scheme.
 
@@ -27,3 +33,7 @@ summary: ''
 (5) A pension credit member is entitled to his or her pension credit benefits on reaching his or her normal benefit age.
 
 (6) The pension credit benefits are payable immediately on reaching normal retirement age and may not be deferred.
+
+## Annotations
+
+[^c-195df1f830aab43b4b629a573cca3ab3]: Commencement: Reg. 95 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

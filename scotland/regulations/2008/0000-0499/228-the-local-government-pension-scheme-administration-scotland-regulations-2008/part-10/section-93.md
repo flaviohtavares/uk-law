@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 93
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '93'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/93
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 93
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 93. “Implementation period” for discharge of pension credit
+## 93. “Implementation period” for discharge of pension credit[^c-945a027e9cc6acb720186a9f2f565957]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) The administering authority shall discharge its liability in respect of a pension credit within “the implementation period”[^f00067], which for a pension credit is the period of 4 months beginning with the later of–
 
@@ -38,6 +44,8 @@ and, if the pension credit depends on provision falling within sub-section (1)(f
 - (b) provide for that section to have effect with modifications where the pension credit depends on a pension sharing order and the order is the subject of an application for leave to appeal out of time[^f00070].
 
 ## Annotations
+
+[^c-945a027e9cc6acb720186a9f2f565957]: Commencement: Reg. 93 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00067]: Footnote: See section 33(1) of the 1999 Act.
 

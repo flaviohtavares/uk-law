@@ -12,7 +12,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Regulation and Inspection of Social Care (Wales) Act 2016](../wales/acts/2016/2-regulation-and-inspection-of-social-care-wales-act-2016/README.md) *(changes pending)* — 54 regulations on this topic made under it
 - [Care Act 2014](../uk-parliament/acts/public/2014/23-care-act-2014/README.md) *(changes pending)* — 46 regulations on this topic made under it
 - [Adoption and Children Act 2002](../uk-parliament/acts/public/2002/38-adoption-and-children-act-2002/README.md) *(changes pending)* — 41 regulations on this topic made under it
-- [Health and Social Care Act 2008](../uk-parliament/acts/public/2008/14-health-and-social-care-act-2008/README.md) *(changes pending)* — 32 regulations on this topic made under it
+- [Health and Social Care Act 2008](../uk-parliament/acts/public/2008/14-health-and-social-care-act-2008/README.md) *(changes pending)* — 31 regulations on this topic made under it
 - [Public Bodies (Joint Working) (Scotland) Act 2014](../scotland/acts/2014/9-public-bodies-joint-working-scotland-act-2014.md) *(changes pending)* — 28 regulations on this topic made under it
 - [Public Services Reform (Scotland) Act 2010](../scotland/acts/2010/8-public-services-reform-scotland-act-2010/README.md) *(changes pending)* — 27 regulations on this topic made under it
 - [Community Care and Health (Scotland) Act 2002](../scotland/acts/2002/5-community-care-and-health-scotland-act-2002.md) *(changes pending)* — 18 regulations on this topic made under it
@@ -39,6 +39,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Care and Support (Charging) and (Financial Assessment) (Wales) (Miscellaneous Amendments) Regulations 2026](../wales/regulations/2026/0000-0499/22-the-care-and-support-charging-and-financial-assessment-wales-miscellaneous-amend.md) *(as originally made)*
 - [The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026](../wales/regulations/2026/0000-0499/122-the-child-minding-and-day-care-exceptions-revocation-and-transitional-provision.md) *(as originally made)*
 - [The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) Order 2026](../wales/regulations/2026/0000-0499/100-the-child-minding-and-day-care-exceptions-revocation-and-transitional-provision.md) *(as originally made)*
+- [The Children’s Wellbeing and Schools Act 2026 (Commencement No. 1) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1165-the-childrens-wellbeing-and-schools-act-2026-commencement-no-1-regulations-2026.md) *(as originally made)*
 - [The Children’s Wellbeing and Schools Act 2026 (Commencement No. 2) (England) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/803-the-childrens-wellbeing-and-schools-act-2026-commencement-no-2-england-regulatio.md)
 - [The Code of Practice on Quality Assurance and Performance Management, Escalating Concerns and Closure of Regulated Care and Support Services (Appointed Day) (Wales) Order 2026](../wales/regulations/2026/0000-0499/23-the-code-of-practice-on-quality-assurance-and-performance-management-escalating.md) *(as originally made)*
 - [The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/157-the-community-care-personal-care-and-nursing-care-scotland-amendment-regulations.md) *(as originally made)*
@@ -476,7 +477,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Adult Support and Protection (Scotland) Act 2007 (Restriction on the Authorisation of Council Officers) Order 2008](../scotland/regulations/2008/0000-0499/306-the-adult-support-and-protection-scotland-act-2007-restriction-on-the-authorisat.md) *(as originally made)*
 - [The Appointments Commission (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2792-the-appointments-commission-amendment-regulations-2008.md) *(as originally made)*
-- [The Care Quality Commission (Membership) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2252-the-care-quality-commission-membership-regulations-2008.md) *(changes pending)*
 - [The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/78-the-community-care-personal-care-and-nursing-care-scotland-amendment-regulations.md) *(as originally made)*
 - [The Disqualification from Caring for Children (Wales) (Amendment) Regulations 2008](../wales/regulations/2008/2500-2999/2691-the-disqualification-from-caring-for-children-wales-amendment-regulations-2008.md) *(as originally made)*
 - [The Fostering Services (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/640-the-fostering-services-amendment-regulations-2008.md) *(as originally made)*

@@ -284,7 +284,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 1997](../uk-parliament/regulations/1997/3000-3499/3055-the-conservation-natural-habitats-c-amendment-regulations-1997.md) *(as originally made)*
 - [The Countryside Stewardship (Amendment)Regulations 1997](../uk-parliament/regulations/1997/1500-1999/1827-the-countryside-stewardship-amendment-regulations-1997.md) *(as originally made)*
-- [The Hedgerows Regulations 1997](../uk-parliament/regulations/1997/1000-1499/1160-the-hedgerows-regulations-1997.md) *(changes pending)*
+- [The Hedgerows Regulations 1997](../uk-parliament/regulations/1997/1000-1499/1160-the-hedgerows-regulations-1997.md)
 
 **1996**
 

@@ -3,16 +3,16 @@ title: The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redres
 id: uksi/2022/1145
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2022-11-07'
-text_date: '2022-12-05'
+text_date: '2026-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2022/1145
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2022/1145/pdfs/uksiem_20221145_en.pdf
 - http://www.legislation.gov.uk/uksi/2022/1145/pdfs/uksi_20221145_en.pdf
 - http://www.legislation.gov.uk/uksi/2022/1145/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2022-12-05. See https://www.legislation.gov.uk/changes/affected/uksi/2022/1145
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland.
 
@@ -111,7 +111,7 @@ The net average weekly wages are calculated by subtracting all deductions of wha
 
 (1) Subject to regulation 7(4), a worker may present a complaint to an employment tribunal that an employer has infringed the right conferred on the worker by regulation 7(2).
 
-(2) Subject to paragraph (3), an employment tribunal must not consider a complaint under this regulation unless it is presented before the end of the period of three months beginning with the date of the act or failure to act to which the complaint relates, or where that act or failure is part of a series of similar acts or failures, the last of them.
+(2) Subject to paragraph (3), an employment tribunal must not consider a complaint under this regulation unless it is presented before the end of the period of six[^c-baee38d8973af7dd65b09bd36a13f355] months beginning with the date of the act or failure to act to which the complaint relates, or where that act or failure is part of a series of similar acts or failures, the last of them.
 
 (2A)[^c-ccb1ee39f9da6d65310b65588c8d479c] Regulation 8A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
@@ -251,6 +251,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 [^c-3f7881097b16335425644c61418a622a]: Commencement: Reg. 7 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
 [^c-39d3b08a6d2f55af3611515de91664ec]: Commencement: Reg. 8 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+
+[^c-baee38d8973af7dd65b09bd36a13f355]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/8/2) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/758/regulation/9) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
 
 [^c-ccb1ee39f9da6d65310b65588c8d479c]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/8/2A) inserted (5.12.2022) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2022 (S.I. 2022/1181)](https://www.legislation.gov.uk/uksi/2022/1181), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1181/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1181/article/3/2)
 

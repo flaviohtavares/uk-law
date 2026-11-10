@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 54
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '54'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 54
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 54. Applications to resolve disagreements
+## 54. Applications to resolve disagreements[^c-a4412acbd1ee98dc7439b2f10ae62006]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) This regulation applies where there is a disagreement about a matter in relation to the Scheme between a member (or an alternative applicant) and an employing authority or the administering authority.
 
@@ -62,3 +68,7 @@ must also set out his or her national insurance number (if any) and the name of 
 - (b) in any other case, the date of the act or omission which is the cause of the disagreement or, if there is more than one, the last of them.
 
 (9) Paragraph (7)(b) does not apply where an appeal has been made under regulation 59(1) (appeals by administering authorities) in respect of a matter that is the subject of an application under this regulation.
+
+## Annotations
+
+[^c-a4412acbd1ee98dc7439b2f10ae62006]: Commencement: Reg. 54 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

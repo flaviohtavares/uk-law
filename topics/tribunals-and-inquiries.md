@@ -13,7 +13,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-357 in force.
+356 in force.
 
 **2026**
 
@@ -40,7 +40,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2025**
 
 - [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025](../uk-parliament/regulations/2025/0000-0499/351-the-court-and-tribunal-fees-miscellaneous-amendments-order-2025.md) *(as originally made)*
-- [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025](../scotland/regulations/2025/0000-0499/378-the-first-tier-tribunal-for-scotland-transfer-of-functions-and-members-of-the-po.md) *(as originally made)*
+- [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025](../scotland/regulations/2025/0000-0499/378-the-first-tier-tribunal-for-scotland-transfer-of-functions-and-members-of-the-po.md) *(changes pending)*
 - [The First-tier Tribunal for Scotland General Regulatory Chamber (Police Appeals) (Procedure) Regulations 2025](../scotland/regulations/2025/0000-0499/384-the-first-tier-tribunal-for-scotland-general-regulatory-chamber-police-appeals-p.md) *(changes pending)*
 - [The First-tier Tribunal for Scotland General Regulatory Chamber Police Appeals and Upper Tribunal for Scotland (Composition) Regulations 2025](../scotland/regulations/2025/0000-0499/383-the-first-tier-tribunal-for-scotland-general-regulatory-chamber-police-appeals-a.md) *(as originally made)*
 - [The Online Procedure Rules (Specified Proceedings) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/536-the-online-procedure-rules-specified-proceedings-regulations-2025.md) *(as originally made)*
@@ -327,10 +327,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Appeals (Excluded Decisions) (Amendment) Order 2008](../uk-parliament/regulations/2008/2500-2999/2780-the-appeals-excluded-decisions-amendment-order-2008.md) *(as originally made)*
 - [The Appeals (Excluded Decisions) Order 2008](../uk-parliament/regulations/2008/2500-2999/2707-the-appeals-excluded-decisions-order-2008.md) *(as originally made)*
 - [The Appeals from the Upper Tribunal to the Court of Appeal Order 2008](../uk-parliament/regulations/2008/2500-2999/2834-the-appeals-from-the-upper-tribunal-to-the-court-of-appeal-order-2008.md) *(as originally made)*
-- [The Charity Tribunal Rules 2008](../uk-parliament/regulations/2008/0000-0499/221-the-charity-tribunal-rules-2008.md) *(changes pending)*
 - [The Consumer Credit Appeals Tribunal Rules 2008](../uk-parliament/regulations/2008/0500-0999/668-the-consumer-credit-appeals-tribunal-rules-2008.md) *(changes pending)*
 - [The First-tier Tribunal and Upper Tribunal (Composition of Tribunal) Order 2008](../uk-parliament/regulations/2008/2500-2999/2835-the-first-tier-tribunal-and-upper-tribunal-composition-of-tribunal-order-2008.md)
-- [The Judicial Appointments Order 2008](../uk-parliament/regulations/2008/2500-2999/2995-the-judicial-appointments-order-2008.md) *(as originally made)*
+- [The Judicial Appointments Order 2008](../uk-parliament/regulations/2008/2500-2999/2995-the-judicial-appointments-order-2008.md) *(changes pending)*
 - [The Membership of the Tribunal Procedure Committee Transitional Order 2008](../uk-parliament/regulations/2008/1000-1499/1149-the-membership-of-the-tribunal-procedure-committee-transitional-order-2008.md) *(as originally made)*
 - [The Mental Health Review Tribunal for Wales Rules 2008](../uk-parliament/regulations/2008/2500-2999/2705-the-mental-health-review-tribunal-for-wales-rules-2008.md)
 - [The Mesothelioma Lump Sum Payments (Claims and Reconsiderations) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2706-the-mesothelioma-lump-sum-payments-claims-and-reconsiderations-amendment-regulat.md) *(as originally made)*

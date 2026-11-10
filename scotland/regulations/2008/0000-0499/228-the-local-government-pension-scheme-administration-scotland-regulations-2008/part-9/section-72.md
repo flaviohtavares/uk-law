@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 72
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '72'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/72
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 72
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 72. Interpretation of Part
+## 72. Interpretation of Part[^c-6be4acf5d3aea430efc2357d1eb4b04d]
+
+*Extent: S*
+
+**Not yet in force.**
 
 In this Part–
 
@@ -27,5 +33,7 @@ In this Part–
   - (d) complies with reciprocal arrangements for the payment and receipt of transfer values with the schemes made under section 7 of the Superannuation Act 1972.
 
 ## Annotations
+
+[^c-6be4acf5d3aea430efc2357d1eb4b04d]: Commencement: Reg. 72 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00040]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); Part 5 was inserted by the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), section 264.

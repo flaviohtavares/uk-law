@@ -3,7 +3,7 @@ title: Criminal Justice and Immigration Act 2008, section 9
 act: Criminal Justice and Immigration Act 2008
 section: '9'
 status: not-yet-in-force
-text_date: '2026-10-29'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2008/4/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

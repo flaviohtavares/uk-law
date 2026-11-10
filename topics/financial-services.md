@@ -29,7 +29,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Central Counterparties (Transitional Provision) (Extension and Amendment) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1030-the-central-counterparties-transitional-provision-extension-and-amendment-regula.md) *(as originally made)*
 - [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1182-the-financial-services-gibraltar-amendment-eu-exit-regulations-2025.md) *(as originally made)*
-- [The Financial Services (Overseas Recognition Regime Designations) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1147-the-financial-services-overseas-recognition-regime-designations-regulations-2025.md) *(as originally made)*
+- [The Financial Services (Overseas Recognition Regime Designations) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1147-the-financial-services-overseas-recognition-regime-designations-regulations-2025.md) *(changes pending)*
 - [The OTC Derivatives Risk Mitigation and Central Counterparties (Equivalence) (Switzerland) Regulations 2025](../uk-parliament/regulations/2025/0500-0999/898-the-otc-derivatives-risk-mitigation-and-central-counterparties-equivalence-switz.md) *(as originally made)*
 
 **2024**

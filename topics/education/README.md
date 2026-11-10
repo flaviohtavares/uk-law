@@ -7,9 +7,9 @@ Laws in force under the legislation.gov.uk subject heading **EDUCATION**. Repeal
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [School Standards and Framework Act 1998](../../uk-parliament/acts/public/1998/31-school-standards-and-framework-act-1998/README.md) *(changes pending)* — 727 regulations on this topic made under it
-- [Education Act 1996](../../uk-parliament/acts/public/1996/56-education-act-1996/README.md) *(changes pending)* — 492 regulations on this topic made under it
+- [Education Act 1996](../../uk-parliament/acts/public/1996/56-education-act-1996/README.md) *(changes pending)* — 491 regulations on this topic made under it
 - [Education Reform Act 1988](../../uk-parliament/acts/public/1988/40-education-reform-act-1988/README.md) *(changes pending)* — 413 regulations on this topic made under it
-- [Education Act 2002](../../uk-parliament/acts/public/2002/32-education-act-2002/README.md) *(changes pending)* — 404 regulations on this topic made under it
+- [Education Act 2002](../../uk-parliament/acts/public/2002/32-education-act-2002/README.md) *(changes pending)* — 403 regulations on this topic made under it
 - [Teaching and Higher Education Act 1998](../../uk-parliament/acts/public/1998/30-teaching-and-higher-education-act-1998/README.md) *(changes pending)* — 308 regulations on this topic made under it
 - [Further and Higher Education Act 1992](../../uk-parliament/acts/public/1992/13-further-and-higher-education-act-1992/README.md) *(changes pending)* — 276 regulations on this topic made under it
 - [Education (Scotland) Act 1980](../../uk-parliament/acts/public/1980/44-education-scotland-act-1980/README.md) *(changes pending)* — 225 regulations on this topic made under it
@@ -58,10 +58,10 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Nursery Education and Grant-Maintained Schools Act 1996](../../uk-parliament/acts/public/1996/50-nursery-education-and-grant-maintained-schools-act-1996.md) — 8 regulations on this topic made under it
 - [Post-16 Education (Scotland) Act 2013](../../scotland/acts/2013/12-post-16-education-scotland-act-2013.md) — 8 regulations on this topic made under it
 - [Sale of Student Loans Act 2008](../../uk-parliament/acts/public/2008/10-sale-of-student-loans-act-2008.md) — 8 regulations on this topic made under it
+- [Children’s Wellbeing and Schools Act 2026](../../uk-parliament/acts/public/2026/21-childrens-wellbeing-and-schools-act-2026/README.md) — 7 regulations on this topic made under it
 - [Education (Graduate Endowment and Student Support) (Scotland) Act 2001](../../scotland/acts/2001/6-education-graduate-endowment-and-student-support-scotland-act-2001.md) — 7 regulations on this topic made under it
 - [Special Educational Needs and Disability Act 2001](../../uk-parliament/acts/public/2001/10-special-educational-needs-and-disability-act-2001/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [The Special Educational Needs and Disability (Northern Ireland) Order 2005](../../northern-ireland/orders-in-council/2005/1117-the-special-educational-needs-and-disability-northern-ireland-order-2005/README.md) *(changes pending)* — 7 regulations on this topic made under it
-- [Children’s Wellbeing and Schools Act 2026](../../uk-parliament/acts/public/2026/21-childrens-wellbeing-and-schools-act-2026/README.md) — 6 regulations on this topic made under it
 - [The Education (Northern Ireland) Order 1996](../../northern-ireland/orders-in-council/1996/274-the-education-northern-ireland-order-1996.md) *(changes pending)* — 6 regulations on this topic made under it
 - [Education (Wales) Measure 2009](../../wales/measures/2009/5-education-wales-measure-2009.md) *(changes pending)* — 5 regulations on this topic made under it
 - [Further Education and Training Act 2007](../../uk-parliament/acts/public/2007/25-further-education-and-training-act-2007.md) — 5 regulations on this topic made under it
@@ -85,11 +85,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-4650 in force, by year:
+4649 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 83 |
+| [2026](2026.md) | 84 |
 | [2025](2025.md) | 85 |
 | [2024](2024.md) | 70 |
 | [2023](2023.md) | 63 |
@@ -105,9 +105,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2013](2013.md) | 114 |
 | [2012](2012.md) | 105 |
 | [2011](2011.md) | 89 |
-| [2010](2010.md) | 120 |
+| [2010](2010.md) | 119 |
 | [2009](2009.md) | 102 |
-| [2008](2008.md) | 147 |
+| [2008](2008.md) | 146 |
 | [2007](2007.md) | 213 |
 | [2006](2006.md) | 171 |
 | [2005](2005.md) | 192 |

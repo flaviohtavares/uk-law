@@ -3,7 +3,7 @@ title: Criminal Justice and Immigration Act 2008, section 67
 act: Criminal Justice and Immigration Act 2008
 section: '67'
 status: revised-with-pending-changes
-text_date: '2026-10-29'
+text_date: '2026-11-06'
 extent: E+W+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2008/4/section/67
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Criminal Justice and Immigration Act 2008, section 67
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
 > Extent: England, Wales, Northern Ireland.
 
@@ -50,7 +50,7 @@ summary: ''
 
 [^c-673531db6fecd7dce040a0649e752ca2]: Textual amendment: Words in s. 67(3) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 37(4)(b)](https://www.legislation.gov.uk/ukpga/2015/2/section/37/4/b), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/31) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/1))
 
-[^c-73d80f4f4b468984ff2f957acd74f1ae]: Textual amendment: Words in [s. 67(4)(a)](https://www.legislation.gov.uk/ukpga/2008/4/section/67/4/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-73d80f4f4b468984ff2f957acd74f1ae]: Textual amendment: Words in s. 67(4)(a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
 [^c-84a8794e8370ed1483368d8662f03098]: Textual amendment: S. 67(5) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 37(4)(c)](https://www.legislation.gov.uk/ukpga/2015/2/section/37/4/c), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/31) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/1))
 

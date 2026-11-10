@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 3
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-3
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,19 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
 ## Schedule 3 — Termination of eligibility due to change of circumstance
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 Regulation 7(5)
 
-### 1. Refugees
+### 1. Refugees[^c-1fe5f5066da72f9168b2856d264b084c]
 
 Where—
 
@@ -32,7 +38,7 @@ Where—
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support.
 
-### 2. Persons granted stateless leave
+### 2. Persons granted stateless leave[^c-e7d2c7f00de2e014c9dc1bac08b3f942]
 
 Where—
 
@@ -45,7 +51,7 @@ Where—
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support.
 
-### 3. Persons granted section 67 leave
+### 3. Persons granted section 67 leave[^c-1956f4caa3a275af6b4512d71f90d3c3]
 
 Where—
 
@@ -58,7 +64,7 @@ Where—
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support.
 
-### 4. Persons granted Calais leave
+### 4. Persons granted Calais leave[^c-79cd892f57dcdce7e890eddeb043951c]
 
 Where—
 
@@ -71,7 +77,7 @@ Where—
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support.
 
-### 5. Persons granted humanitarian protection
+### 5. Persons granted humanitarian protection[^c-aea6888c40b331be1361c5f8b3336ba9]
 
 Where—
 
@@ -85,7 +91,7 @@ Where—
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support.
 
-### 6. Persons with limited rights by virtue of residence scheme immigration rules
+### 6. Persons with limited rights by virtue of residence scheme immigration rules[^c-2747e1254792534254cd1472a2e9f417]
 
 Where—
 
@@ -96,7 +102,7 @@ Where—
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support.
 
-### 7. Other persons with limited protected rights
+### 7. Other persons with limited protected rights[^c-e79b65ffeaf2f18d662fecb50e8b8ee1]
 
 Where—
 
@@ -109,7 +115,7 @@ Where—
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support.
 
-### 8. Persons with rights under one of the Afghan Schemes
+### 8. Persons with rights under one of the Afghan Schemes[^c-c91970b2fe368262d074114a14be23cb]
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support where—
 
@@ -118,7 +124,7 @@ A’s status as an eligible student terminates immediately before the first day 
   - (ii) an application for support in connection with a designated course from which A’s status as an eligible student has been transferred to the current course, and
 - (b) as at the day before the course year in respect of which A is applying for support begins, the period for which the person granted leave under one of the Afghan Schemes is allowed to stay in the United Kingdom has expired and that person has not become a British or Irish citizen.
 
-### 9. Persons with rights under one of the Ukraine Schemes
+### 9. Persons with rights under one of the Ukraine Schemes[^c-721226378daa62972b381f0ebcba81eb]
 
 Where—
 
@@ -131,7 +137,7 @@ Where—
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support.
 
-### 10. Long residence
+### 10. Long residence[^c-cfceadec19d642797ba79789c45481d4]
 
 Where—
 
@@ -144,3 +150,25 @@ Where—
   - (iii) A has not become a British or Irish citizen,
 
 A’s status as an eligible student terminates immediately before the first day of the course year in respect of which A is applying for support.
+
+## Annotations
+
+[^c-1fe5f5066da72f9168b2856d264b084c]: Commencement: Sch. 3 para. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-e7d2c7f00de2e014c9dc1bac08b3f942]: Commencement: Sch. 3 para. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-1956f4caa3a275af6b4512d71f90d3c3]: Commencement: Sch. 3 para. 3 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-79cd892f57dcdce7e890eddeb043951c]: Commencement: Sch. 3 para. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-aea6888c40b331be1361c5f8b3336ba9]: Commencement: Sch. 3 para. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-2747e1254792534254cd1472a2e9f417]: Commencement: Sch. 3 para. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-e79b65ffeaf2f18d662fecb50e8b8ee1]: Commencement: Sch. 3 para. 7 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-c91970b2fe368262d074114a14be23cb]: Commencement: Sch. 3 para. 8 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-721226378daa62972b381f0ebcba81eb]: Commencement: Sch. 3 para. 9 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-cfceadec19d642797ba79789c45481d4]: Commencement: Sch. 3 para. 10 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

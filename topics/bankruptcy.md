@@ -85,7 +85,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Bankruptcy (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/334-the-bankruptcy-scotland-amendment-regulations-2008.md) *(changes pending)*
 - [The Bankruptcy (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/82-the-bankruptcy-scotland-regulations-2008.md) *(as originally made)*
 - [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008](../scotland/regulations/2008/0000-0499/115-the-bankruptcy-and-diligence-etc-scotland-act-2007-commencement-no-3-savings-and.md) *(as originally made)*
-- [The Protected Trust Deeds (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/143-the-protected-trust-deeds-scotland-regulations-2008.md) *(as originally made)*
+- [The Protected Trust Deeds (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/143-the-protected-trust-deeds-scotland-regulations-2008.md) *(changes pending)*
 
 **2003**
 

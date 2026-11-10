@@ -10,7 +10,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Road Traffic Act 1991](../../uk-parliament/acts/public/1991/40-road-traffic-act-1991/README.md) *(changes pending)* — 679 regulations on this topic made under it
 - [Road Traffic Act 1988](../../uk-parliament/acts/public/1988/52-road-traffic-act-1988/README.md) *(changes pending)* — 495 regulations on this topic made under it
 - [Tribunals and Inquiries Act 1992](../../uk-parliament/acts/public/1992/53-tribunals-and-inquiries-act-1992.md) *(changes pending)* — 175 regulations on this topic made under it
-- [Traffic Management Act 2004](../../uk-parliament/acts/public/2004/18-traffic-management-act-2004/README.md) *(changes pending)* — 95 regulations on this topic made under it
+- [Traffic Management Act 2004](../../uk-parliament/acts/public/2004/18-traffic-management-act-2004/README.md) *(changes pending)* — 92 regulations on this topic made under it
 - [Finance Act 1973](../../uk-parliament/acts/public/1973/51-finance-act-1973.md) — 89 regulations on this topic made under it
 - [Vehicle Excise and Registration Act 1994](../../uk-parliament/acts/public/1994/22-vehicle-excise-and-registration-act-1994/README.md) *(changes pending)* — 86 regulations on this topic made under it
 - [Road Traffic Act 1972](../../uk-parliament/acts/public/1972/20-road-traffic-act-1972/README.md) *(as originally made)* — 80 regulations on this topic made under it
@@ -38,7 +38,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-2571 in force, by year:
+2568 in force, by year:
 
 | year | in force |
 |---|---|
@@ -60,7 +60,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 38 |
 | [2010](2010.md) | 34 |
 | [2009](2009.md) | 50 |
-| [2008](2008.md) | 71 |
+| [2008](2008.md) | 68 |
 | [2007](2007.md) | 75 |
 | [2006](2006.md) | 53 |
 | [2005](2005.md) | 78 |

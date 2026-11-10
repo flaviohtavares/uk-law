@@ -3,7 +3,7 @@ title: Sheriff Courts (Scotland) Act 1907, First Schedule
 act: Sheriff Courts (Scotland) Act 1907
 section: schedule-1
 status: revised-with-pending-changes
-text_date: '2025-12-01'
+text_date: '2026-09-30'
 extent: S
 source_url: https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Sheriff Courts (Scotland) Act 1907, First Schedule
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2025-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/Edw7/7/51
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/Edw7/7/51
 >
 > Extent: Scotland.
 
@@ -1114,7 +1114,7 @@ In accordance with any directions given by the sheriff principal, any interlocut
 
 (4) At the conclusion of any hearing in which evidence has been led, the sheriff shall either—
 
-- (a) pronounce an extempore judgment in accordance with rule 12.3; or
+- (a) pronounce an ex tempore[^c-c35fcabc0b0e7c1947bf9a88ba1ca5a8] judgment in accordance with rule 12.3; or
 - (b) reserve judgment in accordance with rule 12.4.
 
 (5) In circumstances other than those mentioned in paragraph (4), the sheriff may, and must when requested by a party, append to the interlocutor a note setting out the reasons for the decision.
@@ -1123,15 +1123,15 @@ In accordance with any directions given by the sheriff principal, any interlocut
 
 (7) Where a party requests a note of reasons other than in accordance with paragraph (6), the sheriff may provide such a note.
 
-##### 12.3. Extempore judgments
+##### 12.3. ex tempore judgments
 
-(1) This rule applies where a sheriff pronounces an extempore judgment in accordance with rule 12.2(4)(a).
+(1) This rule applies where a sheriff pronounces an ex tempore judgment in accordance with rule 12.2(4)(a).
 
 (2) The sheriff must state briefly the grounds of his or her decision, including the reasons for his or her decision on any questions of fact or law or of admissibility of evidence.
 
-(3) The sheriff may, and must if requested to do so by a party, append to the interlocutor a note setting out the matters referred to in paragraph (2) and his or her findings in fact and law.
+(3) The sheriff may, and must if requested to do so by a party, append to the interlocutor a note in Form O7ZA (form of judgment)[^c-b34f72d4836f9310107f0d922d818220] setting out the matters referred to in paragraph (2) and his or her findings in fact and law.
 
-(4) A party must make a request under paragraph (3) in writing within 7 days of the date of the extempore judgment.
+(4) A party must make a request under paragraph (3) in writing within 7 days of the date of the ex tempore judgment.
 
 (5) Where a party requests a note of reasons other than in accordance with paragraph (4), the sheriff may provide such a note.
 
@@ -1142,7 +1142,7 @@ In accordance with any directions given by the sheriff principal, any interlocut
 (2) The sheriff must give to the sheriff clerk—
 
 - (a) an interlocutor giving effect to the sheriff’s decision and incorporating findings in fact and law; and
-- (b) a note stating briefly the grounds of his or her decision, including the reasons for his or her decision on any questions of fact or law or of admissibility of evidence.
+- (b) a note in Form O7ZA (form of judgment)[^c-bfea9c479db99115df3be0ef51a89c7c] stating briefly the grounds of his or her decision, including the reasons for his or her decision on any questions of fact or law or of admissibility of evidence.
 
 (3) The date of the interlocutor is the date on which it is received by the sheriff clerk.
 
@@ -9441,6 +9441,10 @@ Form G23
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_182)
 
+Form O7ZA[^c-e63d58ea7a1595d606c148a28ae0e7b3]
+
+[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_150.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_151.gif)
+
 [^c-4826f3b23e1b6d53ab4619413b70a31a]Form O7A
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_146.gif)
@@ -10379,6 +10383,12 @@ Rule 36.G1(1B)
 [^c-d00ebd9f7988471b34817c3ad141e87a]: Textual amendment: Sch. 1 rule 11.8(1)(1A) substituted for Sch. 1 rule 11.8(1) (7.7.2016) by [Act of Sederunt (Sheriff Appeal Court Rules 2015 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/194)](https://www.legislation.gov.uk/ssi/2016/194), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/3/2)
 
 [^c-aeee15240939d54202a8e8130e6f23d1]: Textual amendment: Sch. 1 rules 12.2-12.4 substituted for Sch. 1 rule 12.2 (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/2/2) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+
+[^c-c35fcabc0b0e7c1947bf9a88ba1ca5a8]: Textual amendment: Words in [Sch. 1 Ch. 12](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/12) substituted (30.9.2026) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Judgments) 2026 (S.S.I. 2026/246)](https://www.legislation.gov.uk/ssi/2026/246), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/246/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/246/paragraph/2/2)
+
+[^c-b34f72d4836f9310107f0d922d818220]: Textual amendment: Words in [Sch. 1 rule 12.3(3)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/12.3/3) inserted (30.9.2026) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Judgments) 2026 (S.S.I. 2026/246)](https://www.legislation.gov.uk/ssi/2026/246), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/246/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2026/246/paragraph/2/3)
+
+[^c-bfea9c479db99115df3be0ef51a89c7c]: Textual amendment: Words in [Sch. 1 rule 12.4(2)(b)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/12.4/2/b) inserted (30.9.2026) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Judgments) 2026 (S.S.I. 2026/246)](https://www.legislation.gov.uk/ssi/2026/246), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/246/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2026/246/paragraph/2/3)
 
 [^M_F_0d384d13-93d9-47ec-e9ae-2cf46d762451]: Textual amendment: Words in sch. 1 rule 13.1(4) inserted (2.11.2009) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Personal Injuries Actions) 2009 (S.S.I. 2009/285)](https://www.legislation.gov.uk/ssi/2009/285), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/2/3) (with [para. 3](https://www.legislation.gov.uk/ssi/2009/285/paragraph/3))
 
@@ -11813,6 +11823,8 @@ Rule 36.G1(1B)
 [^c-d0ee08b17b56feef184d33a98ee068ad]: Textual amendment: Sch. 1 Appendix 1 Form O6: words “(In actions to which rule 3.2(3) applies, state whether Form O2A was sent in accordance with rule 3.3)” omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(11)(b)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/11/b) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
 [^M_F_cea211d2-c329-4db4-cd6e-42d7dedb9953]: Textual amendment: Sch. 1 Appendix 1 Form O7 substituted (2.10.2000) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 2000 (S.S.I. 2000/239)](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(25)(d)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/25/d), [Sch. 1](https://www.legislation.gov.uk/ssi/2000/239/schedule/1)
+
+[^c-e63d58ea7a1595d606c148a28ae0e7b3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1) Appendix 1 Form O7ZA inserted (30.9.2026) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Judgments) 2026 (S.S.I. 2026/246)](https://www.legislation.gov.uk/ssi/2026/246), [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/246/paragraph/1/2), [sch.](https://www.legislation.gov.uk/ssi/2026/246/schedule)
 
 [^c-4826f3b23e1b6d53ab4619413b70a31a]: Textual amendment: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/appendix/1) Form O7A substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [para. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2024/353/schedule/3/part/1)
 

@@ -3,7 +3,7 @@ title: Judicial Pensions and Retirement Act 1993, SCHEDULE 5
 act: Judicial Pensions and Retirement Act 1993
 section: schedule-5
 status: revised-with-pending-changes
-text_date: '2022-10-01'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1993/8/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Judicial Pensions and Retirement Act 1993, SCHEDULE 5
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2022-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/8
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/8
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -47,8 +47,8 @@ Section 26.
 - Queen’s Coroner and Attorney and Master of the Crown Office and Registrar of Criminal Appeals[^c20854861]
 - Admiralty Registrar
 - Deputy or temporary Admiralty Registrar appointed under subsection (1) of section 91 of the Senior Courts Act 1981 [^c-e3171ff1ac6d9ed68b4376cd89000a8d]...
-- Master, Chancery Division
-- Deputy or temporary Master, Chancery Division, appointed under subsection (1) of section 91 of the Senior Courts Act 1981 [^c-557e1e9f33a1f773c9bd18c0b02c243c]...
+- Master, Chancery Division *(Extent: E+W)* *(affected by repeal, see note)*[^c-2a665f45cac44c56122652c934109a2f] Master, Business and Property Division *(Extent: E+W)*
+- Deputy or temporary Master, Business and Property Division, appointed under subsection (1) of section 91 of the Senior Courts Act 1981 [^c-557e1e9f33a1f773c9bd18c0b02c243c]...
 - Insolvency and Companies Court Judge *(Extent: E+W)*[^c-66b08261e0b62a3d98ceab50a048eb9d]
 - Deputy or temporary Insolvency and Companies Court Judge *(Extent: E+W)* appointed under subsection (1) of section 91 of the Senior Courts Act 1981 [^c-f38a6f0ce26e657f7deadce94a13410c]...
 - Taxing Master of the Senior Courts
@@ -57,26 +57,26 @@ Section 26.
 - Deputy or temporary district judge of the principal registry of the Family Division appointed under subsection (1) of section 91 of the [^c13965761]Senior Courts Act 1981 [^c-1bf442149744b4caff55e7f645464b3b]...
 - Registrar of Civil Appeals
 - Deputy or temporary Registrar of Civil Appeals appointed under subsection (1) of section 91 of the Senior Courts Act 1981 [^c-e0b64442afd04dbac46f2d35bb505c8c]...
-- [^c22572271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c22572271]. . .
+- [^c22572271]. . .
 - District judge (whether appointed under section 100 of the Senior Courts Act 1981 or section 6 of the [^c13965791]County Courts Act 1984)
 - Deputy district judge appointed under section 102 of the Senior Courts Act 1981 [^c-73a239310d012cc8cb66ce399ecf4775]...
 - Deputy district judge appointed under section 8 of the [^c13965811]County Courts Act 1984 [^c-8dadf213bfd3823c366ad0d02be2714b]...
 - Recorder
 - Assistant Recorder
-- Any appointment under section 70 [^c20854701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . of the [^c13965821]Judicature (Northern Ireland) Act 1978 to an office from time to time specified in column 1 of Schedule 3 to that Act (statutory office) or any appointment under section 74 of that Act to act in any such office
+- Any appointment under section 70 [^c20854701]. . . of the [^c13965821]Judicature (Northern Ireland) Act 1978 to an office from time to time specified in column 1 of Schedule 3 to that Act (statutory office) or any appointment under section 74 of that Act to act in any such office
 - District Judge (Magistrates’ Courts)[^c13965831]
 - District judge (magistrates’ courts) in Northern Ireland[^c-6b9dd4303712251fa1e934358c791f8e]
 - Deputy district judge (magistrates’ courts) in Northern Ireland[^c-f50242af6f84799d4205647bb88a8d6b]
 - Lay magistrate appointed under the Justice Act (Northern Ireland) 2015[^c-8b873b34d7f5ecedb5f13ae90821307b]
 - Chief or other Social Security Commissioner (including appointments in pursuance of paragraph 1(2) of Schedule 4 to the Social Security Act 1998[^c13965861])
-- [^c22572391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c22572391]. . .
 - Chief or other Social Security Commissioner for Northern Ireland (including appointments in pursuance of section 50(2) of the [^c13965881]Social Security Administration (Northern Ireland) Act 1992)
 - Chief or other Child Support Commissioner for Northern Ireland (including appointments in pursuance of paragraph 4 of Schedule 4 to the Child Support Act 1991 as that paragraph has effect by virtue of paragraph 8 of that Schedule)
 - President of appeal tribunals (within the meaning of Chapter I of Part I of the Social Security Act 1998) appointed under section 5 of that Act[^c13965891]
 - President of appeal tribunals (within the meaning of Chapter I of Part II of the Social Security (Northern Ireland) Order 1998) appointed under Article 6 of that Order[^c13965901]
 - Chairman of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals[^c13965911]
-- [^c13965921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c13965921]. . .
 - Chairman of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals in Northern Ireland[^c13965931]
 - [^c13965941]. . .
 - Chairman of vaccine damage tribunals
@@ -92,53 +92,53 @@ Section 26.
 - [^c-a4ba2bd7826e2cf0d9470803159eb15b]...
 - President of the Industrial Court appointed in pursuance of Article 91 of the [^c13966031]Industrial Relations (Northern Ireland) Order 1992
 - Member of the Employment Appeal Tribunal appointed under section 22(1)(c) of[^c13966041] the Employment Tribunals Act 1996
-- President or other member of [^c20868681]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . the Lands Tribunal for Scotland or the Lands Tribunal for Northern Ireland
+- President or other member of [^c20868681]. . . the Lands Tribunal for Scotland or the Lands Tribunal for Northern Ireland
 - Chairman or other member of the Scottish Land Court *(Extent: S)*[^c-a3a1a6637b52cea2531801b003a4b495]
 - [^c-398e25ec25ce3679c6ee81d4295e0a1f]...
 - Judge Advocate General
 - Vice-Judge Advocate General[^c-84d5f023657d01c34243889e8d99694a]
 - Assistant Judge Advocate General
-- [^c22572361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572521]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572531]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572541]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572551]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572561]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c22572361]. . .
+- [^c22572521]. . .
+- [^c22572531]. . .
+- [^c22572541]. . .
+- [^c22572551]. . .
+- [^c22572561]. . .
+- [^c22572231]. . .
 - President or other member of Pensions Appeal Tribunals
 - Chairman or other member of a Mental Health Review Tribunal constituted under the [^c13966091]Mental Health Act 1983
-- [^c13966101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c13966101]. . .
 - Chairman of a tribunal constituted for the purposes of sections 14 and 15 of the [^c13966111]Misuse of Drugs Act 1971
 - Chairman of an advisory body constituted for the purposes of section 14 of the Misuse of Drugs Act 1971
 - [^c-5707614637a34539ab1076e7e82d6e4c]...
-- [^c22572571]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572331]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c22572571]. . .
+- [^c22572331]. . .
 - Chairman, deputy-chairman or other member of an Agricultural Land Tribunal (other than an assessor added to the Tribunal under paragraph 16(2) of Schedule 9 to the [^c13966151]Agriculture Act 1947)
 - [^c-78138e58696f6c7155432f3e9acba3d6]...
 - Chairman of a tribunal established by section 29 of the [^c13966161]Betting, Gaming and Lotteries Act 1963
 - Chairman or deputy chairman of the Copyright Tribunal
-- [^c22572591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c22572591]. . .
+- [^c22572581]. . .
 - President of a tribunal constituted under Schedule 3 to the [^c13966181]Industry Act 1975
-- [^c22572341]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c22572341]. . .
 - Chairman of the Plant Varieties and Seeds Tribunal
 - [^c-afe304e3035c0733b3870c615eb114ae]...
 - Chairman or other member of Rent Assessment Committees appointed by the Lord Chancellor under Schedule 10 to the [^c13966221]Rent Act 1977
 - President or chairman of the Transport Tribunal
-- [^c22572221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c22572221]. . .
 - Wreck commissioner appointed under section 297(1) of the Merchant Shipping Act 1995[^c13966241]
 - Chairman of a Reinstatement Committee constituted under the [^c13966251]Reserve Forces (Safeguard of Employment) Act 1985
 - Chairman or other member of a reserve forces appeal tribunal constituted under Part IX of the Reserve Forces Act 1996[^c13966261]
 - Member of a panel constituted under section 6(1) of the Social Security Act 1998[^c13966271]
 - Member of a panel constituted under Article 7(1)of the Social Security (Northern Ireland) Order 1998
-- [^c20869311]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c-f6d6d54bb8e0740e929fb8888338154b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c-a2a8b189c97da43e88bd8db9f2c43a49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c20869311]. . .
+- [^c-f6d6d54bb8e0740e929fb8888338154b]. . .
+- [^c-a2a8b189c97da43e88bd8db9f2c43a49] . . .
 - Coroner appointed under section 2(1) of the Coroners Act (Northern Ireland) 1959[^c20855191]
 - Deputy Coroner appointed under section 2(1) of the Coroners Act (Northern Ireland) 1959
-- [^c22572211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^c22572381]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c22572211]. . .
+- [^c22572371]. . .
+- [^c22572381]. . .
 - Judge or other member of the First-tier Tribunal appointed under paragraph 1(1) or 2(1) of Schedule 2 to the Tribunals, Courts and Enforcement Act 2007[^c20867281]
 - Judge or other member of the Upper Tribunal appointed under paragraph 1(1) or 2(1) of Schedule 3 to the Tribunals, Courts and Enforcement Act 2007
 - Transferred-in judge, or transferred-in other member, of the First-tier Tribunal or of the Upper Tribunal (see section 31(2) of the Tribunals, Courts and Enforcement Act 2007)
@@ -195,6 +195,8 @@ Section 26.
 [^c20854861]: Textual amendment: Sch. 5: Entry inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/89/2), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(v)](https://www.legislation.gov.uk/uksi/2005/910/article/3/v)
 
 [^c-e3171ff1ac6d9ed68b4376cd89000a8d]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1993/8/schedule/5) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/8/3/b); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
+
+[^c-2a665f45cac44c56122652c934109a2f]: Textual amendment: Words in Sch. 5 substituted (E.W.) (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/17/3)
 
 [^c-557e1e9f33a1f773c9bd18c0b02c243c]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1993/8/schedule/5) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 8(3)(c)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/8/3/c); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
 

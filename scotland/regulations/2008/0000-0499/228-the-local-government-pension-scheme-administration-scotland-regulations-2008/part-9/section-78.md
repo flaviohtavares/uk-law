@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 78
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '78'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/78
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 78
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 78. Inward transfers of pension rights
+## 78. Inward transfers of pension rights[^c-6ee2fde8a8a3c656b12dec79d59a5ec9]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) If a person who becomes an active member has relevant pension rights, the person may request the fund authority to accept a transfer value for some or all those rights from the relevant transferor.
 
@@ -33,3 +39,7 @@ summary: ''
 (8) That notice must be given before the expiry of the period of 12 months beginning with the date the person became an active member (or such longer period as the person’s employer may allow).
 
 (9) Where a request under paragraph (1) is duly made the fund authority may accept the transfer value and credit it to its pension fund.
+
+## Annotations
+
+[^c-6ee2fde8a8a3c656b12dec79d59a5ec9]: Commencement: Reg. 78 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

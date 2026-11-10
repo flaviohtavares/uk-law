@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 34
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '34'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 34
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 34. Amount of fee loan for a course year
+## 34. Amount of fee loan for a course year[^c-bb8c8c9adf1f2d710212417d7129ad1a]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The amount of fee loan for a course year of a designated course that a student may receive during a course year must not exceed any of the following—
 
@@ -120,3 +126,7 @@ summary: ''
 (16) A student may apply to the Secretary of State to reduce the amount of loan for which the student has applied in respect of a period of the course year for which the provider has not made a request to the Secretary of State for payment of the fee loan or fee loan instalment under regulation 87 (payment of fee loans).
 
 (17) In relation to sandwich placements referred to in this regulation, the Secretary of State must publish from time to time in such a manner as the Secretary of State sees fit a list of regulatory bodies that require a mandatory minimum amount of work experience to be undertaken by those whom they regulate.
+
+## Annotations
+
+[^c-bb8c8c9adf1f2d710212417d7129ad1a]: Commencement: Reg. 34 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 5
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 5. Meaning of “course designation event”, “in-year qualifying event”, “protected category event”, “settled status event”, “module designation event” and related provision
+## 5. Meaning of “course designation event”, “in-year qualifying event”, “protected category event”, “settled status event”, “module designation event” and related provision[^c-b8a781b95edfd4e11f40aaf09d38c7c6]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) This regulation defines “course designation event”, “in-year qualifying event”, “protected category event”, “settled status event” and “module designation event”, and makes related provision for the purposes of these Regulations.
 
@@ -70,3 +76,7 @@ summary: ''
 - (c) regulation 42(2) and (4) (students qualifying for a loan for living costs during a course year);
 - (d) regulation 60(2) and (5) (students qualifying for a supplementary grant during a course year);
 - (e) regulation 82(1) (grants for dependants - changes during a course year).
+
+## Annotations
+
+[^c-b8a781b95edfd4e11f40aaf09d38c7c6]: Commencement: Reg. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

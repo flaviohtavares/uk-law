@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 21
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '21'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 21. Declarations provided by academic authorities in respect of loans for living costs and supplementary grants
+## 21. Declarations provided by academic authorities in respect of loans for living costs and supplementary grants[^c-3546c80e450605a37d98122d65931ef1]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), an academic authority must complete a declaration in relation to an application for a loan for living costs or supplementary grants (or both) in such form as may be required by the Secretary of State.
 
@@ -31,3 +37,7 @@ summary: ''
 
 - (a) any increase in intensity of study that would be required for the applicant to complete the course within the period specified in paragraph (3)(b), and
 - (b) any parts of the course which the applicant has been required to repeat.
+
+## Annotations
+
+[^c-3546c80e450605a37d98122d65931ef1]: Commencement: Reg. 21 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

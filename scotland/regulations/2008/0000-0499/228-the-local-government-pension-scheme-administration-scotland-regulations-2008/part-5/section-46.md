@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 46
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '46'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/46
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 46
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 46. Commencement of pensions
+## 46. Commencement of pensions[^c-6f73a13ff9b31f9983b21902cb2fb84f]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) The first period for which any retirement pension which is payable immediately on a member leaving any employment is payable begins with the day after the date on which the employment ends.
 
@@ -31,3 +37,7 @@ summary: ''
 (7) The person must notify his or her appropriate administering authority in writing of that person’s choice of date and such notice must be given not less than 3 months or such longer period as the administering authority agrees before the beginning of the first period for which the benefit would otherwise be payable.
 
 (8) A person may by notice in writing to the person’s administering authority alter the date specified in a notice referred to in paragraph (7) or any such subsequent notice but any such notice must be given not less than 3 months or such longer period as the administering authority agrees before the date specified in the preceding notice in order for the change of payment date to take effect.
+
+## Annotations
+
+[^c-6f73a13ff9b31f9983b21902cb2fb84f]: Commencement: Reg. 46 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

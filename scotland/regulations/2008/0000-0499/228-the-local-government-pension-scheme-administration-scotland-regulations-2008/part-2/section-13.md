@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 13
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '13'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 13. Re-employed and rejoining deferred members
+## 13. Re-employed and rejoining deferred members[^c-13dc353371a41226bf6cff6e635c42f4]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), where a deferred member becomes an active member in an employment (“the new employment”) before becoming entitled to the immediate payment of retirement benefits, the member may, by giving notice in accordance with paragraph (8), elect to have his or her membership in any former employment aggregated with his or her membership in the new employment.
 
@@ -56,3 +62,7 @@ summary: ''
 (9) References in this regulation to former membership include all membership which the member was entitled to count as membership immediately before the member ceased former active membership.
 
 (10) Where a person ceases to be an active member in one employment and immediately becomes an active member in another employment, the person shall be treated for the purposes of this regulation as if the person were a deferred member as respects the first employment, despite never having ceased to be an active member of the Scheme.
+
+## Annotations
+
+[^c-13dc353371a41226bf6cff6e635c42f4]: Commencement: Reg. 13 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

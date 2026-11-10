@@ -3,15 +3,15 @@ title: The Pedicab Operators (London) Regulations 2026
 id: uksi/2026/135
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-02-18'
-text_date: null
-extent: null
+text_date: '2026-03-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/135
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/135/pdfs/uksi_20260135_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/135/made/data.pdf
-pending_changes: 5
+- http://www.legislation.gov.uk/uksi/2026/135/data.pdf
+pending_changes: 25
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Pedicab Operators (London) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (25).** Text as at 2026-03-09. See https://www.legislation.gov.uk/changes/affected/uksi/2026/135
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2026 No. 135
 
@@ -37,7 +41,7 @@ Transport for London, having consulted in accordance with section 1(3) of the Pe
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-b9ead9a4ad449e286f084b6672fb0e8e]
 
 (1) These Regulations may be cited as the Pedicab Operators (London) Regulations 2026.
 
@@ -46,7 +50,7 @@ Transport for London, having consulted in accordance with section 1(3) of the Pe
 - (a) this regulation and regulations 2 and 4 to 9 come into force on 9th March 2026; and
 - (b) regulations 3 and 10 to 28 come into force on 30th October 2026.
 
-### 2. Interpretation
+### 2. Interpretation[^c-cbecee0d1e9b50dc3c88dbe8298aec27]
 
 In these Regulations—
 
@@ -104,7 +108,9 @@ In these Regulations—
 
 ## PART 2 — LICENCES
 
-### 3. Requirement for London pedicab operator’s licence
+### 3. Requirement for London pedicab operator’s licence[^c-b9891cf4e0bd6a6ca7f6d4843bcaded3]
+
+**Not yet in force.**
 
 (1) An operator of pedicabs in Greater London must hold an operator’s licence.
 
@@ -112,7 +118,7 @@ In these Regulations—
 
 (3) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 4. London pedicab operator’s licence: general
+### 4. London pedicab operator’s licence: general[^c-b700e2e0fc7fc6e4d102944a76c6cbc8]
 
 (1) Any person may apply to TfL for an operator’s licence.
 
@@ -137,7 +143,7 @@ In these Regulations—
 
 (10) TfL may decline to proceed with a grant of an operator’s licence until the appropriate fee is paid.
 
-### 5. London pedicab operator’s licence: requirements and conditions
+### 5. London pedicab operator’s licence: requirements and conditions[^c-b4d7be605be083ab834653836e83457c]
 
 (1) TfL, having considered an application for an operator’s licence, may—
 
@@ -164,7 +170,7 @@ In these Regulations—
 
 (5) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 6. London pedicab operator’s licence: qualifying criteria
+### 6. London pedicab operator’s licence: qualifying criteria[^c-b181b4151af22a33228b9e6b9ec79b52]
 
 (1) TfL may grant an operator’s licence to an applicant if it is satisfied that—
 
@@ -188,7 +194,7 @@ In these Regulations—
 
 (5) In determining for the purposes of sub-paragraph (1)(b) whether an applicant or associated person to an applicant is disqualified by reason of their immigration status from the applicant holding an operator’s licence, TfL must have regard to any guidance issued by the Secretary of State.
 
-### 7. London pedicab operator’s licence: persons subject to immigration control
+### 7. London pedicab operator’s licence: persons subject to immigration control[^c-e0c781138ba61391453a6a52c002cd55]
 
 (1) Paragraph (2) applies if—
 
@@ -220,7 +226,7 @@ who has been granted leave to enter or remain in the United Kingdom for a limite
 - (a) to a fine not exceeding level 4 on the standard scale; and
 - (b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
 
-### 8. London pedicab operators to obtain DBS certificate
+### 8. London pedicab operators to obtain DBS certificate[^c-a05ff3ea6aba6b9d47c6c867cc10847c]
 
 (1) An applicant or any associated person to an applicant for an operator’s licence (including a renewal of a licence) must undertake a basic DBS check and obtain a basic DBS certificate.
 
@@ -238,7 +244,7 @@ who has been granted leave to enter or remain in the United Kingdom for a limite
 
 (8) A DBS check under paragraph (1) must be obtained from TfL’s appointed service provider.
 
-### 9. Overseas criminal check
+### 9. Overseas criminal check[^c-68248b67db4954288a02de3f5a6dd977]
 
 (1) Subject to paragraphs (2) and (3), an applicant or any associated person to an applicant for an operator’s licence who has lived in a country other than the United Kingdom for a continuous period of three months or more within a ten year period prior to the date of application for a licence must provide to TfL a Certificate of Good Conduct in respect of every country where the applicant or associated person to an applicant has so lived.
 
@@ -246,7 +252,9 @@ who has been granted leave to enter or remain in the United Kingdom for a limite
 
 (3) Any applicant or associated persons to an applicant for an operator’s licence who has been granted, or who is awaiting a decision to be granted, asylum or refugee status is not required to provide a Certificate of Good Conduct in respect of the country from which the applicant or any associated person to an applicant has been granted, or is awaiting a decision to be granted, asylum or refugee status.
 
-### 10. Obligations of London pedicab operators in relation to pedicabs
+### 10. Obligations of London pedicab operators in relation to pedicabs[^c-6c38c05d973f993e7862dc0f9a67713f]
+
+**Not yet in force.**
 
 (1) An operator is required to secure that any pedicab vehicle provided by it to operate a pedicab booking is—
 
@@ -266,7 +274,9 @@ who has been granted leave to enter or remain in the United Kingdom for a limite
 
 (6) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 11. Prohibition of certain advertisements
+### 11. Prohibition of certain advertisements[^c-83822b45d430480a7dd8d35d233f636d]
+
+**Not yet in force.**
 
 (1) This regulation applies to any advertisement by an operator for pedicab bookings.
 
@@ -291,7 +301,9 @@ whether alone or as part of another word.
 
 (7) In this regulation, “**advertisement**” includes every form of advertising (whatever the medium) and references to the issue of an advertisement must be construed accordingly.
 
-### 12. Bookings accepted on behalf of another operator or a pedicab driver
+### 12. Bookings accepted on behalf of another operator or a pedicab driver[^c-be5d7180b57badce4c4bbccb8cf48b46]
+
+**Not yet in force.**
 
 (1) An operator may not arrange for—
 
@@ -308,7 +320,9 @@ whether alone or as part of another word.
 
 (6) For the avoidance of doubt (and subject to any relevant contract terms), a contract of hire between a person who made a pedicab booking and the operator who accepted the booking remains in force despite the making of arrangements by that operator for another contractor to provide a vehicle to carry out that booking as sub-contractor.
 
-### 13. Licences - continuance of licence on death, bankruptcy etc
+### 13. Licences - continuance of licence on death, bankruptcy etc[^c-c2da4778da652d7ff34dd6a642d6a461]
+
+**Not yet in force.**
 
 (1) This regulation applies in relation to a licence granted in the sole name of an individual in the event of—
 
@@ -323,7 +337,9 @@ whether alone or as part of another word.
 - (a) six months from the date of the coming into force of that direction; or
 - (b) if less, the remainder of the period of the licence.
 
-### 14. Issue of replacement licences
+### 14. Issue of replacement licences[^c-e466ae6307290fbb06e0678de2b6ac94]
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), where an operator notifies TfL that—
 
@@ -339,7 +355,9 @@ TfL may issue a replacement licence.
 
 ## PART 3 — RECORDS
 
-### 15. Form of record of pedicab bookings
+**Not yet in force.**
+
+### 15. Form of record of pedicab bookings[^c-75002c36562b6b89510c8f719bcbd33b]
 
 (1) An operator is required to keep a record of the pedicab bookings which it operates.
 
@@ -348,7 +366,7 @@ TfL may issue a replacement licence.
 - (a) in writing; or
 - (b) in such other form that the information contained in it can easily be reduced to writing.
 
-### 16. Particulars of pedicab bookings
+### 16. Particulars of pedicab bookings[^c-4564dfaabc735935ece5bd49987ebd6b]
 
 An operator is required to enter the following particulars of any pedicab booking which it operates in the record referred to in regulation 15 (form of record of pedicab bookings)—
 
@@ -366,7 +384,7 @@ An operator is required to enter the following particulars of any pedicab bookin
 - (l) the consent of the person making the booking to the fare under sub-paragraph (1)(j) and any fee under sub-paragraph (1)(k); and
 - (m) the pedicab vehicle licence identification number.
 
-### 17. Particulars of pedicab vehicles
+### 17. Particulars of pedicab vehicles[^c-f5602b8d23a94e9c5c9148c24e538647]
 
 (1) An operator is required to keep a record, containing the particulars set out in paragraph (3), of each pedicab vehicle which is available to them for operating pedicab bookings.
 
@@ -380,7 +398,7 @@ An operator is required to enter the following particulars of any pedicab bookin
 - (d) the date on which the pedicab became available to the operator; and
 - (e) the date on which the pedicab ceased to be so available.
 
-### 18. Particulars of pedicab drivers
+### 18. Particulars of pedicab drivers[^c-cb78249f96aab9470af5fc2feab1a19c]
 
 (1) A fleet operator is required to keep—
 
@@ -398,7 +416,7 @@ An operator is required to enter the following particulars of any pedicab bookin
 - (e) the date on which they became available to the operator; and
 - (f) the date on which they ceased to be so available.
 
-### 19. Particulars of pedicab booking dispatchers
+### 19. Particulars of pedicab booking dispatchers[^c-01327c470db6be9d8abe6992bfc73171]
 
 (1) An operator is required to keep a record, containing the particulars set out in paragraph (2), of any persons employed by or associated with them and engaged in pedicab bookings, where those persons’ duties require them to have direct contact with members of the public.
 
@@ -408,7 +426,7 @@ An operator is required to enter the following particulars of any pedicab bookin
 - (b) their date of birth; and
 - (c) the certificate number of the last DBS check shown to the operator by the person, and the date on which that DBS check was shown to the operator.
 
-### 20. Record of complaints
+### 20. Record of complaints[^c-542eed7443043995759b628d36f57d4f]
 
 (1) An operator is required to keep a record containing—
 
@@ -424,7 +442,7 @@ An operator is required to enter the following particulars of any pedicab bookin
 - (e) the nature of the complaint; and
 - (f) details of any investigation carried out and subsequent action taken as a result.
 
-### 21. Record of lost property
+### 21. Record of lost property[^c-91e14543af99072af64eb48ef1dc66b9]
 
 (1) An operator is required to keep a record, containing the particulars set out in paragraph (2), of any lost property found—
 
@@ -449,7 +467,7 @@ An operator is required to enter the following particulars of any pedicab bookin
 - (d) a description of the item; and
 - (e) evidence to show that, where practical, an attempt was made to find the item.
 
-### 22. Preservation of records
+### 22. Preservation of records[^c-510519a8239d17c117fee45fa8483c2d]
 
 (1) Subject to paragraph (3), an operator is required to preserve the particulars of—
 
@@ -464,7 +482,7 @@ An operator is required to enter the following particulars of any pedicab bookin
 - (a) the record referred to in regulation 16 (particulars of pedicab bookings) for 12 months; and
 - (b) the records kept in accordance with regulations 17 (particulars of pedicab vehicles) and 18 (particulars of pedicab drivers) for 12 months.
 
-### 23. Offence of failure to keep or preserve records
+### 23. Offence of failure to keep or preserve records[^c-1a381c7df3a2d04f7962f3472e4d2dda]
 
 (1) An operator who, without reasonable excuse, fails to comply with the requirements under regulations 12 to 20 is guilty of an offence.
 
@@ -472,7 +490,9 @@ An operator is required to enter the following particulars of any pedicab bookin
 
 ## PART 4 — VARIATION SUSPENSION AND REVOCATION OF LICENCES
 
-### 24. Power to vary, suspend or revoke licences
+**Not yet in force.**
+
+### 24. Power to vary, suspend or revoke licences[^c-1c1cd57d890bed9c73fe84f518eb744a]
 
 (1) TfL may vary, suspend or revoke an operator’s licence if it appears to TfL that there has been a breach of any of the terms, requirements or conditions of the licence.
 
@@ -521,7 +541,7 @@ An operator is required to enter the following particulars of any pedicab bookin
 - (a) the period for giving a notice of objection under section 29 of that Act has expired and the Secretary of State has considered any notice given within that period; and
 - (b) if a notice of objection was given within that period, the period for appealing under section 30 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.
 
-### 25. Suspension and revocation under regulation 24
+### 25. Suspension and revocation under regulation 24[^c-72a316833d0c5450819b372454e8b198]
 
 (1) Where TfL has decided to suspend or revoke an operator’s licence under regulation 24 (power to vary, suspend or revoke licences)—
 
@@ -532,7 +552,7 @@ An operator is required to enter the following particulars of any pedicab bookin
 
 (3) An operator’s licence suspended under this regulation must remain suspended until such a time as TfL by notice directs that the licence is again in force or is revoked.
 
-### 26. Variation of operator’s licence at request of operator
+### 26. Variation of operator’s licence at request of operator[^c-0369fc9c5702b338a28d5e0218fd0133]
 
 (1) TfL may, on the application of an operator, vary their operator’s licence by adding a reference to a new operating centre or removing an existing reference to an operating centre.
 
@@ -548,7 +568,9 @@ An operator is required to enter the following particulars of any pedicab bookin
 
 ## PART 5 — REGISTER OF LICENCES
 
-### 27. Register of operators’ licences
+**Not yet in force.**
+
+### 27. Register of operators’ licences[^c-6669d5216f98bc838405b517c80b5eaf]
 
 (1) TfL may keep and maintain in such form as it considers appropriate a register containing the following particulars for each operator’s licence issued under these Regulations, namely—
 
@@ -561,7 +583,9 @@ An operator is required to enter the following particulars of any pedicab bookin
 
 ## PART 6 — APPEALS
 
-### 28. Appeals
+**Not yet in force.**
+
+### 28. Appeals[^c-ec75e8e24d5d24b41b0ae59d808c6657]
 
 (1) A person may request that TfL reconsiders any decision to—
 
@@ -603,7 +627,7 @@ Transport for London
 
 Regulation 5
 
-### 1. Further requirements
+### 1. Further requirements[^c-02cb3e79b80fef8dd5f380b2a16aea42]
 
 If, during the currency of the operator’s licence—
 
@@ -617,48 +641,48 @@ If, during the currency of the operator’s licence—
 
 the operator must, within 14 days of the date of such event (other than sub-paragraph (a)), give TfL notice containing details of the conviction or change, as the case may be, or, in a case falling within sub-paragraph (d), the name of the pedicab driver and the circumstances of the case.
 
-**2.** The operator must maintain an operating centre in Greater London, and the operator must have obtained, and will maintain, all required approvals or permissions from relevant authorities for the operating centre to be used as such.
+**2.**[^c-c90cbad89ef501406bb77817e4eaeec9] The operator must maintain an operating centre in Greater London, and the operator must have obtained, and will maintain, all required approvals or permissions from relevant authorities for the operating centre to be used as such.
 
-**3.** The operator must not carry out a pedicab booking (where it is carrying out such booking itself) other than at the operating centre specified in their operator’s licence.
+**3.**[^c-2cc2659855de3b4af0922dc9c4fd5027] The operator must not carry out a pedicab booking (where it is carrying out such booking itself) other than at the operating centre specified in their operator’s licence.
 
-**4.** Before making a material change to its operating model that may affect the operator’s compliance with these Regulations or any conditions of that operator’s licence, the operator must—
+**4.**[^c-67e3e63b711630733fa93d06c2f658a4] Before making a material change to its operating model that may affect the operator’s compliance with these Regulations or any conditions of that operator’s licence, the operator must—
 
 - (a) where such change is required by law or in the interests of safety, notify TfL immediately; or
 - (b) for any other change, at least 28 days before the date any such change becomes effective—
   - (i) notify TfL; and
   - (ii) obtain TfL’s consent to the change.
 
-**5.** An operator must maintain in force a policy of insurance against public liability risks which provides a minimum indemnity of £5,000,000 in respect of any one event.
+**5.**[^c-095fd3b702e995778649cdbd60b6efa7] An operator must maintain in force a policy of insurance against public liability risks which provides a minimum indemnity of £5,000,000 in respect of any one event.
 
-**6.** The operator must enter into a contractual obligation as principal with the person making the pedicab booking to provide the journey which is the subject of the booking and any such contractual obligation must be consistent with these Regulations.
+**6.**[^c-6150fb81a605ca0acfe17740318c0995] The operator must enter into a contractual obligation as principal with the person making the pedicab booking to provide the journey which is the subject of the booking and any such contractual obligation must be consistent with these Regulations.
 
-**7.** At the time that a pedicab booking is placed with the operator, and before the commencement of a journey, the operator must provide to the person for whom the booking is made in writing—
+**7.**[^c-93e8cf1b777038edf855befbd666a196] At the time that a pedicab booking is placed with the operator, and before the commencement of a journey, the operator must provide to the person for whom the booking is made in writing—
 
 - (a) the total agreed or estimated fare for the journey, as appropriate, pursuant to the Fares and Fees Regulations;
 - (b) where relevant, the agreed fee for any additional services, pursuant to the Fares and Fees Regulations, with each of those additional services being itemised separately; and
 - (c) confirmation that the person for whom the booking is made has agreed to the total agreed or estimated fee, and the agreed fee for each of the additional services.
 
-**8.** Before the commencement of each journey, the operator must provide to the person for whom the pedicab booking was made particulars of the pedicab driver and the pedicab vehicle carrying out that booking.
+**8.**[^c-a06cc18e9596320e93aa4511cd5c7c94] Before the commencement of each journey, the operator must provide to the person for whom the pedicab booking was made particulars of the pedicab driver and the pedicab vehicle carrying out that booking.
 
-**9.** At all times during the operator’s hours of business and at all times during a journey, the operator, unless the operator is a fleet operator, must ensure that the person for whom the pedicab booking was made is able to speak to a person at the operating centre if the person wants to make a complaint or discuss any other matter about the carrying out of the pedicab booking with the operator.
+**9.**[^c-fe2a0c330ef9593d0c0ae84cb95ea0ea] At all times during the operator’s hours of business and at all times during a journey, the operator, unless the operator is a fleet operator, must ensure that the person for whom the pedicab booking was made is able to speak to a person at the operating centre if the person wants to make a complaint or discuss any other matter about the carrying out of the pedicab booking with the operator.
 
-**10.** The operator must provide to TfL such particulars of pedicab drivers and pedicab vehicles at such frequency as may be specified by TfL from time to time, including the location of storage facilities for pedicab vehicles which it controls or manages.
+**10.**[^c-57a741a372ee122a22d5e72a2391f27b] The operator must provide to TfL such particulars of pedicab drivers and pedicab vehicles at such frequency as may be specified by TfL from time to time, including the location of storage facilities for pedicab vehicles which it controls or manages.
 
-**11.** The operator must provide to TfL such particulars of—
+**11.**[^c-4cbf3d126f32d1708d652eb385a180a5] The operator must provide to TfL such particulars of—
 
 - (a) pedicab bookings which it has accepted; and
 - (b) pedicab bookings which it has carried out,
 
 at such frequency as may be specified by TfL from time to time.
 
-**12.** The operator must establish and maintain a procedure for dealing with—
+**12.**[^c-f1bb6549d20eca47e884ea9d43d6be52] The operator must establish and maintain a procedure for dealing with—
 
 - (a) complaints; and
 - (b) lost property,
 
 arising in connection with any pedicab booking accepted by them.
 
-**13.** The operator may adopt up to five business names and must notify TfL of its business names.
+**13.**[^c-e94e6c9f628de251eccb97b174f87e07] The operator may adopt up to five business names and must notify TfL of its business names.
 
 EXPLANATORY NOTE
 
@@ -724,6 +748,10 @@ The Schedule sets out further requirements attached to operator licences. These 
 
 [^f00001]: Footnote: [2024 c. 7](https://www.legislation.gov.uk/ukpga/2024/7).
 
+[^c-b9ead9a4ad449e286f084b6672fb0e8e]: Commencement: Reg. 1 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-cbecee0d1e9b50dc3c88dbe8298aec27]: Commencement: Reg. 2 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
 [^f00002]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13).
 
 [^f00003]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
@@ -746,12 +774,90 @@ The Schedule sets out further requirements attached to operator licences. These 
 
 [^f00012]: Footnote: [S.I. 2026/136](https://www.legislation.gov.uk/uksi/2026/136).
 
+[^c-b9891cf4e0bd6a6ca7f6d4843bcaded3]: Commencement: Reg. 3 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-b700e2e0fc7fc6e4d102944a76c6cbc8]: Commencement: Reg. 4 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-b4d7be605be083ab834653836e83457c]: Commencement: Reg. 5 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-b181b4151af22a33228b9e6b9ec79b52]: Commencement: Reg. 6 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
 [^f00013]: Footnote: [2016 c. 19](https://www.legislation.gov.uk/ukpga/2016/19).
 
 [^f00014]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
+[^c-e0c781138ba61391453a6a52c002cd55]: Commencement: Reg. 7 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-a05ff3ea6aba6b9d47c6c867cc10847c]: Commencement: Reg. 8 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-68248b67db4954288a02de3f5a6dd977]: Commencement: Reg. 9 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-6c38c05d973f993e7862dc0f9a67713f]: Commencement: Reg. 10 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-83822b45d430480a7dd8d35d233f636d]: Commencement: Reg. 11 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-be5d7180b57badce4c4bbccb8cf48b46]: Commencement: Reg. 12 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-c2da4778da652d7ff34dd6a642d6a461]: Commencement: Reg. 13 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
 [^f00015]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^c-e466ae6307290fbb06e0678de2b6ac94]: Commencement: Reg. 14 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
 
 [^f00016]: Footnote: [1985 c. 7](https://www.legislation.gov.uk/ukpga/1985/7).
 
+[^c-75002c36562b6b89510c8f719bcbd33b]: Commencement: Reg. 15 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-4564dfaabc735935ece5bd49987ebd6b]: Commencement: Reg. 16 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-f5602b8d23a94e9c5c9148c24e538647]: Commencement: Reg. 17 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-cb78249f96aab9470af5fc2feab1a19c]: Commencement: Reg. 18 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-01327c470db6be9d8abe6992bfc73171]: Commencement: Reg. 19 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-542eed7443043995759b628d36f57d4f]: Commencement: Reg. 20 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-91e14543af99072af64eb48ef1dc66b9]: Commencement: Reg. 21 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-510519a8239d17c117fee45fa8483c2d]: Commencement: Reg. 22 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-1a381c7df3a2d04f7962f3472e4d2dda]: Commencement: Reg. 23 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-1c1cd57d890bed9c73fe84f518eb744a]: Commencement: Reg. 24 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
 [^f00017]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
+
+[^c-72a316833d0c5450819b372454e8b198]: Commencement: Reg. 25 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-0369fc9c5702b338a28d5e0218fd0133]: Commencement: Reg. 26 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-6669d5216f98bc838405b517c80b5eaf]: Commencement: Reg. 27 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-ec75e8e24d5d24b41b0ae59d808c6657]: Commencement: Reg. 28 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+
+[^c-02cb3e79b80fef8dd5f380b2a16aea42]: Commencement: Sch. para. 1 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-c90cbad89ef501406bb77817e4eaeec9]: Commencement: Sch. para. 2 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-2cc2659855de3b4af0922dc9c4fd5027]: Commencement: Sch. para. 3 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-67e3e63b711630733fa93d06c2f658a4]: Commencement: Sch. para. 4 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-095fd3b702e995778649cdbd60b6efa7]: Commencement: Sch. para. 5 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-6150fb81a605ca0acfe17740318c0995]: Commencement: Sch. para. 6 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-93e8cf1b777038edf855befbd666a196]: Commencement: Sch. para. 7 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-a06cc18e9596320e93aa4511cd5c7c94]: Commencement: Sch. para. 8 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-fe2a0c330ef9593d0c0ae84cb95ea0ea]: Commencement: Sch. para. 9 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-57a741a372ee122a22d5e72a2391f27b]: Commencement: Sch. para. 10 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-4cbf3d126f32d1708d652eb385a180a5]: Commencement: Sch. para. 11 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-f1bb6549d20eca47e884ea9d43d6be52]: Commencement: Sch. para. 12 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-e94e6c9f628de251eccb97b174f87e07]: Commencement: Sch. para. 13 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)

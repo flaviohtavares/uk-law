@@ -53,7 +53,10 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 - [The Artificial Breeding of Sheep and Goats Regulations 1993](../uk-parliament/regulations/1993/3000-3499/3248-the-artificial-breeding-of-sheep-and-goats-regulations-1993.md) *(as originally made)*
 
 ## Air Departure Tax
+- [Air Departure Tax (Scotland) Act 2017](../scotland/acts/2017/2-air-departure-tax-scotland-act-2017.md)
+- [The Air Departure Tax (Administration) (Scotland) Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/330-the-air-departure-tax-administration-scotland-amendment-regulations-2026.md) *(as originally made)*
 - [The Air Departure Tax (Scotland) Act 2017 (Commencement No. 1) Regulations 2026](../scotland/regulations/2026/0000-0499/248-the-air-departure-tax-scotland-act-2017-commencement-no-1-regulations-2026.md) *(as originally made)*
+- [The Air Departure Tax (Scotland) Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/333-the-air-departure-tax-scotland-amendment-regulations-2026.md) *(as originally made)*
 
 ## Air Navigation
 - [THE CIVIL AVIATION (BIRTHS, DEATHS AND MISSING PERSONS) REGULATIONS, 1948.](../uk-parliament/regulations/1948/1000-1499/1411-the-civil-aviation-births-deaths-and-missing-persons-regulations-1948.md) *(as originally made)*

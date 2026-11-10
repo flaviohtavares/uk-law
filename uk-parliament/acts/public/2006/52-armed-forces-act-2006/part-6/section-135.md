@@ -3,7 +3,7 @@ title: Armed Forces Act 2006, section 135
 act: Armed Forces Act 2006
 section: '135'
 status: revised-with-pending-changes
-text_date: '2026-10-05'
+text_date: '2026-11-03'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2006/52/section/135
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Armed Forces Act 2006, section 135
 
-> **Warning: changes not yet applied to this text (204).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/52
+> **Warning: changes not yet applied to this text (189).** Text as at 2026-11-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/52
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

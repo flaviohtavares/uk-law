@@ -3,16 +3,16 @@ title: The Judicial Offices (Sitting in Retirement - Prescribed Offices and Desc
 id: uksi/2022/798
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2022-07-12'
-text_date: '2022-07-12'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2022/798
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2022/798/pdfs/uksiem_20220798_en.pdf
 - http://www.legislation.gov.uk/uksi/2022/798/pdfs/uksi_20220798_en.pdf
 - http://www.legislation.gov.uk/uksi/2022/798/data.pdf
-pending_changes: 13
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Judicial Offices (Sitting in Retirement - Prescribed Offices and Descriptions) Regulations 2022
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2022-07-12. See https://www.legislation.gov.uk/changes/affected/uksi/2022/798
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
 *Extent: E+W+S+N.I.*
-
-**Not yet in force.**
 
 2022 No. 798
 
@@ -124,25 +122,25 @@ Table 1
 | 8\. | Deputy District Judge (Magistrates’ Courts) (England and Wales) (sitting in retirement). | Deputy District Judge (Magistrates’ Courts) (England and Wales), Deputy Senior District Judge (Chief Magistrate). |
 | 9\. | Deputy District Judge of the Principal Registry of the Family Division (sitting in retirement). | Deputy District Judge of the Principal Registry of the Family Division. |
 | 10\. | Deputy Insolvency and Companies Court Judge (sitting in retirement). | Deputy Insolvency and Companies Court Judge. |
-| 11\. | Deputy Master, Chancery Division (sitting in retirement). | Deputy Master, Chancery Division. |
+| 11\. | Deputy Master, Business and Property Division[^c-1c3e1c9eea5a6a3d90546b0df2a43de9] (sitting in retirement). | Deputy Master, Chancery Division , Deputy Master, Business and Property Division[^c-79e059954fdb184bc505244a0ca534d5]. |
 | 12\. | Deputy Master, Queen’s Bench Division (sitting in retirement). | Deputy Master, Queen’s Bench Division. |
 | 13\. | Deputy Registrar of Civil Appeals (sitting in retirement). | Deputy Registrar of Civil Appeals. |
 | 14\. | Deputy Taxing Master of the Senior Courts (sitting in retirement). | Deputy Taxing Master of the Senior Courts. |
 | 15\. | District Judge (sitting in retirement). | District Judge. |
 | 16\. | District Judge (Magistrates’ Courts) (England and Wales) (sitting in retirement). | District Judge (Magistrates’ Courts) (England and Wales), Senior District Judge (Chief Magistrate), Deputy Senior District Judge (Chief Magistrate). |
 | 17\. | District Judge of the Principal Registry of the Family Division (sitting in retirement). | District Judge of the Principal Registry of the Family Division, Senior District Judge of the Family Division. |
-| 18\. | High Court Judge (England and Wales) (sitting in retirement). | Puisne Judge of the High Court (England and Wales), Lord Chief Justice, President of the Queen’s Bench Division, President of the Family Division, Chancellor of the High Court, Senior Presiding Judge, vice-president of the Queen’s Bench Division. |
+| 18\. | High Court Judge (England and Wales) (sitting in retirement). | Puisne Judge of the High Court (England and Wales), Lord Chief Justice, President of the Queen’s Bench Division, President of the Family Division, President of the Business and Property Division[^c-24625d78ab6ac541ec13417de150da47], Senior Presiding Judge, vice-president of the Queen’s Bench Division. |
 | 19\. | Insolvency and Companies Court Judge (sitting in retirement). | Insolvency and Companies Court Judge, Chief Insolvency and Companies Court Judge. |
-| 20\. | Lord Justice of Appeal (England and Wales) (sitting in retirement). | Lord Justice of Appeal (England and Wales), Supreme Court Justice, Lord Chief Justice, Chancellor of the High Court, Master of the Rolls, President of the Family Division, President of the Queen’s Bench Division. |
-| 21\. | Master, Chancery Division (sitting in retirement). | Master, Chancery Division, Chief Chancery Master. |
+| 20\. | Lord Justice of Appeal (England and Wales) (sitting in retirement). | Lord Justice of Appeal (England and Wales), Supreme Court Justice, Lord Chief Justice, President of the Business and Property Division, Master of the Rolls, President of the Family Division, President of the Queen’s Bench Division. |
+| 21\. | Master, Business and Property Division[^c-3a41a3282a529ab73f600c901648b7a7] (sitting in retirement). | Master, Chancery Division, Chief Chancery Master , Master, Business and Property Division, Chief Master of the Business and Property Division[^c-54057333436a27a20fa72ef2128fdd55]. |
 | 22\. | Master, Queen’s Bench Division (sitting in retirement). | Master, Queen’s Bench Division[^f00003], Senior Master of the Queen’s Bench Division. |
 | 23\. | Recorder (sitting in retirement). | Recorder. |
 | 24\. | Registrar of Civil Appeals (sitting in retirement). | Registrar of Civil Appeals. |
 | 25\. | Taxing Master of the Senior Courts (sitting in retirement). | Taxing Master of the Senior Courts, Chief Taxing Master. |
 
-### PART 2
+### PART 2[^c-67a1435f0ad91e560b0e40cde205958a]
 
-#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 2 of Schedule 3 to the Act, and Corresponding Prescribed Offices[^c-67a1435f0ad91e560b0e40cde205958a]
+#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 2 of Schedule 3 to the Act, and Corresponding Prescribed Offices
 
 Table 2
 
@@ -161,9 +159,9 @@ Table 2
 | 11\. | Non-judicial Member of the First-tier Tribunal (sitting in retirement). | Other member of the First-tier Tribunal where the office is held on a salaried basis or where the person sits as a Chairman in the Property Chamber (Residential Property), Transferred-in Other member of the First-tier Tribunal where the office is held on a salaried basis or where the person sits as a Chairman in the Property Chamber (Residential Property). |
 | 12\. | Non-judicial Member of the Upper Tribunal (sitting in retirement). | Other member of the Upper Tribunal where the office is held on a salaried basis or where the person sits as a Chairman in the Lands Chamber and is a Member or Fellow of the Royal Institution of Chartered Surveyors, Transferred-in Other member of the Upper Tribunal where the office is held on a salaried basis or where the person sits as a Chairman in the Lands Chamber and is a Member or Fellow of the Royal Institution of Chartered Surveyors. |
 
-### PART 3
+### PART 3[^c-bc47e39b8c0672fbea9668490b468c26]
 
-#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 3 of Schedule 3 to the Act, and Corresponding Prescribed Offices[^c-bc47e39b8c0672fbea9668490b468c26]
+#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 3 of Schedule 3 to the Act, and Corresponding Prescribed Offices
 
 Table 3
 
@@ -193,9 +191,9 @@ Table 3
 | 22\. | Master (Taxing Office) (Northern Ireland) (sitting in retirement). | Master (Taxing Office) (Northern Ireland). |
 | 23\. | Social Security Commissioner for Northern Ireland (sitting in retirement). | Chief Social Security Commissioner for Northern Ireland, Social Security Commissioner for Northern Ireland. |
 
-### PART 4
+### PART 4[^c-65979c6c3fa19ab7bb367a0ab94015fa]
 
-#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 6 of Schedule 3 to the Act, and Corresponding Prescribed Offices[^c-65979c6c3fa19ab7bb367a0ab94015fa]
+#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 6 of Schedule 3 to the Act, and Corresponding Prescribed Offices
 
 Table 4
 
@@ -225,18 +223,28 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-3e2081a26e7241e9b2aaeb01be96cbfc]: Commencement: Reg. 4 in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
 
-[^c-42649aef8a779f74a2903713abab3f41]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2022/798/schedule/1/part/1) in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+[^c-42649aef8a779f74a2903713abab3f41]: Commencement: Sch. 1 Pt. 1 in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
 
 [^f00002]: Footnote: See paragraph 2 of Part I of Schedule 2 to the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23) in relation to the Recorder of London and Common Sergeant, who are also Circuit Judges.
 
+[^c-1c3e1c9eea5a6a3d90546b0df2a43de9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/798/schedule/1) table 1 substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 23(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/23/2/a/i)
+
+[^c-79e059954fdb184bc505244a0ca534d5]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/798/schedule/1) table 1 inserted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 23(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/23/2/a/ii)
+
+[^c-24625d78ab6ac541ec13417de150da47]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/798/schedule/1) table 1 substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 23(2)(b)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/23/2/b)
+
+[^c-3a41a3282a529ab73f600c901648b7a7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/798/schedule/1) table 1 substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 23(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/23/2/c/i)
+
+[^c-54057333436a27a20fa72ef2128fdd55]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/798/schedule/1) table 1 inserted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 23(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/23/2/c/ii)
+
 [^f00003]: Footnote: See section 89(2) of the Senior Courts Act [1981 (c. 54)](https://www.legislation.gov.uk/ukpga/1981/54) in relation to the Queen’s coroner and attorney and master of the Crown Office and Registrar of criminal appeals, who is also a Master of the Queen’s Bench Division.
 
-[^c-67a1435f0ad91e560b0e40cde205958a]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2022/798/schedule/1/part/2) in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+[^c-67a1435f0ad91e560b0e40cde205958a]: Commencement: Sch. 1 Pt. 2 in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
 
 [^f00004]: Footnote: See section 4 of the Tribunals, Courts and Enforcement Act 2007 (“**the 2007 Act**”) in relation to office holders who are also judges of the First-tier Tribunal.
 
 [^f00005]: Footnote: See section 5 of the 2007 Act in relation to office holders who are also judges of the Upper Tribunal (which includes Chamber Presidents and Deputy Chamber Presidents).
 
-[^c-bc47e39b8c0672fbea9668490b468c26]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2022/798/schedule/1/part/3) in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+[^c-bc47e39b8c0672fbea9668490b468c26]: Commencement: Sch. 1 Pt. 3 in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
 
-[^c-65979c6c3fa19ab7bb367a0ab94015fa]: Commencement: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2022/798/schedule/1/part/4) in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+[^c-65979c6c3fa19ab7bb367a0ab94015fa]: Commencement: Sch. 1 Pt. 4 in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)

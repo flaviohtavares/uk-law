@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 12
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '12'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 12. Designation - exceptions
+## 12. Designation - exceptions[^c-186491039693ae139e04ad3356825e5d]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) A course is not a designated course if any of the following apply—
 
@@ -49,5 +55,7 @@ summary: ''
 - (i) town and country planner.
 
 ## Annotations
+
+[^c-186491039693ae139e04ad3356825e5d]: Commencement: Reg. 12 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00012]: Footnote: [2010 c. 32](https://www.legislation.gov.uk/ukpga/2010/32).

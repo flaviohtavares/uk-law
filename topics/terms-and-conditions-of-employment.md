@@ -60,7 +60,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/201-the-neonatal-care-leave-and-pay-consequential-amendments-to-subordinate-legislat.md) *(as originally made)*
 - [The Paternity Leave (Bereavement) Act 2024 (Commencement) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1342-the-paternity-leave-bereavement-act-2024-commencement-regulations-2025.md) *(as originally made)*
 - [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order 2025](../uk-parliament/regulations/2025/0500-0999/604-the-public-interest-disclosure-prescribed-persons-amendment-order-2025.md) *(as originally made)*
-- [The Seafarers' Wages (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/289-the-seafarers-wages-amendment-regulations-2025.md) *(changes pending)*
+- [The Seafarers' Wages (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/289-the-seafarers-wages-amendment-regulations-2025.md)
 - [The Statutory Maternity Pay (Compensation of Employers) (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/330-the-statutory-maternity-pay-compensation-of-employers-amendment-regulations-2025.md) *(as originally made)*
 - [The Statutory Neonatal Care Pay (Administration) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/206-the-statutory-neonatal-care-pay-administration-regulations-2025.md) *(as originally made)*
 - [The Statutory Neonatal Care Pay (General) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/376-the-statutory-neonatal-care-pay-general-regulations-2025.md)
@@ -98,7 +98,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2022**
 
 - [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2022](../uk-parliament/regulations/2022/1000-1499/1181-the-employment-tribunals-act-1996-application-of-conciliation-provisions-order-2.md) *(as originally made)*
-- [The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022](../uk-parliament/regulations/2022/1000-1499/1145-the-exclusivity-terms-for-zero-hours-workers-unenforceability-and-redress-regula.md) *(changes pending)*
+- [The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022](../uk-parliament/regulations/2022/1000-1499/1145-the-exclusivity-terms-for-zero-hours-workers-unenforceability-and-redress-regula.md)
 - [The National Minimum Wage (Amendment) Regulations 2022](../uk-parliament/regulations/2022/0000-0499/382-the-national-minimum-wage-amendment-regulations-2022.md) *(as originally made)*
 - [The Public Interest Disclosure (Prescribed Persons) (Amendment) (No. 2) Order 2022](../uk-parliament/regulations/2022/1000-1499/1249-the-public-interest-disclosure-prescribed-persons-amendment-no-2-order-2022.md) *(as originally made)*
 - [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order 2022](../uk-parliament/regulations/2022/1000-1499/1064-the-public-interest-disclosure-prescribed-persons-amendment-order-2022.md) *(as originally made)*

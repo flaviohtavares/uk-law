@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 36
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '36'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/36
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 36
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 36. Elements of the loan for living costs
+## 36. Elements of the loan for living costs[^c-f78d1bd0fdb1ad0ae3640c3f20a7c4e3]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The loan for living costs consists of the following elements—
 
@@ -32,3 +38,7 @@ summary: ''
 - (c) in the case of an eligible student described in regulation 43(1)(d), a special support loan only,
 
 and a reference in this Part to a “**loan for living costs**” in relation to an eligible student is a reference to the element, or elements, of the loan for living costs for which they qualify.
+
+## Annotations
+
+[^c-f78d1bd0fdb1ad0ae3640c3f20a7c4e3]: Commencement: Reg. 36 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

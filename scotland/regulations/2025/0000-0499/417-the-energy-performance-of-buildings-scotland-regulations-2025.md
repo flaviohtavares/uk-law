@@ -3,16 +3,16 @@ title: The Energy Performance of Buildings (Scotland) Regulations 2025
 id: ssi/2025/417
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2025-12-16'
-text_date: null
-extent: null
+text_date: '2026-10-30'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2025/417
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2025/417/pdfs/ssipn_20250417_en_001.pdf
 - http://www.legislation.gov.uk/ssi/2025/417/pdfs/ssi_20250417_en.pdf
-- http://www.legislation.gov.uk/ssi/2025/417/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/ssi/2025/417/data.pdf
+pending_changes: 58
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Energy Performance of Buildings (Scotland) Regulations 2025
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (58).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ssi/2025/417
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2025 No. 417
 
@@ -38,17 +42,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 5(1) of the UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 and section 253(2)(b) of the Energy Act 2023, a draft of this instrument has been laid before and approved by the Scottish Parliament.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-abafac3f30e68c6b28ec82b1ba6d1c52]
 
 (1) These Regulations may be cited as the Energy Performance of Buildings (Scotland) Regulations 2025 and come into force in accordance with paragraphs (2) and (3).
 
-(2) Other than those regulations specified in paragraph (3) these Regulations come into force on 31 October 2026.
+(2) Other than those regulations specified in paragraph (3) these Regulations come into force on 30 April 2028[^c-1f9885598988fe73d2dbbed3a9c37505].
 
 (3) This regulation and regulations 2 (interpretation), 11 (approved organisations), 12 (accreditation schemes) and 36 (approved organisations and accreditation schemes– transitional provisions) come into force on 1 January 2026.
 
 (4) These Regulations extend to Scotland only.
 
-## 2. Interpretation
+## 2. Interpretation[^c-b25e0ed0aec266a4c540e59c939172c4]
 
 (1) In these Regulations—
 
@@ -104,7 +108,9 @@ In accordance with section 5(1) of the UK Withdrawal from the European Union (Co
 
 (2) Where there is a requirement under these Regulations to refer to a type of heating system, this is to be by making reference to a broad category of heating system which has a commonality in respect of the fuel used or the nature of the technology, for example “gas boiler”, “air source heat pump”, “electric storage heating”, “bioenergy or peat heating system”, “heat network”.
 
-## 3. Meaning of prospective buyer or prospective tenant
+## 3. Meaning of prospective buyer or prospective tenant[^c-fd309166409d9f0c4b5572a0015af394]
+
+**Not yet in force.**
 
 A person becomes a prospective buyer or prospective tenant in relation to a building or building unit on the earliest of the dates when that person—
 
@@ -112,7 +118,9 @@ A person becomes a prospective buyer or prospective tenant in relation to a buil
 - (b) makes a request to view the building or building unit for the purpose of deciding whether to buy or lease the building or building unit, or
 - (c) makes an offer, whether oral or written, to buy or lease the building or building unit.
 
-## 4. Application of regulations
+## 4. Application of regulations[^c-fc9600b3589cb113bfb9a125ca6a120c]
+
+**Not yet in force.**
 
 These Regulations do not apply to—
 
@@ -122,7 +130,9 @@ These Regulations do not apply to—
 - (d) stand-alone non-domestic properties with a total useful floor area of less than 50m2,
 - (e) a building or building unit which is designed and constructed to be unheated or which is designed and constructed to be heated by a heating system which is not a fixed heating system.
 
-## 5. Energy performance certificates on sale or rent
+## 5. Energy performance certificates on sale or rent[^c-edabd11227e62fcd604e3afaeb7f31bf]
+
+**Not yet in force.**
 
 (1) Where a building or building unit is to be sold or let the owner must make a copy of a valid energy performance certificate for the building or building unit and of the related property report available for inspection free of charge to a prospective buyer or a prospective tenant.
 
@@ -132,7 +142,9 @@ These Regulations do not apply to—
 
 (4) This regulation does not apply in relation to a building or building unit at any time before the construction of the building or building unit has been completed.
 
-## 6. Energy performance certificates on construction
+## 6. Energy performance certificates on construction[^c-d36b40f090dfeee92a7f49d791308f65]
+
+**Not yet in force.**
 
 (1) Where a building is constructed the developer must, not later than the date 7 days after the relevant date, give a copy of a valid energy performance certificate for the building and of the related property report to the owner of the building.
 
@@ -142,7 +154,9 @@ These Regulations do not apply to—
 - “**the developer**” means the person who carried out the building work for the construction of the building,
 - “**relevant date**”, in relation to building work for the construction of a building, means the date on which a completion certificate in respect of those works is submitted to a verifier under section 17 of the Building (Scotland) Act 2003.
 
-## 7. Advertisement for sale or let of a building or building unit
+## 7. Advertisement for sale or let of a building or building unit[^c-70eebc6cbcf4d019e2fd870cb348536b]
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), where a building or building unit is offered for sale or let, the owner of the building or building unit must ensure that any advertisement in commercial media offering the building or building unit for sale or let, as the case may be, states the energy performance indicators for that building or building unit.
 
@@ -174,7 +188,9 @@ the advertisement in commercial media may state the energy performance indicator
 
   and reference to written particulars or a written description includes particulars or a description given or made available electronically.
 
-## 8. Energy performance certificates
+## 8. Energy performance certificates[^c-8f04343ffc5b682d5dd77a23f388a059]
+
+**Not yet in force.**
 
 (1) An energy performance certificate for a building or building unit must include—
 
@@ -214,7 +230,9 @@ the advertisement in commercial media may state the energy performance indicator
 - (a) the representative property is of similar design, size and actual energy performance quality, and
 - (b) the energy assessor issuing the energy performance certificate has confirmed in writing that this is the case.
 
-## 9. Property report
+## 9. Property report[^c-628993814f4656fa329f22820688503c]
+
+**Not yet in force.**
 
 (1) The property report for a building or building unit must include the information specified in paragraph (2) and in the case of a property report for a domestic property must also include the information specified in paragraph (3).
 
@@ -237,7 +255,9 @@ the advertisement in commercial media may state the energy performance indicator
 
 (4) A property report must not contain any information or data (except for the address of the building or building unit) from which a living individual (other than the person issuing it or that person’s employer) can be identified.
 
-## 10. Methodology for assessment of energy performance
+## 10. Methodology for assessment of energy performance[^c-7a34dfaa5cc47becc559170b98498c68]
+
+**Not yet in force.**
 
 (1) The Scottish Ministers must approve and publish—
 
@@ -246,7 +266,7 @@ the advertisement in commercial media may state the energy performance indicator
 
 (2) Different methodologies and different ways of expressing energy performance indicators may be approved and published in relation to different classes of buildings or building units.
 
-## 11. Approved organisations
+## 11. Approved organisations[^c-5cb6f071e84f3fb31be384e9429d09b2]
 
 (1) An approved organisation is an organisation for the time being approved by the Scottish Ministers in accordance with this regulation as an organisation which may operate an accreditation scheme.
 
@@ -260,7 +280,7 @@ the advertisement in commercial media may state the energy performance indicator
 - (a) in a consistent, accurate and independent manner, and
 - (b) by persons who are fit and proper persons and are qualified by their education, training and experience to carry out the preparation and issuing of energy performance certificates and property reports.
 
-## 12. Accreditation schemes
+## 12. Accreditation schemes[^c-e2cc00bb0b25d5bd18c0d34039450def]
 
 (1) An energy assessor must be a member of an accreditation scheme for the time being approved by the Scottish Ministers and operated by an approved organisation.
 
@@ -281,7 +301,9 @@ the advertisement in commercial media may state the energy performance indicator
 - (h) for the keeping of a register of the members of the scheme,
 - (i) for ensuring that a specified proportion of energy performance certificates and property reports are audited, including where practicable by means of an on-site inspection, to assess whether they are prepared in a consistent, accurate and independent manner.
 
-## 13. Display of energy performance certificates
+## 13. Display of energy performance certificates[^c-837b93fd762f9b83926ddc212ec1a3ac]
+
+**Not yet in force.**
 
 (1) Where this paragraph applies, the owner of a building which is frequently visited by the public or, where the owner is not the occupier, the occupier, must ensure that a valid energy performance certificate is displayed within the building in a prominent place clearly visible to visiting members of the public.
 
@@ -294,7 +316,9 @@ the advertisement in commercial media may state the energy performance indicator
 
 (3) For the purpose of this regulation, “**building which is frequently visited by the public**” means a building into which members of the public have an express or implied licence to enter and which is visited by members of the public on at least a weekly basis.
 
-## 14. Registration of energy performance data
+## 14. Registration of energy performance data[^c-36c5db0c7bbaf130af95af908453ef10]
+
+**Not yet in force.**
 
 (1) There must be one or more registers of energy performance data from which the following documents may be produced—
 
@@ -316,7 +340,9 @@ the advertisement in commercial media may state the energy performance indicator
 
 (7) Any energy performance data entered onto a register must be kept on the register for a period of at least 10 years beginning on the date on which it is entered onto the register.
 
-## 15. Fees for entering data onto register
+## 15. Fees for entering data onto register[^c-85b5878fcceb3aa1aa6944a8c24c25f9]
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), the keeper of a register may charge the following fees for entering data onto the register—
 
@@ -327,7 +353,9 @@ the advertisement in commercial media may state the energy performance indicator
 
 (3) In this regulation “**Scottish public authority**” has the same meaning as in section 12 (interpretation) of the UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021[^f00009].
 
-## 16. Disclosures generally
+## 16. Disclosures generally[^c-24469b1650ff4090c4192bc156ead510]
+
+**Not yet in force.**
 
 The keeper of a register may only disclose any—
 
@@ -337,7 +365,9 @@ The keeper of a register may only disclose any—
 
 if authorised by or required to do so by regulations 17 to 20.
 
-## 17. Disclosure of Documents
+## 17. Disclosure of Documents[^c-59b1c764229f2bcacf5e97ef491aa65a]
+
+**Not yet in force.**
 
 (1) The keeper of a register may disclose—
 
@@ -354,7 +384,9 @@ for a building or building unit to any person if the conditions in paragraph (2)
   - (ii) the full postcode of the building or building unit, or
   - (iii) the report reference number for the energy performance data relating to the document.
 
-## 18. Disclosure of data relating to a particular building or building unit
+## 18. Disclosure of data relating to a particular building or building unit[^c-7a69c780b30dcc682367eeb74fa89ae1]
+
+**Not yet in force.**
 
 (1) The keeper of a register may disclose energy performance data relating to a particular building or building unit if all of the conditions in paragraph (2) are met.
 
@@ -380,7 +412,9 @@ for a building or building unit to any person if the conditions in paragraph (2)
 
 (6) A person guilty of an offence under paragraph (5) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 19. Disclosure of bulk access data
+## 19. Disclosure of bulk access data[^c-f6baa9b2bcbeb6756fd43060dc6a4aa6]
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), the keeper of a register may publish energy performance data on a website and must do so where, and to the extent that, the keeper is instructed to do so by the Scottish Ministers.
 
@@ -389,7 +423,9 @@ for a building or building unit to any person if the conditions in paragraph (2)
 - (a) any information or data from which a living individual can be identified,
 - (b) any information or data revealing the location of an excluded building (or any information from which the location of such a building can be deduced).
 
-## 20. Duty to disclose energy performance data
+## 20. Duty to disclose energy performance data[^c-2202e3d5d19e5ba30ffcbfe0f6112cff]
+
+**Not yet in force.**
 
 The keeper of a register must when requested to do so disclose energy performance data—
 
@@ -397,7 +433,9 @@ The keeper of a register must when requested to do so disclose energy performanc
 - (b) to an enforcement authority for the purposes of their duty to enforce these Regulations,
 - (c) where the disclosure is required by or under any enactment, by any rule of law or by the order of a court.
 
-## 21. Enforcement authorities
+## 21. Enforcement authorities[^c-a44f7c5b06d51c419ef3c73edf121a9b]
+
+**Not yet in force.**
 
 (1) Every local authority is an enforcement authority for the purposes of these Regulations.
 
@@ -405,7 +443,9 @@ The keeper of a register must when requested to do so disclose energy performanc
 
 (3) The Scottish Ministers may appoint, subject to such conditions or limitations as they think fit, themselves or another person as an enforcement authority for the purposes of enforcement of the performance of duties under these Regulations.
 
-## 22. Power to require production of energy performance certificate
+## 22. Power to require production of energy performance certificate[^c-82554799ac824077dfb83e3d5a37f966]
+
+**Not yet in force.**
 
 (1) An enforcement authority may require an owner who appears to it to be or to have been subject to the duty under regulation 5 in relation to a building or building unit to produce for inspection a copy of the energy performance certificate for that building or building unit.
 
@@ -420,7 +460,9 @@ The keeper of a register must when requested to do so disclose energy performanc
 
 (5) An owner is not required to comply with the requirement if the owner has a reasonable excuse for not complying.
 
-## 23. Penalty charge notice for failure to comply with regulation 5
+## 23. Penalty charge notice for failure to comply with regulation 5[^c-0f81f1bb607f8ce19993b89f1bb43b05]
+
+**Not yet in force.**
 
 (1) An enforcement authority may, if it believes that an owner has breached any duty under regulation 5, give a penalty charge notice to that owner.
 
@@ -454,7 +496,9 @@ The keeper of a register must when requested to do so disclose energy performanc
 
 (8) Any sum received by an enforcement authority under this regulation shall accrue to that authority.
 
-## 24. Penalty charge notices for failure to comply with regulation 6, 7 or 13
+## 24. Penalty charge notices for failure to comply with regulation 6, 7 or 13[^c-2e5a551afc645f5659b614215ebfeab4]
+
+**Not yet in force.**
 
 (1) An enforcement authority may, if it believes that—
 
@@ -492,7 +536,9 @@ The keeper of a register must when requested to do so disclose energy performanc
 
 (6) Any sum received by an enforcement authority under this regulation shall accrue to that authority.
 
-## 25. Defence where energy performance certificate unobtainable
+## 25. Defence where energy performance certificate unobtainable[^c-57432e7150f68bb52facc1378c2fc7b0]
+
+**Not yet in force.**
 
 (1) An owner is not liable to a penalty charge for a breach of the duty imposed by regulation 5 if it can be demonstrated that—
 
@@ -509,14 +555,18 @@ The keeper of a register must when requested to do so disclose energy performanc
 
 (4) In this regulation, “**relevant time**” means the date on which one of the events specified in paragraphs (a) to (c) of regulation 3 first occurs.
 
-## 26. Defence where failure to comply with regulation 7
+## 26. Defence where failure to comply with regulation 7[^c-416e043c75f4301ca78a21350fd85abe]
+
+**Not yet in force.**
 
 An owner is not liable to a penalty charge for a breach of the duty imposed by regulation 7 if it can be demonstrated that the instructions for the placement of the advertisement offering the building or building unit for sale or let included—
 
 - (a) a requirement that the energy performance indicators for that building or building unit is stated in the advertisement, and
 - (b) sufficient information to enable that energy performance indicators to have been stated in the advertisement.
 
-## 27. Reviews
+## 27. Reviews[^c-7106eb0f75593558a7b1d55ef0ef78cc]
+
+**Not yet in force.**
 
 (1) If, within the period specified under regulation 23(3)(d) the recipient of the penalty charge notice gives notice to the enforcement authority requesting a review, the authority must—
 
@@ -526,7 +576,9 @@ An owner is not liable to a penalty charge for a breach of the duty imposed by r
 
 (2) A notice under paragraph (1)(c) confirming the penalty charge notice must also state the effect of regulations 28 (appeal to the sheriff court) and 29 (recovery of penalty charges).
 
-## 28. Appeal to the sheriff court
+## 28. Appeal to the sheriff court[^c-b756fc6e05fe927500ec0482a3a0d5d5]
+
+**Not yet in force.**
 
 (1) If after a review the penalty charge notice is confirmed by the enforcement authority, the recipient may appeal to the sheriff against the penalty charge notice.
 
@@ -544,7 +596,9 @@ An owner is not liable to a penalty charge for a breach of the duty imposed by r
 
 (6) If the penalty charge notice is withdrawn or quashed, the enforcement authority must repay any amount previously paid as a penalty charge in pursuance of the notice.
 
-## 29. Recovery of penalty charges
+## 29. Recovery of penalty charges[^c-29ca99b9cdd0ebb11ea133a31f237d33]
+
+**Not yet in force.**
 
 (1) The amount of the penalty charge is recoverable from the recipient of the penalty charge notice as a debt owed to the enforcement authority unless—
 
@@ -565,7 +619,9 @@ An owner is not liable to a penalty charge for a breach of the duty imposed by r
 
 is evidence of the facts stated.
 
-## 30. Service of documents
+## 30. Service of documents[^c-06c00818204f724c2fda73e28ad97203]
+
+**Not yet in force.**
 
 (1) A penalty charge notice issued under regulation 23(1) must be given by—
 
@@ -582,7 +638,9 @@ is evidence of the facts stated.
 - (a) in the case of a body corporate, to the secretary or clerk of that body, and
 - (b) in the case of a partnership, to any partner or a person having control or management of the partnership business.
 
-## 31. Offences relating to enforcement officers
+## 31. Offences relating to enforcement officers[^c-4c0e827fcd10dd9339343667079194b2]
+
+**Not yet in force.**
 
 (1) A person who obstructs an authorised officer of an enforcement authority acting in pursuance of regulation 22 is guilty of an offence.
 
@@ -590,13 +648,17 @@ is evidence of the facts stated.
 
 (3) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 32. Application to the Crown
+## 32. Application to the Crown[^c-00bfe180a8a08c8b7bb2990d3ae47420]
+
+**Not yet in force.**
 
 (1) Nothing in these Regulations makes the Crown criminally liable nor makes the Crown liable to a penalty charge notice under these Regulations, but the Court of Session may, on the application of the Lord Advocate, declare unlawful any act or omission of the Crown which constitutes a contravention of these Regulations.
 
 (2) Paragraph (1) does not affect the criminal liability of persons in service of the Crown.
 
-## 33. Green deal properties
+## 33. Green deal properties[^c-c9d5ca387857645270bb67a36fab59e0]
+
+**Not yet in force.**
 
 (1) These Regulations apply in respect of a green deal property with the following modifications—
 
@@ -649,7 +711,9 @@ is evidence of the facts stated.
 - “**green deal plan**” has the same meaning as in section 1 of the Energy Act 2011,
 - “**green deal property**” means a property in respect of which there is a green deal plan and payments are still to be made under that plan.
 
-## 34. Amendment of the Building (Scotland) Regulations 2004
+## 34. Amendment of the Building (Scotland) Regulations 2004[^c-75b35ddf7a8631e5cc2ad001c7ad9f3f]
+
+**Not yet in force.**
 
 (1) The Building (Scotland) Regulations 2004[^f00012] are amended in accordance with paragraphs (2) and (3).
 
@@ -662,7 +726,9 @@ is evidence of the facts stated.
   - (ii) in the interpretation section, in the definition of “nearly zero-energy building” for “regulation 7 of the Energy Performance of Buildings (Scotland) Regulations 2008” substitute “regulation 10 of the Energy Performance of Buildings (Scotland) Regulations 2025”,
 - (b) omit paragraph 6.9 (energy performance certificates).
 
-## 35. Amendment of the Building (Procedure) (Scotland) Regulations 2004
+## 35. Amendment of the Building (Procedure) (Scotland) Regulations 2004[^c-b47604a8c3cf12d9e565335c41e89010]
+
+**Not yet in force.**
 
 (1) The Building (Procedure) (Scotland) Regulations 2004[^f00013] are amended in accordance with paragraphs (2) and (3).
 
@@ -670,18 +736,20 @@ is evidence of the facts stated.
 
 (3) In regulation 57 (maintenance of records) omit paragraph (2)(a)(ii) and (2)(b)(iii).
 
-## 36. Approved organisations and accreditation schemes– transitional provisions
+## 36. Approved organisations and accreditation schemes– transitional provisions[^c-d6a460d112526c0b9abf794173f91d48]
 
-Despite the coming into force of regulations 11 (approved organisations) and 12 (accreditation schemes) of these Regulations on 1 January 2026, during the period beginning on that date and ending on (and including) 30 October 2026—
+Despite the coming into force of regulations 11 (approved organisations) and 12 (accreditation schemes) of these Regulations on 1 January 2026, during the period beginning on that date and ending on (and including) 29 April 2028[^c-1df2c1cb9298d83e3651481ba8468ed4]—
 
-- (a) an approval by the Scottish Ministers of organisation as an approved organisation in accordance with regulation 8 (approved organisations) of the 2008 Regulations continues to have effect until 31 October 2026,
+- (a) an approval by the Scottish Ministers of organisation as an approved organisation in accordance with regulation 8 (approved organisations) of the 2008 Regulations continues to have effect until 30 April 2028[^c-33329657fcedd1a518d7ed77c5a4f12b],
 - (b) it is not a requirement for the purposes of regulation 6 (energy performance certificates) of the 2008 Regulations that the person issuing an energy performance certificate is a member of an approved accreditation scheme.
 
-## 37. Revocations
+## 37. Revocations[^c-da12b64ac54cd312c35198ed43289838]
+
+**Not yet in force.**
 
 Subject to regulation 38, the 2008 Regulations and the Regulations specified in column 1 of the Table in schedule 2 are revoked.
 
-## 38. Saving and transitional provisions
+## 38. Saving and transitional provisions[^c-004751d9e254d5f7d5ceb5ba6695ce58]
 
 (1) During the relevant period the reference in regulation 5 (energy performance certificates on sale or rent) and in regulation 13 (display of energy performance certificates) to—
 
@@ -698,14 +766,14 @@ Subject to regulation 38, the 2008 Regulations and the Regulations specified in 
 - “**existing valid energy performance certificate**” means a valid energy performance certificate issued in accordance with the 2008 Regulations,
 - “**relevant period**” means—
   - (a) for the purposes of regulations 5 and 7—
-    - (i) in respect of the sale of a building or building unit, the period beginning on 31 October 2026 and ending on (and including) the earlier of—
+    - (i) in respect of the sale of a building or building unit, the period beginning on 30 April 2028[^c-c23c033e5441118984bc6cd6bc7959f2] and ending on (and including) the earlier of—
       - (aa) the date on which the building or building unit is first sold after that date,
-      - (bb) 31 October 2027,
-    - (ii) in respect of the letting of a building or building unit (other than letting as a short-term let), the period beginning on 31 October 2026 and ending on (and including) the earlier of—
+      - (bb) 30 April 2029[^c-6e65a67ec4ff951a8addb83ffdcb0940],
+    - (ii) in respect of the letting of a building or building unit (other than letting as a short-term let), the period beginning on 30 April 2028[^c-eaae74e00cbe8ec63e5e1b2402a36671] and ending on (and including) the earlier of—
       - (aa) the date on which the building or building unit is first let after that date,
-      - (bb) 31 October 2027,
-    - (iii) in respect of the letting of a building or building unit as a short-term let, the period beginning on 31 October 2026 and ending on (and including) 31 October 2027,
-  - (b) for the purposes of regulation 13, the period beginning on 31 October 2026 and ending on (and including) 31 October 2031,
+      - (bb) 30 April 2029[^c-3b77cf664d641526d80da560f73b5769],
+    - (iii) in respect of the letting of a building or building unit as a short-term let, the period beginning on 30 April 2028[^c-26c8101ea0c25572f08633392847267e] and ending on (and including) 30 April 2029,
+  - (b) for the purposes of regulation 13, the period beginning on 30 April 2028[^c-c6337ba19875dead4ea7698417644b74] and ending on (and including) 30 April 2033,
 - “**short-term let**” has the same meaning as in the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022[^f00014].
 
 MAIRI McALLAN
@@ -718,15 +786,17 @@ Edinburgh
 
 16th December 2025
 
+**Not yet in force.**
+
 ## SCHEDULE 1
 
 Regulation 33
 
 ### PART 1 — Green deal information
 
-**1.** The green deal information in respect of a green deal plan is the information specified in paragraphs 2 to 23.
+**1.**[^c-e3d55a04a61672d193cf099008cfbed6] The green deal information in respect of a green deal plan is the information specified in paragraphs 2 to 23.
 
-**2.** A statement—
+**2.**[^c-1da6e354e9cde9bf75d3ddaadafc02ba] A statement—
 
 - (a) indicating that improvements have been installed at the green deal property under a green deal plan,
 - (b) indicating that the person responsible for paying the electricity bill at the green deal property (“the electricity bill payer”) is required to—
@@ -736,52 +806,52 @@ Regulation 33
   - (i) obtain a copy of the green deal plan, and
   - (ii) become familiar with its contents.
 
-**3.** A statement indicating—
+**3.**[^c-35828dd44877fd5dd65b633d47ec3292] A statement indicating—
 
 - (a) that a green deal plan is a type of unsecured loan, and
 - (b) whether or not the green deal plan is a regulated consumer credit agreement.
 
-**4.** Where the green deal plan is a regulated consumer credit agreement, a statement indicating that—
+**4.**[^c-ba6194eb12986089fea29d02f65ee7e2] Where the green deal plan is a regulated consumer credit agreement, a statement indicating that—
 
 - (a) the Consumer Credit Act 1974[^f00015] provides certain protections to the person who is required to make the payments in instalments agreed in the green deal plan,
 - (b) voluntary early repayment of outstanding credit is permitted but that charges may apply, and
 - (c) details of the matters referred to in sub-paragraph (b) can be found in the green deal plan.
 
-**5.** Where the green deal plan is not a regulated consumer credit agreement, a statement indicating that—
+**5.**[^c-7e480949285ab9a0f2256bbb44aaf4f4] Where the green deal plan is not a regulated consumer credit agreement, a statement indicating that—
 
 - (a) voluntary early repayment of outstanding credit may be permitted by the terms and conditions of the green deal plan,
 - (b) where voluntary early repayment of outstanding credit is permitted, charges may apply to such a repayment, and
 - (c) details of the matters referred to in sub-paragraphs (a) and (b) can be found in the green deal plan.
 
-**6.** A statement indicating that—
+**6.**[^c-517013c08527f274cb38dff6a2bef724] A statement indicating that—
 
 - (a) the outstanding credit under the green deal plan may have to be repaid early before—
   - (i) the electricity supply to the green deal property can be permanently disconnected, or
   - (ii) the green deal property can be demolished, and
 - (b) details of the matters referred to in sub-paragraph (a) can be obtained from the green deal provider.
 
-**7.** Where a term has been included in a green deal plan pursuant to regulation 38 of the Framework Regulations, a statement indicating that the green deal provider may be entitled to require early repayment of outstanding credit from a person who is (or has been) required to make the payments in instalments agreed in the green deal plan.
+**7.**[^c-be26298bf1f3c30c464824c07cd1b4f4] Where a term has been included in a green deal plan pursuant to regulation 38 of the Framework Regulations, a statement indicating that the green deal provider may be entitled to require early repayment of outstanding credit from a person who is (or has been) required to make the payments in instalments agreed in the green deal plan.
 
-**8.** The unique reference number assigned to the green deal plan.
+**8.**[^c-5a510077eb265cc2418deeade15c4f59] The unique reference number assigned to the green deal plan.
 
-**9.** The name of the person who is the green deal provider and that person’s electronic mail address and telephone number.
+**9.**[^c-7ada7c737f6e7402eabbd5d5e0e0c9e9] The name of the person who is the green deal provider and that person’s electronic mail address and telephone number.
 
-**10.** The date on which the payment period starts and the date on which it finishes.
+**10.**[^c-561966b83dc1a9f66b9111efcb64a31b] The date on which the payment period starts and the date on which it finishes.
 
-**11.** The amount payable under the green deal plan—
+**11.**[^c-9bb2a0cefe9a962e2831de8ce89b15a3] The amount payable under the green deal plan—
 
 - (a) per day, and
 - (b) per annum.
 
-**12.** The rate of interest charged under the green deal plan.
+**12.**[^c-4da326a0506153f49d3071ea7dca30bb] The rate of interest charged under the green deal plan.
 
-**13.** A statement indicating whether the interest rate charged under the green deal plan will be fixed for the payment period or will vary.
+**13.**[^c-4d9e8097d177659c088a6e6aa36edd94] A statement indicating whether the interest rate charged under the green deal plan will be fixed for the payment period or will vary.
 
-**14.** Where, in accordance with regulation 33(b) of the Framework Regulations, the green deal plan provides for the improvement-specific instalments to increase during the payment period, a statement indicating by how much and when the instalments will increase.
+**14.**[^c-b8e9e065e5c567cf81ee15e6150aecef] Where, in accordance with regulation 33(b) of the Framework Regulations, the green deal plan provides for the improvement-specific instalments to increase during the payment period, a statement indicating by how much and when the instalments will increase.
 
-**15.** The estimated first year savings.
+**15.**[^c-4998fe359bb267885d57e7d10c0990a8] The estimated first year savings.
 
-**16.** Where the green deal property is a domestic property, a statement indicating that—
+**16.**[^c-ca5537d4220a3d3d36bdee595e681481] Where the green deal property is a domestic property, a statement indicating that—
 
 - (a) the estimated first year savings are based on—
   - (i) the assessment of the property that was carried out by the green deal assessor at the time the green deal plan was entered into,
@@ -790,7 +860,7 @@ Regulation 33
   - (iv) current energy prices, and
 - (b) a low user of energy may not achieve the estimated first year savings.
 
-**17.** Where the green deal property is a non-domestic property, a statement indicating that—
+**17.**[^c-fb7b62474ecb1df9fed9324bd50836d2] Where the green deal property is a non-domestic property, a statement indicating that—
 
 - (a) the estimated first year savings are based on—
   - (i) a standard assessment methodology, and
@@ -799,12 +869,12 @@ Regulation 33
   - (i) the green deal property is used in a manner which is different to the use of the property at the time the green deal assessment was carried out, and
   - (ii) the recommendations in the green deal assessment regarding energy use at the green deal property are not implemented.
 
-**18.** In respect of each improvement installed at the green deal property under the green deal plan—
+**18.**[^c-837e722223e178673f8b2ac088256eee] In respect of each improvement installed at the green deal property under the green deal plan—
 
 - (a) a description that is sufficient to identify the improvement, and
 - (b) the month and year in which the improvement-specific payment period finishes.
 
-**19.** A statement advising the person receiving the property report—
+**19.**[^c-50ae28f7a794e48694e7f8b0ac731b92] A statement advising the person receiving the property report—
 
 - (a) to check whether the improvements installed at the green deal property under the green deal plan—
   - (i) remain installed,
@@ -815,26 +885,26 @@ Regulation 33
   - (i) intend to alter the green deal property in a manner which might affect the operation of the improvements, or
   - (ii) become aware that such alterations have been made.
 
-**20.** A statement indicating that—
+**20.**[^c-4c5aa521afb3660388d6fccd56088650] A statement indicating that—
 
 - (a) the improvements installed under the green deal plan are, under that plan, guaranteed for at least 5 years, and
 - (b) the guarantee provided under the green deal plan may be subject to maintenance and servicing requirements.
 
-**21.** A statement indicating that further information is contained in the green deal plan or can be obtained from the green deal provider.
+**21.**[^c-cbcbac66f6219408aa9e8eb86d9702f5] A statement indicating that further information is contained in the green deal plan or can be obtained from the green deal provider.
 
-**22.** Where the green deal provider knows or has reasonable cause to believe that an improvement installed at the green deal property under a green deal plan has been removed from the property before the end of the improvement-specific payment period, the following statement—
+**22.**[^c-2ded5239f3d288dd4e10a5329a7e5fd5] Where the green deal provider knows or has reasonable cause to believe that an improvement installed at the green deal property under a green deal plan has been removed from the property before the end of the improvement-specific payment period, the following statement—
 
 > Improvements installed under the green deal plan may have been removed from the property. You may not realise the estimated savings shown in this report. You are advised to check the position with the owner.
 
 .
 
-**23.** Where the green deal provider knows or has reasonable cause to believe that an alteration has been made to the green deal property which, had it existed when the estimated first year savings were calculated, would have affected that calculation materially, the following statement—
+**23.**[^c-323b6f850339fc15a3e0ac54037cbbac] Where the green deal provider knows or has reasonable cause to believe that an alteration has been made to the green deal property which, had it existed when the estimated first year savings were calculated, would have affected that calculation materially, the following statement—
 
 > The property may have been altered in a way which affects the operation of the improvements installed under the green deal plan. You may not realise the estimated savings shown in this report. You are advised to check the position with the owner.
 
 .
 
-### PART 2 — Interpretation
+### PART 2 — Interpretation[^c-80cf1e4be45384517f300cc097122b52]
 
 In this Schedule—
 
@@ -847,7 +917,7 @@ In this Schedule—
 - “**improvement-specific payment period**” has the meaning given in regulation 30(3)(d) of the Framework Regulations,
 - “**regulated consumer credit agreement**” has the meaning given in section 8 of the Consumer Credit Act 1974.
 
-## SCHEDULE 2 — REVOCATIONS
+## SCHEDULE 2 — REVOCATIONS[^c-27064f19ff4ffb74436e8c62e18d44e6]
 
 Regulation 37
 
@@ -909,6 +979,12 @@ Regulation 37 and schedule 2 revokes the 2008 Regulations and various regulation
 
 [^f00002]: Footnote: [2023 c. 52](https://www.legislation.gov.uk/ukpga/2023/52). Regulations under section 250 are made by the “appropriate authority” which in relation means the Scottish Ministers in terms of section 250(5).
 
+[^c-abafac3f30e68c6b28ec82b1ba6d1c52]: Commencement: Reg. 1 in force at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/3)
+
+[^c-1f9885598988fe73d2dbbed3a9c37505]: Textual amendment: Words in reg. 1(2) substituted (30.10.2026) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2026 (S.S.I. 2026/322)](https://www.legislation.gov.uk/ssi/2026/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/3/2)
+
+[^c-b25e0ed0aec266a4c540e59c939172c4]: Commencement: Reg. 2 in force at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/3)
+
 [^f00003]: Footnote: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309) as amended by [S.S.I. 2008/389](https://www.legislation.gov.uk/ssi/2008/389), [S.S.I. 2012/190](https://www.legislation.gov.uk/ssi/2012/190), [S.S.I. 2012/208](https://www.legislation.gov.uk/ssi/2012/208), [S.S.I. 2012/315](https://www.legislation.gov.uk/ssi/2012/315), [S.S.I. 2013/12](https://www.legislation.gov.uk/ssi/2013/12), [S.S.I. 2015/386](https://www.legislation.gov.uk/ssi/2015/386), [S.S.I. 2017/225](https://www.legislation.gov.uk/ssi/2017/225).
 
 [^f00004]: Footnote: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406) as relevantly amended by [S.S.I. 2023/177](https://www.legislation.gov.uk/ssi/2023/177) and [S.S.I. 2024/327](https://www.legislation.gov.uk/ssi/2024/327).
@@ -919,18 +995,156 @@ Regulation 37 and schedule 2 revokes the 2008 Regulations and various regulation
 
 [^f00007]: Footnote: [2021 asp 9](https://www.legislation.gov.uk/asp/2021/9).
 
+[^c-fd309166409d9f0c4b5572a0015af394]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/417/regulation/3) in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-fc9600b3589cb113bfb9a125ca6a120c]: Commencement: Reg. 4 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-edabd11227e62fcd604e3afaeb7f31bf]: Commencement: Reg. 5 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-d36b40f090dfeee92a7f49d791308f65]: Commencement: Reg. 6 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
 [^f00008]: Footnote: [2003 asp 8](https://www.legislation.gov.uk/asp/2003/8).
 
+[^c-70eebc6cbcf4d019e2fd870cb348536b]: Commencement: Reg. 7 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-8f04343ffc5b682d5dd77a23f388a059]: Commencement: Reg. 8 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-628993814f4656fa329f22820688503c]: Commencement: Reg. 9 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-7a34dfaa5cc47becc559170b98498c68]: Commencement: Reg. 10 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-5cb6f071e84f3fb31be384e9429d09b2]: Commencement: Reg. 11 in force at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/3) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-e2cc00bb0b25d5bd18c0d34039450def]: Commencement: Reg. 12 in force at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/3) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-837b93fd762f9b83926ddc212ec1a3ac]: Commencement: Reg. 13 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-36c5db0c7bbaf130af95af908453ef10]: Commencement: Reg. 14 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-85b5878fcceb3aa1aa6944a8c24c25f9]: Commencement: Reg. 15 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
 [^f00009]: Footnote: [2021 asp 4](https://www.legislation.gov.uk/asp/2021/4).
+
+[^c-24469b1650ff4090c4192bc156ead510]: Commencement: Reg. 16 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-59b1c764229f2bcacf5e97ef491aa65a]: Commencement: Reg. 17 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-7a69c780b30dcc682367eeb74fa89ae1]: Commencement: Reg. 18 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-f6baa9b2bcbeb6756fd43060dc6a4aa6]: Commencement: Reg. 19 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-2202e3d5d19e5ba30ffcbfe0f6112cff]: Commencement: Reg. 20 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-a44f7c5b06d51c419ef3c73edf121a9b]: Commencement: Reg. 21 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-82554799ac824077dfb83e3d5a37f966]: Commencement: Reg. 22 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-0f81f1bb607f8ce19993b89f1bb43b05]: Commencement: Reg. 23 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-2e5a551afc645f5659b614215ebfeab4]: Commencement: Reg. 24 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-57432e7150f68bb52facc1378c2fc7b0]: Commencement: Reg. 25 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-416e043c75f4301ca78a21350fd85abe]: Commencement: Reg. 26 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-7106eb0f75593558a7b1d55ef0ef78cc]: Commencement: Reg. 27 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-b756fc6e05fe927500ec0482a3a0d5d5]: Commencement: Reg. 28 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-29ca99b9cdd0ebb11ea133a31f237d33]: Commencement: Reg. 29 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-06c00818204f724c2fda73e28ad97203]: Commencement: Reg. 30 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-4c0e827fcd10dd9339343667079194b2]: Commencement: Reg. 31 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-00bfe180a8a08c8b7bb2990d3ae47420]: Commencement: Reg. 32 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-c9d5ca387857645270bb67a36fab59e0]: Commencement: Reg. 33 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
 
 [^f00010]: Footnote: [S.I. 2012/2079](https://www.legislation.gov.uk/uksi/2012/2079).
 
 [^f00011]: Footnote: [2011 c. 16](https://www.legislation.gov.uk/ukpga/2011/16).
 
+[^c-75b35ddf7a8631e5cc2ad001c7ad9f3f]: Commencement: Reg. 34 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
 [^f00012]: Footnote: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406) as relevantly amended by [S.S.I. 2006/534](https://www.legislation.gov.uk/ssi/2006/534), [S.S.I. 2008/310](https://www.legislation.gov.uk/ssi/2008/310), [S.S.I. 2010/32](https://www.legislation.gov.uk/ssi/2010/32), [S.S.I. 2016/71](https://www.legislation.gov.uk/ssi/2016/71), [S.S.I. 2012/209](https://www.legislation.gov.uk/ssi/2012/209) and [S.S.I. 2015/218](https://www.legislation.gov.uk/ssi/2015/218).
+
+[^c-b47604a8c3cf12d9e565335c41e89010]: Commencement: Reg. 35 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
 
 [^f00013]: Footnote: [S.S.I. 2004/428](https://www.legislation.gov.uk/ssi/2004/428) as relevantly amended by [S.S.I. 2007/167](https://www.legislation.gov.uk/ssi/2007/167).
 
+[^c-d6a460d112526c0b9abf794173f91d48]: Commencement: Reg. 36 in force at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/3)
+
+[^c-1df2c1cb9298d83e3651481ba8468ed4]: Textual amendment: Words in reg. 36 substituted (30.10.2026) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2026 (S.S.I. 2026/322)](https://www.legislation.gov.uk/ssi/2026/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2026/322/regulation/3/3/a)
+
+[^c-33329657fcedd1a518d7ed77c5a4f12b]: Textual amendment: Words in reg. 36 substituted (30.10.2026) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2026 (S.S.I. 2026/322)](https://www.legislation.gov.uk/ssi/2026/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2026/322/regulation/3/3/b)
+
+[^c-da12b64ac54cd312c35198ed43289838]: Commencement: Reg. 37 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-004751d9e254d5f7d5ceb5ba6695ce58]: Commencement: Reg. 38 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-c23c033e5441118984bc6cd6bc7959f2]: Textual amendment: Words in reg. 38(4) substituted (30.10.2026) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2026 (S.S.I. 2026/322)](https://www.legislation.gov.uk/ssi/2026/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/ssi/2026/322/regulation/3/4/a)
+
+[^c-6e65a67ec4ff951a8addb83ffdcb0940]: Textual amendment: Words in reg. 38(4) substituted (30.10.2026) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2026 (S.S.I. 2026/322)](https://www.legislation.gov.uk/ssi/2026/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2026/322/regulation/3/4/b)
+
+[^c-eaae74e00cbe8ec63e5e1b2402a36671]: Textual amendment: Words in reg. 38(4) substituted (30.10.2026) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2026 (S.S.I. 2026/322)](https://www.legislation.gov.uk/ssi/2026/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/ssi/2026/322/regulation/3/4/c)
+
+[^c-3b77cf664d641526d80da560f73b5769]: Textual amendment: Words in reg. 38(4) substituted (30.10.2026) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2026 (S.S.I. 2026/322)](https://www.legislation.gov.uk/ssi/2026/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/1/2), [3(4)(d)](https://www.legislation.gov.uk/ssi/2026/322/regulation/3/4/d)
+
+[^c-26c8101ea0c25572f08633392847267e]: Textual amendment: Words in reg. 38(4) substituted (30.10.2026) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2026 (S.S.I. 2026/322)](https://www.legislation.gov.uk/ssi/2026/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/1/2), [3(4)(e)](https://www.legislation.gov.uk/ssi/2026/322/regulation/3/4/e)
+
+[^c-c6337ba19875dead4ea7698417644b74]: Textual amendment: Words in reg. 38(4) substituted (30.10.2026) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2026 (S.S.I. 2026/322)](https://www.legislation.gov.uk/ssi/2026/322), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/322/regulation/1/2), [3(4)(f)](https://www.legislation.gov.uk/ssi/2026/322/regulation/3/4/f)
+
 [^f00014]: Footnote: [S.S.I. 2022/32](https://www.legislation.gov.uk/ssi/2022/32) as amended by [S.S.I. 2024/227](https://www.legislation.gov.uk/ssi/2024/227).
 
+[^c-e3d55a04a61672d193cf099008cfbed6]: Commencement: Sch. 1 para. 1 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-1da6e354e9cde9bf75d3ddaadafc02ba]: Commencement: Sch. 1 para. 2 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-35828dd44877fd5dd65b633d47ec3292]: Commencement: Sch. 1 para. 3 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-ba6194eb12986089fea29d02f65ee7e2]: Commencement: Sch. 1 para. 4 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2)
+
 [^f00015]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^c-7e480949285ab9a0f2256bbb44aaf4f4]: Commencement: Sch. 1 para. 5 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-517013c08527f274cb38dff6a2bef724]: Commencement: Sch. 1 para. 6 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-be26298bf1f3c30c464824c07cd1b4f4]: Commencement: Sch. 1 para. 7 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-5a510077eb265cc2418deeade15c4f59]: Commencement: Sch. 1 para. 8 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-7ada7c737f6e7402eabbd5d5e0e0c9e9]: Commencement: Sch. 1 para. 9 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-561966b83dc1a9f66b9111efcb64a31b]: Commencement: Sch. 1 para. 10 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-9bb2a0cefe9a962e2831de8ce89b15a3]: Commencement: Sch. 1 para. 11 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-4da326a0506153f49d3071ea7dca30bb]: Commencement: Sch. 1 para. 12 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-4d9e8097d177659c088a6e6aa36edd94]: Commencement: Sch. 1 para. 13 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-b8e9e065e5c567cf81ee15e6150aecef]: Commencement: Sch. 1 para. 14 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-4998fe359bb267885d57e7d10c0990a8]: Commencement: Sch. 1 para. 15 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-ca5537d4220a3d3d36bdee595e681481]: Commencement: Sch. 1 para. 16 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-fb7b62474ecb1df9fed9324bd50836d2]: Commencement: Sch. 1 para. 17 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-837e722223e178673f8b2ac088256eee]: Commencement: Sch. 1 para. 18 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-50ae28f7a794e48694e7f8b0ac731b92]: Commencement: Sch. 1 para. 19 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-4c5aa521afb3660388d6fccd56088650]: Commencement: Sch. 1 para. 20 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-cbcbac66f6219408aa9e8eb86d9702f5]: Commencement: Sch. 1 para. 21 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-2ded5239f3d288dd4e10a5329a7e5fd5]: Commencement: Sch. 1 para. 22 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-323b6f850339fc15a3e0ac54037cbbac]: Commencement: Sch. 1 para. 23 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-80cf1e4be45384517f300cc097122b52]: Commencement: Sch. 1 Pt. 2 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))
+
+[^c-27064f19ff4ffb74436e8c62e18d44e6]: Commencement: Sch. 2 in force at 30.4.2028, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/417/regulation/1/2) (as amended by [S.S.I. 2026/223](https://www.legislation.gov.uk/ssi/2026/223), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2026/223/regulation/3/2))

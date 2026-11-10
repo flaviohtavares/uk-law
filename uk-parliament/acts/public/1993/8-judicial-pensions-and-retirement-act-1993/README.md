@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1993-03-29'
-text_date: '2022-10-01'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1993/8
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1993/8/pdfs/ukpga_19930008_en.pdf
 - http://www.legislation.gov.uk/ukpga/1993/8/data.pdf
-pending_changes: 7
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Judicial Pensions and Retirement Act 1993
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2022-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/8
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/8
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

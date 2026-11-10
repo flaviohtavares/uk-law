@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 94
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '94'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/94
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 94
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 94. Failure to discharge liability in respect of pension credit within the implementation period and death of ex-spouse within period
+## 94. Failure to discharge liability in respect of pension credit within the implementation period and death of ex-spouse within period[^c-66a9dfad3bf8debc9536f4a206a312a8]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Where the administering authority has not done what is required to discharge its liability in respect of a pension credit before the end of the implementation period for the credit–
 
@@ -34,6 +40,8 @@ summary: ''
 (7) The appropriate administering authority shall pay the lump sum to the deceased’s personal representatives.
 
 ## Annotations
+
+[^c-66a9dfad3bf8debc9536f4a206a312a8]: Commencement: Reg. 94 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00071]: Footnote: See regulation 2 of S.I. [2000/1053](https://www.legislation.gov.uk/uksi/2000/1053) which prescribes a 21 day period beginning with the day immediately following the end of the implementation period.
 

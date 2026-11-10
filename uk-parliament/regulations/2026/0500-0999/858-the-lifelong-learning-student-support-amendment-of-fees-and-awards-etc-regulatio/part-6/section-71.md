@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 71
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '71'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/71
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 71
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 71. Interpretation of this Chapter
+## 71. Interpretation of this Chapter[^c-841361b47d50109c68441bb0bb419791]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) In this Chapter—
 
@@ -77,6 +83,8 @@ summary: ''
 (5) In this Chapter “**financial year**”, in relation to a person whose income is calculated under this Chapter, means the period of twelve months in respect of which their income is computed for the purposes of the income tax legislation which applies to it.
 
 ## Annotations
+
+[^c-841361b47d50109c68441bb0bb419791]: Commencement: Reg. 71 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00028]: Footnote: Part IX was amended by Schedule 16 to the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), by section 72 of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), by sections 55 and 56 of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), by paragraphs 47 and 48 of Schedule 24 to the Civil Partnership Act 2004, by section 1 of, and paragraphs 9 to 14 of Schedule 1 to, the Child Benefit Act [2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), and by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [2013/1465](https://www.legislation.gov.uk/uksi/2013/1465), [2016/413](https://www.legislation.gov.uk/uksi/2016/413) and [2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 

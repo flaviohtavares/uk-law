@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 93
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '93'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/93
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 93
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 93. Amendment of the 2018 Doctoral Degree Regulations
+## 93. Amendment of the 2018 Doctoral Degree Regulations[^c-fef69630721ba93d7e20587337cceead]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The 2018 Doctoral Degree Regulations are amended in accordance with this regulation.
 
@@ -41,5 +47,7 @@ summary: ''
 - (b) after “the 2016 Master’s Degree Regulations” insert “, or regulation 10 (designated courses) or 11 (designated modules) of the 2026 Student Support Regulations”.
 
 ## Annotations
+
+[^c-fef69630721ba93d7e20587337cceead]: Commencement: Reg. 93 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00046]: Footnote: The definition was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127).

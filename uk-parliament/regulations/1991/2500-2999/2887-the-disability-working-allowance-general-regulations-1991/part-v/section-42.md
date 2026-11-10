@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 42
 act: The Disability Working Allowance (General) Regulations 1991
 section: '42'
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/42
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 42
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -31,11 +31,20 @@ summary: ''
 - (e) intended to meet the cost of books and equipment; [^c-5e830913f29b91899d62297e472e883c]...
 - (f) intended to meet travel expenses incurred as a result of his attendance on the course.
 - (g)[^c-6355b577891fea8c87cae1b62aef265e] that is an access fund payment and is intended to be used for any item other than daily living costs of any member of the student’s family or is used for any personal community charge, collective community charge contribution or council tax for which any member of that family is liable.
+- (h)[^M_F_30a3a2aa-3789-410c-a1d1-3cc224fa9923] that is made in respect of childcare costs pursuant to—
+  - (i) sections 5, 6 and 9 of the Learning and Skills Act 2000;
+  - (ii) section 4 of the Further Education and Higher Education (Scotland) Act 1992;
+  - (iii) Article 5 of the Further Education (Northern Ireland) Order 1997;
+  - (iv) the Education (Student Support) Regulations 2001;
+  - (v) the Students' Allowances (Scotland) Regulations 1999; or
+  - (vi) the Education (Student Support) Regulations (Northern Ireland) 2001;
+
+  provided that the claimant’s award does not include an amount of childcare tax credit under regulation 51(1)(aa).
 
 (2A)[^c-f82f67eaf5f1c9236a0b974650b77bfd] Where a student does not have a student loan and is not treated as possessing such a loan, there shall be excluded from the student’s grant income—
 
-- (a) the sum of £255[^c-45d06ca2fa622753a60402764be88c41] in respect of travel costs; and
-- (b) where no amount has been disregarded under sub-paragraph (2)(e), the sum of £311[^c-4ce2d535d6a40ebef5436f83e668158c] towards the cost of books and equipment,
+- (a) the sum of £260[^c-9eaefb4952e157c898fdea8c87ae1f89] in respect of travel costs; and
+- (b) where no amount has been disregarded under sub-paragraph (2)(e), the sum of £319[^c-d377b5714f047c9985bc04916e46143b] towards the cost of books and equipment,
 
 whether or not any such costs are incurred.
 
@@ -59,11 +68,13 @@ whether or not any such costs are incurred.
 
 [^c-6355b577891fea8c87cae1b62aef265e]: Textual amendment: [Reg. 42(2)(g)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2/g) added (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/13/b)
 
+[^M_F_30a3a2aa-3789-410c-a1d1-3cc224fa9923]: Textual amendment: Reg. 42(2)(h) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2001/2539/regulation/9)
+
 [^c-f82f67eaf5f1c9236a0b974650b77bfd]: Textual amendment: [Reg. 42(2A)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A) substituted (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/3/b)
 
-[^c-45d06ca2fa622753a60402764be88c41]: Textual amendment: Sum in [Reg. 42(2A)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A/a) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [13(c)(i)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/13/c/i)
+[^c-9eaefb4952e157c898fdea8c87ae1f89]: Textual amendment: Sum in [reg. 42(2A)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/6/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/6/2/b)
 
-[^c-4ce2d535d6a40ebef5436f83e668158c]: Textual amendment: Sum in [Reg. 42(2A)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A/b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [13(c)(ii)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/13/c/ii)
+[^c-d377b5714f047c9985bc04916e46143b]: Textual amendment: Sum in [reg. 42(2A)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2A/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/7/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/7/2/b)
 
 [^c-801c2f08671db01c4aa46a606ba01d1d]: Textual amendment: [Reg. 42(2B)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/42/2B) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/13/d)
 

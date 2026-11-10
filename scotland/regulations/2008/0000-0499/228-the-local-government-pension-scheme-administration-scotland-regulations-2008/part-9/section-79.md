@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 79
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '79'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/79
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 79
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 79. Right to count credited period
+## 79. Right to count credited period[^c-c193854130cce2352a6ee94ee3983f79]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Where a transfer value has been accepted under regulation 78 (inward transfers of pension rights), the member may count the credited period as a period of membership for these Regulations[^f00047].
 
@@ -38,5 +44,7 @@ summary: ''
 - (b) containing a conspicuous statement giving the address from which further information may be obtained.
 
 ## Annotations
+
+[^c-c193854130cce2352a6ee94ee3983f79]: Commencement: Reg. 79 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00047]: Footnote: See also regulation 7(1)(c) of the Benefits Regulations.

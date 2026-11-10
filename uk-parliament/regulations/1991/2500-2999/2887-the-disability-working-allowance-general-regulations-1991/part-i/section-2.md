@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 2
 act: The Disability Working Allowance (General) Regulations 1991
 section: '2'
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 2
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -51,6 +51,7 @@ summary: ''
 - “employment zones” means an area within Great Britain designated by the Employment Zones Regulations 2000[^c-b6cfd056ac733ad162faf26a1f6babb6][^f00005] for the purposes of section 60 of the Welfare Reform and Pensions Act 1999[^f00006] and an “employment zone programme” means a programme established for an employment zone or zones designed to assist claimants for a jobseeker’s allowance to obtain sustainable employment;
 - “employment zone contractor” means a person who is undertaking the provision of facilities in respect of an employment zone programme on behalf of the Secretary of State for Education and Employment;
 - “extra statutory maternity pay” means a payment or payments made by an employer to an employee during a maternity pay period in order to supplement statutory maternity pay that is paid to that employee for that period;[^c-c6d7d651645f1d5d424d91a562bbc809]
+- “Intensive Activity Period for 50 plus” means the programme known by that name and provided in pursuance of arrangements made by or on behalf of the Secretary of State under section 2 of the Employment and Training Act 1973, being a programme lasting for up to 52 weeks for any one individual aged 50 years or over on the day that he or she first joined any such programme, and consisting for that individual of any one or more of the following elements, namely assistance in pursuing self-employed earner’s employment, education and training, work experience, assistance with job search, motivation and skills training[^c-461fef3c105077026edd7d0db83a1aea]
 - “lone parent” means a person who has no partner and who is responsible for, and a member of the same household as, a child or young person;
 - “lower rate” where it relates to rates of tax has the same meaning as in the Income and Corporation Taxes Act 1988 by virtue of section 832(1) of that Act;[^c-7c357aafb5245c1b9ec77a523d847e3f]
 - “maternity allowance” shall be construed in accordance with section 35 of the Contributions and Benefits Act;[^c-3e719a9d7229e174c0dcab3288799578]
@@ -59,6 +60,7 @@ summary: ''
 - “mobility supplement” means any supplement under article 26A of the Naval, Military and Air Forces etc (Disablement and Death) Service Pensions Order 1983[^f00011] including such a supplement by virtue of any other scheme or order or under article 25A of the Personal Injuries (Civilians) Scheme 1983[^f00012] ;
 - “net earnings” means such earnings as are calculated in accordance with regulation 22;
 - “net profit” means such profit as is calculated in accordance with regulation 25;
+- “New Deal option” means any of the employment programmes specified in regulation 75(1)(a)(ii) of the Jobseeker’s Allowance Regulations 1996 and the training scheme specified in regulation 75(1)(b)(ii) of those Regulations;[^c-d8eb821b9de15cc0785c8f853a4e9fc1]
 - “occupational pension” means any pension or other periodical payment under an occupational pension scheme but does not include any discretionary payment out of a fund established for relieving hardship in particular cases;
 - “partner” means, where a claimant—
   - (a) is a member of a married or unmarried couple, the other member of that couple,
@@ -71,6 +73,12 @@ summary: ''
 - “qualifying person” means a person in respect of whom payment has been made from the Fund[^c-36e0574981e4b64e0876148d4ce96032] or the Eileen Trust[^c-e6b090515d8548ad17db1c78bc912187];
 - “retirement annuity contract" means a contract or trust scheme approved under Chapter III of Part XIV of the Income and Corporation Taxes Act 1988;[^c-2708b3384a8aeba872a0bd26b0d2b3ee]
 - “self-employed earner” shall be construed in accordance with section 2(1)(b) of the Social Security Act;
+- “self-employment route” means—[^c-beab7c25ec5b576f1cba7d8a2e4a87c4]
+  - (a) that part of the Employment Option of the New Deal which is specified in regulation 75(1)(a)(ii)(aa)(ii) of the Jobseeker’s Allowance Regulations 1996; or
+  - (b) assistance in pursuing self-employed earner’s employment while participating in—
+    - (i) an employment zone programme; or
+    - (ii) a course of training or instruction funded by or on behalf of the Secretary of State for Education and Employment, the National Assembly for Wales, or the Scottish Enterprise or Highlands or Islands Enterprise; or
+    - (iii) the Intensive Activity Period specified in regulation 75(1)(a)(iv) of the Jobseeker’s Allowance Regulations 1996 or the Intensive Activity Period for 50 plus;
 - “single claimant” means a claimant who neither has a partner nor is a lone parent;
 - “Social Security Act” means the Social Security Act 1975[^f00013] ;
 - “sports award" means an award made by one of the Sports Councils named in section 23(2) of the National Lottery[^c-a6c8229bb0b944e60cfd968adb02bedf] etc. Act 1993 out of sums allocated to it for distribution under that section;
@@ -147,6 +155,8 @@ summary: ''
 
 [^c-c6d7d651645f1d5d424d91a562bbc809]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2) inserted (4.4.2001) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/3/2)
 
+[^c-461fef3c105077026edd7d0db83a1aea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/4/a)
+
 [^c-7c357aafb5245c1b9ec77a523d847e3f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (5.10.1992) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1992 (S.I. 1992/2155)](https://www.legislation.gov.uk/uksi/1992/2155), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/2155/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1992/2155/regulation/2/a)
 
 [^c-3e719a9d7229e174c0dcab3288799578]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2) inserted (4.4.2001) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2001/892/regulation/3/3)
@@ -159,6 +169,8 @@ summary: ''
 
 [^f00012]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686), amended by [S.I. 1983/1164](https://www.legislation.gov.uk/uksi/1983/1164), [1540](https://www.legislation.gov.uk/uksi/1983/1540) and [1986/628](https://www.legislation.gov.uk/uksi/1986/628).
 
+[^c-d8eb821b9de15cc0785c8f853a4e9fc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/4/b)
+
 [^c-f549d39e2643a74084bb66ef51b91836]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (7.1.1997) by [The Disability Working Allowance and Family Credit (General) Amendment Regulations 1996 (S.I. 1996/3137)](https://www.legislation.gov.uk/uksi/1996/3137), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3137/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/3137/regulation/2/2)
 
 [^c-4388750667ea5b3929042f6593290a17]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/3/2/a)
@@ -170,6 +182,8 @@ summary: ''
 [^c-e6b090515d8548ad17db1c78bc912187]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) added (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [5(2)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/5/2/a)
 
 [^c-2708b3384a8aeba872a0bd26b0d2b3ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/3/2/c)
+
+[^c-beab7c25ec5b576f1cba7d8a2e4a87c4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/2/1) inserted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/4/c)
 
 [^f00013]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
 

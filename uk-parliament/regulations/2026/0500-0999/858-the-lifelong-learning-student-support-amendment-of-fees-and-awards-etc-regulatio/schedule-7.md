@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 7
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-7
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,19 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
 ## Schedule 7 — Assessment of household income
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 Regulations 37(2) and 71(1)
 
-### 1. Definitions
+### 1. Definitions[^c-16bbd21df4cfeaa344a040ba8ad858d9]
 
 (1) In this Schedule—
 
@@ -61,7 +67,7 @@ Regulations 37(2) and 71(1)
 
 (3) For the purposes of the definition of “relevant year”, where an eligible student is studying two or more courses in the same service year the household income falls to be assessed in respect of the course year of whichever of those courses has the earliest course start date.
 
-### 2. Independent eligible student
+### 2. Independent eligible student[^c-ea9c7f045a5b06f0626babf1688c2ea3]
 
 (1) An “independent eligible student” is an eligible student who falls into one or more of the following categories on the first day of the relevant year—
 
@@ -88,7 +94,7 @@ Regulations 37(2) and 71(1)
 
 (3) An eligible student who qualifies as an independent eligible student under sub-paragraph (1)(i) in respect of a course year of a designated course retains that status for the duration of the period of eligibility.
 
-### 3. Household income
+### 3. Household income[^c-95a2bb5bd7d5de59cf1fc782c11d2e11]
 
 (1) The amount of reduction applicable to an eligible student is assessed on the basis of the household income.
 
@@ -113,7 +119,7 @@ Regulations 37(2) and 71(1)
 - (a) the parent student’s child, or parent student’s partner’s child, holds a statutory award, and
 - (b) the household income in respect of that award is calculated with reference to the residual income of the parent student or of the parent student’s partner or of both.
 
-### 4. Calculation of eligible student’s residual income
+### 4. Calculation of eligible student’s residual income[^c-054c17e0e8ac821beeab8bfbc18a5359]
 
 (1) For the purpose of determining the residual income of an eligible student, there is deducted from the student’s taxable income the aggregate of any amounts falling within any of the following sub-paragraphs—
 
@@ -129,7 +135,7 @@ provided that an amount is not to be deducted if it has already been deducted in
 
 (3) Where the eligible student is studying two or more courses in the same service year, the reference in paragraph (1)(a) to the eligible student’s course is a reference to whichever of those courses has the earliest course start date.
 
-### 5. Calculation of parent’s residual income
+### 5. Calculation of parent’s residual income[^c-f7dbb0828747c983500b826f36fdc6d6]
 
 (1) For the purposes of determining the residual income of an eligible student’s parent (“**A**”) there is deducted from A’s taxable income the aggregate of any amounts falling within any of the following sub-paragraphs (unless already deducted in determining taxable income)—
 
@@ -205,7 +211,7 @@ the household income is determined in accordance with paragraph (12), but as if 
 - (a) the reference in sub-paragraph (3) to the current course is a reference to whichever of those courses has the earliest course start date;
 - (b) the references in sub-paragraphs (4) and (5) to a course year are to a course year of whichever of those courses has the earliest course start date.
 
-### 6. Calculation of eligible student’s partner’s residual income
+### 6. Calculation of eligible student’s partner’s residual income[^c-b5da0547422f5c99a740bd626125bf6d]
 
 (1) Subject to sub-paragraphs (2) to (6), an eligible student’s partner’s residual income is determined in accordance with paragraph 5, other than sub-paragraphs (2)(b) and (c), (3)(b) and (c), and (9) to (13), as if references to the parent in paragraph 5 were references to the eligible student’s partner.
 
@@ -237,7 +243,7 @@ the eligible student’s partner’s residual income is determined in accordance
 
 the household income is determined in accordance with paragraph (5), but as if for “the relevant year” there were substituted “the period of multiple study”.
 
-### 7. Calculation of parent’s partner’s residual income
+### 7. Calculation of parent’s partner’s residual income[^c-fea308fe4af4f462f422933b5ebc4f40]
 
 (1) For the purposes of determining the residual income of an eligible student’s parent’s partner (“**P**”), there is deducted from P’s taxable income the aggregate of any amounts falling within any of the following paragraphs (unless already deducted in determining taxable income)—
 
@@ -303,14 +309,28 @@ the household income is determined in accordance with paragraph (12), but as if 
 
 ## Annotations
 
+[^c-16bbd21df4cfeaa344a040ba8ad858d9]: Commencement: Sch. 7 para. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
 [^f00084]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3). Section 23 was amended by paragraph 19 of Schedule 17 to the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), paragraph 2(2) of Schedule 3 to the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), paragraph 10(2) and 13(3)(f) of Schedule 2 to the Finance (No. 2) Act [2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30) and paragraph 6(o)(i) of Schedule 1 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
 [^f00085]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Section 401 was amended by [S.I. 2014/211](https://www.legislation.gov.uk/uksi/2014/211) and 2005/3229.
 
 [^f00086]: Footnote: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18). Section 23 was amended by section 16 of the Administration of Justice Act [1982 (c. 53)](https://www.legislation.gov.uk/ukpga/1982/53) and paragraph 20 of the Schedule to the Divorce, Dissolution and Separation Act [2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11). Section 25B(4) was inserted by section 166(1) of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) and amended by paragraph 1(5) of Schedule 4 to the Welfare Reform and Pensions Act 1999. Section 25E(3) was inserted by paragraph 3 of Schedule 12 to the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).
 
+[^c-ea9c7f045a5b06f0626babf1688c2ea3]: Commencement: Sch. 7 para. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
 [^f00087]: Footnote: Section 22 was amended by paragraph 19 of Schedule 5 to the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), section 2(2) of the Children (Leaving Care) Act 2000, section 116(2) of the Adoption and Children Act 2002, section 52 of the Children Act 2004, section 99 of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), by paragraph 6(b) of Schedule 3 to the Children and Young Persons Act 2008 and by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
 
 [^f00088]: Footnote: [S.I. 1978/1096](https://www.legislation.gov.uk/uksi/1978/1096), to which there are amendments not relevant to these Regulations.
 
+[^c-95a2bb5bd7d5de59cf1fc782c11d2e11]: Commencement: Sch. 7 para. 3 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-054c17e0e8ac821beeab8bfbc18a5359]: Commencement: Sch. 7 para. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
 [^f00089]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 188 was amended by paragraph 2 of Schedule 18 and Schedule 27 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), section 52 of the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), and paragraph 13 of Schedule 7 to the Finance Act 2014.
+
+[^c-f7dbb0828747c983500b826f36fdc6d6]: Commencement: Sch. 7 para. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-b5da0547422f5c99a740bd626125bf6d]: Commencement: Sch. 7 para. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-fea308fe4af4f462f422933b5ebc4f40]: Commencement: Sch. 7 para. 7 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

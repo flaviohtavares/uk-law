@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 1
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,21 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
 ## Schedule 1 — Interpretation
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 Regulation 3
 
 ### Part 1 — General definitions
 
-**1.** In these Regulations—
+**1.**[^c-ff346b9a3a75b7e5321b378d0c9b3ea5] In these Regulations—
 
 - “**the 1998 Act**” means the Teaching and Higher Education Act 1998;
 - “**the 2007 Fees and Awards Regulations**” means the Education (Fees and Awards) (England) Regulations 2007[^f00047];
@@ -260,7 +266,7 @@ Regulation 3
   - (a) periods of industrial, professional or commercial experience associated with full-time study at an institution, but at a place outside that institution;
   - (b) periods during which a student is employed and residing in a country whose language is one that the student is studying for that student’s course (provided that the period of residence in that country is a requirement of that student’s course and the study of one or more modern languages accounts for not less than half of the total time spent studying on the course).
 
-**2.** (1) In paragraph 4 and in regulation 23(13)(a)(i) and in Schedule 4, “**course for the initial training of teachers**” means any of the following courses, except if the course takes the form of an employment-based teacher training scheme—
+**2.**[^c-1da64b3e2b46639470225b0f9088a8b5] (1) In paragraph 4 and in regulation 23(13)(a)(i) and in Schedule 4, “**course for the initial training of teachers**” means any of the following courses, except if the course takes the form of an employment-based teacher training scheme—
 
 - (a) a course of initial teacher training undertaken in England and leading to qualified teacher status in England;
 - (b) a course of initial teacher training undertaken in Wales and accredited as initial teacher training by the Education Workforce Council;
@@ -290,7 +296,7 @@ Regulation 3
 
 ### Part 2 — Definitions relating to foundation years
 
-**3.** (1) In these Regulations, a “foundation year” is a period of study of 120 credits (or 1,200 notional learning hours), whether in a single course year or otherwise—
+**3.**[^c-1072fa5571d4e1d249fff29dc500040e] (1) In these Regulations, a “foundation year” is a period of study of 120 credits (or 1,200 notional learning hours), whether in a single course year or otherwise—
 
 - (a) that is integrated with an undergraduate course at the start of that course, and may be enrolled for at the same time as enrolling for that undergraduate course,
 - (b) that is designed to equip students with the skills and knowledge that are needed for progressing to an undergraduate course,
@@ -357,7 +363,7 @@ Regulation 3
 
 ### Part 3 — Definitions relating to sandwich placements, study abroad and Turing mobility
 
-**4.** In these Regulations, “sandwich placement”—
+**4.**[^c-667935c69870051edbc1e82e81e4ad6e] In these Regulations, “sandwich placement”—
 
 - (a) in relation to England, is one or more periods amounting to at least 13 weeks within a course year—
   - (i) which the student spends away from the home institution on work experience placements, either in the United Kingdom, or abroad otherwise than as part of Turing mobility,
@@ -369,7 +375,7 @@ Regulation 3
   - (i) is a course year during which the aggregate of any periods of full-time study at the institution is less than 10 weeks, or in respect of which the aggregate of any periods of attendance in relation to the course year and any previous course years of the course which were not full-time study at the home institution (disregarding any intervening vacations) exceeds 30 weeks, and
   - (ii) is not from a course for the initial training of teachers or a Turing mobility.
 
-**5.** In these Regulations, “study abroad”—
+**5.**[^c-a4e1f2d09fc75d35acf8ef82c55ecafb] In these Regulations, “study abroad”—
 
 - (a) in relation to England, is one or more periods amounting to at least 13 weeks within a full-time course year—
   - (i) which are spent studying abroad (meaning other than in the United Kingdom or the Islands) otherwise than as part of Turing mobility,
@@ -383,7 +389,7 @@ Regulation 3
   - (i) in which the periods of taught study undertaken at the UK provider (meaning a provider located within the United Kingdom) during the course year were in aggregate less than 10 weeks, or
   - (ii) in which the aggregate periods of attendance in relation to the course year undertaken and any previous course years undertaken as part of the course, which were not periods of taught study at the UK provider (disregarding any intervening vacations), exceeded 30 weeks.
 
-**6.** In these Regulations (unless otherwise specified), “Turing mobility”—
+**6.**[^c-0b46471afe9c4d03b9e04ae3dfeec6c1] In these Regulations (unless otherwise specified), “Turing mobility”—
 
 - (a) in relation to a course provided by an institution in England, is one or more periods amounting to at least 13 weeks within a full-time course year—
   - (i) which are spent either studying or on work experience outside the United Kingdom, as part of the scheme established by the Secretary of State and known as “**the Turing Scheme**” (being a government programme in the United Kingdom that provides funding for international opportunities in education and training across the world), and
@@ -396,6 +402,8 @@ Regulation 3
 - (c) in relation to a course provided by an institution in Northern Ireland, is a course year where all the periods of study or work placement during the course year are attended at an institution or workplace outside the United Kingdom as part of the Turing Scheme.
 
 ## Annotations
+
+[^c-ff346b9a3a75b7e5321b378d0c9b3ea5]: Commencement: Sch. 1 para. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00047]: Footnote: [S.I. 2007/779](https://www.legislation.gov.uk/uksi/2007/779).
 
@@ -463,4 +471,14 @@ Regulation 3
 
 [^f00079]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194). Relevant amendments were made by paragraph 1(1)(a), (c) and (d) of Schedule 6 to the Health and Social Care (Reform) Act (Northern Ireland) 2009, and by paragraph 141 of Schedule 1 to the Health and Social Care Act (Northern Ireland) [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
 
+[^c-1da64b3e2b46639470225b0f9088a8b5]: Commencement: Sch. 1 para. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-1072fa5571d4e1d249fff29dc500040e]: Commencement: Sch. 1 para. 3 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
 [^f00080]: Footnote: Version 1.3.4 of the Higher Education Classification of Subjects coding system was published digitally on 28th October 2021. A full list of Common Aggregated Hierarchy 3 codes, and the subjects they are associated with, is available at https://www.hesa.ac.uk/collection/coding-manual-tools/hecoscahdata/cah. A printed copy can be obtained on request from the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P.
+
+[^c-667935c69870051edbc1e82e81e4ad6e]: Commencement: Sch. 1 para. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-a4e1f2d09fc75d35acf8ef82c55ecafb]: Commencement: Sch. 1 para. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-0b46471afe9c4d03b9e04ae3dfeec6c1]: Commencement: Sch. 1 para. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

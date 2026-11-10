@@ -3,15 +3,15 @@ title: The Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2
 id: ssi/2008/6
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-14'
-text_date: null
-extent: null
+text_date: '2008-02-06'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/6
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/6/pdfs/ssien_20080006_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/6/pdfs/ssi_20080006_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/6/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/6/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-02-06. See https://www.legislation.gov.uk/changes/affected/ssi/2008/6
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 6
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 113B(2)(b), (5A), (9) and (11)(c), 118(2A)(e) and 119(7) of the Police Act 1997[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement, extent and interpretation
+## 1. Citation, commencement, extent and interpretation[^c-64a6757ae6ab2a22909aa15acb5e6b7c]
 
 (1) These Regulations may be cited as the Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2008 and come into force on 6th February 2008.
 
@@ -50,11 +54,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) In these Regulations, “the principal Regulations” means the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006[^f00002].
 
-## 2. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006
+## 2. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006[^c-abdfa18b5f0306425b50b559a03a3c3a]
 
 The principal Regulations are amended in accordance with regulations 3 to 8.
 
-## 3. Insertion of regulation 7A (enhanced criminal record certificates: police forces)
+## 3. Insertion of regulation 7A (enhanced criminal record certificates: police forces)[^c-c8c9cfc5ecd41df1cdd29520c78dd82c]
 
 After regulation 7 (central records: prescribed details) insert–
 
@@ -67,7 +71,7 @@ After regulation 7 (central records: prescribed details) insert–
 
 .
 
-## 4. Amendment of regulation 8 (enhanced criminal record certificates: relevant police forces)
+## 4. Amendment of regulation 8 (enhanced criminal record certificates: relevant police forces)[^c-3e21dbd599034921909ab54d84db4f8d]
 
 (1) In regulation 8 (enhanced criminal record certificates: relevant police forces) in paragraph (1)(h) omit “if the Agency has indicated on central records that it holds non-conviction information relating to the applicant”.
 
@@ -81,7 +85,7 @@ After regulation 7 (central records: prescribed details) insert–
 
 (3) In regulation 8 in paragraph (2) for “(1)(j)” substitute “(1)(l)”.
 
-## 5. Amendment of regulation 11 (enhanced criminal record certificates – matters)
+## 5. Amendment of regulation 11 (enhanced criminal record certificates – matters)[^c-dcd3014adeaef8db3c58c631229fad6c]
 
 (1) In regulation 11 (enhanced criminal record certificates – matters) for paragraphs (a) to (c) substitute–
 
@@ -98,7 +102,7 @@ After regulation 7 (central records: prescribed details) insert–
 
 .
 
-## 6. Amendment of regulation 12 (enhanced criminal record certificates – individuals)
+## 6. Amendment of regulation 12 (enhanced criminal record certificates – individuals)[^c-5b11d5a7e5eaee45feb14953b84f4f1c]
 
 (1) In regulation 12 (enhanced criminal record certificates – individuals) in paragraph (1) for “8” substitute “10”.
 
@@ -125,7 +129,7 @@ After regulation 7 (central records: prescribed details) insert–
 
 .
 
-## 7. Insertion of regulation 16A (evidence of identity: obtaining data)
+## 7. Insertion of regulation 16A (evidence of identity: obtaining data)[^c-d768c8a3e83851f202eb60e22f24e914]
 
 After regulation 16 (evidence of identity: fingerprinting) insert–
 
@@ -135,7 +139,7 @@ After regulation 16 (evidence of identity: fingerprinting) insert–
 
 .
 
-## 8. Amendment of regulation 17 (appropriate bodies to pay fee for information provided to the Scottish Ministers)
+## 8. Amendment of regulation 17 (appropriate bodies to pay fee for information provided to the Scottish Ministers)[^c-ea7154f2a121db1ea35305a2832ff5fb]
 
 In regulation 17 (appropriate bodies to pay fee for information provided to the Scottish Ministers) at the end of regulation 17(g) omit “and” and after regulation 17(h) insert–
 
@@ -177,11 +181,23 @@ Regulation 8 amends regulation 17 of the principal Regulations, which prescribes
 
 [^f00001]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50) (“the 1997 Act”). Section 113B(5A) was inserted by section 80 of the [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14) (“the 2007 Act”). Section 80 of the 2007 Act was commenced on 11th January 2008 by [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564). Section 118(2A)(e) was inserted by section 164(3) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) (“the 2005 Act”). Section 119(7) was inserted by section 165(1)(b) of the 2005 Act. See section 125(1) of the Police Act 1997 for a definition of “prescribed”. By virtue of section 126(3) and (4) of the 1997 Act, as inserted by section 166(2) of the 2005 Act, in the application of Part 5 of the 1997 Act to Scotland references to the Secretary of State must be construed as references to the Scottish Ministers (except in section 118(2A)(d) or 124A(1) and (2) of the 1997 Act).
 
+[^c-64a6757ae6ab2a22909aa15acb5e6b7c]: Commencement: Reg. 1 in force at 6.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/6/regulation/1/1)
+
 [^f00002]: Footnote: [S.S.I. 2006/96](https://www.legislation.gov.uk/ssi/2006/96); amended by [S.S.I. 2006/521](https://www.legislation.gov.uk/ssi/2006/521) and [2007/112](https://www.legislation.gov.uk/ssi/2007/112). [S.S.I. 2006/521](https://www.legislation.gov.uk/ssi/2006/521) was made in exercise of the powers conferred by section 112(1)(a), 113A(1)(a), 113B(1)(a), 114(1)(a) and 116(1)(a) of the 1997 Act. All these powers were repealed by section 79(1) of the 2007 Act, commenced on 11th January 2008 by [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564).
+
+[^c-abdfa18b5f0306425b50b559a03a3c3a]: Commencement: Reg. 2 in force at 6.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/6/regulation/1/1)
+
+[^c-c8c9cfc5ecd41df1cdd29520c78dd82c]: Commencement: Reg. 3 in force at 6.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/6/regulation/1/1)
+
+[^c-3e21dbd599034921909ab54d84db4f8d]: Commencement: Reg. 4 in force at 6.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/6/regulation/1/1)
+
+[^c-dcd3014adeaef8db3c58c631229fad6c]: Commencement: Reg. 5 in force at 6.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/6/regulation/1/1)
 
 [^f00003]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19).
 
 [^f00004]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
+
+[^c-5b11d5a7e5eaee45feb14953b84f4f1c]: Commencement: Reg. 6 in force at 6.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/6/regulation/1/1)
 
 [^f00005]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 
@@ -191,4 +207,8 @@ Regulation 8 amends regulation 17 of the principal Regulations, which prescribes
 
 [^f00008]: Footnote: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
 
+[^c-d768c8a3e83851f202eb60e22f24e914]: Commencement: Reg. 7 in force at 6.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/6/regulation/1/1)
+
 [^f00009]: Footnote: Section 118(2A) was inserted by section 164(3) of the 2005 Act.
+
+[^c-ea7154f2a121db1ea35305a2832ff5fb]: Commencement: Reg. 8 in force at 6.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/6/regulation/1/1)

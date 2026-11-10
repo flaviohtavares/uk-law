@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 15
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '15'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 15. Cap on overall support in relation to a service year
+## 15. Cap on overall support in relation to a service year[^c-83e3961210fe89600d7e477ed9885cc3]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student does not qualify for any support in relation to a course year (“course year A”) if—
 
@@ -26,3 +32,7 @@ summary: ''
 (2) Paragraph (1) applies regardless of whether the provider in relation to any of the courses undertaken by the eligible student is an English higher education provider or is an institution in Scotland, Northern Ireland or Wales.
 
 (3) An eligible student’s entitlement to support under Parts 4, 5 and 6 is subject to paragraph (1).
+
+## Annotations
+
+[^c-83e3961210fe89600d7e477ed9885cc3]: Commencement: Reg. 15 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

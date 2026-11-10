@@ -3,15 +3,15 @@ title: The Pedicabs (London) (Fares and Fees) Regulations 2026
 id: uksi/2026/137
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-02-25'
-text_date: null
-extent: null
+text_date: '2026-03-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/137
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/137/pdfs/uksi_20260137_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/137/made/data.pdf
-pending_changes: 4
+- http://www.legislation.gov.uk/uksi/2026/137/data.pdf
+pending_changes: 14
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Pedicabs (London) (Fares and Fees) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-03-09. See https://www.legislation.gov.uk/changes/affected/uksi/2026/137
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2026 No. 137
 
@@ -37,7 +41,7 @@ Transport for London, in exercise of the powers conferred on it by sections 1(1)
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-1af30f23fa70b867eaf590f8fa8f524e]
 
 (1) These Regulations may be cited as the Pedicabs (London) (Fares and Fees) Regulations 2026.
 
@@ -46,7 +50,7 @@ Transport for London, in exercise of the powers conferred on it by sections 1(1)
 - (a) This regulation and regulations 2, 13 and the Schedule come into force on 9th March 2026; and
 - (b) Regulations 3 to 12 come into force on 30th October 2026.
 
-### 2. Interpretation
+### 2. Interpretation[^c-6c4d2e0d1bc487b02e5eb85cb2eb904e]
 
 In these Regulations—
 
@@ -60,7 +64,9 @@ In these Regulations—
 
 ## PART 2 — FARES
 
-### 3. Fares for a pedicab journey
+**Not yet in force.**
+
+### 3. Fares for a pedicab journey[^c-52777342fd4bab01a8a06aaaa598a8b1]
 
 (1) Subject to regulation 4, the fare payable by a person for a journey of a pedicab is as set out in this Regulation.
 
@@ -85,7 +91,7 @@ In these Regulations—
 
 (6) For the purposes of subparagraph (5)(b)(ii)(bb), ‘exceptional circumstances’ means a medical emergency, safety or road traffic conditions.
 
-### 4. Fixed fare for a pedicab journey
+### 4. Fixed fare for a pedicab journey[^c-bfb4f2ac5a8bd8d5f89e70b1a050f7d6]
 
 (1) A driver or operator may charge a fixed fare for a journey of a pedicab in accordance with this regulation and regulation 3 does not apply when the driver or operator agrees to carry the passenger or passengers in accordance with this regulation.
 
@@ -93,7 +99,7 @@ In these Regulations—
 
 (3) A fixed fare under this regulation must be lower than the fare which may be charged under regulation 3.
 
-### 5. Fares for additional services
+### 5. Fares for additional services[^c-c327269a3bd2cb4a74579bd8ec28f891]
 
 (1) In addition to the fare payable by a person for a journey of pedicab under regulation 3 or 4, an operator may charge a person fees in respect of additional services which may be provided in connection with the journey.
 
@@ -105,29 +111,29 @@ In these Regulations—
 
 - “**additional services**” means the provision of commentary, entertainment or hospitality.
 
-### 6. Card payments
+### 6. Card payments[^c-a1949b609bf0ab7f20c1926ae867018f]
 
 A driver must only use an electronic card payment device of a type which has been approved by TfL when accepting payment for a fare by credit or debit card.
 
-### 7. Provision of receipt on request
+### 7. Provision of receipt on request[^c-f53c03b8212f377d1f5d54f4a24ceab8]
 
 (1) A driver must, if so requested by a passenger during or immediately after a journey, provide the passenger with a receipt for the fare paid by the passenger for that journey.
 
 (2) A receipt under paragraph (1) must be in such form and include such information as TfL may specify.
 
-### 8. Offences under regulations 6 and 7
+### 8. Offences under regulations 6 and 7[^c-962689b7ba296fc910b93fed0774f4c0]
 
 A pedicab driver who fails to comply with the requirements of regulations 6 and 7 is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 9. Offence for demanding or taking more than permitted fare
+### 9. Offence for demanding or taking more than permitted fare[^c-364daeba57c4b6b9c23e3f4ba92086a4]
 
 A pedicab driver or pedicab operator who demands or takes more than the fare permitted or agreed in relation to a journey under regulation 3 or agreed for a journey under regulation 4, or who charges more than a fee agreed under regulation 5, is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 10. Fixed penalty offence
+### 10. Fixed penalty offence[^c-c19d34541a9fa3ae2c9ed326d0a41730]
 
 Where on any occasion an authorised officer finds a person who they have reason to believe has on that occasion committed an offence under regulation 8 the authorised officer may give that person a notice offering them the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
 
-### 11. Fixed penalty notices
+### 11. Fixed penalty notices[^c-5f0b12e200c84fd975d409a63b78f764]
 
 (1) The provisions of this regulation have effect in relation to the notice (“fixed penalty notice”) which may be given under regulation 10.
 
@@ -154,7 +160,7 @@ Where on any occasion an authorised officer finds a person who they have reason 
 
 is to be evidence of the facts stated.
 
-### 12. Level of fixed penalty
+### 12. Level of fixed penalty[^c-16759d902d23d7f56815f0728ccb44ee]
 
 (1) TfL may set the amount of the fixed penalty payable to TfL in accordance with this regulation.
 
@@ -164,7 +170,7 @@ is to be evidence of the facts stated.
 
 ## PART 3 — FEES
 
-### 13. Licence fees
+### 13. Licence fees[^c-a2b0b849d0cb1b742ebb0f48f2863f48]
 
 The fees which TfL may charge an applicant in relation to licences—
 
@@ -182,7 +188,7 @@ Transport for London
 
 25th February 2026
 
-## SCHEDULE 1 — LICENCE FEES
+## SCHEDULE 1 — LICENCE FEES[^c-b18b518efdce83aa2b5b09eb9c7e336e]
 
 Regulation 13
 
@@ -253,8 +259,36 @@ Regulation 12 with the Schedule provides for the fees which TfL may charge in co
 
 [^f00001]: Footnote: [2024 c.7](https://www.legislation.gov.uk/ukpga/2024/7).
 
+[^c-1af30f23fa70b867eaf590f8fa8f524e]: Commencement: Reg. 1 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/a)
+
+[^c-6c4d2e0d1bc487b02e5eb85cb2eb904e]: Commencement: Reg. 2 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/a)
+
 [^f00002]: Footnote: [S.I. 2026/134](https://www.legislation.gov.uk/uksi/2026/134).
 
 [^f00003]: Footnote: [S.I. 2026/135](https://www.legislation.gov.uk/uksi/2026/135).
 
 [^f00004]: Footnote: [S.I. 2026/136](https://www.legislation.gov.uk/uksi/2026/136).
+
+[^c-52777342fd4bab01a8a06aaaa598a8b1]: Commencement: Reg. 3 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-bfb4f2ac5a8bd8d5f89e70b1a050f7d6]: Commencement: Reg. 4 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-c327269a3bd2cb4a74579bd8ec28f891]: Commencement: Reg. 5 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-a1949b609bf0ab7f20c1926ae867018f]: Commencement: Reg. 6 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-f53c03b8212f377d1f5d54f4a24ceab8]: Commencement: Reg. 7 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-962689b7ba296fc910b93fed0774f4c0]: Commencement: Reg. 8 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-364daeba57c4b6b9c23e3f4ba92086a4]: Commencement: Reg. 9 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-c19d34541a9fa3ae2c9ed326d0a41730]: Commencement: Reg. 10 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-5f0b12e200c84fd975d409a63b78f764]: Commencement: Reg. 11 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-16759d902d23d7f56815f0728ccb44ee]: Commencement: Reg. 12 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+
+[^c-a2b0b849d0cb1b742ebb0f48f2863f48]: Commencement: Reg. 13 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/a)
+
+[^c-b18b518efdce83aa2b5b09eb9c7e336e]: Commencement: Sch. 1 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/a)

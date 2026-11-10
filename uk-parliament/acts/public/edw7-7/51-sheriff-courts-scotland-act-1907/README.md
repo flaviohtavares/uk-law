@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1907-08-28'
-text_date: '2025-12-01'
+text_date: '2026-09-30'
 extent: S
 source_url: https://www.legislation.gov.uk/ukpga/Edw7/7/51
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/Edw7/7/51/pdfs/ukpga_19070051_en.pdf
 - http://www.legislation.gov.uk/ukpga/Edw7/7/51/data.pdf
-pending_changes: 9
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Sheriff Courts (Scotland) Act 1907
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2025-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/Edw7/7/51
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/Edw7/7/51
 >
 > Extent: Scotland.
 

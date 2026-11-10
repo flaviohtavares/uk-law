@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **HEALTH AND SAFETY**
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Health and Safety at Work etc. Act 1974](../uk-parliament/acts/public/1974/37-health-and-safety-at-work-etc-act-1974/README.md) *(changes pending)* — 275 regulations on this topic made under it
+- [Health and Safety at Work etc. Act 1974](../uk-parliament/acts/public/1974/37-health-and-safety-at-work-etc-act-1974/README.md) *(changes pending)* — 273 regulations on this topic made under it
 - [Health and Safety at Work (Northern Ireland) Order 1978](../northern-ireland/orders-in-council/1978/1039-health-and-safety-at-work-northern-ireland-order-1978/README.md) — 134 regulations on this topic made under it
 - [The Offshore, and Pipelines, Safety (Northern Ireland) Order 1992](../northern-ireland/orders-in-council/1992/1728-the-offshore-and-pipelines-safety-northern-ireland-order-1992.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Offshore Safety Act 1992](../uk-parliament/acts/public/1992/15-offshore-safety-act-1992.md) — 7 regulations on this topic made under it
@@ -16,7 +16,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-616 in force.
+614 in force.
 
 **2026**
 
@@ -295,8 +295,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Adventure Activities Licensing (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1973-the-adventure-activities-licensing-amendment-regulations-2008.md) *(as originally made)*
 - [The Blood Safety and Quality (Fees Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/525-the-blood-safety-and-quality-fees-amendment-regulations-2008.md) *(as originally made)*
-- [The Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2337-the-chemicals-hazard-information-and-packaging-for-supply-amendment-regulations.md) *(changes pending)*
-- [The Control of Major Accident Hazard (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1087-the-control-of-major-accident-hazard-amendment-regulations-2008.md) *(changes pending)*
 - [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2323-the-health-and-safety-enforcing-authority-for-railways-and-other-guided-transpor.md) *(as originally made)*
 - [The Health and Safety (Fees) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/21-the-health-and-safety-fees-regulations-northern-ireland-2008.md)
 - [The Legislative Reform (Health and Safety Executive) Order 2008](../uk-parliament/regulations/2008/0500-0999/960-the-legislative-reform-health-and-safety-executive-order-2008.md)

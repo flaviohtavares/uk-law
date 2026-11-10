@@ -6,14 +6,14 @@ Laws in force under the legislation.gov.uk subject heading **PROCEEDS OF CRIME**
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Proceeds of Crime Act 2002](../uk-parliament/acts/public/2002/29-proceeds-of-crime-act-2002/README.md) *(changes pending)* — 110 regulations on this topic made under it
+- [Proceeds of Crime Act 2002](../uk-parliament/acts/public/2002/29-proceeds-of-crime-act-2002/README.md) *(changes pending)* — 108 regulations on this topic made under it
 - [Criminal Finances Act 2017](../uk-parliament/acts/public/2017/22-criminal-finances-act-2017/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Serious Crime Act 2007](../uk-parliament/acts/public/2007/27-serious-crime-act-2007/README.md) *(changes pending)* — 7 regulations on this topic made under it
 - [Serious Crime Act 2015](../uk-parliament/acts/public/2015/9-serious-crime-act-2015/README.md) *(changes pending)* — 5 regulations on this topic made under it
 
 ## Regulations
 
-157 in force.
+155 in force.
 
 **2026**
 
@@ -175,9 +175,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Assets Recovery Agency (Abolition) Order 2008](../uk-parliament/regulations/2008/0500-0999/575-the-assets-recovery-agency-abolition-order-2008.md) *(as originally made)*
 - [The Proceeds of Crime Act 2002 (Disclosure of Information) Order 2008](../uk-parliament/regulations/2008/1500-1999/1909-the-proceeds-of-crime-act-2002-disclosure-of-information-order-2008.md) *(as originally made)*
 - [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008](../uk-parliament/regulations/2008/0000-0499/302-the-proceeds-of-crime-act-2002-external-requests-and-orders-amendment-order-2008.md) *(as originally made)*
-- [The Proceeds of Crime Act 2002 (Investigations in England, Wales and Northern Ireland: Code of Practice) Order 2008](../uk-parliament/regulations/2008/0500-0999/946-the-proceeds-of-crime-act-2002-investigations-in-england-wales-and-northern-irel.md) *(changes pending)*
 - [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) (Amendment) Order 2008](../uk-parliament/regulations/2008/0000-0499/298-the-proceeds-of-crime-act-2002-investigations-in-different-parts-of-the-united-k.md) *(as originally made)*
-- [The Proceeds of Crime Act 2002 (Investigative Powers of Prosecutors in England, Wales and Northern Ireland: Code of Practice) Order 2008](../uk-parliament/regulations/2008/1500-1999/1978-the-proceeds-of-crime-act-2002-investigative-powers-of-prosecutors-in-england-wa.md) *(as originally made)*
 - [The Proceeds of Crime Act 2002 (Legal Expenses in Civil Recovery Proceedings) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/523-the-proceeds-of-crime-act-2002-legal-expenses-in-civil-recovery-proceedings-amen.md) *(as originally made)*
 - [The Serious Crime Act 2007 (Amendment of the Proceeds of Crime Act 2002) Order 2008](../uk-parliament/regulations/2008/0500-0999/949-the-serious-crime-act-2007-amendment-of-the-proceeds-of-crime-act-2002-order-200.md) *(as originally made)*
 - [The Serious Crime Act 2007 (Commencement No. 1) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/152-the-serious-crime-act-2007-commencement-no-1-scotland-order-2008.md) *(as originally made)*

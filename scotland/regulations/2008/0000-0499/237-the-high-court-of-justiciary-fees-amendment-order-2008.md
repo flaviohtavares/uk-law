@@ -3,16 +3,16 @@ title: The High Court of Justiciary Fees Amendment Order 2008
 id: ssi/2008/237
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-06'
-text_date: null
-extent: null
+text_date: '2008-06-06'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/237
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/237/pdfs/ssien_20080237_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/237/pdfs/ssi_20080237_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/237/made/data.pdf
-pending_changes: 3
+- http://www.legislation.gov.uk/ssi/2008/237/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The High Court of Justiciary Fees Amendment Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2008-06-06. See https://www.legislation.gov.uk/changes/affected/ssi/2008/237
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 237
 
@@ -40,13 +46,13 @@ Coming into force in accordance with article 1
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 2 of the Courts of Law Fees (Scotland) Act 1895[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-ed53eeb21fd53fee8fbd4506e0b8ec00]
 
 (1) This Order may be cited as the High Court of Justiciary Fees Amendment Order 2008 and, subject to paragraph (2), shall come into force on 1st August 2008.
 
 (2) Article 2(b) and Schedule 2 shall come into force, and article 2(a) and Schedule 1 shall cease to have effect, on 1st April 2010.
 
-## 2. Amendment of the High Court of Justiciary Fees Order 1984
+## 2. Amendment of the High Court of Justiciary Fees Order 1984[^c-cdadde7f0cbcb91b06f9e7701bd1b6d4][^c-45240fe556909690aafde443da23ec28]
 
 The Table of Fees in the Schedule to the High Court of Justiciary Fees Order 1984[^f00002] shall be substituted by–
 
@@ -132,6 +138,12 @@ This Order also specifies new fee levels which will be applicable from 1st April
 ## Annotations
 
 [^f00001]: Footnote: [1895 c. 14](https://www.legislation.gov.uk/ukpga/1895/14); section 2 was substituted by the Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act [1983 (c. 12)](https://www.legislation.gov.uk/ukpga/1983/12), section 4, and modified by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), articles 2(1) and 4 and Schedule 2, Part I, paragraph 9 and Part IV. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c-ed53eeb21fd53fee8fbd4506e0b8ec00]: Commencement: Art. 1 in force at 1.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/237/article/1/1)
+
+[^c-cdadde7f0cbcb91b06f9e7701bd1b6d4]: Commencement: Art. 2(a) in force at 1.8.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/237/article/1/1)
+
+[^c-45240fe556909690aafde443da23ec28]: Commencement: Art. 2(b) in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/237/article/1/2)
 
 [^f00002]: Footnote: S.I. [1984/252](https://www.legislation.gov.uk/uksi/1984/252), amended by S.I. [1994/3266](https://www.legislation.gov.uk/uksi/1994/3266), S.I. [1996/516](https://www.legislation.gov.uk/uksi/1996/516), S.I. [1999/753](https://www.legislation.gov.uk/uksi/1999/753) and [S.S.I. 2007/321](https://www.legislation.gov.uk/ssi/2007/321).
 

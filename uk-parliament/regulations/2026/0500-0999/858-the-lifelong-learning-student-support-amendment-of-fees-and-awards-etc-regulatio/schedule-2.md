@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 2
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,21 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
 ## Schedule 2 — Eligible students
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 Regulations 5(3), (5) and (8) and 7(2)
 
 ### Part 1 — Interpretation
 
-**1.** (1) For the purposes of this Schedule—
+**1.**[^c-1ca58d21fa0d5f65573d0f6fd1842104] (1) For the purposes of this Schedule—
 
 - “**EEA frontier self-employed person**” means an EEA national who—
   - (a) is a self-employed person in England, and
@@ -126,7 +132,7 @@ is to be considered to always have been a part of the European Economic Area.
 
 ### Part 2 — Categories
 
-#### 2. Persons who are settled in the United Kingdom
+#### 2. Persons who are settled in the United Kingdom[^c-9ee814baaa6c2a9466652d7dd8a01695]
 
 (1) A person—
 
@@ -138,7 +144,7 @@ is to be considered to always have been a part of the European Economic Area.
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(3)(c).
 
-**3.** (1) A person—
+**3.**[^c-8b105a460d8c4f043c75ac7fbb7e3b8b] (1) A person—
 
 - (a) who is settled in the United Kingdom and does not fall within paragraph 4,
 - (b) who is attending or undertaking a course in England,
@@ -148,7 +154,7 @@ is to be considered to always have been a part of the European Economic Area.
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the Islands and the Republic of Ireland in accordance with paragraph 1(3)(c).
 
-**4.** (1) A person who—
+**4.**[^c-1b0138687ece544782ac86f56fd91680] (1) A person who—
 
 - (a) meets one of the following conditions—
   - (i) the person is within the personal scope of the citizens’ rights provisions and is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
@@ -169,7 +175,7 @@ is to be considered to always have been a part of the European Economic Area.
 
 (2) For the purposes of sub-paragraph (1)(a)(ii)(cc), “**eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules**” means the eligibility requirements for such leave in accordance with paragraph EU11 of Appendix EU to the immigration rules.
 
-#### 5. Refugees and their family members
+#### 5. Refugees and their family members[^c-2f3826de1caf0ca4e58350ec1c8e6fc0]
 
 (1) A person who—
 
@@ -192,7 +198,7 @@ is to be considered to always have been a part of the European Economic Area.
 - (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
 - (e) is ordinarily resident in England on the course start date.
 
-#### 6. Persons granted stateless leave and their family members
+#### 6. Persons granted stateless leave and their family members[^c-f6032ad6c3b510828cba7b7aba7b72b3]
 
 (1) A person granted stateless leave, who is ordinarily resident in England on the course start date.
 
@@ -215,11 +221,11 @@ is to be considered to always have been a part of the European Economic Area.
 
 (4) In this paragraph, “**leave application date**” means the date on which a person granted stateless leave made an application to remain in the United Kingdom as a stateless person under the immigration rules.
 
-#### 7. Persons granted section 67 leave
+#### 7. Persons granted section 67 leave[^c-00b85e5979ce41a3f70e487c0da528dc]
 
 A person granted section 67 leave, who is ordinarily resident in England on the course start date.
 
-#### 8. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse and their children
+#### 8. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse and their children[^c-6505a891afeeedef9833d6bee44931f5]
 
 (1) A person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse, who is ordinarily resident in England on the course start date.
 
@@ -234,11 +240,11 @@ A person granted section 67 leave, who is ordinarily resident in England on the 
 
 (3) In this paragraph, “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse made an application to remain in the United Kingdom on those grounds under the immigration rules.
 
-#### 9. Persons granted Calais leave
+#### 9. Persons granted Calais leave[^c-89da1ce5489b3983bda1dc0b6c285d4a]
 
 A person granted Calais leave, who is ordinarily resident in England on the course start date.
 
-#### 10. Persons granted indefinite leave to enter or remain as a bereaved partner and their children
+#### 10. Persons granted indefinite leave to enter or remain as a bereaved partner and their children[^c-61773f9cb49fcfd56b0b2f5006b7157d]
 
 (1) A person granted indefinite leave to enter or remain as a bereaved partner, who is ordinarily resident in England on the course start date.
 
@@ -256,7 +262,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 - (a) under the immigration rules, or
 - (b) in the case of a person referred to in paragraph (a)(iv) of the definition of “person granted indefinite leave to enter or remain as a bereaved partner” in paragraph 1 of Part 1 of Schedule 1, outside the immigration rules.
 
-#### 11. Persons granted humanitarian protection and their family members
+#### 11. Persons granted humanitarian protection and their family members[^c-88bdbb83b3b7f50594b7cd8b003443c8]
 
 (1) A person granted humanitarian protection, who is ordinarily resident in England on the course start date.
 
@@ -275,7 +281,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 - (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
 - (e) is ordinarily resident in England on the course start date.
 
-#### 12. Workers, employed persons, self-employed persons and their family members
+#### 12. Workers, employed persons, self-employed persons and their family members[^c-0a7bebc7a7fb55ea0e3eb1cde73218e9]
 
 (1) A person with protected rights, or a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020[^f00083], who—
 
@@ -295,7 +301,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 
 (3) In this paragraph, a description of a person in sub-paragraph (1)(a)(i) is to be read as if it includes a relevant person of Northern Ireland who would, if that person were an EEA national or solely an EEA national, be an EEA migrant worker or an EEA self-employed person.
 
-**13.** (1) A person with protected rights who—
+**13.**[^c-87c230bd4afcf77abdfb8af4733c4301] (1) A person with protected rights who—
 
 - (a) is ordinarily resident in England on the first day of the first course year of the course,
 - (b) has been ordinarily resident throughout the three-year period preceding the first course year of the course either—
@@ -308,7 +314,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 - (a) the reference to a “national of a Member State” is to be read as including a relevant person of Northern Ireland, and
 - (b) the reference to “another Member State” is to be read as including the United Kingdom, and the references to “that State” construed accordingly.
 
-#### 14. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere
+#### 14. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-d73e8094734762fbe22f06231f3d2077]
 
 (1) A person who—
 
@@ -330,7 +336,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 
 (3) For the purposes of sub-paragraph (2), a person had the right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
 
-#### 15. EU nationals etc.
+#### 15. EU nationals etc.[^c-dd6e6530971ef9a2d8efa8aa69bdcfd4]
 
 (1) A person with protected rights—
 
@@ -344,7 +350,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories in accordance with paragraph 1(3)(c).
 
-#### 16. United Kingdom nationals
+#### 16. United Kingdom nationals[^c-71ceaeaacc759528c82a241bf4b8f386]
 
 (1) A person—
 
@@ -364,7 +370,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 
 (3) Where a person (“**A**”) falls within sub-paragraph (1)(a)(ii), the person in relation to whom A is a family member must also meet the requirements of sub-paragraph (1)(b) and (d).
 
-**17.** (1) A person—
+**17.**[^c-5ef43380e8b226d6a4258d287ee94b55] (1) A person—
 
 - (a) who is an Irish citizen on the first day of the first course year of the course,
 - (b) who was ordinarily resident before IP completion day—
@@ -378,7 +384,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 
 (2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland in accordance with paragraph 1(3)(c).
 
-**18.** (1) Subject to sub-paragraphs (3) and (4), a person—
+**18.**[^c-753931576a23b74c37d5c04492e9b314] (1) Subject to sub-paragraphs (3) and (4), a person—
 
 - (a) who is—
   - (i) settled in the United Kingdom, or
@@ -397,7 +403,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 
 (4) Paragraphs (e) and (f) of sub-paragraph (1) do not apply to a person mentioned in paragraph (a)(ii) of that sub-paragraph.
 
-**19.** (1) A person—
+**19.**[^c-15e5ae3c66ae9c45d4692aac1ec5b81c] (1) A person—
 
 - (a) who is a family member of a person who is settled in the United Kingdom on the first day of the first course year of the course,
 - (b) who is attending or undertaking a course in England,
@@ -407,7 +413,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(3)(c).
 
-#### 20. Persons resident in Gibraltar
+#### 20. Persons resident in Gibraltar[^c-8317283754265192612070a8ee487f9c]
 
 (1) A person—
 
@@ -429,7 +435,7 @@ A person granted Calais leave, who is ordinarily resident in England on the cour
 
 (3) Paragraph (d) of sub-paragraphs (1) and (2) does not apply to a person treated as being ordinarily resident in the territory referred to in paragraph (c) of those sub-paragraphs in accordance with paragraph 1(3)(c).
 
-#### 21. EU nationals ordinarily resident in the United Kingdom and Islands
+#### 21. EU nationals ordinarily resident in the United Kingdom and Islands[^c-6fe2bba8038449ad3dcd1b2ae2b76dec]
 
 A person with protected rights who—
 
@@ -440,7 +446,7 @@ A person with protected rights who—
   - (i) the United Kingdom, Gibraltar, the European Economic Area and Switzerland, or
   - (ii) the overseas territories.
 
-#### 22. Children of Swiss nationals
+#### 22. Children of Swiss nationals[^c-46fc0859d55e02ed3dc62aa07772cceb]
 
 A person with protected rights who—
 
@@ -451,7 +457,7 @@ A person with protected rights who—
   - (ii) in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories where at least part of that ordinary residence was in the overseas territories, and
 - (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in paragraph (c).
 
-#### 23. Children of Turkish workers
+#### 23. Children of Turkish workers[^c-79f2fccae7f79ddc1e3a6bc09b7465e9]
 
 (1) A person who—
 
@@ -464,7 +470,7 @@ A person with protected rights who—
   - (i) in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey, or
   - (ii) is the territory comprising the United Kingdom, the European Economic Area, Switzerland, Turkey and the overseas territories where at least part of that ordinary residence was in the overseas territories.
 
-#### 24. Long residence
+#### 24. Long residence[^c-863cec2bfd2ed3673ad1e2332a67ae0e]
 
 (1) A person—
 
@@ -481,7 +487,7 @@ A person with protected rights who—
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(3)(c).
 
-#### 25. Persons granted leave under one of the Afghan Schemes and their family members
+#### 25. Persons granted leave under one of the Afghan Schemes and their family members[^c-745b9f2917d931955c9ecd8585f907b5]
 
 (1) A person granted leave under one of the Afghan Schemes, who is ordinarily resident in England on the course start date.
 
@@ -506,11 +512,11 @@ A person with protected rights who—
 
 (4) In this paragraph “**leave application date**” means the date on which the person granted leave under one of the Afghan Schemes made an application for leave to enter or remain in the United Kingdom.
 
-#### 26. Evacuated or assisted British nationals from Afghanistan
+#### 26. Evacuated or assisted British nationals from Afghanistan[^c-107e2de45e0e2ac6011f4da33175cd07]
 
 An evacuated or assisted British national from Afghanistan who is ordinarily resident in England on the course start date.
 
-#### 27. Persons granted leave under one of the Ukraine Schemes and their family members
+#### 27. Persons granted leave under one of the Ukraine Schemes and their family members[^c-12f1993ab96e68ee719cc811652b82f7]
 
 (1) A person granted leave under one of the Ukraine Schemes, who is ordinarily resident in England on the course start date.
 
@@ -537,8 +543,62 @@ An evacuated or assisted British national from Afghanistan who is ordinarily res
 
 ## Annotations
 
+[^c-1ca58d21fa0d5f65573d0f6fd1842104]: Commencement: Sch. 2 para. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
 [^f00081]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^c-9ee814baaa6c2a9466652d7dd8a01695]: Commencement: Sch. 2 para. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-8b105a460d8c4f043c75ac7fbb7e3b8b]: Commencement: Sch. 2 para. 3 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-1b0138687ece544782ac86f56fd91680]: Commencement: Sch. 2 para. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00082]: Footnote: [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052).
 
+[^c-2f3826de1caf0ca4e58350ec1c8e6fc0]: Commencement: Sch. 2 para. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-f6032ad6c3b510828cba7b7aba7b72b3]: Commencement: Sch. 2 para. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-00b85e5979ce41a3f70e487c0da528dc]: Commencement: Sch. 2 para. 7 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-6505a891afeeedef9833d6bee44931f5]: Commencement: Sch. 2 para. 8 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-89da1ce5489b3983bda1dc0b6c285d4a]: Commencement: Sch. 2 para. 9 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-61773f9cb49fcfd56b0b2f5006b7157d]: Commencement: Sch. 2 para. 10 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-88bdbb83b3b7f50594b7cd8b003443c8]: Commencement: Sch. 2 para. 11 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-0a7bebc7a7fb55ea0e3eb1cde73218e9]: Commencement: Sch. 2 para. 12 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
 [^f00083]: Footnote: [S.I. 2020/1213](https://www.legislation.gov.uk/uksi/2020/1213).
+
+[^c-87c230bd4afcf77abdfb8af4733c4301]: Commencement: Sch. 2 para. 13 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-d73e8094734762fbe22f06231f3d2077]: Commencement: Sch. 2 para. 14 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-dd6e6530971ef9a2d8efa8aa69bdcfd4]: Commencement: Sch. 2 para. 15 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-71ceaeaacc759528c82a241bf4b8f386]: Commencement: Sch. 2 para. 16 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-5ef43380e8b226d6a4258d287ee94b55]: Commencement: Sch. 2 para. 17 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-753931576a23b74c37d5c04492e9b314]: Commencement: Sch. 2 para. 18 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-15e5ae3c66ae9c45d4692aac1ec5b81c]: Commencement: Sch. 2 para. 19 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-8317283754265192612070a8ee487f9c]: Commencement: Sch. 2 para. 20 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-6fe2bba8038449ad3dcd1b2ae2b76dec]: Commencement: Sch. 2 para. 21 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-46fc0859d55e02ed3dc62aa07772cceb]: Commencement: Sch. 2 para. 22 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-79f2fccae7f79ddc1e3a6bc09b7465e9]: Commencement: Sch. 2 para. 23 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-863cec2bfd2ed3673ad1e2332a67ae0e]: Commencement: Sch. 2 para. 24 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-745b9f2917d931955c9ecd8585f907b5]: Commencement: Sch. 2 para. 25 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-107e2de45e0e2ac6011f4da33175cd07]: Commencement: Sch. 2 para. 26 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+
+[^c-12f1993ab96e68ee719cc811652b82f7]: Commencement: Sch. 2 para. 27 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

@@ -3,7 +3,7 @@ title: The State Pension Credit Regulations 2002, section 2
 act: The State Pension Credit Regulations 2002
 section: '2'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/1792/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The State Pension Credit Regulations 2002, section 2
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
 ## 2. Persons not in Great Britain[^c-9e6711731cf8a77fd25e004aba9fb75d][^c-dd821a800661f6280493430b60380751]
 

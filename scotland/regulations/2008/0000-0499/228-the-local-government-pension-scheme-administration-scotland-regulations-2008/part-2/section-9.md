@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 9
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '9'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 9. Further restrictions on eligibility
+## 9. Further restrictions on eligibility[^c-ca5af57f6b12070125fd2d2ed8642a7c]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (6) if a person’s employment entitles the person to belong to another public service pension scheme, or would so entitle him were it not for his age, that employment does not entitle the person to be a member, unless that other scheme was made under section 7 of the Superannuation Act 1972.
 
@@ -33,6 +39,8 @@ summary: ''
 - (c) the person was an active member of the scheme immediately before that person’s employment by the NHS Scheme employing authority.
 
 ## Annotations
+
+[^c-ca5af57f6b12070125fd2d2ed8642a7c]: Commencement: Reg. 9 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00015]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 

@@ -3,16 +3,16 @@ title: The Judicial Appointments Order 2008
 id: uksi/2008/2995
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-17'
-text_date: null
-extent: null
+text_date: '2008-11-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2995
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2995/pdfs/uksiem_20082995_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2995/pdfs/uksi_20082995_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2995/made/data.pdf
-pending_changes: 20
+- http://www.legislation.gov.uk/uksi/2008/2995/data.pdf
+pending_changes: 32
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Judicial Appointments Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (32).** Text as at 2008-11-17. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2995
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 2995
 
@@ -44,7 +50,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 The Lord Chancellor makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-1893fd57849707f0a8d3f663225abaf9]
 
 (1) This Order may be cited as the Judicial Appointments Order 2008.
 
@@ -53,7 +59,7 @@ The Lord Chancellor makes the following Order:
 - (a) for the purposes of article 7(b), on 30th November 2010; and
 - (b) for all other purposes five days after the day on which it is made.
 
-## 2. Interpretation
+## 2. Interpretation[^c-c7150a94ea66e0e6fd9096ed77254b5d]
 
 In this Order—
 
@@ -62,37 +68,37 @@ In this Order—
 - “registered patent agent” has the meaning assigned to it by the Register of Patent Agents Rules 1990[^f00003];
 - “registered trade mark agent” has the meaning assigned to it by the Register of Trade Mark Agents Rules 1990[^f00004].
 
-## 3. Specified qualifications under the 1998 Act
+## 3. Specified qualifications under the 1998 Act[^c-45fb89b90ac4467db24bf7acdd79bb76]
 
 For the purposes of section 7(2)(a) of the 1998 Act—
 
 - (a) the specified qualification is that the person is a Fellow of the Institute of Legal Executives; and
 - (b) a person shall be taken first to become a Fellow of the Institute of Legal Executives when the person is admitted or enrolled as a Fellow of the Institute of Legal Executives.
 
-## 4. Specified and relevant qualifications under the 2007 Act
+## 4. Specified and relevant qualifications under the 2007 Act[^c-cd9142b50bec819dcd1b3277bb807b16]
 
 Articles 5 and 6 are subject to articles 7 and 8.
 
-**5.** For the purposes of section 50(2) and (3) of the 2007 Act, a person holds a relevant qualification if the person is—
+**5.**[^c-a9e5a49ce4612888c1c4bd8c66ab0789] For the purposes of section 50(2) and (3) of the 2007 Act, a person holds a relevant qualification if the person is—
 
 - (a) a Fellow of the Institute of Legal Executives;
 - (b) a registered patent agent; or
 - (c) a registered trade mark agent.
 
-**6.** For the purposes of section 50 of the 2007 Act, a person shall be taken first to become—
+**6.**[^c-63ff9b20376c82530c032c057318b943] For the purposes of section 50 of the 2007 Act, a person shall be taken first to become—
 
 - (a) a Fellow of the Institute of Legal Executives when the person is admitted or enrolled as a Fellow of the Institute of Legal Executives;
 - (b) a registered patent agent when the person’s name is entered on the register of patent agents in accordance with the Register of Patent Agents Rules 1990; or
 - (c) a registered trade mark agent when the person’s name is entered on the register of trade mark agents in accordance with the Register of Trade Mark Agents Rules 1990.
 
-## 7. Specified offices under the 2007 Act
+## 7. Specified offices under the 2007 Act[^c-075590b0b6905fbaf594509448eeadfd][^c-8917d2d1e8388f22d2b0c3af467070f3]
 
 A person who is a Fellow of the Institute of Legal Executives holds a relevant qualification for the purposes of section 50(2) and (3) of the 2007 Act in relation to the offices specified in—
 
 - (a) Part 1 of Schedule 1 to this Order; and
 - (b) Part 2 of Schedule 1 to this Order.
 
-**8.** A person who is a registered patent agent or a registered trade mark agent holds a relevant qualification for the purposes of section 50(2) and (3) of the 2007 Act in relation to the offices specified in Schedule 2 to this Order.
+**8.**[^c-f404615d144626eeab79b40c84023894] A person who is a registered patent agent or a registered trade mark agent holds a relevant qualification for the purposes of section 50(2) and (3) of the 2007 Act in relation to the offices specified in Schedule 2 to this Order.
 
 Jack Straw
 
@@ -104,7 +110,7 @@ Lord Chancellor
 
 Article 7
 
-### PART 1
+### PART 1[^c-ac35e695c3fc192f136fb089cde552d7]
 
 - Deputy district judge appointed under section 8(1) of the County Courts Act 1984[^f00005],
 - Deputy District Judge (Magistrates’ Courts) appointed under section 24(1) of the Courts Act 2003[^f00006],
@@ -114,12 +120,12 @@ Article 7
 - Judge of the First-tier Tribunal appointed under paragraph 1(1) of Schedule 2 to the Tribunals, Courts and Enforcement Act 2007,
 - Adjudicators appointed under regulation 17 of the Civil Enforcement of Parking Contraventions (England) General Regulations 2007[^f00010].
 
-### PART 2
+### PART 2[^c-598b2877a2775c537f5cb0debc0eeaf5]
 
 - District Judge appointed under section 6(1) of the County Courts Act 1984[^f00011],
 - District Judge (Magistrates’ Courts) appointed under section 22(1) of the Courts Act 2003[^f00012].
 
-## SCHEDULE 2 — Offices for which a registered patent agent or a registered trade mark agent holds a relevant qualification
+## SCHEDULE 2 — Offices for which a registered patent agent or a registered trade mark agent holds a relevant qualification[^c-93860a1c3c0b6f1774120c3c4e0a950d]
 
 Article 8
 
@@ -140,9 +146,29 @@ This Order provides that Fellows of ILEX, registered patent agents and registere
 
 [^f00002]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14); section 7 was amended by the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), Schedule 10, paragraph 29(1), (3) and (4).
 
+[^c-1893fd57849707f0a8d3f663225abaf9]: Commencement: Art. 1 in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
+
+[^c-c7150a94ea66e0e6fd9096ed77254b5d]: Commencement: Art. 2 in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
+
 [^f00003]: Footnote: ()[S.I. 1990/1457](https://www.legislation.gov.uk/uksi/1990/1457).
 
 [^f00004]: Footnote: ()[S.I. 1990/1458](https://www.legislation.gov.uk/uksi/1990/1458), amended by [S.I. 1999/983](https://www.legislation.gov.uk/uksi/1999/983).
+
+[^c-45fb89b90ac4467db24bf7acdd79bb76]: Commencement: Art. 3 in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
+
+[^c-cd9142b50bec819dcd1b3277bb807b16]: Commencement: Art. 4 in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
+
+[^c-a9e5a49ce4612888c1c4bd8c66ab0789]: Commencement: Art. 5 in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
+
+[^c-63ff9b20376c82530c032c057318b943]: Commencement: Art. 6 in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
+
+[^c-075590b0b6905fbaf594509448eeadfd]: Commencement: Art. 7(a) in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
+
+[^c-8917d2d1e8388f22d2b0c3af467070f3]: Commencement: Art. 7(b) in force at 30.11.2010, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/a)
+
+[^c-f404615d144626eeab79b40c84023894]: Commencement: Art. 8(a) in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
+
+[^c-ac35e695c3fc192f136fb089cde552d7]: Commencement: Sch. 1 Pt. 1 in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
 
 [^f00005]: Footnote: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28); section 8(1) was amended by the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), Schedule 11, paragraphs 5, 7(1), (2).
 
@@ -156,9 +182,13 @@ This Order provides that Fellows of ILEX, registered patent agents and registere
 
 [^f00010]: Footnote: [S.I. 2007/3483](https://www.legislation.gov.uk/uksi/2007/3483).
 
+[^c-598b2877a2775c537f5cb0debc0eeaf5]: Commencement: Sch. 1 Pt. 2 in force at 30.11.2010, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/a)
+
 [^f00011]: Footnote: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28); section 6(1) was amended by the Constitutional Reform Act 2005, Schedule 3, paragraph 1(1).
 
 [^f00012]: Footnote: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39); section 22(1) was amended by the Tribunals, Courts and Enforcement Act 2007, Schedule 10, paragraph 38(1) and (2).
+
+[^c-93860a1c3c0b6f1774120c3c4e0a950d]: Commencement: Sch. 2 in force at 22.11.2010, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2995/article/1/2/b)
 
 [^f00013]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48); sub-section (2) was amended by [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678).
 

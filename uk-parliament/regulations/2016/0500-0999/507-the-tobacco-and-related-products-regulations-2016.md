@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2016-04-18'
-text_date: '2026-04-29'
+text_date: '2026-10-29'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2016/507
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2016/507/pdfs/uksiem_20160507_en.pdf
 - http://www.legislation.gov.uk/uksi/2016/507/pdfs/uksi_20160507_en.pdf
 - http://www.legislation.gov.uk/uksi/2016/507/data.pdf
-pending_changes: 9
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Tobacco and Related Products Regulations 2016
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/uksi/2016/507
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/uksi/2016/507
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -589,9 +589,9 @@ where this is necessary, based on internationally agreed standards.
 
 (3) Before making regulations under this regulation the Secretary of State must consult such persons (or representatives of such persons) as appear to the Secretary of State to be likely to be substantially affected by them.
 
-### 17. Tobacco for oral use
+### 17. Tobacco for oral use[^c-e202e8e4c3dc0da79fe0114dc1d89b61]
 
-No person may produce or supply tobacco for oral use.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Reporting about tobacco products
 
@@ -1789,6 +1789,8 @@ Copies of the impact assessment and the transposition note have been placed in t
 [^c-6221c99bcc9adecedf6e913c5166979a]: Textual amendment: Reg. 16(4) inserted (31.12.2020) by [S.I. 2019/41](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [6(14)](https://www.legislation.gov.uk/uksi/2019/41/regulation/6/14) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/41/regulation/9)) (as amended by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(3)(16)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/3/16), [5](https://www.legislation.gov.uk/uksi/2020/1316/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-fb060c9558598f77b172ded58d8fa077]: Textual amendment: Reg. 16A inserted (31.12.2020) by [S.I. 2019/41](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [6(15)](https://www.legislation.gov.uk/uksi/2019/41/regulation/6/15) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/41/regulation/9)) (as amended by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(3)(17)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/3/17) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1316/regulation/5))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c-e202e8e4c3dc0da79fe0114dc1d89b61]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2016/507/regulation/17) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/23) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
 
 [^c-7d848e94f16f3557d1a24d80eea5da94]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/uksi/2016/507/regulation/18/2A) inserted (6.4.2017) by [The Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017 (S.I. 2017/409)](https://www.legislation.gov.uk/uksi/2017/409), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/409/regulation/8/2)
 

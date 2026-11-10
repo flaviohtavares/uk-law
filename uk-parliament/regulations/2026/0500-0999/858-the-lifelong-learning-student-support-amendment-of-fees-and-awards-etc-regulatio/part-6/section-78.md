@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 78
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '78'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/78
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 78
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 78. Calculation of adult dependants’ grant
+## 78. Calculation of adult dependants’ grant[^c-d9ac1830936d972148fb47cc059a0abb]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (3), the amount of adult dependants’ grant is equal to—
 
@@ -34,3 +40,7 @@ where—
 - (b) account is taken of that partner’s dependants in calculating the amount of support for which that partner qualifies, or the payment to which that partner is entitled, under the statutory award.
 
 (3) No adult dependants’ grant is payable where the dependants’ income for the prior financial year exceeds £15,835.98.
+
+## Annotations
+
+[^c-d9ac1830936d972148fb47cc059a0abb]: Commencement: Reg. 78 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

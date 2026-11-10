@@ -3,16 +3,16 @@ title: The Seafarers' Wages (Amendment) Regulations 2025
 id: uksi/2025/289
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2025-03-05'
-text_date: '2025-04-01'
+text_date: '2026-10-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2025/289
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2025/289/pdfs/uksiem_20250289_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2025/289/pdfs/uksi_20250289_en.pdf
 - http://www.legislation.gov.uk/uksi/2025/289/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Seafarers' Wages (Amendment) Regulations 2025
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2025/289
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -48,7 +48,7 @@ Coming into force
 
 1st April 2025
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 3(2) and 4(6) of the Seafarers’ Wages Act 2023[^f00001].
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 3(2) and 4(6) of the Seafarers (Wages and Working Conditions) Act 2023[^c-7a118cf8ee2296ff9f9d2748ebc85d0e] [^f00001].
 
 ## 1. Citation, commencement and extent[^c-0006624afb369ade4b6396cf7681950c]
 
@@ -91,9 +91,11 @@ Regulation 2(2) amends regulation 5(2)(b) of the 2024 Regulations. Regulation 5(
 
 Regulation 2(3) amends regulation 14 of the 2024 Regulations to increase the hourly rates specified for the purposes of the national minimum wage equivalent.
 
-A full impact assessment has not been produced in respect of these Regulations. A full impact assessment of the effect that the Seafarers’ Wages Act 2023 and associated regulations would have on the costs of business, the voluntary sector and the public sector was undertaken prior to the passing of the Act. That impact assessment was updated prior to the making of the 2024 Regulations and is available from the Department for Transport, 33 Horseferry Road, London, SW1P 4DR and is published alongside those Regulations at www.legislation.gov.uk. The impact assessment took account of an annual increase to the national minimum wage equivalent rates. No significant impact on the private, voluntary or public sector is foreseen as a result of these regulations. The Explanatory Memorandum is published alongside these Regulations at www.legislation.gov.uk.
+A full impact assessment has not been produced in respect of these Regulations. A full impact assessment of the effect that the Seafarers' Wages Act 2023 and associated regulations would have on the costs of business, the voluntary sector and the public sector was undertaken prior to the passing of the Act. That impact assessment was updated prior to the making of the 2024 Regulations and is available from the Department for Transport, 33 Horseferry Road, London, SW1P 4DR and is published alongside those Regulations at www.legislation.gov.uk. The impact assessment took account of an annual increase to the national minimum wage equivalent rates. No significant impact on the private, voluntary or public sector is foreseen as a result of these regulations. The Explanatory Memorandum is published alongside these Regulations at www.legislation.gov.uk.
 
 ## Annotations
+
+[^c-7a118cf8ee2296ff9f9d2748ebc85d0e]: Textual amendment: Words in Regulations substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 24(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/24/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
 
 [^f00001]: Footnote: [2023 c. 8](https://www.legislation.gov.uk/ukpga/2023/8).
 

@@ -2,8 +2,8 @@
 title: The Community Infrastructure Levy Regulations 2010, section 40
 act: The Community Infrastructure Levy Regulations 2010
 section: '40'
-status: revised-with-pending-changes
-text_date: '2026-09-14'
+status: revised
+text_date: '2026-10-30'
 extent: W | E
 source_url: https://www.legislation.gov.uk/uksi/2010/948/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Community Infrastructure Levy Regulations 2010, section 40
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/uksi/2010/948
+> Text as at 2026-10-30.
 >
 > Extent: Wales; England (the versions of this text differ in extent).
 

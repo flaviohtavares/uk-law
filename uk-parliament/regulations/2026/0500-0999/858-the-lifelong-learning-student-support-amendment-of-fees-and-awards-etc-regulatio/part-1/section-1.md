@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 1
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '1'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 1. Citation, commencement, extent and application
+## 1. Citation, commencement, extent and application[^c-5584dacfa1add8d6f22f012445687756]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) These Regulations—
 
@@ -24,3 +30,7 @@ summary: ''
 - (d) apply in relation to England.
 
 (2) These Regulations apply to higher education courses that begin on or after 1st January 2027.
+
+## Annotations
+
+[^c-5584dacfa1add8d6f22f012445687756]: Commencement: Reg. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

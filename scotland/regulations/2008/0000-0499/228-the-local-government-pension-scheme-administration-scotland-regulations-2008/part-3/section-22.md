@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 22
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '22'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 22
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 22. Additional voluntary contributions and shared cost additional voluntary contributions
+## 22. Additional voluntary contributions and shared cost additional voluntary contributions[^c-2b38083656e130b7adfc4b86501df012]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) An active member may elect to pay voluntary contributions (“AVCs”) into a scheme established under contract between the member’s appropriate administering authority and a body approved for the purposes of the Finance Act 2004[^f00029] (“an additional voluntary contributions scheme”).
 
@@ -46,6 +52,8 @@ summary: ''
 (9) An election to pay AVCs or SCAVCs may be made in respect of each employment in respect of which a person is a member.
 
 ## Annotations
+
+[^c-2b38083656e130b7adfc4b86501df012]: Commencement: Reg. 22 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00029]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 

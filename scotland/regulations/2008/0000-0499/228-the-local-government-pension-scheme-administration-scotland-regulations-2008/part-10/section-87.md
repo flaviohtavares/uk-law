@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 87
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '87'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/87
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 87
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 87. Pension debits and reduction of benefit
+## 87. Pension debits and reduction of benefit[^c-898e0c7765fef2a6afa9769d22a3335e]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), where a member’s shareable rights are subject to a pension debit, each benefit or future benefit–
 
@@ -41,5 +47,7 @@ is reduced by an amount equal to the appropriate percentage of the corresponding
 - “transfer day” in relation to a pension debit, means the day on which the relevant order or provision takes effect.
 
 ## Annotations
+
+[^c-898e0c7765fef2a6afa9769d22a3335e]: Commencement: Reg. 87 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00052]: Footnote: The definitions in this paragraph are those in section 31(5) of the 1999 Act.

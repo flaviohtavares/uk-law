@@ -3,36 +3,36 @@ title: The National Health Service (Charges to Overseas Visitors) (Amendment) Re
 id: uksi/2008/2251
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '2008-08-20'
-text_date: '2008-08-20'
+text_date: '2011-08-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2251
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2251/pdfs/uksiem_20082251_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2251/pdfs/uksi_20082251_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2251/data.pdf
-pending_changes: 3
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The National Health Service (Charges to Overseas Visitors) (Amendment) Regulations 2008
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2008-08-20. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2251
+> This law has been repealed or revoked.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
 
-**Not yet in force.**
+**No longer in force.**
 
 2008 No. 2251
 
 National Health Service, England
 
-The National Health Service (Charges to Overseas Visitors) (Amendment) Regulations 2008
+The National Health Service (Charges to Overseas Visitors) (Amendment) Regulations 2008 (revoked)[^c-6ccc01c7b8e8d5392c0c199cfded9d5e]
 
 Made
 
@@ -46,59 +46,24 @@ Coming into force
 
 6th October 2008
 
-The Secretary of State for Health, in exercise of the powers conferred by sections 175 and 272(8) of the National Health Service Act 2006[^f00001], makes the following Regulations:
+[^c-6ccc01c7b8e8d5392c0c199cfded9d5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and application[^c-02960066595decda77390308985349fc]
+**No longer in force.**
 
-(1) These Regulations may be cited as the National Health Service (Charges to Overseas Visitors) (Amendment) Regulations 2008 and shall come into force on 6<sup>th</sup> October 2008.
+## 1. Citation, commencement and application[^c-6ccc01c7b8e8d5392c0c199cfded9d5e]
 
-(2) These Regulations shall apply in relation to England only.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 4 of the National Health Service (Charges to Overseas Visitors) Regulations 1989.[^c-66d0307bc81f2df0b450622f7bb572a1][^f00002]
+## 2. Amendment of regulation 4 of the National Health Service (Charges to Overseas Visitors) Regulations 1989.[^c-6ccc01c7b8e8d5392c0c199cfded9d5e]
 
-In regulation 4 of the National Health Service (Charges to Overseas Visitors) Regulations 1989—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) in paragraph (1), after sub-paragraph (q) insert—
+[^c-6ccc01c7b8e8d5392c0c199cfded9d5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  > , or
-  >
-  > - (r) who the competent authorities of the United Kingdom for the purposes of the Council of Europe Convention on Action Against Trafficking in Human Beings[^f00003](in this regulation “the Convention”),
-  >   - (i) consider that there are reasonable grounds to believe is a victim within the meaning of Article 4 of the Convention, and the recovery and reflection period in relation to him under Article 13 of the Convention has not yet expired; or
-  >   - (ii) have identified as a victim within the meaning of Article 4 of the Convention.
+**May not be in force at this date. Check the source.**
 
-  ; and
-- (b) in paragraph (4)(a) after “(j)”omit “or (q)” and insert “, (q) or (r )”.
-
-Signed by authority of the Secretary of State for Health.
-
-Ann Keen
-
-Parliamentary Under-Secretary of State,
-
-Department of Health
-
-20th August 2008
-
-EXPLANATORY NOTE
-
-(This note is not part of the Regulations)
-
-These Regulations amend the National Health Service (Charges to Overseas Visitors) Regulations 1989 (“the principal Regulations”), which provide for the making and recovery of charges in respect of certain services provided under the National Health Service Act 2006 to certain persons not ordinarily resident in the United Kingdom (overseas visitors).
-
-Regulation 2 amends regulation 4(1) of the principal Regulations to meet the United Kingdom’s obligations in relation to medical treatment under the Council of Europe Convention on Action Against Human Trafficking.
-
-The effect of this is to extend the exemption from charges to overseas visitors set out in regulation 4 of the principal Regulations, to overseas visitors who the United Kingdom has reasonable grounds to believe are victims within the meaning of Article 4 of the Council of Europe Convention on Action Against Human Trafficking (this exemption is limited to the recovery and reflection period recognised in Article 13 of the Convention), and those who have been identified as victims.
-
-Regulation 2 also amends regulation 4(4) of the principal Regulations with the effect that the spouse, civil partner or child of an overseas visitor who falls within the new exemption in sub-paragraph (r) of paragraph (1) of regulation 4 of the principal Regulations is also exempt from charges in respect of services forming part of the health service.
+[^c-6ccc01c7b8e8d5392c0c199cfded9d5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [2006 (c.41)](https://www.legislation.gov.uk/ukpga/2006/41). See section 275(1) for the definition of “prescribed” and “regulations”.
-
-[^c-02960066595decda77390308985349fc]: Commencement: Reg. 1 in force at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2251/regulation/1/1)
-
-[^c-66d0307bc81f2df0b450622f7bb572a1]: Commencement: Reg. 2 in force at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2251/regulation/1/1)
-
-[^f00002]: Footnote: [S.I 1989/306](https://www.legislation.gov.uk/uksi/1989/306), as amended by [S.I. 1991/438](https://www.legislation.gov.uk/uksi/1991/438),[1994/1535](https://www.legislation.gov.uk/uksi/1994/1535).[2000/602](https://www.legislation.gov.uk/uksi/2006/602),[2004/614](https://www.legislation.gov.uk/uksi/2004/614) and [696](https://www.legislation.gov.uk/uksi/2004/696), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114) and [2006/3306](https://www.legislation.gov.uk/uksi/2060/3306).
-
-[^f00003]: Footnote: The Council of Europe Convention on Action against Trafficking in Human Beings 2005(CETS No 197).*See* http/www. coe.int/trafficking.
+[^c-6ccc01c7b8e8d5392c0c199cfded9d5e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2251) revoked (1.8.2011) by [The National Health Service (Charges to Overseas Visitors) Regulations 2011 (S.I. 2011/1556)](https://www.legislation.gov.uk/uksi/2011/1556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1556/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1556/schedule/4)

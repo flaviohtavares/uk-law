@@ -2,9 +2,9 @@
 title: The Falkland Islands Constitution Order 2008, section 5
 act: The Falkland Islands Constitution Order 2008
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-11-05'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2846/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Falkland Islands Constitution Order 2008, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Existing laws
+## 5. Existing laws[^c-71f4d7c98729a4845df111d4f8573c17]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) The existing laws shall, as from the appointed day, be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with the Constitution.
 
@@ -25,3 +31,7 @@ summary: ''
 (4) This section is without prejudice to any powers conferred by the Constitution or by any other law on any person or authority to make provision for any matter, including the alteration of any existing law.
 
 (5) For the purposes of this section “existing law” means any Ordinance, rule, regulation, order or other instrument made in pursuance of or continued in force by or under the former Constitution and having effect as part of the law of the Falkland Islands immediately before the appointed day, but does not include any Act of Parliament of the United Kingdom or Order in Council or other instrument made under any such Act.
+
+## Annotations
+
+[^c-71f4d7c98729a4845df111d4f8573c17]: Commencement: Art. 5 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)

@@ -3,15 +3,15 @@ title: The Pedicab Vehicles (London) Regulations 2026
 id: uksi/2026/136
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-02-18'
-text_date: null
-extent: null
+text_date: '2026-03-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/136
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/136/pdfs/uksi_20260136_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/136/made/data.pdf
-pending_changes: 4
+- http://www.legislation.gov.uk/uksi/2026/136/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Pedicab Vehicles (London) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-03-09. See https://www.legislation.gov.uk/changes/affected/uksi/2026/136
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2026 No. 136
 
@@ -37,7 +41,7 @@ Transport for London, in exercise of the powers conferred by sections 1, 2(1), (
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-cb215f73d3ed956ee1dab01c7ba00a07]
 
 (1) These Regulations may be cited as the Pedicab Vehicles (London) Regulations 2026.
 
@@ -45,7 +49,7 @@ Transport for London, in exercise of the powers conferred by sections 1, 2(1), (
 
 (3) Regulation 3 comes into force on 18th February 2027.
 
-### 2. Interpretation
+### 2. Interpretation[^c-d92d48e94a6afe27010b70fc9a4c4b60]
 
 In these Regulations—
 
@@ -59,7 +63,9 @@ In these Regulations—
 
 ## PART 2 — LICENCES
 
-### 3. Requirement for London pedicab vehicle licence
+### 3. Requirement for London pedicab vehicle licence[^c-840e27565fe218304bc99dfedc32ad34]
+
+**Not yet in force.**
 
 (1) A pedicab vehicle must not be used in a public place in Greater London unless a London pedicab vehicle licence is in force for that pedicab vehicle.
 
@@ -74,7 +80,7 @@ In these Regulations—
 
 (5) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 4. London Pedicab vehicle licence applications
+### 4. London Pedicab vehicle licence applications[^c-9dc49d0e9feb506a1f86a36473ea3594]
 
 (1) Any person may apply to TfL for a pedicab vehicle licence.
 
@@ -113,13 +119,13 @@ In these Regulations—
 - (g) not use the pedicab vehicle in the event that it is found to be unsafe or fails to conform to the requirements set out in the London Pedicab Specification and Pedicab Vehicle Policy; and
 - (h) in the event that a pedicab vehicle is found to be unsafe or fails to meet the requirements specified in the London Pedicab Specifications and Pedicab Vehicle Policy present the pedicab vehicle for further inspection and testing by TfL within such period as TfL may require by notice.
 
-### 5. London pedicab vehicle insurance
+### 5. London pedicab vehicle insurance[^c-e89f56e544eeeaf93234ba1f95ef557f]
 
 (1) A person to whom a London pedicab vehicle licence is issued must maintain in force a policy of insurance to carry passengers for hire or reward.
 
 (2) A person who without reasonable excuse fails to comply with this regulation is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 6. London pedicab vehicle identifier
+### 6. London pedicab vehicle identifier[^c-5aba2867141c80127b6247471dc9e04b]
 
 (1) TfL may issue a means of identification for a pedicab vehicle to which a London pedicab vehicle licence relates which identifies that pedicab vehicle as a vehicle for which such licence is in force.
 
@@ -137,7 +143,7 @@ In these Regulations—
 
 (6) A person who without reasonable excuse fails to comply with this regulation is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 7. London pedicab vehicle licence: conditions
+### 7. London pedicab vehicle licence: conditions[^c-2d4ea770bb00c38c48a1788bfe820ce7]
 
 (1) TfL, having considered an application for a London pedicab vehicle licence, may—
 
@@ -162,7 +168,7 @@ In these Regulations—
 
 (6) A person who without reasonable excuse fails to comply with a condition attached to a London pedicab vehicle licence under this regulation is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 8. London pedicab vehicle licence: qualifying criteria
+### 8. London pedicab vehicle licence: qualifying criteria[^c-d544718f78692d9e02e33f265cca1aaf]
 
 (1) TfL may grant a pedicab vehicle licence to an applicant only if it is satisfied that the vehicle in respect of which the application is made—
 
@@ -173,7 +179,7 @@ In these Regulations—
 
 ## PART 3 — VARIATION SUSPENSION AND REVOCATION OF LICENCES
 
-### 9. Power to vary, suspend or revoke licences
+### 9. Power to vary, suspend or revoke licences[^c-706e5eb8818ea1984099f80636d1079f]
 
 (1) TfL may vary, suspend or revoke a pedicab vehicle licence if it appears to TfL that there has been a breach of any of the terms of the licence.
 
@@ -195,7 +201,7 @@ and if the correct information had been supplied TfL would have or it is likely 
 
 (6) TfL may by notice vary, suspend or revoke a London pedicab vehicle licence at any time where in its opinion, the safety, performance or regulatory compliance of the pedicab vehicle to which the licence relates no longer conforms to the requirements set out in the London Pedicab Specifications.
 
-### 10. Suspension and revocation under regulation 9
+### 10. Suspension and revocation under regulation 9[^c-929dbb10290e08be44506cc15b665d09]
 
 (1) Where TfL has decided to suspend or revoke a London pedicab vehicle’s licence under regulation 9—
 
@@ -208,13 +214,13 @@ and if the correct information had been supplied TfL would have or it is likely 
 
 ## PART 4 — FIXED PENALTY NOTICES
 
-### 11. Fixed penalty offences
+### 11. Fixed penalty offences[^c-4e595a4a5d03be5b19b30d8da6ceb693]
 
 (1) Where on any occasion an authorised officer finds a person who they have reason to believe has on that occasion committed an offence under regulation 7, the authorised officer may give that person a notice offering that person the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
 
 (2) In paragraph (1) “**authorised officer**” means a person authorised in writing by TfL for the purposes of this regulation.
 
-### 12. Fixed penalty notices
+### 12. Fixed penalty notices[^c-9a9d3d4a4837b4a2321fbb27b1eb8808]
 
 (1) The provisions of this regulation have effect in relation to the notice (“fixed penalty notice”) which may be given under regulation 11.
 
@@ -241,7 +247,7 @@ and if the correct information had been supplied TfL would have or it is likely 
 
 is evidence of the facts stated.
 
-### 13. Level of fixed penalty
+### 13. Level of fixed penalty[^c-53a93af5fd5edba940151b98b4506742]
 
 (1) TfL may set the amount of the fixed penalty payable to TfL in accordance with this regulation.
 
@@ -251,7 +257,7 @@ is evidence of the facts stated.
 
 ## PART 5 — REGISTER OF LICENCES
 
-### 14. Register of licences
+### 14. Register of licences[^c-b93f1dc071a8ef5c5be9fbbbb46b80fb]
 
 (1) TfL may keep and maintain in such form as it considers appropriate a register containing the following particulars for each London pedicab vehicle licence issued under these Regulations, namely—
 
@@ -266,7 +272,7 @@ is evidence of the facts stated.
 
 ## PART 6 — APPEALS
 
-### 15. Appeals
+### 15. Appeals[^c-11bd01569c920916ab440412a0b03e5e]
 
 (1) Without affecting the right to appeal under paragraph (5) a person may request that TfL reconsiders any decision to—
 
@@ -344,6 +350,36 @@ Regulation 15 provides that instead of appealing to the magistrates court, appli
 
 ## Annotations
 
+[^c-cb215f73d3ed956ee1dab01c7ba00a07]: Commencement: Reg. 1 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-d92d48e94a6afe27010b70fc9a4c4b60]: Commencement: Reg. 2 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
 [^f00001]: Footnote: [S.I. 2026/137](https://www.legislation.gov.uk/uksi/2026/137).
 
 [^f00002]: Footnote: [2024 c. 7](https://www.legislation.gov.uk/ukpga/2024/7).
+
+[^c-840e27565fe218304bc99dfedc32ad34]: Commencement: Reg. 3 in force at 18.2.2027, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/3)
+
+[^c-9dc49d0e9feb506a1f86a36473ea3594]: Commencement: Reg. 4 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-e89f56e544eeeaf93234ba1f95ef557f]: Commencement: Reg. 5 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-5aba2867141c80127b6247471dc9e04b]: Commencement: Reg. 6 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-2d4ea770bb00c38c48a1788bfe820ce7]: Commencement: Reg. 7 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-d544718f78692d9e02e33f265cca1aaf]: Commencement: Reg. 8 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-706e5eb8818ea1984099f80636d1079f]: Commencement: Reg. 9 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-929dbb10290e08be44506cc15b665d09]: Commencement: Reg. 10 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-4e595a4a5d03be5b19b30d8da6ceb693]: Commencement: Reg. 11 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-9a9d3d4a4837b4a2321fbb27b1eb8808]: Commencement: Reg. 12 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-53a93af5fd5edba940151b98b4506742]: Commencement: Reg. 13 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-b93f1dc071a8ef5c5be9fbbbb46b80fb]: Commencement: Reg. 14 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-11bd01569c920916ab440412a0b03e5e]: Commencement: Reg. 15 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)

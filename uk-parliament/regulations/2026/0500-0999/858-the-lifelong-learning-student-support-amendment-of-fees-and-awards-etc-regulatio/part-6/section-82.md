@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 82
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '82'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/82
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 82
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 82. Changes during a course year
+## 82. Changes during a course year[^c-b46e39235b6d7af8a29af0b203b57473]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) This regulation applies if any of the following changes occurs during the course year—
 
@@ -32,3 +38,7 @@ summary: ''
 (3) The amount of adult dependants’ grant and parents’ learning allowance in respect of a day of the course year is the amount that grant would be for the course year if the student’s circumstances on that day applied for the duration of the course year, divided by 365 or, where the course year includes 29th February, 366.
 
 (4) The amount of grants for dependants for the course year is the aggregate of the amounts of adult dependants’ grant and parents’ learning allowance calculated in respect of each day of the course year under paragraph (3) and the amount of any childcare grant for the course year calculated under regulation 79.
+
+## Annotations
+
+[^c-b46e39235b6d7af8a29af0b203b57473]: Commencement: Reg. 82 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 79
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '79'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/79
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 79
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 79. Calculation of childcare grant
+## 79. Calculation of childcare grant[^c-04afc5ea2a7257bc0406f2a94842f3dd]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (8), the amount of childcare grant payable in respect of a course year is calculated—
 
@@ -85,3 +91,7 @@ where—
 (9) An eligible student may request an amount of childcare grant to be payable which is less than the amount calculated under this regulation.
 
 (10) Where an eligible student makes a request under paragraph (9), the amount of childcare grant payable is the amount requested, provided that the Secretary of State considers the amount requested to be reasonable in the circumstances.
+
+## Annotations
+
+[^c-04afc5ea2a7257bc0406f2a94842f3dd]: Commencement: Reg. 79 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

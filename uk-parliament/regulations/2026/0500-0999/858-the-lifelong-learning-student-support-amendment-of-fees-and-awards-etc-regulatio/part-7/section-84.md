@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 84
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '84'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/84
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 84
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 84. Payment of supplementary grants
+## 84. Payment of supplementary grants[^c-3dfae2c53220e40d0fd491476ea5be0f]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The Secretary of State may pay support under Part 6 in instalments.
 
@@ -70,3 +76,7 @@ summary: ''
 
 - (a) the general rule is that an application from a person seeking payment of prescribed childcare charges must reach the Secretary of State within the period of 13 weeks beginning with the last day of the week in which the student incurred those prescribed childcare charges;
 - (b) the general rule does not apply where the Secretary of State, having regard to the circumstances of the particular case, considers that the time limit should be relaxed, in which case the application must reach the Secretary of State not later than such date as the Secretary of State specifies.
+
+## Annotations
+
+[^c-3dfae2c53220e40d0fd491476ea5be0f]: Commencement: Reg. 84 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

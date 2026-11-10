@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 70
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '70'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/70
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 70
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 70. Transfer of sums from the pension fund to compensate for former member’s misconduct
+## 70. Transfer of sums from the pension fund to compensate for former member’s misconduct[^c-5adb5f89d5c5ce19f5d2b7deff8ca976]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) This regulation applies where–
 
@@ -42,3 +48,7 @@ summary: ''
 whichever is the less.
 
 (6) If after making a payment under paragraph (3) the appropriate administering authority is required to make any transfer payment under Chapter 4 or Chapter 5 of Part 4 of the 1993 Act or to make a payment under regulation 81 (changes of fund) for a former employee, the former employing authority must repay it, if requested to do so.
+
+## Annotations
+
+[^c-5adb5f89d5c5ce19f5d2b7deff8ca976]: Commencement: Reg. 70 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

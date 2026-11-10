@@ -3,7 +3,7 @@ title: Education Act 1996, section 436L
 act: Education Act 1996
 section: 436L
 status: not-yet-in-force
-text_date: '2026-09-01'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1996/56/section/436L
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

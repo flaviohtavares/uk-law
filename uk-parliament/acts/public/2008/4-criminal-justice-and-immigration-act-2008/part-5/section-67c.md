@@ -1,0 +1,37 @@
+---
+title: Criminal Justice and Immigration Act 2008, section 67C
+act: Criminal Justice and Immigration Act 2008
+section: 67C
+status: revised-with-pending-changes
+text_date: '2026-11-06'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/4/section/67C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Immigration Act 2008, section 67C
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
+>
+> Extent: England, Wales, Northern Ireland.
+
+## 67C. Penalties for offences under section 67A[^c-a311f2ff4e341a0df16302ddaf2cec36]
+
+*Extent: E+W+N.I.*
+
+(1) A person who commits an offence under section 67A(1) is liable—
+
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
+- (b) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine (or both);
+- (c) on conviction on indictment in England and Wales or Northern Ireland, to imprisonment for a term not exceeding two years or a fine (or both).
+
+(2) A person who commits an offence under section 67A(2) is liable—
+
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
+- (b) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine (or both);
+- (c) on conviction on indictment in England and Wales or Northern Ireland, to imprisonment for a term not exceeding five years or a fine (or both).
+
+## Annotations
+
+[^c-a311f2ff4e341a0df16302ddaf2cec36]: Textual amendment: [Ss. 67A-67D](https://www.legislation.gov.uk/ukpga/2008/4/section/67A) inserted (E.W.N.I.) (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/1), [255(1)(8)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8/h); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/a)

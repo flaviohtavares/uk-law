@@ -6,19 +6,20 @@ Laws in force under the legislation.gov.uk subject heading **REGISTRATION OF BIR
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Births and Deaths Registration Act 1953](../uk-parliament/acts/public/eliz2-1-2/20-births-and-deaths-registration-act-1953.md) *(changes pending)* — 12 regulations on this topic made under it
+- [Births and Deaths Registration Act 1953](../uk-parliament/acts/public/eliz2-1-2/20-births-and-deaths-registration-act-1953.md) *(changes pending)* — 13 regulations on this topic made under it
 - [Marriage (Same Sex Couples) Act 2013](../uk-parliament/acts/public/2013/30-marriage-same-sex-couples-act-2013/README.md) — 7 regulations on this topic made under it
 - [Registration Service Act 1953](../uk-parliament/acts/public/eliz2-1-2/37-registration-service-act-1953.md) *(changes pending)* — 5 regulations on this topic made under it
 - [Places of Worship Registration Act 1855](../uk-parliament/acts/public/vict-18-19/81-places-of-worship-registration-act-1855.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-41 in force.
+42 in force.
 
 **2026**
 
 - [The Data (Use and Access) Act 2025 (Commencement No. 10) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1167-the-data-use-and-access-act-2025-commencement-no-10-regulations-2026.md) *(as originally made)*
 - [The Non-surgical Procedures and Functions of Medical Reviewers (Scotland) Act 2026 (Commencement No. 1 and Saving Provision) Regulations 2026](../scotland/regulations/2026/0000-0499/206-the-non-surgical-procedures-and-functions-of-medical-reviewers-scotland-act-2026.md) *(as originally made)*
+- [The Registration of Births and Deaths (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1172-the-registration-of-births-and-deaths-amendment-regulations-2026.md) *(as originally made)*
 - [The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1168-the-registration-of-births-and-deaths-england-and-wales-specified-requirements-r.md) *(as originally made)*
 - [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment and Transitional Provisions) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/233-the-registration-of-births-deaths-marriages-and-civil-partnerships-fees-amendmen.md) *(as originally made)*
 - [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/672-the-registration-of-births-deaths-marriages-and-civil-partnerships-fees-amendmen.md) *(as originally made)*

@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 25
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '25'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 25
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 25. Additional entitlement - general
+## 25. Additional entitlement - general[^c-3ed5ec006304c5bcc1d3a9e3b613b03e]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Additional funding (or “additional entitlement”) is to be made available if an eligible student (“**A**”) meets the qualifying conditions for the type of additional entitlement in question and the cost of A’s course exceeds A’s fee loan entitlement balance.
 
@@ -32,3 +38,7 @@ summary: ''
 - (b) 180 credits in a course year, in the case of priority additional entitlement, special additional entitlement or correctional additional entitlement.
 
 (4) Compelling personal reasons additional entitlement may be awarded irrespective of A’s fee loan entitlement balance.
+
+## Annotations
+
+[^c-3ed5ec006304c5bcc1d3a9e3b613b03e]: Commencement: Reg. 25 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

@@ -3,16 +3,16 @@ title: The Local Government Pension Scheme (Transitional Provisions) (Scotland) 
 id: ssi/2008/229
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-04'
-text_date: null
-extent: null
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/229
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/229/pdfs/ssien_20080229_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/229/pdfs/ssi_20080229_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/229/made/data.pdf
-pending_changes: 15
+- http://www.legislation.gov.uk/ssi/2008/229/data.pdf
+pending_changes: 37
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Local Government Pension Scheme (Transitional Provisions) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (37).** Text as at 2008-06-04. See https://www.legislation.gov.uk/changes/affected/ssi/2008/229
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 229
 
@@ -44,7 +50,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 7(5) of that Act, they have consulted such associations of local authorities as appeared to them to be concerned, such local authorities with whom consultation appeared to them to be desirable and such representatives of other persons likely to be affected by the Regulations as appeared to them to be appropriate.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-c37b435f01b490040d556eac7d86f9a2]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Transitional Provisions) (Scotland) Regulations 2008.
 
@@ -61,13 +67,13 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - “the Scheme” means the Local Government Pension Scheme (Scotland) 2009 constituted by the Benefits Regulations; and
 - “scheme actuary” means the actuary appointed from time to time by the Scottish Ministers to provide a consulting service on actuarial matters relevant to the Benefits Regulations.
 
-## 2. Revocation of Regulations
+## 2. Revocation of Regulations[^c-0fa6c7afd1ce2b4301696dc6e5be80b5]
 
 (1) Except where these Regulations provide otherwise, the regulations listed in Schedule 1 are revoked.
 
 (2) Accordingly, no person may become a member of the 1998 Scheme after 31st March 2009 or accrue benefits in it in respect of any service after that date.
 
-## 3. Membership accrued before 1st April 2009: active members
+## 3. Membership accrued before 1st April 2009: active members[^c-1aaf1c035487500bc2267d072edd713d]
 
 (1) This regulation applies to a person who was an active member of the 1998 Scheme and becomes a member of the Scheme by virtue of regulation 3(2) (active members) of the Benefits Regulations.
 
@@ -82,7 +88,7 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 (5) In paragraph (2) but subject to paragraph (3), references to total membership, pension rights and benefits accrued in or under the 1998 Scheme are to such membership, pension rights and benefits calculated in accordance with the regulations listed in Schedule 1.
 
-## 4. Membership accrued before 1st April 2009: rejoining deferred members
+## 4. Membership accrued before 1st April 2009: rejoining deferred members[^c-8eb29b27eb0921428da31243415083ce]
 
 (1) This regulation applies to a person–
 
@@ -92,7 +98,7 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 (2) The person may choose, by notice in writing to the appropriate administering authority within 12 months of becoming a member of the Scheme under paragraph (1)(b), to be treated as if regulation 3 applied.
 
-## 5. Deferred members and pensioner members
+## 5. Deferred members and pensioner members[^c-d606c5cfa5e7d11e920b859c82a7cefd]
 
 (1) Notwithstanding the revocations effected by regulation 2 the regulations listed in Schedule 1 continue to have effect in relation to the persons specified in paragraph (2).
 
@@ -102,11 +108,11 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - (b) any person who is or may become entitled to any benefit under the 1987 Scheme or the 1998 Scheme in respect of such a person;
 - (c) any other person whose entitlement to the payment of any pension or other benefit has arisen before that date or who may become so entitled by virtue of the death of any person who has died before that date.
 
-## 6. Membership accrued before 1st April 2009: concurrent employments
+## 6. Membership accrued before 1st April 2009: concurrent employments[^c-70a4a9529836542b562614257a142646]
 
 Where a member to whom regulation 3 applies has membership to which regulation 14 (concurrent employments) of the Administration Regulations also applies, the calculation of any period for the purposes of the latter provision is carried out separately in respect of periods of employment before 1st April 2009 as if regulation 31A of the 1998 Scheme still applied and in respect of periods of employment after 31st March 2009 in accordance with regulation 14.
 
-## 7. Survivor benefits
+## 7. Survivor benefits[^c-b0a74199a2d8e71bd08d7213a46cd2ed]
 
 (1) Subject to paragraph (2), any survivor benefits payable in respect of a person to whom regulation 3 or 4 applies are calculated as if the Benefits Regulations applied to all of the membership, whether accrued before or after 1st April 2009.
 
@@ -114,15 +120,15 @@ Where a member to whom regulation 3 applies has membership to which regulation 1
 
 (3) Regulation 41 of the 1998 Regulations continues to apply to a deferred or pensioner member who marries or enters into a civil partnership after becoming such a member.
 
-## 8. Deferred members: limit on death grant
+## 8. Deferred members: limit on death grant[^c-4a26ca9f1bfc2960ac6636d37b4a1967]
 
 Where a person to whom regulation 3 applies becomes a deferred member after 31st March 2009 and dies before the person’s pension comes into payment, the sum of any death grants to which the person is entitled under any provision of the Scheme or of the 1998 Scheme, as continued in effect by regulation 3, shall be the person’s retirement pension multiplied by five.
 
-## 9. Members' contributions: information
+## 9. Members' contributions: information[^c-3da3a93ce2164079c6ba214e9b8acbbc]
 
 The employing authority of a person to whom regulation 3(3) (active members) of the Benefits Regulations applies shall inform the person as soon as practicable after 1st April 2009 of the contribution rate applicable to the person in accordance with regulation 4(2) (contributions payable by active members) of those Regulations.
 
-## 10. The 85 year rule
+## 10. The 85 year rule[^c-f33ce59dac6deee0daf14fe10795055b]
 
 (1) This regulation applies to a person–
 
@@ -133,15 +139,15 @@ The employing authority of a person to whom regulation 3(3) (active members) of 
 
 (2) Schedule 2 (which makes transitional provision relating to the so-called “85 year rule”) has effect in relation to such a person.
 
-## 11. Appropriate funds
+## 11. Appropriate funds[^c-277429bee05fdef712eb9f645bdc166b]
 
 The pension funds which are appropriate pension funds for members of the 1998 Scheme who do not become members of the Scheme shall continue to be the appropriate funds for those members.
 
-## 12. Application of abatement policy in individual cases
+## 12. Application of abatement policy in individual cases[^c-fdd7e105bfca6c4290b2f46f78e7ccb1]
 
 Notwithstanding the revocation of regulation 110 of the 1998 Regulations, paragraph (5) of that regulation shall continue to apply to a person who was a member of the Local Government Pension Scheme constituted under the Local Government Superannuation Scheme (Scotland) Regulations 1987[^f00007] immediately before 1st April 1998.
 
-## 13. Civil Servants transferred to the Scottish Environment Protection Agency
+## 13. Civil Servants transferred to the Scottish Environment Protection Agency[^c-108641f218529e97e9d749e1482f81b3]
 
 (1) The Administration Regulations and the Benefits Regulations apply with the following modifications to a member who is employed by the Scottish Environment Protection Agency as a result of a relevant statutory transfer immediately before which the member was a pensionable civil servant.
 
@@ -177,7 +183,7 @@ Notwithstanding the revocation of regulation 110 of the 1998 Regulations, paragr
 
 (7) A pensionable civil servant is a person who is employed in the civil service of the State and is a member, or is eligible to be a member, of the Principal Civil Service Pension Scheme.
 
-## 14. Former members of NHS Superannuation Scheme for Scotland
+## 14. Former members of NHS Superannuation Scheme for Scotland[^c-135de4e6b3223844b460f2d061dbf613]
 
 (1) The Administration Regulations and the Benefits Regulations apply with the modifications mentioned in paragraphs (2) and (3) to a member–
 
@@ -206,7 +212,7 @@ Notwithstanding the revocation of regulation 110 of the 1998 Regulations, paragr
   - (a) the period, immediately following the transfer to employment by a governing body or board of management in terms of paragraph (1)(a), of employment by that governing body or board of management during which the member was continuously engaged in the work of the undertaking in which the member was previously employed or in the work of another undertaking transferred to that governing body or board of management as mentioned in paragraph (1)(a); and
   - (b) any further periods, immediately following the period described in sub paragraph (a) and each other, of employment by another governing body or board of management of the kind specified in paragraph (1)(a) during which the member was continuously engaged in the work of an undertaking transferred to that governing body or board of management as mentioned in paragraph (1)(a).
 
-## 15. Communities scheme transferees
+## 15. Communities scheme transferees[^c-a6e559b235763054cc93b5c17a9e1fb5]
 
 (1) Communities scheme transferees and their surviving spouses, dependants and children are entitled to such rights under the Scheme as are specified in guidance issued by the scheme actuary.
 
@@ -233,7 +239,7 @@ Edinburgh
 
 4th June 2008
 
-## SCHEDULE 1 — REGULATIONS REVOKED
+## SCHEDULE 1 — REGULATIONS REVOKED[^c-08705ff1baf34bbf39f5d73fc5c72425]
 
 Regulation 2
 
@@ -289,21 +295,21 @@ Regulation 2
 
 Regulation 10
 
-**1.** Subject to paragraph 7, where a member–
+**1.**[^c-caa8a2f55a9d114296d3e0af600c8722] Subject to paragraph 7, where a member–
 
 - (a) makes a request to receive the immediate payment of retirement benefits under regulation 18(1) (flexible retirement) or 30(1) (choice of early payment of pension) of the Benefits Regulations; and
 - (b) satisfies the 85 year rule,
 
 that part of the member’s retirement pension and grant which is calculated by reference to any period of membership before the relevant date shall not be reduced in accordance with regulation 18(2) or, as the case may be, 30(4) of the Benefits Regulations.
 
-**2.** For the purposes of paragraph 1, the relevant date, for a member who was a member before 1st December 2006 is–
+**2.**[^c-b59af48a6d1283b9ff0dd1e04d35ab6d] For the purposes of paragraph 1, the relevant date, for a member who was a member before 1st December 2006 is–
 
 - (a) in the case of a member who will be aged 60 or more on 31st March 2020, the earlier of–
   - (i) 1st April 2020; and
   - (ii) the date on the day after the day on which the member leaves local government employment; or
 - (b) in any other case, 1st April 2008.
 
-**3.** (1) For the purposes of this Schedule, a member satisfies the 85 year rule if the sum of–
+**3.**[^c-7808959bb4c9383ed2e37f3fae3e18f9] (1) For the purposes of this Schedule, a member satisfies the 85 year rule if the sum of–
 
 - (a) the member’s age in whole years on the date the member’s local government service ends or the date the member makes a request under regulation 18(1) or, as the case may be, 30(1) of the Benefits Regulations if later;
 - (b) the member’s total membership in whole years;
@@ -314,11 +320,11 @@ is 85 years or more.
 
 (2) But, in calculating the total membership, no account is to be taken of any increase in membership awarded under regulation 12 (power of employing authority to increase total membership) of the Benefits Regulations.
 
-**4.** (1) This paragraph applies to a member to whom regulation 4 of these Regulations or regulation 14 of the Administration Regulations (Re-employed and rejoining deferred members) applies.
+**4.**[^c-b6dc012eb5c1960c3790b33759d2bdf4] (1) This paragraph applies to a member to whom regulation 4 of these Regulations or regulation 14 of the Administration Regulations (Re-employed and rejoining deferred members) applies.
 
 (2) Where such a member does not choose, or does not so choose as respects all periods of the member’s membership, to be treated as if regulation 3 of these Regulations applied, or to have the member’s membership aggregated under regulation 14, as the case may be, then in applying paragraph 2 of this Schedule as respects any later membership, the member’s total membership excludes unaggregated periods.
 
-**5.** (1) This paragraph applies to a member who was a member before 1st December 2006 who–
+**5.**[^c-7e33ca4b1c4b1c0a23eded14c7c26172] (1) This paragraph applies to a member who was a member before 1st December 2006 who–
 
 - (a) before 1st December 2006 elected to make additional contributions to the Scheme to increase the total membership under regulation 54(1) of the 1998 Regulations (payments to increase total membership); and
 - (b) was assumed to retire from a local government employment on a date before the member’s 65th birthday (“the assumed date”) for the purposes of calculating the member’s additional contributions under regulation 54(5) of the 1998 Regulations.
@@ -332,7 +338,7 @@ is 85 years or more.
 
 (3) An additional period counted as a period of total membership as a result of this paragraph shall be treated as a period of membership before 1st April 2008.
 
-**6.** (1) Paragraphs 1 to 5 apply to a person who was a member before 1st December 2006 and who–
+**6.**[^c-3e55bed06b88010a954d045311ce25da] (1) Paragraphs 1 to 5 apply to a person who was a member before 1st December 2006 and who–
 
 - (a) leaves local government employment and ceases to be a member of the 1998 Scheme or the Scheme (whether before or after that date); and
 - (b) resumes such employment before the relevant date for the purposes of paragraph 1.
@@ -369,6 +375,8 @@ A regulatory impact assessment has not been prepared for these Regulations as th
 
 [^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11). The Secretary of State’s functions under section 7 of the Superannuation Act 1972 in so far as they were exercisable in relation to Scotland were devolved to Scottish Ministers by section 63 of the Scotland Act 1998 ([1998 c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and article 2 of, and Schedule 1 to, the Scotland Act 1998 (Transfer of Functions to Scottish Ministers etc) Order 1999 (S.I. [1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
 
+[^c-c37b435f01b490040d556eac7d86f9a2]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
 [^f00002]: Footnote: S.I. [1987/1850](https://www.legislation.gov.uk/uksi/1987/1850), amended by S.I. [1988/625](https://www.legislation.gov.uk/uksi/1988/625), [1989/422](https://www.legislation.gov.uk/uksi/1989/422), [802](https://www.legislation.gov.uk/uksi/1989/802) and [967](https://www.legislation.gov.uk/uksi/1989/967), [1990/422](https://www.legislation.gov.uk/uksi/1990/422) and [1284](https://www.legislation.gov.uk/uksi/1990/1284), [1991/78](https://www.legislation.gov.uk/uksi/1991/78), [1992/1220](https://www.legislation.gov.uk/uksi/1992/1220) and [3025](https://www.legislation.gov.uk/uksi/1992/3025), [1993/1593](https://www.legislation.gov.uk/uksi/1993/1593), [2013](https://www.legislation.gov.uk/uksi/1993/2013) and [3044](https://www.legislation.gov.uk/uksi/1993/3044), [1994/531](https://www.legislation.gov.uk/uksi/1994/531), [1995/214](https://www.legislation.gov.uk/uksi/1995/214), [2865](https://www.legislation.gov.uk/uksi/1995/2865) and [3294](https://www.legislation.gov.uk/uksi/1995/3294), [1996/414](https://www.legislation.gov.uk/uksi/1996/414) and [1241](https://www.legislation.gov.uk/uksi/1996/1241) and [1997/674](https://www.legislation.gov.uk/uksi/1997/674), [1143](https://www.legislation.gov.uk/uksi/1997/1143), [1373](https://www.legislation.gov.uk/uksi/1997/1373), [1435](https://www.legislation.gov.uk/uksi/1997/1435) and [3048](https://www.legislation.gov.uk/uksi/1997/3048).
 
 [^f00003]: Footnote: S.I. [1998/366](https://www.legislation.gov.uk/uksi/1998/366); relevant amending instruments are [S.S.I. 2000/199](https://www.legislation.gov.uk/ssi/2000/199), [2001/23](https://www.legislation.gov.uk/ssi/2001/23), [2002/311](https://www.legislation.gov.uk/ssi/2002/311), [2005/293](https://www.legislation.gov.uk/ssi/2005/293), [315](https://www.legislation.gov.uk/ssi/2005/315) and [554](https://www.legislation.gov.uk/ssi/2005/554), [2006/123](https://www.legislation.gov.uk/ssi/2006/123), [468](https://www.legislation.gov.uk/ssi/2006/468) and [514](https://www.legislation.gov.uk/ssi/2006/514) and [2007/71](https://www.legislation.gov.uk/ssi/2007/71) and [514](https://www.legislation.gov.uk/ssi/2007/514).
@@ -379,15 +387,45 @@ A regulatory impact assessment has not been prepared for these Regulations as th
 
 [^f00006]: Footnote: [S.S.I. 2008/230](https://www.legislation.gov.uk/ssi/2008/230).
 
+[^c-0fa6c7afd1ce2b4301696dc6e5be80b5]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-1aaf1c035487500bc2267d072edd713d]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-8eb29b27eb0921428da31243415083ce]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-d606c5cfa5e7d11e920b859c82a7cefd]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-70a4a9529836542b562614257a142646]: Commencement: Reg. 6 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-b0a74199a2d8e71bd08d7213a46cd2ed]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-4a26ca9f1bfc2960ac6636d37b4a1967]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-3da3a93ce2164079c6ba214e9b8acbbc]: Commencement: Reg. 9 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-f33ce59dac6deee0daf14fe10795055b]: Commencement: Reg. 10 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-277429bee05fdef712eb9f645bdc166b]: Commencement: Reg. 11 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-fdd7e105bfca6c4290b2f46f78e7ccb1]: Commencement: Reg. 12 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
 [^f00007]: Footnote: [1987/1850](https://www.legislation.gov.uk/uksi/1987/1850).
 
+[^c-108641f218529e97e9d749e1482f81b3]: Commencement: Reg. 13 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
 [^f00008]: Footnote: S.I. [1981/1794](https://www.legislation.gov.uk/uksi/1981/1794); the definition of “undertaking” was amended by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 33.
+
+[^c-135de4e6b3223844b460f2d061dbf613]: Commencement: Reg. 14 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
 
 [^f00009]: Footnote: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37).
 
 [^f00010]: Footnote: S.I. [1995/365](https://www.legislation.gov.uk/uksi/1995/365), amended by S.I. [1997/1434](https://www.legislation.gov.uk/uksi/1997/1434) and [1916](https://www.legislation.gov.uk/uksi/1997/1916), [1998/1593](https://www.legislation.gov.uk/uksi/1998/1593), [1999/443](https://www.legislation.gov.uk/uksi/1999/443), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and [S.S.I. 2001/437](https://www.legislation.gov.uk/ssi/2001/437) and [465](https://www.legislation.gov.uk/ssi/2001/465), [2003/55](https://www.legislation.gov.uk/ssi/2003/55), [270](https://www.legislation.gov.uk/ssi/2003/270) and [517](https://www.legislation.gov.uk/ssi/2003/517), [2005/512](https://www.legislation.gov.uk/ssi/2005/512) and [544](https://www.legislation.gov.uk/ssi/2005/544), [2006/307](https://www.legislation.gov.uk/ssi/2006/307) and [561](https://www.legislation.gov.uk/ssi/2006/561) and [2008/92](https://www.legislation.gov.uk/ssi/2008/92) and [226](https://www.legislation.gov.uk/ssi/2008/226)
 
+[^c-a6e559b235763054cc93b5c17a9e1fb5]: Commencement: Reg. 15 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
 [^f00011]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^c-08705ff1baf34bbf39f5d73fc5c72425]: Commencement: Sch. 1 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
 
 [^f00012]: Footnote: S.I. [1987/1850](https://www.legislation.gov.uk/uksi/1987/1850).
 
@@ -462,3 +500,15 @@ A regulatory impact assessment has not been prepared for these Regulations as th
 [^f00047]: Footnote: [S.S.I. 2007/71](https://www.legislation.gov.uk/ssi/2007/71).
 
 [^f00048]: Footnote: [S.S.I. 2007/514](https://www.legislation.gov.uk/ssi/2007/514).
+
+[^c-caa8a2f55a9d114296d3e0af600c8722]: Commencement: Sch. 2 para. 1 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-b59af48a6d1283b9ff0dd1e04d35ab6d]: Commencement: Sch. 2 para. 2 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-7808959bb4c9383ed2e37f3fae3e18f9]: Commencement: Sch. 2 para. 3 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-b6dc012eb5c1960c3790b33759d2bdf4]: Commencement: Sch. 2 para. 4 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-7e33ca4b1c4b1c0a23eded14c7c26172]: Commencement: Sch. 2 para. 5 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)
+
+[^c-3e55bed06b88010a954d045311ce25da]: Commencement: Sch. 2 para. 6 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/229/regulation/1/2)

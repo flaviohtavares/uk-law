@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 29
 act: The Disability Working Allowance (General) Regulations 1991
 section: '29'
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 29
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Notional income[^c-3655e91c737564d0976990b788ec0d3b][^c-b3ed011594100b3e9be3f935fafb4504][^c-6a32d29c3751297cc22fd1cebfe21400]
+## 29. Notional income[^c-3655e91c737564d0976990b788ec0d3b][^c-6a32d29c3751297cc22fd1cebfe21400]
 
 *Extent: E+W+S*
 
@@ -58,14 +58,17 @@ the amount of any income foregone shall be treated as possessed by him, but only
 - (c)[^c-2702faa60af670ae5dda80dd5150cf2c] pursuant to section 2 of the Employment and Training Act 1973 in respect of a person’s participation—
   - (i) in an employment programme specified in regulation 75(1)(a)(ii) of the Jobseeker’s Allowance Regulations 1996;
   - (ii) in a training scheme specified in regulation 75(1)(b)(ii) of those Regulations; or
+  - (iia)[^c-9f4d284ceac193ec3e2cd4832580eb1d] in the Intensive Activity Period specified in regulation 75(1)(a)(iv) of those Regulations or in the Intensive Activity Period for 50 plus; or
   - (iii) in a qualifying course within the meaning specified in regulation 17A(7) of those Regulations.
 
-(4)[^c-a4d350f6a2066ba685e16f019525764d][^c-8a318305bb12164a1ea38d4917e9e2da] Where—
+(4)[^c-8a318305bb12164a1ea38d4917e9e2da][^M_C_83377713-82c0-4f46-e615-763514aa91a7] Where—
 
 - (a) a claimant performs a service for another person; and
 - (b) that person makes no payment of earnings or pays less than that paid for a comparable employment in the area;
 
 the appropriate officer[^c-d11ac87b85c0fb156062ecebee2dc35f] shall treat the claimant as possessing such earnings (if any) as is reasonable for that employment unless the claimant satisfies him that the means of that person are insufficient for him to pay or to pay more for the service, but this paragraph shall not apply to a claimant who is engaged by a charitable or voluntary organisation[^c-e3fe2fa49d797ba5d03d65084db1308f] or is a volunteer if the appropriate officer is satisfied in any of those cases[^c-933d33ad517177ce67e5be1b2d5444a8] that it is reasonable for him to provide his services free of charge or in a case where the service is performed in connection with the claimant’s participation in an employment or training programme in accordance with regulation 19(1)(q) of the Jobseeker’s Allowance Regulations 1996[^c-91859f86b42233e0124fa34c8e93e8e2].
+
+(4B)[^c-9006ac27f3c6d580b63e067a5de8a8b9] Paragraph (4) shall not apply in a case where the service is performed in connection with the claimant’s participation in an employment or training programme in accordance with regulation 19(1)(q) of the Jobseeker’s Allowance Regulations 1996, other than where the service is performed in connection with the claimant’s participation in the Intensive Activity Period specified in regulation 75(1)(a)(iv) of those Regulations or in the Intensive Activity Period for 50 plus.
 
 (5) Where a claimant is treated as possessing any income under any of paragraphs (1) to (3), the foregoing provisions of this Part shall apply for the purposes of calculating the amount of that income as if a payment had actually been made and as if it were actual income which he does possess.
 
@@ -79,9 +82,7 @@ the appropriate officer[^c-d11ac87b85c0fb156062ecebee2dc35f] shall treat the cla
 
 [^c-3655e91c737564d0976990b788ec0d3b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^c-b3ed011594100b3e9be3f935fafb4504]: Modification: [Reg. 29](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29) modified (temp.) (29.11.1999) by [The Social Security (New Deal Pilot) Regulations 1999 (S.I. 1999/3156)](https://www.legislation.gov.uk/uksi/1999/3156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3156/regulation/1/1), [14(4)](https://www.legislation.gov.uk/uksi/1999/3156/regulation/14/4) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/3156/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/1999/3156/regulation/11), [19](https://www.legislation.gov.uk/uksi/1999/3156/regulation/19))
-
-[^c-6a32d29c3751297cc22fd1cebfe21400]: Modification: [Reg. 29](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29) modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [14(4)(c)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/14/4/c) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2000/3134/regulation/11), [19](https://www.legislation.gov.uk/uksi/2000/3134/regulation/19))
+[^c-6a32d29c3751297cc22fd1cebfe21400]: Modification: [Reg. 29](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29) modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [14(4)(c)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/14/4/c) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2000/3134/regulation/11), [19](https://www.legislation.gov.uk/uksi/2000/3134/regulation/19)); as amended (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/6/4)
 
 [^c-e8d8dc44d3aba8ad1e1d9f6f67f21d37]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/1) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/2), [Sch. 2 para. 2(ix)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/2/paragraph/2/ix)
 
@@ -109,9 +110,11 @@ the appropriate officer[^c-d11ac87b85c0fb156062ecebee2dc35f] shall treat the cla
 
 [^c-2702faa60af670ae5dda80dd5150cf2c]: Modification: [Reg. 29(3A)(c)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/3A/c) modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [14(4)(a)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/14/4/a) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2000/3134/regulation/11), [19](https://www.legislation.gov.uk/uksi/2000/3134/regulation/19))
 
-[^c-a4d350f6a2066ba685e16f019525764d]: Modification: [Reg. 29(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/4) modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/14/4/b/i) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2000/3134/regulation/11), [19](https://www.legislation.gov.uk/uksi/2000/3134/regulation/19))
+[^c-9f4d284ceac193ec3e2cd4832580eb1d]: Textual amendment: [Reg. 29(3A)(c)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/3A/c)[(iia)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/3A/iia) inserted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/6/2)
 
 [^c-8a318305bb12164a1ea38d4917e9e2da]: Modification: [Reg. 29(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/4) modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/14/4/b/ii) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2000/3134/regulation/11), [19](https://www.legislation.gov.uk/uksi/2000/3134/regulation/19))
+
+[^M_C_83377713-82c0-4f46-e615-763514aa91a7]: Modification: Reg. 29(4) modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/14/4/b/i) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2000/3134/regulation/11), [19](https://www.legislation.gov.uk/uksi/2000/3134/regulation/19)); as amended (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/6/3)
 
 [^c-d11ac87b85c0fb156062ecebee2dc35f]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/4) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(5)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/5)[(6)(b)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/6/b)
 
@@ -120,6 +123,8 @@ the appropriate officer[^c-d11ac87b85c0fb156062ecebee2dc35f] shall treat the cla
 [^c-933d33ad517177ce67e5be1b2d5444a8]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/4) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/516)](https://www.legislation.gov.uk/uksi/1995/516), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/516/regulation/1/1/b), [6(b)](https://www.legislation.gov.uk/uksi/1995/516/regulation/6/b)
 
 [^c-91859f86b42233e0124fa34c8e93e8e2]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/4) added (5.1.1998) by [The Social Security Amendment (New Deal) Regulations 1997 (S.I. 1997/2863)](https://www.legislation.gov.uk/uksi/1997/2863), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/3)[(4)(b)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/4/b)
+
+[^c-9006ac27f3c6d580b63e067a5de8a8b9]: Textual amendment: [Reg. 29(4B)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/4B) inserted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/6/5)
 
 [^c-de1bec2c919550d48457d1cfaaadf8be]: Textual amendment: Words in [reg. 29(6)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/29/6/a) substituted (5.10.1992) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1992 (S.I. 1992/2155)](https://www.legislation.gov.uk/uksi/1992/2155), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2155/regulation/1/1), [Sch. para. 8(3)(a)](https://www.legislation.gov.uk/uksi/1992/2155/schedule/paragraph/8/3/a)
 

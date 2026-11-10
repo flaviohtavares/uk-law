@@ -31,7 +31,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Falkland Islands Constitution Order 2008](../uk-parliament/regulations/2008/2500-2999/2846-the-falkland-islands-constitution-order-2008/README.md) *(as originally made)*
+- [The Falkland Islands Constitution Order 2008](../uk-parliament/regulations/2008/2500-2999/2846-the-falkland-islands-constitution-order-2008/README.md) *(changes pending)*
 
 **1997**
 

@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-3
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -58,7 +58,7 @@ if he otherwise derives no remuneration or profit from the employment and is not
 - (a) any travelling expenses reimbursed to the claimant;
 - (b) any living away from home allowance under section 2(2)(d) of the 1973 Act or section 2(4)(c) of the 1990 Act;
 - (c) any training premium,
-- (d)[^c-056117587ce0e880cd9393ce8d240cdc] any child care expenses reimbursed to the claimant in respect of his participation in an employment programme specified in regulation 75(1)(a)(ii) of the Jobseeker’s Allowance Regulations 1996 or in a training scheme specified in regulation 75(1)(b)(ii) of those Regulations,
+- (d)[^c-77e13109eb21e34e09fb6361e658f5b3] any child care expenses reimbursed to the claimant in respect of his participation in a New Deal option, in the Intensive Activity Period specified in regulation 75(1)(a)(iv) of the Jobseeker’s Allowance Regulations 1996 or in the Intensive Activity Period for 50 plus,
 
 but this paragraph, except insofar as it relates to a payment under sub-paragraph (a), (b), (c) or (d)[^c-96029dc64e8c8b1835a33bd71355e035], does not apply to any part of any allowance under section 2(2)(d) of the 1973 Act or section 2(4)(c) of the 1990 Act.
 
@@ -281,11 +281,13 @@ and any analgous payment by the Secretary of State for Defence to any person who
 
 (3) For the purposes of this paragraph, “ordinary clothing and footwear" means clothing or footwear for normal daily use, but does not include school uniforms, or clothing and footwear used solely for sporting activities.
 
-**57.**[^c-0c3192f3d5a517b5c9254bfcb3f4f533] Any mandatory top-up payment made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in an employment programme specified in—
+**57.**[^c-f6e4bd2b1cb88dc916844358be2fd900] Any mandatory top-up payment made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in—
 
-- (a) regulation 75(1)(a)(ii)(aa)(ii) of the Jobseeker’s Allowance Regulations 1996 (self-employment route of the Employment Option of the New Deal);
-- (b) regulation 75(1)(a)(ii)(bb) of those Regulations (Voluntary Sector Option of the New Deal); or
-- (c) regulation 75(1)(a)(ii)(cc) of those Regulations (Environment Task Force Option of the New Deal).
+- (a) the self-employment route;
+- (b) an employment programme specified in—
+  - (i) regulation 75(1)(a)(ii)(bb) of the Jobseeker’s Allowance Regulations 1996 (Voluntary Sector Option of the New Deal);
+  - (ii) regulation 75(1)(a)(ii)(cc) of those Regulations (Environmental Task Force Option of the New Deal); or
+- (c) the Intensive Activity Period specified in regulation 75(1)(a)(iv) of those Regulations or the Intensive Activity Period for 50 plus.
 
 **58.**[^c-6b74a599ddae7dde7aaa6c34ac636365] Any discretionary payment to meet, or to help meet, special needs made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in the Full-Time Education and Training Option of the New Deal as specified in regulation 75(1)(b)(ii) of the Jobseeker’s Allowance Regulations 1996.
 
@@ -332,6 +334,8 @@ in respect of which such assistance is or was received.
 - (a) widowed mother’s allowance paid pursuant to section 37 of the Contributions and Benefits Act;
 - (b) widowed parent’s allowance paid pursuant to section 39A of the Contributions and Benefits Act.
 
+**69.**[^c-ca4042adac71c0ad901e50e02400c1ac] Any discretionary housing payment paid pursuant to regulation 2(1) of the Discretionary Financial Assistance Regulations 2001.
+
 ## Annotations
 
 [^c-9e6d4d849c2ce0e88468012060a89887]: Modification: [Sch. 3 paras. 61](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/61), [62](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/62) modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [16(1)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/16/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/16/2/b) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2000/3134/regulation/11), [19](https://www.legislation.gov.uk/uksi/2000/3134/regulation/19))
@@ -368,7 +372,7 @@ in respect of which such assistance is or was received.
 
 [^f00087]: Footnote: [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35).
 
-[^c-056117587ce0e880cd9393ce8d240cdc]: Textual amendment: [Sch. 3 para. 11(d)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/11/d) added (5.1.1998) by [The Social Security Amendment (New Deal) Regulations 1997 (S.I. 1997/2863)](https://www.legislation.gov.uk/uksi/1997/2863), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/1/1), [17(7)(a)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/7/a)[(8)(b)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/8/b)
+[^c-77e13109eb21e34e09fb6361e658f5b3]: Textual amendment: [Sch. 3 para. 11(d)](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/11/d) substituted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/8/2)
 
 [^c-96029dc64e8c8b1835a33bd71355e035]: Textual amendment: Words in [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/11) substituted (5.1.1998) by [The Social Security Amendment (New Deal) Regulations 1997 (S.I. 1997/2863)](https://www.legislation.gov.uk/uksi/1997/2863), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/1/1), [17(7)(b)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/7/b)[(8)(b)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/8/b)
 
@@ -550,7 +554,7 @@ in respect of which such assistance is or was received.
 
 [^c-df62420cae6de8b28e1696e0eeda5232]: Textual amendment: [Sch. 3 paras. 55](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/55), [56](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/56) added (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/65)](https://www.legislation.gov.uk/uksi/1997/65), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/1)[(6)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/6), [2(5)](https://www.legislation.gov.uk/uksi/1997/65/regulation/2/5)[(6)(a)](https://www.legislation.gov.uk/uksi/1997/65/regulation/2/6/a)
 
-[^c-0c3192f3d5a517b5c9254bfcb3f4f533]: Textual amendment: [Sch. 3 para. 57](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/57) substituted (1.6.1998) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 1998 (S.I. 1998/1174)](https://www.legislation.gov.uk/uksi/1998/1174), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/1174/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/1998/1174/regulation/7/3)[(4)(b)](https://www.legislation.gov.uk/uksi/1998/1174/regulation/7/4/b)
+[^c-f6e4bd2b1cb88dc916844358be2fd900]: Textual amendment: [Sch. 3 para. 57](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/57) substituted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/8/3)
 
 [^c-6b74a599ddae7dde7aaa6c34ac636365]: Textual amendment: [Sch. 3 paras. 57](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/57), [58](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/58) added (5.1.1998) by [The Social Security Amendment (New Deal) Regulations 1997 (S.I. 1997/2863)](https://www.legislation.gov.uk/uksi/1997/2863), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/1/1), [17(9)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/9)[(10)(b)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/10/b)
 
@@ -579,3 +583,5 @@ in respect of which such assistance is or was received.
 [^c-36fd17cda72d285bf74d7092331566e6]: Textual amendment: [Sch. 3 para. 67](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/67) added (with effect in accordance with reg. 8(6) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 4) Regulations 2000 (S.I. 2000/2978)](https://www.legislation.gov.uk/uksi/2000/2978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/8/1)[(4)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/8/4)
 
 [^c-24e3dcfd1f7847fb093a9ea36d2445ac]: Textual amendment: [Sch. 3 para. 68](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/68) added (with effect in accordance with reg. 3(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/19)](https://www.legislation.gov.uk/uksi/2001/19), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/19/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2001/19/regulation/3/2)
+
+[^c-ca4042adac71c0ad901e50e02400c1ac]: Textual amendment: [Sch. 3 para. 69](https://www.legislation.gov.uk/uksi/1991/2887/schedule/3/paragraph/69) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 6) Regulations 2001 (S.I. 2001/2220)](https://www.legislation.gov.uk/uksi/2001/2220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/4/2)

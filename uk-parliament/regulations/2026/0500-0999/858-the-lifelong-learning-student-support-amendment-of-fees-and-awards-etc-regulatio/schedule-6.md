@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 6
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-6
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## Schedule 6 — Fee loan per-course amounts for various higher education courses
+## Schedule 6 — Fee loan per-course amounts for various higher education courses[^c-ba3b2d783e1c0ecd2cbb67e8d1c60312]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 Regulation 35(2)
 
@@ -46,3 +52,7 @@ Regulation 35(2)
 | Postgraduate Healthcare (2 years full-time equivalent):<br>Where the course does not meet the criteria to have per-course amounts of 360 or 300. | 240 |
 | Postgraduate Healthcare (2 years full-time, plus additional short year):<br>Where the course does not meet the criteria to have a per-course amount of 360 credits, but either:<br>a) the course has a standard full-time equivalent duration of 2 full-time years, excluding qualifying periods of foundation year, repeat study, sandwich placement, study abroad, Turing mobility or intercalated year, plus an additional period of learning comprising less than 15 weeks of study containing at least 600 notional learning hours, or<br>b) the course has no full-time equivalent, but a minimum of 300 credits are attached to the course - with each credit equalling 10 notional learning hours, in compliance with expectations and guidelines set out by the relevant regulatory body. | 300 |
 | Postgraduate Healthcare (3 years full-time equivalent), where either:<br>a) the course has a standard full-time equivalent duration of at least 3 full-time years, excluding qualifying periods of foundation year, repeat study, sandwich placement, study abroad, Turing mobility or intercalated year; or<br>b) the course has no full-time equivalent, but a minimum of 360 credits are attached to the course - with each credit equalling 10 notional learning hours, in compliance with expectations and guidelines set out by the relevant regulatory body. | 360 |
+
+## Annotations
+
+[^c-ba3b2d783e1c0ecd2cbb67e8d1c60312]: Commencement: Sch. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

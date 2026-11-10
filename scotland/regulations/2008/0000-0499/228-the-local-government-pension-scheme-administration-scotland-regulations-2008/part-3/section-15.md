@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 15
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '15'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 15. Contributions during child-related leave
+## 15. Contributions during child-related leave[^c-35d8f31b231b2c522c9c7bbb571a4204]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) If a person who is a member, or has applied to be a member, goes on maternity, paternity or adoption leave, the person must make contributions as respects any part of that person’s period of maternity, paternity or adoption absence for which the person is a member and entitled to receive pay (including statutory pay).
 
@@ -54,6 +60,8 @@ the person may make contributions at the contribution rate as respects the unpai
 - “statutory pay” means any statutory maternity, paternity or adoption pay payable under the Social Security Contributions and Benefits Act 1992[^f00024].
 
 ## Annotations
+
+[^c-35d8f31b231b2c522c9c7bbb571a4204]: Commencement: Reg. 15 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00019]: Footnote: S.I. [1999/3312](https://www.legislation.gov.uk/uksi/1999/3312); regulation 12A was inserted by S.I. [2006/2014](https://www.legislation.gov.uk/uksi/2006/2014), regulations 3, and 9.
 

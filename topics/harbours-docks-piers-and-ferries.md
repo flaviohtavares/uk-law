@@ -11,7 +11,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Ports Act 1991](../uk-parliament/acts/public/1991/52-ports-act-1991.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Statutory Orders (Special Procedure) Act 1945](../uk-parliament/acts/public/geo6-9-10/18-statutory-orders-special-procedure-act-1945.md) — 10 regulations on this topic made under it
 - [Dockyard Ports Regulation Act 1865](../uk-parliament/acts/public/vict-28-29/125-dockyard-ports-regulation-act-1865.md) — 4 regulations on this topic made under it
-- [Seafarers’ Wages Act 2023](../uk-parliament/acts/public/2023/8-seafarers-wages-act-2023.md) *(changes pending)* — 4 regulations on this topic made under it
 - [Transport Act 1981](../uk-parliament/acts/public/1981/56-transport-act-1981/README.md) *(changes pending)* — 3 regulations on this topic made under it
 
 ## Regulations
@@ -41,15 +40,15 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Folkestone Harbour Revision Order (Amendment) Order 2025](../uk-parliament/regulations/2025/0500-0999/596-the-folkestone-harbour-revision-order-amendment-order-2025.md) *(as originally made)*
 - [The Port of Southampton Harbour Revision Order 2025](../uk-parliament/regulations/2025/0000-0499/198-the-port-of-southampton-harbour-revision-order-2025.md) *(as originally made)*
 - [The Portsmouth International Port and Camber Harbour Revision Order 2025](../uk-parliament/regulations/2025/1000-1499/1223-the-portsmouth-international-port-and-camber-harbour-revision-order-2025/README.md) *(as originally made)*
-- [The Seafarers' Wages (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/289-the-seafarers-wages-amendment-regulations-2025.md) *(changes pending)*
+- [The Seafarers' Wages (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/289-the-seafarers-wages-amendment-regulations-2025.md)
 - [The St. Andrews Harbour Revision Order 2025](../scotland/regulations/2025/0000-0499/64-the-st-andrews-harbour-revision-order-2025.md) *(as originally made)*
 
 **2024**
 
 - [The Dumfries and Galloway Council (Stranraer) Harbour Revision Order 2024](../scotland/regulations/2024/0000-0499/325-the-dumfries-and-galloway-council-stranraer-harbour-revision-order-2024.md) *(as originally made)*
 - [The Port Talbot Harbour (Extension of Limits) Harbour Revision Order 2024](../wales/regulations/2024/0000-0499/147-the-port-talbot-harbour-extension-of-limits-harbour-revision-order-2024.md) *(as originally made)*
-- [The Seafarers' Wages Act 2023 (Commencement) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1008-the-seafarers-wages-act-2023-commencement-regulations-2024.md) *(as originally made)*
-- [The Seafarers’ Wages Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1015-the-seafarers-wages-regulations-2024.md) *(changes pending)*
+- [The Seafarers' Wages Act 2023 (Commencement) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1008-the-seafarers-wages-act-2023-commencement-regulations-2024.md) *(changes pending)*
+- [The Seafarers’ Wages Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1015-the-seafarers-wages-regulations-2024.md)
 - [The Teesport (Extension of Limits) Harbour Revision Order 2024](../uk-parliament/regulations/2024/0500-0999/934-the-teesport-extension-of-limits-harbour-revision-order-2024.md) *(as originally made)*
 
 **2023**

@@ -3,7 +3,7 @@ title: Criminal Justice and Immigration Act 2008, SCHEDULE 14
 act: Criminal Justice and Immigration Act 2008
 section: schedule-14
 status: revised-with-pending-changes
-text_date: '2026-10-29'
+text_date: '2026-11-06'
 extent: E+W+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2008/4/schedule/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Criminal Justice and Immigration Act 2008, SCHEDULE 14
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
 > Extent: England, Wales, Northern Ireland.
 
@@ -32,7 +32,7 @@ Section 68
 
 ### Exceptions for mere conduits
 
-**3.**[^c-3c21691420cf519dbd6eccd212efd500] (1) A service provider is not capable of being guilty of an offence under section 63 in respect of anything done in the course of providing so much of an information society service as consists in—
+**3.**[^c-3c21691420cf519dbd6eccd212efd500] (1) A service provider is not capable of being guilty of an offence under section 63 , 67A[^c-06cc5fd1133c46a8270254b2ec787844] , 67E[^c-30fd2c6ce8c67215de03ccbac64440be] or 67H[^c-33eac2055e4db1f93e39ac2e1318eec5] in respect of anything done in the course of providing so much of an information society service as consists in—
 
 - (a) the provision of access to a communication network, or
 - (b) the transmission in a communication network of information provided by a recipient of the service,
@@ -58,7 +58,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 **4.**[^c-a89a3696729c72b3538ea1894659426e] (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
 
-(2) The service provider is not capable of being guilty of an offence under section 63 in respect of the automatic, intermediate and temporary storage of information so provided, if—
+(2) The service provider is not capable of being guilty of an offence under section 63 , 67A[^c-d43570977db53137e7132ce6ad0f0526] , 67E[^c-b575bc0dfaf44e70ea538f6ba56d91ea] or 67H[^c-aa7f18d1d00b031425b873317583e483] in respect of the automatic, intermediate and temporary storage of information so provided, if—
 
 - (a) the storage of the information is solely for the purpose of making more efficient the onward transmission of the information to other recipients of the service at their request, and
 - (b) the condition in sub-paragraph (3) is satisfied.
@@ -77,12 +77,12 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Exception for hosting
 
-**5.**[^c-3b4fbe81a38a9668a2a38c28fed668b8] (1) A service provider is not capable of being guilty of an offence under section 63 in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service, if—
+**5.**[^c-3b4fbe81a38a9668a2a38c28fed668b8] (1) A service provider is not capable of being guilty of an offence under section 63 , 67A[^c-fd785a61aa7bf86e97cb12d30b5f1639] , 67E[^c-4beb59514e49564f8d96bfc84dc0e221] or 67H[^c-0bb12bbc10884b96d607550d80a3c6da] in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service, if—
 
 - (a) the service provider had no actual knowledge when the information was provided that it contained offending material, or
 - (b) on obtaining actual knowledge that the information contained offending material, the service provider expeditiously removed the information or disabled access to it.
 
-(2) “**Offending material**” means material the possession of which constitutes an offence under section 63.
+(2) “**Offending material**” means material the possession or publication[^c-79a95a21c6bcfe0a4c344286f06882a4] of which constitutes the offence in question[^c-177e6e02b9b4162c46dcefd0393e9792].
 
 (3) Sub-paragraph (1) does not apply if the recipient of the service is acting under the authority or control of the service provider.
 
@@ -113,9 +113,31 @@ and “**the E-Commerce Directive**” means Directive [2000/31/EC](https://www.
 
 [^c-3c21691420cf519dbd6eccd212efd500]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/3) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/i)
 
+[^c-06cc5fd1133c46a8270254b2ec787844]: Textual amendment: Word in [Sch. 14 para. 3(1)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/3/1) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 104(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/3/a), [255(1)(8)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8/h); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/a)
+
+[^c-30fd2c6ce8c67215de03ccbac64440be]: Textual amendment: Word in [Sch. 14 para. 3(1)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/3/1) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 106(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/106/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c)
+
+[^c-33eac2055e4db1f93e39ac2e1318eec5]: Textual amendment: Words in [Sch. 14 para. 3(1)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/3/1) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/107/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/d)
+
 [^c-a89a3696729c72b3538ea1894659426e]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/4) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/i)
 
+[^c-d43570977db53137e7132ce6ad0f0526]: Textual amendment: Word in [Sch. 14 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/4/2) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 104(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/3/a), [255(1)(8)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8/h); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/a)
+
+[^c-b575bc0dfaf44e70ea538f6ba56d91ea]: Textual amendment: Word in [Sch. 14 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/4/2) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 106(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/106/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c)
+
+[^c-aa7f18d1d00b031425b873317583e483]: Textual amendment: Words in [Sch. 14 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/4/2) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/107/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/d)
+
 [^c-3b4fbe81a38a9668a2a38c28fed668b8]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/5) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/i)
+
+[^c-fd785a61aa7bf86e97cb12d30b5f1639]: Textual amendment: Word in [Sch. 14 para. 5(1)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/5/1) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 104(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/3/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(8)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/h); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/a)
+
+[^c-4beb59514e49564f8d96bfc84dc0e221]: Textual amendment: Word in [Sch. 14 para. 5(1)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/5/1) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 106(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/106/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c)
+
+[^c-0bb12bbc10884b96d607550d80a3c6da]: Textual amendment: Words in [Sch. 14 para. 5(1)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/5/1) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/107/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/d)
+
+[^c-79a95a21c6bcfe0a4c344286f06882a4]: Textual amendment: Words in [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/5/2) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 104(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/3/b/i), [255(1)(8)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8/h); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/a)
+
+[^c-177e6e02b9b4162c46dcefd0393e9792]: Textual amendment: Words in [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/14/paragraph/5/2) substituted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 104(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/104/3/b/ii), [255(1)(8)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8/h); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/a)
 
 [^c-61222b27c11604dda45e8d2a925b1f4c]: Commencement: Sch. 14 para. 6 in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/i)
 

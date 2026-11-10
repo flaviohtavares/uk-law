@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 7
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 7. Eligible students
+## 7. Eligible students[^c-1f29d11263342ad1dc09c6fe4e7af999]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student qualifies for support in connection with a designated course.
 
@@ -37,3 +43,7 @@ summary: ''
   - (i) A was a person described in Schedule 2 for the purposes of the previous course by virtue of being ordinarily resident in England, and A has ceased to be ordinarily resident in England, or
   - (ii) any provision in Schedule 3 (termination of eligibility due to change of circumstances) applies to A, and
 - (b) this change in A’s circumstances applies immediately before the first day of the course year of the current course.
+
+## Annotations
+
+[^c-1f29d11263342ad1dc09c6fe4e7af999]: Commencement: Reg. 7 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

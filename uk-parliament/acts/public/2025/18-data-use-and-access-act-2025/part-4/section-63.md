@@ -3,7 +3,7 @@ title: Data (Use and Access) Act 2025, section 63
 act: Data (Use and Access) Act 2025
 section: '63'
 status: revised
-text_date: '2026-09-30'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2025/18/section/63
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Data (Use and Access) Act 2025, section 63
 
-> Text as at 2026-09-30.
+> Text as at 2026-11-09.
 >
 > Extent: England, Wales.
 
-## 63. Requirements to sign register[^c-c666c7d9dd8f344a8eece1d795588b6b]
+## 63. Requirements to sign register[^c-c666c7d9dd8f344a8eece1d795588b6b][^c-7732154b5fa2d04c5c61b92426fdf637]
 
 *Extent: E+W*
 
@@ -47,3 +47,5 @@ summary: ''
 ## Annotations
 
 [^c-c666c7d9dd8f344a8eece1d795588b6b]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+
+[^c-7732154b5fa2d04c5c61b92426fdf637]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2025/18/section/63) in force at 9.11.2026 in so far as not already in force by [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/c)

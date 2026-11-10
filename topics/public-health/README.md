@@ -11,7 +11,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Coronavirus Act 2020](../../uk-parliament/acts/public/2020/7-coronavirus-act-2020/README.md) *(changes pending)* — 73 regulations on this topic made under it
 - [Caravan Sites Act 1968](../../uk-parliament/acts/public/1968/52-caravan-sites-act-1968.md) — 42 regulations on this topic made under it
 - [Control of Pollution Act 1974](../../uk-parliament/acts/public/1974/40-control-of-pollution-act-1974/README.md) *(changes pending)* — 40 regulations on this topic made under it
-- [Health and Social Care Act 2008](../../uk-parliament/acts/public/2008/14-health-and-social-care-act-2008/README.md) *(changes pending)* — 34 regulations on this topic made under it
+- [Health and Social Care Act 2008](../../uk-parliament/acts/public/2008/14-health-and-social-care-act-2008/README.md) *(changes pending)* — 33 regulations on this topic made under it
 - [Public Bodies (Joint Working) (Scotland) Act 2014](../../scotland/acts/2014/9-public-bodies-joint-working-scotland-act-2014.md) *(changes pending)* — 27 regulations on this topic made under it
 - [Tobacco Advertising and Promotion Act 2002](../../uk-parliament/acts/public/2002/36-tobacco-advertising-and-promotion-act-2002.md) *(changes pending)* — 22 regulations on this topic made under it
 - [Health Act 2006](../../uk-parliament/acts/public/2006/28-health-act-2006/README.md) *(changes pending)* — 19 regulations on this topic made under it
@@ -32,7 +32,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1434 in force, by year:
+1433 in force, by year:
 
 | year | in force |
 |---|---|
@@ -54,7 +54,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 16 |
 | [2010](2010.md) | 27 |
 | [2009](2009.md) | 12 |
-| [2008](2008.md) | 12 |
+| [2008](2008.md) | 11 |
 | [2007](2007.md) | 27 |
 | [2006](2006.md) | 32 |
 | [2005](2005.md) | 61 |

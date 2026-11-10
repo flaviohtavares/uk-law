@@ -3,7 +3,7 @@ title: Education Act 1996, SCHEDULE 35A
 act: Education Act 1996
 section: schedule-35a
 status: repealed
-text_date: '2026-09-01'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1996/56/schedule/35a
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

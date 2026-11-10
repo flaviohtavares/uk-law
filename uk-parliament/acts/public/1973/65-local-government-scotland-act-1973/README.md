@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1973-10-25'
-text_date: '2025-08-01'
+text_date: '2026-10-26'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1973/65
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1973/65/pdfs/ukpga_19730065_en.pdf
 - http://www.legislation.gov.uk/ukpga/1973/65/data.pdf
-pending_changes: 11
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Local Government (Scotland) Act 1973
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -466,6 +466,7 @@ An Act to make provision with respect to local government and the functions of l
 - [Section 202C — Revocation of byelaws by resolution.](part-xi/section-202c.md)
 - [Section 203 — Offences against byelaws.](part-xi/section-203.md)
 - [Section 204 — Evidence of byelaws.](part-xi/section-204.md)
+- [Section 204A — Byelaws: fixed penalty notices to prevent or suppress wildfires](part-xi/section-204a.md)
 
 #### Miscellaneous provisions
 

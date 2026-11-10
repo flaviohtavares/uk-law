@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 61
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '61'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 61
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 61. Qualifying conditions for the disabled students’ allowance
+## 61. Qualifying conditions for the disabled students’ allowance[^c-ce9dd44f84bf391d2fbf8686bed01c4b]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to the following paragraphs, a student qualifies for the disabled students’ allowance if they are an eligible student and have a disability.
 
@@ -54,3 +60,7 @@ is or was temporarily employed in Wales, Scotland or Northern Ireland as a membe
   - (ii) with which the Secretary of State determined the student would have been eligible to be provided had the student not already had use of suitable software, and
   - (iii) of which the student no longer has use following the expiry of the software licence or an upgrade to or of the computer running the software, or for reasons beyond the student’s control;
 - (e) equipment or software that has been replaced under paragraph (7).
+
+## Annotations
+
+[^c-ce9dd44f84bf391d2fbf8686bed01c4b]: Commencement: Reg. 61 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

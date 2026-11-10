@@ -3,16 +3,16 @@ title: The Court of Session etc. Fees Amendment Order 2008
 id: ssi/2008/236
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-06'
-text_date: null
-extent: null
+text_date: '2008-06-06'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/236
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/236/pdfs/ssien_20080236_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/236/pdfs/ssi_20080236_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/236/made/data.pdf
-pending_changes: 32
+- http://www.legislation.gov.uk/ssi/2008/236/data.pdf
+pending_changes: 39
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Court of Session etc. Fees Amendment Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (39).** Text as at 2008-06-06. See https://www.legislation.gov.uk/changes/affected/ssi/2008/236
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 236
 
@@ -49,6 +55,10 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - [SCHEDULE 2](schedule-2.md)
 - [SCHEDULE 3](schedule-3.md)
 
+*Extent: S*
+
+**Not yet in force.**
+
 KENNY MACASKILL
 
 A member of the Scottish Executive
@@ -58,6 +68,10 @@ St Andrew’s House,
 Edinburgh
 
 6th June 2008
+
+*Extent: S*
+
+**Not yet in force.**
 
 (This note is not part of the Order)
 

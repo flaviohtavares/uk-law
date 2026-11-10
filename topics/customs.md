@@ -9,6 +9,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Taxation (Cross-border Trade) Act 2018](../uk-parliament/acts/public/2018/22-taxation-cross-border-trade-act-2018/README.md) *(changes pending)* — 145 regulations on this topic made under it
 - [Export Control Act 2002](../uk-parliament/acts/public/2002/28-export-control-act-2002.md) — 55 regulations on this topic made under it
 - [Customs and Excise Management Act 1979](../uk-parliament/acts/public/1979/2-customs-and-excise-management-act-1979/README.md) *(changes pending)* — 44 regulations on this topic made under it
+- [Finance Act 2003](../uk-parliament/acts/public/2003/14-finance-act-2003/README.md) *(changes pending)* — 23 regulations on this topic made under it
 
 ## Regulations
 

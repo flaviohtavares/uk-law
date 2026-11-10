@@ -5,7 +5,7 @@ type: ScottishAct
 category: primary
 status: revised
 made_date: '2019-07-18'
-text_date: '2026-04-01'
+text_date: '2026-11-09'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2019/10
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019
 
-> Text as at 2026-04-01.
+> Text as at 2026-11-09.
 >
 > Extent: Scotland.
 
@@ -455,13 +455,13 @@ The Scottish Ministers may by regulations amend section 3 so as to—
 
 (2)[^c-c4ba61e041f29fa0c6287ea7c1ae4058] Section 88 (statement on fuel poverty), together with the italic heading preceding it, is repealed.
 
-(3) In section 89 (local housing strategies), after subsection (11) insert—
+(3)[^c-faa5c8ee3316b25b1ec8f012db39b432] In section 89 (local housing strategies), after subsection (11) insert—
 
 > (12) For the purpose of subsection (5)(b), a person lives in fuel poverty if the person is a member of a household which is in fuel poverty for the purposes of the Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019.
 
 .
 
-(4) Section 95 (meaning of “fuel poverty”), together with the italic heading preceding it, is repealed.
+(4)[^c-faa5c8ee3316b25b1ec8f012db39b432] Section 95 (meaning of “fuel poverty”), together with the italic heading preceding it, is repealed.
 
 ### 19. Interpretation
 
@@ -538,3 +538,5 @@ The short title of this Act is the Fuel Poverty (Targets, Definition and Strateg
 [^c-3563b401ae668d7ea602d40cb3e6df0e]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/10/section/17) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
 [^c-c4ba61e041f29fa0c6287ea7c1ae4058]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asp/2019/10/section/18/1)[(2)](https://www.legislation.gov.uk/asp/2019/10/section/18/2) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+
+[^c-faa5c8ee3316b25b1ec8f012db39b432]: Commencement: [S. 18(3)](https://www.legislation.gov.uk/asp/2019/10/section/18/3)[(4)](https://www.legislation.gov.uk/asp/2019/10/section/18/4) in force at 9.11.2026 by [S.S.I. 2026/319](https://www.legislation.gov.uk/ssi/2026/319), [reg. 2](https://www.legislation.gov.uk/ssi/2026/319/regulation/2)

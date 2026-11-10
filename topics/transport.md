@@ -44,10 +44,10 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026](../scotland/regulations/2026/0000-0499/159-the-national-bus-travel-concession-schemes-miscellaneous-amendment-scotland-no-2.md) *(as originally made)*
 - [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026](../scotland/regulations/2026/0000-0499/154-the-national-bus-travel-concession-schemes-miscellaneous-amendment-scotland-orde.md) *(as originally made)*
 - [The Network Rail (Old Oak Common Great Western Mainline Track Access) Order 2026](../uk-parliament/regulations/2026/0500-0999/591-the-network-rail-old-oak-common-great-western-mainline-track-access-order-2026.md) *(as originally made)*
-- [The Pedicab Drivers (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/134-the-pedicab-drivers-london-regulations-2026.md) *(as originally made)*
-- [The Pedicab Operators (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/135-the-pedicab-operators-london-regulations-2026.md) *(as originally made)*
-- [The Pedicab Vehicles (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/136-the-pedicab-vehicles-london-regulations-2026.md) *(as originally made)*
-- [The Pedicabs (London) (Fares and Fees) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/137-the-pedicabs-london-fares-and-fees-regulations-2026.md) *(as originally made)*
+- [The Pedicab Drivers (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/134-the-pedicab-drivers-london-regulations-2026.md) *(changes pending)*
+- [The Pedicab Operators (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/135-the-pedicab-operators-london-regulations-2026.md) *(changes pending)*
+- [The Pedicab Vehicles (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/136-the-pedicab-vehicles-london-regulations-2026.md) *(changes pending)*
+- [The Pedicabs (London) (Fares and Fees) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/137-the-pedicabs-london-fares-and-fees-regulations-2026.md) *(changes pending)*
 - [The Planning and Infrastructure Act 2025 (Commencement No. 4 and Transitional Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/641-the-planning-and-infrastructure-act-2025-commencement-no-4-and-transitional-prov.md) *(as originally made)*
 - [The Sussex and Brighton Combined County Authority Regulations 2026](../uk-parliament/regulations/2026/0000-0499/362-the-sussex-and-brighton-combined-county-authority-regulations-2026.md) *(changes pending)*
 - [The Train Driving Licences and Certificates (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/461-the-train-driving-licences-and-certificates-amendment-regulations-2026.md) *(as originally made)*

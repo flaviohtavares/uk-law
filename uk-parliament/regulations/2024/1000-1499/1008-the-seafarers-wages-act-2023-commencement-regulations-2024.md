@@ -3,14 +3,14 @@ title: The Seafarers' Wages Act 2023 (Commencement) Regulations 2024
 id: uksi/2024/1008
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2024-10-07'
-text_date: null
-extent: null
+text_date: '2024-10-07'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2024/1008
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/1008/pdfs/uksi_20241008_en.pdf
-- http://www.legislation.gov.uk/uksi/2024/1008/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2024/1008/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Seafarers' Wages Act 2023 (Commencement) Regulations 2024
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-10-07. See https://www.legislation.gov.uk/changes/affected/uksi/2024/1008
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2024 No. 1008 (C. 66)
 
@@ -37,13 +41,13 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 20(3) of the Seafarers’ Wages Act 2023[^f00001].
 
-## 1. Citation and extent
+## 1. Citation and extent[^c-016b6e8e038a19697b02212370f6ab22]
 
 (1) These Regulations may be cited as the Seafarers' Wages Act 2023 (Commencement) Regulations 2024.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Provisions coming into force
+## 2. Provisions coming into force[^c-615909357bb7001dcb2cc8ff9c4a76d4]
 
 All provisions of the Seafarers’ Wages Act 2023 come into force, insofar as they are not already in force, on 1st December 2024.
 
@@ -70,3 +74,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 ## Annotations
 
 [^f00001]: Footnote: [2023 c. 8](https://www.legislation.gov.uk/ukpga/2023/8).
+
+[^c-016b6e8e038a19697b02212370f6ab22]: Commencement: Reg. 1 in force at made date
+
+[^c-615909357bb7001dcb2cc8ff9c4a76d4]: Commencement: Reg. 2 in force at made date

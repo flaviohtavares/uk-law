@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2002-07-11'
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/1792
 pdf_urls:
@@ -26,7 +26,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/2002/1792/pdfs/uksi_20021792_280215_en.pdf
 - http://www.legislation.gov.uk/uksi/2002/1792/pdfs/uksi_20021792_en.pdf
 - http://www.legislation.gov.uk/uksi/2002/1792/data.pdf
-pending_changes: 13
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -34,7 +34,7 @@ summary: ''
 
 # The State Pension Credit Regulations 2002
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
 2002 No. 1792
 

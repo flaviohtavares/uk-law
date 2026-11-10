@@ -51,7 +51,7 @@ Laws in force under the legislation.gov.uk subject heading **COMMUNITY INFRASTRU
 
 **2010**
 
-- [The Community Infrastructure Levy Regulations 2010](../uk-parliament/regulations/2010/0500-0999/948-the-community-infrastructure-levy-regulations-2010/README.md) *(changes pending)*
+- [The Community Infrastructure Levy Regulations 2010](../uk-parliament/regulations/2010/0500-0999/948-the-community-infrastructure-levy-regulations-2010/README.md)
 - [The Planning Act 2008 (Commencement No. 5 and Saving) Order 2010](../uk-parliament/regulations/2010/0500-0999/566-the-planning-act-2008-commencement-no-5-and-saving-order-2010.md) *(as originally made)*
 
 **2009**

@@ -3,16 +3,16 @@ title: The Seafarers’ Wages Regulations 2024
 id: uksi/2024/1015
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2024-10-07'
-text_date: '2026-04-01'
+text_date: '2026-10-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2024/1015
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/1015/pdfs/uksiem_20241015_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2024/1015/pdfs/uksi_20241015_en.pdf
 - http://www.legislation.gov.uk/uksi/2024/1015/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Seafarers’ Wages Regulations 2024
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2024/1015
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -48,7 +48,7 @@ Coming into force
 
 1st December 2024
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 3(2), (5) and (6)(a), 4(6) to (8)(a), 9(1), (4) and (5), 10(4), 11(7), 17(2) and 18(3) of the Seafarers’ Wages Act 2023[^f00001] (“**the Act**”).
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 3(2), (5) and (6)(a), 4(6) to (8)(a), 9(1), (4) and (5), 10(4), 11(7), 17(2) and 18(3) of the Seafarers (Wages and Working Conditions) Act 2023[^c-d74f35ad63fbf61ca957f01eb0f6b359] [^f00001] (“**the Act**”).
 
 In accordance with section 4(9) of the Act, the Secretary of State in making these Regulations has sought to secure that a non-qualifying seafarer[^f00002] is for the purposes of section 4 remunerated at a rate equal to the national minimum wage equivalent[^f00003] only if their remuneration is in all the circumstances broadly equivalent to the remuneration they would receive if they qualified for the national minimum wage[^f00004].
 
@@ -64,7 +64,7 @@ In accordance with section 4(9) of the Act, the Secretary of State in making the
 
 In these Regulations—
 
-- “**the Act**” means the Seafarers’ Wages Act 2023;
+- “**the Act**” means the Seafarers (Wages and Working Conditions) Act 2023;
 - “**basic hours**” has the meaning given in regulation 35(8);
 - “**basic payments**” has the meaning given in regulation 20;
 - “**basic rate**” means the hourly rate determined in accordance with regulation 18;
@@ -847,7 +847,7 @@ Place outside of the United Kingdom that the service calls at:
 
 [^c-c56ec4dacefc9a8d2e313564239040d8]
 
-**A declaration is to be made pursuant to one only of section 4(2) OR section 4(3) OR section 4(4) OR section 4(5) of the Seafarers’ Wages Act 2023 (“**the Act**”).**
+**A declaration is to be made pursuant to one only of section 4(2) OR section 4(3) OR section 4(4) OR section 4(5) of the Seafarers (Wages and Working Conditions) Act 2023 (“**the Act**”).**
 
 [^c-c56ec4dacefc9a8d2e313564239040d8]
 
@@ -971,7 +971,7 @@ Please tick the statement which applies:
 
 [^c-c56ec4dacefc9a8d2e313564239040d8]
 
-**Note that, pursuant to section 5 of the Seafarers’ Wages Act 2023, it may be a criminal offence to operate the service inconsistently with this declaration. It may also be a criminal offence to provide a false or misleading declaration in so far as it concerns the operation of the service before the declaration was provided.**
+**Note that, pursuant to section 5 of the Seafarers (Wages and Working Conditions) Act 2023, it may be a criminal offence to operate the service inconsistently with this declaration. It may also be a criminal offence to provide a false or misleading declaration in so far as it concerns the operation of the service before the declaration was provided.**
 
 [^c-c56ec4dacefc9a8d2e313564239040d8]
 
@@ -1038,6 +1038,8 @@ Part 6 sets out how to determine the hours of work for the purposes of the calcu
 A full impact assessment of the effect that the Act and secondary legislation would have on the costs of business, the voluntary sector and the public sector was undertaken prior to the passing of the Act. That impact assessment was updated prior to the making of these Regulations and is available from the Department for Transport, 33 Horseferry Road, London, SW1P 4DR and is published with the Explanatory Memorandum alongside this instrument at www.legislation.gov.uk.
 
 ## Annotations
+
+[^c-d74f35ad63fbf61ca957f01eb0f6b359]: Textual amendment: Words in Regulations substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 5 para. 24(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/5/paragraph/24/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/d)
 
 [^f00001]: Footnote: [2023 c. 8](https://www.legislation.gov.uk/ukpga/2023/8).
 

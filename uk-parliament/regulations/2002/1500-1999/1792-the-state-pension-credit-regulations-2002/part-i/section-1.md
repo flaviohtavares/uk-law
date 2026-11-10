@@ -3,7 +3,7 @@ title: The State Pension Credit Regulations 2002, section 1
 act: The State Pension Credit Regulations 2002
 section: '1'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/1792/section/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The State Pension Credit Regulations 2002, section 1
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
 ## 1. Citation, commencement and interpretation
 
@@ -109,6 +109,7 @@ summary: ''
   - (b) any other payment made by the Secretary of State, the Scottish Ministers or, in Northern Ireland, the Department of Justice, for the purpose of compensating a person—
     - (i) for a miscarriage of justice in criminal proceedings, or
     - (ii) for being wrongfully charged with a criminal offence;
+- “[^c-7d5844db9919a3c159421b92a5fae8b3]**Mother and Baby Scheme payment**” means a payment under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Irish Mother and Baby Institutions Payment Scheme Act 2023;
 - “the National Emergencies Trust” means the registered charity of that name (number 1182809) established on 28th March 2019;[^c-11d67c0e7d9f58624450a43a8f9dc157]
 - “parental bereavement leave” means leave under section 80EA of the Employment Rights Act 1996;[^c-9bb86050a253774beae3fd83f8ba3e81]
 - “paternity leave” means a period of absence from work on[^c-93609b45d8e05174db804a59cf96ea31] [^c-304458665ff0ed0b223f60c09b49c8eb] ... paternity leave by virtue of section 80A or 80B of the Employment Rights Act 1996 [^c-7491b1c8d80bda354c8a2e08a18cb212] ... ;
@@ -127,7 +128,7 @@ summary: ''
 
   other than a person detained in hospital under the provisions of the Mental Health Act 1983 [^c262930] , or in Scotland, under the provisions of the Mental Health (Care and Treatment) (Scotland) Act 2003[^c-ad47f7a2557cfa80b940b215640b5970] or the Criminal Procedure (Scotland) Act 1995 [^c262932];
 - “public authority” includes any person certain of whose functions are functions of a public nature;
-- “qualifying person” means a person in respect of whom a Grenfell Tower payment[^c-f084895c27f90d0ce7f5d1d32afbabf5], a child abuse payment[^c-13529130be3f78f1d5cb974f94fef97f] , a Windrush payment, a Post Office compensation payment[^c-981e6a25faf0451e0a058acd56001b60] , a vaccine damage payment[^c-fbcf833c5ed75c589f538198ca3977f8] , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment[^c-bdf44e93553d27cb16c928ef324928f1] has been made or payment has been made from the Fund , the Eileen Trust[^c-a479eee1ba15ec8532dfd9f7069980d0] , MFET Limited[^c-3d89ca0da0d092d9d8e84dce9ac52ba1] , the Skipton Fund[^c-b312d1a675db7e4f8a1c7003d639c23e] , the Caxton Foundation[^c-5400bc15c7a3dd8fc117137af7593b75] , the Scottish Infected Blood Support Scheme[^c-3993011da967ead10eee4e82a55600d4] , an approved blood scheme[^c-b8500242c878725a468ccad96e67ef65] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-520f759ad239e5cd8e8d63f219ae5158] , the National Emergencies Trust[^c-e973e9d20d3a03f57598ba471482a378] , the Victims of Overseas Terrorism Compensation Scheme[^c-4d6ce996658b4414409c84e78da07712] or the London Bombings Relief Charitable Fund;
+- “qualifying person” means a person in respect of whom a Grenfell Tower payment[^c-f084895c27f90d0ce7f5d1d32afbabf5], a child abuse payment[^c-13529130be3f78f1d5cb974f94fef97f] , a Windrush payment, a Post Office compensation payment[^c-981e6a25faf0451e0a058acd56001b60] , a vaccine damage payment[^c-fbcf833c5ed75c589f538198ca3977f8] , an LGBT Financial Recognition Scheme payment[^c-bdf44e93553d27cb16c928ef324928f1] , a miscarriage of justice compensation payment or a Mother and Baby Scheme payment[^c-8d0d1bed6e2c41494d7d0b34df988d51] has been made or payment has been made from the Fund , the Eileen Trust[^c-a479eee1ba15ec8532dfd9f7069980d0] , MFET Limited[^c-3d89ca0da0d092d9d8e84dce9ac52ba1] , the Skipton Fund[^c-b312d1a675db7e4f8a1c7003d639c23e] , the Caxton Foundation[^c-5400bc15c7a3dd8fc117137af7593b75] , the Scottish Infected Blood Support Scheme[^c-3993011da967ead10eee4e82a55600d4] , an approved blood scheme[^c-b8500242c878725a468ccad96e67ef65] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-520f759ad239e5cd8e8d63f219ae5158] , the National Emergencies Trust[^c-e973e9d20d3a03f57598ba471482a378] , the Victims of Overseas Terrorism Compensation Scheme[^c-4d6ce996658b4414409c84e78da07712] or the London Bombings Relief Charitable Fund;
 - “[^c-0d0e9d5651be34e11d0dce9f3afe394f]**Scottish adult disability living allowance**” has the meaning given in regulation 2 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
 - “Scottish Infected Blood Support Scheme” means the scheme of that name administered by the Common Services Agency (constituted by section 10 of the National Health Service (Scotland) Act 1978);[^c-86f94b76b55cd6e8fd5e0f62e3d6ea8b]
 - [^c-c31216422c29c04a30871e366d1bcea4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -287,6 +288,8 @@ summary: ''
 
 [^c-00d63d8a8cf87cc11120460cefbb3891]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/1/2) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/778/regulation/4/2/b)
 
+[^c-7d5844db9919a3c159421b92a5fae8b3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/1/2) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/3/2/a)
+
 [^c-11d67c0e7d9f58624450a43a8f9dc157]: Textual amendment: Words in reg. 1(2) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/618)](https://www.legislation.gov.uk/uksi/2020/618), [regs. 1](https://www.legislation.gov.uk/uksi/2020/618/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/618/regulation/4/2/a)
 
 [^c-9bb86050a253774beae3fd83f8ba3e81]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/1/2) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/10/2)
@@ -322,6 +325,8 @@ summary: ''
 [^c-fbcf833c5ed75c589f538198ca3977f8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/1/2) substituted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2025/44/regulation/5/2/b)
 
 [^c-bdf44e93553d27cb16c928ef324928f1]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/1/2) substituted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2025/778/regulation/4/2/c)
+
+[^c-8d0d1bed6e2c41494d7d0b34df988d51]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/1/2) substituted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/3/2/b)
 
 [^c-a479eee1ba15ec8532dfd9f7069980d0]: Textual amendment: Words in reg. 1(2) substituted (12.5.2004) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2004 (S.I. 2004/1141)](https://www.legislation.gov.uk/uksi/2004/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1141/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2004/1141/regulation/2/a)
 

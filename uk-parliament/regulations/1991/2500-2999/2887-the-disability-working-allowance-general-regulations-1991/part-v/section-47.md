@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 47
 act: The Disability Working Allowance (General) Regulations 1991
 section: '47'
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/47
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 47
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -45,8 +45,8 @@ and from the weekly amount so apportioned there shall be disregarded £10.
 
 (5) There shall be deducted from the amount of income taken into account under paragraph (4)—
 
-- (a) the sum of £255[^c-2c75f819122774525281e506c1659c38] in respect of travel costs; and
-- (b) where no amount has been disregarded under regulation 42(2)(e), the sum of £311[^c-56c00cf8241a627bc940ac81df4d5279] towards the cost of books and equipment,
+- (a) the sum of £260[^c-7789016e7125f8e5799582c19b238dd9] in respect of travel costs; and
+- (b) where no amount has been disregarded under regulation 42(2)(e), the sum of £319[^c-871017b5754d80b2dda19125f221a083] towards the cost of books and equipment,
 
 whether or not any such costs are incurred.
 
@@ -62,6 +62,6 @@ whether or not any such costs are incurred.
 
 [^c-bceaff32d2ed93f26ee1f750b77572f9]: Textual amendment: [Reg. 47(3)-(5)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/3) substituted for [reg. 47(3)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/3) (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(5)(b)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/5/b)
 
-[^c-2c75f819122774525281e506c1659c38]: Textual amendment: Sum in [Reg. 47(5)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/5/a) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(c)(i)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/c/i)
+[^c-7789016e7125f8e5799582c19b238dd9]: Textual amendment: Word in [reg. 47(5)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/5/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/6/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/6/2/b)
 
-[^c-56c00cf8241a627bc940ac81df4d5279]: Textual amendment: Sum in [Reg. 47(5)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/5/b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(c)(ii)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/c/ii)
+[^c-871017b5754d80b2dda19125f221a083]: Textual amendment: Word in [reg. 47(5)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/5/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 7) Regulations 2001 (S.I. 2001/2539)](https://www.legislation.gov.uk/uksi/2001/2539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/7/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2001/2539/regulation/7/2/b)

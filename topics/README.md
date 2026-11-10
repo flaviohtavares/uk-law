@@ -38,7 +38,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Ancient Monuments](ancient-monuments.md) | 3 | 29 |
 | [Anguilla](anguilla.md) | 1 | 4 |
 | [Animal Health](animal-health.md) | 0 | 62 |
-| [Animals](animals/README.md) | 17 | 1337 |
+| [Animals](animals/README.md) | 17 | 1335 |
 | [Annual Tax on Enveloped Dwellings](annual-tax-on-enveloped-dwellings.md) | 1 | 16 |
 | [Antarctica](antarctica.md) | 3 | 48 |
 | [Anti-Social Behaviour](anti-social-behaviour.md) | 1 | 19 |
@@ -86,7 +86,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Child Support](child-support.md) | 1 | 72 |
 | [Child Trust Funds](child-trust-funds.md) | 1 | 48 |
 | [Childcare](childcare.md) | 2 | 34 |
-| [Children](children.md) | 1 | 32 |
+| [Children](children.md) | 1 | 31 |
 | [Children and Young Persons](children-and-young-persons/README.md) | 31 | 1030 |
 | [Children and Young Persons, Englandandwales](children-and-young-persons-englandandwales.md) | 0 | 5 |
 | [Children and Young Persons, Northernireland](children-and-young-persons-northernireland.md) | 0 | 4 |
@@ -103,8 +103,8 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Civil Partnership](civil-partnership.md) | 6 | 132 |
 | [Civil Proceedings](civil-proceedings.md) | 0 | 23 |
 | [Civil Registration](civil-registration.md) | 1 | 13 |
-| [Clean Air](clean-air.md) | 2 | 107 |
-| [Clerk of the Crown in Chancery](clerk-of-the-crown-in-chancery.md) | 2 | 13 |
+| [Clean Air](clean-air.md) | 2 | 105 |
+| [Clerk of the Crown in Chancery](clerk-of-the-crown-in-chancery.md) | 2 | 12 |
 | [Climate Change](climate-change.md) | 3 | 119 |
 | [Climate Change Levy](climate-change-levy.md) | 1 | 66 |
 | [Co-Operative Societies](co-operative-societies.md) | 2 | 10 |
@@ -134,7 +134,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Consular Rights and Privileges](consular-rights-and-privileges.md) | 1 | 11 |
 | [Consultant Lobbying](consultant-lobbying.md) | 1 | 5 |
 | [Consumer Credit](consumer-credit.md) | 2 | 105 |
-| [Consumer Protection](consumer-protection.md) | 11 | 365 |
+| [Consumer Protection](consumer-protection.md) | 11 | 364 |
 | [Contamination of Food](contamination-of-food.md) | 0 | 20 |
 | [Continental Shelf](continental-shelf.md) | 1 | 12 |
 | [Contracting Out](contracting-out.md) | 1 | 50 |
@@ -154,14 +154,14 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Cremation](cremation.md) | 2 | 20 |
 | [Criminal Evidence](criminal-evidence.md) | 2 | 14 |
 | [Criminal Justice](criminal-justice.md) | 0 | 8 |
-| [Criminal Law](criminal-law/README.md) | 66 | 1269 |
+| [Criminal Law](criminal-law/README.md) | 66 | 1268 |
 | [Criminal Law, England and Wales Criminal Law](criminal-law-england-and-wales-criminal-law.md) | 1 | 6 |
 | [Criminal Procedure](criminal-procedure.md) | 8 | 121 |
 | [Crofters, Cottars and Small Landholders](crofters-cottars-and-small-landholders.md) | 2 | 28 |
 | [Crown](crown.md) | 1 | 4 |
 | [Crown Court](crown-court.md) | 0 | 12 |
 | [Cultural Objects](cultural-objects.md) | 0 | 13 |
-| [Customs](customs.md) | 3 | 289 |
+| [Customs](customs.md) | 4 | 289 |
 | [Customs and Excise](customs-and-excise.md) | 10 | 444 |
 | [Damages](damages.md) | 4 | 37 |
 | [Dangerous Drugs](dangerous-drugs.md) | 2 | 215 |
@@ -171,7 +171,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Debt](debt.md) | 4 | 49 |
 | [Deep Sea Mining](deep-sea-mining.md) | 0 | 8 |
 | [Defamation](defamation.md) | 2 | 8 |
-| [Defence](defence.md) | 17 | 440 |
+| [Defence](defence.md) | 17 | 439 |
 | [Dentists](dentists.md) | 1 | 24 |
 | [Deregulation](deregulation.md) | 1 | 67 |
 | [Derelict Land](derelict-land.md) | 1 | 7 |
@@ -188,9 +188,9 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Dogs](dogs.md) | 4 | 47 |
 | [Domestic Abuse](domestic-abuse.md) | 1 | 23 |
 | [Drainage](drainage.md) | 0 | 4 |
-| [Ecclesiastical Law](ecclesiastical-law.md) | 19 | 222 |
+| [Ecclesiastical Law](ecclesiastical-law.md) | 19 | 221 |
 | [Economic Development](economic-development.md) | 0 | 5 |
-| [Education](education/README.md) | 76 | 4650 |
+| [Education](education/README.md) | 76 | 4649 |
 | [Electoral Commission](electoral-commission.md) | 0 | 15 |
 | [Electricity](electricity.md) | 12 | 554 |
 | [Electromagnetic Compatibility](electromagnetic-compatibility.md) | 0 | 22 |
@@ -265,9 +265,9 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Harbour, Docks, Piers and Ferries](harbour-docks-piers-and-ferries.md) | 0 | 14 |
 | [Harbours](harbours.md) | 0 | 17 |
 | [Harbours, Docks, etc](harbours-docks-etc.md) | 0 | 3 |
-| [Harbours, Docks, Piers and Ferries](harbours-docks-piers-and-ferries.md) | 7 | 423 |
-| [Health and Personal Social Services](health-and-personal-social-services.md) | 10 | 405 |
-| [Health and Safety](health-and-safety.md) | 7 | 616 |
+| [Harbours, Docks, Piers and Ferries](harbours-docks-piers-and-ferries.md) | 6 | 423 |
+| [Health and Personal Social Services](health-and-personal-social-services.md) | 10 | 403 |
+| [Health and Safety](health-and-safety.md) | 7 | 614 |
 | [Health and Social Care](health-and-social-care.md) | 0 | 33 |
 | [Health Care and Associated Professions](health-care-and-associated-professions.md) | 7 | 318 |
 | [Health Professions](health-professions.md) | 0 | 11 |
@@ -278,7 +278,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Heat Networks](heat-networks.md) | 1 | 5 |
 | [High Court of Justiciary](high-court-of-justiciary.md) | 4 | 153 |
 | [Higher and Further Education](higher-and-further-education.md) | 1 | 3 |
-| [Highways](highways/README.md) | 9 | 1718 |
+| [Highways](highways/README.md) | 9 | 1717 |
 | [Historic Environment](historic-environment.md) | 1 | 9 |
 | [Hong Kong](hong-kong.md) | 2 | 11 |
 | [Horse Racing and Betting](horse-racing-and-betting.md) | 0 | 2 |
@@ -291,7 +291,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Human Rights](human-rights.md) | 3 | 33 |
 | [Human Tissue](human-tissue.md) | 4 | 51 |
 | [Identity Cards](identity-cards.md) | 0 | 16 |
-| [Immigration](immigration.md) | 18 | 604 |
+| [Immigration](immigration.md) | 18 | 603 |
 | [Immigration and Asylum](immigration-and-asylum.md) | 3 | 40 |
 | [Income Tax](income-tax/README.md) | 43 | 1672 |
 | [Individuals](individuals.md) | 0 | 5 |
@@ -343,7 +343,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Landlord and Tenant](landlord-and-tenant.md) | 21 | 417 |
 | [Landmines](landmines.md) | 1 | 5 |
 | [Lands Tribunal](lands-tribunal.md) | 1 | 46 |
-| [Legal Aid and Advice](legal-aid-and-advice.md) | 4 | 803 |
+| [Legal Aid and Advice](legal-aid-and-advice.md) | 4 | 802 |
 | [Legal Aid, Advice and Assistance](legal-aid-advice-and-assistance.md) | 0 | 8 |
 | [Legal Complaints and Regulation](legal-complaints-and-regulation.md) | 0 | 5 |
 | [Legal Profession](legal-profession.md) | 4 | 74 |
@@ -378,10 +378,10 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Medical Profession](medical-profession.md) | 3 | 84 |
 | [Medicines](medicines.md) | 3 | 449 |
 | [Mental Capacity](mental-capacity.md) | 1 | 70 |
-| [Mental Health](mental-health.md) | 9 | 214 |
+| [Mental Health](mental-health.md) | 9 | 213 |
 | [Mental Health Services](mental-health-services.md) | 1 | 3 |
 | [Merchandise Marks](merchandise-marks.md) | 0 | 10 |
-| [Merchant Shipping](merchant-shipping.md) | 19 | 732 |
+| [Merchant Shipping](merchant-shipping.md) | 18 | 732 |
 | [Merchant Shipping Civil Aviation](merchant-shipping-civil-aviation.md) | 0 | 5 |
 | [Metropolitan and City Police Districts](metropolitan-and-city-police-districts.md) | 4 | 37 |
 | [Mines and Quarries](mines-and-quarries.md) | 2 | 23 |
@@ -396,11 +396,11 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [National Crime Agency](national-crime-agency.md) | 0 | 12 |
 | [National Debt](national-debt.md) | 3 | 85 |
 | [National Election Expenditure](national-election-expenditure.md) | 0 | 14 |
-| [National Health Service](national-health-service/README.md) | 29 | 4852 |
+| [National Health Service](national-health-service/README.md) | 29 | 4849 |
 | [National Insurance](national-insurance.md) | 0 | 24 |
 | [National Lottery](national-lottery.md) | 3 | 62 |
 | [National Security](national-security.md) | 2 | 30 |
-| [Nationality](nationality.md) | 2 | 58 |
+| [Nationality](nationality.md) | 2 | 57 |
 | [Nature Conservation](nature-conservation.md) | 2 | 29 |
 | [New Forest](new-forest.md) | 2 | 4 |
 | [New Towns](new-towns.md) | 2 | 42 |
@@ -433,7 +433,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Payment Scheme](payment-scheme.md) | 2 | 37 |
 | [Peace Treaties](peace-treaties.md) | 0 | 5 |
 | [Pension](pension.md) | 0 | 11 |
-| [Pensions](pensions/README.md) | 46 | 2061 |
+| [Pensions](pensions/README.md) | 46 | 2057 |
 | [Pensions (Northern Ireland)](pensions-northern-ireland.md) | 0 | 6 |
 | [Period Products (Free Provision)](period-products-free-provision.md) | 0 | 10 |
 | [Pesticides](pesticides.md) | 0 | 76 |
@@ -452,7 +452,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Political Parties](political-parties.md) | 2 | 27 |
 | [Port Health Authorities](port-health-authorities.md) | 0 | 20 |
 | [Post Office](post-office.md) | 2 | 11 |
-| [Postal Services](postal-services.md) | 2 | 41 |
+| [Postal Services](postal-services.md) | 2 | 39 |
 | [Poultry](poultry.md) | 1 | 10 |
 | [Powers of Attorney](powers-of-attorney.md) | 0 | 16 |
 | [Prevention and Suppression of Terrorism](prevention-and-suppression-of-terrorism.md) | 13 | 225 |
@@ -463,7 +463,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Private International Law](private-international-law.md) | 1 | 17 |
 | [Probation](probation.md) | 1 | 154 |
 | [Procedure](procedure.md) | 0 | 36 |
-| [Proceeds of Crime](proceeds-of-crime.md) | 4 | 157 |
+| [Proceeds of Crime](proceeds-of-crime.md) | 4 | 155 |
 | [Professional Qualifications](professional-qualifications.md) | 1 | 40 |
 | [Professions Supplementary to Medicine](professions-supplementary-to-medicine.md) | 1 | 12 |
 | [Property](property.md) | 1 | 5 |
@@ -477,7 +477,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Public Audit](public-audit.md) | 2 | 14 |
 | [Public Bodies](public-bodies.md) | 5 | 102 |
 | [Public Finance and Accountability](public-finance-and-accountability.md) | 8 | 71 |
-| [Public Health](public-health/README.md) | 23 | 1434 |
+| [Public Health](public-health/README.md) | 23 | 1433 |
 | [Public Health, England and Wales Public Health](public-health-england-and-wales-public-health.md) | 0 | 6 |
 | [Public Office](public-office.md) | 0 | 5 |
 | [Public Order](public-order.md) | 3 | 25 |
@@ -492,14 +492,14 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Radioactive Substances](radioactive-substances.md) | 0 | 12 |
 | [Railways](railways.md) | 0 | 10 |
 | [Rates](rates.md) | 2 | 170 |
-| [Rating and Valuation](rating-and-valuation.md) | 15 | 956 |
+| [Rating and Valuation](rating-and-valuation.md) | 15 | 955 |
 | [Recovery of Taxes](recovery-of-taxes.md) | 0 | 12 |
 | [Redress Scheme](redress-scheme.md) | 1 | 10 |
 | [Referendums](referendums.md) | 1 | 20 |
 | [Registers and Records](registers-and-records.md) | 5 | 39 |
 | [Registration of Births, Deaths and Marriages](registration-of-births-deaths-and-marriages.md) | 0 | 3 |
 | [Registration of Births, Deaths and Marriages etc](registration-of-births-deaths-and-marriages-etc.md) | 0 | 5 |
-| [Registration of Births, Deaths and Marriages, etc](registration-of-births-deaths-and-marriages-etc.md) | 4 | 41 |
+| [Registration of Births, Deaths and Marriages, etc](registration-of-births-deaths-and-marriages-etc.md) | 4 | 42 |
 | [Registration of Births, Deaths, Marriages etc](registration-of-births-deaths-marriages-etc.md) | 0 | 18 |
 | [Registration of Births, Deaths, Marriages, etc](registration-of-births-deaths-marriages-etc.md) | 8 | 128 |
 | [Registration of Clubs](registration-of-clubs.md) | 1 | 10 |
@@ -519,7 +519,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [River](river.md) | 4 | 157 |
 | [River, England and Wales River](river-england-and-wales-river.md) | 0 | 6 |
 | [Road and Railway Transport](road-and-railway-transport.md) | 0 | 30 |
-| [Road Traffic](road-traffic/README.md) | 29 | 2571 |
+| [Road Traffic](road-traffic/README.md) | 29 | 2568 |
 | [Road Traffic and Vehicles](road-traffic-and-vehicles.md) | 7 | 479 |
 | [Roads](roads.md) | 3 | 63 |
 | [Roads and Bridges](roads-and-bridges.md) | 2 | 85 |
@@ -535,7 +535,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Scottish Courts and Tribunals Service](scottish-courts-and-tribunals-service.md) | 0 | 14 |
 | [Scottish Land Court](scottish-land-court.md) | 1 | 20 |
 | [Scottish Public Services Ombudsman](scottish-public-services-ombudsman.md) | 1 | 14 |
-| [Sea Fisheries](sea-fisheries.md) | 10 | 611 |
+| [Sea Fisheries](sea-fisheries.md) | 10 | 610 |
 | [Secure Training Centres](secure-training-centres.md) | 0 | 8 |
 | [Securities](securities.md) | 2 | 19 |
 | [Security Industry](security-industry.md) | 2 | 56 |
@@ -566,7 +566,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Sports Grounds](sports-grounds.md) | 1 | 12 |
 | [Sports Grounds and Sporting Events](sports-grounds-and-sporting-events.md) | 9 | 169 |
 | [Stamp Duty](stamp-duty.md) | 1 | 54 |
-| [Stamp Duty Land Tax](stamp-duty-land-tax.md) | 0 | 54 |
+| [Stamp Duty Land Tax](stamp-duty-land-tax.md) | 0 | 52 |
 | [Stamp Duty Reserve Tax](stamp-duty-reserve-tax.md) | 1 | 55 |
 | [Statistics Board](statistics-board.md) | 1 | 9 |
 | [Statistics of Trade](statistics-of-trade.md) | 1 | 26 |
@@ -584,7 +584,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Supreme Court of Judicature](supreme-court-of-judicature.md) | 0 | 42 |
 | [Supreme Court of the](supreme-court-of-the.md) | 0 | 20 |
 | [Tax Credits](tax-credits.md) | 2 | 153 |
-| [Taxes](taxes.md) | 13 | 445 |
+| [Taxes](taxes.md) | 13 | 444 |
 | [Telecommunications](telecommunications.md) | 2 | 463 |
 | [Telegraphs](telegraphs.md) | 0 | 117 |
 | [Tenements](tenements.md) | 1 | 8 |
@@ -600,14 +600,14 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Tractors](tractors.md) | 0 | 7 |
 | [Trade](trade.md) | 1 | 65 |
 | [Trade Descriptions](trade-descriptions.md) | 1 | 21 |
-| [Trade Marks](trade-marks.md) | 2 | 106 |
+| [Trade Marks](trade-marks.md) | 2 | 105 |
 | [Trade Unions](trade-unions.md) | 6 | 87 |
 | [Trading with the Enemy](trading-with-the-enemy.md) | 0 | 17 |
 | [Transfer of Functions](transfer-of-functions.md) | 0 | 11 |
 | [Transport](transport.md) | 24 | 842 |
 | [Transport and Works](transport-and-works.md) | 2 | 244 |
 | [Treasure](treasure.md) | 1 | 4 |
-| [Tribunals and Inquiries](tribunals-and-inquiries.md) | 4 | 357 |
+| [Tribunals and Inquiries](tribunals-and-inquiries.md) | 4 | 356 |
 | [Trustees](trustees.md) | 3 | 51 |
 | [Trusts](trusts.md) | 0 | 7 |
 | [United Kingdom Internal Market](united-kingdom-internal-market.md) | 1 | 4 |
@@ -635,7 +635,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Well-Being](well-being.md) | 1 | 7 |
 | [Welsh Language](welsh-language.md) | 1 | 48 |
 | [Welsh Public Services Ombudsman](welsh-public-services-ombudsman.md) | 1 | 6 |
-| [Wildlife](wildlife.md) | 5 | 147 |
+| [Wildlife](wildlife.md) | 5 | 146 |
 | [Wireless Telegraphy](wireless-telegraphy.md) | 0 | 5 |
 | [Young Offender Institutions](young-offender-institutions.md) | 1 | 38 |
 | [Young Offenders Institutions](young-offenders-institutions.md) | 1 | 14 |

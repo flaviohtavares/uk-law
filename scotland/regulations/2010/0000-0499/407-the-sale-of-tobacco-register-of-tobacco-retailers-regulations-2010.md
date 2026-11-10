@@ -5,14 +5,14 @@ type: ScottishStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2010-11-18'
-text_date: '2017-04-01'
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2010/407
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2010/407/pdfs/ssien_20100407_en.pdf
 - http://www.legislation.gov.uk/ssi/2010/407/pdfs/ssi_20100407_en.pdf
 - http://www.legislation.gov.uk/ssi/2010/407/data.pdf
-pending_changes: 5
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Sale of Tobacco (Register of Tobacco Retailers) Regulations 2010
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2017-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2010/407
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ssi/2010/407
 >
 > Extent: Scotland.
 
@@ -73,7 +73,7 @@ These Regulations may be cited as the Sale of Tobacco (Register of Tobacco Retai
 The information prescribed for the purposes of section 11(2)(d) of the Act is—
 
 - (a) the contact details of the person completing the form;
-- (b) whether at the date of the application the applicant is as a result of a banning order banned from carrying on a tobacco or nicotine vapour product[^c-39fcd9b4dfef3131aa2169efab4d5232] business at any premises specified in the application;
+- (b) whether at the date of the application the applicant is as a result of a banning order banned from carrying on a registrable[^c-327e59faaf1ff928aae2ac40123b947a] business at any premises specified in the application;
 - (c) whether the relevant floor area of the premises at which the applicant proposes to carry on business exceeds 280 square metres;
 - (d) whether the applicant proposes to carry on a tobacco business as a specialist tobacconist [^c-d787bba6f57da07f6464ab0a2c4cfc35]...;
 - (e) whether the premises at which the applicant proposes to carry on business is a bulk tobacconist or duty free shop.
@@ -148,7 +148,7 @@ Section 19(3) sets out the requirements for the notice. In section 19(5) the Sco
 
 [^c-b720810ae5795bcc2d1869f1830473f0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/407/regulation/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1)
 
-[^c-39fcd9b4dfef3131aa2169efab4d5232]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/ssi/2010/407/regulation/3/b) inserted (1.4.2017) by [The Sale of Tobacco (Register of Tobacco Retailers) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/51)](https://www.legislation.gov.uk/ssi/2017/51), [regs. 1](https://www.legislation.gov.uk/ssi/2017/51/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/51/regulation/2/2)
+[^c-327e59faaf1ff928aae2ac40123b947a]: Textual amendment: Word in [reg. 3(b)](https://www.legislation.gov.uk/ssi/2010/407/regulation/3/b) substituted (29.10.2026) by [The Tobacco and Vapes Act 2026 (Consequential, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/213)](https://www.legislation.gov.uk/ssi/2026/213), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/213/regulation/1/3), [7(2)](https://www.legislation.gov.uk/ssi/2026/213/regulation/7/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/213/regulation/9))
 
 [^c-d787bba6f57da07f6464ab0a2c4cfc35]: Textual amendment: Words in [reg. 3(d)](https://www.legislation.gov.uk/ssi/2010/407/regulation/3/d) omitted (1.4.2011) by virtue of [The Sale of Tobacco (Display of Warning Statements) (Scotland) Regulations 2011 (S.S.I. 2011/132)](https://www.legislation.gov.uk/ssi/2011/132), [art. 4](https://www.legislation.gov.uk/ssi/2011/132/article/4), [reg. 1](https://www.legislation.gov.uk/ssi/2011/132/regulation/1)
 

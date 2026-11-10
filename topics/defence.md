@@ -18,15 +18,15 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Armed Forces Act 2021](../uk-parliament/acts/public/2021/35-armed-forces-act-2021/README.md) — 8 regulations on this topic made under it
 - [Armed Forces Act 2011](../uk-parliament/acts/public/2011/18-armed-forces-act-2011/README.md) — 6 regulations on this topic made under it
 - [International Headquarters and Defence Organisations Act 1964](../uk-parliament/acts/public/1964/5-international-headquarters-and-defence-organisations-act-1964.md) *(changes pending)* — 6 regulations on this topic made under it
-- [Protection of Military Remains Act 1986](../uk-parliament/acts/public/1986/35-protection-of-military-remains-act-1986.md) — 6 regulations on this topic made under it
 - [Armed Forces Act 2016](../uk-parliament/acts/public/2016/21-armed-forces-act-2016.md) — 5 regulations on this topic made under it
 - [Defence Reform Act 2014](../uk-parliament/acts/public/2014/20-defence-reform-act-2014/README.md) *(changes pending)* — 5 regulations on this topic made under it
 - [Finance Act 1960](../uk-parliament/acts/public/eliz2-8-9/44-finance-act-1960.md) — 5 regulations on this topic made under it
+- [Protection of Military Remains Act 1986](../uk-parliament/acts/public/1986/35-protection-of-military-remains-act-1986.md) — 5 regulations on this topic made under it
 - [Reserve Forces Act 1980](../uk-parliament/acts/public/1980/9-reserve-forces-act-1980/README.md) *(changes pending)* — 4 regulations on this topic made under it
 
 ## Regulations
 
-440 in force.
+439 in force.
 
 **2026**
 
@@ -291,7 +291,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Criminal Procedure and Investigations Act 1996 (Code of Practice) (Armed Forces) Order 2008](../uk-parliament/regulations/2008/0500-0999/648-the-criminal-procedure-and-investigations-act-1996-code-of-practice-armed-forces.md) *(changes pending)*
 - [The Naval Medical Compassionate Fund (Amendment) Order 2008](../uk-parliament/regulations/2008/1000-1499/1488-the-naval-medical-compassionate-fund-amendment-order-2008.md) *(as originally made)*
 - [The Naval Medical Compassionate Fund Order 2008](../uk-parliament/regulations/2008/3000-3499/3129-the-naval-medical-compassionate-fund-order-2008.md) *(as originally made)*
-- [The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2008](../uk-parliament/regulations/2008/0500-0999/950-the-protection-of-military-remains-act-1986-designation-of-vessels-and-controlle.md) *(changes pending)*
 - [The Serious Organised Crime and Police Act 2005 (Commencement No. 13) Order 2008](../uk-parliament/regulations/2008/1000-1499/1325-the-serious-organised-crime-and-police-act-2005-commencement-no-13-order-2008.md) *(as originally made)*
 - [The Visiting Forces (Designation) Order 2008](../uk-parliament/regulations/2008/0000-0499/299-the-visiting-forces-designation-order-2008.md) *(as originally made)*
 

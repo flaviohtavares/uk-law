@@ -3,15 +3,15 @@ title: The Pedicab Drivers (London) Regulations 2026
 id: uksi/2026/134
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-02-18'
-text_date: null
-extent: null
+text_date: '2026-03-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/134
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/134/pdfs/uksi_20260134_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/134/made/data.pdf
-pending_changes: 7
+- http://www.legislation.gov.uk/uksi/2026/134/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Pedicab Drivers (London) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-03-09. See https://www.legislation.gov.uk/changes/affected/uksi/2026/134
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2026 No. 134
 
@@ -37,7 +41,7 @@ Transport for London, having consulted in accordance with section 1(3) of the Pe
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-1604bd0c4ffa389f1fcd483691baed05]
 
 (1) These Regulations may be cited as the Pedicab Drivers (London) Regulations 2026.
 
@@ -45,7 +49,7 @@ Transport for London, having consulted in accordance with section 1(3) of the Pe
 
 (3) Regulation 3 comes into force on 30th October 2026.
 
-### 2. Interpretation
+### 2. Interpretation[^c-8c6fb079e6c3309e1531eeadc33565fa]
 
 In these Regulations—
 
@@ -73,7 +77,9 @@ In these Regulations—
 
 ## PART 2 — LICENCES
 
-### 3. Requirement for London pedicab driver’s licence
+### 3. Requirement for London pedicab driver’s licence[^c-bbf66107088526c17e69c1910fa58f59]
+
+**Not yet in force.**
 
 (1) No pedicab may be used in a public place in Greater London unless the driver holds a London pedicab driver’s licence.
 
@@ -83,7 +89,7 @@ In these Regulations—
 
 (4) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 4. London pedicab driver’s licence: applications
+### 4. London pedicab driver’s licence: applications[^c-bb981d9072ea32977fc067716be60b7e]
 
 (1) Any person may apply to TfL for a London pedicab driver’s licence.
 
@@ -99,7 +105,7 @@ In these Regulations—
 
 (7) TfL may decline to proceed with an application for a London pedicab driver’s licence until the appropriate fee is paid.
 
-### 5. London pedicab driver’s licence: general
+### 5. London pedicab driver’s licence: general[^c-46673d19be9ce6f09a6cd43fce69fda6]
 
 (1) The holder of a London pedicab driver’s licence must, when driving a pedicab or plying for hire, have in their possession the licence issued to that person by TfL and must produce it for inspection when requested to do so by a police constable or authorised officer.
 
@@ -131,7 +137,7 @@ In these Regulations—
 
 (13) A person to whom a London pedicab driver’s licence is granted is prohibited from transferring the licence to another person.
 
-### 6. London pedicab driver identifier
+### 6. London pedicab driver identifier[^c-f603c7649df116376762e751b255de22]
 
 (1) TfL may issue a means of identification to a person to whom it has granted a London pedicab driver’s licence which may be in such form and contain such particulars as TfL thinks fit.
 
@@ -143,7 +149,7 @@ In these Regulations—
 
 (5) TfL may charge the appropriate fee in respect of the replacement of the means of identification issued under paragraph (1).
 
-### 7. London pedicab driver’s licence: conditions
+### 7. London pedicab driver’s licence: conditions[^c-45987e59e9e6bacb838c2daab40cf1e5]
 
 (1) TfL, having considered an application for a London pedicab driver’s licence, may—
 
@@ -168,7 +174,7 @@ In these Regulations—
 
 (6) A person who without reasonable excuse fails to comply with a condition attached to a London pedicab driver’s licence under this regulation is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 8. Prohibition on certain advertisements
+### 8. Prohibition on certain advertisements[^c-dd4236edfdfde45621cfa031dde92df8]
 
 (1) This regulation applies to any advertisement indicating that a pedicab can be hired.
 
@@ -189,7 +195,7 @@ In these Regulations—
 
 (6) In this regulation, “**advertisement**” includes every form of advertising (whatever the medium) and references to the issue of an advertisement are to be construed accordingly.
 
-### 9. London pedicab driver’s licence: qualifying criteria
+### 9. London pedicab driver’s licence: qualifying criteria[^c-2f5261f352e7dca96e2d0c6522f0bc25]
 
 (1) TfL may grant a London pedicab driver’s licence to an applicant if it is satisfied that—
 
@@ -218,7 +224,7 @@ In these Regulations—
 - (a) the person holds a licence granted under Part III of the Road Traffic Act 1988 (other than a provisional licence) authorising him to drive a motor car; or
 - (b) the person is authorised by virtue of section 99A(1) or 109(1) of that Act (Community Licences and Norther Ireland Licences) to drive a motor car or motor cycle in Great Britian.
 
-### 10. London pedicab driver’s licence: persons subject to immigration control
+### 10. London pedicab driver’s licence: persons subject to immigration control[^c-fed608e7840939b35998f58578e5cec7]
 
 (1) Paragraph (2) applies if—
 
@@ -244,7 +250,7 @@ In these Regulations—
 - (a) to a fine not exceeding level 4 on the standard scale; and
 - (b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
 
-### 11. Physical fitness requirement
+### 11. Physical fitness requirement[^c-2b250bc9158c2e77e87d4095c21ef825]
 
 (1) A London pedicab driver’s licence must not be granted to a person unless TfL is satisfied that the applicant meets the physical fitness requirement.
 
@@ -268,7 +274,7 @@ In these Regulations—
 - (b) a holder of a London pedicab driver’s licence; and
 - (c) an applicant for the renewal of a London pedicab driver’s licence.
 
-### 12. Safety, equality and regulatory understanding requirement
+### 12. Safety, equality and regulatory understanding requirement[^c-8c224f53f9b8cdff36b31a35847beeb8]
 
 (1) A London pedicab driver’s licence is not to be granted to a person who has not passed the safety, equality and regulatory understanding requirement.
 
@@ -291,7 +297,7 @@ as set out in the Handbook.
 
 (4) TfL may charge the appropriate fee in respect of the test required under paragraph (3).
 
-### 13. English Language requirement
+### 13. English Language requirement[^c-5c1f981a0df7867cfad0bdf7d4d3fad5]
 
 (1) Subject to the provisions of this regulation, an applicant for a London pedicab driver’s licence must satisfy TfL that the applicant meets the English language requirement.
 
@@ -310,7 +316,7 @@ as set out in the Handbook.
 
 (7) TfL may charge the appropriate fee in respect of the test required under paragraph (4).
 
-### 14. Pedicab drivers to obtain enhanced DBS certificate and to subscribe to DBS Update Service
+### 14. Pedicab drivers to obtain enhanced DBS certificate and to subscribe to DBS Update Service[^c-df239694202e56f849aa46f8b8eb2f17]
 
 (1) Subject to the provisions of this regulation, an applicant for a London pedicab driver’s licence must undertake an enhanced DBS check and obtain an enhanced DBS certificate.
 
@@ -331,7 +337,7 @@ then the licence holder must provide to TfL a further enhanced DBS check certifi
 
 (7) An applicant for a London pedicab driver’s licence who maintains a subscription to the DBS Update Service in connection with a cab-driver’s licence or a London PHV Driver’s licence is not required to undertake an enhanced DBS check under this regulation.
 
-### 15. Overseas criminal check
+### 15. Overseas criminal check[^c-f402b970da77b55915549c53ab999cf0]
 
 (1) Subject to paragraphs (2) and (3), an applicant for a London pedicab driver’s licence or for the renewal of such licence who has lived in a country other than the United Kingdom for a continuous period of 3 months or more within a ten year period prior to the date of application for a licence must obtain a Certificate of Good Conduct in respect of every country where the applicant has so lived.
 
@@ -343,7 +349,7 @@ then the licence holder must provide to TfL a further enhanced DBS check certifi
 
 ## PART 3 — VARIATION SUSPENSION AND REVOCATION OF LICENCES
 
-### 16. Power to vary, suspend or revoke licences
+### 16. Power to vary, suspend or revoke licences[^c-4b8f4732b8f05994a526b990a71ef1a2]
 
 (1) TfL may vary, suspend or revoke a London pedicab driver’s licence if it appears to TfL that there has been a breach of any of the terms, requirements or conditions of the licence.
 
@@ -394,7 +400,7 @@ and if the correct information or change in information had been supplied TfL wo
 - (a) the period for giving a notice of objection under section 29 of that Act has expired and the Secretary of State has considered any notice given within that period; and
 - (b) if a notice of objection was given within that period, the period for appealing under section 30 of that Act has expired and any appeal brough within that period has been finally determined, abandoned or withdrawn.
 
-### 17. Suspension and revocation under regulation 16
+### 17. Suspension and revocation under regulation 16[^c-fa39d9c780ede465b5b0c0199510c599]
 
 (1) Where TfL has decided to suspend or revoke a London pedicab driver’s licence under regulation 16—
 
@@ -405,7 +411,7 @@ and if the correct information or change in information had been supplied TfL wo
 
 (3) A licence suspended under this regulation is to remain suspended until such a time as TfL by notice directs that the licence is again in force or is revoked.
 
-### 18. Obstruction of authorised officer etc.
+### 18. Obstruction of authorised officer etc.[^c-cc82a8bda6ac46845138b53bbe3a4e0d]
 
 (1) A person who wilfully obstructs a constable or authorised officer acting under the powers conferred under these Regulations is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -420,13 +426,13 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## PART 4 — FIXED PENALTY NOTICES
 
-### 19. Fixed penalty offences
+### 19. Fixed penalty offences[^c-3aa117a30a8bedafbe6966892043ee16]
 
 (1) Where on any occasion an authorised officer finds a person who they have reason to believe has on that occasion committed an offence under these Regulations except for regulation 3, 5(7), 5(9) and 18, the authorised officer may give that person a notice offering them the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
 
 (2) Regulation 20 applies in respect of fixed penalty notices under paragraph (1).
 
-### 20. Fixed penalty notices
+### 20. Fixed penalty notices[^c-f6f280ef6d3ba9d5d714da983475c9a3]
 
 (1) The provisions of this regulation have effect in relation to the notice (“fixed penalty notice”) which may be given under regulation 19.
 
@@ -453,7 +459,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 is to be evidence of the facts stated.
 
-### 21. Level of fixed penalty
+### 21. Level of fixed penalty[^c-fb388c32d0e6362e6a35fc71027d8ce3]
 
 (1) TfL may set the amount of the fixed penalty payable to TfL in accordance with this regulation.
 
@@ -463,7 +469,7 @@ is to be evidence of the facts stated.
 
 ## PART 5 — REGISTER OF LICENCES
 
-### 22. Register of licences
+### 22. Register of licences[^c-0c672e7917ee6c587c61698c4c5f6861]
 
 (1) TfL may keep and maintain in such form as it considers appropriate a register (the register) containing the following particulars for each licence issued under these Regulations, namely—
 
@@ -478,7 +484,7 @@ is to be evidence of the facts stated.
 
 ## PART 6 — APPEALS
 
-### 23. Appeals
+### 23. Appeals[^c-236df54f96e56e8599cc7f7b15f7e334]
 
 (1) Without affecting the right to appeal under paragraph (3), a person may request that TfL reconsiders any decision to—
 
@@ -586,6 +592,10 @@ Regulation 23 provides that applicants may request TfL to reconsider decisions t
 
 ## Annotations
 
+[^c-1604bd0c4ffa389f1fcd483691baed05]: Commencement: Reg. 1 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-8c6fb079e6c3309e1531eeadc33565fa]: Commencement: Reg. 2 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
 [^f00001]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13).
 
 [^f00002]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
@@ -606,10 +616,52 @@ Regulation 23 provides that applicants may request TfL to reconsider decisions t
 
 [^f00010]: Footnote: [2024 c. 7](https://www.legislation.gov.uk/ukpga/2024/7).
 
+[^c-bbf66107088526c17e69c1910fa58f59]: Commencement: Reg. 3 in force at 30.10.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/3)
+
+[^c-bb981d9072ea32977fc067716be60b7e]: Commencement: Reg. 4 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-46673d19be9ce6f09a6cd43fce69fda6]: Commencement: Reg. 5 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-f603c7649df116376762e751b255de22]: Commencement: Reg. 6 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-45987e59e9e6bacb838c2daab40cf1e5]: Commencement: Reg. 7 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-dd4236edfdfde45621cfa031dde92df8]: Commencement: Reg. 8 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-2f5261f352e7dca96e2d0c6522f0bc25]: Commencement: Reg. 9 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-fed608e7840939b35998f58578e5cec7]: Commencement: Reg. 10 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-2b250bc9158c2e77e87d4095c21ef825]: Commencement: Reg. 11 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
 [^f00011]: Footnote: [1998 c. 52](https://www.legislation.gov.uk/ukpga/1998/52).
 
 [^f00012]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864).
 
+[^c-8c224f53f9b8cdff36b31a35847beeb8]: Commencement: Reg. 12 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-5c1f981a0df7867cfad0bdf7d4d3fad5]: Commencement: Reg. 13 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
 [^f00013]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
+[^c-df239694202e56f849aa46f8b8eb2f17]: Commencement: Reg. 14 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-f402b970da77b55915549c53ab999cf0]: Commencement: Reg. 15 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-4b8f4732b8f05994a526b990a71ef1a2]: Commencement: Reg. 16 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
 [^f00014]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
+
+[^c-fa39d9c780ede465b5b0c0199510c599]: Commencement: Reg. 17 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-cc82a8bda6ac46845138b53bbe3a4e0d]: Commencement: Reg. 18 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-3aa117a30a8bedafbe6966892043ee16]: Commencement: Reg. 19 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-f6f280ef6d3ba9d5d714da983475c9a3]: Commencement: Reg. 20 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-fb388c32d0e6362e6a35fc71027d8ce3]: Commencement: Reg. 21 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-0c672e7917ee6c587c61698c4c5f6861]: Commencement: Reg. 22 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-236df54f96e56e8599cc7f7b15f7e334]: Commencement: Reg. 23 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 17
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '17'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 17. Contributions during trade dispute absence
+## 17. Contributions during trade dispute absence[^c-d80abeb680f979e43198e9f245ef1548]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) If a person–
 
@@ -47,6 +53,8 @@ and, in determining that difference, any guarantee payments under Part 3 of the 
 (6) In this regulation, “trade dispute” has the meaning given in section 218 of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00028].
 
 ## Annotations
+
+[^c-d80abeb680f979e43198e9f245ef1548]: Commencement: Reg. 17 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00027]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 

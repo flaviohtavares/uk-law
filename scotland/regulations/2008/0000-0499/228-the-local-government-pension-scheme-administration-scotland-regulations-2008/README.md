@@ -3,16 +3,16 @@ title: The Local Government Pension Scheme (Administration) (Scotland) Regulatio
 id: ssi/2008/228
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-04'
-text_date: null
-extent: null
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/228/pdfs/ssien_20080228_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/228/pdfs/ssi_20080228_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/228/made/data.pdf
-pending_changes: 123
+- http://www.legislation.gov.uk/ssi/2008/228/data.pdf
+pending_changes: 256
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (256).** Text as at 2008-06-04. See https://www.legislation.gov.uk/changes/affected/ssi/2008/228
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 228
 
@@ -48,10 +54,18 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 ### PART 1 — PRELIMINARY
 
+*Extent: S*
+
+**Not yet in force.**
+
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
 ### PART 2 — MEMBERSHIP OF SCHEME
+
+*Extent: S*
+
+**Not yet in force.**
 
 - [Section 3 — General eligibility for membership](part-2/section-3.md)
 - [Section 4 — Employees of non-Scheme employers: community admission bodies](part-2/section-4.md)
@@ -68,6 +82,10 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 ### PART 3 — CONTRIBUTIONS
 
+*Extent: S*
+
+**Not yet in force.**
+
 - [Section 15 — Contributions during child-related leave](part-3/section-15.md)
 - [Section 16 — Contributions during reserve forces service leave](part-3/section-16.md)
 - [Section 17 — Contributions during trade dispute absence](part-3/section-17.md)
@@ -81,6 +99,10 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 25 — Cost of calculations of additional pension where no notification given under regulation 23(4)](part-3/section-25.md)
 
 ### PART 4 — PENSION FUNDS AND EMPLOYERS PAYMENTS
+
+*Extent: S*
+
+**Not yet in force.**
 
 - [Section 26 — The pension funds](part-4/section-26.md)
 - [Section 27 — Governance compliance statement](part-4/section-27.md)
@@ -103,6 +125,10 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 ### PART 5 — PAYMENT OF BENEFITS ETC
 
+*Extent: S*
+
+**Not yet in force.**
+
 - [Section 44 — Pension increases under the Pension Schemes Act 1993](part-5/section-44.md)
 - [Section 45 — Contributions equivalent premiums](part-5/section-45.md)
 - [Section 46 — Commencement of pensions](part-5/section-46.md)
@@ -111,6 +137,10 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 49 — Non-assignability](part-5/section-49.md)
 
 ### PART 6 — DETERMINATION OF QUESTIONS AND DISPUTES
+
+*Extent: S*
+
+**Not yet in force.**
 
 - [Section 50 — Interpretation of Part](part-6/section-50.md)
 - [Section 51 — First instance decisions](part-6/section-51.md)
@@ -125,12 +155,20 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 ### PART 7 — POLICY STATEMENTS AND INFORMATION
 
+*Extent: S*
+
+**Not yet in force.**
+
 - [Section 60 — Exchange of information by authorities](part-7/section-60.md)
 - [Section 61 — Statements of policy about exercise of discretionary functions](part-7/section-61.md)
 - [Section 62 — Annual benefit statements](part-7/section-62.md)
 - [Section 63 — Information to be supplied by employees](part-7/section-63.md)
 
 ### PART 8 — SPECIAL ADJUSTMENTS
+
+*Extent: S*
+
+**Not yet in force.**
 
 - [Section 64 — Statements of policy concerning abatement of retirement pensions in new employment](part-8/section-64.md)
 - [Section 65 — Application of abatement policy to individual cases](part-8/section-65.md)
@@ -142,6 +180,10 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 71 — Members of local authorities](part-8/section-71.md)
 
 ### PART 9 — TRANSFERS
+
+*Extent: S*
+
+**Not yet in force.**
 
 - [Section 72 — Interpretation of Part](part-9/section-72.md)
 - [Section 73 — Application of Chapter 4 etc](part-9/section-73.md)
@@ -157,11 +199,23 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 ### PART 10 — PENSION SHARING
 
+*Extent: S*
+
+**Not yet in force.**
+
 #### CHAPTER I — PRELIMINARY PROVISIONS
+
+*Extent: S*
+
+**Not yet in force.**
 
 - [Section 83 — Pension debit member](part-10/section-83.md)
 
 #### CHAPTER II — SHARING OF RIGHTS
+
+*Extent: S*
+
+**Not yet in force.**
 
 - [Section 84 — Pension sharing mechanism in the Scheme](part-10/section-84.md)
 - [Section 85 — Pension sharing order activates pension sharing creating pension debits and credits](part-10/section-85.md)
@@ -170,6 +224,10 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 88 — Effect of pension sharing on protected rights and guaranteed minimum pension](part-10/section-88.md)
 
 #### CHAPTER III — MODE OF DISCHARGE AND “IMPLEMENTATION PERIOD”
+
+*Extent: S*
+
+**Not yet in force.**
 
 - [Section 89 — Discharge of pension credit liability by conferring “appropriate rights” or making transfer payment to another scheme](part-10/section-89.md)
 - [Section 90 — Qualifying arrangements](part-10/section-90.md)
@@ -180,6 +238,10 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 #### CHAPTER IV — APPROPRIATE RIGHTS/PENSION CREDIT BENEFITS
 
+*Extent: S*
+
+**Not yet in force.**
+
 - [Section 95 — “Appropriate Rights”/“Pension credit benefits” under the Scheme](part-10/section-95.md)
 - [Section 96 — Additional Voluntary Contributions (“AVCs”)](part-10/section-96.md)
 - [Section 97 — Additional contributions and additional periods](part-10/section-97.md)
@@ -188,6 +250,10 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [Section 100 — Pension Transfers](part-10/section-100.md)
 
 #### CHAPTER V — MISCELLANEOUS
+
+*Extent: S*
+
+**Not yet in force.**
 
 - [Section 101 — Charges in respect of pension sharing costs](part-10/section-101.md)
 - [Section 102 — Excluded membership](part-10/section-102.md)
@@ -200,6 +266,10 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 - [SCHEDULE 4](schedule-4.md)
 - [SCHEDULE 5](schedule-5.md)
 
+*Extent: S*
+
+**Not yet in force.**
+
 JOHN SWINNEY
 
 A member of the Scottish Executive
@@ -209,6 +279,10 @@ St Andrew’s House,
 Edinburgh
 
 4th June 2008
+
+*Extent: S*
+
+**Not yet in force.**
 
 (This note is not part of the Regulations)
 

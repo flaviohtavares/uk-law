@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 4
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '4'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 4. Employees of non-Scheme employers: community admission bodies
+## 4. Employees of non-Scheme employers: community admission bodies[^c-55bc50e66de8645d49d49f053c3c72f3]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Subject to the requirements of this regulation and regulation 6 (admission agreements further provisions), an administering authority may make an admission agreement with any community admission body.
 
@@ -41,6 +47,8 @@ summary: ''
 (4) Where, at the date that an admission agreement is made with a body mentioned in paragraph (2)(b), the contributions paid to the body by one or more Scheme employers equal in total 50% or less of the total amount it receives from all sources, it must be a term of the admission agreement that the Scheme employer paying contributions (or, if more than one pays contributions, all of them) guarantees the liability of the body to pay all amounts due from it under these Regulations or the Benefit Regulations.
 
 ## Annotations
+
+[^c-55bc50e66de8645d49d49f053c3c72f3]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00003]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 

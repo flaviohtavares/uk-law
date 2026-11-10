@@ -4,7 +4,7 @@ Laws in force under the legislation.gov.uk subject heading **STAMP DUTY LAND TAX
 
 ## Regulations
 
-54 in force.
+52 in force.
 
 **2025**
 
@@ -86,9 +86,7 @@ Laws in force under the legislation.gov.uk subject heading **STAMP DUTY LAND TAX
 
 **2008**
 
-- [The Stamp Duty Land Tax (Exemption of Certain Acquisitions of Residential Property) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2339-the-stamp-duty-land-tax-exemption-of-certain-acquisitions-of-residential-propert.md) *(changes pending)*
 - [The Stamp Duty Land Tax (Open-ended Investment Companies) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/710-the-stamp-duty-land-tax-open-ended-investment-companies-regulations-2008.md) *(as originally made)*
-- [The Stamp Duty Land Tax (Variation of Part 4 of the Finance Act 2003) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2338-the-stamp-duty-land-tax-variation-of-part-4-of-the-finance-act-2003-regulations.md) *(changes pending)*
 - [The Stamp Duty Land Tax (Zero-Carbon Homes Relief) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1932-the-stamp-duty-land-tax-zero-carbon-homes-relief-amendment-regulations-2008.md) *(as originally made)*
 
 **2007**

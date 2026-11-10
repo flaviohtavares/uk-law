@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 28
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '28'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/28
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 28
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 28. Compelling personal reasons additional entitlement
+## 28. Compelling personal reasons additional entitlement[^c-9bc0bab959c8a24344b2f9a56b75dfb4]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student (“**A**”) qualifies for compelling personal reasons additional entitlement—
 
@@ -29,3 +35,7 @@ summary: ''
 
 - (a) is to be added to A’s fee loan entitlement balance, as valued at the time when the circumstances giving rise to the compelling personal reasons take place, and
 - (b) is available for A to use towards a designated course of A’s choice.
+
+## Annotations
+
+[^c-9bc0bab959c8a24344b2f9a56b75dfb4]: Commencement: Reg. 28 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

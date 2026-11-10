@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 51
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '51'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/51
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 51
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 51. First instance decisions
+## 51. First instance decisions[^c-740e4c9fcf40df8be6143d96e401576f]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Any question concerning the rights or liabilities under the Scheme of any person other than an employing authority must be decided in the first instance by the person specified in this regulation.
 
@@ -41,3 +47,7 @@ summary: ''
 (9) Any question concerning what rate of contribution a member is liable to pay to the appropriate fund must be decided by the member’s employing authority.
 
 (10) Other questions in relation to any member or prospective member must be decided by the member’s employer as soon as is reasonably practicable after the member or prospective member becomes a member or a material change affects his or her employment.
+
+## Annotations
+
+[^c-740e4c9fcf40df8be6143d96e401576f]: Commencement: Reg. 51 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

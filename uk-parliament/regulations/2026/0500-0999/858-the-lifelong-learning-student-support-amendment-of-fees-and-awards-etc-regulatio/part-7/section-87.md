@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 87
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '87'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/87
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 87
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 87. Payment of fee loans
+## 87. Payment of fee loans[^c-60296721e4d773a30617501343037215]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The Secretary of State must pay the fee loan for which an eligible student qualifies to an institution to which the student is liable to make payment.
 
@@ -37,3 +43,7 @@ summary: ''
 - (b) remains enrolled and continues to attend (or in the case of a distance learning course, undertake) the course, where the confirmation relates to payment of an instalment of the fee loan other than the first instalment.
 
 (6) The academic authority must inform the Secretary of State if a student ceases to attend or undertake the designated course during the course year.
+
+## Annotations
+
+[^c-60296721e4d773a30617501343037215]: Commencement: Reg. 87 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

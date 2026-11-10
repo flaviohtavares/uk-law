@@ -3,7 +3,7 @@ title: Armed Forces Act 2006, SCHEDULE 5
 act: Armed Forces Act 2006
 section: schedule-5
 status: repealed
-text_date: '2026-10-05'
+text_date: '2026-11-03'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2006/52/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

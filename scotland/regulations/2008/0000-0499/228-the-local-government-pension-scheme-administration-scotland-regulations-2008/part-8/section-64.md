@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 64
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '64'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/64
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 64
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 64. Statements of policy concerning abatement of retirement pensions in new employment
+## 64. Statements of policy concerning abatement of retirement pensions in new employment[^c-092e22509fd9cdddd9187de95d6e1886]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Each administering authority must formulate and keep under review its policy concerning abatement (that is, the extent, if any, to which the amount of retirement pension payable to a member from any pension fund maintained by it under the Scheme should be reduced (or whether it should be extinguished) where the member has entered a new employment with a Scheme employer, other than one in which it is eligible to belong to a teachers scheme).
 
@@ -31,3 +37,7 @@ summary: ''
 - (c) the extent to which a policy not to apply abatement could lead to a serious loss of confidence in the public service.
 
 (6) In paragraph (5)(a) the reference to financial gain is a reference to the financial gain which it appears to the administering authority may be obtained by a member as a result of the member’s entitlement both to a pension and to pay under the new employment.
+
+## Annotations
+
+[^c-092e22509fd9cdddd9187de95d6e1886]: Commencement: Reg. 64 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

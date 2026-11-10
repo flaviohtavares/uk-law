@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 30
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '30'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 30
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 30. Correctional additional entitlement
+## 30. Correctional additional entitlement[^c-29d96bc58479eac19264f672f9b34517]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student (“**A**”) qualifies for correctional additional entitlement if—
 
@@ -32,3 +38,7 @@ summary: ''
 - (d) where the Secretary of State considers that there are exceptional circumstances, the Secretary of State may determine that A should qualify for correctional additional entitlement in respect of one or more course years of the current course, as appropriate, whether or not A has completed those course years prior to the Secretary of State making the determination.
 
 (3) The amount of correctional additional entitlement is equivalent to the amount of fee loan funding of which A was notified in error by the Secretary of State previously under paragraph (1)(c).
+
+## Annotations
+
+[^c-29d96bc58479eac19264f672f9b34517]: Commencement: Reg. 30 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

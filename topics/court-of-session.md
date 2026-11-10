@@ -256,7 +256,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Act of Sederunt (Rules of the Court of Session Amendment No. 6) (Counter-Terrorism Act 2008) 2008](../scotland/regulations/2008/0000-0499/401-act-of-sederunt-rules-of-the-court-of-session-amendment-no-6-counter-terrorism-a.md) *(as originally made)*
 - [Act of Sederunt (Rules of the Court of Session Amendment) (Fees of Solicitors) 2008](../scotland/regulations/2008/0000-0499/39-act-of-sederunt-rules-of-the-court-of-session-amendment-fees-of-solicitors-2008.md) *(as originally made)*
 - [Act of Sederunt (Transfer of Judicial Review Applications from the Court of Session) 2008](../scotland/regulations/2008/0000-0499/357-act-of-sederunt-transfer-of-judicial-review-applications-from-the-court-of-sessi.md) *(as originally made)*
-- [The Court of Session etc. Fees Amendment Order 2008](../scotland/regulations/2008/0000-0499/236-the-court-of-session-etc-fees-amendment-order-2008/README.md) *(as originally made)*
+- [The Court of Session etc. Fees Amendment Order 2008](../scotland/regulations/2008/0000-0499/236-the-court-of-session-etc-fees-amendment-order-2008/README.md) *(changes pending)*
 
 **2007**
 

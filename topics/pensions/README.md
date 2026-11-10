@@ -8,7 +8,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Pension Schemes Act 1993](../../uk-parliament/acts/public/1993/48-pension-schemes-act-1993/README.md) *(changes pending)* — 277 regulations on this topic made under it
 - [Superannuation Act 1972](../../uk-parliament/acts/public/1972/11-superannuation-act-1972/README.md) *(changes pending)* — 256 regulations on this topic made under it
-- [Pensions Act 2004](../../uk-parliament/acts/public/2004/35-pensions-act-2004/README.md) *(changes pending)* — 198 regulations on this topic made under it
+- [Pensions Act 2004](../../uk-parliament/acts/public/2004/35-pensions-act-2004/README.md) *(changes pending)* — 196 regulations on this topic made under it
 - [Pension Schemes (Northern Ireland) Act 1993](../../uk-parliament/acts/public/1993/49-pension-schemes-northern-ireland-act-1993/README.md) *(changes pending)* — 189 regulations on this topic made under it
 - [The Pensions (Northern Ireland) Order 2005](../../northern-ireland/orders-in-council/2005/255-the-pensions-northern-ireland-order-2005/README.md) *(changes pending)* — 144 regulations on this topic made under it
 - [Pensions Act 1995](../../uk-parliament/acts/public/1995/26-pensions-act-1995/README.md) *(changes pending)* — 128 regulations on this topic made under it
@@ -19,7 +19,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Social Security (Miscellaneous Provisions) Act 1977](../../uk-parliament/acts/public/1977/5-social-security-miscellaneous-provisions-act-1977.md) — 56 regulations on this topic made under it
 - [Welfare Reform and Pensions Act 1999](../../uk-parliament/acts/public/1999/30-welfare-reform-and-pensions-act-1999/README.md) *(changes pending)* — 56 regulations on this topic made under it
 - [Personal Injuries (Emergency Provisions) Act 1939](../../uk-parliament/acts/public/geo6-2-3/82-personal-injuries-emergency-provisions-act-1939.md) — 51 regulations on this topic made under it
-- [Armed Forces (Pensions and Compensation) Act 2004](../../uk-parliament/acts/public/2004/32-armed-forces-pensions-and-compensation-act-2004.md) — 50 regulations on this topic made under it
+- [Armed Forces (Pensions and Compensation) Act 2004](../../uk-parliament/acts/public/2004/32-armed-forces-pensions-and-compensation-act-2004.md) — 48 regulations on this topic made under it
 - [Police Pensions Act 1976](../../uk-parliament/acts/public/1976/35-police-pensions-act-1976.md) — 47 regulations on this topic made under it
 - [Fire Services Act 1947](../../uk-parliament/acts/public/geo6-10-11/41-fire-services-act-1947.md) — 42 regulations on this topic made under it
 - [Fire and Rescue Services Act 2004](../../uk-parliament/acts/public/2004/21-fire-and-rescue-services-act-2004/README.md) *(changes pending)* — 42 regulations on this topic made under it
@@ -55,7 +55,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-2061 in force, by year:
+2057 in force, by year:
 
 | year | in force |
 |---|---|
@@ -75,9 +75,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2013](2013.md) | 51 |
 | [2012](2012.md) | 73 |
 | [2011](2011.md) | 56 |
-| [2010](2010.md) | 64 |
+| [2010](2010.md) | 63 |
 | [2009](2009.md) | 58 |
-| [2008](2008.md) | 58 |
+| [2008](2008.md) | 55 |
 | [2007](2007.md) | 62 |
 | [2006](2006.md) | 111 |
 | [2005](2005.md) | 172 |

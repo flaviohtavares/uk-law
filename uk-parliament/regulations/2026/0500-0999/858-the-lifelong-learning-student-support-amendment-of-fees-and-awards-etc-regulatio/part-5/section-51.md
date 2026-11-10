@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 51
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '51'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/51
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 51
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 51. Reduction for household income – students with full entitlement under the age of 60
+## 51. Reduction for household income – students with full entitlement under the age of 60[^c-dde39dddf0554fde18e3962f1208a688]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (3), the maximum loan entitlement of an eligible student described in regulation 43(1)(b) is reduced, if applicable, by the loan reduction value “LRV”.
 
@@ -37,3 +43,7 @@ summary: ''
 - (f) for a student in category C in a course year other than the final year, £5,996;
 - (g) for a student in category D in the final year of the course, £4,693;
 - (h) for a student in category D in a course year other than the final year, £5,048.
+
+## Annotations
+
+[^c-dde39dddf0554fde18e3962f1208a688]: Commencement: Reg. 51 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

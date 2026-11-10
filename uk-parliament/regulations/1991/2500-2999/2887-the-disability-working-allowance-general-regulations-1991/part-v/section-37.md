@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 37
 act: The Disability Working Allowance (General) Regulations 1991
 section: '37'
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/37
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 37
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -47,6 +47,7 @@ any capital which would become available to the claimant upon application being 
 - (b) pursuant to section 2 of the Employment and Training Act 1973 in respect of a person’s participation—
   - (i) in an employment programme specified in regulation 75(1)(a)(ii) of the Jobseeker’s Allowance Regulations 1996;
   - (ii) in a training scheme specified in regulation 75(1)(b)(ii) of those Regulations; or
+  - (iia)[^c-612fe67c8a38a8c701edcc3418ea8f47] in the Intensive Activity Period specified in regulation 75(1)(a)(iv) of those Regulations or in the Intensive Activity Period for 50 plus; or
   - (iii) in a qualifying course within the meaning specified in regulation 17A(7) of those Regulations.
 
 (4) Where a claimant stands in relation to a company in a position analogous to that of a sole owner or partner in the business of that company, he shall be treated as if he were such sole owner or partner and in such a case—
@@ -85,3 +86,5 @@ any capital which would become available to the claimant upon application being 
 [^c-42e7372889361de227c6ddc830a05f4f]: Modification: [Reg. 37(3A)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/37/3A) modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [15(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/15/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/15/3/b) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2000/3134/regulation/11), [19](https://www.legislation.gov.uk/uksi/2000/3134/regulation/19))
 
 [^c-efe77cc25da5cc24e4137e0cd3ad71bc]: Textual amendment: [Reg. 37(3A)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/37/3A) inserted (24.9.1998) by [The Social Security Amendment (New Deal) (No.2) Regulations 1998 (S.I. 1998/2117)](https://www.legislation.gov.uk/uksi/1998/2117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2117/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1998/2117/regulation/3/2/b)[(3)(a)](https://www.legislation.gov.uk/uksi/1998/2117/regulation/3/3/a)
+
+[^c-612fe67c8a38a8c701edcc3418ea8f47]: Textual amendment: [Reg. 37(3A)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/37/3A/b)[(iia)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/37/3A/iia) inserted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/7/2)

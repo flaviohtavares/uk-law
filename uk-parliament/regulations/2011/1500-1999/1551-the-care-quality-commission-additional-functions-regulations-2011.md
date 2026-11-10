@@ -3,16 +3,16 @@ title: The Care Quality Commission (Additional Functions) Regulations 2011
 id: uksi/2011/1551
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2011-06-19'
-text_date: '2023-11-28'
+text_date: '2026-11-04'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2011/1551
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2011/1551/pdfs/uksiem_20111551_en.pdf
 - http://www.legislation.gov.uk/uksi/2011/1551/pdfs/uksi_20111551_en.pdf
 - http://www.legislation.gov.uk/uksi/2011/1551/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Care Quality Commission (Additional Functions) Regulations 2011
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2023-11-28. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1551
+> Text as at 2026-11-04.
 >
 > Extent: England, Wales.
 
@@ -70,20 +70,9 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 (2) On an application under paragraph (1) the Care Quality Commission may direct that the recording and monitoring of the patient’s telephone calls pursuant to[^c-f61113e717cdcb882d9ece73e0aa6237] direction 33(5) and (6) of the 2019 Directions[^c-cec8cc1984ae484f177b306ae7632257] shall cease.
 
-## 4A. Provision of training, guidance and support to bodies and individuals[^c-6a42911ea855157714e75a4247d8fac4]
+## 4A. Provision of training, guidance and support to bodies and individuals[^c-b9fa8a1419a27795be626b7cc9b6163a]
 
-(1) The Commission has the function of providing training, guidance and support to the following in connection with the matters referred to in paragraph (2)—
-
-- (a) bodies which exercise functions in connection with relevant activities (“relevant bodies”); and
-- (b) individuals employed or appointed, or formerly employed or appointed, by relevant bodies.
-
-(2) The matters mentioned in paragraph (1) are the raising or making, by those individuals, of concerns, or suggestions for improvements, including the handling of such concerns or suggestions, in relation to the exercise of functions in connection with relevant activities by relevant bodies by which those individuals are, or were formerly, employed or appointed.
-
-(3) In this regulation—
-
-- “**bodies**” means bodies of persons corporate or unincorporated;
-- “**employed**” is to be construed in accordance with regulation 2(1) of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014;
-- “**relevant activities**” means the provision of NHS care or the carrying on of regulated activities involving or connected with the provision of health care.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Revocation[^c-a5eaef05b645faf092a65b0de2f14579]
 
@@ -143,7 +132,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^c-cec8cc1984ae484f177b306ae7632257]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/1551/regulation/4/2) substituted (26.7.2019) by [The Care Quality Commission (Additional Functions) (Amendment) Regulations 2019 (S.I. 2019/1050)](https://www.legislation.gov.uk/uksi/2019/1050), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1050/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2019/1050/regulation/2/5/b)
 
-[^c-6a42911ea855157714e75a4247d8fac4]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2011/1551/regulation/4A) inserted (28.11.2023) by [The Care Quality Commission (Additional Functions) (Amendment) Regulations 2023 (S.I. 2023/1163)](https://www.legislation.gov.uk/uksi/2023/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1163/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1163/regulation/2/2)
+[^c-b9fa8a1419a27795be626b7cc9b6163a]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2011/1551/regulation/4A) omitted (4.11.2026) by virtue of [The Care Quality Commission (Additional Functions) (Amendment) Regulations 2026 (S.I. 2026/982)](https://www.legislation.gov.uk/uksi/2026/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/982/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/982/regulation/2)
 
 [^c-a5eaef05b645faf092a65b0de2f14579]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1551/regulation/5) in force at 1.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1551/regulation/1/1)
 

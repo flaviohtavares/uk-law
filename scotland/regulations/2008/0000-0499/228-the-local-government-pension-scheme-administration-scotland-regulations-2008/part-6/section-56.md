@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 56
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '56'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 56
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 56. Reference of disagreement for reconsideration by Scottish Ministers
+## 56. Reference of disagreement for reconsideration by Scottish Ministers[^c-4de489f6a4718af367f47bb84627a50f]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) This regulation applies where an application about a disagreement has been made under regulation 54 (applications to resolve disagreements) and–
 
@@ -54,3 +60,7 @@ summary: ''
 
 - (a) the procedure to be followed when exercising its functions under this regulation;
 - (b) the manner in which those functions are to be exercised.
+
+## Annotations
+
+[^c-4de489f6a4718af367f47bb84627a50f]: Commencement: Reg. 56 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 1
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## SCHEDULE 1 — INTERPRETATION
+## SCHEDULE 1 — INTERPRETATION[^c-e82b8051ae460ac3432956d52eb9ed4a]
+
+*Extent: S*
+
+**Not yet in force.**
 
 Regulation 2
 
@@ -103,6 +109,8 @@ Regulation 2
 - “variable time employee” and “whole time employee” have the meanings given in regulation 2 (interpretation) of the Benefits Regulations.
 
 ## Annotations
+
+[^c-e82b8051ae460ac3432956d52eb9ed4a]: Commencement: Sch. 1 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00077]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 

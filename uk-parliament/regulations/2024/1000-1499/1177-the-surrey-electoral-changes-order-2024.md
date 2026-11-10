@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2024-11-12'
-text_date: '2026-05-07'
+text_date: '2026-10-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2024/1177
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/1177/pdfs/uksiem_20241177_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2024/1177/pdfs/uksi_20241177_en.pdf
 - http://www.legislation.gov.uk/uksi/2024/1177/data.pdf
-pending_changes: 4
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Surrey (Electoral Changes) Order 2024
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-05-07. See https://www.legislation.gov.uk/changes/affected/uksi/2024/1177
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/uksi/2024/1177
 >
 > Extent: England, Wales.
 
@@ -79,8 +79,6 @@ The Commission makes the following Order in exercise of the power conferred by s
 (4) The number of councillors to be elected for each division is one.
 
 ## 4. Parish wards of the parishes of Ash, Horley, Witley & Milford and Worplesdon and number of councillors[^c-fc6b97359804f909ab5095d863db8eea][^c-60d39712dbe1af3f8f1d21ff29aee2a1]
-
-**Not yet in force.**
 
 (1) The existing parish wards of Ash, Horley, Witley & Milford and Worplesdon are abolished.
 
@@ -198,8 +196,6 @@ Article 3
 
 ## Schedule 2 — Names of parish wards and number of councillors[^c-719dbdfa36ffb507dba7544e1b98ef6b][^c-7656b7520fb2bb0eb02fa8c55f417992]
 
-**Not yet in force.**
-
 Article 4
 
 Table 1
@@ -282,7 +278,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-e95535c585b7a02fc9dbb0d816cf85ae]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/1177/article/3) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(e)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/e))
 
-[^c-fc6b97359804f909ab5095d863db8eea]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
+[^c-fc6b97359804f909ab5095d863db8eea]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2024/1177/article/4) in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
 
 [^c-60d39712dbe1af3f8f1d21ff29aee2a1]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/b)
 
@@ -290,6 +286,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-f616752e5f856847a9cb5c1ad36ad717]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1177/schedule/1) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(e)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/e))
 
-[^c-719dbdfa36ffb507dba7544e1b98ef6b]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
+[^c-719dbdfa36ffb507dba7544e1b98ef6b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1177/schedule/2) in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
 
 [^c-7656b7520fb2bb0eb02fa8c55f417992]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/b)

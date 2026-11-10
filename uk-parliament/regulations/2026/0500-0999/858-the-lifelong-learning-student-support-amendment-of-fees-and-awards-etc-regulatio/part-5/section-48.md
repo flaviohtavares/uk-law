@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 48
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '48'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/48
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 48
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 48. Calculation of additional weeks entitlement
+## 48. Calculation of additional weeks entitlement[^c-2d7515ed3920cba79c5d2f1f7655ca51]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) This regulation applies to an eligible student—
 
@@ -43,3 +49,7 @@ where—
   - (vi) for a student in category C in a course year other than the final year, 0.39;
   - (vii) for a student in category D in the final year of the course, 0.34;
   - (viii) for a student in category D in a course year other than the final year, 0.322.
+
+## Annotations
+
+[^c-2d7515ed3920cba79c5d2f1f7655ca51]: Commencement: Reg. 48 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

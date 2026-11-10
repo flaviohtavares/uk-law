@@ -11,8 +11,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Consumer Rights Act 2015](../uk-parliament/acts/public/2015/15-consumer-rights-act-2015/README.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Tobacco Advertising and Promotion Act 2002](../uk-parliament/acts/public/2002/36-tobacco-advertising-and-promotion-act-2002.md) *(changes pending)* — 11 regulations on this topic made under it
 - [Digital Markets, Competition and Consumers Act 2024](../uk-parliament/acts/public/2024/13-digital-markets-competition-and-consumers-act-2024/README.md) *(changes pending)* — 10 regulations on this topic made under it
-- [Consumers, Estate Agents and Redress Act 2007](../uk-parliament/acts/public/2007/17-consumers-estate-agents-and-redress-act-2007/README.md) *(changes pending)* — 9 regulations on this topic made under it
 - [Consumer Safety Act 1978](../uk-parliament/acts/public/1978/38-consumer-safety-act-1978.md) *(as originally made)* — 8 regulations on this topic made under it
+- [Consumers, Estate Agents and Redress Act 2007](../uk-parliament/acts/public/2007/17-consumers-estate-agents-and-redress-act-2007/README.md) *(changes pending)* — 8 regulations on this topic made under it
 - [Financial Guidance and Claims Act 2018](../uk-parliament/acts/public/2018/10-financial-guidance-and-claims-act-2018/README.md) — 8 regulations on this topic made under it
 - [Consumer Scotland Act 2020](../scotland/acts/2020/11-consumer-scotland-act-2020.md) — 4 regulations on this topic made under it
 - [Product Security and Telecommunications Infrastructure Act 2022](../uk-parliament/acts/public/2022/46-product-security-and-telecommunications-infrastructure-act-2022/README.md) — 4 regulations on this topic made under it
@@ -20,7 +20,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-365 in force.
+364 in force.
 
 **2026**
 
@@ -258,7 +258,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Gas and Electricity Regulated Providers (Redress Scheme) Order 2008](../uk-parliament/regulations/2008/2000-2499/2268-the-gas-and-electricity-regulated-providers-redress-scheme-order-2008.md) *(as originally made)*
 - [The Medical Devices (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2936-the-medical-devices-amendment-regulations-2008.md) *(as originally made)*
 - [The Medicines (Products for Human Use-Fees) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/552-the-medicines-products-for-human-use-fees-regulations-2008/README.md) *(as originally made)*
-- [The Postal Services Regulated Providers (Redress Scheme) Order 2008](../uk-parliament/regulations/2008/2000-2499/2267-the-postal-services-regulated-providers-redress-scheme-order-2008.md) *(changes pending)*
 - [The REACH Enforcement Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2852-the-reach-enforcement-regulations-2008/README.md)
 
 **2007**

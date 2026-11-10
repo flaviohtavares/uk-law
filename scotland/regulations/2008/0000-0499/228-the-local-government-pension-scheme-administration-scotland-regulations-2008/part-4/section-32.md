@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 32
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '32'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/32
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 32
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 32. Actuarial valuations and certificates
+## 32. Actuarial valuations and certificates[^c-d1554fb6d295a7495c7e0f201f67d54d]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Each administering authority must obtain–
 
@@ -51,3 +57,7 @@ for each year of the period of three years beginning with 1st April in the year 
 during the period covered by the certificate.
 
 (9) The authority must provide the actuary preparing a valuation or a rates and adjustments certificate with the consolidated revenue account of the fund and such other information as the actuary requests.
+
+## Annotations
+
+[^c-d1554fb6d295a7495c7e0f201f67d54d]: Commencement: Reg. 32 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

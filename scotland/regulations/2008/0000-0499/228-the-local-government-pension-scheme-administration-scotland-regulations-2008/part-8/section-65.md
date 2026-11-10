@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 65
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '65'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/65
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 65
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 65. Application of abatement policy to individual cases
+## 65. Application of abatement policy to individual cases[^c-9f43f25cdddeb936a65a9f8d7b685339]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Where a member who is entitled to the payment of a retirement pension proposes to enter a new employment with an employing authority, the member must inform the employer about that entitlement.
 
@@ -29,3 +35,7 @@ summary: ''
 - (c) may reduce the annual rate of that pension or, as the case may be, may cease to pay it, during the period while the member holds the new employment, in accordance with that policy.
 
 (5) Any retirement pension paid following a request under regulation 18(1) of the Benefits Regulations (flexible retirement) is not subject to abatement under regulation 64 in respect of any subsequent employment with the person who is the member’s employer at the date of the request.
+
+## Annotations
+
+[^c-9f43f25cdddeb936a65a9f8d7b685339]: Commencement: Reg. 65 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

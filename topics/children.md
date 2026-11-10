@@ -6,11 +6,11 @@ Laws in force under the legislation.gov.uk subject heading **CHILDREN**. Repeale
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [The Children (Northern Ireland) Order 1995](../northern-ireland/orders-in-council/1995/755-the-children-northern-ireland-order-1995/README.md) *(changes pending)* — 29 regulations on this topic made under it
+- [The Children (Northern Ireland) Order 1995](../northern-ireland/orders-in-council/1995/755-the-children-northern-ireland-order-1995/README.md) *(changes pending)* — 28 regulations on this topic made under it
 
 ## Regulations
 
-32 in force.
+31 in force.
 
 **2006**
 
@@ -54,7 +54,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Emergency Protection Order (Transfer of Responsibilities) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/435-the-emergency-protection-order-transfer-of-responsibilities-regulations-northern.md) *(as originally made)*
 - [The Employment of Children Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/477-the-employment-of-children-regulations-northern-ireland-1996.md) *(as originally made)*
 - [The Foster Placement (Children) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/467-the-foster-placement-children-regulations-northern-ireland-1996.md) *(as originally made)*
-- [The Guardians Ad Litem (Panel) Regulation (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/128-the-guardians-ad-litem-panel-regulation-northern-ireland-1996.md) *(changes pending)*
 - [The Health and Social Services Trusts (Establishment Orders) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/516-the-health-and-social-services-trusts-establishment-orders-amendment-order-north.md) *(as originally made)*
 - [The Placement of Children with Parents etc. Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/463-the-placement-of-children-with-parents-etc-regulations-northern-ireland-1996.md) *(as originally made)*
 - [The Refuges (Children’s Homes and Foster Placements) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/480-the-refuges-childrens-homes-and-foster-placements-regulations-northern-ireland-1.md) *(as originally made)*

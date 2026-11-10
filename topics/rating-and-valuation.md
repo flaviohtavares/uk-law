@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **RATING AND VALUATIO
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Local Government Finance Act 1988](../uk-parliament/acts/public/1988/41-local-government-finance-act-1988/README.md) *(changes pending)* — 537 regulations on this topic made under it
+- [Local Government Finance Act 1988](../uk-parliament/acts/public/1988/41-local-government-finance-act-1988/README.md) *(changes pending)* — 536 regulations on this topic made under it
 - [Local Government (Scotland) Act 1975](../uk-parliament/acts/public/1975/30-local-government-scotland-act-1975/README.md) *(changes pending)* — 164 regulations on this topic made under it
 - [Local Government etc. (Scotland) Act 1994](../uk-parliament/acts/public/1994/39-local-government-etc-scotland-act-1994/README.md) *(changes pending)* — 70 regulations on this topic made under it
 - [Valuation and Rating (Scotland) Act 1956](../uk-parliament/acts/public/eliz2-4-5/60-valuation-and-rating-scotland-act-1956.md) — 50 regulations on this topic made under it
@@ -24,7 +24,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-956 in force.
+955 in force.
 
 **2026**
 
@@ -468,7 +468,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Non-Domestic Rating Contributions (England) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3078-the-non-domestic-rating-contributions-england-amendment-regulations-2008.md) *(as originally made)*
 - [The Non-Domestic Rating Contributions (Wales) (Amendment) (No. 2) Regulations 2008](../wales/regulations/2008/2500-2999/2929-the-non-domestic-rating-contributions-wales-amendment-no-2-regulations-2008.md) *(as originally made)*
 - [The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2008](../wales/regulations/2008/2500-2999/2838-the-non-domestic-rating-contributions-wales-amendment-regulations-2008.md) *(as originally made)*
-- [The Rating Lists (Valuation Date) (England) Order 2008](../uk-parliament/regulations/2008/0000-0499/216-the-rating-lists-valuation-date-england-order-2008.md) *(changes pending)*
 - [The Valuation and Rating (Exempted Classes) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/80-the-valuation-and-rating-exempted-classes-scotland-order-2008.md) *(as originally made)*
 - [The Valuation for Rating (Plant and Machinery) (England) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2332-the-valuation-for-rating-plant-and-machinery-england-amendment-regulations-2008.md) *(as originally made)*
 - [The Valuation for Rating (Plant and Machinery) (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/360-the-valuation-for-rating-plant-and-machinery-scotland-amendment-regulations-2008.md) *(as originally made)*

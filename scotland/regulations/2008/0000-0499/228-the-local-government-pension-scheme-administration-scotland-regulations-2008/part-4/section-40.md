@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 40
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '40'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 40
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 40. Deduction and recovery of member’s contributions
+## 40. Deduction and recovery of member’s contributions[^c-af3008e47a85a5bca36232260f3f3469]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) An employing authority may deduct from a person’s pay any contributions payable by him under these Regulations or the Benefits Regulations.
 
@@ -42,5 +48,7 @@ the appropriate body must pay the person interest on that amount; and the due da
 - (b) the person’s employing authority where the employee’s contributions have not yet been paid into the appropriate fund.
 
 ## Annotations
+
+[^c-af3008e47a85a5bca36232260f3f3469]: Commencement: Reg. 40 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00034]: Footnote: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65).

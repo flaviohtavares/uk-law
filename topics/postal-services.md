@@ -11,7 +11,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-41 in force.
+39 in force.
 
 **2025**
 
@@ -59,11 +59,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Postal Services Act 2011 (Commencement No. 1 and Transitional Provisions) Order 2011](../uk-parliament/regulations/2011/2000-2499/2329-the-postal-services-act-2011-commencement-no-1-and-transitional-provisions-order.md) *(as originally made)*
 - [The Postal Services Act 2011 (Commencement No. 2) Order 2011](../uk-parliament/regulations/2011/3000-3499/3044-the-postal-services-act-2011-commencement-no-2-order-2011.md) *(as originally made)*
 - [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011](../uk-parliament/regulations/2011/2000-2499/2085-the-postal-services-act-2011-consequential-modifications-and-amendments-order-20.md)
-
-**2008**
-
-- [The Postal Services (Consumer Complaints Handling Standards) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2355-the-postal-services-consumer-complaints-handling-standards-regulations-2008.md) *(changes pending)*
-- [The Postal Services Regulated Providers (Redress Scheme) Order 2008](../uk-parliament/regulations/2008/2000-2499/2267-the-postal-services-regulated-providers-redress-scheme-order-2008.md) *(changes pending)*
 
 **2007**
 

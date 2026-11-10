@@ -3,15 +3,15 @@ title: The Civil Enforcement of Parking Contraventions (Penalty Charge Notices, 
 id: uksi/2008/609
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-06'
-text_date: null
-extent: null
+text_date: '2008-03-31'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/609
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/609/pdfs/uksiem_20080609_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/609/pdfs/uksi_20080609_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/609/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/609/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Civil Enforcement of Parking Contraventions (Penalty Charge Notices, Enforcement and Adjudication) (Wales) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-03-31. See https://www.legislation.gov.uk/changes/affected/uksi/2008/609
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No.609
 
@@ -44,13 +48,13 @@ The Lord Chancellor, in exercise of the powers conferred on him by sections 78, 
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-4f006a0d2889ff29bf34e024f5646013]
 
 (1) These Regulations may be cited as the Civil Enforcement of Parking Contraventions (Penalty Charge Notices, Enforcement and Adjudication) (Wales) Regulations 2008 and shall come into force on 31st March 2008.
 
 (2) These Regulations apply to Wales.
 
-### 2. Interpretation
+### 2. Interpretation[^c-f6782ff243e172f98268229b927f400e]
 
 (1) In these Regulations—
 
@@ -92,7 +96,7 @@ The Lord Chancellor, in exercise of the powers conferred on him by sections 78, 
 - (b) having taken all reasonable steps, the enforcement authority to which the penalty charge was payable was unable to ascertain the name and address of the keeper of the vehicle and was consequently unable to serve a notice to owner under regulation 11 or a regulation 6 penalty charge notice; and
 - (c) the period of 42 days beginning with the date on which the penalty charge became payable has expired.
 
-### 3. Service by post
+### 3. Service by post[^c-81cb954acd09e8d8c9d036ac46c334bf]
 
 (1) Subject to paragraph (5), any notice (except a penalty charge notice served under regulation 5) or charge certificate under these Regulations —
 
@@ -118,7 +122,7 @@ The Lord Chancellor, in exercise of the powers conferred on him by sections 78, 
 
 ## PART 2 — PENALTY CHARGES
 
-### 4. Penalty charge notices
+### 4. Penalty charge notices[^c-6ef366f5539981ff73fdcec2033424e8]
 
 (1) In these Regulations a “penalty charge notice” means a notice which—
 
@@ -127,14 +131,14 @@ The Lord Chancellor, in exercise of the powers conferred on him by sections 78, 
 
 (2) The Schedule has effect with regard to penalty charge notices.
 
-### 5. Penalty charge notices — service by a civil enforcement officer
+### 5. Penalty charge notices — service by a civil enforcement officer[^c-5772f24196db89127c3cde001fad7c3b]
 
 Where a civil enforcement officer has reason to believe that a penalty charge is payable with respect to a vehicle which is stationary in a civil enforcement area, he may serve a penalty charge notice—
 
 - (a) By fixing it to the vehicle; or
 - (b) Giving it to the person appearing to him to be in charge of the vehicle.
 
-### 6. Penalty charge notices — service by post
+### 6. Penalty charge notices — service by post[^c-c3537e0600df4b5a11f6f87fb73ca5a0]
 
 (1) An enforcement authority may serve a penalty charge notice by post where—
 
@@ -169,7 +173,7 @@ and references in these Regulations to a “Regulation 6 penalty charge notice�
   - (iii) in a case falling within paragraph (4)(c) the date on which the previous regulation 6 penalty charge notice was cancelled; and
 - (b) “relevant particulars” means particulars relating to the identity of the keeper of the vehicle contained in the register of mechanically propelled vehicles maintained by the Secretary of state under the Vehicle Excise and Registration act 1994.
 
-### 7. Removal of or interference with a penalty charge notice
+### 7. Removal of or interference with a penalty charge notice[^c-9877c7690a7bc1086696fb0f8e132bfd]
 
 (1) A penalty charge notice fixed to a vehicle in accordance with regulation 5(a) shall not be removed or interfered with except by or under the authority of—
 
@@ -180,7 +184,7 @@ and references in these Regulations to a “Regulation 6 penalty charge notice�
 
 ## PART 3 — ADJUDICATORS AND JOINT ARRANGEMENTS
 
-### 8. Discharge by enforcement authorities of functions relating to adjudicators
+### 8. Discharge by enforcement authorities of functions relating to adjudicators[^c-d9f07afba4a8717bdc6c3d8049971152]
 
 (1) The functions of the Welsh enforcement authorities relating to adjudicators under section 81 of the 2004 Act and under regulations 9 and 10 shall be discharged jointly, under arrangements made under section 101(5) of the Local Government Act 1972[^f00007], by a joint committee or joint committees appointed under section 102(1)(b) that Act.
 
@@ -193,7 +197,7 @@ and references in these Regulations to a “Regulation 6 penalty charge notice�
 
 shall continue in force and shall have effect as if made under this regulation, until such time as those arrangements are varied or replaced.
 
-### 9. Appointment of adjudicators
+### 9. Appointment of adjudicators[^c-c969c730af3270d1b85590bb6341e2e5]
 
 (1) The Welsh enforcement authorities shall appoint such number of adjudicators for the purposes of Part 6 of the 2004 Act on such terms as they may decide.
 
@@ -219,7 +223,7 @@ shall be treated as having been appointed under this regulation on the same term
 
 (7) The relevant authorities shall make and publish an annual report to the Welsh Ministers on the discharge by the adjudicators of their functions.
 
-### 10. Expenses of the relevant authorities
+### 10. Expenses of the relevant authorities[^c-41ea5b78725c4cbc10816a4f8891225a]
 
 (1) In default of a decision by any of the Welsh enforcement authorities under section 81(9)(a) of the 2004 Act as to the proportions in which their expenses under section 81 of that Act are to be defrayed, the authorities concerned shall refer the issue to an arbitrator nominated by the Chartered Institute of Arbitrators for him to determine.
 
@@ -229,7 +233,7 @@ shall be treated as having been appointed under this regulation on the same term
 
 ## PART 4 — ENFORCEMENT OF PENALTY CHARGES
 
-### 11. The notice to owner
+### 11. The notice to owner[^c-c9bd8e96c96ec13c53cacfe51b8ed4e5]
 
 (1) Subject to regulation 12, where—
 
@@ -248,7 +252,7 @@ the enforcement authority concerned may serve a notice (“a notice to owner”)
 - (f) that if, after the payment period has expired, no representations have been made under regulation 4 of the Representations and Appeals Regulations and the penalty charge has not been paid, the enforcement authority may increase the penalty charge by the applicable surcharge;
 - (g) the amount of the increased penalty charge;
 
-### 12. Time limit for service of a notice to owner
+### 12. Time limit for service of a notice to owner[^c-d450f1c44b78371f8771647f8f61789b]
 
 (1) A notice to owner may not be served after the expiry of the period of 6 months beginning with the relevant date.
 
@@ -259,7 +263,7 @@ the enforcement authority concerned may serve a notice (“a notice to owner”)
 - (c) in a case where payment of the penalty charge was made, or had purportedly been made before the expiry of the period mentioned in paragraph (1) but the payment or purported payment had been cancelled or withdrawn, is the date on which the enforcement authority is notified that the payment or purported payment has been cancelled or withdrawn;
 - (d) in any other case is the date on which the relevant penalty charge notice was served under regulation 5.
 
-### 13. Charge certificates
+### 13. Charge certificates[^c-040737120489c1188b754a58d105e808]
 
 (1) Where a notice to owner is served on any person and the penalty charge to which it relates is not paid before the end of the relevant period, the authority serving the notice may serve on that person a statement (a “charge certificate”) to the effect that the penalty charge in question is increased by the amount of the applicable surcharge.
 
@@ -282,11 +286,11 @@ the enforcement authority concerned may serve a notice (“a notice to owner”)
 - (a) references to a “notice to owner” include a regulation 6 penalty charge notice; and
 - (b) “notice of rejection” has the meaning given by regulation 2 of the Representations and Appeals Regulations.
 
-### 14. Enforcement of charge certificate
+### 14. Enforcement of charge certificate[^c-45efcbe30b85aef0e3549bb552979ec6]
 
 Where a charge certificate has been served on any person and the increased penalty charge provided for in the certificate is not paid before the end of the period of 14 days beginning with the date on which the certificate is served, the enforcement authority may, if a county court so orders, recover the increased charge as if it were payable under a county court order.
 
-### 15. Invalid notices
+### 15. Invalid notices[^c-45d388c7326fe5486cacb2b83e415588]
 
 (1) This regulation applies where—
 
@@ -342,7 +346,7 @@ Date 6th March 2008
 
 Regulation 4
 
-### 1. Contents of a penalty charge notice served under regulation 5
+### 1. Contents of a penalty charge notice served under regulation 5[^c-9109a6e6a61934a6e59a2c782b826e0c]
 
 A penalty charge notice served under regulation 5 must, in addition to the matters required to be included in it by regulation 3(2) of the Representations and Appeals Regulations, state—
 
@@ -361,7 +365,7 @@ A penalty charge notice served under regulation 5 must, in addition to the matte
   - (i) those representations will be considered;
   - (ii) but that, if a notice to owner is served notwithstanding those representations, representations against the penalty charge must be made in the form and manner and at the time specified in the notice to owner.
 
-### 2. Contents of a regulation 6 penalty charge
+### 2. Contents of a regulation 6 penalty charge[^c-ad341b631f922dd9548115894f4920d1]
 
 A regulation 6 penalty charge notice, in addition to the matters required to be included in it by regulation 3(4) of the Representations and Appeals Regulations, must state—
 
@@ -380,7 +384,7 @@ A regulation 6 penalty charge notice, in addition to the matters required to be 
   - (ii) that it is being so served, because a civil enforcement officer attempted to serve a penalty charge notice by affixing it to the vehicle or giving it to the person in charge of the vehicle but was prevented from doing so by some person; or
   - (iii) that it is being so served because a civil enforcement officer had begun to prepare a penalty charge notice in accordance with regulation 5, but the vehicle was driven away from the place in which it was stationary before the civil enforcement officer had finished preparing the penalty charge notice or had served it in accordance with regulation 5.
 
-**3.** In paragraph 2 for the purposes of subparagraph (e) the “applicable period” is—
+**3.**[^c-32bbfecc83ff40734f9934cc06a20246] In paragraph 2 for the purposes of subparagraph (e) the “applicable period” is—
 
 - (a) in the case of a penalty charge notice served by virtue of regulation 6(1)(a) (on the basis of a record produced by an approved device), 21 days beginning with the date on which the notice is to be taken to have been served;
 - (b) in any other case, 14 days beginning with that date.
@@ -405,6 +409,10 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00001]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
+[^c-4f006a0d2889ff29bf34e024f5646013]: Commencement: Reg. 1 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-f6782ff243e172f98268229b927f400e]: Commencement: Reg. 2 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2008 / 620 (W69)](https://www.legislation.gov.uk/wsi/2008/620).
 
 [^f00003]: Footnote: [S.I 2008/ 614 (W66)](https://www.legislation.gov.uk/wsi/2008/614).
@@ -413,12 +421,44 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00005]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
+[^c-81cb954acd09e8d8c9d036ac46c334bf]: Commencement: Reg. 3 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
 [^f00006]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c-6ef366f5539981ff73fdcec2033424e8]: Commencement: Reg. 4 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-5772f24196db89127c3cde001fad7c3b]: Commencement: Reg. 5 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-c3537e0600df4b5a11f6f87fb73ca5a0]: Commencement: Reg. 6 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-9877c7690a7bc1086696fb0f8e132bfd]: Commencement: Reg. 7 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-d9f07afba4a8717bdc6c3d8049971152]: Commencement: Reg. 8 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
 
 [^f00007]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00008]: Footnote: Section 73 was applied with modifications to permitted and special parking areas outside London by individual orders designating such areas under Schedule 3 to the Road Traffic Act 1991.
 
+[^c-c969c730af3270d1b85590bb6341e2e5]: Commencement: Reg. 9 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
 [^f00009]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
 
+[^c-41ea5b78725c4cbc10816a4f8891225a]: Commencement: Reg. 10 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-c9bd8e96c96ec13c53cacfe51b8ed4e5]: Commencement: Reg. 11 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-d450f1c44b78371f8771647f8f61789b]: Commencement: Reg. 12 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-040737120489c1188b754a58d105e808]: Commencement: Reg. 13 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-45efcbe30b85aef0e3549bb552979ec6]: Commencement: Reg. 14 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-45d388c7326fe5486cacb2b83e415588]: Commencement: Reg. 15 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
 [^f00010]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132), to which there are amendments not relevant to these Regulations.
+
+[^c-9109a6e6a61934a6e59a2c782b826e0c]: Commencement: Sch. para. 1 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-ad341b631f922dd9548115894f4920d1]: Commencement: Sch. para. 2 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)
+
+[^c-32bbfecc83ff40734f9934cc06a20246]: Commencement: Sch. para. 3 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/609/regulation/1/1)

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 29
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '29'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 29
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 29. Admission agreement funds
+## 29. Admission agreement funds[^c-263a9e96cbf2e9c059abde2f7c189a16]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) An administering authority which has made an admission agreement may establish a further pension fund (an “admission agreement fund”) in addition to the fund maintained under regulation 26 (“the main fund”).
 
@@ -32,3 +38,7 @@ summary: ''
 (6) The transfer statement must specify whether, in the actuary’s opinion, there is a need for further assets to be transferred from the main fund to the admission agreement fund and, if so, their value.
 
 (7) Where the transfer statement specifies that assets of a specified value need to be transferred, the administering authority must arrange for assets of that value to be transferred as soon as is reasonably practicable.
+
+## Annotations
+
+[^c-263a9e96cbf2e9c059abde2f7c189a16]: Commencement: Reg. 29 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

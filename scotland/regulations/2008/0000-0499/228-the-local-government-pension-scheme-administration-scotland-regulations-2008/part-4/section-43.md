@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 43
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '43'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/43
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 43
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 43. Permanent reductions in pay: certificates of protection of pension benefits
+## 43. Permanent reductions in pay: certificates of protection of pension benefits[^c-36c251a4faa46aa18b52a327e7a75fbb]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Where a certificate has been issued as respects a member’s pay under paragraph (3) or (5) and the date of reduction or, as the case may be, restriction specified in the certificate is not more than 10 years before the date on which the member ceases to be an active member, that member may elect that his or her final pay period should be–
 
@@ -50,3 +56,7 @@ the member is entitled to be issued with a certificate to that effect by the emp
 (9) An election under this regulation by a member must be made by notice in writing given to the appropriate administering authority before the expiry of the period of one month beginning with the date on which the member is notified of his or her entitlement to a benefit.
 
 (10) Where a member has died without having made an election under this regulation, the appropriate administering authority may make an election on the member’s behalf (whether or not the period within which the member could have elected has expired).
+
+## Annotations
+
+[^c-36c251a4faa46aa18b52a327e7a75fbb]: Commencement: Reg. 43 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

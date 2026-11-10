@@ -2,8 +2,8 @@
 title: Data (Use and Access) Act 2025, section 61
 act: Data (Use and Access) Act 2025
 section: '61'
-status: not-yet-in-force
-text_date: '2026-09-30'
+status: revised
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2025/18/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Data (Use and Access) Act 2025, section 61
 
-> This provision is not yet in force.
+> Text as at 2026-11-09.
 >
 > Extent: England, Wales.
 
@@ -20,11 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-**Not yet in force.**
+(1)[^c-5e05e5651c372244a2f1e90a60118a97] The Births and Deaths Registration Act 1953 is amended as follows.
 
-(1) The Births and Deaths Registration Act 1953 is amended as follows.
-
-(2) For section 25 (provision of registers, etc, by Registrar General) substitute—
+(2)[^c-5e05e5651c372244a2f1e90a60118a97] For section 25 (provision of registers, etc, by Registrar General) substitute—
 
 > **25. Form in which registers are to be kept, etc**
 >
@@ -44,7 +42,7 @@ summary: ''
 >
 > (5) The Registrar General must also provide the forms required for the purposes of this Act for making certified copies of entries in registers.
 
-(3) Omit the following provisions—
+(3)[^c-15b26ee8c0764e16b7afc85aef8bd256] Omit the following provisions—
 
 - (a) section 26 (quarterly returns to be made by registrar to superintendent registrar);
 - (b) section 27 (quarterly returns by superintendent registrar to Registrar General);
@@ -53,3 +51,7 @@ summary: ''
 ## Annotations
 
 [^c-dff5978ee04adebd0e01dbbecb6ce560]: Commencement: S. 61 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+
+[^c-5e05e5651c372244a2f1e90a60118a97]: Commencement: [S. 61(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/61/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/61/2) in force at 9.11.2026 by [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/a)
+
+[^c-15b26ee8c0764e16b7afc85aef8bd256]: Commencement: [S. 61(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/61/3) in force at 9.11.2026 at 12.01 a.m. by [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/2)

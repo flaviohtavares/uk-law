@@ -6,20 +6,16 @@ Laws in force under the legislation.gov.uk subject heading **CLERK OF THE CROWN 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Great Seal (Offices) Act 1874](../uk-parliament/acts/public/vict-37-38/81-great-seal-offices-act-1874.md) — 7 regulations on this topic made under it
 - [Crown Office Act 1877](../uk-parliament/acts/public/vict-40-41/41-crown-office-act-1877.md) — 6 regulations on this topic made under it
+- [Great Seal (Offices) Act 1874](../uk-parliament/acts/public/vict-37-38/81-great-seal-offices-act-1874.md) — 6 regulations on this topic made under it
 
 ## Regulations
 
-13 in force.
+12 in force.
 
 **2013**
 
 - [The Crown Office Fees Order 2013](../uk-parliament/regulations/2013/0500-0999/986-the-crown-office-fees-order-2013.md) *(as originally made)*
-
-**2008**
-
-- [The Crown Office Fees Order 2008](../uk-parliament/regulations/2008/1500-1999/1977-the-crown-office-fees-order-2008.md) *(changes pending)*
 
 **2003**
 

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 10
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '10'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 10. Joining the Scheme
+## 10. Joining the Scheme[^c-9e58a17b90a4166cfda59e169d4d3d1a]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) A person who is eligible to be an active member of the Scheme on the day the employment begins becomes an active member on that day unless the person notifies his or her employer in writing before his or her employment begins that he or she does not wish to become a member on that date.
 
@@ -29,3 +35,7 @@ summary: ''
 (6) A former active member who is eligible for membership may reapply for membership of the Scheme and becomes an active member on the first day of the first payment period following the application.
 
 (7) In paragraphs (2), (4) and (6), regulation 11(5) (ending of membership) and regulation 20(7) (payment of additional regular contributions), a payment period is a period of service to which the employee’s wages or salary payment relate.
+
+## Annotations
+
+[^c-9e58a17b90a4166cfda59e169d4d3d1a]: Commencement: Reg. 10 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

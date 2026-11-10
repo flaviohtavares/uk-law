@@ -6,14 +6,14 @@ Laws in force under the legislation.gov.uk subject heading **LEGAL AID AND ADVIC
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Legal Aid (Scotland) Act 1986](../uk-parliament/acts/public/1986/47-legal-aid-scotland-act-1986/README.md) *(changes pending)* — 352 regulations on this topic made under it
+- [Legal Aid (Scotland) Act 1986](../uk-parliament/acts/public/1986/47-legal-aid-scotland-act-1986/README.md) *(changes pending)* — 351 regulations on this topic made under it
 - [Legal Aid Act 1988](../uk-parliament/acts/public/1988/34-legal-aid-act-1988/README.md) *(changes pending)* — 190 regulations on this topic made under it
 - [Legal Aid, Sentencing and Punishment of Offenders Act 2012](../uk-parliament/acts/public/2012/10-legal-aid-sentencing-and-punishment-of-offenders-act-2012/README.md) *(changes pending)* — 126 regulations on this topic made under it
 - [Legal Aid, Advice and Assistance (Northern Ireland) Order 1981](../northern-ireland/orders-in-council/1981/228-legal-aid-advice-and-assistance-northern-ireland-order-1981.md) *(changes pending)* — 88 regulations on this topic made under it
 
 ## Regulations
 
-803 in force.
+802 in force.
 
 **2026**
 
@@ -315,7 +315,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Advice and Assistance (Financial Conditions) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/137-the-advice-and-assistance-financial-conditions-scotland-regulations-2008.md) *(as originally made)*
 - [The Advice and Assistance (Limits, Conditions and Representation) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/251-the-advice-and-assistance-limits-conditions-and-representation-scotland-regulati.md) *(as originally made)*
 - [The Assistance by Way of Representation (District Court Financial Limit) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/416-the-assistance-by-way-of-representation-district-court-financial-limit-scotland.md) *(as originally made)*
 - [The Criminal Legal Assistance (Fees and Information etc.) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/240-the-criminal-legal-assistance-fees-and-information-etc-scotland-regulations-2008.md) *(as originally made)*

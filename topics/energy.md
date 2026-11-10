@@ -217,7 +217,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Electricity (Dispute Resolution) Regulations (Northern Ireland) 2013](../northern-ireland/regulations/2013/0000-0499/94-the-electricity-dispute-resolution-regulations-northern-ireland-2013.md) *(as originally made)*
 - [The Energy Act 2011 (Commencement No 2) Order 2013](../uk-parliament/regulations/2013/0000-0499/125-the-energy-act-2011-commencement-no-2-order-2013.md) *(as originally made)*
-- [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013](../scotland/regulations/2013/0000-0499/12-the-energy-performance-of-buildings-scotland-amendment-regulations-2013.md) *(changes pending)*
+- [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013](../scotland/regulations/2013/0000-0499/12-the-energy-performance-of-buildings-scotland-amendment-regulations-2013.md)
 - [The Renewable Transport Fuel Obligations (Amendment) Order 2013](../uk-parliament/regulations/2013/0500-0999/816-the-renewable-transport-fuel-obligations-amendment-order-2013.md) *(as originally made)*
 
 **2012**

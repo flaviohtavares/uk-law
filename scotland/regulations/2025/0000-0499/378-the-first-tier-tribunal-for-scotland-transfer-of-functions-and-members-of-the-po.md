@@ -3,16 +3,16 @@ title: The First-tier Tribunal for Scotland (Transfer of Functions and Members o
 id: ssi/2025/378
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2025-11-26'
-text_date: null
-extent: null
+text_date: '2025-11-26'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2025/378
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2025/378/pdfs/ssipn_20250378_en_001.pdf
 - http://www.legislation.gov.uk/ssi/2025/378/pdfs/ssi_20250378_en.pdf
-- http://www.legislation.gov.uk/ssi/2025/378/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/ssi/2025/378/data.pdf
+pending_changes: 16
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (16).** Text as at 2025-11-26. See https://www.legislation.gov.uk/changes/affected/ssi/2025/378
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2025 No. 378
 
@@ -42,7 +48,7 @@ In accordance with section 11(1)(a) and (b) of that Act, the Scottish Ministers 
 
 In accordance with section 79(2)(a) and (b) of that Act[^f00002], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-4e9d6e3ec250817a8306d58c105b383b]
 
 (1) These Regulations may be cited as the First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 and come into force on 29 December 2025.
 
@@ -54,7 +60,7 @@ In accordance with section 79(2)(a) and (b) of that Act[^f00002], a draft of thi
 - “**First-tier Tribunal**” means the First-tier Tribunal for Scotland,
 - “**Police Appeals Tribunal**” means a tribunal constituted under paragraph 1 of schedule 3 of the 2012 Act.
 
-## 2. Transfer of functions of the Police Appeals Tribunal to the First-tier Tribunal and abolition of the Police Appeals Tribunal
+## 2. Transfer of functions of the Police Appeals Tribunal to the First-tier Tribunal and abolition of the Police Appeals Tribunal[^c-75b611ef245eae171329d35f464baa58]
 
 (1) The functions of the Police Appeals Tribunal are transferred to the First-tier Tribunal with allocation to the First-tier Tribunal General Regulatory Chamber.
 
@@ -65,7 +71,7 @@ In accordance with section 79(2)(a) and (b) of that Act[^f00002], a draft of thi
 
 (3) In paragraph (1), “**functions of the Police Appeals Tribunal**” means the functions of determining an appeal to the tribunal against any decision to dismiss or demote a constable in rank, taken in pursuance of regulations made under section 48 of the 2012 Act.
 
-## 3. Transfer of members of the Police Appeals Tribunal to the First-tier Tribunal
+## 3. Transfer of members of the Police Appeals Tribunal to the First-tier Tribunal[^c-2f258aee2966e85fe9b2c7842d65ca1c]
 
 (1) Subject to paragraphs (2) and (3), the members of the Police Appeals Tribunal immediately before 29 December 2025 are transferred to and become legal members of the First-tier Tribunal.
 
@@ -75,11 +81,11 @@ In accordance with section 79(2)(a) and (b) of that Act[^f00002], a draft of thi
 
 (4) In paragraph (3), “**member of the Police Appeals Tribunal**” means a member appointed to the tribunal under paragraph 1(2)(b) of schedule 3 of the 2012 Act from the panel appointed under paragraph 1(2)(a) of that schedule.
 
-## 4. Transitional and savings provisions
+## 4. Transitional and savings provisions[^c-515a3a2d55124f2a866cbe685de2f0e5]
 
 Schedule 1 of these Regulations contains transitional and savings provisions.
 
-## 5. Consequential amendments, repeals and revocations
+## 5. Consequential amendments, repeals and revocations[^c-c4fcd10833bfed4c0065fe4940058e39]
 
 Schedule 2 of these Regulations contains consequential provisions.
 
@@ -97,17 +103,17 @@ Edinburgh
 
 Regulation 4
 
-### 1. References, claims and proceedings in progress before the Police Appeals Tribunal immediately before 29 December 2025 to transfer to the First-tier Tribunal
+### 1. References, claims and proceedings in progress before the Police Appeals Tribunal immediately before 29 December 2025 to transfer to the First-tier Tribunal[^c-2adc7ae467bc88c9ad5fce4ab5080d2d]
 
 Any appeal to the Police Appeals Tribunal in progress immediately before 29 December 2025 but not yet determined and any other proceedings before the Police Appeals Tribunal in progress immediately before that date are to be transferred to and completed by the First-tier Tribunal.
 
-**2.** So far as possible, an appeal or proceeding referred to in paragraph 1 is to be heard and determined before the First-tier Tribunal with the same persons as were prior to 29 December 2025 hearing the case as members of the Police Appeals Tribunal.
+**2.**[^c-241cac598d859852cfb551298fdbb20b] So far as possible, an appeal or proceeding referred to in paragraph 1 is to be heard and determined before the First-tier Tribunal with the same persons as were prior to 29 December 2025 hearing the case as members of the Police Appeals Tribunal.
 
-### 3. Decisions, directions and orders of the Police Appeals Tribunal to continue in force
+### 3. Decisions, directions and orders of the Police Appeals Tribunal to continue in force[^c-1912269884f1f603c7fc49d920417b10]
 
 Any decision (whether or not called a decision), direction or order given or made in or in respect of an appeal to, and proceedings before, the Police Appeals Tribunal in force immediately before 29 December 2025 remains in force on and after that date as if it were a decision, direction or order of the First-tier Tribunal.
 
-### 4. Time limits in respect of appeals to, and proceedings before, the Police Appeals Tribunal to carry over to the First-tier Tribunal
+### 4. Time limits in respect of appeals to, and proceedings before, the Police Appeals Tribunal to carry over to the First-tier Tribunal[^c-09067ffbc80cd9fcce41417f41c17673]
 
 Any time limit which has started to run before 29<sup></sup>December 2025 in respect of appeals to, and proceedings before, the Police Appeals Tribunal (and which has not expired) is to continue to apply where appeals and proceedings are transferred to the First-tier Tribunal.
 
@@ -115,7 +121,7 @@ Any time limit which has started to run before 29<sup></sup>December 2025 in res
 
 Regulation 5
 
-### 1. Amendment of the Police and Fire Reform (Scotland) Act 2012
+### 1. Amendment of the Police and Fire Reform (Scotland) Act 2012[^c-35ae44fc83d905c29a4234c171d9b20a]
 
 (1) The 2012 Act[^f00004] is amended as follows.
 
@@ -151,29 +157,29 @@ Regulation 5
 
 (7) Schedule 3 (police appeals tribunals) is repealed.
 
-### 2. Amendment of the Police Service of Scotland (Senior Officers) (Conduct) Regulations 2013
+### 2. Amendment of the Police Service of Scotland (Senior Officers) (Conduct) Regulations 2013[^c-95562109f0d105f41006dcbac1af269a]
 
 In regulation 26(10) (appeal procedure) of the Police Service of Scotland (Senior Officers) (Conduct) Regulations 2013[^f00005], for “a police appeals tribunal” substitute “the First-tier Tribunal”.
 
-### 3. Revocation of the Police Appeals Tribunals Rules
+### 3. Revocation of the Police Appeals Tribunals Rules[^c-f9093f33b2a52cf9f407686de245ecd2]
 
 The following Rules are revoked—
 
 - (a) the Police Appeals Tribunals (Scotland) Rules 2013[^f00006], and
 - (b) the Police Appeals Tribunals (Scotland) Amendment Rules 2020[^f00007].
 
-### 4. Amendment and revocation of the Police Service of Scotland (Senior Officers) (Performance) Regulations 2016
+### 4. Amendment and revocation of the Police Service of Scotland (Senior Officers) (Performance) Regulations 2016[^c-136a957a5c51d7b4f228d5b53bc02a6f]
 
 The Police Service of Scotland (Senior Officers) (Performance) Regulations 2016[^f00008] are amended as follows—
 
 - (a) in regulation 35(4) (finding), for “a police appeals tribunal” substitute “the First-tier Tribunal”,
 - (b) regulation 40 (police appeals tribunal rules 2013) is revoked.
 
-### 5. Amendment of the Police Service of Scotland (Conduct) Regulations 2014
+### 5. Amendment of the Police Service of Scotland (Conduct) Regulations 2014[^c-b13c03eadec19ef88b74da160f8ce761]
 
 In regulation 26(5) (outcome of appeal) of the Police Service of Scotland (Conduct) Regulations 2014[^f00009], for “a police appeals tribunal” substitute “the First-tier Tribunal”.
 
-### 6. Amendment and revocation of the Police Service of Scotland (Performance) Regulations 2014
+### 6. Amendment and revocation of the Police Service of Scotland (Performance) Regulations 2014[^c-a49e2fbe4feccf33db7d502a2bd11ea5]
 
 The Police Service of Scotland (Performance) Regulations 2014[^f00010] are amended as follows—
 
@@ -194,18 +200,48 @@ These Regulations make provision for the transfer to the First-tier Tribunal for
 
 [^f00002]: Footnote: The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
+[^c-4e9d6e3ec250817a8306d58c105b383b]: Commencement: Reg. 1 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
 [^f00003]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8) (“**the 2012 Act**”) as relevantly amended by the Police (Ethics, Conduct and Scrutiny) (Scotland) Act [2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5) (“**the 2025 Act**”).
+
+[^c-75b611ef245eae171329d35f464baa58]: Commencement: Reg. 2 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
+[^c-2f258aee2966e85fe9b2c7842d65ca1c]: Commencement: Reg. 3 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
+[^c-515a3a2d55124f2a866cbe685de2f0e5]: Commencement: Reg. 4 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
+[^c-c4fcd10833bfed4c0065fe4940058e39]: Commencement: Reg. 5 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
+[^c-2adc7ae467bc88c9ad5fce4ab5080d2d]: Commencement: Sch. 1 para. 1 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
+[^c-241cac598d859852cfb551298fdbb20b]: Commencement: Sch. 1 para. 2 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
+[^c-1912269884f1f603c7fc49d920417b10]: Commencement: Sch. 1 para. 3 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
+[^c-09067ffbc80cd9fcce41417f41c17673]: Commencement: Sch. 1 para. 4 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
+[^c-35ae44fc83d905c29a4234c171d9b20a]: Commencement: Sch. 2 para. 1 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
 
 [^f00004]: Footnote: The 2012 Act is amended by sections 1 to 9 and prospectively amended by section 10 of the 2025 Act.
 
+[^c-95562109f0d105f41006dcbac1af269a]: Commencement: Sch. 2 para. 2 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
 [^f00005]: Footnote: [S.S.I. 2013/62](https://www.legislation.gov.uk/ssi/2013/62) as amended by section 3(4) of the 2025 Act, [S.S.I. 2014/68](https://www.legislation.gov.uk/ssi/2014/68) and [S.S.I. 2020/453](https://www.legislation.gov.uk/ssi/2020/453).
+
+[^c-f9093f33b2a52cf9f407686de245ecd2]: Commencement: Sch. 2 para. 3 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
 
 [^f00006]: Footnote: [S.S.I. 2013/63](https://www.legislation.gov.uk/ssi/2013/63) as amended by [S.S.I. 2016/51](https://www.legislation.gov.uk/ssi/2016/51) and [S.S.I. 2020/454](https://www.legislation.gov.uk/ssi/2020/454).
 
 [^f00007]: Footnote: [S.S.I. 2020/454](https://www.legislation.gov.uk/ssi/2020/454).
 
+[^c-136a957a5c51d7b4f228d5b53bc02a6f]: Commencement: Sch. 2 para. 4 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
 [^f00008]: Footnote: [S.S.I. 2016/51](https://www.legislation.gov.uk/ssi/2016/51).
 
+[^c-b13c03eadec19ef88b74da160f8ce761]: Commencement: Sch. 2 para. 5 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
+
 [^f00009]: Footnote: [S.S.I. 2014/68](https://www.legislation.gov.uk/ssi/2014/68) as amended by section 3(5) of the 2025 Act.
+
+[^c-a49e2fbe4feccf33db7d502a2bd11ea5]: Commencement: Sch. 2 para. 6 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1)
 
 [^f00010]: Footnote: [S.S.I. 2014/67](https://www.legislation.gov.uk/ssi/2014/67).

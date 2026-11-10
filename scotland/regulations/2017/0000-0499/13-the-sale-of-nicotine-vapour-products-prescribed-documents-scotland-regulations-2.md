@@ -3,16 +3,16 @@ title: The Sale of Nicotine Vapour Products (Prescribed Documents) (Scotland) Re
 id: ssi/2017/13
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2017-01-19'
-text_date: '2020-12-31'
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2017/13
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2017/13/pdfs/ssipn_20170013_en.pdf
 - http://www.legislation.gov.uk/ssi/2017/13/pdfs/ssi_20170013_en.pdf
 - http://www.legislation.gov.uk/ssi/2017/13/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Sale of Nicotine Vapour Products (Prescribed Documents) (Scotland) Regulations 2017
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/ssi/2017/13
+> Text as at 2026-10-29.
 >
 > Extent: Scotland.
 
@@ -50,7 +50,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 These Regulations may be cited as the Sale of Nicotine Vapour Products (Prescribed Documents) (Scotland) Regulations 2017 and come into force on 1st April 2017.
 
-## 2. Sale of nicotine vapour products to persons under 18: prescribed documents
+## 2. Sale of vaping and nicotine products to persons under 18: prescribed documents[^c-6e8d2423652f4fdf64dcdfb4ffd415b9]
 
 The documents and descriptions of documents prescribed [^c23243091] for the purpose of section 4A(4)(c) of the Tobacco and Primary Medical Services (Scotland) Act 2010 (documents establishing a person's age) are—
 
@@ -76,6 +76,8 @@ It is an offence to sell a nicotine vapour product to a person under the age of 
 ## Annotations
 
 [^c23243081]: Marginal citation: [2010 asp 3](https://www.legislation.gov.uk/asp/2010/3). Section 4A was inserted by section 2(1) of the [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14).
+
+[^c-6e8d2423652f4fdf64dcdfb4ffd415b9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/13/regulation/2) heading substituted (29.10.2026) by [The Tobacco and Vapes Act 2026 (Consequential, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/213)](https://www.legislation.gov.uk/ssi/2026/213), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/213/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2026/213/regulation/4)
 
 [^c23243091]: Marginal citation: “Prescribed” is defined in section 35 of the Tobacco and Primary Medical Services (Scotland) Act 2010 to mean prescribed in regulations made by the Scottish Ministers.
 

@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 76
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '76'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/76
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 76
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 76. Childcare grant - qualification and basic amount
+## 76. Childcare grant - qualification and basic amount[^c-6d6f34fe44cc53bb783f49ce0569efc6]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student (“**A**”) qualifies for a childcare grant in connection with A’s attendance on a designated course in accordance with this regulation.
 
@@ -68,6 +74,8 @@ and the week falls after the last day of the course.
 (14) In this regulation, the terms “entitlement period” and “valid declaration of eligibility” have the meanings they are given in the Childcare Payments Act 2014 and regulations made under that Act.
 
 ## Annotations
+
+[^c-6d6f34fe44cc53bb783f49ce0569efc6]: Commencement: Reg. 76 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00039]: Footnote: [2014 c. 6](https://www.legislation.gov.uk/ukpga/2014/6).
 

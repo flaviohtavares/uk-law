@@ -5,14 +5,14 @@ type: ScottishAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2025-11-06'
-text_date: '2026-10-06'
+text_date: '2026-11-09'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2025/13
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2025/13/pdfs/aspen_20250013_en.pdf
 - http://www.legislation.gov.uk/asp/2025/13/pdfs/asp_20250013_en.pdf
 - http://www.legislation.gov.uk/asp/2025/13/data.pdf
-pending_changes: 15
+pending_changes: 13
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Housing (Scotland) Act 2025
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2026-10-06. See https://www.legislation.gov.uk/changes/affected/asp/2025/13
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/asp/2025/13
 >
 > Extent: Scotland.
 
@@ -354,8 +354,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 #### New homes ombudsman
 
 *Extent: S*
-
-**Not yet in force.**
 
 - [Section 74 — Disclosure of information to new homes ombudsman](part-6/section-74.md)
 

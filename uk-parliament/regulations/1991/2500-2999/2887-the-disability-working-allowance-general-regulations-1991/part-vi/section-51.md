@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 51
 act: The Disability Working Allowance (General) Regulations 1991
 section: '51'
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/51
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 51
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -39,8 +39,8 @@ summary: ''
 
 (1AA)[^c-d3473233007f40735c9645a54c6812f4] The maximum amount to which paragraph (1)(b)[^c-0c099976054f5402b9766b61493fe56c] refers shall be—
 
-- (a)[^c-9e71a12a9d39ac52458ec8e5c9c3a45b] where the claimant’s family includes only one child in respect of whom relevant childcare charges are paid, £100.00 per week;
-- (b)[^c-b1ccd73fbb4f8ec98971fae0986bf232] where the claimant’s family includes more than one child in respect of whom relevant childcare charges are paid, £150.00 per week.
+- (a)[^c-9e71a12a9d39ac52458ec8e5c9c3a45b] where the claimant’s family includes only one child in respect of whom relevant childcare charges are paid, £135[^c-7eb5b690d477ca1a231a2d4df006f2d7] per week;
+- (b)[^c-b1ccd73fbb4f8ec98971fae0986bf232] where the claimant’s family includes more than one child in respect of whom relevant childcare charges are paid, £200[^c-3c10960959c9dbf517497bbdd9aca5db] per week.
 
 (1A)[^c-a3530f66a79daf4756c75f87b808d3b8] This paragraph applies to a child or young person[^c-23550542af755e84a2ae7d77faa42bed]...—
 
@@ -78,7 +78,11 @@ summary: ''
 
 [^c-9e71a12a9d39ac52458ec8e5c9c3a45b]: Modification: [Reg. 51(1AA)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/a): sum confirmed (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2001 (S.I. 2001/1141)](https://www.legislation.gov.uk/uksi/2001/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/1141/article/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2001/1141/article/4/a/i)
 
+[^c-7eb5b690d477ca1a231a2d4df006f2d7]: Textual amendment: Word in [reg. 51(1AA)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 5) Regulations 2001 (S.I. 2001/1351)](https://www.legislation.gov.uk/uksi/2001/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1351/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2001/1351/regulation/6/a)
+
 [^c-b1ccd73fbb4f8ec98971fae0986bf232]: Modification: [Reg. 51(1AA)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/b): sum confirmed (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2001 (S.I. 2001/1141)](https://www.legislation.gov.uk/uksi/2001/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/1141/article/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2001/1141/article/4/a/ii)
+
+[^c-3c10960959c9dbf517497bbdd9aca5db]: Textual amendment: Word in [reg. 51(1AA)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1AA/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 5) Regulations 2001 (S.I. 2001/1351)](https://www.legislation.gov.uk/uksi/2001/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1351/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2001/1351/regulation/6/b)
 
 [^c-a3530f66a79daf4756c75f87b808d3b8]: Textual amendment: [Reg. 51(1A)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1A)[(1B)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51/1B) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Disability Working Allowance and Income Support (General) Amendment Regulations 1995 (S.I. 1995/482)](https://www.legislation.gov.uk/uksi/1995/482), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/482/regulation/1/1/a), [3(3)](https://www.legislation.gov.uk/uksi/1995/482/regulation/3/3)
 

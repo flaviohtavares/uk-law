@@ -6,20 +6,20 @@ Laws in force under the legislation.gov.uk subject heading **HEALTH AND PERSONAL
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Health and Personal Social Services (Northern Ireland) Order 1972](../northern-ireland/orders-in-council/1972/1265-health-and-personal-social-services-northern-ireland-order-1972/README.md) *(changes pending)* — 184 regulations on this topic made under it
+- [Health and Personal Social Services (Northern Ireland) Order 1972](../northern-ireland/orders-in-council/1972/1265-health-and-personal-social-services-northern-ireland-order-1972/README.md) *(changes pending)* — 183 regulations on this topic made under it
 - [Superannuation (Northern Ireland) Order 1972](../northern-ireland/orders-in-council/1972/1073-superannuation-northern-ireland-order-1972.md) *(changes pending)* — 51 regulations on this topic made under it
 - [The Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003](../northern-ireland/orders-in-council/2003/431-the-health-and-personal-social-services-quality-improvement-and-regulation-north.md) *(changes pending)* — 37 regulations on this topic made under it
-- [The Health and Personal Social Services (Northern Ireland) Order 1991](../northern-ireland/orders-in-council/1991/194-the-health-and-personal-social-services-northern-ireland-order-1991.md) *(changes pending)* — 33 regulations on this topic made under it
+- [The Health and Personal Social Services (Northern Ireland) Order 1991](../northern-ireland/orders-in-council/1991/194-the-health-and-personal-social-services-northern-ireland-order-1991.md) *(changes pending)* — 32 regulations on this topic made under it
 - [The Health Services (Primary Care) (Northern Ireland) Order 1997](../northern-ireland/orders-in-council/1997/1177-the-health-services-primary-care-northern-ireland-order-1997.md) — 12 regulations on this topic made under it
-- [The Health and Medicines (Northern Ireland) Order 1988](../northern-ireland/orders-in-council/1988/2249-the-health-and-medicines-northern-ireland-order-1988.md) — 6 regulations on this topic made under it
 - [The Adoption (Northern Ireland) Order 1987](../northern-ireland/orders-in-council/1987/2203-the-adoption-northern-ireland-order-1987.md) *(changes pending)* — 5 regulations on this topic made under it
+- [The Health and Medicines (Northern Ireland) Order 1988](../northern-ireland/orders-in-council/1988/2249-the-health-and-medicines-northern-ireland-order-1988.md) — 5 regulations on this topic made under it
 - [The Health and Personal Social Services (Northern Ireland) Order 1994](../northern-ireland/orders-in-council/1994/429-the-health-and-personal-social-services-northern-ireland-order-1994.md) *(changes pending)* — 4 regulations on this topic made under it
 - [The Primary Medical Services (Northern Ireland) Order 2004](../northern-ireland/orders-in-council/2004/311-the-primary-medical-services-northern-ireland-order-2004.md) — 4 regulations on this topic made under it
 - [The Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003](../northern-ireland/orders-in-council/2003/417-the-protection-of-children-and-vulnerable-adults-northern-ireland-order-2003.md) — 4 regulations on this topic made under it
 
 ## Regulations
 
-405 in force.
+403 in force.
 
 **2026**
 
@@ -497,7 +497,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [General Dental Services (Amendment) Regulation z (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/114-general-dental-services-amendment-regulation-z-northern-ireland-1996.md) *(as originally made)*
 - [General Medical and Pharmaceutical Services (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/136-general-medical-and-pharmaceutical-services-amendment-regulations-northern-irela.md) *(as originally made)*
 - [General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/416-general-ophthalmic-services-amendment-no-2-regulations-northern-ireland-1996.md) *(as originally made)*
-- [General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/135-general-ophthalmic-services-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
 - [Health and Personal Social Services (Amendment) (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/123-health-and-personal-social-services-amendment-1995-order-commencement-no-2-order.md) *(as originally made)*
 - [Health and Personal Social Services (Disciplinary Procedures) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/137-health-and-personal-social-services-disciplinary-procedures-regulations-northern.md) *(changes pending)*
 - [Optical Charges and Payments (Amendment No. 2) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/424-optical-charges-and-payments-amendment-no-2-regulations-northern-ireland-1996.md) *(as originally made)*
@@ -511,7 +510,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Health and Social Services Trusts (Originating Capital Debt) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/160-the-health-and-social-services-trusts-originating-capital-debt-amendment-order-n.md) *(as originally made)*
 - [The Health and Social Services Trusts (Originating Capital Debt) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/125-the-health-and-social-services-trusts-originating-capital-debt-order-northern-ir.md)
 - [The Sperrin Lakeland Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/220-the-sperrin-lakeland-health-and-social-services-trust-establishment-amendment-or.md) *(as originally made)*
-- [The Sperrin Lakeland Health and Social Services Trust (Establishment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/116-the-sperrin-lakeland-health-and-social-services-trust-establishment-order-northe.md) *(changes pending)*
 - [Travelling Expenses and Remission of Charges (Amendment No. 2) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/209-travelling-expenses-and-remission-of-charges-amendment-no-2-regulations-northern.md) *(as originally made)*
 - [Travelling Expenses and Remission of Charges (Amendment No. 3) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/425-travelling-expenses-and-remission-of-charges-amendment-no-3-regulations-northern.md) *(as originally made)*
 

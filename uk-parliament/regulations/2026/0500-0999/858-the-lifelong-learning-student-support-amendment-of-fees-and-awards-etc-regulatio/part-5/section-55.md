@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 55
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '55'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 55
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 55. Adjustment for intensity of study – concurrent study
+## 55. Adjustment for intensity of study – concurrent study[^c-76148d983600b20bbb59111a4786d131]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Where a student is entitled to a loan for living costs in respect of two designated courses and the periods of study of those courses overlap—
 
@@ -47,3 +53,7 @@ summary: ''
     - (aa) in relation to each week that the course overlaps with course A, course B or any other course for which the intensity of study has been calculated under this paragraph (“the calculated courses”);
     - (bb) based on the sum of the credits per week of the course, and the calculated courses that overlap with it in that week;
   - (ii) for the purposes of the calculation in paragraph (2)(b), WN is the number of term weeks during which the course does not overlap with any of the calculated courses.
+
+## Annotations
+
+[^c-76148d983600b20bbb59111a4786d131]: Commencement: Reg. 55 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

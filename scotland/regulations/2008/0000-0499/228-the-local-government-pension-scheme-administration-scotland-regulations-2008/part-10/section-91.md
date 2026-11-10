@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 91
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '91'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/91
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 91
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 91. Disqualification as destination for pension credit
+## 91. Disqualification as destination for pension credit[^c-9ad77fe8f7c04251e2b094f4626b58a2]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) If a pension credit derives from a pension arrangement which is approved for the purposes of Part XIV of the Income and Corporation Taxes Act 1988, an arrangement is disqualified as a destination for the credit unless–
 
@@ -41,6 +47,8 @@ summary: ''
   as the Secretary of State may prescribe by regulations made under paragraph 7(6)(b) of Schedule 5 to the 1999 Act[^f00065].
 
 ## Annotations
+
+[^c-9ad77fe8f7c04251e2b094f4626b58a2]: Commencement: Reg. 91 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00060]: Footnote: See regulation 12 of S.I. [2000/1053](https://www.legislation.gov.uk/uksi/2000/1053).
 

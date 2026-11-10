@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 89
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '89'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/89
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 89
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 89. Discharge of pension credit liability by conferring “appropriate rights” or making transfer payment to another scheme
+## 89. Discharge of pension credit liability by conferring “appropriate rights” or making transfer payment to another scheme[^c-14c3cea7caf7480b2b5d8cd503824ae5]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) The administering authority in relation to a pension credit derived from the Scheme may discharge its liability in respect of the credit by conferring appropriate rights under the Scheme on the ex-spouse or ex civil partner–
 
@@ -38,6 +44,8 @@ summary: ''
 - (b) their value, when calculated in accordance with regulations made by the Secretary of State under section 30(1) of the 1999 Act in relation to the calculation of cash equivalents[^f00056], equals the amount of the credit.
 
 ## Annotations
+
+[^c-14c3cea7caf7480b2b5d8cd503824ae5]: Commencement: Reg. 89 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00054]: Footnote: See regulation 7(1) of the Pension Sharing (Implementation and Discharge of Liability) Regulations 2000 (S.I. [2000/1053](https://www.legislation.gov.uk/uksi/2000/1053)).
 

@@ -3,16 +3,16 @@ title: The Feeding Stuffs (Scotland) Amendment Regulations 2008
 id: ssi/2008/215
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-03'
-text_date: null
-extent: null
+text_date: '2008-06-03'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/215
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/215/pdfs/ssien_20080215_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/215/pdfs/ssi_20080215_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/215/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/ssi/2008/215/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Feeding Stuffs (Scotland) Amendment Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-06-03. See https://www.legislation.gov.uk/changes/affected/ssi/2008/215
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 215
 
@@ -44,11 +50,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 There has been consultation as required by section 84(1) of the Agriculture Act 1970 with such persons or organisations appearing to represent the interests concerned and as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00002].
 
-## 1. Citation and Commencement
+## 1. Citation and Commencement[^c-a994537b5b46f4562e9b4314030002a9]
 
 These Regulations may be cited as the Feeding Stuffs (Scotland) Amendment Regulations 2008 and come into force on 30th July 2008.
 
-## 2. Amendment of the Feeding Stuffs (Scotland) Regulations 2005
+## 2. Amendment of the Feeding Stuffs (Scotland) Regulations 2005[^c-af0a55fc09a3b63fb56eedad8cf9e4ee]
 
 In Chapter A of Schedule 7 (permitted feeding stuffs intended for particular nutritional purposes and provisions relating to their use) to the Feeding Stuffs (Scotland) Regulations 2005[^f00003], for the entries relating to reduction of the risk of milk fever, substitute the entries set out in the Schedule to these Regulations.
 
@@ -62,7 +68,7 @@ Edinburgh
 
 3rd June 2008
 
-## SCHEDULE — Entries to be substituted in Chapter A of Schedule 7 to the Feeding Stuffs (Scotland) Regulations 2005
+## SCHEDULE — Entries to be substituted in Chapter A of Schedule 7 to the Feeding Stuffs (Scotland) Regulations 2005[^c-41edd33c6e5a5de376bb56e969fbc052]
 
 Regulation 2
 
@@ -92,4 +98,10 @@ A regulatory impact assessment has not been produced for this instrument, as it 
 
 [^f00002]: Footnote: O.J. No. L 31, 1.2.02, p.1, as amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4), Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (O.J. No. L 100, 7.4.06, p.3) and Commission Regulation [(EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J. No. L 60, 5.3.2008, p.17).
 
+[^c-a994537b5b46f4562e9b4314030002a9]: Commencement: Reg. 1 in force at 30.7.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/215/regulation/1)
+
+[^c-af0a55fc09a3b63fb56eedad8cf9e4ee]: Commencement: Reg. 2 in force at 30.7.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/215/regulation/1)
+
 [^f00003]: Footnote: [S.S.I. 2005/605](https://www.legislation.gov.uk/ssi/2005/605) as amended by [S.S.I. 2006/16](https://www.legislation.gov.uk/ssi/2006/16), [516](https://www.legislation.gov.uk/ssi/2006/516), [530](https://www.legislation.gov.uk/ssi/2006/530) and [578](https://www.legislation.gov.uk/ssi/2006/578) and [2007/492](https://www.legislation.gov.uk/ssi/2007/492).
+
+[^c-41edd33c6e5a5de376bb56e969fbc052]: Commencement: Sch. in force at 30.7.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/215/regulation/1)

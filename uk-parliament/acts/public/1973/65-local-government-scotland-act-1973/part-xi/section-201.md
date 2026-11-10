@@ -3,7 +3,7 @@ title: Local Government (Scotland) Act 1973, section 201
 act: Local Government (Scotland) Act 1973
 section: '201'
 status: revised-with-pending-changes
-text_date: '2025-08-01'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/ukpga/1973/65/section/201
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Local Government (Scotland) Act 1973, section 201
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
 >
 > Extent: Scotland.
 
@@ -24,7 +24,9 @@ summary: ''
 
 (2) The confirming authority in relation to byelaws made under this section shall be the Secretary of State.
 
-(3)[^c9683561] Byelaws shall not be made under this section for any purpose as respects any area if provision for that purpose as respects that area is made by, or is or may be made under, any other enactment.
+(3)[^c9683561] Subject to subsection (4),[^c-5d2c2914cca6d8d8f2ecaa5c11f61429] byelaws shall not be made under this section for any purpose as respects any area if provision for that purpose as respects that area is made by, or is or may be made under, any other enactment.
+
+(4)[^c-df733a5db6215ca9e921f783a895c150] Without limit to the generality of subsection (1), a local authority may make byelaws in connection with the prevention of wildfire (including, in particular, by prohibiting or regulating the lighting and control of a fire or any activity likely to cause a fire).
 
 ## Annotations
 
@@ -39,3 +41,7 @@ summary: ''
 [^c9683551]: Textual amendment: Words in [s. 201(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/201/1) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 92(61)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/92/61); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
 
 [^c9683561]: Modification: [S. 201(3)](https://www.legislation.gov.uk/ukpga/1973/65/section/201/3) excluded by [Civic Government (Scotland) Act 1982 (c. 45)](https://www.legislation.gov.uk/ukpga/1982/45), [s. 112(3)](https://www.legislation.gov.uk/ukpga/1982/45/section/112/3)
+
+[^c-5d2c2914cca6d8d8f2ecaa5c11f61429]: Textual amendment: Words in [s. 201(3)](https://www.legislation.gov.uk/ukpga/1973/65/section/201/3) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 49(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/49/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z4)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z4)
+
+[^c-df733a5db6215ca9e921f783a895c150]: Textual amendment: [S. 201(4)](https://www.legislation.gov.uk/ukpga/1973/65/section/201/4) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 49(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/49/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z4)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z4)

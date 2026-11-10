@@ -3,16 +3,16 @@ title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc
 id: uksi/2026/858
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-07-22'
-text_date: null
-extent: null
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/858/pdfs/uksiem_20260858_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2026/858/pdfs/uksi_20260858_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/858/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/uksi/2026/858/data.pdf
+pending_changes: 179
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (179).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2026 No. 858
 
@@ -46,6 +52,10 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ### Part 1 — General
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 1 — Citation, commencement, extent and application](part-1/section-1.md)
 - [Section 2 — Amendments to application of other subordinate legislation](part-1/section-2.md)
 - [Section 3 — Interpretation](part-1/section-3.md)
@@ -54,6 +64,10 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - [Section 6 — Recognition of initial further education teacher training courses](part-1/section-6.md)
 
 ### Part 2 — Eligibility, designation and cap on overall support
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 7 — Eligible students](part-2/section-7.md)
 - [Section 8 — Eligibility - exceptions](part-2/section-8.md)
@@ -67,27 +81,55 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ### Part 3 — Applying for support, provision of information, and loan contracts
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### Chapter 1 — Applications
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 16 — Applications for support](part-3/section-16.md)
 - [Section 17 — Time limits](part-3/section-17.md)
 
 #### Chapter 2 — Information provision
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 18 — Information](part-3/section-18.md)
 
 #### Chapter 3 — Loan contracts
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 19 — Requirement to enter into a contract for a loan](part-3/section-19.md)
 
 #### Chapter 4 — Declarations provided by academic authorities
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 20 — Declarations provided by academic authorities in respect of fee loans](part-3/section-20.md)
 - [Section 21 — Declarations provided by academic authorities in respect of loans for living costs and supplementary grants](part-3/section-21.md)
 
 ### Part 4 — Fee loans
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### Chapter 1 — Entitlement to fee loans
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 22 — Lifetime entitlement](part-4/section-22.md)
 - [Section 23 — Residual entitlement](part-4/section-23.md)
@@ -101,6 +143,10 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 #### Chapter 2 — Qualifying conditions, availability and amounts
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 31 — Qualifying conditions for a fee loan](part-4/section-31.md)
 - [Section 32 — Students who are treated as in attendance on a course](part-4/section-32.md)
 - [Section 33 — Availability of fee loans](part-4/section-33.md)
@@ -109,7 +155,15 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ### Part 5 — Loans for living costs
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### Chapter 1 — Introduction
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 36 — Elements of the loan for living costs](part-5/section-36.md)
 - [Section 37 — Meaning of “student with full entitlement”, “student with reduced entitlement” and “household income”](part-5/section-37.md)
@@ -118,11 +172,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 #### Chapter 2 — Qualifying conditions
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 40 — Qualifying conditions for a loan for living costs](part-5/section-40.md)
 - [Section 41 — Students who are treated as in attendance on a course](part-5/section-41.md)
 - [Section 42 — Students qualifying for a loan for living costs during a course year](part-5/section-42.md)
 
 #### Chapter 3 — Calculation of the base entitlement in relation to a course year
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 43 — Calculation of the base entitlement in relation to a course year](part-5/section-43.md)
 - [Section 44 — Students with reduced entitlement](part-5/section-44.md)
@@ -132,10 +194,18 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 #### Chapter 4 — Calculation of additional weeks entitlement, and maximum loan entitlement
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 48 — Calculation of additional weeks entitlement](part-5/section-48.md)
 - [Section 49 — Maximum loan entitlement](part-5/section-49.md)
 
 #### Chapter 5 — Reduction for household income
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 50 — Application of this Chapter](part-5/section-50.md)
 - [Section 51 — Reduction for household income – students with full entitlement under the age of 60](part-5/section-51.md)
@@ -144,16 +214,32 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 #### Chapter 6 — Adjustment for intensity of study, and loan for living costs entitlement
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 54 — Adjustment for intensity of study](part-5/section-54.md)
 - [Section 55 — Adjustment for intensity of study – concurrent study](part-5/section-55.md)
 
 #### Chapter 7 — Loan for living costs entitlement where eligible student changes category during course year
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 56 — Modification of loan for living costs entitlement calculation where students change location category](part-5/section-56.md)
 
 ### Part 6 — Supplementary grants
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### Chapter 1 — Introduction
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 57 — Types of supplementary grant available](part-6/section-57.md)
 - [Section 58 — General qualifying conditions for supplementary grants](part-6/section-58.md)
@@ -162,11 +248,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 #### Chapter 2 — Disabled students’ allowance
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 61 — Qualifying conditions for the disabled students’ allowance](part-6/section-61.md)
 - [Section 62 — Payment of the disabled students’ allowance](part-6/section-62.md)
 - [Section 63 — Amount of the disabled students’ allowance](part-6/section-63.md)
 
 #### Chapter 3 — Grants for travel
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 64 — Meaning of “expenditure”](part-6/section-64.md)
 - [Section 65 — Qualifying conditions for the grant for travel](part-6/section-65.md)
@@ -177,6 +271,10 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - [Section 70 — Overseas study - amount of the grant for travel](part-6/section-70.md)
 
 #### Chapter 4 — Grants for dependants
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 71 — Interpretation of this Chapter](part-6/section-71.md)
 - [Section 72 — Elements of the grants for dependants](part-6/section-72.md)
@@ -193,15 +291,31 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ### Part 7 — Payments
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### Chapter 1 — Interpretation of Part 7
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 83 — Interpretation](part-7/section-83.md)
 
 #### Chapter 2 — Payment of supplementary grants
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 84 — Payment of supplementary grants](part-7/section-84.md)
 
 #### Chapter 3 — Payment of loans
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 85 — Provision of United Kingdom national insurance number](part-7/section-85.md)
 - [Section 86 — Information requirements](part-7/section-86.md)
@@ -210,22 +324,46 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 #### Chapter 4 — Overpayments
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 89 — Overpayment of fee loans](part-7/section-89.md)
 - [Section 90 — Overpayment of supplementary grants and loans for living costs](part-7/section-90.md)
 
 ### Part 8 — Consequential amendment of other subordinate legislation
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### Chapter 1 — Amendment of the 2007 Fees and Awards Regulations
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 91 — Amendment of the 2007 Fees and Awards Regulations](part-8/section-91.md)
 
 #### Chapter 2 — Amendment of the 2016 Master’s Degree Regulations
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 92 — Amendment of the 2016 Master’s Degree Regulations](part-8/section-92.md)
 
 #### Chapter 3 — Amendment of the 2018 Doctoral Degree Regulations
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 93 — Amendment of the 2018 Doctoral Degree Regulations](part-8/section-93.md)
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 Schedules
 
@@ -238,6 +376,10 @@ Schedules
 - [Schedule 7](schedule-7.md)
 - [Schedule 8](schedule-8.md)
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 Smith of Malvern
 
 Minister of State
@@ -245,6 +387,10 @@ Minister of State
 Department for Education
 
 22nd July 2026
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 Explanatory Note
 

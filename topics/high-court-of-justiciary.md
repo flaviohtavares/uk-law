@@ -144,7 +144,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [Act of Adjournal (Criminal Procedure Rules Amendment) (Criminal Proceedings etc. (Reform) (Scotland) Act 2007) 2008](../scotland/regulations/2008/0000-0499/61-act-of-adjournal-criminal-procedure-rules-amendment-criminal-proceedings-etc-ref.md) *(as originally made)*
-- [The High Court of Justiciary Fees Amendment Order 2008](../scotland/regulations/2008/0000-0499/237-the-high-court-of-justiciary-fees-amendment-order-2008.md) *(as originally made)*
+- [The High Court of Justiciary Fees Amendment Order 2008](../scotland/regulations/2008/0000-0499/237-the-high-court-of-justiciary-fees-amendment-order-2008.md) *(changes pending)*
 
 **2007**
 

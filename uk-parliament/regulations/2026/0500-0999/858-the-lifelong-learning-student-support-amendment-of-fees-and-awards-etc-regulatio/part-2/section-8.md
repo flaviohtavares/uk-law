@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 8
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 8. Eligibility - exceptions
+## 8. Eligibility - exceptions[^c-9acf97a4feb7a697568eae39e4ef89ec]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) A person (“**A**”) is not an eligible student if—
 
@@ -55,6 +61,8 @@ summary: ''
 (5) In paragraph (3)(c)(ii), “**borrower**” means an eligible student to whom a fee loan has been made.
 
 ## Annotations
+
+[^c-9acf97a4feb7a697568eae39e4ef89ec]: Commencement: Reg. 8 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00006]: Footnote: [S.S.I. 2022/157](https://www.legislation.gov.uk/ssi/2022/157).
 

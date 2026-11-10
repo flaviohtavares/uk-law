@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 36
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '36'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/36
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 36
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 36. Employer’s payment following resolution to increase membership or award additional pension
+## 36. Employer’s payment following resolution to increase membership or award additional pension[^c-413c6e24ce1ea64c615cb287ee943331]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) This regulation applies where an employing authority makes a resolution under–
 
@@ -44,3 +50,7 @@ summary: ''
 - (b) such longer period as the employing authority and the administering authority agree.
 
 (10) If neither of the conditions in paragraph (8) is met, the decision ceases to have effect.
+
+## Annotations
+
+[^c-413c6e24ce1ea64c615cb287ee943331]: Commencement: Reg. 36 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

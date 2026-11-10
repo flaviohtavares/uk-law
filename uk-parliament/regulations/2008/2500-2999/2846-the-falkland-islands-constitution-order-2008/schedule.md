@@ -2,9 +2,9 @@
 title: The Falkland Islands Constitution Order 2008, SCHEDULE
 act: The Falkland Islands Constitution Order 2008
 section: schedule
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-11-05'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2846/schedule
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Falkland Islands Constitution Order 2008, SCHEDULE
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE — The Constitution of the Falklands Islands
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 Contents
 
@@ -468,7 +474,7 @@ OATHS AND AFFIRMATIONS
 
 ### CHAPTER I — PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
 
-#### 1. Fundamental rights and freedoms of the individual
+#### 1. Fundamental rights and freedoms of the individual[^c-d3a5d06bd05e1c1b63a90e9cc7ef156f]
 
 Whereas—
 
@@ -481,7 +487,7 @@ Whereas—
 
 the subsequent provisions of this Chapter shall have effect for the purpose of affording protection to the aforesaid individual rights and freedoms, and to related rights and freedoms, subject to such limitations on that protection as are contained in those provisions, being limitations designed to ensure that the enjoyment of the said rights and freedoms by any individual does not prejudice the rights and freedoms of others or the public interest.
 
-#### 2. Protection of right to life
+#### 2. Protection of right to life[^c-e00a2bdf5b8eeb1a0481016ca20bea3e]
 
 (1) No person shall be deprived intentionally of his or her life.
 
@@ -493,11 +499,11 @@ the subsequent provisions of this Chapter shall have effect for the purpose of a
 
 or if he or she dies as the result of a lawful act of war.
 
-#### 3. Protection from inhuman treatment
+#### 3. Protection from inhuman treatment[^c-6669397098a2fad8eeb0ad6694442b01]
 
 No person shall be subjected to torture or to inhuman or degrading treatment or punishment.
 
-#### 4. Protection from slavery and forced labour
+#### 4. Protection from slavery and forced labour[^c-ec3dded7eadb4152c3b4bd05a58f3db8]
 
 (1) No person shall be held in slavery or servitude.
 
@@ -510,7 +516,7 @@ No person shall be subjected to torture or to inhuman or degrading treatment or 
 - (c) any labour required of any person while he or she is lawfully detained that is reasonably necessary in the interests of hygiene or for the maintenance of the place in which he or she is detained; or
 - (d) any labour required during a period of public emergency or in the event of any other emergency or calamity that threatens the life or well-being of the community, to the extent that the requiring of such labour is reasonably justifiable, in the circumstances of any situation arising or existing during that period or as a result of that other emergency or calamity, for the purpose of dealing with that situation.
 
-#### 5. Protection of right to personal liberty
+#### 5. Protection of right to personal liberty[^c-dc48dcb124c197ff81f1d51c23a5fefa]
 
 (1) Every person has the right to liberty and security of person.
 
@@ -547,7 +553,7 @@ and who is not released, shall be brought promptly before a court.
 
 (9) For the purposes of subsection (2)(b), a person charged with a criminal offence in respect of whom a special verdict has been returned that he or she was guilty of the act or omission charged but was insane when he or she did the act or made the omission shall be regarded as a person who has been convicted of a criminal offence, and the detention of that person in consequence of such a verdict shall be regarded as detention in execution of the order of a court.
 
-#### 6. Provisions to secure protection of law
+#### 6. Provisions to secure protection of law[^c-1bb52045e1f0a87007c92a347a8e2c2a]
 
 (1) If any person is charged with a criminal offence, then, unless the charge is withdrawn, he or she shall have the right to a fair hearing within a reasonable time by an independent and impartial court established by law.
 
@@ -593,11 +599,11 @@ and who is not released, shall be brought promptly before a court.
 - (b) subsection (2)(e), to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
 - (c) subsection (6), to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, but any court so trying such member and convicting him or her shall in sentencing him or her to any punishment take into account any punishment imposed on him or her under that disciplinary law.
 
-#### 7. Protection of rights of prisoners to humane treatment
+#### 7. Protection of rights of prisoners to humane treatment[^c-66a2159bd675ce100c17a252dccf2add]
 
 All persons deprived of their liberty have the right to be treated with humanity and with respect for the inherent dignity of the human person.
 
-#### 8. Protection of freedom of movement
+#### 8. Protection of freedom of movement[^c-d820d9ed0948ed320479b23783750c1d]
 
 (1) A person shall not be deprived of his or her freedom of movement, that is to say—
 
@@ -628,7 +634,7 @@ All persons deprived of their liberty have the right to be treated with humanity
 - (c) he or she has the right, save as aforesaid, to have his or her case reviewed by a competent authority prescribed by law; and
 - (d) he or she has the right, save as aforesaid, to be represented for the purposes of paragraphs (b) and (c) before the competent authority or some other person designated in that behalf by the competent authority.
 
-#### 9. Protection for private and family life and for privacy of home and other property
+#### 9. Protection for private and family life and for privacy of home and other property[^c-aa2373885afaafcacd2598508640c201]
 
 (1) Every person has the right to respect for his or her private and family life, his or her home and his or her correspondence and, except with his or her own consent, no person shall be subjected to the search of his or her person or property or the entry by others on his or her premises.
 
@@ -643,7 +649,7 @@ All persons deprived of their liberty have the right to be treated with humanity
 
 except so far as that provision or, as the case may be, the thing done under its authority is shown not to be reasonably justifiable in a democratic society.
 
-#### 10. Protection of right to marry and found a family
+#### 10. Protection of right to marry and found a family[^c-407cfc968b7ea180ad65ad771696fa68]
 
 (1) Every man and woman of marriageable age (as determined by or under any law) has the right to marry and found a family.
 
@@ -659,7 +665,7 @@ except so far as that provision or, as the case may be, the thing done under its
 
 (4) Spouses shall be entitled to equal rights and shall be subject to equal responsibilities as between themselves and as regards their children both during marriage and, if the marriage is dissolved, on and after dissolution, but this equality of rights and responsibilities shall be subject to such arrangements or measures as may be agreed, or as may be ordered by a court, in the interests of their children.
 
-#### 11. Protection of freedom of conscience
+#### 11. Protection of freedom of conscience[^c-66ac43c311115ef067f1924f7f9fe791]
 
 (1) Except with his or her own consent, no person shall be hindered in the enjoyment of his or her freedom of conscience, and for the purposes of his section the said freedom includes freedom of thought and of religion, freedom to change one’s religion or belief and freedom, either alone or in community with others, and either in public or in private, to manifest and propagate one’s religion or belief in worship, teaching, practice and observance.
 
@@ -678,7 +684,7 @@ except so far as that provision or, as the case may be, the thing done under its
 
 (6) References in this section to a religion shall be construed as including references to a religious denomination, and cognate expressions shall be construed accordingly.
 
-#### 12. Protection of right to education
+#### 12. Protection of right to education[^c-fd9180bf256a5ba4863fd1946c2cc169]
 
 (1) This section is without prejudice to section 11.
 
@@ -693,7 +699,7 @@ except so far as that provision or, as the case may be, the thing done under its
 
 except so far as that provision or, as the case may be, the thing done under its authority is shown not to be reasonably justifiable in a democratic society.
 
-#### 13. Protection of freedom of expression
+#### 13. Protection of freedom of expression[^c-07c233293d5039fd6f621087080ea303]
 
 (1) Except with his or her own consent, no person shall be hindered in the enjoyment of his or her freedom of expression.
 
@@ -708,7 +714,7 @@ except so far as that provision or, as the case may be, the thing done under its
 
 except so far as that provision or, as the case may be, the thing done under its authority is shown not to be reasonably justifiable in a democratic society.
 
-#### 14. Protection of freedom of assembly and association
+#### 14. Protection of freedom of assembly and association[^c-33513e53a69f1c52ea70a718e470336e]
 
 (1) Except with his or her own consent, no person shall be hindered in the enjoyment of his or her freedom of peaceful assembly and association, that is to say, his or her right to assemble freely and associate with other persons and in particular to form or belong to trade unions or other associations for the promotion and protection of his or her interests.
 
@@ -721,7 +727,7 @@ except so far as that provision or, as the case may be, the thing done under its
 
 except so far as that provision or, as the case may be, the thing done under its authority is shown not to be reasonably justifiable in a democratic society.
 
-#### 15. Protection from deprivation of property
+#### 15. Protection from deprivation of property[^c-0a1f9ec7b3645063b73a6fb956293f14]
 
 (1) No property of any description shall be compulsorily taken possession of, and no interest in or right to or over property of any description shall be compulsorily acquired, except in accordance with the provisions of a law applicable to that taking of possession or acquisition and where the following conditions are satisfied, that is to say—
 
@@ -740,7 +746,7 @@ except so far as that provision or, as the case may be, the thing done under its
 - (c) to secure the payment of taxes or other like impositions; or
 - (d) for the administration or enforcement of the law regulating the civil rights and obligations of persons *inter se* in respect of property.
 
-#### 16. Protection from discrimination
+#### 16. Protection from discrimination[^c-d4254e0fd55340cab2762d5cda4b1230]
 
 (1) Subject to subsections (4), (5) and (6), no law shall make any provision which is discriminatory either in itself or in its effect.
 
@@ -759,11 +765,11 @@ except so far as that provision or, as the case may be, the thing done under its
 
 (7) Nothing in subsection (2) shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by this Constitution or any other law.
 
-#### 17. Derogations from fundamental rights and freedoms under emergency powers
+#### 17. Derogations from fundamental rights and freedoms under emergency powers[^c-ad457977465251ea63f1c06cab64779d]
 
 Nothing contained in or done under the authority of a law shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter other than sections 2, 3, 4, 6(2)(a), 6(5), 6(6), 6(7) and 6(8) to the extent that the law authorises the taking during any period of public emergency of measures that are reasonably justifiable for dealing with the situation that exists in the Falkland Islands during that period.
 
-#### 18. Protection of persons detained under emergency laws
+#### 18. Protection of persons detained under emergency laws[^c-42dd6249c24de941430e1e7b77116c6b]
 
 (1) When a person is detained by virtue of any such law as is referred to in section 17 the following provisions shall apply, that is to say—
 
@@ -777,7 +783,7 @@ Nothing contained in or done under the authority of a law shall be held to be in
 
 (3) Nothing contained in subsection (1)(d) or subsection (1)(e) shall be construed as entitling a person to legal representation at public expense, except when the interests of justice so require.
 
-#### 19. Enforcement of protective provisions
+#### 19. Enforcement of protective provisions[^c-aa77523ca4ecff6ee5197b165df0c58b]
 
 (1) If any person alleges that any of the foregoing provisions of this Chapter has been, is being or is likely to be contravened in relation to him or her (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person), then, without prejudice to any other action with respect to the same matter that is lawfully available, that person (or that other person) may apply to the Supreme Court for redress.
 
@@ -832,11 +838,11 @@ whenever made or given, so far as, in the opinion of the court, it is relevant t
 
 including provisions with respect to the time within which any application, reference or appeal shall or may be made or brought.
 
-#### 20. Proceedings which might affect freedom of conscience
+#### 20. Proceedings which might affect freedom of conscience[^c-9ee1485e11637c4faabf6b62be072140]
 
 If a court’s determination of any question arising under this Chapter might affect the exercise by a religious organisation (itself or its members collectively) of the right to freedom of conscience as defined and protected by section 11, it must have particular regard to the importance of that right.
 
-#### 21. Proceedings which might affect freedom of expression
+#### 21. Proceedings which might affect freedom of expression[^c-4eab24830b99ed42076487e27e2f1b6b]
 
 (1) This section applies if a court is considering whether to grant any relief which, if granted, might affect the exercise of the right to freedom of expression as defined and protected by section 13.
 
@@ -854,7 +860,7 @@ If a court’s determination of any question arising under this Chapter might af
   - (ii) it is, or would be, in the public interest for the material to be published; and
 - (b) any relevant privacy code.
 
-#### 22. Interpretation
+#### 22. Interpretation[^c-054f0fcaaaf92f671452eca8e3939e6a]
 
 (1) In this Chapter, unless the contrary intention appears—
 
@@ -905,7 +911,7 @@ and if an applicant referred to in this subsection is not granted Falkland Islan
 
 ### CHAPTER II — THE GOVERNOR
 
-#### 23. The Governor
+#### 23. The Governor[^c-fcdb05dcf934c89989099e89fd70d6d9]
 
 (1) There shall be a Governor of the Falkland Islands who shall be appointed by Her Majesty by Commission under Her Sign Manual and Signet and shall hold office during Her Majesty’s pleasure.
 
@@ -915,7 +921,7 @@ and if an applicant referred to in this subsection is not granted Falkland Islan
 
 (4) Where the Governor is directed by this Constitution to exercise any function in accordance with the advice of or after consultation with any person or authority, the question whether he or she has so exercised that function shall not be enquired into in any court of law.
 
-#### 24. Acting Governor
+#### 24. Acting Governor[^c-7ec8dce52088e75fca2464c998eb5678]
 
 (1) During any period when the office of Governor is vacant or the holder of it is absent from the Falkland Islands or is for any reason unable to perform the functions of that office those functions shall, during Her Majesty’s pleasure, be assumed and performed by such person as Her Majesty may designate in that behalf by instructions given through a Secretary of State.
 
@@ -923,13 +929,13 @@ and if an applicant referred to in this subsection is not granted Falkland Islan
 
 (3) The person designated shall not continue to act in the office of Governor after the Governor has notified that person that he or she is about to assume or resume the functions of that office.
 
-#### 25. Defence and internal security
+#### 25. Defence and internal security[^c-7d476c4235226de06cf7e5aad7842f07]
 
 The Governor shall consult with the Commander British Forces before exercising any function which appears to the Governor to relate to defence or internal security (with the exception of the police) and shall act in accordance with the advice which the Commander British Forces then tenders to him or her; and the Governor shall likewise act in accordance with the advice of the Commander British Forces on any matter on which the Commander British Forces considers it necessary in the interests of defence or internal security (with the exception of the police) to give advice to the Governor.
 
 ### CHAPTER III — THE LEGISLATURE
 
-#### 26. Establishment and composition of the Legislative Assembly
+#### 26. Establishment and composition of the Legislative Assembly[^c-63053ce7dbf1c2750a64f6336268d5ca]
 
 (1) There shall be a Legislative Assembly for the Falkland Islands.
 
@@ -937,7 +943,7 @@ The Governor shall consult with the Commander British Forces before exercising a
 
 (3) The *ex officio* members shall not have the right to vote in the Legislative Assembly.
 
-#### 27. Constituencies
+#### 27. Constituencies[^c-8ec8337acd695e1b9adb99e70905f2b3]
 
 (1) The Falkland Islands shall be divided into two constituencies, Camp and Stanley. Camp shall return three elected members to the Legislative Assembly and Stanley five elected members and the members shall be elected in such a manner as shall be prescribed by Ordinance.
 
@@ -947,11 +953,11 @@ The Governor shall consult with the Commander British Forces before exercising a
 
 (4) In any referendum held under subsection (3), any person registered as an elector pursuant to section 32 at the time of the referendum shall be entitled to vote.
 
-#### 28. Qualifications for election
+#### 28. Qualifications for election[^c-54f082e53829ef8bfb85ccc5e89486ed]
 
 Subject to section 29, any person who has attained the age of eighteen years and who is registered as an elector pursuant to section 32 is qualified to be elected as a member of the Legislative Assembly in respect of either constituency.
 
-#### 29. Disqualifications for election
+#### 29. Disqualifications for election[^c-6e176b40ae8bda8afb3e622b69d357e9]
 
 (1) No person shall be qualified to be elected as a member of the Legislative Assembly who—
 
@@ -980,7 +986,7 @@ Subject to section 29, any person who has attained the age of eighteen years and
 
 (5) Any Ordinance made in pursuance of subsection (1)(c) or subsection (4)(a) may contain incidental and consequential provisions, including provision that a member who has given such an undertaking as is referred to in subsection (4)(a) shall be incapable of taking his or her seat in the Legislative Assembly until he or she has fulfilled that undertaking and shall vacate his or her seat if he or she has not fulfilled it within such time as is specified by such Ordinance; and for the avoidance of doubt it is hereby declared that, where provision is made in pursuance of subsection (4)(b) in respect of any office, provision may also be made in pursuance of subsection (1)(c) or subsection (4)(a) in respect of that office.
 
-#### 30. Vacation of seats
+#### 30. Vacation of seats[^c-f22ab2e946bc3361bc9bdc5f266903d0]
 
 (1) The seat of an elected member of the Legislative Assembly shall become vacant—
 
@@ -993,7 +999,7 @@ Subject to section 29, any person who has attained the age of eighteen years and
 
 (2) In this section, “Falkland Islands status” has the meaning defined in section 22(5).
 
-#### 31. Vacation of seat on sentence
+#### 31. Vacation of seat on sentence[^c-74ffde331a9c7001bc1ae5c20be98980]
 
 (1) Subject to the provisions of this section, if a member of the Legislative Assembly is sentenced by a court in any country to imprisonment (by whatever name called) for a term of at least twelve months, he or she shall forthwith cease to perform his or her functions as a member of the Assembly and his or her seat shall become vacant at the expiration of a period of thirty days thereafter; but the Governor may, at the request of the member, from time to time extend that period for thirty days to enable the member to pursue any appeal in respect of his or her conviction and sentence.
 
@@ -1004,7 +1010,7 @@ Subject to section 29, any person who has attained the age of eighteen years and
 - (a) where a person is sentenced to two or more terms of imprisonment that are required to be served consecutively he or she shall be regarded as serving a single term of imprisonment for the aggregate period of those terms; and
 - (b) no account shall be taken of a sentence of imprisonment as an alternative to or in default of the payment of a fine.
 
-#### 32. Qualifications of electors
+#### 32. Qualifications of electors[^c-2c01c3794fc5b841e86ec3bcd06f1f40]
 
 (1) Subject to subsection (2), a person shall be qualified to be registered as an elector for the purpose of the election of members of the Legislative Assembly if he or she has attained the age of eighteen years and either—
 
@@ -1032,23 +1038,23 @@ and, in either case, he or she was resident in the Falkland Islands on the quali
 - (c) “qualifying date” and “qualifying period” means such date or period as may be prescribed by or under any Ordinance as the date or period with reference to which the qualifications of persons for registration as electors for elections of members of the Legislative Assembly are to be ascertained; and a different qualifying period may be prescribed in respect of persons not born in the Falkland Islands;
 - (d) “resident” has such meaning as may be prescribed by or under any Ordinance.
 
-#### 33. General elections and filling vacant seats
+#### 33. General elections and filling vacant seats[^c-866b086a09110b33f05d5b97e6bfaa89]
 
 (1) A general election shall be held at such time after every dissolution of the Legislative Assembly as the Governor shall appoint by proclamation published in the Gazette; but the date so appointed shall not be more than 70 days after the date of dissolution.
 
 (2) Whenever an elected member of the Legislative Assembly vacates his or her seat for any reason other than a dissolution of the Assembly, an election shall be held to fill the vacancy, on such date as the Governor shall appoint by proclamation published in the Gazette, within 70 days of the occurrence of the vacancy unless the Assembly is sooner dissolved or under section 34(2) will be dissolved within 126 days of the occurrence of the vacancy.
 
-#### 34. Dissolution
+#### 34. Dissolution[^c-cbf96c45248099fa9bb517664727471f]
 
 (1) The Governor may dissolve the Legislative Assembly by proclamation published in the Gazette.
 
 (2) The Governor shall dissolve the Legislative Assembly at the expiration of four years from the date when the Assembly first meets after any general election, unless it has been sooner dissolved.
 
-#### 35. Recalling dissolved Legislative Assembly in case of emergency
+#### 35. Recalling dissolved Legislative Assembly in case of emergency[^c-667ce29e442ce762f83c9e3f6d4f6efc]
 
 If, between a dissolution of the Legislative Assembly and the next ensuing general election, an emergency arises of such a nature that, in the opinion of the Governor, it is necessary for the Assembly to be recalled, the Governor may summon the Assembly that has been dissolved, and that Assembly shall thereupon be deemed (except for the purposes of section 33(1)) not to have been dissolved, but shall be deemed (except as aforesaid) to be dissolved on the date on which the next ensuing general election is held.
 
-#### 36. Determination of questions as to membership
+#### 36. Determination of questions as to membership[^c-8b9060bd321cb093376e4a6fc168db74]
 
 (1) The Supreme Court shall have jurisdiction to hear and determine any question whether—
 
@@ -1073,17 +1079,17 @@ and if any application under this subsection is made by a person other than the 
 
 ### CHAPTER IV — POWERS AND PROCEDURES OF THE LEGISLATIVE ASSEMBLY
 
-#### 37. Power to make laws
+#### 37. Power to make laws[^c-bd85742f5e38109be35fdf46783c0b17]
 
 Subject to this Constitution, the Governor, with the advice and consent of the Legislative Assembly, may make laws for the peace, order and good government of the Falkland Islands.
 
-#### 38. Sittings of the Legislative Assembly
+#### 38. Sittings of the Legislative Assembly[^c-121e39275bf70388f50be60786b7f2c1]
 
 (1) Each sitting of the Legislative Assembly shall be held at such place within the Falkland Islands and shall begin at such time as the Governor may appoint by proclamation published in the Gazette; but a period of twelve months shall not elapse between the date when the Assembly last sat and the date appointed for its next sitting.
 
 (2) Each sitting of the Legislative Assembly shall terminate when the Assembly is adjourned or is dissolved without having been adjourned.
 
-#### 39. Presiding
+#### 39. Presiding[^c-f01ef31bfe095e0163b27366483bb823]
 
 (1) Subject to subsection (4), there shall preside at each sitting of the Legislative Assembly—
 
@@ -1097,11 +1103,11 @@ Subject to this Constitution, the Governor, with the advice and consent of the L
 
 (4) The Legislative Assembly shall elect a Speaker before proceeding to any other business, and the Attorney General shall preside for the purpose of that election.
 
-#### 40. Clerk of the Legislative Assembly
+#### 40. Clerk of the Legislative Assembly[^c-034ce212314536251f88e365ac54dd0f]
 
 There shall be a Clerk of the Legislative Assembly whose office shall be a public office.
 
-#### 41. Participation by non-members
+#### 41. Participation by non-members[^c-c39a90cddf0180b849a7cf82dcff2c28]
 
 (1) The Commander British Forces shall have the right to take part in the proceedings of the Legislative Assembly, except that he or she may not vote.
 
@@ -1109,19 +1115,19 @@ There shall be a Clerk of the Legislative Assembly whose office shall be a publi
 
 (3) The person presiding may, provided the Legislative Assembly considers it desirable, summon any other person to a meeting of the Assembly even though that person is not a member of the Assembly.
 
-#### 42. Oaths
+#### 42. Oaths[^c-0143ccb43fb13f5e14c75ce79471a186]
 
 (1) No *ex officio* or elected member of the Legislative Assembly shall take part in its proceedings (other than proceedings for the purposes of this subsection) unless he or she has made and subscribed before the Speaker, or other person presiding at the sitting, the oath of allegiance and the oath of office.
 
 (2) Neither the Commander British Forces nor the Attorney General shall take part in the proceedings of the Legislative Assembly (other than proceedings for the purposes of this subsection) unless he or she has made and subscribed before the Speaker, or other person presiding at the sitting, the oath of allegiance.
 
-#### 43. Quorum
+#### 43. Quorum[^c-b4b77ed959fe68dcbbf704714017075e]
 
 (1) If at any sitting of the Legislative Assembly any member of the Assembly who is present draws the attention of the person presiding at the sitting to the absence of a quorum and, after such interval as may be prescribed in the Standing Orders of the Assembly the person presiding at the sitting ascertains that a quorum is still not present, the Assembly shall be adjourned.
 
 (2) For the purpose of subsection (1) a quorum shall consist of six elected members excluding the person presiding at the sitting.
 
-#### 44. Voting
+#### 44. Voting[^c-f08b433229f095d596cce3c326064ad2]
 
 (1) Save as otherwise provided in this Constitution, any question proposed for decision at a sitting of the Legislative Assembly shall be determined by a majority of the votes of the elected members present and voting.
 
@@ -1129,11 +1135,11 @@ There shall be a Clerk of the Legislative Assembly whose office shall be a publi
 
 (3) The person presiding shall have a casting vote if he or she is an elected member of the Legislative Assembly; and if on any question before the Assembly the votes of the members are equally divided and the person presiding is not an elected member, the motion shall be declared lost.
 
-#### 45. Transaction of business notwithstanding vacancies
+#### 45. Transaction of business notwithstanding vacancies[^c-61079c661399d4580e02a7f49c525673]
 
 Subject to section 43, the Legislative Assembly shall not be disqualified for the transaction of business by reason of any vacancy in its membership (including any vacancy not filled when the Assembly is first constituted or is reconstituted at any time) and any proceedings in the Assembly shall be valid even though some person who was not entitled to do so took part in them.
 
-#### 46. Standing Orders
+#### 46. Standing Orders[^c-42ac9477e8e213dabf298e96d18ebc00]
 
 (1) Subject to this Constitution, the Legislative Assembly may make Standing Orders for—
 
@@ -1142,27 +1148,27 @@ Subject to section 43, the Legislative Assembly shall not be disqualified for th
 
 (2) Subject as aforesaid the procedure of the Legislative Assembly at any sitting shall be determined by the person presiding at the sitting.
 
-#### 47. Penalty for sitting or voting when unqualified
+#### 47. Penalty for sitting or voting when unqualified[^c-cf335d0d5cba1c1f01cf3c53f4c557b6]
 
 (1) Any person who sits or votes in the Legislative Assembly knowing or having reasonable grounds for knowing that he or she is not entitled to do so shall, if the Attorney General refers the matter to the Assembly and the Assembly so decides, be liable to such fine as may be determined by the Assembly; but no such fine shall exceed the maximum from time to time provided for by the Standing Orders of the Assembly.
 
 (2) Any such penalty shall be recoverable by civil action in the Supreme Court at the suit of the Attorney General.
 
-#### 48. Privileges of Legislative Assembly and members
+#### 48. Privileges of Legislative Assembly and members[^c-f0a7c95402e56aa20b91d30456a3fc13]
 
 Provision may be made by Ordinance prescribing the privileges, immunities and powers of the Legislative Assembly and its committees, or the privileges and immunities of the members and officers of the Assembly or of other persons concerned in the business of the Assembly or its committees, for the purpose of ensuring the due discharge of the functions of the Assembly and its members at sittings of the Assembly; but no such privileges, immunities or powers shall exceed those of the Commons House of Parliament of the United Kingdom or of the members of that House.
 
-#### 49. Freedom of speech in proceedings
+#### 49. Freedom of speech in proceedings[^c-3e1da901718e26a556688cbd5a4be3c4]
 
 Without prejudice to any provision made by Ordinance pursuant to section 48, no civil or criminal proceedings may be instituted against any member of the Legislative Assembly for words spoken before, or written in a report to, the Assembly or any of its committees or by reason of any matter or thing brought by such member therein by petition, Bill, resolution, motion or otherwise.
 
-#### 50. Rules for the enactment of laws
+#### 50. Rules for the enactment of laws[^c-f8a01eaffdef125f58e93d69232c2f23]
 
 (1) All laws made under section 37 shall be styled “Ordinances” and the words of enactment shall be “Enacted by the Legislature of the Falkland Islands, as follows”.
 
 (2) The Governor and the Legislative Assembly shall in the making of laws observe the rules set forth in Annex A to this Constitution.
 
-#### 51. Introduction of Bills, etc
+#### 51. Introduction of Bills, etc[^c-26362eddcf7fe739002c812984943ad5]
 
 (1) Subject to this Constitution and the Standing Orders of the Legislative Assembly, any member may introduce any Bill or propose any motion for debate in, or may present any petition to, the Assembly, and the same shall be debated and disposed of according to the Standing Orders of the Assembly.
 
@@ -1173,7 +1179,7 @@ Without prejudice to any provision made by Ordinance pursuant to section 48, no 
   - (ii) would constitute any public office, or effect any alteration in the salary, allowances or other conditions of service (including leave, passages and promotion) of any public officer or in the law, regulations or practice governing the payment of pensions, gratuities or other like benefits to any public officer or his or her widow or widower, children, dependants or personal representatives; or
 - (b) proceed upon any motion (including any amendment to a motion) the effect of which in the opinion of the person presiding is that provision would be made for any of the purposes aforesaid.
 
-#### 52. Assent to Bills
+#### 52. Assent to Bills[^c-c0c616314d9f27b962d301f7edb882ce]
 
 (1) A Bill passed by the Legislative Assembly shall not become a law until—
 
@@ -1184,11 +1190,11 @@ Without prejudice to any provision made by Ordinance pursuant to section 48, no 
 
 (3) Before refusing assent to any Bill, the Governor shall explain to the members of the Legislative Assembly the reasons why he or she proposes to do so, if necessary in confidence, and shall allow those members the opportunity to submit their views on the matter in writing to a Secretary of State.
 
-#### 53. Publication and commencement of laws
+#### 53. Publication and commencement of laws[^c-f85c28f806ba7161fc9848fed51ef669]
 
 No law made under section 37 shall come into operation until it has been published in the Gazette, but, where the law in question expressly so provides, the coming into operation of any such law may be postponed and any such law may be given retrospective effect.
 
-#### 54. Disallowance of laws
+#### 54. Disallowance of laws[^c-b346acbc76d7b787598b84dc8a3bd3ab]
 
 (1) Any Ordinance to which the Governor has given his or her assent may be disallowed by Her Majesty through a Secretary of State; but no Ordinance shall be disallowed until the expiration of a period notified by a Secretary of State to the Governor, who shall advise the Speaker of that period, in order to give the Legislative Assembly an opportunity to reconsider the Ordinance in question.
 
@@ -1196,7 +1202,7 @@ No law made under section 37 shall come into operation until it has been publish
 
 (3) Section 16(1) of the Interpretation Act 1978[^f00007] shall apply to the annulment of any Ordinance under this section as it applies to the repeal of an Act of Parliament of the United Kingdom, save that any enactment repealed or amended by or in pursuance of that Ordinance shall have effect as from the date of the annulment as if that Ordinance had not been made.
 
-#### 55. Governor’s reserved power
+#### 55. Governor’s reserved power[^c-7c1fb0024515a5caf41e627fae797f75]
 
 (1) If the Governor considers that it is necessary that any Bill introduced or any motion proposed at any sitting of the Legislative Assembly held in accordance with this Chapter should have effect, then, if the Assembly fails to pass the Bill or to carry the motion within such time and in such form as the Governor thinks reasonable, the Governor may, at any time that he or she thinks fit, and notwithstanding any provision of this Constitution or of any Standing Order of the Assembly, declare that the Bill or motion shall have effect as if it had been passed or carried by the Assembly either in the form in which it was introduced or proposed or with such amendments as the Governor thinks fit that have been moved or proposed in the Assembly, including any committee of the Assembly; and the Bill or motion shall be deemed thereupon to have been so passed or carried and the provisions of this Constitution, and in particular the provisions relating to assent to Bills and disallowance of laws, shall have effect accordingly.
 
@@ -1218,7 +1224,7 @@ No law made under section 37 shall come into operation until it has been publish
 
 ### CHAPTER V — THE EXECUTIVE
 
-#### 56. Executive authority
+#### 56. Executive authority[^c-92594ed4c999591a628c45407b09a536]
 
 (1) The executive authority of the Falkland Islands is vested in Her Majesty.
 
@@ -1226,7 +1232,7 @@ No law made under section 37 shall come into operation until it has been publish
 
 (3) Nothing in this section shall preclude persons or authorities other than the Governor from exercising such functions as are or may be conferred on them by any law.
 
-#### 57. Executive Council
+#### 57. Executive Council[^c-43e58501085a03e495d461e23052ad93]
 
 (1) There shall be an Executive Council which shall consist of three of the elected members of the Legislative Assembly, elected in accordance with section 58, and two *ex officio* members, namely the Chief Executive and the Director of Finance.
 
@@ -1234,7 +1240,7 @@ No law made under section 37 shall come into operation until it has been publish
 
 (3) The Executive Council may delegate any of its functions to a Committee established under its authority, but anything done by such a Committee shall be reconsidered by the Executive Council should any member of the Council or the Governor, in his or her judgement, consider this to be appropriate.
 
-#### 58. Election of elected members of the Executive Council
+#### 58. Election of elected members of the Executive Council[^c-43193d65115f18d3635c4124753380a5]
 
 (1) At the first meeting of the Legislative Assembly after every general election the elected members shall elect three of their number to be members of the Executive Council for a period of twelve months from the date of their election to the Executive Council.
 
@@ -1246,7 +1252,7 @@ No law made under section 37 shall come into operation until it has been publish
 
 (5) To be effective for the purposes of this section, or section 60(1), any election must result in the Executive Council being composed of at least one elected member representing the Camp constituency and at least one elected member representing the Stanley constituency.
 
-#### 59. Tenure of office of elected members of the Executive Council
+#### 59. Tenure of office of elected members of the Executive Council[^c-6a9c0279a791891df665aa62d3f9b4bc]
 
 The seat of an elected member of the Executive Council shall become vacant—
 
@@ -1257,7 +1263,7 @@ The seat of an elected member of the Executive Council shall become vacant—
 - (e) if at the expiry of the period for which he or she is elected to sit on the Executive Council he or she has not been re-elected for a further period; or
 - (f) if his or her election to the Executive Council is revoked by a resolution of the Legislative Assembly.
 
-#### 60. Temporary members of the Executive Council
+#### 60. Temporary members of the Executive Council[^c-5a863512ac08571815ead625782dd87e]
 
 (1) Whenever an elected member of the Executive Council is by reason of his or her illness or absence from the Falkland Islands or for any other reason incapable of performing the functions of his or her office, then the elected members of the Legislative Assembly shall, if they consider it desirable, elect a person from among their number to be temporarily a member of the Executive Council.
 
@@ -1265,36 +1271,36 @@ The seat of an elected member of the Executive Council shall become vacant—
 
 (3) Subject to subsections (1) and (2), this Constitution shall apply in relation to a person elected to be temporarily a member of the Executive Council as it applies in relation to the member on account of whose incapacity her or she was elected.
 
-#### 61. Attendance of non-members at meetings of the Executive Council
+#### 61. Attendance of non-members at meetings of the Executive Council[^c-795c2fe400e307010f336ba3a67021b5]
 
 (1) The Commander British Forces and the Attorney General shall have the right to attend all meetings of the Executive Council and take part in its proceedings, except that if a matter is put to the vote they may not vote.
 
 (2) The person presiding may, when in his or her judgement the business before the Executive Council makes it desirable, summon any person to a meeting of the Council even though that person is not a member of the Council.
 
-#### 62. Summoning of meetings and agenda of the Executive Council
+#### 62. Summoning of meetings and agenda of the Executive Council[^c-4d213271be4be738e56cefac2636a7c4]
 
 (1) The Executive Council shall not be summoned except by the Governor, acting in his or her discretion, who may summon a meeting of the Council at any time; but the Governor shall summon a meeting of the Council if requested to do so by at least two members.
 
 (2) The Governor shall include on the agenda of a meeting any item requested by an elected member as well as any item the Governor, acting in his or her discretion, thinks fit; and other business that is not on the agenda may be discussed at the meeting at the request of the person presiding or any elected member.
 
-#### 63. Presiding in the Executive Council
+#### 63. Presiding in the Executive Council[^c-e000093480cbf0753ced3c26473bf13a]
 
 There shall preside at any meeting of the Executive Council—
 
 - (a) the Governor; or
 - (b) in the absence of the Governor, such member of the Executive Council as the Governor, acting in his or her discretion, may appoint to preside at that meeting.
 
-#### 64. Oaths
+#### 64. Oaths[^c-9dffcef37e33764ef2c939cede0e1ae2]
 
 No member of the Executive Council shall take part in its proceedings (other than proceedings for the purposes of this section) unless he or she has made and subscribed the oath of secrecy before the Governor or some other person authorised for that purpose by the Governor, acting in his or her discretion; and no other person shall take part in the proceedings of the Council (other than proceedings as aforesaid) unless he or she has so made and subscribed the oath of secrecy; but the Executive Council may exempt any person who is not a member of it from this requirement.
 
-#### 65. Quorum
+#### 65. Quorum[^c-98aa8b286250354c8e975bebdc9e3ecf]
 
 (1) No business (except that of adjournment) shall be transacted at a meeting of the Executive Council if fewer than four members are present, at least two of whom are elected members.
 
 (2) Where it is not possible to elect a temporary member to satisfy subsection (1), the requirements of that subsection shall be deemed to be satisfied if the person presiding and two members of the Executive Council, at least one of whom is an elected member, are present at the meeting, and they and members absent from but participating in the meeting are able to communicate with each other in a manner that all agree is appropriate in the circumstances; but no decision of the Council shall be taken unless the person presiding is satisfied that the manner of communication allows all those taking part to hear and be heard and that all have seen any documents relevant to the proposed decision.
 
-#### 66. The Governor to consult the Executive Council
+#### 66. The Governor to consult the Executive Council[^c-dfec26d8a487b68c32ea760034772e89]
 
 (1) Subject to subsection (2), in the formulation of policy and in the exercise of the functions conferred on the Governor by this Constitution or any other law the Governor shall consult with the Executive Council and, subject to section 67, shall accept its advice.
 
@@ -1309,7 +1315,7 @@ No member of the Executive Council shall take part in its proceedings (other tha
 
 (3) In any case falling within subsection (2) the Governor shall, as soon as practicable, communicate to the Executive Council the measures which he or she has adopted and the reasons for them, unless he or she is instructed not to do so by a Secretary of State.
 
-#### 67. The Governor may act against advice of the Executive Council
+#### 67. The Governor may act against advice of the Executive Council[^c-0960554afc489ebf92e7af6d682aae3c]
 
 (1) In any case in which the Governor consults the Executive Council, he or she may act against the advice given to him or her by the Council—
 
@@ -1332,17 +1338,17 @@ No member of the Executive Council shall take part in its proceedings (other tha
 
 (4) Whenever the Governor acts against the advice of the Executive Council any member of it may require that there shall be recorded in the minutes any advice or opinion he or she gave on the question at issue and his or her reasons.
 
-#### 68. The Governor may call for public officers, official papers, information or advice
+#### 68. The Governor may call for public officers, official papers, information or advice[^c-1ef06be8a64f9fa0c81ce0a3d0dc5cdb]
 
 The Governor, acting in his or her discretion, may at any time require the attendance of any public officer or the provision of any official papers or any official information or advice relating to any aspect of the government of the Falkland Islands.
 
-#### 69. Minutes
+#### 69. Minutes[^c-19d4d6960679f954dd3c10ed26493f97]
 
 (1) Minutes shall be kept of all the proceedings of the Executive Council and, whenever practicable, at every meeting of the Council the minutes of the last preceding meeting shall be confirmed, with or without amendment as the case may require, before proceeding to the despatch of any other business.
 
 (2) A copy of the minutes of the Executive Council for the preceding meeting shall be transmitted to a Secretary of State.
 
-#### 70. Advisory Committee on the Prerogative of Mercy
+#### 70. Advisory Committee on the Prerogative of Mercy[^c-dbf34b0ee287801c1840b9381b78a83e]
 
 (1) There shall be an Advisory Committee on the Prerogative of Mercy which shall consist of—
 
@@ -1359,7 +1365,7 @@ The Governor, acting in his or her discretion, may at any time require the atten
 
 (3) The Advisory Committee shall adopt its own rules of procedure, but such rules shall require the approval of the Legislative Assembly by resolution.
 
-#### 71. Power of pardon, etc
+#### 71. Power of pardon, etc[^c-2ca5a03fda6f736b303b9ad8ae9962cb]
 
 (1) The Governor, acting after consultation with the Advisory Committee on the Prerogative of Mercy, may in Her Majesty’s name and on Her Majesty’s behalf—
 
@@ -1370,7 +1376,7 @@ The Governor, acting in his or her discretion, may at any time require the atten
 
 (2) This section shall not apply in relation to any conviction by a court-martial established under any Act of Parliament of the United Kingdom, any punishment imposed in respect of any such conviction or any penalty or forfeiture due under any such Act.
 
-#### 72. Powers of Attorney General in relation to criminal proceedings
+#### 72. Powers of Attorney General in relation to criminal proceedings[^c-d0a53a2b4e0d08615f8c6d2c0602662c]
 
 (1) The Attorney General shall have power in any case in which he or she considers it desirable to do so—
 
@@ -1386,17 +1392,17 @@ The Governor, acting in his or her discretion, may at any time require the atten
 
 (5) For the purposes of this section, any appeal from any determination in any criminal proceedings before any court of law, or any case stated or question of law reserved for the purposes of any such proceedings to any other court of law, shall be deemed to be part of those proceedings.
 
-#### 73. Grants of land
+#### 73. Grants of land[^c-277647d7334eebc1f0c08b3bdca28125]
 
 Subject to the provisions of any law, the Governor or any person duly authorised by the Governor in writing under his or her hand may, in Her Majesty’s name and on Her Majesty’s behalf, make and execute under the public seal grants and dispositions of any land or other immovable property in the Falkland Islands that may be lawfully granted or disposed of by Her Majesty.
 
 ### CHAPTER VI — FINANCE
 
-#### 74. Consolidated Fund
+#### 74. Consolidated Fund[^c-0c813426ae227646e9276768a03d8525]
 
 All revenues or other moneys raised or received for the purposes of the Government (not being revenues or other moneys that are payable by or under any law into some other fund established for a specific purpose or that may by or under any law be retained by the authority that received them for the purposes of defraying the expenses of that authority) shall be paid into and form one Consolidated Fund.
 
-#### 75. Withdrawals
+#### 75. Withdrawals[^c-f7d753e9565e5b4cf8a8f950e4bf70a9]
 
 (1) No moneys shall be withdrawn from the Consolidated Fund except—
 
@@ -1409,7 +1415,7 @@ All revenues or other moneys raised or received for the purposes of the Governme
 
 (4) The deposit of any moneys forming part of the Consolidated Fund with a bank or with the Crown Agents or the investment of any such moneys in such securities as may be prescribed by Ordinance or in which a trustee would be entitled to invest shall not be regarded as a withdrawal of those moneys from the Fund for the purposes of this section.
 
-#### 76. Authorisation of expenditure
+#### 76. Authorisation of expenditure[^c-4141c6a8c3085445c39f6817d6610a13]
 
 (1) The Director of Finance shall cause to be prepared and laid before the Legislative Assembly, before or not later than thirty days after the commencement of each financial year, estimates of the revenues and expenditure of the Falkland Islands for that year.
 
@@ -1422,23 +1428,23 @@ All revenues or other moneys raised or received for the purposes of the Governme
 
 the Director of Finance shall cause a supplementary estimate showing the sums required or spent to be prepared and laid before the Legislative Assembly, and the heads of expenditure shall be included in a supplementary appropriation Bill to provide for the appropriation of those sums which shall be introduced in the Legislative Assembly before the end of the financial year or, if that is not possible, within thirty days thereafter.
 
-#### 77. Expenditure in advance of appropriation
+#### 77. Expenditure in advance of appropriation[^c-997867b2334a82b7eadac9626cf1792f]
 
 If the appropriation Ordinance in respect of any financial year has not come into operation by the beginning of that financial year, the Director of Finance may, to such extent and subject to such conditions as may be prescribed by Ordinance, authorise the withdrawal of moneys from the Consolidated Fund or the Capital Equalisation Fund for the purpose of meeting expenditure necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year or the coming into operation of the appropriation Ordinance, whichever is the earlier.
 
-#### 78. Contingencies Fund
+#### 78. Contingencies Fund[^c-f23370f08482379c20a4f771947f6a00]
 
 (1) There shall be such provision as may be prescribed by Ordinance for the establishment of a Contingencies Fund and for authorising the Director of Finance, if he or she is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from that Fund to meet that need.
 
 (2) Where any advance is made from the Contingencies Fund, a supplementary estimate shall be laid before the Legislative Assembly and an appropriation Bill shall be introduced in the Assembly as soon as possible for the purpose of replacing the amount so advanced.
 
-#### 79. Public debt
+#### 79. Public debt[^c-1b98059346088d2a2d8d641726e2cd3a]
 
 (1) All debt charges for which the Falkland Islands are liable shall be a charge on the Consolidated Fund.
 
 (2) For the purposes of this section debt charges include interest, Capital Equalisation Fund charges, the repayment or amortisation of debt, and all expenditure in connection with the raising of loans on the security of the revenues of the Falklands Islands or the Consolidated Fund and the service and redemption of debt thereby created.
 
-#### 80. Audit
+#### 80. Audit[^c-a3eb5b513cb999cf7e3339f88045bd8d]
 
 (1) The Governor, acting in his or her discretion, shall make appropriate arrangements for the audit of the public accounts of the Falkland Islands and of all courts of law and all authorities and offices of the Government and of statutory bodies; and any person or authority conducting such an audit shall have access to all books, records, reports and other documents relating to those accounts.
 
@@ -1446,7 +1452,7 @@ If the appropriation Ordinance in respect of any financial year has not come int
 
 (3) Any person or authority conducting an audit pursuant to subsection (1) shall not be subject to the direction or control of any other person or authority.
 
-#### 81. Public Accounts Committee
+#### 81. Public Accounts Committee[^c-ed76e8929a23aba78a754e9df392068d]
 
 (1) There shall be a Public Accounts Committee which shall consist of—
 
@@ -1481,17 +1487,17 @@ but the Director of Finance and the Chairman and the Deputy Chairman of the Stan
 
 ### CHAPTER VII — THE PUBLIC SERVICE
 
-#### 82. Power to constitute offices
+#### 82. Power to constitute offices[^c-9796f28b84f12f88be3b78d1384651cd]
 
 The Governor may, in Her Majesty’s name and on Her Majesty’s behalf, constitute offices for the Falkland Islands.
 
-#### 83. Chief Executive
+#### 83. Chief Executive[^c-7577be3a30e68c4b748e2d6fac7b4c67]
 
 (1) There shall be a Chief Executive whose office shall be a public office and who shall be appointed by the Governor, acting in agreement with the Executive Council.
 
 (2) Under the authority of the Governor, the Chief Executive shall be the head of the public service, and in exercising that responsibility the Chief Executive shall comply with any directions given to him or her by the Governor, acting in his or her discretion.
 
-#### 84. Power to make appointments
+#### 84. Power to make appointments[^c-49a2a0c31bbc3f96f823ca7ef04e0e3a]
 
 (1) Subject to subsections (2), (3) and (4), power to make appointments to any public office is vested in the Governor; but the Chief Executive shall exercise that power, and may delegate the exercise of that power to other public officers.
 
@@ -1505,7 +1511,7 @@ The Governor may, in Her Majesty’s name and on Her Majesty’s behalf, constit
 
 (6) This section shall not apply to the office of Chief Executive.
 
-#### 85. Discipline and removal of public officers
+#### 85. Discipline and removal of public officers[^c-eb411519d428402d6578af29b27e66f6]
 
 (1) Disciplinary control of public officers, and the removal from office of any public officer, shall be in accordance with the Management Code for the time being in operation.
 
@@ -1520,13 +1526,13 @@ The Governor may, in Her Majesty’s name and on Her Majesty’s behalf, constit
 
 ### CHAPTER VIII — THE ADMINISTRATION OF JUSTICE
 
-#### 86. Supreme Court
+#### 86. Supreme Court[^c-c1b646c3716cde5ff6bf99441e05d862]
 
 (1) There shall be a Supreme Court for the Falkland Islands which shall have unlimited jurisdiction to hear and determine any civil or criminal proceedings under any law and such jurisdiction and powers as may be conferred on it by this Constitution or any other law.
 
 (2) The Supreme Court shall, subject to section 89, consist of one judge, that is to say, the Chief Justice.
 
-#### 87. Court of Appeal
+#### 87. Court of Appeal[^c-8fd3874726f201976d3ef3aea9b87330]
 
 (1) There shall be a Court of Appeal for the Falkland Islands.
 
@@ -1542,7 +1548,7 @@ The Governor may, in Her Majesty’s name and on Her Majesty’s behalf, constit
 - (a) an uneven number of judges shall sit, which, in the case of any final determination by the court other than the summary dismissal of an appeal, shall not be less than three; and
 - (b) any determination by the court on any matter (whether final or otherwise) shall, where more than one judge sits, be according to the opinion of a majority of the judges who sit to determine that matter.
 
-#### 88. Appointment of judges and Senior Magistrate
+#### 88. Appointment of judges and Senior Magistrate[^c-dad641a0ae13cacc33296bdfcb85d027]
 
 (1) The Chief Justice, the President of the Court of Appeal and the Justices of Appeal shall be appointed by the Governor in pursuance of instructions given by Her Majesty through a Secretary of State.
 
@@ -1558,7 +1564,7 @@ The Governor may, in Her Majesty’s name and on Her Majesty’s behalf, constit
 
 (4) The Senior Magistrate shall be appointed by the Governor, acting in his or her discretion.
 
-#### 89. Acting judges
+#### 89. Acting judges[^c-969f46c5f6b0b513020c4c292084d58a]
 
 (1) If—
 
@@ -1576,7 +1582,7 @@ the Governor, acting in his or her discretion but whenever possible after consul
 
 (4) Any person appointed under this section to sit as an acting judge of the Supreme Court or of the Court of Appeal shall, unless he or she is removed from office under section 90, continue to sit for such period as may be specified in the instrument of his or her appointment; but a person whose appointment so to sit has expired may, unless he or she has been removed from office under section 90, continue so to sit for such period as may be necessary to enable him or her to deliver judgment or to do any other thing in relation to any proceedings that were commenced before him or her before the expiration of his or her appointment.
 
-#### 90. Tenure of office of judges and Senior Magistrate
+#### 90. Tenure of office of judges and Senior Magistrate[^c-16ab6983d79f01df8a7dfebd528dc7c8]
 
 (1) Subject to subsections (4) and (7), a person holding the office of Chief Justice, President of the Court of Appeal, Justice of Appeal or Senior Magistrate shall vacate his or her office on the expiration of such period as may be specified in the instrument of his or her appointment to that office; but a Chief Justice, a President of the Court of Appeal or a Justice of Appeal may, unless he or she has been removed from office under subsection (4), sit after the date on which he or she vacates his or her office under this subsection as an acting judge of the Supreme Court or, as the case may be, of the Court of Appeal for such period as may be necessary to enable him or her to deliver judgment or to do any other thing in relation to any proceedings commenced before him or her before that date.
 
@@ -1601,11 +1607,11 @@ the Governor, acting in his or her discretion but whenever possible after consul
 
 (8) The powers of the Governor under this section shall be exercised by the Governor in his or her discretion.
 
-#### 91. Oaths
+#### 91. Oaths[^c-9f65afa0182d25a2eb70bc5ccde63a86]
 
 Before entering upon the functions of his or her office, the Chief Justice, any acting judge of the Supreme Court, every judge of the Court of Appeal, and the Senior Magistrate shall make and subscribe before the Governor or some other person authorised for that purpose by the Governor, acting in his or her discretion, the oath of allegiance and the judicial oath set out in Annex B to this Constitution.
 
-#### 92. Jurisdiction of the Court of Appeal
+#### 92. Jurisdiction of the Court of Appeal[^c-56fbe33793ed2a3d30e549fd9b77fd15]
 
 (1) The Court of Appeal shall have such jurisdiction and powers as may be conferred on it by this Constitution or any other law.
 
@@ -1613,13 +1619,13 @@ Before entering upon the functions of his or her office, the Chief Justice, any 
 
 (3) The Court of Appeal may, in accordance with such directions as the President may from time to time issue, sit in the Falkland Islands or elsewhere for the purpose of exercising its jurisdiction in respect of the Falkland Islands.
 
-#### 93. Practice and procedure on appeals to the Court of Appeal
+#### 93. Practice and procedure on appeals to the Court of Appeal[^c-9a84e40e035cfbf6e66a3a8eaa386b44]
 
 (1) Subject to this Constitution, the President of the Court of Appeal may make rules for regulating the practice and procedure of the court with respect to appeals and, in connection with such appeals, for regulating the practice and procedure of the Supreme Court.
 
 (2) Subject to section 87(4), rules made under this section may fix the number of judges who may sit for any purpose.
 
-#### 94. Appeals to the Court of Appeal
+#### 94. Appeals to the Court of Appeal[^c-d9c474ad4448fb769bba86b75dbf404e]
 
 (1) In the following cases an appeal shall lie from decisions of the Supreme Court to the Court of Appeal as of right, that is to say—
 
@@ -1640,7 +1646,7 @@ Before entering upon the functions of his or her office, the Chief Justice, any 
 
 ### CHAPTER IX — COMPLAINTS COMMISSIONER
 
-#### 95. Complaints Commissioner
+#### 95. Complaints Commissioner[^c-77bb9c318a90fa30faedeb873f8d4a5c]
 
 (1) The Governor, acting in his or her discretion, may from time to time appoint a Complaints Commissioner to investigate, in accordance with any Ordinance enacted pursuant to section 96(1), any complaint of maladministration in the government of the Falkland Islands or such other matters as may be prescribed by Ordinance.
 
@@ -1653,7 +1659,7 @@ Before entering upon the functions of his or her office, the Chief Justice, any 
 - (c) if he or she becomes a member of the Legislative Assembly or is appointed to hold or to act in any public office; or
 - (d) if the Governor, acting in his or her discretion, directs that he or she shall be removed from office for inability to discharge the functions of the office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
 
-#### 96. Functions of Complaints Commissioner
+#### 96. Functions of Complaints Commissioner[^c-16ec82093468ecd2c6f704b182b8e76a]
 
 (1) A Complaints Commissioner shall have such functions, powers and jurisdiction as may be prescribed by Ordinance.
 
@@ -1661,23 +1667,23 @@ Before entering upon the functions of his or her office, the Chief Justice, any 
 
 ### CHAPTER X — MISCELLANEOUS
 
-#### 97. The Public Seal
+#### 97. The Public Seal[^c-ee305d218ed370447f777e11f212414a]
 
 The Governor shall cause to be kept and used a public seal for the Falkland Islands which shall be used for sealing all things that should pass the seal.
 
-#### 98. Reappointments and concurrent appointments
+#### 98. Reappointments and concurrent appointments[^c-260c7b15985814d337a17cc28b8d6cc0]
 
 (1) Where any person has vacated any office established by this Constitution he or she may, if qualified, again be appointed or elected to that office in accordance with this Constitution.
 
 (2) Where this Constitution vests in any person or authority the power to make any appointment to any office, a person may be appointed to that office, even though some other person may be holding that office, when that other person is on leave of absence pending the relinquishment of that office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this subsection, then for the purposes of any function conferred on the holder of that office, the person last appointed shall be deemed to be the sole holder of that office.
 
-#### 99. Resignations
+#### 99. Resignations[^c-7d8a8cfd351d572e5584cb26590fd567]
 
 (1) Any person who is appointed or elected to any office established by or pursuant to this Constitution may resign from that office by writing under his or her hand addressed to the person or authority by whom he or she was appointed.
 
 (2) The resignation of any person from any such office shall take effect when the writing signifying the resignation is received by the person or authority to whom it is addressed or any person authorised by that person or authority to receive it or when the resignation is expressed to take effect, whichever is the later.
 
-#### 100. Interpretation
+#### 100. Interpretation[^c-f9329963249e4db7d9def79da5422249]
 
 (1) In this Constitution, unless the context otherwise requires—
 
@@ -1731,23 +1737,23 @@ The Governor shall cause to be kept and used a public seal for the Falkland Isla
 
 ### ANNEX A TO THE CONSTITUTION — RULES FOR THE ENACTMENT OF LAWS
 
-**1.** Matters having no proper relation to each other shall not be provided for by the same law; no law shall contain anything foreign to what the title of the law imparts; and no provision having indefinite duration shall be included in any law expressed to have limited duration.
+**1.**[^c-d3a5d06bd05e1c1b63a90e9cc7ef156f] Matters having no proper relation to each other shall not be provided for by the same law; no law shall contain anything foreign to what the title of the law imparts; and no provision having indefinite duration shall be included in any law expressed to have limited duration.
 
-**2.** All laws shall be distinguished by titles, and shall be divided into successive sections consecutively numbered, and to every section there shall be annexed a short indication of its contents.
+**2.**[^c-e00a2bdf5b8eeb1a0481016ca20bea3e] All laws shall be distinguished by titles, and shall be divided into successive sections consecutively numbered, and to every section there shall be annexed a short indication of its contents.
 
-**3.** All laws shall be numbered consecutively in a separate series for each year commencing in each year with the number one so that—
+**3.**[^c-6669397098a2fad8eeb0ad6694442b01] All laws shall be numbered consecutively in a separate series for each year commencing in each year with the number one so that—
 
 - (a) a law assented to by the Governor is included in the series for the year in which it is passed or deemed to have been passed by the Legislative Assembly; and its position in such series is determined by reference to the day on which the Governor gave his or her assent to it;
 - (b) a law assented to by Her Majesty through a Secretary of State is included in the series for the year in which the Governor signified such assent by proclamation in the Gazette; and its position in such series is determined by reference to the day on which assent was so signified.
 
-**4.** Copies of all laws shall be printed and each law shall bear the following—
+**4.**[^c-ec3dded7eadb4152c3b4bd05a58f3db8] Copies of all laws shall be printed and each law shall bear the following—
 
 - (a) in the case of a law assented to by the Governor, particulars of the date on which he or she gave such assent;
 - (b) in the case of a law assented to by Her Majesty through a Secretary of State, particulars of the day on which the Governor signified such assent to it by proclamation in the Gazette;
 - (c) particulars of the day on which the law was published in the Gazette; and
 - (d) particulars of the day on which the law came into operation or, if that day shall not have been determined, a reference to the provision in the law or otherwise whereby it may be determined.
 
-**5.** The Governor shall not, without having previously obtained instructions through a Secretary of State, assent to any Bill within any of the following classes, unless such Bill contains a clause suspending its operation until the signification of Her Majesty’s pleasure on the Bill, that is to say—
+**5.**[^c-dc48dcb124c197ff81f1d51c23a5fefa] The Governor shall not, without having previously obtained instructions through a Secretary of State, assent to any Bill within any of the following classes, unless such Bill contains a clause suspending its operation until the signification of Her Majesty’s pleasure on the Bill, that is to say—
 
 - (a) any Bill whereby any grant of land or money, or other donation or gratuity may be made to the Governor;
 - (b) any Bill affecting the currency of the Falkland Islands or relating to the issue of banknotes;
@@ -1763,36 +1769,236 @@ The Governor shall cause to be kept and used a public seal for the Falkland Isla
 
 but the Governor may, without such instructions as aforesaid and although the Bill contains no such clause as aforesaid, assent to any such Bill (except a Bill the provisions of which appear to the Governor to be inconsistent with obligations imposed on the United Kingdom by treaty) if the Governor shall have satisfied himself or herself that an urgent necessity exists requiring that the Bill be brought into immediate operation; but in any such case the Governor shall forthwith transmit a copy of the law to a Secretary of State together with his or her reasons for assenting to it.
 
-**6.** (1) Every Bill (not being a Government measure) intended to affect or benefit some particular person, association or corporate body, shall contain a clause saving the rights of Her Majesty, Her Heirs and Successors, all bodies politic and corporate, and all others except such as are mentioned in the Bill and those claiming by, from or under them.
+**6.**[^c-1bb52045e1f0a87007c92a347a8e2c2a] (1) Every Bill (not being a Government measure) intended to affect or benefit some particular person, association or corporate body, shall contain a clause saving the rights of Her Majesty, Her Heirs and Successors, all bodies politic and corporate, and all others except such as are mentioned in the Bill and those claiming by, from or under them.
 
 (2) No such Bill shall be introduced in the Legislative Assembly until due notice has been given by not less than three successive publications of the Bill in the Gazette; and the Governor shall not assent to the Bill in Her Majesty’s name unless it has been so published; and a certificate under the hand of the Governor signifying that such publication has been made shall be transmitted to Her Majesty through a Secretary of State with the Bill.
 
-**7.** When any law has been enacted, the Governor shall at the earliest convenient opportunity transmit through a Secretary of State, for the signification of Her Majesty’s pleasure, a transcript in duplicate of the law duly authenticated under the public seal and by his or her own signature, together with an explanation of the reasons and occasion for the enactment of the law.
+**7.**[^c-66a2159bd675ce100c17a252dccf2add] When any law has been enacted, the Governor shall at the earliest convenient opportunity transmit through a Secretary of State, for the signification of Her Majesty’s pleasure, a transcript in duplicate of the law duly authenticated under the public seal and by his or her own signature, together with an explanation of the reasons and occasion for the enactment of the law.
 
 ### ANNEX B TO THE CONSTITUTION — OATHS AND AFFIRMATIONS
 
-**1.** Oath (or affirmation) of allegiance
+**1.**[^c-d3a5d06bd05e1c1b63a90e9cc7ef156f] Oath (or affirmation) of allegiance
 
 I, ……………………….., do swear (or solemnly affirm) that I will faithfully bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, according to law. So help me God. (To be omitted in affirmation)
 
-**2.** Oath (or affirmation) for due execution of office
+**2.**[^c-e00a2bdf5b8eeb1a0481016ca20bea3e] Oath (or affirmation) for due execution of office
 
 I,…………………………, do swear (or solemnly affirm) that I will well and truly serve Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, and the people of the Falkland Islands, and will uphold the Constitution and other laws in force in the Falkland Islands, in the office of (here insert description of the office). So help me God. (To be omitted in affirmation).
 
-**3.** Oath (or affirmation) of Secrecy
+**3.**[^c-6669397098a2fad8eeb0ad6694442b01] Oath (or affirmation) of Secrecy
 
 I,………………………….,do swear (or solemnly affirm) that I will be a true and faithful Councillor and that I will not, except in the course of my duties as a Councillor or with the authority of the Governor, reveal the business or proceedings of the Executive Council at any meeting of the Council or the nature or contents of any document or any other matter communicated to me in my capacity as a Councillor or for the purposes of any such meeting. So help me God. (To be omitted in affirmation).
 
-**4.** Judicial Oath (or affirmation)
+**4.**[^c-ec3dded7eadb4152c3b4bd05a58f3db8] Judicial Oath (or affirmation)
 
 I,…………………………., do swear (or solemnly affirm) that I will well and truly serve Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, in the office of (here insert description of the office) and will do right to all manner of people according to the Constitution and other laws in force in the Falkland Islands, without fear or favour, affection or ill will. So help me God. (To be omitted in affirmation).
 
 ## Annotations
 
+[^c-d3a5d06bd05e1c1b63a90e9cc7ef156f]: Commencement: Sch. para. 1 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-e00a2bdf5b8eeb1a0481016ca20bea3e]: Commencement: Sch. para. 2 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-6669397098a2fad8eeb0ad6694442b01]: Commencement: Sch. para. 3 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-ec3dded7eadb4152c3b4bd05a58f3db8]: Commencement: Sch. para. 4 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-dc48dcb124c197ff81f1d51c23a5fefa]: Commencement: Sch. para. 5 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-1bb52045e1f0a87007c92a347a8e2c2a]: Commencement: Sch. para. 6 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-66a2159bd675ce100c17a252dccf2add]: Commencement: Sch. para. 7 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-d820d9ed0948ed320479b23783750c1d]: Commencement: Sch. para. 8 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-aa2373885afaafcacd2598508640c201]: Commencement: Sch. para. 9 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-407cfc968b7ea180ad65ad771696fa68]: Commencement: Sch. para. 10 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-66ac43c311115ef067f1924f7f9fe791]: Commencement: Sch. para. 11 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-fd9180bf256a5ba4863fd1946c2cc169]: Commencement: Sch. para. 12 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-07c233293d5039fd6f621087080ea303]: Commencement: Sch. para. 13 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-33513e53a69f1c52ea70a718e470336e]: Commencement: Sch. para. 14 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-0a1f9ec7b3645063b73a6fb956293f14]: Commencement: Sch. para. 15 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-d4254e0fd55340cab2762d5cda4b1230]: Commencement: Sch. para. 16 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-ad457977465251ea63f1c06cab64779d]: Commencement: Sch. para. 17 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-42dd6249c24de941430e1e7b77116c6b]: Commencement: Sch. para. 18 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-aa77523ca4ecff6ee5197b165df0c58b]: Commencement: Sch. para. 19 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-9ee1485e11637c4faabf6b62be072140]: Commencement: Sch. para. 20 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-4eab24830b99ed42076487e27e2f1b6b]: Commencement: Sch. para. 21 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-054f0fcaaaf92f671452eca8e3939e6a]: Commencement: Sch. para. 22 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
 [^f00006]: Footnote: See [S.I. 1952/2031](https://www.legislation.gov.uk/uksi/1952/2031) (1952 I. p.620). The relevant amending instruments are [S.I. 1956/731](https://www.legislation.gov.uk/uksi/1956/731), [1963/88](https://www.legislation.gov.uk/uksi/1963/88), [1633](https://www.legislation.gov.uk/uksi/1963/1633), [1964/267](https://www.legislation.gov.uk/uksi/1964/267), [1199](https://www.legislation.gov.uk/uksi/1964/1199), [1965/131](https://www.legislation.gov.uk/uksi/1965/131), [1968/724](https://www.legislation.gov.uk/uksi/1968/724), [1973/759](https://www.legislation.gov.uk/uksi/1973/759).
+
+[^c-fcdb05dcf934c89989099e89fd70d6d9]: Commencement: Sch. para. 23 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-7ec8dce52088e75fca2464c998eb5678]: Commencement: Sch. para. 24 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-7d476c4235226de06cf7e5aad7842f07]: Commencement: Sch. para. 25 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-63053ce7dbf1c2750a64f6336268d5ca]: Commencement: Sch. para. 26 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-8ec8337acd695e1b9adb99e70905f2b3]: Commencement: Sch. para. 27 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-54f082e53829ef8bfb85ccc5e89486ed]: Commencement: Sch. para. 28 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-6e176b40ae8bda8afb3e622b69d357e9]: Commencement: Sch. para. 29 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-f22ab2e946bc3361bc9bdc5f266903d0]: Commencement: Sch. para. 30 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-74ffde331a9c7001bc1ae5c20be98980]: Commencement: Sch. para. 31 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-2c01c3794fc5b841e86ec3bcd06f1f40]: Commencement: Sch. para. 32 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-866b086a09110b33f05d5b97e6bfaa89]: Commencement: Sch. para. 33 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-cbf96c45248099fa9bb517664727471f]: Commencement: Sch. para. 34 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-667ce29e442ce762f83c9e3f6d4f6efc]: Commencement: Sch. para. 35 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-8b9060bd321cb093376e4a6fc168db74]: Commencement: Sch. para. 36 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-bd85742f5e38109be35fdf46783c0b17]: Commencement: Sch. para. 37 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-121e39275bf70388f50be60786b7f2c1]: Commencement: Sch. para. 38 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-f01ef31bfe095e0163b27366483bb823]: Commencement: Sch. para. 39 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-034ce212314536251f88e365ac54dd0f]: Commencement: Sch. para. 40 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-c39a90cddf0180b849a7cf82dcff2c28]: Commencement: Sch. para. 41 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-0143ccb43fb13f5e14c75ce79471a186]: Commencement: Sch. para. 42 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-b4b77ed959fe68dcbbf704714017075e]: Commencement: Sch. para. 43 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-f08b433229f095d596cce3c326064ad2]: Commencement: Sch. para. 44 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-61079c661399d4580e02a7f49c525673]: Commencement: Sch. para. 45 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-42ac9477e8e213dabf298e96d18ebc00]: Commencement: Sch. para. 46 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-cf335d0d5cba1c1f01cf3c53f4c557b6]: Commencement: Sch. para. 47 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-f0a7c95402e56aa20b91d30456a3fc13]: Commencement: Sch. para. 48 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-3e1da901718e26a556688cbd5a4be3c4]: Commencement: Sch. para. 49 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-f8a01eaffdef125f58e93d69232c2f23]: Commencement: Sch. para. 50 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-26362eddcf7fe739002c812984943ad5]: Commencement: Sch. para. 51 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-c0c616314d9f27b962d301f7edb882ce]: Commencement: Sch. para. 52 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-f85c28f806ba7161fc9848fed51ef669]: Commencement: Sch. para. 53 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-b346acbc76d7b787598b84dc8a3bd3ab]: Commencement: Sch. para. 54 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
 
 [^f00007]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
+[^c-7c1fb0024515a5caf41e627fae797f75]: Commencement: Sch. para. 55 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-92594ed4c999591a628c45407b09a536]: Commencement: Sch. para. 56 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-43e58501085a03e495d461e23052ad93]: Commencement: Sch. para. 57 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-43193d65115f18d3635c4124753380a5]: Commencement: Sch. para. 58 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-6a9c0279a791891df665aa62d3f9b4bc]: Commencement: Sch. para. 59 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-5a863512ac08571815ead625782dd87e]: Commencement: Sch. para. 60 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-795c2fe400e307010f336ba3a67021b5]: Commencement: Sch. para. 61 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-4d213271be4be738e56cefac2636a7c4]: Commencement: Sch. para. 62 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-e000093480cbf0753ced3c26473bf13a]: Commencement: Sch. para. 63 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-9dffcef37e33764ef2c939cede0e1ae2]: Commencement: Sch. para. 64 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-98aa8b286250354c8e975bebdc9e3ecf]: Commencement: Sch. para. 65 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-dfec26d8a487b68c32ea760034772e89]: Commencement: Sch. para. 66 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-0960554afc489ebf92e7af6d682aae3c]: Commencement: Sch. para. 67 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-1ef06be8a64f9fa0c81ce0a3d0dc5cdb]: Commencement: Sch. para. 68 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-19d4d6960679f954dd3c10ed26493f97]: Commencement: Sch. para. 69 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-dbf34b0ee287801c1840b9381b78a83e]: Commencement: Sch. para. 70 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-2ca5a03fda6f736b303b9ad8ae9962cb]: Commencement: Sch. para. 71 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-d0a53a2b4e0d08615f8c6d2c0602662c]: Commencement: Sch. para. 72 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-277647d7334eebc1f0c08b3bdca28125]: Commencement: Sch. para. 73 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-0c813426ae227646e9276768a03d8525]: Commencement: Sch. para. 74 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-f7d753e9565e5b4cf8a8f950e4bf70a9]: Commencement: Sch. para. 75 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-4141c6a8c3085445c39f6817d6610a13]: Commencement: Sch. para. 76 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-997867b2334a82b7eadac9626cf1792f]: Commencement: Sch. para. 77 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-f23370f08482379c20a4f771947f6a00]: Commencement: Sch. para. 78 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-1b98059346088d2a2d8d641726e2cd3a]: Commencement: Sch. para. 79 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-a3eb5b513cb999cf7e3339f88045bd8d]: Commencement: Sch. para. 80 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-ed76e8929a23aba78a754e9df392068d]: Commencement: Sch. para. 81 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-9796f28b84f12f88be3b78d1384651cd]: Commencement: Sch. para. 82 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-7577be3a30e68c4b748e2d6fac7b4c67]: Commencement: Sch. para. 83 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-49a2a0c31bbc3f96f823ca7ef04e0e3a]: Commencement: Sch. para. 84 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-eb411519d428402d6578af29b27e66f6]: Commencement: Sch. para. 85 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-c1b646c3716cde5ff6bf99441e05d862]: Commencement: Sch. para. 86 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-8fd3874726f201976d3ef3aea9b87330]: Commencement: Sch. para. 87 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-dad641a0ae13cacc33296bdfcb85d027]: Commencement: Sch. para. 88 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-969f46c5f6b0b513020c4c292084d58a]: Commencement: Sch. para. 89 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-16ab6983d79f01df8a7dfebd528dc7c8]: Commencement: Sch. para. 90 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
 [^f00008]: Footnote: [1833 c.41](https://www.legislation.gov.uk/ukpga/1833/41).
+
+[^c-9f65afa0182d25a2eb70bc5ccde63a86]: Commencement: Sch. para. 91 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-56fbe33793ed2a3d30e549fd9b77fd15]: Commencement: Sch. para. 92 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-9a84e40e035cfbf6e66a3a8eaa386b44]: Commencement: Sch. para. 93 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-d9c474ad4448fb769bba86b75dbf404e]: Commencement: Sch. para. 94 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-77bb9c318a90fa30faedeb873f8d4a5c]: Commencement: Sch. para. 95 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-16ec82093468ecd2c6f704b182b8e76a]: Commencement: Sch. para. 96 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-ee305d218ed370447f777e11f212414a]: Commencement: Sch. para. 97 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-260c7b15985814d337a17cc28b8d6cc0]: Commencement: Sch. para. 98 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-7d8a8cfd351d572e5584cb26590fd567]: Commencement: Sch. para. 99 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
+
+[^c-f9329963249e4db7d9def79da5422249]: Commencement: Sch. para. 100 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
 
 [^f00009]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).

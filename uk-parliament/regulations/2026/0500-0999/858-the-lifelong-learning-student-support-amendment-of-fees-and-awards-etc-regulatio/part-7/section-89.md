@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 89
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '89'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/89
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 89
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 89. Overpayment of fee loans
+## 89. Overpayment of fee loans[^c-526cf5dd31906247c38e7f94018e4ce0]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An overpayment of a fee loan is recoverable by the Secretary of State from—
 
@@ -31,3 +37,7 @@ summary: ''
 - (b) by subtracting the overpayment from any kind of grant or loan payable to the student from time to time pursuant to regulations made by the Secretary of State under section 22 of the 1998 Act as modified by section 28A of that Act;
 - (c) by requiring the student to repay the fee loan in accordance with regulations made under section 22 of the 1998 Act as modified by section 28A of that Act;
 - (d) by taking such other action for the recovery of an overpayment as is available to the Secretary of State.
+
+## Annotations
+
+[^c-526cf5dd31906247c38e7f94018e4ce0]: Commencement: Reg. 89 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

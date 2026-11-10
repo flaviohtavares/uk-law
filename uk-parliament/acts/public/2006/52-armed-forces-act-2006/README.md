@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2006-11-08'
-text_date: '2026-10-05'
+text_date: '2026-11-03'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2006/52
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2006/52/pdfs/ukpgaen_20060052_en.pdf
 - http://www.legislation.gov.uk/ukpga/2006/52/pdfs/ukpga_20060052_en.pdf
 - http://www.legislation.gov.uk/ukpga/2006/52/data.pdf
-pending_changes: 204
+pending_changes: 189
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Armed Forces Act 2006
 
-> **Warning: changes not yet applied to this text (204).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/52
+> **Warning: changes not yet applied to this text (189).** Text as at 2026-11-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/52
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

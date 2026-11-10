@@ -3,16 +3,16 @@ title: The Community Infrastructure Levy Regulations 2010
 id: uksi/2010/948
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2010-03-23'
-text_date: '2026-09-14'
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2010/948
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/948/pdfs/uksiem_20100948_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/948/pdfs/uksi_20100948_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/948/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Community Infrastructure Levy Regulations 2010
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/uksi/2010/948
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales.
 

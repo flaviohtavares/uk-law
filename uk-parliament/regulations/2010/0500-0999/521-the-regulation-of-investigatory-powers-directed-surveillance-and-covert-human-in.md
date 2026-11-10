@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2010-02-25'
-text_date: '2026-09-30'
+text_date: '2026-10-29'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/521
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/521/pdfs/uksiem_20100521_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/521/pdfs/uksi_20100521_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/521/data.pdf
-pending_changes: 5
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2010/521
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/uksi/2010/521
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -227,9 +227,10 @@ An individual holding an office, rank or position with the Food Standards Agency
   - (i) section 146 of the Licensing Act 2003[^f00003] (sale of alcohol to children);
   - (ii) section 147 of the Licensing Act 2003 (allowing the sale of alcohol to children);
   - (iii) section 147A of the Licensing Act 2003[^f00004] (persistently selling alcohol to children);
-  - (iv) section 7 of the Children and Young Persons Act 1933[^f00005] (sale of tobacco, etc, to persons under eighteen);[^c-314a93fa8a97a23beda6f0132a301e27]
-  - (v)[^c-8c03cb02a235ba5e07d04a04bdc95c51] section 91 of the Children and Families Act 2014[^f00003] (purchase of tobacco, nicotine products etc. on behalf of persons under 18);
-  - (vi) section 92 of the Children and Families Act 2014 (prohibition of sale of nicotine products to persons under 18).
+  - (iv) section 7 of the Children and Young Persons Act 1933[^f00005] (sale of tobacco, etc, to persons under eighteen) ;[^c-314a93fa8a97a23beda6f0132a301e27]
+  - (v)[^c-8c03cb02a235ba5e07d04a04bdc95c51] section 91 of the Children and Families Act 2014[^f00003] (purchase of tobacco [^c-e653f8de358f8f3320cd440abcb98b6b]... etc. on behalf of persons under 18);
+  - (vi)[^c-bcfd090ff4383aa3e42c386ed5089c62] section 10 of the Tobacco and Vapes Act 2026 (sale of vaping or nicotine products to under 18s);
+  - (vii)[^c-3d1e42ea72184c285ab685f572f1dc97] section 11 of the Tobacco and Vapes Act 2026 (purchase of vaping or nicotine products on behalf of under 18s).
 
 ## 8.[^c-b3523936c5fb3887f69cfbdba5f9b56d]
 
@@ -599,6 +600,12 @@ Consequential amendments are made to the Schedule to this Order. In addition, no
 [^c-314a93fa8a97a23beda6f0132a301e27]: Textual amendment: [Art. 7A(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2010/521/article/7A/3/b/iv): semicolon substituted for full stop (1.10.2015) by [The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) (Amendment) Order 2015 (S.I. 2015/937)](https://www.legislation.gov.uk/uksi/2015/937), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/937/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/937/article/2/2/a)
 
 [^c-8c03cb02a235ba5e07d04a04bdc95c51]: Textual amendment: [Art. 7A(3)(b)(v)](https://www.legislation.gov.uk/uksi/2010/521/article/7A/3/b/v)[(vi)](https://www.legislation.gov.uk/uksi/2010/521/article/7A/3/b/vi) added (1.10.2015) by [The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) (Amendment) Order 2015 (S.I. 2015/937)](https://www.legislation.gov.uk/uksi/2015/937), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/937/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/937/article/2/2/b)
+
+[^c-e653f8de358f8f3320cd440abcb98b6b]: Textual amendment: Words in [art. 7A(3)(b)(v)](https://www.legislation.gov.uk/uksi/2010/521/article/7A/3/b/v) omitted (29.10.2026) by virtue of [The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) (Amendment) Order 2026 (S.I. 2026/956)](https://www.legislation.gov.uk/uksi/2026/956), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2026/956/article/2/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/956/article/4/3)
+
+[^c-bcfd090ff4383aa3e42c386ed5089c62]: Textual amendment: [Art. 7A(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2010/521/article/7A/3/b/vi) substituted (29.10.2026) by [The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) (Amendment) Order 2026 (S.I. 2026/956)](https://www.legislation.gov.uk/uksi/2026/956), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2026/956/article/2/1), [4(5)](https://www.legislation.gov.uk/uksi/2026/956/article/4/5)
+
+[^c-3d1e42ea72184c285ab685f572f1dc97]: Textual amendment: [Art. 7A(3)(b)(vii)](https://www.legislation.gov.uk/uksi/2010/521/article/7A/3/b/vii) inserted (29.10.2026) by [The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) (Amendment) Order 2026 (S.I. 2026/956)](https://www.legislation.gov.uk/uksi/2026/956), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2026/956/article/2/1), [4(6)](https://www.legislation.gov.uk/uksi/2026/956/article/4/6)
 
 [^c-b3523936c5fb3887f69cfbdba5f9b56d]: Commencement: Art. 8 in force at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/521/article/1/1)
 

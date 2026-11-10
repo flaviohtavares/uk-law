@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1996-07-24'
-text_date: '2026-09-01'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1996/56
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1996/56/pdfs/ukpga_19960056_en.pdf
 - http://www.legislation.gov.uk/ukpga/1996/56/data.pdf
-pending_changes: 69
+pending_changes: 63
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Education Act 1996
 
-> **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

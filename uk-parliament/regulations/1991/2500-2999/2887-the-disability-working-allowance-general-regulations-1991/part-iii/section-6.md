@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 6
 act: The Disability Working Allowance (General) Regulations 1991
 section: '6'
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 6
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -33,6 +33,7 @@ summary: ''
 - (a) he is engaged by a charitable or voluntary organisation or is a volunteer, where the only payment received by him or due to be paid to him is a payment which is to be disregarded under regulation 27(2) and paragraph 2 of Schedule 3 (sums to be disregarded in the calculation of income other than earnings);
 - (b) he is engaged in caring for a person in respect of whom he receives payments to which paragraph 24 of Schedule 3 refers; or
 - (c) he is engaged on a scheme for which a training allowance is being paid.
+- (da)[^c-dd4befe25a5f04af708a7b74dbe03318] he is participating in the Intensive Activity Period specified in regulation 75(1)(a)(iv) of the Jobseeker’s Allowance Regulations 1996 or in the Intensive Activity Period for 50 plus;
 - (e)[^c-ed7c0dacde29fff1add61622d9b85eee] he is engaged in an activity in respect of which—
   - (i) a sports award has been made, or is to be made, to him; and
   - (ii) no other payment is made or is expected to be made to him or[^c-d340c3eb9a98b32ab3757d1f6ad3ef78]
@@ -92,6 +93,8 @@ summary: ''
 [^c-27dd67cf50b2b52b3d6471c524f1dd26]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/2) omitted (5.10.1992) by virtue of [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1992 (S.I. 1992/2155)](https://www.legislation.gov.uk/uksi/1992/2155), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2155/regulation/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/1992/2155/schedule/paragraph/2/b)
 
 [^c-396c17323bed452964ddd88a22babb79]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/3) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No.5) Regulations 1994 (S.I. 1994/2139)](https://www.legislation.gov.uk/uksi/1994/2139), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1994/2139/regulation/1/1/b), [2(a)](https://www.legislation.gov.uk/uksi/1994/2139/regulation/2/a)
+
+[^c-dd4befe25a5f04af708a7b74dbe03318]: Textual amendment: [Reg. 6(3)(da)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/3/da) inserted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/5/2)
 
 [^c-ed7c0dacde29fff1add61622d9b85eee]: Textual amendment: [Reg. 6(3)(e)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/6/3/e) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security Amendment (Sports Awards) Regulations 1999 (S.I. 1999/2165)](https://www.legislation.gov.uk/uksi/1999/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2165/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/1999/2165/regulation/4/2)
 

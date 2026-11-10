@@ -24,7 +24,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Merchant Shipping and Maritime Security Act 1997](../uk-parliament/acts/public/1997/28-merchant-shipping-and-maritime-security-act-1997/README.md) — 6 regulations on this topic made under it
 - [Railways and Transport Safety Act 2003](../uk-parliament/acts/public/2003/20-railways-and-transport-safety-act-2003/README.md) *(changes pending)* — 6 regulations on this topic made under it
 - [Prevention of Oil Pollution Act 1971](../uk-parliament/acts/public/1971/60-prevention-of-oil-pollution-act-1971.md) — 4 regulations on this topic made under it
-- [Seafarers’ Wages Act 2023](../uk-parliament/acts/public/2023/8-seafarers-wages-act-2023.md) *(changes pending)* — 4 regulations on this topic made under it
 
 ## Regulations
 
@@ -56,7 +55,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1298-the-merchant-shipping-safety-measures-for-ships-carrying-industrial-personnel-an.md) *(as originally made)*
 - [The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/134-the-merchant-shipping-safety-of-navigation-amendment-regulations-2025.md) *(as originally made)*
 - [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1195-the-merchant-shipping-vessels-in-commercial-use-for-sport-or-pleasure-regulation.md)
-- [The Seafarers' Wages (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/289-the-seafarers-wages-amendment-regulations-2025.md) *(changes pending)*
+- [The Seafarers' Wages (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/289-the-seafarers-wages-amendment-regulations-2025.md)
 
 **2024**
 
@@ -66,8 +65,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1296-the-merchant-shipping-prevention-of-oil-pollution-amendment-regulations-2024.md) *(as originally made)*
 - [The Merchant Shipping (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2024](../uk-parliament/regulations/2024/0500-0999/570-the-merchant-shipping-prevention-of-pollution-by-garbage-from-ships-amendment-re.md) *(as originally made)*
 - [The Merchant Shipping (Special Measures to Enhance Maritime Safety) Regulations 2024](../uk-parliament/regulations/2024/0000-0499/280-the-merchant-shipping-special-measures-to-enhance-maritime-safety-regulations-20.md)
-- [The Seafarers' Wages Act 2023 (Commencement) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1008-the-seafarers-wages-act-2023-commencement-regulations-2024.md) *(as originally made)*
-- [The Seafarers’ Wages Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1015-the-seafarers-wages-regulations-2024.md) *(changes pending)*
+- [The Seafarers' Wages Act 2023 (Commencement) Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1008-the-seafarers-wages-act-2023-commencement-regulations-2024.md) *(changes pending)*
+- [The Seafarers’ Wages Regulations 2024](../uk-parliament/regulations/2024/1000-1499/1015-the-seafarers-wages-regulations-2024.md)
 - [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024](../uk-parliament/regulations/2024/0500-0999/504-the-treatment-of-conformity-assessment-bodies-comprehensive-and-progressive-agre.md)
 
 **2023**

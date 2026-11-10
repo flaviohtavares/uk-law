@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 58
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '58'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/58
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 58
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 58. General qualifying conditions for supplementary grants
+## 58. General qualifying conditions for supplementary grants[^c-27b69c2a8d6bf1780e61463a146d7363]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student qualifies for a supplementary grant in relation to a course year of a designated course if—
 
@@ -40,3 +46,7 @@ summary: ''
 unless the placement constitutes unpaid service.
 
 (5) For the purposes of paragraph (1)(b), a course year of a designated course meets the credit threshold requirement for a supplementary grant if the course year has attached to it at least the threshold number of credits specified in relation to that grant in regulation 61(2), 65(2), 75(2), 76(2) or 77(2).
+
+## Annotations
+
+[^c-27b69c2a8d6bf1780e61463a146d7363]: Commencement: Reg. 58 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

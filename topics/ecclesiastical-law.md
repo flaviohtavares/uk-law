@@ -14,7 +14,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [National Institutions Measure 1998](../uk-parliament/church-measures/1998/1-national-institutions-measure-1998.md) *(changes pending)* — 11 regulations on this topic made under it
 - [Ecclesiastical Offices (Terms of Service) Measure 2009](../uk-parliament/church-measures/2009/1-ecclesiastical-offices-terms-of-service-measure-2009.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Diocese in Europe Measure 1980](../uk-parliament/church-measures/1980/2-diocese-in-europe-measure-1980.md) — 9 regulations on this topic made under it
-- [Redundant Churches and Other Religious Buildings Act 1969](../uk-parliament/acts/public/1969/22-redundant-churches-and-other-religious-buildings-act-1969.md) — 8 regulations on this topic made under it
+- [Redundant Churches and Other Religious Buildings Act 1969](../uk-parliament/acts/public/1969/22-redundant-churches-and-other-religious-buildings-act-1969.md) — 7 regulations on this topic made under it
 - [Patronage (Benefices) Measure 1986](../uk-parliament/church-measures/1986/3-patronage-benefices-measure-1986/README.md) *(changes pending)* — 6 regulations on this topic made under it
 - [Channel Islands (Church Legislation) Measure 1931](../uk-parliament/church-measures/geo5-21-22/4-channel-islands-church-legislation-measure-1931.md) *(changes pending)* — 5 regulations on this topic made under it
 - [Church of England (Miscellaneous Provisions) Measure 2020](../uk-parliament/church-measures/2020/1-church-of-england-miscellaneous-provisions-measure-2020.md) — 5 regulations on this topic made under it
@@ -28,7 +28,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-222 in force.
+221 in force.
 
 **2026**
 
@@ -175,7 +175,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Grants to the Churches Conservation Trust Order 2008](../uk-parliament/regulations/2008/0500-0999/842-the-grants-to-the-churches-conservation-trust-order-2008.md) *(changes pending)*
 - [The Parochial Fees Order 2008](../uk-parliament/regulations/2008/2000-2499/2470-the-parochial-fees-order-2008.md) *(as originally made)*
 
 **2007**

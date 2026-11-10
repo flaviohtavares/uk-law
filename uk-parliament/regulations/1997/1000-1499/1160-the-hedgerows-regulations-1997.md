@@ -3,14 +3,14 @@ title: The Hedgerows Regulations 1997
 id: uksi/1997/1160
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1997-03-24'
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1997/1160
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1997/1160/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Hedgerows Regulations 1997
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/uksi/1997/1160
+> Text as at 2026-10-31.
 >
 > Extent: England, Wales.
 
@@ -141,9 +141,9 @@ For the purposes of section 97 (hedgerows) of the Environment Act 1995 and these
 
 (10) Where a hedgerow is or is to be removed by or on behalf of a relevant utility operator from land of which it is not the owner, paragraph (1)(a) shall apply as though the reference to the owner were instead a reference to the relevant utility operator.
 
-## 6. Permitted work[^c-83e0a1704b4f2bd0b8e7659acdcc8c3f][^c-1cd7235a128cd2d39eeb1c8cfe12e365][^c-9812332d4e08b384faffbb9d9d124d7f][^c-69468bd3e658a18ef780905b38e2005d][^c-962364d580a3fc3fa917b6db848d2746][^c-2ac616aa8d631b54d06d92f246b5c4ea][^c-4e6bf76adeb986fce7190f2cc2414af7][^c-9d3771d62e21ec6f6e1b2d7efd18da4f][^c-3735e3863b468def6d6a22a78bd4d285][^c-4c1f764112c9930db227ad46ee220898][^c-c81b2c0338bacf9825486134feb4aac5][^c-cac01d8b6f356d94d55c6dfd763f7cfb][^c-d40a91592da4feace656f23ce213e6e1][^c-89fc1dfc3a5ee71258807b03be50a5dd][^c-4150c9a3848ce1319defd0a232196e03][^c-bd97df91864350a567310101428088d6][^c-07b582e62459c96af4896101df251bdb][^c-577375e1e4f00d546dc9d1521ec57d40][^c-abc5ee6b3a0b0d887a3fd3450cbf6163][^c-4486206470342de330cd0098f00a8a72][^c-3491bfa6bb3e656374835f88d0638508][^c-86162391c02e617892c83603f18366b9][^c-122e18d76939fa2bbc09a49cde4a5329][^c-698fd7fd48638997e6eaec2ed131ff32][^c-6164d1e879248db7c4d57752c80b105a][^c-7fca63d93663eb01c2238b0b926f0734][^c-369d9e5103455998535410b9bb778a24][^c-f1546b00c6e7c33c881b6c91df1d3f5c][^c-cacb462e8f65b151e824c926f3a8b3ba][^c-9c6532be177dc69238b0d86f8545ddcd][^c-e7547a3f44ace2ef8ee92848c281d10e][^c-f12a37da04b424cb0cae4c1791e05a0b][^c-745224915c4c0ecdde631cd80b711c4d]
+## 6. Permitted work[^c-83e0a1704b4f2bd0b8e7659acdcc8c3f][^c-1cd7235a128cd2d39eeb1c8cfe12e365][^c-9812332d4e08b384faffbb9d9d124d7f][^c-69468bd3e658a18ef780905b38e2005d][^c-962364d580a3fc3fa917b6db848d2746][^c-2ac616aa8d631b54d06d92f246b5c4ea][^c-4e6bf76adeb986fce7190f2cc2414af7][^c-9d3771d62e21ec6f6e1b2d7efd18da4f][^c-3735e3863b468def6d6a22a78bd4d285][^c-4c1f764112c9930db227ad46ee220898][^c-c81b2c0338bacf9825486134feb4aac5][^c-cac01d8b6f356d94d55c6dfd763f7cfb][^c-d40a91592da4feace656f23ce213e6e1][^c-89fc1dfc3a5ee71258807b03be50a5dd][^c-4150c9a3848ce1319defd0a232196e03][^c-bd97df91864350a567310101428088d6][^c-07b582e62459c96af4896101df251bdb][^c-577375e1e4f00d546dc9d1521ec57d40][^c-abc5ee6b3a0b0d887a3fd3450cbf6163][^c-4486206470342de330cd0098f00a8a72][^c-3491bfa6bb3e656374835f88d0638508][^c-86162391c02e617892c83603f18366b9][^c-122e18d76939fa2bbc09a49cde4a5329][^c-698fd7fd48638997e6eaec2ed131ff32][^c-6164d1e879248db7c4d57752c80b105a][^c-7fca63d93663eb01c2238b0b926f0734][^c-369d9e5103455998535410b9bb778a24][^c-f1546b00c6e7c33c881b6c91df1d3f5c][^c-cacb462e8f65b151e824c926f3a8b3ba][^c-9c6532be177dc69238b0d86f8545ddcd][^c-e7547a3f44ace2ef8ee92848c281d10e][^c-f12a37da04b424cb0cae4c1791e05a0b][^c-745224915c4c0ecdde631cd80b711c4d][^c-85b81e9477f5a674566761246d62d0a3]
 
-(1)[^c-a0d05dafe2042578cca7291f5cebe09c][^c-d6d284be5808943a1ba14dd760fb2b89][^c-46299f17a0afe8fd4578ff0a73e5a7a7][^c-fc2f895e3cc50b7ad2a701da3c233990][^c-3eed56a37ab152b5d4c4529cdb7e06ff][^c-def52b509833426d5ae4ada70695dc09][^c-55af57ed2baa853c350eb799cc5139ce][^c-1a203eac816d4a9bea3d1f85653cc0d5][^c-4b2547f4deb0e2a214bd4e27a5ff966b] The removal of any hedgerow to which these Regulations apply is permitted if it is required—
+(1)[^c-a0d05dafe2042578cca7291f5cebe09c][^c-d6d284be5808943a1ba14dd760fb2b89][^c-46299f17a0afe8fd4578ff0a73e5a7a7][^c-fc2f895e3cc50b7ad2a701da3c233990][^c-3eed56a37ab152b5d4c4529cdb7e06ff][^c-def52b509833426d5ae4ada70695dc09][^c-55af57ed2baa853c350eb799cc5139ce][^c-1a203eac816d4a9bea3d1f85653cc0d5][^c-4b2547f4deb0e2a214bd4e27a5ff966b][^c-8e5aa92fe8d98b8811fa5cd3c8b9c35a] The removal of any hedgerow to which these Regulations apply is permitted if it is required—
 
 - (a) for making a new opening in substitution for an existing opening which gives access to land, but subject to paragraph (2);
 - (b) for obtaining temporary access to any land in order to give assistance in an emergency;
@@ -721,6 +721,8 @@ The criterion for determining important hedgerows set out in paragraph 6 of Part
 
 [^c-745224915c4c0ecdde631cd80b711c4d]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (14.9.2026) by [The Beacon Fen Energy Park Order 2026 (S.I. 2026/1025)](https://www.legislation.gov.uk/uksi/2026/1025), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1025/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2026/1025/article/8/2) (with [art. 39](https://www.legislation.gov.uk/uksi/2026/1025/article/39), [Sch. 11 para. 131](https://www.legislation.gov.uk/uksi/2026/1025/schedule/11/paragraph/131))
 
+[^c-85b81e9477f5a674566761246d62d0a3]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (31.10.2026) by [The Steeple Renewables Project Order 2026 (S.I. 2026/1086)](https://www.legislation.gov.uk/uksi/2026/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1086/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2026/1086/article/6/2) (with [Sch. 10](https://www.legislation.gov.uk/uksi/2026/1086/schedule/10))
+
 [^c-a0d05dafe2042578cca7291f5cebe09c]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) applied (with modifications) (7.1.2015) by [The Willington C Gas Pipeline Order 2014 (S.I. 2014/3328)](https://www.legislation.gov.uk/uksi/2014/3328), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/3328/article/3/1)
 
 [^c-d6d284be5808943a1ba14dd760fb2b89]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (11.3.2015) by [The Dogger Bank Creyke Beck Offshore Wind Farm Order 2015 (S.I. 2015/318)](https://www.legislation.gov.uk/uksi/2015/318), [arts. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1), [10(8)](https://www.legislation.gov.uk/uksi/2015/318/article/10/8) (with [arts. 40](https://www.legislation.gov.uk/uksi/2015/318/article/40), [41](https://www.legislation.gov.uk/uksi/2015/318/article/41), [Sch. 12](https://www.legislation.gov.uk/uksi/2015/318/schedule/12))
@@ -738,6 +740,8 @@ The criterion for determining important hedgerows set out in paragraph 6 of Part
 [^c-1a203eac816d4a9bea3d1f85653cc0d5]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (5.6.2026) by [The Dogger Bank South East and West Offshore Wind Farms Order 2026 (S.I. 2026/577)](https://www.legislation.gov.uk/uksi/2026/577), [arts. 1](https://www.legislation.gov.uk/uksi/2026/577/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2026/577/article/6/2) (with [arts. 40](https://www.legislation.gov.uk/uksi/2026/577/article/40), [41](https://www.legislation.gov.uk/uksi/2026/577/article/41), [Sch. 15](https://www.legislation.gov.uk/uksi/2026/577/schedule/15))
 
 [^c-4b2547f4deb0e2a214bd4e27a5ff966b]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (30.7.2026) by [The One Earth Solar Farm Order 2026 (S.I. 2026/934)](https://www.legislation.gov.uk/uksi/2026/934), [arts. 1](https://www.legislation.gov.uk/uksi/2026/934/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2026/934/article/6/3) (with [art. 47](https://www.legislation.gov.uk/uksi/2026/934/article/47))
+
+[^c-8e5aa92fe8d98b8811fa5cd3c8b9c35a]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (30.10.2026) by [The Green Hill Solar Farm Order 2026 (S.I. 2026/1074)](https://www.legislation.gov.uk/uksi/2026/1074), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1074/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2026/1074/article/6/3) (with [Sch. 15](https://www.legislation.gov.uk/uksi/2026/1074/schedule/15))
 
 [^f00016]: Footnote: S.I. [1995/418](https://www.legislation.gov.uk/uksi/1995/418).
 

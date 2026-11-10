@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 24
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 24. Fee loan entitlement balance
+## 24. Fee loan entitlement balance[^c-749a3c0a78e51d097a1c4cc0da2abeae]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The fee loan entitlement balance of an eligible student (“**A**”) is what remains of A’s lifetime entitlement or residual entitlement (as the case may be) after—
 
@@ -30,3 +36,7 @@ summary: ''
 (3) In paragraph (1), “**residual entitlement**” has the meaning given by regulation 23.
 
 (4) In paragraph (2), “**year of study**” means courses starting on or after 1st August 2026 and ending before 31st July 2027.
+
+## Annotations
+
+[^c-749a3c0a78e51d097a1c4cc0da2abeae]: Commencement: Reg. 24 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

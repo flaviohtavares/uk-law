@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 39
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '39'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 39
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 39. Location categories and final course years
+## 39. Location categories and final course years[^c-3131a443aba2b93f8d060b899a356bb4]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) In this Part—
 
@@ -51,3 +57,7 @@ summary: ''
   - (i) in the borough of Elmbridge, the area of the former urban district of Esher,
   - (ii) the boroughs of Epsom and Ewell and Spelthorne, and
   - (iii) in the district of Reigate and Banstead, the area of the former urban district of Banstead.
+
+## Annotations
+
+[^c-3131a443aba2b93f8d060b899a356bb4]: Commencement: Reg. 39 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

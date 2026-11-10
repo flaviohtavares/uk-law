@@ -9,7 +9,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Sea Fish (Conservation) Act 1967](../uk-parliament/acts/public/1967/84-sea-fish-conservation-act-1967.md) — 210 regulations on this topic made under it
 - [Fisheries Act 1981](../uk-parliament/acts/public/1981/29-fisheries-act-1981/README.md) *(changes pending)* — 145 regulations on this topic made under it
 - [Sea Fisheries (Shellfish) Act 1967](../uk-parliament/acts/public/1967/83-sea-fisheries-shellfish-act-1967.md) *(changes pending)* — 65 regulations on this topic made under it
-- [Inshore Fishing (Scotland) Act 1984](../uk-parliament/acts/public/1984/26-inshore-fishing-scotland-act-1984.md) — 31 regulations on this topic made under it
+- [Inshore Fishing (Scotland) Act 1984](../uk-parliament/acts/public/1984/26-inshore-fishing-scotland-act-1984.md) — 30 regulations on this topic made under it
 - [Sea Fisheries Act 1968](../uk-parliament/acts/public/1968/77-sea-fisheries-act-1968.md) — 20 regulations on this topic made under it
 - [Conservation of Seals Act 1970](../uk-parliament/acts/public/1970/30-conservation-of-seals-act-1970.md) — 13 regulations on this topic made under it
 - [Fisheries Act 2020](../uk-parliament/acts/public/2020/22-fisheries-act-2020/README.md) — 13 regulations on this topic made under it
@@ -19,7 +19,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-611 in force.
+610 in force.
 
 **2026**
 
@@ -245,7 +245,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Fal & Helford Designated Area (Fishing Restrictions) Order 2008](../uk-parliament/regulations/2008/2000-2499/2360-the-fal-helford-designated-area-fishing-restrictions-order-2008.md)
 - [The Fisheries and Aquaculture Structures (Grants) (England) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1322-the-fisheries-and-aquaculture-structures-grants-england-amendment-regulations-20.md)
 - [The Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Amendment) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/304-the-inshore-fishing-prohibition-of-fishing-and-fishing-methods-amendment-regulat.md) *(as originally made)*
-- [The Inshore Fishing (Prohibition on Fishing) (Lamlash Bay) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/317-the-inshore-fishing-prohibition-on-fishing-lamlash-bay-scotland-order-2008.md) *(changes pending)*
 - [The Lyme Bay Designated Area (Fishing Restrictions) Order 2008](../uk-parliament/regulations/2008/1500-1999/1584-the-lyme-bay-designated-area-fishing-restrictions-order-2008.md)
 - [The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2008](../scotland/regulations/2008/0000-0499/29-the-sea-fish-prohibited-methods-of-fishing-firth-of-clyde-order-2008.md) *(as originally made)*
 - [The Sea Fishing (Enforcement of Community Measures) (Penalty Notices) Order 2008](../uk-parliament/regulations/2008/0500-0999/984-the-sea-fishing-enforcement-of-community-measures-penalty-notices-order-2008.md) *(changes pending)*

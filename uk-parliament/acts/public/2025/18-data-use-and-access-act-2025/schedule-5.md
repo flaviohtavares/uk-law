@@ -3,7 +3,7 @@ title: Data (Use and Access) Act 2025, Schedule 5
 act: Data (Use and Access) Act 2025
 section: schedule-5
 status: revised
-text_date: '2026-09-30'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2025/18/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Data (Use and Access) Act 2025, Schedule 5
 
-> Text as at 2026-09-30.
+> Text as at 2026-11-09.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

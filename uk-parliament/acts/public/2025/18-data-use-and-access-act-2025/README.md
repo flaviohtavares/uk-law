@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised
 made_date: '2025-06-19'
-text_date: '2026-09-30'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2025/18
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # Data (Use and Access) Act 2025
 
-> Text as at 2026-09-30.
+> Text as at 2026-11-09.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

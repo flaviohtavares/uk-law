@@ -3,16 +3,16 @@ title: The Falkland Islands Constitution Order 2008
 id: uksi/2008/2846
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-05'
-text_date: null
-extent: null
+text_date: '2008-11-05'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2846
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2846/pdfs/uksiem_20082846_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2846/pdfs/uksi_20082846_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2846/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/2846/data.pdf
+pending_changes: 113
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Falkland Islands Constitution Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (113).** Text as at 2008-11-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2846
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 2846
 
@@ -62,9 +68,17 @@ Her Majesty, in exercise of the powers conferred upon Her by the British Settlem
 
 - [SCHEDULE](schedule.md)
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 Judith Simpson
 
 Clerk of the Privy Council
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 EXPLANATORY NOTE
 

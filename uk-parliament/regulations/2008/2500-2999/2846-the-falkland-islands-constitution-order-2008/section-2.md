@@ -2,9 +2,9 @@
 title: The Falkland Islands Constitution Order 2008, section 2
 act: The Falkland Islands Constitution Order 2008
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-11-05'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2846/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Falkland Islands Constitution Order 2008, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation
+## 2. Interpretation[^c-0f49d8aabfc519953798985e89a34723]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) In this Order—
 
@@ -27,5 +33,7 @@ summary: ''
 (2) Sections 98 to 100 of the Constitution shall apply for the purposes of interpreting sections 1 to 11 of this Order and otherwise in relation to those sections as they apply for the purpose of interpreting and in relation to the Constitution.
 
 ## Annotations
+
+[^c-0f49d8aabfc519953798985e89a34723]: Commencement: Art. 2 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2846/article/1/3)
 
 [^f00002]: Footnote: [S.I. 1985/444](https://www.legislation.gov.uk/uksi/1985/444), as amended by [S.I. 1997/864](https://www.legislation.gov.uk/uksi/1997/864) and [1997/2974](https://www.legislation.gov.uk/uksi/1997/2974).

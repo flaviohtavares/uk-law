@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 40
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '40'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 40
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 40. Qualifying conditions for a loan for living costs
+## 40. Qualifying conditions for a loan for living costs[^c-402a0979a9ab8c1c7824f2ce56a7f853]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to the following paragraphs, an eligible student qualifies for a loan for living costs in connection with their attendance on a designated course.
 
@@ -40,5 +46,7 @@ summary: ''
 (6) A student who is aged 60 or over at the start of the first course year of a designated course does not qualify for a loan for living costs in relation to a course year of that designated course unless their fee loan entitlement balance, or additional entitlement, as the case may be, in respect of fee loan support is more than nil immediately before the start of the course year.
 
 ## Annotations
+
+[^c-402a0979a9ab8c1c7824f2ce56a7f853]: Commencement: Reg. 40 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00024]: Footnote: [S.I. 2026/856](https://www.legislation.gov.uk/uksi/2026/856).

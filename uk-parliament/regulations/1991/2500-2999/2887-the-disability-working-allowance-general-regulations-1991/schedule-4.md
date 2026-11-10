@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '2001-04-10'
+text_date: '2001-08-07'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (89).** Text as at 2001-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -197,13 +197,15 @@ but only for a period of 52 weeks from the date of receipt of the payment or rep
 
 **50.**[^c-1e95af9acf983c0d35e09b4b28874f7e] The amount of any child maintenance bonus payable by way of a jobseeker’s allowance or income support in accordance with section 10 of the Child Support Act 1995, or a corresponding payment under Article 4 of the Child Support (Northern Ireland) Order 1995, but only for a period of 52 weeks from the date of receipt.
 
-**51.**[^c-d87f15b4fc7767de03d1a279a8e30d28] Any mandatory top-up payment made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in an employment programme specified in—
+**51.**[^c-94df7d1c159999c82689fe2973137952] Any mandatory top-up payment made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in—
 
-- (a) regulation 75(1)(a)(ii)(aa)(ii) of the Jobseeker’s Allowance Regulations 1996 (self-employment route of the Employment Option of the New Deal);
-- (b) regulation 75(1)(a)(ii)(bb) of those Regulations (Voluntary Sector Option of the New Deal); or
-- (c) regulation 75(1)(a)(ii)(cc) of those Regulations (Environment Task Force Option of the New Deal),
+- (a) the self-employment route;
+- (b) an employment programme specified in—
+  - (i) regulation 75(1)(a)(ii)(bb) of the Jobseeker’s Allowance Regulations 1996 (Voluntary Sector Option of the New Deal);
+  - (ii) regulation 75(1)(a)(ii)(cc) of those Regulations (Environmental Task Force Option of the New Deal); or
+- (c) the Intensive Activity Period specified in regulation 75(1)(a)(iv) of those Regulations or the Intensive Activity Period for 50 plus,
 
-but only for a period of 52 weeks from the date of receipt of the payment.
+but only for the period of 52 weeks from the date of receipt of the payment.
 
 **52.**[^c-2bbf477a452d2263df9554ccadac8d4d] Any discretionary payment to meet, or to help meet, special needs made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in the Full-Time Education and Training Option of the New Deal as specified in regulation 75(1)(b)(ii) of the Jobseeker’s Allowance Regulations 1996 but only for a period of 52 weeks from the date of receipt of the payment.
 
@@ -290,6 +292,8 @@ but only to the extent that such payments do not exceed the total amount of any 
 - “trust payment” means a payment under a relevant trust.
 
 **66.**[^c-f861fe6379cf19525246bc90f58ac6a2] Any ex-gratia payment made by the Secretary of State for Northern Ireland directly to the family of a victim of violence within the meaning given by section 1(4) of the Northern Ireland (Location of Victims' Remains) Act 1999.
+
+**67.**[^c-5194e5792348e6fb2f9d287484b6cba7] Any discretionary housing payment paid pursuant to regulation 2(1) of the Discretionary Financial Assistance Regulations 2001.
 
 ## Annotations
 
@@ -469,7 +473,7 @@ but only to the extent that such payments do not exceed the total amount of any 
 
 [^c-1e95af9acf983c0d35e09b4b28874f7e]: Textual amendment: [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/48) added (7.4.1997) by [The Social Security (Child Maintenance Bonus) Regulations 1996 (S.I. 1996/3195)](https://www.legislation.gov.uk/uksi/1996/3195), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3195/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/1996/3195/regulation/15/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/1996/3195/regulation/2))
 
-[^c-d87f15b4fc7767de03d1a279a8e30d28]: Textual amendment: [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/51) substituted (1.6.1998) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 1998 (S.I. 1998/1174)](https://www.legislation.gov.uk/uksi/1998/1174), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/1174/regulation/1/1), [7(9)](https://www.legislation.gov.uk/uksi/1998/1174/regulation/7/9)[(10)(b)](https://www.legislation.gov.uk/uksi/1998/1174/regulation/7/10/b)
+[^c-94df7d1c159999c82689fe2973137952]: Textual amendment: [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/51) substituted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/9/2)
 
 [^c-2bbf477a452d2263df9554ccadac8d4d]: Textual amendment: [Sch. 4 paras. 51](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/51), [52](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/52) added (5.1.1998) by [The Social Security Amendment (New Deal) Regulations 1997 (S.I. 1997/2863)](https://www.legislation.gov.uk/uksi/1997/2863), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/1/1), [17(11)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/11)[(12)(b)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/12/b)
 
@@ -496,3 +500,5 @@ but only to the extent that such payments do not exceed the total amount of any 
 [^c-e26be5e1eed9fc4b09fe95f68997f018]: Textual amendment: [Sch. 4 para. 65](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/65) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 4) Regulations 2001 (S.I. 2001/1082)](https://www.legislation.gov.uk/uksi/2001/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1082/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2001/1082/regulation/8)
 
 [^c-f861fe6379cf19525246bc90f58ac6a2]: Textual amendment: [Sch. 4 para. 66](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/66) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 4) Regulations 2001 (S.I. 2001/1082)](https://www.legislation.gov.uk/uksi/2001/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1082/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2001/1082/regulation/9)
+
+[^c-5194e5792348e6fb2f9d287484b6cba7]: Textual amendment: [Sch. 4 para. 67](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/67) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 6) Regulations 2001 (S.I. 2001/2220)](https://www.legislation.gov.uk/uksi/2001/2220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/5/2)

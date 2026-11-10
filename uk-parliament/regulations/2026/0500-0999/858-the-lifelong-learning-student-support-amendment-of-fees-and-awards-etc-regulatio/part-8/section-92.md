@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 92
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '92'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/92
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 92
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 92. Amendment of the 2016 Master’s Degree Regulations
+## 92. Amendment of the 2016 Master’s Degree Regulations[^c-939e1b20a34526b31ac61edbfdb0fa50]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The 2016 Master’s Degree Regulations are amended in accordance with this regulation.
 
@@ -43,6 +49,8 @@ summary: ''
 - (b) after “2018” insert “, or regulation 10 (designation of courses) or 11 (designation of modules) of the 2026 Student Support Regulations”.
 
 ## Annotations
+
+[^c-939e1b20a34526b31ac61edbfdb0fa50]: Commencement: Reg. 92 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00043]: Footnote: The definition was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127).
 

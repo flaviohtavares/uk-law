@@ -3,16 +3,16 @@ title: The Food (Scotland) Act 2015 (Compliance Notices) Regulations 2023
 id: ssi/2023/161
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2023-05-23'
-text_date: '2023-12-21'
+text_date: '2026-10-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2023/161
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2023/161/pdfs/ssipn_20230161_en_001.pdf
 - http://www.legislation.gov.uk/ssi/2023/161/pdfs/ssi_20230161_en.pdf
 - http://www.legislation.gov.uk/ssi/2023/161/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Food (Scotland) Act 2015 (Compliance Notices) Regulations 2023
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2023-12-21. See https://www.legislation.gov.uk/changes/affected/ssi/2023/161
+> Text as at 2026-10-01.
 >
 > Extent: Scotland.
 
@@ -277,6 +277,10 @@ An offence under regulation 4[^c-c97aabb5eb371894328d20d6fc8c76bc] (as read with
 
 An offence under regulation 4(1) (offences and penalties) of the Food for Specific Groups (Infant Formula and Follow-On Formula) (Scotland) Regulations 2020[^f00037].
 
+### 35. The Food (Promotion and Placement) (Scotland) Regulations 2025[^c-9c20382f797c6b135fc9824a8250b9f1]
+
+An offence under regulation 10 of the Food (Promotion and Placement) (Scotland) Regulations 2025[^f00014].
+
 EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
@@ -442,3 +446,5 @@ A full Business and Regulatory Impact Assessment of the effect that this instrum
 [^c-a5f7f2ad814c6a448ab1f46a1baa9692]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ssi/2023/161/schedule/paragraph/34) in force at 30.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/161/regulation/1/2)
 
 [^f00037]: Footnote: [S.S.I. 2020/6](https://www.legislation.gov.uk/ssi/2020/6).
+
+[^c-9c20382f797c6b135fc9824a8250b9f1]: Textual amendment: [Sch. para. 35](https://www.legislation.gov.uk/ssi/2023/161/schedule/paragraph/35) inserted (1.10.2026) by [The Food (Promotion and Placement) (Scotland) Regulations 2025 (S.S.I. 2025/303)](https://www.legislation.gov.uk/ssi/2025/303), [regs. 1](https://www.legislation.gov.uk/ssi/2025/303/regulation/1), [12](https://www.legislation.gov.uk/ssi/2025/303/regulation/12)

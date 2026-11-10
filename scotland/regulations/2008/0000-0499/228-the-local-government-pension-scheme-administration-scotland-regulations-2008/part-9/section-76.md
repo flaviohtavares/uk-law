@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 76
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '76'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/76
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 76
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 76. Bulk transfers (transfers of undertakings etc.)
+## 76. Bulk transfers (transfers of undertakings etc.)[^c-822dca35fae50e9179b1385b39681844]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) This regulation applies where–
 
@@ -51,5 +57,7 @@ summary: ''
 - (e) these Regulations or the Benefits Regulations.
 
 ## Annotations
+
+[^c-822dca35fae50e9179b1385b39681844]: Commencement: Reg. 76 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00046]: Footnote: S.I. [1998/364](https://www.legislation.gov.uk/uksi/1998/364).

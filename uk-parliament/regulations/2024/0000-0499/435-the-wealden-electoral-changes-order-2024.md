@@ -5,13 +5,13 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2024-03-26'
-text_date: '2026-06-07'
+text_date: '2026-10-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2024/435
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/435/pdfs/uksi_20240435_en.pdf
 - http://www.legislation.gov.uk/uksi/2024/435/data.pdf
-pending_changes: 2
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Wealden (Electoral Changes) Order 2024
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-06-07. See https://www.legislation.gov.uk/changes/affected/uksi/2024/435
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/uksi/2024/435
 >
 > Extent: England, Wales.
 
@@ -72,8 +72,6 @@ In the parish of Willingdon & Jevington—
 
 ## 4. Alteration of district ward boundaries[^c-416e1c35ec42ec9618ba15debe4028dc][^c-51d7eb0315d36b04f4b25b519aa86cba]
 
-**Not yet in force.**
-
 In the parish of Willingdon & Jevington—
 
 - (a) the area of the parish ward of Upper Willingdon that becomes part of the parish ward of Lower Willingdon by virtue of the Council’s Order ceases to be part of the Upper Willingdon district ward and becomes part of the Lower Willingdon district ward,
@@ -124,6 +122,6 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^c-f84434ac481c82d8bc71511c321aa1e0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/435/article/3) in force at 7.6.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/435/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/a))
 
-[^c-416e1c35ec42ec9618ba15debe4028dc]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/435/article/1/4/a)
+[^c-416e1c35ec42ec9618ba15debe4028dc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2024/435/article/4) in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/435/article/1/4/a)
 
 [^c-51d7eb0315d36b04f4b25b519aa86cba]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/435/article/1/4/b)

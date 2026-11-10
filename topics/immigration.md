@@ -10,7 +10,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Immigration Act 1971](../uk-parliament/acts/public/1971/77-immigration-act-1971/README.md) *(changes pending)* — 118 regulations on this topic made under it
 - [Nationality, Immigration and Asylum Act 2002](../uk-parliament/acts/public/2002/41-nationality-immigration-and-asylum-act-2002/README.md) *(changes pending)* — 92 regulations on this topic made under it
 - [Immigration Act 2014](../uk-parliament/acts/public/2014/22-immigration-act-2014/README.md) *(changes pending)* — 91 regulations on this topic made under it
-- [Immigration, Asylum and Nationality Act 2006](../uk-parliament/acts/public/2006/13-immigration-asylum-and-nationality-act-2006.md) *(changes pending)* — 52 regulations on this topic made under it
+- [Immigration, Asylum and Nationality Act 2006](../uk-parliament/acts/public/2006/13-immigration-asylum-and-nationality-act-2006.md) *(changes pending)* — 51 regulations on this topic made under it
 - [Immigration Act 2016](../uk-parliament/acts/public/2016/19-immigration-act-2016/README.md) *(changes pending)* — 33 regulations on this topic made under it
 - [UK Borders Act 2007](../uk-parliament/acts/public/2007/30-uk-borders-act-2007.md) *(changes pending)* — 30 regulations on this topic made under it
 - [Immigration Act 1988](../uk-parliament/acts/public/1988/14-immigration-act-1988.md) *(changes pending)* — 14 regulations on this topic made under it
@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-604 in force.
+603 in force.
 
 **2026**
 
@@ -389,7 +389,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Immigration (Supply of Information to the Secretary of State for Immigration Purposes) Order 2008](../uk-parliament/regulations/2008/2000-2499/2077-the-immigration-supply-of-information-to-the-secretary-of-state-for-immigration.md) *(as originally made)*
 - [The Immigration Services Commissioner (Designated Professional Body) (Fees) Order 2008](../uk-parliament/regulations/2008/0500-0999/505-the-immigration-services-commissioner-designated-professional-body-fees-order-20.md) *(as originally made)*
 - [The Immigration and Nationality (Cost Recovery Fees) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2790-the-immigration-and-nationality-cost-recovery-fees-amendment-no-3-regulations-20.md) *(as originally made)*
-- [The Immigration and Nationality (Cost Recovery Fees)(Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/218-the-immigration-and-nationality-cost-recovery-fees-amendment-regulations-2008.md) *(changes pending)*
 - [The Immigration and Nationality (Fees) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3017-the-immigration-and-nationality-fees-amendment-no-3-regulations-2008.md) *(as originally made)*
 - [The Immigration, Asylum and Nationality Act 2006 (Commencement No. 8 and Transitional and Saving Provisions) Order 2008](../uk-parliament/regulations/2008/0000-0499/310-the-immigration-asylum-and-nationality-act-2006-commencement-no-8-and-transition.md) *(as originally made)*
 - [The Immigration, Asylum and Nationality Act 2006 (Data Sharing Code of Practice) Order 2008](../uk-parliament/regulations/2008/0000-0499/8-the-immigration-asylum-and-nationality-act-2006-data-sharing-code-of-practice-or.md) *(as originally made)*

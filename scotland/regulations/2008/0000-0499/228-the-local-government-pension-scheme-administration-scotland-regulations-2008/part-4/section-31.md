@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 31
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '31'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 31
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 31. Funding strategy statement
+## 31. Funding strategy statement[^c-8b26c826596b36444ef4a4ce312fa367]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) This regulation applies to the funding strategy statement prepared and published by an administering authority under regulation 75A of the 1998 Regulations[^f00031].
 
@@ -32,6 +38,8 @@ summary: ''
 - (b) consult such persons as it considers appropriate.
 
 ## Annotations
+
+[^c-8b26c826596b36444ef4a4ce312fa367]: Commencement: Reg. 31 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00031]: Footnote: Regulation 75A was inserted by [S.S.I. 2005/293](https://www.legislation.gov.uk/ssi/2005/293).
 

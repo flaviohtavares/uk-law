@@ -3,15 +3,15 @@ title: The Police (Complaints and Misconduct) (Amendment) Regulations 2008
 id: uksi/2008/2866
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-05'
-text_date: null
-extent: null
+text_date: '2008-12-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2866
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2866/pdfs/uksiem_20082866_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2866/pdfs/uksi_20082866_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2866/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2866/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Police (Complaints and Misconduct) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-12-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2866
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 2866
 
@@ -46,17 +50,17 @@ In accordance with section 24 of the Police Reform Act 2002[^f00002], the Secret
 
 In accordance with section 63(3) of the Police Act 1996[^f00003], the Secretary of State supplied a draft of these Regulations to the Police Advisory Board of England and Wales and has taken into consideration their representations before making these Regulations.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-18e40634da35c3880e884f47e22683a1]
 
 (1) These Regulations may be cited as the Police (Complaints and Misconduct) (Amendment) Regulations 2008 and shall come into force on 1st December 2008.
 
 (2) In these Regulations, “the 2004 Regulations” means the Police (Complaints and Misconduct) Regulations 2004[^f00004].
 
-## 2. Transitional provisions
+## 2. Transitional provisions[^c-1612473917bdfcb405098fd9cc7cba09]
 
 These Regulations apply only to allegations in respect of conduct by a person concerned which comes to the attention of either the appropriate authority or the Commission on or after the commencement of these Regulations.
 
-## 3. Amendments to the 2004 Regulations
+## 3. Amendments to the 2004 Regulations[^c-a215cab3b4ceb34f3d4f4f0ea93f0964]
 
 (1) The 2004 Regulations shall be amended as follows.
 
@@ -221,7 +225,13 @@ Regulation 18 of the Police (Complaints and Misconduct) Regulations 2004 is amen
 
 [^f00003]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). Relevant amendments to section 63 were made by paragraph 78 of Schedule 4 to the Serious Organised Crime and Police Act [2008 (c.15)](https://www.legislation.gov.uk/ukpga/2008/15) and paragraph 6 of Schedule 22 to the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4).
 
+[^c-18e40634da35c3880e884f47e22683a1]: Commencement: Reg. 1 in force at 1.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2866/regulation/1/1)
+
 [^f00004]: Footnote: [SI 2004/643](https://www.legislation.gov.uk/uksi/2004/643), as amended by [SI 2005/3311](https://www.legislation.gov.uk/uksi/2005/3311); there are other amending instruments but none is relevant.
+
+[^c-1612473917bdfcb405098fd9cc7cba09]: Commencement: Reg. 2 in force at 1.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2866/regulation/1/1)
+
+[^c-a215cab3b4ceb34f3d4f4f0ea93f0964]: Commencement: Reg. 3 in force at 1.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2866/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2008/2864](https://www.legislation.gov.uk/uksi/2008/2864).
 

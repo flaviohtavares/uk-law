@@ -5,14 +5,14 @@ type: NorthernIrelandAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2014-03-25'
-text_date: '2026-04-29'
+text_date: '2026-10-29'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nia/2014/4
 pdf_urls:
 - http://www.legislation.gov.uk/nia/2014/4/pdfs/niaen_20140004_en.pdf
 - http://www.legislation.gov.uk/nia/2014/4/pdfs/nia_20140004_en.pdf
 - http://www.legislation.gov.uk/nia/2014/4/data.pdf
-pending_changes: 92
+pending_changes: 24
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Tobacco Retailers Act (Northern Ireland) 2014
 
-> **Warning: changes not yet applied to this text (92).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/nia/2014/4
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/nia/2014/4
 >
 > Extent: Northern Ireland.
 
@@ -36,15 +36,19 @@ An Act to make provision for a register of tobacco retailers; to make provision 
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## Register of tobacco retailers
+## Register of tobacco , vaping product and nicotine product retailers[^c-b88ca15ee5e2bb6ee135959b44c52a34]
 
-### 1. Register of tobacco retailers[^c-6ddc7c633feebd0023870cd071d74515][^c-191988f3f60dc57479592a7e8289eca9]
+### 1. Register of tobacco , vaping product and nicotine product retailers[^c-6ddc7c633feebd0023870cd071d74515][^c-191988f3f60dc57479592a7e8289eca9][^c-a45a1fcee4bc8b54d1cd734faa8506be]
 
-(1) The registration authority must, in accordance with the provisions of this Act, maintain a register of persons carrying on a tobacco business (“**the Register**”).
+(1)[^c-e1af752867b9c785349fda9e9452d545] The registration authority must, in accordance with the provisions of this Act, maintain a register (“**the Register**”) of persons carrying on one or more of the following (each of which is a “registrable business”)—
+
+- (a) a tobacco business;
+- (b) a vaping product business;
+- (c) a nicotine product business.
 
 (2) On the basis of information contained in the Register, the registration authority must, at all reasonable times, make available for public inspection—
 
-- (a) a list of premises at which tobacco businesses are carried on; and
+- (a) a list of premises at which registrable[^c-2a51b82ea6225c809acb7f313b959b55] businesses are carried on; and
 - (b) such other information as may be prescribed.
 
 (3) The registration authority must make available to each council and the Department such information contained in the Register as that council or the Department may require.
@@ -62,25 +66,30 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - “**registered**” means entered in the Register, and “**unregistered**” is to be construed accordingly;
 - “**the registration authority**” means a body which is established or constituted by or under Northern Ireland legislation and is prescribed for the purposes of this Act.
 
+(7)[^c-aef576c825d2d8fc6c0498decdddede1] References in this Act to a kind of registrable business are to a kind mentioned in subsection (1)(a), (b) or (c).
+
 ### 2. Application for registration[^c-6f4e937bc77c48e51b938a103d8eff11][^c-c2d459827828f8366774c25c5aee586b]
 
 (1) A person may apply to the registration authority—
 
-- (a) to be registered; or
-- (b) to add further premises to the person's entry in the Register.
+- (a) to be registered; [^c-8c9ccb94d3adde2acdbd1f9a83cb160c]...
+- (b) to add further premises to the person's entry in the Register ; or[^c-1967755944c53a54cfeb8a6024f49a65]
+- (c) to add further kinds of registrable business in relation to premises the address of which is noted in the person’s entry in the Register.
 
 (2) An application under subsection (1) must—
 
 - (a) state the name and address of the applicant;
-- (b) where it is an application under subsection (1)(a), state the address of each of the premises at which the applicant proposes to carry on a tobacco business;
-- (c) where it is an application under subsection (1)(b), state the address of each of the further premises at which the applicant proposes to carry on a tobacco business;
+- (b) where it is an application under subsection (1)(a), state the address of each of the premises at which the applicant proposes to carry on a registrable[^c-517978c827f19b3424c9c425f379cc69] business;
+- (c) where it is an application under subsection (1)(b), state the address of each of the further premises at which the applicant proposes to carry on a registrable[^c-323a346e9494e9185627142f8b44e962] business;
+- (ca)[^c-ffe1d5f13ac5ae406ca12d445b79357c] where it is an application under subsection (1)(a) or (b), state, in relation to each of the premises to which the application relates, each kind of registrable business that the applicant proposes to carry on at the premises;
+- (cb) where it is an application under subsection (1)(c), state, in relation to each of the premises to which the application relates, each further kind of registrable business that the applicant proposes to carry on at the premises;
 - (d) be made in such form and manner as may be prescribed;
 - (e) contain such other information as may be prescribed.
 
 (3) The registration authority must grant an application under subsection (1) unless—
 
 - (a) it does not comply with subsection (2);
-- (b) the applicant has, within the period of 5 years ending with the day on which the application is made, been convicted of an offence under section 170 or 170B of the Customs and Excise Management Act 1979 in relation to tobacco and been sentenced for that offence to a custodial sentence (whether suspended or not); or
+- (b) the applicant has, within the period of 5 years ending with the day on which the application is made, been convicted of an offence under section 170 or 170B of the Customs and Excise Management Act 1979 in relation to a tobacco product or herbal smoking product[^c-1f3ac4a587263e369bc913f959325683] and been sentenced for that offence to a custodial sentence (whether suspended or not); or
 - (c) at the time the application is made or being considered by the registration authority—
   - (i) a restricted premises order has effect in respect of any premises specified in the application; or
   - (ii) a restricted sale order has effect in respect of the applicant.
@@ -90,12 +99,19 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 (5) On granting an application under subsection (1)(a) the registration authority must enter the following information in the Register—
 
 - (a) the name and address of the applicant;
-- (b) the address of each of the premises at which the applicant proposes to carry on a tobacco business;
+- (b) the address of each of the premises at which the applicant proposes to carry on a registrable[^c-b2019330b92cbd7c4a454a6fce8d44f0] business;
+- (ba)[^c-253a9694d483a3d684fdbd939e2440a2] in relation to each of those premises, each kind of registrable business that the applicant proposes to carry on at the premises;
 - (c) any other information which the Department may direct the authority to include.
 
 (6) On granting an application under subsection (1)(b) the registration authority must amend the applicant's entry in the Register so as to include—
 
-- (a) the address of each of the further premises at which the applicant proposes to carry on a tobacco business;
+- (a) the address of each of the further premises at which the applicant proposes to carry on a registrable[^c-93af7467d32568368c80d13d358e2f10] business;
+- (aa)[^c-09ca23a6fd98e16c0a2a63ccca9f06b9] in relation to each of those premises, each kind of registrable business that the applicant proposes to carry on at the premises;
+- (b) any other information which the Department may direct the authority to include.
+
+(6A)[^c-100e409e4813e0cc828ac948486fd9ad] On granting an application under subsection (1)(c) the registration authority must enter the following information in the Register—
+
+- (a) in relation to each of the premises to which the application relates, each further kind of registrable business the applicant proposes to carry on at the premises;
 - (b) any other information which the Department may direct the authority to include.
 
 (7) Regulations may provide for the charging of fees in connection with making an application under subsection (1).
@@ -107,7 +123,9 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 (1) A registered person must give the registration authority notice of—
 
 - (a) any change in the person's name or address;
-- (b) the fact that the person is no longer carrying on a tobacco business at an address noted in the person's entry in the Register.
+- (b) the fact that the person is no longer carrying on a tobacco business at an address noted in the person's entry in the Register ;[^c-ac57575721b8b3c350224eb1468c54c0]
+- (c) the fact that the person is no longer carrying on a vaping product business at an address noted in the person’s entry in the Register;
+- (d) the fact that the person is no longer carrying on a nicotine product business at an address noted in the person’s entry in the Register.
 
 (2) The notice must be given within 28 days of the date of the change to which it relates.
 
@@ -118,17 +136,17 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 (2) The registration authority must amend the Register so as to remove—
 
 - (a) references to registered premises in respect of which a restricted premises order has effect;
-- (b) a person's entry from the Register where that person has, within a period of 5 years ending with the day on which the removal is made, been convicted of an offence under section 170 or 170B of the Customs and Excise Management Act 1979 in relation to tobacco and has been sentenced for that offence to a custodial sentence (whether suspended or not).
+- (b) a person's entry from the Register where that person has, within a period of 5 years ending with the day on which the removal is made, been convicted of an offence under section 170 or 170B of the Customs and Excise Management Act 1979 in relation to a tobacco product or herbal smoking product[^c-c6b5de671c707febc3cf99a5e1acb51a] and has been sentenced for that offence to a custodial sentence (whether suspended or not).
 
 (3) The registration authority may remove a person's entry from the Register if—
 
 - (a) as a result of a correction or an amendment under subsection (1) or (2)(a), there are no premises noted in the person's entry in the Register; or
-- (b) it is not satisfied that the person is carrying on a tobacco business.
+- (b) it is not satisfied that the person is carrying on a registrable[^c-e0935107fc7be428151c05c11494eb54] business.
 
 (4) The registration authority must reinstate a person's entry in the Register if—
 
 - (a) the entry was removed under subsection (3)(b); and
-- (b) the person notifies the registration authority, within the period of 28 days from the date of service on that person of the notice of the removal under subsection (5), that the person is still carrying on a tobacco business.
+- (b) the person notifies the registration authority, within the period of 28 days from the date of service on that person of the notice of the removal under subsection (5), that the person is still carrying on a registrable[^c-aa4a2475d88696b9fb169c1e9b73dfb1] business.
 
 (5) Where the registration authority corrects, amends, removes or reinstates a person's entry in the Register under this section, it must as soon as reasonably practicable serve a notice on the person of the correction, amendment, removal or, as the case may be, reinstatement.
 
@@ -210,22 +228,28 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) In this section “personal licence” and “premises licence” have the meaning given by section 4A(7).
 
-## Persistent commission of tobacco or nicotine offences[^c-63c10ec4cc933e299e2687668dc825c0]
+## Persistent commission of tobacco , vape or nicotine offences[^c-d147a4000a692bfc00b57ff0c680e31f]
 
 ### 5. Restricted premises orders[^c-47cf6ed85c5fa66c1c41eb2b4ff8c7a1]
 
 (1) This section applies where a person (“the offender”)—
 
-- (a) is given a fixed penalty notice in respect of a tobacco or nicotine[^c-40001347379317876b2c05ac320f4803] offence; or
-- (b) is convicted of a tobacco or nicotine[^c-e32b7c29366dd92be33aaf0ce55331f4] offence.
+- (a) is given a fixed penalty notice in respect of a tobacco , vape or nicotine[^c-70bdbcb52d73bf0b7bb24d425cec65a4] offence; or
+- (b) is convicted of a tobacco , vape or nicotine[^c-860b8dd5c3674775386babbb07a55889] offence.
 
 (2) In the following provisions of this section “**the relevant offence**” means the offence mentioned in subsection (1)(a) or (b).
 
 (3) A court of summary jurisdiction may, on application made by complaint by the council in whose district the premises in relation to which the relevant offence was committed are situated, make a restricted premises order in respect of those premises (“the relevant premises”).
 
-(4) A restricted premises order is an order prohibiting the sale on the premises to which it relates of any tobacco , cigarette papers or nicotine products[^c-03a806083640e064c3159a9fbe2a8412] to any person.
+(4) A restricted premises order is an order prohibiting the sale on the premises to which it relates to any person of any one or more of the following—[^c-5f2bdee3567cf709980cbed7bd1aa096]
 
-(5) The prohibition applies to sales of tobacco , cigarette papers or nicotine products[^c-d177848697b34fdf1934d840be1144fb] to any person whether made—
+- (a) tobacco products;
+- (b) herbal smoking products;
+- (c) cigarette papers;
+- (d) vaping products;
+- (e) nicotine products.
+
+(5) The prohibition applies to sales [^c-64b1367482e4f0b996df3a4eb78cd75b]... to any person whether made—
 
 - (a) by the offender or any other person; or
 - (b) by means of any machine kept on the premises or any other means.
@@ -238,8 +262,8 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 - (a) the council has complied with subsection (7); and
 - (b) on at least 2 other occasions within the period of 5 years ending with the date on which the relevant offence was committed, the offender has been—
-  - (i) given a fixed penalty notice in respect of a tobacco or nicotine[^c-2d49dc040e632e88d0acdab61623deb2] offence in relation to the relevant premises; or
-  - (ii) convicted of a tobacco or nicotine[^c-ef2e61bd8aa814d2338ca33831ee8671] offence in relation to the relevant premises.
+  - (i) given a fixed penalty notice in respect of a tobacco , vape or nicotine[^c-25af84d0d04ba92cdd8f0266a76c9a86] offence in relation to the relevant premises; or
+  - (ii) convicted of a tobacco , vape or nicotine[^c-b8b38103fdd84e914f9a19ca8e271172] offence in relation to the relevant premises.
 
 (9) Persons affected by the application may make representations to the court as to why the order should not be made.
 
@@ -261,29 +285,29 @@ make such order varying or discharging the restricted premises order as it consi
 
 (13) For the purposes of this section—
 
-- (a) a fixed penalty notice which is given to the offender in respect of a tobacco or nicotine[^c-8355ca2f8fcab7c06a0f02d393f37022] offence is to be disregarded if it is withdrawn or if proceedings are brought against the offender for the offence to which the notice relates;
+- (a) a fixed penalty notice which is given to the offender in respect of a tobacco , vape or nicotine[^c-fef7d066df51873c90c83483d946e6c9] offence is to be disregarded if it is withdrawn or if proceedings are brought against the offender for the offence to which the notice relates;
 - (b) the persons affected by an application for a restricted premises order in respect of any premises are—
   - (i) the occupier of the premises; and
   - (ii) any other person who has an estate in the premises.
 
-(14) In this section and section 6 “ tobacco or nicotine offence[^c-595096f9d187600fe8123bbbd53eba57] ” means—
+(14) In this section “tobacco, vape or nicotine offence”[^c-dcbf7158e74af086ab38d532ee8d38e0] means—
 
-- (a) an offence committed under Article 3 of the Health and Personal Social Services (Northern Ireland) Order 1978 on any premises (which are accordingly “the premises in relation to which the offence is committed”);
-- (b) an offence committed under Article 4 of the Health and Personal Social Services (Northern Ireland) Order 1978 in respect of an order relating to any machine kept on any premises (which are accordingly “the premises in relation to which the offence is committed”);
-- (c) an offence relating to tobacco committed under section 170 or 170B of the Customs and Excise Management Act 1979 on any premises in Northern Ireland (which are accordingly “the premises in relation to which the offence is committed”);
-- (d) an offence committed under section 8F, 8G or 8H of the Tobacco Products Duty Act 1979 on any premises in Northern Ireland (which are accordingly “the premises in relation to which the offence is committed”);
-- (e) an offence committed under Article 4A of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 in respect of any machine kept on any premises (which are accordingly “the premises in relation to which the offence is committed”); [^c-448980b459be21109e67e43bd0db6a52]...
+- (a) an offence committed under Article 3 or 4H[^c-e937e676216abbabaea4ec7951317fe3] of the Health and Personal Social Services (Northern Ireland) Order 1978 on any premises (which are accordingly “the premises in relation to which the offence is committed”);
+- (aa)[^c-0d5613ba6eb41d65248aacf7225be1d5] an offence committed under Article 4B or 4J of the Health and Personal Social Services (Northern Ireland) Order 1978 in respect of a machine kept on any premises (which are accordingly “the premises in relation to which the offence is committed”);
+- (b)[^c-b9b5017ac599dcff1e2d207a631aa503] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) an offence relating to a tobacco product or herbal smoking product[^c-36109090ce842b2b21412d51159cc834] committed under section 170 or 170B of the Customs and Excise Management Act 1979 on any premises in Northern Ireland (which are accordingly “the premises in relation to which the offence is committed”);
+- (d) an offence committed under section 8F, 8G or 8H of the Tobacco Products Duty Act 1979 on any premises in Northern Ireland (which are accordingly “the premises in relation to which the offence is committed”); or[^c-5629c388369114718e411daa0ecff81f]
+- (e)[^c-c6b353b22d52281e515424f7d3c25cee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) an offence committed under section 10 in respect of any premises (which are accordingly “the premises in relation to which the offence is committed”).
-- (g)[^c-60357965a1bb715ba97425f7fd8e34bb] an offence committed under section 1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 on any premises (which are accordingly “the premises in relation to which the offence is committed”
-- or[^c-b8473ca2bf408881cf3c8480e855d698]
-- (h) an offence committed under section 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 in respect of any machine kept on any premises (which are accordingly “the premises in relation to which the offence is committed”
+- (g)[^c-c6b353b22d52281e515424f7d3c25cee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-c6b353b22d52281e515424f7d3c25cee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Restricted sale orders[^c-2d18534f4a9181ca2ea01ee20bdab772]
 
 (1) This section applies where a person (“the offender”)—
 
-- (a) is given a fixed penalty notice in respect of a tobacco or nicotine[^c-d3038513e2a1550722c58e7517957dbb] offence; or
-- (b) is convicted of a tobacco or nicotine[^c-4aaf1259ce8714368089f9ea28ef0cc6] offence.
+- (a) is given a fixed penalty notice in respect of a tobacco , vape or nicotine[^c-4cfebb691df749de6062a29882b34112] offence; or
+- (b) is convicted of a tobacco , vape or nicotine[^c-d1a030fd381bccec1a019134b065102f] offence.
 
 (2) In the following provisions of this section “**the relevant offence**” means the offence mentioned in subsection (1)(a) or (b).
 
@@ -291,21 +315,27 @@ make such order varying or discharging the restricted premises order as it consi
 
 (4) A restricted sale order is an order prohibiting the person to whom it relates—
 
-- (a) from selling any tobacco , cigarette papers or nicotine products[^c-1ddf419edcebee9c6e1c8146000c5486] to any person;
-- (b) from having any management functions in respect of any premises in so far as those functions relate to the sale on the premises of tobacco , cigarette papers or nicotine products[^c-e16f1fdbf0581fc5510e26f410d10b3b] to any person;
-- (c) from keeping any cigarette machine on any premises for the purpose of selling tobacco or nicotine products[^c-f953070cfca711908b5670c26da1b6a5] or permitting any [^c-2b7f95551c7714856fe3bbf0daac3dd2]... machine to be kept on any premises by any other person for that purpose; and
-- (d) from having any management functions in respect of any premises in so far as those functions relate to any [^c-2b7f95551c7714856fe3bbf0daac3dd2]... machine kept on the premises for the purpose of selling tobacco or nicotine products .
+- (a) from selling any tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products[^c-ebe74a0712bcc0eacb991bd673fbaed9] to any person;
+- (b) from having any management functions in respect of any premises in so far as those functions relate to the sale on the premises of tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products[^c-04715dcc6e23585c9437c8e49eac8786] to any person;
+- (c) from keeping any cigarette machine on any premises for the purpose of selling tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products[^c-4b963265482600bc16650222f66cb117] or permitting any [^c-2b7f95551c7714856fe3bbf0daac3dd2]... machine to be kept on any premises by any other person for that purpose; and
+- (d) from having any management functions in respect of any premises in so far as those functions relate to any [^c-2b7f95551c7714856fe3bbf0daac3dd2]... machine kept on the premises for the purpose of selling tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products[^c-b0796148bb962b8e2b88bca105c32037].
 
 (5) The order has effect for the period specified in the order, but that period must not be less than 28 days or more than 3 years.
 
 (6) The court may make the order if (and only if) it is satisfied that, on at least 2 other occasions within the period of 5 years ending with the date on which the relevant offence was committed, the offender has been—
 
-- (a) given a fixed penalty notice in respect of a tobacco or nicotine[^c-06d97036449986400c6a0476b4801b40] offence; or
-- (b) convicted of a tobacco or nicotine[^c-039458f720e4ffc4c6bc5fcff4edf9f3] offence.
+- (a) given a fixed penalty notice in respect of a tobacco , vape or nicotine[^c-c6e30b853c88bba7d604b392954c84a6] offence; or
+- (b) convicted of a tobacco , vape or nicotine[^c-f26372224543e362caf5496144d79f83] offence.
 
-(7) For the purposes of this section a fixed penalty notice which is given to the offender in respect of a tobacco or nicotine[^c-a8ef271ef452eb8e2c86acd377fe4a7c] offence is to be disregarded if it is withdrawn or if proceedings are brought against the offender for the offence to which the notice relates.
+(7) For the purposes of this section a fixed penalty notice which is given to the offender in respect of a tobacco , vape or nicotine[^c-a1acb289e790e3cb9410121e565b5629] offence is to be disregarded if it is withdrawn or if proceedings are brought against the offender for the offence to which the notice relates.
 
-(8)[^c-406e213e172faca90df5f47ef3da0301] In this section any reference to a machine is a reference to an automatic machine for the sale of tobacco or nicotine products.
+(8)[^c-4647c0b9da8cc4d805f2cc614b16597e] In this section “**tobacco, vape or nicotine offence**” means—
+
+- (a) an offence committed under Article 3 or 4H of the Health and Personal Social Services (Northern Ireland) Order 1978 on any premises (which are accordingly “the premises in relation to which the offence is committed”);
+- (b) an offence committed under Article 4B or 4J of the Health and Personal Social Services (Northern Ireland) Order 1978 in respect of a machine kept on any premises (which are accordingly “the premises in relation to which the offence is committed”);
+- (c) an offence relating to a tobacco product or herbal smoking product committed under section 170 or 170B of the Customs and Excise Management Act 1979 on any premises in Northern Ireland (which are accordingly “the premises in relation to which the offence is committed”);
+- (d) an offence committed under section 8F, 8G or 8H of the Tobacco Products Duty Act 1979 on any premises in Northern Ireland (which are accordingly “the premises in relation to which the offence is committed”); or
+- (e) an offence committed under section 10 in respect of any premises (which are accordingly “the premises in relation to which the offence is committed”).
 
 ### 7. Appeal against the making of an order under section 5 or 6[^c-9e39cfc0bb1ae6830042ab953dac2955]
 
@@ -331,7 +361,7 @@ make such order varying or discharging the restricted premises order as it consi
 - (b) be displayed in a prominent position in the relevant premises where it is readily visible to persons at every relevant point of sale; and
 - (c) be displayed no later than 5 days after the date on which the restricted premises order has effect.
 
-(4) A relevant point of sale is one that was used for the sale of tobacco , cigarette papers or nicotine products[^c-70c3dd7fcc27590b723865571fb72c19] at any time during the period of 2 months ending with the date on which the restricted premises order was made.
+(4) A relevant point of sale is one that was used for the sale of tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products[^c-9d4a8434e07ea6f28e62c54745e45993] at any time during the period of 2 months ending with the date on which the restricted premises order was made.
 
 (5) Regulations may specify—
 
@@ -339,16 +369,16 @@ make such order varying or discharging the restricted premises order as it consi
 - (b) the wording of the statement to be displayed on the notice; and
 - (c) the size of the statement.
 
-### 9. Restricted premises orders: no tobacco or nicotine products in retail area[^c-77095adf3285ee84cdb072fcd2f411b0][^c-8df72c2995c18e11b23a552dbbbca117]
+### 9. Restricted premises orders: no tobacco , vaping products or nicotine products in retail area[^c-77095adf3285ee84cdb072fcd2f411b0][^c-4237c08cad6a61ab404132290cd66731]
 
 (1) This section applies where—
 
 - (a) a restricted premises order has effect in respect of premises (“the relevant premises”); and
 - (b) a person (“P”) carries on a retail business at the relevant premises.
 
-(2) P must, no later than the day after the date on which the restricted premises order has effect, ensure that no tobacco , cigarette papers or nicotine products as the case may be[^c-abc544ee4632aea6daa8f1470ee4eba1] are in the retail area of the relevant premises.
+(2) P must, no later than the day after the date on which the restricted premises order has effect, ensure that no tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products[^c-4842533c4389e1956604eef907a5a182][^c-abc544ee4632aea6daa8f1470ee4eba1] as the case may be are in the retail area of the relevant premises.
 
-(3) Subsection (2) does not apply to tobacco , cigarette papers and nicotine products[^c-ca26f2eab1892444595892fd3869ca7b] in the retail area of the relevant premises which an individual may have for his or her own use.
+(3) Subsection (2) does not apply to tobacco products, herbal smoking products, cigarette papers, vaping products and nicotine products[^c-b7f73c84e27c4df8b06fa12f456ebbf4] in the retail area of the relevant premises which an individual may have for his or her own use.
 
 (4) In this section “**retail area**” means any part of the relevant premises used for the serving of customers or the display of goods.
 
@@ -356,15 +386,15 @@ make such order varying or discharging the restricted premises order as it consi
 
 ### 10. Offences[^c-84c4b59df5ed25aa91d3975d00518758]
 
-(1) If an unregistered person carries on a tobacco business, the person commits an offence.
+(1) If an unregistered person carries on a registrable[^c-5d9cb49096434ff08748e91bba5970ea] business, the person commits an offence.
 
-(2) If a registered person carries on a tobacco business at premises other than those noted in the person's entry in the Register, the person commits an offence.
+(2)[^c-f5799804b7a2de056702513acd40958a] A registered person who carries on a registrable business at premises other than those noted in the person’s entry in the Register as premises at which the person proposes to carry on that kind of registrable business commits an offence.
 
 (3) If a person fails, without reasonable excuse, to comply with section 3 (duty to notify certain changes), the person commits an offence.
 
 (4) If—
 
-- (a) a person sells on any premises any tobacco , cigarette papers or nicotine products[^c-b22d6957057bee3f566683ad5ee62770] in contravention of a restricted premises order, and
+- (a) a person sells on any premises any tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products[^c-63a7fc37539cb618d79243b04ef0f621] in contravention of a restricted premises order, and
 - (b) the person knew, or ought reasonably to have known, that the sale was in contravention of the order,
 
 the person commits an offence.
@@ -393,10 +423,10 @@ the person commits an offence.
 
 - (a) at any reasonable hour to enter any premises, other than premises used only as a private dwelling house, which the officer reasonably believes it is necessary to enter for the purpose of ascertaining whether any of the following offences is being or has been committed on the premises and, if so, by whom—
   - (i) an offence under section 10;
-  - (ii) an offence under Article 3, 4 or 4A of the Health and Personal Social Services (Northern Ireland) Order 1978;
-  - (iii) an offence under Article 4, 4A or 5 of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991;
-  - (iv)[^c-6e594c7ba2d75aded834a3cd5ebd63d6] an offence under section 1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016;
-  - (v)[^c-9e452dc55d64ce5c999e5086b310aac3] an offence under section 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016.
+  - (ii) an offence under any provision made by or under Part 2[^c-ae99f1134af53e6a6ccc5b5b603f9e41] of the Health and Personal Social Services (Northern Ireland) Order 1978;
+  - (iii) an offence under Article [^c-bf3877cf3ae52487c5d21b007fe24305]... 5 of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991;
+  - (iv)[^c-50d31ec6446db4ff7d66a3762a1df6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-50d31ec6446db4ff7d66a3762a1df6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) to carry out on those premises such inspections and examinations as the officer reasonably believes are necessary for that purpose;
 - (c) if the officer reasonably believes it is necessary for that purpose—
   - (i) to require the production of any book, document, data, record (in whatever form it is held) or product; and
@@ -431,10 +461,10 @@ the person commits an offence.
 (1) Where an authorised officer of a council has reason to believe that a person has committed—
 
 - (a) an offence under section 10(1), (2), (3), (7) or (8),
-- (b) an offence under Article 3, 4 or 4A of the Health and Personal Social Services (Northern Ireland) Order 1978,
-- (c) an offence under Article 4, 4A or 5 of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991,
-- (d)[^c-56cff4878122ba4aeb1a8dc38b66a3cb] an offence under section 1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016;
-- (e)[^c-327e8c4794b2b022e702119a2bd19ebd] an offence under section 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016.
+- (b) an offence under any provision made by or under Part 2[^c-1749d700c4abeb30dc35aef95448f40f] of the Health and Personal Social Services (Northern Ireland) Order 1978,
+- (c) an offence under Article [^c-cf5bd7acab6ab6c4cecb40ad97f577ce]... 5 of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991,
+- (d)[^c-767a7e126f293bc33b7867e9d9aa69f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-767a7e126f293bc33b7867e9d9aa69f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the officer may give that person a fixed penalty notice in respect of the offence.
 
@@ -532,15 +562,15 @@ commits an offence.
 
 (1) Every council must make available to every other council, the registration authority and the Department such information relating to—
 
-- (a) fixed penalty notices given in respect of tobacco or nicotine[^c-c95f7a916ac47d80fd10c3f5b325fac9] offences committed in the district of that council,
-- (b) convictions in respect of tobacco or nicotine[^c-8cf12f535ea3f4deea32bd6b1d181891] offences committed in the district of that council, and
+- (a) fixed penalty notices given in respect of tobacco , vape or nicotine[^c-7fde1d0ad6119748389d4879d0b830a1] offences committed in the district of that council,
+- (b) convictions in respect of tobacco , vape or nicotine[^c-b4bd6cd5311f0ab246e55b27eada7243] offences committed in the district of that council, and
 - (c) restricted premises orders and restricted sale orders made on an application by that council,
 
 as the other council, the registration authority or, as the case may be, the Department may require.
 
 (2) Information made available under subsection (1) to a council or the registration authority may be used by the council or the registration authority only for the purpose of enabling it or assisting it to perform its functions under this Act.
 
-(3) In this section “**tobacco or nicotine[^c-e3db6c90b2c1aa703f7f23d6f66ba36b] offence**” has the meaning given in section 5(14).
+(3)[^c-b680335d21624f481285127bae61b914] In this section “**tobacco, vape or nicotine offence**” means an offence falling within section 5(14) or 6(8).
 
 ### 17. Offences by bodies corporate[^c-101024fb1c4b3e9f2bb8256073b923c7]
 
@@ -619,21 +649,28 @@ Regulations may provide for this Act to apply in relation to any vehicle, vessel
 (1) In this Act—
 
 - “**authorised officer**”, in relation to a council, means any person (whether or not an officer of the council) who is authorised by it in writing, either generally or specifically, to act in matters arising under this Act;
-- “**cigarettes**” has the same meaning as in Part 2 of the Health and Personal Social Services (Northern Ireland) Order 1978;
+- “[^c-7c4be9541a3f2a096b3fb35d9adaef59]**cigarette papers**” has the meaning given by Article 7 of the Health and Personal Social Services (Northern Ireland) Order 1978;
+- [^c-e69d2c75e7d4236dc2295b54c36c39b3]...
 - “**clerk of the council**”, in relation to a council, means the clerk appointed in accordance with section 41 of the Local Government Act (Northern Ireland) 1972;
 - “**council**” means a district council;
 - “**the Department**” means the Department of Health, Social Services and Public Safety;
-- “[^c-83a826fa7de240147675d96254e0cd82]**nicotine product**” means a nicotine product within the meaning of section 7 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 the sale of which to persons aged under 18 is for the time being prohibited by regulations under section 1(1) of that Act;
+- “**filter**” means a filter that is intended to be used when smoking a tobacco product or herbal smoking product (including a filter that forms part of, or that is intended to be inserted into, an item such as a cigarette holder or pipe);
+- “**herbal smoking product**” has the meaning given by Article 7 of the Health and Personal Social Services (Northern Ireland) Order 1978;
+- “[^c-9cee7174005772119b49cd5bd63e586d]**nicotine product**” has the meaning given by Article 7 of the Health and Personal Social Services (Northern Ireland) Order 1978;
+- “[^c-7b6665abcdc1db983c483cb77e2f67c6]**nicotine product business**” means a business involving the sale of nicotine products by retail;
 - “**notice**” means notice in writing;
 - “**premises**” includes any place and any vehicle, vessel, stall or moveable structure;
 - “**prescribed**” means prescribed by regulations;
 - “**the Register**” has the meaning given in section 1(1);
 - “**registered**”, “**unregistered**” and “**the registration authority**” have the meanings given in section 1(6);
+- “**registrable business**” has the meaning given in section 1(1) (and references to a kind of registrable business have the meaning given in section 1(7));
 - “**regulations**” means regulations made by the Department;
 - “**restricted premises order**” means an order made under section 5;
 - “**restricted sale order**” means an order made under section 6;
-- “**tobacco**” has the same meaning as in Part 2 of the Health and Personal Social Services (Northern Ireland) Order 1978;
-- “**tobacco business**” means a business involving the sale of tobacco or cigarette papers by retail.
+- “[^c-2c81a5e5378cd7e5b9270f34932c8e04]**tobacco product**” has the meaning given by Article 7 of the Health and Personal Social Services (Northern Ireland) Order 1978;
+- “**tobacco business**” means a business involving the sale of tobacco products, herbal smoking products[^c-3e89c82b0d155f85650f653d4df8b934] or cigarette papers by retail.
+- “**vaping product**” has the meaning given by Article 7 of the Health and Personal Social Services (Northern Ireland) Order 1978;
+- “**vaping product business**” means a business involving the sale of vaping products by retail;
 
 (2) In its application to this Act, the Interpretation Act (Northern Ireland) 1954 has effect as if in section 24(1) (notice by post) the word “registering” were omitted.
 
@@ -657,7 +694,7 @@ Regulations may provide for this Act to apply in relation to any vehicle, vessel
 
 (1) Except as provided by subsection (2), regulations under this Act shall be subject to negative resolution.
 
-(2) No regulations shall be made under section 2(7), 12(8), 20 or 21(4) or (5) unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
+(2) No regulations shall be made under section 2(7), 12(8), 20 , 21(4) or (5) or 21A[^c-afa64120584b3e35d5030676827213d7] unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
 (3) Regulations and orders made by the Department under this Act may contain such incidental, supplementary, transitional, transitory and savings provisions as appear to the Department to be necessary or expedient.
 
@@ -843,67 +880,115 @@ This Schedule makes further provision in connection with the imposition of finan
 
 ## Annotations
 
+[^c-b88ca15ee5e2bb6ee135959b44c52a34]: Textual amendment: Words in [s. 1 cross-heading](https://www.legislation.gov.uk/nia/2014/4/crossheading/register-of-tobacco-retailers) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/2); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
 [^c-6ddc7c633feebd0023870cd071d74515]: Commencement: S. 1 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/125/article/2/a)
 
 [^c-191988f3f60dc57479592a7e8289eca9]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2014/4/section/1) in operation at 6.4.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+
+[^c-a45a1fcee4bc8b54d1cd734faa8506be]: Textual amendment: Words in s. 1 heading inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 3(d)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/3/d); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-e1af752867b9c785349fda9e9452d545]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/nia/2014/4/section/1/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 3(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/3/a); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-2a51b82ea6225c809acb7f313b959b55]: Textual amendment: Word in [s. 1(2)(a)](https://www.legislation.gov.uk/nia/2014/4/section/1/2/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 3(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/3/b); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-aef576c825d2d8fc6c0498decdddede1]: Textual amendment: [S. 1(7)](https://www.legislation.gov.uk/nia/2014/4/section/1/7) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 3(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/3/c); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
 
 [^c-6f4e937bc77c48e51b938a103d8eff11]: Commencement: S. 2 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/125/article/2/b)
 
 [^c-c2d459827828f8366774c25c5aee586b]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2014/4/section/2) in operation at 6.4.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
+[^c-8c9ccb94d3adde2acdbd1f9a83cb160c]: Textual amendment: Word in [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/2/1/a) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(a)(i)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/a/i); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-1967755944c53a54cfeb8a6024f49a65]: Textual amendment: [S. 2(1)(c)](https://www.legislation.gov.uk/nia/2014/4/section/2/1/c) and word inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/a/ii); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-517978c827f19b3424c9c425f379cc69]: Textual amendment: Word in [s. 2(2)(b)](https://www.legislation.gov.uk/nia/2014/4/section/2/2/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(b)(i)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/b/i); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-323a346e9494e9185627142f8b44e962]: Textual amendment: Word in [s. 2(2)(c)](https://www.legislation.gov.uk/nia/2014/4/section/2/2/c) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(b)(i)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/b/i); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-ffe1d5f13ac5ae406ca12d445b79357c]: Textual amendment: [S. 2(2)(ca)](https://www.legislation.gov.uk/nia/2014/4/section/2/2/ca)[(cb)](https://www.legislation.gov.uk/nia/2014/4/section/2/2/cb) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/b/ii); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-1f3ac4a587263e369bc913f959325683]: Textual amendment: Words in [s. 2(3)(b)](https://www.legislation.gov.uk/nia/2014/4/section/2/3/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/15)
+
+[^c-b2019330b92cbd7c4a454a6fce8d44f0]: Textual amendment: Word in [s. 2(5)(b)](https://www.legislation.gov.uk/nia/2014/4/section/2/5/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(c)(i)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/c/i); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-253a9694d483a3d684fdbd939e2440a2]: Textual amendment: [S. 2(5)(ba)](https://www.legislation.gov.uk/nia/2014/4/section/2/5/ba) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/c/ii); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-93af7467d32568368c80d13d358e2f10]: Textual amendment: Word in [s. 2(6)(a)](https://www.legislation.gov.uk/nia/2014/4/section/2/6/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(d)(i)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/d/i); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-09ca23a6fd98e16c0a2a63ccca9f06b9]: Textual amendment: [S. 2(6)(aa)](https://www.legislation.gov.uk/nia/2014/4/section/2/6/aa) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(d)(ii)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/d/ii); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-100e409e4813e0cc828ac948486fd9ad]: Textual amendment: [S. 2(6A)](https://www.legislation.gov.uk/nia/2014/4/section/2/6A) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 4(e)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/4/e); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
 [^c-4ee6f041e97c7673a589ceb59efcc2b7]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/4/section/3) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+
+[^c-ac57575721b8b3c350224eb1468c54c0]: Textual amendment: [S. 3(1)(c)](https://www.legislation.gov.uk/nia/2014/4/section/3/1/c)[(d)](https://www.legislation.gov.uk/nia/2014/4/section/3/1/d) and semicolon inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/5); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
 
 [^c-bf726ab8490a95f9c909e9651d5cf3a4]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/4/section/4) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
+[^c-c6b5de671c707febc3cf99a5e1acb51a]: Textual amendment: Words in [s. 4(2)(b)](https://www.legislation.gov.uk/nia/2014/4/section/4/2/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/16)
+
+[^c-e0935107fc7be428151c05c11494eb54]: Textual amendment: Word in [s. 4(3)(b)](https://www.legislation.gov.uk/nia/2014/4/section/4/3/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/6); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-aa4a2475d88696b9fb169c1e9b73dfb1]: Textual amendment: Word in [s. 4(4)(b)](https://www.legislation.gov.uk/nia/2014/4/section/4/4/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/6); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
 [^c-03539af0093ee56564f3cbf68c14aded]: Textual amendment: [Ss. 4A-4C](https://www.legislation.gov.uk/nia/2014/4/section/4A) and cross-heading inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/88/1), [175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8)
 
-[^c-63c10ec4cc933e299e2687668dc825c0]: Textual amendment: Words in [cross-heading](https://www.legislation.gov.uk/nia/2014/4/crossheading/persistent-commission-of-tobacco-offences) heading inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/3); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-d147a4000a692bfc00b57ff0c680e31f]: Textual amendment: Words in [s. 5 cross-heading](https://www.legislation.gov.uk/nia/2014/4/crossheading/persistent-commission-of-tobacco-offences) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/17)
 
 [^c-47cf6ed85c5fa66c1c41eb2b4ff8c7a1]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/4/section/5) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^c-40001347379317876b2c05ac320f4803]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/5/1/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-70bdbcb52d73bf0b7bb24d425cec65a4]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/5/1/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/2)
 
-[^c-e32b7c29366dd92be33aaf0ce55331f4]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/5/1/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-860b8dd5c3674775386babbb07a55889]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/5/1/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/2)
 
-[^c-03a806083640e064c3159a9fbe2a8412]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/nia/2014/4/section/5/4) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-5f2bdee3567cf709980cbed7bd1aa096]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/nia/2014/4/section/5/4) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(3)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/3)
 
-[^c-d177848697b34fdf1934d840be1144fb]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/nia/2014/4/section/5/5) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-64b1367482e4f0b996df3a4eb78cd75b]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/nia/2014/4/section/5/5) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(4)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/4)
 
-[^c-2d49dc040e632e88d0acdab61623deb2]: Textual amendment: Words in [s. 5(8)(b)(i)](https://www.legislation.gov.uk/nia/2014/4/section/5/8/b/i) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/d); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-25af84d0d04ba92cdd8f0266a76c9a86]: Textual amendment: Words in [s. 5(8)(b)(i)](https://www.legislation.gov.uk/nia/2014/4/section/5/8/b/i) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(5)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/5)
 
-[^c-ef2e61bd8aa814d2338ca33831ee8671]: Textual amendment: Words in [s. 5(8)(b)(ii)](https://www.legislation.gov.uk/nia/2014/4/section/5/8/b/ii) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/d); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-b8b38103fdd84e914f9a19ca8e271172]: Textual amendment: Words in [s. 5(8)(b)(ii)](https://www.legislation.gov.uk/nia/2014/4/section/5/8/b/ii) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(5)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/5)
 
-[^c-8355ca2f8fcab7c06a0f02d393f37022]: Textual amendment: Words in [s. 5(13)(a)](https://www.legislation.gov.uk/nia/2014/4/section/5/13/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(e)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/e); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-fef7d066df51873c90c83483d946e6c9]: Textual amendment: Words in [s. 5(13)(a)](https://www.legislation.gov.uk/nia/2014/4/section/5/13/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(6)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/6)
 
-[^c-595096f9d187600fe8123bbbd53eba57]: Textual amendment: Words in [s. 5(14)](https://www.legislation.gov.uk/nia/2014/4/section/5/14) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(i)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/i); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-dcbf7158e74af086ab38d532ee8d38e0]: Textual amendment: Words in [s. 5(14)](https://www.legislation.gov.uk/nia/2014/4/section/5/14) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(7)(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/7/a)
 
-[^c-448980b459be21109e67e43bd0db6a52]: Textual amendment: Word in [s. 5(14)(e)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/e) repealed (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(ii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/ii), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/2); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)[(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)
+[^c-e937e676216abbabaea4ec7951317fe3]: Textual amendment: Words in [s. 5(14)(a)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/a) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(7)(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/7/b)
 
-[^c-60357965a1bb715ba97425f7fd8e34bb]: Textual amendment: [S. 5(14)(g)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/g) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(iii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/iii); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-0d5613ba6eb41d65248aacf7225be1d5]: Textual amendment: [S. 5(14)(aa)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/aa) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(7)(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/7/c)
 
-[^c-b8473ca2bf408881cf3c8480e855d698]: Textual amendment: [S. 5(14)(h)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/h) and preceding word added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(iv)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/iv); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-b9b5017ac599dcff1e2d207a631aa503]: Textual amendment: [S. 5(14)(b)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/b) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(7)(d)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/7/d)
+
+[^c-36109090ce842b2b21412d51159cc834]: Textual amendment: Words in [s. 5(14)(c)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/c) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(7)(e)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/7/e)
+
+[^c-5629c388369114718e411daa0ecff81f]: Textual amendment: Word in [s. 5(14)(d)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/d) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(7)(f)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/7/f)
+
+[^c-c6b353b22d52281e515424f7d3c25cee]: Textual amendment: [S. 5(14)(e)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/e)[(g)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/g)[(h)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/h) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 18(7)(g)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18/7/g)
 
 [^c-2d18534f4a9181ca2ea01ee20bdab772]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/4/section/6) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^c-d3038513e2a1550722c58e7517957dbb]: Textual amendment: Words in [s. 6(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/1/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-4cfebb691df749de6062a29882b34112]: Textual amendment: Words in [s. 6(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/1/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/2)
 
-[^c-4aaf1259ce8714368089f9ea28ef0cc6]: Textual amendment: Words in [s. 6(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/1/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-d1a030fd381bccec1a019134b065102f]: Textual amendment: Words in [s. 6(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/1/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/2)
 
-[^c-1ddf419edcebee9c6e1c8146000c5486]: Textual amendment: Words in [s. 6(4)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/a) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(i)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/i); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-ebe74a0712bcc0eacb991bd673fbaed9]: Textual amendment: Words in [s. 6(4)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/3/a)
 
-[^c-e16f1fdbf0581fc5510e26f410d10b3b]: Textual amendment: Words in [s. 6(4)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/b) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(ii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/ii); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-04715dcc6e23585c9437c8e49eac8786]: Textual amendment: Words in [s. 6(4)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/3/a)
 
-[^c-f953070cfca711908b5670c26da1b6a5]: Textual amendment: Words in [s. 6(4)(c)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/c)[(d)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/d) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(iv)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/iv); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-4b963265482600bc16650222f66cb117]: Textual amendment: Words in [s. 6(4)(c)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/c) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/3/b)
 
 [^c-2b7f95551c7714856fe3bbf0daac3dd2]: Textual amendment: Word in [s. 6(4)(c)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/c)[(d)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/d) repealed (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(iii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/iii), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/2); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)[(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)
 
-[^c-06d97036449986400c6a0476b4801b40]: Textual amendment: Words in [s. 6(6)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/6/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-b0796148bb962b8e2b88bca105c32037]: Textual amendment: Words in [s. 6(4)(d)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/d) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/3/b)
 
-[^c-039458f720e4ffc4c6bc5fcff4edf9f3]: Textual amendment: Words in [s. 6(6)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/6/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-c6e30b853c88bba7d604b392954c84a6]: Textual amendment: Words in [s. 6(6)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/6/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(4)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/4)
 
-[^c-a8ef271ef452eb8e2c86acd377fe4a7c]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/nia/2014/4/section/6/7) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/d); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-f26372224543e362caf5496144d79f83]: Textual amendment: Words in [s. 6(6)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/6/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(4)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/4)
 
-[^c-406e213e172faca90df5f47ef3da0301]: Textual amendment: [S. 6(8)](https://www.legislation.gov.uk/nia/2014/4/section/6/8) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(e)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/e); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-a1acb289e790e3cb9410121e565b5629]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/nia/2014/4/section/6/7) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(5)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/5)
+
+[^c-4647c0b9da8cc4d805f2cc614b16597e]: Textual amendment: [S. 6(8)](https://www.legislation.gov.uk/nia/2014/4/section/6/8) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 19(6)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19/6)
 
 [^c-9e39cfc0bb1ae6830042ab953dac2955]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2014/4/section/7) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
@@ -911,33 +996,43 @@ This Schedule makes further provision in connection with the imposition of finan
 
 [^c-50eeff1c9a79cbc1fa13a28a3853a636]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2014/4/section/8) in operation at 1.7.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^c-70c3dd7fcc27590b723865571fb72c19]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/nia/2014/4/section/8/4) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/6); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-9d4a8434e07ea6f28e62c54745e45993]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/nia/2014/4/section/8/4) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/20)
 
 [^c-77095adf3285ee84cdb072fcd2f411b0]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2014/4/section/9) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^c-8df72c2995c18e11b23a552dbbbca117]: Textual amendment: Words in [cross-heading](https://www.legislation.gov.uk/nia/2014/4/crossheading/persistent-commission-of-tobacco-offences) heading inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-4237c08cad6a61ab404132290cd66731]: Textual amendment: Words in s. 9 heading substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 21(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/21/2)
+
+[^c-4842533c4389e1956604eef907a5a182]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/nia/2014/4/section/9/2) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 21(3)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/21/3)
 
 [^c-abc544ee4632aea6daa8f1470ee4eba1]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/nia/2014/4/section/9/2) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^c-ca26f2eab1892444595892fd3869ca7b]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/nia/2014/4/section/9/3) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-b7f73c84e27c4df8b06fa12f456ebbf4]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/nia/2014/4/section/9/3) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 21(4)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/21/4)
 
 [^c-84c4b59df5ed25aa91d3975d00518758]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/4/section/10) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^c-b22d6957057bee3f566683ad5ee62770]: Textual amendment: Words in [s. 10(4)(a)](https://www.legislation.gov.uk/nia/2014/4/section/10/4/a) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/8); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-5d9cb49096434ff08748e91bba5970ea]: Textual amendment: Word in [s. 10(1)](https://www.legislation.gov.uk/nia/2014/4/section/10/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/7/a); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-f5799804b7a2de056702513acd40958a]: Textual amendment: [S. 10(2)](https://www.legislation.gov.uk/nia/2014/4/section/10/2) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/7/b); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-63a7fc37539cb618d79243b04ef0f621]: Textual amendment: Words in [s. 10(4)(a)](https://www.legislation.gov.uk/nia/2014/4/section/10/4/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 22](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/22)
 
 [^c-09434cd176c62637f2e99329177fa7b0]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/4/section/11) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^c-6e594c7ba2d75aded834a3cd5ebd63d6]: Textual amendment: [S. 11(1)(a)(iv)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/iv) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/9/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-ae99f1134af53e6a6ccc5b5b603f9e41]: Textual amendment: Words in [s. 11(1)(a)(ii)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/ii) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 23(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/23/a)
 
-[^c-9e452dc55d64ce5c999e5086b310aac3]: Textual amendment: [S. 11(1)(a)(v)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/v) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/9/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-bf3877cf3ae52487c5d21b007fe24305]: Textual amendment: Words in [s. 11(1)(a)(iii)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/iii) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 23(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/23/b)
+
+[^c-50d31ec6446db4ff7d66a3762a1df6c2]: Textual amendment: [S. 11(1)(a)(iv)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/iv)[(v)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/v) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 23(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/23/c)
 
 [^c-33d243f1b457e77c3aa92909c2202668]: Commencement: S. 12 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(d)](https://www.legislation.gov.uk/nisr/2014/125/article/2/d)
 
 [^c-7672855db10096821fe06253c11c2d2d]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2014/4/section/12) in operation at 1.7.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^c-56cff4878122ba4aeb1a8dc38b66a3cb]: Textual amendment: [S. 12(1)(d)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/d) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/10/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-1749d700c4abeb30dc35aef95448f40f]: Textual amendment: Words in [s. 12(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 24(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/24/a)
 
-[^c-327e8c4794b2b022e702119a2bd19ebd]: Textual amendment: [S. 12(1)(e)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/e) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/10/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-cf5bd7acab6ab6c4cecb40ad97f577ce]: Textual amendment: Words in [s. 12(1)(c)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/c) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 24(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/24/b)
+
+[^c-767a7e126f293bc33b7867e9d9aa69f4]: Textual amendment: [S. 12(1)(d)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/d)[(e)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/e) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 24(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/24/c)
 
 [^c-efcbc9302a84c1966881e0f6c084eab3]: Commencement: S. 13 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(e)](https://www.legislation.gov.uk/nisr/2014/125/article/2/e)
 
@@ -949,11 +1044,11 @@ This Schedule makes further provision in connection with the imposition of finan
 
 [^c-451aa6d38582ee95df1a78563417263e]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2014/4/section/16) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^c-c95f7a916ac47d80fd10c3f5b325fac9]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/16/1/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-7fde1d0ad6119748389d4879d0b830a1]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/16/1/a) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 25(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/25/2)
 
-[^c-8cf12f535ea3f4deea32bd6b1d181891]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/16/1/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-b4bd6cd5311f0ab246e55b27eada7243]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/16/1/b) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 25(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/25/2)
 
-[^c-e3db6c90b2c1aa703f7f23d6f66ba36b]: Textual amendment: Words in [s. 16(3)](https://www.legislation.gov.uk/nia/2014/4/section/16/3) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-b680335d21624f481285127bae61b914]: Textual amendment: [S. 16(3)](https://www.legislation.gov.uk/nia/2014/4/section/16/3) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 25(3)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/25/3)
 
 [^c-101024fb1c4b3e9f2bb8256073b923c7]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2014/4/section/17) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
@@ -967,11 +1062,23 @@ This Schedule makes further provision in connection with the imposition of finan
 
 [^c-23a78fa566b3732daacd86ec5f72ce59]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2014/4/section/21) in operation at 6.4.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^c-d948008fd5a0d3dbefe51982994306c1]: Textual amendment: [S. 21A](https://www.legislation.gov.uk/nia/2014/4/section/21A) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/89/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-d948008fd5a0d3dbefe51982994306c1]: Textual amendment: [S. 21A](https://www.legislation.gov.uk/nia/2014/4/section/21A) inserted (29.4.2026 for specified purposes, 29.10.2026 in so far as not already in force) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/89/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^c-83a826fa7de240147675d96254e0cd82]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/nia/2014/4/section/22/1) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/12); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-7c4be9541a3f2a096b3fb35d9adaef59]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/nia/2014/4/section/22/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 26(e)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/26/e)
+
+[^c-e69d2c75e7d4236dc2295b54c36c39b3]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/nia/2014/4/section/22/1) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 26(a)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/26/a)
+
+[^c-9cee7174005772119b49cd5bd63e586d]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/nia/2014/4/section/22/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 26(b)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/26/b)
+
+[^c-7b6665abcdc1db983c483cb77e2f67c6]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/nia/2014/4/section/22/1) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2026/18/schedule/10/paragraph/8); [S.R. 2026/152](https://www.legislation.gov.uk/nisr/2026/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/152/article/2/b)
+
+[^c-2c81a5e5378cd7e5b9270f34932c8e04]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/nia/2014/4/section/22/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 26(c)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/26/c)
+
+[^c-3e89c82b0d155f85650f653d4df8b934]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/nia/2014/4/section/22/1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 26(d)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/26/d)
 
 [^c-760a3a0c5a7478604f936d61e7ace064]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2014/4/section/23) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+
+[^c-afa64120584b3e35d5030676827213d7]: Textual amendment: Words in [s. 24(2)](https://www.legislation.gov.uk/nia/2014/4/section/24/2) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 89(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/89/3), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
 [^c-3b784506e73ef103bdddc29e8ade8935]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nia/2014/4/schedule/1) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 11](https://www.legislation.gov.uk/ukpga/2026/18/schedule/11)
 

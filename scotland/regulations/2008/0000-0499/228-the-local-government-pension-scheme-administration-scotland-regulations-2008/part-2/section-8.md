@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 8
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 8. Separate employments etc.
+## 8. Separate employments etc.[^c-8ff94524bd57f2978426e65d6161790d]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Where a person holds separate employments under one employing authority, these Regulations and the Benefits Regulations apply as if each of them were under a different employer.
 
@@ -46,6 +52,8 @@ the employee’s employment to carry out an additional duty (or duties) must be 
 is eligible to be an active member in that appointment and shall be deemed to be in the employment of that Scheme employer.
 
 ## Annotations
+
+[^c-8ff94524bd57f2978426e65d6161790d]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00013]: Footnote: [1978 c. 10](https://www.legislation.gov.uk/ukpga/1978/10).
 

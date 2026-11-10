@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **WILDLIFE**. Repeale
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Wildlife and Countryside Act 1981](../uk-parliament/acts/public/1981/69-wildlife-and-countryside-act-1981/README.md) *(changes pending)* — 65 regulations on this topic made under it
+- [Wildlife and Countryside Act 1981](../uk-parliament/acts/public/1981/69-wildlife-and-countryside-act-1981/README.md) *(changes pending)* — 64 regulations on this topic made under it
 - [Wildlife and Natural Environment (Scotland) Act 2011](../scotland/acts/2011/6-wildlife-and-natural-environment-scotland-act-2011.md) — 9 regulations on this topic made under it
 - [Ivory Act 2018](../uk-parliament/acts/public/2018/30-ivory-act-2018.md) — 7 regulations on this topic made under it
 - [Agriculture (Scotland) Act 1948](../uk-parliament/acts/public/geo6-11-12/45-agriculture-scotland-act-1948.md) *(changes pending)* — 4 regulations on this topic made under it
@@ -14,7 +14,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-147 in force.
+146 in force.
 
 **2026**
 
@@ -174,7 +174,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Conservation (Natural Habitats, &c.) (Amendment) (England and Wales) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2172-the-conservation-natural-habitats-c-amendment-england-and-wales-regulations-2008.md)
 - [The Conservation (Natural Habitats, &c.) Amendment (No. 2) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/425-the-conservation-natural-habitats-c-amendment-no-2-scotland-regulations-2008.md) *(as originally made)*
 - [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/17-the-conservation-natural-habitats-c-amendment-scotland-regulations-2008.md) *(as originally made)*
-- [The Wildlife and Countryside (Registration and Ringing of Certain Captive Birds) (Amendment) (England) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2357-the-wildlife-and-countryside-registration-and-ringing-of-certain-captive-birds-a.md) *(changes pending)*
 - [The Wildlife and Countryside Act 1981 (Variation of Schedule 4) (England) Order 2008](../uk-parliament/regulations/2008/2000-2499/2356-the-wildlife-and-countryside-act-1981-variation-of-schedule-4-england-order-2008.md)
 - [The Wildlife and Countryside Act 1981 (Variation of Schedule 5) (England) Order 2008](../uk-parliament/regulations/2008/0000-0499/431-the-wildlife-and-countryside-act-1981-variation-of-schedule-5-england-order-2008.md)
 - [The Wildlife and Countryside Act 1981 (Variation of Schedule 5) (Wales) Order 2008](../wales/regulations/2008/1500-1999/1927-the-wildlife-and-countryside-act-1981-variation-of-schedule-5-wales-order-2008.md) *(as originally made)*

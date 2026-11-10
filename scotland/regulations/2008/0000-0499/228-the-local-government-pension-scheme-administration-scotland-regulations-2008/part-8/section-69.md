@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 69
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '69'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/69
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 69
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 69. Protection of guaranteed minimum pension rights
+## 69. Protection of guaranteed minimum pension rights[^c-aad9f4a1491a87fe5ba9d9262057d1e8]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) The power–
 
@@ -29,3 +35,7 @@ may not be exercised so as to deprive a person of the person’s guaranteed mini
 - (b) because of one or more offences under the Official Secrets Act 1911 to 1989 for which the former member has been sentenced on the same occasion–
   - (i) to a term of imprisonment of at least 10 years; or
   - (ii) to two or more consecutive terms amounting in the aggregate to at least 10 years.
+
+## Annotations
+
+[^c-aad9f4a1491a87fe5ba9d9262057d1e8]: Commencement: Reg. 69 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

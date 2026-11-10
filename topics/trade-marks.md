@@ -6,12 +6,12 @@ Laws in force under the legislation.gov.uk subject heading **TRADE MARKS**. Repe
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Trade Marks Act 1994](../uk-parliament/acts/public/1994/26-trade-marks-act-1994/README.md) — 57 regulations on this topic made under it
+- [Trade Marks Act 1994](../uk-parliament/acts/public/1994/26-trade-marks-act-1994/README.md) — 56 regulations on this topic made under it
 - [Olympic Symbol etc. (Protection) Act 1995](../uk-parliament/acts/public/1995/32-olympic-symbol-etc-protection-act-1995.md) — 6 regulations on this topic made under it
 
 ## Regulations
 
-106 in force.
+105 in force.
 
 **2026**
 
@@ -78,7 +78,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Trade Marks (Fees) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1958-the-trade-marks-fees-rules-2008.md)
 - [The Trade Marks (International Registration) Order 2008](../uk-parliament/regulations/2008/2000-2499/2206-the-trade-marks-international-registration-order-2008.md) *(as originally made)*
 - [The Trade Marks Rules 2008](../uk-parliament/regulations/2008/1500-1999/1797-the-trade-marks-rules-2008.md)
-- [The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2008](../uk-parliament/regulations/2008/0000-0499/11-the-trade-marks-and-trade-marks-fees-amendment-rules-2008.md) *(changes pending)*
 
 **2007**
 

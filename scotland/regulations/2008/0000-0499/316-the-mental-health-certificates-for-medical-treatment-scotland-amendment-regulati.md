@@ -3,34 +3,36 @@ title: The Mental Health (Certificates for Medical Treatment) (Scotland) Amendme
 id: ssi/2008/316
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '2008-09-18'
-text_date: '2008-10-12'
+text_date: '2017-06-30'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/316
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/316/pdfs/ssien_20080316_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/316/pdfs/ssi_20080316_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/316/data.pdf
-pending_changes: 1
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The Mental Health (Certificates for Medical Treatment) (Scotland) Amendment Regulations 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-10-12. See https://www.legislation.gov.uk/changes/affected/ssi/2008/316
+> This law has been repealed or revoked.
 >
 > Extent: Scotland.
 
 *Extent: S*
 
+**No longer in force.**
+
 2008 No. 316
 
 MENTAL HEALTH
 
-The Mental Health (Certificates for Medical Treatment) (Scotland) Amendment Regulations 2008
+The Mental Health (Certificates for Medical Treatment) (Scotland) Amendment Regulations 2008 (revoked)[^c-ff846752153f9b2b5f4063848a8d36f9]
 
 Made
 
@@ -44,54 +46,32 @@ Coming into force
 
 12th October 2008
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 245(2), 246(1) and 325 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00001] and all other powers enabling them to do so.
+[^c-ff846752153f9b2b5f4063848a8d36f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^c-033e7e5b0c0988adebccbee04f91034b]
+**No longer in force.**
 
-These Regulations may be cited as the Mental Health (Certificates for Medical Treatment) (Scotland) Amendment Regulations 2008 and come into force on 12th October 2008.
+## 1. Citation and commencement[^c-ff846752153f9b2b5f4063848a8d36f9]
 
-## 2. Amendment of the Mental Health (Certificates for Medical Treatment) (Scotland) Regulations 2005[^c-07d4d868f617e07f986fc641fac37510]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-In Schedule 2 of the Mental Health (Certificates for Medical Treatment) (Scotland) Regulations 2005[^f00002]–
+## 2. Amendment of the Mental Health (Certificates for Medical Treatment) (Scotland) Regulations 2005[^c-ff846752153f9b2b5f4063848a8d36f9]
 
-- (a) for parts 1 and 2 of Form T1 substitute parts 1 and 2 of Form T1 in the Schedule to these Regulations;
-- (b) for Form T2 substitute Form T2 in the Schedule to these Regulations; and
-- (c) for parts 1, 2 and 3 of Form T3 substitute parts 1, 2 and 3 of Form T3 in the Schedule to these Regulations.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-S ROBISON
+[^c-ff846752153f9b2b5f4063848a8d36f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Authorised to sign by the Scottish Ministers
+**No longer in force.**
 
-St Andrew’s House,
-
-Edinburgh
-
-18th September 2008
-
-## SCHEDULE[^c-4319d6b4edd75d044ad9ecfb05707258]
+## SCHEDULE[^c-ff846752153f9b2b5f4063848a8d36f9]
 
 Regulation 2
 
-Form T1 Parts 1 and 2
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Form T2
+**May not be in force at this date. Check the source.**
 
-Form T3 Parts 1, 2 and 3
-
-[image: see source](https://www.legislation.gov.uk/ssi/2008/316/images/ssi_20080316_en_001) [image: see source](https://www.legislation.gov.uk/ssi/2008/316/images/ssi_20080316_en_002) [image: see source](https://www.legislation.gov.uk/ssi/2008/316/images/ssi_20080316_en_003) [image: see source](https://www.legislation.gov.uk/ssi/2008/316/images/ssi_20080316_en_004) [image: see source](https://www.legislation.gov.uk/ssi/2008/316/images/ssi_20080316_en_005) [image: see source](https://www.legislation.gov.uk/ssi/2008/316/images/ssi_20080316_en_006) [image: see source](https://www.legislation.gov.uk/ssi/2008/316/images/ssi_20080316_en_007) [image: see source](https://www.legislation.gov.uk/ssi/2008/316/images/ssi_20080316_en_008)
-
-(This note is not part of the Regulations)
-
-These Regulations substitute the prescribed contents of forms T1, T2 and T3 which are to be used for giving certificates under sections 235, 236, 238, 239 and 241 of the Mental Health (Care and Treatment) (Scotland) Act 2003. The certificates are in respect of the patient’s consent to certain types of medical treatment and the patient’s best interests with regard to giving that treatment.
+[^c-ff846752153f9b2b5f4063848a8d36f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
-
-[^c-033e7e5b0c0988adebccbee04f91034b]: Commencement: Reg. 1 in force at 12.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/316/regulation/1)
-
-[^c-07d4d868f617e07f986fc641fac37510]: Commencement: Reg. 2 in force at 12.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/316/regulation/1)
-
-[^f00002]: Footnote: [S.S.I. 2005/443](https://www.legislation.gov.uk/ssi/2005/443).
-
-[^c-4319d6b4edd75d044ad9ecfb05707258]: Commencement: Sch. in force at 12.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/316/regulation/1)
+[^c-ff846752153f9b2b5f4063848a8d36f9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2008/316) revoked (30.6.2017) by [The Mental Health (Certificates for Medical Treatment) (Scotland) Regulations 2017 (S.S.I. 2017/176)](https://www.legislation.gov.uk/ssi/2017/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/176/regulation/1), [3](https://www.legislation.gov.uk/ssi/2017/176/regulation/3)

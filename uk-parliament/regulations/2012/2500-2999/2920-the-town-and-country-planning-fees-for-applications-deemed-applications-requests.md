@@ -3,16 +3,16 @@ title: The Town and Country Planning (Fees for Applications, Deemed Applications
 id: uksi/2012/2920
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2012-11-21'
-text_date: '2026-07-30'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2012/2920
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2012/2920/pdfs/uksiem_20122920_en.pdf
 - http://www.legislation.gov.uk/uksi/2012/2920/pdfs/uksi_20122920_en.pdf
 - http://www.legislation.gov.uk/uksi/2012/2920/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-30. See https://www.legislation.gov.uk/changes/affected/uksi/2012/2920
+> Text as at 2026-10-31.
 >
 > Extent: England, Wales.
 
@@ -522,7 +522,7 @@ the amount of the fee shall be divided equally by the total number of owners and
 (1) Where a request is made to a local planning authority for written confirmation of compliance with a condition or conditions attached to a grant of planning permission, a fee shall be paid to that authority as follows—
 
 - (a) where the request relates to a permission for development which falls within category 6 or 7 specified in the table set out in Part 2 of Schedule 1, £86[^c-f5db452bcb7c4484fd3aecb583497b33] for each request;
-- (b)[^c-2053e2e3e251f03dc75ea1540d4fa7af][^c-535dec7159c670a6f39c63be6d7068ef][^c-ccdd6217312909bc5b4ed85f8d400f04][^c-485d29c600fee8df1f6cf6313e8c1f48][^c-fc5e5797bd1014ee908223d7af1949ac][^c-a1066d59ca48d4ff081ece8c71aad0f4][^c-c8cc5bb5a6bc9a3d02dab2537c867f53][^c-3f2831b19dace53500b82c7f56361199][^c-daa432322d8f0021edc76c22aa999668] where the request relates to a permission for development which falls within any other category of that Schedule, £298[^c-337ef178f15a44d6cb9eb4c16b84f6ea] for each request.
+- (b)[^c-2053e2e3e251f03dc75ea1540d4fa7af][^c-535dec7159c670a6f39c63be6d7068ef][^c-ccdd6217312909bc5b4ed85f8d400f04][^c-485d29c600fee8df1f6cf6313e8c1f48][^c-fc5e5797bd1014ee908223d7af1949ac][^c-a1066d59ca48d4ff081ece8c71aad0f4][^c-c8cc5bb5a6bc9a3d02dab2537c867f53][^c-3f2831b19dace53500b82c7f56361199][^c-daa432322d8f0021edc76c22aa999668][^c-a87429b573cb3d026d2d856849b3847c] where the request relates to a permission for development which falls within any other category of that Schedule, £298[^c-337ef178f15a44d6cb9eb4c16b84f6ea] for each request.
 
 (1A)[^c-b109a9f0f61e08156a1004c8d8c3a439] Paragraph (1) is subject to regulation 18A.
 
@@ -1070,6 +1070,8 @@ An impact assessment has been prepared in relation to these Regulations. It has 
 [^c-3f2831b19dace53500b82c7f56361199]: Modification: [Reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2012/2920/regulation/16/1/b) applied (23.7.2026) by [The Peartree Hill Solar Farm Order 2026 (S.I. 2026/869)](https://www.legislation.gov.uk/uksi/2026/869), [art. 1](https://www.legislation.gov.uk/uksi/2026/869/article/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2026/869/schedule/2/paragraph/23) (with [art. 37](https://www.legislation.gov.uk/uksi/2026/869/article/37), [Sch. 11](https://www.legislation.gov.uk/uksi/2026/869/schedule/11))
 
 [^c-daa432322d8f0021edc76c22aa999668]: Modification: [Reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2012/2920/regulation/16/1/b) applied (24.7.2026) by [The Dean Moor Solar Farm Order 2026 (S.I. 2026/754)](https://www.legislation.gov.uk/uksi/2026/754), [art. 1](https://www.legislation.gov.uk/uksi/2026/754/article/1), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/754/schedule/2/paragraph/21/1) (with [Sch. 13](https://www.legislation.gov.uk/uksi/2026/754/schedule/13))
+
+[^c-a87429b573cb3d026d2d856849b3847c]: Modification: [Reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2012/2920/regulation/16/1/b) applied (31.10.2026) by [The Steeple Renewables Project Order 2026 (S.I. 2026/1086)](https://www.legislation.gov.uk/uksi/2026/1086), [art. 1](https://www.legislation.gov.uk/uksi/2026/1086/article/1), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2026/1086/schedule/2/paragraph/33) (with [Sch. 10](https://www.legislation.gov.uk/uksi/2026/1086/schedule/10))
 
 [^c-337ef178f15a44d6cb9eb4c16b84f6ea]: Textual amendment: Sum in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2012/2920/regulation/16/1/b) substituted (1.4.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/342)](https://www.legislation.gov.uk/uksi/2025/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/342/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/342/regulation/4/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/342/regulation/6))
 

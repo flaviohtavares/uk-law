@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 35
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '35'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 35
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 35. Amount of fee loan for a course
+## 35. Amount of fee loan for a course[^c-30fd002fb3081ac7a0934cf0fee15329]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The number of credits associated with an activity across a course for which a student may receive a fee loan must not exceed the “fee loan per-course amount” provided for in this regulation.
 
@@ -46,3 +52,7 @@ summary: ''
 - (b) requires students to have substantial relevant prior learning or experience as part of the entry requirements (which could be, but is not limited to, a qualification in the same field).
 
 (7) In the case of top-up courses that are only offered part-time, the number of full-time equivalent years is the number of years that it would take to complete the course if studying 120 credits (or 1,200 notional learning hours) per year.
+
+## Annotations
+
+[^c-30fd002fb3081ac7a0934cf0fee15329]: Commencement: Reg. 35 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

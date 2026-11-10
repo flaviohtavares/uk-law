@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 57
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '57'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 57
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 57. Notice of decisions on reconsideration of disagreement
+## 57. Notice of decisions on reconsideration of disagreement[^c-c53e1fff2107855797f378664932febe]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), the Scottish Ministers must give their decision on an application under regulation 56 by notice in writing to–
 
@@ -36,3 +42,7 @@ before the expiry of the period of two months beginning with the date the applic
 - (d) in a case where the disagreement relates to the exercise of a discretion, a reference to the provisions of the Scheme conferring the discretion;
 - (e) a statement that the Pensions Advisory Service is available to give assistance in connection with any difficulty with the Scheme which remains unresolved including the address at which it may be contacted; and
 - (f) a statement that the Pensions Ombudsman may investigate and determine any complaint or dispute of fact or law in relation to the Scheme made or referred in accordance with the Pension Schemes Act 1993 including the address at which the Pensions Ombudsman may be contacted.
+
+## Annotations
+
+[^c-c53e1fff2107855797f378664932febe]: Commencement: Reg. 57 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

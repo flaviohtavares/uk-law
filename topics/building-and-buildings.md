@@ -43,7 +43,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025](../wales/regulations/2025/1000-1499/1320-the-building-etc-amendment-no-2-wales-regulations-2025.md)
 - [The Building etc. (Amendment) (Wales) Regulations 2025](../wales/regulations/2025/0000-0499/377-the-building-etc-amendment-wales-regulations-2025.md) *(as originally made)*
 - [The Construction Products (Amendment) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1172-the-construction-products-amendment-regulations-2025.md) *(as originally made)*
-- [The Energy Performance of Buildings (Scotland) Regulations 2025](../scotland/regulations/2025/0000-0499/417-the-energy-performance-of-buildings-scotland-regulations-2025.md) *(as originally made)*
+- [The Energy Performance of Buildings (Scotland) Regulations 2025](../scotland/regulations/2025/0000-0499/417-the-energy-performance-of-buildings-scotland-regulations-2025.md) *(changes pending)*
 
 **2024**
 
@@ -193,7 +193,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Domestic Fire Safety (Wales) Measure 2011 (Commencement No. 1) Order 2013](../wales/regulations/2013/2500-2999/2727-the-domestic-fire-safety-wales-measure-2011-commencement-no-1-order-2013.md) *(as originally made)*
 - [The Energy Performance of Buildings (England and Wales) (Amendment) (Fees) Regulations 2013](../uk-parliament/regulations/2013/0500-0999/603-the-energy-performance-of-buildings-england-and-wales-amendment-fees-regulations.md) *(as originally made)*
 - [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013](../uk-parliament/regulations/2013/0000-0499/10-the-energy-performance-of-buildings-england-and-wales-etc-amendment-regulations.md) *(as originally made)*
-- [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013](../scotland/regulations/2013/0000-0499/12-the-energy-performance-of-buildings-scotland-amendment-regulations-2013.md) *(changes pending)*
+- [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013](../scotland/regulations/2013/0000-0499/12-the-energy-performance-of-buildings-scotland-amendment-regulations-2013.md)
 
 **2012**
 
@@ -216,7 +216,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2010**
 
 - [The Building (Approved Inspectors etc. ) Regulations 2010](../uk-parliament/regulations/2010/2000-2499/2215-the-building-approved-inspectors-etc-regulations-2010/README.md)
-- [The Building (Local Authority Charges) Regulations 2010](../uk-parliament/regulations/2010/0000-0499/404-the-building-local-authority-charges-regulations-2010.md) *(changes pending)*
+- [The Building (Local Authority Charges) Regulations 2010](../uk-parliament/regulations/2010/0000-0499/404-the-building-local-authority-charges-regulations-2010.md)
 - [The Building (Scotland) Amendment Regulations 2010](../scotland/regulations/2010/0000-0499/32-the-building-scotland-amendment-regulations-2010.md) *(as originally made)*
 - [The Building Regulations 2010](../uk-parliament/regulations/2010/2000-2499/2214-the-building-regulations-2010/README.md) *(changes pending)*
 - [The Public Services Reform (Scotland) Act 2010 (Commencement No. 1) Order 2010](../scotland/regulations/2010/0000-0499/221-the-public-services-reform-scotland-act-2010-commencement-no-1-order-2010.md) *(as originally made)*

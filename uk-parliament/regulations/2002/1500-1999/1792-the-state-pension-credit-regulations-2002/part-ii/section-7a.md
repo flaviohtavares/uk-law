@@ -3,7 +3,7 @@ title: The State Pension Credit Regulations 2002, section 7A
 act: The State Pension Credit Regulations 2002
 section: 7A
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/1792/section/7A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The State Pension Credit Regulations 2002, section 7A
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
 ## 7A. Limitation of savings credit for certain mixed-age couples[^c-471de24b2a61f207af11ec98eb041760]
 

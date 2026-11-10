@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 45
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '45'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/45
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 45
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 45. Students with full entitlement under the age of 60
+## 45. Students with full entitlement under the age of 60[^c-d2c25fefe14a3992a5ff7fafac8ae6af]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) This regulation applies to an eligible student described in regulation 43(1)(b).
 
@@ -34,3 +40,7 @@ where—
   - (vii) for a student in category D in the final year of the course, £341.39;
   - (viii) for a student in category D in a course year other than the final year, £360.99, and
 - (ii) the resulting figure, if it is not a whole number, is rounded up to the nearest £1.
+
+## Annotations
+
+[^c-d2c25fefe14a3992a5ff7fafac8ae6af]: Commencement: Reg. 45 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

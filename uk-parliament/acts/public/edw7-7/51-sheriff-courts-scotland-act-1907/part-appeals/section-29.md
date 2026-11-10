@@ -3,7 +3,7 @@ title: Sheriff Courts (Scotland) Act 1907, section 29
 act: Sheriff Courts (Scotland) Act 1907
 section: '29'
 status: repealed
-text_date: '2025-12-01'
+text_date: '2026-09-30'
 extent: S
 source_url: https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

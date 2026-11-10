@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 21
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '21'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 21. Discontinuance of ARCs
+## 21. Discontinuance of ARCs[^c-d4251edab21a87896cf3df7c1977ec7b]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) A member–
 
@@ -29,3 +35,7 @@ summary: ''
 the member is to be treated as having paid ARCs up to the end of that period.
 
 (3) If a member stops paying ARCs and paragraph (2) does not apply to the member, the member must be credited with additional pension of an amount determined by the scheme actuary, having regard to the ARCs paid by the member before the member stopped.
+
+## Annotations
+
+[^c-d4251edab21a87896cf3df7c1977ec7b]: Commencement: Reg. 21 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

@@ -2,8 +2,8 @@
 title: The Community Infrastructure Levy Regulations 2010, section 6
 act: The Community Infrastructure Levy Regulations 2010
 section: '6'
-status: revised-with-pending-changes
-text_date: '2026-09-14'
+status: revised
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2010/948/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Community Infrastructure Levy Regulations 2010, section 6
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/uksi/2010/948
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c-3b1d4ffc35d2858c6bb4b7976d8be413] The following works are not to be treated as development for the purposes of section 208 of PA 2008 (liability)—
+(1)[^c-604ff7e249a01c74e572b41ad0553cbe][^c-3b1d4ffc35d2858c6bb4b7976d8be413] The following works are not to be treated as development for the purposes of section 208 of PA 2008 (liability)—
 
 - (a) anything done by way of, or for the purpose of, the creation of a building of a kind mentioned in paragraph (2);
 - (b) the carrying out of any work to, or in respect of, an existing building if, after the carrying out of that work, it is still a building of a kind mentioned in paragraph (2);
@@ -49,5 +49,7 @@ summary: ''
 [^c-a17ffa0babae2e888ef4cdaef76eba29]: Modification: Reg. 6 modified (30.7.2026) by [The One Earth Solar Farm Order 2026 (S.I. 2026/934)](https://www.legislation.gov.uk/uksi/2026/934), [arts. 1](https://www.legislation.gov.uk/uksi/2026/934/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2026/934/article/6/4) (with [art. 47](https://www.legislation.gov.uk/uksi/2026/934/article/47))
 
 [^c-c3c166f94917a7ca4a0842b7b1397a58]: Modification: Reg. 6 modified (14.9.2026) by [The Beacon Fen Energy Park Order 2026 (S.I. 2026/1025)](https://www.legislation.gov.uk/uksi/2026/1025), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1025/article/1), [8(5)](https://www.legislation.gov.uk/uksi/2026/1025/article/8/5) (with [art. 39](https://www.legislation.gov.uk/uksi/2026/1025/article/39), [Sch. 11 para. 131](https://www.legislation.gov.uk/uksi/2026/1025/schedule/11/paragraph/131))
+
+[^c-604ff7e249a01c74e572b41ad0553cbe]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2010/948/regulation/6/1) modified (30.10.2026) by [The Green Hill Solar Farm Order 2026 (S.I. 2026/1074)](https://www.legislation.gov.uk/uksi/2026/1074), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1074/article/1), [6(5)](https://www.legislation.gov.uk/uksi/2026/1074/article/6/5) (with [Sch. 15](https://www.legislation.gov.uk/uksi/2026/1074/schedule/15))
 
 [^c-3b1d4ffc35d2858c6bb4b7976d8be413]: Textual amendment: Reg. 6(1) substituted (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2011/987/regulation/4/1)

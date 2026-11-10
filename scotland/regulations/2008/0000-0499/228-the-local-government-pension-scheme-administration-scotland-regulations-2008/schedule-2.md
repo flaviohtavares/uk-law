@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 2
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## SCHEDULE 2 — SCHEME EMPLOYERS
+## SCHEDULE 2 — SCHEME EMPLOYERS[^c-2113db141fcd71e4f4be2bef4a10bcb4]
+
+*Extent: S*
+
+**Not yet in force.**
 
 Regulation 3(2)
 
@@ -32,6 +38,8 @@ Regulation 3(2)
 - The Scottish Police Services Authority established under section 1(1) of the Police, Public Order and Criminal Justice (Scotland) Act 2006[^f00106].
 
 ## Annotations
+
+[^c-2113db141fcd71e4f4be2bef4a10bcb4]: Commencement: Sch. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00099]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
 

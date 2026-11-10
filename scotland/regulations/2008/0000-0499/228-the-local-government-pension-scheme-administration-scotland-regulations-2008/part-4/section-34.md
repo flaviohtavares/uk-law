@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 34
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '34'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 34
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 34. Special circumstances where revised actuarial valuations and certificates must be obtained
+## 34. Special circumstances where revised actuarial valuations and certificates must be obtained[^c-6fb2d8c7580661a602e3d819a99a0476]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) When obtaining a transfer statement under regulation 29(5) (admission agreement funds), an administering authority must also obtain from the actuary a rates and adjustments certificate for the admission agreement fund for each remaining year of the period covered by the most recent such certificate for its main fund.
 
@@ -41,3 +47,7 @@ with a view to providing that the value of the assets of the fund in respect of 
 - (b) it appears to an administering authority that the amount of the liabilities arising or likely to arise in respect of members in employment with an employing authority exceeds the amount specified in, or likely as a result of, the assumptions stated for that authority in a rates and adjustments certificate by virtue of regulation 32(8) (actuarial valuations and certificates).
 
 (6) The administering authority must obtain a revision of the rates and adjustments certificate concerned, showing the resulting changes as respects that employing authority.
+
+## Annotations
+
+[^c-6fb2d8c7580661a602e3d819a99a0476]: Commencement: Reg. 34 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

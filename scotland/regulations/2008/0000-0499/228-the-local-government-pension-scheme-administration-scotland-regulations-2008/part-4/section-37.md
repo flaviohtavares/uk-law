@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 37
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '37'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/37
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 37
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 37. Employer’s further payments
+## 37. Employer’s further payments[^c-1baa9e9870b0107649c61146c0231111]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Any extra charge on the appropriate fund resulting from a member’s becoming entitled to benefits calculated under paragraphs (2)(b), (3)(b) or (4) of regulation 20 (early leavers: ill-health) or regulation 31 (early payment of pension: ill-health) of the Benefits Regulations must be repaid to the fund by the employing authority concerned.
 
@@ -26,3 +32,7 @@ summary: ''
 
 - (a) a single payment of an amount determined by the administering authority on the advice of the fund actuary; or
 - (b) instalments, each of an amount determined by the administering authority on the advice of the fund actuary, covering a period not exceeding the period between the member’s leaving local government employment and reaching normal retirement age, or a period not exceeding 5 years, the first and subsequent instalments becoming payable as agreed between the administering authority and the employing authority.
+
+## Annotations
+
+[^c-1baa9e9870b0107649c61146c0231111]: Commencement: Reg. 37 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

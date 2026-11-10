@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2022-07-18'
-text_date: '2026-05-07'
+text_date: '2026-10-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2022/823
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2022/823/pdfs/uksiem_20220823_en.pdf
 - http://www.legislation.gov.uk/uksi/2022/823/pdfs/uksi_20220823_en.pdf
 - http://www.legislation.gov.uk/uksi/2022/823/data.pdf
-pending_changes: 4
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Suffolk (Electoral Changes) Order 2022
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-05-07. See https://www.legislation.gov.uk/changes/affected/uksi/2022/823
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/uksi/2022/823
 >
 > Extent: England, Wales.
 
@@ -79,8 +79,6 @@ The Commission makes the following Order in exercise of the power conferred by s
 (4) One councillor is to be elected for each division listed in Schedule 1 other than the division of Beccles & Kessingland for which two councillors are to be elected.
 
 ## 4. Parish wards of parishes in Suffolk and number of councillors[^c-f90e5bb0a3a87a33ddc719f2f94d3a6e][^c-6798487141ffb3ab810e0d99e9671beb]
-
-**Not yet in force.**
 
 (1) The existing parish wards of the following parishes are abolished—
 
@@ -393,7 +391,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-84dfedea970fc78ad3eaf8f0b9232660]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2022/823/article/3) in force at 7.5.2026 in so far as not already in force at 7.5.2026, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/b))
 
-[^c-f90e5bb0a3a87a33ddc719f2f94d3a6e]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/a)
+[^c-f90e5bb0a3a87a33ddc719f2f94d3a6e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2022/823/article/4) in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/a)
 
 [^c-6798487141ffb3ab810e0d99e9671beb]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/b)
 
@@ -401,6 +399,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-ece7be942b017cf69c412aabc2d5843e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/823/schedule/1) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/b))
 
-[^c-73a7ab4c8df43ab9bc0d46b8a4b99185]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/a)
+[^c-73a7ab4c8df43ab9bc0d46b8a4b99185]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2022/823/schedule/2) in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/a)
 
 [^c-203c99ef29b2342ae92c9420233f1cb0]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/b)

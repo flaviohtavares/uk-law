@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 26
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '26'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 26
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 26. Priority additional entitlement
+## 26. Priority additional entitlement[^c-7e291da10a05bbaedb6d9acbe59a20f1]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student (“**A**”) qualifies for priority additional entitlement if A is undertaking a course from the following list (to be known as “**the priority additional entitlement course list**”)—
 
@@ -43,3 +49,7 @@ summary: ''
 - (b) the Nursing and Midwifery Council, for midwifery or nursing;
 - (c) the General Dental Council, for dental profession subjects;
 - (d) Social Work England and the Nursing and Midwifery Council, for nursing and social work.
+
+## Annotations
+
+[^c-7e291da10a05bbaedb6d9acbe59a20f1]: Commencement: Reg. 26 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

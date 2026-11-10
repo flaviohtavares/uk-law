@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 67
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '67'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/67
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 67
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 67. Interim payments directions
+## 67. Interim payments directions[^c-3b35a6788183c10056e7f42f7ac8bb30]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) If–
 
@@ -37,3 +43,7 @@ the person’s former employing authority may give an interim payments direction
 (6) An interim payments direction is not a decision under regulation 51 as to any person’s entitlement to a benefit.
 
 (7) Payments in accordance with an interim payments direction shall be deemed to be payments in respect of a benefit to which the recipient was entitled (regardless of any contrary forfeiture direction or decision under regulation 51).
+
+## Annotations
+
+[^c-3b35a6788183c10056e7f42f7ac8bb30]: Commencement: Reg. 67 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

@@ -3,7 +3,7 @@ title: The State Pension Credit Regulations 2002, section 5
 act: The State Pension Credit Regulations 2002
 section: '5'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/1792/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The State Pension Credit Regulations 2002, section 5
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
 ## 5. Persons treated as being or not being members of the same household
 
@@ -61,6 +61,7 @@ and the Secretary of State considers that it would be unreasonable to expect the
 - (a) the person was present in a country or territory outside Great Britain immediately before His Majesty’s Government—
   - (i) provided public information to advise British nationals to leave that country or territory, or
   - (ii) arranged the evacuation of British nationals from that country or territory;
+- (aa)[^c-b1dd8b30f39eedb70c795b64f7e15c6d] paragraph (1A)(a), (b) or (c) applied to the person when the public information was issued or the evacuation began;
 - (b) the Secretary of State is satisfied that it would be unreasonable to expect the person to return, or have returned, to Great Britain; and
 - (c) the person did not enter that country or territory when His Majesty’s Government’s public information was to advise British nationals to leave that country or territory.
 
@@ -132,6 +133,8 @@ where paragraph (4)(a) applies, with effect from the date on which the relevant 
 [^c-1534b3747a3a24007a7daa5d7168c00d]: Textual amendment: [Reg. 5(1A)(d)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/5/1A/d) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/6/3/c)
 
 [^c-0176532f32e63212dc296c82c26acd8a]: Textual amendment: [Reg. 5(1D)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/5/1D)[(1E)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/5/1E) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [6(3)(d)](https://www.legislation.gov.uk/uksi/2025/884/regulation/6/3/d)
+
+[^c-b1dd8b30f39eedb70c795b64f7e15c6d]: Textual amendment: [Reg. 5(1D)(aa)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/5/1D/aa) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/3/3)
 
 [^c-112b4244ccc2eef4566f9dfa92bb6c28]: Textual amendment: Words in reg. 5(2) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/655/regulation/2/2/a)
 

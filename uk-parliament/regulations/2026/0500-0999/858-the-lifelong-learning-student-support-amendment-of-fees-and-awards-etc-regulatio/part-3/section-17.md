@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 17
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '17'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 17. Time limits
+## 17. Time limits[^c-fe630283d962f899b53377222be865f8]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The general rule is that—
 
@@ -58,3 +64,7 @@ summary: ''
 (10) Where the applicant is applying for the disabled students’ allowance, the application must reach the Secretary of State as soon as is reasonably practicable.
 
 (11) Where the Secretary of State considers that, having regard to the circumstances of the particular case, the time limit should be relaxed, the application must reach the Secretary of State no later than such date as the Secretary of State specifies.
+
+## Annotations
+
+[^c-fe630283d962f899b53377222be865f8]: Commencement: Reg. 17 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

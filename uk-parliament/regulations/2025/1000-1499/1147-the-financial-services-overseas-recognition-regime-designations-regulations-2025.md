@@ -3,15 +3,15 @@ title: The Financial Services (Overseas Recognition Regime Designations) Regulat
 id: uksi/2025/1147
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2025-10-30'
-text_date: null
-extent: null
+text_date: '2025-11-28'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2025/1147
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2025/1147/pdfs/uksiem_20251147_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2025/1147/pdfs/uksi_20251147_en.pdf
-- http://www.legislation.gov.uk/uksi/2025/1147/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2025/1147/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Financial Services (Overseas Recognition Regime Designations) Regulations 2025
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-11-28. See https://www.legislation.gov.uk/changes/affected/uksi/2025/1147
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2025 No. 1147
 
@@ -40,7 +44,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 In accordance with section 4(9) of that Act[^f00002], a draft of this instrument has been laid before, and approved by resolution of, each House of Parliament.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-adb728727fdc27e0245f72065a76b842]
 
 (1) These Regulations may be cited as the Financial Services (Overseas Recognition Regime Designations) Regulations 2025.
 
@@ -48,7 +52,7 @@ In accordance with section 4(9) of that Act[^f00002], a draft of this instrument
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Overseas recognition regime designations
+## 2. Overseas recognition regime designations[^c-1d11cb550bf4682f468990a0aad876f0]
 
 (1) For the purposes of these Regulations, an “overseas recognition regime designation” is a designation (however described) by the Treasury made under—
 
@@ -66,7 +70,7 @@ In accordance with section 4(9) of that Act[^f00002], a draft of this instrument
 
   authority comprising countries or territories.
 
-## 3. Overseas recognition regime designations: supplementary provision
+## 3. Overseas recognition regime designations: supplementary provision[^c-4ccfc9ea603afe38c58396f6e3d5e09a]
 
 (1) A power of the Treasury under any enactment to make an overseas recognition regime designation includes power—
 
@@ -75,7 +79,7 @@ In accordance with section 4(9) of that Act[^f00002], a draft of this instrument
 
 (2) Paragraph (1) is subject to any contrary intention that appears in the enactment concerned.
 
-## 4. Information and advice
+## 4. Information and advice[^c-3510fe9b3222454adeaa5e06b709d457]
 
 (1) The Treasury may by notice require a regulator to provide any information or advice that the Treasury consider is necessary to enable the Treasury to decide whether to make, amend or revoke an overseas recognition regime designation.
 
@@ -98,7 +102,7 @@ in the absence of a notice under paragraph (1).
 - (b) the PRA, or
 - (c) the Bank of England.
 
-## 5. Co-ordination of functions
+## 5. Co-ordination of functions[^c-8f802cc8dfe8dda29412c5384985fffc]
 
 (1) The relevant bodies must co-ordinate the discharge of their respective functions in relation to—
 
@@ -122,7 +126,7 @@ in the absence of a notice under paragraph (1).
 - (a) lay before Parliament a copy of the memorandum, and
 - (b) publish it in a way appearing to the Treasury to be best calculated to bring it to the attention of the public.
 
-## 6. Disclosure of information
+## 6. Disclosure of information[^c-33c20e66e99e7efe77b135b39b861977]
 
 Sections 348 to 350 and 352 of FSMA 2000[^f00003] (disclosure of information) apply in relation to information received by the Bank of England for the purposes of, or in discharge of, any of its functions under regulation 4 as if—
 
@@ -148,13 +152,13 @@ Sections 348 to 350 and 352 of FSMA 2000[^f00003] (disclosure of information) ap
 
     .
 
-## 7. Amendment to the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023
+## 7. Amendment to the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023[^c-c187c172c586e9626baf93ba893f34c7]
 
 (1) The Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023[^f00004] are amended as follows.
 
 (2) In Part 4 (overseas insurance regime), in regulation 10 (interpretation), in the definition of “overseas jurisdiction” omit “or Gibraltar”.
 
-## 8. Amendments to the Short Selling Regulations 2025
+## 8. Amendments to the Short Selling Regulations 2025[^c-ad2a63bb3b62307ea6a66695bcea8d88]
 
 (1) The Short Selling Regulations 2025[^f00005] are amended as follows.
 
@@ -179,9 +183,9 @@ Two of the Lords Commissioners of His Majesty's Treasury
 
 Regulation 2(1)
 
-**1.** The Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023[^f00006], regulation 11.
+**1.**[^c-4548ea00e86fe23d489217c59c028781] The Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023[^f00006], regulation 11.
 
-**2.** The Short Selling Regulations 2025, regulation 11(1).
+**2.**[^c-1943711fb4defa207a73a298204c194b] The Short Selling Regulations 2025, regulation 11(1).
 
 Explanatory Note
 
@@ -209,10 +213,30 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: Section 4(9) requires instruments made by virtue of section 4 to which section 4(8) does not apply to be subject to the affirmative procedure. This is defined in section 84(3) of the Financial Services and Markets Act 2023.
 
+[^c-adb728727fdc27e0245f72065a76b842]: Commencement: Reg. 1 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)
+
+[^c-1d11cb550bf4682f468990a0aad876f0]: Commencement: Reg. 2 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)
+
+[^c-4ccfc9ea603afe38c58396f6e3d5e09a]: Commencement: Reg. 3 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)
+
+[^c-3510fe9b3222454adeaa5e06b709d457]: Commencement: Reg. 4 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)
+
+[^c-8f802cc8dfe8dda29412c5384985fffc]: Commencement: Reg. 5 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)
+
+[^c-33c20e66e99e7efe77b135b39b861977]: Commencement: Reg. 6 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)
+
 [^f00003]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 348(2) was amended by paragraph 18(2) of Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments to these sections which are not relevant to these Regulations.
+
+[^c-c187c172c586e9626baf93ba893f34c7]: Commencement: Reg. 7 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2023/1347](https://www.legislation.gov.uk/uksi/2023/1347). Regulation 10 was inserted by [S.I. 2024/1116](https://www.legislation.gov.uk/uksi/2024/1116).
 
+[^c-ad2a63bb3b62307ea6a66695bcea8d88]: Commencement: Reg. 8 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)
+
 [^f00005]: Footnote: [S.I. 2025/29](https://www.legislation.gov.uk/uksi/2025/29).
 
+[^c-4548ea00e86fe23d489217c59c028781]: Commencement: Sch. para. 1 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)
+
 [^f00006]: Footnote: Regulation 11 was inserted by [S.I. 2024/1116](https://www.legislation.gov.uk/uksi/2024/1116).
+
+[^c-1943711fb4defa207a73a298204c194b]: Commencement: Sch. para. 2 in force at 28.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2)

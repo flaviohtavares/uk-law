@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 62
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '62'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/62
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 62
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 62. Annual benefit statements
+## 62. Annual benefit statements[^c-0c7ce982197c6e56603303d26d1aed84]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) An administering authority must issue an annual benefit statement to each of its active, deferred and pension credit members.
 
@@ -35,3 +41,7 @@ summary: ''
 
 - (a) 31st March before the date that the statement is issued, or
 - (b) such later date as the authority may choose.
+
+## Annotations
+
+[^c-0c7ce982197c6e56603303d26d1aed84]: Commencement: Reg. 62 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

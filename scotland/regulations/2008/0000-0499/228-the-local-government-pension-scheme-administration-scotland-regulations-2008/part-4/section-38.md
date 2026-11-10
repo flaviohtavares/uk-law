@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 38
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '38'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 38
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 38. Payment by employing authorities to appropriate administering authorities
+## 38. Payment by employing authorities to appropriate administering authorities[^c-ddf8f671207842cf24768539e297aabc]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Every employing authority must pay to the appropriate administering authority on or before such dates falling at intervals of not more than 12 months as the appropriate administering authority may determine–
 
@@ -45,5 +51,7 @@ summary: ''
 (8) An administering authority must also pay any additional costs due to the fund which are incurred because of its level of performance in carrying out its functions under these Regulations.
 
 ## Annotations
+
+[^c-ddf8f671207842cf24768539e297aabc]: Commencement: Reg. 38 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00033]: Footnote: S.I. [1998/2888](https://www.legislation.gov.uk/uksi/1998/2888).

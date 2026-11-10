@@ -2,8 +2,8 @@
 title: Data (Use and Access) Act 2025, section 64
 act: Data (Use and Access) Act 2025
 section: '64'
-status: not-yet-in-force
-text_date: '2026-09-30'
+status: revised
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2025/18/section/64
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Data (Use and Access) Act 2025, section 64
 
-> This provision is not yet in force.
+> Text as at 2026-11-09.
 >
 > Extent: England, Wales.
 
-## 64. Treatment of existing registers and records[^c-05eea05ba082e43cd291e120cf2271be]
+## 64. Treatment of existing registers and records[^c-05eea05ba082e43cd291e120cf2271be][^c-b0605ca59638edf505bc9492d30ad392]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) The repeal of section 28 of the Births and Deaths Registration Act 1953 by section 61 above does not affect—
 
@@ -57,3 +55,5 @@ summary: ''
 ## Annotations
 
 [^c-05eea05ba082e43cd291e120cf2271be]: Commencement: S. 64 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+
+[^c-b0605ca59638edf505bc9492d30ad392]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2025/18/section/64) in force at 9.11.2026 by [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/d)

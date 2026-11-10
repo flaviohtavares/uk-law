@@ -3,7 +3,7 @@ title: Housing (Scotland) Act 2025, section 61
 act: Housing (Scotland) Act 2025
 section: '61'
 status: revised-with-pending-changes
-text_date: '2026-10-06'
+text_date: '2026-11-09'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2025/13/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Housing (Scotland) Act 2025, section 61
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2026-10-06. See https://www.legislation.gov.uk/changes/affected/asp/2025/13
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/asp/2025/13
 >
 > Extent: Scotland.
 
@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Mobile Homes Act 1983 is modified as follows.
 
-(2) In section 2B (power to amend implied terms: Scotland)—
+(2)[^c-4d12dd4bf28f932d383fe75acab51c69] In section 2B (power to amend implied terms: Scotland)—
 
 - (a) in subsection (3), after paragraph (a) insert—
 
@@ -85,3 +85,5 @@ summary: ''
 [^c-b3e7ae59cc74789bbd26a551ca79f453]: Commencement: S. 61 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
 [^c-4250eaabdb77700e313598bdd24532d7]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2025/13/section/61) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^c-4d12dd4bf28f932d383fe75acab51c69]: Commencement: [S. 61(2)](https://www.legislation.gov.uk/asp/2025/13/section/61/2) in force at 9.11.2026 in so far as not already in force by [S.S.I. 2026/286](https://www.legislation.gov.uk/ssi/2026/286), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/286/regulation/2/1)[(4)](https://www.legislation.gov.uk/ssi/2026/286/regulation/2/4), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/286/schedule/part/1)

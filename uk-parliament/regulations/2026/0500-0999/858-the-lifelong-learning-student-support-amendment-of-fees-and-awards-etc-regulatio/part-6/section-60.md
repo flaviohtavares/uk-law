@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 60
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '60'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/60
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 60
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 60. Students qualifying for a supplementary grant during a course year
+## 60. Students qualifying for a supplementary grant during a course year[^c-f8d12d8bedac8b3df256ee82e394698d]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Where a protected category event—
 
@@ -35,3 +41,7 @@ the student may qualify for a supplementary grant in respect of part of the cour
 (4) A student described in paragraph (2) does not qualify for a supplementary grant in respect of any course year beginning before the course year in which the event in question occurs.
 
 (5) Paragraphs (1) and (2) do not apply where the protected category event, course designation event, or in-year qualifying event (as the case may be) occurs after the last day in the course year on which the student is undertaking study.
+
+## Annotations
+
+[^c-f8d12d8bedac8b3df256ee82e394698d]: Commencement: Reg. 60 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

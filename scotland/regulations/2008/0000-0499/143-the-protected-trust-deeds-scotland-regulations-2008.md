@@ -3,15 +3,15 @@ title: The Protected Trust Deeds (Scotland) Regulations 2008
 id: ssi/2008/143
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-28'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/143
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/143/pdfs/ssien_20080143_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/143/pdfs/ssi_20080143_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/143/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/143/data.pdf
 pending_changes: 23
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Protected Trust Deeds (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (23).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/143
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 143
 
@@ -40,11 +44,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 72(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-d751332551e225e0a841a7fc06fe20cb]
 
 These Regulations may be cited as the Protected Trust Deeds (Scotland) Regulations 2008 and come into force on 1st April 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-c15761f26e53961883fb0358eaf291ed]
 
 In these Regulations–
 
@@ -58,11 +62,11 @@ In these Regulations–
 - “the relevant period” means the period of 5 weeks beginning with the date of publication of the notice referred to in regulation 7; and
 - “trust deed” means a trust deed that is intended to become a protected trust deed.
 
-## 3. Protected trust deed
+## 3. Protected trust deed[^c-de42958c9f513d58edfe635870e2331b]
 
 A trust deed will have protected status, if the conditions set out in regulations 4 to 10 are met, from the date that the trust deed is recorded by the Accountant in the register of insolvencies.
 
-## 4. The debtor
+## 4. The debtor[^c-f7b0e95094395554a182908a2cc8436c]
 
 (1) The debtor must be–
 
@@ -80,13 +84,13 @@ that grants a trust deed for a single estate.
 - (b) in the case of an individual, subject to an approved debt payment programme under the Debt Arrangement Scheme[^f00005]; or
 - (c) an entity referred to in section 6(2) of the Act.
 
-## 5. Qualifications of trustee
+## 5. Qualifications of trustee[^c-2b7f5d3c8af79902dfe6befc7afa84a7]
 
 (1) The trustee under the trust deed must be a person who would not be disqualified under section 24(2) of the Act from acting as the replacement trustee if the debtor’s estate were being sequestrated.
 
 (2) If the trustee is replaced by another trustee, the new trustee must notify the Accountant that the new trustee has become the trustee of the trust deed.
 
-## 6. Statement of trustee and debtor
+## 6. Statement of trustee and debtor[^c-540feb4438dff45f04dd8caeb37eaa7e]
 
 (1) The trust deed must state that all the debtor’s estate (other than property listed in section 33(1) of the Act or which would be excluded from vesting in a trustee of a sequestrated estate under any other provision of that Act or other enactment) is conveyed to the trustee.
 
@@ -104,11 +108,11 @@ that grants a trust deed for a single estate.
 
 and the trustee and the debtor must sign a statement to the effect that the trustee has fulfilled the duties referred to in this regulation.
 
-## 7. Notice in the Edinburgh Gazette
+## 7. Notice in the Edinburgh Gazette[^c-6ea17ac54563e144b2eaaac78d5cad87]
 
 Forthwith after the trust deed has been delivered to the trustee, the trustee must publish in the Edinburgh Gazette a notice in the form of Form 1 set out in Schedule 1 to these Regulations.
 
-## 8. Documents to be sent to creditors
+## 8. Documents to be sent to creditors[^c-aacba01db2aaf2ed66417aac88124a08]
 
 Not later than 7 days after the date of publication of the notice referred to in regulation 7, the trustee must send to every creditor known to the trustee–
 
@@ -130,13 +134,13 @@ Not later than 7 days after the date of publication of the notice referred to in
     - (bb) the consequences of the deed becoming a protected trust deed; and
 - (d) a copy of Form 2 as set out in Schedule 1 to these Regulations for the creditor to make a statement of claim.
 
-## 9. Accession by creditors to the trust deed
+## 9. Accession by creditors to the trust deed[^c-1dd70d32343bbf5000e1d2108dc7b653]
 
 (1) The trust deed must be acceded to by the notified creditors.
 
 (2) The trust deed will be deemed to be acceded to by the notified creditors, unless within the relevant period the trustee has received notification in writing from a majority in number or not less than one third in value of those creditors that they object to the trust deed.
 
-## 10. Registration of protected status
+## 10. Registration of protected status[^c-e4fb62d121e9595430e5627f5e58102b]
 
 (1) As soon as reasonably practicable after the expiry of the relevant period, the trustee must send to the Accountant for registration in the register of insolvencies–
 
@@ -151,7 +155,7 @@ Not later than 7 days after the date of publication of the notice referred to in
 
 (2) On receipt of the documents listed in paragraph (1) the Accountant must forthwith record the trust deed in the register of insolvencies.
 
-## 11. Effect of protected status
+## 11. Effect of protected status[^c-3adc010b5ecbb1acb21b4fd2042c0333]
 
 (1) Where a trust deed has become a protected trust deed, then–
 
@@ -164,7 +168,7 @@ Not later than 7 days after the date of publication of the notice referred to in
 
 (2) Creditors will no longer be deemed to have acceded to a trust deed in terms of regulation 9(2) if the trustee issues a determination that the debtor is not discharged from the debtor’s liabilities in terms of regulation 19(5).
 
-## 12. Petition by qualified creditor
+## 12. Petition by qualified creditor[^c-e67d8f9c104cf314575e39e8f7b546ea]
 
 (1) A qualified creditor who has not been sent the documents mentioned in regulation 8 or who has notified the trustee of objection to the trust deed within the relevant period may present a petition to the sheriff for sequestration of the debtor’s estate–
 
@@ -175,13 +179,13 @@ Not later than 7 days after the date of publication of the notice referred to in
 
 (3) The sheriff will award sequestration in pursuance of paragraph (1)(b) if, but only if, he or she is satisfied that the creditor’s said averment is correct.
 
-## 13. Creditors not acceding to protected trust deed
+## 13. Creditors not acceding to protected trust deed[^c-5c4733a3db0307da17c4a348b12a318c]
 
 (1) A creditor who has not been sent a copy of the notice mentioned in regulation 8(b) or who has notified the trustee of objection to the trust deed within the relevant period may apply, not more than 28 days after the Accountant’s registration in the register of insolvencies under regulation 22(b) of the trustee’s realisation and distribution of estate, to the sheriff under regulation 14.
 
 (2) For the purposes of this regulation, the sheriff to whom an application may be made will be the sheriff to whom a petition for sequestration would be brought in respect of the debtor in terms of sections 9(1) and (2) of the Act.
 
-## 14. Power of court on application under regulation 13
+## 14. Power of court on application under regulation 13[^c-bd00217db07cc33f767986e22fe0e263]
 
 (1) Where, on an application by a creditor under this regulation, the sheriff is satisfied (on grounds other than those on which a petition under regulation 12(1)(b) was or could have been presented by that creditor) that the intromissions of the trustee with the estate of the debtor have been so unduly prejudicial to that creditor’s claim that the creditor should not be bound by the trustee’s discharge, the sheriff may order that that person will not be so bound.
 
@@ -190,7 +194,7 @@ Not later than 7 days after the date of publication of the notice referred to in
 - (a) send a copy of the order to the trustee; and
 - (b) send a copy to the Accountant for registration of the order in the register of insolvencies.
 
-## 15. Directions to trustee by Accountant
+## 15. Directions to trustee by Accountant[^c-5dd5644f7cfcb5bd7811044d53e4e656]
 
 (1) The Accountant may give directions to the trustee under a protected trust deed as to how the trustee should conduct the administration of the trust deed.
 
@@ -198,14 +202,14 @@ Not later than 7 days after the date of publication of the notice referred to in
 
 (3) Such a direction under paragraph (1) may be issued on the initiative of the Accountant or (at the discretion of the Accountant) at the request of the trustee or the debtor or any creditor.
 
-## 16. Retention of documents by trustee
+## 16. Retention of documents by trustee[^c-bef2bfeac7b59971d76eb6bcda8e62da]
 
 The trustee under a protected trust deed must retain until 12 months after the date of the trustee’s discharge by the creditors–
 
 - (a) the documents specified in Schedule 2 to these Regulations or copies of these; and
 - (b) any other documents relating to the administration of the trust deed which the Accountant notifies to the trustee prior to the trustee’s discharge as being documents which the trustee possesses and the Accountant considers that the trustee should retain.
 
-## 17. The administration of the trust deed
+## 17. The administration of the trust deed[^c-3eb1303f681e0176d78ed3301bf391d9]
 
 (1) At intervals of not more than 12 months, beginning with the date the trust deed is granted, the trustee must send to the debtor and each creditor and the Accountant a statement of his accounts in administering the trust deed.
 
@@ -213,7 +217,7 @@ The trustee under a protected trust deed must retain until 12 months after the d
 
 (3) At intervals of not more than 12 months, beginning with the date the trust deed is granted, the trustee must send to the Accountant a report on the management of the trust deed by the trustee within the previous 12 month period in the form of Form 4 set out in Schedule 1 to these Regulations.
 
-## 18. Remuneration payable to trustee
+## 18. Remuneration payable to trustee[^c-00effe27772c3d22c8f816663e90f30b]
 
 (1) The trustee is entitled to remuneration for work done in administering a trust deed.
 
@@ -223,7 +227,7 @@ The trustee under a protected trust deed must retain until 12 months after the d
 
 (4) The trustee is entitled to charge a reasonable fee for the issue of a letter of discharge of the debtor which can be recovered out of the debtor’s estate.
 
-## 19. Discharge of the debtor
+## 19. Discharge of the debtor[^c-4d4fd52a4ed134c695051fa4a6184302]
 
 (1) Subject to paragraph (2) and regulation 20 below, a debtor will be discharged from all his or her trust deed debts and obligations contracted by that debtor, or for which that debtor was liable at the date that the trust deed was granted, if the following conditions are met–
 
@@ -241,13 +245,13 @@ The trustee under a protected trust deed must retain until 12 months after the d
 
 (5) If the trustee decides not to grant the debtor’s discharge, the trustee will inform the debtor in writing of the fact and the reasons for so deciding and that the debtor is accordingly not discharged from the debtor’s debts and obligations in terms of the trust deed.
 
-## 20. Student loans not discharged
+## 20. Student loans not discharged[^c-05b52b58ca324ce9bfce8fa98803091a]
 
 (1) Where a person is a creditor in respect of a student loan, then the right of a person to recover any debt arising from such a loan is not affected by regulation 19(1).
 
 (2) In paragraph (1), “student loan” means a loan made under the Education (Student Loans) Act 1990[^f00008] or by virtue of regulations made under paragraph (f) of section 73 of the Education (Scotland) Act 1980[^f00009].
 
-## 21. Discharge of trustee
+## 21. Discharge of trustee[^c-0cd12b56354c781d2bc9a58f9fb1218d]
 
 (1) Where the trustee under a protected trust deed has made the final distribution of the estate among the creditors, the trustee must not more than 28 days after the final distribution seek to obtain a discharge from the creditors who have acceded, or are deemed to have acceded, by making an application to the creditors, which will be in the form of Form 6 set out in Schedule 1 to these Regulations.
 
@@ -257,14 +261,14 @@ The trustee under a protected trust deed must retain until 12 months after the d
 
 (4) Where a discharge is granted under this regulation, it discharges any previous trustee of the trust deed unless any interested party obtains a ruling from the sheriff to the contrary under regulation 24.
 
-## 22. Action after discharge of trust
+## 22. Action after discharge of trust[^c-52a8dc60134f9f1b04b07cc3d3821698]
 
 The trustee must, immediately after the trustee has received his discharge,–
 
 - (a) confirm to the Accountant that the trustee has been discharged; and
 - (b) send to the Accountant for registration in the register of insolvencies the trustee’s statement of realisation and distribution of estate under a protected trust deed which will be in the form of Form 7 set out in Schedule 1 to these Regulations.
 
-## 23. Appeals
+## 23. Appeals[^c-1af67fee71f1f499a038aae854829960]
 
 (1) Subject to paragraph (3), the trustee under a protected trust deed or the debtor or any creditor may appeal to the sheriff by way of summary application against–
 
@@ -284,7 +288,7 @@ The trustee must, immediately after the trustee has received his discharge,–
 
 (6) The decision of the sheriff on an appeal under paragraph (1) or (2) is final.
 
-## 24. Directions of the sheriff
+## 24. Directions of the sheriff[^c-652f23ea02cfbabdbbf99bb8619ac09b]
 
 (1) Any person having an interest may apply at any time to the sheriff for a direction of the court in respect of or in relation to the administration of a trust deed.
 
@@ -292,11 +296,11 @@ The trustee must, immediately after the trustee has received his discharge,–
 
 (3) For the purposes of paragraphs (1) and (2) the sheriff to whom an application is to be made will be the sheriff to whom a petition for sequestration would have been brought in respect of the debtor in terms of sections 9(1) and (2) of the Act at the date the trust deed was granted.
 
-## 25. Forms
+## 25. Forms[^c-c780650e7799e0af5b8b0ec980130a73]
 
 The forms set out in Schedule 1 to these Regulations are the forms referred to in these Regulations.
 
-## 26. Savings
+## 26. Savings[^c-9fb8e053e314f689e892c87d5379a257]
 
 These Regulations apply only to trust deeds granted after the date these Regulations come into force.
 
@@ -310,7 +314,7 @@ Edinburgh
 
 28th March 2008
 
-## SCHEDULE 1 — FORMS
+## SCHEDULE 1 — FORMS[^c-f04025299320d06fb4a505f23186869d]
 
 Regulation 25
 
@@ -374,31 +378,31 @@ Regulation 22(b)
 
 Regulation 16(a)
 
-**1.** The trust deed.
+**1.**[^c-386b22a3416cbb5f1c740fb26ae968f8] The trust deed.
 
-**2.** The statement (signed by the trustee and the debtor) referred to in regulation 6.
+**2.**[^c-d5085b6c178016f8fa80a620e1df37de] The statement (signed by the trustee and the debtor) referred to in regulation 6.
 
-**3.** The notice referred to in regulation 7.
+**3.**[^c-a27ea97f750c5abe2e08b789412fbc3c] The notice referred to in regulation 7.
 
-**4.** The statement of the debtor’s affairs referred to in regulation 8(c).
+**4.**[^c-79355d640eb077fcafdb72c8594d0d30] The statement of the debtor’s affairs referred to in regulation 8(c).
 
-**5.** Copies of any statements of objection or accession received from creditors.
+**5.**[^c-e18830255f070457369ba3dc4370587f] Copies of any statements of objection or accession received from creditors.
 
-**6.** A copy of the statement of anticipated realisations referred to in regulation 10(1)(f).
+**6.**[^c-baa7e8022b17166970c0a62a875089e5] A copy of the statement of anticipated realisations referred to in regulation 10(1)(f).
 
-**7.** A copy of any statement of status referred to in regulation 17(3).
+**7.**[^c-84ffa63f879f96fdb7e8a2336277e985] A copy of any statement of status referred to in regulation 17(3).
 
-**8.** Any adjudication on claims by creditors.
+**8.**[^c-2c8c90b83fbd398b947c15593396c314] Any adjudication on claims by creditors.
 
-**9.** Any scheme of division amongst creditors.
+**9.**[^c-cf09b560c4a3c6a2b86d557bda72e58a] Any scheme of division amongst creditors.
 
-**10.** Any circular sent to creditors with accounts.
+**10.**[^c-4199f0905042d7ec6566202888133348] Any circular sent to creditors with accounts.
 
-**11.** Form of the debtor’s discharge from the trust deed.
+**11.**[^c-176def8ad477ce8db2fcfdfc10d099a3] Form of the debtor’s discharge from the trust deed.
 
-**12.** Any form sent to creditors requesting the trustee’s discharge.
+**12.**[^c-8c2c51992e97db1178b9bbc6ff0b8d74] Any form sent to creditors requesting the trustee’s discharge.
 
-**13.** A copy of the statement of realisations referred to in regulation 22(b).
+**13.**[^c-403ea5fda7429c2de28e3bc128cc0bb1] A copy of the statement of realisations referred to in regulation 22(b).
 
 (This note is not part of the Regulations)
 
@@ -424,18 +428,98 @@ Regulation 24 provides for a general direction making power of the sheriff on th
 
 [^f00001]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66). Section 72 of, and paragraphs 5 to 13 of Schedule 5 to, the Bankruptcy (Scotland) Act 1985 were amended by respectively sections 35 and 20 of the [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3).
 
+[^c-d751332551e225e0a841a7fc06fe20cb]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-c15761f26e53961883fb0358eaf291ed]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
 [^f00002]: Footnote: Section 73(1) of the Bankruptcy (Scotland) Act 1985 was amended by paragraph 60 of Schedule 1 to the Bankruptcy and Diligence (Scotland) Act 2007.
 
 [^f00003]: Footnote: O.J. No. L 160, 30.6.2000, p1-18.
+
+[^c-de42958c9f513d58edfe635870e2331b]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-f7b0e95094395554a182908a2cc8436c]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
 
 [^f00004]: Footnote: [1907 c. 24](https://www.legislation.gov.uk/ukpga/1907/24).
 
 [^f00005]: Footnote: The Debt Arrangement Scheme was set up under the [Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17).
 
+[^c-2b7f5d3c8af79902dfe6befc7afa84a7]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-540feb4438dff45f04dd8caeb37eaa7e]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
 [^f00006]: Footnote: [2002 asp 17](https://www.legislation.gov.uk/asp/2002/17).
 
+[^c-6ea17ac54563e144b2eaaac78d5cad87]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-aacba01db2aaf2ed66417aac88124a08]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-1dd70d32343bbf5000e1d2108dc7b653]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-e4fb62d121e9595430e5627f5e58102b]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-3adc010b5ecbb1acb21b4fd2042c0333]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-e67d8f9c104cf314575e39e8f7b546ea]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-5c4733a3db0307da17c4a348b12a318c]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-bd00217db07cc33f767986e22fe0e263]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-5dd5644f7cfcb5bd7811044d53e4e656]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-bef2bfeac7b59971d76eb6bcda8e62da]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-3eb1303f681e0176d78ed3301bf391d9]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-00effe27772c3d22c8f816663e90f30b]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
 [^f00007]: Footnote: S.I. [1993/486](https://www.legislation.gov.uk/uksi/1993/486), as amended by S.I. [1999/752](https://www.legislation.gov.uk/uksi/1999/752), [S.S.I. 2007/220](https://www.legislation.gov.uk/ssi/2007/220), [S.S.I. 2008/5](https://www.legislation.gov.uk/ssi/2008/5) and S.S.I. 2008\[ \].
+
+[^c-4d4fd52a4ed134c695051fa4a6184302]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-05b52b58ca324ce9bfce8fa98803091a]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
 
 [^f00008]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6).
 
 [^f00009]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^c-0cd12b56354c781d2bc9a58f9fb1218d]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-52a8dc60134f9f1b04b07cc3d3821698]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-1af67fee71f1f499a038aae854829960]: Commencement: Reg. 23 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-652f23ea02cfbabdbbf99bb8619ac09b]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-c780650e7799e0af5b8b0ec980130a73]: Commencement: Reg. 25 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-9fb8e053e314f689e892c87d5379a257]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-f04025299320d06fb4a505f23186869d]: Commencement: Sch. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-386b22a3416cbb5f1c740fb26ae968f8]: Commencement: Sch. 2 para. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-d5085b6c178016f8fa80a620e1df37de]: Commencement: Sch. 2 para. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-a27ea97f750c5abe2e08b789412fbc3c]: Commencement: Sch. 2 para. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-79355d640eb077fcafdb72c8594d0d30]: Commencement: Sch. 2 para. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-e18830255f070457369ba3dc4370587f]: Commencement: Sch. 2 para. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-baa7e8022b17166970c0a62a875089e5]: Commencement: Sch. 2 para. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-84ffa63f879f96fdb7e8a2336277e985]: Commencement: Sch. 2 para. 7 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-2c8c90b83fbd398b947c15593396c314]: Commencement: Sch. 2 para. 8 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-cf09b560c4a3c6a2b86d557bda72e58a]: Commencement: Sch. 2 para. 9 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-4199f0905042d7ec6566202888133348]: Commencement: Sch. 2 para. 10 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-176def8ad477ce8db2fcfdfc10d099a3]: Commencement: Sch. 2 para. 11 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-8c2c51992e97db1178b9bbc6ff0b8d74]: Commencement: Sch. 2 para. 12 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)
+
+[^c-403ea5fda7429c2de28e3bc128cc0bb1]: Commencement: Sch. 2 para. 13 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/143/regulation/1)

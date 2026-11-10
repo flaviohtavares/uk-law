@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 73
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '73'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/73
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 73
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 73. Application of Chapter 4 etc
+## 73. Application of Chapter 4 etc[^c-55934aad299852754823985fc58e7cc4]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) For the purposes of–
 
@@ -42,6 +48,8 @@ of the 1993 Act, the managers of the Scheme in relation to a member are the fund
 (8) In this regulation “pensionable service” has the same meaning as in section 70 of the 1993 Act.
 
 ## Annotations
+
+[^c-55934aad299852754823985fc58e7cc4]: Commencement: Reg. 73 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)
 
 [^f00041]: Footnote: S.I. [1996/1847](https://www.legislation.gov.uk/uksi/1996/1847).
 

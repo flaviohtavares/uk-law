@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 27
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '27'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/27
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 27
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 27. Governance compliance statement
+## 27. Governance compliance statement[^c-18d6622791c12fdd939eb4382e875efc]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) An administering authority must prepare a written statement setting out–
 
@@ -35,3 +41,7 @@ summary: ''
 (4) In preparing or revising their statement an administering authority must consult such persons as they consider appropriate.
 
 (5) When they publish their statement, or the statement as revised, an administering authority must send a copy of it to the Scottish Ministers.
+
+## Annotations
+
+[^c-18d6622791c12fdd939eb4382e875efc]: Commencement: Reg. 27 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

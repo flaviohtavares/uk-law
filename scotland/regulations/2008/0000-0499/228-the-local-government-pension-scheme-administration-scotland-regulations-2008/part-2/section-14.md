@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 14
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '14'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 14. Concurrent employments
+## 14. Concurrent employments[^c-ec85211c866f4e81752997216dea84a0]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) Where a person–
 
@@ -38,3 +44,7 @@ the person may elect to have the former membership in respect of the first emplo
 where
 
 - the rate of pay in each case is the annual rate of pay on the last day of the first employment.
+
+## Annotations
+
+[^c-ec85211c866f4e81752997216dea84a0]: Commencement: Reg. 14 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

@@ -2,9 +2,9 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 70
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '70'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-07-22'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/70
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 70
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 70. Overseas study - amount of the grant for travel
+## 70. Overseas study - amount of the grant for travel[^c-d4ab0e95f5a90f9e9280d2bdc57a09a5]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The amount of grant for travel payable under regulation 69 in respect of a course year is calculated as follows—
 
@@ -36,3 +42,7 @@ and is then reduced in accordance with paragraph (4).
 (3) If the eligible student has reasonable travel costs and expenditure in relation to more than one course year that begins in the same service year, the calculation in paragraph (1) must be carried out in relation to the aggregate travel costs and expenditure for all those course years.
 
 (4) The result of the calculation in paragraph (1) is reduced by £1 for every complete £13.47 by which the student’s household income exceeds £45,000.
+
+## Annotations
+
+[^c-d4ab0e95f5a90f9e9280d2bdc57a09a5]: Commencement: Reg. 70 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

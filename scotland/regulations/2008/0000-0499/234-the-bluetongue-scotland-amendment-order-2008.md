@@ -3,15 +3,15 @@ title: The Bluetongue (Scotland) Amendment Order 2008
 id: ssi/2008/234
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-05'
-text_date: null
-extent: null
+text_date: '2008-06-06'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/234
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/234/pdfs/ssien_20080234_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/234/pdfs/ssi_20080234_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/234/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/234/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Bluetongue (Scotland) Amendment Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-06. See https://www.legislation.gov.uk/changes/affected/ssi/2008/234
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 234
 
@@ -40,11 +44,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1, 8(1), 17(1), 23 and 28 of the Animal Health Act 1981[^f00001], and all other powers enabling them to do so.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-edb8dc876bbace560af77d21118f745d]
 
 This Order may be cited as the Bluetongue (Scotland) Amendment Order 2008 and comes into force on 6th June 2008.
 
-## 2. Amendment of the Bluetongue (Scotland) Order 2008
+## 2. Amendment of the Bluetongue (Scotland) Order 2008[^c-481fe1e80ac3d6b4f63986d51c7961c7]
 
 (1) The Bluetongue (Scotland) Order 2008 [^f00002] is amended as follows.
 
@@ -218,5 +222,9 @@ New article 22E sets out the powers of inspectors in cases of default, providing
 ## Annotations
 
 [^f00001]: Footnote: [1981c.22](https://www.legislation.gov.uk/ukpga/1981/22). Powers to make Orders under these sections were originally conferred on “the Ministers”, as defined in section 86(1) of the Act. The functions of the Ministers were, insofar as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c-edb8dc876bbace560af77d21118f745d]: Commencement: Art. 1 in force at 6.6.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/234/article/1)
+
+[^c-481fe1e80ac3d6b4f63986d51c7961c7]: Commencement: Art. 2 in force at 6.6.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/234/article/1)
 
 [^f00002]: Footnote: [S.S.I. 2008/11](https://www.legislation.gov.uk/ssi/2008/11).

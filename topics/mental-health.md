@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **MENTAL HEALTH**. Re
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Mental Health (Care and Treatment) (Scotland) Act 2003](../scotland/acts/2003/13-mental-health-care-and-treatment-scotland-act-2003/README.md) *(changes pending)* — 80 regulations on this topic made under it
+- [Mental Health (Care and Treatment) (Scotland) Act 2003](../scotland/acts/2003/13-mental-health-care-and-treatment-scotland-act-2003/README.md) *(changes pending)* — 79 regulations on this topic made under it
 - [Mental Health Act 1983](../uk-parliament/acts/public/1983/20-mental-health-act-1983/README.md) *(changes pending)* — 55 regulations on this topic made under it
 - [Mental Health Act 2007](../uk-parliament/acts/public/2007/12-mental-health-act-2007/README.md) — 13 regulations on this topic made under it
 - [The Mental Health (Northern Ireland) Order 1986](../northern-ireland/orders-in-council/1986/595-the-mental-health-northern-ireland-order-1986/README.md) *(changes pending)* — 9 regulations on this topic made under it
@@ -18,7 +18,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-214 in force.
+213 in force.
 
 **2026**
 
@@ -158,7 +158,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Mental Health (Absconding Patients from Other Jurisdictions) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/333-the-mental-health-absconding-patients-from-other-jurisdictions-scotland-regulati.md) *(as originally made)*
 - [The Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008](../wales/regulations/2008/2000-2499/2436-the-mental-health-approval-of-persons-to-be-approved-mental-health-professionals.md) *(changes pending)*
 - [The Mental Health (Approved Mental Health Professionals) (Approval) (England) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1206-the-mental-health-approved-mental-health-professionals-approval-england-regulati.md) *(as originally made)*
-- [The Mental Health (Certificates for Medical Treatment) (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/316-the-mental-health-certificates-for-medical-treatment-scotland-amendment-regulati.md) *(changes pending)*
 - [The Mental Health (Conflicts of Interest) (England) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1205-the-mental-health-conflicts-of-interest-england-regulations-2008.md) *(as originally made)*
 - [The Mental Health (Conflicts of Interest) (Wales) Regulations 2008](../wales/regulations/2008/2000-2499/2440-the-mental-health-conflicts-of-interest-wales-regulations-2008.md) *(as originally made)*
 - [The Mental Health (Cross-border Visits) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/181-the-mental-health-cross-border-visits-scotland-regulations-2008.md) *(as originally made)*
@@ -176,7 +175,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Mental Health Act 2007 (Commencement No. 7 and Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/1500-1999/1900-the-mental-health-act-2007-commencement-no-7-and-transitional-provisions-order-2.md) *(as originally made)*
 - [The Mental Health Act 2007 (Commencement No. 8 and Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/2500-2999/2561-the-mental-health-act-2007-commencement-no-8-and-transitional-provisions-order-2.md) *(as originally made)*
 - [The Mental Health Act 2007 (Commencement No.9) Order 2008](../uk-parliament/regulations/2008/2500-2999/2788-the-mental-health-act-2007-commencement-no-9-order-2008.md) *(as originally made)*
-- [The Mental Health Act 2007 (Consequential Amendments) Order 2008](../uk-parliament/regulations/2008/2500-2999/2828-the-mental-health-act-2007-consequential-amendments-order-2008.md) *(as originally made)*
+- [The Mental Health Act 2007 (Consequential Amendments) Order 2008](../uk-parliament/regulations/2008/2500-2999/2828-the-mental-health-act-2007-consequential-amendments-order-2008.md)
 - [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008](../scotland/regulations/2008/0000-0499/396-the-mental-health-tribunal-for-scotland-practice-and-procedure-no-2-amendment-ru.md) *(as originally made)*
 
 **2007**

@@ -2,9 +2,9 @@
 title: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 68
 act: The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008
 section: '68'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/228/section/68
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Local Government Pension Scheme (Administration) (Scotland) Regulations 2008, section 68
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Scotland.
 
-## 68. Recovery or retention where former member has misconduct obligation
+## 68. Recovery or retention where former member has misconduct obligation[^c-aa0b3aa2d585d9b15f92dd7c21edd403]
+
+*Extent: S*
+
+**Not yet in force.**
 
 (1) This regulation applies where a person–
 
@@ -37,3 +43,7 @@ whichever is less.
 - (b) a certificate showing the amount recovered or retained, how it is calculated, and the effect on the former employee’s benefits or prospective benefits.
 
 (5) If there is any dispute over the amount of the monetary obligation specified in paragraph (1)(b), the former employing authority may not recover or retain any amount under paragraph (2) until the obligation is enforceable under an order of a competent court or the award of an arbitrator.
+
+## Annotations
+
+[^c-aa0b3aa2d585d9b15f92dd7c21edd403]: Commencement: Reg. 68 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/228/regulation/1)

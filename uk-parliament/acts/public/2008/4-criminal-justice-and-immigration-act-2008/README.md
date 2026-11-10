@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2008-05-08'
-text_date: '2026-10-29'
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2008/4
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2008/4/pdfs/ukpgaen_20080004_en.pdf
 - http://www.legislation.gov.uk/ukpga/2008/4/pdfs/ukpga_20080004_en.pdf
 - http://www.legislation.gov.uk/ukpga/2008/4/data.pdf
-pending_changes: 22
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Criminal Justice and Immigration Act 2008
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -195,6 +195,16 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 65 — Defences: general](part-5/section-65.md)
 - [Section 66 — Defence: participation in consensual acts](part-5/section-66.md)
 - [Section 67 — Penalties etc. for possession of extreme pornographic images](part-5/section-67.md)
+- [Section 67A — Possession or publication of pornographic images of strangulation or suffocation](part-5/section-67a.md)
+- [Section 67B — Defences to offences under section 67A](part-5/section-67b.md)
+- [Section 67C — Penalties for offences under section 67A](part-5/section-67c.md)
+- [Section 67D — Possession of extreme pornographic images: alternative verdict in magistrates’ court](part-5/section-67d.md)
+- [Section 67E — Possession or publication of pornographic images of sex between relatives](part-5/section-67e.md)
+- [Section 67F — Defences to offence under section 67E](part-5/section-67f.md)
+- [Section 67G — Penalties for offences under section 67E](part-5/section-67g.md)
+- [Section 67H — Possession or publication of pornographic images of sexual activity with child under 16](part-5/section-67h.md)
+- [Section 67I — Defences to offences under section 67H](part-5/section-67i.md)
+- [Section 67J — Penalties for offences under section 67H](part-5/section-67j.md)
 - [Section 68 — Special rules relating to providers of information society services](part-5/section-68.md)
 - [Section 69 — Indecent photographs of children: England and Wales](part-5/section-69.md)
 - [Section 70 — Indecent photographs of children: Northern Ireland](part-5/section-70.md)

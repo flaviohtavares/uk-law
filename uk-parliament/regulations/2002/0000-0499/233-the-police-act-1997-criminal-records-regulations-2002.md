@@ -3,15 +3,15 @@ title: The Police Act 1997 (Criminal Records) Regulations 2002
 id: uksi/2002/233
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2002-02-07'
-text_date: '2026-01-21'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2002/233
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2002/233/pdfs/uksi_20020233_en.pdf
 - http://www.legislation.gov.uk/uksi/2002/233/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Police Act 1997 (Criminal Records) Regulations 2002
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-01-21. See https://www.legislation.gov.uk/changes/affected/uksi/2002/233
+> Text as at 2026-10-05.
 >
 > Extent: England, Wales.
 
@@ -86,14 +86,14 @@ The form set out in Schedule 2 to these Regulations, or a form to the like effec
 
 ## 3A. Fee for criminal conviction certificates[^c-db7a62c0142408dfb83008f282bb3f20]
 
-The fee payable in relation to an application for a criminal conviction certificate is prescribed as £21.50[^c-99b294e390fda1f41302c36b53f72d11].
+The fee payable in relation to an application for a criminal conviction certificate is prescribed as £20[^c-23249c92fbb7de494539bef84aa7a94a].
 
 ## 4. Fees for criminal record certificates and enhanced criminal record certificates[^c-3e40bdec3185bf0ba49862fbcb9414d2]
 
 (1) Subject to paragraph (2), the fee payable in relation to an application for the issue of a criminal record certificate or an enhanced criminal record certificate is prescribed as—
 
-- (a) £21.50[^c-f8b52609d75e09923d2a4f8a4ffdfb6f] in the case of a criminal record certificate;
-- (b) £49.50[^c-397ad580ed113887fa27f6b65619e342] in the case of an enhanced criminal record certificate, and
+- (a) £20[^c-41bfa8325cb55c21f2d6fe601a21f1bf] in the case of a criminal record certificate;
+- (b) £41[^c-37aa9b35e14fba26515d2ce92d0cb482] in the case of an enhanced criminal record certificate, and
 - (c) where an urgent preliminary response is sought under section 113E(3)(b) of the Act, an additional £6 in each case.
 
 (2)[^c-30cdf31f9c371f0a10d691679f84f4ee] No fee is payable in relation to an application made by a volunteer.
@@ -328,8 +328,8 @@ The circumstances referred to in regulation 5A(a) are[^c-aaf68913c5aed320dde0848
 
 (1) Subject to paragraph (2) below, the fees payable in relation to an application for a certificate to be subject to up-date arrangements under section 116A of the Act are prescribed as—
 
-- (a) £16[^c-cbb98d91753063e6b37ca67030a4fdf8] in the case of a fee as mentioned in section 116A(4)(b) of the Act;
-- (b) £16[^c-582dfb2fd5c88fe7e59f78456ee80342] in the case of a fee as mentioned in section 116A(5)(b) of the Act.
+- (a) £15[^c-30cc0b6d3b1df44b9be9470e6f0a7d24] in the case of a fee as mentioned in section 116A(4)(b) of the Act;
+- (b) £15[^c-46aa297c3ba3587dfd7a62cbbd53b4cd] in the case of a fee as mentioned in section 116A(5)(b) of the Act.
 
 (2) No fee is payable in relation to—
 
@@ -488,13 +488,13 @@ Regulation 12 specifies the fees to be paid to police authorities who maintain p
 
 [^c-db7a62c0142408dfb83008f282bb3f20]: Textual amendment: Reg. 3A inserted (10.3.2014) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2014 (S.I. 2014/239)](https://www.legislation.gov.uk/uksi/2014/239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/239/article/1/1), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/239/regulation/2/2)
 
-[^c-99b294e390fda1f41302c36b53f72d11]: Textual amendment: Sum in reg. 3A substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/2)
+[^c-23249c92fbb7de494539bef84aa7a94a]: Textual amendment: Sum in [reg. 3A](https://www.legislation.gov.uk/uksi/2002/233/regulation/3A) substituted (5.10.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2026 (S.I. 2026/985)](https://www.legislation.gov.uk/uksi/2026/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/985/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/985/regulation/2/2)
 
 [^c-3e40bdec3185bf0ba49862fbcb9414d2]: Textual amendment: Reg. 4 substituted (28.3.2020 except for the insertion of reg. 4(2)(b) which comes into force immediately after [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 9(8)](https://www.legislation.gov.uk/ukpga/2020/7/section/9/8) comes into force) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2020 (S.I. 2020/359)](https://www.legislation.gov.uk/uksi/2020/359), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2020/359/regulation/1/2/3), [2](https://www.legislation.gov.uk/uksi/2020/359/regulation/2)
 
-[^c-f8b52609d75e09923d2a4f8a4ffdfb6f]: Textual amendment: Sum in reg. 4(1)(a) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/3/a)
+[^c-41bfa8325cb55c21f2d6fe601a21f1bf]: Textual amendment: Sum in reg. 4(1)(a) substituted (5.10.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2026 (S.I. 2026/985)](https://www.legislation.gov.uk/uksi/2026/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/985/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/985/regulation/2/3/a)
 
-[^c-397ad580ed113887fa27f6b65619e342]: Textual amendment: Sum in reg. 4(1)(b) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/3/b)
+[^c-37aa9b35e14fba26515d2ce92d0cb482]: Textual amendment: Sum in reg. 4(1)(b) substituted (5.10.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2026 (S.I. 2026/985)](https://www.legislation.gov.uk/uksi/2026/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/985/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/985/regulation/2/3/b)
 
 [^c-30cdf31f9c371f0a10d691679f84f4ee]: Textual amendment: Reg. 4(2) substituted (11.5.2023) by [The Police Act 1997 (Criminal Records) (Amendment and Saving Provision) Regulations 2023 (S.I. 2023/435)](https://www.legislation.gov.uk/uksi/2023/435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/435/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/435/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/435/regulation/3))
 
@@ -616,9 +616,9 @@ Regulation 12 specifies the fees to be paid to police authorities who maintain p
 
 [^c-ced998c544c4cb7b3c9282fccf2c218e]: Textual amendment: Reg. 5C(m)-(o) inserted (1.9.2014) by [The Police Act 1997 (Criminal Records) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/2122)](https://www.legislation.gov.uk/uksi/2014/2122), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/2/3)
 
-[^c-cbb98d91753063e6b37ca67030a4fdf8]: Textual amendment: Sum in reg. 6(1)(a) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/4/a)
+[^c-30cc0b6d3b1df44b9be9470e6f0a7d24]: Textual amendment: Sum in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2002/233/regulation/6/1/a) substituted (5.10.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2026 (S.I. 2026/985)](https://www.legislation.gov.uk/uksi/2026/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/985/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/985/regulation/2/4/a)
 
-[^c-582dfb2fd5c88fe7e59f78456ee80342]: Textual amendment: Sum in reg. 6(1)(b) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/4/b)
+[^c-46aa297c3ba3587dfd7a62cbbd53b4cd]: Textual amendment: Sum in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2002/233/regulation/6/1/b) substituted (5.10.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2026 (S.I. 2026/985)](https://www.legislation.gov.uk/uksi/2026/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/985/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/985/regulation/2/4/b)
 
 [^c-f264fd8da343de97186aefd752389b37]: Textual amendment: Reg. 8 revoked (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1882/regulation/4)
 
