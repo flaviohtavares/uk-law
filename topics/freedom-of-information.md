@@ -101,7 +101,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Freedom of Information (Additional Public Authorities) Order 2008](../uk-parliament/regulations/2008/1000-1499/1271-the-freedom-of-information-additional-public-authorities-order-2008.md) *(as originally made)*
 - [The Freedom of Information (Parliament and National Assembly for Wales) Order 2008](../uk-parliament/regulations/2008/1500-1999/1967-the-freedom-of-information-parliament-and-national-assembly-for-wales-order-2008.md) *(as originally made)*
 - [The Freedom of Information (Relaxation of Statutory Prohibitions on Disclosure of Information) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/339-the-freedom-of-information-relaxation-of-statutory-prohibitions-on-disclosure-of.md) *(as originally made)*
-- [The Freedom of Information (Scotland) Act 2002 (Scottish Public Authorities) Amendment Order 2008](../scotland/regulations/2008/0000-0499/297-the-freedom-of-information-scotland-act-2002-scottish-public-authorities-amendme.md) *(as originally made)*
+- [The Freedom of Information (Scotland) Act 2002 (Scottish Public Authorities) Amendment Order 2008](../scotland/regulations/2008/0000-0499/297-the-freedom-of-information-scotland-act-2002-scottish-public-authorities-amendme.md) *(changes pending)*
 
 **2005**
 

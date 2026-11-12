@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, section 46
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: '46'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/section/46
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006, section 46
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 
@@ -62,6 +62,7 @@ any capital which would become available to the claimant upon application being 
 - (d) a Post Office compensation payment;
 - (e) a vaccine damage payment;
 - (f) an LGBT Financial Recognition Scheme payment ;[^c-0f80418aef7177cce966d93844682513]
+- (fa)[^c-f4be10bf0bb2081e1fce5e1cafcdbd4e] a Mother and Baby Scheme payment;
 - (g) a miscarriage of justice compensation payment.
 
 (5) Where a claimant stands in relation to a company in a position analogous to that of a sole owner or partner in the business of that company, he may be treated as if he were such sole owner or partner and in such a case—
@@ -114,3 +115,5 @@ any capital which would become available to the claimant upon application being 
 [^c-9b67447a64c55e40d61dee97c5ace126]: Textual amendment: [Reg. 46(4A)(c)-(f)](https://www.legislation.gov.uk/nisr/2006/405/regulation/46/4A/c) substituted for reg. 46(4A)(c)-(e) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2025/24/regulation/6/5)
 
 [^c-0f80418aef7177cce966d93844682513]: Textual amendment: [Reg. 46(4A)(g)](https://www.legislation.gov.uk/nisr/2006/405/regulation/46/4A/g) and semicolon inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [5(5)](https://www.legislation.gov.uk/nisr/2025/122/regulation/5/5)
+
+[^c-f4be10bf0bb2081e1fce5e1cafcdbd4e]: Textual amendment: [Reg. 46(4A)(fa)](https://www.legislation.gov.uk/nisr/2006/405/regulation/46/4A/fa) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2026/177/regulation/4/5)

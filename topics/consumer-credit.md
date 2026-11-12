@@ -6,12 +6,12 @@ Laws in force under the legislation.gov.uk subject heading **CONSUMER CREDIT**. 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Consumer Credit Act 1974](../uk-parliament/acts/public/1974/39-consumer-credit-act-1974/README.md) *(changes pending)* — 94 regulations on this topic made under it
+- [Consumer Credit Act 1974](../uk-parliament/acts/public/1974/39-consumer-credit-act-1974/README.md) *(changes pending)* — 93 regulations on this topic made under it
 - [Consumer Credit Act 2006](../uk-parliament/acts/public/2006/14-consumer-credit-act-2006/README.md) — 6 regulations on this topic made under it
 
 ## Regulations
 
-105 in force.
+104 in force.
 
 **2020**
 
@@ -45,7 +45,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Consumer Credit (Exempt Agreements) (Amendment) Order 2008](../uk-parliament/regulations/2008/0500-0999/645-the-consumer-credit-exempt-agreements-amendment-order-2008.md) *(changes pending)*
 - [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1751-the-consumer-credit-information-requirements-and-duration-of-licences-and-charge.md) *(as originally made)*
 - [The Consumer Credit Act 2006 (Commencement No. 4 and Transitional Provisions) (Amendment) Order 2008](../uk-parliament/regulations/2008/2000-2499/2444-the-consumer-credit-act-2006-commencement-no-4-and-transitional-provisions-amend.md) *(as originally made)*
 - [The Consumer Credit Act 2006 (Commencement No. 4 and Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/0500-0999/831-the-consumer-credit-act-2006-commencement-no-4-and-transitional-provisions-order.md) *(as originally made)*

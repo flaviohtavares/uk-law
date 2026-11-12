@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 5
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '5'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 5
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 5. Meaning of “course designation event”, “in-year qualifying event”, “protected category event”, “settled status event”, “module designation event” and related provision[^c-b8a781b95edfd4e11f40aaf09d38c7c6]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) This regulation defines “course designation event”, “in-year qualifying event”, “protected category event”, “settled status event” and “module designation event”, and makes related provision for the purposes of these Regulations.
 
@@ -79,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^c-b8a781b95edfd4e11f40aaf09d38c7c6]: Commencement: Reg. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-b8a781b95edfd4e11f40aaf09d38c7c6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2026/858/regulation/5) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

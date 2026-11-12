@@ -5,14 +5,14 @@ type: NorthernIrelandStatutoryRule
 category: secondary
 status: revised-with-pending-changes
 made_date: '2016-05-05'
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2016/216
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2016/216/pdfs/nisrem_20160216_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/216/pdfs/nisr_20160216_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/216/data.pdf
-pending_changes: 4
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Universal Credit Regulations (Northern Ireland) 2016
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2016/216
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2016/216
 >
 > Extent: Northern Ireland.
 

@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 52
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '52'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/52
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 52
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 52. Reduction for household income – students with full entitlement under the age of 60 who meet certain conditions[^c-9bb7ffb0c677cdf5ff872ec73e0a427c]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) Subject to paragraphs (4) and (5), the maximum loan entitlement of an eligible student described in regulation 43(1)(c) is reduced, if applicable, by the sum of the loan reduction values “LRV1” and “LRV2”.
 
@@ -63,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^c-9bb7ffb0c677cdf5ff872ec73e0a427c]: Commencement: Reg. 52 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-9bb7ffb0c677cdf5ff872ec73e0a427c]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2026/858/regulation/52) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 2
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '2'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 2
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 2. Amendments to application of other subordinate legislation[^c-3329936ae5b6e72e7335b2400a139806]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) This regulation makes amendments in accordance with paragraphs (2) and (3).
 
@@ -76,7 +74,7 @@ summary: ''
 
 ## Annotations
 
-[^c-3329936ae5b6e72e7335b2400a139806]: Commencement: Reg. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-3329936ae5b6e72e7335b2400a139806]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/858/regulation/2) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00002]: Footnote: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986); “**support**” has the meaning given by regulation 2(1) of that instrument. Regulation 4(7A) was inserted by [S.I. 2018/443](https://www.legislation.gov.uk/uksi/2018/443) and amended by [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599); regulation 137(3B) was inserted by [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599).
 

@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, section 43
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: '43'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/section/43
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006, section 43
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 
@@ -35,7 +35,7 @@ shall be treated as capital.
 
 (5) In the case of employment as an employed earner, any advance of earnings or any loan made by the claimant’s employer shall be treated as capital.
 
-(6) Any charitable or voluntary payment which is not made or due to be made at regular intervals, other than a Grenfell Tower payment[^c-09a827b384eed63c81509dff69313cb5] , a child abuse payment, a Windrush payment[^c-d945920910c772b98534b0d2457840be] , a Post Office compensation payment[^c-054029891f0af3a875cf956b29ae2e69] , an LGBT Financial Recognition Scheme payment[^c-9eebf56b05eff3f4c129d6427f4a3d04] , a miscarriage of justice compensation payment[^c-369d95cd271c03666d45562dab4558aa] or a payment which is made under or by[^c-c3d2be3e44f0350c315d72aab67ce422] the Macfarlane Trust, the Macfarlane (Special Payments) Trust , the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust , MFET Limited[^c-a6d50de32ff05595f7068077b83b87ae] , the Skipton Fund, the Caxton Foundation[^c-8af0073ab2c8b4460f70affbb1b51dde] , the Infected Blood Payment Scheme for Northern Ireland, the Scottish Infected Blood Support Scheme, an approved blood scheme[^c-0f3b77bf45056e9e4fdec3880d782f19] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-50165792a53ba8efc76bff69f5e80ca9] , the National Emergencies Trust[^c-ccfeb4a9e72a78ec74d4bf1a9011832d] , the Victims of Overseas Terrorism Compensation Scheme[^c-bf38508868c558f5359c9d871473ff36] or the Independent Living Fund (2006)[^c-b307561d77898e0ed672a54e5da322ce], shall be treated as capital.
+(6) Any charitable or voluntary payment which is not made or due to be made at regular intervals, other than a Grenfell Tower payment[^c-09a827b384eed63c81509dff69313cb5] , a child abuse payment, a Windrush payment[^c-d945920910c772b98534b0d2457840be] , a Post Office compensation payment[^c-054029891f0af3a875cf956b29ae2e69] , an LGBT Financial Recognition Scheme payment[^c-9eebf56b05eff3f4c129d6427f4a3d04] , a Mother and Baby Scheme payment[^c-27e13b18e882569f1a1b3789f07010d0] , a miscarriage of justice compensation payment[^c-369d95cd271c03666d45562dab4558aa] or a payment which is made under or by[^c-c3d2be3e44f0350c315d72aab67ce422] the Macfarlane Trust, the Macfarlane (Special Payments) Trust , the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust , MFET Limited[^c-a6d50de32ff05595f7068077b83b87ae] , the Skipton Fund, the Caxton Foundation[^c-8af0073ab2c8b4460f70affbb1b51dde] , the Infected Blood Payment Scheme for Northern Ireland, the Scottish Infected Blood Support Scheme, an approved blood scheme[^c-0f3b77bf45056e9e4fdec3880d782f19] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-50165792a53ba8efc76bff69f5e80ca9] , the National Emergencies Trust[^c-ccfeb4a9e72a78ec74d4bf1a9011832d] , the Victims of Overseas Terrorism Compensation Scheme[^c-bf38508868c558f5359c9d871473ff36] or the Independent Living Fund (2006)[^c-b307561d77898e0ed672a54e5da322ce], shall be treated as capital.
 
 (7) There shall be treated as capital the gross receipts of any commercial activity carried on by a person in respect of which assistance is received under the self-employment route, but only in so far as those receipts were payable into a special account [^c-12579c16b276fbc48acfdd0f834c06d4]... during the period in which that person was receiving such assistance.
 
@@ -52,6 +52,8 @@ shall be treated as capital.
 [^c-054029891f0af3a875cf956b29ae2e69]: Textual amendment: Words in [reg. 43(6)](https://www.legislation.gov.uk/nisr/2006/405/regulation/43/6) inserted (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/97)](https://www.legislation.gov.uk/nisr/2023/97), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2023/97/regulation/5/4)
 
 [^c-9eebf56b05eff3f4c129d6427f4a3d04]: Textual amendment: Words in [reg. 43(6)](https://www.legislation.gov.uk/nisr/2006/405/regulation/43/6) inserted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2025/24/regulation/6/4)
+
+[^c-27e13b18e882569f1a1b3789f07010d0]: Textual amendment: Words in [reg. 43(6)](https://www.legislation.gov.uk/nisr/2006/405/regulation/43/6) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2026/177/regulation/4/4)
 
 [^c-369d95cd271c03666d45562dab4558aa]: Textual amendment: Words in [reg. 43(6)](https://www.legislation.gov.uk/nisr/2006/405/regulation/43/6) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/122/regulation/5/4)
 

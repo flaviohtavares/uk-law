@@ -3,7 +3,7 @@ title: The Universal Credit Regulations (Northern Ireland) 2016, section 55
 act: The Universal Credit Regulations (Northern Ireland) 2016
 section: '55'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2016/216/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Universal Credit Regulations (Northern Ireland) 2016, section 55
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2016/216
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2016/216
 >
 > Extent: Northern Ireland.
 
@@ -25,7 +25,7 @@ summary: ''
 (2) Employed earnings comprise any amounts that are general earnings as defined in section 7(3) of the ITEPA but excluding—
 
 - (a) amounts that are treated as earnings under Chapters 2 to 11 of Part 3 of that Act (employment income: earnings and benefit etc treated as income), and
-- (b) amounts that are exempt from income tax under Part 4 of that Act (employment income: exemptions).
+- (b) amounts that are exempt from income tax under Part 4 (other than section 232)[^c-6e7a6c976e6d4a8d171a631f428e67f1] of that Act (employment income: exemptions).
 
 (3) In the calculation of employed earnings the following are to be disregarded—
 
@@ -54,6 +54,8 @@ summary: ''
 ## Annotations
 
 [^c-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
+
+[^c-6e7a6c976e6d4a8d171a631f428e67f1]: Textual amendment: Words in [reg. 55(2)(b)](https://www.legislation.gov.uk/nisr/2016/216/regulation/55/2/b) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2026/177/regulation/8/2)
 
 [^c-bc3703f0ba1b8c55af621f8dd091fd14]: Textual amendment: Word in [reg. 55(4)(d)](https://www.legislation.gov.uk/nisr/2016/216/regulation/55/4/d) omitted (29.9.2023) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [24(4)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/24/4/a), [34](https://editorial.legislation.gov.uk/nisr/2023/157/regulation/34)
 

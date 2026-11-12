@@ -25,7 +25,7 @@ summary: ''
 - (a) are informed that a child who lives, or is found, in their area—
   - (i) is the subject of an emergency protection order; or
   - (ii) is in police protection; [^c20474471]...
-  - (iii)[^c20474471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c20474471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .; or
 - (b) have reasonable cause to suspect that a child who lives, or is found, in their area is suffering, or is likely to suffer, significant harm,
 
 the authority shall make, or cause to be made, such enquiries as they consider necessary to enable them to decide whether they should take any action to safeguard or promote the child’s welfare. [^c20474491]....
@@ -112,7 +112,7 @@ unless they are satisfied that they already have sufficient information with res
 
 [^c20900611]: Textual amendment: S. 47(5ZA) and words substituted (5.5.2010) for words in s. 47(5) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/1158/article/5/1), [Sch. 2 para. 37(8)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/37/8/a)
 
-[^c-21b36d6dbac8162c8d08265d34e718af]: Textual amendment: Words in [s. 47(5ZA)(a)(ii)](https://www.legislation.gov.uk/ukpga/1989/41/section/47/5ZA/a/ii) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/2)
+[^c-21b36d6dbac8162c8d08265d34e718af]: Textual amendment: Words in [s. 47(5ZA)(a)(ii)](https://www.legislation.gov.uk/ukpga/1989/41/section/47/5ZA/a/ii) inserted (1.9.2022 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/2)
 
 [^c18838181]: Textual amendment: S. 47(5A) inserted (1.3.2005 for E. and 1.4.2006 for W.) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [s. 53(3)](https://www.legislation.gov.uk/ukpga/2004/31/section/53/3); [S.I. 2005/394](https://www.legislation.gov.uk/uksi/2005/394), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2005/394/article/2/1/g); [S.I. 2006/885](https://www.legislation.gov.uk/uksi/2006/885), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2006/885/article/2/2/d)
 

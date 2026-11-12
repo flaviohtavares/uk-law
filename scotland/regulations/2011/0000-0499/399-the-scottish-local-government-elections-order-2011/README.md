@@ -5,7 +5,7 @@ type: ScottishStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2011-11-10'
-text_date: '2025-10-01'
+text_date: '2026-10-30'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2011/399
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Scottish Local Government Elections Order 2011
 
-> Text as at 2025-10-01.
+> Text as at 2026-10-30.
 >
 > Extent: Scotland.
 

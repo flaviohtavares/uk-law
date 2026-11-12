@@ -6,16 +6,16 @@ Laws in force under the legislation.gov.uk subject heading **SOCIAL SECURITY**. 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Social Security Contributions and Benefits Act 1992](../../uk-parliament/acts/public/1992/4-social-security-contributions-and-benefits-act-1992/README.md) *(changes pending)* — 1138 regulations on this topic made under it
-- [Social Security Administration Act 1992](../../uk-parliament/acts/public/1992/5-social-security-administration-act-1992/README.md) *(changes pending)* — 1043 regulations on this topic made under it
+- [Social Security Contributions and Benefits Act 1992](../../uk-parliament/acts/public/1992/4-social-security-contributions-and-benefits-act-1992/README.md) *(changes pending)* — 1137 regulations on this topic made under it
+- [Social Security Administration Act 1992](../../uk-parliament/acts/public/1992/5-social-security-administration-act-1992/README.md) *(changes pending)* — 1042 regulations on this topic made under it
 - [Social Security Contributions and Benefits (Northern Ireland) Act 1992](../../uk-parliament/acts/public/1992/7-social-security-contributions-and-benefits-northern-ireland-act-1992/README.md) *(changes pending)* — 628 regulations on this topic made under it
-- [Social Security Administration (Northern Ireland) Act 1992](../../uk-parliament/acts/public/1992/8-social-security-administration-northern-ireland-act-1992/README.md) *(changes pending)* — 448 regulations on this topic made under it
+- [Social Security Administration (Northern Ireland) Act 1992](../../uk-parliament/acts/public/1992/8-social-security-administration-northern-ireland-act-1992/README.md) *(changes pending)* — 449 regulations on this topic made under it
 - [Social Security Act 1975](../../uk-parliament/acts/public/1975/14-social-security-act-1975/README.md) *(as originally made)* — 320 regulations on this topic made under it
 - [Jobseekers Act 1995](../../uk-parliament/acts/public/1995/18-jobseekers-act-1995/README.md) *(changes pending)* — 316 regulations on this topic made under it
 - [Welfare Reform Act 2012](../../uk-parliament/acts/public/2012/5-welfare-reform-act-2012/README.md) *(changes pending)* — 227 regulations on this topic made under it
 - [The Jobseekers (Northern Ireland) Order 1995](../../northern-ireland/orders-in-council/1995/2705-the-jobseekers-northern-ireland-order-1995.md) *(changes pending)* — 151 regulations on this topic made under it
 - [Social Security Act 1986](../../uk-parliament/acts/public/1986/50-social-security-act-1986/README.md) *(changes pending)* — 148 regulations on this topic made under it
-- [The Welfare Reform (Northern Ireland) Order 2015](../../northern-ireland/orders-in-council/2015/2006-the-welfare-reform-northern-ireland-order-2015/README.md) *(changes pending)* — 146 regulations on this topic made under it
+- [The Welfare Reform (Northern Ireland) Order 2015](../../northern-ireland/orders-in-council/2015/2006-the-welfare-reform-northern-ireland-order-2015/README.md) *(changes pending)* — 147 regulations on this topic made under it
 - [Welfare Reform Act 2007](../../uk-parliament/acts/public/2007/5-welfare-reform-act-2007/README.md) *(changes pending)* — 144 regulations on this topic made under it
 - [Social Security Act 1998](../../uk-parliament/acts/public/1998/14-social-security-act-1998/README.md) *(changes pending)* — 137 regulations on this topic made under it
 - [State Pension Credit Act 2002](../../uk-parliament/acts/public/2002/16-state-pension-credit-act-2002.md) *(changes pending)* — 100 regulations on this topic made under it
@@ -83,7 +83,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 70 |
+| [2026](2026.md) | 71 |
 | [2025](2025.md) | 67 |
 | [2024](2024.md) | 59 |
 | [2023](2023.md) | 74 |
@@ -101,7 +101,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 70 |
 | [2010](2010.md) | 96 |
 | [2009](2009.md) | 80 |
-| [2008](2008.md) | 121 |
+| [2008](2008.md) | 120 |
 | [2007](2007.md) | 99 |
 | [2006](2006.md) | 88 |
 | [2005](2005.md) | 106 |

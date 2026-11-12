@@ -5,13 +5,13 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2009-07-29'
-text_date: '2024-01-25'
+text_date: '2026-10-01'
 extent: E
 source_url: https://www.legislation.gov.uk/uksi/2009/2108
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2009/2108/pdfs/uksi_20092108_en.pdf
 - http://www.legislation.gov.uk/uksi/2009/2108/data.pdf
-pending_changes: 5
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Ecclesiastical Offices (Terms of Service) Regulations 2009
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2024-01-25. See https://www.legislation.gov.uk/changes/affected/uksi/2009/2108
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2009/2108
 >
 > Extent: England.
 
@@ -189,8 +189,8 @@ either the person or body concerned or the office holder may require the questio
 
 (4) An employment tribunal shall not consider a reference under this section in a case where the appointment to which the reference relates has ended unless an application requiring the reference to be made was made—
 
-- (a) before the end of the period of three months beginning with the date on which the appointment ended, or
-- (b) within such period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the application to be made before the end of that period of three months.
+- (a) before the end of the period of six months[^c-ca4d9e721fab64d12a4da06b0874cec6] beginning with the date on which the appointment ended, or
+- (b) within such period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the application to be made before the end of that period of six months[^c-a90702e51181dd4fad77f089e8dca049].
 
 (5)[^c-75daaa4e22fe194725af7d5cfc56dc3d] Regulation 9A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (4)(a).
 
@@ -796,6 +796,10 @@ Directions under regulation 23 (entitlement to maternity, paternity, parental an
 [^c-b8152cc948f66be761ac172598971a97]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/2108/regulation/9) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2108/regulation/1)
 
 [^f00005]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^c-ca4d9e721fab64d12a4da06b0874cec6]: Textual amendment: Words in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/9/4/a) substituted (1.10.2026) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2026 (S.I. 2026/891)](https://www.legislation.gov.uk/uksi/2026/891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/891/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/891/regulation/2)
+
+[^c-a90702e51181dd4fad77f089e8dca049]: Textual amendment: Words in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/9/4/b) substituted (1.10.2026) by [The Ecclesiastical Offices (Terms of Service) (Amendment) Regulations 2026 (S.I. 2026/891)](https://www.legislation.gov.uk/uksi/2026/891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/891/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/891/regulation/2)
 
 [^c-75daaa4e22fe194725af7d5cfc56dc3d]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2009/2108/regulation/9/5) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 36](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/36)
 

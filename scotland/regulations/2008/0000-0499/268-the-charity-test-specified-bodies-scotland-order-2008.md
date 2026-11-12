@@ -3,15 +3,15 @@ title: The Charity Test (Specified Bodies) (Scotland) Order 2008
 id: ssi/2008/268
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-26'
-text_date: null
-extent: null
+text_date: '2008-06-27'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/268
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/268/pdfs/ssien_20080268_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/268/pdfs/ssi_20080268_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/268/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/268/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Charity Test (Specified Bodies) (Scotland) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-06-27. See https://www.legislation.gov.uk/changes/affected/ssi/2008/268
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 268
 
@@ -40,11 +44,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 103(5) of that Act, a draft of the Order has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-1de0e251fbc9675edf6322143835ea18]
 
 This Order may be cited as the Charity Test (Specified Bodies) (Scotland) Order 2008 and comes into force on the day after the day on which it is made.
 
-## 2. Specified Bodies
+## 2. Specified Bodies[^c-a1fac97df03ee04cdcc45eda1258f761]
 
 Section 7(4)(b) of the Charities and Trustee Investment (Scotland) Act 2005 is disapplied in relation to the bodies specified in the Schedule to this Order.
 
@@ -58,7 +62,7 @@ Edinburgh
 
 26th June 2008
 
-## SCHEDULE — SPECIFIED BODIES
+## SCHEDULE — SPECIFIED BODIES[^c-c16c5e9edac391545c85909a6b04f9d1]
 
 Article 2
 
@@ -111,3 +115,9 @@ Section 7(4)(b) of the 2005 Act provides that if a body’s constitution express
 ## Annotations
 
 [^f00001]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^c-1de0e251fbc9675edf6322143835ea18]: Commencement: Art. 1 in force at 27.6.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/268/article/1)
+
+[^c-a1fac97df03ee04cdcc45eda1258f761]: Commencement: Art. 2 in force at 27.6.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/268/article/1)
+
+[^c-c16c5e9edac391545c85909a6b04f9d1]: Commencement: Sch. in force at 27.6.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/268/article/1)

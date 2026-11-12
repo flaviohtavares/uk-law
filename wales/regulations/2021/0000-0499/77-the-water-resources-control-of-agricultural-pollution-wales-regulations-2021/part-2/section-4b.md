@@ -2,8 +2,8 @@
 title: The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021, section 4B
 act: The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021
 section: 4B
-status: revised-with-pending-changes
-text_date: '2024-01-01'
+status: revised
+text_date: '2026-10-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2021/77/section/4B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021, section 4B
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/wsi/2021/77
+> Text as at 2026-10-15.
 >
 > Extent: England, Wales.
 

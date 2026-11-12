@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, SCHEDULE 5
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: schedule-5
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006, SCHEDULE 5
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 
@@ -170,11 +170,31 @@ and, in determining for the purposes of this paragraph whether a claimant or a m
 
 (3) The following are the amounts referred to in sub-paragraph (1)—
 
-- (a) the amount to be disregarded from the claimant’s earnings under paragraphs 3 to 10A[^c-394f306378e9501590e7d2d88055f66e] of this Schedule;
+- (a) the amount to be disregarded from the claimant’s earnings under paragraphs 3 to 10A[^c-394f306378e9501590e7d2d88055f66e] and 18[^c-44b397632b238c35f5069b9213e484a9] of this Schedule;
 - (b) the amount of child care charges calculated as deductible under regulation 24(1)(c); and
 - (c)[^c-1f998cbbb70151888fc391f7b24c7c69][^c-94ca9e1ef2a6c97c0c3009a44716886c][^c-9498631cb75322f3a2fbd2d191d88b34][^c-dfbf87db2cb533fba13c8f49d4a10954][^c-2e030795043dfdd747d5e8fa93695aca][^c-160dd32cb753494c0b502f7ed22a2a57][^c-24ad0562aa5654b6da09c57b49f8e475][^c-819261e2b0c1d447a115bcd0a7c9a5f5][^c-c6a895a57871c1933de4f9c2b5cfb3ca][^c-5fdc5f1e99dcdca3da3021fe368b684d][^c-f8bcfdd3952259015be0850e6c16ca4f][^c-7529120317df0b08d8471378cdf41384][^c-18b671617f678c5ea406b47bd1834cd0][^c-fea883de3a738ef10752b95d30f3714d][^c-5c25332d49e229c50ac45eab269202ae][^c-9e7058f26869fc2808d27ec83fcb2a9e][^c-28cf442ec19bcee940ce7291caf6e265][^c-e5376dc0233b80596732dccf0e05af7c][^c-9e698f108cf892e19f51c875965f09e7][^c-0eaa87c740e9fad5ab40be286225f19a][^c-d50717d4d052fa8c6e71f259ff3cf890][^c-7604cd2314855f3375fefa5bc8162b7c][^c-ed655849d1eb529428079d7112eecc9b][^c-d3711ea3075a92ff65594ef2c01e6cf6] £17∙10[^c-196b418c26ff1565b7a5df6f6532ded7][^c-c1dc9a773a142dc082fc9ff0274595b4] £37.10.
 
 (4) The provisions of regulation 6 shall apply in determining whether or not a person works for on average not less than 30 hours per week, but as if the reference to 16 hours in paragraph (1) of that regulation were a reference to 30 hours.
+
+**18.**[^c-63451280bc01d1b3545b7c1438fbf5be] (1) Where—
+
+- (a) the claimant is resident in accommodation specified in paragraph 4 or paragraph 4A of Schedule 1 to the Universal Credit Regulations (Northern Ireland) 2016 (meaning of payments in respect of accommodation); and
+- (b) the claimant or, if the claimant has a partner, the claimant or their partner, is an employed earner or a self-employed earner,
+
+the amount specified in sub-paragraph (2); but, notwithstanding regulation 22 (calculation of income and capital of members of claimant’s family and of a polygamous marriage), if this paragraph applies to a claimant, where the claimant has a partner, it shall not apply to their partner except where, and to the extent that, the earnings of the claimant which are to be disregarded under this paragraph are less than the amount specified in sub-paragraph (2).
+
+(2) Where the claimant—
+
+- (a) is a single claimant who—
+  - (i) has not attained the age of 25 years, £61.41;
+  - (ii) has attained the age of 25 years, £77.73;
+- (b) is a lone parent who—
+  - (i) has not attained the age of 25 years, £61.41;
+  - (ii) has attained the age of 25 years, £77.73;
+- (c) has a partner, where—
+  - (i) the claimant and their partner have not attained the age of 18 years, £97.33;
+  - (ii) the claimant or their partner has attained the age of 18 years but the claimant and their partner have not attained the age of 25 years, £61.53;
+  - (iii) the claimant or their partner has attained the age of 25 years, £119.70.
 
 ## Annotations
 
@@ -330,6 +350,8 @@ and, in determining for the purposes of this paragraph whether a claimant or a m
 
 [^c-394f306378e9501590e7d2d88055f66e]: Textual amendment: Words in [Sch. 5 para. 17(3)(a)](https://www.legislation.gov.uk/nisr/2006/405/schedule/5/paragraph/17/3/a) substituted (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [4(8)](https://www.legislation.gov.uk/nisr/2011/136/regulation/4/8)
 
+[^c-44b397632b238c35f5069b9213e484a9]: Textual amendment: Words in [Sch. 5 para. 17(3)(a)](https://www.legislation.gov.uk/nisr/2006/405/schedule/5/paragraph/17/3/a) inserted (5.10.2026) by [The Housing Benefit (Earned Income Disregards) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/157)](https://www.legislation.gov.uk/nisr/2026/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/157/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2026/157/regulation/2/4/a)
+
 [^c-1f998cbbb70151888fc391f7b24c7c69]: Modification: [Sch. 5 para. 17(3)(c)](https://www.legislation.gov.uk/nisr/2006/405/schedule/5/paragraph/17/3/c): sum confirmed (1.4.2011 for specified purposes, 4.4.2011 in so far as not already in operation) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2011 (S.R. 2011/119)](https://www.legislation.gov.uk/nisr/2011/119), [arts. 1(1)(j)](https://www.legislation.gov.uk/nisr/2011/119/article/1), [20(9)](https://www.legislation.gov.uk/nisr/2011/119/article/20)
 
 [^c-94ca9e1ef2a6c97c0c3009a44716886c]: Modification: [Sch. 5 para. 17(3)(c)](https://www.legislation.gov.uk/nisr/2006/405/schedule/5/paragraph/17/3/c): sum confirmed (1.4.2012 for specified purposes, 2.4.2012 in so far as not already in operation) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2012 (S.R. 2012/116)](https://www.legislation.gov.uk/nisr/2012/116), [arts. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j), [20(9)](https://www.legislation.gov.uk/nisr/2012/116/article/20/9)
@@ -381,3 +403,5 @@ and, in determining for the purposes of this paragraph whether a claimant or a m
 [^c-196b418c26ff1565b7a5df6f6532ded7]: Textual amendment: Sum in [Sch. 5 para. 17(3)(c)](https://www.legislation.gov.uk/nisr/2006/405/schedule/5/paragraph/17/3/c) substituted (temp.) (with effect in accordance with reg. 5(3) of the amending Rule) by virtue of [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [5(1)(a)](https://www.legislation.gov.uk/nisr/2020/53/regulation/5/1/a)
 
 [^c-c1dc9a773a142dc082fc9ff0274595b4]: Textual amendment: Sum in [Sch. 5 para. 17(3)(c)](https://www.legislation.gov.uk/nisr/2006/405/schedule/5/paragraph/17/3/c) substituted (1.4.2010 in so far as not already in operation, 5.4.2010 for specified purposes) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2010 (S.R. 2010/118)](https://www.legislation.gov.uk/nisr/2010/118), [arts. 1(1)(j)](https://www.legislation.gov.uk/nisr/2010/118/article/1), [19(9)](https://www.legislation.gov.uk/nisr/2010/118/article/19)
+
+[^c-63451280bc01d1b3545b7c1438fbf5be]: Textual amendment: [Sch. 5 para. 18](https://www.legislation.gov.uk/nisr/2006/405/schedule/5/paragraph/18) inserted (5.10.2026) by [The Housing Benefit (Earned Income Disregards) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/157)](https://www.legislation.gov.uk/nisr/2026/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/157/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2026/157/regulation/2/4/b)

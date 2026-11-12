@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 81
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '81'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/81
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 81
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 81. Assessment of net income for current year[^c-bc0f4f8fb64e4cb76a32ed246a8e71a0]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) Where the Secretary of State is satisfied that the net income of the eligible student’s dependent children for the financial year beginning immediately before the relevant year (“the current financial year”) is likely to be not more than 85% of the sterling value of their net income for the prior financial year, the Secretary of State may, for the purpose of enabling the eligible student to attend the course without hardship, use the dependent children’s net income for the current financial year for the purposes of the calculations in regulations 78 to 80.
 
@@ -30,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^c-bc0f4f8fb64e4cb76a32ed246a8e71a0]: Commencement: Reg. 81 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-bc0f4f8fb64e4cb76a32ed246a8e71a0]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2026/858/regulation/81) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

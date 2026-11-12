@@ -48,7 +48,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2021**
 
 - [The Reservoirs Act (Panels of Civil Engineers) (Applications and Fees) Regulations 2021](../uk-parliament/regulations/2021/1000-1499/1362-the-reservoirs-act-panels-of-civil-engineers-applications-and-fees-regulations-2.md) *(as originally made)*
-- [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021](../wales/regulations/2021/0000-0499/77-the-water-resources-control-of-agricultural-pollution-wales-regulations-2021/README.md) *(changes pending)*
+- [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021](../wales/regulations/2021/0000-0499/77-the-water-resources-control-of-agricultural-pollution-wales-regulations-2021/README.md)
 
 **2020**
 

@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2021-11-01'
-text_date: '2026-05-07'
+text_date: '2026-10-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2021/1219
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2021/1219/pdfs/uksiem_20211219_en.pdf
 - http://www.legislation.gov.uk/uksi/2021/1219/pdfs/uksi_20211219_en.pdf
 - http://www.legislation.gov.uk/uksi/2021/1219/data.pdf
-pending_changes: 4
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Norfolk (Electoral Changes) Order 2021
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-05-07. See https://www.legislation.gov.uk/changes/affected/uksi/2021/1219
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/uksi/2021/1219
 >
 > Extent: England, Wales.
 
@@ -79,8 +79,6 @@ The Commission makes the following Order in exercise of the power conferred by s
 (4) The number of councillors to be elected for each division is one.
 
 ## 4. Wards of the parishes of Attleborough, Bradwell, Costessey, Thorpe St Andrew, and Wymondham[^c-e7c50f388faddd0265691572b188810c][^c-901dcc6ae339abd359c9299a2d32c383]
-
-**Not yet in force.**
 
 (1) The existing wards of the parishes of Attleborough, Bradwell, Costessey, Thorpe St Andrew, and Wymondham are abolished.
 
@@ -282,8 +280,6 @@ Article 3
 
 ## SCHEDULE 2 — Names of parish wards and number of councillors[^c-b1c9391fdcc16b0eaf96a4a2698b6d93][^c-48a70ae04bc4b83c165469225b1aa8a4]
 
-**Not yet in force.**
-
 Article 4
 
 Table 1
@@ -375,7 +371,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-f77d89785e32337ee81786d6d7238cf9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1219/article/3) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/a))
 
-[^c-e7c50f388faddd0265691572b188810c]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/a)
+[^c-e7c50f388faddd0265691572b188810c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1219/article/4) in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/a)
 
 [^c-901dcc6ae339abd359c9299a2d32c383]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/b)
 
@@ -383,6 +379,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-80f7bbf60e25f25ca7f29f5530327f98]: Commencement: Sch. 1 in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/a))
 
-[^c-b1c9391fdcc16b0eaf96a4a2698b6d93]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/a)
+[^c-b1c9391fdcc16b0eaf96a4a2698b6d93]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1219/schedule/2) in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/a)
 
 [^c-48a70ae04bc4b83c165469225b1aa8a4]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/1219/article/1/4/b)

@@ -298,7 +298,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Merchant Shipping (Oil Pollution and General Provisions) (Isle of Man) Order 2004](../uk-parliament/regulations/2004/3000-3499/3041-merchant-shipping-oil-pollution-and-general-provisions-isle-of-man-order-2004.md) *(as originally made)*
 - [The Fishing Vessels (Safety Training) (Amendment) Regulations 2004](../uk-parliament/regulations/2004/2000-2499/2169-the-fishing-vessels-safety-training-amendment-regulations-2004.md) *(as originally made)*
-- [The Fishing Vessels (Working Time: Sea-fishermen) Regulations 2004](../uk-parliament/regulations/2004/1500-1999/1713-the-fishing-vessels-working-time-sea-fishermen-regulations-2004.md) *(changes pending)*
+- [The Fishing Vessels (Working Time: Sea-fishermen) Regulations 2004](../uk-parliament/regulations/2004/1500-1999/1713-the-fishing-vessels-working-time-sea-fishermen-regulations-2004.md)
 - [The Merchant Shipping (Confirmation of Legislation and Repeals) (Jersey) Order 2004](../uk-parliament/regulations/2004/1000-1499/1284-the-merchant-shipping-confirmation-of-legislation-and-repeals-jersey-order-2004.md) *(as originally made)*
 - [The Merchant Shipping (Convention on Limitation of Liability for Maritime Claims) (Amendment) Order 2004](../uk-parliament/regulations/2004/1000-1499/1273-the-merchant-shipping-convention-on-limitation-of-liability-for-maritime-claims.md) *(as originally made)*
 - [The Merchant Shipping (Dangerous or Noxious Liquid Substances in Bulk) (Amendment) Regulations 2004](../uk-parliament/regulations/2004/0500-0999/930-the-merchant-shipping-dangerous-or-noxious-liquid-substances-in-bulk-amendment-r.md) *(as originally made)*
@@ -328,7 +328,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) Regulations 2003](../uk-parliament/regulations/2003/0500-0999/771-the-merchant-shipping-passenger-ships-on-domestic-voyages-amendment-regulations.md) *(as originally made)*
 - [The Merchant Shipping (Port State Control) (Amendment) Regulations 2003](../uk-parliament/regulations/2003/1500-1999/1636-the-merchant-shipping-port-state-control-amendment-regulations-2003.md) *(as originally made)*
 - [The Merchant Shipping (Safe Loading and Unloading of Bulk Carriers) Regulations 2003](../uk-parliament/regulations/2003/2000-2499/2002-the-merchant-shipping-safe-loading-and-unloading-of-bulk-carriers-regulations-20.md)
-- [The Merchant Shipping (Working Time: Inland Waterways) Regulations 2003](../uk-parliament/regulations/2003/3000-3499/3049-the-merchant-shipping-working-time-inland-waterways-regulations-2003.md) *(changes pending)*
+- [The Merchant Shipping (Working Time: Inland Waterways) Regulations 2003](../uk-parliament/regulations/2003/3000-3499/3049-the-merchant-shipping-working-time-inland-waterways-regulations-2003.md)
 - [The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003](../uk-parliament/regulations/2003/1500-1999/1809-the-merchant-shipping-and-fishing-vessels-port-waste-reception-facilities-regula.md)
 - [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003](../uk-parliament/regulations/2003/1000-1499/1230-the-pilotage-recognition-of-qualifications-and-experience-regulations-2003.md) *(as originally made)*
 - [The Protection of Wrecks (RMS Titanic) Order 2003](../uk-parliament/regulations/2003/2000-2499/2496-the-protection-of-wrecks-rms-titanic-order-2003.md) *(changes pending)*

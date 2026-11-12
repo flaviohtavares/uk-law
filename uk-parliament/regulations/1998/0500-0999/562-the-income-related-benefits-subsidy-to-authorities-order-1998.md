@@ -3,16 +3,16 @@ title: The Income-related Benefits (Subsidy to Authorities) Order 1998
 id: uksi/1998/562
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1998-03-04'
-text_date: '2025-11-04'
+text_date: '2026-11-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1998/562
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1998/562/pdfs/uksi_19980562_301115_en.pdf
 - http://www.legislation.gov.uk/uksi/1998/562/pdfs/uksi_19980562_301114_en.pdf
 - http://www.legislation.gov.uk/uksi/1998/562/data.pdf
-pending_changes: 10
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Income-related Benefits (Subsidy to Authorities) Order 1998
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2025-11-04. See https://www.legislation.gov.uk/changes/affected/uksi/1998/562
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales, Scotland.
 
@@ -101,7 +101,7 @@ In this Part and also in Part IV, unless the context otherwise requires—
 - [^M_F_f99024c3-824d-4a10-ec5f-d69a3191a03d]...
 - “final claim" means a claim for subsidy pursuant to article 4(2)(c);
 - “final subsidy" means any subsidy which is not interim subsidy or an amount paid, withheld or deducted pursuant to article 8A[^c-bea977ab250c64cd215eb4cf36009580];
-- “HBAP” means the Housing Benefit Assurance Process published by the Department for Work and Pensions on 29th March 2017 and last updated on[^c-f8661cd138f91879bbaa7846d5ace2f5] 28th April 2025[^c-ed8382cbf6a8dfe9cc270474984c5498];
+- “HBAP” means the Housing Benefit Assurance Process published by the Department for Work and Pensions on 29th March 2017 and last updated on[^c-f8661cd138f91879bbaa7846d5ace2f5] 2nd April 2026[^c-eb121d51cf13ddf35f546663fcfccb59];
 - “initial claim" means a claim for subsidy pursuant to article 4(2)(a);
 - “interim subsidy" means subsidy pursuant to articles [^c-7a8d81a32fc5d01ab374f9d3581a7313]... 8(1) or 9(4), as the case may be;
 - “mid-year claim" means a claim for subsidy pursuant to article 4(2)(b);
@@ -326,7 +326,7 @@ shall be treated as lawfully paid in the relevant year for that period.
 
 - (a) the amount of subsidy calculated in accordance with article 13;
 - (b) for an authority identified in column (1) of Schedule 1 (sums to be used in the calculation of subsidy), the amount in respect of the costs of administering the housing benefit[^c-66be73318c0f0a24b95714419478c1ec] specified in column (2) of that Schedule for that authority;
-- (bza)[^c-4dc28882665af1dc4342ce198c6346e9] the additional amount specified by Schedule 1ZB (additional amount of subsidy: verify earnings and pension alerts service); and
+- (bza)[^c-d5036c46fd7a9992f46a89084f9b2e40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (bzb)[^c-44651cc873dfeeed98f87fa2bcd1f8a6] any additional amount specified by Schedule1ZC (additional amount of subsidy: Housing Benefit Award Accuracy Initiative);
 - (ba)[^c-dc93521ce66218696ede65a999bd861f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c)[^c-660919844cfdf4f1ad7be6ffda9cac35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -831,11 +831,11 @@ Bob Ainsworth
 
 Two of the Lords Commissioners of Her Majesty’s Treasury
 
-## Schedule 1 — Sums to be used in the calculation of subsidy[^c-90f72e7150abde4dda407fbecafed275]
+## Schedule 1 — Sums to be used in the calculation of subsidy[^c-88c6db682cc4b412877d0c03c120c0c9]
 
 Article 12(1)(b)
 
-Relevant Year 2024-2025
+Relevant Year 2025-2026
 
 <table>
 <thead>
@@ -843,358 +843,358 @@ Relevant Year 2024-2025
 </thead>
 <tbody>
 <tr><th colspan="2">England</th></tr>
-<tr><td>Adur District Council</td><td>168,550</td></tr>
-<tr><td>Amber Valley Borough Council</td><td>329,797</td></tr>
-<tr><td>Arun District Council</td><td>405,459</td></tr>
-<tr><td>Ashfield District Council</td><td>372,208</td></tr>
-<tr><td>Ashford Borough Council</td><td>338,604</td></tr>
-<tr><td>Babergh District Council</td><td>190,118</td></tr>
-<tr><td>London Borough of Barking and Dagenham</td><td>924,124</td></tr>
-<tr><td>London Borough of Barnet</td><td>1,509,250</td></tr>
-<tr><td>Barnsley Borough Council</td><td>858,497</td></tr>
-<tr><td>Basildon District Council</td><td>600,000</td></tr>
-<tr><td>Basingstoke and Deane District Council</td><td>389,904</td></tr>
-<tr><td>Bassetlaw District Council</td><td>317,124</td></tr>
-<tr><td>Bath and North East Somerset Council</td><td>447,937</td></tr>
-<tr><td>Bedford Borough Council</td><td>520,834</td></tr>
-<tr><td>London Borough of Bexley</td><td>607,226</td></tr>
-<tr><td>Birmingham City Council</td><td>6,268,442</td></tr>
-<tr><td>Blaby District Council</td><td>151,595</td></tr>
-<tr><td>Blackburn with Darwen Borough Council</td><td>521,838</td></tr>
-<tr><td>Blackpool Borough Council</td><td>697,235</td></tr>
-<tr><td>Bolsover District Council</td><td>245,893</td></tr>
-<tr><td>Bolton Metropolitan Borough Council</td><td>1,005,095</td></tr>
-<tr><td>Boston Borough Council</td><td>191,453</td></tr>
-<tr><td>Bournemouth, Christchurch and Poole Council</td><td>1,262,294</td></tr>
-<tr><td>Bracknell Forest Borough Council</td><td>272,330</td></tr>
-<tr><td>Bradford Metropolitan Borough Council</td><td>1,650,227</td></tr>
-<tr><td>Braintree District Council</td><td>364,025</td></tr>
-<tr><td>Breckland District Council</td><td>329,374</td></tr>
-<tr><td>London Borough of Brent</td><td>1,704,405</td></tr>
-<tr><td>Brentwood District Council</td><td>137,613</td></tr>
-<tr><td>Brighton and Hove Council</td><td>1,188,488</td></tr>
-<tr><td>Bristol City Council</td><td>1,675,554</td></tr>
-<tr><td>Broadland District Council</td><td>218,023</td></tr>
-<tr><td>London Borough of Bromley</td><td>866,470</td></tr>
-<tr><td>Bromsgrove District Council</td><td>178,055</td></tr>
-<tr><td>Broxbourne Borough Council</td><td>271,237</td></tr>
-<tr><td>Broxtowe Council</td><td>248,500</td></tr>
-<tr><td>Buckinghamshire Council</td><td>1,005,797</td></tr>
-<tr><td>Burnley Borough Council</td><td>386,005</td></tr>
-<tr><td>Bury Metropolitan Borough Council</td><td>560,142</td></tr>
-<tr><td>Calderdale Borough Council</td><td>847,713</td></tr>
-<tr><td>Cambridge City Council</td><td>348,172</td></tr>
-<tr><td>London Borough of Camden</td><td>1,512,857</td></tr>
-<tr><td>Cannock Chase District Council</td><td>262,263</td></tr>
-<tr><td>Canterbury City Council</td><td>402,811</td></tr>
-<tr><td>Castle Point District Council</td><td>189,776</td></tr>
-<tr><td>Central Bedfordshire Council</td><td>555,680</td></tr>
-<tr><td>Charnwood Borough Council</td><td>348,005</td></tr>
-<tr><td>Chelmsford Borough Council</td><td>383,259</td></tr>
-<tr><td>Cheltenham Borough Council</td><td>300,956</td></tr>
-<tr><td>Cherwell District Council</td><td>316,902</td></tr>
-<tr><td>Cheshire East Council</td><td>795,516</td></tr>
-<tr><td>Cheshire West and Chester Council</td><td>918,617</td></tr>
-<tr><td>Chesterfield Borough Council</td><td>403,765</td></tr>
-<tr><td>Chichester District Council</td><td>291,437</td></tr>
-<tr><td>Chorley Borough Council</td><td>280,499</td></tr>
-<tr><td>City of London</td><td>63,711</td></tr>
-<tr><td>Colchester Borough Council</td><td>466,042</td></tr>
-<tr><td>Cornwall Council</td><td>1,741,459</td></tr>
-<tr><td>Cotswold District Council</td><td>182,942</td></tr>
-<tr><td>Coventry City Council</td><td>1,133,518</td></tr>
-<tr><td>Crawley Borough Council</td><td>382,034</td></tr>
-<tr><td>London Borough of Croydon</td><td>1,670,074</td></tr>
-<tr><td>Cumberland Council</td><td>790,882</td></tr>
-<tr><td>Dacorum Borough Council</td><td>417,986</td></tr>
-<tr><td>Darlington Borough Council</td><td>383,739</td></tr>
-<tr><td>Dartford Borough Council</td><td>252,084</td></tr>
-<tr><td>Derby City Council</td><td>847,985</td></tr>
-<tr><td>Derbyshire Dales District Council</td><td>141,412</td></tr>
-<tr><td>Doncaster Metropolitan Borough Council</td><td>1,039,593</td></tr>
-<tr><td>Dorset Council</td><td>924,249</td></tr>
-<tr><td>Dover District Council</td><td>378,576</td></tr>
-<tr><td>Dudley Metropolitan Borough Council</td><td>916,034</td></tr>
-<tr><td>Durham County Council</td><td>2,022,609</td></tr>
-<tr><td>London Borough of Ealing</td><td>1,586,025</td></tr>
-<tr><td>East Cambridgeshire District Council</td><td>178,328</td></tr>
-<tr><td>East Devon District Council</td><td>308,618</td></tr>
-<tr><td>East Hampshire District Council</td><td>202,625</td></tr>
-<tr><td>East Hertfordshire District Council</td><td>278,434</td></tr>
-<tr><td>East Lindsey District Council</td><td>464,725</td></tr>
-<tr><td>East Riding of Yorkshire Council</td><td>708,395</td></tr>
-<tr><td>East Staffordshire Borough Council</td><td>259,301</td></tr>
-<tr><td>East Suffolk Council</td><td>677,920</td></tr>
-<tr><td>Eastbourne Borough Council</td><td>431,971</td></tr>
-<tr><td>Eastleigh Borough Council</td><td>268,364</td></tr>
-<tr><td>Elmbridge Borough Council</td><td>278,068</td></tr>
-<tr><td>London Borough of Enfield</td><td>1,847,508</td></tr>
-<tr><td>Epping Forest District Council</td><td>294,276</td></tr>
-<tr><td>Epsom and Ewell Borough Council</td><td>165,386</td></tr>
-<tr><td>Erewash Borough Council</td><td>330,843</td></tr>
-<tr><td>Exeter City Council</td><td>390,214</td></tr>
-<tr><td>Fareham Borough Council</td><td>171,233</td></tr>
-<tr><td>Fenland District Council</td><td>292,434</td></tr>
-<tr><td>Folkestone and Hythe District Council</td><td>355,028</td></tr>
-<tr><td>Forest of Dean District Council</td><td>220,002</td></tr>
-<tr><td>Fylde Borough Council</td><td>205,171</td></tr>
-<tr><td>Gateshead Borough Council</td><td>870,065</td></tr>
-<tr><td>Gedling Borough Council</td><td>266,689</td></tr>
-<tr><td>Gloucester City Council</td><td>386,093</td></tr>
-<tr><td>Gosport Borough Council</td><td>247,779</td></tr>
-<tr><td>Gravesham Borough Council</td><td>278,169</td></tr>
-<tr><td>Great Yarmouth Council</td><td>422,613</td></tr>
-<tr><td>Royal Borough of Greenwich</td><td>1,504,546</td></tr>
-<tr><td>Guildford Borough Council</td><td>272,761</td></tr>
-<tr><td>London Borough of Hackney</td><td>2,398,650</td></tr>
-<tr><td>Halton Borough Council</td><td>544,854</td></tr>
-<tr><td>London Borough of Hammersmith and Fulham</td><td>1,122,434</td></tr>
-<tr><td>Harborough District Council</td><td>137,026</td></tr>
-<tr><td>London Borough of Haringey</td><td>1,704,846</td></tr>
-<tr><td>Harlow District Council</td><td>337,603</td></tr>
-<tr><td>Harrow Council</td><td>807,776</td></tr>
-<tr><td>Hart District Council</td><td>120,109</td></tr>
-<tr><td>Hartlepool Borough Council</td><td>481,089</td></tr>
-<tr><td>Hastings Borough Council</td><td>480,262</td></tr>
-<tr><td>Havant Borough Council</td><td>269,884</td></tr>
-<tr><td>London Borough of Havering</td><td>630,461</td></tr>
-<tr><td>Herefordshire Council</td><td>453,778</td></tr>
-<tr><td>Hertsmere Borough Council</td><td>290,159</td></tr>
-<tr><td>High Peak Borough Council</td><td>231,061</td></tr>
-<tr><td>London Borough of Hillingdon</td><td>953,925</td></tr>
-<tr><td>Hinckley and Bosworth Borough Council</td><td>213,125</td></tr>
-<tr><td>Horsham District Council</td><td>266,478</td></tr>
-<tr><td>London Borough of Hounslow</td><td>1,015,552</td></tr>
-<tr><td>Huntingdonshire District Council</td><td>333,564</td></tr>
-<tr><td>Hyndburn Borough Council</td><td>310,681</td></tr>
-<tr><td>Ipswich Borough Council</td><td>483,036</td></tr>
-<tr><td>Isle of Wight Council</td><td>476,343</td></tr>
-<tr><td>Council of the Isles of Scilly</td><td>1,734</td></tr>
-<tr><td>London Borough of Islington</td><td>1,665,897</td></tr>
-<tr><td>Royal Borough of Kensington and Chelsea</td><td>1,083,719</td></tr>
-<tr><td>Kings Lynn and West Norfolk Borough Council</td><td>382,044</td></tr>
-<tr><td>Hull City Council</td><td>1,283,677</td></tr>
-<tr><td>Royal Borough of Kingston upon Thames</td><td>467,322</td></tr>
-<tr><td>Kirklees Metropolitan Borough Council</td><td>1,251,555</td></tr>
-<tr><td>Knowsley Borough Council</td><td>742,248</td></tr>
-<tr><td>London Borough of Lambeth</td><td>1,933,882</td></tr>
-<tr><td>Lancaster City Council</td><td>427,456</td></tr>
-<tr><td>Leeds City Council</td><td>2,558,738</td></tr>
-<tr><td>Leicester City Council</td><td>1,181,395</td></tr>
-<tr><td>Lewes District Council</td><td>274,856</td></tr>
-<tr><td>London Borough of Lewisham</td><td>1,817,443</td></tr>
-<tr><td>Lichfield District Council</td><td>199,705</td></tr>
-<tr><td>City of Lincoln Council</td><td>368,608</td></tr>
-<tr><td>Liverpool City Council</td><td>2,640,160</td></tr>
-<tr><td>Luton Borough Council</td><td>685,036</td></tr>
-<tr><td>Maidstone Borough Council</td><td>390,736</td></tr>
-<tr><td>Maldon District Council</td><td>131,415</td></tr>
-<tr><td>Malvern Hills District Council</td><td>179,312</td></tr>
-<tr><td>Manchester City Council</td><td>2,733,908</td></tr>
-<tr><td>Mansfield District Council</td><td>366,414</td></tr>
-<tr><td>Medway Council</td><td>738,065</td></tr>
-<tr><td>Melton Borough Council</td><td>106,717</td></tr>
-<tr><td>London Borough of Merton</td><td>549,716</td></tr>
-<tr><td>Mid Devon District Council</td><td>184,463</td></tr>
-<tr><td>Mid Suffolk District Council</td><td>176,135</td></tr>
-<tr><td>Mid Sussex District Council</td><td>259,793</td></tr>
-<tr><td>Middlesbrough Council</td><td>657,029</td></tr>
-<tr><td>Milton Keynes Borough Council</td><td>816,257</td></tr>
-<tr><td>Mole Valley District Council</td><td>185,274</td></tr>
-<tr><td>New Forest District Council</td><td>373,181</td></tr>
-<tr><td>Newark and Sherwood District Council</td><td>305,426</td></tr>
-<tr><td>Newcastle-Under-Lyme Borough Council</td><td>323,447</td></tr>
-<tr><td>Newcastle City Council</td><td>1,312,597</td></tr>
-<tr><td>London Borough of Newham</td><td>1,841,037</td></tr>
-<tr><td>North Devon District Council</td><td>277,024</td></tr>
-<tr><td>North East Derbyshire District Council</td><td>282,630</td></tr>
-<tr><td>North East Lincolnshire Council</td><td>575,860</td></tr>
-<tr><td>North Hertfordshire District Council</td><td>287,657</td></tr>
-<tr><td>North Kesteven District Council</td><td>213,616</td></tr>
-<tr><td>North Lincolnshire Council</td><td>459,772</td></tr>
-<tr><td>North Norfolk District Council</td><td>287,693</td></tr>
-<tr><td>North Northamptonshire Council</td><td>832,091</td></tr>
-<tr><td>North Somerset Council</td><td>579,809</td></tr>
-<tr><td>North Tyneside Borough Council</td><td>731,183</td></tr>
-<tr><td>North Warwickshire District Council</td><td>154,583</td></tr>
-<tr><td>North West Leicestershire District Council</td><td>207,130</td></tr>
-<tr><td>North Yorkshire Council</td><td>1,346,339</td></tr>
-<tr><td>Northumberland County Council</td><td>934,537</td></tr>
-<tr><td>Norwich City Council</td><td>634,059</td></tr>
-<tr><td>Nottingham City Council</td><td>1,419,394</td></tr>
-<tr><td>Nuneaton and Bedworth Borough Council</td><td>388,016</td></tr>
-<tr><td>Oadby and Wigston Borough Council</td><td>101,030</td></tr>
-<tr><td>Oldham Borough Council</td><td>838,458</td></tr>
-<tr><td>Oxford City Council</td><td>456,851</td></tr>
-<tr><td>Pendle Borough Council</td><td>267,404</td></tr>
-<tr><td>Peterborough City Council</td><td>678,063</td></tr>
-<tr><td>Plymouth City Council</td><td>996,596</td></tr>
-<tr><td>Portsmouth City Council</td><td>891,714</td></tr>
-<tr><td>Preston Borough Council</td><td>497,529</td></tr>
-<tr><td>Reading Borough Council</td><td>564,803</td></tr>
-<tr><td>London Borough of Redbridge</td><td>1,000,025</td></tr>
-<tr><td>Redcar and Cleveland Borough Council</td><td>543,213</td></tr>
-<tr><td>Redditch Borough Council</td><td>252,162</td></tr>
-<tr><td>Reigate and Banstead Borough Council</td><td>309,035</td></tr>
-<tr><td>Ribble Valley Borough Council</td><td>92,377</td></tr>
-<tr><td>London Borough of Richmond upon Thames</td><td>484,871</td></tr>
-<tr><td>Rochdale Borough Council</td><td>879,897</td></tr>
-<tr><td>Rochford District Council</td><td>145,810</td></tr>
-<tr><td>Rossendale Borough Council</td><td>197,127</td></tr>
-<tr><td>Rother District Council</td><td>259,244</td></tr>
-<tr><td>Rotherham Borough Council</td><td>919,858</td></tr>
-<tr><td>Rugby Borough Council</td><td>238,394</td></tr>
-<tr><td>Runnymede Borough Council</td><td>178,073</td></tr>
-<tr><td>Rushcliffe Borough Council</td><td>184,514</td></tr>
-<tr><td>Rushmoor Borough Council</td><td>285,738</td></tr>
-<tr><td>Rutland County Council</td><td>73,346</td></tr>
-<tr><td>Salford City Council</td><td>1,187,209</td></tr>
-<tr><td>Sandwell Metropolitan Borough Council</td><td>1,161,275</td></tr>
-<tr><td>Sefton Metropolitan Borough Council</td><td>1,023,200</td></tr>
-<tr><td>Sevenoaks District Council</td><td>250,131</td></tr>
-<tr><td>Sheffield City Council</td><td>2,005,302</td></tr>
-<tr><td>Shropshire Council</td><td>719,302</td></tr>
-<tr><td>Slough Borough Council</td><td>507,453</td></tr>
-<tr><td>Solihull Metropolitan Borough Council</td><td>535,120</td></tr>
-<tr><td>Somerset Council</td><td>1,524,673</td></tr>
-<tr><td>South Cambridgeshire District Council</td><td>291,522</td></tr>
-<tr><td>South Derbyshire District Council</td><td>183,769</td></tr>
-<tr><td>South Gloucestershire Council</td><td>500,308</td></tr>
-<tr><td>South Hams District Council</td><td>209,496</td></tr>
-<tr><td>South Holland District Council</td><td>193,697</td></tr>
-<tr><td>South Kesteven District Council</td><td>317,015</td></tr>
-<tr><td>South Norfolk District Council</td><td>261,776</td></tr>
-<tr><td>South Oxfordshire District Council</td><td>245,188</td></tr>
-<tr><td>South Ribble Borough Council</td><td>220,430</td></tr>
-<tr><td>South Staffordshire District Council</td><td>233,612</td></tr>
-<tr><td>South Tyneside Council</td><td>752,717</td></tr>
-<tr><td>Southampton City Council</td><td>981,406</td></tr>
-<tr><td>Southend-on-Sea City Council</td><td>677,833</td></tr>
-<tr><td>London Borough of Southwark</td><td>1,968,200</td></tr>
-<tr><td>Spelthorne Borough Council</td><td>234,185</td></tr>
-<tr><td>St Albans District Council</td><td>278,504</td></tr>
-<tr><td>St Helens Borough Council</td><td>689,428</td></tr>
-<tr><td>Stafford Borough Council</td><td>262,194</td></tr>
-<tr><td>Staffordshire Moorlands District Council</td><td>169,213</td></tr>
-<tr><td>Stevenage Borough Council</td><td>292,537</td></tr>
-<tr><td>Stockport Borough Council</td><td>741,802</td></tr>
-<tr><td>Stockton-on-Tees Borough Council</td><td>657,685</td></tr>
-<tr><td>Stoke-on-Trent City Council</td><td>955,837</td></tr>
-<tr><td>Stratford-on-Avon District Council</td><td>270,289</td></tr>
-<tr><td>Stroud District Council</td><td>259,522</td></tr>
-<tr><td>Sunderland City Council</td><td>1,265,287</td></tr>
-<tr><td>Surrey Heath Borough Council</td><td>142,664</td></tr>
-<tr><td>London Borough of Sutton</td><td>645,052</td></tr>
-<tr><td>Swale Borough Council</td><td>450,601</td></tr>
-<tr><td>Swindon Borough Council</td><td>614,102</td></tr>
-<tr><td>Tameside Metropolitan Borough Council</td><td>887,945</td></tr>
-<tr><td>Tamworth Borough Council</td><td>215,578</td></tr>
-<tr><td>Tandridge District Council</td><td>185,839</td></tr>
-<tr><td>Teignbridge District Council</td><td>328,415</td></tr>
-<tr><td>Telford and Wrekin Council</td><td>624,162</td></tr>
-<tr><td>Tendring District Council</td><td>506,017</td></tr>
-<tr><td>Test Valley Borough Council</td><td>258,264</td></tr>
-<tr><td>Tewkesbury Borough Council</td><td>185,076</td></tr>
-<tr><td>Thanet District Council</td><td>568,814</td></tr>
-<tr><td>Three Rivers Council</td><td>201,957</td></tr>
-<tr><td>Thurrock Borough Council</td><td>466,529</td></tr>
-<tr><td>Tonbridge and Malling District Council</td><td>279,338</td></tr>
-<tr><td>Torbay Council</td><td>544,037</td></tr>
-<tr><td>Torridge District Council</td><td>184,048</td></tr>
-<tr><td>London Borough of Tower Hamlets</td><td>2,104,618</td></tr>
-<tr><td>Trafford Metropolitan Borough Council</td><td>610,943</td></tr>
-<tr><td>Tunbridge Wells Borough Council</td><td>265,821</td></tr>
-<tr><td>Uttlesford District Council</td><td>157,728</td></tr>
-<tr><td>Vale of White Horse District Council</td><td>242,887</td></tr>
-<tr><td>Wakefield Council</td><td>1,191,510</td></tr>
-<tr><td>Walsall Borough Council</td><td>978,019</td></tr>
-<tr><td>London Borough of Waltham Forest</td><td>1,029,420</td></tr>
-<tr><td>London Borough of Wandsworth</td><td>1,508,603</td></tr>
-<tr><td>Warrington Borough Council</td><td>563,462</td></tr>
-<tr><td>Warwick District Council</td><td>284,406</td></tr>
-<tr><td>Watford Borough Council</td><td>300,487</td></tr>
-<tr><td>Waverley Borough Council</td><td>237,655</td></tr>
-<tr><td>Wealden District Council</td><td>277,466</td></tr>
-<tr><td>Welwyn Hatfield District Council</td><td>370,287</td></tr>
-<tr><td>West Berkshire Council</td><td>336,017</td></tr>
-<tr><td>West Devon Borough Council</td><td>131,940</td></tr>
-<tr><td>West Lancashire District Council</td><td>294,801</td></tr>
-<tr><td>West Lindsey District Council</td><td>251,109</td></tr>
-<tr><td>West Northamptonshire Council</td><td>912,188</td></tr>
-<tr><td>West Oxfordshire District Council</td><td>210,282</td></tr>
-<tr><td>West Suffolk Council</td><td>404,717</td></tr>
-<tr><td>City of Westminster</td><td>1,576,904</td></tr>
-<tr><td>Westmorland and Furness Council</td><td>501,989</td></tr>
-<tr><td>Wigan Council</td><td>1,018,723</td></tr>
-<tr><td>Wiltshire Council</td><td>1,029,483</td></tr>
-<tr><td>Winchester City Council</td><td>250,881</td></tr>
-<tr><td>Royal Borough of Windsor and Maidenhead</td><td>286,152</td></tr>
-<tr><td>Wirral Borough Council</td><td>1,298,734</td></tr>
-<tr><td>Woking Borough Council</td><td>222,898</td></tr>
-<tr><td>Wokingham District Council</td><td>208,338</td></tr>
-<tr><td>Wolverhampton City Council</td><td>1,022,685</td></tr>
-<tr><td>Worcester City Council</td><td>284,220</td></tr>
-<tr><td>Worthing Borough Council</td><td>333,327</td></tr>
-<tr><td>Wychavon District Council</td><td>275,362</td></tr>
-<tr><td>Wyre Borough Council</td><td>305,435</td></tr>
-<tr><td>Wyre Forest District Council</td><td>305,508</td></tr>
-<tr><td>City of York Council</td><td>403,458</td></tr>
+<tr><td>Adur District Council</td><td>139,434</td></tr>
+<tr><td>Amber Valley Borough Council</td><td>283,355</td></tr>
+<tr><td>Arun District Council</td><td>358,393</td></tr>
+<tr><td>Ashfield District Council</td><td>323,223</td></tr>
+<tr><td>Ashford Borough Council</td><td>296,950</td></tr>
+<tr><td>Babergh District Council</td><td>159,774</td></tr>
+<tr><td>London Borough of Barking and Dagenham</td><td>733,662</td></tr>
+<tr><td>London Borough of Barnet</td><td>1,277,392</td></tr>
+<tr><td>Barnsley Borough Council</td><td>739,570</td></tr>
+<tr><td>Basildon District Council</td><td>515,869</td></tr>
+<tr><td>Basingstoke and Deane District Council</td><td>332,245</td></tr>
+<tr><td>Bassetlaw District Council</td><td>278,022</td></tr>
+<tr><td>Bath and North East Somerset Council</td><td>376,094</td></tr>
+<tr><td>Bedford Borough Council</td><td>440,439</td></tr>
+<tr><td>London Borough of Bexley</td><td>514,523</td></tr>
+<tr><td>Birmingham City Council</td><td>5,464,583</td></tr>
+<tr><td>Blaby District Council</td><td>126,462</td></tr>
+<tr><td>Blackburn with Darwen Borough Council</td><td>439,970</td></tr>
+<tr><td>Blackpool Borough Council</td><td>633,791</td></tr>
+<tr><td>Bolsover District Council</td><td>216,713</td></tr>
+<tr><td>Bolton Metropolitan Borough Council</td><td>874,853</td></tr>
+<tr><td>Boston Borough Council</td><td>167,912</td></tr>
+<tr><td>Bournemouth, Christchurch and Poole Council</td><td>1,070,106</td></tr>
+<tr><td>Bracknell Forest Borough Council</td><td>227,320</td></tr>
+<tr><td>Bradford Metropolitan Borough Council</td><td>1,407,851</td></tr>
+<tr><td>Braintree District Council</td><td>309,069</td></tr>
+<tr><td>Breckland District Council</td><td>288,195</td></tr>
+<tr><td>London Borough of Brent</td><td>1,435,546</td></tr>
+<tr><td>Brentwood District Council</td><td>113,020</td></tr>
+<tr><td>Brighton and Hove Council</td><td>1,024,719</td></tr>
+<tr><td>Bristol City Council</td><td>1,466,542</td></tr>
+<tr><td>Broadland District Council</td><td>182,300</td></tr>
+<tr><td>London Borough of Bromley</td><td>771,589</td></tr>
+<tr><td>Bromsgrove District Council</td><td>146,878</td></tr>
+<tr><td>Broxbourne Borough Council</td><td>221,571</td></tr>
+<tr><td>Broxtowe Council</td><td>213,241</td></tr>
+<tr><td>Buckinghamshire Council</td><td>880,603</td></tr>
+<tr><td>Burnley Borough Council</td><td>311,854</td></tr>
+<tr><td>Bury Metropolitan Borough Council</td><td>476,563</td></tr>
+<tr><td>Calderdale Borough Council</td><td>563,314</td></tr>
+<tr><td>Cambridge City Council</td><td>300,979</td></tr>
+<tr><td>London Borough of Camden</td><td>1,356,555</td></tr>
+<tr><td>Cannock Chase District Council</td><td>229,353</td></tr>
+<tr><td>Canterbury City Council</td><td>347,784</td></tr>
+<tr><td>Castle Point District Council</td><td>155,691</td></tr>
+<tr><td>Central Bedfordshire Council</td><td>496,719</td></tr>
+<tr><td>Charnwood Borough Council</td><td>291,905</td></tr>
+<tr><td>Chelmsford Borough Council</td><td>336,157</td></tr>
+<tr><td>Cheltenham Borough Council</td><td>247,827</td></tr>
+<tr><td>Cherwell District Council</td><td>266,687</td></tr>
+<tr><td>Cheshire East Council</td><td>693,117</td></tr>
+<tr><td>Cheshire West and Chester Council</td><td>798,614</td></tr>
+<tr><td>Chesterfield Borough Council</td><td>347,094</td></tr>
+<tr><td>Chichester District Council</td><td>258,255</td></tr>
+<tr><td>Chorley Borough Council</td><td>234,140</td></tr>
+<tr><td>City of London</td><td>52,793</td></tr>
+<tr><td>Colchester Borough Council</td><td>391,763</td></tr>
+<tr><td>Cornwall Council</td><td>1,523,069</td></tr>
+<tr><td>Cotswold District Council</td><td>155,543</td></tr>
+<tr><td>Coventry City Council</td><td>1,004,613</td></tr>
+<tr><td>Crawley Borough Council</td><td>332,482</td></tr>
+<tr><td>London Borough of Croydon</td><td>1,303,004</td></tr>
+<tr><td>Cumberland Council</td><td>690,816</td></tr>
+<tr><td>Dacorum Borough Council</td><td>376,150</td></tr>
+<tr><td>Darlington Borough Council</td><td>324,262</td></tr>
+<tr><td>Dartford Borough Council</td><td>207,630</td></tr>
+<tr><td>Derby City Council</td><td>739,651</td></tr>
+<tr><td>Derbyshire Dales District Council</td><td>118,114</td></tr>
+<tr><td>Doncaster Metropolitan Borough Council</td><td>908,160</td></tr>
+<tr><td>Dorset Council</td><td>819,746</td></tr>
+<tr><td>Dover District Council</td><td>314,211</td></tr>
+<tr><td>Dudley Metropolitan Borough Council</td><td>780,474</td></tr>
+<tr><td>Durham County Council</td><td>1,789,547</td></tr>
+<tr><td>London Borough of Ealing</td><td>1,373,909</td></tr>
+<tr><td>East Cambridgeshire District Council</td><td>154,359</td></tr>
+<tr><td>East Devon District Council</td><td>272,836</td></tr>
+<tr><td>East Hampshire District Council</td><td>176,657</td></tr>
+<tr><td>East Hertfordshire District Council</td><td>241,187</td></tr>
+<tr><td>East Lindsey District Council</td><td>411,653</td></tr>
+<tr><td>East Riding of Yorkshire Council</td><td>641,528</td></tr>
+<tr><td>East Staffordshire Borough Council</td><td>217,048</td></tr>
+<tr><td>East Suffolk Council</td><td>592,563</td></tr>
+<tr><td>Eastbourne Borough Council</td><td>364,999</td></tr>
+<tr><td>Eastleigh Borough Council</td><td>225,406</td></tr>
+<tr><td>Elmbridge Borough Council</td><td>253,013</td></tr>
+<tr><td>London Borough of Enfield</td><td>1,359,078</td></tr>
+<tr><td>Epping Forest District Council</td><td>266,048</td></tr>
+<tr><td>Epsom and Ewell Borough Council</td><td>135,077</td></tr>
+<tr><td>Erewash Borough Council</td><td>272,177</td></tr>
+<tr><td>Exeter City Council</td><td>335,667</td></tr>
+<tr><td>Fareham Borough Council</td><td>155,047</td></tr>
+<tr><td>Fenland District Council</td><td>254,956</td></tr>
+<tr><td>Folkestone and Hythe District Council</td><td>312,844</td></tr>
+<tr><td>Forest of Dean District Council</td><td>184,101</td></tr>
+<tr><td>Fylde Borough Council</td><td>178,521</td></tr>
+<tr><td>Gateshead Borough Council</td><td>750,920</td></tr>
+<tr><td>Gedling Borough Council</td><td>225,517</td></tr>
+<tr><td>Gloucester City Council</td><td>328,509</td></tr>
+<tr><td>Gosport Borough Council</td><td>210,351</td></tr>
+<tr><td>Gravesham Borough Council</td><td>240,715</td></tr>
+<tr><td>Great Yarmouth Council</td><td>340,583</td></tr>
+<tr><td>Royal Borough of Greenwich</td><td>1,336,566</td></tr>
+<tr><td>Guildford Borough Council</td><td>233,519</td></tr>
+<tr><td>London Borough of Hackney</td><td>2,039,340</td></tr>
+<tr><td>Halton Borough Council</td><td>453,062</td></tr>
+<tr><td>London Borough of Hammersmith and Fulham</td><td>1,006,544</td></tr>
+<tr><td>Harborough District Council</td><td>112,635</td></tr>
+<tr><td>London Borough of Haringey</td><td>1,314,656</td></tr>
+<tr><td>Harlow District Council</td><td>280,668</td></tr>
+<tr><td>Harrow Council</td><td>653,974</td></tr>
+<tr><td>Hart District Council</td><td>103,199</td></tr>
+<tr><td>Hartlepool Borough Council</td><td>396,281</td></tr>
+<tr><td>Hastings Borough Council</td><td>400,824</td></tr>
+<tr><td>Havant Borough Council</td><td>224,163</td></tr>
+<tr><td>London Borough of Havering</td><td>541,264</td></tr>
+<tr><td>Herefordshire Council</td><td>397,950</td></tr>
+<tr><td>Hertsmere Borough Council</td><td>243,786</td></tr>
+<tr><td>High Peak Borough Council</td><td>197,749</td></tr>
+<tr><td>London Borough of Hillingdon</td><td>823,944</td></tr>
+<tr><td>Hinckley and Bosworth Borough Council</td><td>173,293</td></tr>
+<tr><td>Horsham District Council</td><td>228,322</td></tr>
+<tr><td>London Borough of Hounslow</td><td>856,541</td></tr>
+<tr><td>Huntingdonshire District Council</td><td>294,820</td></tr>
+<tr><td>Hyndburn Borough Council</td><td>268,832</td></tr>
+<tr><td>Ipswich Borough Council</td><td>411,377</td></tr>
+<tr><td>Isle of Wight Council</td><td>421,144</td></tr>
+<tr><td>Council of the Isles of Scilly</td><td>1,633</td></tr>
+<tr><td>London Borough of Islington</td><td>1,524,275</td></tr>
+<tr><td>Royal Borough of Kensington and Chelsea</td><td>980,467</td></tr>
+<tr><td>Kings Lynn and West Norfolk Borough Council</td><td>334,941</td></tr>
+<tr><td>Hull City Council</td><td>1,154,817</td></tr>
+<tr><td>Royal Borough of Kingston upon Thames</td><td>397,831</td></tr>
+<tr><td>Kirklees Metropolitan Borough Council</td><td>1,058,351</td></tr>
+<tr><td>Knowsley Borough Council</td><td>646,809</td></tr>
+<tr><td>London Borough of Lambeth</td><td>1,856,729</td></tr>
+<tr><td>Lancaster City Council</td><td>350,747</td></tr>
+<tr><td>Leeds City Council</td><td>2,224,871</td></tr>
+<tr><td>Leicester City Council</td><td>1,003,941</td></tr>
+<tr><td>Lewes District Council</td><td>237,591</td></tr>
+<tr><td>London Borough of Lewisham</td><td>1,540,725</td></tr>
+<tr><td>Lichfield District Council</td><td>172,380</td></tr>
+<tr><td>City of Lincoln Council</td><td>307,359</td></tr>
+<tr><td>Liverpool City Council</td><td>2,379,484</td></tr>
+<tr><td>Luton Borough Council</td><td>573,814</td></tr>
+<tr><td>Maidstone Borough Council</td><td>326,241</td></tr>
+<tr><td>Maldon District Council</td><td>112,736</td></tr>
+<tr><td>Malvern Hills District Council</td><td>151,742</td></tr>
+<tr><td>Manchester City Council</td><td>2,296,060</td></tr>
+<tr><td>Mansfield District Council</td><td>325,803</td></tr>
+<tr><td>Medway Council</td><td>641,746</td></tr>
+<tr><td>Melton Borough Council</td><td>82,727</td></tr>
+<tr><td>London Borough of Merton</td><td>505,429</td></tr>
+<tr><td>Mid Devon District Council</td><td>156,443</td></tr>
+<tr><td>Mid Suffolk District Council</td><td>151,267</td></tr>
+<tr><td>Mid Sussex District Council</td><td>223,390</td></tr>
+<tr><td>Middlesbrough Council</td><td>564,697</td></tr>
+<tr><td>Milton Keynes Borough Council</td><td>733,622</td></tr>
+<tr><td>Mole Valley District Council</td><td>162,247</td></tr>
+<tr><td>New Forest District Council</td><td>325,842</td></tr>
+<tr><td>Newark and Sherwood District Council</td><td>264,506</td></tr>
+<tr><td>Newcastle-Under-Lyme Borough Council</td><td>280,692</td></tr>
+<tr><td>Newcastle City Council</td><td>1,113,692</td></tr>
+<tr><td>London Borough of Newham</td><td>1,565,849</td></tr>
+<tr><td>North Devon District Council</td><td>237,599</td></tr>
+<tr><td>North East Derbyshire District Council</td><td>251,186</td></tr>
+<tr><td>North East Lincolnshire Council</td><td>491,307</td></tr>
+<tr><td>North Hertfordshire District Council</td><td>253,407</td></tr>
+<tr><td>North Kesteven District Council</td><td>187,690</td></tr>
+<tr><td>North Lincolnshire Council</td><td>394,836</td></tr>
+<tr><td>North Norfolk District Council</td><td>245,468</td></tr>
+<tr><td>North Northamptonshire Council</td><td>724,215</td></tr>
+<tr><td>North Somerset Council</td><td>497,591</td></tr>
+<tr><td>North Tyneside Borough Council</td><td>662,822</td></tr>
+<tr><td>North Warwickshire District Council</td><td>126,715</td></tr>
+<tr><td>North West Leicestershire District Council</td><td>172,236</td></tr>
+<tr><td>North Yorkshire Council</td><td>1,204,650</td></tr>
+<tr><td>Northumberland County Council</td><td>835,450</td></tr>
+<tr><td>Norwich City Council</td><td>569,271</td></tr>
+<tr><td>Nottingham City Council</td><td>1,248,736</td></tr>
+<tr><td>Nuneaton and Bedworth Borough Council</td><td>319,487</td></tr>
+<tr><td>Oadby and Wigston Borough Council</td><td>79,454</td></tr>
+<tr><td>Oldham Borough Council</td><td>689,591</td></tr>
+<tr><td>Oxford City Council</td><td>388,814</td></tr>
+<tr><td>Pendle Borough Council</td><td>220,470</td></tr>
+<tr><td>Peterborough City Council</td><td>577,194</td></tr>
+<tr><td>Plymouth City Council</td><td>854,004</td></tr>
+<tr><td>Portsmouth City Council</td><td>804,480</td></tr>
+<tr><td>Preston Borough Council</td><td>410,910</td></tr>
+<tr><td>Reading Borough Council</td><td>474,154</td></tr>
+<tr><td>London Borough of Redbridge</td><td>810,401</td></tr>
+<tr><td>Redcar and Cleveland Borough Council</td><td>478,990</td></tr>
+<tr><td>Redditch Borough Council</td><td>207,786</td></tr>
+<tr><td>Reigate and Banstead Borough Council</td><td>264,799</td></tr>
+<tr><td>Ribble Valley Borough Council</td><td>73,717</td></tr>
+<tr><td>London Borough of Richmond upon Thames</td><td>424,410</td></tr>
+<tr><td>Rochdale Borough Council</td><td>752,275</td></tr>
+<tr><td>Rochford District Council</td><td>121,760</td></tr>
+<tr><td>Rossendale Borough Council</td><td>170,714</td></tr>
+<tr><td>Rother District Council</td><td>221,356</td></tr>
+<tr><td>Rotherham Borough Council</td><td>813,583</td></tr>
+<tr><td>Rugby Borough Council</td><td>190,783</td></tr>
+<tr><td>Runnymede Borough Council</td><td>147,612</td></tr>
+<tr><td>Rushcliffe Borough Council</td><td>156,471</td></tr>
+<tr><td>Rushmoor Borough Council</td><td>259,781</td></tr>
+<tr><td>Rutland County Council</td><td>55,594</td></tr>
+<tr><td>Salford City Council</td><td>1,064,777</td></tr>
+<tr><td>Sandwell Metropolitan Borough Council</td><td>1,034,505</td></tr>
+<tr><td>Sefton Metropolitan Borough Council</td><td>888,107</td></tr>
+<tr><td>Sevenoaks District Council</td><td>217,483</td></tr>
+<tr><td>Sheffield City Council</td><td>1,768,265</td></tr>
+<tr><td>Shropshire Council</td><td>655,570</td></tr>
+<tr><td>Slough Borough Council</td><td>406,585</td></tr>
+<tr><td>Solihull Metropolitan Borough Council</td><td>447,845</td></tr>
+<tr><td>Somerset Council</td><td>1,251,926</td></tr>
+<tr><td>South Cambridgeshire District Council</td><td>228,589</td></tr>
+<tr><td>South Derbyshire District Council</td><td>156,301</td></tr>
+<tr><td>South Gloucestershire Council</td><td>440,852</td></tr>
+<tr><td>South Hams District Council</td><td>184,657</td></tr>
+<tr><td>South Holland District Council</td><td>161,462</td></tr>
+<tr><td>South Kesteven District Council</td><td>270,917</td></tr>
+<tr><td>South Norfolk District Council</td><td>224,938</td></tr>
+<tr><td>South Oxfordshire District Council</td><td>206,764</td></tr>
+<tr><td>South Ribble Borough Council</td><td>181,882</td></tr>
+<tr><td>South Staffordshire District Council</td><td>205,748</td></tr>
+<tr><td>South Tyneside Council</td><td>666,320</td></tr>
+<tr><td>Southampton City Council</td><td>827,021</td></tr>
+<tr><td>Southend-on-Sea Borough Council</td><td>567,642</td></tr>
+<tr><td>London Borough of Southwark</td><td>1,748,278</td></tr>
+<tr><td>Spelthorne Borough Council</td><td>199,254</td></tr>
+<tr><td>St Albans District Council</td><td>233,066</td></tr>
+<tr><td>St Helens Borough Council</td><td>592,243</td></tr>
+<tr><td>Stafford Borough Council</td><td>228,786</td></tr>
+<tr><td>Staffordshire Moorlands District Council</td><td>142,378</td></tr>
+<tr><td>Stevenage Borough Council</td><td>248,806</td></tr>
+<tr><td>Stockport Borough Council</td><td>643,678</td></tr>
+<tr><td>Stockton-on-Tees Borough Council</td><td>553,127</td></tr>
+<tr><td>Stoke-on-Trent City Council</td><td>842,675</td></tr>
+<tr><td>Stratford-on-Avon District Council</td><td>233,823</td></tr>
+<tr><td>Stroud District Council</td><td>216,697</td></tr>
+<tr><td>Sunderland City Council</td><td>1,122,884</td></tr>
+<tr><td>Surrey Heath Borough Council</td><td>120,480</td></tr>
+<tr><td>London Borough of Sutton</td><td>535,925</td></tr>
+<tr><td>Swale Borough Council</td><td>371,169</td></tr>
+<tr><td>Swindon Borough Council</td><td>526,080</td></tr>
+<tr><td>Tameside Metropolitan Borough Council</td><td>762,755</td></tr>
+<tr><td>Tamworth Borough Council</td><td>178,181</td></tr>
+<tr><td>Tandridge District Council</td><td>155,734</td></tr>
+<tr><td>Teignbridge District Council</td><td>288,551</td></tr>
+<tr><td>Telford and Wrekin Council</td><td>560,008</td></tr>
+<tr><td>Tendring District Council</td><td>438,175</td></tr>
+<tr><td>Test Valley Borough Council</td><td>218,258</td></tr>
+<tr><td>Tewkesbury Borough Council</td><td>151,332</td></tr>
+<tr><td>Thanet District Council</td><td>477,464</td></tr>
+<tr><td>Three Rivers Council</td><td>169,602</td></tr>
+<tr><td>Thurrock Borough Council</td><td>399,104</td></tr>
+<tr><td>Tonbridge and Malling District Council</td><td>242,341</td></tr>
+<tr><td>Torbay Council</td><td>465,590</td></tr>
+<tr><td>Torridge District Council</td><td>155,259</td></tr>
+<tr><td>London Borough of Tower Hamlets</td><td>1,797,888</td></tr>
+<tr><td>Trafford Metropolitan Borough Council</td><td>516,999</td></tr>
+<tr><td>Tunbridge Wells Borough Council</td><td>226,201</td></tr>
+<tr><td>Uttlesford District Council</td><td>134,899</td></tr>
+<tr><td>Vale of White Horse District Council</td><td>205,797</td></tr>
+<tr><td>Wakefield Council</td><td>1,073,923</td></tr>
+<tr><td>Walsall Borough Council</td><td>847,538</td></tr>
+<tr><td>London Borough of Waltham Forest</td><td>865,136</td></tr>
+<tr><td>London Borough of Wandsworth</td><td>1,335,428</td></tr>
+<tr><td>Warrington Borough Council</td><td>475,902</td></tr>
+<tr><td>Warwick District Council</td><td>252,529</td></tr>
+<tr><td>Watford Borough Council</td><td>246,194</td></tr>
+<tr><td>Waverley Borough Council</td><td>211,995</td></tr>
+<tr><td>Wealden District Council</td><td>236,555</td></tr>
+<tr><td>Welwyn Hatfield District Council</td><td>318,085</td></tr>
+<tr><td>West Berkshire Council</td><td>293,291</td></tr>
+<tr><td>West Devon Borough Council</td><td>109,584</td></tr>
+<tr><td>West Lancashire District Council</td><td>255,991</td></tr>
+<tr><td>West Lindsey District Council</td><td>213,381</td></tr>
+<tr><td>West Northamptonshire Council</td><td>771,832</td></tr>
+<tr><td>West Oxfordshire District Council</td><td>175,454</td></tr>
+<tr><td>West Suffolk Council</td><td>347,897</td></tr>
+<tr><td>City of Westminster</td><td>1,469,906</td></tr>
+<tr><td>Westmorland and Furness Council</td><td>429,924</td></tr>
+<tr><td>Wigan Council</td><td>899,833</td></tr>
+<tr><td>Wiltshire Council</td><td>895,439</td></tr>
+<tr><td>Winchester City Council</td><td>219,457</td></tr>
+<tr><td>Royal Borough of Windsor and Maidenhead</td><td>240,919</td></tr>
+<tr><td>Wirral Borough Council</td><td>1,127,673</td></tr>
+<tr><td>Woking Borough Council</td><td>188,604</td></tr>
+<tr><td>Wokingham District Council</td><td>172,685</td></tr>
+<tr><td>Wolverhampton City Council</td><td>869,413</td></tr>
+<tr><td>Worcester City Council</td><td>235,202</td></tr>
+<tr><td>Worthing Borough Council</td><td>280,166</td></tr>
+<tr><td>Wychavon District Council</td><td>240,197</td></tr>
+<tr><td>Wyre Borough Council</td><td>267,936</td></tr>
+<tr><td>Wyre Forest District Council</td><td>264,837</td></tr>
+<tr><td>City of York Council</td><td>337,687</td></tr>
 <tr><th colspan="2">Wales</th></tr>
-<tr><td>Blaenau Gwent County Borough Council</td><td>340,407</td></tr>
-<tr><td>Bridgend County Borough Council</td><td>494,803</td></tr>
-<tr><td>Caerphilly County Borough Council</td><td>689,507</td></tr>
-<tr><td>Cardiff City Council</td><td>1,371,368</td></tr>
-<tr><td>Carmarthenshire County Council</td><td>561,895</td></tr>
-<tr><td>Ceredigion Council</td><td>211,832</td></tr>
-<tr><td>Conwy County Borough Council</td><td>420,006</td></tr>
-<tr><td>Denbighshire County Council</td><td>379,369</td></tr>
-<tr><td>Flintshire County Council</td><td>438,759</td></tr>
-<tr><td>Gwynedd Council</td><td>351,929</td></tr>
-<tr><td>Isle of Anglesey County Council</td><td>226,283</td></tr>
-<tr><td>Merthyr Tydfil Borough Council</td><td>237,984</td></tr>
-<tr><td>Monmouthshire County Council</td><td>245,751</td></tr>
-<tr><td>Neath Port Talbot County Borough Council</td><td>629,102</td></tr>
-<tr><td>Newport City Council</td><td>611,268</td></tr>
-<tr><td>Pembrokeshire County Council</td><td>394,186</td></tr>
-<tr><td>Powys County Council</td><td>356,333</td></tr>
-<tr><td>Rhondda-Cynon-Taff County Borough Council</td><td>833,755</td></tr>
-<tr><td>Swansea City Council</td><td>952,972</td></tr>
-<tr><td>Torfaen Borough Council</td><td>413,585</td></tr>
-<tr><td>Vale of Glamorgan Council</td><td>388,561</td></tr>
-<tr><td>Wrexham County Borough Council</td><td>475,173</td></tr>
+<tr><td>Blaenau Gwent County Borough Council</td><td>293,453</td></tr>
+<tr><td>Bridgend County Borough Council</td><td>426,168</td></tr>
+<tr><td>Caerphilly County Borough Council</td><td>612,364</td></tr>
+<tr><td>Cardiff City Council</td><td>1,157,889</td></tr>
+<tr><td>Carmarthenshire County Council</td><td>496,728</td></tr>
+<tr><td>Ceredigion Council</td><td>178,207</td></tr>
+<tr><td>Conwy County Borough Council</td><td>362,180</td></tr>
+<tr><td>Denbighshire County Council</td><td>323,561</td></tr>
+<tr><td>Flintshire County Council</td><td>373,013</td></tr>
+<tr><td>Gwynedd Council</td><td>309,171</td></tr>
+<tr><td>Isle of Anglesey County Council</td><td>191,397</td></tr>
+<tr><td>Merthyr Tydfil Borough Council</td><td>204,273</td></tr>
+<tr><td>Monmouthshire County Council</td><td>208,940</td></tr>
+<tr><td>Neath Port Talbot County Borough Council</td><td>535,376</td></tr>
+<tr><td>Newport City Council</td><td>513,706</td></tr>
+<tr><td>Pembrokeshire County Council</td><td>336,385</td></tr>
+<tr><td>Powys County Council</td><td>320,705</td></tr>
+<tr><td>Rhondda-Cynon-Taff County Borough Council</td><td>715,878</td></tr>
+<tr><td>Swansea City Council</td><td>821,663</td></tr>
+<tr><td>Torfaen Borough Council</td><td>346,626</td></tr>
+<tr><td>Vale of Glamorgan Council</td><td>332,216</td></tr>
+<tr><td>Wrexham County Borough Council</td><td>412,542</td></tr>
 <tr><th colspan="2">Scotland</th></tr>
-<tr><td>Aberdeen City Council</td><td>694,211</td></tr>
-<tr><td>Aberdeenshire Council</td><td>487,618</td></tr>
-<tr><td>Angus Council</td><td>378,762</td></tr>
-<tr><td>Argyll and Bute Council</td><td>298,092</td></tr>
-<tr><td>Clackmannanshire Council</td><td>243,760</td></tr>
-<tr><td>Comhairle Nan Eilean Siar Council</td><td>72,781</td></tr>
-<tr><td>Dumfries and Galloway Council</td><td>578,247</td></tr>
-<tr><td>Dundee City Council</td><td>827,365</td></tr>
-<tr><td>East Ayrshire Council</td><td>528,436</td></tr>
-<tr><td>East Dunbartonshire Council</td><td>223,360</td></tr>
-<tr><td>East Lothian District Council</td><td>351,145</td></tr>
-<tr><td>East Renfrewshire Council</td><td>199,796</td></tr>
-<tr><td>City of Edinburgh Council</td><td>1,775,114</td></tr>
-<tr><td>Falkirk District Council</td><td>597,534</td></tr>
-<tr><td>Fife Council</td><td>1,421,133</td></tr>
-<tr><td>Glasgow City Council</td><td>4,055,105</td></tr>
-<tr><td>Highland Council</td><td>707,899</td></tr>
-<tr><td>Inverclyde District Council</td><td>420,008</td></tr>
-<tr><td>Midlothian Council</td><td>311,951</td></tr>
-<tr><td>Moray Council</td><td>256,430</td></tr>
-<tr><td>North Ayrshire Council</td><td>703,196</td></tr>
-<tr><td>North Lanarkshire Council</td><td>1,477,341</td></tr>
-<tr><td>Orkney Islands Council</td><td>64,869</td></tr>
-<tr><td>Perth and Kinross Council</td><td>388,219</td></tr>
-<tr><td>Renfrewshire Council</td><td>735,556</td></tr>
-<tr><td>Scottish Borders Council</td><td>387,069</td></tr>
-<tr><td>Shetland Islands Council</td><td>60,695</td></tr>
-<tr><td>South Ayrshire Council</td><td>463,365</td></tr>
-<tr><td>South Lanarkshire Council</td><td>1,208,944</td></tr>
-<tr><td>Stirling Council</td><td>292,591</td></tr>
-<tr><td>West Dunbartonshire Council</td><td>475,688</td></tr>
-<tr><td>West Lothian Council</td><td>722,186</td></tr>
+<tr><td>Aberdeen City Council</td><td>620,775</td></tr>
+<tr><td>Aberdeenshire Council</td><td>434,133</td></tr>
+<tr><td>Angus Council</td><td>326,104</td></tr>
+<tr><td>Argyll and Bute Council</td><td>266,833</td></tr>
+<tr><td>Clackmannanshire Council</td><td>203,397</td></tr>
+<tr><td>Comhairle Nan Eilean Siar Council</td><td>56,070</td></tr>
+<tr><td>Dumfries and Galloway Council</td><td>515,372</td></tr>
+<tr><td>Dundee City Council</td><td>721,529</td></tr>
+<tr><td>East Ayrshire Council</td><td>455,660</td></tr>
+<tr><td>East Dunbartonshire Council</td><td>187,768</td></tr>
+<tr><td>East Lothian District Council</td><td>293,800</td></tr>
+<tr><td>East Renfrewshire Council</td><td>172,265</td></tr>
+<tr><td>City of Edinburgh Council</td><td>1,606,295</td></tr>
+<tr><td>Falkirk District Council</td><td>526,777</td></tr>
+<tr><td>Fife Council</td><td>1,216,282</td></tr>
+<tr><td>Glasgow City Council</td><td>3,675,389</td></tr>
+<tr><td>Highland Council</td><td>619,983</td></tr>
+<tr><td>Inverclyde District Council</td><td>356,526</td></tr>
+<tr><td>Midlothian Council</td><td>265,602</td></tr>
+<tr><td>Moray Council</td><td>219,556</td></tr>
+<tr><td>North Ayrshire Council</td><td>612,403</td></tr>
+<tr><td>North Lanarkshire Council</td><td>1,323,439</td></tr>
+<tr><td>Orkney Islands Council</td><td>45,474</td></tr>
+<tr><td>Perth and Kinross Council</td><td>342,895</td></tr>
+<tr><td>Renfrewshire Council</td><td>653,164</td></tr>
+<tr><td>Scottish Borders Council</td><td>344,060</td></tr>
+<tr><td>Shetland Islands Council</td><td>42,131</td></tr>
+<tr><td>South Ayrshire Council</td><td>393,838</td></tr>
+<tr><td>South Lanarkshire Council</td><td>1,074,391</td></tr>
+<tr><td>Stirling Council</td><td>242,468</td></tr>
+<tr><td>West Dunbartonshire Council</td><td>462,658</td></tr>
+<tr><td>West Lothian Council</td><td>636,000</td></tr>
 </tbody>
 </table>
 
@@ -1228,24 +1228,23 @@ Article 12(1)(ba)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1ZB — Additional amount of subsidy: Verify Earnings and Pension Alerts Service[^c-16c7c08dcd134b1f59748e66f5040dab]
+## SCHEDULE 1ZB — Additional amount of subsidy: Verify Earnings and Pension Alerts Service[^c-ab5e6bacf41392047d81953e6cd89abe]
+
+**No longer in force.**
 
 Article 12(1)(bza)
 
-### 1. Interpretation
+### 1. Interpretation[^c-ab5e6bacf41392047d81953e6cd89abe]
 
-In this Schedule—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- “**relevant activities**” means activities carried out by authorities receiving VEP alerts to administer those alerts;
-- “**VEP alerts**” means alerts given by the Secretary of State enabling authorities to identify changes in earnings and pensions so as to help prevent fraud and error relating to housing benefit.
+### 2. Additional amount: relevant year beginning with 1st April 2024[^c-ab5e6bacf41392047d81953e6cd89abe]
 
-### 2. Additional amount: relevant year beginning with 1st April 2024[^c-1d3fea72511b5c92960ab5a37ebfd485]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-The additional amount of subsidy for an authority for the relevant year beginning with 1st April 2024[^c-644924335700a85da25eb452c5443672] is the sum of the amounts[^c-f8a6f2cb39a203011d8deb4bc89e7984] specified for that authority in the Housing Benefit Circular HB S6/2024 first published by the Department for Work and Pensions on 23rd April 2024[^c-b133cc7e230271c48af75f496a2ef122] and in the Housing Benefit Circular HB S8/2024 first published by the Department for Work and Pensions on 20th December 2024[^c-49e7788f17316eeecb46131dc076b046].
+### 3. Use of amount paid under paragraph 2[^c-ab5e6bacf41392047d81953e6cd89abe]
 
-### 3. Use of amount paid under paragraph 2
-
-An authority must use the additional amount received under paragraph 2 in connection with relevant activities.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 1ZC — Additional amount of subsidy: Housing Benefit Award Accuracy Initiative[^c-8b13d3a12beb19a402aef7388451524c]
 
@@ -1255,12 +1254,12 @@ Article 12(1)(bzb)
 
 In this Schedule—
 
-- “**HBAAI**” means the Housing Benefit Award Accuracy Initiative set out in Housing Benefit Circular HB A5/2024 first published by the Department for Work and Pensions on 23rd April 2024[^c-7b8663fbe005cb6ee3a621cbe34b3248];
+- “**HBAAI**” means the Housing Benefit Award Accuracy Initiative set out in Housing Benefit Circular HB A7/2025 first published by the Department for Work and Pensions on 24th April 2025[^c-bd42e9c078445ba68a691325e9f9edc3];
 - “**relevant activities**” means activities carried out by authorities in connection with administering the HBAAI.
 
-### 2. Additional amount: relevant year beginning with 1st April 2024[^c-36e87c945c924d426d4403152767dee9]
+### 2. Additional amount: relevant year beginning with 1st April 2025[^c-668d2693ef08b69029d902ec7def3f16]
 
-The additional amount of subsidy for an authority for the relevant year beginning with 1st April 2024[^c-fdd3b1ee70540e5a8d32cecba5538bff] is the amount (if any) specified for that authority in the Housing Benefit Circular HB S5/2024 first published by the Department for Work and Pensions on 23rd April 2024[^c-e6ddf502e677a795a3518e1cfd0be197].
+The additional amount of subsidy for an authority for the relevant year beginning with 1st April 2025[^c-dae5357215427d87674364f38badbb4d] is the amount (if any) specified for that authority in the Housing Benefit Circular HB S4/2025 first published by the Department for Work and Pensions on 24th April 2025[^c-59d54f058c340565e9dff561a4e9db2b].
 
 ### 3. Use of amount paid under paragraph 2
 
@@ -1553,25 +1552,25 @@ In this Schedule—
     - (iv) multiply the result of paragraph (b)(ii) by the result of paragraph (b)(iii);
     - (v) multiply the amount of the subsidy (apart from any deduction to be calculated under this Schedule) by the result of paragraph (b)(iv).
 
-(2) The rebate proportion for the purposes of sub-paragraph (1) for the relevant year beginning with 1st April 2025 is 0.369[^c-e2b6a4e3a80ae421f28aded1357fb95a].
+(2) The rebate proportion for the purposes of sub-paragraph (1) for the relevant year beginning with 1st April 2026 is 0.332[^c-28725bc58d36980a684631ec48c12a88].
 
-### 4. Amounts for the purposes of paragraph 2[^c-de6182dcf999fc9b2bd12d1c7cd4f991]
+### 4. Amounts for the purposes of paragraph 2[^c-90fac21d9f42f57ef54fe3afc5ed7dee]
 
-The amounts for the relevant year beginning on 1st April 2025 for the purposes of paragraph 2 are as follows—
+The amounts for the relevant year beginning on 1st April 2026 for the purposes of paragraph 2 are as follows—
 
 | Local authority | (1) Specified amount “**O**” (£) | (2) Guideline rent increase “**P**” (£) |
 | --- | --- | --- |
-| Caerphilly County Borough Council | 121.35 | 3.58 |
-| Cardiff City Council | 136.94 | 3.78 |
-| Carmarthenshire County Council | 120.50 | 3.41 |
-| Denbighshire County Council | 121.63 | 3.18 |
-| Flintshire County Council | 127.12 | 5.04 |
-| Isle of Anglesey County Council | 122.29 | 4.96 |
-| Pembrokeshire County Council | 123.35 | 4.51 |
-| Powys County Council | 124.51 | 3.83 |
-| Swansea City Council | 122.24 | 3.01 |
-| Vale of Glamorgan Council | 135.42 | 5.18 |
-| Wrexham County Borough Council | 125.17 | 3.64 |
+| Caerphilly County Borough Council | 124.93 | 4.74 |
+| Cardiff City Council | 140.72 | 5.59 |
+| Carmarthenshire County Council | 123.91 | 4.71 |
+| Denbighshire County Council | 124.81 | 4.83 |
+| Flintshire County Council | 132.16 | 5.29 |
+| Isle of Anglesey County Council | 127.25 | 6.37 |
+| Pembrokeshire County Council | 127.86 | 4.86 |
+| Powys County Council | 128.34 | 5.19 |
+| Swansea City Council | 125.25 | 4.92 |
+| Vale of Glamorgan Council | 140.60 | 5.63 |
+| Wrexham County Borough Council | 128.81 | 4.90 |
 
 ## SCHEDULE 5 — BENEFIT SAVINGS[^c-d1c82a27485050c2bea5a55728cb769a]
 
@@ -1736,7 +1735,7 @@ This Order does not impose a charge on businesses.
 
 [^c-f8661cd138f91879bbaa7846d5ace2f5]: Textual amendment: Words in art. 2 inserted (with effect in accordance with art. 1(4) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2018 (S.I. 2018/985)](https://www.legislation.gov.uk/uksi/2018/985), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/985/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2018/985/article/5/1)
 
-[^c-ed8382cbf6a8dfe9cc270474984c5498]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1998/562/article/2) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/1077/article/3)
+[^c-eb121d51cf13ddf35f546663fcfccb59]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1998/562/article/2) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/1079/article/3)
 
 [^c-7a8d81a32fc5d01ab374f9d3581a7313]: Textual amendment: Words in art. 2 omitted (14.12.1998) by virtue of [The Income-related Benefits (Subsidy to Authorities) Amendment Order 1998 (S.I. 1998/2865)](https://www.legislation.gov.uk/uksi/1998/2865) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/1998/2865/article/1/1) , [2](https://www.legislation.gov.uk/uksi/1998/2865/article/2)
 
@@ -1892,7 +1891,7 @@ This Order does not impose a charge on businesses.
 
 [^c-66be73318c0f0a24b95714419478c1ec]: Textual amendment: Words in [art. 12(1)(b)](https://www.legislation.gov.uk/uksi/1998/562/article/12/1/b) substituted (31.10.2021) by [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2021/1031/schedule/5/paragraph/7)
 
-[^c-4dc28882665af1dc4342ce198c6346e9]: Textual amendment: [Art. 12(1)(bza)](https://www.legislation.gov.uk/uksi/1998/562/article/12/1/bza) inserted (with effect in accordance with art. 1(3) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2018 (S.I. 2018/985)](https://www.legislation.gov.uk/uksi/2018/985), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/985/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2018/985/article/3/1/a)
+[^c-d5036c46fd7a9992f46a89084f9b2e40]: Textual amendment: [Art. 12(1)(bza)](https://www.legislation.gov.uk/uksi/1998/562/article/12/1/bza) omitted (with application in accordance with art. 2(3) of the amending S.I.) by virtue of [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/4/1)
 
 [^c-44651cc873dfeeed98f87fa2bcd1f8a6]: Textual amendment: [Art. 12(bzb)](https://www.legislation.gov.uk/uksi/1998/562/article/12/bzb) inserted (with effect in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/4/1)
 
@@ -2204,33 +2203,23 @@ This Order does not impose a charge on businesses.
 
 [^c-f0510937e7ef958d0909f7f8e98e108f]: Textual amendment: Art. 23(2) omitted (with effect in accordance with art. 1(3) of the commencing S.I.) by virtue of [Income-related Benefits (Subsidy to Authorities) (Miscellaneous Amendments and Electronic Communications) Order 2007 (S.I. 2007/26)](https://www.legislation.gov.uk/uksi/2007/26), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/26/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/26/article/3/2)
 
-[^c-90f72e7150abde4dda407fbecafed275]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1998/562/schedule/1) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1077/schedule)
+[^c-88c6db682cc4b412877d0c03c120c0c9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1998/562/schedule/1) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1079/schedule)
 
 [^c-85e78b198a934a5982ffd82ef081a37a]: Textual amendment: Sch. 1A omitted (26.10.2017) by virtue of [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2017 (S.I. 2017/900)](https://www.legislation.gov.uk/uksi/2017/900), [art. 2(5)](https://www.legislation.gov.uk/uksi/2017/900/article/2/5), [reg. 1](https://www.legislation.gov.uk/uksi/2017/900/regulation/1)
 
 [^c-f30848eeb428f4e832c66f2ffb6e16c7]: Textual amendment: Sch. 1ZA omitted (with effect in accordance with art. 1(4) of the amending S.I.) by virtue of [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2018 (S.I. 2018/985)](https://www.legislation.gov.uk/uksi/2018/985), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/985/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/985/article/3/4)
 
-[^c-16c7c08dcd134b1f59748e66f5040dab]: Textual amendment: [Sch. 1ZB](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZB) substituted (6.11.2023) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2023 (S.I. 2023/1040)](https://www.legislation.gov.uk/uksi/2023/1040), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1040/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1040/schedule/2)
-
-[^c-1d3fea72511b5c92960ab5a37ebfd485]: Textual amendment: Words in [Sch. 1ZB para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZB/paragraph/2) heading substituted (with effect in accordance with art. 2(4) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2024 (S.I. 2024/1092)](https://www.legislation.gov.uk/uksi/2024/1092), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1092/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2024/1092/article/7/a)
-
-[^c-644924335700a85da25eb452c5443672]: Textual amendment: Words in [Sch. 1ZB para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZB/paragraph/2) substituted (with effect in accordance with art. 2(4) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2024 (S.I. 2024/1092)](https://www.legislation.gov.uk/uksi/2024/1092), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1092/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2024/1092/article/7/b)
-
-[^c-f8a6f2cb39a203011d8deb4bc89e7984]: Textual amendment: Words in [Sch. 1ZB para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZB/paragraph/2) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2025/1077/article/6/a)
-
-[^c-b133cc7e230271c48af75f496a2ef122]: Textual amendment: Words in [Sch. 1ZB para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZB/paragraph/2) substituted (with effect in accordance with art. 2(4) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2024 (S.I. 2024/1092)](https://www.legislation.gov.uk/uksi/2024/1092), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1092/article/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2024/1092/article/7/c)
-
-[^c-49e7788f17316eeecb46131dc076b046]: Textual amendment: Words in [Sch. 1ZB para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZB/paragraph/2) inserted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2025/1077/article/6/b)
+[^c-ab5e6bacf41392047d81953e6cd89abe]: Textual amendment: [Sch. 1ZB](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZB) omitted (with application in accordance with art. 2(3) of the amending S.I.) by virtue of [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/1079/article/4/2)
 
 [^c-8b13d3a12beb19a402aef7388451524c]: Textual amendment: [Sch. 1ZC](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZC) substituted (6.11.2023) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2023 (S.I. 2023/1040)](https://www.legislation.gov.uk/uksi/2023/1040), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1040/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1040/schedule/3)
 
-[^c-7b8663fbe005cb6ee3a621cbe34b3248]: Textual amendment: Words in [Sch. 1ZC para. 1](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZC/paragraph/1) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2025/1077/article/7/a)
+[^c-bd42e9c078445ba68a691325e9f9edc3]: Textual amendment: Words in [Sch. 1ZC para. 1](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZC/paragraph/1) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2026/1079/article/6/a)
 
-[^c-36e87c945c924d426d4403152767dee9]: Textual amendment: Words in [Sch. 1ZC para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZC/paragraph/2) heading substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [7(b)(i)](https://www.legislation.gov.uk/uksi/2025/1077/article/7/b/i)
+[^c-668d2693ef08b69029d902ec7def3f16]: Textual amendment: Words in [Sch. 1ZC para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZC/paragraph/2) heading substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2026/1079/article/6/b/i)
 
-[^c-fdd3b1ee70540e5a8d32cecba5538bff]: Textual amendment: Words in [Sch. 1ZC para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZC/paragraph/2) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1077/article/7/b/ii)
+[^c-dae5357215427d87674364f38badbb4d]: Textual amendment: Words in [Sch. 1ZC para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZC/paragraph/2) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1079/article/6/b/ii)
 
-[^c-e6ddf502e677a795a3518e1cfd0be197]: Textual amendment: Words in [Sch. 1ZC para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZC/paragraph/2) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [7(b)(iii)](https://www.legislation.gov.uk/uksi/2025/1077/article/7/b/iii)
+[^c-59d54f058c340565e9dff561a4e9db2b]: Textual amendment: Words in [Sch. 1ZC para. 2](https://www.legislation.gov.uk/uksi/1998/562/schedule/1ZC/paragraph/2) substituted (with application in accordance with art. 2(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2026/1079/article/6/b/iii)
 
 [^c-44c20d7ff59a15834502c18b55a925dd]: Textual amendment: Sch. 2 omitted (with effect in accordance with art. 1(2) of the commencing S.I.) by virtue of [Income-related Benefits (Subsidy to Authorities) Amendment Order 2006 (S.I. 2006/54)](https://www.legislation.gov.uk/uksi/2006/54) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/54/article/1/1) , [4(2)](https://www.legislation.gov.uk/uksi/2006/54/article/4/2)
 
@@ -2322,9 +2311,9 @@ This Order does not impose a charge on businesses.
 
 [^c-856969c3b5dbe58abc9d67578dc2c6f9]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/1998/562/schedule/4A) substituted (6.11.2023) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2023 (S.I. 2023/1040)](https://www.legislation.gov.uk/uksi/2023/1040), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1040/article/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2023/1040/schedule/4)
 
-[^c-e2b6a4e3a80ae421f28aded1357fb95a]: Textual amendment: Words in [Sch. 4A para. 3(2)](https://www.legislation.gov.uk/uksi/1998/562/schedule/4A/paragraph/3/2) substituted (with application in accordance with art. 2(3) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2025/1077/article/8/a)
+[^c-28725bc58d36980a684631ec48c12a88]: Textual amendment: Words in [Sch. 4A para. 3(2)](https://www.legislation.gov.uk/uksi/1998/562/schedule/4A/paragraph/3/2) substituted (with application in accordance with art. 2(4) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2026/1079/article/7/a)
 
-[^c-de6182dcf999fc9b2bd12d1c7cd4f991]: Textual amendment: [Sch. 4A para. 4](https://www.legislation.gov.uk/uksi/1998/562/schedule/4A/paragraph/4) substituted (with application in accordance with art. 2(3) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2025 (S.I. 2025/1077)](https://www.legislation.gov.uk/uksi/2025/1077), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1077/article/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2025/1077/article/8/b)
+[^c-90fac21d9f42f57ef54fe3afc5ed7dee]: Textual amendment: [Sch. 4A para. 4](https://www.legislation.gov.uk/uksi/1998/562/schedule/4A/paragraph/4) substituted (with application in accordance with art. 2(4) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026 (S.I. 2026/1079)](https://www.legislation.gov.uk/uksi/2026/1079), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1079/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2026/1079/article/7/b)
 
 [^c-d1c82a27485050c2bea5a55728cb769a]: Textual amendment: Sch. 4A Pt. 5 substituted (with effect in accordance with art. 1(4) of the commencing S.I.) by [The Income-related Benefits (Subsidy to Authorities) Amendment Order 2015 (S.I. 2015/1784)](https://www.legislation.gov.uk/uksi/2015/1784), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1784/article/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1784/schedule/4)
 

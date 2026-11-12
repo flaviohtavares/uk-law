@@ -3,7 +3,7 @@ title: The Scottish Local Government Elections Order 2011, SCHEDULE 2
 act: The Scottish Local Government Elections Order 2011
 section: schedule-2
 status: revised
-text_date: '2025-10-01'
+text_date: '2026-10-30'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2011/399/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Scottish Local Government Elections Order 2011, SCHEDULE 2
 
-> Text as at 2025-10-01.
+> Text as at 2026-10-30.
 >
 > Extent: Scotland.
 

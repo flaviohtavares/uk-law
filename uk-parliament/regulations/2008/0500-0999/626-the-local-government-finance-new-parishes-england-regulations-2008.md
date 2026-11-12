@@ -3,16 +3,16 @@ title: The Local Government Finance (New Parishes) (England) Regulations 2008
 id: uksi/2008/626
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-03'
-text_date: null
-extent: null
+text_date: '2008-03-03'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/626
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/626/pdfs/uksiem_20080626_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/626/pdfs/uksi_20080626_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/626/made/data.pdf
-pending_changes: 8
+- http://www.legislation.gov.uk/uksi/2008/626/data.pdf
+pending_changes: 14
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Local Government Finance (New Parishes) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (14).** Text as at 2008-03-03. See https://www.legislation.gov.uk/changes/affected/uksi/2008/626
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 626
 
@@ -44,13 +50,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 32(9) of the Local Government Finance Act 1992[^f00001] and sections 97 and 98 of the Local Government and Public Involvement in Health Act 2007[^f00002], makes the following Regulations:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-b9299d589eed2ff37d3f4c106e598de0]
 
 (1) These Regulations may be cited as the Local Government Finance (New Parishes) (England) Regulations 2008 and shall come into force on 8th April 2008.
 
 (2) These Regulations apply in relation to England.
 
-## 2. Interpretation
+## 2. Interpretation[^c-f838c569e0c330e7b9366db60e6a9311]
 
 In these Regulations—
 
@@ -63,7 +69,7 @@ In these Regulations—
 - “relevant parish council” means a parish council established by an order under section 86 of the 2007 Act; and
 - “relevant year”, in relation to a new parish, means the financial year in which the parish is constituted, or, if a separate parish council is established for the parish, the financial year in which that council is first established.
 
-## 3. Calculation of budget requirement
+## 3. Calculation of budget requirement[^c-32f82454b22ad36e8c6d8968f7d30c94]
 
 (1) This regulation applies—
 
@@ -76,11 +82,11 @@ In these Regulations—
 
 (4) The relevant parish council or the relevant chairman (as the case may be), shall make the calculations required by section 50 of the 1992 Act (calculation of budget requirement by local precepting authorities) for the relevant year so as to secure that the amount calculated as its budget requirement for that year does not exceed the amount specified in relation to the council or the chairman in the establishment order.
 
-## 4. Special items
+## 4. Special items[^c-4ef54b67d4c2205a37d904dca98e71da]
 
 In relation to an amount taken into account for the purposes of section 32(2)(a) of the 1992 Act by virtue of regulation 3(2), Chapter 3 of Part 1 of the 1992 Act (setting of council tax) shall have effect as if the amount were an item mentioned in section 35(1) of the 1992 Act (special items for purposes of section 34) which related to a part of the area of the prospective billing authority.
 
-## 5. Issue of precepts
+## 5. Issue of precepts[^c-93aedb7ca03289860db96819c417b0af]
 
 (1) This regulation applies in relation to a relevant parish council or a relevant chairman (as the case may be), and the relevant year.
 
@@ -90,7 +96,7 @@ In relation to an amount taken into account for the purposes of section 32(2)(a)
 
 (4) Regulation 3 of the Billing Authorities (Anticipation of Precepts) (Amendment) Regulations 1995[^f00004] shall have effect as if the amount to be paid by the prospective billing authority to the relevant parish council or the relevant chairman which issued the precept were a sum equal to the amount of the precept issued (or last issued) by it.
 
-## 6. Limitation of council tax and precepts
+## 6. Limitation of council tax and precepts[^c-722d98976b9e75e3780c8a67b3292964]
 
 In relation to a prospective billing authority, a new parish and the relevant year, the references in sections 52X(1) (calculations to be net of precepts) and 52Y(2) (information for purposes of Chapter 4A) of the 1992 Act to the aggregate amount of precepts anticipated by a billing authority in pursuance of regulations under section 41 shall have effect as if the aggregate amount included the amount specified in the establishment order in relation to the relevant parish council or the relevant chairman (as the case may be).
 
@@ -118,6 +124,18 @@ These Regulations make transitional and consequential provision, in relation to 
 
 [^f00002]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28)
 
+[^c-b9299d589eed2ff37d3f4c106e598de0]: Commencement: Reg. 1 in force at 8.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/626/regulation/1/1)
+
+[^c-f838c569e0c330e7b9366db60e6a9311]: Commencement: Reg. 2 in force at 8.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/626/regulation/1/1)
+
+[^c-32f82454b22ad36e8c6d8968f7d30c94]: Commencement: Reg. 3 in force at 8.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/626/regulation/1/1)
+
 [^f00003]: Footnote: As to substitute calculations see section 37 of the 1992 Act.
 
+[^c-4ef54b67d4c2205a37d904dca98e71da]: Commencement: Reg. 4 in force at 8.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/626/regulation/1/1)
+
+[^c-93aedb7ca03289860db96819c417b0af]: Commencement: Reg. 5 in force at 8.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/626/regulation/1/1)
+
 [^f00004]: Footnote: [S.I. 1995/235](https://www.legislation.gov.uk/uksi/1995/235)
+
+[^c-722d98976b9e75e3780c8a67b3292964]: Commencement: Reg. 6 in force at 8.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/626/regulation/1/1)

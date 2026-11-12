@@ -5,13 +5,13 @@ type: NorthernIrelandStatutoryRule
 category: secondary
 status: revised-with-pending-changes
 made_date: '2006-10-12'
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2006/405/pdfs/nisr_20060405_en.pdf
 - http://www.legislation.gov.uk/nisr/2006/405/data.pdf
-pending_changes: 43
+pending_changes: 28
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 

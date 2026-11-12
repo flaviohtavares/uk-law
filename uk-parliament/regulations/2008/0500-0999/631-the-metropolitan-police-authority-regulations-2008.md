@@ -3,15 +3,15 @@ title: The Metropolitan Police Authority Regulations 2008
 id: uksi/2008/631
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-06'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/631
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/631/pdfs/uksiem_20080631_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/631/pdfs/uksi_20080631_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/631/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/631/data.pdf
 pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Metropolitan Police Authority Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/631
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 631
 
@@ -52,21 +56,21 @@ In accordance with paragraph 6 of that Schedule the Secretary of State has consu
 
 ## PART 1 — General Provisions
 
-### 1. Citation, commencement, interpretation and extent
+### 1. Citation, commencement, interpretation and extent[^c-a82da2e17be5592aa726087229419d9d]
 
 (1) These Regulations may be cited as the Metropolitan Police Authority Regulations 2008 and subject to paragraph (2) shall come into force on 1st April 2008.
 
 (2) These Regulations shall apply only in respect of appointments of members of the Metropolitan Police Authority that take effect on or after 1st October 2008[^f00002].
 
-**2.** In these Regulations—
+**2.**[^c-4805c9df090d9ee7617f45a6d038620b] In these Regulations—
 
 - “the Mayor” means the Mayor of London,
 - “the 1994 Regulations” means the Police Authorities (Selection Panel) Regulations 1994[^f00003],
 - “the 1996 Act” means the Police Act 1996,
 
-**3.** These Regulations extend to England and Wales.
+**3.**[^c-b09460ed94e3ee279aca429ecdfdd1d7] These Regulations extend to England and Wales.
 
-### 4. Transitional provisions
+### 4. Transitional provisions[^c-c74ae8d75ee06be862e7a09bede8f9c6]
 
 (1) A person appointed under current paragraph 2 (appointment of Metropolitan Police Authority members by the Mayor) of Schedule 2A to the 1996 Act whose term of office under that Schedule expires on or after 1st October 2008 shall be treated as a person appointed under regulation 6 until the expiry of that term.
 
@@ -80,14 +84,14 @@ In accordance with paragraph 6 of that Schedule the Secretary of State has consu
 
 ## PART 2 — Members of the Metropolitan Police Authority
 
-### 5. Number of Members of the Metropolitan Police Authority
+### 5. Number of Members of the Metropolitan Police Authority[^c-4d594ba8234ad222d244a9e3586a43e6]
 
 Where, by virtue of section 5C of the 1996 Act (membership of the Metropolitan Police Authority), the Metropolitan Police Authority is to consist of twenty-three members—
 
 - (a) twelve of those members shall be members of the London Assembly appointed under regulation 6, and
 - (b) eleven shall be persons appointed under regulation 7.
 
-### 6. Appointment of members from the London Assembly
+### 6. Appointment of members from the London Assembly[^c-abd0fcf5398a3593220f1d55296d573b]
 
 (1) The members referred to in regulation 5(a) shall be appointed by the Mayor.
 
@@ -95,7 +99,7 @@ Where, by virtue of section 5C of the 1996 Act (membership of the Metropolitan P
 
 (3) One of the members appointed by the Mayor under paragraph (1) may be the Mayor himself.
 
-### 7. Appointment of independent members
+### 7. Appointment of independent members[^c-8acc3b4263d86bfeb04ffb9c4e5397f8]
 
 (1) Ten of the members referred to in regulation 5(b) shall be appointed—
 
@@ -106,7 +110,7 @@ Where, by virtue of section 5C of the 1996 Act (membership of the Metropolitan P
 
 (3) One of the members referred to in regulation 5(b) shall be appointed by the Secretary of State.
 
-**8.** (1) The Metropolitan Police Authority shall arrange for a notice stating—
+**8.**[^c-912dd864a5c679d24025e66b170d9cb2] (1) The Metropolitan Police Authority shall arrange for a notice stating—
 
 - (a) the name of each of its members appointed under regulations 6 and 7,
 - (b) such other information relating to each of such members as the Metropolitan Police Authority considers appropriate,
@@ -115,9 +119,9 @@ to be published in such manner as appears to it to be appropriate.
 
 (2) The Metropolitan Police Authority shall send to the Secretary of State a copy of any notice which it has arranged to be published under paragraph (1).
 
-**9.** At least one of the members referred to in regulation 5(b) shall be a lay justice for an area all or part of which constitutes or forms part of the metropolitan police district.
+**9.**[^c-ae960a6c1490deb0cfcc2c78f91f2b95] At least one of the members referred to in regulation 5(b) shall be a lay justice for an area all or part of which constitutes or forms part of the metropolitan police district.
 
-### 10. Chairman and Vice-Chairman
+### 10. Chairman and Vice-Chairman[^c-1d518489d46c871a18fb68f477eda877]
 
 (1) If the Mayor is a member of the Metropolitan Police Authority, he is to be chairman.
 
@@ -128,13 +132,13 @@ to be published in such manner as appears to it to be appropriate.
 - (a) before the next meeting of the Metropolitan Police Authority (other than an extraordinary meeting), or
 - (b) if that meeting is held within fourteen days after the date on which the vacancy occurs and is not an annual meeting, not later than the next following meeting.
 
-**11.** (1) Before an annual meeting of the Metropolitan Police Authority the Mayor may appoint one or more vice-chairmen from among the members of the Metropolitan Police Authority.
+**11.**[^c-f1881cfc296389128badb6f4ce95a040] (1) Before an annual meeting of the Metropolitan Police Authority the Mayor may appoint one or more vice-chairmen from among the members of the Metropolitan Police Authority.
 
 (2) Where a vice-chairman ceases to hold office at any time between annual meetings, the Mayor may make an appointment to fill the vacancy at any meeting of the Metropolitan Police Authority held more than fourteen days after the occurrence of the vacancy.
 
 (3) Subject to any standing orders made by the Metropolitan Police Authority, anything authorised or required to be done by, to or before its chairman may be done by, to or before any vice-chairman of the Metropolitan Police Authority.
 
-### 12. Disqualification
+### 12. Disqualification[^c-4b52c8615b9039bee921771ee9cefcd0]
 
 (1) Subject to sub-paragraphs (3) and (4), a person shall be disqualified from being appointed as or being a member of the Metropolitan Police Authority if—
 
@@ -154,14 +158,14 @@ to be published in such manner as appears to it to be appropriate.
 
 (5) For the purposes of paragraph (1)(d), the date of a conviction shall be taken to be the ordinary date on which the period allowed for making an appeal or application expires or, if an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its non-prosecution.
 
-**13.** (1) A person shall be disqualified from being appointed as a member of the Metropolitan Police Authority under regulation 7 if—
+**13.**[^c-d56cd804a0727d4e880555e722ad549f] (1) A person shall be disqualified from being appointed as a member of the Metropolitan Police Authority under regulation 7 if—
 
 - (a) he has not yet attained the age of eighteen years, or
 - (b) neither his principal or only place of work, nor his principal or only place of residence, has been in the metropolitan police district during the whole of the period of twelve months ending with the day of appointment.
 
 (2) A person shall be disqualified from being a member so appointed if, at any time, neither his principal or only place of work, nor his principal or only place of residence, is within that district.
 
-**14.** (1) A person shall be disqualified from being appointed as a member of the Metropolitan Police Authority under regulation 7, and from being a member so appointed, if he is—
+**14.**[^c-a4492a5998be8387cc43a960a37b4dc3] (1) A person shall be disqualified from being appointed as a member of the Metropolitan Police Authority under regulation 7, and from being a member so appointed, if he is—
 
 - (a) a member of a London borough council;
 - (b) the Mayor of London;
@@ -175,15 +179,15 @@ to be published in such manner as appears to it to be appropriate.
 - (a) the post of head teacher or principal of a school, college or other educational institution or establishment which is maintained or assisted by a local education authority; or
 - (b) any other post as a teacher or lecturer in any such school, college, institution or establishment.
 
-**15.** (1) A member of the selection panel for the Metropolitan Police Authority established under Part 3 of these Regulations shall be disqualified from being appointed as a member of a Metropolitan Police Authority under regulation 7, but a member so appointed may subsequently be appointed as a member of a selection panel under regulation 30.
+**15.**[^c-047e986935072e1feeba226a45da4c40] (1) A member of the selection panel for the Metropolitan Police Authority established under Part 3 of these Regulations shall be disqualified from being appointed as a member of a Metropolitan Police Authority under regulation 7, but a member so appointed may subsequently be appointed as a member of a selection panel under regulation 30.
 
 (2) Regulations 12 and 13 do not apply to the Mayor.
 
-### 16. Tenure of office
+### 16. Tenure of office[^c-875633d59a04a97fc6bb5cea20dc6f0f]
 
 A member shall hold and vacate office as a member of the Metropolitan Police Authority in accordance with the terms of his appointment and these Regulations.
 
-**17.** (1) A person appointed under regulation 6 shall hold office as a member of the Metropolitan Police Authority for—
+**17.**[^c-d74083a48ed11ca5301ca2db5b353b4e] (1) A person appointed under regulation 6 shall hold office as a member of the Metropolitan Police Authority for—
 
 - (a) a term of four years, or
 - (b) such shorter term as the Mayor appointing him may determine in any particular case, subject to the consent of the Secretary of State.
@@ -193,7 +197,7 @@ A member shall hold and vacate office as a member of the Metropolitan Police Aut
 - (a) a term of four years, or
 - (b) such shorter term as the members of the Metropolitan Police Authority appointing him may determine in any particular case, subject to the consent of the Secretary of State.
 
-**18.** (1) Subject to paragraph (2) a person who ceases to be a member, otherwise than by virtue of regulation 22, or ceases to be chairman, may (if otherwise eligible) be re-appointed whether at the expiry of his term or subsequently.
+**18.**[^c-04e756fca4e00a39d459ecd343341af4] (1) Subject to paragraph (2) a person who ceases to be a member, otherwise than by virtue of regulation 22, or ceases to be chairman, may (if otherwise eligible) be re-appointed whether at the expiry of his term or subsequently.
 
 (2) Members of the Metropolitan Police Authority referred to in regulation 5(b) shall not—
 
@@ -201,35 +205,35 @@ A member shall hold and vacate office as a member of the Metropolitan Police Aut
 - (b) be appointed to serve a further term of office until four years after the expiry of the previous term, other than when appointed to serve a further term of office on the expiry of the previous term; and
 - (c) be appointed to serve a further term unless the selection panel established under Part 3 of these Regulations is satisfied with their performance as a member during their previous term.
 
-**19.** A person may at any time resign his office as a member, or as chairman or vice –chairman, by notice in writing to the Metropolitan Police Authority.
+**19.**[^c-a306c505ae7118ed5cda1d4321ff94c2] A person may at any time resign his office as a member, or as chairman or vice –chairman, by notice in writing to the Metropolitan Police Authority.
 
-**20.** (1) Where the Mayor is appointed to be a member of the Metropolitan Police Authority under regulation 6 he shall cease to be a member of the Metropolitan Police Authority if he ceases to be Mayor and does not on the same day again become Mayor.
+**20.**[^c-feef817888a0c24e7363e75860f48903] (1) Where the Mayor is appointed to be a member of the Metropolitan Police Authority under regulation 6 he shall cease to be a member of the Metropolitan Police Authority if he ceases to be Mayor and does not on the same day again become Mayor.
 
 (2) A member of the London Assembly appointed to be a member of the Metropolitan Police Authority under regulation 6 shall cease to be a member of the Metropolitan Police Authority if he ceases to be a member of the London Assembly and does not on the same day again become a member of the London Assembly.
 
-**21.** The Mayor may remove from office a member of the Metropolitan Police Authority appointed by him under regulation 6 with a view to appointing another in his place if it considers that to do so would further the objective provided for by regulation 6(2).
+**21.**[^c-40a5537bdf5dd76ad566ab1f4fb31db1] The Mayor may remove from office a member of the Metropolitan Police Authority appointed by him under regulation 6 with a view to appointing another in his place if it considers that to do so would further the objective provided for by regulation 6(2).
 
-**22.** The Metropolitan Police Authority may remove a member from office by notice in writing if—
+**22.**[^c-1ca1d2493690f213eb4b6b287fbfd9b9] The Metropolitan Police Authority may remove a member from office by notice in writing if—
 
 - (a) he has been absent from meetings of the Metropolitan Police Authority for a period longer than three consecutive months without the consent of the Metropolitan Police Authority,
 - (b) he has been convicted of a criminal offence (but is not disqualified from being a member under regulation 12),
 - (c) the Metropolitan Police Authority is satisfied that the member is incapacitated by physical or mental illness, or
 - (d) the Metropolitan Police Authority is satisfied that the member is otherwise unable or unfit to discharge his functions as a member.
 
-**23.** Where the police Metropolitan Police Authority removes a member under regulation 22, it shall give notice of that fact—
+**23.**[^c-696a7fbd4a873e5551f0b91f045628e2] Where the police Metropolitan Police Authority removes a member under regulation 22, it shall give notice of that fact—
 
 - (a) in the case of a member appointed under regulation 6, to the Mayor, and
 - (b) in the case of a member appointed under regulation 7, to the Secretary of State.
 
-**24.** If a chairman or vice-chairman of the Metropolitan Police Authority ceases to be a member, he shall also cease to be chairman or vice-chairman.
+**24.**[^c-defdbe1307ec73502adfad566330cc5c] If a chairman or vice-chairman of the Metropolitan Police Authority ceases to be a member, he shall also cease to be chairman or vice-chairman.
 
-### 25. Validity of acts
+### 25. Validity of acts[^c-0d35d7c8f7419be754741da99c101376]
 
 The acts and proceedings of any person appointed to be a member, chairman or vice-chairman of the Metropolitan Police Authority and acting in that office shall, notwithstanding his disqualification or want of qualification, be as valid and effectual as if he had been qualified.
 
-**26.** The proceedings of the Metropolitan Police Authority shall not be invalidated by a vacancy in the membership of the Metropolitan Police Authority or in the office of chairman or vice-chairman or by any defect in the appointment of a person as a member or as chairman or vice-chairman.
+**26.**[^c-1d3aecdd90f19e0f7369f708529525ea] The proceedings of the Metropolitan Police Authority shall not be invalidated by a vacancy in the membership of the Metropolitan Police Authority or in the office of chairman or vice-chairman or by any defect in the appointment of a person as a member or as chairman or vice-chairman.
 
-### 27. Allowances
+### 27. Allowances[^c-a64f11a19b774fb8fdd1306a2996ffcd]
 
 (1) Subject to paragraphs (2) to (4), the Metropolitan Police Authority may make to its chairman, vice-chairman and other members such payments by way of reimbursement of expenses and allowances as the Metropolitan Police Authority may determine.
 
@@ -239,24 +243,24 @@ The acts and proceedings of any person appointed to be a member, chairman or vic
 
 (4) Payments made under this paragraph may differ according to whether the recipient is the chairman, a vice-chairman or other member or is appointed under regulation 6 or 7.
 
-### 28. Members of standards committees
+### 28. Members of standards committees[^c-eaed73261ee9fac3513b006addad988e]
 
 Regulation 27 shall have effect as if references to members of the Metropolitan Police Authority included references to persons who are not members of the Metropolitan Police Authority but are members of the Metropolitan Police Authority standards committee; and the power to make different payments according to the recipient shall include power to make different payments to persons who are not members of the Metropolitan Police Authority but are members of the Metropolitan Police Authority standards committee.
 
 ## PART 3 — Selection of members
 
-### 29. Selection Panels
+### 29. Selection Panels[^c-41250e5ff542f107342cd284bfc26d28]
 
 There shall be a selection panel for the Metropolitan Police Authority.
 
-**30.** The selection panel shall consist of five members,
+**30.**[^c-4f245043f82fe31da1d2f2da2c9ea451] The selection panel shall consist of five members,
 
 - (a) two of whom shall be appointed by the members of the Metropolitan Police Authority;
 - (b) one of whom shall be appointed by the Secretary of State;
 - (c) one of whom shall be appointed by the Mayor; and
 - (d) one of whom shall be appointed by the members of the selection panel appointed under sub-paragraphs (a), (b) and (c) from a list of candidates prepared by the Secretary of State.
 
-**31.** (1) A person shall be disqualified from being appointed as or being a member of the selection panel if, by virtue of regulations 12, 13(1)(a) or 14(d), (e) and (f), he is disqualified—
+**31.**[^c-e94837e9bcbec76ee53745432a88698d] (1) A person shall be disqualified from being appointed as or being a member of the selection panel if, by virtue of regulations 12, 13(1)(a) or 14(d), (e) and (f), he is disqualified—
 
 - (a) from being appointed under regulation 7 as a member of the Metropolitan Police Authority, or
 - (b) from being a member so appointed.
@@ -268,7 +272,7 @@ There shall be a selection panel for the Metropolitan Police Authority.
 
 (3) A person shall be disqualified from being appointed as or being members of the selection panel under regulation 30(b), (c) or (d) if they are a member of the Metropolitan Police Authority,
 
-**32.** (1) Subject to paragraph (2) a person referred to in regulation 30(a) shall be appointed to hold office as a member of the selection panel for —
+**32.**[^c-038237f8f70bb7bfa8f2f9d47a93bbdc] (1) Subject to paragraph (2) a person referred to in regulation 30(a) shall be appointed to hold office as a member of the selection panel for —
 
 - (a) a term of five years, or
 - (b) where that person is a member of the Metropolitan Police Authority and where the Metropolitan Police Authority considers it appropriate, for a term that expires on the same day as that on which that person’s term as a member of the Metropolitan Police Authority expires under regulation 17.
@@ -281,7 +285,7 @@ There shall be a selection panel for the Metropolitan Police Authority.
 
 (5) A person shall not cease to be a member of the Metropolitan Police Authority by reason only that any of the persons appointing him cease to hold the position by virtue of which they appointed him.
 
-**33.** (1) A member of the selection panel may be removed from office by notice in writing by the Metropolitan Police Authority if—
+**33.**[^c-8957ecbfaaf68506f4b187773582b959] (1) A member of the selection panel may be removed from office by notice in writing by the Metropolitan Police Authority if—
 
 - (a) the member has been absent from two consecutive meetings of the selection panel without the consent of the panel;
 - (b) the member has been convicted of a criminal offence (but is not disqualified from being a member under section 31);
@@ -290,23 +294,23 @@ There shall be a selection panel for the Metropolitan Police Authority.
 
 (2) When the member of the selection panel to be removed under paragraph (1) is the person referred to in regulation 30(b) that person may only be removed with the consent of the Secretary of State.
 
-**34.** A person who ceases to be a member of the selection panel, otherwise than by virtue of regulation 33, may (if otherwise eligible) be re-appointed.
+**34.**[^c-ee3a73f2cd25f5d5f13e9acc454eb764] A person who ceases to be a member of the selection panel, otherwise than by virtue of regulation 33, may (if otherwise eligible) be re-appointed.
 
-**35.** (1) The acts and proceedings of any person appointed to be a member of the selection panel and acting in that office shall, notwithstanding his disqualification or want of qualification, be as valid and effectual as if he had been qualified.
+**35.**[^c-3575fd7333a6f55547ce26f69ab7c814] (1) The acts and proceedings of any person appointed to be a member of the selection panel and acting in that office shall, notwithstanding his disqualification or want of qualification, be as valid and effectual as if he had been qualified.
 
 (2) The proceedings of the selection panel shall not be invalidated by—
 
 - (a) a vacancy in the membership of the panel, or
 - (b) a defect in the appointment of a person as a member.
 
-**36.** (1) The Metropolitan Police Authority shall make to members of the selection panel such payments by way of reimbursement or expenses and allowances as it may determine.
+**36.**[^c-1c4041fb1423f5d38206e411f46be066] (1) The Metropolitan Police Authority shall make to members of the selection panel such payments by way of reimbursement or expenses and allowances as it may determine.
 
 (2) The Metropolitan Police Authority shall—
 
 - (a) provide the selection panel with such accommodation, and such secretarial and other assistance, as they may reasonably require, and
 - (b) meet any expenses incurred by the panel in the exercise of their functions.
 
-### 37. Functions of selection panel – short-listing
+### 37. Functions of selection panel – short-listing[^c-d8f4338ce021a9e26bfc2988d1f16993]
 
 (1) Where appointments to the Metropolitan Police Authority are to be made under regulation 7 the selection panel shall nominate persons willing to be candidates for appointment.
 
@@ -318,12 +322,12 @@ There shall be a selection panel for the Metropolitan Police Authority.
 
 (5) The persons nominated under this regulation shall form the short-list of persons for the purposes of regulation 7.
 
-**38.** In exercising their functions the selection panel shall have regard to the desirability of ensuring that, so far as reasonably practicable, they persons nominated by them under regulation 37—
+**38.**[^c-05c423846ddf92dc8e3480f15a53c078] In exercising their functions the selection panel shall have regard to the desirability of ensuring that, so far as reasonably practicable, they persons nominated by them under regulation 37—
 
 - (a) represent the interests of a wide range of people within the community of the metropolitan police district; and
 - (b) include persons with skills, knowledge or experience which are under represented among the existing members of the Metropolitan Police Authority.
 
-### 39. Notifications by Chief Executive
+### 39. Notifications by Chief Executive[^c-610d226b5442b424ca552ccb3383a7df]
 
 (1) Not less than four months before the term of office of a Metropolitan Police Authority member appointed under regulation 7 is due to expire, the chief executive of the Metropolitan Police Authority shall notify the members of the selection panel of this fact.
 
@@ -331,7 +335,7 @@ There shall be a selection panel for the Metropolitan Police Authority.
 
 (3) Where a person appointed under regulation 7 ceases to be a Metropolitan Police Authority member otherwise than on the expiry of his term of office, the chief executive of the Metropolitan Police Authority shall notify the members of the selection panel of this fact.
 
-### 40. Requirement to advertise
+### 40. Requirement to advertise[^c-594eebbdc3c37008983cb48dab9b5b7c]
 
 (1) Subject to paragraph (4), where the selection panel are required to nominate persons willing to be candidates to be appointed as Metropolitan Police Authority members under regulation 7, they shall publish in at least two newspapers circulating in the metropolitan police district a notice stating the matters referred to in paragraph (2).
 
@@ -367,7 +371,7 @@ There shall be a selection panel for the Metropolitan Police Authority.
 
 (6) In paragraph (4)(c) above “sufficient number” means twice the number of appointments that are to be made under regulation 7.
 
-### 41. Applications to be considered for appointment to the Metropolitan Police Authority
+### 41. Applications to be considered for appointment to the Metropolitan Police Authority[^c-0bf3a2a4d4e1de519a9fce99211e0ffa]
 
 (1) A member of the public who wishes to be considered for appointment as a Metropolitan Police Authority member shall submit an application to the selection panel setting out—
 
@@ -381,7 +385,7 @@ There shall be a selection panel for the Metropolitan Police Authority.
 
 (3) Together with a form supplied under paragraph (2) above there shall be supplied information about the office of Metropolitan Police Authority member including a statement setting out regulations 12, 13 and 14.
 
-### 42. Consideration of applications by selection panel
+### 42. Consideration of applications by selection panel[^c-cd42273c60ebc9d0cb0ed3eec6475091]
 
 (1) The selection panel shall consider any application for appointment as a Metropolitan Police Authority member which has been made under regulation 41 for the purpose of producing a short-list under regulation 37.
 
@@ -397,7 +401,7 @@ There shall be a selection panel for the Metropolitan Police Authority.
 - (b) the member of the panel who is not present has died; or
 - (c) the member of the panel who is not present has previously consented in writing to the other members acting in his absence.
 
-### 43. Record maintained by selection panel
+### 43. Record maintained by selection panel[^c-5701aef803918839f3ec3477b18031b2]
 
 (1) The members of the selection panel shall maintain a record of the persons who have applied to be considered for appointment as Metropolitan Police Authority members under regulation 7.
 
@@ -409,7 +413,7 @@ There shall be a selection panel for the Metropolitan Police Authority.
 
 (3) An entry in the register maintained under this regulation may be deleted on the expiry of four years from the date when it was made.
 
-### 44. Nominations by selection panel from name listed in record
+### 44. Nominations by selection panel from name listed in record[^c-d67b22163945d403d7d4a505a87786e8]
 
 (1) Where—
 
@@ -443,11 +447,35 @@ Part 1 of the Regulations provides that they apply in respect of the members of 
 
 [^f00001]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16); Schedule 2A was substituted by section 2 of, and paragraph 4 of Schedule 2 to, the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48).
 
+[^c-a82da2e17be5592aa726087229419d9d]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
 [^f00002]: Footnote: Article 3 of the Police and Justice Act 2006 (Commencement No.1, Transitional and Savings Provisions) Order 2006 ([S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364)) (as amended by [S.I 2008/617 (C.24)](https://www.legislation.gov.uk/uksi/2008/617))provides that the previous Schedule 2A to the 1996 Act applies to appointments that take effect before 1st October 2008.
+
+[^c-4805c9df090d9ee7617f45a6d038620b]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1994/2023](https://www.legislation.gov.uk/uksi/1994/2023) as amended by [S.I. 2000/1549](https://www.legislation.gov.uk/uksi/2000/1549) and [S.I. 2002/1282](https://www.legislation.gov.uk/uksi/2002/1282). These Regulations are revoked by [S.I.2008/630](https://www.legislation.gov.uk/uksi/2008/630) from 1st October 2008.
 
+[^c-b09460ed94e3ee279aca429ecdfdd1d7]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-c74ae8d75ee06be862e7a09bede8f9c6]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
 [^f00004]: Footnote: Schedule 3 to the Police Act 1996 was repealed by paragraph 6 of Schedule 2 to the Police and Justice Act 2006. Article 3 of the Police and Justice Act 2006 (Commencement No.1, Transitional and Savings Provisions) Order 2006 ([S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364) as amended by [S.I 2008/617 (C.24)](https://www.legislation.gov.uk/uksi/2008/617)) provides that the previous Schedule 2 to the 1996 Act applies to appointments that take effect before 1st October 2008.
+
+[^c-4d594ba8234ad222d244a9e3586a43e6]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-abd0fcf5398a3593220f1d55296d573b]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-8acc3b4263d86bfeb04ffb9c4e5397f8]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-912dd864a5c679d24025e66b170d9cb2]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-ae960a6c1490deb0cfcc2c78f91f2b95]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-1d518489d46c871a18fb68f477eda877]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-f1881cfc296389128badb6f4ce95a040]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-4b52c8615b9039bee921771ee9cefcd0]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
 
 [^f00005]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46).
 
@@ -457,4 +485,68 @@ Part 1 of the Regulations provides that they apply in respect of the members of 
 
 [^f00008]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
+[^c-d56cd804a0727d4e880555e722ad549f]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-a4492a5998be8387cc43a960a37b4dc3]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-047e986935072e1feeba226a45da4c40]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-875633d59a04a97fc6bb5cea20dc6f0f]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-d74083a48ed11ca5301ca2db5b353b4e]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-04e756fca4e00a39d459ecd343341af4]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-a306c505ae7118ed5cda1d4321ff94c2]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-feef817888a0c24e7363e75860f48903]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-40a5537bdf5dd76ad566ab1f4fb31db1]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-1ca1d2493690f213eb4b6b287fbfd9b9]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-696a7fbd4a873e5551f0b91f045628e2]: Commencement: Reg. 23 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-defdbe1307ec73502adfad566330cc5c]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-0d35d7c8f7419be754741da99c101376]: Commencement: Reg. 25 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-1d3aecdd90f19e0f7369f708529525ea]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-a64f11a19b774fb8fdd1306a2996ffcd]: Commencement: Reg. 27 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-eaed73261ee9fac3513b006addad988e]: Commencement: Reg. 28 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-41250e5ff542f107342cd284bfc26d28]: Commencement: Reg. 29 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-4f245043f82fe31da1d2f2da2c9ea451]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-e94837e9bcbec76ee53745432a88698d]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-038237f8f70bb7bfa8f2f9d47a93bbdc]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-8957ecbfaaf68506f4b187773582b959]: Commencement: Reg. 33 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-ee3a73f2cd25f5d5f13e9acc454eb764]: Commencement: Reg. 34 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-3575fd7333a6f55547ce26f69ab7c814]: Commencement: Reg. 35 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-1c4041fb1423f5d38206e411f46be066]: Commencement: Reg. 36 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-d8f4338ce021a9e26bfc2988d1f16993]: Commencement: Reg. 37 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-05c423846ddf92dc8e3480f15a53c078]: Commencement: Reg. 38 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-610d226b5442b424ca552ccb3383a7df]: Commencement: Reg. 39 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-594eebbdc3c37008983cb48dab9b5b7c]: Commencement: Reg. 40 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
 [^f00009]: Footnote: This function of police authorities is prescribed by the Police Authorities (Particular Functions and Transitional Provisions) Order 2008 [S.I. 2008/82](https://www.legislation.gov.uk/uksi/2008/82).
+
+[^c-0bf3a2a4d4e1de519a9fce99211e0ffa]: Commencement: Reg. 41 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-cd42273c60ebc9d0cb0ed3eec6475091]: Commencement: Reg. 42 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-5701aef803918839f3ec3477b18031b2]: Commencement: Reg. 43 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)
+
+[^c-d67b22163945d403d7d4a505a87786e8]: Commencement: Reg. 44 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/631/regulation/1/1)

@@ -476,7 +476,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Adult Support and Protection (Scotland) Act 2007 (Restriction on the Authorisation of Council Officers) Order 2008](../scotland/regulations/2008/0000-0499/306-the-adult-support-and-protection-scotland-act-2007-restriction-on-the-authorisat.md) *(as originally made)*
+- [The Adult Support and Protection (Scotland) Act 2007 (Restriction on the Authorisation of Council Officers) Order 2008](../scotland/regulations/2008/0000-0499/306-the-adult-support-and-protection-scotland-act-2007-restriction-on-the-authorisat.md) *(changes pending)*
 - [The Appointments Commission (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2792-the-appointments-commission-amendment-regulations-2008.md) *(as originally made)*
 - [The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/78-the-community-care-personal-care-and-nursing-care-scotland-amendment-regulations.md) *(as originally made)*
 - [The Disqualification from Caring for Children (Wales) (Amendment) Regulations 2008](../wales/regulations/2008/2500-2999/2691-the-disqualification-from-caring-for-children-wales-amendment-regulations-2008.md) *(as originally made)*

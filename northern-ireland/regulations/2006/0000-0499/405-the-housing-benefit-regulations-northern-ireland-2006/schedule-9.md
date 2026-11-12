@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, SCHEDULE 9
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: schedule-9
 status: repealed
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/schedule/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

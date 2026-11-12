@@ -254,7 +254,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Accounting Standards (Prescribed Body) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/651-the-accounting-standards-prescribed-body-regulations-2008.md) *(as originally made)*
+- [The Accounting Standards (Prescribed Body) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/651-the-accounting-standards-prescribed-body-regulations-2008.md) *(changes pending)*
 - [The Companies (1986 Order) (Annual Return) and Companies (Principal Business Activities) (Amendment) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/379-the-companies-1986-order-annual-return-and-companies-principal-business-activiti.md) *(as originally made)*
 - [The Companies (Authorised Minimum) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/729-the-companies-authorised-minimum-regulations-2008.md)
 - [The Companies (Company Records) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3006-the-companies-company-records-regulations-2008.md) *(as originally made)*

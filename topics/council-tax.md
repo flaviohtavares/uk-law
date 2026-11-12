@@ -266,7 +266,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Council Tax Limitation (Maximum Amounts) (England) Order 2008](../uk-parliament/regulations/2008/1500-1999/1850-the-council-tax-limitation-maximum-amounts-england-order-2008.md) *(as originally made)*
 - [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) (No. 2) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3264-the-council-tax-and-non-domestic-rating-demand-notices-england-amendment-no-2-re.md) *(as originally made)*
 - [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/387-the-council-tax-and-non-domestic-rating-demand-notices-england-amendment-regulat.md) *(as originally made)*
-- [The Local Government Finance (New Parishes) (England) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/626-the-local-government-finance-new-parishes-england-regulations-2008.md) *(as originally made)*
+- [The Local Government Finance (New Parishes) (England) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/626-the-local-government-finance-new-parishes-england-regulations-2008.md) *(changes pending)*
 
 **2007**
 

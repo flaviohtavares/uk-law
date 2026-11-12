@@ -3,15 +3,15 @@ title: The School Admissions (Admission Arrangements) (England) Regulations 2008
 id: uksi/2008/3089
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-03'
-text_date: null
-extent: null
+text_date: '2008-12-31'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3089
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3089/pdfs/uksiem_20083089_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3089/pdfs/uksi_20083089_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3089/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/3089/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The School Admissions (Admission Arrangements) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-12-31. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3089
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 3089
 
@@ -44,7 +48,7 @@ The Secretary of State for Children, Schools and Families, after consulting the 
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-082753e2a280df93fc0bc2c897a6a830]
 
 (1) These Regulations may be cited as the School Admissions (Admission Arrangements) (England) Regulations 2008.
 
@@ -52,7 +56,7 @@ The Secretary of State for Children, Schools and Families, after consulting the 
 
 (3) They apply in relation to admission arrangements for schools in England for the academic year 2010-2011 and subsequent years.
 
-### 2. Interpretation
+### 2. Interpretation[^c-96e053d599f7f7166f227728762cec10]
 
 (1) In these Regulations—
 
@@ -84,7 +88,7 @@ The Secretary of State for Children, Schools and Families, after consulting the 
 
 (3) Save where otherwise appears, any reference in these Regulations to a numbered section is a reference to that section of SSFA 1998.
 
-### 3. Regulations revoked
+### 3. Regulations revoked[^c-94b85453ea4e5052dbf928420a5df96c]
 
 (1) Subject to paragraph (2) the Regulations set out in Schedule 1 are revoked.
 
@@ -92,17 +96,17 @@ The Secretary of State for Children, Schools and Families, after consulting the 
 
 ## PART 2 — Admission arrangements: general
 
-### 4. Determination of admission numbers
+### 4. Determination of admission numbers[^c-0018dd0e127035694ff6ad1f0530a2d9]
 
 For the purposes of section 88D(1) an admission authority must have regard to the current indicated admission number when determining the admission number for a relevant age group.
 
-### 5. Proportion of selective admissions
+### 5. Proportion of selective admissions[^c-571ce0649c58b01b71dc5f8019d5b46e]
 
 (1) This regulation has effect for the purposes of calculating the proportion of selective admissions within the meaning of section 100(3) and section 102(4) in relation to the admission of pupils in any relevant age group to a school in any year.
 
 (2) For the purposes of that calculation the total number of pupils in any such age group admitted to the school in an academic year shall be taken to equal the number of pupils in that age group which it is intended to admit to the school in that year.
 
-### 6. Selection by aptitude for particular subjects
+### 6. Selection by aptitude for particular subjects[^c-c85e34dd469f5fb3ac64b75d83b81f0e]
 
 (1) Subject to paragraph (2) the following subjects are prescribed for the purposes of section 102—
 
@@ -117,7 +121,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 ## PART 3 — Admission arrangements: looked after children
 
-### 7. Action to be taken by an admission authority to give priority to looked after children in its admission arrangements
+### 7. Action to be taken by an admission authority to give priority to looked after children in its admission arrangements[^c-da35e4371e6160d4ac54ff0eb0a2b8f2]
 
 (1) Except where regulations 8, 9, 10 or 11 apply, an admission authority must give first priority in its oversubscription criteria to all relevant looked after children.
 
@@ -126,7 +130,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 - (a) “relevant looked after child” means a child who is looked after by a local authority in accordance with section 22 of the Children Act 1989[^f00008] at the time an application to a school is made, and who the local authority has confirmed will still be looked after at the time when he is admitted to the school; and
 - (b) any reference to an admission authority giving priority in its oversubscription criteria to a relevant looked after child is a reference to the authority giving priority to such a child when determining its admission arrangements before the beginning of each school year in accordance with section 88C;
 
-### 8. Grammar schools
+### 8. Grammar schools[^c-688d3fe63a4f474fee77f8f03ac0318c]
 
 (1) This regulation applies to an admission authority for a grammar school as defined by section 104(7).
 
@@ -134,7 +138,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 (3) Where paragraph (2) does not apply, the admission authority must give first priority in its oversubscription criteria to all relevant looked after children who meet the pre-set standards of the school.
 
-### 9. Schools designated as having a religious character
+### 9. Schools designated as having a religious character[^c-3758cce5f2f52e97eac816d47cbd5976]
 
 (1) This regulation applies to an admission authority for a school which has been designated as having a religious character by an order under section 69(3).
 
@@ -143,7 +147,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 - (a) give first priority to all relevant looked after children who are of that faith over all other children of that faith, and
 - (b) give higher priority to all relevant looked after children not of that faith than all other children not of that faith.
 
-### 10. Schools with pre-existing selection arrangements
+### 10. Schools with pre-existing selection arrangements[^c-32b340be4d8f5ef76cc873b2b1532463]
 
 (1) This regulation applies to an admission authority for a school which has pre-existing selection arrangements.
 
@@ -151,7 +155,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 (3) Where the admission authority has allocated places in accordance with paragraph (2), all relevant looked after children who have not been allocated a place on the basis of their ability or aptitude must be given higher priority in the oversubscription criteria than all other children who have not been offered a place on the basis of their ability or aptitude.
 
-### 11. Schools which select by pupil banding
+### 11. Schools which select by pupil banding[^c-dbe5afab2ae8e35b8ad553b1c7a33d7f]
 
 (1) This regulation applies to an admission authority for a school which makes provision for selection by ability in accordance with section 101(1) or (1A) *(permitted selection: pupil banding)*.
 
@@ -159,7 +163,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 ## PART 4 — Procedure for determining admission arrangements: consultation
 
-### 12. Persons who must be consulted
+### 12. Persons who must be consulted[^c-890e67c96164c850fd44eb17a5093ea7]
 
 (1) This regulation prescribes for the purposes of section 88C(2) the persons who must be consulted about proposed admission arrangements for a school.
 
@@ -201,7 +205,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
   | Seventh-Day Adventist | The British Union Conference of Seventh Day Adventists |
   | Sikh | Nanaksar Thath Isher Darbar Trust |
 
-### 13. Matters to which consultation is to relate
+### 13. Matters to which consultation is to relate[^c-92b1e5389ec85a519ee00e116a1b2175]
 
 (1) This regulation prescribes for the purposes of section 88C(2) the matters to which any consultation must relate.
 
@@ -212,7 +216,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 - (a) in the case of a grammar school, they make provision that the school should retain selective admission arrangements as defined by section 104(2) or that the school should cease to have such arrangements in accordance with section 108 or section 109; or
 - (b) section 88C is excluded by section 103(1) and (2) from applying to their determination *(making or abandonment of provision for selection which constitutes a prescribed alteration)*.
 
-### 14. Additional consultation: proposed increase in admission number
+### 14. Additional consultation: proposed increase in admission number[^c-769710b5d657107495d0ed7f8cd47c3d]
 
 (1) Where the proposed admission arrangements include an admission number which exceeds the admission number determined for the previous academic year by 27 or more—
 
@@ -221,7 +225,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 (2) For the purposes of this regulation “staff” means any person who works at the school.
 
-### 15. Circumstances where consultation is not required
+### 15. Circumstances where consultation is not required[^c-bf67eb48f0bd45b2192f6993fd104348]
 
 (1) This regulation prescribes for the purposes of section 88C(2) the circumstances in which an admission authority is not required to consult on its proposed admission arrangements.
 
@@ -230,7 +234,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 - (a) it consulted on its proposed admission arrangements in accordance with section 88C(2) in one or both of the two preceding determination years, and
 - (b) the proposed admission arrangements are the same as those determined following the last such consultation.
 
-### 16. Manner of consultation
+### 16. Manner of consultation[^c-56a07595aa42c9db559d8b9ebea286f3]
 
 (1) An admission authority must communicate their proposed admission arrangements by—
 
@@ -244,7 +248,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 (3) Communication under paragraph (1) (a) may be effected by the transmission of a copy of the proposed admission arrangements in electronic form, except in any case where there are grounds for believing that the intended recipient is unable to make use of it in that form.
 
-### 17. Time for consultation and determination of admission arrangements
+### 17. Time for consultation and determination of admission arrangements[^c-29d4cb72d153c751c8480404f579fc48]
 
 (1) Subject to paragraph (2) every admission authority must, in respect of their proposed admission arrangements for the school for each academic year, take all steps necessary to ensure that they will have completed any consultation required by section 88C and these Regulations before 1st March in the determination year.
 
@@ -257,7 +261,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 ## PART 5 — Notification and publication of determined admission arrangements
 
-### 18. Manner of notification of admission arrangements
+### 18. Manner of notification of admission arrangements[^c-98b05e87cb455d9f6da28af933449d44]
 
 (1) This regulation prescribes for the purposes of section 88C(4) the manner in which, and the time by which, an admission authority must notify the appropriate bodies of determined admission arrangements.
 
@@ -281,7 +285,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 (6) Arrangements published under sub-paragraph (3)(b) must be displayed on the website until such time as they are replaced by arrangements published under regulation 22(2)(b) or by arrangements determined for the following academic year.
 
-### 19. Publication by local authority
+### 19. Publication by local authority[^c-5e609f69af9dbb66593c5d4b37f5f9dd]
 
 (1) No later than 1st May in the determination year, a local authority must publish the following information on their website, and in a newspaper circulating in the locality of the local authority, namely—
 
@@ -300,7 +304,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 - (a) the variation, or
 - (b) in the case of admission arrangements for a school for which the local authority is not the admission authority, receipt of notification under regulation 22(3).
 
-### 20. Additional publication by admission authority
+### 20. Additional publication by admission authority[^c-477386f84718a1050f7ce73fa3f66bbc]
 
 (1) This regulation applies in any case where-
 
@@ -329,7 +333,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 ## PART 6 — Variation and alteration of determined admission arrangements
 
-### 21. Variation of admission arrangements
+### 21. Variation of admission arrangements[^c-ee27854f37d64a5798a312ba7d63a1d3]
 
 (1) This regulation prescribes for the purposes of section 88E(9)(b) the circumstances in which an admission authority may vary the admission arrangements they have determined for a particular academic year.
 
@@ -342,7 +346,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 (4) For the purposes of this regulation an “admission forum protocol” means an arrangement of an admission forum which aims to ensure that children who have no school place are offered a place at a suitable school as quickly as possible.
 
-### 22. Notification of variation of admission arrangements
+### 22. Notification of variation of admission arrangements[^c-f29371420e4b6c5c6978f76b466ccb5a]
 
 (1) This regulation prescribes for the purposes of section 88E(8) and (9) the manner in which, and the time by which, an admission authority must notify the appropriate bodies of admission arrangements varied—
 
@@ -360,7 +364,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 (5) Arrangements published under sub-paragraph (2)(b) must be displayed on the website until such time as they are replaced by further arrangements published under this regulation or by arrangements determined for the following academic year.
 
-### 23. Restriction on alteration of admission arrangements following establishment or expansion
+### 23. Restriction on alteration of admission arrangements following establishment or expansion[^c-f86e692d43ae4bda81ab1100ea9e9e3b]
 
 (1) For the purposes of section 88G(1)(d) the prescribed condition is that the proposals are not for the establishment of, or alteration to, a new foundation or voluntary school which is to provide education suitable only to the requirements of persons above compulsory school age.
 
@@ -380,7 +384,7 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 ## PART 7 — Reference of objections to adjudicator
 
-### 24. Objections by appropriate persons
+### 24. Objections by appropriate persons[^c-f96124e106cf66444dee69a021385269]
 
 (1) This regulation prescribes the objections that, by virtue of section 88H(2)(b), may not be referred under subsection 88H(2) by an appropriate person.
 
@@ -393,13 +397,13 @@ For the purposes of section 88D(1) an admission authority must have regard to th
 
 (3) For the purposes of section 88H(6)(b) and this regulation “appropriate person” includes any person falling within regulation 12(2)(h).
 
-### 25. Time within which objection must be referred
+### 25. Time within which objection must be referred[^c-d56ca93f641884386017f7d1ffadce3a]
 
 (1) Subject to paragraph (2) an objection may not be referred under section 88H (2) or (3**)** unless it is received by the adjudicator on or before 31<sup>st</sup> July in the determination year.
 
 (2) An objection which is received after the date specified in paragraph (1) must be regarded as properly referred if it was not reasonably practicable for the objection to have been received earlier than the time it was received.
 
-### 26. Parents who are eligible to refer an objection
+### 26. Parents who are eligible to refer an objection[^c-05cf240fc324ce0df0ce745c2660ca19]
 
 For the purposes of section 88H(3)(a) the description of a parent who may refer an objection relating to admission arrangements under that subsection is an individual who is—
 
@@ -411,7 +415,7 @@ For the purposes of section 88H(3)(a) the description of a parent who may refer 
 
 and, in the case of the matters referred to in either paragraph (a) or (b), is resident in the relevant area for consultation relating to those admission arrangements.
 
-### 27. Objections that may be referred by parents
+### 27. Objections that may be referred by parents[^c-e3c42efcaffe9e7945077ab78b3a6acd]
 
 For the purposes of section 88H(3)(b) the description of objection that may be referred under that subsection is—
 
@@ -419,7 +423,7 @@ For the purposes of section 88H(3)(b) the description of objection that may be r
 - (b) an objection relating to an admission number for any relevant age group which is lower than the indicated admission number for that age group; or
 - (c) an objection that any aspect of a school’s admission arrangements does not comply with any mandatory requirements in the School Admissions Code or Part 3 of SSFA 1998 *(school admissions)*.
 
-### 28. Condition to be met before determination of objections by parents
+### 28. Condition to be met before determination of objections by parents[^c-f1502e03bef58ffb0c62c57b6b4d8eae]
 
 (1) In relation to objections that fall within regulation 27(b), the condition in paragraph (2) must be satisfied before the adjudicator is required to determine an objection referred by a parent under section 88H(3).
 
@@ -430,11 +434,11 @@ For the purposes of section 88H(3)(b) the description of objection that may be r
 
 ## PART 8 — Consideration of determined admission arrangements by the adjudicator: supplementary
 
-### 29. Information to be provided by the admission authority
+### 29. Information to be provided by the admission authority[^c-a062d55e677fd864a192602a7a59ebbd]
 
 Where the adjudicator is carrying out his functions under sections 88H to 88J and makes a request to the admission authority for any of the information set out in Schedule 3 to these Regulations, the admission authority must provide the requested information to the adjudicator.
 
-### 30. Steps to be taken by the admission authority pending adjudicator’s decision
+### 30. Steps to be taken by the admission authority pending adjudicator’s decision[^c-3dc0aac3080295325fa36b8731462219]
 
 (1) This regulation prescribes for the purposes of section 88H(5)(c) and section 88I(6) the steps which may be taken by an admission authority where—
 
@@ -443,7 +447,7 @@ Where the adjudicator is carrying out his functions under sections 88H to 88J an
 
 (2) The admission authority must, within 14 days, notify whichever of the governing body and the local authority are not the admission authority of the fact that the admission arrangements are being considered by the adjudicator.
 
-### 31. Publication of reports
+### 31. Publication of reports[^c-6ebd030118e3f84fbaad79ae190b642f]
 
 (1) This regulation prescribes for the purposes of section 88K(4)(b) the manner in which a report by the adjudicator required by section 88K(3) must be published.
 
@@ -456,7 +460,7 @@ Where the adjudicator is carrying out his functions under sections 88H to 88J an
 
 (3) Publication required by paragraph (2)(c) and (d) may be effected by the transmission of the report in electronic form, except in any case where there are grounds for believing that the intended recipient is unable to make use of it in that form.
 
-### 32. Power to alter arrangements following adjudicator’s decision
+### 32. Power to alter arrangements following adjudicator’s decision[^c-ddc35921044ed1f08a5e40c74fc76be1]
 
 (1) This regulation applies where—
 
@@ -474,7 +478,7 @@ Where the adjudicator is carrying out his functions under sections 88H to 88J an
 
 (4) In this regulation “relevant admission authority” means an admission authority who, before they determined the admission arrangements that they wish to revise, were required to consult under section 88C (or would but for regulation 15 have been required so to consult) the admission authority in respect of which the decision was made.
 
-### 33. Restriction on alteration of admission arrangements following adjudicator’s decision
+### 33. Restriction on alteration of admission arrangements following adjudicator’s decision[^c-26ea676c4a103d983e1a4ab2ca8bfac6]
 
 (1) For the purposes of section 88L(2) the required number of school years is two.
 
@@ -492,13 +496,13 @@ Where the adjudicator is carrying out his functions under sections 88H to 88J an
 
 ## PART 9 — Amendment of Regulations
 
-### 34. Amendment of the Education (Infant Class Sizes) (England) Regulations 1998
+### 34. Amendment of the Education (Infant Class Sizes) (England) Regulations 1998[^c-4143f87e582ec09064781deae1e021e5]
 
 (1) The Education (Infant Class Sizes) (England) Regulations 1998[^f00010] are amended as follows.
 
 (2) For the words “qualified teacher” wherever they appear substitute the words “school teacher”[^f00011].
 
-### 35. Amendment of the Information as to Provision of Education (England) Regulations 2008
+### 35. Amendment of the Information as to Provision of Education (England) Regulations 2008[^c-aee904142406a7e6fa228b38182fc527]
 
 (1) The Information as to Provision of Education (England) Regulations 2008[^f00012] are amended as follows.
 
@@ -508,7 +512,7 @@ Where the adjudicator is carrying out his functions under sections 88H to 88J an
 
 .[^f00013]
 
-### 36. Amendment of the Education (Proportion of Selective Admissions) Regulations 1998
+### 36. Amendment of the Education (Proportion of Selective Admissions) Regulations 1998[^c-4a00e08952be5f61b9fee08b2e4eda18]
 
 (1) The Education (Proportion of Selective Admissions) Regulations 1998[^f00014] are amended as follows.
 
@@ -518,7 +522,7 @@ Where the adjudicator is carrying out his functions under sections 88H to 88J an
 
 .
 
-### 37. Amendment of the Education (Aptitude for Particular Subjects) Regulations 1999
+### 37. Amendment of the Education (Aptitude for Particular Subjects) Regulations 1999[^c-dacbea557fd6cee77966848785ec2026]
 
 (1) The Education (Aptitude for Particular Subjects) Regulations 1999[^f00015] are amended as follows.
 
@@ -536,7 +540,7 @@ Department for Children, Schools and Families
 
 3rd December 2008
 
-## SCHEDULE 1 — Regulations revoked
+## SCHEDULE 1 — Regulations revoked[^c-3b406ae63deee9f60288b19a86ad6788]
 
 Regulation 3
 
@@ -551,7 +555,7 @@ Regulation 3
 | The Education (Determination of Admission Arrangements) (Amendment) (No.2) (England) Regulations 2007 | [S.I. 2007/3009](https://www.legislation.gov.uk/uksi/2007/3009) |
 | The School Admissions (Alteration and Variation of, and Objections to, Arrangements) (England) (Amendment) Regulations 2008 | [S.I. 2008/1258](https://www.legislation.gov.uk/uksi/2008/1258) |
 
-## SCHEDULE 2 — Rabbinic Authorities
+## SCHEDULE 2 — Rabbinic Authorities[^c-25e8bf8e42ea04a8bb417f6d4c7aaea9]
 
 Regulation 12
 
@@ -601,32 +605,32 @@ Regulation 12
 
 Regulation 29
 
-**1.** The following information must be provided by an admission authority if requested by the adjudicator.
+**1.**[^c-34ab28e10a1ef19e9a929d5de23743ac] The following information must be provided by an admission authority if requested by the adjudicator.
 
-**2.** Details of the school’s pupil numbers for the past five years, including for each year the admission number, the number admitted, the number of applications and the number of appeals.
+**2.**[^c-d13d47df9090cf9b0027d0c01311f502] Details of the school’s pupil numbers for the past five years, including for each year the admission number, the number admitted, the number of applications and the number of appeals.
 
-**3.** Projected applicant numbers for the school for the next three years.
+**3.**[^c-ebd1890d0e8d5dac7c00247dfd64e007] Projected applicant numbers for the school for the next three years.
 
-**4.** In the case of a school whose admission number is being considered by the adjudicator:
+**4.**[^c-4abb03e6f45e339ce26b4431ddc21b87] In the case of a school whose admission number is being considered by the adjudicator:
 
 - (a) where the school is a primary school, details of all primary schools within a three-mile radius of the school in question, and
 - (b) where the school is a secondary school, details of all secondary schools within a five-mile radius of the school in question,
 
   including the name of each such school, whether the school was consulted on the arrangements under consideration and if so, whether it responded.
 
-**5.** A copy of the admission booklet for parents.
+**5.**[^c-cea5b4629ce396b0387b10e86de817a5] A copy of the admission booklet for parents.
 
-**6.** A copy of the complete determined admission arrangements for the school in question.
+**6.**[^c-a27da359d398af207623cd14fc0830b0] A copy of the complete determined admission arrangements for the school in question.
 
-**7.** A copy of the latest Net Capacity Assessment form, completed in accordance with the guidance, Assessing the Net Capacity of Schools.
+**7.**[^c-0476d59ea4782a0f9e1950ab6aaaef9c] A copy of the latest Net Capacity Assessment form, completed in accordance with the guidance, Assessing the Net Capacity of Schools.
 
-**8.** A copy of the minutes of the meeting at which the admission authority determined the admission arrangements.
+**8.**[^c-a43669e7358e1e2bba9681b9aee0ee1b] A copy of the minutes of the meeting at which the admission authority determined the admission arrangements.
 
-**9.** If the admission authority is not the governing body of the school, the date on which the determined admission number was notified to the governing body.
+**9.**[^c-77bd964b7bd635ac4d30c65bbc958e56] If the admission authority is not the governing body of the school, the date on which the determined admission number was notified to the governing body.
 
-**10.** The dates on which the objection or, as the case may be the adjudicator’s consideration of the admission arrangements under section 88I, was discussed by the governing body of the school and where such discussions have been held, a copy of minutes of those discussions.
+**10.**[^c-38cb1ba118124672873cb460be872668] The dates on which the objection or, as the case may be the adjudicator’s consideration of the admission arrangements under section 88I, was discussed by the governing body of the school and where such discussions have been held, a copy of minutes of those discussions.
 
-**11.** Whether those who were originally consulted on the admission arrangements have been notified about the objection or, as the case may be the adjudicator’s consideration of the admission arrangements under section 88I, and where they have, a copy of any responses to those notifications.
+**11.**[^c-37f65ebb4fe48562bbca3d6a48a91829] Whether those who were originally consulted on the admission arrangements have been notified about the objection or, as the case may be the adjudicator’s consideration of the admission arrangements under section 88I, and where they have, a copy of any responses to those notifications.
 
 EXPLANATORY NOTE
 
@@ -660,6 +664,10 @@ Part 9 makes amendments to other instruments: in the Education (Infant Class Siz
 
 [^f00003]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). See definitions of “prescribed” and “regulations” in section 579(1).
 
+[^c-082753e2a280df93fc0bc2c897a6a830]: Commencement: Reg. 1 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-96e053d599f7f7166f227728762cec10]: Commencement: Reg. 2 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
 [^f00004]: Footnote: Assessing the Net Capacity of Schools, DfES/0739/2001 REV is available on the DCSF website www.dcsf.gov.uk/netcapacity/. See section 142(1) of SSFA 1998 for the definition of “relevant age group”.
 
 [^f00005]: Footnote: Section 101 is amended by section 54 of the Education and Inspections Act 2006.
@@ -668,20 +676,116 @@ Part 9 makes amendments to other instruments: in the Education (Infant Class Siz
 
 [^f00007]: Footnote: Section 84 is amended by section 40 of, and Part 6 of Schedule 18 to, the Education and Inspections Act 2006.
 
+[^c-94b85453ea4e5052dbf928420a5df96c]: Commencement: Reg. 3 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-0018dd0e127035694ff6ad1f0530a2d9]: Commencement: Reg. 4 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-571ce0649c58b01b71dc5f8019d5b46e]: Commencement: Reg. 5 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-c85e34dd469f5fb3ac64b75d83b81f0e]: Commencement: Reg. 6 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-da35e4371e6160d4ac54ff0eb0a2b8f2]: Commencement: Reg. 7 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
 [^f00008]: Footnote: [c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
+[^c-688d3fe63a4f474fee77f8f03ac0318c]: Commencement: Reg. 8 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-3758cce5f2f52e97eac816d47cbd5976]: Commencement: Reg. 9 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-32b340be4d8f5ef76cc873b2b1532463]: Commencement: Reg. 10 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-dbe5afab2ae8e35b8ad553b1c7a33d7f]: Commencement: Reg. 11 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-890e67c96164c850fd44eb17a5093ea7]: Commencement: Reg. 12 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-92b1e5389ec85a519ee00e116a1b2175]: Commencement: Reg. 13 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-769710b5d657107495d0ed7f8cd47c3d]: Commencement: Reg. 14 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-bf67eb48f0bd45b2192f6993fd104348]: Commencement: Reg. 15 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-56a07595aa42c9db559d8b9ebea286f3]: Commencement: Reg. 16 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-29d4cb72d153c751c8480404f579fc48]: Commencement: Reg. 17 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-98b05e87cb455d9f6da28af933449d44]: Commencement: Reg. 18 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-5e609f69af9dbb66593c5d4b37f5f9dd]: Commencement: Reg. 19 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-477386f84718a1050f7ce73fa3f66bbc]: Commencement: Reg. 20 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-ee27854f37d64a5798a312ba7d63a1d3]: Commencement: Reg. 21 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-f29371420e4b6c5c6978f76b466ccb5a]: Commencement: Reg. 22 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-f86e692d43ae4bda81ab1100ea9e9e3b]: Commencement: Reg. 23 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-f96124e106cf66444dee69a021385269]: Commencement: Reg. 24 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-d56ca93f641884386017f7d1ffadce3a]: Commencement: Reg. 25 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-05cf240fc324ce0df0ce745c2660ca19]: Commencement: Reg. 26 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
 [^f00009]: Footnote: See section 98A of the School Standards and Framework Act 1998, inserted by section 153 of the Education and Skills Act 2008, for the meaning of “sixth form education”.
+
+[^c-e3c42efcaffe9e7945077ab78b3a6acd]: Commencement: Reg. 27 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-f1502e03bef58ffb0c62c57b6b4d8eae]: Commencement: Reg. 28 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-a062d55e677fd864a192602a7a59ebbd]: Commencement: Reg. 29 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-3dc0aac3080295325fa36b8731462219]: Commencement: Reg. 30 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-6ebd030118e3f84fbaad79ae190b642f]: Commencement: Reg. 31 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-ddc35921044ed1f08a5e40c74fc76be1]: Commencement: Reg. 32 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-26ea676c4a103d983e1a4ab2ca8bfac6]: Commencement: Reg. 33 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-4143f87e582ec09064781deae1e021e5]: Commencement: Reg. 34 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 1998/1973](https://www.legislation.gov.uk/uksi/1998/1973), as amended by [S.I. 2006/3409](https://www.legislation.gov.uk/uksi/2006/3409).
 
 [^f00011]: Footnote: See section 4 of the SSFA 1998, as amended by Schedule 21 of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), for the definition of “school teacher”.
 
+[^c-aee904142406a7e6fa228b38182fc527]: Commencement: Reg. 35 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
 [^f00012]: Footnote: [S.I. 2008/4](https://www.legislation.gov.uk/uksi/2008/4).
 
 [^f00013]: Footnote: Section 86 is amended by paragraph 54 of Schedule 1 to the Education and Skills Act 2008; and section 86A is inserted by section 150 of that Act.
 
+[^c-4a00e08952be5f61b9fee08b2e4eda18]: Commencement: Reg. 36 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
 [^f00014]: Footnote: [S.I. 1998/2229](https://www.legislation.gov.uk/uksi/1998/2229).
+
+[^c-dacbea557fd6cee77966848785ec2026]: Commencement: Reg. 37 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 1999/258](https://www.legislation.gov.uk/uksi/1999/258). These regulations are amended in relation to England only by [S.I. 2006/3408](https://www.legislation.gov.uk/uksi/2006/3408).
 
+[^c-3b406ae63deee9f60288b19a86ad6788]: Commencement: Sch. 1 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
 [^f00016]: Footnote: These Regulations are amended to disapply them from Wales by [S.I. 2006/174 (W.25)](https://www.legislation.gov.uk/wsi/2006/174).
+
+[^c-25e8bf8e42ea04a8bb417f6d4c7aaea9]: Commencement: Sch. 2 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-34ab28e10a1ef19e9a929d5de23743ac]: Commencement: Sch. 3 para. 1 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-d13d47df9090cf9b0027d0c01311f502]: Commencement: Sch. 3 para. 2 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-ebd1890d0e8d5dac7c00247dfd64e007]: Commencement: Sch. 3 para. 3 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-4abb03e6f45e339ce26b4431ddc21b87]: Commencement: Sch. 3 para. 4 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-cea5b4629ce396b0387b10e86de817a5]: Commencement: Sch. 3 para. 5 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-a27da359d398af207623cd14fc0830b0]: Commencement: Sch. 3 para. 6 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-0476d59ea4782a0f9e1950ab6aaaef9c]: Commencement: Sch. 3 para. 7 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-a43669e7358e1e2bba9681b9aee0ee1b]: Commencement: Sch. 3 para. 8 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-77bd964b7bd635ac4d30c65bbc958e56]: Commencement: Sch. 3 para. 9 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-38cb1ba118124672873cb460be872668]: Commencement: Sch. 3 para. 10 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)
+
+[^c-37f65ebb4fe48562bbca3d6a48a91829]: Commencement: Sch. 3 para. 11 in force at 31.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3089/regulation/1/2)

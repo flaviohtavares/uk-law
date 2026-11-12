@@ -12,6 +12,6 @@ Laws in force under the legislation.gov.uk subject heading **HORSE RACING AND BE
 
 **1996**
 
-- [Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/208-horse-racing-charges-on-bookmakers-order-northern-ireland-1996.md) *(as originally made)*
+- [Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/208-horse-racing-charges-on-bookmakers-order-northern-ireland-1996.md) *(changes pending)*
 
 Not official and not legal advice: check [legislation.gov.uk](https://www.legislation.gov.uk) before relying on any text.

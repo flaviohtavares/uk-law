@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **INSOLVENCY**. Repea
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Insolvency Act 1986](../uk-parliament/acts/public/1986/45-insolvency-act-1986/README.md) *(changes pending)* — 176 regulations on this topic made under it
+- [Insolvency Act 1986](../uk-parliament/acts/public/1986/45-insolvency-act-1986/README.md) *(changes pending)* — 175 regulations on this topic made under it
 - [The Insolvency (Northern Ireland) Order 1989](../northern-ireland/orders-in-council/1989/2405-the-insolvency-northern-ireland-order-1989/README.md) *(changes pending)* — 67 regulations on this topic made under it
 - [Corporate Insolvency and Governance Act 2020](../uk-parliament/acts/public/2020/12-corporate-insolvency-and-governance-act-2020/README.md) *(changes pending)* — 20 regulations on this topic made under it
 - [Company Directors Disqualification Act 1986](../uk-parliament/acts/public/1986/46-company-directors-disqualification-act-1986.md) *(changes pending)* — 17 regulations on this topic made under it
@@ -22,7 +22,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-389 in force.
+388 in force.
 
 **2026**
 
@@ -295,7 +295,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Insolvency (Amendment) Rules (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/118-the-insolvency-amendment-rules-northern-ireland-2008.md) *(as originally made)*
 - [The Insolvency (Company Arrangement or Administration Provisions for an Industrial and Provident Society) Order (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/445-the-insolvency-company-arrangement-or-administration-provisions-for-an-industria.md) *(as originally made)*
 - [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/94-the-insolvency-disqualification-from-office-general-order-northern-ireland-2008.md)
-- [The Insolvency (Scotland) Amendment Rules 2008](../uk-parliament/regulations/2008/0500-0999/662-the-insolvency-scotland-amendment-rules-2008.md) *(changes pending)*
 - [The Insolvency (Scotland) Rules 1986 Amendment Rules 2008](../scotland/regulations/2008/0000-0499/393-the-insolvency-scotland-rules-1986-amendment-rules-2008.md) *(as originally made)*
 - [The Insolvency (Voluntary Winding Up) (Forms) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/261-the-insolvency-voluntary-winding-up-forms-regulations-northern-ireland-2008.md) *(as originally made)*
 - [The Insolvency Practitioners and Insolvency Services Account (Fees) (Amendment) (No. 2) Order 2008](../uk-parliament/regulations/2008/0500-0999/672-the-insolvency-practitioners-and-insolvency-services-account-fees-amendment-no-2.md) *(as originally made)*

@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 43
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '43'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/43
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 43
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 43. Calculation of the base entitlement in relation to a course year[^c-bdb7196a9d6ad32b875c57e8c73d4ecb]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) The base entitlement of an eligible student in relation to a course year or part of a course year is calculated—
 
@@ -42,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^c-bdb7196a9d6ad32b875c57e8c73d4ecb]: Commencement: Reg. 43 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-bdb7196a9d6ad32b875c57e8c73d4ecb]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2026/858/regulation/43) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00025]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 124 was amended by paragraph 30(2), (4) and (5) of Schedule 2 and Schedule 3 to the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), paragraph 28 of Schedule 8 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 2(2) and (3) of Schedule 2 and Schedule 3 to the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 42 of Schedule 24 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 9(9) and (10) of Schedule 3 and Schedule 8 to the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), section 3(1) of the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24) and section 58(2) of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) and repealed for specified purposes by Part 1 of Schedule 14 to the Welfare Reform Act 2012.
 

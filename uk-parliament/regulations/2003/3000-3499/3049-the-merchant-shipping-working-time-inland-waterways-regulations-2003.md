@@ -3,15 +3,15 @@ title: 'The Merchant Shipping (Working Time: Inland Waterways) Regulations 2003'
 id: uksi/2003/3049
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2003-11-27'
-text_date: '2020-01-27'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2003/3049
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2003/3049/pdfs/uksi_20033049_en.pdf
 - http://www.legislation.gov.uk/uksi/2003/3049/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Merchant Shipping (Working Time: Inland Waterways) Regulations 2003
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2020-01-27. See https://www.legislation.gov.uk/changes/affected/uksi/2003/3049
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -454,8 +454,8 @@ An employer shall provide the MCA with such information on night workers employe
 
 (2) An employment tribunal shall not consider a complaint under this regulation unless it is presented—
 
-- (a) before the end of the period of three months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period or leave extending over more than one day, the date on which it should have been permitted to begin) or, as the case may be, the payment should have been made;
-- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
+- (a) before the end of the period of six[^c-3231584dbe3f1d1d79d22770278d6822] months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period or leave extending over more than one day, the date on which it should have been permitted to begin) or, as the case may be, the payment should have been made;
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^c-ac4d63d6ebd4e6544b149b29e9b41559] months.
 
 (2A)[^c-72d2da15b82054df47b99fa89118b661] Regulation 18A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
@@ -796,6 +796,10 @@ Merchant Shipping Notices are published by the Maritime and Coastguard Agency. C
 [^c-39042dc849e41cb8c51d1a5201bbeada]: Textual amendment: [Reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/1/a) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/21/2)
 
 [^c-47532ef9f49c58a0567a1baca689d262]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/1/b) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/21/3)
+
+[^c-3231584dbe3f1d1d79d22770278d6822]: Textual amendment: Word in [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/10/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^c-ac4d63d6ebd4e6544b149b29e9b41559]: Textual amendment: Word in [reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/2/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/10/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
 [^c-72d2da15b82054df47b99fa89118b661]: Textual amendment: Reg. 18(2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/22)
 

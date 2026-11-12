@@ -286,7 +286,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Dual-Use and Related Goods (Export Control) (Suspension No. 2) Regulations 1995](../uk-parliament/regulations/1995/1000-1499/1151-the-dual-use-and-related-goods-export-control-suspension-no-2-regulations-1995.md) *(as originally made)*
 - [The Dual-Use and Related Goods (Export Control) (Suspension) Regulations 1995](../uk-parliament/regulations/1995/0000-0499/441-the-dual-use-and-related-goods-export-control-suspension-regulations-1995.md) *(as originally made)*
 - [The Dual-Use and Related Goods (Export Control) Regulations 1995](../uk-parliament/regulations/1995/0000-0499/271-the-dual-use-and-related-goods-export-control-regulations-1995/README.md) *(as originally made)*
-- [The Excise Goods (Drawback) Regulations 1995](../uk-parliament/regulations/1995/1000-1499/1046-the-excise-goods-drawback-regulations-1995.md) *(changes pending)*
+- [The Excise Goods (Drawback) Regulations 1995](../uk-parliament/regulations/1995/1000-1499/1046-the-excise-goods-drawback-regulations-1995.md)
 - [The Export of Goods (Control) (Amendment No. 2) Order 1995](../uk-parliament/regulations/1995/3000-3499/3249-the-export-of-goods-control-amendment-no-2-order-1995.md) *(as originally made)*
 - [The Export of Goods (Control) (Amendment) Order 1995](../uk-parliament/regulations/1995/3000-3499/3060-the-export-of-goods-control-amendment-order-1995.md) *(as originally made)*
 - [The Finance Act 1993, section 11, (Appointed Day) Order 1995](../uk-parliament/regulations/1995/2500-2999/2715-the-finance-act-1993-section-11-appointed-day-order-1995.md) *(as originally made)*

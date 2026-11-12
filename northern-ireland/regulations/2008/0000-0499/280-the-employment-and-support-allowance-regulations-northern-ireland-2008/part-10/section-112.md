@@ -3,7 +3,7 @@ title: The Employment and Support Allowance Regulations (Northern Ireland) 2008,
 act: The Employment and Support Allowance Regulations (Northern Ireland) 2008
 section: '112'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2008/280/section/112
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Employment and Support Allowance Regulations (Northern Ireland) 2008, section 112
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2008/280
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2008/280
 >
 > Extent: Northern Ireland.
 
@@ -48,7 +48,8 @@ is to be treated as capital.
   - (iii) Windrush payment.
   - (iv)[^c-3124102b11b68b6faaedf6ff4b0ff86f] Post Office compensation payment;
   - (v) LGBT Financial Recognition Scheme payment;[^c-d96a84f4d036376235911d2374659cbc]
-- (vi) miscarriage of justice compensation payment.
+  - (va)[^c-0e0cfd8032b4cfa29b2b796d3c4b8107] Mother and Baby Scheme payment;
+  - (vi) miscarriage of justice compensation payment.
 
 ## Annotations
 
@@ -66,4 +67,6 @@ is to be treated as capital.
 
 [^c-3124102b11b68b6faaedf6ff4b0ff86f]: Textual amendment: [Reg. 112(8)(b)(iv)](https://www.legislation.gov.uk/nisr/2008/280/regulation/112/8/b/iv)[(v)](https://www.legislation.gov.uk/nisr/2008/280/regulation/112/8/b/v) substituted for [reg. 112(8)(b)(iv)](https://www.legislation.gov.uk/nisr/2008/280/regulation/112/8/b/iv) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [8(4)](https://www.legislation.gov.uk/nisr/2025/24/regulation/8/4)
 
-[^c-d96a84f4d036376235911d2374659cbc]: Textual amendment: [Reg. 112(8)(b)(vi)](https://www.legislation.gov.uk/nisr/2008/280/regulation/112/8/b/v)and semicolon substituted for full stop(22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [7(4)](https://www.legislation.gov.uk/nisr/2025/122/regulation/7/4)
+[^c-d96a84f4d036376235911d2374659cbc]: Textual amendment: [Reg. 112(8)(b)(vi)](https://www.legislation.gov.uk/nisr/2008/280/regulation/112/8/b/v)and semicolon substituted for full stop (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [7(4)](https://www.legislation.gov.uk/nisr/2025/122/regulation/7/4)
+
+[^c-0e0cfd8032b4cfa29b2b796d3c4b8107]: Textual amendment: [Reg. 112(8)(b)(va)](https://www.legislation.gov.uk/nisr/2008/280/regulation/112/8/b) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2026/177/regulation/6/4)

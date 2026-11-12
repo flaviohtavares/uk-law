@@ -9,11 +9,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Legal Aid (Scotland) Act 1986](../uk-parliament/acts/public/1986/47-legal-aid-scotland-act-1986/README.md) *(changes pending)* — 351 regulations on this topic made under it
 - [Legal Aid Act 1988](../uk-parliament/acts/public/1988/34-legal-aid-act-1988/README.md) *(changes pending)* — 190 regulations on this topic made under it
 - [Legal Aid, Sentencing and Punishment of Offenders Act 2012](../uk-parliament/acts/public/2012/10-legal-aid-sentencing-and-punishment-of-offenders-act-2012/README.md) *(changes pending)* — 126 regulations on this topic made under it
-- [Legal Aid, Advice and Assistance (Northern Ireland) Order 1981](../northern-ireland/orders-in-council/1981/228-legal-aid-advice-and-assistance-northern-ireland-order-1981.md) *(changes pending)* — 88 regulations on this topic made under it
+- [Legal Aid, Advice and Assistance (Northern Ireland) Order 1981](../northern-ireland/orders-in-council/1981/228-legal-aid-advice-and-assistance-northern-ireland-order-1981.md) *(changes pending)* — 87 regulations on this topic made under it
 
 ## Regulations
 
-802 in force.
+801 in force.
 
 **2026**
 
@@ -621,9 +621,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Act of Sederunt (Civil Legal Aid Rules) (Amendment) 1996](../uk-parliament/regulations/1996/2000-2499/2148-act-of-sederunt-civil-legal-aid-rules-amendment-1996.md) *(as originally made)*
 - [Legal Advice and Assistance (Amendment No. 2) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/411-legal-advice-and-assistance-amendment-no-2-regulations-northern-ireland-1996.md) *(as originally made)*
 - [Legal Advice and Assistance (Amendment No. 3) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/483-legal-advice-and-assistance-amendment-no-3-regulations-northern-ireland-1996.md) *(as originally made)*
-- [Legal Advice and Assistance (Prospective Cost) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/205-legal-advice-and-assistance-prospective-cost-regulations-northern-ireland-1996.md) *(as originally made)*
+- [Legal Advice and Assistance (Prospective Cost) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/205-legal-advice-and-assistance-prospective-cost-regulations-northern-ireland-1996.md) *(changes pending)*
 - [Legal Aid (Assessment of Resources) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/410-legal-aid-assessment-of-resources-amendment-regulations-northern-ireland-1996.md) *(as originally made)*
-- [Legal Aid (Financial Conditions) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/97-legal-aid-financial-conditions-regulations-northern-ireland-1996.md) *(changes pending)*
 - [Legal Aid, Advice and Assistance (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/482-legal-aid-advice-and-assistance-amendment-order-northern-ireland-1996.md) *(as originally made)*
 - [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 1996](../uk-parliament/regulations/1996/1000-1499/1011-the-advice-and-assistance-assistance-by-way-of-representation-scotland-amendment.md) *(as originally made)*
 - [The Advice and Assistance (Financial Conditions) (Scotland) Regulations 1996](../uk-parliament/regulations/1996/1000-1499/1010-the-advice-and-assistance-financial-conditions-scotland-regulations-1996.md) *(as originally made)*

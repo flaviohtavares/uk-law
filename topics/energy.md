@@ -92,7 +92,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2022**
 
-- [The Boiler Upgrade Scheme (England and Wales) Regulations 2022](../uk-parliament/regulations/2022/0500-0999/565-the-boiler-upgrade-scheme-england-and-wales-regulations-2022.md) *(changes pending)*
+- [The Boiler Upgrade Scheme (England and Wales) Regulations 2022](../uk-parliament/regulations/2022/0500-0999/565-the-boiler-upgrade-scheme-england-and-wales-regulations-2022.md)
 - [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022](../uk-parliament/regulations/2022/0000-0499/159-the-domestic-renewable-heat-incentive-scheme-and-renewable-heat-incentive-scheme.md) *(as originally made)*
 - [The Energy Bill Relief Scheme (Northern Ireland) Regulations 2022](../uk-parliament/regulations/2022/1000-1499/1106-the-energy-bill-relief-scheme-northern-ireland-regulations-2022.md)
 - [The Energy Bill Relief Scheme Pass-through Requirement (England and Wales and Scotland) Regulations 2022](../uk-parliament/regulations/2022/1000-1499/1103-the-energy-bill-relief-scheme-pass-through-requirement-england-and-wales-and-sco.md) *(as originally made)*

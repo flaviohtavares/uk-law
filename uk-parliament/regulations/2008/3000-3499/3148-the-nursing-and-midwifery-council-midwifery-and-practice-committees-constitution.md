@@ -3,16 +3,16 @@ title: The Nursing and Midwifery Council (Midwifery and Practice Committees) (Co
 id: uksi/2008/3148
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-09'
-text_date: '2020-08-31'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3148
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3148/pdfs/uksiem_20083148_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3148/pdfs/uksi_20083148_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3148/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Nursing and Midwifery Council (Midwifery and Practice Committees) (Constitution) Rules Order of Council 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2020-08-31. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3148
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -141,6 +141,8 @@ The Council may obtain the assistance of the Appointments Board in connection wi
 #### 7. Chairing of the Practice Committees
 
 (1) The Council shall appoint, from amongst the members of each of the Practice Committees, persons to act as chairs of the committee of which they are a member (“panel chairs”).
+
+(1A)[^c-7735e0ab2b4eef0fe80f714ae109c971] The Council may appoint panel chairs who meet the qualification requirements for appointment as a legal assessor under article 34(5) of the Order, to act as legally qualified chairs of the committee of which they are a member.
 
 (2) Of those persons, the Council shall designate one panel chair of each Practice Committee to act as the chair of that committee for a period determined by the Council on designation.
 
@@ -335,6 +337,8 @@ Part 3 contains common provisions relating to the disqualification from appointm
 [^c-01d619362717037be4ef03c4d9f5e822]: Textual amendment: Words in Sch. rule 6(10) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/b)
 
 [^c-9880106e7d7b16b20f8805bd10c160ba]: Textual amendment: Sch. rule 6(11) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/c)
+
+[^c-7735e0ab2b4eef0fe80f714ae109c971]: Textual amendment: Sch. rule 7(1A) inserted (1.10.2026) by [The Nursing and Midwifery Council (Fees) (Practice Committee) (Fitness to Practise) (Amendment) Rules Order of Council 2026 (S.I. 2026/822)](https://www.legislation.gov.uk/uksi/2026/822), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/1), [19](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/19)
 
 [^c19509481]: Marginal citation: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40); section 7 was repealed by the [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
 

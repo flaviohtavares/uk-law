@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 6
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-6
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 6
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## Schedule 6 — Fee loan per-course amounts for various higher education courses[^c-ba3b2d783e1c0ecd2cbb67e8d1c60312]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 Regulation 35(2)
 
@@ -55,4 +53,4 @@ Regulation 35(2)
 
 ## Annotations
 
-[^c-ba3b2d783e1c0ecd2cbb67e8d1c60312]: Commencement: Sch. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-ba3b2d783e1c0ecd2cbb67e8d1c60312]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2026/858/schedule/6) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

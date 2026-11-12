@@ -3,15 +3,15 @@ title: The Water Resources (Control of Agricultural Pollution) (Wales) Regulatio
 id: wsi/2021/77
 type: WelshStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2021-01-21'
-text_date: '2024-01-01'
+text_date: '2026-10-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2021/77
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2021/77/pdfs/wsi_20210077_mi.pdf
 - http://www.legislation.gov.uk/wsi/2021/77/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/wsi/2021/77
+> Text as at 2026-10-15.
 >
 > Extent: England, Wales.
 
@@ -93,6 +93,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 - [Section 17 — Meaning of “organic manure with high readily available nitrogen”](part-5/section-17.md)
 - [Section 18 — Closed periods for spreading organic manure with high readily available nitrogen](part-5/section-18.md)
+- [Section 18A — Temporary exemption for 2026](part-5/section-18a.md)
 - [Section 19 — Exemptions: crops sown before 15 September](part-5/section-19.md)
 - [Section 20 — Exemptions for organic holdings](part-5/section-20.md)
 - [Section 21 — Restrictions following the closed period](part-5/section-21.md)

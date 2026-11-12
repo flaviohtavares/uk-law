@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, section 72
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: '72'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/section/72
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006, section 72
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 
@@ -89,6 +89,7 @@ summary: ''
 - (bd)[^c-b7b3c3f31222732f6378e1c76caffd3c] any Post Office compensation payment;
 - (be)[^c-7f9493d5c1cfd3d21397b94b60541fe3] any LGBT Financial Recognition Scheme payment;
 - (bf)[^c-ce5959e32cdef7f222bcb0080aa2497c] any miscarriage of justice compensation payment;
+- (bg)[^c-674c3bb2a539b12647e420a127bf7c50] any Mother and Baby Scheme payment;
 - (c) any payment which had his income fallen to be calculated under regulation 37 would have been disregarded under paragraph 37 of Schedule 6.
 - (d)[^c-36f201039c8b537161f37b1c3dd6b9be] any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State.
 
@@ -273,6 +274,8 @@ summary: ''
 [^c-7f9493d5c1cfd3d21397b94b60541fe3]: Textual amendment: [Reg. 72(9)(be)](https://www.legislation.gov.uk/nisr/2006/405/regulation/72/9/be) inserted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [6(6)](https://www.legislation.gov.uk/nisr/2025/24/regulation/6/6)
 
 [^c-ce5959e32cdef7f222bcb0080aa2497c]: Textual amendment: [Reg. 72(9)(bf)](https://www.legislation.gov.uk/nisr/2006/405/regulation/72/9/bf) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [5(6)](https://www.legislation.gov.uk/nisr/2025/122/regulation/5/6)
+
+[^c-674c3bb2a539b12647e420a127bf7c50]: Textual amendment: [Reg. 72(9)(bg)](https://www.legislation.gov.uk/nisr/2006/405/regulation/72/9/bg) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [4(6)](https://www.legislation.gov.uk/nisr/2026/177/regulation/4/6)
 
 [^c-36f201039c8b537161f37b1c3dd6b9be]: Textual amendment: [Reg. 72(9)(d)](https://www.legislation.gov.uk/nisr/2006/405/regulation/72/9/d) inserted (30.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations (Northern Ireland) 2017 (S.R. 2017/219)](https://www.legislation.gov.uk/nisr/2017/219), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/219/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2017/219/regulation/6/4)
 

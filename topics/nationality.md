@@ -78,7 +78,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Immigration and Nationality (Fees) (Amendment) (EU Exit) (No. 2) Regulations 2018](../uk-parliament/regulations/2018/0500-0999/999-the-immigration-and-nationality-fees-amendment-eu-exit-no-2-regulations-2018.md) *(as originally made)*
 - [The Immigration and Nationality (Fees) (Amendment) (EU Exit) Regulations 2018](../uk-parliament/regulations/2018/0500-0999/875-the-immigration-and-nationality-fees-amendment-eu-exit-regulations-2018.md) *(as originally made)*
 - [The Immigration and Nationality (Fees) (Amendment) Order 2018](../uk-parliament/regulations/2018/0000-0499/329-the-immigration-and-nationality-fees-amendment-order-2018.md) *(as originally made)*
-- [The Immigration and Nationality (Fees) Regulations 2018](../uk-parliament/regulations/2018/0000-0499/330-the-immigration-and-nationality-fees-regulations-2018.md) *(changes pending)*
+- [The Immigration and Nationality (Fees) Regulations 2018](../uk-parliament/regulations/2018/0000-0499/330-the-immigration-and-nationality-fees-regulations-2018.md)
 - [The Immigration and Nationality (Requirements for Naturalisation and Fees) (Amendment) Regulations 2018](../uk-parliament/regulations/2018/0500-0999/618-the-immigration-and-nationality-requirements-for-naturalisation-and-fees-amendme.md) *(as originally made)*
 
 **2017**

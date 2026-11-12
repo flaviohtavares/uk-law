@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, section 39
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: '39'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006, section 39
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 
@@ -70,6 +70,7 @@ any income which would become available to the claimant upon application being m
 - (c)[^c-7204b8191b0db1106fabc5bae2f8591f] a Windrush payment;
 - (d) a Post Office compensation payment;
 - (e) an LGBT Financial Recognition Scheme payment ;[^c-ed0c1a3aa8319bfa3b66c05c3caec9aa]
+- (ea)[^c-a970fe6d958ada5282bc7c85e7c42066] a Mother and Baby Scheme payment;
 - (f) a miscarriage of justice compensation payment.
 
 (8) Where a claimant is in receipt of any benefit (other than housing benefit) under the benefit Acts and the rate of that benefit is altered with effect from a date on or after 1st April in any year but not more than 14 days thereafter, the relevant authority shall treat the claimant as possessing such benefit at the altered rate—
@@ -161,6 +162,8 @@ the relevant authority shall treat the claimant as possessing such earnings (if 
 [^c-7204b8191b0db1106fabc5bae2f8591f]: Textual amendment: [Reg. 39(7A)(c)-(e)](https://www.legislation.gov.uk/nisr/2006/405/regulation/39/7A/c) substituted for [reg. 39(7A)(c)(d)](https://www.legislation.gov.uk/nisr/2006/405/regulation/39/7A/c) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2025/24/regulation/6/3)
 
 [^c-ed0c1a3aa8319bfa3b66c05c3caec9aa]: Textual amendment: [Reg. 39(7A)(f)](https://www.legislation.gov.uk/nisr/2006/405/regulation/39/7A/f) and semicolon substituted for full stop in reg. 39(7A)(e) (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2025/122/regulation/5/3)
+
+[^c-a970fe6d958ada5282bc7c85e7c42066]: Textual amendment: [Reg. 39(7A)(ea)](https://www.legislation.gov.uk/nisr/2006/405/regulation/39/7A/ea) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2026/177/regulation/4/3)
 
 [^c-c32f99ff6a611e43abaa649f49be8dad]: Textual amendment: Word in [reg. 39(10)(a)](https://www.legislation.gov.uk/nisr/2006/405/regulation/39/10/a) omitted (1.10.2007) by virtue of [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 (S.R. 2007/396)](https://www.legislation.gov.uk/nisr/2007/396), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1), [9(7)(a)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/7/a)
 

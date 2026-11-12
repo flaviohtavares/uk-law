@@ -3,16 +3,16 @@ title: The Charges for Residues Surveillance Regulations 2006
 id: uksi/2006/2285
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2006-08-22'
-text_date: '2026-06-01'
+text_date: '2026-10-29'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2006/2285
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2006/2285/pdfs/uksiem_20062285_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/2285/pdfs/uksi_20062285_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/2285/data.pdf
-pending_changes: 4
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Charges for Residues Surveillance Regulations 2006
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/uksi/2006/2285
+> Text as at 2026-10-29.
 >
 > Extent: England, Wales, Scotland.
 
@@ -132,8 +132,8 @@ in a manner suitable for informing operators of businesses producing brown trout
 
 (1)[^c-750ee58e76b3c5241eb49343aea7db21] In respect of costs incurred by a competent authority in carrying out the official controls required by Article 150(1) of the Official Controls Regulation on the animals, fish and animal products listed in the first column of Schedule 1, the competent authority shall, except where paragraph (7) applies—
 
-- (a) for animals slaughtered, wild game prepared, fish marketed, milk collected or eggs packed within the period beginning with 1 October 2024 and ending with 31 March 2025, charge the amount specified in the corresponding entry in the second column of that Schedule; and
-- (b) for animals slaughtered, wild game prepared, fish marketed, milk collected or eggs packed on or after 1 April 2025, charge the amount specified in the corresponding entry in the third column of that Schedule.
+- (a) for animals slaughtered, wild game prepared, fish marketed, milk collected or eggs packed within the period beginning with 29 October 2026[^c-4ee0e49f4745f4b1cacc1f55602765b8] and ending with 31 March 2027[^c-220af03f7d78dfa8cb54045a95475eea], charge the amount specified in the corresponding entry in the second column of that Schedule; and
+- (b) for animals slaughtered, wild game prepared, fish marketed, milk collected or eggs packed on or after 1 April 2027[^c-0b1ac14c9ac3368708fcbfbf0378832a], charge the amount specified in the corresponding entry in the third column of that Schedule.
 
 (2) Any charge under paragraph (1) is payable to a competent authority[^c-b02f4510b7bf42ed0a1d7cf172df9da7], and is recoverable by the competent authority[^M_F_28f52526-590f-4251-960f-f768b8b249bb] on demand as a debt owed to the competent authority by the person liable to pay the charge under paragraph (3).
 
@@ -281,40 +281,11 @@ Parliamentary Under Secretary of State,
 
 Department for Environment, Food and Rural Affairs
 
-## Schedule 1 — Residues Surveillance Charges[^c-18b49a99c3f1bc136707451147936174][^c-c8adbf36d453255abc802faab89b4511][^c-d693986001d7736f099cc0a3da4fc5fd]
+## Schedule 1 — Residues surveillance charges[^M_F_ae9d2b51-5858-48a1-c7a0-2f760ab41eb5][^M_F_bc2de80d-b7a9-463c-b5f8-e77e2c4d938b][^c-2bce2ef8399726822dda8c7a5ddd5540]
 
 Regulation 3(1)
 
-|  |  |  |
-| --- | --- | --- |
-| Type of creature or animal product *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | Charge (£) from 1st October 2024 to 31st March 2025 *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | Charge (£) on or after 1st April 2025 *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Bovine *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.7007 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.7617 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Goat *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0691 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0751 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Sheep *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0691 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0751 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Soliped *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | [^c-986b4cca91fc036de3b0cfc65b6362d0]0.4287 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.4660 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Swine *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0676 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0735 per carcase *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Game and wild game *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 1.0461 per tonne *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 1.0461 per tonne *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Poultry *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.5917 per tonne *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.6432 per tonne *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Eggs *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0206 per case of 360 *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0206 per case of 360 *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Milk *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0373 per 1000 litres *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 0.0405 per 1000 litres *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Fish other than trout *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 2.1660 per tonne of marketed product *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 2.3546 per tonne of marketed product *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-| Trout *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 2.5963 per tonne of fish food *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] | 2.8222 per tonne of fish food *(affected by repeal, see note)*[^c-c8adbf36d453255abc802faab89b4511] |
-
-| Type of creature or animal product | Charge (£) from 1 April 2026 to 31 March 2027 | Charge (£) on or after 1 April 2027 |
-| --- | --- | --- |
-| Bovine | 0.9964 per carcase | 1.0216 per carcase |
-| Goat | 0.0864 per carcase | 0.0886 per carcase |
-| Sheep | 0.0864 per carcase | 0.0886 per carcase |
-| Soliped | 0.5359 per carcase | 0.5495 per carcase |
-| Swine | 0.0845 per carcase | 0.0867 per carcase |
-| Game and wild game | 1.0461 per tonne | 1.0461 per tonne |
-| Poultry | 0.7397 per tonne | 0.7584 per tonne |
-| Eggs | 0.0237 per case of 360 | 0.0243 per case of 360 |
-| Milk | 0.0466 per 1000 litres | 0.0478 per 1000 litres |
-| Fish other than trout | 2.7078 per tonne of marketed product | 2.7764 per tonne of marketed product |
-| Trout | 3.2455 per tonne of fish food | 3.3278 per tonne of fish food |
-
-| **Type of creature or animal product** | **Charge (£) from 1st June 2026 to 31st March 2027** | **Charge (£) on or after 1st April 2027** |
+| Type of creature or animal product | Charge (£) from 29 October 2026 to 31 March 2027 | Charge (£) from 1 April 2027 |
 | --- | --- | --- |
 | Bovine | 0.9964 per carcase | 1.0216 per carcase |
 | Goat | 0.0864 per carcase | 0.0886 per carcase |
@@ -415,6 +386,12 @@ A Regulatory Impact Assessment of the effect of this instrument on the costs of 
 [^M_E_mwsyuf9i-t0ch-3w5m-gem4-680b79c42361f]: Extent: This version of this provision applies to Scotland only; separate versions have been created for England and Wales
 
 [^c-750ee58e76b3c5241eb49343aea7db21]: Textual amendment: Reg. 3(1) substituted (S.) (1.10.2024) by [The Charges for Residues Surveillance Amendment (Scotland) Regulations 2024 (S.S.I. 2024/218)](https://www.legislation.gov.uk/ssi/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/218/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2024/218/regulation/2/3/a)
+
+[^c-4ee0e49f4745f4b1cacc1f55602765b8]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2006/2285/regulation/3/1/a) substituted (S.) (29.10.2026) by [The Charges for Residues Surveillance Amendment (Scotland) Regulations 2026 (S.S.I. 2026/249)](https://www.legislation.gov.uk/ssi/2026/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/249/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/249/regulation/2/2/a/i)
+
+[^c-220af03f7d78dfa8cb54045a95475eea]: Textual amendment: Word in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2006/2285/regulation/3/1/a) substituted (S.) (29.10.2026) by [The Charges for Residues Surveillance Amendment (Scotland) Regulations 2026 (S.S.I. 2026/249)](https://www.legislation.gov.uk/ssi/2026/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/249/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/249/regulation/2/2/a/ii)
+
+[^c-0b1ac14c9ac3368708fcbfbf0378832a]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2006/2285/regulation/3/1/b) substituted (S.) (29.10.2026) by [The Charges for Residues Surveillance Amendment (Scotland) Regulations 2026 (S.S.I. 2026/249)](https://www.legislation.gov.uk/ssi/2026/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/249/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/249/regulation/2/2/b)
 
 [^c-b02f4510b7bf42ed0a1d7cf172df9da7]: Textual amendment: Words in reg. 3(2) substituted (S.) (1.10.2024) by [The Charges for Residues Surveillance Amendment (Scotland) Regulations 2024 (S.S.I. 2024/218)](https://www.legislation.gov.uk/ssi/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/218/regulation/1/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2024/218/regulation/2/3/b/i)
 
@@ -522,10 +499,8 @@ A Regulatory Impact Assessment of the effect of this instrument on the costs of 
 
 [^c-6dec7dbe7bcdc7ae98ca26bf709b881b]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2285/regulation/4/4) substituted (S.) (1.10.2024) by [The Charges for Residues Surveillance Amendment (Scotland) Regulations 2024 (S.S.I. 2024/218)](https://www.legislation.gov.uk/ssi/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/218/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2024/218/regulation/2/4/c)
 
-[^c-18b49a99c3f1bc136707451147936174]: Textual amendment: Sch. 1 substituted E.) (1.6.2026) by [The Charges for Residues Surveillance (Amendment) (England) Regulations 2026 (S.I. 2026/493)](https://www.legislation.gov.uk/uksi/2026/493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/493/regulation/2/3)
+[^M_F_ae9d2b51-5858-48a1-c7a0-2f760ab41eb5]: Textual amendment: Sch. 1 substituted (W.) (save that the charge is from 1.4.2026 to 31.3.2027) (1.4.2026) by [The Charges for Residues Surveillance (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/57)](https://www.legislation.gov.uk/wsi/2026/57), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/57/regulation/1/3), [2(3)](https://www.legislation.gov.uk/wsi/2026/57/regulation/2/3)
 
-[^c-c8adbf36d453255abc802faab89b4511]: Textual amendment: Sch. 1 substituted (W.) (1.4.2026) by [The Charges for Residues Surveillance (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/57)](https://www.legislation.gov.uk/wsi/2026/57), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/57/regulation/1/3), [2(3)](https://www.legislation.gov.uk/wsi/2026/57/regulation/2/3)
+[^M_F_bc2de80d-b7a9-463c-b5f8-e77e2c4d938b]: Textual amendment: Sch. 1 substituted (E.) (save that the charge is from 1.6.2026 to 31.3.2027) (1.6.2026) by [The Charges for Residues Surveillance (Amendment) (England) Regulations 2026 (S.I. 2026/493)](https://www.legislation.gov.uk/uksi/2026/493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/493/regulation/2/3)
 
-[^c-d693986001d7736f099cc0a3da4fc5fd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2285/schedule/1) substituted (E.) (1.10.2024) by [The Charges for Residues Surveillance (Amendment) (England) Regulations 2024 (S.I. 2024/892)](https://www.legislation.gov.uk/uksi/2024/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/892/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/892/regulation/2/3); corresponding substitution (S.) (1.10.2024) by [The Charges for Residues Surveillance Amendment (Scotland) Regulations 2024 (S.S.I. 2024/218)](https://www.legislation.gov.uk/ssi/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/218/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/218/regulation/2/5); and corresponding substitution (W.) (save that the entry for soliped contains a typographical error) (1.10.2024) by [The Charges for Residues Surveillance (Amendment) (Wales) Regulations 2024 (S.I. 2024/967)](https://www.legislation.gov.uk/uksi/2024/967), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/967/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2024/967/regulation/2/5)
-
-[^c-986b4cca91fc036de3b0cfc65b6362d0]: Textual amendment: Word in Sch. 1 substituted (W.) (to correct typographical error in [S.I. 2024/967](https://www.legislation.gov.uk/uksi/2024/967), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2024/967/regulation/2/5)) (27.3.2025) by [The Charges for Residues Surveillance (Amendment and Revocation) (Wales) Regulations 2025 (S.I. 2025/370)](https://www.legislation.gov.uk/uksi/2025/370), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/370/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2025/370/regulation/2/2)
+[^c-2bce2ef8399726822dda8c7a5ddd5540]: Textual amendment: Sch. 1 substituted (S.) (29.10.2026) by [The Charges for Residues Surveillance Amendment (Scotland) Regulations 2026 (S.S.I. 2026/249)](https://www.legislation.gov.uk/ssi/2026/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/249/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/249/regulation/2/3)

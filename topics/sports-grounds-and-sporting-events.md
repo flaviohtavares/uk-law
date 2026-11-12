@@ -8,7 +8,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Safety of Sports Grounds Act 1975](../uk-parliament/acts/public/1975/52-safety-of-sports-grounds-act-1975.md) — 52 regulations on this topic made under it
 - [Football Spectators Act 1989](../uk-parliament/acts/public/1989/37-football-spectators-act-1989.md) *(changes pending)* — 44 regulations on this topic made under it
-- [Criminal Law (Consolidation) (Scotland) Act 1995](../uk-parliament/acts/public/1995/39-criminal-law-consolidation-scotland-act-1995.md) *(changes pending)* — 17 regulations on this topic made under it
+- [Criminal Law (Consolidation) (Scotland) Act 1995](../uk-parliament/acts/public/1995/39-criminal-law-consolidation-scotland-act-1995.md) *(changes pending)* — 16 regulations on this topic made under it
 - [Glasgow Commonwealth Games Act 2008](../scotland/acts/2008/4-glasgow-commonwealth-games-act-2008.md) — 11 regulations on this topic made under it
 - [Football (Offences) Act 1991](../uk-parliament/acts/public/1991/19-football-offences-act-1991.md) — 8 regulations on this topic made under it
 - [Football Governance Act 2025](../uk-parliament/acts/public/2025/21-football-governance-act-2025/README.md) — 7 regulations on this topic made under it
@@ -18,7 +18,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-169 in force.
+168 in force.
 
 **2026**
 
@@ -120,7 +120,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Glasgow Commonwealth Games Act 2008 (Duration of Urgent Traffic Regulation Measures) Order 2014](../scotland/regulations/2014/0000-0499/92-the-glasgow-commonwealth-games-act-2008-duration-of-urgent-traffic-regulation-me.md) *(as originally made)*
 - [The Glasgow Commonwealth Games Act 2008 (Repeal Day) Order 2014](../scotland/regulations/2014/0000-0499/356-the-glasgow-commonwealth-games-act-2008-repeal-day-order-2014.md) *(as originally made)*
 - [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment Order 2014](../scotland/regulations/2014/0000-0499/374-the-sports-grounds-and-sporting-events-designation-scotland-amendment-order-2014.md) *(as originally made)*
-- [The Sports Grounds and Sporting Events (Designation) (Scotland) Order 2014](../scotland/regulations/2014/0000-0499/5-the-sports-grounds-and-sporting-events-designation-scotland-order-2014.md) *(changes pending)*
+- [The Sports Grounds and Sporting Events (Designation) (Scotland) Order 2014](../scotland/regulations/2014/0000-0499/5-the-sports-grounds-and-sporting-events-designation-scotland-order-2014.md)
 
 **2013**
 
@@ -159,7 +159,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Football Spectators (2008 European Championship Control Period) Order 2008](../uk-parliament/regulations/2008/1000-1499/1165-the-football-spectators-2008-european-championship-control-period-order-2008.md) *(as originally made)*
 - [The Glasgow Commonwealth Games Act 2008 (Commencement No. 1) Order 2008](../scotland/regulations/2008/0000-0499/245-the-glasgow-commonwealth-games-act-2008-commencement-no-1-order-2008.md) *(as originally made)*
-- [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/379-the-sports-grounds-and-sporting-events-designation-scotland-amendment-order-2008.md) *(changes pending)*
 
 **2007**
 

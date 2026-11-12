@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1975-05-08'
-text_date: '2026-04-07'
+text_date: '2026-10-08'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1975/25
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # Northern Ireland Assembly Disqualification Act 1975
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/25
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/25
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -241,6 +241,7 @@ Sections 1 and 3.
 - A New Town Commission established under the [^c3512781]New Towns Act (Northern Ireland) 1965.
 - The Northern Ireland Authority for[^c20459001] Utility[^c20483961] Regulation.
 - The Northern Ireland Fire and Rescue Service Board[^c20471111]
+- The Northern Ireland Fiscal Council[^c-6e154f60ced317869f8862367e0acbb2]
 - The Northern Ireland Health and Personal Social Services Regulation and Improvement Authority.[^c20459831]
 - The Northern Ireland Housing Executive.
 - The Northern Ireland Judicial Appointments Commission.[^c4583391]
@@ -597,7 +598,7 @@ In section 3 (3) of the Northern Ireland Assembly Act 1973 for the words “by t
 
 [^c20484581]: Textual amendment: Sch. 1 Pt. 2: entry inserted (1.11.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/48/1), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/5); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/ii)
 
-[^c-1664d6846a3a4d0e9345a6abce0a1a3c]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/1975/25/schedule/1/part/2) inserted (25.1.2023) by [Advanced Research and Invention Agency Act 2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2022/4/section/13/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/4/schedule/3/paragraph/4); [S.I. 2023/58](https://www.legislation.gov.uk/uksi/2023/58), [reg. 2](https://www.legislation.gov.uk/uksi/2023/58/regulation/2)
+[^c-1664d6846a3a4d0e9345a6abce0a1a3c]: Textual amendment: Words in Sch. 1 Pt. 2 inserted (25.1.2023) by [Advanced Research and Invention Agency Act 2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2022/4/section/13/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/4/schedule/3/paragraph/4); [S.I. 2023/58](https://www.legislation.gov.uk/uksi/2023/58), [reg. 2](https://www.legislation.gov.uk/uksi/2023/58/regulation/2)
 
 [^c-d30db6fa4fddd735ddf121da004c5965]: Textual amendment: Words in Sch. 1 Pt. 2 omitted (31.10.2018 for specified purposes, 30.3.2020 for specified purposes) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/12); [S.I. 2018/1054](https://www.legislation.gov.uk/uksi/2018/1054), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2018/1054/regulation/2/d/v); [S.I. 2020/321](https://www.legislation.gov.uk/uksi/2020/321), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2020/321/regulation/2/d/v)
 
@@ -735,7 +736,7 @@ In section 3 (3) of the Northern Ireland Assembly Act 1973 for the words “by t
 
 [^c3512541]: Marginal citation: [1972 c. 5](https://www.legislation.gov.uk/ukpga/1972/5).
 
-[^c-ce4e9c6f605e81340bf3c7e429626a54]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/1975/25/schedule/1/part/2) inserted (24.5.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2024/21/schedule/1/paragraph/26)
+[^c-ce4e9c6f605e81340bf3c7e429626a54]: Textual amendment: Words in Sch. 1 Pt. 2 inserted (24.5.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2024/21/schedule/1/paragraph/26)
 
 [^c-23f54fd11f4953893e89af8c9976a142]: Textual amendment: Sch. 1 Pt. 2: entry omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/4/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
@@ -775,6 +776,8 @@ In section 3 (3) of the Northern Ireland Assembly Act 1973 for the words “by t
 
 [^c20471111]: Textual amendment: Sch. 1 Pt. 2: entry inserted (1.7.2006) by [The Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. 2006/1254 (N.I. 9))](https://www.legislation.gov.uk/nisi/2006/1254), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/1/3), [3(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/3/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/nisi/2006/1254/schedule/1/paragraph/17); [S.R. 2006/257](https://www.legislation.gov.uk/nisr/2006/257), [art. 2(a)(c)](https://www.legislation.gov.uk/nisr/2006/257/article/2/a/c)
 
+[^c-6e154f60ced317869f8862367e0acbb2]: Textual amendment: Words in Sch. 1 Pt. 2 inserted (N.I.) (8.10.2026) by [Northern Ireland Fiscal Council Act (Northern Ireland) 2026 (c. 8)](https://www.legislation.gov.uk/nia/2026/8), [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2026/8/schedule/2/paragraph/2)
+
 [^c20459831]: Textual amendment: Sch. 1 Pt. 2: entry inserted (1.9.2003) by [The Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 (S.I. 2003/431 (N.I. 9))](https://www.legislation.gov.uk/nisi/2003/431), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2003/431/article/1/3), [50(1)](https://www.legislation.gov.uk/nisi/2003/431/article/50/1), [Sch. 4](https://www.legislation.gov.uk/nisi/2003/431/schedule/4); [S.R. 2003/348](https://www.legislation.gov.uk/nisr/2003/348), [art. 2(e)](https://www.legislation.gov.uk/nisr/2003/348/article/2/e)
 
 [^c4583391]: Textual amendment: Sch. 1 Pt. 2: entry inserted (15.6.2005) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2002/26/section/3), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2002/26/schedule/2/paragraph/19); [S.R. 2005/281](https://www.legislation.gov.uk/nisr/2005/281), [art. 3](https://www.legislation.gov.uk/nisr/2005/281/article/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/nisr/2005/281/schedule/2/paragraph/2), [6](https://www.legislation.gov.uk/nisr/2005/281/schedule/2/paragraph/6)
@@ -795,7 +798,7 @@ In section 3 (3) of the Northern Ireland Assembly Act 1973 for the words “by t
 
 [^c4583111]: Textual amendment: Sch. 1 Pt. 2: entry inserted (1.7.2002) by [Office of Communications Act 2002 (c. 11)](https://www.legislation.gov.uk/ukpga/2002/11), [s. 1](https://www.legislation.gov.uk/ukpga/2002/11/section/1), [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2002/11/schedule/paragraph/21); [S.I. 2002/1483](https://www.legislation.gov.uk/uksi/2002/1483), [art. 2](https://www.legislation.gov.uk/uksi/2002/1483/article/2)
 
-[^c-22c4a086541af7c379c4c57b81b3c518]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/1975/25/schedule/1/part/2) inserted (17.11.2021) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2021/30/schedule/1/paragraph/19) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/i)
+[^c-22c4a086541af7c379c4c57b81b3c518]: Textual amendment: Words in Sch. 1 Pt. 2 inserted (17.11.2021) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2021/30/schedule/1/paragraph/19) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/i)
 
 [^c-b7ede3f846a9c1170ec44dcabe01f067]: Textual amendment: Sch. 1 Pt. 2: entry omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 71(1)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/71/1/b); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
@@ -807,7 +810,7 @@ In section 3 (3) of the Northern Ireland Assembly Act 1973 for the words “by t
 
 [^c-6d4729e93bb8dc564f6affa979cbd3c7]: Textual amendment: Sch. 1 Pt. 2: entry inserted (1.1.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2017/29/schedule/1/paragraph/19); [S.I. 2017/788](https://www.legislation.gov.uk/uksi/2017/788), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/788/regulation/2/b)
 
-[^c-3af458535cbb2be3391d8a1350a8bdd2]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/1975/25/schedule/1/part/2) entry omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/4)
+[^c-3af458535cbb2be3391d8a1350a8bdd2]: Textual amendment: Sch. 1 Pt. 2 entry omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/4)
 
 [^c3512861]: Textual amendment: Sch. 1 Pt. 2: entry inserted by [Oil and Pipelines Act 1985 (c. 62, SIF 86)](https://www.legislation.gov.uk/ukpga/1985/62), [s. 1(5)](https://www.legislation.gov.uk/ukpga/1985/62/section/1/5), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1985/62/schedule/1/paragraph/3)
 

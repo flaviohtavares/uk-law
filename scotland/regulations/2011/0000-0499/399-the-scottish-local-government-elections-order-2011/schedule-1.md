@@ -3,7 +3,7 @@ title: The Scottish Local Government Elections Order 2011, SCHEDULE 1
 act: The Scottish Local Government Elections Order 2011
 section: schedule-1
 status: revised
-text_date: '2025-10-01'
+text_date: '2026-10-30'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2011/399/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Scottish Local Government Elections Order 2011, SCHEDULE 1
 
-> Text as at 2025-10-01.
+> Text as at 2026-10-30.
 >
 > Extent: Scotland.
 
@@ -1181,7 +1181,10 @@ relating to an election forwarded to such officer in pursuance of these rules by
 - (d)[^c-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e)[^c-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^c-d75d7c68a2ee23b27e64b2337129922e] For the purposes of this rule, all postal ballot papers cast in a ward must be treated as if cast at a further polling station in that ward.
+(2A)[^M_F_97e4ba5f-e408-4146-d8d3-7f5cb1299ce6] For the purposes of this rule—
+
+- (a) all postal ballot papers cast in a ward must be treated as if cast at an additional polling station in that ward, and
+- (b) only postal ballot papers may be treated as cast at that additional polling station.
 
 (3) Where in total less than 200 votes were cast at a polling station the returning officer is to give public notice of the information for that polling station aggregated with (and indistinguishable from) that information from one or more other polling stations in the same ward, being such polling stations as the returning officer sees fit, such that as aggregated the information will include in total no less than 200 votes.
 
@@ -1190,6 +1193,8 @@ relating to an election forwarded to such officer in pursuance of these rules by
 (5)[^c-705cd6fd3423265f698a6a52d7124a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where in total less than 200 votes were cast at polling stations in a ward, no public notice of the information is to be given.
+
+(6A)[^M_F_b112cd6a-fac2-4ae1-a619-06686ccda8f6] Paragraph (3) does not apply to postal ballot papers or to any additional polling station treated as existing by virtue of paragraph (2A)(a).
 
 (7) Once public notice of the information [^c-1c52d2a8a2d1391102ebc07b8818eeb8]... has been given, the returning officer must as soon as reasonably practicable procure the destruction of any electronic data or other records retained under rule 57(3) pursuant to this rule, in a manner which ensures that their confidentiality is preserved.
 
@@ -1308,7 +1313,7 @@ The forms contained in this Part may be adapted so far as circumstances require 
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_027.gif)
 
-[^c-84aeecca49c297063c31fccb8f4bc466]Form 2
+[^c-c303c4ed66a680c56ee7f39f0f7e72b0]Form 2
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_052.gif)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_057.gif)
 
@@ -1316,7 +1321,7 @@ The forms contained in this Part may be adapted so far as circumstances require 
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_006)
 
-[^c-6aa46554abcd35045a2c07a24552b755]Form 4
+[^c-4f12ddacec108310911e87c940154cb1]Form 4
 
 Rule 14(2)
 
@@ -1392,7 +1397,7 @@ Form 6
 
 [^c-f65cc1f4c18f7c1b347e748ca61fe865]: Textual amendment: Words in [sch. 1 rule 4(11)(b)(i)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/paragraph/4/11/b/i) substituted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
 
-[^c-8b387f835f83e621b9c63f1cefe3dc60]: Textual amendment: Words in [sch. 1 rule 4(12)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/paragraph/4/12) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-8b387f835f83e621b9c63f1cefe3dc60]: Textual amendment: Words in sch. 1 rule 4(12) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
 
 [^c-eea79e703f6ef3d5696149d43ffd2ff4]: Commencement: Sch. 1 rule 5 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
@@ -1406,7 +1411,7 @@ Form 6
 
 [^c-cc255194c980ee6a4e27358bf0ff764e]: Textual amendment: Words in [sch. 1 rule 7(1)(a)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/1/a) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/239/article/5/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^c-47b71a846f1cf54325a78d469a950252]: Textual amendment: Words in [sch. 1 rule 7(2)(d)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/2/d) omitted (25.11.2021) by virtue of [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/437/article/2/2) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
+[^c-47b71a846f1cf54325a78d469a950252]: Textual amendment: Words in sch. 1 rule 7(2)(d) omitted (25.11.2021) by virtue of [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/437/article/2/2) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
 
 [^c-5dde0c3dfc4fb75424bf52f04a59a2cc]: Textual amendment: [Sch. 1 rule 7(2A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/2A) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2020/239/article/5/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
@@ -1442,7 +1447,7 @@ Form 6
 
 [^c-40fca214e2bd2d3e8b59122e4cb79f57]: Textual amendment: [Sch. 1 rule 14(2)(aa)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/14/2/aa), [(ab)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/14/2/ab) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2020/239/article/8/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^c-71b842da1a45d0560dcd132740816685]: Textual amendment: Words in [sch. 1 rule 14(2)(ab)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/paragraph/14/2/ab) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(c)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/c), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-71b842da1a45d0560dcd132740816685]: Textual amendment: Words in sch. 1 rule 14(2)(ab) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(c)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/c), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
 
 [^c-6cd1e945bc9924ba5d0d604274155859]: Commencement: Sch. 1 rule 15 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
@@ -1470,9 +1475,9 @@ Form 6
 
 [^c-6b2fbe43921a4b8a234200ea25de1f70]: Commencement: Sch. 1 rule 24 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^c-c6525fce96fd6e42ad146a58e5889d72]: Textual amendment: Words in [sch. 1 rule 24(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/24/1) substituted (2.2.2022) by [The Scottish Local Government Elections Amendment Order 2022 (S.S.I. 2022/38)](https://www.legislation.gov.uk/ssi/2022/38), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2022/38/article/1/2), [4](https://www.legislation.gov.uk/ssi/2022/38/article/4) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2022/38/article/1/3))
+[^c-c6525fce96fd6e42ad146a58e5889d72]: Textual amendment: Words in sch. 1 rule 24(1) substituted (2.2.2022) by [The Scottish Local Government Elections Amendment Order 2022 (S.S.I. 2022/38)](https://www.legislation.gov.uk/ssi/2022/38), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2022/38/article/1/2), [4](https://www.legislation.gov.uk/ssi/2022/38/article/4) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2022/38/article/1/3))
 
-[^c-788ac2e5ff3cfa95a366aae9beea3b2d]: Textual amendment: [Sch. 1 rule 24(3A)(3B)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/24/3A/3B) inserted (25.11.2021) by [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/437/article/2/3) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
+[^c-788ac2e5ff3cfa95a366aae9beea3b2d]: Textual amendment: Sch. 1 rule 24(3A)(3B) inserted (25.11.2021) by [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/437/article/2/3) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
 
 [^c-786130132363fbdc33834602f4b38706]: Commencement: Sch. 1 rule 25 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
@@ -1556,7 +1561,7 @@ Form 6
 
 [^c-45f15230376ec4bff3e1e5b263c9888b]: Commencement: Sch. 1 rule 53 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^c-ea424a8e89ee8b85f16a74682c0ac354]: Textual amendment: Words in [sch. 1 rule 53(2)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/53/2) substituted (25.11.2021) by [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2021/437/article/2/4) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
+[^c-ea424a8e89ee8b85f16a74682c0ac354]: Textual amendment: Words in sch. 1 rule 53(2) substituted (25.11.2021) by [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2021/437/article/2/4) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
 
 [^c-c0bc670691bb8614f7df63fe34365fb0]: Commencement: Sch. 1 rule 54 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
@@ -1576,19 +1581,21 @@ Form 6
 
 [^c-c88d1a75b7e816c0327e9ce270adf898]: Commencement: Sch. 1 rule 60 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^c-14a5ab139ba2a913db1ec34da91ea851]: Textual amendment: [Sch. 1 rule 60A](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/60A) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [9](https://www.legislation.gov.uk/ssi/2020/239/article/9) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-14a5ab139ba2a913db1ec34da91ea851]: Textual amendment: Sch. 1 rule 60A inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [9](https://www.legislation.gov.uk/ssi/2020/239/article/9) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
 [^c-170b825025a2f4cba5023a93aee361b2]: Commencement: Sch. 1 rule 61 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^c-093c688f69280f252dc1e21a1c5eac64]: Textual amendment: Words in [sch. 1 rule 61(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/1) substituted (24.2.2012) by [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/a)
 
-[^c-188ae9a7dbbd195bafe20674502f8f5b]: Textual amendment: [Sch. 1 rule 61(2)(b)-(e)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/2/b) omitted (24.2.2012) by virtue of [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/b)
+[^c-188ae9a7dbbd195bafe20674502f8f5b]: Textual amendment: Sch. 1 rule 61(2)(b)-(e) omitted (24.2.2012) by virtue of [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/b)
 
-[^c-d75d7c68a2ee23b27e64b2337129922e]: Textual amendment: [Sch. 1 rule 61(2A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/2A) inserted (24.2.2012) by [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/c)
+[^M_F_97e4ba5f-e408-4146-d8d3-7f5cb1299ce6]: Textual amendment: Sch. 1 rule 61(2A) substituted (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2026/318/article/3/a) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
 
-[^c-705cd6fd3423265f698a6a52d7124a6d]: Textual amendment: [Sch. 1 rule 61(4)(5)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/61/4/5) omitted (24.2.2012) by virtue of The Scottish Local Government Elections Amendment Order 2012 ([S.S.I. 2012/60](https://www.legislation.gov.uk/ssi/2012/60)), arts. 1, 2(3)(d)
+[^c-705cd6fd3423265f698a6a52d7124a6d]: Textual amendment: Sch. 1 rule 61(4)(5) omitted (24.2.2012) by virtue of The Scottish Local Government Elections Amendment Order 2012 ([S.S.I. 2012/60](https://www.legislation.gov.uk/ssi/2012/60)), arts. 1, 2(3)(d)
 
-[^c-1c52d2a8a2d1391102ebc07b8818eeb8]: Textual amendment: Words in [sch. 1 rule 61(7)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/7) omitted (24.2.2012) by virtue of [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/e)
+[^M_F_b112cd6a-fac2-4ae1-a619-06686ccda8f6]: Textual amendment: Sch. 1 rule 61(6A) inserted (30.10.2026) by [The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026 (S.S.I. 2026/318)](https://www.legislation.gov.uk/ssi/2026/318), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/318/article/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2026/318/article/3/b) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2026/318/article/1/3))
+
+[^c-1c52d2a8a2d1391102ebc07b8818eeb8]: Textual amendment: Words in sch. 1 rule 61(7) omitted (24.2.2012) by virtue of [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/e)
 
 [^c-3b1f114663d1e75a421488efce5e5f93]: Commencement: Sch. 1 rule 62 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
@@ -1604,11 +1611,11 @@ Form 6
 
 [^c-e8352485627dcafcc3f395930861be5e]: Textual amendment: Sch. 1 Pt. 7 Form 1 substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(i)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^c-84aeecca49c297063c31fccb8f4bc466]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 2 substituted (15.5.2023) by [The Scottish Local Government Elections Amendment Regulations 2023 (S.S.I. 2023/81)](https://www.legislation.gov.uk/ssi/2023/81), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/81/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/81/schedule) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/81/regulation/1/2))
+[^c-c303c4ed66a680c56ee7f39f0f7e72b0]: Textual amendment: Sch. 1 Pt. 7 Form 2 substituted (13.11.2026) by [The Scottish Local Government Elections Amendment Order 2026 (S.S.I. 2026/254)](https://www.legislation.gov.uk/ssi/2026/254), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/254/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2026/254/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2026/254/article/1/2))
 
 [^c-97be428158975542e53907192ec18cc3]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 3 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(b)](https://www.legislation.gov.uk/ssi/2020/239/article/10/b), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^c-6aa46554abcd35045a2c07a24552b755]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 4 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(c)](https://www.legislation.gov.uk/ssi/2020/239/article/10/c), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-4f12ddacec108310911e87c940154cb1]: Textual amendment: Sch. 1 Pt. 7 Form 4 substituted (13.11.2026) by [The Scottish Local Government Elections Amendment Order 2026 (S.S.I. 2026/254)](https://www.legislation.gov.uk/ssi/2026/254), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/254/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2026/254/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2026/254/article/1/2))
 
 [^c-eaba21874aa1a330a18405b7ebdd4be4]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 5 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(d)](https://www.legislation.gov.uk/ssi/2020/239/article/10/d), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 

@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 2
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-2
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 2
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## Schedule 2 — Eligible students
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 Regulations 5(3), (5) and (8) and 7(2)
 
@@ -543,62 +541,62 @@ An evacuated or assisted British national from Afghanistan who is ordinarily res
 
 ## Annotations
 
-[^c-1ca58d21fa0d5f65573d0f6fd1842104]: Commencement: Sch. 2 para. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-1ca58d21fa0d5f65573d0f6fd1842104]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/1) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00081]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^c-9ee814baaa6c2a9466652d7dd8a01695]: Commencement: Sch. 2 para. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-9ee814baaa6c2a9466652d7dd8a01695]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/2) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-8b105a460d8c4f043c75ac7fbb7e3b8b]: Commencement: Sch. 2 para. 3 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-8b105a460d8c4f043c75ac7fbb7e3b8b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/3) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-1b0138687ece544782ac86f56fd91680]: Commencement: Sch. 2 para. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-1b0138687ece544782ac86f56fd91680]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/4) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00082]: Footnote: [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052).
 
-[^c-2f3826de1caf0ca4e58350ec1c8e6fc0]: Commencement: Sch. 2 para. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-2f3826de1caf0ca4e58350ec1c8e6fc0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/5) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-f6032ad6c3b510828cba7b7aba7b72b3]: Commencement: Sch. 2 para. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-f6032ad6c3b510828cba7b7aba7b72b3]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/6) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-00b85e5979ce41a3f70e487c0da528dc]: Commencement: Sch. 2 para. 7 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-00b85e5979ce41a3f70e487c0da528dc]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/7) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-6505a891afeeedef9833d6bee44931f5]: Commencement: Sch. 2 para. 8 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-6505a891afeeedef9833d6bee44931f5]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/8) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-89da1ce5489b3983bda1dc0b6c285d4a]: Commencement: Sch. 2 para. 9 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-89da1ce5489b3983bda1dc0b6c285d4a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/9) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-61773f9cb49fcfd56b0b2f5006b7157d]: Commencement: Sch. 2 para. 10 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-61773f9cb49fcfd56b0b2f5006b7157d]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/10) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-88bdbb83b3b7f50594b7cd8b003443c8]: Commencement: Sch. 2 para. 11 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-88bdbb83b3b7f50594b7cd8b003443c8]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/11) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-0a7bebc7a7fb55ea0e3eb1cde73218e9]: Commencement: Sch. 2 para. 12 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-0a7bebc7a7fb55ea0e3eb1cde73218e9]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/12) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00083]: Footnote: [S.I. 2020/1213](https://www.legislation.gov.uk/uksi/2020/1213).
 
-[^c-87c230bd4afcf77abdfb8af4733c4301]: Commencement: Sch. 2 para. 13 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-87c230bd4afcf77abdfb8af4733c4301]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/13) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-d73e8094734762fbe22f06231f3d2077]: Commencement: Sch. 2 para. 14 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-d73e8094734762fbe22f06231f3d2077]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/14) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-dd6e6530971ef9a2d8efa8aa69bdcfd4]: Commencement: Sch. 2 para. 15 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-dd6e6530971ef9a2d8efa8aa69bdcfd4]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/15) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-71ceaeaacc759528c82a241bf4b8f386]: Commencement: Sch. 2 para. 16 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-71ceaeaacc759528c82a241bf4b8f386]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/16) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-5ef43380e8b226d6a4258d287ee94b55]: Commencement: Sch. 2 para. 17 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-5ef43380e8b226d6a4258d287ee94b55]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/17) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-753931576a23b74c37d5c04492e9b314]: Commencement: Sch. 2 para. 18 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-753931576a23b74c37d5c04492e9b314]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/18) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-15e5ae3c66ae9c45d4692aac1ec5b81c]: Commencement: Sch. 2 para. 19 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-15e5ae3c66ae9c45d4692aac1ec5b81c]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/19) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-8317283754265192612070a8ee487f9c]: Commencement: Sch. 2 para. 20 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-8317283754265192612070a8ee487f9c]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/20) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-6fe2bba8038449ad3dcd1b2ae2b76dec]: Commencement: Sch. 2 para. 21 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-6fe2bba8038449ad3dcd1b2ae2b76dec]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/21) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-46fc0859d55e02ed3dc62aa07772cceb]: Commencement: Sch. 2 para. 22 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-46fc0859d55e02ed3dc62aa07772cceb]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/22) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-79f2fccae7f79ddc1e3a6bc09b7465e9]: Commencement: Sch. 2 para. 23 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-79f2fccae7f79ddc1e3a6bc09b7465e9]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/23) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-863cec2bfd2ed3673ad1e2332a67ae0e]: Commencement: Sch. 2 para. 24 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-863cec2bfd2ed3673ad1e2332a67ae0e]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/24) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-745b9f2917d931955c9ecd8585f907b5]: Commencement: Sch. 2 para. 25 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-745b9f2917d931955c9ecd8585f907b5]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/25) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-107e2de45e0e2ac6011f4da33175cd07]: Commencement: Sch. 2 para. 26 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-107e2de45e0e2ac6011f4da33175cd07]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/26) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-12f1993ab96e68ee719cc811652b82f7]: Commencement: Sch. 2 para. 27 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-12f1993ab96e68ee719cc811652b82f7]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2026/858/schedule/2/paragraph/27) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

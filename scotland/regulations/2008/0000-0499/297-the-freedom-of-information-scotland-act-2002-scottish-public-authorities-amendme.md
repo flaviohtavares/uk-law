@@ -3,16 +3,16 @@ title: The Freedom of Information (Scotland) Act 2002 (Scottish Public Authoriti
 id: ssi/2008/297
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-01'
-text_date: null
-extent: null
+text_date: '2008-09-01'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/297
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/297/pdfs/ssien_20080297_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/297/pdfs/ssi_20080297_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/297/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/ssi/2008/297/data.pdf
+pending_changes: 9
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Freedom of Information (Scotland) Act 2002 (Scottish Public Authorities) Amendment Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (9).** Text as at 2008-09-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/297
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 297
 
@@ -42,17 +48,17 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the power conferred by section 4(1) of the Freedom of Information (Scotland) Act 2002[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-3c442200ef4ec8df7c53fa49609d4bc7]
 
 (1) This Order may be cited as the Freedom of Information (Scotland) Act 2002 (Scottish Public Authorities) Amendment Order 2008 and comes into force on 13th October 2008.
 
 (2) In this Order “the Act” means the Freedom of Information (Scotland) Act 2002.
 
-## 2. Additional Public Authorities
+## 2. Additional Public Authorities[^c-b121d7d9ad6fc1994c1a08fd098aa4e3]
 
 The bodies and offices listed in Schedule 1 to this Order are added to the specified part of schedule 1 to the Act, in each case in the appropriate place.
 
-## 3. Removal of Public Authorities
+## 3. Removal of Public Authorities[^c-2981af699acd5fdc41e1aed0c95abf86]
 
 The entries relating to the bodies listed in Schedule 2 to this Order are removed from the specified part of schedule 1 to the Act.
 
@@ -70,14 +76,14 @@ Edinburgh
 
 Article 2
 
-### PART 2 — NON MINISTERIAL OFFICE HOLDERS IN THE SCOTTISH ADMINISTRATION
+### PART 2 — NON MINISTERIAL OFFICE HOLDERS IN THE SCOTTISH ADMINISTRATION[^c-357ab0986202b98999b6efcadbbad00e]
 
 |  |  |
 | --- | --- |
 | 7A. | The Drinking Water Quality Regulator for Scotland |
 | 12A. | The Office of the Scottish Charity Regulator |
 
-### PART 4 — THE NATIONAL HEALTH SERVICE
+### PART 4 — THE NATIONAL HEALTH SERVICE[^c-8e6e38caca0494b3bbfd53bfd87dabf0]
 
 |  |  |
 | --- | --- |
@@ -86,7 +92,7 @@ Article 2
 | 32B | NHS Health Scotland |
 | 32C | NHS Quality Improvement Scotland |
 
-### PART 7 — OTHERS
+### PART 7 — OTHERS[^c-9298f2ea1f1ab46743ee362f3d4448b6]
 
 |  |  |
 | --- | --- |
@@ -100,7 +106,7 @@ Article 2
 
 Article 3
 
-### PART 4 — THE NATIONAL HEALTH SERVICE
+### PART 4 — THE NATIONAL HEALTH SERVICE[^c-4694c1bcb3a8a33f5df49fa73c0da691]
 
 |  |  |
 | --- | --- |
@@ -112,7 +118,7 @@ Article 3
 | 40 | The Scottish Council for Post Graduate Medical and Dental Education |
 | 42 | The Scottish Health Advisory Service |
 
-### PART 7 — OTHERS
+### PART 7 — OTHERS[^c-c8f5ac711db6c8f39983422e8cfd9d1c]
 
 |  |  |
 | --- | --- |
@@ -131,3 +137,19 @@ Article 3 of this Order removes from schedule 1 to the Act the bodies listed in 
 ## Annotations
 
 [^f00001]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
+
+[^c-3c442200ef4ec8df7c53fa49609d4bc7]: Commencement: Art. 1 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+
+[^c-b121d7d9ad6fc1994c1a08fd098aa4e3]: Commencement: Art. 2 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+
+[^c-2981af699acd5fdc41e1aed0c95abf86]: Commencement: Art. 3 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+
+[^c-357ab0986202b98999b6efcadbbad00e]: Commencement: Sch. 1 Pt. 2 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+
+[^c-8e6e38caca0494b3bbfd53bfd87dabf0]: Commencement: Sch. 1 Pt. 4 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+
+[^c-9298f2ea1f1ab46743ee362f3d4448b6]: Commencement: Sch. 1 Pt. 7 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+
+[^c-4694c1bcb3a8a33f5df49fa73c0da691]: Commencement: Sch. 2 Pt. 4 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+
+[^c-c8f5ac711db6c8f39983422e8cfd9d1c]: Commencement: Sch. 2 Pt. 7 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)

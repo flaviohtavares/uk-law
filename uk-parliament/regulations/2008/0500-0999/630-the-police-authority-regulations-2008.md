@@ -3,16 +3,16 @@ title: The Police Authority Regulations 2008
 id: uksi/2008/630
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-06'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/630
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/630/pdfs/uksiem_20080630_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/630/pdfs/uksi_20080630_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/630/made/data.pdf
-pending_changes: 19
+- http://www.legislation.gov.uk/uksi/2008/630/data.pdf
+pending_changes: 21
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Police Authority Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (21).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/630
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 630
 
@@ -49,7 +53,7 @@ In accordance with paragraph 6 of that Schedule the Secretary of State has consu
 
 ## PART 1 — General Provisions
 
-### 1. Citation, commencement, interpretation and application
+### 1. Citation, commencement, interpretation and application[^c-bd51a416ee7cba69d5eff591dba23de9]
 
 (1) These Regulations may be cited as the Police Authority Regulations 2008 and subject to paragraphs (2) and (3) shall come into force on 1st April 2008.
 
@@ -57,18 +61,20 @@ In accordance with paragraph 6 of that Schedule the Secretary of State has consu
 
 (3) These Regulations shall apply only in respect of appointments of members of police authorities that take effect on or after 1st October 2008[^f00002].
 
-**2.** In these Regulations
+**2.**[^c-735562143ef2db6e2551a52fcca24dc6] In these Regulations
 
 - “the 1994 Regulations” means the Police Authorities (Selection Panel) Regulations 1994[^f00003]
 - “the 1996 Act” means the Police Act 1996
 
-**3.** These Regulations extend to England and Wales.
+**3.**[^c-aa6d3f3f2e527d553c9fd2ff4089cbf6] These Regulations extend to England and Wales.
 
-### 4. Revocations and transitional provisions
+### 4. Revocations and transitional provisions[^c-90e05bef7003c9eaa72f7ea5be2f9f0c]
+
+**Not yet in force.**
 
 The 1994 Regulations are revoked.
 
-**5.** (1) Persons appointed under current paragraph 2 (appointment of police authority members by relevant councils) of Schedule 2 to the 1996 Act whose term of office under that Schedule expires on or after 1st October 2008 shall be treated as a person appointed under regulation 7 until the expiry of that term.
+**5.**[^c-9d06c739a120beefbd09a7c09e296030] (1) Persons appointed under current paragraph 2 (appointment of police authority members by relevant councils) of Schedule 2 to the 1996 Act whose term of office under that Schedule expires on or after 1st October 2008 shall be treated as a person appointed under regulation 7 until the expiry of that term.
 
 (2) Persons appointed under current paragraph 5 (appointment of independent members of police authorities) of Schedule 2 to the 1996 Act whose term of office under that Schedule expires on or after 1st October 2008 shall be treated as a person appointed under regulation 9 until the expiry of that term.
 
@@ -82,7 +88,7 @@ The 1994 Regulations are revoked.
 
 ## PART 2 — Members of Police Authorities
 
-### 6. Number of Members of Police Authorities
+### 6. Number of Members of Police Authorities[^c-2bfc414935524630d6ae14dadce5a8b0]
 
 (1) Where, by virtue of section 4 of the 1996 Act (membership of police authorities outside Greater London), a police authority is to consist of seventeen members—
 
@@ -94,7 +100,7 @@ The 1994 Regulations are revoked.
 - (a) ten of those members shall be members of a relevant council appointed under regulation 7, and
 - (b) nine shall be persons appointed under regulation 9.
 
-### 7. Appointment of members by relevant councils
+### 7. Appointment of members by relevant councils[^c-6a232af235104cc6a385ccf92aac5215]
 
 (1) In the case of a police authority in relation to which there is only one relevant council, the members referred to in regulation 6(1)(a) or 6(2)(a) shall be appointed by that council.
 
@@ -102,12 +108,12 @@ The 1994 Regulations are revoked.
 
 (3) The number of members of the joint committee, and the number of those members to be appointed by each relevant council, shall be such as the councils may agree or, in the absence of agreement, as may be determined by the Secretary of State.
 
-**8.** (1) A relevant council or joint committee shall exercise its power to appoint members of a police authority under regulation 6(1)(a) or 6(2)(a) so as to ensure that, so far as practicable, in the case of the members for whose appointment it is responsible, the proportion who are members of any given party—
+**8.**[^c-92062d3434a1f805139c4d2d63e5de87] (1) A relevant council or joint committee shall exercise its power to appoint members of a police authority under regulation 6(1)(a) or 6(2)(a) so as to ensure that, so far as practicable, in the case of the members for whose appointment it is responsible, the proportion who are members of any given party—
 
 - (a) where it is a council that is responsible for their appointment, is the same as the proportion of the members of the council who are members of that party; and
 - (b) where it is a joint committee that is so responsible, is the same as the proportion of the members of the relevant councils taken as a whole who are members of that party.
 
-### 9. Appointment of independent members
+### 9. Appointment of independent members[^c-b7ebbb4248ea0f34b32b865d9daf8891]
 
 (1) The members referred to in regulation 6(1)(b) or 6(2)(b) shall be appointed—
 
@@ -116,7 +122,7 @@ The 1994 Regulations are revoked.
 
 (2) Where an existing member of the police authority is on the short-list referred to in paragraph (1)(b) that person shall not be entitled to play any role in the appointment of persons from that short-list and shall not be considered to be an existing member of the police authority for the purposes of paragraph (1)(a).
 
-**10.** (1) Every police authority shall arrange for a notice stating—
+**10.**[^c-87c8e485ea54d3171d906e7e083c9968] (1) Every police authority shall arrange for a notice stating—
 
 - (a) the name of each of its members appointed under regulation 9,
 - (b) such other information relating to each of such members as the police authority considers appropriate,
@@ -125,9 +131,9 @@ to be published in such manner as appears to it to be appropriate.
 
 (2) A police authority shall send to the Secretary of State a copy of any notice which it has arranged to be published under paragraph (1).
 
-**11.** At least one of the members referred to in regulation 6(1)(b) or 6(2)(b) shall be a lay justice for an area all or part of which constitutes or forms part of the police authority’s area.
+**11.**[^c-a0ca770546764270abc522388f642df4] At least one of the members referred to in regulation 6(1)(b) or 6(2)(b) shall be a lay justice for an area all or part of which constitutes or forms part of the police authority’s area.
 
-### 12. Chairman and Vice Chairman
+### 12. Chairman and Vice Chairman[^c-bb07e04abbabf30d2737b8a7e9bb5b37]
 
 (1) A police authority shall at each annual meeting appoint a chairman from among its members.
 
@@ -138,7 +144,7 @@ to be published in such manner as appears to it to be appropriate.
 - (a) at the next meeting of the police authority (other than an extraordinary meeting), or
 - (b) if that meeting is held within fourteen days after the date on which the vacancy occurs and is not an annual meeting, not later than the next following meeting.
 
-**13.** (1) At an annual meeting a police authority may appoint one or more vice-chairmen from among its members.
+**13.**[^c-fea1d6bba5467d261a17d99254f45f7a] (1) At an annual meeting a police authority may appoint one or more vice-chairmen from among its members.
 
 (2) The making of appointments under paragraph (1) shall be the first business transacted at the meeting after the appointment of the chairman.
 
@@ -146,7 +152,7 @@ to be published in such manner as appears to it to be appropriate.
 
 (4) Subject to any standing orders made by a police authority, anything authorised or required to be done by, to or before its chairman may be done by, to or before any vice-chairman of the authority.
 
-### 14. Disqualification
+### 14. Disqualification[^c-b543e54c376cf554b3fda4e43150ca66]
 
 (1) Subject to sub-paragraphs (3) and (4), a person shall be disqualified from being appointed as or being a member of a police authority if—
 
@@ -166,14 +172,14 @@ to be published in such manner as appears to it to be appropriate.
 
 (5) For the purposes of paragraph (1)(d), the date of a conviction shall be taken to be the ordinary date on which the period allowed for making an appeal or application expires or, if an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its non-prosecution.
 
-**15.** (1) A person shall be disqualified from being appointed as a member of a police authority under regulation 9 if—
+**15.**[^c-06ac0e0666acfc523505649f3d82ae80] (1) A person shall be disqualified from being appointed as a member of a police authority under regulation 9 if—
 
 - (a) he has not yet attained the age of eighteen years, or
 - (b) neither his principal or only place of work, nor his principal or only place of residence, has been in the police area of the police authority during the whole of the period of twelve months ending with the day of appointment.
 
 (2) A person shall be disqualified from being a member so appointed if, at any time, neither his principal or only place of work, nor his principal or only place of residence, is within that area.
 
-**16.** (1) A person shall be disqualified from being appointed as a member of a police authority under regulation 9, and from being a member so appointed, if he is—
+**16.**[^c-fd9693647dd22805c9d2bb826352a93a] (1) A person shall be disqualified from being appointed as a member of a police authority under regulation 9, and from being a member so appointed, if he is—
 
 - (a) a member of the council for a county, district, county borough or London borough which is wholly or partly within the area of the police authority;
 - (b) a member of a police force;
@@ -185,18 +191,18 @@ to be published in such manner as appears to it to be appropriate.
 - (a) the post of head teacher or principal of a school, college or other educational institution or establishment which is maintained or assisted by a local education authority; or
 - (b) any other post as a teacher or lecturer in any such school, college, institution or establishment.
 
-**17.** A member of the selection panel for the police authority’s area established under Part 3 of these Regulations shall be disqualified from being appointed as a member of a police authority under regulation 9, but a member so appointed may subsequently be appointed as a member of a selection panel under regulation 32.
+**17.**[^c-7e07e1e2064ca6b9f5e96bae5b5116d0] A member of the selection panel for the police authority’s area established under Part 3 of these Regulations shall be disqualified from being appointed as a member of a police authority under regulation 9, but a member so appointed may subsequently be appointed as a member of a selection panel under regulation 32.
 
-### 18. Tenure of office
+### 18. Tenure of office[^c-1ccbbb92b30f9e8c2b14b89a0be3ea23]
 
 (1) A member shall hold and vacate office as a member of a police authority in accordance with the terms of his appointment and these Regulations.
 
-**19.** (1) A person shall be appointed to hold office as a member of a police authority for—
+**19.**[^c-574698f70bf911eaa46a520888f0bd0a] (1) A person shall be appointed to hold office as a member of a police authority for—
 
 - (a) a term of four years, or
 - (b) such shorter term as the body appointing him may determine in any particular case.
 
-**20.** (1) Subject to paragraph (2) a person who ceases to be a member, otherwise than by virtue of regulation 24, or ceases to be chairman, may (if otherwise eligible) be re-appointed whether at the expiry of his term or subsequently.
+**20.**[^c-790da5780aa7f9358b1816927b5a6e72] (1) Subject to paragraph (2) a person who ceases to be a member, otherwise than by virtue of regulation 24, or ceases to be chairman, may (if otherwise eligible) be re-appointed whether at the expiry of his term or subsequently.
 
 (2) Members of the police authority referred to in regulation 6(1)(b) or 6(2)(b) shall not—
 
@@ -204,33 +210,33 @@ to be published in such manner as appears to it to be appropriate.
 - (b) be appointed to serve a further term of office until four years after the expiry of the previous term, other than when appointed to serve a further term of office on the expiry of the previous term; and
 - (c) be appointed to serve a further term unless the selection panel established under Part 3 of these Regulations is satisfied with their performance as a member during their previous term.
 
-**21.** A person may at any time resign his office as a member, or as chairman or vice –chairman, by notice in writing to the police authority.
+**21.**[^c-2b33584d8af4ef62c0723f6600bafee6] A person may at any time resign his office as a member, or as chairman or vice –chairman, by notice in writing to the police authority.
 
-**22.** A member of a relevant council appointed to be a member of a police authority under regulation 6(1)(a) or 6(2)(a) shall cease to be a member of the police authority if he ceases to be a member of the council (and does not on the same day again become a member of the council).
+**22.**[^c-724c34f7a5fa35d48352cf57682696ef] A member of a relevant council appointed to be a member of a police authority under regulation 6(1)(a) or 6(2)(a) shall cease to be a member of the police authority if he ceases to be a member of the council (and does not on the same day again become a member of the council).
 
-**23.** A council or joint committee may remove from office a member of a police authority appointed by it under regulation 7 with a view to appointing another in his place if it considers that to do so would further the objective provided for by regulation 8.
+**23.**[^c-d98535371d44bef183d64be85061f4eb] A council or joint committee may remove from office a member of a police authority appointed by it under regulation 7 with a view to appointing another in his place if it considers that to do so would further the objective provided for by regulation 8.
 
-**24.** A police authority may remove a member from office by notice in writing if—
+**24.**[^c-9b867f12871610376c7ba0e7e00e690f] A police authority may remove a member from office by notice in writing if—
 
 - (a) he has been absent from meetings of the police authority for a period longer than three consecutive months without the consent of the authority,
 - (b) he has been convicted of a criminal offence (but is not disqualified from being a member under regulation 14),
 - (c) the police authority is satisfied that the member is incapacitated by physical or mental illness, or
 - (d) the police authority is satisfied that the member is otherwise unable or unfit to discharge his functions as a member.
 
-**25.** Where a police authority removes a member under regulation 24, it shall give notice of that fact—
+**25.**[^c-f12bb60d3553972292bec84f4ba09f79] Where a police authority removes a member under regulation 24, it shall give notice of that fact—
 
 - (a) in the case of a member appointed under regulation 7, to the body which appointed him, and
 - (b) in the case of a member appointed under regulation 9, to the Secretary of State.
 
-**26.** If a chairman or vice-chairman of a police authority ceases to be a member, he shall also cease to be chairman or vice-chairman.
+**26.**[^c-681e97897e2760b038f2192c60fce69b] If a chairman or vice-chairman of a police authority ceases to be a member, he shall also cease to be chairman or vice-chairman.
 
-### 27. Validity of acts
+### 27. Validity of acts[^c-4a925df6392afb61e815248db2dcdcc1]
 
 The acts and proceedings of any person appointed to be a member, chairman or vice-chairman of a police authority and acting in that office shall, notwithstanding his disqualification or want of qualification, be as valid and effectual as if he had been qualified.
 
-**28.** The proceedings of a police authority shall not be invalidated by a vacancy in the membership of the police authority or in the office of chairman or vice-chairman or by any defect in the appointment of a person as a member or as chairman or vice-chairman.
+**28.**[^c-1697fdc98ffba6285a81030653a47aaf] The proceedings of a police authority shall not be invalidated by a vacancy in the membership of the police authority or in the office of chairman or vice-chairman or by any defect in the appointment of a person as a member or as chairman or vice-chairman.
 
-### 29. Allowances
+### 29. Allowances[^c-d34fc476a5e742a7021807e35f2f9cc4]
 
 (1) Subject to paragraphs (2) to (4), a police authority may make to its chairman, vice-chairman and other members such payments by way of reimbursement of expenses and allowances as the police authority may determine.
 
@@ -240,23 +246,23 @@ The acts and proceedings of any person appointed to be a member, chairman or vic
 
 (4) Payments made under this paragraph may differ according to whether the recipient is the chairman, a vice-chairman or other member or is appointed under regulations 7 or 9.
 
-### 30. Members of standards committees
+### 30. Members of standards committees[^c-7aae431113a976c4ef18d4d138709b58]
 
 Regulation 29 shall have effect in relation to a police authority as if references to members of the police authority included references to persons who are not members of the police authority but are members of the police authority’s standards committee; and the power to make different payments according to the recipient shall include power to make different payments to persons who are not members of the police authority but are members of the police authority’s standards committee.
 
 ## PART 3 — Selection of members
 
-### 31. Selection Panels
+### 31. Selection Panels[^c-18b41a81677ccb3b668332ca293071d9]
 
 There shall be a selection panel for each police authority to which these Regulations apply.
 
-**32.** Each selection panel shall consist of five members,
+**32.**[^c-7abff10a140613596edefdf24898a3c1] Each selection panel shall consist of five members,
 
 - (a) three of whom shall be appointed by the members of the police authority for the area;
 - (b) one of whom shall be appointed by the Secretary of State; and
 - (c) one of whom shall be appointed by the members of the selection panel appointed under sub-paragraphs (a) and (b) from a list of candidates prepared by the Secretary of State.
 
-**33.** (1) A person shall be disqualified from being appointed as or being a member of a selection panel under regulation 32 if, by virtue of regulations 14, 15(1)(a) or 16(1)(b), (c) or (d), he is disqualified—
+**33.**[^c-d01df7e833838463b64c0b4c7a380c7e] (1) A person shall be disqualified from being appointed as or being a member of a selection panel under regulation 32 if, by virtue of regulations 14, 15(1)(a) or 16(1)(b), (c) or (d), he is disqualified—
 
 - (a) from being appointed under regulation 9 as a member of the police authority for the panel’s area, or
 - (b) from being a member so appointed.
@@ -279,7 +285,7 @@ There shall be a selection panel for each police authority to which these Regula
 
 (7) A person shall not cease to be a member of a police authority by reason only that any of the persons appointing him cease to hold the positions by virtue of which they appointed him.
 
-**34.** (1) A member of a selection panel may be removed from office by notice in writing by the police authority if—
+**34.**[^c-570db739b02ab5e56081533b01b5044a] (1) A member of a selection panel may be removed from office by notice in writing by the police authority if—
 
 - (a) the member has been absent from two consecutive meetings of the selection panel without the consent of the panel,
 - (b) the member has been convicted of a criminal offence (but is not disqualified from being a member under regulation 33),
@@ -288,23 +294,23 @@ There shall be a selection panel for each police authority to which these Regula
 
 (2) Where the member of the selection panel to be removed under paragraph (1) is the person referred to in regulation 32(b) that person may only be removed with the consent of the Secretary of State.
 
-**35.** A person who ceases to be a member of a selection panel, otherwise than by virtue of regulation 34, may (if otherwise eligible) be re-appointed.
+**35.**[^c-7dfdbaea170b533fa385547dac442238] A person who ceases to be a member of a selection panel, otherwise than by virtue of regulation 34, may (if otherwise eligible) be re-appointed.
 
-**36.** (1) The acts and proceedings of any person appointed to be a member of a selection panel and acting in that office shall, notwithstanding his disqualification or want of a qualification, be as valid and effectual as if he had been qualified.
+**36.**[^c-fbc5ae42f3f68ff330d55577e5548645] (1) The acts and proceedings of any person appointed to be a member of a selection panel and acting in that office shall, notwithstanding his disqualification or want of a qualification, be as valid and effectual as if he had been qualified.
 
 (2) The proceedings of a selection panel shall not be invalidated by—
 
 - (a) a vacancy in the membership of the panel, or
 - (b) a defect in the appointment of a person as a member.
 
-**37.** (1) A police authority shall make to members of the selection panel for the authority’s area such payments by way of reimbursement of expenses and allowances as it may determine.
+**37.**[^c-167b73be49d3eb48194f90abdbe81585] (1) A police authority shall make to members of the selection panel for the authority’s area such payments by way of reimbursement of expenses and allowances as it may determine.
 
 (2) A police authority shall—
 
 - (a) provide the selection panel for the authority’s area with such accommodation, and such secretarial and other assistance, as they may reasonable require, and
 - (b) meet any expenses incurred by the panel in the exercise of their functions.
 
-### 38. Functions of selection panel – short-listing
+### 38. Functions of selection panel – short-listing[^c-1bbff17afcbd800a6fbb44fdfd0a00b0]
 
 (1) Where appointments to a police authority are to be made under regulation 9 the selection panel for the authority’s area shall nominate persons willing to be candidates for appointment.
 
@@ -316,12 +322,12 @@ There shall be a selection panel for each police authority to which these Regula
 
 (5) The persons nominated under this regulation shall form the short-list of persons for the purposes of regulation 9.
 
-**39.** In exercising their functions a selection panel shall have regard to the desirability of ensuring that, so far as reasonably practicable, the persons nominated by them under regulation 38—
+**39.**[^c-ccfd295db024bb43d56d379ebfd8d684] In exercising their functions a selection panel shall have regard to the desirability of ensuring that, so far as reasonably practicable, the persons nominated by them under regulation 38—
 
 - (a) represent the interests of a wide range of people within the community in the police area of the police authority, and
 - (b) include persons with skills, knowledge or experience which are under represented among the existing members of the police authority.
 
-### 40. Notifications by Chief Executive
+### 40. Notifications by Chief Executive[^c-b904980bbbdf3e51216e9cc34eb421ff]
 
 (1) Not less than four months before the term of office of a police authority member appointed under regulation 9 is due to expire, the chief executive of the police authority shall notify the members of the selection panel of this fact.
 
@@ -329,7 +335,7 @@ There shall be a selection panel for each police authority to which these Regula
 
 (3) Where a person appointed under regulation 9 ceases to be a police authority member otherwise than on the expiry of his term of office, the chief executive of the police authority shall notify the members of the selection panel of this fact.
 
-### 41. Requirement to advertise
+### 41. Requirement to advertise[^c-2b77f8a9717807f39444ccf2ba475b58]
 
 (1) Subject to paragraph (4), where a selection panel are required to nominate persons willing to be candidates to be appointed as police authority members under regulation 9, they shall publish in at least two newspapers circulating in the police area of the police authority for which they are appointed a notice stating the matters referred to in paragraph (2).
 
@@ -365,7 +371,7 @@ There shall be a selection panel for each police authority to which these Regula
 
 (6) In paragraph (4)(c) above “sufficient number” means a number twice the number of appointments that are to be made under regulation 9.
 
-### 42. Applications to be considered for appointment to police authority
+### 42. Applications to be considered for appointment to police authority[^c-b6999ad3192fb4ebd75afa15237f43e6]
 
 (1) A member of the public who wishes to be considered for appointment under regulation 9 as a member of the police authority shall submit an application to the selection panel setting out—
 
@@ -379,7 +385,7 @@ There shall be a selection panel for each police authority to which these Regula
 
 (3) Together with a form supplied under paragraph (2) above there shall be supplied information about the office of police authority member including a statement setting out regulations 14, 15, 16 and 17.
 
-### 43. Consideration of applications by panel
+### 43. Consideration of applications by panel[^c-0c6fd9bf82b5892b39ecabf6865945e0]
 
 (1) A selection panel shall consider any application for appointment as a police authority member which has been made under regulation 42 for the purpose of producing a short-list under regulation 38.
 
@@ -395,7 +401,7 @@ There shall be a selection panel for each police authority to which these Regula
 - (b) the member of the panel who is not present has died; or
 - (c) the member of the panel who is not present has previously consented in writing to the other members acting in his absence.
 
-### 44. Record maintained by selection panel
+### 44. Record maintained by selection panel[^c-7556ff5bf4c4b104acef9e689e957130]
 
 (1) The members of a selection panel shall maintain a record of the persons who have applied to be considered for appointment under regulation 9 as a member of the police authority.
 
@@ -407,7 +413,7 @@ There shall be a selection panel for each police authority to which these Regula
 
 (3) An entry in the register maintained under this regulation may be deleted on the expiry of four years from the date when it was made.
 
-### 45. Nominations by selection panel from names listed in record
+### 45. Nominations by selection panel from names listed in record[^c-c897719b64d47df41af4c36108f7d57b]
 
 (1) Where—
 
@@ -441,11 +447,39 @@ Part 1 of the Regulations provides that they apply in respect of the members of 
 
 [^f00001]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16); Schedule 2 was substituted by section 2 of, and by paragraph 2 of Schedule 2 to, the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48).
 
+[^c-bd51a416ee7cba69d5eff591dba23de9]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
 [^f00002]: Footnote: Article 3 of the Police and Justice Act 2006 (Commencement No.1, Transitional and Savings Provisions) Order 2006 ([S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364) as amended by [S.I. 2008/617 (C.24)](https://www.legislation.gov.uk/uksi/2008/617)) provides that the previous Schedule 2 to the 1996 Act applies to appointments that take effect before 1st October 2008.
+
+[^c-735562143ef2db6e2551a52fcca24dc6]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1994/2023](https://www.legislation.gov.uk/uksi/1994/2023) as amended by [S.I. 2000/1549](https://www.legislation.gov.uk/uksi/2000/1549) and [S.I. 2002/1282](https://www.legislation.gov.uk/uksi/2002/1282).
 
+[^c-aa6d3f3f2e527d553c9fd2ff4089cbf6]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-90e05bef7003c9eaa72f7ea5be2f9f0c]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/2)
+
+[^c-9d06c739a120beefbd09a7c09e296030]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/2)
+
 [^f00004]: Footnote: Schedule 3 to the Police Act 1996 was repealed by paragraph 6 of Schedule 2 to the Police and Justice Act 2006.
+
+[^c-2bfc414935524630d6ae14dadce5a8b0]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-6a232af235104cc6a385ccf92aac5215]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-92062d3434a1f805139c4d2d63e5de87]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-b7ebbb4248ea0f34b32b865d9daf8891]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-87c8e485ea54d3171d906e7e083c9968]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-a0ca770546764270abc522388f642df4]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-bb07e04abbabf30d2737b8a7e9bb5b37]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-fea1d6bba5467d261a17d99254f45f7a]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-b543e54c376cf554b3fda4e43150ca66]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
 
 [^f00005]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46).
 
@@ -455,4 +489,66 @@ Part 1 of the Regulations provides that they apply in respect of the members of 
 
 [^f00008]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
+[^c-06ac0e0666acfc523505649f3d82ae80]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-fd9693647dd22805c9d2bb826352a93a]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-7e07e1e2064ca6b9f5e96bae5b5116d0]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-1ccbbb92b30f9e8c2b14b89a0be3ea23]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-574698f70bf911eaa46a520888f0bd0a]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-790da5780aa7f9358b1816927b5a6e72]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-2b33584d8af4ef62c0723f6600bafee6]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-724c34f7a5fa35d48352cf57682696ef]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-d98535371d44bef183d64be85061f4eb]: Commencement: Reg. 23 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-9b867f12871610376c7ba0e7e00e690f]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-f12bb60d3553972292bec84f4ba09f79]: Commencement: Reg. 25 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-681e97897e2760b038f2192c60fce69b]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-4a925df6392afb61e815248db2dcdcc1]: Commencement: Reg. 27 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-1697fdc98ffba6285a81030653a47aaf]: Commencement: Reg. 28 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-d34fc476a5e742a7021807e35f2f9cc4]: Commencement: Reg. 29 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-7aae431113a976c4ef18d4d138709b58]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-18b41a81677ccb3b668332ca293071d9]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-7abff10a140613596edefdf24898a3c1]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-d01df7e833838463b64c0b4c7a380c7e]: Commencement: Reg. 33 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-570db739b02ab5e56081533b01b5044a]: Commencement: Reg. 34 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-7dfdbaea170b533fa385547dac442238]: Commencement: Reg. 35 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-fbc5ae42f3f68ff330d55577e5548645]: Commencement: Reg. 36 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-167b73be49d3eb48194f90abdbe81585]: Commencement: Reg. 37 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-1bbff17afcbd800a6fbb44fdfd0a00b0]: Commencement: Reg. 38 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-ccfd295db024bb43d56d379ebfd8d684]: Commencement: Reg. 39 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-b904980bbbdf3e51216e9cc34eb421ff]: Commencement: Reg. 40 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-2b77f8a9717807f39444ccf2ba475b58]: Commencement: Reg. 41 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
 [^f00009]: Footnote: This function of police authorities is prescribed by the Police Authorities (Particular Functions and Transitional Provisions) Order 2008 [S.I. 2008/82](https://www.legislation.gov.uk/uksi/2008/82).
+
+[^c-b6999ad3192fb4ebd75afa15237f43e6]: Commencement: Reg. 42 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-0c6fd9bf82b5892b39ecabf6865945e0]: Commencement: Reg. 43 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-7556ff5bf4c4b104acef9e689e957130]: Commencement: Reg. 44 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)
+
+[^c-c897719b64d47df41af4c36108f7d57b]: Commencement: Reg. 45 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/630/regulation/1/1)

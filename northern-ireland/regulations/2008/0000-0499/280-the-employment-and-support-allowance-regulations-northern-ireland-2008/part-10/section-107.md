@@ -3,7 +3,7 @@ title: The Employment and Support Allowance Regulations (Northern Ireland) 2008,
 act: The Employment and Support Allowance Regulations (Northern Ireland) 2008
 section: '107'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2008/280/section/107
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Employment and Support Allowance Regulations (Northern Ireland) 2008, section 107
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2008/280
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2008/280
 >
 > Extent: Northern Ireland.
 
@@ -70,6 +70,7 @@ but, except where sub-paragraph (a) applies, this paragraph does not apply to an
 - (c) a Windrush payment.
 - (d)[^c-4afae814f3a5279f3c4541d646c47971] a Post Office compensation payment;
 - (e) an LGBT Financial Recognition Scheme payment;[^c-19c7ba05aee613c00886f05d0f62aad7]
+- (ea)[^c-364da5f8c28b85c7e1c4f4a2e43a0408] a Mother and Baby Scheme payment;
 - (f) a miscarriage of justice compensation payment.
 
 (6) Where the claimant resides in a residential care home, a nursing home, an Abbeyfield Home or an independent hospital, or is temporarily absent from such a home or hospital, any payment made by a person other than the claimant or a member of the claimant’s family in respect of some or all of the cost of maintaining the claimant or the claimant’s partner in that home or hospital is to be treated as possessed by the claimant or the claimant’s partner.
@@ -119,6 +120,8 @@ but, except where sub-paragraph (a) applies, this paragraph does not apply to an
 [^c-4afae814f3a5279f3c4541d646c47971]: Textual amendment: [Reg. 107(5A)(d)](https://www.legislation.gov.uk/nisr/2008/280/regulation/107/5A/d)[(e)](https://www.legislation.gov.uk/nisr/2008/280/regulation/107/5A/e) substituted for [reg. 107(5A)(d)](https://www.legislation.gov.uk/nisr/2008/280/regulation/107/5A/d) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2025/24/regulation/8/3)
 
 [^c-19c7ba05aee613c00886f05d0f62aad7]: Textual amendment: [Reg. 107(5A)(f)](https://www.legislation.gov.uk/nisr/2008/280/regulation/107/5A/e) and semicolon substituted for full stop (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2025/122/regulation/7/3)
+
+[^c-364da5f8c28b85c7e1c4f4a2e43a0408]: Textual amendment: [Reg. 107(5A)(ea)](https://www.legislation.gov.uk/nisr/2008/280/regulation/107/5A/ea) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2026/177/regulation/6/3)
 
 [^c-a73c9f8b4c432dafd2da9cffd167dd68]: Textual amendment: [Reg. 107(8)](https://www.legislation.gov.uk/nisr/2008/280/regulation/107/8) added (coming into force in accordance with reg. 1(2)(d) of the amending Rule) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [reg. 8(9)](https://www.legislation.gov.uk/nisr/2009/338/regulation/8/9)
 

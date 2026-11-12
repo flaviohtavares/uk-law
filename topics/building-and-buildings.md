@@ -148,7 +148,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Building (Miscellaneous Amendments) (Scotland) Amendment Regulations 2017](../scotland/regulations/2017/0000-0499/214-the-building-miscellaneous-amendments-scotland-amendment-regulations-2017.md) *(as originally made)*
 - [The Building (Miscellaneous Amendments) (Scotland) Regulations 2017](../scotland/regulations/2017/0000-0499/188-the-building-miscellaneous-amendments-scotland-regulations-2017.md)
 - [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2017](../uk-parliament/regulations/2017/0000-0499/368-the-energy-performance-of-buildings-england-and-wales-amendment-regulations-2017.md) *(as originally made)*
-- [The Energy Performance of Buildings (Scotland) Amendment Regulations 2017](../scotland/regulations/2017/0000-0499/225-the-energy-performance-of-buildings-scotland-amendment-regulations-2017.md) *(as originally made)*
+- [The Energy Performance of Buildings (Scotland) Amendment Regulations 2017](../scotland/regulations/2017/0000-0499/225-the-energy-performance-of-buildings-scotland-amendment-regulations-2017.md) *(changes pending)*
 
 **2016**
 

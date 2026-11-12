@@ -9,18 +9,20 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [County Courts Act 1984](../uk-parliament/acts/public/1984/28-county-courts-act-1984/README.md) *(changes pending)* — 68 regulations on this topic made under it
 - [Matrimonial and Family Proceedings Act 1984](../uk-parliament/acts/public/1984/42-matrimonial-and-family-proceedings-act-1984/README.md) *(changes pending)* — 61 regulations on this topic made under it
 - [Civil Procedure Act 1997](../uk-parliament/acts/public/1997/12-civil-procedure-act-1997.md) *(changes pending)* — 54 regulations on this topic made under it
-- [County Courts (Northern Ireland) Order 1980](../northern-ireland/orders-in-council/1980/397-county-courts-northern-ireland-order-1980.md) *(changes pending)* — 49 regulations on this topic made under it
+- [County Courts (Northern Ireland) Order 1980](../northern-ireland/orders-in-council/1980/397-county-courts-northern-ireland-order-1980.md) *(changes pending)* — 51 regulations on this topic made under it
 - [Administration of Justice Act 1982](../uk-parliament/acts/public/1982/53-administration-of-justice-act-1982/README.md) — 20 regulations on this topic made under it
 - [The Family Law (Northern Ireland) Order 1993](../northern-ireland/orders-in-council/1993/1576-the-family-law-northern-ireland-order-1993.md) *(changes pending)* — 13 regulations on this topic made under it
 - [Courts Act 1971](../uk-parliament/acts/public/1971/23-courts-act-1971/README.md) *(changes pending)* — 4 regulations on this topic made under it
 
 ## Regulations
 
-459 in force.
+461 in force.
 
 **2026**
 
+- [The County Court (Amendment) Rules (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/188-the-county-court-amendment-rules-northern-ireland-2026/README.md) *(as originally made)*
 - [The County Court Fees (Amendment) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/36-the-county-court-fees-amendment-order-northern-ireland-2026.md)
+- [The County Courts (Financial Limits) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/187-the-county-courts-financial-limits-order-northern-ireland-2026.md) *(as originally made)*
 
 **2025**
 

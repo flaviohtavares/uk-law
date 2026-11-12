@@ -3,7 +3,7 @@ title: The Universal Credit Regulations (Northern Ireland) 2016, section 76
 act: The Universal Credit Regulations (Northern Ireland) 2016
 section: '76'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2016/216/section/76
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Universal Credit Regulations (Northern Ireland) 2016, section 76
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2016/216
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2016/216
 >
 > Extent: Northern Ireland.
 
@@ -52,6 +52,8 @@ summary: ''
 - (b) is the partner of a person referred to in sub-paragraph (a) and receives a payment by or on behalf of that person which is derived from a vaccine damage payment;
 - (c) was the partner of a person referred to in sub-paragraph (a) immediately before the latter’s death and receives a payment from their estate which is derived from a vaccine damage payment;
 - (d) in a case where a vaccine damage payment is made to the personal representative of a person (“**P**”) who was severely disabled as a result of vaccination, the person who was P’s partner immediately before P’s death and receives a payment from P’s estate which is derived from the vaccine damage payment.
+
+(1CA)[^c-620c533012a41e6f3f68610b4d77a472] This regulation also applies where a person receives a payment under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Irish Mother and Baby Institutions Payment Scheme Act 2023.
 
 (1D)[^c-f3f7bc37048bebbc864622edc3b979d3] This regulation also applies where a person—
 
@@ -98,6 +100,8 @@ summary: ''
 [^c-3841ae232ddf2f9be99c98c2fefc60d6]: Textual amendment: [Reg. 76(1A)(d)-(g)](https://www.legislation.gov.uk/nisr/2016/216/regulation/76/1A/d) substituted for Reg. 76(1A)(d)-(f) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2025/24/regulation/10)
 
 [^c-e52ad86f42cf081cdc68f69ee05fc936]: Textual amendment: [Reg. 76(1B)](https://www.legislation.gov.uk/nisr/2016/216/regulation/76/1B)[(1C)](https://www.legislation.gov.uk/nisr/2016/216/regulation/76/1C) inserted (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/97)](https://www.legislation.gov.uk/nisr/2023/97), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/nisr/2023/97/regulation/8/2/c)
+
+[^c-620c533012a41e6f3f68610b4d77a472]: Textual amendment: [Reg. 76(1CA)](https://www.legislation.gov.uk/nisr/2016/216/regulation/76/1CA) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2026/177/regulation/8/3)
 
 [^c-f3f7bc37048bebbc864622edc3b979d3]: Textual amendment: [Reg. 76(1D)](https://www.legislation.gov.uk/nisr/2016/216/regulation/76/1D) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/nisr/2025/122/regulation/8/2/a)
 

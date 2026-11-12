@@ -3,16 +3,16 @@ title: The School Information (England) Regulations 2008
 id: uksi/2008/3093
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-03'
-text_date: null
-extent: null
+text_date: '2008-12-03'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3093
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3093/pdfs/uksiem_20083093_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3093/pdfs/uksi_20083093_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3093/made/data.pdf
-pending_changes: 69
+- http://www.legislation.gov.uk/uksi/2008/3093/data.pdf
+pending_changes: 115
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The School Information (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (115).** Text as at 2008-12-03. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3093
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 3093
 
@@ -44,13 +50,13 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-f75591f0892570910aa5eab6ab896bb8]
 
 (1) These Regulations may be cited as the School Information (England) Regulations 2008 and come into force on 10th February 2009.
 
 (2) They apply only in relation to England and only to information in relation to the academic year 2010 – 2011 and subsequent years.
 
-### 2. Interpretation
+### 2. Interpretation[^c-b810dc591f230e3df4122581765279c2]
 
 In these Regulations—
 
@@ -78,17 +84,17 @@ In these Regulations—
 - “travel arrangements” means travel arrangements made under sections 508B or 508C of EA 1996[^f00008]; and
 - “waiting list” in relation to a school means any list of unsuccessful applicants for the school maintained by the admission authority after the date on which offers of school places are communicated to parents.
 
-### 3. Qualification of duties
+### 3. Qualification of duties[^c-35d15f4312ade07a2e1ab8545493c1ae]
 
 The duties imposed on a governing body and a local authority by virtue of these Regulations in respect of provision, publication or making available information apply only to the extent that that information is available to the governing body or the local authority in time for it to be reasonably practicable to provide, publish or make available the information before the latest occasion on which the information is required to be provided, published or made available, as the case may be.
 
-### 4. Regulations revoked
+### 4. Regulations revoked[^c-4ec0c73778c8b1f952e6dccd765c7b94]
 
 The Regulations set out in Schedule 1 are revoked.
 
 ## PART 2 — Publication of Composite Prospectus
 
-### 5. Local authority to publish composite prospectus
+### 5. Local authority to publish composite prospectus[^c-d6a861345d0ac8117ebddb342df84df0]
 
 (1) No later than 12th September in the offer year a local authority must publish the information specified in Schedule 2 in relation to all maintained schools, Academies, city technology colleges and city colleges for the technology of the arts in the composite prospectus area, in accordance with regulation 6.
 
@@ -106,7 +112,7 @@ provided that every prospectus published under this regulation must include the 
   - (ii) any part of the relevant area or relevant areas which fall outside the local authority’s area, and
 - (b) the “relevant area” has the meaning given in section 88F(4) of SSFA 1998[^f00009] and The Education (Relevant Areas for Consultation on Admission Arrangements) Regulations 1999[^f00010].
 
-### 6. Manner of publication
+### 6. Manner of publication[^c-d954d835bfe7d0c4028322821fba8b4b]
 
 (1) A local authority must publish a composite prospectus—
 
@@ -119,7 +125,7 @@ provided that every prospectus published under this regulation must include the 
 
 (3) In the case of a supplementary information form required to be published in the composite prospectus by virtue of paragraph 14 of Schedule 2, it is sufficient compliance with this regulation if such form is published in accordance with paragraph (1)(a) and (1)(b)(i).
 
-### 7. Provision of information to the local authority by governing bodies
+### 7. Provision of information to the local authority by governing bodies[^c-0e60d52e88894f78c79c949fa170a357]
 
 (1) Subject to paragraph (2), for the purpose of enabling a local authority to comply with their obligations under regulations 5 and 6 the governing body of every maintained school to be included in a composite prospectus must provide the local authority with the information specified in Part 2 of Schedule 2 no later than 8th August in the offer year.
 
@@ -127,7 +133,7 @@ provided that every prospectus published under this regulation must include the 
 
 ## PART 3 — Publication of other information by local authority
 
-### 8. Local authority to publish other information
+### 8. Local authority to publish other information[^c-f891f2c7b50d0b2c49ec561c32f4736a]
 
 (1) A local authority must publish the information in Schedule 3 in accordance with paragraph (2) and regulation 9.
 
@@ -135,7 +141,7 @@ provided that every prospectus published under this regulation must include the 
 
 (3) Where changes in respect of any of the matters required to be published under this regulation have been decided upon by the local authority but not yet implemented, the local authority must also publish information about those changes.
 
-### 9. Manner of publication
+### 9. Manner of publication[^c-f67a77bf34d706439d635a54d67b8564]
 
 (1) A local authority must publish the information in Part 1 of Schedule 3 *(Miscellaneous Matters)*—
 
@@ -170,7 +176,7 @@ is available only in schools of the classification in question.
 
 ## PART 4 — Information to be published by governing bodies
 
-### 10. Publication of school prospectuses
+### 10. Publication of school prospectuses[^c-b6ef7568c7dd0fb7b5364a4b9216d53f]
 
 (1) The governing body of a maintained school must publish—
 
@@ -189,7 +195,7 @@ as a single document identified as the school prospectus.
 
 ## PART 5 — Supplementary
 
-### 11. Supplementary provisions relating to published documents
+### 11. Supplementary provisions relating to published documents[^c-7b77734b909fd76d48265e3fb3fdcf4b]
 
 (1) This regulation applies in relation to any document which contains such information or particulars as are mentioned in the preceding provisions of these Regulations and which is published in accordance with them.
 
@@ -210,7 +216,7 @@ Department for Children, Schools and Families
 
 3rd December 2008
 
-## SCHEDULE 1 — Regulations revoked
+## SCHEDULE 1 — Regulations revoked[^c-a1b8dda9b3d90261a6a8acfa1dff3ef0]
 
 Regulation 4
 
@@ -227,25 +233,25 @@ Regulation 5
 
 ### PART 1 — General
 
-**1.** The postal and website addresses and telephone numbers of the offices of the local authority to which enquiries in respect of primary and secondary education in their area should be addressed.
+**1.**[^c-78ef1807c3f76182a088372896bc260d] The postal and website addresses and telephone numbers of the offices of the local authority to which enquiries in respect of primary and secondary education in their area should be addressed.
 
-**2.** An explanation of the stages in the process of applying for a school place including:
+**2.**[^c-f90904194d751b52782ae7cd7d79b06b] An explanation of the stages in the process of applying for a school place including:
 
 - (a) how to apply, including how to apply on-line, and by what date;
 - (b) when offers of places will be communicated to parents;
 - (c) when appeals will be heard; and
 - (d) how applications made otherwise than in the course of a normal admission round will be dealt with.
 
-**3.** A copy of the common application form, and details of how to complete and submit this.
+**3.**[^c-9b811149ea3ce4e9569d1cbc5a53c0bc] A copy of the common application form, and details of how to complete and submit this.
 
-**4.** A summary of the local authority’s sustainable modes of travel strategy.
+**4.**[^c-d76afc12de863afe2ab43fc596f2cb0e] A summary of the local authority’s sustainable modes of travel strategy.
 
-**5.** In relation to travel arrangements—
+**5.**[^c-4b9ea6686eb7ded523141ad81adb9d00] In relation to travel arrangements—
 
 - (a) the local authority’s general arrangements and policies in respect of the making of travel arrangements in accordance with the discharge of their functions under sections 508B and 508C of EA 1996, or
 - (b) where a school travel scheme made by the local authority has effect in relation to an admission year, the arrangements made under the scheme.
 
-**6.** The information in paragraph 5 must include, in particular—
+**6.**[^c-dcc6b7a87b92b2b07b36abbc6242af2f] The information in paragraph 5 must include, in particular—
 
 - (a) the provision of free transport;
 - (b) the carriage on school buses of pupils for whom free transport is not provided;
@@ -254,17 +260,17 @@ Regulation 5
 - (e) the arrangements for children with special educational needs; and
 - (f) the arrangements in respect of transport for pupils to schools for which a pupil’s parent has expressed a preference on the grounds of the parent’s religion or belief.
 
-**7.** A summary of the local authority’s co-ordinated admission scheme made or adopted under section 88M of SSFA.[^f00013]
+**7.**[^c-4a22f53ce0fe9ee859e4ebb0fa7628f1] A summary of the local authority’s co-ordinated admission scheme made or adopted under section 88M of SSFA.[^f00013]
 
-**8.** An explanation of the local authority’s fair access protocol.
+**8.**[^c-8cedf3454ed9ef6ecfb699a5a8890b09] An explanation of the local authority’s fair access protocol.
 
 ### PART 2 — Information in respect of each school mentioned in the composite prospectus
 
-**9.** The name, postal address, website addresses (if they have one), and telephone number of the school.
+**9.**[^c-f56f2bc2de30c4496af8dd701127c162] The name, postal address, website addresses (if they have one), and telephone number of the school.
 
-**10.** The name of a person to whom enquiries should be addressed.
+**10.**[^c-2199c131455444db010856509ce499d0] The name of a person to whom enquiries should be addressed.
 
-**11.** The classification of the school as—
+**11.**[^c-7623f8941d7cb5be769783e6d4758c71] The classification of the school as—
 
 - (a) a community, foundation, voluntary controlled or voluntary aided school, Academy, city technology college or city college for the technology of the arts;
 - (b) a primary, middle or secondary school;
@@ -274,13 +280,13 @@ Regulation 5
 - (f) in the case of a school designated as having a religious character by an order under section 69(3) of SSFA 1998, the religious denomination, or denominations, of the school[^f00014];
 - (g) in the case of a school with specialist status, its specialism.
 
-**12.** The expected number of pupils at the school and their age range.
+**12.**[^c-fcb59093f525c8f1bc78381fa444b20e] The expected number of pupils at the school and their age range.
 
-**13.** The determined admission number, or numbers, for the school[^f00015]; and the number of preferences expressed for places at the school for the previous admission year[^f00016].
+**13.**[^c-8d5f49e01bd301dc5fc4be59779b5005] The determined admission number, or numbers, for the school[^f00015]; and the number of preferences expressed for places at the school for the previous admission year[^f00016].
 
-**14.** The determined admission arrangements for the school in relation to each relevant age group at the school (including ages above and below compulsory school age) and, where the admission arrangements include a supplementary information form, a copy of that form.
+**14.**[^c-0486dfc01d87e3b400d832511d476fc3] The determined admission arrangements for the school in relation to each relevant age group at the school (including ages above and below compulsory school age) and, where the admission arrangements include a supplementary information form, a copy of that form.
 
-**15.** In any case where the determined admission arrangements—
+**15.**[^c-d68c6f536df37caef276788d127e736b] In any case where the determined admission arrangements—
 
 - (a) are the subject of an objection referred to the adjudicator under section 88H of SSFA 1998,
 - (b) are being considered by the adjudicator under section 88I(4)(a) or (5)(a) of SSFA 1998, or
@@ -288,9 +294,9 @@ Regulation 5
 
 and where the adjudicator’s determination or, as the case may be, the adjudicator’s or Secretary of State’s decision is pending, a statement of that fact.[^f00017]
 
-**16.** The date until which any waiting list for the school will be maintained following the communication of offers of places to parents.
+**16.**[^c-d02195e082bcefea176b29fad79f408b] The date until which any waiting list for the school will be maintained following the communication of offers of places to parents.
 
-**17.** Information as to where and by what means parents may access sources of general information relating to the school, including such information as annual school achievement and attainment tables, published reports of recent school inspections, school open days and the school’s uniform policy.
+**17.**[^c-d4fd460528596b8b07061f076537acc9] Information as to where and by what means parents may access sources of general information relating to the school, including such information as annual school achievement and attainment tables, published reports of recent school inspections, school open days and the school’s uniform policy.
 
 ## SCHEDULE 3 — Information to be Published by Local Authorities
 
@@ -298,35 +304,35 @@ Regulation 8
 
 ### PART 1 — Miscellaneous Matters
 
-**1.** The postal and website addresses and telephone numbers of the offices of the local authority to which enquiries in respect of primary and secondary education in their area should be addressed.
+**1.**[^c-8c3d2153236131a4bfde0b08ee6de59f] The postal and website addresses and telephone numbers of the offices of the local authority to which enquiries in respect of primary and secondary education in their area should be addressed.
 
-**2.** The arrangements for parents to obtain the information specified in Schedule 2 in the case of individual schools other than special schools.
+**2.**[^c-3bd7f647e99061f296c4c269600055db] The arrangements for parents to obtain the information specified in Schedule 2 in the case of individual schools other than special schools.
 
-**3.** The local authority’s general arrangements and policies in respect of the provision of milk, meals and other refreshment including, in particular, the remission in whole or in part of charges.
+**3.**[^c-20fce4f1ee7b478fb47fbc4faaaf5aea] The local authority’s general arrangements and policies in respect of the provision of milk, meals and other refreshment including, in particular, the remission in whole or in part of charges.
 
-**4.** The local authority’s general arrangements and policies in respect of the provision of school clothing (including uniform and physical training clothes) and the making of grants to defray expenses in respect of such clothing and, in particular, the address from which parents may obtain detailed information about the assistance which is available and eligibility for it.
+**4.**[^c-3dcae0a1f71d3ca706954dfb07e57db3] The local authority’s general arrangements and policies in respect of the provision of school clothing (including uniform and physical training clothes) and the making of grants to defray expenses in respect of such clothing and, in particular, the address from which parents may obtain detailed information about the assistance which is available and eligibility for it.
 
-**5.** The local authority’s general arrangements and policies, in the case of pupils attending schools maintained by any authority in respect of—
+**5.**[^c-9a2f903dbe3fd5daadaf1fb22cbd592e] The local authority’s general arrangements and policies, in the case of pupils attending schools maintained by any authority in respect of—
 
 - (a) the making of grants to defray expenses (other than those mentioned in paragraphs 4 and 11); and
 - (b) the granting of allowances in the case of pupils over compulsory school age,
 
 and, in particular, the address from which parents may obtain detailed information about the assistance which is available and eligibility for it.
 
-**6.** The local authority’s general policy in respect of the entering of pupils for public examinations.
+**6.**[^c-0880481c73c801f92d9b82ee005db0a9] The local authority’s general policy in respect of the entering of pupils for public examinations.
 
-**7.** The local authority’s general arrangements and policies in respect of special educational provision for pupils with special educational needs including, in particular, the arrangements for parents to obtain information about the matters mentioned in Part 2 of this Schedule.
+**7.**[^c-130f4be1696e5a1151619802bd88c890] The local authority’s general arrangements and policies in respect of special educational provision for pupils with special educational needs including, in particular, the arrangements for parents to obtain information about the matters mentioned in Part 2 of this Schedule.
 
-**8.** The arrangements for parents and others to obtain copies of and to refer to particulars of the charging and remissions policies determined by the authority under section 457 of EA 1996.
+**8.**[^c-7510093b6d7601c7ab62de431ac1188f] The arrangements for parents and others to obtain copies of and to refer to particulars of the charging and remissions policies determined by the authority under section 457 of EA 1996.
 
-**9.** The local authority’s sustainable modes of travel strategy.
+**9.**[^c-a7af54ce1e8929db387ed1dc7fcc37cb] The local authority’s sustainable modes of travel strategy.
 
-**10.** In relation to travel arrangements——
+**10.**[^c-b2fb59a003aa0661a963c20fe0070da9] In relation to travel arrangements——
 
 - (a) the local authority’s general arrangements and policies in respect of the making of travel arrangements in accordance with the discharge of their functions under sections 508B and 508C of EA 1996; or
 - (b) where a school travel scheme made by the authority has effect in relation to an admission year, the arrangements made under the scheme.
 
-**11.** The information in paragraph 10 must include, in particular—
+**11.**[^c-b82122839f80af5b8010abf658cb55a0] The information in paragraph 10 must include, in particular—
 
 - (a) the provision of free transport;
 - (b) the carriage on school buses of pupils for whom free transport is not provided;
@@ -337,23 +343,23 @@ and, in particular, the address from which parents may obtain detailed informati
 
 ### PART 2 — Special Educational Provision
 
-**12.** The local authority’s detailed arrangements and policies in respect of—
+**12.**[^c-bb8207bd9e2af5aa919308a1a63134ed] The local authority’s detailed arrangements and policies in respect of—
 
 - (a) the identification and assessment of children with special educational needs and the involvement of parents in that process;
 - (b) the provision made in community, voluntary and special schools maintained by them for pupils with special educational needs and the use made by them of such special schools maintained by other authorities; and
 - (c) special educational provision provided otherwise than at school.
 
-**13.** The local authority’s arrangements and policies in respect of the use of non-maintained special and independent schools.
+**13.**[^c-b68047f089d1cfcac81ff28ff0bb6b42] The local authority’s arrangements and policies in respect of the use of non-maintained special and independent schools.
 
-**14.** The arrangements for parents who consider that their child may have special educational needs to obtain advice and further information.
+**14.**[^c-ed20b976a7702aca7083e207ecd880b2] The arrangements for parents who consider that their child may have special educational needs to obtain advice and further information.
 
-**15.** The local authority’s arrangements and policies in respect of transport for pupils of compulsory school age and below to and from maintained and non-maintained special schools and independent schools.
+**15.**[^c-28b852a7ea9e3214fda76da927c33800] The local authority’s arrangements and policies in respect of transport for pupils of compulsory school age and below to and from maintained and non-maintained special schools and independent schools.
 
-**16.** The arrangements for parents to obtain the information particularised in Schedule 2 in the case of the special schools used by the authority which are maintained by them or other authorities.
+**16.**[^c-1ce0eb2af2c50af741db41b53094a4eb] The arrangements for parents to obtain the information particularised in Schedule 2 in the case of the special schools used by the authority which are maintained by them or other authorities.
 
 ### PART 3 — Exceptional Provision of Education in Pupil Referral Units or Elsewhere
 
-**17.** The local authority’s general arrangements and policies in respect of the provision of education to which section 19 of EA 1996 applies (exceptional provision of education in pupil referral units or elsewhere).
+**17.**[^c-aea85d691d0b47582492697314457cfd] The local authority’s general arrangements and policies in respect of the provision of education to which section 19 of EA 1996 applies (exceptional provision of education in pupil referral units or elsewhere).
 
 EXPLANATORY NOTE
 
@@ -379,6 +385,10 @@ Part 5 contains supplementary provisions relating to published documents includi
 
 [^f00002]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31); section 92 is substituted by paragraph 7 of Schedule 4 to the Education Act 2002. See section 142(1) of the SSFA1998 for the definitions of “regulations” and “prescribed”.
 
+[^c-f75591f0892570910aa5eab6ab896bb8]: Commencement: Reg. 1 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-b810dc591f230e3df4122581765279c2]: Commencement: Reg. 2 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
 [^f00003]: Footnote: This is the academic year in which admission arrangements are determined in relation to the admission year.
 
 [^f00004]: Footnote: This is the academic year in which offers of school places for the admission year are communicated to parents.
@@ -391,20 +401,108 @@ Part 5 contains supplementary provisions relating to published documents includi
 
 [^f00008]: Footnote: Sections 508B and 508C are inserted by section 77(1) of the Education and Inspections Act 2006.
 
+[^c-35d15f4312ade07a2e1ab8545493c1ae]: Commencement: Reg. 3 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-4ec0c73778c8b1f952e6dccd765c7b94]: Commencement: Reg. 4 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-d6a861345d0ac8117ebddb342df84df0]: Commencement: Reg. 5 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
 [^f00009]: Footnote: Section 88F is inserted by section 151 of the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25).
 
 [^f00010]: Footnote: [S.I. 1999/124](https://www.legislation.gov.uk/uksi/1999/124).
 
+[^c-d954d835bfe7d0c4028322821fba8b4b]: Commencement: Reg. 6 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-0e60d52e88894f78c79c949fa170a357]: Commencement: Reg. 7 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-f891f2c7b50d0b2c49ec561c32f4736a]: Commencement: Reg. 8 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
 [^f00011]: Footnote: Section 19 is amended by section 47 of, and Schedule 8 to, the Education Act 1997, the Education Act 1996 (Amendment of Section 19) (England) Regulations 2007 ([S.I. 2007/1507](https://www.legislation.gov.uk/uksi/2007/1507)), and section 101 of the Education and Inspections Act 2006.
+
+[^c-f67a77bf34d706439d635a54d67b8564]: Commencement: Reg. 9 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-b6ef7568c7dd0fb7b5364a4b9216d53f]: Commencement: Reg. 10 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
 
 [^f00012]: Footnote: Section 10 is substituted by section 45 of the Trade Union Reform and Employment Rights Act [1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19).
 
+[^c-7b77734b909fd76d48265e3fb3fdcf4b]: Commencement: Reg. 11 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-a1b8dda9b3d90261a6a8acfa1dff3ef0]: Commencement: Sch. 1 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-78ef1807c3f76182a088372896bc260d]: Commencement: Sch. 2 para. 1 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-f90904194d751b52782ae7cd7d79b06b]: Commencement: Sch. 2 para. 2 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-9b811149ea3ce4e9569d1cbc5a53c0bc]: Commencement: Sch. 2 para. 3 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-d76afc12de863afe2ab43fc596f2cb0e]: Commencement: Sch. 2 para. 4 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-4b9ea6686eb7ded523141ad81adb9d00]: Commencement: Sch. 2 para. 5 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-dcc6b7a87b92b2b07b36abbc6242af2f]: Commencement: Sch. 2 para. 6 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-4a22f53ce0fe9ee859e4ebb0fa7628f1]: Commencement: Sch. 2 para. 7 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
 [^f00013]: Footnote: Section 88M is inserted by section 151 of the Education and Skills Act 2008.
 
+[^c-8cedf3454ed9ef6ecfb699a5a8890b09]: Commencement: Sch. 2 para. 8 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-f56f2bc2de30c4496af8dd701127c162]: Commencement: Sch. 2 para. 9 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-2199c131455444db010856509ce499d0]: Commencement: Sch. 2 para. 10 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-7623f8941d7cb5be769783e6d4758c71]: Commencement: Sch. 2 para. 11 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
 [^f00014]: Footnote: Section 69(3) applies to Academies, city technology colleges and city colleges for the technology of the arts, which are independent schools, by virtue of section 124B of the School Standards and Framework Act 1998.
+
+[^c-fcb59093f525c8f1bc78381fa444b20e]: Commencement: Sch. 2 para. 12 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-8d5f49e01bd301dc5fc4be59779b5005]: Commencement: Sch. 2 para. 13 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
 
 [^f00015]: Footnote: In the case of maintained schools the admission number is determined in accordance with section 88D of the SSFA, inserted by section 151 of the Education and Skills Act 2008.
 
 [^f00016]: Footnote: In the case of maintained schools this is a reference to preferences expressed in accordance with section 86(1) or 86A(1)(c) and (d) of SSFA 1998. Section 86 is amended by paragraph 54 of Schedule 1 to the Education and Skills Act 2008, and section 86A is inserted by section 150 of that Act.
 
+[^c-0486dfc01d87e3b400d832511d476fc3]: Commencement: Sch. 2 para. 14 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-d68c6f536df37caef276788d127e736b]: Commencement: Sch. 2 para. 15 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
 [^f00017]: Footnote: Sections 88H and 88I are inserted by section 151 of the Education and Skills Act 2008.
+
+[^c-d02195e082bcefea176b29fad79f408b]: Commencement: Sch. 2 para. 16 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-d4fd460528596b8b07061f076537acc9]: Commencement: Sch. 2 para. 17 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-8c3d2153236131a4bfde0b08ee6de59f]: Commencement: Sch. 3 para. 1 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-3bd7f647e99061f296c4c269600055db]: Commencement: Sch. 3 para. 2 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-20fce4f1ee7b478fb47fbc4faaaf5aea]: Commencement: Sch. 3 para. 3 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-3dcae0a1f71d3ca706954dfb07e57db3]: Commencement: Sch. 3 para. 4 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-9a2f903dbe3fd5daadaf1fb22cbd592e]: Commencement: Sch. 3 para. 5 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-0880481c73c801f92d9b82ee005db0a9]: Commencement: Sch. 3 para. 6 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-130f4be1696e5a1151619802bd88c890]: Commencement: Sch. 3 para. 7 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-7510093b6d7601c7ab62de431ac1188f]: Commencement: Sch. 3 para. 8 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-a7af54ce1e8929db387ed1dc7fcc37cb]: Commencement: Sch. 3 para. 9 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-b2fb59a003aa0661a963c20fe0070da9]: Commencement: Sch. 3 para. 10 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-b82122839f80af5b8010abf658cb55a0]: Commencement: Sch. 3 para. 11 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-bb8207bd9e2af5aa919308a1a63134ed]: Commencement: Sch. 3 para. 12 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-b68047f089d1cfcac81ff28ff0bb6b42]: Commencement: Sch. 3 para. 13 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-ed20b976a7702aca7083e207ecd880b2]: Commencement: Sch. 3 para. 14 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-28b852a7ea9e3214fda76da927c33800]: Commencement: Sch. 3 para. 15 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-1ce0eb2af2c50af741db41b53094a4eb]: Commencement: Sch. 3 para. 16 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)
+
+[^c-aea85d691d0b47582492697314457cfd]: Commencement: Sch. 3 para. 17 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3093/regulation/1/1)

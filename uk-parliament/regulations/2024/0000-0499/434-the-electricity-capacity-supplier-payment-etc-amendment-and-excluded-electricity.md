@@ -3,16 +3,16 @@ title: The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded 
 id: uksi/2024/434
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2024-03-20'
-text_date: null
-extent: null
+text_date: '2024-04-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2024/434
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/434/pdfs/uksiem_20240434_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2024/434/pdfs/uksi_20240434_en.pdf
-- http://www.legislation.gov.uk/uksi/2024/434/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/uksi/2024/434/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2024-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2024/434
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2024 No. 434
 
@@ -47,7 +51,7 @@ In accordance with section 40(5) of the Act, a draft of this instrument was laid
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent
+### 1. Citation, commencement and extent[^c-dd8e1305de6703a35490f7ef5f41ef98]
 
 (1) These Regulations may be cited as the Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024.
 
@@ -55,7 +59,7 @@ In accordance with section 40(5) of the Act, a draft of this instrument was laid
 
 (3) These Regulations extend to England and Wales and Scotland.
 
-### 2. Interpretation
+### 2. Interpretation[^c-7a2f8801cab5799f237d508c745b6901]
 
 (1) In these Regulations—
 
@@ -87,7 +91,7 @@ In accordance with section 40(5) of the Act, a draft of this instrument was laid
 
 ## PART 2 — CM EII Excluded Electricity
 
-### 3. Determination of CM EII excluded electricity
+### 3. Determination of CM EII excluded electricity[^c-3fe9a2c035a29feb0b34b7ba35798e11]
 
 (1) The relevant proportion of electricity which is measured by a meter in respect of which an EII certificate is in force is CM EII excluded electricity, where relevant arrangements apply in relation to that meter.
 
@@ -98,7 +102,7 @@ In accordance with section 40(5) of the Act, a draft of this instrument was laid
 
 (3) Where the Settlement Body makes a determination under the Supplier Payment Regulations which requires the determination or calculation of the amount of electricity supplied which is CM EII excluded electricity, it must, where possible, base that determination or calculation on information derived from the BSC volume allocation run carried out by the BSCCo most recently before the day on which the electricity was supplied.
 
-### 4. Relevant Arrangements
+### 4. Relevant Arrangements[^c-94981dec81ba43f20cb9356edf96c12b]
 
 (1) For the purposes of regulation 3, “**relevant arrangements**” means arrangements which are approved by the Settlement Body under paragraph (2) or (3)(a), to enable the provision of information to the Settlement Body about the amount of electricity measured by meters in respect of which CM EII certificates are in force.
 
@@ -115,7 +119,7 @@ In accordance with section 40(5) of the Act, a draft of this instrument was laid
 
 (5) Where the Settlement Body approves relevant arrangements it must publish, in such manner as it considers appropriate for the purpose of bringing it to the attention of electricity suppliers, a document which describes those arrangements.
 
-### 5. Information sharing
+### 5. Information sharing[^c-63ec1104b56671febe1298f68d693352]
 
 (1) If the CfD counterparty receives from the Secretary of State any EII correction notice or any notice of issue or revocation of an EII certificate or of a specific occurrence pursuant to regulation 12 or regulation 13 of the Excluded Electricity Regulations, it must provide a copy of that notice to the Settlement Body as soon as reasonably practicable after it receives that notice.
 
@@ -131,11 +135,11 @@ In accordance with section 40(5) of the Act, a draft of this instrument was laid
 
 ## PART 3 — Amendment of the Supplier Payment Regulations
 
-### 6. Amendment of the Supplier Payment Regulations
+### 6. Amendment of the Supplier Payment Regulations[^c-8af57f70656a2ce18954d5fb750333ab]
 
 The Supplier Payment Regulations are amended in accordance with regulations 7 to 12.
 
-### 7. Regulation 2 (interpretation)
+### 7. Regulation 2 (interpretation)[^c-ec7d085a325958522dc8a6ac6f975a6a]
 
 In regulation 2(1)—
 
@@ -152,11 +156,11 @@ In regulation 2(1)—
   ;
 - (b) omit the definition of “gross demand”.
 
-### 8. Regulation 3 (the supplier settlement calculations)
+### 8. Regulation 3 (the supplier settlement calculations)[^c-f1f2e6df83be61c5323d2aec99b49e49]
 
 In regulation 3(3), after “capacity market rules” insert “or is provided to the Settlement Body pursuant to the relevant arrangements”.
 
-### 9. Regulation 4 (forecast of gross demand)
+### 9. Regulation 4 (forecast of gross demand)[^c-4c91659b58aeed14d3660070a76b373a]
 
 In regulation 4—
 
@@ -171,7 +175,7 @@ In regulation 4—
     ;
 - (c) in sub-paragraph (b), for “forecast” substitute “forecasts”.
 
-### 10. Regulation 6 (capacity market supplier charge)
+### 10. Regulation 6 (capacity market supplier charge)[^c-944e09de463b21584244abc5581571da]
 
 For regulation 6(3), substitute—
 
@@ -184,7 +188,7 @@ For regulation 6(3), substitute—
 
 .
 
-### 11. Regulation 19 (recalculation of payments: general)
+### 11. Regulation 19 (recalculation of payments: general)[^c-44f0f2575c5158feaf1d54c61a53e852]
 
 In regulation 19—
 
@@ -195,7 +199,7 @@ In regulation 19—
 
   .
 
-### 12. Schedule 1 (calculation of amounts)
+### 12. Schedule 1 (calculation of amounts)[^c-a38d311cc68bc2bb019a6667c3c2015a]
 
 In Schedule 1—
 
@@ -261,6 +265,10 @@ An impact assessment setting out the key impacts of this policy has been complet
 
 [^f00001]: Footnote: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).
 
+[^c-dd8e1305de6703a35490f7ef5f41ef98]: Commencement: Reg. 1 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-7a2f8801cab5799f237d508c745b6901]: Commencement: Reg. 2 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
 [^f00002]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29); section 6(1)(b) was substituted by the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), section 136(1). There are other amendments to section 6 but none is relevant. The code is accessible on the website of Elexon Limited at https://www.elexon.co.uk/bsc-and-codes/ (their postal address is 4th Floor, 350 Euston Road London NW1 3AW; their email address is bscservicedesk@cgi.com).
 
 [^f00003]: Footnote: [S.I. 2015/721](https://www.legislation.gov.uk/uksi/2015/721); relevant amending instruments are [S.I. 2017/1051](https://www.legislation.gov.uk/uksi/2017/1051), [2020/130](https://www.legislation.gov.uk/uksi/2020/130), [2023/415](https://www.legislation.gov.uk/uksi/2023/415).
@@ -270,3 +278,23 @@ An impact assessment setting out the key impacts of this policy has been complet
 [^f00005]: Footnote: [S.I. 2014/3354](https://www.legislation.gov.uk/uksi/2014/3354), amended by [S.I. 2015/875](https://www.legislation.gov.uk/uksi/2015/875), [2016/742](https://www.legislation.gov.uk/uksi/2016/742), [2017/1053](https://www.legislation.gov.uk/uksi/2017/1053), [2022/401](https://www.legislation.gov.uk/uksi/2022/401); there are other amendments and modifications, but none is relevant.
 
 [^f00006]: Footnote: Section 4(4) was substituted by the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), section 179(1). There are other amendments to section 4 but none is relevant.
+
+[^c-3fe9a2c035a29feb0b34b7ba35798e11]: Commencement: Reg. 3 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-94981dec81ba43f20cb9356edf96c12b]: Commencement: Reg. 4 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-63ec1104b56671febe1298f68d693352]: Commencement: Reg. 5 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-8af57f70656a2ce18954d5fb750333ab]: Commencement: Reg. 6 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-ec7d085a325958522dc8a6ac6f975a6a]: Commencement: Reg. 7 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-f1f2e6df83be61c5323d2aec99b49e49]: Commencement: Reg. 8 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-4c91659b58aeed14d3660070a76b373a]: Commencement: Reg. 9 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-944e09de463b21584244abc5581571da]: Commencement: Reg. 10 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-44f0f2575c5158feaf1d54c61a53e852]: Commencement: Reg. 11 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)
+
+[^c-a38d311cc68bc2bb019a6667c3c2015a]: Commencement: Reg. 12 in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/434/regulation/1/2)

@@ -3,16 +3,16 @@ title: The School Admissions (Co-ordination of Admission Arrangements) (England)
 id: uksi/2008/3090
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-03'
-text_date: null
-extent: null
+text_date: '2008-12-03'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3090
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3090/pdfs/uksiem_20083090_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3090/pdfs/uksi_20083090_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3090/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/3090/data.pdf
+pending_changes: 22
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The School Admissions (Co-ordination of Admission Arrangements) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2008-12-03. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3090
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 3090
 
@@ -42,7 +48,7 @@ Coming into force
 
 The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the powers conferred by sections 88M, 88N, 88O, 138(7) and 144(1) of the School Standards and Framework Act 1998[^f00001]:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-6bc18cf5778afc9f2f9b55454f9a8924]
 
 (1) These Regulations may be cited as The School Admissions (Co-ordination of Admission Arrangements) (England) Regulations 2008 and come into force on 10th February 2009.
 
@@ -52,13 +58,13 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 (4) These Regulations do not apply to the Council of the Isles of Scilly.
 
-## 2. Revocation
+## 2. Revocation[^c-8c6a8c1efc794362b752ec0a5ad41974]
 
 (1) Subject to paragraph (2), the School Admissions (Co-ordination of Admission Arrangements) (England) Regulations 2007[^f00002] are revoked.
 
 (2) This regulation does not have effect in relation to arrangements under which pupils are to be admitted to schools in England for the academic years up to and including 2010-2011.
 
-## 3. Interpretation
+## 3. Interpretation[^c-49f0272eebabe0b774be972056e82286]
 
 (1) In these Regulations—
 
@@ -91,13 +97,13 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 (5) Save where otherwise appears, any reference in these Regulations to a numbered section is a reference to that section of SSFA 1998.
 
-## 4. Formulation of qualifying schemes
+## 4. Formulation of qualifying schemes[^c-202b99436dcc9faa9299c1299aa5db3c]
 
 (1) An authority must formulate, in relation to any academic year to which these Regulations apply, a qualifying scheme in relation to each primary and secondary school in their area (a “qualifying scheme”).
 
 (2) A qualifying scheme must comply with the requirements in Schedule 1.
 
-## 5. Action to be taken by an authority to secure adoption of a qualifying scheme
+## 5. Action to be taken by an authority to secure adoption of a qualifying scheme[^c-6b914740d2faae17a14ae6867f6f0bc5]
 
 (1) This regulation prescribes for the purposes of section 88M(1)(b) the action to be taken by an authority with a view to securing the adoption of a qualifying scheme by themselves and each governing body who are the admission authority for a primary school or secondary school in their area.
 
@@ -123,11 +129,11 @@ the authority must consult the bodies mentioned in paragraph (6).
 
 (8) Once the authority have carried out any consultation required under this regulation they must determine the qualifying scheme (either in its original form or with such modifications as the authority think fit) which they propose should apply for the academic year in question and must take all reasonable steps to secure its adoption by themselves and each governing body they consulted in relation to it.
 
-## 6. Information to be provided to the Secretary of State
+## 6. Information to be provided to the Secretary of State[^c-a77150523e47c92e7bb61ef4b8768047]
 
 Following any action required to be taken under regulation 5, an authority must inform the Secretary of State whether they have secured the adoption of a qualifying scheme or not, and provide the Secretary of State with a copy of the adopted scheme.
 
-## 7. Making of a scheme by the Secretary of State
+## 7. Making of a scheme by the Secretary of State[^c-4df0880eb0bc9bd4421146b75c933c13]
 
 (1) In any case where by 15th April in the relevant determination year an authority have not informed the Secretary of State in accordance with regulation 6 that a scheme has been adopted in their area–
 
@@ -136,7 +142,7 @@ Following any action required to be taken under regulation 5, an authority must 
 
 (2) An imposed scheme may make provision corresponding to the requirements of a qualifying scheme.
 
-## 8. Date on which decisions in relation to primary school admissions are to be communicated to parents
+## 8. Date on which decisions in relation to primary school admissions are to be communicated to parents[^c-13c9c7b0a51e93c2d01eda81e1552035]
 
 (1) Subject to paragraphs (2) and (3), an authority must designate a single day in each year as the day on which a determination made in accordance with the provisions of a qualifying scheme to offer or refuse a child admission to a primary school must be sent to a parent.
 
@@ -144,7 +150,7 @@ Following any action required to be taken under regulation 5, an authority must 
 
 (3) The requirement in paragraph (1) to send a determination to offer or refuse a child admission to a primary school only applies to applications made in the course of a normal admission round.
 
-## 9. Date on which decisions in relation to secondary school admissions are to be communicated to parents
+## 9. Date on which decisions in relation to secondary school admissions are to be communicated to parents[^c-0c8572c989632d98fa612816443b27b8]
 
 (1) Subject to paragraph (3), this regulation prescribes for the purposes of section 88M(4)(b), the single day in each year on which a determination made in accordance with the provisions of a qualifying scheme or an imposed scheme to offer or refuse a child admission to a secondary school must be sent to a parent.
 
@@ -152,11 +158,11 @@ Following any action required to be taken under regulation 5, an authority must 
 
 (3) The requirement in paragraph (1) to send a determination to offer or refuse a child admission to a secondary school only applies to applications made in the course of a normal admission round.
 
-## 10. Sections 496 and 497 of the Education Act 1996
+## 10. Sections 496 and 497 of the Education Act 1996[^c-55ea0bc79b47e7642c28148c8a9f7497]
 
 Sections 496 and 497 of the Education Act 1996[^f00005] apply to an authority or a governing body as if any of the obligations imposed on them under a qualifying scheme or an imposed scheme were duties imposed on them under that Act.
 
-## 11. Amendment of the 2007 Regulations
+## 11. Amendment of the 2007 Regulations[^c-e79385f67169cff473bd3d037250d568]
 
 Schedule 2 contains amendments to the 2007 Regulations.
 
@@ -172,7 +178,7 @@ Department for Children, Schools and Families
 
 Regulation 4(2)
 
-### 1. General
+### 1. General[^c-2fc077caded51c85117712f7a8bf1839]
 
 A qualifying scheme must—
 
@@ -187,7 +193,7 @@ A qualifying scheme must—
 - (e) where the governing body who are the admission authority for such a school have made arrangements for another body to determine the order of priority under paragraph 5(b), identify that body; and
 - (f) specify that any notification of acceptance of a school place must be received by the authority within two weeks after the date of the offer.
 
-### 2. Requirements of a qualifying scheme relating to applications made in the course of a normal admission round
+### 2. Requirements of a qualifying scheme relating to applications made in the course of a normal admission round[^c-4b956e8d5c2ddd31eab0b6e514fff32c]
 
 (1) This paragraph specifies provisions to be made in a qualifying scheme about applications made in the course of a normal admission round.
 
@@ -199,7 +205,7 @@ A qualifying scheme must—
 - (d) require an authority to send any determination granting or refusing admission to a school to a parent on the offer date (such determination being sent on behalf of the school’s governing body in any case where the authority are not the admission authority for the school); and
 - (e) specify the dates by which each of the steps required to be taken in accordance with this Schedule is to be performed, including where the date is specified in this Schedule.
 
-### 3. Requirements of a qualifying scheme relating to applications for in-area schools
+### 3. Requirements of a qualifying scheme relating to applications for in-area schools[^c-e9e4df5115921a849e7166033ca57f01]
 
 (1) This paragraph specifies provisions to be made in a qualifying scheme about applications made for a school in the area of the authority.
 
@@ -216,7 +222,7 @@ A qualifying scheme must—
 - (e) except where paragraph (f) applies, to send any determination granting or refusing admission to a school to the parent (such determination being sent on behalf of a school’s governing body in any case where the authority are not the admission authority for the school); and
 - (f) with regard to any application relating to a child living in a different local education authority’s area, to notify that authority of their determination.
 
-### 4. Additional duties on an authority relating to applications for out-of area schools
+### 4. Additional duties on an authority relating to applications for out-of area schools[^c-acfcac65532ce215292fa07ebda17e85]
 
 (1) This paragraph applies where a parent in the area of the authority (“the home authority”) applies under the common application form for a school in the area of a different local education authority (“the maintaining authority”).
 
@@ -227,7 +233,7 @@ A qualifying scheme must—
 - (a) specify that, in determining in accordance with paragraph 3(2)(c) whether the child is to be granted or refused admission to any school in the home authority’s area for which an application has also been made, that authority will have regard to any information provided by the maintaining authority as to whether the child is to be granted admission to a school within that authority’s area; and
 - (b) require the home authority to send any determination granting or refusing admission to the school in the maintaining authority’s area to the parent (such determination being sent on behalf of the school’s governing body in any case where they are the admission authority for the school).
 
-### 5. Duties of governing body under a qualifying scheme
+### 5. Duties of governing body under a qualifying scheme[^c-30c357cd7f9e0bb52b19d37b732c23b5]
 
 A qualifying scheme must require a governing body who are the admission authority for a school—
 
@@ -237,7 +243,7 @@ A qualifying scheme must require a governing body who are the admission authorit
 
 ## SCHEDULE 2 — Amendments to the 2007 Regulations
 
-**1.** In regulation 1—
+**1.**[^c-dee37a2e38bce25fb0fb84bce2c8f13e] In regulation 1—
 
 - (a) in paragraph (2), substitute “paragraphs (3) and (4),” for “paragraph (3)”; and
 - (b) after paragraph (3) insert the following—
@@ -246,7 +252,7 @@ A qualifying scheme must require a governing body who are the admission authorit
 
   .
 
-**2.** In regulation 3—
+**2.**[^c-2aa5587f81ccc5d036075566b1dea777] In regulation 3—
 
 - (a) in paragraph (1) insert the following definition after the definition of “the 1998 Act”—
 
@@ -260,9 +266,9 @@ A qualifying scheme must require a governing body who are the admission authorit
   > - (a) it is for the admission of a child to a relevant age group and it is submitted on or after the first day of the school year of admission; or
   > - (b) it is for the admission of a child to an age group other than a relevant age group.
 
-**3.** In regulation 10, insert “, an in-year scheme, an imposed in-year scheme” after “qualifying scheme”.
+**3.**[^c-91cf518ab80b7fc6c497cea51af3af4a] In regulation 10, insert “, an in-year scheme, an imposed in-year scheme” after “qualifying scheme”.
 
-**4.** After regulation 10 insert the following—
+**4.**[^c-c3318969af1f3a6ada706c959e8bf129] After regulation 10 insert the following—
 
 > **11. In-year schemes**
 >
@@ -287,7 +293,7 @@ A qualifying scheme must require a governing body who are the admission authorit
 >
 > (9) An imposed in-year scheme may make provision corresponding to the requirements of an in-year scheme.
 
-**5.** After Schedule 3 insert the following—
+**5.**[^c-dd36c1b60c4c3ce062ddae7aa06b9ea3] After Schedule 3 insert the following—
 
 > **SCHEDULE 4 — Requirements of an in-year scheme**
 >
@@ -373,10 +379,52 @@ Regulation 11 introduces Schedule 2, which amends the 2007 Regulations. The effe
 
 [^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31); sections 88M, 88N and 88O were inserted by section 151 of the [Education and Skills Act 2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25). For the meaning of prescribed see section 142(1) of the 1998 Act.
 
+[^c-6bc18cf5778afc9f2f9b55454f9a8924]: Commencement: Reg. 1 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-8c6a8c1efc794362b752ec0a5ad41974]: Commencement: Reg. 2 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2007/194](https://www.legislation.gov.uk/uksi/2007/194)
+
+[^c-49f0272eebabe0b774be972056e82286]: Commencement: Reg. 3 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
 
 [^f00003]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
+[^c-202b99436dcc9faa9299c1299aa5db3c]: Commencement: Reg. 4 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-6b914740d2faae17a14ae6867f6f0bc5]: Commencement: Reg. 5 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
 [^f00004]: Footnote: Section 85A was inserted by section 46 of the [Education Act 2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
+[^c-a77150523e47c92e7bb61ef4b8768047]: Commencement: Reg. 6 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-4df0880eb0bc9bd4421146b75c933c13]: Commencement: Reg. 7 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-13c9c7b0a51e93c2d01eda81e1552035]: Commencement: Reg. 8 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-0c8572c989632d98fa612816443b27b8]: Commencement: Reg. 9 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-55ea0bc79b47e7642c28148c8a9f7497]: Commencement: Reg. 10 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
 [^f00005]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^c-e79385f67169cff473bd3d037250d568]: Commencement: Reg. 11 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-2fc077caded51c85117712f7a8bf1839]: Commencement: Sch. 1 para. 1 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-4b956e8d5c2ddd31eab0b6e514fff32c]: Commencement: Sch. 1 para. 2 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-e9e4df5115921a849e7166033ca57f01]: Commencement: Sch. 1 para. 3 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-acfcac65532ce215292fa07ebda17e85]: Commencement: Sch. 1 para. 4 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-30c357cd7f9e0bb52b19d37b732c23b5]: Commencement: Sch. 1 para. 5 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-dee37a2e38bce25fb0fb84bce2c8f13e]: Commencement: Sch. 2 para. 1 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-2aa5587f81ccc5d036075566b1dea777]: Commencement: Sch. 2 para. 2 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-91cf518ab80b7fc6c497cea51af3af4a]: Commencement: Sch. 2 para. 3 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-c3318969af1f3a6ada706c959e8bf129]: Commencement: Sch. 2 para. 4 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)
+
+[^c-dd36c1b60c4c3ce062ddae7aa06b9ea3]: Commencement: Sch. 2 para. 5 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3090/regulation/1/1)

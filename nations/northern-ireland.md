@@ -1356,11 +1356,11 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 ## Northern Ireland Statutory Rules
 
-7336 in force, by year:
+7338 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](../northern-ireland/regulations/2026/) | 117 |
+| [2026](../northern-ireland/regulations/2026/) | 120 |
 | [2025](../northern-ireland/regulations/2025/) | 116 |
 | [2024](../northern-ireland/regulations/2024/) | 120 |
 | [2023](../northern-ireland/regulations/2023/) | 127 |
@@ -1390,7 +1390,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 | [1999](../northern-ireland/regulations/1999/) | 232 |
 | [1998](../northern-ireland/regulations/1998/) | 192 |
 | [1997](../northern-ireland/regulations/1997/) | 324 |
-| [1996](../northern-ireland/regulations/1996/) | 493 |
+| [1996](../northern-ireland/regulations/1996/) | 492 |
 | [1995](../northern-ireland/regulations/1995/) | 44 |
 | [1994](../northern-ireland/regulations/1994/) | 37 |
 | [1993](../northern-ireland/regulations/1993/) | 40 |

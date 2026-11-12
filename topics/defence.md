@@ -26,7 +26,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-439 in force.
+438 in force.
 
 **2026**
 
@@ -288,7 +288,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Armed Forces, Army, Air Force and Naval Discipline Acts (Continuation) Order 2008](../uk-parliament/regulations/2008/1500-1999/1780-the-armed-forces-army-air-force-and-naval-discipline-acts-continuation-order-200.md) *(as originally made)*
 - [The Army Terms of Service (Amendment etc.) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1849-the-army-terms-of-service-amendment-etc-regulations-2008.md) *(as originally made)*
 - [The Courts-Martial (Amendment) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1699-the-courts-martial-amendment-rules-2008.md) *(as originally made)*
-- [The Criminal Procedure and Investigations Act 1996 (Code of Practice) (Armed Forces) Order 2008](../uk-parliament/regulations/2008/0500-0999/648-the-criminal-procedure-and-investigations-act-1996-code-of-practice-armed-forces.md) *(changes pending)*
 - [The Naval Medical Compassionate Fund (Amendment) Order 2008](../uk-parliament/regulations/2008/1000-1499/1488-the-naval-medical-compassionate-fund-amendment-order-2008.md) *(as originally made)*
 - [The Naval Medical Compassionate Fund Order 2008](../uk-parliament/regulations/2008/3000-3499/3129-the-naval-medical-compassionate-fund-order-2008.md) *(as originally made)*
 - [The Serious Organised Crime and Police Act 2005 (Commencement No. 13) Order 2008](../uk-parliament/regulations/2008/1000-1499/1325-the-serious-organised-crime-and-police-act-2005-commencement-no-13-order-2008.md) *(as originally made)*

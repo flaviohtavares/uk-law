@@ -193,7 +193,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Charities Act 2006 (Commencement No. 4, Transitional Provisions and Savings) Order 2008](../uk-parliament/regulations/2008/0500-0999/945-the-charities-act-2006-commencement-no-4-transitional-provisions-and-savings-ord.md) *(as originally made)*
 - [The Charities Act 2006 (Commencement No. 5, Transitional and Transitory Provisions and Savings) Order 2008](../uk-parliament/regulations/2008/3000-3499/3267-the-charities-act-2006-commencement-no-5-transitional-and-transitory-provisions.md) *(as originally made)*
 - [The Charities References in Documents (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/59-the-charities-references-in-documents-scotland-amendment-regulations-2008.md) *(as originally made)*
-- [The Charity Test (Specified Bodies) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/268-the-charity-test-specified-bodies-scotland-order-2008.md) *(as originally made)*
+- [The Charity Test (Specified Bodies) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/268-the-charity-test-specified-bodies-scotland-order-2008.md) *(changes pending)*
 - [The Further and Higher Education (Scotland) Act 1992 Modification Order 2008](../scotland/regulations/2008/0000-0499/262-the-further-and-higher-education-scotland-act-1992-modification-order-2008.md) *(as originally made)*
 - [The Protection of Charities Assets (Exemption) and the Charity Test (Specified Bodies) (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/413-the-protection-of-charities-assets-exemption-and-the-charity-test-specified-bodi.md) *(as originally made)*
 

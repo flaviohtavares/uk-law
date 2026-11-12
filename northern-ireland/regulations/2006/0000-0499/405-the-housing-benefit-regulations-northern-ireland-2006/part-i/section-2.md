@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, section 2
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: '2'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006, section 2
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 
@@ -206,6 +206,7 @@ summary: ''
   - (b) any other payment made by the Secretary of State, the Scottish Ministers or, in Northern Ireland, the Department of Justice, for the purpose of compensating a person—
     - (i) for a miscarriage of justice in criminal proceedings, or
     - (ii) for being wrongfully charged with a criminal offence;
+- “[^c-aa26364b8baa7c0a01a01ef38142f997]**Mother and Baby Scheme payment**” means a payment under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Irish Mother and Baby Institutions Payment Scheme Act 2023;
 - [^c-8debdcfa6fcb4ac25e66901a54111db8]...
 - “the National Emergencies Trust” means the registered charity of that name (number 1182809) established on 28th March 2019;[^c-f411031c6bd85861207ff3d2124f8754]
 - “**net earnings**” means such earnings as are calculated in accordance with regulation 33;
@@ -272,7 +273,7 @@ summary: ''
 - “qualifying parent or carer” means a person who has a bedroom in the dwelling they occupy as their home additional to those used by the persons who occupy the dwelling as their home and who—[^c-067ba0569eb81ef1457b64ff91a44576]
   - (a) has a child or qualifying young person placed with them as mentioned in regulation 19(3) who by virtue of that provision is not treated as occupying their dwelling; or
   - (b) has been approved as a foster parent under regulation 3 of the Foster Placement (Children) Regulations (Northern Ireland) 1996 but does not have a child or qualifying young person placed with them and has not had a child or qualifying young person placed with them for a period which does not exceed 52 weeks;
-- “**qualifying person**” means a person in respect of whom a Grenfell Tower payment[^c-c78dfa8b0f9da271cb2d2f39488354ae] , a child abuse payment[^c-f82e0e82439b6820a8d0540a86688bef] , a Windrush payment, a Post Office compensation payment[^c-b0c9516ea1124fd9a2e80d95d8bede23] , a vaccine damage payment[^c-b2e55453ea823d5dd6b398e14ca36001] , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment[^c-0a362966798715b971cd871dcacdf95c] has been made or payment has been made from the Fund, the Eileen Trust , MFET Limited[^c-2df27beab565b348bb6a4e0097b241f1], the Skipton Fund , the Caxton Foundation[^c-8046e1b190b321c89e324a26c55a6798] , the Infected Blood Payment Scheme for Northern Ireland, the Scottish Infected Blood Support Scheme, an approved blood scheme[^c-3b6c87e9c120341b6174062eda53e578] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-05d63090919e2296e8f6bd88ea03e992] , the National Emergencies Trust[^c-0d76f64b27e423d86368f0f71eddb748] , the Victims of Overseas Terrorism Compensation Scheme[^c-d38c6ab00879175918b546575d2127e7] or the London Bombings Relief Charitable Fund;
+- “**qualifying person**” means a person in respect of whom a Grenfell Tower payment[^c-c78dfa8b0f9da271cb2d2f39488354ae] , a child abuse payment[^c-f82e0e82439b6820a8d0540a86688bef] , a Windrush payment, a Post Office compensation payment[^c-b0c9516ea1124fd9a2e80d95d8bede23] , a vaccine damage payment[^c-b2e55453ea823d5dd6b398e14ca36001] , an LGBT Financial Recognition Scheme payment[^c-0a362966798715b971cd871dcacdf95c] , a Mother and Baby Scheme payment[^c-8fe641f9e45786a72ff1d3391c3ea2c1] or a miscarriage of justice compensation payment has been made or payment has been made from the Fund, the Eileen Trust , MFET Limited[^c-2df27beab565b348bb6a4e0097b241f1], the Skipton Fund , the Caxton Foundation[^c-8046e1b190b321c89e324a26c55a6798] , the Infected Blood Payment Scheme for Northern Ireland, the Scottish Infected Blood Support Scheme, an approved blood scheme[^c-3b6c87e9c120341b6174062eda53e578] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-05d63090919e2296e8f6bd88ea03e992] , the National Emergencies Trust[^c-0d76f64b27e423d86368f0f71eddb748] , the Victims of Overseas Terrorism Compensation Scheme[^c-d38c6ab00879175918b546575d2127e7] or the London Bombings Relief Charitable Fund;
 - “**rateable unit**” means a hereditament as defined in Article 2(2) of the Rates (Northern Ireland) Order 1977;
 - “reckonable rent” means payments which a person is liable to make in respect of the dwelling which he occupies as his home, and which are eligible, or would, but for regulation 14, be eligible for housing benefit;[^c-2f8a0fe1b092adf5b7c32a505c1ea2c4]
 - “registered housing association” means a housing association which is registered in a register maintained under Article 14 of the Housing (Northern Ireland) Order 1992;
@@ -600,6 +601,8 @@ summary: ''
 
 [^c-a152a8f2024f4907045bce1c015e2d23]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/2/1) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/nisr/2025/122/regulation/5/2/a)
 
+[^c-aa26364b8baa7c0a01a01ef38142f997]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/2/1) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2026/177/regulation/4/2/a)
+
 [^c-8debdcfa6fcb4ac25e66901a54111db8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/2/1) omitted (6.10.2008) by virtue of [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/2/c)
 
 [^c-f411031c6bd85861207ff3d2124f8754]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/2/1) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/nisr/2020/108/regulation/5/2/a)
@@ -675,6 +678,8 @@ summary: ''
 [^c-b2e55453ea823d5dd6b398e14ca36001]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/2/1) substituted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2025/24/regulation/6/2/b)
 
 [^c-0a362966798715b971cd871dcacdf95c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/2/1) substituted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2025/122/regulation/5/2/b)
+
+[^c-8fe641f9e45786a72ff1d3391c3ea2c1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/2/1) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2026/177/regulation/4/2/b)
 
 [^c-2df27beab565b348bb6a4e0097b241f1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/2/1) inserted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in operation) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(3)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/3/a), [8(3)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/8/3/a)
 

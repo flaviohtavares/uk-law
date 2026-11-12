@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 27
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '27'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/27
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 27
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 27. Special additional entitlement[^c-2a371085fdf38313da1e63d32adfbc14]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) There are two types of special additional entitlement—
 
@@ -80,6 +78,6 @@ their special additional entitlement ceases.
 
 ## Annotations
 
-[^c-2a371085fdf38313da1e63d32adfbc14]: Commencement: Reg. 27 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-2a371085fdf38313da1e63d32adfbc14]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2026/858/regulation/27) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00023]: Footnote: Version 1.3.4 of the Higher Education Classification of Subjects coding system was published digitally on 28th October 2021. A full list of Common Aggregated Hierarchy codes, and the subjects they are associated with, is available at https://www.hesa.ac.uk/collection/coding-manual-tools/hecoscahdata/cah. A printed copy can be obtained on request from the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT.

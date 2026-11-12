@@ -31,7 +31,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Water Act 1973](../../uk-parliament/acts/public/1973/37-water-act-1973.md) — 16 regulations on this topic made under it
 - [Antisocial Behaviour etc. (Scotland) Act 2004](../../scotland/acts/2004/8-antisocial-behaviour-etc-scotland-act-2004/README.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Local Government and Rating Act 1997](../../uk-parliament/acts/public/1997/29-local-government-and-rating-act-1997.md) *(changes pending)* — 13 regulations on this topic made under it
-- [Local Government in Scotland Act 2003](../../scotland/acts/2003/1-local-government-in-scotland-act-2003.md) — 13 regulations on this topic made under it
+- [Local Government in Scotland Act 2003](../../scotland/acts/2003/1-local-government-in-scotland-act-2003.md) — 12 regulations on this topic made under it
 - [Local Government Act 1958](../../uk-parliament/acts/public/eliz2-6-7/55-local-government-act-1958.md) — 11 regulations on this topic made under it
 - [Business Rate Supplements Act 2009](../../uk-parliament/acts/public/2009/7-business-rate-supplements-act-2009.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Cities and Local Government Devolution Act 2016](../../uk-parliament/acts/public/2016/1-cities-and-local-government-devolution-act-2016/README.md) *(changes pending)* — 10 regulations on this topic made under it
@@ -56,7 +56,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-3606 in force, by year:
+3605 in force, by year:
 
 | year | in force |
 |---|---|
@@ -78,7 +78,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 40 |
 | [2010](2010.md) | 41 |
 | [2009](2009.md) | 54 |
-| [2008](2008.md) | 58 |
+| [2008](2008.md) | 57 |
 | [2007](2007.md) | 60 |
 | [2006](2006.md) | 90 |
 | [2005](2005.md) | 52 |

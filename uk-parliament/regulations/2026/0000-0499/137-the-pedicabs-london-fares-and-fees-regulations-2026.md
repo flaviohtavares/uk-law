@@ -5,13 +5,13 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2026-02-25'
-text_date: '2026-03-09'
+text_date: '2026-10-27'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/137
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/137/pdfs/uksi_20260137_en.pdf
 - http://www.legislation.gov.uk/uksi/2026/137/data.pdf
-pending_changes: 14
+pending_changes: 10
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Pedicabs (London) (Fares and Fees) Regulations 2026
 
-> **Warning: changes not yet applied to this text (14).** Text as at 2026-03-09. See https://www.legislation.gov.uk/changes/affected/uksi/2026/137
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-10-27. See https://www.legislation.gov.uk/changes/affected/uksi/2026/137
 >
 > Extent: England, Wales.
 
@@ -47,8 +47,9 @@ Transport for London, in exercise of the powers conferred on it by sections 1(1)
 
 (2) These Regulations come into force as follows—
 
-- (a) This regulation and regulations 2, 13 and the Schedule come into force on 9th March 2026; and
-- (b) Regulations 3 to 12 come into force on 30th October 2026.
+- (a) This regulation and regulations 2, 13 and the Schedule come into force on 9th March 2026; [^c-9cdd4961936d0f0d1bc73bfb79dd3b85]...
+- (b) Regulations 6 to 8 and 10[^c-a06acbb106dff29a2d711fc71f8c2f4b] to 12 come into force on 30th October 2026 ; and[^c-2a59dba655cf92eea6769a3a1d330b54]
+- (c)[^c-7044fe1d5deb0f405a087aa619ea487d] Regulations 3 to 5 and 9 come into force on 27th November 2026.
 
 ### 2. Interpretation[^c-6c4d2e0d1bc487b02e5eb85cb2eb904e]
 
@@ -260,6 +261,14 @@ Regulation 12 with the Schedule provides for the fees which TfL may charge in co
 [^f00001]: Footnote: [2024 c.7](https://www.legislation.gov.uk/ukpga/2024/7).
 
 [^c-1af30f23fa70b867eaf590f8fa8f524e]: Commencement: Reg. 1 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/a)
+
+[^c-9cdd4961936d0f0d1bc73bfb79dd3b85]: Textual amendment: Word in [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/a) omitted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/contents/made), [17(2)(a)](https://www.legislation.gov.uk/uksi/2026/1122/contents/made)
+
+[^c-a06acbb106dff29a2d711fc71f8c2f4b]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b) substituted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/contents/made), [17(2)(b)(i)](https://www.legislation.gov.uk/uksi/2026/1122/contents/made)
+
+[^c-2a59dba655cf92eea6769a3a1d330b54]: Textual amendment: [Reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b): word substituted for full stop (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [17(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/17/2/b/ii)
+
+[^c-7044fe1d5deb0f405a087aa619ea487d]: Textual amendment: [Reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/c) inserted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/contents/made), [17(2)(c)](https://www.legislation.gov.uk/uksi/2026/1122/contents/made)
 
 [^c-6c4d2e0d1bc487b02e5eb85cb2eb904e]: Commencement: Reg. 2 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/a)
 

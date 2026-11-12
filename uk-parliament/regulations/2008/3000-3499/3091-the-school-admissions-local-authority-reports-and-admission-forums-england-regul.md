@@ -3,16 +3,16 @@ title: The School Admissions (Local Authority Reports and Admission Forums) (Eng
 id: uksi/2008/3091
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-03'
-text_date: null
-extent: null
+text_date: '2008-12-03'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3091
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3091/pdfs/uksiem_20083091_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3091/pdfs/uksi_20083091_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3091/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/3091/data.pdf
+pending_changes: 21
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The School Admissions (Local Authority Reports and Admission Forums) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (21).** Text as at 2008-12-03. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3091
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 3091
 
@@ -44,13 +50,13 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-d9d2f82b13ded25af12d7cea40150dcf]
 
 (1) These Regulations may be cited as the School Admissions (Local Authority Reports and Admission Forums) (England) Regulations 2008 and come into force on 10th February 2009.
 
 (2) These Regulations apply only in relation to England.
 
-### 2. Interpretation
+### 2. Interpretation[^c-cffaa76398e0feb0f4cf04060d158042]
 
 (1) In these Regulations—
 
@@ -67,13 +73,13 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 (2) Save where otherwise appears, any reference in these Regulations to a numbered section or Part is a reference to that section or Part of SSFA 1998.
 
-### 3. Regulations revoked
+### 3. Regulations revoked[^c-58c8282a31cf3335d8758034f25e1a5b]
 
 The Education (Admission Forums) (England) Regulations 2002[^f00005] and the Education (Admission Forums) (England) (Amendment) Regulations 2007 are revoked.
 
 ## PART 2 — Reports by local authorities to the adjudicator
 
-### 4. Matters connected with relevant school admissions
+### 4. Matters connected with relevant school admissions[^c-793894922e5e4f2164d3c6e5fc42bfab]
 
 (1) For the purposes of section 88P(1) *(matters connected with relevant school admissions)*[^f00006] the prescribed matters are—
 
@@ -101,7 +107,7 @@ The Education (Admission Forums) (England) Regulations 2002[^f00005] and the Edu
 - (c) “current admission arrangements” means the arrangements under which pupils will be admitted to relevant schools in the first academic year to begin after the relevant date; and
 - (d) “relevant date” means 1<sup>st</sup> September 2008, or the date of the last local authority report, whichever is the later.
 
-### 5. Form and content of local authority reports
+### 5. Form and content of local authority reports[^c-bcff28e586034e16e05cfa0f8c558be6]
 
 (1) In addition to the matters referred to in regulation 4, a local authority report must include the following—
 
@@ -115,17 +121,17 @@ The Education (Admission Forums) (England) Regulations 2002[^f00005] and the Edu
 - (a) “future admission arrangements” means the arrangements under which pupils will be admitted to relevant schools in the second academic year to begin after the date of the local authority report, and
 - (b) “the School Admissions Code” means any code for school admissions issued under section 84.
 
-### 6. Provision of information to local authority
+### 6. Provision of information to local authority[^c-726b727f61f6e0125abbcceb7fba6472]
 
 For the purposes of section 88Q *(relevant persons who must provide information to a local education authority)*, the clerk to an appeal panel constituted under section 94 is a relevant person.
 
-### 7. Timing of local authority reports
+### 7. Timing of local authority reports[^c-539071d0ff2c0ac8b2e6cfb150f977ce]
 
 A local authority report must be made no later than 30<sup>th</sup> June each year.
 
 ## PART 3 — Admission Forums: constitution, meetings and proceedings
 
-### 8. Membership of a forum
+### 8. Membership of a forum[^c-8548f0c821d8cdf5cb67c01c82d81b2f]
 
 (1) A forum must comprise no more than 20 members, appointed by the authority in accordance with this regulation and regulation 9, and must include—
 
@@ -155,7 +161,7 @@ at the time of their appointment.
 
 (6) For the purposes of Parts 3 and 4 of these Regulations “authority” means the local education authority for the area for which the forum has been (or is to be) established, or in the case of a joint forum, the local education authorities for the areas for which the forum has been (or is to be) established.
 
-### 9. Appointment and tenure of members
+### 9. Appointment and tenure of members[^c-71455412c688c018e54fc19f67c5da38]
 
 (1) Subject to the provisions of this regulation, persons appointed to be members of a forum hold and vacate office in accordance with the terms of their appointment and, on ceasing to be members of the forum, are eligible for reappointment.
 
@@ -169,7 +175,7 @@ at the time of their appointment.
 - (d) where the person was appointed under regulation 8(1)(d), if the authority, following a recommendation from the members appointed under regulation 8(1)(a) to (c), are of the opinion that the member should no longer be a member of the forum, and
 - (e) every member of a forum must vacate office if the forum is dissolved pursuant to regulation 15(2).
 
-### 10. Alternate members
+### 10. Alternate members[^c-71a348e4f85a5e9b25f1dcb7396fd5ee]
 
 (1) Subject to paragraphs (2) to (5) any member of a forum may, by giving written notice to the secretary, nominate an alternate member to attend meetings of the forum in their absence, and such nomination remains effective until it is withdrawn.
 
@@ -181,7 +187,7 @@ at the time of their appointment.
 
 (5) A member appointed under regulation 8(1)(d) may not nominate an alternate member unless the authority consents to the proposed nomination.
 
-### 11. Election to office
+### 11. Election to office[^c-02f464bdb3eb8c75c2c730e0c996882c]
 
 (1) At the first meeting of a forum and each meeting referred to in paragraph (2) the members must elect two members of the forum to be the chair and vice-chair.
 
@@ -194,11 +200,11 @@ at the time of their appointment.
 
 (4) In the event of a casual vacancy occurring in the office of chair or vice-chair the members must at their next meeting elect one of their members to fill that vacancy and a member so elected holds office until the date of the meeting at which the chair or vice-chair would have held office had the vacancy not occurred.
 
-### 12. Secretary to a forum
+### 12. Secretary to a forum[^c-b51863f2ca62519b88c48f0a805cdf73]
 
 The members must appoint a person, nominated by the authority, who is not a member of the forum, to act as secretary to the forum.
 
-### 13. Meetings of a forum
+### 13. Meetings of a forum[^c-e718623f5c7da7a203725f5a7c8d3a0e]
 
 (1) Subject to any provision made by these Regulations, the members may regulate the procedure of a forum.
 
@@ -208,7 +214,7 @@ The members must appoint a person, nominated by the authority, who is not a memb
 
 (4) In any vote regarding the exercise of a forum’s power to refer an objection to the adjudicator pursuant to section 88H, the vote must be carried by a simple majority of those members present and, in the case of an equality of votes the chair, or in the absence of the chair, the vice-chair has a second or casting vote.
 
-### 14. Sub-committees
+### 14. Sub-committees[^c-b66c779b09e4bbdf306a0a7c09dddb5b]
 
 (1) Where a sub-committee is established, pursuant to section 85A(2), the forum is responsible for determining the sub-committee’s—
 
@@ -216,7 +222,7 @@ The members must appoint a person, nominated by the authority, who is not a memb
 - (b) procedure for convening and holding of meetings; and
 - (c) promulgation of advice and recommendations.
 
-### 15. Joint forums
+### 15. Joint forums[^c-0c7818bc5d2c563cf150f59b274d5d89]
 
 (1) Subject to paragraph (2) a local authority may establish a joint forum with one or more other local authorities.
 
@@ -224,7 +230,7 @@ The members must appoint a person, nominated by the authority, who is not a memb
 
 ## PART 4 — Admission forums: purpose and functions
 
-### 16. Purpose and functions of a forum
+### 16. Purpose and functions of a forum[^c-020c40805bd3ef4361bb323ae63566ac]
 
 (1) For the purposes of section 85A(1) *(purpose of admission forums)* the role of a forum is to consider and advise on the fairness of admission arrangements for schools in the relevant area, and in particular —
 
@@ -241,11 +247,11 @@ The members must appoint a person, nominated by the authority, who is not a memb
 - (d) consider any composite prospectus[^f00010] published by the authority and advise the authority on whether this might be improved to raise the standard of information provided to parents; and
 - (e) consider whether to produce a report for the purposes of section 85A(1A).
 
-### 17. Advice and recommendations of a forum
+### 17. Advice and recommendations of a forum[^c-971316a187ff615bcf16111add3738ee]
 
 A forum must promulgate their advice and recommendations produced under regulation 16(1) for the purposes of section 85A(1) to all admission authorities, maintained schools, Academies, city technology colleges or city colleges for the technology of the arts within the relevant area, and must make that advice available to any other persons with an interest.
 
-### 18. Forum reports
+### 18. Forum reports[^c-22cb2c924c4814da44ac25b742049aac]
 
 (1) For the purposes of section 85A(1A) *(matters that may be included in a forum report)* the prescribed matters are—
 
@@ -257,11 +263,11 @@ A forum must promulgate their advice and recommendations produced under regulati
 - (a) the scheme for co-ordinating admission arrangements made or adopted under section 88M(1) in the relevant area and, where relevant, an adjoining local authority area; and
 - (b) any school policy which, in the opinion of the forum, affects or may affect, fair access to educational opportunity in the relevant area.
 
-### 19. Provision of information to forum
+### 19. Provision of information to forum[^c-ae9fc434d9941002fa58eb300e9e9f06]
 
 For the purposes of section 85A(1B) *(information that may be requested by a forum)* the prescribed information is such information as the forum requires to enable it to carry out its functions under section 85A(1A) and regulation 18.
 
-### 20. Publication of forum reports
+### 20. Publication of forum reports[^c-e0668f843edb4651ea7db895c5d7cfdf]
 
 A forum report produced pursuant to section 85A(1A) must be sent to the adjudicator.
 
@@ -295,22 +301,62 @@ They prescribe the matters which are to be included in forum reports made under 
 
 [^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31); sections 85A and 85B are inserted by sections 46 and 66 respectively of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32); section 88P is inserted by section 151 of the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25). See section 142(1) of the SSFA1998 for the definitions of “regulations” and “prescribed”.
 
+[^c-d9d2f82b13ded25af12d7cea40150dcf]: Commencement: Reg. 1 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-cffaa76398e0feb0f4cf04060d158042]: Commencement: Reg. 2 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
 [^f00002]: Footnote: [c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^f00003]: Footnote: Section 86 is amended by paragraph 54 of Schedule 1 to the Education and Skills Act 2008; and section 86A is inserted by section 150 of that Act.
 
 [^f00004]: Footnote: [S.I. 2008/3089](https://www.legislation.gov.uk/uksi/2008/3089).
 
+[^c-58c8282a31cf3335d8758034f25e1a5b]: Commencement: Reg. 3 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
 [^f00005]: Footnote: [S.I. 2002/2900](https://www.legislation.gov.uk/uksi/2002/2900) amended by the Education (Admission Forums) (England) (Amendment) Regulations 2007 ([S.I. 2007/192](https://www.legislation.gov.uk/uksi/2007/192)).
+
+[^c-793894922e5e4f2164d3c6e5fc42bfab]: Commencement: Reg. 4 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
 
 [^f00006]: Footnote: A “relevant school” is defined in section 88P(3) of the SSFA 1998 as: a maintained school, an Academy, a city technology college, or a city college for the technology of the arts
 
 [^f00007]: Footnote: Section 84 is amended by Schedules 4 and 22 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2006/40) and Part 6 of Schedule 18 to the [Education and Inspections Act 2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
+[^c-bcff28e586034e16e05cfa0f8c558be6]: Commencement: Reg. 5 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
 [^f00008]: Footnote: [c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 512ZB is inserted by section 201 of the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^c-726b727f61f6e0125abbcceb7fba6472]: Commencement: Reg. 6 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-539071d0ff2c0ac8b2e6cfb150f977ce]: Commencement: Reg. 7 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-8548f0c821d8cdf5cb67c01c82d81b2f]: Commencement: Reg. 8 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
 
 [^f00009]: Footnote: Section 124B is inserted by the Independent Schools (Employment of Teachers in Schools with a Religious Character) Regulations 2003 ([S.I. 2003/2037](https://www.legislation.gov.uk/uksi/2003/2037)).
 
+[^c-71455412c688c018e54fc19f67c5da38]: Commencement: Reg. 9 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-71a348e4f85a5e9b25f1dcb7396fd5ee]: Commencement: Reg. 10 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-02f464bdb3eb8c75c2c730e0c996882c]: Commencement: Reg. 11 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-b51863f2ca62519b88c48f0a805cdf73]: Commencement: Reg. 12 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-e718623f5c7da7a203725f5a7c8d3a0e]: Commencement: Reg. 13 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-b66c779b09e4bbdf306a0a7c09dddb5b]: Commencement: Reg. 14 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-0c7818bc5d2c563cf150f59b274d5d89]: Commencement: Reg. 15 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-020c40805bd3ef4361bb323ae63566ac]: Commencement: Reg. 16 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
 [^f00010]: Footnote: Regulation 5 of, and Schedule 2 to, the School Information (England) Regulations 2008 ([S.I.2008/3093](https://www.legislation.gov.uk/uksi/2008/3093)) require every local authority to publish a composite prospectus, or prospectuses, by 12<sup>th</sup> September each year containing information for parents about schools in their area.
 
+[^c-971316a187ff615bcf16111add3738ee]: Commencement: Reg. 17 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-22cb2c924c4814da44ac25b742049aac]: Commencement: Reg. 18 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
 [^f00011]: Footnote: Section 13A(1)(b) of the Education Act 1996, substituted by section 1 of the Education and Inspections Act 2006, requires all local authorities in England to exercise their functions, so far as they are capable of being so exercised, with a view to ensuring fair access to educational opportunity for children. This duty is extended to all admission authorities by the School Admissions Code.
+
+[^c-ae9fc434d9941002fa58eb300e9e9f06]: Commencement: Reg. 19 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)
+
+[^c-e0668f843edb4651ea7db895c5d7cfdf]: Commencement: Reg. 20 in force at 10.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3091/regulation/1/1)

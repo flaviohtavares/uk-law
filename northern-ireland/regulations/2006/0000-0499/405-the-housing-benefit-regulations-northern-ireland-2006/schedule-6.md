@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, SCHEDULE 6
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: schedule-6
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006, SCHEDULE 6
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 
@@ -241,21 +241,22 @@ whichever is less.
 - (c)[^c-82629190b321b26d5ffca6bfec719097] Windrush payment;
 - (d) Post Office compensation payment;
 - (e) LGBT Financial Recognition Scheme payment ;[^c-1697768998c472f31cd88e24676c5d1a]
+- (ea)[^c-ea98611ae63687515bf17941554f889a] Mother and Baby Scheme payment;
 - (f) miscarriage of justice compensation payment.
 
-(2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia or who is or was a qualifying person, which derives from a payment made under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment[^c-99a5da98e3312aebd02ef983bae40c20] , a child abuse payment[^c-3519629268035627fd4d8f98b5863942] , a Windrush payment, a Post Office compensation payment[^c-7643109211dfea8da47622a8fd11ef94] , a vaccine damage payment[^c-d797fd66096e1997dbc29f80499ce838] , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment[^c-b9b2f5c4b853dfa976b1b1fd14b58694],, and which is made to or for the benefit of—
+(2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia or who is or was a qualifying person, which derives from a payment made under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment[^c-99a5da98e3312aebd02ef983bae40c20] , a child abuse payment[^c-3519629268035627fd4d8f98b5863942] , a Windrush payment, a Post Office compensation payment[^c-7643109211dfea8da47622a8fd11ef94] , a vaccine damage payment[^c-d797fd66096e1997dbc29f80499ce838] , an LGBT Financial Recognition Scheme payment[^c-b9b2f5c4b853dfa976b1b1fd14b58694] , a Mother and Baby Scheme payment[^c-849a0eb0c022ca86b624ad83ad183772] or a miscarriage of justice compensation payment,, and which is made to or for the benefit of—
 
 - (a) that person’s partner or former partner from whom he is not, or where that person has died was not, estranged or divorced or with whom he has formed a civil partnership that has not been dissolved or, where that person has died, had not been dissolved at the time of that person’s death;
 - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
 - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
 
-(3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia or who is or was a qualifying person provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death, which derives from a payment made under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment, and which is made to or for the benefit of—
+(3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia or who is or was a qualifying person provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death, which derives from a payment made under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment , a Mother and Baby Scheme payment or a miscarriage of justice compensation payment, and which is made to or for the benefit of—
 
 - (a) the person who is suffering from haemophilia or who is a qualifying person;
 - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
 - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
 
-(4) Any payment by a person who is suffering from haemophilia or who is a qualifying person, which derives from a payment under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment,, where—
+(4) Any payment by a person who is suffering from haemophilia or who is a qualifying person, which derives from a payment under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment , a Mother and Baby Scheme payment or a miscarriage of justice compensation payment,, where—
 
 - (a) that person has no partner or former partner from whom he is not estranged or divorced or with whom he has formed a civil partnership that has not been dissolved, nor any child or young person who is or had been a member of that person’s family; and
 - (b) the payment is made either—
@@ -264,7 +265,7 @@ whichever is less.
 
 but only for a period from the date of the payment until the end of 2 years from that person’s death.
 
-(5) Any payment out of the estate of a person who suffered from haemophilia or who was a qualifying person, which derives from a payment under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment,, where—
+(5) Any payment out of the estate of a person who suffered from haemophilia or who was a qualifying person, which derives from a payment under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment , a Mother and Baby Scheme payment or a miscarriage of justice compensation payment,, where—
 
 - (a) that person at the date of his death (“**the relevant date**”) had no partner or former partner from whom he was not estranged or divorced or with whom he had formed a civil partnership that had not been dissolved, nor any child or young person who was or had been a member of his family; and
 - (b) the payment is made either—
@@ -273,7 +274,7 @@ but only for a period from the date of the payment until the end of 2 years from
 
 but only for a period of 2 years from the relevant date.
 
-(6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any income which derives from any payment of income or capital made under or deriving from any of the Trusts or from a Grenfell Tower payment[^c-13dd0af7ef832d526d88f24c6426c5f9] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment.
+(6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any income which derives from any payment of income or capital made under or deriving from any of the Trusts or from a Grenfell Tower payment[^c-13dd0af7ef832d526d88f24c6426c5f9] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment , a Mother and Baby Scheme payment or a miscarriage of justice compensation payment.
 
 (7) For the purposes of sub-paragraphs (2) to (6), any reference to the Trusts shall be construed as including a reference to the Fund, the Eileen Trust , MFET Limited[^c-ffbb5d633665859dd021a68403a4bf00], the Skipton Fund , the Caxton Foundation[^c-42441d499f43555785a3808af3c19429] , the Infected Blood Payment Scheme for Northern Ireland, the Scottish Infected Blood Support Scheme, an approved blood scheme[^c-04fb758838e786c0f692d509422dd1a3] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-eea2d1dc43d1d0d7746f2f3344947d79] , the National Emergencies Trust[^c-fe13314337d2ef8173d585f06197f5fc] and the London Bombings Relief Charitable Fund.
 
@@ -594,6 +595,8 @@ in respect of which such assistance is or was received.
 
 [^c-1697768998c472f31cd88e24676c5d1a]: Textual amendment: [Sch. 6 para. 37(1A)(f)](https://www.legislation.gov.uk/nisr/2006/405/schedule/6/paragraph/37/1A/f) and semicolon substituted for full stop in Sch. 6 para. 37(1A)(e) (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2025/122/regulation/5/7/a)
 
+[^c-ea98611ae63687515bf17941554f889a]: Textual amendment: [Sch. 6 para. 37(1A)(ea)](https://www.legislation.gov.uk/nisr/2006/405/schedule/6/paragraph/37/1A/ea) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [4(7)(a)](https://www.legislation.gov.uk/nisr/2026/177/regulation/4/7/a)
+
 [^c-99a5da98e3312aebd02ef983bae40c20]: Textual amendment: Words in [Sch. 6 para. 37(2)-(5)](https://www.legislation.gov.uk/nisr/2006/405/schedule/6/paragraph/37/2) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [5(11)(c)](https://www.legislation.gov.uk/nisr/2020/108/regulation/5/11/c)
 
 [^c-3519629268035627fd4d8f98b5863942]: Textual amendment: Words in [Sch. 6 para. 37(2)-(6)](https://www.legislation.gov.uk/nisr/2006/405/schedule/6/paragraph/37/2) inserted (5.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/345)](https://www.legislation.gov.uk/nisr/2021/345), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/345/regulation/1/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2021/345/regulation/5/7/b)
@@ -603,6 +606,8 @@ in respect of which such assistance is or was received.
 [^c-d797fd66096e1997dbc29f80499ce838]: Textual amendment: Words in [Sch. 6 para. 37(2)-(6)](https://www.legislation.gov.uk/nisr/2006/405/schedule/6/paragraph/37/2) substituted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [6(7)(b)](https://www.legislation.gov.uk/nisr/2025/24/regulation/6/7/b)
 
 [^c-b9b2f5c4b853dfa976b1b1fd14b58694]: Textual amendment: Words in [Sch. 6 para. 37(2)-(6)](https://www.legislation.gov.uk/nisr/2006/405/schedule/6/paragraph/37/2) substituted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2025/122/regulation/5/7/b)
+
+[^c-849a0eb0c022ca86b624ad83ad183772]: Textual amendment: Words in [Sch. 6 para. 37(2)-(6)](https://www.legislation.gov.uk/nisr/2006/405/schedule/6/paragraph/37/2) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [4(7)(b)](https://www.legislation.gov.uk/nisr/2026/177/regulation/4/7/b)
 
 [^c-13dd0af7ef832d526d88f24c6426c5f9]: Textual amendment: Words in [Sch. 6 para. 37(6)](https://www.legislation.gov.uk/nisr/2006/405/schedule/6/paragraph/37/6) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [5(11)(d)](https://www.legislation.gov.uk/nisr/2020/108/regulation/5/11/d)
 

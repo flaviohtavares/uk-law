@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 4
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '4'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 4
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 4. Meaning of “higher education course”, “module”, “credits” and related provision[^c-026b36f61718c2320b5e0aca81b114b0]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) This regulation defines “**higher education course**” (in accordance with section 28(1) of the 1998 Act), prescribes the meaning of “**module**” in relation to a higher education course (in accordance with section 28A(2ZA) of the 1998 Act), defines “credits”, and makes related provision for the purposes of these Regulations.
 
@@ -36,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^c-026b36f61718c2320b5e0aca81b114b0]: Commencement: Reg. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-026b36f61718c2320b5e0aca81b114b0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2026/858/regulation/4) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

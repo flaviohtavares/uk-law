@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2024-12-12'
-text_date: '2025-06-03'
+text_date: '2026-10-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2024/1331
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/1331/pdfs/uksiem_20241331_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2024/1331/pdfs/uksi_20241331_en.pdf
 - http://www.legislation.gov.uk/uksi/2024/1331/data.pdf
-pending_changes: 3
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Home Detention Curfew and Requisite and Minimum Custodial Periods (Amendment) Order 2024
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2025-06-03. See https://www.legislation.gov.uk/changes/affected/uksi/2024/1331
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2024/1331
 >
 > Extent: England, Wales.
 
@@ -56,63 +56,63 @@ In section 246(1)(a)[^f00002] of the Criminal Justice Act 2003, for “180” su
 
 ## 3. Amendments to the Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order 2024[^c-39459680d1dff2aca2b5e3fb2d2a7b7f]
 
-(1) The Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order 2024[^f00003] is amended as follows.
+(1)[^c-8875711485a74eeb47dc0dba6b2451a9] The Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order 2024 *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9][^f00003] is amended as follows. *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
-(2) In article 3—
+(2) In article 3— *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
-- (a) after paragraph (7) insert—
+- (a) after paragraph (7) insert— *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
-  > (7A) References in paragraph (7)(a) to (e) to offence A do not include the offence of murder.
-
-  ;
-- (b) in paragraph (8), for “(7)(a) to (e)” substitute “, (7)(a) to (e) or (7A)”.
-
-(3) In the Schedule—
-
-- (a) after paragraph 14 insert—
-
-  > **14A.** An offence under section 33 of the Criminal Justice and Courts Act 2015[^f00004] (disclosing, or threatening to disclose, private sexual photographs and films with intent to cause distress).
+  > (7A) References in paragraph (7)(a) to (e) to offence A do not include the offence of murder. *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
   ;
-- (b) after paragraph 16 insert—
+- (b) in paragraph (8), for “(7)(a) to (e)” substitute *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9] “, (7)(a) to (e) or (7A)” *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9].
 
-  > **16A.** An offence under section 354 of the Sentencing Code[^f00005] (breach of a sexual harm prevention order).
+(3) In the Schedule— *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
+
+- (a) after paragraph 14 insert— *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
+
+  > **14A.** An offence under section 33 of the Criminal Justice and Courts Act 2015 *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9][^f00004] (disclosing, or threatening to disclose, private sexual photographs and films with intent to cause distress). *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
   ;
-- (c) after paragraph 19 insert—
+- (b) after paragraph 16 insert— *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
-  > **19A.** An offence under section 5[^f00006] of that Act (restraining orders on conviction).
+  > **16A.** An offence under section 354 of the Sentencing Code *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9][^f00005] (breach of a sexual harm prevention order). *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
+
+  ;
+- (c) after paragraph 19 insert— *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
+
+  > **19A.** An offence under section 5 *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9][^f00006] of that Act (restraining orders on conviction). *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
   >
-  > **19B.** An offence under section 5A[^f00007] of that Act (restraining orders on acquittal).
+  > **19B.** An offence under section 5A *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9][^f00007] of that Act (restraining orders on acquittal). *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
   ;
-- (d) after paragraph 23 insert—
+- (d) after paragraph 23 insert— *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
-  > **23A.** An offence under section 8 of the Stalking Protection Act 2019[^f00008] (breaching a stalking protection order etc.).
+  > **23A.** An offence under section 8 of the Stalking Protection Act 2019 *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9][^f00008] (breaching a stalking protection order etc.). *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
   ;
-- (e) after paragraph 54 insert—
+- (e) after paragraph 54 insert— *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
-  > *Violent Offences*
+  > *Violent Offences *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]*
   >
-  > **55.** Murder.
+  > **55.** Murder. *(affected by repeal, see note)*[^c-8875711485a74eeb47dc0dba6b2451a9]
 
   .
 
 ## 4. Application of Article 3[^c-0c49fbda4ee8f0a0b57853270da57be1]
 
-(1) The amendments made by article 3 apply in relation to a sentence imposed before, on or after 16th December 2024, subject as follows.
+(1)[^c-3cce7f30280be46d0b3ead05f6a4af7a] The amendments made by article 3 apply in relation to a sentence imposed before, on or after 16th December 2024, subject as follows. *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a]
 
-(2) Where the person serving the sentence was not in custody or detention pursuant to the sentence on 16th December 2024 having been released under Chapter 6 of Part 12 of the Criminal Justice Act 2003, the amendments made by article 3 apply for the purposes of determining the requisite custodial period in relation to the sentence only if the person—
+(2) Where the person serving the sentence was not in custody or detention pursuant to the sentence on 16th December 2024 having been released under Chapter 6 of Part 12 of the Criminal Justice Act 2003, the amendments made by article 3 apply for the purposes of determining the requisite custodial period in relation to the sentence only if the person— *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a]
 
-- (a) was released under section 246 (power to release prisoners on licence before being required to do so) of the Criminal Justice Act 2003, or section 248[^f00009] (power to release prisoners on compassionate grounds) of that Act, and
-- (b) is recalled to prison under section 254(1)[^f00010] or 255(1)[^f00011] of that Act before the end of the period which was the requisite custodial period in relation to the sentence when the person was released.
+- (a) was released under section 246 (power to release prisoners on licence before being required to do so) of the Criminal Justice Act 2003, or section 248 *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a][^f00009] (power to release prisoners on compassionate grounds) of that Act, and *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a]
+- (b) is recalled to prison under section 254(1) *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a][^f00010] or 255(1) *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a][^f00011] of that Act before the end of the period which was the requisite custodial period in relation to the sentence when the person was released. *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a]
 
-(3) The reference in paragraph (2)(b) to recall to prison is to recall to prison before, on or after 16th December 2024.
+(3) The reference in paragraph (2)(b) to recall to prison is to recall to prison before, on or after 16th December 2024. *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a]
 
-(4) Where the person serving the sentence was not in custody or detention pursuant to the sentence on 16th December 2024 having been removed from prison under section 260[^f00012] (early removal of prisoners liable to, or eligible for, removal from the United Kingdom) of the Criminal Justice Act 2003, the amendments made by article 3 apply for the purposes of determining the requisite custodial period in relation to the sentence only if the person is returned to prison before the end of the period which was the requisite custodial period in relation to the sentence when the person was removed.
+(4) Where the person serving the sentence was not in custody or detention pursuant to the sentence on 16th December 2024 having been removed from prison under section 260 *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a][^f00012] (early removal of prisoners liable to, or eligible for, removal from the United Kingdom) of the Criminal Justice Act 2003, the amendments made by article 3 apply for the purposes of determining the requisite custodial period in relation to the sentence only if the person is returned to prison before the end of the period which was the requisite custodial period in relation to the sentence when the person was removed. *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a]
 
-(5) The reference in paragraph (4) to return to prison is to return to prison on or after 16th December 2024.
+(5) The reference in paragraph (4) to return to prison is to return to prison on or after 16th December 2024. *(affected by repeal, see note)*[^c-3cce7f30280be46d0b3ead05f6a4af7a]
 
 Shabana Mahmood
 
@@ -148,6 +148,8 @@ A full Impact Assessment has not been produced for articles 3 and 4 of this inst
 
 [^c-39459680d1dff2aca2b5e3fb2d2a7b7f]: Commencement: Art. 3 in force at 16.12.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
 
+[^c-8875711485a74eeb47dc0dba6b2451a9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2024/1331/article/3) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch. and with phased commencement in accordance with regs. 3, 4 in relation to a person serving a sentence imposed before that date) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 23(11)(d)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/11/d), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 23(12)-(15)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/12)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/b), [3-5](https://www.legislation.gov.uk/uksi/2026/953/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
+
 [^f00003]: Footnote: [S.I. 2024/844](https://www.legislation.gov.uk/uksi/2024/844).
 
 [^f00004]: Footnote: [2015 c. 2](https://www.legislation.gov.uk/ukpga/2015/2). Section 33 was repealed by section 190 of the Online Safety Act [2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50).
@@ -161,6 +163,8 @@ A full Impact Assessment has not been produced for articles 3 and 4 of this inst
 [^f00008]: Footnote: [2019 c. 9](https://www.legislation.gov.uk/ukpga/2019/9). Section 8 was amended by paragraph 298 of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149).
 
 [^c-0c49fbda4ee8f0a0b57853270da57be1]: Commencement: Art. 4 in force at 16.12.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
+
+[^c-3cce7f30280be46d0b3ead05f6a4af7a]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2024/1331/article/4) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch. and with phased commencement in accordance with regs. 3, 4 in relation to a person serving a sentence imposed before that date) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 23(11)(d)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/11/d), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 23(12)-(15)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/12)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/b), [3-5](https://www.legislation.gov.uk/uksi/2026/953/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
 
 [^f00009]: Footnote: Section 248 was amended by section 116(2) of the LASPO.
 

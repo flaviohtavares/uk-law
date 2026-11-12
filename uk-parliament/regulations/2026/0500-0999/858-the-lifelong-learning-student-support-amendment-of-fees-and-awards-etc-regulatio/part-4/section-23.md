@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 23
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '23'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 23
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 23. Residual entitlement[^c-05442807f34ebec5c993f68dd0c88912]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) Deductions are to be made from the lifetime entitlement for an eligible student in respect of any tuition fee funding for—
 
@@ -151,7 +149,7 @@ with the remaining amount available to the student being referred to as their �
 
 ## Annotations
 
-[^c-05442807f34ebec5c993f68dd0c88912]: Commencement: Reg. 23 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-05442807f34ebec5c993f68dd0c88912]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2026/858/regulation/23) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00013]: Footnote: [S.R. 2009 No. 37](https://www.legislation.gov.uk/nisr/2009/37).
 

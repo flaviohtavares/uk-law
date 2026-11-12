@@ -3,7 +3,7 @@ title: The Employment and Support Allowance Regulations (Northern Ireland) 2008,
 act: The Employment and Support Allowance Regulations (Northern Ireland) 2008
 section: schedule-6
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2008/280/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Employment and Support Allowance Regulations (Northern Ireland) 2008, SCHEDULE 6
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2008/280
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2008/280
 >
 > Extent: Northern Ireland.
 
@@ -677,7 +677,7 @@ then those costs shall, for a period not exceeding 8 weeks, be treated as payabl
 (8) In the case of a non-dependant to whom sub-paragraph (2) applies because that non-dependant is in remunerative work, there is to be disregarded from that non-dependant’s gross income—
 
 - (a) any armed forces independence payment,[^c-b6b97d3f07fc0f7b3eeaa7ed5baf4abb] attendance allowance , pension age disability payment[^c-232509c75212697dad4540a74cffc02b][^c-0fe61f142c0ed01d698150aa0c16bf6a] , disability living allowance , Scottish adult disability living allowance[^c-7533cb5d5cdfbf55e882a7feb6488f48][^c-6924801079d02690b87a6e1cbb5b4aa5] , child disability payment[^c-c374768db86dedc1750c5840ade7affe], personal independence payment or adult disability payment[^c-80319634c395f18fa46c772e554216b0] received by that non-dependant;
-- (b) any Grenfell Tower payment[^c-a4add9642d688b71a3f7ad8895366818] , a child abuse payment[^c-15aa4839e2bc7212a9945840e6b57d2e] , Windrush payment[^c-b9fd74f39c8b808c6f236a599f5bf9e5] , Post Office compensation payment[^c-a84c8482aa44bc96318ebe7ff614fbfd] , LGBT Financial Recognition Scheme payment or miscarriage of justice compensation payment[^c-688b27c5bb0ef8a937ec407f2f93957a] or any payment made under or by[^c-00ca4b981ae6034be399729346934801] the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust , MFET Limited[^c-6bb2f00ac05f13b1aef63dccff966641] , the Skipton Fund, the Caxton Foundation[^c-261d6f3088717baf2724d52a910e30e1] , the Infected Blood Payment Scheme for Northern Ireland, the Scottish Infected Blood Support Scheme, an approved blood scheme[^c-9ecdc1653e9acaeecfbe01e9bc24df4c] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-d03810ca736553a01b1a52f681ec3922] , the National Emergencies Trust[^c-c235598f7b0fc315a89d2a598c27fd0c] or the Independent Living Fund (2006) which, had that non-dependant’s income fallen to be calculated under regulation 104 (calculation of income other than earnings), would have been disregarded under paragraph 21 of Schedule 8 (income in kind); and
+- (b) any Grenfell Tower payment[^c-a4add9642d688b71a3f7ad8895366818] , a child abuse payment[^c-15aa4839e2bc7212a9945840e6b57d2e] , Windrush payment[^c-b9fd74f39c8b808c6f236a599f5bf9e5] , Post Office compensation payment[^c-a84c8482aa44bc96318ebe7ff614fbfd] , LGBT Financial Recognition Scheme payment[^c-688b27c5bb0ef8a937ec407f2f93957a] , miscarriage of justice compensation payment, Mother and Baby Scheme payment[^c-7b1aa1c20f2468acca09b6fd4271e87e] or any payment made under or by[^c-00ca4b981ae6034be399729346934801] the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust , MFET Limited[^c-6bb2f00ac05f13b1aef63dccff966641] , the Skipton Fund, the Caxton Foundation[^c-261d6f3088717baf2724d52a910e30e1] , the Infected Blood Payment Scheme for Northern Ireland, the Scottish Infected Blood Support Scheme, an approved blood scheme[^c-9ecdc1653e9acaeecfbe01e9bc24df4c] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-d03810ca736553a01b1a52f681ec3922] , the National Emergencies Trust[^c-c235598f7b0fc315a89d2a598c27fd0c] or the Independent Living Fund (2006) which, had that non-dependant’s income fallen to be calculated under regulation 104 (calculation of income other than earnings), would have been disregarded under paragraph 21 of Schedule 8 (income in kind); and
 - (c) any payment which, had that non-dependant’s income fallen to be calculated under regulation 104 would have been disregarded under paragraph 40 of Schedule 8 (payments made under certain trusts and certain other payments).
 - (d)[^c-6bfc0becf5d21ae55414d463d91e01d2] any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State.
 
@@ -1184,6 +1184,8 @@ then those costs shall, for a period not exceeding 8 weeks, be treated as payabl
 [^c-a84c8482aa44bc96318ebe7ff614fbfd]: Textual amendment: Words in [Sch. 6 para. 19(8)(b)](https://www.legislation.gov.uk/nisr/2008/280/schedule/6/paragraph/19/8/b) substituted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [8(6)](https://www.legislation.gov.uk/nisr/2025/24/regulation/8/6)
 
 [^c-688b27c5bb0ef8a937ec407f2f93957a]: Textual amendment: Words in [Sch. 6 para. 19(8)(b)](https://www.legislation.gov.uk/nisr/2008/280/schedule/6/paragraph/19/8/b) substituted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [7(6)](https://www.legislation.gov.uk/nisr/2025/122/regulation/7/6)
+
+[^c-7b1aa1c20f2468acca09b6fd4271e87e]: Textual amendment: Words in [Sch. 6 para. 19(8)(b)](https://www.legislation.gov.uk/nisr/2008/280/schedule/6/paragraph/19/8/b) substituted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [6(6)](https://www.legislation.gov.uk/nisr/2026/177/regulation/6/6)
 
 [^c-00ca4b981ae6034be399729346934801]: Textual amendment: Words in [Sch. 6 para. 19(8)(b)](https://www.legislation.gov.uk/nisr/2008/280/schedule/6/paragraph/19/8/b) inserted (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [10(5)(d)](https://www.legislation.gov.uk/nisr/2010/69/regulation/10/5/d)
 

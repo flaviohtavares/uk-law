@@ -3,7 +3,7 @@ title: The Employment and Support Allowance Regulations (Northern Ireland) 2008,
 act: The Employment and Support Allowance Regulations (Northern Ireland) 2008
 section: '115'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2008/280/section/115
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Employment and Support Allowance Regulations (Northern Ireland) 2008, section 115
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2008/280
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2008/280
 >
 > Extent: Northern Ireland.
 
@@ -72,6 +72,7 @@ any capital which would become available to the claimant upon application being 
 - (d)[^c-8f33c29e52a900f4f44217f97299caf0] a Post Office compensation payment;
 - (e) a vaccine damage payment;[^c-af95c6b16df4b82d58454598ac4622ca]
 - (f) an LGBT Financial Recognition Scheme payment;[^c-ce419dfdbd2d145e5021066fd7064619]
+- (fa)[^c-8fe882129a339fa6999af7c5757d78fd] a Mother and Baby Scheme payment;
 - (g) a miscarriage of justice compensation payment.
 
 (6) Where a claimant stands in relation to a company in a position analogous to that of a sole owner or partner in the business of that company, the claimant is to be treated as if that claimant were such sole owner or partner and in such a case—
@@ -120,3 +121,5 @@ any capital which would become available to the claimant upon application being 
 [^c-af95c6b16df4b82d58454598ac4622ca]: Textual amendment: [Reg. 115(5A)(e)](https://www.legislation.gov.uk/nisr/2008/280/regulation/115/5A/e)[(f)](https://www.legislation.gov.uk/nisr/2008/280/regulation/115/5A/f) substituted for [reg. 115(5A)(e)](https://www.legislation.gov.uk/nisr/2008/280/regulation/115/5A/e) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [8(5)](https://www.legislation.gov.uk/nisr/2025/24/regulation/8/5)
 
 [^c-ce419dfdbd2d145e5021066fd7064619]: Textual amendment: [Reg. 115(5A)(g)](https://www.legislation.gov.uk/nisr/2008/280/regulation/115/5A/f) and semicolon substituted for full stop (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [7(5)](https://www.legislation.gov.uk/nisr/2025/122/regulation/7/5)
+
+[^c-8fe882129a339fa6999af7c5757d78fd]: Textual amendment: [Reg. 115(5A)(fa)](https://www.legislation.gov.uk/nisr/2008/280/regulation/115/5A/fa) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2026/177/regulation/6/5)

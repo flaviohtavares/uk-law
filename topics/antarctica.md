@@ -54,7 +54,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Antarctic (Amendment) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3066-the-antarctic-amendment-regulations-2008.md) *(as originally made)*
+- [The Antarctic (Amendment) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3066-the-antarctic-amendment-regulations-2008.md)
 
 **2004**
 

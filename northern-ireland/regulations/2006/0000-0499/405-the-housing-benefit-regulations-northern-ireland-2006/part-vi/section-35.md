@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, section 35
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: '35'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006, section 35
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 
@@ -27,7 +27,7 @@ summary: ''
   - (i) an amount in respect of income tax and of national insurance contributions[^c-67f64887034f1ba1962d637204be00be] payable under the Act calculated in accordance with regulation 36, and
   - (ii) one half of the amount calculated in accordance with paragraph (11) in respect of any qualifying premium.
 
-(2) There shall be disregarded from a claimant’s net profit, any sum, where applicable, specified in paragraphs 1 to 14 of Schedule 5.
+(2) There shall be disregarded from a claimant’s net profit, any sum, where applicable, specified in paragraphs 1 to 14 and 18[^c-ee6f01900b951668111b97f5798a7130] of Schedule 5.
 
 (3) For the purposes of paragraph (1)(a) the net profit of the employment shall, except where paragraph (9) applies, be calculated by taking into account the earnings of the employment over the assessment period less—
 
@@ -94,6 +94,8 @@ summary: ''
 [^f00098]: Footnote: S R. [1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108)
 
 [^c-67f64887034f1ba1962d637204be00be]: Textual amendment: Words in [reg. 35(1)(b)(i)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/1/b/i) substituted (20.6.2016) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/230)](https://www.legislation.gov.uk/nisr/2016/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/230/regulation/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2016/230/regulation/3/2/b/i)
+
+[^c-ee6f01900b951668111b97f5798a7130]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/2) inserted (5.10.2026) by [The Housing Benefit (Earned Income Disregards) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/157)](https://www.legislation.gov.uk/nisr/2026/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/157/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2026/157/regulation/2/3)
 
 [^c-ebd07bda0a7069b4348244a6a64e7ae4]: Textual amendment: Words in [reg. 35(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/3/b/ii) substituted (20.6.2016) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/230)](https://www.legislation.gov.uk/nisr/2016/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/230/regulation/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/230/regulation/3/2/b/ii)
 

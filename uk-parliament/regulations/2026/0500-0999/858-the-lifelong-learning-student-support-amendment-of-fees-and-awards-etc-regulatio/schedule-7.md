@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 7
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-7
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 7
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## Schedule 7 — Assessment of household income
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 Regulations 37(2) and 71(1)
 
@@ -309,7 +307,7 @@ the household income is determined in accordance with paragraph (12), but as if 
 
 ## Annotations
 
-[^c-16bbd21df4cfeaa344a040ba8ad858d9]: Commencement: Sch. 7 para. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-16bbd21df4cfeaa344a040ba8ad858d9]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2026/858/schedule/7/paragraph/1) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00084]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3). Section 23 was amended by paragraph 19 of Schedule 17 to the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), paragraph 2(2) of Schedule 3 to the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), paragraph 10(2) and 13(3)(f) of Schedule 2 to the Finance (No. 2) Act [2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30) and paragraph 6(o)(i) of Schedule 1 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
@@ -317,20 +315,20 @@ the household income is determined in accordance with paragraph (12), but as if 
 
 [^f00086]: Footnote: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18). Section 23 was amended by section 16 of the Administration of Justice Act [1982 (c. 53)](https://www.legislation.gov.uk/ukpga/1982/53) and paragraph 20 of the Schedule to the Divorce, Dissolution and Separation Act [2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11). Section 25B(4) was inserted by section 166(1) of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) and amended by paragraph 1(5) of Schedule 4 to the Welfare Reform and Pensions Act 1999. Section 25E(3) was inserted by paragraph 3 of Schedule 12 to the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^c-ea9c7f045a5b06f0626babf1688c2ea3]: Commencement: Sch. 7 para. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-ea9c7f045a5b06f0626babf1688c2ea3]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2026/858/schedule/7/paragraph/2) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00087]: Footnote: Section 22 was amended by paragraph 19 of Schedule 5 to the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), section 2(2) of the Children (Leaving Care) Act 2000, section 116(2) of the Adoption and Children Act 2002, section 52 of the Children Act 2004, section 99 of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), by paragraph 6(b) of Schedule 3 to the Children and Young Persons Act 2008 and by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
 
 [^f00088]: Footnote: [S.I. 1978/1096](https://www.legislation.gov.uk/uksi/1978/1096), to which there are amendments not relevant to these Regulations.
 
-[^c-95a2bb5bd7d5de59cf1fc782c11d2e11]: Commencement: Sch. 7 para. 3 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-95a2bb5bd7d5de59cf1fc782c11d2e11]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2026/858/schedule/7/paragraph/3) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-054c17e0e8ac821beeab8bfbc18a5359]: Commencement: Sch. 7 para. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-054c17e0e8ac821beeab8bfbc18a5359]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2026/858/schedule/7/paragraph/4) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00089]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 188 was amended by paragraph 2 of Schedule 18 and Schedule 27 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), section 52 of the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), and paragraph 13 of Schedule 7 to the Finance Act 2014.
 
-[^c-f7dbb0828747c983500b826f36fdc6d6]: Commencement: Sch. 7 para. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-f7dbb0828747c983500b826f36fdc6d6]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2026/858/schedule/7/paragraph/5) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-b5da0547422f5c99a740bd626125bf6d]: Commencement: Sch. 7 para. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-b5da0547422f5c99a740bd626125bf6d]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2026/858/schedule/7/paragraph/6) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-fea308fe4af4f462f422933b5ebc4f40]: Commencement: Sch. 7 para. 7 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-fea308fe4af4f462f422933b5ebc4f40]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2026/858/schedule/7/paragraph/7) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

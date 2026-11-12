@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 5
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-5
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 5
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## Schedule 5 — Information
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 Regulation 18(1)
 
@@ -51,12 +49,12 @@ Regulation 18(1)
 
 ## Annotations
 
-[^c-282c60988cde50840f1781a9b0924377]: Commencement: Sch. 5 para. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-282c60988cde50840f1781a9b0924377]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2026/858/schedule/5/paragraph/1) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-b495be200c22213a4151ef768a3c8dfd]: Commencement: Sch. 5 para. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-b495be200c22213a4151ef768a3c8dfd]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2026/858/schedule/5/paragraph/2) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-f57fce0d49c5fafec427a375451e6a11]: Commencement: Sch. 5 para. 3 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-f57fce0d49c5fafec427a375451e6a11]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2026/858/schedule/5/paragraph/3) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-03f12eaa216be2133e9f33ea6466b837]: Commencement: Sch. 5 para. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-03f12eaa216be2133e9f33ea6466b837]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2026/858/schedule/5/paragraph/4) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-28a2a5862416a36eb313a49092b88d50]: Commencement: Sch. 5 para. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-28a2a5862416a36eb313a49092b88d50]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2026/858/schedule/5/paragraph/5) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

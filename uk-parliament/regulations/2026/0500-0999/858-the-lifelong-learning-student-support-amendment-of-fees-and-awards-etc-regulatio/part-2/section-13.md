@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 13
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '13'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 13
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 13. Period of eligibility[^c-c98562140150e12894f44f3d77902e3f]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) A student’s status as an eligible student in connection with a designated course—
 
@@ -50,4 +48,4 @@ the Secretary of State may at any time renew the period of eligibility for such 
 
 ## Annotations
 
-[^c-c98562140150e12894f44f3d77902e3f]: Commencement: Reg. 13 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-c98562140150e12894f44f3d77902e3f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2026/858/regulation/13) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

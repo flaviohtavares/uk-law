@@ -22,7 +22,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Adult Support and Protection (Scotland) Act 2007 (Commencement No. 2 and Transitional Provisions) Amendment Order 2008](../scotland/regulations/2008/0000-0499/116-the-adult-support-and-protection-scotland-act-2007-commencement-no-2-and-transit.md) *(as originally made)*
 - [The Adult Support and Protection (Scotland) Act 2007 (Commencement No. 2 and Transitional Provisions) Order 2008](../scotland/regulations/2008/0000-0499/49-the-adult-support-and-protection-scotland-act-2007-commencement-no-2-and-transit.md) *(as originally made)*
 - [The Adult Support and Protection (Scotland) Act 2007 (Commencement No. 3 and Related Amendments) Order 2008](../scotland/regulations/2008/0000-0499/314-the-adult-support-and-protection-scotland-act-2007-commencement-no-3-and-related.md) *(as originally made)*
-- [The Adult Support and Protection (Scotland) Act 2007 (Restriction on the Authorisation of Council Officers) Order 2008](../scotland/regulations/2008/0000-0499/306-the-adult-support-and-protection-scotland-act-2007-restriction-on-the-authorisat.md) *(as originally made)*
+- [The Adult Support and Protection (Scotland) Act 2007 (Restriction on the Authorisation of Council Officers) Order 2008](../scotland/regulations/2008/0000-0499/306-the-adult-support-and-protection-scotland-act-2007-restriction-on-the-authorisat.md) *(changes pending)*
 
 **2007**
 

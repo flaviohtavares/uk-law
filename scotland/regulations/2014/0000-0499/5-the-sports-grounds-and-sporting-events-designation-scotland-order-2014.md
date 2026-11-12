@@ -3,16 +3,16 @@ title: The Sports Grounds and Sporting Events (Designation) (Scotland) Order 201
 id: ssi/2014/5
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2014-01-08'
-text_date: '2025-11-13'
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2014/5
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2014/5/pdfs/ssipn_20140005_en.pdf
 - http://www.legislation.gov.uk/ssi/2014/5/pdfs/ssi_20140005_en.pdf
 - http://www.legislation.gov.uk/ssi/2014/5/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Sports Grounds and Sporting Events (Designation) (Scotland) Order 2014
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ssi/2014/5
+> Text as at 2026-10-29.
 >
 > Extent: Scotland.
 
@@ -88,13 +88,18 @@ Article 2(a) and (b)
 | The Alpha Projects Stadium at Station Park | Forfar |
 | Balmoor Stadium | Peterhead |
 | Balmoral Stadium | Aberdeen |
+| Barrfields Park[^c-2d6bb47ccaa02179a66d76c8581e470f] | Largs |
 | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . |
 | BBSP Stadium | Kilmarnock |
+| Beechwood Park | Cumnock |
+| Bellsdale Park | Beith |
 | Bellslea Park | Fraserburgh |
 | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . |
+| Blairmount Park | Newton Stewart |
 | Borough Briggs | Elgin |
 | Broadwood Stadium | Cumbernauld |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
+| Buffs Park | Kilwinning |
 | Caledonian Stadium[^c-812e0399bc090c1bac4224afd5f4f3e8] | Inverness |
 | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . |
 | Cappielow Park Supported by Dalrada Technology | Greenock |
@@ -106,6 +111,7 @@ Article 2(a) and (b)
 | [^c-6c310b0becb4ac377ec34f93b9772bc1]. . . | [^c-6c310b0becb4ac377ec34f93b9772bc1]. . . |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
 | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . |
+| Dens Park | Dundee |
 | Dudgeon Park | Brora |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
@@ -116,7 +122,7 @@ Article 2(a) and (b)
 | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . |
 | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . |
 | The Falkirk Stadium | Falkirk |
-| Ferguson Park | Rosewell |
+| [^c-0a391972e7c2a740d723a4567bf8d862]. . . | [^c-0a391972e7c2a740d723a4567bf8d862]. . . |
 | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . |
 | Fir Park Stadium | Motherwell |
 | Foresters Park[^c-9a392d12eb6ec0cf0854ce0dab91dc64] | Tranent |
@@ -129,6 +135,7 @@ Article 2(a) and (b)
 | Grant Park | Lossiemouth |
 | Grant Street Park | Inverness |
 | The Greenversity Stadium at Gayfield Park | Arbroath |
+| Hamilton Community Stadium | Hamilton |
 | Hampden Park | Glasgow |
 | Harlaw Park | Inverurie |
 | Harmsworth Park | Wick |
@@ -137,9 +144,12 @@ Article 2(a) and (b)
 | Home of the Set Fare Arena | Livingston |
 | Ibrox Stadium | Glasgow |
 | The Indodrill Stadium[^c-00658a48ea85863a317373af7d6dd64a] | Alloa |
+| Islecroft Stadium | Dalbeattie |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
 | KDM Group East End Park | Dunfermline |
+| Keanie Park | Johnstone |
+| Keirs Park | Cowdenbeath |
 | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . |
 | Kynoch Park | Keith |
 | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . |
@@ -156,26 +166,31 @@ Article 2(a) and (b)
 | [^c-7d555f4d9d90c26d01dc912007706e8f]. . . | [^c-7d555f4d9d90c26d01dc912007706e8f]. . . |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
 | New Central Park | Kelty |
-| New Douglas Park | Hamilton |
+| [^c-0a391972e7c2a740d723a4567bf8d862]. . . | [^c-0a391972e7c2a740d723a4567bf8d862]. . . |
 | New Dundas Park | Bonnyrigg |
+| Newlandsfield Park | Glasgow |
 | Newtown Park | Bo’ness |
+| New Western Park | Renfrew |
 | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . |
 | North Lodge Park | Pitmedden |
 | Ochilview Park | Stenhousemuir |
+| Olivebank Arena | Musselburgh |
 | Palmerston Park | Dumfries |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
 | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . |
 | Pittodrie Stadium | Aberdeen |
+| Portland Park | Troon |
 | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . |
 | Prestonfield Stadium | Linlithgow |
 | Princess Royal Park | Banff |
 | Raydale Park | Gretna |
+| Recreation Ground | Invergordon |
 | The Reigart Stadium | Coatbridge |
 | The Ross Commercial Finance K Park Stadium | East Kilbride |
 | [^c-7d555f4d9d90c26d01dc912007706e8f]. . . | [^c-7d555f4d9d90c26d01dc912007706e8f]. . . |
 | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . | [^c-fc43d7933576ee289a09ee4ac97ccb3e]. . . |
 | Seafield Park | Grantown-on-Spey |
-| ScotFoam Stadium at Dens Park | Dundee |
+| [^c-0a391972e7c2a740d723a4567bf8d862]. . . | [^c-0a391972e7c2a740d723a4567bf8d862]. . . |
 | Scottish Gas Murrayfield Stadium | Edinburgh |
 | The SMISA Stadium | Paisley |
 | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . |
@@ -189,10 +204,13 @@ Article 2(a) and (b)
 | Station Park | Nairn |
 | Tannadice Park | Dundee |
 | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . | [^c-76f6a1bb0cac2b675ef29a35d046888f]. . . |
+| Thomson Park | Dundee |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
+| Townhead Park | Cumnock |
 | Tynecastle Stadium | Edinburgh |
 | Vanloq Community Stadium | Edinburgh |
 | Victoria Park | Buckie |
+| Westfield Park | Stirlingshire |
 | The Wyre Stadium at Firhill | Glasgow |
 | [^c-6c310b0becb4ac377ec34f93b9772bc1]. . . | [^c-6c310b0becb4ac377ec34f93b9772bc1]. . . |
 | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . | [^c-5085d773be0b6efc5c3000ee2d6840aa]. . . |
@@ -277,6 +295,8 @@ The main changes from the previous Orders reflect the creation of the Scottish L
 
 [^c-f56645e4a109ad97d88526997d951d40]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/5/schedule/1) inserted (5.5.2022) by [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment Order 2022 (S.S.I. 2022/86)](https://www.legislation.gov.uk/ssi/2022/86), [arts. 1](https://www.legislation.gov.uk/ssi/2022/86/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/86/article/2/2/b)
 
+[^c-2d6bb47ccaa02179a66d76c8581e470f]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/5/schedule/1) inserted (29.10.2026) by [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment Order 2026 (S.S.I. 2026/247)](https://www.legislation.gov.uk/ssi/2026/247), [arts. 1](https://www.legislation.gov.uk/ssi/2026/247/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/247/article/2/2/b)
+
 [^c-5085d773be0b6efc5c3000ee2d6840aa]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/5/schedule/1) omitted (6.11.2023) by virtue of [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment Order 2023 (S.S.I. 2023/257)](https://www.legislation.gov.uk/ssi/2023/257), [arts. 1](https://www.legislation.gov.uk/ssi/2023/257/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/257/article/2/2/a)
 
 [^c-812e0399bc090c1bac4224afd5f4f3e8]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/5/schedule/1) inserted (6.11.2023) by [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment Order 2023 (S.S.I. 2023/257)](https://www.legislation.gov.uk/ssi/2023/257), [arts. 1](https://www.legislation.gov.uk/ssi/2023/257/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/257/article/2/2/b)
@@ -284,6 +304,8 @@ The main changes from the previous Orders reflect the creation of the Scottish L
 [^c-6c310b0becb4ac377ec34f93b9772bc1]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/5/schedule/1) omitted (31.10.2022) by virtue of [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment (No. 2) Order 2022 (S.S.I. 2022/263)](https://www.legislation.gov.uk/ssi/2022/263), [arts. 1](https://www.legislation.gov.uk/ssi/2022/263/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/263/article/2/2/a)
 
 [^c-8921aabfd5f9a5c72e57f4eed17126f2]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/5/schedule/1) omitted (16.1.2025) by virtue of [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment Order 2024 (S.S.I. 2024/352)](https://www.legislation.gov.uk/ssi/2024/352), [arts. 1](https://www.legislation.gov.uk/ssi/2024/352/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/352/article/2/2/a)
+
+[^c-0a391972e7c2a740d723a4567bf8d862]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/5/schedule/1) omitted (29.10.2026) by virtue of [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment Order 2026 (S.S.I. 2026/247)](https://www.legislation.gov.uk/ssi/2026/247), [arts. 1](https://www.legislation.gov.uk/ssi/2026/247/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/247/article/2/2/a)
 
 [^c-9a392d12eb6ec0cf0854ce0dab91dc64]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/5/schedule/1) inserted (31.10.2022) by [The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment (No. 2) Order 2022 (S.S.I. 2022/263)](https://www.legislation.gov.uk/ssi/2022/263), [arts. 1](https://www.legislation.gov.uk/ssi/2022/263/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/263/article/2/2/b)
 

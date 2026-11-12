@@ -3,7 +3,7 @@ title: The Universal Credit Regulations (Northern Ireland) 2016, SCHEDULE 12
 act: The Universal Credit Regulations (Northern Ireland) 2016
 section: schedule-12
 status: repealed
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2016/216/schedule/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

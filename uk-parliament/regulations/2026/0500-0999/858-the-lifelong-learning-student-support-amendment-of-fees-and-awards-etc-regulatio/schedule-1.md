@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 1
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-1
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 1
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## Schedule 1 — Interpretation
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 Regulation 3
 
@@ -403,7 +401,7 @@ Regulation 3
 
 ## Annotations
 
-[^c-ff346b9a3a75b7e5321b378d0c9b3ea5]: Commencement: Sch. 1 para. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-ff346b9a3a75b7e5321b378d0c9b3ea5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2026/858/schedule/1/paragraph/1) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00047]: Footnote: [S.I. 2007/779](https://www.legislation.gov.uk/uksi/2007/779).
 
@@ -471,14 +469,14 @@ Regulation 3
 
 [^f00079]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194). Relevant amendments were made by paragraph 1(1)(a), (c) and (d) of Schedule 6 to the Health and Social Care (Reform) Act (Northern Ireland) 2009, and by paragraph 141 of Schedule 1 to the Health and Social Care Act (Northern Ireland) [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
 
-[^c-1da64b3e2b46639470225b0f9088a8b5]: Commencement: Sch. 1 para. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-1da64b3e2b46639470225b0f9088a8b5]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2026/858/schedule/1/paragraph/2) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-1072fa5571d4e1d249fff29dc500040e]: Commencement: Sch. 1 para. 3 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-1072fa5571d4e1d249fff29dc500040e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2026/858/schedule/1/paragraph/3) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00080]: Footnote: Version 1.3.4 of the Higher Education Classification of Subjects coding system was published digitally on 28th October 2021. A full list of Common Aggregated Hierarchy 3 codes, and the subjects they are associated with, is available at https://www.hesa.ac.uk/collection/coding-manual-tools/hecoscahdata/cah. A printed copy can be obtained on request from the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P.
 
-[^c-667935c69870051edbc1e82e81e4ad6e]: Commencement: Sch. 1 para. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-667935c69870051edbc1e82e81e4ad6e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2026/858/schedule/1/paragraph/4) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-a4e1f2d09fc75d35acf8ef82c55ecafb]: Commencement: Sch. 1 para. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-a4e1f2d09fc75d35acf8ef82c55ecafb]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2026/858/schedule/1/paragraph/5) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
-[^c-0b46471afe9c4d03b9e04ae3dfeec6c1]: Commencement: Sch. 1 para. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-0b46471afe9c4d03b9e04ae3dfeec6c1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2026/858/schedule/1/paragraph/6) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

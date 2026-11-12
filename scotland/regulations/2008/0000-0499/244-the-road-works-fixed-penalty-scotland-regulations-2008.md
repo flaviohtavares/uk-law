@@ -3,16 +3,16 @@ title: The Road Works (Fixed Penalty) (Scotland) Regulations 2008
 id: ssi/2008/244
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-11'
-text_date: null
-extent: null
+text_date: '2008-06-11'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/244
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/244/pdfs/ssien_20080244_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/244/pdfs/ssi_20080244_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/244/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/ssi/2008/244/data.pdf
+pending_changes: 14
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Road Works (Fixed Penalty) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (14).** Text as at 2008-06-11. See https://www.legislation.gov.uk/changes/affected/ssi/2008/244
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 244
 
@@ -50,11 +56,11 @@ In accordance with section 163A of that Act[^f00002] they have consulted with su
 
 as they think appropriate.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-bb34dd27e7c4daf0dba3485ab2b40b9c]
 
 These Regulations may be cited as the Road Works (Fixed Penalty) (Scotland) Regulations 2008 and come into force on 1st October 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-225a537f5021fe2d38ef6ec3a93475c6]
 
 In these Regulations–
 
@@ -63,15 +69,15 @@ In these Regulations–
 - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00003]; and
 - “offence” means a fixed penalty offence.
 
-## 3. Exemptions
+## 3. Exemptions[^c-354ad27f084319070b868710262b5b6e]
 
 Road managers are exempted from the provisions of section 154A(5) of, and Schedule 6B to, the 1991 Act[^f00004].
 
-## 4. Form of fixed penalty notice and prescribed methods of payment
+## 4. Form of fixed penalty notice and prescribed methods of payment[^c-dffba575e475cb085a7160bbb7e7fa9c]
 
 A fixed penalty notice shall be in the form set out in Schedule 1 which also prescribes the methods by which fixed penalties may be paid.
 
-## 5. Manner of service of fixed penalty notice or a notice withdrawing a fixed penalty notice
+## 5. Manner of service of fixed penalty notice or a notice withdrawing a fixed penalty notice[^c-0392cdf0045c6425fdd1d59f30d5f2d9]
 
 (1) Subject to paragraph (5), where a person–
 
@@ -106,28 +112,28 @@ and for this purpose “legible in all material respects” means that the infor
   - (i) in the case of a corporation, the registered or principal office of the corporation; and
   - (ii) in any other case, the last known address of such person.
 
-## 6. Time limit for giving fixed penalty notice
+## 6. Time limit for giving fixed penalty notice[^c-d3fc7272bdf9df40379ea3df259e450a]
 
 A fixed penalty notice for an offence may not be given more than 60 days after the commission of the offence beginning with the day of its commission.
 
-## 7. Amount of penalty
+## 7. Amount of penalty[^c-ca8d9d74d755090a51d0cbd8ec22b99a]
 
 (1) Subject to paragraph (2), where a fixed penalty notice has been given in relation to an offence set out in column 2 of the Table in Schedule 2 and briefly described in column 3 of that Table, the penalty for that offence shall be the amount set out, in relation to it, in column 4 of that Table.
 
 (2) Where, in relation to such an offence, payment is made before the end of the period specified in paragraph 5(1) of Schedule 6B to the 1991 Act, or if the last day of that period does not fall on a working day, before the end of the next working day in accordance with paragraph 5(3) of that Schedule, the penalty shall instead be the discounted amount set out, in relation to it, in column 5 of that Table.
 
-## 8. Modification of payment periods
+## 8. Modification of payment periods[^c-085e005c0dfb21b73b48fc746b52b409]
 
 Schedule 6B to the 1991 Act is modified as follows–
 
 - (a) in paragraph 4(2) for “29” substitute “36”; and
 - (b) in paragraph 5(1) for “15” substitute “29”.
 
-## 9. Form of notice withdrawing a fixed penalty notice
+## 9. Form of notice withdrawing a fixed penalty notice[^c-0490391021f79256f87c8ca11ecc22a0]
 
 Where a notice withdrawing a fixed penalty notice is given in accordance with paragraph 8(1) of Schedule 6B to the 1991 Act, it shall be in the form set out in Schedule 3.
 
-## 10. Retention of fixed penalties
+## 10. Retention of fixed penalties[^c-c70aff4c4ebc5901a46e0ba9a5f168c4]
 
 The road works authority may retain as much of the money received by them by way of fixed penalties under Schedule 6B to the 1991 Act as is sufficient to meet the reasonable costs of operating the scheme under which they are paid.
 
@@ -141,13 +147,13 @@ Edinburgh
 
 11th June 2008
 
-## SCHEDULE 1 — FORM OF FIXED PENALTY NOTICE
+## SCHEDULE 1 — FORM OF FIXED PENALTY NOTICE[^c-94543ec057f6e6343d778096c7225d22]
 
 Regulation 4
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/244/images/ssi_20080244_en_001) [image: see source](https://www.legislation.gov.uk/ssi/2008/244/images/ssi_20080244_en_002)
 
-## SCHEDULE 2 — AMOUNT OF PENALTY
+## SCHEDULE 2 — AMOUNT OF PENALTY[^c-5cd47a359216106394c22285c7cfedba]
 
 Regulation 7
 
@@ -166,7 +172,7 @@ TABLE
 </tbody>
 </table>
 
-## SCHEDULE 3 — FORM OF NOTICE WITHDRAWING A FIXED PENALTY NOTICE
+## SCHEDULE 3 — FORM OF NOTICE WITHDRAWING A FIXED PENALTY NOTICE[^c-322588a79529114acecd0ba14dae05ed]
 
 Regulation 9
 
@@ -204,6 +210,32 @@ A regulatory impact assessment has been prepared in respect of these Regulations
 
 [^f00002]: Footnote: Section 163A was inserted by section 39 of the 2005 Act.
 
+[^c-bb34dd27e7c4daf0dba3485ab2b40b9c]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-225a537f5021fe2d38ef6ec3a93475c6]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
 [^f00003]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 158.
 
+[^c-354ad27f084319070b868710262b5b6e]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
 [^f00004]: Footnote: Section 154A was inserted by section 34 of the 2005 Act.
+
+[^c-dffba575e475cb085a7160bbb7e7fa9c]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-0392cdf0045c6425fdd1d59f30d5f2d9]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-d3fc7272bdf9df40379ea3df259e450a]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-ca8d9d74d755090a51d0cbd8ec22b99a]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-085e005c0dfb21b73b48fc746b52b409]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-0490391021f79256f87c8ca11ecc22a0]: Commencement: Reg. 9 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-c70aff4c4ebc5901a46e0ba9a5f168c4]: Commencement: Reg. 10 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-94543ec057f6e6343d778096c7225d22]: Commencement: Sch. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-5cd47a359216106394c22285c7cfedba]: Commencement: Sch. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)
+
+[^c-322588a79529114acecd0ba14dae05ed]: Commencement: Sch. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1)

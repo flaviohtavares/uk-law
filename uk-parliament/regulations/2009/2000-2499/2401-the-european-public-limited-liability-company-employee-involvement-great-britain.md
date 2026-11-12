@@ -3,16 +3,16 @@ title: The European Public Limited-Liability Company (Employee Involvement) (Gre
 id: uksi/2009/2401
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2009-09-09'
-text_date: '2020-12-31'
+text_date: '2026-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2009/2401
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2009/2401/pdfs/uksiem_20092401_en.pdf
 - http://www.legislation.gov.uk/uksi/2009/2401/pdfs/uksi_20092401_en.pdf
 - http://www.legislation.gov.uk/uksi/2009/2401/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/uksi/2009/2401
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland.
 
@@ -434,8 +434,8 @@ the employee is entitled to be permitted by the employer to take reasonable time
 
 (2) A tribunal must not consider a complaint under this regulation unless it is presented—
 
-- (a) before the end of the period of three months beginning with the day on which the time off was taken or on which it is alleged the time off should have been permitted, or
-- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
+- (a) before the end of the period of six[^c-87e7cf272aedc46fdd2df19998b6ec45] months beginning with the day on which the time off was taken or on which it is alleged the time off should have been permitted, or
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^c-9fa1b4033f5c0c4f02f77701c6cd44e0] months.
 
 (2A)[^c-9ad675628a825a32db2c7f122688644a] Regulation 28A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
@@ -944,6 +944,10 @@ A full Regulatory Impact Assessment of the effect that the 2004 GB Regulations w
 [^c-fc04744fa672f7f8335cf9ff0d084d73]: Textual amendment: Words in [reg. 26(1)(a)](https://www.legislation.gov.uk/uksi/2009/2401/regulation/26/1/a) inserted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [59](https://www.legislation.gov.uk/uksi/2018/1298/regulation/59) (with [regs. 146-152A](https://www.legislation.gov.uk/uksi/2018/1298/regulation/146)) (as amended by [S.I. 2019/685](https://www.legislation.gov.uk/uksi/2019/685), [Sch. 3 paras. 14](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/14), [15](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/15) and [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(g)-(j)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/g)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19855701]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c-87e7cf272aedc46fdd2df19998b6ec45]: Textual amendment: Word in [reg. 28(2)(a)](https://www.legislation.gov.uk/uksi/2009/2401/regulation/28/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 16(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/16/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^c-9fa1b4033f5c0c4f02f77701c6cd44e0]: Textual amendment: Word in [reg. 28(2)(b)](https://www.legislation.gov.uk/uksi/2009/2401/regulation/28/2/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 16(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/16/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
 [^c-9ad675628a825a32db2c7f122688644a]: Textual amendment: [Reg. 28(2A)](https://www.legislation.gov.uk/uksi/2009/2401/regulation/28/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 58](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/58)
 

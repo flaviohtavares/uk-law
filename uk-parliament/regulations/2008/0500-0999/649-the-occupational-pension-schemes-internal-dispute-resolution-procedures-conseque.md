@@ -3,16 +3,16 @@ title: The Occupational Pension Schemes (Internal Dispute Resolution Procedures 
 id: uksi/2008/649
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-05'
-text_date: null
-extent: null
+text_date: '2008-03-05'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/649
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/649/pdfs/uksiem_20080649_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/649/pdfs/uksi_20080649_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/649/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/649/data.pdf
+pending_changes: 9
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Occupational Pension Schemes (Internal Dispute Resolution Procedures Consequential and Miscellaneous Amendments) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (9).** Text as at 2008-03-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/649
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2008 No. 649
 
@@ -44,13 +50,13 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 In accordance with section 185(1) of the Pension Schemes Act 1993 and section 120(1) of the Pensions Act 1995 the Secretary of State has consulted with such persons as he considers appropriate.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-96c237762f0d251a8dff376f70e27013]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Internal Dispute Resolution Procedures Consequential and Miscellaneous Amendments) Regulations 2008 and shall come into force on 6th April 2008.
 
 (2) In these Regulations “the Act” means the Pensions Act 1995.
 
-## 2. Information requirements
+## 2. Information requirements[^c-7560304beb974954f536d405f6b63b00]
 
 (1) When the trustees or managers of an occupational pension scheme receive (or, as the case may be, the specified person[^f00003] receives) an application under the relevant procedure, they must as soon as is reasonably practicable—
 
@@ -66,11 +72,11 @@ In accordance with section 185(1) of the Pension Schemes Act 1993 and section 12
 - (a) a statement that the Pensions Ombudsman appointed under section 145(2) of the Pension Schemes Act 1993[^f00006] may investigate and determine any complaint or dispute of fact or law, in relation to a scheme, made or referred in accordance with that Act, and
 - (b) the Pensions Ombudsman’s contact details.
 
-## 3. Exempted schemes
+## 3. Exempted schemes[^c-12c82543742bb93fb0f277ca8c650796]
 
 An occupational pension scheme of a description prescribed for the purposes of section 50(8)(c) of the Act (schemes to which section 50 does not apply) is a scheme in relation to which the sole trustee of the scheme is a company and all members of the scheme are directors of that company.
 
-## 4. Exempted disputes
+## 4. Exempted disputes[^c-2d9ee1913c54844970c0ae2f7227e4c4]
 
 A dispute of a description prescribed for the purposes of section 50(9)(c) of the Act (exempted disputes) is a dispute in respect of which a notice of appeal has been issued by the complainant in accordance with—
 
@@ -87,7 +93,7 @@ A dispute of a description prescribed for the purposes of section 50(9)(c) of th
 - (k) rule 4 of Part 8 of Schedule 1 to the Firefighters’ Pension Scheme (Wales) Order 2007[^f00017] (appeals against decisions based on medical advice); or
 - (l) rule 2 of Part 6 of Schedule 1 to the Firefighters’ Compensation Scheme (Wales) Order 2007[^f00018] (appeal to medical referee).
 
-## 5. Transitional provisions
+## 5. Transitional provisions[^c-07a324d9bc57d33b084c5c22eacc8538]
 
 (1) Any disagreement which was ongoing before 6th April 2008 under arrangements made and implemented under section 50(1) of the Act shall continue until the procedure under those arrangements comes to an end, as if the relevant legislative provisions governing those arrangements were still in force.
 
@@ -103,7 +109,7 @@ A dispute of a description prescribed for the purposes of section 50(9)(c) of th
 - (a) to an occupational pension scheme under the arrangements required by section 50 of the Act; and
 - (b) before 6th April 2008.
 
-## 6. Consequential and miscellaneous amendments
+## 6. Consequential and miscellaneous amendments[^c-08a3d4ff9eedb16524e2a890581601e8]
 
 (1) In Schedule 1 to the Occupational Pension Schemes (Disclosure of Information) Regulations 1996[^f00021] (basic information about the scheme);
 
@@ -117,7 +123,7 @@ A dispute of a description prescribed for the purposes of section 50(9)(c) of th
 
 (3) In the Stakeholder Pension Schemes Regulations 2000[^f00022] in the table in Schedule 2 (regulations applying to schemes which are or have been registered under section 2) in the column headed “Statutory Instrument” for “The Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations 1996” substitute “The Occupational Pension Schemes (Internal Dispute Resolution Procedures Consequential and Miscellaneous Amendments) Regulations 2008”.
 
-## 7. Revocation
+## 7. Revocation[^c-66929f00b49495bf5a3e69e3f4ebe7ac]
 
 The Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations 1996 are revoked.
 
@@ -159,6 +165,10 @@ These Regulations have only a negligible impact on the costs of business, charit
 
 [^f00002]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26). Section 50 is substituted by section 273 of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35) (“the 2004 Act”) as amended by section 16 of the [Pensions Act 2007 ( c.22)](https://www.legislation.gov.uk/ukpga/2007/22)*.* Section 124(1) is cited because of the meaning there given to “prescribed” and “regulations”.
 
+[^c-96c237762f0d251a8dff376f70e27013]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+
+[^c-7560304beb974954f536d405f6b63b00]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+
 [^f00003]: Footnote: “Specified person” is a term used in section 50(4A) of the Pensions Act 1995. Subsection (4A) is inserted by section 273 of the 2004 Act.
 
 [^f00004]: Footnote: The Pensions Advisory Service Limited is a company limited by guarantee under the Companies Act [1985 (c.6)](https://www.legislation.gov.uk/ukpga/1985/6); registered number 2459671.
@@ -166,6 +176,10 @@ These Regulations have only a negligible impact on the costs of business, charit
 [^f00005]: Footnote: Section 124(1) was amended by paragraph 61 of Schedule 12 to the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30)
 
 [^f00006]: Footnote: Section 145(2) was amended by section 274(1) of the 2004 Act.
+
+[^c-12c82543742bb93fb0f277ca8c650796]: Commencement: Reg. 3 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+
+[^c-2d9ee1913c54844970c0ae2f7227e4c4]: Commencement: Reg. 4 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1987/257](https://www.legislation.gov.uk/uksi/1987/257); the relevant amending instruments are [S.I. 2003/535](https://www.legislation.gov.uk/uksi/2003/535), and [2004/1491](https://www.legislation.gov.uk/uksi/2004/1491) and [S.S.I. 2003/406](https://www.legislation.gov.uk/ssi/2003/406) and [2004/486](https://www.legislation.gov.uk/ssi/2004/486).
 
@@ -191,10 +205,16 @@ These Regulations have only a negligible impact on the costs of business, charit
 
 [^f00018]: Footnote: [S.I. 2007/1073 (W.111)](https://www.legislation.gov.uk/wsi/2007/1073).
 
+[^c-07a324d9bc57d33b084c5c22eacc8538]: Commencement: Reg. 5 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+
 [^f00019]: Footnote: [S.I. 1996/1270](https://www.legislation.gov.uk/uksi/1996/1270); amended by [S.I. 1999/3198](https://www.legislation.gov.uk/uksi/1999/3198), [2004/2306](https://www.legislation.gov.uk/uksi/2004/2306) and [2918](https://www.legislation.gov.uk/uksi/2004/2918) and [2005/2877](https://www.legislation.gov.uk/uksi/2005/2877).
 
 [^f00020]: Footnote: [S.I. 1996/2475](https://www.legislation.gov.uk/uksi/1996/2475), to which there are amendments not relevant to these Regulations.
 
+[^c-08a3d4ff9eedb16524e2a890581601e8]: Commencement: Reg. 6 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+
 [^f00021]: Footnote: [S.I. 1996/1655](https://www.legislation.gov.uk/uksi/1996/1655); the relevant amending instrument is [S.I. 1999/3198](https://www.legislation.gov.uk/uksi/1999/3198).
 
 [^f00022]: Footnote: [S.I. 2000/1403](https://www.legislation.gov.uk/uksi/2000/1403); the relevant amending instrument is [S.I. 2001/934](https://www.legislation.gov.uk/uksi/2001/934).
+
+[^c-66929f00b49495bf5a3e69e3f4ebe7ac]: Commencement: Reg. 7 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)

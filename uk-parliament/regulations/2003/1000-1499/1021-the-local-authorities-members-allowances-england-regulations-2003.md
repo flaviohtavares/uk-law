@@ -3,15 +3,15 @@ title: The Local Authorities (Members' Allowances) (England) Regulations 2003
 id: uksi/2003/1021
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2003-04-07'
-text_date: '2026-05-11'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2003/1021
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2003/1021/pdfs/uksi_20031021_en.pdf
 - http://www.legislation.gov.uk/uksi/2003/1021/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Local Authorities (Members' Allowances) (England) Regulations 2003
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-05-11. See https://www.legislation.gov.uk/changes/affected/uksi/2003/1021
+> Text as at 2026-10-05.
 >
 > Extent: England, Wales.
 
@@ -86,7 +86,7 @@ In these Regulations—
 - (c) a London borough council;
 - (d) the Council of the Isles of Scilly;
 - (e)[^c-2e8b3332a58130fc973b050933ee49e2] a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
-- (f) a joint authority established by Part IV of the Local Government Act 1985[^f00008];
+- (f)[^c-6d6a194070a3112a2e7faab5d1811d5e] a joint authority established by Part IV of the Local Government Act 1985[^f00008];
 - (g)[^c-a877e5562a243391373b9e308ca30874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) the Broads Authority[^f00010];
 - (i) a National Park authority[^f00011]; and
@@ -667,6 +667,8 @@ Part 6 revokes existing regulations relating to members' allowances and disappli
 [^c-b7209d5e822a1c5465a13ebe40c98c2a]: Commencement: Reg. 3 in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/1/1)
 
 [^c-2e8b3332a58130fc973b050933ee49e2]: Textual amendment: Reg. 3(1)(e) substituted (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [68(2)](https://www.legislation.gov.uk/uksi/2004/3168/article/68/2)
+
+[^c-6d6a194070a3112a2e7faab5d1811d5e]: Modification: [Reg. 3(1)(f)](https://www.legislation.gov.uk/uksi/2003/1021/regulation/3/1/f) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(u)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/u) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^f00008]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 

@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **ENVIRONMENTAL PROTE
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Environmental Protection Act 1990](../../uk-parliament/acts/public/1990/43-environmental-protection-act-1990/README.md) *(changes pending)* — 243 regulations on this topic made under it
-- [Pollution Prevention and Control Act 1999](../../uk-parliament/acts/public/1999/24-pollution-prevention-and-control-act-1999.md) — 69 regulations on this topic made under it
+- [Pollution Prevention and Control Act 1999](../../uk-parliament/acts/public/1999/24-pollution-prevention-and-control-act-1999.md) — 68 regulations on this topic made under it
 - [Environment Act 1995](../../uk-parliament/acts/public/1995/25-environment-act-1995/README.md) *(changes pending)* — 61 regulations on this topic made under it
 - [The Waste and Contaminated Land (Northern Ireland) Order 1997](../../northern-ireland/orders-in-council/1997/2778-the-waste-and-contaminated-land-northern-ireland-order-1997/README.md) *(changes pending)* — 60 regulations on this topic made under it
 - [Marine and Coastal Access Act 2009](../../uk-parliament/acts/public/2009/23-marine-and-coastal-access-act-2009/README.md) *(changes pending)* — 47 regulations on this topic made under it
@@ -39,7 +39,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1243 in force, by year:
+1242 in force, by year:
 
 | year | in force |
 |---|---|
@@ -61,7 +61,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 65 |
 | [2010](2010.md) | 31 |
 | [2009](2009.md) | 27 |
-| [2008](2008.md) | 24 |
+| [2008](2008.md) | 23 |
 | [2007](2007.md) | 39 |
 | [2006](2006.md) | 47 |
 | [2005](2005.md) | 43 |

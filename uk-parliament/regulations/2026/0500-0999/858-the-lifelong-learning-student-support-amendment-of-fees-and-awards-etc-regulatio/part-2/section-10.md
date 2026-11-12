@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 10
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '10'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 10
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 10. Designation of courses[^c-7f8a41b0d095b1014da7658392abf652]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) A higher education course is a designated course for the purposes of section 22(1) of the 1998 Act and these Regulations if it meets the conditions in paragraph (2) or comes within paragraph (6) or (7).
 
@@ -80,7 +78,7 @@ summary: ''
 
 ## Annotations
 
-[^c-7f8a41b0d095b1014da7658392abf652]: Commencement: Reg. 10 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-7f8a41b0d095b1014da7658392abf652]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2026/858/regulation/10) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00010]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 

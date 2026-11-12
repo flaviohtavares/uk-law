@@ -3,14 +3,14 @@ title: The Excise Goods (Drawback) Regulations 1995
 id: uksi/1995/1046
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1995-05-02'
-text_date: '2025-02-01'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1995/1046
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1995/1046/data.pdf
-pending_changes: 3
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Excise Goods (Drawback) Regulations 1995
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2025-02-01. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1046
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -106,7 +106,12 @@ In these Regulations—
 
 (5)[^c-f48bde07af72dbb0d935859c0a645c06] Alcoholic products[^c-4252611d974a58c40ee2f13768d4348e] are not eligible goods for the purposes of paragraph 2(b) if they become warehoused for export on or after 1st June 2009.
 
-(6)[^c-95fc4812cbe9185119e3711bb6adceb3] In paragraph (5), “**alcoholic products**” means alcoholic products that are chargeable with excise duty under the Finance (No. 2) Act 2023.
+(5A)[^c-dd0a7ba661b5f21d42eeec88a1887344] Vaping products are not eligible goods for the purposes of paragraph 2(b) if they become warehoused for export on or after 1st October 2026.
+
+(6)[^c-11d692d2bc549abe18a5288efd2c4ed1] In—
+
+- (a) paragraph (5), “**alcoholic products**” means alcoholic products that are chargeable with excise duty under the Finance (No. 2) Act 2023;
+- (b) paragraph (5A), “**vaping products**” means vaping products that are chargeable with excise duty under the Finance Act 2026.
 
 ### 6. Eligible claimants[^c-26c63569a72b19fc61c10d1bdb577bdb][^M_C_8eaa0b92-c18b-4c59-d2f1-2477b52f153d][^c-7e630936b6d486bfe0878a346c58fcf7]
 
@@ -120,6 +125,8 @@ In these Regulations—
   - (ii) whose business is not wholly or mainly the destruction of goods on which duty has been charged.
 
 (3)[^c-06967038ab330d85899dfe7ebe5e6187] Where a revenue trader is entitled to the repayment of alcohol duty under section 74 of the Finance (No. 2) Act 2023 (spoilt alcoholic products), that trader must make the claim for repayment in accordance with regulation 27 (claims for repayment of alcohol duty) of the Alcoholic Products (Excise Duty) Regulations 2023 and not in accordance with these Regulations.
+
+(4)[^c-bb0da67eff9acca13d8b5e984ef4d77a] Where a revenue trader is entitled to the repayment of vaping products duty under regulation 14 of the Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (spoilt vaping products: remittance or repayment of duty), that trader must make the claim for repayment in accordance with that regulation and not in accordance with these Regulations.
 
 ## PART III — CLAIMS, CONDITIONS AND CANCELLATION OF DRAWBACK
 
@@ -374,13 +381,17 @@ Part V amends the Excise Warehousing (Etc.) Regulations 1988 (S.I. [1988/809](ht
 
 [^c-4252611d974a58c40ee2f13768d4348e]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/5/5) substituted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/5/2/a)
 
-[^c-95fc4812cbe9185119e3711bb6adceb3]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/5/6) substituted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/5/2/b)
+[^c-dd0a7ba661b5f21d42eeec88a1887344]: Textual amendment: [Reg. 5(5A)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/5/5A) inserted (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [43(2)](https://www.legislation.gov.uk/uksi/2026/331/regulation/43/2)
+
+[^c-11d692d2bc549abe18a5288efd2c4ed1]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/5/6) substituted (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [43(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/43/3)
 
 [^c-26c63569a72b19fc61c10d1bdb577bdb]: Commencement: Reg. 6 in force at 1.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1046/regulation/1)
 
 [^c-7e630936b6d486bfe0878a346c58fcf7]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/1046/regulation/6) modified (N.I.) by [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), [reg. 99(2)(ab)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/99/2/ab) (as inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 41(a)](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/41/a))
 
 [^c-06967038ab330d85899dfe7ebe5e6187]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/6/3) substituted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/5/3)
+
+[^c-bb0da67eff9acca13d8b5e984ef4d77a]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/6/4) inserted (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [43(4)](https://www.legislation.gov.uk/uksi/2026/331/regulation/43/4)
 
 [^c-f04f16747665da4856647d4dc678edc4]: Commencement: Reg. 7 in force at 1.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1046/regulation/1)
 

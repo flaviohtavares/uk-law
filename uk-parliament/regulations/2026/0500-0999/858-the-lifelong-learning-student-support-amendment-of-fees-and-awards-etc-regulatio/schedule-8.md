@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 8
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: schedule-8
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/schedule/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, Schedule 8
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## Schedule 8 — Amendment of the 2007 Fees and Awards Regulations
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 Regulation 91
 
@@ -164,28 +162,28 @@ In regulation 9 (payments by the Secretary of State), in paragraph (3)[^f00095],
 
 ## Annotations
 
-[^c-7a41da2ee4413d349590aace64f4c190]: Commencement: Sch. 8 para. 1 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-7a41da2ee4413d349590aace64f4c190]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2026/858/schedule/8/paragraph/1) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00090]: Footnote: The definition was inserted by [S.I. 2023/74](https://www.legislation.gov.uk/uksi/2023/74).
 
-[^c-b032e981b356253e58c9a5176e161342]: Commencement: Sch. 8 para. 2 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-b032e981b356253e58c9a5176e161342]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2026/858/schedule/8/paragraph/2) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00091]: Footnote: Regulation 4 was amended by [S.I. 2019/1027](https://www.legislation.gov.uk/uksi/2019/1027), [2021/127](https://www.legislation.gov.uk/uksi/2021/127), [2023/74](https://www.legislation.gov.uk/uksi/2023/74), [2024/85](https://www.legislation.gov.uk/uksi/2024/85) and [2026/130](https://www.legislation.gov.uk/uksi/2026/130). There are other amendments which are not relevant to this provision.
 
 [^f00092]: Footnote: [2023 c. 40](https://www.legislation.gov.uk/ukpga/2023/40).
 
-[^c-83564274fcb06d1330f2a78c0acbc9ff]: Commencement: Sch. 8 para. 3 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-83564274fcb06d1330f2a78c0acbc9ff]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2026/858/schedule/8/paragraph/3) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00093]: Footnote: Paragraphs (1A) and (1B) were inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127).
 
-[^c-991ace18d6b2809d73954239de817822]: Commencement: Sch. 8 para. 4 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-991ace18d6b2809d73954239de817822]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/2026/858/schedule/8/paragraph/4) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00094]: Footnote: Paragraph (3) was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127).
 
-[^c-67de1224e627d9370cf807a109565b7d]: Commencement: Sch. 8 para. 5 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-67de1224e627d9370cf807a109565b7d]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/uksi/2026/858/schedule/8/paragraph/5) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00095]: Footnote: Paragraph (3) was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127).
 
-[^c-5e9eabce4a015098e35b249109be1ebe]: Commencement: Sch. 8 para. 6 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-5e9eabce4a015098e35b249109be1ebe]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/uksi/2026/858/schedule/8/paragraph/6) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
 
 [^f00096]: Footnote: Schedule 1 was amended by [S.I. 2007/2263](https://www.legislation.gov.uk/uksi/2007/2263), [2011/1987](https://www.legislation.gov.uk/uksi/2011/1987), [2017/114](https://www.legislation.gov.uk/uksi/2017/114), [2020/1181](https://www.legislation.gov.uk/uksi/2020/1181), [2021/127](https://www.legislation.gov.uk/uksi/2021/127), [929](https://www.legislation.gov.uk/uksi/2021/929) and [1348](https://www.legislation.gov.uk/uksi/2021/1348), and 2024/85.

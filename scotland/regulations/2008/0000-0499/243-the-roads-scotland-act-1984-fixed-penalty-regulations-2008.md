@@ -3,16 +3,16 @@ title: The Roads (Scotland) Act 1984 (Fixed Penalty) Regulations 2008
 id: ssi/2008/243
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-11'
-text_date: null
-extent: null
+text_date: '2008-06-11'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/243
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/243/pdfs/ssien_20080243_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/243/pdfs/ssi_20080243_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/243/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/ssi/2008/243/data.pdf
+pending_changes: 13
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Roads (Scotland) Act 1984 (Fixed Penalty) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (13).** Text as at 2008-06-11. See https://www.legislation.gov.uk/changes/affected/ssi/2008/243
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 243
 
@@ -50,11 +56,11 @@ In accordance with section 163A of the New Roads and Street Works Act 1991[^f000
 
 as they think appropriate.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-1e215f7842a1e3997a7644edd5489910]
 
 These Regulations may be cited as the Roads (Scotland) Act 1984 (Fixed Penalty) Regulations 2008 and come into force on 1st October 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-cbe9f17e5dfd1ffcc036fe3037cc2e2a]
 
 In these Regulations–
 
@@ -63,11 +69,11 @@ In these Regulations–
 - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00004]; and
 - “offence” means a fixed penalty offence.
 
-## 3. Form of fixed penalty notice and prescribed methods of payment
+## 3. Form of fixed penalty notice and prescribed methods of payment[^c-39d46873f6e12da0c9b259a52309ff00]
 
 A fixed penalty notice shall be in the form set out in Schedule 1 which also prescribes the methods by which fixed penalties may be paid.
 
-## 4. Manner of service of a fixed penalty notice or a notice withdrawing a fixed penalty notice
+## 4. Manner of service of a fixed penalty notice or a notice withdrawing a fixed penalty notice[^c-44656027893c2196e6cf02798fb3d534]
 
 (1) Subject to paragraph (5), where a person–
 
@@ -102,28 +108,28 @@ and for this purpose “legible in all material respects” means that the infor
   - (i) in the case of a corporation, the registered or principal office of the corporation; and
   - (ii) in any other case, the last known address of such person.
 
-## 5. Time limit for giving fixed penalty notice
+## 5. Time limit for giving fixed penalty notice[^c-2ae5e2f79119cbafbe58cee9fafd339d]
 
 A fixed penalty notice for an offence may not be given more than 60 days after the commission of the offence beginning with the day of its commission.
 
-## 6. Amount of penalty
+## 6. Amount of penalty[^c-9e6d792f0736f2ebbf9ab9127798bc4c]
 
 (1) Subject to paragraph (2), where a fixed penalty notice has been given in relation to an offence set out in column 2 of the Table in Schedule 2 and briefly described in column 3 of that Table, the penalty for that offence shall be the amount set out, in relation to it, in column 4 of that Table.
 
 (2) Where, in relation to such an offence, payment is made before the end of the period specified in paragraph 5(1) of Schedule 8B to the 1984 Act, or if the last day of that period does not fall on a working day, before the end of the next working day in accordance with paragraph 5(3) of that Schedule, the penalty shall instead be the discounted amount set out, in relation to it, in column 5 of that Table.
 
-## 7. Modification of payment periods
+## 7. Modification of payment periods[^c-c47f1f67384c3e64a482acaaf235ebae]
 
 Schedule 8B to the 1984 Act is modified as follows–
 
 - (a) in paragraph 4(2) for “29” substitute “36”; and
 - (b) in paragraph 5(1) for “15” substitute “29”.
 
-## 8. Form of notice withdrawing a fixed penalty notice
+## 8. Form of notice withdrawing a fixed penalty notice[^c-3b7a53bc5b4ba621b54cd693d97efa4e]
 
 Where a notice withdrawing a fixed penalty notice is given in accordance with paragraph 8(1) of Schedule 8B to the 1984 Act, it shall be in the form set out in Schedule 3.
 
-## 9. Retention of fixed penalties
+## 9. Retention of fixed penalties[^c-610b1b1c6fd0144eb9db1e2d3de795ef]
 
 The roads authority may retain as much of the money received by them by way of fixed penalties under Schedule 8B to the 1984 Act as is sufficient to meet the reasonable costs of operating the scheme under which they are paid.
 
@@ -137,13 +143,13 @@ Edinburgh
 
 11th June 2008
 
-## SCHEDULE 1 — FORM OF FIXED PENALTY NOTICE
+## SCHEDULE 1 — FORM OF FIXED PENALTY NOTICE[^c-d407c2d73280ab02ae6a2940f676ec3a]
 
 Regulation 3
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/243/images/ssi_20080243_en_001) [image: see source](https://www.legislation.gov.uk/ssi/2008/243/images/ssi_20080243_en_002)
 
-## SCHEDULE 2 — AMOUNT OF PENALTY
+## SCHEDULE 2 — AMOUNT OF PENALTY[^c-52207cc5b1dbde600864d41b908398e8]
 
 Regulation 6
 
@@ -161,7 +167,7 @@ TABLE
 </tbody>
 </table>
 
-## SCHEDULE 3 — FORM OF NOTICE WITHDRAWING A FIXED PENALTY NOTICE
+## SCHEDULE 3 — FORM OF NOTICE WITHDRAWING A FIXED PENALTY NOTICE[^c-a1aa1b22221c1f4537a5ab4cbdbf4768]
 
 Regulation 8
 
@@ -199,4 +205,28 @@ A regulatory impact assessment has been prepared in respect of these Regulations
 
 [^f00003]: Footnote: Section 163A was inserted by section 39 of the 2005 Act.
 
+[^c-1e215f7842a1e3997a7644edd5489910]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-cbe9f17e5dfd1ffcc036fe3037cc2e2a]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 158.
+
+[^c-39d46873f6e12da0c9b259a52309ff00]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-44656027893c2196e6cf02798fb3d534]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-2ae5e2f79119cbafbe58cee9fafd339d]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-9e6d792f0736f2ebbf9ab9127798bc4c]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-c47f1f67384c3e64a482acaaf235ebae]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-3b7a53bc5b4ba621b54cd693d97efa4e]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-610b1b1c6fd0144eb9db1e2d3de795ef]: Commencement: Reg. 9 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-d407c2d73280ab02ae6a2940f676ec3a]: Commencement: Sch. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-52207cc5b1dbde600864d41b908398e8]: Commencement: Sch. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-a1aa1b22221c1f4537a5ab4cbdbf4768]: Commencement: Sch. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)

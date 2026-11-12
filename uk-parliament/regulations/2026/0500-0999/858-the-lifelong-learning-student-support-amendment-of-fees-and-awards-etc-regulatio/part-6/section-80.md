@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 80
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '80'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/80
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 80
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 80. Calculation of parents’ learning allowance[^c-a1b69e17f010fd6a1568761cbf903cee]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) Subject to paragraphs (2) and (3), the amount of parents’ learning allowance is equal to—
 
@@ -38,4 +36,4 @@ where—
 
 ## Annotations
 
-[^c-a1b69e17f010fd6a1568761cbf903cee]: Commencement: Reg. 80 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-a1b69e17f010fd6a1568761cbf903cee]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2026/858/regulation/80) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

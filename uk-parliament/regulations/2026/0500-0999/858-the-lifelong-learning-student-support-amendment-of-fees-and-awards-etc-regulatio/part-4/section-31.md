@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 31
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '31'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 31
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 31. Qualifying conditions for a fee loan[^c-15c8d9a7b28878bc313c2e6758187cf8]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) An eligible student (“**A**”) qualifies for a fee loan in connection with A’s attendance on, or undertaking of (in the case of a distance learning course), a designated course if the following conditions are met—
 
@@ -63,4 +61,4 @@ is or was temporarily employed in Wales, Scotland or Northern Ireland as a membe
 
 ## Annotations
 
-[^c-15c8d9a7b28878bc313c2e6758187cf8]: Commencement: Reg. 31 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-15c8d9a7b28878bc313c2e6758187cf8]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2026/858/regulation/31) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

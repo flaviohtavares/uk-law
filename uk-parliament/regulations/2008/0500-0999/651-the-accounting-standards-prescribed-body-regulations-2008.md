@@ -3,15 +3,15 @@ title: The Accounting Standards (Prescribed Body) Regulations 2008
 id: uksi/2008/651
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-05'
-text_date: null
-extent: null
+text_date: '2008-03-05'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/651
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/651/pdfs/uksi_20080651_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/651/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/651/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Accounting Standards (Prescribed Body) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2008-03-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/651
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 651
 
@@ -37,19 +43,19 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 464(1) and (3) of the Companies Act 2006[^f00001]:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-3707a7eec61d929fae87366169d8dbc3]
 
 These Regulations may be cited as the Accounting Standards (Prescribed Body) Regulations 2008 and come into force on 6th April 2008.
 
-## 2. Prescribed body
+## 2. Prescribed body[^c-c4aab6c7370ef98369f3c0e43d72c914]
 
 The body known as the Accounting Standards Board established under the articles of association of The Financial Reporting Council Limited[^f00002] is hereby prescribed for the purposes of section 464 of the Companies Act 2006.
 
-## 3. Revocation
+## 3. Revocation[^c-05b1d46da4b757f127616fe1d2442e0e]
 
 The Accounting Standards (Prescribed Body) Regulations (Northern Ireland) 1990[^f00003] and the Accounting Standards (Prescribed Body) Regulations 2005[^f00004] are hereby revoked.
 
-## 4. Transitional Provision
+## 4. Transitional Provision[^c-e2a629e7c4730696be36fdd7c21158bf]
 
 Statements of standard accounting practice which immediately before 6th April 2008 have been issued and not withdrawn by the former body known as the Accounting Standards Board for the purposes of section 256 of the Companies Act 1985[^f00005] or Article 264 of the Companies (Northern Ireland) Order 1986[^f00006]shall be treated on and after that date as statements of standard accounting practice issued by the Accounting Standards Board for the purposes of section 464 of the Companies Act 2006.
 
@@ -79,11 +85,19 @@ An Impact Assessment has not been produced for these Regulations as they have no
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
+[^c-3707a7eec61d929fae87366169d8dbc3]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/651/regulation/1)
+
+[^c-c4aab6c7370ef98369f3c0e43d72c914]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/651/regulation/1)
+
 [^f00002]: Footnote: Registered number 02486368.
+
+[^c-05b1d46da4b757f127616fe1d2442e0e]: Commencement: Reg. 3 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/651/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1990/338](https://www.legislation.gov.uk/nisr/1990/338).
 
 [^f00004]: Footnote: [S.I. 2005/697](https://www.legislation.gov.uk/uksi/2005/697).
+
+[^c-e2a629e7c4730696be36fdd7c21158bf]: Commencement: Reg. 4 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/651/regulation/1)
 
 [^f00005]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 

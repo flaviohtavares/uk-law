@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 34
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '34'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 34
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 34. Amount of fee loan for a course year[^c-bb8c8c9adf1f2d710212417d7129ad1a]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) The amount of fee loan for a course year of a designated course that a student may receive during a course year must not exceed any of the following—
 
@@ -129,4 +127,4 @@ summary: ''
 
 ## Annotations
 
-[^c-bb8c8c9adf1f2d710212417d7129ad1a]: Commencement: Reg. 34 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-bb8c8c9adf1f2d710212417d7129ad1a]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2026/858/regulation/34) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

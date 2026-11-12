@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **AGRICULTURE**. Repe
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Agriculture Act 1986](../../uk-parliament/acts/public/1986/49-agriculture-act-1986.md) — 206 regulations on this topic made under it
-- [Agriculture Act 1970](../../uk-parliament/acts/public/1970/40-agriculture-act-1970.md) *(changes pending)* — 132 regulations on this topic made under it
+- [Agriculture Act 1970](../../uk-parliament/acts/public/1970/40-agriculture-act-1970.md) *(changes pending)* — 131 regulations on this topic made under it
 - [Agriculture Act 2020](../../uk-parliament/acts/public/2020/21-agriculture-act-2020/README.md) *(changes pending)* — 54 regulations on this topic made under it
 - [Environment Act 1995](../../uk-parliament/acts/public/1995/25-environment-act-1995/README.md) *(changes pending)* — 48 regulations on this topic made under it
 - [Food Standards Act 1999](../../uk-parliament/acts/public/1999/28-food-standards-act-1999/README.md) — 31 regulations on this topic made under it
@@ -34,7 +34,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1577 in force, by year:
+1575 in force, by year:
 
 | year | in force |
 |---|---|
@@ -56,7 +56,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 24 |
 | [2010](2010.md) | 32 |
 | [2009](2009.md) | 17 |
-| [2008](2008.md) | 36 |
+| [2008](2008.md) | 34 |
 | [2007](2007.md) | 25 |
 | [2006](2006.md) | 39 |
 | [2005](2005.md) | 48 |

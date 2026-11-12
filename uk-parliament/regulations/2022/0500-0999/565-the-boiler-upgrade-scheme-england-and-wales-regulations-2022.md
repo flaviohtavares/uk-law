@@ -3,16 +3,16 @@ title: The Boiler Upgrade Scheme (England and Wales) Regulations 2022
 id: uksi/2022/565
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2022-05-22'
-text_date: '2026-04-28'
+text_date: '2026-10-22'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2022/565
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2022/565/pdfs/uksiem_20220565_en.pdf
 - http://www.legislation.gov.uk/uksi/2022/565/pdfs/uksi_20220565_en.pdf
 - http://www.legislation.gov.uk/uksi/2022/565/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Boiler Upgrade Scheme (England and Wales) Regulations 2022
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/2022/565
+> Text as at 2026-10-22.
 >
 > Extent: England, Wales.
 
@@ -682,18 +682,19 @@ it may decide to withhold one or more boiler upgrade grant payments which would 
 - (b) were paid whilst there was a failure by the installer to comply with an installer obligation, or following such a failure, or
 - (c) were paid as a result of the provision of information by the installer which was incorrect in a material particular,
 
-it may take one of the actions set out in paragraph (2).
+it may take one or a combination[^c-e0ea16623468f34cbd8136d87c6b74a8] of the actions set out in paragraph (2).
 
 (2) The actions in this paragraph are that the Authority may—
 
 - (a) require the installer to repay an amount in relation to some or all of those payments, or
-- (b) offset an amount in relation to some or all of those payments against future payments to the installer under these Regulations.
+- (b) offset an amount in relation to some or all of those payments against future payments to the installer under these Regulations , provided that the total amount does not exceed the sum of those payments referenced at paragraph (1)[^c-2799584e8c872eb3522b8d57aaa11bf2].
 
-(3) Before taking either of the actions set out in paragraph (2), the Authority must send a notice to the installer specifying—
+(3) Before taking any[^c-2d8a3f153d04b27b4fd4ca1e90271867] of the actions set out in paragraph (2), the Authority must send a notice to the installer specifying—
 
 - (a) the amount it is seeking to recover,
 - (b) the basis on which that amount is calculated,
-- (c) whether the amount must be repaid or will be offset,
+- (c)[^c-ea094114ee1c1f876383549475a7e6a9] where applicable, the amount that must be repaid,
+- (ca)[^c-5f9e0b5edcfe9094b64233232f0abe8e] where applicable, the amount that will be recovered by the offsetting,
 - (d) where applicable, the date by which the amount must be repaid, which must be not less than 28 days after the date on which the notice is sent, and
 - (e) details of the installer’s right of review under regulation 25.
 
@@ -1371,6 +1372,16 @@ A full impact assessment of the effect that this instrument will have on the cos
 [^c-6bc5119689a0af12ff687d4846b97b3e]: Textual amendment: [Reg. 21(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/21/1/d/iii) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [19(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/19/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
 
 [^c-eb6a5def123e42fa42439f70db47f545]: Commencement: Reg. 22 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^c-e0ea16623468f34cbd8136d87c6b74a8]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/22/1) inserted (22.10.2026) by [The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026 (S.I. 2026/1121)](https://www.legislation.gov.uk/uksi/2026/1121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/3/2)
+
+[^c-2799584e8c872eb3522b8d57aaa11bf2]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2022/565/regulation/22/2) inserted (22.10.2026) by [The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026 (S.I. 2026/1121)](https://www.legislation.gov.uk/uksi/2026/1121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/3/3)
+
+[^c-2d8a3f153d04b27b4fd4ca1e90271867]: Textual amendment: Word in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2022/565/regulation/22/3) substituted (22.10.2026) by [The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026 (S.I. 2026/1121)](https://www.legislation.gov.uk/uksi/2026/1121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/3/4/a)
+
+[^c-ea094114ee1c1f876383549475a7e6a9]: Textual amendment: [Reg. 22(3)(c)](https://www.legislation.gov.uk/uksi/2022/565/regulation/22/3/c) substituted (22.10.2026) by [The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026 (S.I. 2026/1121)](https://www.legislation.gov.uk/uksi/2026/1121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/3/4/b)
+
+[^c-5f9e0b5edcfe9094b64233232f0abe8e]: Textual amendment: [Reg. 22(3)(ca)](https://www.legislation.gov.uk/uksi/2022/565/regulation/22/3/ca) inserted (22.10.2026) by [The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026 (S.I. 2026/1121)](https://www.legislation.gov.uk/uksi/2026/1121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2026/1121/regulation/3/4/c)
 
 [^c-7fb71cababcebffb5aa991512428e6c4]: Commencement: Reg. 23 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
 

@@ -1,6 +1,6 @@
 # Coverage
 
-What this repository holds, built on 2026-11-10 from the legislation.gov.uk bulk data (Best Collection XML, Legislative Amendments, "Legislation on Website" list) plus the site itself for the few laws the bulk data lacks.
+What this repository holds, built on 2026-11-11 from the legislation.gov.uk bulk data (Best Collection XML, Legislative Amendments, "Legislation on Website" list) plus the site itself for the few laws the bulk data lacks.
 
 ## Laws with text
 
@@ -24,17 +24,17 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 | `ukppa` | uk-parliament/acts/private | 0 | 0 | 0 | 0 | 869 |
 | `ukcm` | uk-parliament/church-measures | 101 | 28 | 0 | 28 | 87 |
 | `ukci` | uk-parliament/church-instruments | 0 | 0 | 60 | 0 | 0 |
-| `uksi` | uk-parliament/regulations | 5181 | 881 | 50451 | 4120 | 48827 |
+| `uksi` | uk-parliament/regulations | 5193 | 876 | 50439 | 4127 | 48827 |
 | `uksro` | uk-parliament/regulations | 0 | 0 | 0 | 0 | 307 |
 | `ukmo` | uk-parliament/regulations | 0 | 0 | 1 | 0 | 124 |
 | `asp` | scotland/acts | 275 | 110 | 0 | 17 | 0 |
-| `ssi` | scotland/regulations | 946 | 174 | 6506 | 1117 | 2754 |
+| `ssi` | scotland/regulations | 948 | 172 | 6499 | 1124 | 2754 |
 | `anaw` | wales/acts | 26 | 16 | 0 | 2 | 0 |
 | `asc` | wales/acts | 18 | 15 | 0 | 1 | 0 |
 | `mwa` | wales/measures | 13 | 6 | 0 | 3 | 0 |
-| `wsi` | wales/regulations | 709 | 97 | 3065 | 806 | 2106 |
+| `wsi` | wales/regulations | 710 | 96 | 3065 | 806 | 2106 |
 | `nia` | northern-ireland/acts | 167 | 35 | 11 | 26 | 0 |
-| `nisr` | northern-ireland/regulations | 1894 | 372 | 5070 | 2038 | 9184 |
+| `nisr` | northern-ireland/regulations | 1894 | 373 | 5071 | 2039 | 9184 |
 | `nisro` | northern-ireland/regulations | 0 | 0 | 1 | 0 | 8791 |
 | `nisi` | northern-ireland/orders-in-council | 296 | 160 | 61 | 41 | 133 |
 | `aep` | historic/england | 66 | 0 | 586 | 13 | 28 |
@@ -49,7 +49,7 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 | `eudr` | eu-origin/directives | 1185 | 137 | 0 | 713 | 2133 |
 | `eut` | eu-origin/treaties | 5 | 0 | 0 | 0 | 0 |
 | `ukmd` | (catalogue only) | 0 | 0 | 0 | 0 | 1 |
-| **total** |  | **41713** | **5071** | **66082** | **17509** | **228894** |
+| **total** |  | **41728** | **5064** | **66064** | **17524** | **228894** |
 
 ## Known conversion gaps
 

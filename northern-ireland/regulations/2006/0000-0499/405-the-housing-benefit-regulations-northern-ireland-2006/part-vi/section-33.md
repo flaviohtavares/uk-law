@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations (Northern Ireland) 2006, section 33
 act: The Housing Benefit Regulations (Northern Ireland) 2006
 section: '33'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/405/section/33
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations (Northern Ireland) 2006, section 33
 
-> **Warning: changes not yet applied to this text (43).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/405
 >
 > Extent: Northern Ireland.
 
@@ -22,7 +22,7 @@ summary: ''
 
 (1) For the purposes of regulation 26, the earnings of a claimant derived or likely to be derived from employment as an employed earner to be taken into account shall, subject to paragraph (2), be his net earnings.
 
-(2) There shall be disregarded from a claimant’s net earnings, any sum, where applicable, specified in paragraphs 1 to 14 of Schedule 5.
+(2) There shall be disregarded from a claimant’s net earnings, any sum, where applicable, specified in paragraphs 1 to 14 and 18[^c-644562dbb281095d1b71f36756b7adfd] of Schedule 5.
 
 (3) For the purposes of paragraph (1) net earnings shall, except where paragraph (6) applies, be calculated by taking into account the gross earnings of the claimant from that employment over the assessment period, less—
 
@@ -51,6 +51,8 @@ summary: ''
 ## Annotations
 
 [^c-500d9ea7c371a54d509a29218a8a2112]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/405/regulation/33) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+
+[^c-644562dbb281095d1b71f36756b7adfd]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/nisr/2006/405/regulation/33/2) inserted (5.10.2026) by [The Housing Benefit (Earned Income Disregards) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/157)](https://www.legislation.gov.uk/nisr/2026/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/157/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2026/157/regulation/2/2)
 
 [^c-947b2153f3267f8cdd77396fada3bdaf]: Textual amendment: Words in [reg. 33(3)(d)](https://www.legislation.gov.uk/nisr/2006/405/regulation/33/3/d) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [15(6)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/15/6/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
 

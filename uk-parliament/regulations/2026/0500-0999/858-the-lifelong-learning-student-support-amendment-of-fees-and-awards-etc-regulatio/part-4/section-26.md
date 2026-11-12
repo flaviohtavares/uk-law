@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 26
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '26'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 26
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 26. Priority additional entitlement[^c-7e291da10a05bbaedb6d9acbe59a20f1]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) An eligible student (“**A**”) qualifies for priority additional entitlement if A is undertaking a course from the following list (to be known as “**the priority additional entitlement course list**”)—
 
@@ -52,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^c-7e291da10a05bbaedb6d9acbe59a20f1]: Commencement: Reg. 26 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-7e291da10a05bbaedb6d9acbe59a20f1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2026/858/regulation/26) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

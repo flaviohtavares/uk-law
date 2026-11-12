@@ -263,10 +263,10 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Health and Social Care Act 2008 (Commencement No.1) Order 2008](../uk-parliament/regulations/2008/2000-2499/2214-the-health-and-social-care-act-2008-commencement-no-1-order-2008.md) *(as originally made)*
 - [The Health and Social Care Act 2008 (Commencement No.2) Order 2008](../uk-parliament/regulations/2008/2000-2499/2497-the-health-and-social-care-act-2008-commencement-no-2-order-2008.md) *(as originally made)*
 - [The Medical Act 1983 (Qualifying Examinations) Order 2008](../uk-parliament/regulations/2008/1000-1499/1037-the-medical-act-1983-qualifying-examinations-order-2008.md) *(as originally made)*
-- [The Medical Profession (Miscellaneous Amendments) Order 2008](../uk-parliament/regulations/2008/3000-3499/3131-the-medical-profession-miscellaneous-amendments-order-2008.md) *(as originally made)*
+- [The Medical Profession (Miscellaneous Amendments) Order 2008](../uk-parliament/regulations/2008/3000-3499/3131-the-medical-profession-miscellaneous-amendments-order-2008.md) *(changes pending)*
 - [The Nursing and Midwifery (Amendment) Order 2008](../uk-parliament/regulations/2008/1000-1499/1485-the-nursing-and-midwifery-amendment-order-2008.md) *(as originally made)*
 - [The Nursing and Midwifery Council (Constitution) Order 2008](../uk-parliament/regulations/2008/2500-2999/2553-the-nursing-and-midwifery-council-constitution-order-2008.md) *(as originally made)*
-- [The Nursing and Midwifery Council (Midwifery and Practice Committees) (Constitution) Rules Order of Council 2008](../uk-parliament/regulations/2008/3000-3499/3148-the-nursing-and-midwifery-council-midwifery-and-practice-committees-constitution.md) *(changes pending)*
+- [The Nursing and Midwifery Council (Midwifery and Practice Committees) (Constitution) Rules Order of Council 2008](../uk-parliament/regulations/2008/3000-3499/3148-the-nursing-and-midwifery-council-midwifery-and-practice-committees-constitution.md)
 - [The Postgraduate Medical Education and Training Board (Fees) Rules Order 2008](../uk-parliament/regulations/2008/0500-0999/554-the-postgraduate-medical-education-and-training-board-fees-rules-order-2008.md) *(as originally made)*
 - [The Royal Pharmaceutical Society of Great Britain (Registration Amendment Rules) Order of Council 2008](../uk-parliament/regulations/2008/1500-1999/1553-the-royal-pharmaceutical-society-of-great-britain-registration-amendment-rules-o.md) *(as originally made)*
 

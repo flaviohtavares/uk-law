@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 20
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '20'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 20
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 20. Declarations provided by academic authorities in respect of fee loans[^c-62fbc36ad4b3eef472a32a0fdc06ed81]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) Subject to paragraph (2), an academic authority must complete a declaration in relation to an application for a fee loan in such form as may be required by the Secretary of State.
 
@@ -49,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^c-62fbc36ad4b3eef472a32a0fdc06ed81]: Commencement: Reg. 20 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-62fbc36ad4b3eef472a32a0fdc06ed81]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2026/858/regulation/20) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)

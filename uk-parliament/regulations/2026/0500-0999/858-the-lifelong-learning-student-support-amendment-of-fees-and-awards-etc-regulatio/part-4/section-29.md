@@ -2,8 +2,8 @@
 title: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 29
 act: The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026
 section: '29'
-status: not-yet-in-force
-text_date: '2026-07-22'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/858/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # The Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026, section 29
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/uksi/2026/858
 >
 > Extent: England, Wales.
 
 ## 29. Repeat study additional entitlement[^c-5c646733f79cc8464025b3393913bf31]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) An eligible student (“**A**”) qualifies for repeat study additional entitlement—
 
@@ -53,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^c-5c646733f79cc8464025b3393913bf31]: Commencement: Reg. 29 in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
+[^c-5c646733f79cc8464025b3393913bf31]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2026/858/regulation/29) in force at 1.9.2026, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/858/regulation/1/1/b)
