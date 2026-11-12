@@ -12,7 +12,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-115 in force.
+114 in force.
 
 **2026**
 
@@ -67,7 +67,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Cyber (Sanctions) (Overseas Territories) (No. 2) Order 2020](../uk-parliament/regulations/2020/1000-1499/1270-the-cyber-sanctions-overseas-territories-no-2-order-2020.md)
 - [The Democratic People’s Republic of Korea (Sanctions) (Overseas Territories) Order 2020](../uk-parliament/regulations/2020/1500-1999/1561-the-democratic-peoples-republic-of-korea-sanctions-overseas-territories-order-20/README.md)
 - [The Democratic Republic of the Congo (Sanctions) (Overseas Territories) Order 2020](../uk-parliament/regulations/2020/1000-1499/1281-the-democratic-republic-of-the-congo-sanctions-overseas-territories-order-2020.md)
-- [The Global Human Rights Sanctions (Overseas Territories) Order 2020](../uk-parliament/regulations/2020/0500-0999/773-the-global-human-rights-sanctions-overseas-territories-order-2020.md) *(changes pending)*
 - [The Guinea (Sanctions) (Overseas Territories) Order 2020](../uk-parliament/regulations/2020/1000-1499/1266-the-guinea-sanctions-overseas-territories-order-2020.md)
 - [The ISIL (Da’esh) and Al-Qaida (United Nations Sanctions) (Overseas Territories) Order 2020](../uk-parliament/regulations/2020/1500-1999/1608-the-isil-daesh-and-al-qaida-united-nations-sanctions-overseas-territories-order.md)
 - [The Iran (Sanctions) (Human Rights) (Overseas Territories) Order 2020](../uk-parliament/regulations/2020/1500-1999/1598-the-iran-sanctions-human-rights-overseas-territories-order-2020.md) *(as originally made)*

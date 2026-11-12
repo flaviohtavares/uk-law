@@ -5,7 +5,7 @@ type: NorthernIrelandStatutoryRule
 category: secondary
 status: revised-with-pending-changes
 made_date: '2008-08-27'
-text_date: '2025-02-28'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2008/355
 pdf_urls:
@@ -19,7 +19,7 @@ summary: ''
 
 # The Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2025-02-28. See https://www.legislation.gov.uk/changes/affected/nisr/2008/355
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2008/355
 >
 > Extent: Northern Ireland.
 
@@ -168,6 +168,7 @@ these Regulations apply only in relation to compensation payments which are made
 - (r) any payment made by the Post Office or the Secretary of State for the purpose of providing compensation or support which is—
   - (i) in connection with the failings of the Horizon system, or
   - (ii) otherwise payable following the judgment in *Bates and Others v Post Office Limited* ((No. 3) “Common Issues”) ;[^c-8629f84ecf621397cfa8084abb440335]
+- (ra)[^c-ecf3cb2217f4eb8fd3baa14dd7905785] any payment that is made under the Mother and Baby Institutions Payment Scheme established by the Irish government under section 5 of the Irish Mother and Baby Institutions Payment Scheme Act 2023;
 - (s)[^c-e01fa61e55ce1659328bacf1f512d50d] any payment that is made under the Lesbian, Gay, Bisexual and Transgender Financial Recognition Scheme administered under the authority of the Secretary of State for Defence.
 
 (3)[^c-0d68a198d0eed93a3d1b7ef252ea945d] In this regulation—
@@ -840,6 +841,8 @@ As these Regulations are made by virtue of, or consequential upon, section 8 of 
 [^c-eadd5246de246963280f8c4b4887a0c0]: Textual amendment: [Reg. 7(q)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/q)[(r)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/r) added (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/97)](https://www.legislation.gov.uk/nisr/2023/97), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/97/regulation/1/1), [10(2)](https://www.legislation.gov.uk/nisr/2023/97/regulation/10/2)
 
 [^c-8629f84ecf621397cfa8084abb440335]: Textual amendment: [Reg. 7(2)(r)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/r): semi-colon substituted for full stop (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/a)
+
+[^c-ecf3cb2217f4eb8fd3baa14dd7905785]: Textual amendment: [Reg. 7(2)(ra)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/ra) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2026/177/regulation/7)
 
 [^c-e01fa61e55ce1659328bacf1f512d50d]: Textual amendment: [Reg. 7(2)(s)](https://www.legislation.gov.uk/nisr/2008/355/regulation/7/2/s) added (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2025/24/regulation/9/b)
 

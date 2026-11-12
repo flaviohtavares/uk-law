@@ -3,7 +3,7 @@ title: Local Government Act 1985, section 73
 act: Local Government Act 1985
 section: '73'
 status: revised-with-pending-changes
-text_date: '2026-04-29'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1985/51/section/73
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Local Government Act 1985, section 73
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
 > Extent: England, Wales.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c-1aacc1f5ff2538ec8f4273488894c723] Each new authority shall make arrangements for the proper administration of its financial affairs and shall secure that one of its officers has responsibility for the administration of those affairs.
+(1)[^c-7f5a7f549083d1b2b62895703ee3819b][^c-1aacc1f5ff2538ec8f4273488894c723] Each new authority shall make arrangements for the proper administration of its financial affairs and shall secure that one of its officers has responsibility for the administration of those affairs.
 
 (2)[^c-c3bc2ed257d4c15539513ec7a63e8506] The reference in this section to a new authority includes a reference to —[^c-6c5cfc06f52e2fed42fdf61f72114995]
 
@@ -35,6 +35,8 @@ summary: ''
 [^c3164921]: Modification: S. 73 modified by [S.I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110), [art. 2(2)](https://www.legislation.gov.uk/uksi/1987/2110/article/2/2), [Sch. 1 para. 7(h)](https://www.legislation.gov.uk/uksi/1987/2110/schedule/1/paragraph/7/h)
 
 [^c3164931]: Modification: S. 73 modified by [S.I. 1989/1815](https://www.legislation.gov.uk/uksi/1989/1815), [art. 2(2)](https://www.legislation.gov.uk/uksi/1989/1815/article/2/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1989/1815/schedule/1/paragraph/9) (as inserted by [S.I. 1990/198](https://www.legislation.gov.uk/uksi/1990/198), [art. 2](https://www.legislation.gov.uk/uksi/1990/198/article/2))
+
+[^c-7f5a7f549083d1b2b62895703ee3819b]: Modification: [S. 73(1)](https://www.legislation.gov.uk/ukpga/1985/51/section/73/1) modified (E.) (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/6/b) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c-1aacc1f5ff2538ec8f4273488894c723]: Textual amendment: S. 73(1): s. 73 renumbered as s. 73(1) (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 61(2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/61/2); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 

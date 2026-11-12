@@ -3,14 +3,14 @@ title: The Employment Tribunals Extension of Jurisdiction (England and Wales) Or
 id: uksi/1994/1623
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1994-07-11'
-text_date: '2020-12-31'
+text_date: '2026-10-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1994/1623
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1994/1623/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1623
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales.
 
@@ -93,8 +93,8 @@ Proceedings on a contract claim may be brought before an employment tribunal by 
 
 Subject to[^c-8eafa2a6451ad16a6b08852b7a3ea5dd] article[^c-9ec0b7d5c2c469c85d1997c4f954a13e][^c-93c0267911b0eb0fed4445a7b3115fbd] 8B, an employment tribunal shall not entertain a complaint in respect of an employee’s contract claim unless it is presented—
 
-- (a) within the period of three months beginning with the effective date of termination of the contract giving rise to the claim, or
-- (b) where there is no effective date of termination, within the period of three months beginning with the last day upon which the employee worked in the employment which has terminated, or
+- (a) within the period of six[^c-aa5b2d1f7930232919a4acd20019b000] months beginning with the effective date of termination of the contract giving rise to the claim, or
+- (b) where there is no effective date of termination, within the period of six[^c-cac3621410a8c8a7c4daddbc18f50e30] months beginning with the last day upon which the employee worked in the employment which has terminated, or
 - (ba)[^c-d92b46771ad4e2cd7c05af0c08638990] where the period within which a complaint must be presented in accordance with paragraph (a) or (b) is extended by regulation 15 of the Employment Act 2002 (Dispute Resolution) Regulations 2004, the period within which the complaint must be presented shall be the extended period rather than the period in paragraph (a) or (b).
 - (c) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented within whichever of those periods is applicable, within such further period as the tribunal considers reasonable.
 
@@ -178,6 +178,10 @@ The Order contains a transitional provision.
 [^c-9ec0b7d5c2c469c85d1997c4f954a13e]: Textual amendment: Word in [art. 7](https://www.legislation.gov.uk/uksi/1994/1623/article/7) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/18/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-93c0267911b0eb0fed4445a7b3115fbd]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1994/1623/article/7) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/11)
+
+[^c-aa5b2d1f7930232919a4acd20019b000]: Textual amendment: Word in [art. 7(a)](https://www.legislation.gov.uk/uksi/1994/1623/article/7/a) substituted (1.10.2026) by [The Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026 (S.I. 2026/759)](https://www.legislation.gov.uk/uksi/2026/759), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/759/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/759/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2026/759/article/3))
+
+[^c-cac3621410a8c8a7c4daddbc18f50e30]: Textual amendment: Word in [art. 7(b)](https://www.legislation.gov.uk/uksi/1994/1623/article/7/b) substituted (1.10.2026) by [The Employment Tribunals Extension of Jurisdiction (England and Wales) (Amendment) Order 2026 (S.I. 2026/759)](https://www.legislation.gov.uk/uksi/2026/759), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/759/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/759/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2026/759/article/3))
 
 [^c-d92b46771ad4e2cd7c05af0c08638990]: Textual amendment: [Art. 7(ba)](https://www.legislation.gov.uk/uksi/1994/1623/article/7/ba) inserted (1.10.2004) by [The Employment Act 2002 (Dispute Resolution) Regulations 2004 (S.I. 2004/752)](https://www.legislation.gov.uk/uksi/2004/752), [regs. 1](https://www.legislation.gov.uk/uksi/2004/752/regulation/1), [17(c)](https://www.legislation.gov.uk/uksi/2004/752/regulation/17/c) (with [reg. 18](https://www.legislation.gov.uk/uksi/2004/752/regulation/18))
 

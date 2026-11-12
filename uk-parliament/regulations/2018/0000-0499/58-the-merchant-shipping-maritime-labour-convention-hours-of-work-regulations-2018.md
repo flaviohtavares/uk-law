@@ -3,16 +3,16 @@ title: The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regula
 id: uksi/2018/58
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2018-01-29'
-text_date: '2026-04-10'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2018/58
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2018/58/pdfs/uksiem_20180058_en.pdf
 - http://www.legislation.gov.uk/uksi/2018/58/pdfs/uksi_20180058_en.pdf
 - http://www.legislation.gov.uk/uksi/2018/58/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-10. See https://www.legislation.gov.uk/changes/affected/uksi/2018/58
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -530,7 +530,7 @@ The MCA must ensure the publication, at least every month, of the information sp
 
 (5) Where on complaint under paragraph (1)(b) an employment tribunal finds that an employer has failed to pay a seafarer in accordance with regulation 15(1)(a) or (b), it must order the employer to pay the seafarer the amount which it finds to be due to the seafarer.
 
-(6) The “complaint period” is the period of three months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a period of annual leave or additional leave extending over more than one day, the date on which it should have been permitted to begin) or, as the case may be, the payment should have been made.
+(6) The “complaint period” is the period of six[^c-9a49d8f0403d1dfa90e9d647a0b1f20e] months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a period of annual leave or additional leave extending over more than one day, the date on which it should have been permitted to begin) or, as the case may be, the payment should have been made.
 
 ## 27. Extension of complaint period to facilitate conciliation before institution of proceedings
 
@@ -858,6 +858,8 @@ To the extent that these Regulations re-enact S.I. 2002/2125, there will be no a
 [^c22919051]: Marginal citation: Cm. 8941.
 
 [^c22919061]: Marginal citation: [Section 145](https://www.legislation.gov.uk/uksi/2018/58/section/145) was amended by the [Criminal Justice Act 2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 36](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36), and the [Criminal Justice and Courts Act 2015 (c.2)](https://www.legislation.gov.uk/ukpga/2015/2), [Schedule 11](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11).
+
+[^c-9a49d8f0403d1dfa90e9d647a0b1f20e]: Textual amendment: Word in [reg. 26(6)](https://www.legislation.gov.uk/uksi/2018/58/regulation/26/6) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/19); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
 [^c22919071]: Marginal citation: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17). Sections 18A to 18C were added by the Enterprise and Regulatory Reform Act (c.24). Sections 18A and 18B were added by Part 2, section 7(1) of that Act. Section 18C was added by paragraph 6 of Schedule 1 to that Act.
 

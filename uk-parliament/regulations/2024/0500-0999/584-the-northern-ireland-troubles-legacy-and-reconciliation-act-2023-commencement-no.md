@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2024-04-30'
-text_date: '2026-04-30'
+text_date: '2026-10-31'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2024/584
 pdf_urls:
@@ -19,7 +19,7 @@ summary: ''
 
 # The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2024
 
-> Text as at 2026-04-30.
+> Text as at 2026-10-31.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -81,7 +81,7 @@ The following provisions of the Northern Ireland Troubles (Legacy and Reconcilia
 (2) Where this regulation applies, the investigating body may prepare or complete the investigation report or do anything subsequent to that—
 
 - (a) on or after 1st May 2024, but
-- (b) no later than 31st October 2026[^c-a251e28f4f4a392579f81cd6cb4fbca1].
+- (b) no later than 31st October 2027[^c-ef52b465ba5ca50efa6e164eebc25620].
 
 ## 4. Transitional provision in relation to criminal enforcement action[^c-a1ea38f39bbd3de42af1c98e068a3a46]
 
@@ -151,6 +151,6 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00002]: Footnote: See section 1 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.
 
-[^c-a251e28f4f4a392579f81cd6cb4fbca1]: Textual amendment: Words in reg. 3(2) substituted (30.4.2026) by [The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/483)](https://www.legislation.gov.uk/uksi/2026/483), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/483/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/483/regulation/2)
+[^c-ef52b465ba5ca50efa6e164eebc25620]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3) substituted (31.10.2026) by [The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment No. 2) Regulations 2026 (S.I. 2026/1140)](https://www.legislation.gov.uk/uksi/2026/1140), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1140/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/1140/regulation/2)
 
 [^c-a1ea38f39bbd3de42af1c98e068a3a46]: Commencement: Reg. 4 in force at made date

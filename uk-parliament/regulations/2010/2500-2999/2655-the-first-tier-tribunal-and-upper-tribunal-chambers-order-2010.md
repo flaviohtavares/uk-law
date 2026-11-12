@@ -3,9 +3,9 @@ title: The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010
 id: uksi/2010/2655
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2010-10-28'
-text_date: '2026-07-30'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2655
 pdf_urls:
@@ -13,7 +13,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/2655/pdfs/uksi_20102655_301114_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/2655/pdfs/uksi_20102655_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/2655/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -21,7 +21,7 @@ summary: ''
 
 # The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-07-30. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2655
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -122,6 +122,7 @@ To the Social Entitlement Chamber are allocated all functions related to appeals
   - (i) appeals under section 11 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 [^c2056635] (appeals against decisions of Her Majesty's Revenue and Customs);
   - (ii) appeals in respect of employer penalties or employer information penalties (as defined in section 63(11) and (12) of the Tax Credits Act 2002 [^c2056636]);
   - (iii) appeals under regulation 28(3) of the Child Trust Funds Regulations 2004 [^c2056637];
+- (iv)[^c-f8e3a257502493f3405a36b0b7f64144] appeals in relation to the exercise by the Secretary of State of functions under Schedule 3B to the Social Security Administration Act 1992 (eligibility verification);
 - (d) regarding saving gateway accounts with the exception of appeals against requirements to account for an amount under regulations made under section 14 of the Saving Gateway Accounts Act 2009 [^c2056638];
 - (e) regarding child trust funds with the exception of appeals against requirements to account for an amount under regulations made under section 22(4) of the Child Trust Funds Act 2004 [^c2056639] in relation to section 13 of that Act;
 - (ea)[^c-6c2824b8332cb4379253dbd3f2845ac3] appealable decisions within the meaning of section 56(3) of the Childcare Payments Act 2014;
@@ -142,6 +143,7 @@ To the Tax Chamber are allocated all functions, except those functions allocated
 - (d) a function of the Compliance Officer for the Independent Parliamentary Standards Authority.
 - (e)[^c-3683f66115a23475bb71e91663c3b08f] a function of the Welsh Revenue Authority.
 - (f)[^c-eb978d683c4b86c86139bb081c1657fd] the exercise by the Gambling Commission of functions under Part 3 of the Finance Act 2022 (economic crime (anti-money laundering) levy).
+- (g)[^c-8493d7c3360c9ba62324911e5e59d744] the exercise by the Secretary of State of functions under Schedule 3B to the Social Security Administration Act 1992 (eligibility verification).
 
 ## 8. Functions of the War Pensions and Armed Forces Compensation Chamber
 
@@ -322,6 +324,8 @@ The Order also contains further new provision as regards allocation. Proceedings
 
 [^c2056637]: Marginal citation: [S.I. 2004/1450](https://www.legislation.gov.uk/uksi/2004/1450). Regulation 28 was amended by paragraph 127 of Schedule 2 to the [Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56).
 
+[^c-f8e3a257502493f3405a36b0b7f64144]: Textual amendment: [Art. 6(c)(iv)](https://www.legislation.gov.uk/uksi/2010/2655/article/6/c/iv) inserted (5.11.2026) by [The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2026 (S.I. 2026/1083)](https://www.legislation.gov.uk/uksi/2026/1083), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1083/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/1083/article/2/2)
+
 [^c2056638]: Marginal citation: [2009 c. 8](https://www.legislation.gov.uk/ukpga/2009/8)
 
 [^c2056639]: Marginal citation: [2004 c. 6](https://www.legislation.gov.uk/ukpga/2004/6)
@@ -341,6 +345,8 @@ The Order also contains further new provision as regards allocation. Proceedings
 [^c-3683f66115a23475bb71e91663c3b08f]: Textual amendment: [Art. 7(e)](https://www.legislation.gov.uk/uksi/2010/2655/article/7/e) inserted (21.12.2017) by [The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2017 (S.I. 2017/1169)](https://www.legislation.gov.uk/uksi/2017/1169), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1169/article/1), [4](https://www.legislation.gov.uk/uksi/2017/1169/article/4)
 
 [^c-eb978d683c4b86c86139bb081c1657fd]: Textual amendment: [Art. 7(f)](https://www.legislation.gov.uk/uksi/2010/2655/article/7/f) inserted (6.4.2024 immediately after [S.I. 2023/1220](https://www.legislation.gov.uk/uksi/2023/1220) comes into force) by The First-tier [Tribunal and Upper Tribunal (Chambers) (Amendment) Order 2024 (S.I. 2024/376)](https://www.legislation.gov.uk/uksi/2024/376), [arts. 1](https://www.legislation.gov.uk/uksi/2024/376/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/376/article/2/3)
+
+[^c-8493d7c3360c9ba62324911e5e59d744]: Textual amendment: [Art. 7(g)](https://www.legislation.gov.uk/uksi/2010/2655/article/7/g) inserted (5.11.2026) by [The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2026 (S.I. 2026/1083)](https://www.legislation.gov.uk/uksi/2026/1083), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1083/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/1083/article/2/3)
 
 [^c2056642]: Marginal citation: [1919 c. 53](https://www.legislation.gov.uk/ukpga/1919/53)
 

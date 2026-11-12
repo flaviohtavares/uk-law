@@ -3,15 +3,15 @@ title: The Civil Aviation (Working Time) Regulations 2004
 id: uksi/2004/756
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2004-03-11'
-text_date: '2016-08-25'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2004/756
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2004/756/pdfs/uksi_20040756_en.pdf
 - http://www.legislation.gov.uk/uksi/2004/756/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Civil Aviation (Working Time) Regulations 2004
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2016-08-25. See https://www.legislation.gov.uk/changes/affected/uksi/2004/756
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -253,12 +253,12 @@ Proceedings for an offence shall not be instituted in England or Wales except by
 
 (2) An employment tribunal shall not consider a complaint under this regulation unless it is presented—
 
-- (a) before the end of the period of three months beginning with the date on which it is alleged—
+- (a) before the end of the period of six[^c-4bd091ab8a0387f181447c6cfcb9f875] months beginning with the date on which it is alleged—
   - (i) that the exercise of the right should have been permitted (or in the case of a rest period or annual leave extending over more than one day, the date on which it should have been permitted to begin), or
   - (ii) the payment under regulation 4(2)(b) should have been made;
 
   as the case may be; or
-- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^c-2f241c5164a3b135790df5a8b563e077] months.
 
 *Extent: E+W+S*
 
@@ -518,6 +518,10 @@ A transposition note has been prepared and copies may be obtained from the Depar
 [^c-3c8501a7590e04bff55a1c18efe497fa]: Textual amendment: Reg. 9A inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/5)
 
 [^c-eadd31f40006049ef1a18dc3e2aa7f41]: Textual amendment: Words in reg. 10(2) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 3(b)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/3/b) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+
+[^c-4bd091ab8a0387f181447c6cfcb9f875]: Textual amendment: Word in [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2004/756/regulation/18/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 11(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/11/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^c-2f241c5164a3b135790df5a8b563e077]: Textual amendment: Word in [reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/2004/756/regulation/18/2/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 11(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/11/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
 [^c-347d984a283f49b271471ff4915c060d]: Textual amendment: Reg. 18(2A) inserted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/31)
 

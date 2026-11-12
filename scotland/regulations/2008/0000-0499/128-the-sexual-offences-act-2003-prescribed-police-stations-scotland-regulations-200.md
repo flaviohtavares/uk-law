@@ -3,16 +3,16 @@ title: The Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regu
 id: ssi/2008/128
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-19'
-text_date: null
-extent: null
+text_date: '2008-03-19'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/128
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/128/pdfs/ssien_20080128_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/128/pdfs/ssi_20080128_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/128/made/data.pdf
-pending_changes: 6
+- http://www.legislation.gov.uk/ssi/2008/128/data.pdf
+pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2008-03-19. See https://www.legislation.gov.uk/changes/affected/ssi/2008/128
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 128
 
@@ -42,17 +48,17 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 87(1)(a) of the Sexual Offences Act 2003[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-6eb1260b7765d24d450213cf07242c0c]
 
 (1) These Regulations may be cited as the Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regulations 2008 and come into force on 6th May 2008.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Prescribed Police Stations
+## 2. Prescribed Police Stations[^c-27e80388e1f56d7d0bb172406c47fb87]
 
 The police stations listed in Schedule 1 to these Regulations are prescribed for the purposes of section 87(1)(a) (method of notification and related matters) of the Sexual Offences Act 2003.
 
-## 3. Revocation
+## 3. Revocation[^c-32d3995af6fec101eae2985b726b9378]
 
 The Regulations specified in Schedule 2 to these Regulations are hereby revoked.
 
@@ -66,7 +72,7 @@ Edinburgh
 
 19th March 2008
 
-## SCHEDULE 1 — LIST OF POLICE STATIONS
+## SCHEDULE 1 — LIST OF POLICE STATIONS[^c-4fe49f37508cb3956aaf5b97214ffa63]
 
 Regulation 2
 
@@ -108,7 +114,7 @@ Regulation 2
 </tbody>
 </table>
 
-## SCHEDULE 2 — REVOCATIONS
+## SCHEDULE 2 — REVOCATIONS[^c-6f6c3a8f15b9e7e4bf902b5349cfd979]
 
 Regulation 3
 
@@ -129,3 +135,13 @@ These Regulations revoke the Sexual Offences Act 2003 (Prescribed Police Station
 ## Annotations
 
 [^f00001]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42). The functions of the Secretary of State were, so far as exercisable within devolved competence, transferred to the Scottish Ministers by virtue of section 142(6) of the Sexual Offences Act 2003 and section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c-6eb1260b7765d24d450213cf07242c0c]: Commencement: Reg. 1 in force at 6.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/128/regulation/1/1)
+
+[^c-27e80388e1f56d7d0bb172406c47fb87]: Commencement: Reg. 2 in force at 6.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/128/regulation/1/1)
+
+[^c-32d3995af6fec101eae2985b726b9378]: Commencement: Reg. 3 in force at 6.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/128/regulation/1/1)
+
+[^c-4fe49f37508cb3956aaf5b97214ffa63]: Commencement: Sch. 1 in force at 6.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/128/regulation/1/1)
+
+[^c-6f6c3a8f15b9e7e4bf902b5349cfd979]: Commencement: Sch. 2 in force at 6.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/128/regulation/1/1)

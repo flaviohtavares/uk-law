@@ -2,8 +2,8 @@
 title: The Tribunal Procedure (Upper Tribunal) Rules 2008, section 48
 act: The Tribunal Procedure (Upper Tribunal) Rules 2008
 section: '48'
-status: revised-with-pending-changes
-text_date: '2026-09-30'
+status: revised
+text_date: '2026-11-06'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2008/2698/section/48
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Tribunal Procedure (Upper Tribunal) Rules 2008, section 48
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
+> Text as at 2026-11-06.
 
 ## 48. Power to treat an application as a different type of application[^c-9d5694abc9620869e839835f0ddd3ab0]
 

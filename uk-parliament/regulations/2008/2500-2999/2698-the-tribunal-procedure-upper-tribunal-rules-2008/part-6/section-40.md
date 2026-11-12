@@ -2,8 +2,8 @@
 title: The Tribunal Procedure (Upper Tribunal) Rules 2008, section 40
 act: The Tribunal Procedure (Upper Tribunal) Rules 2008
 section: '40'
-status: revised-with-pending-changes
-text_date: '2026-09-30'
+status: revised
+text_date: '2026-11-06'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2008/2698/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,22 +12,15 @@ summary: ''
 
 # The Tribunal Procedure (Upper Tribunal) Rules 2008, section 40
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
+> Text as at 2026-11-06.
 
 ## 40. Decisions
 
 (1) The Upper Tribunal may give a decision orally at a hearing.
 
-(1A)[^c-11c5a9531733c706ae1c1fe22ea47bfa] Subject to paragraph (1B), in immigration judicial review proceedings, a decision which disposes of proceedings shall be given at a hearing.
+(1A)[^c-d0f465e0983909121601d75b0cbc1e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B) Paragraph (1A) does not affect the power of the Upper Tribunal to—
-
-- (a) strike out a party’s case, pursuant to rule 8(1)(b) or 8(2);
-- (b) consent to withdrawal, pursuant to rule 17;
-- (c) determine an application for permission to bring judicial review proceedings, pursuant to rule 30; or
-- (d) make a consent order disposing of proceedings, pursuant to rule 39,
-
-without a hearing.
+(1B)[^c-c532b9cc25f309c4fb56c38dee8dd40c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Except where[^c-6584d2915fc511461534ca1ef82ad5db] rule 22 (decision in relation to permission to appeal)[^c-b44d8bd823144a3b84e9f0ba8b262d34] [^c-2fa731fe59f00062d0521085ce9a896b]... applies, [^c-a9a690784cbef162b2fbb67120008912]... the Upper Tribunal must provide to each party as soon as reasonably practicable after making a decision (other than a decision under Part 7) which finally disposes of all issues in the proceedings or of a preliminary issue dealt with following a direction under rule 5(3)(e)[^c-f5f01c64340028302406237bdb1df967]—
 
@@ -45,7 +38,9 @@ without a hearing.
 
 ## Annotations
 
-[^c-11c5a9531733c706ae1c1fe22ea47bfa]: Textual amendment: Rule 40(1A)(1B) inserted (1.11.2013) by [The Tribunal Procedure (Amendment No. 4) Rules 2013 (S.I. 2013/2067)](https://www.legislation.gov.uk/uksi/2013/2067), [rules 1](https://www.legislation.gov.uk/uksi/2013/2067/article/1), [16](https://www.legislation.gov.uk/uksi/2013/2067/rule/16)
+[^c-d0f465e0983909121601d75b0cbc1e07]: Textual amendment: [Rule 40(1A)](https://www.legislation.gov.uk/uksi/2008/2698/rule/40/1A) omitted (6.11.2026) by virtue of [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2026 (S.I. 2026/1084)](https://www.legislation.gov.uk/uksi/2026/1084), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/1084/rule/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/1084/rule/2/5)
+
+[^c-c532b9cc25f309c4fb56c38dee8dd40c]: Textual amendment: [Rule 40(1B)](https://www.legislation.gov.uk/uksi/2008/2698/rule/40/1B) omitted (6.11.2026) by virtue of [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2026 (S.I. 2026/1084)](https://www.legislation.gov.uk/uksi/2026/1084), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/1084/rule/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/1084/rule/2/5)
 
 [^c-6584d2915fc511461534ca1ef82ad5db]: Textual amendment: Words in rule 40(2) inserted (15.2.2010) by [The Tribunal Procedure (Amendment No. 2) Rules 2010 (S.I. 2010/44)](https://www.legislation.gov.uk/uksi/2010/44), [rules 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1), [19](https://www.legislation.gov.uk/uksi/2010/44/rule/19)
 

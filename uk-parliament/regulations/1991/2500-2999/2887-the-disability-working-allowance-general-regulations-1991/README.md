@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '1991-12-18'
-text_date: '2001-08-07'
+text_date: '2001-11-13'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887
 pdf_urls:
@@ -19,7 +19,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-11-13. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 

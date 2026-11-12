@@ -3,7 +3,7 @@ title: Health and Social Care (Wales) Act 2025
 id: asc/2025/1
 type: WelshParliamentAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '2025-03-24'
 text_date: '2026-10-30'
 extent: E+W
@@ -16,7 +16,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/asc/2025/1/pdfs/asc_20250001_we.pdf
 - http://www.legislation.gov.uk/asc/2025/1/pdfs/asc_20250001_en.pdf
 - http://www.legislation.gov.uk/asc/2025/1/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -24,7 +24,7 @@ summary: ''
 
 # Health and Social Care (Wales) Act 2025
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/asc/2025/1
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales.
 

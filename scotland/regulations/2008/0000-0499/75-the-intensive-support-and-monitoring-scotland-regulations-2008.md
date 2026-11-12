@@ -3,15 +3,15 @@ title: The Intensive Support and Monitoring (Scotland) Regulations 2008
 id: ssi/2008/75
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-04'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/75
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/75/pdfs/ssien_20080075_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/75/pdfs/ssi_20080075_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/75/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/75/data.pdf
 pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Intensive Support and Monitoring (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/75
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 75
 
@@ -42,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 17, 31, 70(12), (13), (14) and (17) and 103 of the Children (Scotland) Act 1995[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and revocation
+## 1. Citation, commencement and revocation[^c-0448900295c774f1ea0b2fb64fce5a10]
 
 (1) These Regulations may be cited as the Intensive Support and Monitoring (Scotland) Regulations 2008 and come into force on 1st April 2008.
 
 (2) The Intensive Support and Monitoring (Scotland) Regulations 2006[^f00002] are revoked.
 
-## 2. Interpretation
+## 2. Interpretation[^c-283a54f2998082537472cc81ea9e8296]
 
 In these Regulations–
 
@@ -62,11 +66,11 @@ In these Regulations–
 - “responsible local authority officer” means an officer of the relevant local authority authorised by it in relation to the arrangements concerned with a supervision requirement with a movement restriction condition, and a child’s plan in terms of these Regulations; and
 - “supervision requirement” has the same meaning as in section 93(1) of the Act.
 
-## 3. Prescribed local government areas
+## 3. Prescribed local government areas[^c-fa087a23b1a4027077d586f5b9db1825]
 
 For the purposes of section 70(17) of the Act, all local government areas are prescribed.
 
-## 4. Arrangements for monitoring compliance with a movement restriction condition: child’s plan
+## 4. Arrangements for monitoring compliance with a movement restriction condition: child’s plan[^c-9d21aa637ace9fab6b2e7fbed51351ad]
 
 (1) The arrangements for monitoring compliance with a movement restriction condition imposed upon a child within a supervision requirement shall include the preparation by the relevant local authority of a child’s plan, as provided for in paragraphs (2) to (4), which plan shall be agreed, so far as is reasonably practicable, between the relevant local authority, the child, and any relevant person.
 
@@ -82,7 +86,7 @@ For the purposes of section 70(17) of the Act, all local government areas are pr
 
 (5) The relevant local authority shall provide the Principal Reporter with a copy of the child’s plan upon its completion, together with any revised version thereof which may from time to time be prepared by the authority, and a brief report setting out the circumstances of, and the reasons for, such revisal.
 
-## 5. Designation and functions of persons and arrangements for monitoring compliance with movement restriction condition
+## 5. Designation and functions of persons and arrangements for monitoring compliance with movement restriction condition[^c-da2006dd291d1134d63e0dd91bf53d45]
 
 (1) Where a children’s hearing imposes upon a child, within a supervision requirement, a movement restriction condition, the hearing shall designate–
 
@@ -95,13 +99,13 @@ For the purposes of section 70(17) of the Act, all local government areas are pr
 - (a) monitor the child’s compliance with all of the conditions contained in the supervision requirement, including their participation, progress and co operation in relation to the child’s plan; and
 - (b) review, at no more than weekly intervals, the child’s compliance with the matters referred to in paragraph 2(a), in conjunction with the child, and having regard to such other information as may be obtained by the designated person from any relevant person, and any provider of services identified in the child’s plan.
 
-## 6. Variation of designation
+## 6. Variation of designation[^c-e4531abbc47643db34af0aab9eddc24b]
 
 (1) A children’s hearing which has designated a person to monitor compliance with a movement restriction condition imposed within a supervision requirement shall, where that person is no longer within the provision made under regulation 5, vary the designation accordingly.
 
 (2) Where, in terms of paragraph (1), a children’s hearing varies the designation, it shall also, at the same time, notify the child in respect of whom the movement restriction condition was made of that variation, together with such other persons including any provider of services as may be affected by that variation.
 
-## 7. Supervision requirement with movement restriction condition: prescribed conditions
+## 7. Supervision requirement with movement restriction condition: prescribed conditions[^c-4d0d1b1a5ec10a49f08b45f0724d9185]
 
 Where a children’s hearing imposes upon a child, within a supervision requirement, a movement restriction condition, the following are the prescribed conditions for the purposes of section 70(12) of the Act–
 
@@ -114,7 +118,7 @@ Where a children’s hearing imposes upon a child, within a supervision requirem
 - (g) any contingency arrangements relative to paragraphs (a) and (b) which the children’s hearing considers necessary to specify when imposing a movement restriction condition; and
 - (h) any planned respite care arrangements for the child which the children’s hearing considers necessary to specify when imposing a movement restriction condition.
 
-## 8. Methods of monitoring compliance with movement restriction condition
+## 8. Methods of monitoring compliance with movement restriction condition[^c-985daac598ac26273a15ca6432f3b0b7]
 
 The following methods of monitoring compliance of a child with the requirements of a movement restriction condition are prescribed for the purposes of section 70(14)(a) of the Act, and may be specified in the supervision requirement–
 
@@ -123,7 +127,7 @@ The following methods of monitoring compliance of a child with the requirements 
 
 but the method of monitoring referred to in paragraph (b) shall only be used if it is not reasonably practicable to use the method described in paragraph (a).
 
-## 9. Specified devices which may be used for the purpose of monitoring compliance with requirements of a movement restriction condition
+## 9. Specified devices which may be used for the purpose of monitoring compliance with requirements of a movement restriction condition[^c-acc9e2c6ee5d7141754b432d9835966f]
 
 The devices listed in the Schedule to these Regulations are specified for the purposes of section 70(14)(b) of the Act, and may be used for the purpose of monitoring the compliance of a child with the requirements of a movement restriction condition.
 
@@ -137,7 +141,7 @@ Edinburgh
 
 4th March 2008
 
-## SCHEDULE — SPECIFIED DEVICES
+## SCHEDULE — SPECIFIED DEVICES[^c-bc161add4f1332910db6ac233778391d]
 
 Regulation 9
 
@@ -170,6 +174,26 @@ Regulation 9 and the Schedule specify the devices which may be used for monitori
 
 [^f00001]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36); the functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46); section 17 is prospectively amended by schedule 2, paragraph 9 of the [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4); sections 70(12), (13), (14) and (17) were inserted by the [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8) section 135; see section 103(2) for a definition of “prescribed”.
 
+[^c-0448900295c774f1ea0b2fb64fce5a10]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)
+
 [^f00002]: Footnote: [S.S.I. 2006/15](https://www.legislation.gov.uk/ssi/2006/15).
 
+[^c-283a54f2998082537472cc81ea9e8296]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)
+
 [^f00003]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39); section 2 was amended by Schedule 22, paragraph 232(1) of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c-fa087a23b1a4027077d586f5b9db1825]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)
+
+[^c-9d21aa637ace9fab6b2e7fbed51351ad]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)
+
+[^c-da2006dd291d1134d63e0dd91bf53d45]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)
+
+[^c-e4531abbc47643db34af0aab9eddc24b]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)
+
+[^c-4d0d1b1a5ec10a49f08b45f0724d9185]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)
+
+[^c-985daac598ac26273a15ca6432f3b0b7]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)
+
+[^c-acc9e2c6ee5d7141754b432d9835966f]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)
+
+[^c-bc161add4f1332910db6ac233778391d]: Commencement: Sch. in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/75/regulation/1/1)

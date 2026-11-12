@@ -3,15 +3,15 @@ title: The Valuation and Community Charge Tribunals Regulations 1989
 id: uksi/1989/439
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1989-03-12'
-text_date: null
-extent: null
+text_date: '1989-04-07'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1989/439
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1989/439/pdfs/uksi_19890439_en.pdf
-- http://www.legislation.gov.uk/uksi/1989/439/made/data.pdf
-pending_changes: 152
+- http://www.legislation.gov.uk/uksi/1989/439/data.pdf
+pending_changes: 187
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Valuation and Community Charge Tribunals Regulations 1989
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (187).** Text as at 1989-04-07. See https://www.legislation.gov.uk/changes/affected/uksi/1989/439
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 1989 No. 439
 
@@ -49,11 +55,11 @@ The Secretary of State for the Environment as respects England and the Secretary
 
 ## PART I — general
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-15ea0144d315dab4cbacc1c3f2b72471]
 
 These Regulations may be cited as the Valuation and Community Charge Tribunals Regulations 1989 and shall come into force for the purposes of regulations 4 to 8 and 11 on 7th April 1989, and for all other purposes on 1st May 1989.
 
-### 2. Interpretation
+### 2. Interpretation[^c-e03568e7c987422b9764052c77f4b973]
 
 (1) In these Regulations–
 
@@ -75,11 +81,11 @@ These Regulations may be cited as the Valuation and Community Charge Tribunals R
 
 ## PART II — establishment of tribunals
 
-### 3. Establishment of tribunals
+### 3. Establishment of tribunals[^c-1f589a9476f060de1b6ad74b73a5eb9c]
 
 On 1st May 1989 there shall be established a valuation and community charge tribunal for each of the areas ascertained in accordance with column 1 of Schedule 1; and each tribunal shall be known by the name ascertained in accordance with column 2 with the addition of the words “Valuation and Community Charge Tribunal”.
 
-### 4. Membership
+### 4. Membership[^c-69fb3f478ef9d8611660652b178486b1]
 
 (1) The Secretary of State shall determine the number of members of each tribunal, which where there is more than one appointing body provided in relation to that tribunal under paragraph (2) shall be a multiple of the number of those bodies.
 
@@ -94,7 +100,7 @@ On 1st May 1989 there shall be established a valuation and community charge trib
 
 (5) A person who becomes a member as provided by paragraph (4) shall be treated for the purposes of these Regulations as having been appointed by the body which appointed him a member of the local valuation panel.
 
-### 5. Appointment of members
+### 5. Appointment of members[^c-a824545c2d3ab8ec6da2ae9675adadbb]
 
 (1) Where at the expiry of one week from the operative date or three months from a vacancy occurring, as the case may be, an appointing body has failed to make an appointment in accordance with regulation 4, that appointment may be made by the Secretary of State after consultation with the president or, before the first appointment of a president, with the chairman of the local valuation panel for the area of the tribunal.
 
@@ -102,7 +108,7 @@ On 1st May 1989 there shall be established a valuation and community charge trib
 
 (3) Paragraph (2) shall not apply in relation to the appointment of any person who immediately before the operative date was a member of a local valuation panel; and shall not be construed as affecting the validity of the appointment of a member who becomes a member of a charging authority after his appointment takes effect.
 
-### 6. Duration of membership
+### 6. Duration of membership[^c-3eaa4947c732611c4ef6a53495238efd]
 
 (1) Each appointment of a member shall have effect for such period not exceeding six years as the body or person making the appointment may specify after consultation with the president or, before the first appointment of a president, with the chairman of the local valuation panel for the area of the tribunal.
 
@@ -119,7 +125,7 @@ On 1st May 1989 there shall be established a valuation and community charge trib
 
 (4) Where a determination under regulation 4(1) reduces the number of members of a tribunal, the member or members whose retirement is to effect the reduction shall, subject to paragraph (3), be determined by the appointing body or bodies.
 
-### 7. The president
+### 7. The president[^c-9b33a1da17c9c66ed2b7e52056bb12ad]
 
 (1) Within the prescribed period, the members of each tribunal shall in accordance with the following provisions of this regulation appoint a person to be president of the tribunal.
 
@@ -148,7 +154,7 @@ On 1st May 1989 there shall be established a valuation and community charge trib
 
 (11) In this regulation, “the prescribed period” means three weeks beginning with the operative date, or three months beginning with a vacancy occurring in the office of president, as the case may be; and the validity of any election shall not be affected by there being a vacancy among the members of a tribunal.
 
-### 8. Chairmen
+### 8. Chairmen[^c-c17aa684f07aee2e216a64be62a361be]
 
 (1) The number of members of a tribunal to be appointed to the position of chairman shall be stated by the Secretary of State.
 
@@ -186,7 +192,7 @@ On 1st May 1989 there shall be established a valuation and community charge trib
 - “the prescribed period” means three weeks beginning with the operative date, or three months beginning with a vacancy occurring among the stated number, as the case may be; and
 - “the stated number” means the number stated by the Secretary of State in pursuance of paragraph (1).
 
-### 9. Disqualification from membership
+### 9. Disqualification from membership[^c-3c79e618e4a4136606dba722e400b854]
 
 (1) A person shall be disqualified from being appointed or continuing to be a member of a tribunal if he–
 
@@ -208,13 +214,13 @@ On 1st May 1989 there shall be established a valuation and community charge trib
 
 (4) For the purposes of paragraph (1)(c), the ordinary date on which the period allowed for making appeal from a conviction expires, or, if such an appeal is made, the date on which it is finally disposed of or abandoned or fails by reason of non-prosecution, shall be deemed to be the date of the conviction.
 
-### 10. Allowances
+### 10. Allowances[^c-ede3a96fb2f4d287688e824fbe26d9b7]
 
 Allowances to members in respect of travelling, subsistence and financial loss shall be payable to members as provided in Schedule 2.
 
 ## PART III — administration
 
-### 11. Staff
+### 11. Staff[^c-ef36b71a6071226d4a5259ba7acea570]
 
 (1) Each tribunal shall appoint a clerk of the tribunal, and may appoint other employees.
 
@@ -226,7 +232,7 @@ Allowances to members in respect of travelling, subsistence and financial loss s
 
 (5) No determination under paragraph (4) shall be valid unless made with the approval of the Secretary of State given with the Treasury’s consent.
 
-### 12. Administration
+### 12. Administration[^c-4131185883b19b8ad369daf606e00fa4]
 
 (1) The functions of the tribunal under regulation 11 may be performed on its behalf by two or more of its members, who shall, subject to paragraph (2), include the president.
 
@@ -236,11 +242,11 @@ Allowances to members in respect of travelling, subsistence and financial loss s
 
 (4) In respect of any payment under Schedule 2, each tribunal shall keep a record of the name of the recipient and the amount and reason for the payment, and shall permit any person authorised by the Secretary of State to inspect and make copies of such records.
 
-### 13. Accommodation and equipment
+### 13. Accommodation and equipment[^c-aeca3e277a3ffd3c31e3682a6f2fc7e0]
 
 The tribunal shall maintain a permanent office; and the clerk of the tribunal shall have the function on behalf of the tribunal of making such arrangements as shall secure that it has such other accommodation, and such secretarial and other equipment, as is sufficient for the performance of its functions.
 
-### 14. Use of public rooms
+### 14. Use of public rooms[^c-e0cd5ae4c571dee51e3832b13829728a]
 
 (1) The president or clerk of a tribunal may request the permission of a relevant council the whole or any part of whose area is within the area of the tribunal for the use of any premises belonging to that council by the tribunal or its members, clerk or employees, on such days as may be specified in the request.
 
@@ -250,7 +256,7 @@ The tribunal shall maintain a permanent office; and the clerk of the tribunal sh
 
 ## PART IV — community charge appeals
 
-### 15. Interpretation
+### 15. Interpretation[^c-38ecee63905197d76a890bd054ee74b1]
 
 In this Part–
 
@@ -261,7 +267,7 @@ In this Part–
 
 and any reference to a party to an appeal includes the appellant and any person entitled in pursuance of these Regulations to be served with a copy of the appellant’s notice of appeal.
 
-### 16. Jurisdiction
+### 16. Jurisdiction[^c-3de84d8f12a713a8966f5394d977249e]
 
 (1) Subject to the provisions of this regulation, an appeal shall be dealt with by the tribunal established for the area of the charging authority or registration officer whose decision is the subject matter of the appeal.
 
@@ -275,7 +281,7 @@ the appeals shall be dealt with by such one of those tribunals as he may choose.
 
 (3) Where the appellant is a member of the tribunal by which, in pursuance of any provision of this regulation, his appeal would fall to be dealt with, it shall not be dealt with by that tribunal but by such other tribunal as may be appointed for the purpose by the Secretary of State.
 
-### 17. Time limits
+### 17. Time limits[^c-1d5867e65f9e7a0e0a953bbe99adb1a4]
 
 (1) An appeal by a person who is aggrieved as mentioned in section 24(4)(a) or (b) shall be dismissed unless it is initiated in accordance with these Regulations not later than the expiry of two months beginning with the day on which the authority or, as the case may be, the registration officer notified him in accordance with that subsection that his grievance was believed not to be well founded, or that steps had been taken to deal with the grievance, as the case may be.
 
@@ -283,7 +289,7 @@ the appeals shall be dealt with by such one of those tribunals as he may choose.
 
 (3) Notwithstanding paragraphs (1) and (2), the president may authorise an appeal to be entertained where he is satisfied that the failure of the person aggrieved to initiate the appeal as provided by this regulation has arisen by reason of circumstances beyond that person’s control.
 
-### 18. Initiating an appeal
+### 18. Initiating an appeal[^c-869ef1df787e4df5ee7a5bfc8c9912c7]
 
 (1) An appeal shall be initiated by serving on the clerk of the tribunal having jurisdiction in relation to the appeal a notice in writing (a “notice of appeal”) containing the following information–
 
@@ -293,15 +299,15 @@ the appeals shall be dealt with by such one of those tribunals as he may choose.
 
 (2) The clerk shall notify the appellant that he has received the notice of appeal, and serve a copy of that notice on the charging authority or registration officer whose decision or action is the subject of the appeal, and any other charging authority or registration officer appearing to him to be concerned.
 
-### 19. Arrangement for appeals
+### 19. Arrangement for appeals[^c-1144eaf5a4e570b573bc1c4b6b536828]
 
 Subject to the provisions of this Part, it shall be the duty of the president to secure that arrangements are made for appeals initiated in pursuance of regulation 18 to be determined in accordance with the following provisions of these Regulations.
 
-### 20. Withdrawal
+### 20. Withdrawal[^c-1ead45ba4d70ae44fff79d18b6ee491e]
 
 Where notice in writing to that effect is given to the clerk before the commencement of a hearing or of consideration of written representations, an appeal may be withdrawn.
 
-### 21. Disposal by written representations
+### 21. Disposal by written representations[^c-278cb43ee7771e72c452dea61f01356b]
 
 (1) An appeal may be disposed of on the basis of written representations if the following conditions are satisfied–
 
@@ -314,7 +320,7 @@ Where notice in writing to that effect is given to the clerk before the commence
 
 (4) The tribunal may if it thinks fit require any party to furnish in writing further particulars of the grounds relied on and of any relevant facts or contentions.
 
-### 22. Notice of hearing
+### 22. Notice of hearing[^c-551a24c2afd2b9883e3eaff1465000a5]
 
 (1) Where the appeal is to be disposed of on the basis of a hearing, the clerk shall, not less than 21 days before the date in question, serve on the parties notice of the date, time and place appointed for the hearing.
 
@@ -324,7 +330,7 @@ Where notice in writing to that effect is given to the clerk before the commence
 
 (4) In this regulation “excepted register entry” means any entry on the community charges register in relation to which, in pursuance of regulations under paragraph 17 of Schedule 2 to the Act, the registration officer is under no duty to include the name of the person who is the subject of the entry in the extract which is to be compiled from the information in the register.
 
-### 23. Disqualification from participating
+### 23. Disqualification from participating[^c-5d071221b86c4ab57b9b0cf2170ac455]
 
 (1) A person shall be disqualified from participating in the hearing or determination of, or acting as clerk or officer of a tribunal in relation to, an appeal if he is a member of a charging authority–
 
@@ -335,11 +341,11 @@ Where notice in writing to that effect is given to the clerk before the commence
 
 (3) A person shall not otherwise be disqualified from acting in any capacity in relation to an appeal by reason only of the fact that he is a member of an authority which derives revenue directly or indirectly from charges which may be affected by the exercise of his functions.
 
-### 24. Representation at the hearing
+### 24. Representation at the hearing[^c-0cf63fd108dcc193d15d8c691a043c7c]
 
 Any party to an appeal which is to be decided at a hearing may appear in person (with assistance from any person if he wishes), by counsel or solicitor, or any other representative (other than a person who is a member or an employee of the tribunal).
 
-### 25. Conduct of the hearing
+### 25. Conduct of the hearing[^c-69fc27386203e4de0f2e229065aff97f]
 
 (1) Subject to paragraph (2), a tribunal’s function of hearing or determining an appeal shall be discharged by three members of the tribunal who shall include at least one chairman; and a chairman shall preside.
 
@@ -355,7 +361,7 @@ Any party to an appeal which is to be decided at a hearing may appear in person 
 
 (7) Subject to any provision of this Part, the tribunal shall conduct the hearing in such manner as it considers most suitable to the clarification of the issues before it and generally to the just handling of the proceedings; it shall so far as appears to it appropriate seek to avoid formality in its proceedings and it shall not be bound by any enactment or rule of law relating to the admissibility of evidence in proceedings before courts of law.
 
-### 26. Evidence: general
+### 26. Evidence: general[^c-5b5fe8c30e869a444ec1583b207e608a]
 
 (1) This regulation applies to information supplied in pursuance of regulations under any of paragraphs 6 to 10 and 13 to 15 of Schedule 2 to the Act.
 
@@ -371,11 +377,11 @@ Any party to an appeal which is to be decided at a hearing may appear in person 
 
 (4) In this regulation “relevant proceedings” means any proceedings on or in consequence of an appeal, and any proceedings on or in consequence of a reference to arbitration under regulation 33.
 
-### 27. Evidence of registers
+### 27. Evidence of registers[^c-75f2194addc8617c29774133323a7d12]
 
 An extract from a community charges register may be proved by the production of a copy of the relevant part of it purporting to be certified to be a true copy by the community charges registration officer.
 
-### 28. Decisions on appeals
+### 28. Decisions on appeals[^c-da87b1b5610a67a07f2341d65babb7a7]
 
 (1) An appeal shall be decided by a majority of members participating; and where it falls to be disposed of by two members and they are unable to agree as to a decision, it shall be remitted by the clerk to be decided by a tribunal consisting of different members.
 
@@ -383,7 +389,7 @@ An extract from a community charges register may be proved by the production of 
 
 (3) Where the decision is given in writing the decision and the reasons for the decision shall as soon as is reasonably practicable be notified in writing to the parties.
 
-### 29. Orders
+### 29. Orders[^c-97cf4db8b0d0552711dd4f68ddf5251c]
 
 (1) On or after deciding an appeal the tribunal may in consequence of the decision by order require–
 
@@ -395,7 +401,7 @@ An extract from a community charges register may be proved by the production of 
 
 (2) An order may require any matter ancillary to its subject-matter to be attended to.
 
-### 30. Records of decisions etc.
+### 30. Records of decisions etc.[^c-8ad6cd67e82dd89acd89927322e75d89]
 
 (1) It shall be the duty of the clerk to make arrangements for each decision and each order made in pursuance of regulation 29 to be recorded, and the record shall include the particulars specified in Schedule 3.
 
@@ -411,7 +417,7 @@ An extract from a community charges register may be proved by the production of 
 
 (7) The production in any proceedings in any court of law of a document purporting to be certified by the clerk of a tribunal to be a true copy of a record or decision of that tribunal shall, unless the contrary is proved, be sufficient evidence of the document and of the facts it records.
 
-### 31. Review of decisions
+### 31. Review of decisions[^c-179a1d6708597d4c562d661a9401cc50]
 
 (1) A tribunal constituted as provided in paragraph (2) shall have power on written application by a party to review and to revoke, vary or set aside by certificate under the hand of the presiding member any decision on the grounds that–
 
@@ -424,7 +430,7 @@ An extract from a community charges register may be proved by the production of 
 
 (3) If a tribunal in pursuance of this regulation revokes a decision, it shall set aside any order made in pursuance of that decision and shall order a re-hearing or redetermination before either the same or a different tribunal.
 
-### 32. Appeals
+### 32. Appeals[^c-19c5ec84eea7b78048e1bca79d4c8be2]
 
 (1) An appeal shall lie to the High Court on a question of law arising out of a decision or order which is given or made by a tribunal on an appeal, and may be made by the appellant, the authority or registration officer whose decision he appealed against, or any other officer who was party to the appeal.
 
@@ -434,7 +440,7 @@ An extract from a community charges register may be proved by the production of 
 
 (4) Charging authorities and registration officers shall act in accordance with any order made by the High Court; and paragraph 9 or 10 (as the case may be) of Schedule 11 to the Act shall have effect subject to this requirement.
 
-### 33. Arbitration
+### 33. Arbitration[^c-aceb0ead0ae7d9e367ff37ae78853d67]
 
 (1) Where it is so agreed in writing between the persons who, if a question were to be the subject of an appeal to a tribunal, would be the parties to the appeal, the question shall be referred to arbitration.
 
@@ -454,7 +460,7 @@ Secretary of State for Wales
 
 12th March 1989
 
-## SCHEDULE 1 — ESTABLISHMENT OF TRIBUNALS
+## SCHEDULE 1 — ESTABLISHMENT OF TRIBUNALS[^c-4f10af55029fd02259e43cd0351a7cfe]
 
 Regulations 3, 4
 
@@ -494,7 +500,7 @@ Regulations 3, 4
 
 Regulation 10
 
-### 1. Financial loss allowance
+### 1. Financial loss allowance[^c-e0b3f60dd0c47497b946b1bd5555b8fe]
 
 In respect of his performance of any approved duty, a member shall be entitled to an allowance, not exceeding the appropriate amount specified in Table A, in respect of loss of earnings necessarily suffered, or individual expenses (other than expenses on account of travelling or subsistence) necessarily incurred by him for the purpose of enabling him to perform that duty.
 
@@ -506,7 +512,7 @@ In respect of his performance of any approved duty, a member shall be entitled t
 | For any such duty whose duration exceeds 4 hours but not 24 hours | £32.35 |
 | For any such duty whose duration exceeds 24 hours, £32.35 for each period of 24 hours plus the amount ascertained from this Table appropriate to the remainder of the period |  |
 
-### 2. Subsistence allowances
+### 2. Subsistence allowances[^c-31cf980bc95b51ec50ee7c70255f6196]
 
 (1) In respect of his performance of any approved duty, a member shall be entitled to an allowance not exceeding the appropriate amount specified in Table B and calculated in accordance with this paragraph.
 
@@ -527,18 +533,18 @@ In respect of his performance of any approved duty, a member shall be entitled t
 - (b) different periods of duty on any one day shall be added together;
 - (c) no more than one hour of any meal break may be treated as included in the performance of the duty.
 
-**3.** (1) In respect of his performance of any approved duty whose duration exceeds 4 hours, a member shall be entitled to an allowance of £4.00.
+**3.**[^c-1b239b49c21876ea7ad8430263a8095a] (1) In respect of his performance of any approved duty whose duration exceeds 4 hours, a member shall be entitled to an allowance of £4.00.
 
 (2) Paragraphs (b) and (c) of paragraph 2(2) shall apply for the purposes of this paragraph.
 
-**4.** Where by reason of the time at which an approved duty begins or ends a member necessarily spends a period of 24 hours or longer away from his usual place of residence, he shall be entitled to an allowance–
+**4.**[^c-055f76595af51de696dff4405d147f66] Where by reason of the time at which an approved duty begins or ends a member necessarily spends a period of 24 hours or longer away from his usual place of residence, he shall be entitled to an allowance–
 
 - (a) not exceeding £60.40 per night spent away from that place of residence, in respect of a duty to be performed in inner London, or of attendance at the annual conference of the Rating and Valuation Association, or
 - (b) not exceeding £52.95 per night so spent in any other case,
 
 but shall not be so entitled in relation to any such night in respect of which the member’s overnight accommodation is provided at the expense of the Secretary of State.
 
-### 5. Travelling allowances
+### 5. Travelling allowances[^c-0432dffb13a32e6bb00286fc63317a08]
 
 (1) In respect of his performance of any approved duty, a member shall be entitled to an allowance not exceeding the appropriate amount specified in this paragraph in respect of travel necessarily undertaken for the purpose of enabling him to perform the duty.
 
@@ -552,14 +558,14 @@ but shall not be so entitled in relation to any such night in respect of which t
 
 (6) Where the travel is by means of a taxi-cab solely by reason of urgency, the appropriate amount is the fare paid.
 
-### 6. Interpretation
+### 6. Interpretation[^c-0d648abb58b08376822ee0aee45bea1b]
 
 In this Schedule–
 
 - “approved duty” means attendance at any meeting of the tribunal or the doing of any thing for or in connection with the discharge of its functions; and
 - “inner London” means the City of London, the Inner Temple, the Middle Temple and the London boroughs of Camden, Greenwich, Hackney, Hammersmith and Fulham, Islington, Kensington and Chelsea, Lambeth, Lewisham, Southwark, Tower Hamlets, Wandsworth and Westminster.
 
-## SCHEDULE 3 — CONTENTS OF RECORDS
+## SCHEDULE 3 — CONTENTS OF RECORDS[^c-781818c92b9a2a2f2b6ff9bdb23549ac]
 
 Regulation 30
 
@@ -596,8 +602,90 @@ Regulations 28 to 30 deal with decisions and orders made by the tribunal and the
 
 [^f00002]: Footnote: [1971 c. 62](https://www.legislation.gov.uk/ukpga/1971/62). Valuation and community charge tribunals were added to Schedule 1 to the 1971 Act by paragraph 41 of Schedule 12 to the 1988 Act.
 
+[^c-15ea0144d315dab4cbacc1c3f2b72471]: Commencement: Reg. 1 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-e03568e7c987422b9764052c77f4b973]: Commencement: Reg. 2 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
 [^f00003]: Footnote: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9).
+
+[^c-1f589a9476f060de1b6ad74b73a5eb9c]: Commencement: Reg. 3 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-69fb3f478ef9d8611660652b178486b1]: Commencement: Reg. 4 in force at 7.4.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-a824545c2d3ab8ec6da2ae9675adadbb]: Commencement: Reg. 5 in force at 7.4.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-3eaa4947c732611c4ef6a53495238efd]: Commencement: Reg. 6 in force at 7.4.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-9b33a1da17c9c66ed2b7e52056bb12ad]: Commencement: Reg. 7 in force at 7.4.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-c17aa684f07aee2e216a64be62a361be]: Commencement: Reg. 8 in force at 7.4.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-3c79e618e4a4136606dba722e400b854]: Commencement: Reg. 9 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
 
 [^f00004]: Footnote: [1982 c. 32](https://www.legislation.gov.uk/ukpga/1982/32).
 
+[^c-ede3a96fb2f4d287688e824fbe26d9b7]: Commencement: Reg. 10 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-ef36b71a6071226d4a5259ba7acea570]: Commencement: Reg. 11 in force at 7.4.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-4131185883b19b8ad369daf606e00fa4]: Commencement: Reg. 12 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-aeca3e277a3ffd3c31e3682a6f2fc7e0]: Commencement: Reg. 13 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-e0cd5ae4c571dee51e3832b13829728a]: Commencement: Reg. 14 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-38ecee63905197d76a890bd054ee74b1]: Commencement: Reg. 15 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-3de84d8f12a713a8966f5394d977249e]: Commencement: Reg. 16 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-1d5867e65f9e7a0e0a953bbe99adb1a4]: Commencement: Reg. 17 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-869ef1df787e4df5ee7a5bfc8c9912c7]: Commencement: Reg. 18 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-1144eaf5a4e570b573bc1c4b6b536828]: Commencement: Reg. 19 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-1ead45ba4d70ae44fff79d18b6ee491e]: Commencement: Reg. 20 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-278cb43ee7771e72c452dea61f01356b]: Commencement: Reg. 21 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-551a24c2afd2b9883e3eaff1465000a5]: Commencement: Reg. 22 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-5d071221b86c4ab57b9b0cf2170ac455]: Commencement: Reg. 23 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-0cf63fd108dcc193d15d8c691a043c7c]: Commencement: Reg. 24 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-69fc27386203e4de0f2e229065aff97f]: Commencement: Reg. 25 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-5b5fe8c30e869a444ec1583b207e608a]: Commencement: Reg. 26 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-75f2194addc8617c29774133323a7d12]: Commencement: Reg. 27 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-da87b1b5610a67a07f2341d65babb7a7]: Commencement: Reg. 28 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-97cf4db8b0d0552711dd4f68ddf5251c]: Commencement: Reg. 29 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-8ad6cd67e82dd89acd89927322e75d89]: Commencement: Reg. 30 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-179a1d6708597d4c562d661a9401cc50]: Commencement: Reg. 31 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-19c5ec84eea7b78048e1bca79d4c8be2]: Commencement: Reg. 32 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-aceb0ead0ae7d9e367ff37ae78853d67]: Commencement: Reg. 33 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
 [^f00005]: Footnote: [1950 c. 27](https://www.legislation.gov.uk/ukpga/1950/27).
+
+[^c-4f10af55029fd02259e43cd0351a7cfe]: Commencement: Sch. 1 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-e0b3f60dd0c47497b946b1bd5555b8fe]: Commencement: Sch. 2 para. 1 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-31cf980bc95b51ec50ee7c70255f6196]: Commencement: Sch. 2 para. 2 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-1b239b49c21876ea7ad8430263a8095a]: Commencement: Sch. 2 para. 3 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-055f76595af51de696dff4405d147f66]: Commencement: Sch. 2 para. 4 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-0432dffb13a32e6bb00286fc63317a08]: Commencement: Sch. 2 para. 5 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-0d648abb58b08376822ee0aee45bea1b]: Commencement: Sch. 2 para. 6 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)
+
+[^c-781818c92b9a2a2f2b6ff9bdb23549ac]: Commencement: Sch. 3 in force at 1.5.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/439/regulation/1)

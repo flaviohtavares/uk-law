@@ -246,7 +246,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Fisheries and Aquaculture Structures (Grants) (England) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1322-the-fisheries-and-aquaculture-structures-grants-england-amendment-regulations-20.md)
 - [The Inshore Fishing (Prohibition of Fishing and Fishing Methods) (Amendment) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/304-the-inshore-fishing-prohibition-of-fishing-and-fishing-methods-amendment-regulat.md) *(as originally made)*
 - [The Lyme Bay Designated Area (Fishing Restrictions) Order 2008](../uk-parliament/regulations/2008/1500-1999/1584-the-lyme-bay-designated-area-fishing-restrictions-order-2008.md)
-- [The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2008](../scotland/regulations/2008/0000-0499/29-the-sea-fish-prohibited-methods-of-fishing-firth-of-clyde-order-2008.md) *(as originally made)*
+- [The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2008](../scotland/regulations/2008/0000-0499/29-the-sea-fish-prohibited-methods-of-fishing-firth-of-clyde-order-2008.md) *(changes pending)*
 - [The Sea Fishing (Enforcement of Community Measures) (Penalty Notices) Order 2008](../uk-parliament/regulations/2008/0500-0999/984-the-sea-fishing-enforcement-of-community-measures-penalty-notices-order-2008.md) *(changes pending)*
 - [The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/151-the-sea-fishing-enforcement-of-community-quota-and-third-country-fishing-measure.md) *(changes pending)*
 - [The Shrimp Fishing Nets (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/10-the-shrimp-fishing-nets-scotland-amendment-order-2008.md) *(as originally made)*
@@ -567,7 +567,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Norway Lobsters (Prohibition of Method of Fishing) Order 1993](../uk-parliament/regulations/1993/1500-1999/1887-the-norway-lobsters-prohibition-of-method-of-fishing-order-1993.md) *(as originally made)*
 - [The Sea Fish Licensing (Time at Sea) (Principles) Order 1993](../uk-parliament/regulations/1993/1000-1499/1196-the-sea-fish-licensing-time-at-sea-principles-order-1993.md)
 - [The Sea Fish Licensing (Variation) (No. 2) Order 1993](../uk-parliament/regulations/1993/2000-2499/2291-the-sea-fish-licensing-variation-no-2-order-1993.md) *(as originally made)*
-- [The Sea Fish Licensing (Variation) Order 1993](../uk-parliament/regulations/1993/0000-0499/188-the-sea-fish-licensing-variation-order-1993.md) *(as originally made)*
+- [The Sea Fish Licensing (Variation) Order 1993](../uk-parliament/regulations/1993/0000-0499/188-the-sea-fish-licensing-variation-order-1993.md) *(changes pending)*
 - [The Sea Fisheries Districts (Variation) Order 1993](../uk-parliament/regulations/1993/2500-2999/2532-the-sea-fisheries-districts-variation-order-1993.md) *(as originally made)*
 - [The Sea Fishing (Enforcement of Community Control Measures) Order 1993](../uk-parliament/regulations/1993/2000-2499/2016-the-sea-fishing-enforcement-of-community-control-measures-order-1993.md) *(as originally made)*
 - [The Sea Fishing (Enforcement of Community Quota Measures) Order 1993](../uk-parliament/regulations/1993/0000-0499/387-the-sea-fishing-enforcement-of-community-quota-measures-order-1993.md) *(as originally made)*

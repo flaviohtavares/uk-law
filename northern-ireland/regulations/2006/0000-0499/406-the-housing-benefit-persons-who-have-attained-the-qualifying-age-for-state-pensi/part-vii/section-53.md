@@ -3,7 +3,7 @@ title: The Housing Benefit (Persons who have attained the qualifying age for sta
 act: The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006
 section: '53'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/406/section/53
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006, section 53
 
-> **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/406
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/406
 >
 > Extent: Northern Ireland.
 
@@ -90,6 +90,7 @@ summary: ''
 - (bd)[^c-b45f3c5ae337a9737d7b3eecebbf29ce] any Post Office compensation payment;
 - (be)[^c-89d70cdf3ead01aec07511f53d5ffba6] any LGBT Financial Recognition Scheme payment;
 - (bf)[^c-da0e1a4840165a85da973f7abd45a50d] any miscarriage of justice compensation payment;
+- (bg)[^c-738fa19abed2983133f8e97ced81d539] any Mother and Baby Scheme payment;
 - (c) any payment which had his income fallen to be calculated under regulation 37 of the Housing Benefit Regulations would have been disregarded under paragraph 37 of Schedule 6 to those Regulations (payments made under certain trusts and certain other payments).
 - (d)[^c-c5246f3106ed7b3240acdf278ffdd68b] any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State.
 
@@ -268,6 +269,8 @@ summary: ''
 [^c-89d70cdf3ead01aec07511f53d5ffba6]: Textual amendment: [Reg. 53(10)(be)](https://www.legislation.gov.uk/nisr/2006/406/regulation/53/10/be) inserted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/24)](https://www.legislation.gov.uk/nisr/2025/24), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/24/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2025/24/regulation/7/3)
 
 [^c-da0e1a4840165a85da973f7abd45a50d]: Textual amendment: [Reg. 53(10)(bf)](https://www.legislation.gov.uk/nisr/2006/406/regulation/53/10/bf) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment No. 2) Regulations (Northern Ireland) 2025 (S.R. 2025/122)](https://www.legislation.gov.uk/nisr/2025/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/122/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2025/122/regulation/6/3)
+
+[^c-738fa19abed2983133f8e97ced81d539]: Textual amendment: [Reg. 53(10)(bg)](https://www.legislation.gov.uk/nisr/2006/406/regulation/53/10/bg) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2026/177/regulation/5/3)
 
 [^c-c5246f3106ed7b3240acdf278ffdd68b]: Textual amendment: [Reg. 53(10)(d)](https://www.legislation.gov.uk/nisr/2006/406/regulation/53/10/d) added (30.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations (Northern Ireland) 2017 (S.R. 2017/219)](https://www.legislation.gov.uk/nisr/2017/219), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/219/regulation/1/1), [7(4)](https://www.legislation.gov.uk/nisr/2017/219/regulation/7/4)
 

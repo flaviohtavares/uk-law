@@ -206,15 +206,15 @@ These Rules may be cited as the Royal Pharmaceutical Society of Great Britain (F
 
 (1) In these Rules—
 
-- “appointments group” means the group established by the Council in accordance with rule 5;
-- “appropriate person” means a natural person of good character, who is a fit and proper person to act as a member of a committee;
+- “**appointments group**” means the group established by the Council in accordance with rule 5;
+- “**appropriate person**” means a natural person of good character, who is a fit and proper person to act as a member of a committee;
 - “CHRE” means the Council for the Regulation of Health Care Professionals established under section 25 of the National Health Service Reform and Health Professions Act 2002[^f00002], which is also known as the Council for Healthcare Regulatory Excellence;
 - “committee”, unless the context otherwise requires, means a fitness to practise committee or the Registration Appeals Committee;
-- “hearing” means proceedings of a statutory committee at which the parties to the proceedings may attend or be represented;
-- “interim order” means an interim suspension order or an order for interim conditional registration;
+- “**hearing**” means proceedings of a statutory committee at which the parties to the proceedings may attend or be represented;
+- “**interim order**” means an interim suspension order or an order for interim conditional registration;
 - “the Order” means the Pharmacists and Pharmacy Technicians Order 2007;
-- “lay member” means a member of a committee or group who is neither a registrant, nor in the employ of a registrant, nor a person with a registrable qualification in pharmacy; and
-- “professional member” means a person whose name is entered in Part 1 of one of the Society’s Registers.
+- “**lay member**” means a member of a committee or group who is neither a registrant, nor in the employ of a registrant, nor a person with a registrable qualification in pharmacy; and
+- “**professional member**” means a person whose name is entered in Part 1 of one of the Society’s Registers.
 
 (2) Pending the coming into force of article 21 of the Order, any requirement by virtue of these Rules that a person shall be a registered pharmacy technician shall be construed as a requirement that he be registered in the voluntary register of pharmacy technicians maintained by the Society.
 
@@ -582,7 +582,7 @@ EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
-This Order approves Rules made by the Council of the Royal Pharmaceutical Society of Great Britain (“the Society”) that relate to the constitution of, and the advisers to, four of their statutory committees: the Investigating Committee, the Health Committee, the Disciplinary Committee and the Registration Appeals Committee (“the committees”).
+This Order approves Rules made by the Council of the Royal Pharmaceutical Society of Great Britain (“**the Society**”) that relate to the constitution of, and the advisers to, four of their statutory committees: the Investigating Committee, the Health Committee, the Disciplinary Committee and the Registration Appeals Committee (“the committees”).
 
 Part 1 deals with preliminary matters, including commencement and interpretation, and Part 2 sets out the composition of the committees.
 

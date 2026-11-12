@@ -3,16 +3,16 @@ title: The Immigration (Collection, Use and Retention of Biometric Information a
 id: uksi/2021/772
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2021-06-29'
-text_date: '2025-12-02'
+text_date: '2026-10-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2021/772
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2021/772/pdfs/uksiem_20210772_en.pdf
 - http://www.legislation.gov.uk/uksi/2021/772/pdfs/uksi_20210772_en.pdf
 - http://www.legislation.gov.uk/uksi/2021/772/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2025-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/2021/772
+> Text as at 2026-10-06.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -83,10 +83,13 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 - (a) a constable;
 - (b) an immigration officer;
 - (c) a prison officer;
-- (d) an officer of the Secretary of State authorised for the purpose; or
-- (e) a person who is employed by a contractor in connection with the discharge of the contractor’s duties under a removal centre contract.
+- (d) an officer of the Secretary of State authorised for the purpose; [^c-66967fc1d6a0f3741a9a06e507549c47]...
+- (e) a person who is employed by a contractor in connection with the discharge of the contractor’s duties under a removal centre contract ; or[^c-ff5f07960a779a39e2dac22a3f1aaa99]
+- (f)[^c-075506ecaeab2b556a583e3bda5042df] a person who is employed by a contractor in connection with the discharge of the contractor’s duties under a short-term holding facility contract.
 
 (6) In paragraph (5)(e), “contractor” and “removal centre contract” have the same meaning as in section 147 of the 1999 Act[^f00008].
+
+(6A)[^c-d2475d690ad1eef4568891323d01a278] In paragraph (5)(f), “**contractor**” and “**short-term holding facility contract**” have the same meaning as in section 141(6A) of the 1999 Act.
 
 (7) This regulation applies to—
 
@@ -153,7 +156,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 (15) Where a person under the age of sixteen (“the child”) is in the presence of a person referred to in paragraph (3)(a) or (b), an authorised person may not take a photograph of the child unless the decision to take it has been confirmed—
 
 - (a) if the authorised person is a constable, by a person designated for the purpose by the chief constable of the constable’s police force;
-- (b) if the authorised person is a person mentioned in paragraph (5)(b) or (e), by a chief immigration officer;
+- (b) if the authorised person is a person mentioned in paragraph (5)(b) , (e) or (f)[^c-dd9fb32c8b9ec2b882a9cda1030c361a], by a chief immigration officer;
 - (c) if the authorised person is a prison officer, by a person designated for the purpose by the governor of the prison; or
 - (d) if the authorised person is an officer of the Secretary of State, by a person designated for the purpose by the Secretary of State.
 
@@ -554,7 +557,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-fadc3e51a5802377887afa34d4f9a38b]: Commencement: Reg. 2 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
+[^c-66967fc1d6a0f3741a9a06e507549c47]: Textual amendment: Word in [reg. 2(5)(d)](https://www.legislation.gov.uk/uksi/2021/772/regulation/2/5/d) omitted (6.10.2026) by virtue of [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) (Amendment) Regulations 2026 (S.I. 2026/990)](https://www.legislation.gov.uk/uksi/2026/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/990/regulation/1/2), [2(a)(i)](https://www.legislation.gov.uk/uksi/2026/990/regulation/2/a/i)
+
+[^c-ff5f07960a779a39e2dac22a3f1aaa99]: Textual amendment: Word in [reg. 2(5)(e)](https://www.legislation.gov.uk/uksi/2021/772/regulation/2/5/e) substituted (6.10.2026) by [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) (Amendment) Regulations 2026 (S.I. 2026/990)](https://www.legislation.gov.uk/uksi/2026/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/990/regulation/1/2), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2026/990/regulation/2/a/ii)
+
+[^c-075506ecaeab2b556a583e3bda5042df]: Textual amendment: [Reg. 2(5)(f)](https://www.legislation.gov.uk/uksi/2021/772/regulation/2/5/f) inserted (6.10.2026) by [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) (Amendment) Regulations 2026 (S.I. 2026/990)](https://www.legislation.gov.uk/uksi/2026/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/990/regulation/1/2), [2(a)(iii)](https://www.legislation.gov.uk/uksi/2026/990/regulation/2/a/iii)
+
 [^f00008]: Footnote: Section 147 was amended by section 66 of the 2002 Act; there are other amendments not relevant to these Regulations.
+
+[^c-d2475d690ad1eef4568891323d01a278]: Textual amendment: [Reg. 2(6A)](https://www.legislation.gov.uk/uksi/2021/772/regulation/2/6A) inserted (6.10.2026) by [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) (Amendment) Regulations 2026 (S.I. 2026/990)](https://www.legislation.gov.uk/uksi/2026/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/990/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/990/regulation/2/b)
 
 [^f00009]: Footnote: Under paragraph 2 of Schedule 10 to the Immigration Act 2016, where immigration bail is granted to a person, it must be granted subject to one or more conditions listed in paragraph 2(1), including a condition requiring the person to report to the Secretary of State or such other person as may be specified.
 
@@ -573,6 +584,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 [^c-1b93b73be26775e27f60577f0d229cfe]: Textual amendment: Reg. 2(12)(a)(iii)(zaa) inserted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(13)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/13/a), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
 
 [^c-08469b78d2861ea4c9089767422c7112]: Textual amendment: Words in reg. 2(12)(a)(iii)(aa) substituted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(13)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/13/b), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
+
+[^c-dd9fb32c8b9ec2b882a9cda1030c361a]: Textual amendment: Words in [reg. 2(15)(b)](https://www.legislation.gov.uk/uksi/2021/772/regulation/2/15/b) substituted (6.10.2026) by [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) (Amendment) Regulations 2026 (S.I. 2026/990)](https://www.legislation.gov.uk/uksi/2026/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/990/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2026/990/regulation/2/c)
 
 [^c-b8ee5d1d3304fee4ce77d9301d67162f]: Commencement: Reg. 3 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 

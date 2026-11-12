@@ -3,15 +3,15 @@ title: The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions
 id: uksi/2026/960
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2026-09-02'
-text_date: null
-extent: null
+text_date: '2026-10-21'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2026/960
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/960/pdfs/uksi_20260960_en.pdf
-- http://www.legislation.gov.uk/uksi/2026/960/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2026/960/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-10-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2026 No. 960 (C. 80)
 
@@ -43,13 +47,13 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 255(1), (4) and (5) of the Crime and Policing Act 2026[^f00001].
 
-## 1. Citation and interpretation
+## 1. Citation and interpretation[^c-ed9b191a0303cd142145f89fc33e6829]
 
 (1) These Regulations may be cited as the Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026.
 
 (2) In these Regulations, “**the 2026 Act**” means the Crime and Policing Act 2026.
 
-## 2. Provisions coming into force on 21st September 2026
+## 2. Provisions coming into force on 21st September 2026[^c-cd839598c02a91be61a3cab49d4c6d27]
 
 The following provisions of the 2026 Act come into force on 21st September 2026—
 
@@ -64,7 +68,7 @@ The following provisions of the 2026 Act come into force on 21st September 2026�
 - (i) paragraph 1 of Schedule 6 (CCE prevention orders on conviction), only so far as it inserts section 358I(2) and (4) in Part 11 of the Sentencing Code;
 - (j) Schedule 25 (special police forces: barred persons lists and advisory lists), to the extent not already in force.
 
-## 3. Provisions coming into force on 29th September 2026
+## 3. Provisions coming into force on 29th September 2026[^c-880648c9a9042ef29d22eabdf8ac1c10]
 
 The following provisions of the 2026 Act come into force on 29th September 2026—
 
@@ -72,7 +76,7 @@ The following provisions of the 2026 Act come into force on 29th September 2026�
 - (b) section 204 (appeals to police appeals tribunals), to the extent not already in force;
 - (c) section 246 (extradition: cases where a person has been convicted).
 
-## 4. Provisions coming into force on 26th October 2026
+## 4. Provisions coming into force on 26th October 2026[^c-b2254af4141e8cfa0f75431625d0102b]
 
 The following provisions of the 2026 Act come into force on 26th October 2026—
 
@@ -81,12 +85,12 @@ The following provisions of the 2026 Act come into force on 26th October 2026—
 - (c) section 3(1) to (4) (maximum period for certain directions, notices and orders);
 - (d) section 4 (fixed penalty notices);
 - (e) section 5 (closure of premises by registered social housing provider);
-- (f) section 6 (reviews of responses to complaints about anti-social behaviour);
+- (f)[^c-69168866b384fa80d13efc2729305aa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) Schedule 1 (youth injunctions, housing injunctions and consequential amendments);
 - (h) Schedule 2 (closure of premises by registered social housing provider);
-- (i) Schedule 3 (LPB case reviews: supplementary provision).
+- (i)[^c-3e39f1dc96f179731553de662131a0d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Provisions coming into force on 29th October 2026
+## 5. Provisions coming into force on 29th October 2026[^c-297fe6436a68ae2e1049c582104fb7a1]
 
 The following provisions of the 2026 Act come into force on 29th October 2026—
 
@@ -95,7 +99,7 @@ The following provisions of the 2026 Act come into force on 29th October 2026—
 - (c) sections 197 and 198 (the police: accelerated investigation procedure in respect of criminal conduct and conditions for notification of Director of Public Prosecutions of investigation report);
 - (d) Schedule 16 (possession or supply of SIM farms or other specified articles: powers of entry etc).
 
-## 6. Savings relating to the coming into force of section 246 of the 2026 Act (extradition: cases where a person has been convicted)
+## 6. Savings relating to the coming into force of section 246 of the 2026 Act (extradition: cases where a person has been convicted)[^c-a0302726e882e899a39d15e8a8f23f80]
 
 (1) The amendments made to section 20 of the Extradition Act 2003[^f00002] (“**the 2003 Act**”) (case where person has been convicted: category 1 territories) by section 246(2) of the 2026 Act do not apply where—
 
@@ -175,6 +179,22 @@ The following provisions of the Crime and Policing Act [2026 (c. 20)](https://ww
 ## Annotations
 
 [^f00001]: Footnote: [2026 c. 20](https://www.legislation.gov.uk/ukpga/2026/20).
+
+[^c-ed9b191a0303cd142145f89fc33e6829]: Commencement: Reg. 1 in force at made date
+
+[^c-cd839598c02a91be61a3cab49d4c6d27]: Commencement: Reg. 2 in force at made date
+
+[^c-880648c9a9042ef29d22eabdf8ac1c10]: Commencement: Reg. 3 in force at made date
+
+[^c-b2254af4141e8cfa0f75431625d0102b]: Commencement: Reg. 4 in force at made date
+
+[^c-69168866b384fa80d13efc2729305aa1]: Textual amendment: [Reg. 4(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/f) omitted (21.10.2026) by virtue of [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026 (S.I. 2026/1111)](https://www.legislation.gov.uk/uksi/2026/1111), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/1111/regulation/2/2)
+
+[^c-3e39f1dc96f179731553de662131a0d1]: Textual amendment: [Reg. 4(i)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/i) omitted (21.10.2026) by virtue of [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026 (S.I. 2026/1111)](https://www.legislation.gov.uk/uksi/2026/1111), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/1111/regulation/2/2)
+
+[^c-297fe6436a68ae2e1049c582104fb7a1]: Commencement: Reg. 5 in force at made date
+
+[^c-a0302726e882e899a39d15e8a8f23f80]: Commencement: Reg. 6 in force at made date
 
 [^f00002]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41).
 

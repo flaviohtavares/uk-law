@@ -46,7 +46,7 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 
 ## 1. Citation and commencement
 
-These Rules may be cited as the Insolvency (Scotland) Amendment Rules 2007 and shall come into force on 1st October 2007 (“the commencement date”).
+These Rules may be cited as the Insolvency (Scotland) Amendment Rules 2007 and shall come into force on 1st October 2007 (“**the commencement date**”).
 
 ## 2. Transitional provision
 
@@ -111,7 +111,7 @@ Rule 3(3)
 
 (This note is not part of the Rules)
 
-These Rules amend the Insolvency (Scotland) Rules 1986 (“the Rules”) by substituting a new version of Rule 4.80. Section 216 of the Insolvency Act 1986 (“the Act”) prohibits a person who was a director (or shadow director) of a company within 12 months prior to its entering into insolvent liquidation from being a director of another company which has the same name or a name which is so similar as to suggest an association with the insolvent company (such a name is referred to as “a prohibited name”). Section 216 of the Act also contains prohibitions against such a director acting in connection with the promotion, formation or management of a company known by a prohibited name or carrying on a business under a prohibited name otherwise than by a company.
+These Rules amend the Insolvency (Scotland) Rules 1986 (“the Rules”) by substituting a new version of Rule 4.80. Section 216 of the Insolvency Act 1986 (“the Act”) prohibits a person who was a director (or shadow director) of a company within 12 months prior to its entering into insolvent liquidation from being a director of another company which has the same name or a name which is so similar as to suggest an association with the insolvent company (such a name is referred to as “**a prohibited name**”). Section 216 of the Act also contains prohibitions against such a director acting in connection with the promotion, formation or management of a company known by a prohibited name or carrying on a business under a prohibited name otherwise than by a company.
 
 The prohibitions in section 216 are subject to leave being granted by the court and to such exceptions as may be prescribed by Rules made under section 411 of the Act. The Rules contain a number of exceptions to the section 216 prohibition that are contained in Rules 4.78 to 4.82. The former version of Rule 4.80 allowed a director to act as the director of a company or otherwise in connection with its management where–
 
@@ -134,8 +134,8 @@ No Regulatory Impact Assessment has been prepared in relation to these Rules, as
 
 ## Annotations
 
-[^f00001]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 411 was amended by S.I. [2002/1037](https://www.legislation.gov.uk/uksi/2002/1037) and the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 1, paragraph 188.
+[^f00001]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 411 was amended by [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037) and the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 1, paragraph 188.
 
-[^f00002]: Footnote: S.I. [1986/1915](https://www.legislation.gov.uk/uksi/1986/1915), to which there are amendments not relevant to these Rules.
+[^f00002]: Footnote: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915), to which there are amendments not relevant to these Rules.
 
-[^f00003]: Footnote: Form 4.31 was inserted by S.I. [2003/2108](https://www.legislation.gov.uk/uksi/2003/2108).
+[^f00003]: Footnote: Form 4.31 was inserted by [S.I. 2003/2108](https://www.legislation.gov.uk/uksi/2003/2108).

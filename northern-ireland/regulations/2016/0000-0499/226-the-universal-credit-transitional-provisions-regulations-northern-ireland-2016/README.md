@@ -3,16 +3,16 @@ title: The Universal Credit (Transitional Provisions) Regulations (Northern Irel
 id: nisr/2016/226
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2016-05-05'
-text_date: '2026-04-06'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2016/226
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2016/226/pdfs/nisrem_20160226_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/226/pdfs/nisr_20160226_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/226/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/nisr/2016/226
+> Text as at 2026-10-30.
 >
 > Extent: Northern Ireland.
 

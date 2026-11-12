@@ -3,16 +3,16 @@ title: The Local Government (Structural Changes) (Transfer of Functions, Propert
 id: uksi/2008/2176
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-08-14'
-text_date: '2018-09-05'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2176
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2176/pdfs/uksiem_20082176_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2176/pdfs/uksi_20082176_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2176/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Local Government (Structural Changes) (Transfer of Functions, Property, Rights and Liabilities) Regulations 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2018-09-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2176
+> Text as at 2026-10-05.
 >
 > Extent: England, Wales.
 
@@ -44,7 +44,7 @@ Coming into force
 
 8th September 2008
 
-The Secretary of State, in exercise of the powers conferred by sections 14 and 240(10) of the Local Government and Public Involvement in Health Act 2007[^f00001], makes the following Regulations:
+The Secretary of State, in exercise of the powers conferred by sections 14 and 240(10) of the Local Government and Public Involvement in Health Act 2007[^f00001], makes the following Regulations:[^c-80cc8b4cec028251c168529ae09a3ef2]
 
 ## PART 1 — GENERAL
 
@@ -446,6 +446,8 @@ In Part 5, regulation 17 provides for the resolution of disputes as to the inter
 ## Annotations
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). In accordance with subsection (2) of section 14, subsection (1) of that section is to be read with section 15.
+
+[^c-80cc8b4cec028251c168529ae09a3ef2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/2176) applied (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/4/2)
 
 [^c-81210f6a8c9c59d0b6b763d7388705b0]: Commencement: Reg. 1 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 

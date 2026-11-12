@@ -2,8 +2,8 @@
 title: The School Finance (England) Regulations 2008, section 10
 act: The School Finance (England) Regulations 2008
 section: '10'
-status: revised-with-pending-changes
-text_date: '2008-02-29'
+status: repealed
+text_date: '2012-03-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/228/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,19 +12,20 @@ summary: ''
 
 # The School Finance (England) Regulations 2008, section 10
 
-> **Warning: changes not yet applied to this text (55).** Text as at 2008-02-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/228
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## 10. Initial determination of allocation of schools’ budget shares for funding periods 1, 2 and 3[^c-b4b745fae7ab58a1e0071e8d1ef1f602]
+## 10. Initial determination of allocation of schools’ budget shares for funding periods 1, 2 and 3[^c-99e0c642b6666baedd23fe151900fad4]
 
 *Extent: E+W*
 
-Not later than 31st March 2008, a local education authority must—
+**No longer in force.**
 
-- (a) initially determine the allocation of their individual schools budget for funding periods 1, 2 and 3 as the budget shares of the schools which they maintain for each of those funding periods in accordance with Part 3 of these Regulations; and
-- (b) give notice of schools’ budget shares for funding periods 2 and 3 to the governing bodies of each of the schools they maintain.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-b4b745fae7ab58a1e0071e8d1ef1f602]: Commencement: Reg. 10 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-99e0c642b6666baedd23fe151900fad4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/228) revoked (15.3.2012) by [The School Finance (England) Regulations 2012 (revoked) 2012 (S.I. 2012/335)](https://www.legislation.gov.uk/uksi/2012/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/335/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

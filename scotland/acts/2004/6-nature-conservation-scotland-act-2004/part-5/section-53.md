@@ -3,7 +3,7 @@ title: Nature Conservation (Scotland) Act 2004, section 53
 act: Nature Conservation (Scotland) Act 2004
 section: '53'
 status: revised-with-pending-changes
-text_date: '2025-11-01'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2004/6/section/53
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Nature Conservation (Scotland) Act 2004, section 53
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/asp/2004/6
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/asp/2004/6
 >
 > Extent: Scotland.
 
@@ -29,6 +29,10 @@ summary: ''
 
 (3) An order under section 56 may modify any enactment, instrument or document.
 
-(4) A statutory instrument containing an order or regulations under this Act (except sections 56 (where subsection (5) applies) and 59) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+(4) A statutory instrument containing an order or regulations under this Act (except sections 38A,[^c-aab16682be2f143b1969204ece262721] 56 (where subsection (5) applies) and 59) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
 (5) No order under section 56 containing provisions which add to, replace or omit any part of the text of an Act is to be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Parliament.
+
+## Annotations
+
+[^c-aab16682be2f143b1969204ece262721]: Textual amendment: Word in [s. 53(4)](https://www.legislation.gov.uk/asp/2004/6/section/53/4) inserted (26.10.2026) by virtue of [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 51(3)](https://www.legislation.gov.uk/asp/2026/6/section/51/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z6)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z6)

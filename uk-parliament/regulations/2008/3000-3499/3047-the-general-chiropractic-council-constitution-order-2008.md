@@ -3,16 +3,16 @@ title: The General Chiropractic Council (Constitution) Order 2008
 id: uksi/2008/3047
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-11-20'
-text_date: null
-extent: null
+text_date: '2012-12-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3047
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3047/pdfs/uksiem_20083047_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3047/pdfs/uksi_20083047_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3047/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/3047/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The General Chiropractic Council (Constitution) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2012-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 3047
 
@@ -48,7 +52,7 @@ Their Lordships make the following Order in exercise of the powers conferred by 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation
+### 1. Citation, commencement and interpretation[^c-55eb4377fcba06d6489d6492e05789f0]
 
 (1) This Order may be cited as the General Chiropractic Council (Constitution) Order 2008 and—
 
@@ -70,11 +74,11 @@ Their Lordships make the following Order in exercise of the powers conferred by 
 
 ## PART 2 — Membership of the General Chiropractic Council
 
-### 2. Composition of the General Council
+### 2. Composition of the General Council[^c-0cbf2f2691d207a255785979f64f55bf]
 
 The General Council shall consist of 7 registrant members and 7 lay members.
 
-### 3. Terms of office of members
+### 3. Terms of office of members[^c-77a36f7f0442758901e3cc965fd6324b]
 
 (1) The duration of the term of office of each member of the General Council shall be determined by the Privy Council, on appointment.
 
@@ -82,14 +86,14 @@ The General Council shall consist of 7 registrant members and 7 lay members.
 
 (3) For the purposes of the computation of years under paragraph (2), service as a member of the General Council before 9th February 2005 is to be discounted.
 
-### 4. Education and training of members
+### 4. Education and training of members[^c-7a5a88835c0004bf2734bb9bddb835b6]
 
 The General Council shall make provision in standing orders with respect to the requirements with regard to education and training of members of the General Council, and those standing orders may provide for—
 
 - (a) that education and training to be the responsibility of another body; and
 - (b) those requirements to be set and varied by that body from time to time.
 
-### 5. Disqualification from appointment as a member
+### 5. Disqualification from appointment as a member[^M_I_51eb5744-1f34-49e2-cc08-a611e50c86ba][^M_I_eb265d84-48ed-4ab9-ef53-684c3a84866c]
 
 A person is disqualified from appointment as a member of the General Council if that person—
 
@@ -117,7 +121,7 @@ A person is disqualified from appointment as a member of the General Council if 
   - (iii) a disqualification order or disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00011], or
   - (iv) an order made under section 429(2) of the Insolvency Act 1986[^f00012] (disabilities on revocation of a county court administration order);
 - (h) has been included by—
-  - (i) the Independent Barring Board in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00013] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00014]), or
+  - (i) the Disclosure and Barring Service[^c-be795b7661f8dad1987a1cc813dc3d78] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00013] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00014]), or
   - (ii) the Scottish Ministers in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00015]);
 - (i) has at any time been subject to any investigation or proceedings concerning the person’s fitness to practise by any licensing body, the final outcome of which was—
   - (i) the person’s suspension from a register held by the licensing body, and that suspension has not been terminated,
@@ -137,7 +141,7 @@ A person is disqualified from appointment as a member of the General Council if 
   and the Privy Council is satisfied that the person’s membership of the General Council would be liable to undermine public confidence in the regulation of registrants; or
 - (m) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Privy Council is satisfied that the person’s membership of the General Council would be liable to undermine public confidence in the regulation of registrants.
 
-### 6. Removal of members from office
+### 6. Removal of members from office[^c-767df3b7956d29f16a0c19c0a9999053]
 
 (1) A member shall be removed from office by the Privy Council, if—
 
@@ -170,7 +174,7 @@ A person is disqualified from appointment as a member of the General Council if 
 - (a) a member has become, or may be about to become, a person to whom paragraph (1)(b) to (f) applies; and
 - (b) that member has not notified the Privy Council in writing of that fact and the chair is not satisfied that the member will do so immediately.
 
-### 7. Suspension of members from office
+### 7. Suspension of members from office[^c-fd8f657cd2f2f6148e4eaa4fdd199b68]
 
 (1) The Privy Council may suspend a member from office by a notice in writing served on the member—
 
@@ -215,7 +219,7 @@ A person is disqualified from appointment as a member of the General Council if 
 
 ## PART 3 — Chair of the General Council
 
-### 8. Appointment, term of office and cessation of office of the chair
+### 8. Appointment, term of office and cessation of office of the chair[^c-37688b4bff6f8933fb606745e2e0d92f]
 
 (1) The Privy Council shall, as one of its functions relating to the appointment of members of the General Council, appoint the chair of the General Council.
 
@@ -233,7 +237,7 @@ A person is disqualified from appointment as a member of the General Council if 
 - (c) if the member’s membership of the General Council is suspended by the Privy Council; or
 - (d) if a majority of the General Council, excluding the chair (but not simply a majority at a quorate meeting) passes a vote of no confidence in the chair.
 
-### 9. Deputising arrangements in respect of the chair
+### 9. Deputising arrangements in respect of the chair[^c-211ccb3bb8e541cbb2b992a145f1b462]
 
 (1) Subject to paragraph (2), if, for any reason, the chair is absent from a meeting of the General Council, the members who are present at that meeting shall nominate one of their number to serve as chair at that meeting.
 
@@ -258,11 +262,11 @@ the General Council may nominate a member (“deputy chair”) to serve as chair
 
 ## PART 4 — Proceedings of the General Council
 
-### 10. Quorum of the General Council
+### 10. Quorum of the General Council[^c-f4cdbef824480cb2ab64850917610de5]
 
 The quorum of the General Council shall be 8.
 
-### 11. Effect of vacancies etc. on the validity of proceedings
+### 11. Effect of vacancies etc. on the validity of proceedings[^c-1e141e47c8ba5f3e21d17c732d7d28f8]
 
 (1) The validity of any proceedings of the General Council shall not be affected by—
 
@@ -294,11 +298,23 @@ There are also provisions relating to the proceedings of the GCC. Its quorum is 
 
 [^f00001]: Footnote: [1994 c.17](https://www.legislation.gov.uk/ukpga/1994/17); section 1(4) of the Act was substituted by, and paragraph 1B of Schedule 1 to the Act was inserted by, [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
+[^c-55eb4377fcba06d6489d6492e05789f0]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/3047/article/1) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
 [^f00002]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00003]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^f00004]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
+
+[^c-0cbf2f2691d207a255785979f64f55bf]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/3047/article/2) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
+[^c-77a36f7f0442758901e3cc965fd6324b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2008/3047/article/3) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
+[^c-7a5a88835c0004bf2734bb9bddb835b6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2008/3047/article/4) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
+[^M_I_51eb5744-1f34-49e2-cc08-a611e50c86ba]: Commencement: [Art. 5(a)-(g)(i)-(m)](https://www.legislation.gov.uk/uksi/2008/3047/article/5) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
+[^M_I_eb265d84-48ed-4ab9-ef53-684c3a84866c]: Commencement: [Art. 5(h)](https://www.legislation.gov.uk/uksi/2008/3047/article/5) not in force, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
 
 [^f00005]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40); section 7 was repealed by the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
 
@@ -316,10 +332,24 @@ There are also provisions relating to the proceedings of the GCC. Its quorum is 
 
 [^f00012]: Footnote: Section 429(2) was amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 23, paragraph 15.
 
+[^c-be795b7661f8dad1987a1cc813dc3d78]: Textual amendment: Words in [art. 5(h)(i)](https://www.legislation.gov.uk/uksi/2008/3047/article/5/h/i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(k)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/k) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
 [^f00013]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00014]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
 [^f00015]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
+[^c-767df3b7956d29f16a0c19c0a9999053]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2008/3047/article/6) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
 [^f00016]: Footnote: Inserted by [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
+
+[^c-fd8f657cd2f2f6148e4eaa4fdd199b68]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2008/3047/article/7) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
+[^c-37688b4bff6f8933fb606745e2e0d92f]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2008/3047/article/8) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
+[^c-211ccb3bb8e541cbb2b992a145f1b462]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2008/3047/article/9) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
+[^c-f4cdbef824480cb2ab64850917610de5]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2008/3047/article/10) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)
+
+[^c-1e141e47c8ba5f3e21d17c732d7d28f8]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2008/3047/article/11) in force at 9.2.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/3047/article/1/1/a)

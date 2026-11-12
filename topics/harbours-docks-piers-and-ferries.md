@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **HARBOURS, DOCKS, PI
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Harbours Act 1964](../uk-parliament/acts/public/1964/40-harbours-act-1964/README.md) *(changes pending)* — 372 regulations on this topic made under it
+- [Harbours Act 1964](../uk-parliament/acts/public/1964/40-harbours-act-1964/README.md) *(changes pending)* — 371 regulations on this topic made under it
 - [Pilotage Act 1987](../uk-parliament/acts/public/1987/21-pilotage-act-1987.md) — 29 regulations on this topic made under it
 - [Ports Act 1991](../uk-parliament/acts/public/1991/52-ports-act-1991.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Statutory Orders (Special Procedure) Act 1945](../uk-parliament/acts/public/geo6-9-10/18-statutory-orders-special-procedure-act-1945.md) — 10 regulations on this topic made under it
@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-423 in force.
+422 in force.
 
 **2026**
 
@@ -225,7 +225,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Port of Weston Harbour Revision Order 2008](../uk-parliament/regulations/2008/0000-0499/230-the-port-of-weston-harbour-revision-order-2008.md) *(as originally made)*
 - [The Stornoway Harbour Revision (Constitution) Order 2008](../scotland/regulations/2008/0000-0499/422-the-stornoway-harbour-revision-constitution-order-2008.md) *(changes pending)*
 - [The Teesport Harbour Revision Order 2008](../uk-parliament/regulations/2008/1000-1499/1160-the-teesport-harbour-revision-order-2008.md) *(as originally made)*
-- [The Whiteness Marina Harbour Revision Order 2008](../scotland/regulations/2008/0000-0499/361-the-whiteness-marina-harbour-revision-order-2008.md) *(changes pending)*
 
 **2007**
 

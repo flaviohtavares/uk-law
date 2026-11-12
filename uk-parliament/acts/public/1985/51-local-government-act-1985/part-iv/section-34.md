@@ -3,7 +3,7 @@ title: Local Government Act 1985, section 34
 act: Local Government Act 1985
 section: '34'
 status: revised-with-pending-changes
-text_date: '2026-04-29'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1985/51/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Local Government Act 1985, section 34
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
 > Extent: England, Wales.
 
-## 34. Chairman, vice-chairman, and clerk.[^c3163411][^c3163421]
+## 34. Chairman, vice-chairman, and clerk.[^c-c43a067b2e7f2a9a2b5771c868bb0645][^c3163411][^c3163421]
 
 *Extent: E+W*
 
@@ -42,6 +42,8 @@ summary: ''
 (8) Each joint authority shall appoint a person to be the clerk to the authority and in making the appointment the authority shall have regard to the desirability of that person being the chief officer of a constituent council of the authority.
 
 ## Annotations
+
+[^c-c43a067b2e7f2a9a2b5771c868bb0645]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/1985/51/section/34) modified (E.) (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 5(c)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/5/c) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c3163411]: Modification: S. 34 amended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [arts. 4(1)](https://www.legislation.gov.uk/uksi/1985/1884/article/4/1)(*c*), 11(1)
 

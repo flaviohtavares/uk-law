@@ -3,16 +3,16 @@ title: The Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure)
 id: uksi/2018/579
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2018-05-02'
-text_date: '2018-05-23'
+text_date: '2026-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2018/579
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2018/579/pdfs/uksiem_20180579_en.pdf
 - http://www.legislation.gov.uk/uksi/2018/579/pdfs/uksi_20180579_en.pdf
 - http://www.legislation.gov.uk/uksi/2018/579/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2018-05-23. See https://www.legislation.gov.uk/changes/affected/uksi/2018/579
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland.
 
@@ -70,7 +70,7 @@ An NHS employer[^f00003] must not discriminate[^f00004] against an applicant[^f0
 
 ## 5. Time limit for proceedings under regulation 4[^c-f06da1170ffb84be2dab2f172ccd01f1]
 
-(1) Subject to paragraph (4), an employment tribunal must not consider a complaint under regulation 4 unless it is presented to the tribunal before the end of the period of three months beginning with the date of the conduct to which the complaint relates.
+(1) Subject to paragraph (4), an employment tribunal must not consider a complaint under regulation 4 unless it is presented to the tribunal before the end of the period of six[^c-f829787b82eb5a3bcacf3beed49e56b9] months beginning with the date of the conduct to which the complaint relates.
 
 (2) An employment tribunal may consider a complaint under regulation 4 that is otherwise out of time if, in all the circumstances of the case, it considers it just and equitable to do so.
 
@@ -244,6 +244,8 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 [^f00007]: Footnote: An “employment tribunal” is a tribunal established under section 1 of the Employment Tribunals Act [1996 (c.17)](https://www.legislation.gov.uk/ukpga/1996/17).
 
 [^c-f06da1170ffb84be2dab2f172ccd01f1]: Commencement: Reg. 5 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^c-f829787b82eb5a3bcacf3beed49e56b9]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2018/579/regulation/5/1) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/758/regulation/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
 
 [^c-bd78d8a3d98f91e4f210a702d821c6f1]: Commencement: Reg. 6 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
 

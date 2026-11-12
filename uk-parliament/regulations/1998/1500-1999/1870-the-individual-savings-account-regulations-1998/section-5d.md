@@ -3,7 +3,7 @@ title: The Individual Savings Account Regulations 1998, section 5D
 act: The Individual Savings Account Regulations 1998
 section: 5D
 status: revised-with-pending-changes
-text_date: '2026-04-06'
+text_date: '2026-10-29'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1998/1870/section/5D
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Individual Savings Account Regulations 1998, section 5D
 
-> **Warning: changes not yet applied to this text (42).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/1998/1870
+> **Warning: changes not yet applied to this text (35).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/uksi/1998/1870
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -28,6 +28,7 @@ summary: ''
   - (i) a defaulted cash account subscription;
   - (ia)[^c-7bef2c7d22856d1ddd962f6cca0fdf32] a defaulted Lifetime ISA subscription;
   - (ib) a returned withdrawal from a Lifetime ISA following failure of a purchase to complete under paragraph 10(1) of the Schedule;
+  - (ic)[^c-2f0e273be3dc05302fb13b5e3335c620] a repayment of a withdrawal charge under paragraph 10A of the Schedule;
   - (ii) a defaulted investment subscription; [^c-907bb47791d1cbb3877907597e6b9b2f]...
   - (iia)[^c-f9e1e9e603acc51d826c0af30857a05f] a replacement subscription;
   - (iii) permitted in accordance with regulation 5DE; [^c-92d9ba1ea7c4864c0e994fe02b044801]...
@@ -53,6 +54,8 @@ summary: ''
 [^c-32089f6755af4b551305a9de2cc5ddd7]: Textual amendment: Word in reg. 5D(1) substituted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2017/466/regulation/10/a)
 
 [^c-7bef2c7d22856d1ddd962f6cca0fdf32]: Textual amendment: Reg. 5D(2)(a)(ia)(ib) inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2017/466/regulation/10/b)
+
+[^c-2f0e273be3dc05302fb13b5e3335c620]: Textual amendment: [Reg. 5D(2)(a)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5D/2/a)[(ic)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5D/2/ic) inserted (29.10.2026) by [The Individual Savings Account (Amendment) (No. 3) Regulations 2026 (S.I. 2026/1130)](https://www.legislation.gov.uk/uksi/2026/1130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/1130/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/3))
 
 [^c-907bb47791d1cbb3877907597e6b9b2f]: Textual amendment: Word in reg. 5D(2)(a)(ii) omitted (6.4.2015) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2015 (S.I. 2015/869)](https://www.legislation.gov.uk/uksi/2015/869), [regs. 1](https://www.legislation.gov.uk/uksi/2015/869/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/869/regulation/6/a)
 

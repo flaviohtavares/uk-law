@@ -2,8 +2,8 @@
 title: The Tribunal Procedure (Upper Tribunal) Rules 2008, section 1
 act: The Tribunal Procedure (Upper Tribunal) Rules 2008
 section: '1'
-status: revised-with-pending-changes
-text_date: '2026-09-30'
+status: revised
+text_date: '2026-11-06'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2008/2698/section/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Tribunal Procedure (Upper Tribunal) Rules 2008, section 1
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
+> Text as at 2026-11-06.
 
 ## 1. Citation, commencement, application and interpretation
 

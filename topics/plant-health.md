@@ -6,12 +6,12 @@ Laws in force under the legislation.gov.uk subject heading **PLANT HEALTH**. Rep
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Plant Health Act 1967](../uk-parliament/acts/public/1967/8-plant-health-act-1967.md) *(changes pending)* — 113 regulations on this topic made under it
-- [Agriculture (Miscellaneous Provisions) Act 1972](../uk-parliament/acts/public/1972/62-agriculture-miscellaneous-provisions-act-1972.md) — 30 regulations on this topic made under it
+- [Plant Health Act 1967](../uk-parliament/acts/public/1967/8-plant-health-act-1967.md) *(changes pending)* — 112 regulations on this topic made under it
+- [Agriculture (Miscellaneous Provisions) Act 1972](../uk-parliament/acts/public/1972/62-agriculture-miscellaneous-provisions-act-1972.md) — 29 regulations on this topic made under it
 
 ## Regulations
 
-349 in force.
+348 in force.
 
 **2026**
 
@@ -245,7 +245,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Plant Health (Amendment No.3) Order (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/493-the-plant-health-amendment-no-3-order-northern-ireland-2008.md) *(as originally made)*
 - [The Plant Health (Wales) (Amendment) (No. 2) Order 2008](../wales/regulations/2008/2500-2999/2913-the-plant-health-wales-amendment-no-2-order-2008.md) *(as originally made)*
 - [The Plant Health Fees (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/153-the-plant-health-fees-scotland-regulations-2008.md)
-- [The Potatoes Originating in Poland (Notification) (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/299-the-potatoes-originating-in-poland-notification-scotland-amendment-order-2008.md) *(as originally made)*
 - [The Seed Potatoes (Wales) (Amendment) Regulations 2008](../wales/regulations/2008/1000-1499/1063-the-seed-potatoes-wales-amendment-regulations-2008.md) *(as originally made)*
 
 **2007**

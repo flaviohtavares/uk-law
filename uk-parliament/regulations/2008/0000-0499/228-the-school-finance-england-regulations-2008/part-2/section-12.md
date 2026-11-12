@@ -2,8 +2,8 @@
 title: The School Finance (England) Regulations 2008, section 12
 act: The School Finance (England) Regulations 2008
 section: '12'
-status: revised-with-pending-changes
-text_date: '2008-02-29'
+status: repealed
+text_date: '2012-03-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/228/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,26 +12,20 @@ summary: ''
 
 # The School Finance (England) Regulations 2008, section 12
 
-> **Warning: changes not yet applied to this text (55).** Text as at 2008-02-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/228
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## 12. Redetermination of schools budgets and individual schools budgets[^c-dff961bbf5708c5adb8602d725e2a584]
+## 12. Redetermination of schools budgets and individual schools budgets[^c-99e0c642b6666baedd23fe151900fad4]
 
 *Extent: E+W*
 
-(1) A local education authority may make a redetermination of their schools budgets and individual schools budgets for funding period 1, 2 or 3 at any time before or during the funding period to which those budgets relate.
+**No longer in force.**
 
-(2) In making any such redetermination, a local education authority—
-
-- (a) may only reduce the amount of their schools budgets where they receive an amount of Dedicated Schools Grant which is lower than the amount on which they based their determinations under regulation 7;
-- (b) may not reduce their individual schools budget for funding period 1, 2 or 3 by making further deductions of central expenditure from their schools budgets unless they have obtained authorisation to do so from their schools forum or the Secretary of State under regulation 14(2) or (4); and
-- (c) must comply with the limits imposed by paragraph 36 of Schedule 2 and regulation 7(2) unless their schools forum or the Secretary of State authorise the variation those limits under regulation 14(2) or (4).
-
-(3) Before the beginning of funding period 1, a local education authority must advise schools of any circumstances they are aware of which will make it likely that a redetermination will be made in respect of funding periods 1, 2 and 3, and the nature of any redetermination likely to be made in particular circumstances.
-
-(4) Where a local education authority makes a redetermination under paragraph (1), they must give notice of that redetermination to the governing bodies of the schools which they maintain within 28 days of making the redetermination.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-dff961bbf5708c5adb8602d725e2a584]: Commencement: Reg. 12 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-99e0c642b6666baedd23fe151900fad4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/228) revoked (15.3.2012) by [The School Finance (England) Regulations 2012 (revoked) 2012 (S.I. 2012/335)](https://www.legislation.gov.uk/uksi/2012/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/335/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -2,8 +2,8 @@
 title: The Prisons and Young Offenders Institutions (Scotland) Rules 2011, section 123
 act: The Prisons and Young Offenders Institutions (Scotland) Rules 2011
 section: '123'
-status: revised-with-pending-changes
-text_date: '2025-11-10'
+status: revised
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2011/331/section/123
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Prisons and Young Offenders Institutions (Scotland) Rules 2011, section 123
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-11-10. See https://www.legislation.gov.uk/changes/affected/ssi/2011/331
+> Text as at 2026-10-29.
 >
 > Extent: Scotland.
 

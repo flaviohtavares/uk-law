@@ -25,7 +25,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 **2025**
 
 - [Disused Mine and Quarry Tips (Wales) Act 2025](../wales/acts/2025/4-disused-mine-and-quarry-tips-wales-act-2025/README.md)
-- [Health and Social Care (Wales) Act 2025](../wales/acts/2025/1-health-and-social-care-wales-act-2025.md) *(changes pending)*
+- [Health and Social Care (Wales) Act 2025](../wales/acts/2025/1-health-and-social-care-wales-act-2025.md)
 - [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025](../wales/acts/2025/3-legislation-procedure-publication-and-repeals-wales-act-2025/README.md) *(changes pending)*
 - [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025](../wales/acts/2025/5-visitor-accommodation-register-and-levy-etc-wales-act-2025/README.md) *(changes pending)*
 - [Welsh Language and Education (Wales) Act 2025](../wales/acts/2025/2-welsh-language-and-education-wales-act-2025.md) *(changes pending)*
@@ -172,11 +172,11 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 ## Wales Statutory Instruments
 
-3869 in force, by year:
+3871 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](../wales/regulations/2026/) | 131 |
+| [2026](../wales/regulations/2026/) | 133 |
 | [2025](../wales/regulations/2025/) | 120 |
 | [2024](../wales/regulations/2024/) | 107 |
 | [2023](../wales/regulations/2023/) | 101 |

@@ -3,9 +3,9 @@ title: The Social Security (Overpayments and Recovery) Regulations (Northern Ire
 id: nisr/2016/224
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2016-05-03'
-text_date: '2017-09-27'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2016/224
 pdf_urls:
@@ -13,7 +13,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/nisr/2016/224/pdfs/nisrem_20160224_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/224/pdfs/nisr_20160224_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/224/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -21,7 +21,7 @@ summary: ''
 
 # The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2017-09-27. See https://www.legislation.gov.uk/changes/affected/nisr/2016/224
+> Text as at 2026-10-30.
 >
 > Extent: Northern Ireland.
 
@@ -271,7 +271,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 
 (2) Subject to paragraphs (4) and (5), regulation 10 is to apply to the amount of state pension credit to which the liable person is presently entitled to the extent that there may be recovered in any one benefit week—
 
-- (a) in a case to which paragraphs (3) applies, an amount equivalent to not more than 25 per cent. of the standard allowance for a single person aged 25 or over under regulation 38 of the Universal Credit Regulations (amounts of elements); and
+- (a) in a case to which paragraphs (3) applies, an amount equivalent to not more than 40 per cent[^c-c2ee8f21b09e495486e0da21badd61d0]. of the standard allowance for a single person aged 25 or over under regulation 38 of the Universal Credit Regulations (amounts of elements); and
 - (b) in any other case, an amount equivalent to not more than 15 per cent. of that allowance.
 
 (3) This paragraph applies where deductions from state pension credit are made to recover from the liable person—
@@ -939,6 +939,8 @@ A full impact assessment has not been published for this instrument as it has no
 [^f00020]: Footnote: [S.R. 2016 No. 219](https://www.legislation.gov.uk/nisr/2016/219).
 
 [^c-e166a3da5c11b5476cfba35d0406c9d8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/224/regulation/14) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+
+[^c-c2ee8f21b09e495486e0da21badd61d0]: Textual amendment: Words in [reg. 14(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/14/2/a) substituted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2026/177/regulation/10)
 
 [^f00021]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); the definition of “benefit week” was substituted by regulation 3(2) of [S.R. 2009 No. 409](https://www.legislation.gov.uk/nisr/2009/409).
 

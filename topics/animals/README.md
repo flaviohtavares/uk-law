@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **ANIMALS**. Repealed
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Animal Health Act 1981](../../uk-parliament/acts/public/1981/22-animal-health-act-1981/README.md) *(changes pending)* — 561 regulations on this topic made under it
+- [Animal Health Act 1981](../../uk-parliament/acts/public/1981/22-animal-health-act-1981/README.md) *(changes pending)* — 562 regulations on this topic made under it
 - [The Diseases of Animals (Northern Ireland) Order 1981](../../northern-ireland/orders-in-council/1981/1115-the-diseases-of-animals-northern-ireland-order-1981/README.md) *(changes pending)* — 93 regulations on this topic made under it
 - [Animal Welfare Act 2006](../../uk-parliament/acts/public/2006/45-animal-welfare-act-2006/README.md) — 37 regulations on this topic made under it
 - [Animal Health and Welfare (Scotland) Act 2006](../../scotland/acts/2006/11-animal-health-and-welfare-scotland-act-2006/README.md) *(changes pending)* — 19 regulations on this topic made under it
@@ -30,7 +30,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 12 |
+| [2026](2026.md) | 13 |
 | [2025](2025.md) | 16 |
 | [2024](2024.md) | 26 |
 | [2023](2023.md) | 28 |
@@ -48,7 +48,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 26 |
 | [2010](2010.md) | 32 |
 | [2009](2009.md) | 30 |
-| [2008](2008.md) | 33 |
+| [2008](2008.md) | 32 |
 | [2007](2007.md) | 92 |
 | [2006](2006.md) | 52 |
 | [2005](2005.md) | 39 |

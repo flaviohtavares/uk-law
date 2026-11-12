@@ -5,14 +5,14 @@ type: ScottishAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2004-06-11'
-text_date: '2025-11-01'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2004/6
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2004/6/pdfs/aspen_20040006_en.pdf
 - http://www.legislation.gov.uk/asp/2004/6/pdfs/asp_20040006_en.pdf
 - http://www.legislation.gov.uk/asp/2004/6/data.pdf
-pending_changes: 11
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Nature Conservation (Scotland) Act 2004
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/asp/2004/6
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/asp/2004/6
 >
 > Extent: Scotland.
 
@@ -110,6 +110,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 #### Chapter 4 — General and supplementary
 
 - [Section 38 — Ramsar sites](part-2/section-38.md)
+- [Section 38A — Ramsar sites: power to make further provision](part-2/section-38a.md)
 - [Section 39 — Acquisition of land by SNH](part-2/section-39.md)
 - [Section 40 — Restoration orders](part-2/section-40.md)
 - [Section 41 — Signs etc.](part-2/section-41.md)
@@ -138,7 +139,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 55 — Crown application](part-5/section-55.md)
 - [Section 56 — Ancillary provision](part-5/section-56.md)
 - [Section 57 — Minor and consequential amendments and repeals](part-5/section-57.md)
-- [Section 58 — Interpretation](part-5/section-58.md)
+- [Section 58 — Interpretation and application](part-5/section-58.md)
 - [Section 59 — Short title and commencement](part-5/section-59.md)
 
 - [SCHEDULE 1](schedule-1.md)

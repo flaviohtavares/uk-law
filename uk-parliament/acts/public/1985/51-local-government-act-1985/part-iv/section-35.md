@@ -3,7 +3,7 @@ title: Local Government Act 1985, section 35
 act: Local Government Act 1985
 section: '35'
 status: revised-with-pending-changes
-text_date: '2026-04-29'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1985/51/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,15 @@ summary: ''
 
 # Local Government Act 1985, section 35
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
 > Extent: England, Wales.
 
-## 35. Disqualification.[^c3163491][^c3163501][^c3465441]
+## 35. Disqualification.[^c3163491][^c3163501][^c3465441][^c-9babc43d2d334288dabfdaf0d84f1fcc]
 
 *Extent: E+W*
 
-(1)[^c3163511][^c3163521] A person shall be disqualified for being appointed or being a member of a joint authority if he holds any paid office or employment (other than the office of chairman or vice-chairman or, in the case of a local authority which are operating executive arrangements which involve a leader and cabinet executive, the office of executive leader or member of the executive[^c3163531]) appointments or elections[^c3163541] to which are or may be made or confirmed by the authority or any committee or sub-committee of the authority or by a joint committee on which the authority is represented or by any person holding any such office or employment or by an elected mayor[^c3201791] .
+(1)[^c3163511][^c3163521] A person shall be disqualified for being appointed or being a member of a joint authority if he holds any paid office or employment (other than the office of chairman or vice-chairman or, in the case of a local authority which are operating executive arrangements which involve a leader and cabinet executive, the office of executive leader or member of the executive[^c3163531]) appointments or elections[^c3163541] to which are or may be made or confirmed by the authority or any committee or sub-committee of the authority or by a joint committee on which the authority is represented or by any person holding any such office or employment or by an elected mayor[^c3201791].
 
 (2)[^c3163511][^c3163521] A paid officer of a joint authority who is employed under the direction of—
 
@@ -47,6 +47,8 @@ and for this purpose “**leader and cabinet executive (England)**” and “**l
 [^c3163501]: Modification: S. 35 applied (with modifications) (8.1.1996) by [1995 c. x](https://www.legislation.gov.uk/ukla/1995/10), [s. 44](https://www.legislation.gov.uk/ukla/1995/10/section/44), [Sch.](https://www.legislation.gov.uk/ukla/1995/10/schedule)
 
 [^c3465441]: Modification: S. 35 excluded (W.) (1.4.2002) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (Wales) Order 2002 (S.I. 2002/808)](https://www.legislation.gov.uk/uksi/2002/808), [art. 41(7)](https://www.legislation.gov.uk/uksi/2002/808/article/41/7)
+
+[^c-9babc43d2d334288dabfdaf0d84f1fcc]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/1985/51/section/35) modified in part (E.) (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 5(d)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/5/d) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c3163511]: Modification: S. 35(1)(2) amended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 4(1)](https://www.legislation.gov.uk/uksi/1985/1884/article/4/1)(*d*)
 

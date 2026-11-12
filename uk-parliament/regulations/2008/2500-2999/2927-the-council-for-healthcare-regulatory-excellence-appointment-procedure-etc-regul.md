@@ -3,16 +3,16 @@ title: The Council for Healthcare Regulatory Excellence (Appointment, Procedure 
 id: uksi/2008/2927
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-11-10'
-text_date: '2008-11-10'
+text_date: '2024-12-13'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2927
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2927/pdfs/uksiem_20082927_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2927/pdfs/uksi_20082927_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2927/data.pdf
-pending_changes: 18
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008
 
-> **Warning: changes not yet applied to this text (18).** Text as at 2008-11-10. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2927
+> Text as at 2024-12-13.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
 *Extent: E+W+S+N.I.*
-
-**Not yet in force.**
 
 2008 No. 2927
 
@@ -59,7 +57,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
   - (a) in the case of the appointment of the chair, the Privy Council; and
   - (b) in the case of the appointment of a non-executive member, the person who appoints that member under paragraph 4 of Schedule 7 to the 2002 Act;
 - “the chair” means the chair of the Council;
-- “the Council” means the Council for Healthcare Regulatory Excellence[^f00002];
+- “the Council” means the Professional Standards Authority for Health and Social Care;[^c-db063b90027a32a2fd3e3eb1c4c89d77]
 - “final outcome”, in relation to any proceedings where there are rights of appeal, means the outcome of the proceedings—
   - (a) once the period for bringing an appeal has expired without an appeal being brought; or
   - (b) if an appeal is brought in accordance with those rights, once those rights have been exhausted;
@@ -105,19 +103,21 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
     from being concerned with the management or control of any body;
 - (h) has been included by—
-  - (i) the Independent Barring Board in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00013] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00014], or
+  - (i) the Disclosure and Barring Service[^c-d9264ec785c6233e853973dcd74188ea] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00013] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00014], or
   - (ii) the Scottish Ministers in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00015]);
 - (i) is a member of the Council of, or a Council that is, a regulatory body mentioned in section 25(3) of the 2002 Act; or
 - (j) is or has been a member of a profession regulated by the—
   - (i) Chiropractors Act 1994[^f00016].
   - (ii) Dentists Act 1984[^f00017],
-  - (iii) Health Professions Order 2001[^f00018],
+  - (iii)[^c-16aac783fb79e6da4193796bb6bacbb8][^c-982d0e364abecf944d6fdefe3508af4d] Health and Social Work Professions Order 2001,
   - (iv) Nursing and Midwifery Order 2001[^f00019],
   - (v) Medical Act 1983[^f00020],
   - (vi) Osteopaths Act 1993[^f00021],
   - (vii) Opticians Act 1989[^f00022],
-  - (viii) Pharmacists and Pharmacy Technicians Order 2007[^f00023], and
-  - (ix) Pharmacy (Northern Ireland) Order 1976[^f00024].
+  - (viii)[^c-cdb2f3b9d1d4476dcc27863784c110a6] Pharmacy Order 2010, [^c-df6da78340913724ed32e642c7ad1397]...
+  - (ix) Pharmacy (Northern Ireland) Order 1976[^f00024] ;[^c-c31b9ea648ad8ccc2bd51437d944e2f6] [^c-d2af771ba6fae098f58361da3d1df6c8]...
+  - (x) Social Workers Regulations 2018 ; and[^c-5f8d6c30ca2849dd52036157f81e14d4]
+  - (xi) the Anaesthesia Associates and Physician Associates Order 2024.
 
 ## 3. Tenure of appointment of chair and non-executive members[^c-d6182f29cb2ee9dda57111352f076f9d]
 
@@ -228,15 +228,15 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00001]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17); paragraphs 4 and 6 of Schedule 7 have been amended by section 114 of the Health and Social Care Act 2008 ([c.14](https://www.legislation.gov.uk/ukpga/2008/14)).
 
-[^c-3bb4809179a6fb5aeb73363dc58beb7d]: Commencement: Reg. 1 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+[^c-3bb4809179a6fb5aeb73363dc58beb7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1) in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
 
-[^f00002]: Footnote: The Council’s name was changed by section 113 of the Health and Social Care Act 2008.
+[^c-db063b90027a32a2fd3e3eb1c4c89d77]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/2) substituted (1.12.2012) by [The Health and Social Care Act 2012 (Consequential Amendments – the Professional Standards Authority for Health and Social Care) Order 2012 (S.I. 2012/2672)](https://www.legislation.gov.uk/uksi/2012/2672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2672/article/1/2), [4](https://www.legislation.gov.uk/uksi/2012/2672/article/4)
 
 [^f00003]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^f00004]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
 
-[^c-a3fbe5b336995bd2778b2fcfac769014]: Commencement: Reg. 2 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+[^c-a3fbe5b336995bd2778b2fcfac769014]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2927/regulation/2) in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
 
 [^f00005]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
@@ -254,6 +254,8 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00012]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
+[^c-d9264ec785c6233e853973dcd74188ea]: Textual amendment: Words in [reg. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/2/2/h/i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)(3)(j)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1/3/j) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
 [^f00013]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00014]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
@@ -264,7 +266,9 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00017]: Footnote: [1984 c.24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^f00018]: Footnote: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
+[^c-16aac783fb79e6da4193796bb6bacbb8]: Modification: [Reg. 2(2)(j)(iii)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/2/2/j/iii) modified (1.8.2012) by [The General Social Care Council (Transfer of Register and Abolition—Transitional and Saving Provision) Order of Council 2012 (S.I. 2012/1480)](https://www.legislation.gov.uk/uksi/2012/1480), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1480/article/1/2/b), [16](https://www.legislation.gov.uk/uksi/2012/1480/article/16)
+
+[^c-982d0e364abecf944d6fdefe3508af4d]: Textual amendment: [Reg. 2(2)(j)(iii)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/2/2/j/iii) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2012/1479/schedule/paragraph/56)
 
 [^f00019]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253).
 
@@ -274,22 +278,30 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00022]: Footnote: [1989 c.44](https://www.legislation.gov.uk/ukpga/1989/44).
 
-[^f00023]: Footnote: [S.I. 2007/289](https://www.legislation.gov.uk/uksi/2007/289).
+[^c-cdb2f3b9d1d4476dcc27863784c110a6]: Textual amendment: [Reg. 2(2)(j)(viii)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/2/2/j/viii) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 67](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/67) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+
+[^c-df6da78340913724ed32e642c7ad1397]: Textual amendment: Word in [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/2/2/j) omitted (2.12.2019) by virtue of [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 19(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/19/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^f00024]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213).
 
-[^c-d6182f29cb2ee9dda57111352f076f9d]: Commencement: Reg. 3 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+[^c-c31b9ea648ad8ccc2bd51437d944e2f6]: Textual amendment: [Reg. 2(2)(j)(x)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/2/2/j/x) and word inserted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 19(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/19/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^c-00ca303bbf3c3188e1c5fbc0ba22bbc1]: Commencement: Reg. 4 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+[^c-d2af771ba6fae098f58361da3d1df6c8]: Textual amendment: Word in [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/2/2/j) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 16(a)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/16/a)
 
-[^c-47b57bc30f917b7aa61638019ba4d173]: Commencement: Reg. 5 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+[^c-5f8d6c30ca2849dd52036157f81e14d4]: Textual amendment: [Reg. 2(2)(j)(xi)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/2/2/j/xi) and word inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 16(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/16/b)
 
-[^c-f5569d86d6c4b424d20ae06674e385b3]: Commencement: Reg. 6 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+[^c-d6182f29cb2ee9dda57111352f076f9d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2927/regulation/3) in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
 
-[^c-4bf9bd5f49a3419e704d7562878dcb7b]: Commencement: Reg. 7 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+[^c-00ca303bbf3c3188e1c5fbc0ba22bbc1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/2927/regulation/4) in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
 
-[^c-a84ea28c91b17103120458e0282a6d69]: Commencement: Reg. 8 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+[^c-47b57bc30f917b7aa61638019ba4d173]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/2927/regulation/5) in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
 
-[^c-74c1fb2e0cd8004392d030c2ad4d4a16]: Commencement: Reg. 9 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+[^c-f5569d86d6c4b424d20ae06674e385b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/2927/regulation/6) in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
+[^c-4bf9bd5f49a3419e704d7562878dcb7b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/2927/regulation/7) in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
+[^c-a84ea28c91b17103120458e0282a6d69]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/2927/regulation/8) in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
+
+[^c-74c1fb2e0cd8004392d030c2ad4d4a16]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/2927/regulation/9) in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2927/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2002/2376](https://www.legislation.gov.uk/uksi/2002/2376).

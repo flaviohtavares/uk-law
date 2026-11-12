@@ -2,8 +2,8 @@
 title: The Tribunal Procedure (Upper Tribunal) Rules 2008, section 44
 act: The Tribunal Procedure (Upper Tribunal) Rules 2008
 section: '44'
-status: revised-with-pending-changes
-text_date: '2026-09-30'
+status: revised
+text_date: '2026-11-06'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2008/2698/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Tribunal Procedure (Upper Tribunal) Rules 2008, section 44
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
+> Text as at 2026-11-06.
 
 ## 44. Application for permission to appeal
 
@@ -65,6 +65,8 @@ summary: ''
 - (a) the Upper Tribunal must nonetheless consider at the hearing whether to give or refuse permission to appeal; and
 - (b) if permission to appeal is given to a party, it shall be deemed for the purposes of section 13(4) of the 2007 Act to be given on application by that party.
 
+(4BA)[^c-9d70110f7838b77c03c86fc3c2a9e024] Where a decision that disposes of immigration judicial review proceedings is not given at a hearing, a party may apply in writing for permission to appeal, and the application must be received by the Upper Tribunal no later than twelve working days after the Upper Tribunal sent notice of its decision to that party.
+
 (4C) Where a decision that disposes of immigration judicial review proceedings is given pursuant to rule 30 and the Upper Tribunal records under rule 30(4A) that the application is totally without merit, an application under paragraph (1) must be sent or delivered to the Upper Tribunal so that it is received within 7 days after the later of the dates on which the Upper Tribunal sent to the applicant—
 
 - (a) written reasons for the decision; or
@@ -110,6 +112,8 @@ summary: ''
 [^c-897246e8aeafc744ad39e7666afffaef]: Textual amendment: Rule 44(4A) inserted (11.12.2012) by [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2012 (S.I. 2012/2890)](https://www.legislation.gov.uk/uksi/2012/2890), [rules 1](https://www.legislation.gov.uk/uksi/2012/2890/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/2890/rule/3/b)
 
 [^c-8982f694b5d08d19c07b2b984af8581e]: Textual amendment: [Rule 44(4A)-(4C)](https://www.legislation.gov.uk/uksi/2008/2698/rule/44/4A) substituted for [rule 44(4A)](https://www.legislation.gov.uk/uksi/2008/2698/rule/44/4A) (1.11.2013) by [The Tribunal Procedure (Amendment No. 4) Rules 2013 (S.I. 2013/2067)](https://www.legislation.gov.uk/uksi/2013/2067), [rules 1](https://www.legislation.gov.uk/uksi/2013/2067/article/1), [18(c)](https://www.legislation.gov.uk/uksi/2013/2067/rule/18/c)
+
+[^c-9d70110f7838b77c03c86fc3c2a9e024]: Textual amendment: [Rule 44(4BA)](https://www.legislation.gov.uk/uksi/2008/2698/rule/44/4BA) inserted (6.11.2026) by [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2026 (S.I. 2026/1084)](https://www.legislation.gov.uk/uksi/2026/1084), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/1084/rule/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2026/1084/rule/2/6)
 
 [^c-b927f66835a27005f848bd4960df9711]: Textual amendment: Word in rule 44(6) inserted (15.2.2010) by [The Tribunal Procedure (Amendment No. 2) Rules 2010 (S.I. 2010/44)](https://www.legislation.gov.uk/uksi/2010/44), [rules 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1), [22(4)](https://www.legislation.gov.uk/uksi/2010/44/rule/22/4)
 

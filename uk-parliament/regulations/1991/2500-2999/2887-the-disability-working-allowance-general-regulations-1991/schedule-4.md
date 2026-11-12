@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 act: The Disability Working Allowance (General) Regulations 1991
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '2001-08-07'
+text_date: '2001-11-13'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-11-13. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 
@@ -23,6 +23,37 @@ summary: ''
 Regulation 32(2)
 
 **1.**[^c-ad62612fced5a18ea9238ab9c10dad0f] The dwelling, together with any garage, garden and outbuildings, normally occupied by the claimant as his home including any premises not so occupied which it is impracticable or unreasonable to sell separately, in particular, in Scotland, any croft land on which the dwelling is situated; but, notwithstanding regulation 12 (calculation of income and capital of members of claimant’s family and of a polygamous marriage), only one dwelling shall be disregarded under this paragraph.
+
+**1A.**[^c-805abc1b83571e9cf824e10797ec2d8b] (1) The dwelling, together with any garden, garage and outbuildings, which the claimant intends in due course to occupy as his home but which he currently does not so occupy solely because he resides in living accommodation which is for him job-related.
+
+(2) Notwithstanding regulation 12, only one dwelling shall be disregarded under this paragraph.
+
+(3) In sub-paragraph (1) the reference to a dwelling includes any premises which it is impracticable or unreasonable to sell separately from the dwelling, in particular, in Scotland, any croft land on which the dwelling is situated.
+
+(4) For the purposes of sub-paragraph (1) living accommodation is job-related for a claimant if it meets either of the following conditions:
+
+***Condition 1***
+
+The living accommodation is provided for the claimant by reason of his employment, or for his partner by reason of her employment, in any of the following cases—
+
+- (i) where it is necessary for the proper performance of the duties of the employment that the employee should reside in that accommodation;
+- (ii) where the accommodation is provided for the better performance of the duties of the employment, and it is one of the kinds of employment in the case of which it is customary for employers to provide living accommodation for employees;
+- (iii) where, there being a special threat to the employee’s security, special security arrangements are in force and the employee resides in the accommodation as part of those arrangements.
+
+***Condition 2***
+
+The living accommodation is provided for the claimant or his partner under a contract entered into with a person with whom the claimant or his partner is not connected and requiring him or his partner—
+
+- (a) to carry on a particular trade, profession, business or vocation;
+- (b) to carry on that trade, profession, business or vocation on premises or other land provided by another person (whether under a tenancy or otherwise); and
+- (c) to live either on those premises or on other premises provided by that other person.
+
+(5) For the purposes of Condition 2 the claimant or his partner is connected with another person (“A”) in any of the following circumstances—
+
+- (a) A is a relative, or the partner of a relative, of the claimant or his partner;
+- (b) A is a person with whom the claimant or his partner is carrying on a trade, profession or business in partnership, or the partner or a relative of a person with whom the claimant or his partner is carrying on a trade, profession or business in partnership.
+
+(6) In sub-paragraph (5) “relative” means brother, sister, ancestor or lineal descendant.
 
 **2.**[^c-4c5ac1a2ef00985d21bd6225e4830a3e] Any premises acquired for occupation by the claimant which he intends to occupy as his home within 26 weeks of the date of acquisition or such longer period as is reasonable in the circumstances to enable the claimant to obtain possession and commence occupation of the premises.
 
@@ -295,11 +326,17 @@ but only to the extent that such payments do not exceed the total amount of any 
 
 **67.**[^c-5194e5792348e6fb2f9d287484b6cba7] Any discretionary housing payment paid pursuant to regulation 2(1) of the Discretionary Financial Assistance Regulations 2001.
 
+**68.**[^c-c314ee8c3b60094f8153d20c22dc0cf9] (1) Where a payment has been made to the claimant or his partner by, or on behalf of, a government of a country outside the United Kingdom, either from its own resources or with contributions from any other organisation, by way of compensation for a victim of National Socialism, the amount of that payment.
+
+(2) In sub-paragraph (1) the reference to a victim of National Socialism is a reference to a person who was required to work as a slave or forced labourer for National Socialists or their sympathisers during the Second World War, or suffered property loss, or suffered injury, or is the parent of a child who died, at the hands of National Socialists or their sympathisers during the Second World War.
+
 ## Annotations
 
 [^c-88a0f72033cc5573c139f7045b308f62]: Modification: [Sch. 4 paras. 55](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/55), [56](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/56) modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [17(1)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/17/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/17/2/b) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2000/3134/regulation/11), [19](https://www.legislation.gov.uk/uksi/2000/3134/regulation/19))
 
 [^c-ad62612fced5a18ea9238ab9c10dad0f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/1) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+
+[^c-805abc1b83571e9cf824e10797ec2d8b]: Textual amendment: [Sch. 4 para. 1A](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/1A) inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 8) Regulations 2001 (S.I. 2001/3085)](https://www.legislation.gov.uk/uksi/2001/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3085/regulation/1), [4](https://www.legislation.gov.uk/uksi/2001/3085/regulation/4)
 
 [^c-4c5ac1a2ef00985d21bd6225e4830a3e]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/2) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
@@ -502,3 +539,5 @@ but only to the extent that such payments do not exceed the total amount of any 
 [^c-f861fe6379cf19525246bc90f58ac6a2]: Textual amendment: [Sch. 4 para. 66](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/66) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 4) Regulations 2001 (S.I. 2001/1082)](https://www.legislation.gov.uk/uksi/2001/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1082/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2001/1082/regulation/9)
 
 [^c-5194e5792348e6fb2f9d287484b6cba7]: Textual amendment: [Sch. 4 para. 67](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/67) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 6) Regulations 2001 (S.I. 2001/2220)](https://www.legislation.gov.uk/uksi/2001/2220), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/5/2)
+
+[^c-c314ee8c3b60094f8153d20c22dc0cf9]: Textual amendment: [Sch. 4 para. 68](https://www.legislation.gov.uk/uksi/1991/2887/schedule/4/paragraph/68) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 9) Regulations 2001 (S.I. 2001/3454)](https://www.legislation.gov.uk/uksi/2001/3454), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3454/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2001/3454/regulation/5)

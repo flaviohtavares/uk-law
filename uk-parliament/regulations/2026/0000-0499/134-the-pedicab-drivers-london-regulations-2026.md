@@ -3,15 +3,15 @@ title: The Pedicab Drivers (London) Regulations 2026
 id: uksi/2026/134
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2026-02-18'
-text_date: '2026-03-09'
+text_date: '2026-10-27'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/134
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/134/pdfs/uksi_20260134_en.pdf
 - http://www.legislation.gov.uk/uksi/2026/134/data.pdf
-pending_changes: 8
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Pedicab Drivers (London) Regulations 2026
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-03-09. See https://www.legislation.gov.uk/changes/affected/uksi/2026/134
+> Text as at 2026-10-27.
 >
 > Extent: England, Wales.
 
@@ -47,7 +47,7 @@ Transport for London, having consulted in accordance with section 1(3) of the Pe
 
 (2) Except for regulation 3, these Regulations come into force on 9th March 2026.
 
-(3) Regulation 3 comes into force on 30th October 2026.
+(3) Regulation 3 comes into force on 27th November[^c-21dceab25930d0a247c775a593d2439d] 2026.
 
 ### 2. Interpretation[^c-8c6fb079e6c3309e1531eeadc33565fa]
 
@@ -73,7 +73,8 @@ In these Regulations—
 - “**operator**” has the same meaning as in the Pedicab Operators (London) Regulations 2026[^f00009];
 - “**the passenger information card**” means the document issued by TfL which primarily sets out the fares which may be charged by a London pedicab driver under the fares regulations as well as passenger safety information;
 - “**pedicab**” has the same meaning as in section 1(2) of the Pedicab (London) Act 2024 Act[^f00010]; and
-- “**TfL**” means Transport for London.
+- “**TfL**” means Transport for London;
+- “vehicle insurance” means the insurance held under regulation 5(1) (London pedicab vehicle insurance) of the Pedicab Vehicles (London) Regulations 2026[^c-af9546f0a0200ca18eea1c688d3b4ef2].
 
 ## PART 2 — LICENCES
 
@@ -117,11 +118,16 @@ In these Regulations—
 
 (5) A person who without reasonable excuse fails to comply with any requirement or direction under this regulation to return a pedicab driver’s licence or form of identification issued under regulation 6 is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-(6) A person to whom a London pedicab driver’s licence is issued must maintain in force a policy of insurance against public liability risks which provides a minimum indemnity of £5,000,000 in respect of any one event.
+(6) A person to whom a London pedicab driver’s licence is issued must maintain in force a policy of insurance as specified by TfL[^c-9993ac8b26e92633448994cf29b95a30].
 
 (7) A person who without reasonable excuse fails to comply with paragraph (6) is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-(8) A London pedicab driver’s licence holder must, when driving a pedicab or plying for hire, have in their possession a valid certificate of the insurance held under paragraph (6) when driving a pedicab or plying for hire and must produce it for inspection if requested to do so by a police constable or authorised officer.
+(8) A London pedicab driver’s licence holder must, when driving a pedicab or plying for hire, have in their possession —[^c-3dd9ab972dcb88dadd86295c8936c85a]
+
+- (a) a valid certificate of the insurance held under paragraph (6) [^c-6530bbadd2b2d17980b27ae05c26cec2]... ; and[^c-8f588f5e975b7f3c7504ba8cdd53e621]
+- (b) a copy of the certificate of vehicle insurance
+
+and must produce them[^c-4dec50d1352dbbe70e144ab601b9a67b] for inspection if requested to do so by a police constable or authorised officer.
 
 (9) A person who without reasonable excuse fails to comply with paragraph (8) is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
@@ -594,6 +600,8 @@ Regulation 23 provides that applicants may request TfL to reconsider decisions t
 
 [^c-1604bd0c4ffa389f1fcd483691baed05]: Commencement: Reg. 1 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
 
+[^c-21dceab25930d0a247c775a593d2439d]: Textual amendment: Words in reg. 1(3) substituted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [8](https://www.legislation.gov.uk/uksi/2026/1122/regulation/8)
+
 [^c-8c6fb079e6c3309e1531eeadc33565fa]: Commencement: Reg. 2 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
 
 [^f00001]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13).
@@ -616,11 +624,23 @@ Regulation 23 provides that applicants may request TfL to reconsider decisions t
 
 [^f00010]: Footnote: [2024 c. 7](https://www.legislation.gov.uk/ukpga/2024/7).
 
+[^c-af9546f0a0200ca18eea1c688d3b4ef2]: Textual amendment: Words in reg. 2 inserted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [9](https://www.legislation.gov.uk/uksi/2026/1122/regulation/9)
+
 [^c-bbf66107088526c17e69c1910fa58f59]: Commencement: Reg. 3 in force at 30.10.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/3)
 
 [^c-bb981d9072ea32977fc067716be60b7e]: Commencement: Reg. 4 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
 
 [^c-46673d19be9ce6f09a6cd43fce69fda6]: Commencement: Reg. 5 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
+
+[^c-9993ac8b26e92633448994cf29b95a30]: Textual amendment: Words in reg. 5(6) substituted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/10/2)
+
+[^c-3dd9ab972dcb88dadd86295c8936c85a]: Textual amendment: Words in reg. 5(8) inserted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/10/3/a)
+
+[^c-6530bbadd2b2d17980b27ae05c26cec2]: Textual amendment: Words in reg. 5(8) omitted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/10/3/b)
+
+[^c-8f588f5e975b7f3c7504ba8cdd53e621]: Textual amendment: Reg. 5(8)(b) and word inserted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/10/3/b)
+
+[^c-4dec50d1352dbbe70e144ab601b9a67b]: Textual amendment: Word in reg. 5(8) substituted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/10/3/c)
 
 [^c-f603c7649df116376762e751b255de22]: Commencement: Reg. 6 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
 

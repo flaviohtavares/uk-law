@@ -287,7 +287,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010](../uk-parliament/regulations/2010/1000-1499/1159-the-environmental-civil-sanctions-miscellaneous-amendments-england-regulations-2.md)
 - [The First-tier Tribunal (Gambling) Fees (Amendment) Order 2010](../uk-parliament/regulations/2010/0500-0999/633-the-first-tier-tribunal-gambling-fees-amendment-order-2010.md) *(as originally made)*
 - [The First-tier Tribunal (Gambling) Fees Order 2010](../uk-parliament/regulations/2010/0000-0499/42-the-first-tier-tribunal-gambling-fees-order-2010.md)
-- [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010](../uk-parliament/regulations/2010/2500-2999/2655-the-first-tier-tribunal-and-upper-tribunal-chambers-order-2010.md) *(changes pending)*
+- [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010](../uk-parliament/regulations/2010/2500-2999/2655-the-first-tier-tribunal-and-upper-tribunal-chambers-order-2010.md)
 - [The Infrastructure Planning (Examination Procedure) Rules 2010](../uk-parliament/regulations/2010/0000-0499/103-the-infrastructure-planning-examination-procedure-rules-2010.md)
 - [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010](../uk-parliament/regulations/2010/0000-0499/21-the-transfer-of-functions-of-the-asylum-and-immigration-tribunal-order-2010/README.md)
 - [The Transfer of Tribunal Functions Order 2010](../uk-parliament/regulations/2010/0000-0499/22-the-transfer-of-tribunal-functions-order-2010/README.md)
@@ -338,7 +338,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Tribunal Procedure (First-tier Tribunal) (Health, Education and Social Care Chamber) Rules 2008](../uk-parliament/regulations/2008/2500-2999/2699-the-tribunal-procedure-first-tier-tribunal-health-education-and-social-care-cham.md)
 - [The Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008](../uk-parliament/regulations/2008/2500-2999/2685-the-tribunal-procedure-first-tier-tribunal-social-entitlement-chamber-rules-2008.md)
 - [The Tribunal Procedure (First-tier Tribunal) (War Pensions and Armed Forces Compensation Chamber) Rules 2008](../uk-parliament/regulations/2008/2500-2999/2686-the-tribunal-procedure-first-tier-tribunal-war-pensions-and-armed-forces-compens.md)
-- [The Tribunal Procedure (Upper Tribunal) Rules 2008](../uk-parliament/regulations/2008/2500-2999/2698-the-tribunal-procedure-upper-tribunal-rules-2008/README.md) *(changes pending)*
+- [The Tribunal Procedure (Upper Tribunal) Rules 2008](../uk-parliament/regulations/2008/2500-2999/2698-the-tribunal-procedure-upper-tribunal-rules-2008/README.md)
 - [The Tribunals, Courts and Enforcement Act 2007 (Commencement No. 5 and Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/1500-1999/1653-the-tribunals-courts-and-enforcement-act-2007-commencement-no-5-and-transitional.md) *(as originally made)*
 - [The Tribunals, Courts and Enforcement Act 2007 (Commencement No. 6 and Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/2500-2999/2696-the-tribunals-courts-and-enforcement-act-2007-commencement-no-6-and-transitional.md) *(as originally made)*
 - [The Tribunals, Courts and Enforcement Act 2007 (Transitional Judicial Pensions Provisions) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2697-the-tribunals-courts-and-enforcement-act-2007-transitional-judicial-pensions-pro.md) *(as originally made)*

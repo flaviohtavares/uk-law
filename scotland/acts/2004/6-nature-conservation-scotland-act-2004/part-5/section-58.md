@@ -3,7 +3,7 @@ title: Nature Conservation (Scotland) Act 2004, section 58
 act: Nature Conservation (Scotland) Act 2004
 section: '58'
 status: revised-with-pending-changes
-text_date: '2025-11-01'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2004/6/section/58
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Nature Conservation (Scotland) Act 2004, section 58
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/asp/2004/6
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/asp/2004/6
 >
 > Extent: Scotland.
 
-## 58. Interpretation[^c-f8a1e0ced1808c8b01e938c2ff5b260b]
+## 58. Interpretation and application[^c-f8a1e0ced1808c8b01e938c2ff5b260b][^c-8d1b871a52caf3b7055c3722fb63966b]
 
 *Extent: S*
 
@@ -44,7 +44,7 @@ summary: ''
 - “**protected natural feature**” means a natural feature—
   - (a) which is specified in an SSSI notification, or
   - (b) by reason of which a nature conservation order has effect,
-- “**public body or office-holder**” includes a statutory undertaker and any person exercising functions of a public nature, but does not include any court or any tribunal or body exercising the judicial power of the State,
+- [^c-32d233289b07688d387adff094faacc8]...
 - “**relevant regulatory authority**” has the meaning given in section 15(2),
 - “**revoking order**” has the meaning given in section 24(1),
 - “**site management statement**” has the meaning given in section 4(2),
@@ -69,11 +69,25 @@ summary: ''
 - (a) no longer consider the land to which it relates to be of special interest by reason of that feature, or
 - (b) consider the degree to which the land is of special interest by reason of that feature to have decreased significantly.
 
+(4)[^c-cdc413a3c8862565cd2edfbf7fe52821] For the purposes of this Act (unless the context otherwise requires), a reference to a “public body or office-holder”—
+
+- (a) is a reference to (any of)—
+  - (i) a Scottish public authority,
+  - (ii) so far as not falling within sub-paragraph (i), a cross-border public authority, and
+  - (iii) a statutory undertaker and any person exercising functions of a public nature, but
+- (b) does not include—
+  - (i) any court or tribunal or body exercising the judicial power of the state, or
+  - (ii) any body to which paragraph 3(2) of Part III of schedule 5 of the Scotland Act 1998 applies.
+
 ## Annotations
 
 [^c-f8a1e0ced1808c8b01e938c2ff5b260b]: Commencement: S. 58 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
+[^c-8d1b871a52caf3b7055c3722fb63966b]: Textual amendment: [S. 58](https://www.legislation.gov.uk/asp/2004/6/section/58) title substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 50(3)](https://www.legislation.gov.uk/asp/2026/6/section/50/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z5)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z5)
+
 [^c-ec374c6f2c077f22536ed6fb8a0a823e]: Textual amendment: Words in s. 58(1) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 2(3)(d)](https://www.legislation.gov.uk/asp/2010/8/section/2/3/d), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+
+[^c-32d233289b07688d387adff094faacc8]: Textual amendment: Words in [s. 58(1)](https://www.legislation.gov.uk/asp/2004/6/section/58/1) repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 50(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/50/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z5)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z5)
 
 [^c-b3cb8ff269ef5014a62bcb11c36efa96]: Textual amendment: Words in s. 58(1) inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 37(4)(a)](https://www.legislation.gov.uk/asp/2011/6/section/37/4/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(n)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/n)
 
@@ -84,3 +98,5 @@ summary: ''
 [^c-961a00b897c90fa10bccf80be3646f03]: Textual amendment: Words in s. 58(1) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2024/706/regulation/18); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
 [^c-1ba183a40a24212cc6a982a67a65731f]: Textual amendment: Words in s. 58(1) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/58)
+
+[^c-cdc413a3c8862565cd2edfbf7fe52821]: Textual amendment: [S. 58(4)](https://www.legislation.gov.uk/asp/2004/6/section/58/4) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 50(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/50/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z5)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z5)

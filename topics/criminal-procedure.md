@@ -22,7 +22,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2026**
 
 - [The Bail and Release from Custody (Scotland) Act 2023 (Commencement No. 3) Regulations 2026](../scotland/regulations/2026/0000-0499/24-the-bail-and-release-from-custody-scotland-act-2023-commencement-no-3-regulation.md) *(as originally made)*
-- [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/960-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulati.md) *(as originally made)*
+- [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/960-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulati.md)
 - [The Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1158-the-crime-and-policing-act-2026-commencement-no-5-regulations-2026.md) *(as originally made)*
 - [The Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (Commencement No. 1 and Transitional Provision) Regulations 2026](../scotland/regulations/2026/0000-0499/85-the-criminal-justice-modernisation-and-abusive-domestic-behaviour-reviews-scotla.md) *(as originally made)*
 - [The Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (Commencement No. 2) Regulations 2026](../scotland/regulations/2026/0000-0499/294-the-criminal-justice-modernisation-and-abusive-domestic-behaviour-reviews-scotla.md) *(as originally made)*

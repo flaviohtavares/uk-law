@@ -3,15 +3,15 @@ title: The Pre-release Access to Official Statistics Order 2008
 id: uksi/2008/2998
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-11-18'
-text_date: null
-extent: null
+text_date: '2013-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2998
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2998/pdfs/uksi_20082998_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2998/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/2998/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Pre-release Access to Official Statistics Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2998
 
@@ -41,11 +45,11 @@ In accordance with section 11(7) of that Act the Minister for the Cabinet Office
 
 In accordance with section 65(5)(a) of that Act a draft of this Order has been approved by resolution of each House of Parliament.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-fc88e815f7286cd62c3f159f70214b01]
 
 This Order may be cited as the Pre-release Access to Official Statistics Order 2008 and comes into force on 1st December 2008.
 
-## 2. Pre-release access
+## 2. Pre-release access[^c-bb3b9012bcf12b7351e49a2201581c1f]
 
 The Schedule sets out the rules and principles relating to the granting of pre-release access to official statistics that are not wholly Scottish devolved statistics, Welsh devolved statistics, or Northern Ireland devolved statistics.
 
@@ -61,11 +65,11 @@ Article 2
 
 ### PART 1 — Generally applicable rules and principles
 
-**1.** Pre-release access may only be granted in accordance with the rules and principles set out in this Schedule.
+**1.**[^c-c38c6654df06e685151b022dced17ff9] Pre-release access may only be granted in accordance with the rules and principles set out in this Schedule.
 
-**2.** Only the person responsible may grant pre-release access.
+**2.**[^c-50e02075f730e08269c97e607e8ef582] Only the person responsible may grant pre-release access.
 
-**3.** (1) The person responsible—
+**3.**[^c-debef3cdd394a09dc49847af26548a7a] (1) The person responsible—
 
 - (a) may only grant pre-release access where to deny such access would, in the opinion of the person responsible, significantly impede—
   - (i) the provision of responses to questions or the making of statements about an official statistic at or shortly after the time of publication of that statistic; or
@@ -90,9 +94,9 @@ Article 2
 
 (3) For the purposes of this paragraph, “government policy” includes the policy of the Scottish Administration, the policy of the Executive Committee of the Northern Ireland Assembly and the policy of the Welsh Assembly Government.
 
-**4.** Subject to paragraph 5, the person responsible may not grant pre-release access for a period in excess of 24 hours prior to the time set for the publication of an official statistic.
+**4.**[^c-4726af2177dc06f4643185a0224a32ed] Subject to paragraph 5, the person responsible may not grant pre-release access for a period in excess of 24 hours prior to the time set for the publication of an official statistic.
 
-**5.** (1) In exceptional circumstances only, the person responsible may grant pre-release access to—
+**5.**[^c-60316a855056762874ac1790f4dd0c89] (1) In exceptional circumstances only, the person responsible may grant pre-release access to—
 
 - (a) an eligible person for a period in excess of 24 hours prior to the time set for the publication of an official statistic if in the opinion of the person responsible the public benefit likely to result from such access significantly outweighs the detriment to public trust in official statistics likely to result from such access;
 - (b) a person who is not an eligible person (either within the period of 24 hours prior to the time set for the publication of an official statistic or before this period) if an eligible person who has been granted pre-release access to an official statistic makes representations to the person responsible that pre-release access is needed for the purposes of paragraph 3(1)(a)(ii) in relation to that statistic.
@@ -114,7 +118,7 @@ Article 2
 - (a) paragraph 3(1)(b) does not apply to sub-paragraph (1)(b),
 - (b) paragraph 3(1)(c) does not apply.
 
-**6.** (1) An eligible person who receives pre-release access must not disclose—
+**6.**[^c-cb2b46c27b067c0a6f47d006ab02b37f] (1) An eligible person who receives pre-release access must not disclose—
 
 - (a) the statistic,
 - (b) any part of a publication where that part includes that statistic, or
@@ -127,26 +131,26 @@ until after the official statistic has been published.
 - (a) for personal gain;
 - (b) to take any action (other than the preparation of responses or statements as referred to in paragraph 3(1)(a)(i)) for political advantage.
 
-**7.** (1) An eligible person who receives pre-release access must not use such access to change or compromise—
+**7.**[^c-17d85807d884135eddea15db22eb24ed] (1) An eligible person who receives pre-release access must not use such access to change or compromise—
 
 - (a) the content or presentation of the official statistic;
 - (b) the timing of publication of the official statistic.
 
 (2) This paragraph does not prevent an eligible person from communicating to the person responsible any numerical or typographical error in the composition or presentation of the official statistic.
 
-**8.** The person responsible may only grant pre-release access to market sensitive official statistics to an eligible person (“P”) who has signed a declaration that P undertakes, in relation to any such statistics to which P is granted pre-release access, to comply with paragraphs 6 and 7 together with any specific conditions subject to which such access is granted.
+**8.**[^c-ba0c1d0e6c2a1bb92ea934131c833fc5] The person responsible may only grant pre-release access to market sensitive official statistics to an eligible person (“P”) who has signed a declaration that P undertakes, in relation to any such statistics to which P is granted pre-release access, to comply with paragraphs 6 and 7 together with any specific conditions subject to which such access is granted.
 
-**9.** The person responsible must publish—
+**9.**[^c-958f65716c32c6b845d6f638d9c6bb38] The person responsible must publish—
 
 - (a) a list of all official statistics at least annually to which that person has granted pre-release access;
 - (b) at the same time as or prior to the publication of an official statistic a list of the job title and organisation of persons to whom the person responsible has granted pre-release access to that statistic; and
 - (c) arrangements made by the person responsible to ensure compliance with this Schedule including, where appropriate, the role of the departmental Head of Profession for Statistics.
 
-**10.** (1) Nothing in this Schedule prevents access to official statistics in their final form prior to publication by a person directly involved in the production of the publication, whether electronic or in hard copy, by which such statistics are to be published providing such access is used only for those purposes.
+**10.**[^c-2593512b4a77403f958bbf071926694f] (1) Nothing in this Schedule prevents access to official statistics in their final form prior to publication by a person directly involved in the production of the publication, whether electronic or in hard copy, by which such statistics are to be published providing such access is used only for those purposes.
 
 (2) A person mentioned in sub-paragraph (1) is an eligible person only for the purposes of paragraphs 6 and 7.
 
-**11.** (1) Nothing in paragraphs 6, 7 and 8 prevents an eligible person who receives pre-release access sharing such access to the official statistic with a person providing administrative support (of a type not within paragraph 3(2)(i) or 15(3)(k)) to that eligible person.
+**11.**[^c-b0e02cb8096bb7590cd8d6730391c567] (1) Nothing in paragraphs 6, 7 and 8 prevents an eligible person who receives pre-release access sharing such access to the official statistic with a person providing administrative support (of a type not within paragraph 3(2)(i) or 15(3)(k)) to that eligible person.
 
 (2) A person providing administrative support under sub-paragraph (1) is an eligible person only for the purposes of paragraphs 6 and 7.
 
@@ -154,14 +158,15 @@ until after the official statistic has been published.
 
 #### Bank of England
 
-**12.** (1) The person responsible may grant pre-release access to a Bank eligible person if, in the opinion of the person responsible, such access is needed for the effective discharge by the Bank of England (“the Bank”) of its functions.
+**12.**[^c-4da09e84c17ab2e1d37411006d6309df] (1) The person responsible may grant pre-release access to a Bank eligible person if, in the opinion of the person responsible, such access is needed for the effective discharge by the Bank of England (“the Bank”) of its functions.
 
 (2) For the purposes of this paragraph “Bank eligible person” means—
 
 - (a) the Governor of the Bank;
 - (b) a Deputy Governor of the Bank;
+- (ba)[^c-db8f28d7b0042c1ec259b26e63ab4f6a] a member of the Financial Policy Committee;
 - (c) a member of the Monetary Policy Committee; or
-- (d) an officer, servant or agent of the Bank.
+- (d) an officer, employee[^c-5cf5df99cd095df3421c22862e4231e9] or agent of the Bank.
 
 (3) The person responsible may, for any of the purposes set out in sub-paragraph (5), grant pre-release access to a Treasury eligible person to any statistics to which access has been granted to a Bank eligible person under sub-paragraph (1).
 
@@ -196,13 +201,13 @@ until after the official statistic has been published.
 
 #### International obligations
 
-**13.** (1) The person responsible may grant pre-release access to permit the UK to comply with its international obligations to provide data to international statistical organisations.
+**13.**[^c-813a44e7d8529099964e99e140c85b2c] (1) The person responsible may grant pre-release access to permit the UK to comply with its international obligations to provide data to international statistical organisations.
 
 (2) Part 1, except for paragraph 2, does not apply to the granting of pre-release access under this paragraph.
 
 #### Journalists
 
-**14.** (1) If the person responsible is satisfied that a person is a bona fide representative of a news gathering or news reporting organisation, the person responsible may grant pre-release access to that person for up to a maximum period of 24 hours prior to publication of an official statistic.
+**14.**[^c-5bbfae5be4e509791a4ac22b41f18250] (1) If the person responsible is satisfied that a person is a bona fide representative of a news gathering or news reporting organisation, the person responsible may grant pre-release access to that person for up to a maximum period of 24 hours prior to publication of an official statistic.
 
 (2) The person responsible may grant such pre-release access if, in the opinion of the person responsible, such access—
 
@@ -226,7 +231,7 @@ until after the official statistic has been published.
 
 #### Third party publications
 
-**15.** (1) The person responsible may grant pre-release access for the purpose of a publication where, in the opinion of the person responsible, the official statistic is relevant to the subject-matter of the publication and the inclusion of the official statistic in the publication will significantly improve the accuracy or usefulness of information contained in the publication.
+**15.**[^c-936b1cab68b32f2e6f65c59750924665] (1) The person responsible may grant pre-release access for the purpose of a publication where, in the opinion of the person responsible, the official statistic is relevant to the subject-matter of the publication and the inclusion of the official statistic in the publication will significantly improve the accuracy or usefulness of information contained in the publication.
 
 (2) Such pre-release access may only be granted if the publication is intended to be published at the same time as or shortly after the official statistic to which pre-release access is being granted under this paragraph is to be published.
 
@@ -260,7 +265,7 @@ until after the official statistic has been published.
 
 ### PART 3 — Interpretation
 
-**16.** In this Schedule, “market sensitive official statistics” means official statistics which when disclosed would, in the opinion of the person responsible, be reasonably likely to have a significant effect on the value or traded volume of any investment.
+**16.**[^c-f43bf2be634d95caea74ed20b5cc516b] In this Schedule, “market sensitive official statistics” means official statistics which when disclosed would, in the opinion of the person responsible, be reasonably likely to have a significant effect on the value or traded volume of any investment.
 
 EXPLANATORY NOTE
 
@@ -282,6 +287,46 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2007 c.18](https://www.legislation.gov.uk/ukpga/2007/18).
 
+[^c-fc88e815f7286cd62c3f159f70214b01]: Commencement: Art. 1 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-bb3b9012bcf12b7351e49a2201581c1f]: Commencement: Art. 2 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-c38c6654df06e685151b022dced17ff9]: Commencement: Sch. para. 1 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-50e02075f730e08269c97e607e8ef582]: Commencement: Sch. para. 2 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-debef3cdd394a09dc49847af26548a7a]: Commencement: Sch. para. 3 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
 [^f00002]: Footnote: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47)
 
+[^c-4726af2177dc06f4643185a0224a32ed]: Commencement: Sch. para. 4 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-60316a855056762874ac1790f4dd0c89]: Commencement: Sch. para. 5 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-cb2b46c27b067c0a6f47d006ab02b37f]: Commencement: Sch. para. 6 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-17d85807d884135eddea15db22eb24ed]: Commencement: Sch. para. 7 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-ba0c1d0e6c2a1bb92ea934131c833fc5]: Commencement: Sch. para. 8 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-958f65716c32c6b845d6f638d9c6bb38]: Commencement: Sch. para. 9 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-2593512b4a77403f958bbf071926694f]: Commencement: Sch. para. 10 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-b0e02cb8096bb7590cd8d6730391c567]: Commencement: Sch. para. 11 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-4da09e84c17ab2e1d37411006d6309df]: Commencement: Sch. para. 12 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-db8f28d7b0042c1ec259b26e63ab4f6a]: Textual amendment: [Sch. para. 12(2)(ba)](https://www.legislation.gov.uk/uksi/2008/2998/schedule/paragraph/12/2/ba) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 151(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/151/a)
+
+[^c-5cf5df99cd095df3421c22862e4231e9]: Textual amendment: Word in [Sch. para. 12(2)(d)](https://www.legislation.gov.uk/uksi/2008/2998/schedule/paragraph/12/2/d) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 151(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/151/b)
+
 [^f00003]: Footnote: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).
+
+[^c-813a44e7d8529099964e99e140c85b2c]: Commencement: Sch. para. 13 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-5bbfae5be4e509791a4ac22b41f18250]: Commencement: Sch. para. 14 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-936b1cab68b32f2e6f65c59750924665]: Commencement: Sch. para. 15 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)
+
+[^c-f43bf2be634d95caea74ed20b5cc516b]: Commencement: Sch. para. 16 in force at 1.12.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2998/article/1)

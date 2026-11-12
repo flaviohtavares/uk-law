@@ -51,7 +51,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1994**
 
-- [The Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994](../uk-parliament/regulations/1994/1500-1999/1623-the-employment-tribunals-extension-of-jurisdiction-england-and-wales-order-1994.md) *(changes pending)*
+- [The Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994](../uk-parliament/regulations/1994/1500-1999/1623-the-employment-tribunals-extension-of-jurisdiction-england-and-wales-order-1994.md)
 - [The Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994](../uk-parliament/regulations/1994/1500-1999/1624-the-employment-tribunals-extension-of-jurisdiction-scotland-order-1994.md)
 - [The Industrial Tribunals (Constitution and Rules of Procedure) (Amendment) Regulations 1994](../uk-parliament/regulations/1994/0500-0999/536-the-industrial-tribunals-constitution-and-rules-of-procedure-amendment-regulatio.md) *(as originally made)*
 - [The Industrial Tribunals (Constitution and Rules of Procedure) (Scotland) (Amendment) Regulations 1994](../uk-parliament/regulations/1994/0500-0999/538-the-industrial-tribunals-constitution-and-rules-of-procedure-scotland-amendment.md) *(as originally made)*

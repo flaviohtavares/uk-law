@@ -3,7 +3,7 @@ title: The Housing Benefit (Persons who have attained the qualifying age for sta
 act: The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006
 section: '74'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2006/406/section/74
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006, section 74
 
-> **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/nisr/2006/406
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/nisr/2006/406
 >
 > Extent: Northern Ireland.
 

@@ -5,13 +5,13 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2026-02-18'
-text_date: '2026-03-09'
+text_date: '2026-10-27'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/136
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/136/pdfs/uksi_20260136_en.pdf
 - http://www.legislation.gov.uk/uksi/2026/136/data.pdf
-pending_changes: 5
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Pedicab Vehicles (London) Regulations 2026
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-03-09. See https://www.legislation.gov.uk/changes/affected/uksi/2026/136
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-27. See https://www.legislation.gov.uk/changes/affected/uksi/2026/136
 >
 > Extent: England, Wales.
 
@@ -54,6 +54,8 @@ Transport for London, in exercise of the powers conferred by sections 1, 2(1), (
 In these Regulations—
 
 - “**the appropriate fee**” means the fee which TfL may charge in accordance with regulation 12 of, and table 3 in the schedule to, the Pedicabs (London) (Fares and Fees) Regulations 2026[^f00001];
+- “authorised officer” means a person authorised in writing by TfL for the purposes of these Regulations;[^c-4d29b4843de7958423f4ce1a3f64ecb6]
+- “driver” means a person licensed by TfL to drive the pedicab under the Pedicab Drivers (London) Regulations 2026;
 - “**fixed penalty**” means a fixed penalty under regulation 11;
 - “**London Pedicab Specification**” means the document of that title, which may be published by TfL on its website from time to time and sets out the requirements for the specification and use of a pedicab vehicle including, but not limited to, its dimensions, construction, capacity, motive power and battery, braking system, steering mechanism and wheels;
 - “**London pedicab vehicle licence**” means a licence granted by TfL under regulation 4(1);
@@ -104,7 +106,7 @@ In these Regulations—
 
 (11) A person to whom a London pedicab vehicle licence is granted is prohibited from transferring the licence to another person.
 
-(12) TfL may share such information provided to it with an application under this regulation with such persons or bodies as TfL may consider necessary or appropriate.
+(12) TfL may share such information provided to it with an application or otherwise provided to it in accordance with this regulation (including any change in that information)[^c-6c2d686cec23f622241675ee9ffee2c3] with such persons or bodies as TfL may consider necessary or appropriate.
 
 (13) The applicant for a London pedicab vehicle licence must present the pedicab vehicle for inspection and testing by TfL within such period and at such place as TfL may require by notice.
 
@@ -121,7 +123,12 @@ In these Regulations—
 
 ### 5. London pedicab vehicle insurance[^c-e89f56e544eeeaf93234ba1f95ef557f]
 
-(1) A person to whom a London pedicab vehicle licence is issued must maintain in force a policy of insurance to carry passengers for hire or reward.
+(1) A person to whom a London pedicab vehicle licence is issued must maintain in force a policy of insurance as specified by TfL[^c-e0c7cf3d3d4a8ce261815d9cb88c9e91].
+
+(1A)[^c-aed77feeebd514388e32a385b66aab0f] A person to whom a London pedicab vehicle licence is issued must—
+
+- (a) produce the certificate of insurance held in accordance with paragraph (1) for inspection when requested to do so by a police constable or authorised officer; and
+- (b) provide a copy of the certificate of insurance held in accordance with paragraph (1) to the driver of the pedicab vehicle.
 
 (2) A person who without reasonable excuse fails to comply with this regulation is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
@@ -356,13 +363,21 @@ Regulation 15 provides that instead of appealing to the magistrates court, appli
 
 [^f00001]: Footnote: [S.I. 2026/137](https://www.legislation.gov.uk/uksi/2026/137).
 
+[^c-4d29b4843de7958423f4ce1a3f64ecb6]: Textual amendment: Words in reg. 2 inserted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [4](https://www.legislation.gov.uk/uksi/2026/1122/regulation/4)
+
 [^f00002]: Footnote: [2024 c. 7](https://www.legislation.gov.uk/ukpga/2024/7).
 
 [^c-840e27565fe218304bc99dfedc32ad34]: Commencement: Reg. 3 in force at 18.2.2027, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/3)
 
 [^c-9dc49d0e9feb506a1f86a36473ea3594]: Commencement: Reg. 4 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
 
+[^c-6c2d686cec23f622241675ee9ffee2c3]: Textual amendment: Words in reg. 4 substituted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [5](https://www.legislation.gov.uk/uksi/2026/1122/regulation/5)
+
 [^c-e89f56e544eeeaf93234ba1f95ef557f]: Commencement: Reg. 5 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
+
+[^c-e0c7cf3d3d4a8ce261815d9cb88c9e91]: Textual amendment: Words in reg. 5(1) substituted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/6/2)
+
+[^c-aed77feeebd514388e32a385b66aab0f]: Textual amendment: Reg. 5(1A) inserted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/6/3)
 
 [^c-5aba2867141c80127b6247471dc9e04b]: Commencement: Reg. 6 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/136/regulation/1/2)
 

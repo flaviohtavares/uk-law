@@ -3,16 +3,16 @@ title: The General Pharmaceutical Council (Fitness to Practise and Disqualificat
 id: uksi/2010/1615
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2010-06-28'
-text_date: '2013-02-05'
+text_date: '2022-10-06'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2010/1615
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/1615/pdfs/uksiem_20101615_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/1615/pdfs/uksi_20101615_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/1615/data.pdf
-pending_changes: 34
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The General Pharmaceutical Council (Fitness to Practise and Disqualification etc. Rules) Order of Council 2010
 
-> **Warning: changes not yet applied to this text (34).** Text as at 2013-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2010/1615
+> Text as at 2022-10-06.
 >
 > Extent: England, Wales, Scotland.
 
@@ -91,6 +91,9 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 - “applicant concerned” means an applicant (or, where appropriate their representatives) for—
   - (a) registration or renewal of registration whose application has been referred to the Committee for advice;
   - (b) restoration of registration;
+- “[^c-afd12466497f0db1f345bdeb08ff7b28]**attend**” means—
+  - (a) to be physically present at a meeting or hearing, or,
+  - (b) to be present at a meeting or hearing by teleconference or video link;
 - “the chair” means the chair of the Committee;
 - “the Committee” means the Fitness to Practise Committee established by virtue of article 4(6)(b) of the Order;
 - “the Continuing Professional Development Rules” means the General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules 2011;[^c-ab317ec09dd5c204f06ee25d83e85e63]
@@ -101,10 +104,12 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 - “informant” means a person who makes a complaint, or who raises a concern, to the Council relating to any person;
 - “interim order” means an interim order under article 56 of the Order;
 - “interim order hearing” means a hearing solely for the purposes of considering whether to make, confirm, vary, replace or revoke an interim order;
+- “knowledge of English allegation” means a complaint to, or concern of, the Council which gives rise to, or may give rise to, an inquiry that a person’s fitness to practise is impaired by reason of article 51(1)(ca) of the Order;[^c-5aa823e0ffecf29406d6a6b192493a98]
 - “legal adviser” means the person appointed to be a legal adviser under, or by virtue of rules under, article 63(1) of the Order in relation to the proceedings in question;
 - “parties” means the Council and the person concerned (or, where appropriate, their representatives) and “party”, except in the phrase “section 80 party”, is to be construed accordingly;
 - “person concerned” means, as the case may be, an applicant concerned, a registrant concerned or a section 80 party;
 - “prescribed fee” means a fee prescribed in rules under article 36(1) of the Order;
+- “[^c-60584aa3aaf5880de5a7dc02b777ae78]**present**” includes being present at a meeting or hearing by teleconference or video link, except in the phrase “present their case”, and “**presence**” is to be construed accordingly;
 - “the presenter” means the person instructed to represent the Council at a hearing (and includes employees of the Council);
 - “principal hearing” means—
   - (a) in fitness to practise proceedings, a hearing of the Committee held in connection with making a determination under article 54(1) of the Order (as opposed to any further hearing to consider varying or revoking any direction given as a consequence of a finding of impairment); and
@@ -141,9 +146,13 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
   but otherwise excluding everyone else.
 
+#### 2A. Virtual meetings and hearings[^c-a9a80819bc2a0e4c6d5707d3ac1abf86]
+
+At the discretion of the chair, meetings and hearings of the Committee arranged under these rules may be conducted by teleconference or video link.
+
 #### 3. Service of documents[^c-bc6ec1a806787ac7a7a6d66e5bdad709]
 
-(1) Subject to paragraph (2), any notice or document required to be served by the Council under these Rules must be in writing and may be served by sending it by a postal service or another delivery service (including, with the agreement of the person concerned, by electronic mail to an electronic mail address notified to the Registrar as an address for communications) or by leaving it at—
+(1) Subject to paragraph (2), any notice or document required to be served by the Council under these Rules must be in writing and may be served by sending it by a postal service or another delivery service (including [^c-0d3bdb4ebe12118d34f2f9e42c98a186]... by electronic mail to an electronic mail address notified to the Registrar as an address for communications) or by leaving it at—
 
 - (a) in the case of a registrant, their address as entered in the Register;
 - (b) in relation to premises included in Part 3 of the Register, where the business carried on from those premises is carried on by—
@@ -216,8 +225,23 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
 - (a) requesting the Council’s employees to undertake further inquiries;
 - (b) requesting the informant to provide a written statement or statutory declaration;
-- (c) instructing solicitors and inquiry agents; or
-- (d) in relation to a health allegation, requiring the person concerned to agree to be medically examined by a registered medical practitioner nominated by the Council.
+- (c) instructing solicitors and inquiry agents; [^c-e2576c29fe08e904af6bf0391cc7893b]...
+- (d) in relation to a health allegation, requiring the person concerned to agree to be medically examined by a registered medical practitioner nominated by the Council ; or[^c-a43a874e05a99982da1941fe484009e2]
+- (e) in relation to a knowledge of English allegation, directing the person concerned—
+  - (i) to undertake an examination or other assessment of that person’s knowledge of English, and
+  - (ii) to provide to the Registrar evidence of the result of that examination or assessment.
+
+(4A)[^c-c0a2fa2cc3f5760110c5ebc5736464eb] Any direction under paragraph (4)(e) is to be given by the Registrar by a notice in writing which—
+
+- (a) specifies the name of the examination or assessment of knowledge of English which the person concerned is required to undertake;
+- (b) states that the evidence referred to in paragraph (4)(e)(ii) is to be provided in the form of a certificate or other document which—
+  - (i) states the result of the examination or assessment, and
+  - (ii) is signed by an officer of the body which provides the examination or assessment; and
+- (c) specifies the date by which such evidence is to be provided,
+
+and the person concerned must comply with the direction by the date specified in the notice or, if the Registrar agrees by a further notice in writing to extend that period, within the extended period specified in that notice.
+
+(4B) The Registrar may disclose to any of the statutory committees or any employee of the Council any evidence provided pursuant to a direction given under paragraph (4)(e).
 
 (5) The allegation must be referred to the Committee instead of to the Investigating Committee if the Registrar considers that—
 
@@ -241,7 +265,12 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
 and the Registrar considers that the circumstances of the failure or false declaration are such that the allegation should be so referred.
 
-(8) Where the Registrar refers an allegation to the Committee under paragraph (5), (6), (7) or (7A)[^c-1968ed80ab9cd8e323643e5ce925777a], the Registrar must inform the person concerned and the informant, if any, that the allegation has been so referred.
+(7B)[^c-49c9de55a4dd062147a4d20fdb991d37] Where the Registrar has given a direction under paragraph (4)(e) and the person concerned has failed to comply with it, the Registrar may—
+
+- (a) refer the knowledge of English allegation to the Committee instead of to the Investigating Committee and treat the failure to comply with the direction as a separate allegation of misconduct and refer that allegation to the Committee; or
+- (b) determine not to refer the knowledge of English allegation to the Committee but treat the failure to comply with the direction as a separate allegation of misconduct and refer that allegation to the Committee.
+
+(8) Where the Registrar refers an allegation to the Committee under any of paragraphs (5) to (7B)[^c-39079359bcf388da1c8eb29482652eac], the Registrar must inform the person concerned and the informant, if any, that the allegation has been so referred.
 
 #### 7. Notices of referral and documents to be supplied to persons concerned[^c-8cec2052ba6d3fbfd8b0404973eec06e]
 
@@ -249,8 +278,9 @@ and the Registrar considers that the circumstances of the failure or false decla
 
 - (a) send to the person concerned a notice of referral to the Investigating Committee;
 - (b) provide that person with—
-  - (i) copies of all documentation, including summaries of relevant information, to be placed by the Registrar before the Investigating Committee, and
-  - (ii) a copy of the threshold criteria.
+  - (i) copies of all documentation, including summaries of relevant information, to be placed by the Registrar before the Investigating Committee, [^c-7966fea4622b77238b404948ad0bae7e]...
+  - (ii) a copy of the threshold criteria ; and[^c-8aabddf23fc57fa6be7a309d84cbf05c]
+  - (iii) where the person is the subject of a knowledge of English allegation, a copy of the guidance published by the Council under article 23A of the Order.
 
 (2) The notice of referral to the Investigating Committee must in terms—
 
@@ -260,6 +290,7 @@ and the Registrar considers that the circumstances of the failure or false decla
 - (d) inform the person concerned of the Investigating Committee’s powers—
   - (i) to dismiss the case,
   - (ii) in relation to a health allegation, to require the person concerned to undergo a medical examination,
+  - (iia)[^c-68ed00e2b24a2ddc08add4a1d7371f7c] in relation to a knowledge of English allegation, to direct the person concerned to undertake an examination or other assessment of that person’s knowledge of English,
   - (iii) to issue warnings,
   - (iv) to agree undertakings,
   - (v) to give advice to the person concerned or to other persons,
@@ -292,6 +323,7 @@ and the Registrar considers that the circumstances of the failure or false decla
 - (a) at least two certificates attesting to their identity and good character, one of which must be given by a registrant in good standing with the Council;
 - (b) sufficient evidence to demonstrate their fitness to return to practice, which may include—
   - (i) evidence of activities designed to address or learn from the original allegation,
+  - (ia)[^c-7e643c3d88a6efebafcf801acf542328] evidence, information or documents demonstrating that the person has the necessary knowledge of English for the purpose of complying with article 20(1)(a)(iia) of the Order,
   - (ii) evidence of learning activities designed to keep up to date with skills and knowledge, and with developments in practice, and
   - (iii) evidence demonstrating insight into the gravity of the allegation which resulted in their removal from the register; and
 - (c) any necessary supporting documentation, information or evidence as mentioned in the completed application form, and such additional documents, information or evidence as the Registrar may reasonably require for the purposes of verifying the information in, or determining, the application.
@@ -300,6 +332,23 @@ and the Registrar considers that the circumstances of the failure or false decla
 
 - (a) knows why the person was removed from Part 1 or, as the case may be, Part 2 of the Register; and
 - (b) has seen a copy of the reasons given for the person’s removal from the relevant part of the Register.
+
+(4A)[^c-b0ef0210616e87fb340ca3a24e8ed7c4] If, having considered any evidence, information or documents provided under paragraph (3)(b)(ia), the Registrar is not satisfied that the person applying for restoration to Part 1 or, as the case may be, Part 2 of the Register has the necessary knowledge of English, the Registrar may direct the person—
+
+- (a) to undertake an examination or other assessment of that person’s knowledge of English; and
+- (b) to provide to the Registrar evidence of the result of that examination or assessment.
+
+(4B) Any direction under paragraph (4A) is to be given by the Registrar by a notice in writing which—
+
+- (a) specifies the name of the examination or assessment of knowledge of English which the person is required to undertake;
+- (b) states that the evidence referred to in paragraph (4A)(b) is to be provided in the form of a certificate or other document which—
+  - (i) states the result of the examination or assessment, and
+  - (ii) is signed by an officer of the body which provides the examination or assessment; and
+- (c) specifies the date by which such evidence is to be provided,
+
+and the person must comply with the direction by the date specified in the notice or, if the Registrar agrees by a further notice in writing to extend that period, within the extended period specified in that notice.
+
+(4C) The Registrar may disclose to any of the statutory committees or any employee of the Council any evidence provided pursuant to a direction under paragraph (4A).
 
 (5) The Registrar must refuse the application if the relevant prescribed fee is not paid.
 
@@ -332,6 +381,27 @@ and the Registrar considers that the circumstances of the failure or false decla
 
 - (a) require the person concerned to agree to be medically examined by a registered medical practitioner nominated by the Council; and
 - (b) where it receives information that the person concerned has refused to co-operate fully with a medical examination, refer that matter to the Committee as a separate allegation.
+
+(5A)[^c-9d54e923ec3bff0e914b419aa7ac8c9f] In relation to a knowledge of English allegation, the Investigating Committee may—
+
+- (a) give a direction in accordance with paragraph (5B) which requires the person concerned—
+  - (i) to undertake an examination or other assessment of that person’s knowledge of English, and
+  - (ii) to provide to the Registrar evidence of the result of that examination or assessment; and
+- (b) where it receives information that the person concerned has failed to comply with any such direction—
+  - (i) refer the knowledge of English allegation to the Committee and treat the failure to comply with the direction as a separate allegation of misconduct and refer that allegation to the Committee, or
+  - (ii) determine not to refer the knowledge of English allegation to the Committee but treat the failure to comply with the direction as a separate allegation of misconduct and refer that allegation to the Committee.
+
+(5B) Any direction under paragraph (5A)(a) is to be given by the Investigating Committee by a notice in writing which—
+
+- (a) specifies the name of the examination or assessment of knowledge of English which the person concerned is required to undertake;
+- (b) states that the evidence referred to in paragraph (5A)(a)(ii) is to be provided in the form of a certificate or other document which—
+  - (i) states the result of the examination or assessment, and
+  - (ii) is signed by an officer of the body which provides the examination or assessment; and
+- (c) specifies the date by which such evidence is to be provided,
+
+and the person concerned must comply with the direction by the date specified in the notice or, if the Registrar agrees by a further notice in writing to extend that period, within the extended period specified in that notice.
+
+(5C) The Investigating Committee may disclose to any other statutory committee or any employee of the Council any evidence provided pursuant to a direction given under paragraph (5A)(a).
 
 (6) Where the Investigating Committee decides to refer an allegation to the Committee and is of the view that—
 
@@ -427,8 +497,23 @@ it may reconsider the allegation.
 (1) After referral of an allegation by the Registrar or the Investigating Committee to the Committee—
 
 - (a) in the case of a health allegation, the chair may require the person concerned to agree to be medically examined by a registered medical practitioner nominated by the Council;
+- (ab)[^c-a2ed9e1c4cabecd68f23303d766fce39] in the case of a knowledge of English allegation, the chair may give a direction requiring the person concerned—
+  - (i) to undertake an examination or other assessment of that person’s knowledge of English, and
+  - (ii) to provide to the Registrar evidence of the result of that examination or assessment;
 - (b) the Registrar must take such steps as, in the Registrar’s opinion, are desirable or necessary to assist the Council in the preparation of the case for hearing; and
 - (c) the secretary must serve on both of the parties a listing questionnaire, which must be in the format determined by the secretary.
+
+(1A)[^c-175c6fba9b78304b349a4b1881fa4a8e] Any direction under paragraph (1)(ab) is to be given by the chair by a notice in writing which—
+
+- (a) specifies the name of the examination or assessment of knowledge of English which the person concerned is required to undertake;
+- (b) states that the evidence referred to in paragraph (1)(ab)(ii) is to be provided in the form of a certificate or other document which—
+  - (i) states the result of the examination or assessment, and
+  - (ii) is signed by an officer of the body which provides the examination or assessment; and
+- (c) specifies the date by which such evidence is to be provided,
+
+and the person concerned must comply with the direction by the date specified in the notice or, if the Registrar agrees by a further notice in writing to extend that period, within the extended period specified in that notice.
+
+(1B) The Committee may disclose to any other statutory committee or any employee of the Council any evidence provided pursuant to a direction given under paragraph (1)(ab).
 
 (2) In a case where the Registrar has referred an allegation to the Committee instead of to the Investigating Committee, the Council may request a case management meeting.
 
@@ -474,7 +559,9 @@ relied upon by the person concerned in support of their case.
 
 (2) The Notice of Hearing must—
 
-- (a) state the date, time and venue of the hearing;
+- (a)[^c-1452141396732e52815d33ac9dfbe171] state—
+  - (i) the date, time and venue of the hearing, or
+  - (ii) when the hearing is to be conducted by teleconference or video link the date and time of the hearing and instructions on how to access the hearing;
 - (b) in the case—
   - (i) of a principal hearing, contain the finalised particulars of the allegation,
   - (ii) where the Registrar is seeking the advice of the Committee under—
@@ -507,7 +594,9 @@ relied upon by the person concerned in support of their case.
 
 (2) The Interim Order Notice must—
 
-- (a) state the date, time and venue of the hearing;
+- (a)[^c-099fb2859ac26c21f5c426c9e8965705] state—
+  - (i) the date, time and venue of the hearing, or
+  - (ii) when the hearing is to be conducted by teleconference or video link, the date and time of the hearing and instructions on how to access the hearing;
 - (b) inform the registrant of their right to attend and to be represented or accompanied at the hearing in accordance with rule 40;
 - (c) inform the registrant that the Committee may proceed with the hearing in their absence in accordance with rule 25;
 - (d) require the registrant to inform the secretary, by a specified date, whether the registrant intends to—
@@ -656,6 +745,11 @@ whether or not such evidence would be admissible in any subsequent civil proceed
 
 - (a) may be taken into account by the Committee in determining whether or not the registrant concerned’s fitness to practise is impaired; and
 - (b) is not, of itself, to be taken to establish that the registrant’s fitness to practise is impaired.
+
+(11A)[^c-add0b5c530ad36e60ddf4a425fc8aff0] In determining whether a person’s fitness to practise is impaired by reason of not having the necessary knowledge of English, the Committee may take into account, amongst other matters—
+
+- (a) a failure by the person concerned to comply with a direction given under these Rules to undertake an examination or other assessment of that person’s knowledge of English; and
+- (b) a failure by the person concerned to provide to the Registrar evidence of the result of any such examination or assessment.
 
 (12) In paragraph (11), “the standards” means the standards of conduct, ethics and performance (including the Council’s Code of Conduct, Ethics and Performance and the related guidance) published by the Council under article 48(2) of the Order.
 
@@ -1060,6 +1154,8 @@ that the public interest in holding the hearing in public outweighs the interest
 
 (4) The Committee may exclude from the whole or part of any hearing any person whose conduct, in its opinion, has disrupted or is likely to disrupt the proceedings.
 
+(5)[^c-99b25ff4f1cc5db7f7114e5daf679cdf] Reference to a hearing under this rule includes hearings conducted by teleconference or video link.
+
 #### 40. Representation[^c-ae225bf1a420e52d42dc9bc4038057bf]
 
 (1) The presenter is to be a person who is—
@@ -1256,7 +1352,13 @@ Part 7 of the Rules makes provisions of general application. These include provi
 
 [^f00005]: Footnote: Scheduled to [S.I. 2010/1614](https://www.legislation.gov.uk/uksi/2010/1614).
 
-[^c-ab317ec09dd5c204f06ee25d83e85e63]: Textual amendment: Words in Sch. rule 2(1) inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/2/2011-07-02)
+[^c-afd12466497f0db1f345bdeb08ff7b28]: Textual amendment: Words in Sch. rule 2 inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/3/2/a)
+
+[^c-ab317ec09dd5c204f06ee25d83e85e63]: Textual amendment: Words in Sch. rule 2(1) inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/2)
+
+[^c-5aa823e0ffecf29406d6a6b192493a98]: Textual amendment: Words in Sch. rule 2(1) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1/1), [10](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/10)
+
+[^c-60584aa3aaf5880de5a7dc02b777ae78]: Textual amendment: Words in Sch. rule 2 inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/3/2/b)
 
 [^f00006]: Footnote: Scheduled to [S.I. 2010/1617](https://www.legislation.gov.uk/uksi/2010/1617).
 
@@ -1266,7 +1368,11 @@ Part 7 of the Rules makes provisions of general application. These include provi
 
 [^c-197484a184609fbf1c392726094deb17]: Textual amendment: Sch. rule 2(2)(b)(i) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [19(3)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/19/3/b)
 
+[^c-a9a80819bc2a0e4c6d5707d3ac1abf86]: Textual amendment: Sch. rule 2A inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/3/3)
+
 [^c-bc6ec1a806787ac7a7a6d66e5bdad709]: Commencement: Sch. rule 3 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-0d3bdb4ebe12118d34f2f9e42c98a186]: Textual amendment: Words in Sch. rule 3(1) omitted (4.3.2021) by virtue of [The General Pharmaceutical Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/26)](https://www.legislation.gov.uk/uksi/2021/26), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2021/26/schedule/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/26/schedule/paragraph/3/2)
 
 [^c-f20af5f3bc07e943db06cc97439e3faa]: Commencement: Sch. rule 4 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
@@ -1278,17 +1384,37 @@ Part 7 of the Rules makes provisions of general application. These include provi
 
 [^c-940eeb38fc23f02f3a989119fdf8224e]: Commencement: Sch. rule 6 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
+[^c-e2576c29fe08e904af6bf0391cc7893b]: Textual amendment: Word in Sch. rule 6(4)(c) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/2/a)
+
+[^c-a43a874e05a99982da1941fe484009e2]: Textual amendment: Sch. rule 6(4)(e) and word inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/2/b)
+
+[^c-c0a2fa2cc3f5760110c5ebc5736464eb]: Textual amendment: Sch. rule 6(4A)(4B) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/3)
+
 [^c-dcc2fce5769ce779f1309b06c0891bef]: Textual amendment: Sch. rule 6(7A) inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/3/2011-07-02)
 
-[^c-1968ed80ab9cd8e323643e5ce925777a]: Textual amendment: Words in Sch. rule 6(8) substituted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/3/2011-07-02)
+[^c-49c9de55a4dd062147a4d20fdb991d37]: Textual amendment: Sch. rule 6(7B) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/4)
+
+[^c-39079359bcf388da1c8eb29482652eac]: Textual amendment: Words in Sch. rule 6(8) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/11/5)
 
 [^c-8cec2052ba6d3fbfd8b0404973eec06e]: Commencement: Sch. rule 7 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
+[^c-7966fea4622b77238b404948ad0bae7e]: Textual amendment: Word in Sch. rule 7(1)(b)(i) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/12/2/a)
+
+[^c-8aabddf23fc57fa6be7a309d84cbf05c]: Textual amendment: Sch. rule 7(1)(b)(iii) and word inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/12/2/b)
+
+[^c-68ed00e2b24a2ddc08add4a1d7371f7c]: Textual amendment: Sch. rule 7(2)(d)(iia) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1), [12(3)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/12/3)
+
 [^c-c3951cd885257fc2f69164f5d6685ab7]: Commencement: Sch. rule 8 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-7e643c3d88a6efebafcf801acf542328]: Textual amendment: Sch. rule 8(3)(b)(ia) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/13/2)
+
+[^c-b0ef0210616e87fb340ca3a24e8ed7c4]: Textual amendment: Sch. rule 8(4A)-(4C) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/13/3)
 
 [^c-a7c6cb81efee9617f9c294ea9ed86a02]: Commencement: Sch. rule 9 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
 [^c-76e10f040b845b97596593fd9c27f9f6]: Textual amendment: Sch. rule 9(3)(a)(ii) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [20](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/20)
+
+[^c-9d54e923ec3bff0e914b419aa7ac8c9f]: Textual amendment: Sch. rule 9(5A)-(5C) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1), [14](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/14)
 
 [^c-a3d7235ba905d4ef74ce4fb31bc97622]: Commencement: Sch. rule 10 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
@@ -1298,11 +1424,17 @@ Part 7 of the Rules makes provisions of general application. These include provi
 
 [^c-b0791cbd381382d57d4bd39be0dc43bb]: Commencement: Sch. rule 13 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
+[^c-a2ed9e1c4cabecd68f23303d766fce39]: Textual amendment: Sch. rule 13(1)(ab) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/15/2)
+
+[^c-175c6fba9b78304b349a4b1881fa4a8e]: Textual amendment: Sch. rule 13(1A)(1B) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/15/3)
+
 [^c-4b3b6f4853eb1ad8cf53031d93f1cf0c]: Commencement: Sch. rule 14 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
 [^c-f528b86b2755f838ee2e7af8d4d556a1]: Commencement: Sch. rule 15 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
 [^c-dbd587787f6dd4bdc428b395b93c12ed]: Commencement: Sch. rule 16 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-1452141396732e52815d33ac9dfbe171]: Textual amendment: Sch. rule 16(2)(a) substituted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/3/4)
 
 [^c-0f4b6487a61f0a72e66f96dfc88c7deb]: Textual amendment: Word in Sch. rule 16(2)(b)(ii)(bb) omitted (2.7.2011) by virtue of [he General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/4/2011-07-02)
 
@@ -1313,6 +1445,8 @@ Part 7 of the Rules makes provisions of general application. These include provi
 [^c-08b1b04c759380505ad1426dbbe4a3a6]: Textual amendment: Sch. rule 16(2)(g)(vi) and word inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 4(d)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/4/2011-07-02)
 
 [^c-53344849a7f8657d46cf0e2c6eb4b429]: Commencement: Sch. rule 17 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-099fb2859ac26c21f5c426c9e8965705]: Textual amendment: Sch. rule 17(2)(a) substituted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/1), [3(5)](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/3/5)
 
 [^c-b5c1f4e64a88a8df261f9bf8a2b4b709]: Commencement: Sch. rule 18 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
@@ -1337,6 +1471,8 @@ Part 7 of the Rules makes provisions of general application. These include provi
 [^c-30c5cfd11280f23f2f42389564735753]: Textual amendment: Words in Sch. rule 24(6) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(dd)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/dd) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^f00012]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
+
+[^c-add0b5c530ad36e60ddf4a425fc8aff0]: Textual amendment: Sch. rule 24(11A) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1/1), [16](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/16)
 
 [^c-39ef33b58e5ebbd5c0fe72bc61c8105d]: Commencement: Sch. rule 25 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
@@ -1389,6 +1525,8 @@ Part 7 of the Rules makes provisions of general application. These include provi
 [^c-a42a789017ef5a3ed3ae12ada9d9a397]: Commencement: Sch. rule 38 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
 [^c-b0bf2f3ca53e9b674ac73c841e764ecb]: Commencement: Sch. rule 39 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-99b25ff4f1cc5db7f7114e5daf679cdf]: Textual amendment: Sch. rule 39(5) inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/1), [3(6)](https://www.legislation.gov.uk/uksi/2022/697/schedule/paragraph/3/6)
 
 [^c-ae225bf1a420e52d42dc9bc4038057bf]: Commencement: Sch. rule 40 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 

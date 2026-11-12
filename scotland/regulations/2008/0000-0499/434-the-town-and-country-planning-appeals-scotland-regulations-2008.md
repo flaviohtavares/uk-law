@@ -3,16 +3,16 @@ title: The Town and Country Planning (Appeals) (Scotland) Regulations 2008
 id: ssi/2008/434
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-22'
-text_date: null
-extent: null
+text_date: '2008-12-22'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/434
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/434/pdfs/ssien_20080434_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/434/pdfs/ssi_20080434_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/434/made/data.pdf
-pending_changes: 40
+- http://www.legislation.gov.uk/ssi/2008/434/data.pdf
+pending_changes: 74
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Town and Country Planning (Appeals) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (74).** Text as at 2008-12-22. See https://www.legislation.gov.uk/changes/affected/ssi/2008/434
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 434
 
@@ -44,7 +50,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-734b8741cbfde2e28a470c617c1b172d]
 
 (1) These Regulations may be cited as the Town and Country Planning (Appeals) (Scotland) Regulations 2008 and come into force on 3rd August 2009.
 
@@ -67,7 +73,7 @@ where notice of appeal is given to the Scottish Ministers under section 47(3), 1
 
 (4) These Regulations apply in accordance with regulation 17 to applications referred to the Scottish Ministers following a direction under section 46(1) (call in of applications by the Scottish Ministers) of the Act given on or after 3rd August 2009.
 
-### 2. Interpretation
+### 2. Interpretation[^c-5b092678ffcba033068d6f55bb9a8f74]
 
 In these Regulations–
 
@@ -105,7 +111,7 @@ In these Regulations–
 
 ## PART 2 — Appeals under section 47 of the Act
 
-### 3. Notice of Appeal
+### 3. Notice of Appeal[^c-c1fa346e638310ebb270c1a5b509c4ac]
 
 (1) An appeal to the Scottish Ministers under section 47 of the Act is to be made by giving notice in writing in accordance with this regulation.
 
@@ -128,7 +134,7 @@ In these Regulations–
 
 (5) In addition to matters set out in the notice of appeal and documents which accompany the notice of appeal, the appellant may raise matters and submit further documents, materials or evidence only in accordance with and to the extent permitted by regulations 4, 5 and 10, the Hearing Session Rules and the Inquiry Session Rules.
 
-### 4. Intimation to planning authority and planning authority’s response
+### 4. Intimation to planning authority and planning authority’s response[^c-1910fa03e68ffef3522312cfbe73d185]
 
 (1) The appellant must at the same time as giving the notice of appeal to the Scottish Ministers send to the planning authority–
 
@@ -148,7 +154,7 @@ In these Regulations–
 - (a) comments on any matters raised in the planning authority’s response which had not been raised in the decision notice; and
 - (b) any documents, materials or evidence on which the appellant intends to rely in relation to such comments.
 
-### 5. Notification to interested parties
+### 5. Notification to interested parties[^c-0b187c4972952823d5f0b83437fa8348]
 
 (1) The planning authority must not later than 14 days following notification of the appeal under regulation 4(1) give notice of the appeal to each interested party.
 
@@ -172,7 +178,7 @@ In these Regulations–
 
 (6) The appellant and the planning authority may, on or before that date, make comments on such representations to the Scottish Ministers.
 
-### 6. Publication of appeal documents
+### 6. Publication of appeal documents[^c-85de326e937b9a8d961b24a24d264d42]
 
 (1) The planning authority are in relation to an appeal to make copies of–
 
@@ -190,11 +196,11 @@ available for inspection at an office of the planning authority until such time 
 
 ## PART 3 — Procedure for determination
 
-### 7. Determination without further procedure
+### 7. Determination without further procedure[^c-b191e8ee302ea6a20eb0db3bbea35629]
 
 Where the appointed person considers that no further representations are or information is required to enable the appeal to be determined, the appointed person may determine the appeal without further procedure.
 
-### 8. Decision as to further procedure
+### 8. Decision as to further procedure[^c-e5155f074abe802597ab90eba48c2a2b]
 
 (1) Where the appointed person does not determine the appeal without further procedure, the appointed person may determine the manner in which the appeal is to be conducted and must do so in accordance with this regulation.
 
@@ -218,7 +224,7 @@ Where the appointed person considers that no further representations are or info
 
 (6) Notices given under regulation 10(1), rule 1(1) of the Hearing Session Rules or rule 1(1) of the Inquiry Session Rules may be given separately or combined into a single notice.
 
-### 9. Pre-examination meetings
+### 9. Pre-examination meetings[^c-544173d8ff21fb5112e2e8b534b85ec3]
 
 (1) The appointed person may hold a meeting (“a pre-examination meeting”) to consider the manner in which the appeal or any stage of the appeal is to be conducted with a view to securing that the appeal or any stage of the appeal is conducted efficiently and expeditiously.
 
@@ -231,7 +237,7 @@ Where the appointed person considers that no further representations are or info
 
 (4) The appointed person is to determine the matters to be discussed and the procedure to be followed at the pre-examination meeting.
 
-### 10. Written submissions
+### 10. Written submissions[^c-2ffbe283ac248dd35f72639e4e8378c4]
 
 (1) Where the appointed person has determined that further representations should be made or further information should be provided by means of written submissions, the appointed person may request such further representations or information and is to do so by written notice to that effect to–
 
@@ -248,7 +254,7 @@ Where the appointed person considers that no further representations are or info
 
 (4) Within a period of 14 days from receipt of a copy of such further representations or information, the appellant, the planning authority or such other body or person may send comments to the appointed person in reply to it and when doing so must send a copy of such comments to the appellant, planning authority and to such other bodies or persons (and at the address) specified in the procedure notice.
 
-### 11. Site inspections
+### 11. Site inspections[^c-0e2306946fd8761e78c90a03d239c74d]
 
 (1) The appointed person may at any time make–
 
@@ -265,7 +271,7 @@ Where the appointed person considers that no further representations are or info
 
 (4) The appointed person is not bound to defer an inspection if any person to whom notice was given under paragraph (3) is not present at the time appointed.
 
-### 12. New evidence
+### 12. New evidence[^c-03fc70e731cf2fbd62d556c063bc9933]
 
 (1) If after the conclusion of any further procedure conducted by virtue of regulation 8, the appointed person proposes to take into consideration any new evidence which is material to the determination of the appeal, the appointed person must not reach a decision on the appeal without first affording the appellant, the planning authority and other relevant party an opportunity of making representations on such new evidence.
 
@@ -277,7 +283,7 @@ Where the appointed person considers that no further representations are or info
 
 ## PART 4 — Appeals under sections 130(2), 169(1) and 180(2) of the Act
 
-### 13. Statement of appeal
+### 13. Statement of appeal[^c-61c594f65168d2c4a04fa953a6a00cd0]
 
 (1) The appellant must at the same time as giving notice of appeal to the Scottish Ministers under section 130(2), section 169(2) or section 180(2) of the Act, as the case may be, and in addition to specifying the grounds of appeal as required by section 130(3)(a) (and as applied by section 180(3)) or 169(3), of the Act, also submit a statement (“statement of appeal”) on a form to be obtained from the Scottish Ministers giving the information specified in paragraph (2).
 
@@ -293,7 +299,7 @@ Where the appointed person considers that no further representations are or info
 
 (4) In addition to matters set out in the statement of appeal and the documents accompanying the statement of appeal, the appellant may raise matters only in accordance with and to the extent permitted by regulations 10 and 14, the Hearing Session Rules and the Inquiry Session Rules.
 
-### 14. Intimation of appeal to planning authority and planning authority’s response
+### 14. Intimation of appeal to planning authority and planning authority’s response[^c-df2222af0e5ec5e18328c043e70d9154]
 
 (1) The appellant must at the same time as giving the notice of appeal to the Scottish Ministers send to the planning authority a copy of–
 
@@ -317,7 +323,7 @@ Where the appointed person considers that no further representations are or info
 
 available for inspection at an office of the planning authority and to afford any interested party who so requests an opportunity to inspect and, where practicable, to take copies of any such documents (or any part thereof).
 
-### 15. Notification to other parties
+### 15. Notification to other parties[^c-6154cf2aaca810935d11ff066bac82d2]
 
 (1) The planning authority must not later than 14 days following notification of the appeal under regulation 13 give notice of the appeal to each person (other than the appellant) on whom the enforcement notice or the notice under section 168 or 179 of the Act, as the case may be, was served.
 
@@ -332,7 +338,7 @@ available for inspection at an office of the planning authority and to afford an
 
 ## PART 5 — Appeals under section 154 of the Act
 
-### 16. Notice and conduct of the appeal
+### 16. Notice and conduct of the appeal[^c-283a7a021e5e2eaad7277f1567294bbe]
 
 (1) An appeal to the Scottish Ministers under section 154(1) of the Act is to be made by giving notice in writing in accordance with this regulation.
 
@@ -351,7 +357,7 @@ available for inspection at an office of the planning authority and to afford an
 
 ## PART 6 — Called-in Applications and non-delegated appeals
 
-### 17. Called-in applications
+### 17. Called-in applications[^c-4e1010a27494850ea7b154164248243c]
 
 (1) Parts 1, 3 and 7, the Hearing Session Rules and the Inquiry Session Rules apply to an application referred to the Scottish Ministers following a direction under section 46(1) of the Act as they apply to a delegated appeal under section 47 of the Act with the modifications specified in paragraph (2).
 
@@ -361,13 +367,13 @@ available for inspection at an office of the planning authority and to afford an
 - (b) references to the appointed person in Parts 3 and 7 (other than in regulation 21) are to be treated as references to the Scottish Ministers, and in regulation 21, the Hearing Session Rules and the Inquiry Session Rules are to be treated as references to the person appointed to hold the hearing session or inquiry session, as the case may be; and
 - (c) in regulation 7, 8(5) and 11(3)(c), “considers”; in regulation 8(1), “does”; in regulation 8(3), “determines”; in regulation 9(2) and (4) and 11(4), “is”; in regulation 10(1), “has”; in regulation 10(1)(b), “wishes” and in regulation 12(1), “proposes”, are respectively to be read as “consider”, “do”, “determine”, “are”, “have”, “wish” and “propose”.
 
-### 18. Non-delegated appeals
+### 18. Non-delegated appeals[^c-8cb6083785339e52668ca349ede837fd]
 
 Parts 1, 3 and 7, the Hearing Session Rules and the Inquiry Session Rules apply to a non-delegated appeal as they apply to a delegated appeal with the modifications specified in regulation 17(2)(b) and (c).
 
 ## PART 7 — General
 
-### 19. Further copies of documents etc
+### 19. Further copies of documents etc[^c-b649940473579335c4ff4d742c91b18f]
 
 (1) The appointed person may require any person who has submitted documents, materials or evidence under these Regulations in connection with the appeal to–
 
@@ -376,24 +382,24 @@ Parts 1, 3 and 7, the Hearing Session Rules and the Inquiry Session Rules apply 
 
 (2) The appointed person may require the planning authority to make copies of such documents, materials or evidence as the appointed person may specify available for inspection at an office of that planning authority until such time as the appeal is determined and to afford to any person who so requests a reasonable opportunity to inspect and, where practicable, take copies of any such documents, materials or evidence (or any part thereof) which, or a copy of which, has been sent to the planning authority in accordance with this regulation.
 
-### 20. Compliance with development management procedures
+### 20. Compliance with development management procedures[^c-3652d67881819a804bb93feeb7d7a1fa]
 
 The appointed person must, to the extent not already done so by the planning authority comply with regulations 18 (notification by the planning authority), 19 (notification of minerals applications), 20 (publication by the planning authority) and 25 (consultation by the planning authority) of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008[^f00004] before determining the appeal.
 
-### 21. Appointment of assessor
+### 21. Appointment of assessor[^c-8125db97811ebcb3881350881536c704]
 
 (1) The Scottish Ministers may appoint a person to sit with the appointed person at a hearing session or inquiry session to advise the appointed person on such matters arising as the Scottish Ministers may specify (“an assessor”) and where they do so they are to notify every person entitled to appear at the inquiry session or hearing session, as the case may be, of the name of the assessor and of the matters on which the assessor is to advise the appointed person.
 
 (2) Where an assessor has been appointed, the assessor may (and if so required by the appointed person, must), after the close of the hearing session or inquiry session, make a report in writing to the appointed person in respect of the matters on which the assessor was appointed to advise.
 
-### 22. Decision notice
+### 22. Decision notice[^c-8fe254319ff5d419780541a680b77035]
 
 The appointed person must–
 
 - (a) give notice of the decision to the appellant and to the planning authority; and
 - (b) notify every person who has made (and did not subsequently withdraw) representations in respect of the appeal that a decision on the appeal has been made and where a copy of the notice of the decision is available for inspection.
 
-### 23. Electronic communications
+### 23. Electronic communications[^c-43ebe2f4e1be3e89ec954e8da4b90710]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
@@ -424,7 +430,7 @@ The appointed person must–
 
 ## PART 8 — Transitional Provisions
 
-### 24. Time within which appeal must be made
+### 24. Time within which appeal must be made[^c-20fd899e39a47e2b62b6fbdbd3e8a15b]
 
 (1) In the case of an appeal made by virtue of section 47 or 154 of the Act where the relevant date is before 3rd August 2009, the notice of appeal must be served on the Scottish Ministers within a period of six months from the relevant date.
 
@@ -447,7 +453,7 @@ Edinburgh
 
 Regulation 2
 
-### 1. Notice of hearing session and specified matters
+### 1. Notice of hearing session and specified matters[^c-665b4071508f5d1b4d88274749cd8b06]
 
 (1) Where the appointed person has determined that a hearing session should be held the appointed person is to give written notice to that effect to–
 
@@ -462,7 +468,7 @@ Regulation 2
 
 (4) A person or body given notice under paragraph (1) and who intends to appear at the hearing session must within 14 days of the date of such notice inform the appointed person in writing of that intention.
 
-### 2. Appearances at hearing session
+### 2. Appearances at hearing session[^c-33d2850aaf227c30b31a780f8cdeb065]
 
 The persons entitled to appear at a hearing session are–
 
@@ -470,13 +476,13 @@ The persons entitled to appear at a hearing session are–
 - (b) the planning authority; and
 - (c) any other person or body who, in response to a procedure notice, has informed the appointed person of their intention to appear at the hearing session in accordance with rule 1(4).
 
-### 3. Date and notification of hearing session
+### 3. Date and notification of hearing session[^c-1c9c5dabe1f01e6c2aa3432dbf584634]
 
 (1) The date, time and place at which the hearing session is to be held is to be determined (and may subsequently be varied) by the appointed person.
 
 (2) The appointed person is to give to those persons entitled to appear at the hearing session such notice of the date, time and place fixed for the holding of a hearing session (and any subsequent variation thereof) as may appear to the appointed person to be reasonable in the circumstances.
 
-### 4. Service of hearing statements and documents
+### 4. Service of hearing statements and documents[^c-b1db8d32efa6fa5686d6e7309b6b982f]
 
 (1) Where required to do so by notice given by the appointed person, a person entitled to appear at the hearing session must, by such date as is specified in the notice, send to–
 
@@ -501,7 +507,7 @@ The persons entitled to appear at a hearing session are–
 - (a) a list of documents (if any) which the person putting forward such case intends to refer to or rely on; and
 - (b) a list of any other persons who are to speak at the hearing session in respect of such case, any matters which such persons are particularly to address and any relevant qualifications of such persons to do so.
 
-### 5. Procedure at hearing
+### 5. Procedure at hearing[^c-f5a39521687c7cc53cec213940c86d51]
 
 (1) Except as otherwise provided in these Hearing Session Rules, the appointed person is to determine the procedure at a hearing session.
 
@@ -521,7 +527,7 @@ The persons entitled to appear at a hearing session are–
 
 Regulation 2
 
-### 1. Notice of inquiry session and specified matters
+### 1. Notice of inquiry session and specified matters[^c-04f83a97133b3d1b03314d87e5485673]
 
 (1) Where the appointed person has determined that an inquiry session is to be held the appointed person is to give written notice to that effect to–
 
@@ -536,7 +542,7 @@ Regulation 2
 
 (4) A body or person given notice under paragraph (1) and who intends to appear at the inquiry session must within 14 days of the date of the such notice inform the appointed person in writing of that intention.
 
-### 2. Appearances at inquiry session
+### 2. Appearances at inquiry session[^c-db001ff51df2bcc501c9ab6c6ba698f2]
 
 The persons entitled to appear at the inquiry session are–
 
@@ -544,7 +550,7 @@ The persons entitled to appear at the inquiry session are–
 - (b) the planning authority; and
 - (c) any other person or body who, in a response to a procedure notice, has informed the appointed person of their intention to appear at the inquiry session in accordance with rule 1(4).
 
-### 3. Date and notification of inquiry
+### 3. Date and notification of inquiry[^c-9ec6916d5ccdfe682189d5d87995150e]
 
 (1) The date, time and place for the holding of the inquiry session is to be fixed (and may subsequently be varied) by the appointed person.
 
@@ -559,7 +565,7 @@ The persons entitled to appear at the inquiry session are–
   such notices of the inquiry session as the appointed person may direct; or
 - (b) to serve notice of the inquiry session in such form and on such persons or classes of persons as the appointed person may specify.
 
-### 4. Service of inquiry statements, documents and precognitions
+### 4. Service of inquiry statements, documents and precognitions[^c-1d8a9aaad87c9a7d3e7c7295c16b8201]
 
 (1) Where required to do so by notice given by the appointed person, a person entitled to appear at the inquiry session must, by such date as is specified in the notice, send to–
 
@@ -585,7 +591,7 @@ The persons entitled to appear at the inquiry session are–
   - (c) a list of witnesses specifying the persons who are to give, or be called to give, evidence at the inquiry session, the matters in respect of which such persons are to give evidence and the relevant qualifications of such persons to do so; and
 - “precognition” means a written statement of the evidence which it is proposed that a witness will give to the inquiry session.
 
-### 5. Procedure at inquiry session
+### 5. Procedure at inquiry session[^c-0af5b6552339a513dfd8b2a6fc059e3e]
 
 (1) Except as otherwise provided in these Inquiry Session Rules, the procedure at the inquiry session shall be such as the appointed person determines.
 
@@ -640,10 +646,78 @@ Regulation 24 makes transitional provisions to ensure that where a person is ent
 
 [^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). The Town and Country Planning (Scotland) Act 1997 (“the Act”) was amended by sections 19, 52(1) and 54(6) of and the Schedule to the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17). The functions of the Secretary of State under the Act transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). See section 277(1) of the Act for the definition of “prescribed”.
 
+[^c-734b8741cbfde2e28a470c617c1b172d]: Commencement: Reg. 1 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-5b092678ffcba033068d6f55bb9a8f74]: Commencement: Reg. 2 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
 [^f00002]: Footnote: [S.S.I. 2008/432](https://www.legislation.gov.uk/ssi/2008/432).
 
 [^f00003]: Footnote: Schedule 2 of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008 requires the register to contain a report.
 
+[^c-c1fa346e638310ebb270c1a5b509c4ac]: Commencement: Reg. 3 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-1910fa03e68ffef3522312cfbe73d185]: Commencement: Reg. 4 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-0b187c4972952823d5f0b83437fa8348]: Commencement: Reg. 5 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-85de326e937b9a8d961b24a24d264d42]: Commencement: Reg. 6 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-b191e8ee302ea6a20eb0db3bbea35629]: Commencement: Reg. 7 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-e5155f074abe802597ab90eba48c2a2b]: Commencement: Reg. 8 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-544173d8ff21fb5112e2e8b534b85ec3]: Commencement: Reg. 9 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-2ffbe283ac248dd35f72639e4e8378c4]: Commencement: Reg. 10 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-0e2306946fd8761e78c90a03d239c74d]: Commencement: Reg. 11 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-03fc70e731cf2fbd62d556c063bc9933]: Commencement: Reg. 12 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-61c594f65168d2c4a04fa953a6a00cd0]: Commencement: Reg. 13 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-df2222af0e5ec5e18328c043e70d9154]: Commencement: Reg. 14 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-6154cf2aaca810935d11ff066bac82d2]: Commencement: Reg. 15 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-283a7a021e5e2eaad7277f1567294bbe]: Commencement: Reg. 16 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-4e1010a27494850ea7b154164248243c]: Commencement: Reg. 17 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-8cb6083785339e52668ca349ede837fd]: Commencement: Reg. 18 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-b649940473579335c4ff4d742c91b18f]: Commencement: Reg. 19 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-3652d67881819a804bb93feeb7d7a1fa]: Commencement: Reg. 20 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
 [^f00004]: Footnote: [S.S.I. 2008/432](https://www.legislation.gov.uk/ssi/2008/432).
 
+[^c-8125db97811ebcb3881350881536c704]: Commencement: Reg. 21 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-8fe254319ff5d419780541a680b77035]: Commencement: Reg. 22 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-43ebe2f4e1be3e89ec954e8da4b90710]: Commencement: Reg. 23 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
 [^f00005]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
+
+[^c-20fd899e39a47e2b62b6fbdbd3e8a15b]: Commencement: Reg. 24 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-665b4071508f5d1b4d88274749cd8b06]: Commencement: Sch. 1 para. 1 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-33d2850aaf227c30b31a780f8cdeb065]: Commencement: Sch. 1 para. 2 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-1c9c5dabe1f01e6c2aa3432dbf584634]: Commencement: Sch. 1 para. 3 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-b1db8d32efa6fa5686d6e7309b6b982f]: Commencement: Sch. 1 para. 4 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-f5a39521687c7cc53cec213940c86d51]: Commencement: Sch. 1 para. 5 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-04f83a97133b3d1b03314d87e5485673]: Commencement: Sch. 2 para. 1 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-db001ff51df2bcc501c9ab6c6ba698f2]: Commencement: Sch. 2 para. 2 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-9ec6916d5ccdfe682189d5d87995150e]: Commencement: Sch. 2 para. 3 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-1d8a9aaad87c9a7d3e7c7295c16b8201]: Commencement: Sch. 2 para. 4 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)
+
+[^c-0af5b6552339a513dfd8b2a6fc059e3e]: Commencement: Sch. 2 para. 5 in force at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/434/regulation/1/1)

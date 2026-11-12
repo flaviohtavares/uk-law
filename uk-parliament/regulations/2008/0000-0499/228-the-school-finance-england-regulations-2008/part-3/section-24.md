@@ -2,8 +2,8 @@
 title: The School Finance (England) Regulations 2008, section 24
 act: The School Finance (England) Regulations 2008
 section: '24'
-status: revised-with-pending-changes
-text_date: '2008-02-29'
+status: repealed
+text_date: '2012-03-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/228/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,20 +12,20 @@ summary: ''
 
 # The School Finance (England) Regulations 2008, section 24
 
-> **Warning: changes not yet applied to this text (55).** Text as at 2008-02-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/228
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## 24. Correction of errors and changes in non-domestic rates[^c-7e23cd889e7e1bb4b21e2d518834abe6]
+## 24. Correction of errors and changes in non-domestic rates[^c-99e0c642b6666baedd23fe151900fad4]
 
 *Extent: E+W*
 
-(1) A local education authority may at any time during funding period 1, 2 or 3 redetermine a school’s budget share for a previous funding period, or the current funding period, in order to correct an error in a determination or redetermination under these, or previous Regulations, whether arising from a mistake as to the number of registered pupils at the school or otherwise, provided the error is of a kind not provided for by any specific error correction provision in the authority’s formula.
+**No longer in force.**
 
-(2) A local education authority may redetermine a school’s budget share for funding period 1, 2 or 3 to take into account any changes in that school’s non-domestic rates liability in relation to a current funding period or previous funding period.
-
-(3) Insofar as any redetermination under paragraph (1) would require the amount that would otherwise have been the budget share of a school to be reduced, it may not be reduced to a figure which is lower than that which could have been allocated to that school under the regulations in force during the funding period in which the error occurred.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-7e23cd889e7e1bb4b21e2d518834abe6]: Commencement: Reg. 24 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-99e0c642b6666baedd23fe151900fad4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/228) revoked (15.3.2012) by [The School Finance (England) Regulations 2012 (revoked) 2012 (S.I. 2012/335)](https://www.legislation.gov.uk/uksi/2012/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/335/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/2))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

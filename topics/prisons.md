@@ -144,7 +144,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Prison and Young Offender Institution (Amendment) Rules 2011](../uk-parliament/regulations/2011/1500-1999/1663-the-prison-and-young-offender-institution-amendment-rules-2011.md) *(as originally made)*
 - [The Prisoners’ Earnings Act 1996 (Commencement) (England and Wales) Order 2011](../uk-parliament/regulations/2011/1500-1999/1658-the-prisoners-earnings-act-1996-commencement-england-and-wales-order-2011.md) *(as originally made)*
 - [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011](../scotland/regulations/2011/0000-0499/356-the-prisons-and-young-offenders-institutions-scotland-amendment-rules-2011.md) *(as originally made)*
-- [The Prisons and Young Offenders Institutions (Scotland) Rules 2011](../scotland/regulations/2011/0000-0499/331-the-prisons-and-young-offenders-institutions-scotland-rules-2011/README.md) *(changes pending)*
+- [The Prisons and Young Offenders Institutions (Scotland) Rules 2011](../scotland/regulations/2011/0000-0499/331-the-prisons-and-young-offenders-institutions-scotland-rules-2011/README.md)
 
 **2009**
 

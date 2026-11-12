@@ -105,7 +105,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Rates (Regional Rates) Order (Northern Ireland) 2016](../northern-ireland/regulations/2016/0000-0499/16-the-rates-regional-rates-order-northern-ireland-2016.md) *(as originally made)*
 - [The Rates (Small Business Hereditament Relief) (Amendment) Regulations (Northern Ireland) 2016](../northern-ireland/regulations/2016/0000-0499/26-the-rates-small-business-hereditament-relief-amendment-regulations-northern-irel.md) *(as originally made)*
 - [The Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2016](../northern-ireland/regulations/2016/0000-0499/18-the-rates-temporary-rebate-amendment-order-northern-ireland-2016.md)
-- [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016](../northern-ireland/regulations/2016/0000-0499/224-the-social-security-overpayments-and-recovery-regulations-northern-ireland-2016.md) *(changes pending)*
+- [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016](../northern-ireland/regulations/2016/0000-0499/224-the-social-security-overpayments-and-recovery-regulations-northern-ireland-2016.md)
 
 **2015**
 

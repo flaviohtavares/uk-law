@@ -4,7 +4,7 @@ Laws in force under the legislation.gov.uk subject heading **LORD CHIEF JUSTICE*
 
 ## Regulations
 
-10 in force.
+9 in force.
 
 **2009**
 
@@ -13,7 +13,6 @@ Laws in force under the legislation.gov.uk subject heading **LORD CHIEF JUSTICE*
 **2008**
 
 - [The Discipline of Judges (Designation) Order 2008](../uk-parliament/regulations/2008/2500-2999/2700-the-discipline-of-judges-designation-order-2008.md) *(as originally made)*
-- [The Judicial Discipline (Prescribed Procedures) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2098-the-judicial-discipline-prescribed-procedures-amendment-regulations-2008.md) *(changes pending)*
 
 **2007**
 

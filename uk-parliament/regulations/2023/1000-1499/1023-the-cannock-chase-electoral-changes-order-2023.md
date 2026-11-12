@@ -3,16 +3,16 @@ title: The Cannock Chase (Electoral Changes) Order 2023
 id: uksi/2023/1023
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2023-09-19'
-text_date: '2023-09-20'
+text_date: '2026-10-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2023/1023
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2023/1023/pdfs/uksiem_20231023_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2023/1023/pdfs/uksi_20231023_en.pdf
 - http://www.legislation.gov.uk/uksi/2023/1023/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Cannock Chase (Electoral Changes) Order 2023
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/uksi/2023/1023
+> Text as at 2026-10-15.
 >
 > Extent: England, Wales.
 
@@ -105,8 +105,6 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 ## 5. Parish wards of the parishes of Brereton & Ravenhill, Heath Hayes & Wimblebury, Hednesford and Rugeley and number of councillors[^c-7721fd64cbe1528559202ee65bce7342]
 
-**Not yet in force.**
-
 (1) The existing parish wards of the parishes of Brereton & Ravenhill, Heath Hayes & Wimblebury, Hednesford and Rugeley are abolished.
 
 (2) The parish of Brereton & Ravenhill is divided into the two parish wards listed in the first column of Table 1 in Schedule 2.
@@ -151,8 +149,6 @@ Article 3
 | Western Springs |
 
 ## SCHEDULE 2 — Parish wards of the parishes of Brereton & Ravenhill, Heath Hayes & Wimblebury, Hednesford and Rugeley and number of councillors[^c-d78a955bcaa0bbc7012cd04d7f13714a]
-
-**Not yet in force.**
 
 Article 5
 
@@ -236,8 +232,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-37d762e19439b496e65f4f2b3e0c0856]: Commencement: Art. 4 in force at 20.9.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/3)
 
-[^c-7721fd64cbe1528559202ee65bce7342]: Commencement: Art. 5 in force at 15.10.2026 for specified purposes and otherwise on the ordinary day of election of parish councillors in England in 2027, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/4)
+[^c-7721fd64cbe1528559202ee65bce7342]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2023/1023/article/5) in force at 15.10.2026 for specified purposes and otherwise on the ordinary day of election of parish councillors in England in 2027, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/4)
 
 [^c-f69cbec48a23a7aeafc44a1fad80988a]: Commencement: Sch. 1 in force at 20.9.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/3)
 
-[^c-d78a955bcaa0bbc7012cd04d7f13714a]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes and otherwise on the ordinary day of election of parish councillors in England in 2027, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/4)
+[^c-d78a955bcaa0bbc7012cd04d7f13714a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1023/schedule/2) in force at 15.10.2026 for specified purposes and otherwise on the ordinary day of election of parish councillors in England in 2027, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/4)

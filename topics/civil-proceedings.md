@@ -8,7 +8,7 @@ Laws in force under the legislation.gov.uk subject heading **CIVIL PROCEEDINGS**
 
 **2026**
 
-- [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/960-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulati.md) *(as originally made)*
+- [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/960-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulati.md)
 - [The Judicial Review and Courts Act 2022 (Commencement No. 7) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/716-the-judicial-review-and-courts-act-2022-commencement-no-7-regulations-2026.md) *(as originally made)*
 - [The Online Procedure (Rules and Practice Directions) Rules 2026](../uk-parliament/regulations/2026/0500-0999/696-the-online-procedure-rules-and-practice-directions-rules-2026.md) *(as originally made)*
 - [The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 2 and Saving Provisions) Regulations 2026](../scotland/regulations/2026/0000-0499/120-the-victims-witnesses-and-justice-reform-scotland-act-2025-commencement-no-2-and.md) *(as originally made)*

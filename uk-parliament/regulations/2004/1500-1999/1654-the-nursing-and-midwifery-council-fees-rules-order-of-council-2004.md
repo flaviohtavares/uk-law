@@ -3,15 +3,15 @@ title: The Nursing and Midwifery Council (Fees) Rules Order of Council 2004
 id: uksi/2004/1654
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2004-06-09'
-text_date: '2020-12-31'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2004/1654
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2004/1654/pdfs/uksi_20041654_en.pdf
 - http://www.legislation.gov.uk/uksi/2004/1654/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Nursing and Midwifery Council (Fees) Rules Order of Council 2004
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/uksi/2004/1654
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -80,17 +80,17 @@ The Nursing and Midwifery Council in exercise of its powers under articles 7(1),
 |  |  |  |
 | --- | --- | --- |
 | *Column (1)[^c-8a800570cc33ed3448fc7deabf6812ee]* | *Column (2)* | *Column (3)* |
-| (a) | an application for registration where the applicant is relying on article 13(1)(a) or (dd)[^c-b09750e2fc80cdd2e9bd164241ea6ba6] or article 13A[^c-4fe87bdf6372be90e593ca76d387c74c] of the Order | £120[^c-4dbe337e7abfffef9436ab4fc7d2fcb7] |
-| (b) | an application for registration where the applicant is relying on article 13(1)(d) of the Order | £153[^c-19cf065b0839797bbaf9a836167cfd40] |
-| (c) | an evaluation of the information where the applicant for registration is relying on article 13(1) [^c-a0a966f4c47fc954a3ea9c7f81df2ec7]... (d) or (dd)[^c-a86c34b0f3b88da04196e317b62be7c0] of the Order | £140 |
+| (a) | an application for registration where the applicant is relying on article 13(1)(a) or (dd)[^c-b09750e2fc80cdd2e9bd164241ea6ba6] or article 13A[^c-4fe87bdf6372be90e593ca76d387c74c] of the Order | £143[^c-509afb722380687fb5a13aeb7f8eee2e] |
+| (b) | an application for registration where the applicant is relying on article 13(1)(d) of the Order | £182[^c-0f013c0e5484e2ddd8d1f93d22c54e71] |
+| (c) | an evaluation of the information where the applicant for registration is relying on article 13(1) [^c-a0a966f4c47fc954a3ea9c7f81df2ec7]... (d) or (dd)[^c-a86c34b0f3b88da04196e317b62be7c0] of the Order | £167[^c-83906b75bcb542bfb638f321523dc82d] |
 | (d) | [^c-78d85b629e6df304b060b7a8ae8d396f]. . . | [^c-78d85b629e6df304b060b7a8ae8d396f]. . . |
-| (e) | an application for renewal of registration at the end of a registration period | £120 |
-| (f) | an application for readmission or restoration to the register | £120 |
-| (g) | an application in connection with entering on the register a registrable qualification made separately from an application mentioned in (a), (b), (e) or (f) above | £23 |
-| (h) | an application for entering on the register a recordable qualification | £25 |
-| (i) | a retention of registration | £120 |
+| (e) | an application for renewal of registration at the end of a registration period | £143 |
+| (f) | an application for readmission or restoration to the register | £143 |
+| (g) | an application in connection with entering on the register a registrable qualification made separately from an application mentioned in (a), (b), (e) or (f) above | £27[^c-eef6ed184e1574c0688c973de3a471e1] |
+| (h) | an application for entering on the register a recordable qualification | £30[^c-892acbab4b56ca80be66c913e8dd6b96] |
+| (i) | a retention of registration | £143 |
 
-### 4. Fee for retention of registration[^c-762cde28a855a8e7a9113b01c73c2a84]
+### 4. Fee for retention of registration[^c-762cde28a855a8e7a9113b01c73c2a84][^c-4dbe337e7abfffef9436ab4fc7d2fcb7]
 
 (1) In respect of any registration period beginning on or after 1st January 2006, the registrant shall, except as provided for in paragraph (2), pay a fee for retention of registration (as prescribed in rule 3(i)) which shall be due—
 
@@ -115,14 +115,22 @@ This Order, which is made under the Nursing and Midwifery Order 2001, approves R
 
 [^c-4fe87bdf6372be90e593ca76d387c74c]: Textual amendment: Words in Sch. rule 3 table substituted (28.1.2019) by [The Nursing and Midwifery Council (Fees) (Amendment) Rules Order of Council 2018 (S.I. 2018/1198)](https://www.legislation.gov.uk/uksi/2018/1198), [art. 1](https://www.legislation.gov.uk/uksi/2018/1198/article/1), [Sch. rule 2(a)](https://www.legislation.gov.uk/uksi/2018/1198/schedule/paragraph/2)
 
-[^c-4dbe337e7abfffef9436ab4fc7d2fcb7]: Textual amendment: Sum in Sch. rule 3 table substituted (1.2.2015) by [The Nursing and Midwifery Council (Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/3139)](https://www.legislation.gov.uk/uksi/2014/3139), [art. 1](https://www.legislation.gov.uk/uksi/2014/3139/article/1), [Sch. rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3139/schedule/paragraph/2/a)
+[^c-509afb722380687fb5a13aeb7f8eee2e]: Textual amendment: Sum in [Sch. rule 3](https://www.legislation.gov.uk/uksi/2004/1654/schedule/rule/3) table substituted (1.10.2026) by [The Nursing and Midwifery Council (Fees) (Practice Committee) (Fitness to Practise) (Amendment) Rules Order of Council 2026 (S.I. 2026/822)](https://www.legislation.gov.uk/uksi/2026/822), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/2/a)
 
-[^c-19cf065b0839797bbaf9a836167cfd40]: Textual amendment: Sum in Sch. rule 3 table substituted (1.2.2015) by [The Nursing and Midwifery Council (Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/3139)](https://www.legislation.gov.uk/uksi/2014/3139), [art. 1](https://www.legislation.gov.uk/uksi/2014/3139/article/1), [Sch. rule 2(b)](https://www.legislation.gov.uk/uksi/2014/3139/schedule/paragraph/2/b)
+[^c-0f013c0e5484e2ddd8d1f93d22c54e71]: Textual amendment: Sum in [Sch. rule 3](https://www.legislation.gov.uk/uksi/2004/1654/schedule/rule/3) table substituted (1.10.2026) by [The Nursing and Midwifery Council (Fees) (Practice Committee) (Fitness to Practise) (Amendment) Rules Order of Council 2026 (S.I. 2026/822)](https://www.legislation.gov.uk/uksi/2026/822), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/2/b)
 
 [^c-a0a966f4c47fc954a3ea9c7f81df2ec7]: Textual amendment: Word in [Sch. rule 3](https://www.legislation.gov.uk/uksi/2004/1654/schedule/rule/3) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 4 para. 23(b)(ii)](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/paragraph/23/b/ii) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [12(3)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-a86c34b0f3b88da04196e317b62be7c0]: Textual amendment: Words in Sch. rule 3 table substituted (28.1.2019) by [The Nursing and Midwifery Council (Fees) (Amendment) Rules Order of Council 2018 (S.I. 2018/1198)](https://www.legislation.gov.uk/uksi/2018/1198), [art. 1](https://www.legislation.gov.uk/uksi/2018/1198/article/1), [Sch. rule 2(b)](https://www.legislation.gov.uk/uksi/2018/1198/schedule/paragraph/2)
 
+[^c-83906b75bcb542bfb638f321523dc82d]: Textual amendment: Sum in [Sch. rule 3](https://www.legislation.gov.uk/uksi/2004/1654/schedule/rule/3) table substituted (1.10.2026) by [The Nursing and Midwifery Council (Fees) (Practice Committee) (Fitness to Practise) (Amendment) Rules Order of Council 2026 (S.I. 2026/822)](https://www.legislation.gov.uk/uksi/2026/822), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/1), [2(c)](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/2/c)
+
 [^c-78d85b629e6df304b060b7a8ae8d396f]: Textual amendment: Words in [Sch. rule 3](https://www.legislation.gov.uk/uksi/2004/1654/schedule/rule/3) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 4 para. 23(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/paragraph/23/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [12(3)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
+[^c-eef6ed184e1574c0688c973de3a471e1]: Textual amendment: Sum in [Sch. rule 3](https://www.legislation.gov.uk/uksi/2004/1654/schedule/rule/3) table substituted (1.10.2026) by [The Nursing and Midwifery Council (Fees) (Practice Committee) (Fitness to Practise) (Amendment) Rules Order of Council 2026 (S.I. 2026/822)](https://www.legislation.gov.uk/uksi/2026/822), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/1), [2(d)](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/2/d)
+
+[^c-892acbab4b56ca80be66c913e8dd6b96]: Textual amendment: Sum in [Sch. rule 3](https://www.legislation.gov.uk/uksi/2004/1654/schedule/rule/3) table substituted (1.10.2026) by [The Nursing and Midwifery Council (Fees) (Practice Committee) (Fitness to Practise) (Amendment) Rules Order of Council 2026 (S.I. 2026/822)](https://www.legislation.gov.uk/uksi/2026/822), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/1), [2(e)](https://www.legislation.gov.uk/uksi/2026/822/schedule/rule/2/e)
+
 [^c-762cde28a855a8e7a9113b01c73c2a84]: Textual amendment: Sch. rule 4 added (1.1.2006) by [The Nursing and Midwifery Council (Fees) (Amendment) Rules Order of Council 2005 (S.I. 2005/3353)](https://www.legislation.gov.uk/uksi/2005/3353), [rule 1](https://www.legislation.gov.uk/uksi/2005/3353/rule/1), [Sch. rule 4](https://www.legislation.gov.uk/uksi/2005/3353/schedule/rule/4)
+
+[^c-4dbe337e7abfffef9436ab4fc7d2fcb7]: Textual amendment: Sum in Sch. rule 3 table substituted (1.2.2015) by [The Nursing and Midwifery Council (Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/3139)](https://www.legislation.gov.uk/uksi/2014/3139), [art. 1](https://www.legislation.gov.uk/uksi/2014/3139/article/1), [Sch. rule 2(a)](https://www.legislation.gov.uk/uksi/2014/3139/schedule/paragraph/2/a)

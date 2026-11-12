@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **EDUCATION**. Repeal
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [School Standards and Framework Act 1998](../../uk-parliament/acts/public/1998/31-school-standards-and-framework-act-1998/README.md) *(changes pending)* — 727 regulations on this topic made under it
+- [School Standards and Framework Act 1998](../../uk-parliament/acts/public/1998/31-school-standards-and-framework-act-1998/README.md) *(changes pending)* — 726 regulations on this topic made under it
 - [Education Act 1996](../../uk-parliament/acts/public/1996/56-education-act-1996/README.md) *(changes pending)* — 491 regulations on this topic made under it
 - [Education Reform Act 1988](../../uk-parliament/acts/public/1988/40-education-reform-act-1988/README.md) *(changes pending)* — 413 regulations on this topic made under it
 - [Education Act 2002](../../uk-parliament/acts/public/2002/32-education-act-2002/README.md) *(changes pending)* — 403 regulations on this topic made under it
@@ -85,7 +85,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-4649 in force, by year:
+4648 in force, by year:
 
 | year | in force |
 |---|---|
@@ -107,7 +107,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 89 |
 | [2010](2010.md) | 119 |
 | [2009](2009.md) | 102 |
-| [2008](2008.md) | 146 |
+| [2008](2008.md) | 145 |
 | [2007](2007.md) | 213 |
 | [2006](2006.md) | 171 |
 | [2005](2005.md) | 192 |

@@ -3,7 +3,7 @@ title: The Disability Working Allowance (General) Regulations 1991, section 4
 act: The Disability Working Allowance (General) Regulations 1991
 section: '4'
 status: revised-with-pending-changes
-text_date: '2001-08-07'
+text_date: '2001-11-13'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1991/2887/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Disability Working Allowance (General) Regulations 1991, section 4
 
-> **Warning: changes not yet applied to this text (63).** Text as at 2001-08-07. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
+> **Warning: changes not yet applied to this text (63).** Text as at 2001-11-13. See https://www.legislation.gov.uk/changes/affected/uksi/1991/2887
 >
 > Extent: England, Wales, Scotland.
 

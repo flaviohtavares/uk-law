@@ -3,7 +3,7 @@ title: Local Government Act 1985, SCHEDULE 7
 act: Local Government Act 1985
 section: schedule-7
 status: repealed
-text_date: '2026-04-29'
+text_date: '2026-10-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1985/51/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

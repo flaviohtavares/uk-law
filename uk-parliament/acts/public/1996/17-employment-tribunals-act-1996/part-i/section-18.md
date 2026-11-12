@@ -3,7 +3,7 @@ title: Employment Tribunals Act 1996, section 18
 act: Employment Tribunals Act 1996
 section: '18'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1996/17/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Employment Tribunals Act 1996, section 18
 
-> **Warning: changes not yet applied to this text (29).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/17
+> **Warning: changes not yet applied to this text (29).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/17
 >
 > Extent: England, Wales, Scotland.
 
@@ -93,7 +93,7 @@ summary: ''
 
 [^c-573a64cf60cd84b4352601f750b89953]: Textual amendment: S. 18(1)(a)-(z2) substituted for s. 18(1)(a)-(y) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [arts. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [2](https://www.legislation.gov.uk/uksi/2014/431/article/2)
 
-[^c-429c7b1be126c60ccc4c89c1a11bd935]: Textual amendment: Word in s. 18(1)(a) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(11)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/11), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-429c7b1be126c60ccc4c89c1a11bd935]: Textual amendment: Word in [s. 18(1)(a)](https://www.legislation.gov.uk/ukpga/1996/17/section/18/1/a) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(11)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/11), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/h) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/1065/regulation/8))
 
 [^c-f94dcd25357c6c109df8500256ee46c3]: Textual amendment: Words in s. 18(1)(a) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 76(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/7)
 

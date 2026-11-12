@@ -139,7 +139,7 @@ The Secretary of State[^f00001], considering that the condition in [section 45](
   ;
 - (b) in [paragraph (4)](https://www.legislation.gov.uk/uksi/2019/411/regulation/126) omit “, including by electronic means,”.
 
-(7) In [Schedule 3](https://www.legislation.gov.uk/uksi/2019/411/schedule/3) (Treasury licences: purposes), in [paragraph 8](https://www.legislation.gov.uk/uksi/2019/411/schedule/3/paragraph/8) (prior obligations), substitute—
+(7) In [Schedule 3](https://www.legislation.gov.uk/uksi/2019/411/schedule/3) (Treasury licences: purposes), for [paragraph 8](https://www.legislation.gov.uk/uksi/2019/411/schedule/3/paragraph/8) (prior obligations), substitute—
 
 > **8. Prior obligations**
 >
@@ -1384,7 +1384,6 @@ The Regulations amend the following sanctions regulations to create an offence o
 - the  [Zimbabwe (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/604/contents),
 - the  [Syria (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/792/contents),
 - the  [Russia (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/855/contents),
-- the  [Lebanon (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/612/contents) ([S.I. 2020/612](https://www.legislation.gov.uk/uksi/2020/612)),
 - the  [Somalia (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/642/contents),
 - the  [Libya (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/1665/contents),
 - the [Myanmar (Sanctions) Regulations 2021](https://www.legislation.gov.uk/uksi/2021/496/contents), and
@@ -1403,7 +1402,7 @@ The Regulations amend the following sanctions regulations to remove defunct word
 - the  [Zimbabwe (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/604/contents),
 - the  [Syria (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/792/contents),
 - the  [Russia (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/855/contents),
-- the  [Lebanon (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/612/contents),
+- the  [Lebanon (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/612/contents) ([S.I. 2020/612](https://www.legislation.gov.uk/uksi/2020/612)),
 - the [Central African Republic (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/616/contents),
 - the  [Somalia (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/642/contents),
 - the  [Iraq (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/707/contents) ([S.I. 2020/707](https://www.legislation.gov.uk/uksi/2020/707)),
@@ -1418,6 +1417,7 @@ The Regulations amend the following sanctions regulations to remove defunct word
 
 The Regulations amend the following sanctions regulations to change currency references from euros to pounds where such references appear in the definitions of “relevant firms”. The definitions of “high value dealers” and “art market participants” will therefore contain monetary thresholds that align with the monetary thresholds for “high value dealers” and “**art market participants**” as defined in the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations ( [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692/contents)), as will be amended by the Money Laundering and Terrorist Financing (Amendment) Regulations 2026, which have been laid in draft before Parliament under section 55(5)(d) of the Sanctions Act 2018, and are available at https://www.legislation.gov.uk; namely—
 
+- [the Venezuela (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/135/contents),
 - the [Democratic People's Republic of Korea (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/411/contents),
 - the [Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/433/contents),
 - the  [South Sudan (Sanctions) (EU Exit) Regulations 2019](https://www.legislation.gov.uk/uksi/2019/438/contents),
@@ -1481,6 +1481,7 @@ The Regulations amend the following sanctions regulations to remove the requirem
 - the  [Iraq (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/707/contents),
 - the [Sudan (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/753/contents),
 - the [Afghanistan (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/948/contents),
+- [the Yemen (Sanctions) (EU Exit) (No. 2) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/1278/contents),
 - the  [Unauthorised Drilling Activities in the Eastern Mediterranean (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/1474/contents),
 - the  [Libya (Sanctions) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/1665/contents),
 - the  [Global Anti-Corruption Sanctions Regulations 2021](https://www.legislation.gov.uk/uksi/2021/488/contents),
@@ -1517,7 +1518,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231/contents); relevant amending instruments are [S.I. 2015/940](https://www.legislation.gov.uk/uksi/2015/940/contents), [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697/contents), [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165/contents), [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939/contents), [S.I. 2019/989](https://www.legislation.gov.uk/uksi/2019/989/contents), [S.I. 2021/586](https://www.legislation.gov.uk/uksi/2021/586/contents), [S.I. 2022/1042](https://www.legislation.gov.uk/uksi/2022/1042/contents), [S.I. 2023/302](https://www.legislation.gov.uk/uksi/2023/302/contents), [S.I. 2024/346](https://www.legislation.gov.uk/uksi/2024/346/contents), [S.I. 2025/532](https://www.legislation.gov.uk/uksi/2025/532/contents) and [S.I. 2025/1197](https://www.legislation.gov.uk/uksi/2025/1197/contents).
 
-[^f00005]: Footnote: [Council Regulation (EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428/contents); relevant amending instruments are [S.I. 2022/410](https://www.legislation.gov.uk/uksi/2022/410/contents), [S.I. 2023/302](https://www.legislation.gov.uk/uksi/2023/302/contents), [S.I. 2023/695](https://www.legislation.gov.uk/uksi/2023/695/contents), [S.I. 2023/1048](https://www.legislation.gov.uk/uksi/2023/1048/contents), [S.I. 2024/346](https://www.legislation.gov.uk/uksi/2024/346/contents), [S.I. 2025/532](https://www.legislation.gov.uk/uksi/2025/532/contents) and [S.I. 2025/1195](https://www.legislation.gov.uk/uksi/2025/1195/contents).
+[^f00005]: Footnote: [Council Regulation (EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428/contents); relevant amending instruments are [S.I. 2022/410](https://www.legislation.gov.uk/uksi/2022/410/contents), [S.I. 2023/302](https://www.legislation.gov.uk/uksi/2023/302/contents), [S.I. 2023/695](https://www.legislation.gov.uk/uksi/2023/695/contents), [S.I. 2023/1048](https://www.legislation.gov.uk/uksi/2023/1048/contents), [S.I. 2024/346](https://www.legislation.gov.uk/uksi/2024/346/contents), [S.I. 2025/532](https://www.legislation.gov.uk/uksi/2025/532/contents) and [S.I. 2025/1197](https://www.legislation.gov.uk/uksi/2025/1197/contents).
 
 [^f00006]: Footnote: [S.I. 2019/411](https://www.legislation.gov.uk/uksi/2019/411/contents); relevant amending instruments are [S.I. 2022/819](https://www.legislation.gov.uk/uksi/2022/819/contents) and [S.I. 2024/1157](https://www.legislation.gov.uk/uksi/2024/1157/contents).
 

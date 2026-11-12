@@ -3,16 +3,16 @@ title: The Personal Independence Payment (Transitional Provisions) Regulations (
 id: nisr/2016/227
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2016-05-03'
-text_date: '2019-07-04'
+text_date: '2026-10-30'
 extent: null
 source_url: https://www.legislation.gov.uk/nisr/2016/227
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2016/227/pdfs/nisrem_20160227_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/227/pdfs/nisr_20160227_en.pdf
 - http://www.legislation.gov.uk/nisr/2016/227/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Personal Independence Payment (Transitional Provisions) Regulations (Northern Ireland) 2016
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2019-07-04. See https://www.legislation.gov.uk/changes/affected/nisr/2016/227
+> Text as at 2026-10-30.
 
 2016 No. 227
 
@@ -226,12 +226,9 @@ and regulations 9(2), 10 and 11 shall apply as if the voluntary transfer claiman
 
 the transfer claimant’s entitlement to disability living allowance shall terminate with effect from the last day of the period of 14 days starting with the first pay day after the day on which the determination is made.
 
-(2) Where—
+(1A)[^c-89be74f5d30d06ba57987e8671aa8ded] Where it is accepted that the claimant had good reason for the failure giving rise to a determination under paragraph (1), whether or not at the same time as making an assessment determination, the determination under paragraph (1) is treated as not made and the transfer claimant’s entitlement to disability living allowance is reinstated as if the determination had never been made.
 
-- (a) for any reason an assessment determination is made on a claim by a transfer claimant in respect of which there has been a determination referred to in paragraph (1)(a) or (b) (for example, because the determination is revised by the Department under Article 10 of the 1998 Order (revision of decisions) or there is a successful appeal in respect of the determination under Article 13 of that Order[^f00015] (appeal to appeal tribunal)); and
-- (b) personal independence payment is awarded to the transfer claimant,
-
-the transfer claimant shall be entitled to personal independence payment in accordance with regulation 17(4)(b).
+(2)[^c-90960043d46de18ceaa48b5ce70cfe28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 14. Express intention not to claim personal independence payment
 
@@ -261,7 +258,7 @@ the claim shall be treated as if it had never been made and, if the transfer cla
 (1) Upon an assessment determination being made on a claim by a transfer claimant—
 
 - (a) the Department must, as soon as practicable, send the claimant written notification of the outcome of the determination; and
-- (b) except where regulation 13(2) applies to the claimant, the claimant’s entitlement to disability living allowance shall terminate—
+- (b) [^c-3fd2e6f89d6f2d1fb305cc2b862c8ac6]... the claimant’s entitlement to disability living allowance shall terminate—
   - (i) where paragraph (3) applies, on the earlier of—
     - (aa) the last day of the payment period during which the assessment determination is made, or
     - (bb) the first Tuesday after the making of the assessment determination,
@@ -278,11 +275,11 @@ the claim shall be treated as if it had never been made and, if the transfer cla
 (4) Where the outcome of an assessment determination is an award in respect of either or both components of personal independence payment, the claimant’s entitlement to personal independence payment starts with effect from the day immediately following—
 
 - (a) the day on which the claimant’s entitlement to disability living allowance terminates in accordance with paragraph (1)(b); or
-- (b) where regulation 13(2) applies to the claimant, the day on which the claimant’s entitlement to disability living allowance terminated under regulation 13(1).
+- (b)[^c-b4ece9722da46a7007ef8cc26c7ff352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The notification referred to in paragraph (1) must state—
 
-- (a) except where regulation 13(2) applies to the claimant, the day on which the claimant’s entitlement to disability living allowance will terminate in accordance with paragraph (1)(b); and
+- (a) [^c-d52ddc03a02747182ce423df7e3b9063]... the day on which the claimant’s entitlement to disability living allowance will terminate in accordance with paragraph (1)(b); and
 - (b) if personal independence payment is awarded, the day on which the claimant’s entitlement to personal independence payment starts in accordance with paragraph (4).
 
 (6) This paragraph applies to a person—
@@ -638,9 +635,17 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00014]: Footnote: Article 9 was amended by paragraph 16 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)), paragraph 6 of Schedule 1 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14 (N.I.)](https://www.legislation.gov.uk/nisr/2002/14)), paragraph 10(3) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007, paragraph 29 of Schedule 12 to the Pensions Act (Northern Ireland) [2015 (c. 5 (N.I.)](https://www.legislation.gov.uk/nisr/2015/5)) and is amended by paragraph 36 of Schedule 2 and paragraph 37 of Schedule 9 to the Welfare Reform (Northern Ireland) Order 2015
 
-[^f00015]: Footnote: Article 13 was amended by paragraph 19 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and Article 4(2) of [S.I. 2014/886](https://www.legislation.gov.uk/uksi/2014/886)
+[^c-89be74f5d30d06ba57987e8671aa8ded]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/nisr/2016/227/regulation/13/1A) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/nisr/2026/177/regulation/11/2/a)
+
+[^c-90960043d46de18ceaa48b5ce70cfe28]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/nisr/2016/227/regulation/13/2) omitted (30.10.2026) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/nisr/2026/177/regulation/11/2/b)
+
+[^c-3fd2e6f89d6f2d1fb305cc2b862c8ac6]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/nisr/2016/227/regulation/17/1/b) omitted (30.10.2026) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/nisr/2026/177/regulation/11/3/a)
 
 [^f00016]: Footnote: Regulation 22 was amended by regulation 2(3) of [S.R. 1996 No. 432](https://www.legislation.gov.uk/nisr/1996/432), regulation 2(3) of [S.R. 2002 No. 297](https://www.legislation.gov.uk/nisr/2002/297), regulation 2(5) of [S.R. 2008 No. 417](https://www.legislation.gov.uk/nisr/2008/417), regulation 2(4) of [S.R. 2009 No. 409](https://www.legislation.gov.uk/nisr/2009/409) and regulation 3(5) of [S.R. 2010 No. 81](https://www.legislation.gov.uk/nisr/2010/81)
+
+[^c-b4ece9722da46a7007ef8cc26c7ff352]: Textual amendment: [Reg. 17(4)(b)](https://www.legislation.gov.uk/nisr/2016/227/regulation/17/4/b) omitted (30.10.2026) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/nisr/2026/177/regulation/11/3/b)
+
+[^c-d52ddc03a02747182ce423df7e3b9063]: Textual amendment: Words in [reg. 17(5)(a)](https://www.legislation.gov.uk/nisr/2016/227/regulation/17/5/a) omitted (30.10.2026) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/177)](https://www.legislation.gov.uk/nisr/2026/177), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/177/regulation/1/1), [11(3)(c)](https://www.legislation.gov.uk/nisr/2026/177/regulation/11/3/c)
 
 [^c-27ce904e5c6088dcec0f9ebb6e3dd4f4]: Textual amendment: Words in reg. 19(1)(b) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(4)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/4)
 

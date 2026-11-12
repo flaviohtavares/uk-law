@@ -44,9 +44,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Smoke Control Areas (Authorised Fuels) (England) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2342-the-smoke-control-areas-authorised-fuels-england-amendment-regulations-2008.md) *(changes pending)*
 - [The Smoke Control Areas (Authorised Fuels) (England) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/514-the-smoke-control-areas-authorised-fuels-england-regulations-2008.md) *(changes pending)*
-- [The Smoke Control Areas (Authorised Fuels) (Scotland) (No. 2) Regulations 2008](../scotland/regulations/2008/0000-0499/295-the-smoke-control-areas-authorised-fuels-scotland-no-2-regulations-2008.md) *(as originally made)*
+- [The Smoke Control Areas (Authorised Fuels) (Scotland) (No. 2) Regulations 2008](../scotland/regulations/2008/0000-0499/295-the-smoke-control-areas-authorised-fuels-scotland-no-2-regulations-2008.md) *(changes pending)*
 - [The Smoke Control Areas (Authorised Fuels) (Wales) Regulations 2008](../wales/regulations/2008/3000-3499/3100-the-smoke-control-areas-authorised-fuels-wales-regulations-2008.md) *(as originally made)*
-- [The Smoke Control Areas (Exempt Fireplaces) (Scotland) (No. 2) Order 2008](../scotland/regulations/2008/0000-0499/296-the-smoke-control-areas-exempt-fireplaces-scotland-no-2-order-2008.md) *(as originally made)*
+- [The Smoke Control Areas (Exempt Fireplaces) (Scotland) (No. 2) Order 2008](../scotland/regulations/2008/0000-0499/296-the-smoke-control-areas-exempt-fireplaces-scotland-no-2-order-2008.md) *(changes pending)*
 - [The Smoke Control Areas (Exempted Fireplaces) (Wales) Order 2008](../wales/regulations/2008/3000-3499/3101-the-smoke-control-areas-exempted-fireplaces-wales-order-2008/README.md) *(as originally made)*
 
 **2007**

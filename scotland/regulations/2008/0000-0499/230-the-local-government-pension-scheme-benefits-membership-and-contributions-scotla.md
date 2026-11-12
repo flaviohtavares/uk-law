@@ -3,16 +3,16 @@ title: The Local Government Pension Scheme (Benefits, Membership and Contributio
 id: ssi/2008/230
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-04'
-text_date: null
-extent: null
+text_date: '2008-06-04'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/230
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/230/pdfs/ssien_20080230_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/230/pdfs/ssi_20080230_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/230/made/data.pdf
-pending_changes: 54
+- http://www.legislation.gov.uk/ssi/2008/230/data.pdf
+pending_changes: 108
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Local Government Pension Scheme (Benefits, Membership and Contributions) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (108).** Text as at 2008-06-04. See https://www.legislation.gov.uk/changes/affected/ssi/2008/230
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 230
 
@@ -50,7 +56,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 7(5) of that Act, they have consulted such associations of local authorities as appeared to them to be concerned, such local authorities with whom consultation appeared to them to be desirable, and such representatives of other persons likely to be affected by the proposed regulations as appeared to them to be appropriate.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-dd8ec5f322f255e625b5fc70d5d776a9]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Benefits, Membership and Contributions) (Scotland) Regulations 2008.
 
@@ -58,7 +64,7 @@ In accordance with section 7(5) of that Act, they have consulted such associatio
 
 (3) Regulation 4(3) comes into force on 1st April 2010.
 
-## 2. Interpretation
+## 2. Interpretation[^c-23f5370ed74b58b6a1be72cfbce2ac93]
 
 In these Regulations–
 
@@ -90,7 +96,7 @@ In these Regulations–
   - (a) that the employee is a whole-time employee for the purposes of the Scheme; or
   - (b) that the whole-time employee’s contractual hours are not less than the number of contractual hours for a person employed in that employment on a whole-time basis.
 
-## 3. Active members
+## 3. Active members[^c-64ead8d865ed896b21bc24c7f6bb9f48]
 
 (1) Subject to paragraphs (2) and (3), the term “active member” in relation to the Scheme is to be construed in accordance with regulation 3(1) of, and Schedule 1 to, the Administration Regulations.
 
@@ -98,7 +104,7 @@ In these Regulations–
 
 (3) A person is not an active member unless the person is employed under a contract of employment of more than three months' duration.
 
-## 4. Contributions payable by active members
+## 4. Contributions payable by active members[^c-2a0a9ed776633b799ef4b162d0c06b86][^c-e778f5f4c721d3c083932b36580a66f1]
 
 (1) Subject to paragraph (9), each active member shall make contributions to the Scheme at the contribution rate from that member’s pensionable pay in each employment in which the member is an active member.
 
@@ -140,7 +146,7 @@ In these Regulations–
 
 (12) For the purposes of this regulation any reduction in pensionable pay by reason of the actual or assumed enjoyment by the member of any statutory entitlement during any period away from work shall be disregarded.
 
-## 5. Meaning of “pensionable pay”
+## 5. Meaning of “pensionable pay”[^c-fe263bb6be5a52536b32ec1f28dd1411]
 
 (1) An employee’s pensionable pay is the total of–
 
@@ -157,7 +163,7 @@ In these Regulations–
 
 (3) No sum may be taken into account in calculating pensionable pay unless income tax liability has been determined on it.
 
-## 6. Benefits
+## 6. Benefits[^c-c7d92ebc77cc0fe5c2c27849dafcd10e]
 
 (1) Membership of the Scheme only entitles the member to benefits under these Regulations if–
 
@@ -170,7 +176,7 @@ In these Regulations–
 
 (4) Paragraph (3) does not apply to a member in respect of whom a transfer payment has been made under regulations 74 to 77 of the Administration Regulations.
 
-## 7. Periods of membership
+## 7. Periods of membership[^c-90e3f84e8c02a4cc86d0aeaf80eb097a]
 
 These are the periods that count as periods of membership (and which may accordingly be aggregated under regulation 13 (re-employed and rejoining deferred members), or as the case may be, 14 (concurrent employments) of the Administration Regulations)–
 
@@ -178,7 +184,7 @@ These are the periods that count as periods of membership (and which may accordi
 - (b) any period added under regulations 12 (power of employing authority to increase total membership of active members) or 20 (early leavers: ill-health); and
 - (c) any period added following a transfer in of pension rights under regulations 78 (inward transfers of pension rights) to 82 (changes of fund and variable time employees) of the Administration Regulations[^f00006].
 
-## 8. Calculation of length of periods of membership
+## 8. Calculation of length of periods of membership[^c-f3120de685104806d46647f5e4dd3796]
 
 (1) In calculating the length of a period of membership, fractions of years of membership count.
 
@@ -190,7 +196,7 @@ These are the periods that count as periods of membership (and which may accordi
 
 (5) The amount of any annual pension payable to a member as a result of membership is the member’s total period of membership multiplied by the member’s final pay and divided by 60.
 
-## 9. Final pay: general
+## 9. Final pay: general[^c-ad3e84a354004a2e39b4efe33966a548]
 
 (1) Subject to regulations 10 (final pay: reserve forces, maternity leave etc.) and 11 (final pay: fees), a member’s final pay for an employment is the member’s pensionable pay for as much of the final pay period as the member is entitled to count as an active member in relation to that employment.
 
@@ -202,7 +208,7 @@ These are the periods that count as periods of membership (and which may accordi
 
 (5) Any reduction or suspension of a member’s pensionable pay during the final pay period because of the member’s absence from work owing to illness or injury is disregarded.
 
-## 10. Final pay: reserve forces, maternity leave etc.
+## 10. Final pay: reserve forces, maternity leave etc.[^c-0162e28399aee1830b774bbb49e5da91]
 
 (1) If a member’s final pay period includes reserve forces service leave, the member’s final pay is–
 
@@ -217,7 +223,7 @@ These are the periods that count as periods of membership (and which may accordi
 
 (5) Final pay does not include any pension in payment.
 
-## 11. Final pay: fees
+## 11. Final pay: fees[^c-5aacb818b3a216bac1bd4c77e77172fa]
 
 (1) Subject to paragraph (2), where a variable-time employee’s pensionable pay for the purposes of regulation 9(1) (final pay: general) consists of or includes fees, the employee’s final pay is calculated as the sum of–
 
@@ -226,19 +232,19 @@ These are the periods that count as periods of membership (and which may accordi
 
 (2) But a member’s employing authority may consent to the member having his or her final pay calculated as the average of all such fees for any three consecutive years ending 31st March within the period of ten years ending with the last day the member was an active member.
 
-## 12. Power of employing authority to increase total membership of active members
+## 12. Power of employing authority to increase total membership of active members[^c-8e2305dede2b3538e622b1475df49af5]
 
 (1) An employing authority may resolve to increase the total membership of an active member.
 
 (2) A member’s total additional membership under this regulation (including additional membership in respect of different employments) must not exceed 10 years.
 
-## 13. Power of employing authority to award additional pension
+## 13. Power of employing authority to award additional pension[^c-414ca37d18c8de80ec73167f343ae0de]
 
 (1) An employing authority may resolve to award a member additional pension of not more than £5000 a year payable from the same date as the member’s pension payable under any other provision of these Regulations.
 
 (2) Additional pension may be paid in addition to any increase of total membership resolved to be made under regulation 12 (power of employing authority to increase total membership of active members).
 
-## 14. Election in respect of additional pension
+## 14. Election in respect of additional pension[^c-e27d70b6c546cf81555910de9268add4]
 
 (1) An active member may choose to pay additional contributions in order to be credited with additional pension, in respect of the member alone or in respect of the member and any survivor, of £250 a year or multiples thereof to a maximum of £5000.
 
@@ -246,7 +252,7 @@ These are the periods that count as periods of membership (and which may accordi
 
 (3) The amount of the additional contributions to be paid under paragraph (1), and the reduction or increase referred to in paragraph (2), is calculated in accordance with guidance issued by the scheme actuary.
 
-## 15. Elections to pay AVCs
+## 15. Elections to pay AVCs[^c-b1391d0439c957d810cfe0719531d6ba]
 
 (1) A member who has entered into an agreement to pay additional voluntary contributions (“AVCs”) or to contribute to a shared cost AVC in addition to any other contributions the member may pay under these Regulations is entitled to additional benefits in accordance with one of the permissible ways specified in regulation 23(3) of the Administration Regulations (use of accumulated value of AVCs and SCAVCs).
 
@@ -254,13 +260,13 @@ These are the periods that count as periods of membership (and which may accordi
 
 (3) In this regulation, a “shared cost AVC” means an arrangement established and maintained by an employing authority for the purpose of enabling contributions to be paid by and for active members.
 
-## 16. Retirement benefits
+## 16. Retirement benefits[^c-a3fa03302fb9fdda309f4e35be07b1a2]
 
 (1) A member who has attained the Scheme’s normal retirement age and ceases to be employed in local government employment is entitled to immediate payment of retirement pension without reduction.
 
 (2) The normal retirement age of the Scheme is 65.
 
-## 17. Retirement after the normal retirement date
+## 17. Retirement after the normal retirement date[^c-f26b904f2a6b24733fa07dc346a4c864]
 
 (1) A member who remains in employment after the member’s 65th birthday is entitled to a pension when the member retires from that employment.
 
@@ -270,7 +276,7 @@ These are the periods that count as periods of membership (and which may accordi
 
 (4) But it must begin to be paid not later than the day before the member’s 75th birthday even if the member has not retired.
 
-## 18. Flexible retirement
+## 18. Flexible retirement[^c-e74599f6e03f5a2c5614df82dc5cfadf]
 
 (1) A member who–
 
@@ -295,7 +301,7 @@ may, subject to paragraph (2), make a request in writing to the appropriate admi
 
 (9) The value of any benefits paid to a member under paragraph (1) shall be taken into account in any subsequent calculation of the member’s benefits under regulation 16, 17, 19, 20, 30 or 31 in accordance with guidance issued by the scheme actuary.
 
-## 19. Early leavers: business efficiency and redundancy
+## 19. Early leavers: business efficiency and redundancy[^c-61ecfd4534c6cb5dd859510ed43b02bc]
 
 (1) Where–
 
@@ -309,7 +315,7 @@ the member is entitled to immediate payment of retirement pension without reduct
 
 (3) In the case of a person who was a member of the 1998 Scheme on 5th April 2006, paragraph (1) applies as if “the age of 50” were substituted for “the age of 55”.
 
-## 20. Early leavers: ill-health
+## 20. Early leavers: ill-health[^c-d6f93fefd173fde43be3295626b79bd8]
 
 (1) If an employing authority determines, in the case of a member who has at least 2 years' total membership or has a transfer value credited to the member–
 
@@ -342,7 +348,7 @@ the member’s administering authority shall pay the member benefits under this 
   - (a) holding a diploma in occupational medicine (D Occ Med) or an equivalent qualification issued by a competent authority in an EEA State; and for the purposes of this definition, “competent authority” has the meaning given by the General and Specialist Medical Practice (Education, Training and Qualification) Order 2003[^f00008]; or
   - (b) being an Associate, a Member or a Fellow of the Faculty of Occupational Medicine or an equivalent institution of an EEA State.
 
-## 21. Election for lump sum in lieu of pension
+## 21. Election for lump sum in lieu of pension[^c-953f0aac23c3ffd70c030ff65c9d06fc]
 
 (1) A member in respect of whom a benefit crystallisation event within the meaning of Chapter 5 of Part IV of the Finance Act 2004 occurs on or after 1st April 2009 may choose in writing to the appropriate administering authority before any benefits become payable to commute the member’s pension, or a part thereof, at a rate of £12 for every £1 of annual pension entitlement surrendered.
 
@@ -354,7 +360,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (5) And for the purposes of paragraph (1), a member’s pension is the member’s pension after any reduction pursuant to regulation 18 (flexible retirement) or 30 (choice of early payment of pension).
 
-## 22. Limit on total amount of benefits
+## 22. Limit on total amount of benefits[^c-0ef4b8887228050386b631c5de981cb1]
 
 (1) A member and any dependant of the member shall not be entitled, under any provision of these Regulations, to receive benefits the capital value of which exceeds the member’s lifetime allowance increased, where applicable, by the member’s primary protection or the member’s enhanced protection except in accordance with guidance issued by the scheme actuary.
 
@@ -364,7 +370,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (4) The appropriate administering authority is responsible for deducting from any payment of benefits under the Scheme any tax to which they may become chargeable under the Finance Act 2004.
 
-## 23. Death grants: active members
+## 23. Death grants: active members[^c-49fd175330aad6f647efb5db8a4d1a31]
 
 (1) If an active member dies, a death grant is payable.
 
@@ -376,7 +382,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (5) If the administering authority have not made payments under paragraph (1) equalling in aggregate the member’s death grant before the expiry of 2 years beginning with the member’s death, it must pay an amount equal to the shortfall to the member’s executors.
 
-## 24. Survivor benefits: active members
+## 24. Survivor benefits: active members[^c-ca14e431f6f4c68844bfed06831a63e8]
 
 (1) If an active member dies leaving a surviving spouse, nominated cohabiting partner or civil partner, that person is entitled to a pension payable from the member’s date of death.
 
@@ -384,7 +390,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (3) If there is more than one surviving spouse, they become jointly entitled in equal shares under paragraph (1).
 
-## 25. Meaning of “nominated cohabiting partner”
+## 25. Meaning of “nominated cohabiting partner”[^c-a6e6358b82485057a964398617ad7310]
 
 (1) “Nominated cohabiting partner” means a person nominated by a member in accordance with the terms of this regulation.
 
@@ -415,7 +421,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (8) In this regulation, “member” means an active member or a former active member who has become a deferred or pensioner member in accordance with these Regulations.
 
-## 26. Meaning of “eligible child”
+## 26. Meaning of “eligible child”[^c-18eb72076c4bd4dfd6940df4651e7159]
 
 (1) Subject to paragraph (3), the child of a deceased member is an eligible child if the child is wholly or mainly dependent on the member, and is less than 17 years of age, at the date of the member’s death.
 
@@ -432,7 +438,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (6) An appropriate administering authority may treat a dependent child who is disabled within the meaning of the Disability Discrimination Act 1995[^f00010] as an eligible child.
 
-## 27. Children’s pensions
+## 27. Children’s pensions[^c-c5725c99167be77778647f367faa7748]
 
 (1) If a member dies leaving one or more eligible children, they are entitled to a children’s pension.
 
@@ -442,7 +448,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (4) The amount of that pension is calculated in accordance with regulation 28 (children’s pensions: active members), 34 (children’s pensions: deferred members) or 37 (children’s pensions: pensioner members) as the case may be.
 
-## 28. Children’s pensions: active members
+## 28. Children’s pensions: active members[^c-731e040139b69fba99bb82c9f0b18d49]
 
 (1) The amount of the pension of an eligible child of a deceased active member is calculated as follows.
 
@@ -460,7 +466,7 @@ the member’s administering authority shall pay the member benefits under this 
   - (i) the pension is calculated by multiplying the member’s total membership, augmented as if regulation 20(2) applied, by the member’s final pay, and dividing by 120; and
   - (ii) those children are jointly entitled in equal shares.
 
-## 29. Calculation on leaving early
+## 29. Calculation on leaving early[^c-f5bc6b9c0f4067129462244dba189650]
 
 (1) This regulation applies in the case of a member who leaves his or her employment or otherwise ceases to be a member and is not entitled to immediate payment of retirement pension under any of regulations 16 (retirement benefits) to 20 (early leavers: ill-health).
 
@@ -472,7 +478,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (5) Where a member chooses not to receive payment of his or her retirement pension, or any part of it, immediately on attaining normal retirement age, the member’s entitlement is enhanced in accordance with guidance issued by the scheme actuary.
 
-## 30. Choice of early payment of pension
+## 30. Choice of early payment of pension[^c-b10395a1c98be0b310dfe5b6390130e5]
 
 (1) If a member leaves a local government employment or otherwise ceases to be a member before the member is entitled to the immediate payment of retirement benefits (apart from this regulation), once the member has attained the age of 55 the member may choose to receive payment of them immediately.
 
@@ -486,7 +492,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (6) In the case of a person who is an active member on 31st March 2009, and who makes an election before 1st April 2010, paragraph (1) applies as if “the age of 50” were substituted for “the age of 55”.
 
-## 31. Early payment of pension: ill-health
+## 31. Early payment of pension: ill-health[^c-2973a7a355debec1f70e40dbeb3a9a8f]
 
 (1) Subject to paragraph (2), if a member who has left his or her employment before the member is entitled to the immediate payment of retirement benefits (apart from this regulation) becomes permanently incapable of discharging efficiently the duties of that employment because of ill-health or infirmity of mind or body the member may request to receive payment of the retirement benefits immediately, whatever the member’s age.
 
@@ -496,7 +502,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (4) In this regulation “gainful employment”, “permanently incapable” and “qualified in occupational health” have the same meaning given in regulation 20(7).
 
-## 32. Death grants: deferred members
+## 32. Death grants: deferred members[^c-21555f50216eb8917dcd332cd267a5fb]
 
 (1) If a deferred member dies, a death grant is payable.
 
@@ -506,7 +512,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (4) If the administering authority has not made payments under paragraph (1) equalling in aggregate the member’s death grant before the expiry of 2 years beginning with the member’s death, it must pay an amount equal to the shortfall to the member’s executors.
 
-## 33. Survivor benefits: deferred members
+## 33. Survivor benefits: deferred members[^c-169c1a7407e2f1890966f6455c0f9db5]
 
 (1) If a deferred member dies leaving a surviving spouse, nominated cohabiting partner or civil partner, that person is entitled to a pension.
 
@@ -514,7 +520,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (3) If there is more than one surviving spouse, they become jointly entitled in equal shares under paragraph (1).
 
-## 34. Children’s pensions: deferred members
+## 34. Children’s pensions: deferred members[^c-5edc3556cd767e9a878e2d93e597a4a6]
 
 (1) The amount of the pension of an eligible child of a deceased deferred member is calculated as follows.
 
@@ -532,7 +538,7 @@ the member’s administering authority shall pay the member benefits under this 
   - (i) the pension is calculated by multiplying the member’s total membership, calculated in accordance with regulation 29, by the member’s final pay, and dividing by 120; and
   - (ii) those children are jointly entitled in equal shares.
 
-## 35. Death grants: pensioner members
+## 35. Death grants: pensioner members[^c-7358165f0487de4cb70fed78a98d1983]
 
 (1) If a pensioner member dies before the member’s 75th birthday, a death grant is payable.
 
@@ -540,7 +546,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (3) The death grant is the member’s pension in payment multiplied by 10, but the amount so calculated is reduced by the amounts of any retirement pension paid to the member.
 
-## 36. Survivor benefits: pensioner members
+## 36. Survivor benefits: pensioner members[^c-c86601d7b9c7878ea7533571aecff48a]
 
 (1) If a pensioner member dies leaving a surviving spouse, nominated cohabiting partner or civil partner, that person is entitled to a pension.
 
@@ -548,7 +554,7 @@ the member’s administering authority shall pay the member benefits under this 
 
 (3) If there is more than one surviving spouse or civil partner, they become jointly entitled in equal shares under paragraph (1).
 
-## 37. Children’s pensions: pensioner members
+## 37. Children’s pensions: pensioner members[^c-05cf564777a2fcb17f2a3d4befc0e5b5]
 
 (1) The amount of the pension of an eligible child of a deceased pensioner member is calculated as follows.
 
@@ -566,11 +572,11 @@ the member’s administering authority shall pay the member benefits under this 
   - (i) the pension is calculated by multiplying the member’s total membership used in calculating the member’s benefits under these Regulations by the member’s final pay, and dividing by 120; and
   - (ii) those children are jointly entitled in equal shares.
 
-## 38. Pension increases under the Pensions (Increase) Acts
+## 38. Pension increases under the Pensions (Increase) Acts[^c-29f55a50cb9cd2041c32a069b3e5a12d]
 
 Where a pension to which the Pensions (Increase) Act 1971[^f00011] applies is payable out of an appropriate fund, any increase under that Act or the Pensions (Increase) Act 1974[^f00012] must be paid from that fund.
 
-## 39. Commutation: small pensions
+## 39. Commutation: small pensions[^c-926b63e4e87af5e4d67affa72f56fbfd]
 
 (1) A lump sum which is a trivial commutation lump sum within the meaning of section 166 of the Finance Act 2004 or a trivial commutation lump sum death benefit within the meaning of section 168 of that Act may be paid in accordance with the rules relating to the payment of such benefits under that Act.
 
@@ -578,7 +584,7 @@ Where a pension to which the Pensions (Increase) Act 1971[^f00011] applies is pa
 
 (3) The benefits referred to in paragraph (1) do not include any survivor benefit that is being paid to the member.
 
-## 40. Commutation: exceptional ill-health
+## 40. Commutation: exceptional ill-health[^c-a8ba9e9d1a1a8f38fde8a8fe5ead2d0a]
 
 (1) If, when a retirement pension first becomes payable to a member, the administering authority is satisfied that the member’s life expectancy is less than one year, it may pay the member a lump sum equal to 5 times the amount of the member’s annual rate of retirement pension, notwithstanding that such lump sum may exceed the member’s lifetime allowance.
 
@@ -586,15 +592,15 @@ Where a pension to which the Pensions (Increase) Act 1971[^f00011] applies is pa
 
 (3) Such a payment discharges the authority’s liability for that provision and for any lump sum death grant calculated by reference to that pension under the Scheme.
 
-## 41. Guidance on future costs
+## 41. Guidance on future costs[^c-5331af3afae2be447232a76611f6e9cd]
 
 Administering authorities and employing authorities shall have regard to guidance issued by the Scottish Ministers, before 31st March 2010, as to the manner in which the costs of the Scheme will be met after 31st March 2011.
 
-## 42. Pension debits
+## 42. Pension debits[^c-93558b44f51c90cfa10dbf3b848fa444]
 
 Administering authorities shall have regard to guidance issued by the scheme actuary as to reduction of benefits payable under these Regulations in consequence of a pension debit created under section 29 of the Welfare Reform and Pension Act 1999[^f00014].
 
-## 43. No double entitlement
+## 43. No double entitlement[^c-b60a551d81ab13fc533cd98e68c7c87d]
 
 (1) Where (apart from this regulation) any member would be entitled to a pension or retirement grant under 2 or more regulations by reason of the same period of membership–
 
@@ -608,7 +614,7 @@ Administering authorities shall have regard to guidance issued by the scheme act
 
 (4) This regulation also applies to any survivor benefits payable under regulation 24 (survivor benefits: active members), 27 (children’s pensions), 33 (survivor benefits: deferred members), 34 (children’s pensions: deferred members), 36 (survivor benefits: pensioner members) or 37 (children’s pensions: pensioner members).
 
-## 44. Members of local authorities
+## 44. Members of local authorities[^c-06948d24d9e092367344b5c4cbc5acc6]
 
 These Regulations apply to councillor members in respect of their councillor membership with the modifications set out in the Schedule.
 
@@ -630,7 +636,7 @@ Regulation 44
 
 #### Pay
 
-**1.** For regulation 5 (meaning of “pensionable pay”) substitute–
+**1.**[^c-ceba2659476ae07f58f6a29ac341c73c] For regulation 5 (meaning of “pensionable pay”) substitute–
 
 > **5.** (1) A councillor member’s pensionable pay in any year is the total of all payments of remuneration to the councillor by the local authority under the Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007[^f00016], including any payments made in respect of a councillor’s functions as convenor or vice convenor of a joint board.
 >
@@ -656,7 +662,7 @@ Regulation 44
 
 #### Preliminary
 
-**2.** For regulation 8(5) (calculation of length of periods of membership) substitute–
+**2.**[^c-abe124c797f3e5ef327b91d7e7bf6707] For regulation 8(5) (calculation of length of periods of membership) substitute–
 
 > **8.** (5) The amount of any benefit payable as a result of a councillor’s membership is calculated by multiplying the councillor’s career average pay by the appropriate multiplier.
 >
@@ -664,13 +670,13 @@ Regulation 44
 >
 > [formula: see source](https://www.legislation.gov.uk/ssi/2008/230)
 
-**3.** Omit regulations 9 (final pay: general) and 11 (final pay: fees).
+**3.**[^c-abcc8aad1b14b04fa85900d6886c10c5] Omit regulations 9 (final pay: general) and 11 (final pay: fees).
 
 #### Retirement benefits
 
-**4.** Omit regulation 19 (early leavers: business efficiency and redundancy).
+**4.**[^c-d5753d8b9f3aa792ecac526b29132990] Omit regulation 19 (early leavers: business efficiency and redundancy).
 
-**5.** In regulation 20 (early leavers: ill health) for paragraph (1) substitute–
+**5.**[^c-c3852a50b7d34fbe0a57dce86a312850] In regulation 20 (early leavers: ill health) for paragraph (1) substitute–
 
 > (1) Where a councillor member ceases to be a member of the member’s local authority by reason of being permanently incapable of discharging efficiently the duties of that office because of ill health or infirmity of mind or body, the member is entitled to an ill health benefit.
 
@@ -678,17 +684,17 @@ Regulation 44
 
 #### Death grants
 
-**6.** In regulation 23 (death grant: active members), for paragraphs (3) to (4) substitute–
+**6.**[^c-ff0c93d850c1628a319773b6554827c1] In regulation 23 (death grant: active members), for paragraphs (3) to (4) substitute–
 
 > (3) The death grant of a councillor member the councillor member’s career average pay multiplied by 3.
 
-**7.** In regulation 32 (death grants: deferred members), for paragraph (3) substitute–
+**7.**[^c-827c05368c16ccea7cb024ebb7acccab] In regulation 32 (death grants: deferred members), for paragraph (3) substitute–
 
 > (3) The death grant of a councillor member is 5 times the pension that would have been payable to the councillor member if the councillor member had retired at the date of death.
 
 .
 
-**8.** In regulation 35 (death grants: pensioner members), for paragraph (3) substitute–
+**8.**[^c-790f72903f035b7616088fca273cff06] In regulation 35 (death grants: pensioner members), for paragraph (3) substitute–
 
 > (3) The death grant for a councillor member is an amount equal to 10 times the councillor member’s pension less the amount of any pension paid to the councillor member.
 
@@ -698,7 +704,7 @@ Regulation 44
 
 #### Increases of membership and pensions
 
-**9.** Omit regulations 12 (power of employing authority to increase total membership of active members) and 13 (power of employing authority to award additional pension).
+**9.**[^c-a23edcfd74e0b4f10f9d12ea2e9c59f7] Omit regulations 12 (power of employing authority to increase total membership of active members) and 13 (power of employing authority to award additional pension).
 
 (This note is not part of the Regulations)
 
@@ -742,32 +748,140 @@ A regulatory impact assessment has not been produced for these Regulations as th
 
 [^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11). The functions of the Secretary of State exercised in the making of these Regulations were transferred to the Scottish Ministers as regards Scotland by virtue of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999, article 2 and Schedule 1 (S.I. [1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
 
+[^c-dd8ec5f322f255e625b5fc70d5d776a9]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-23f5370ed74b58b6a1be72cfbce2ac93]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
 [^f00002]: Footnote: S.I. [1998/366](https://www.legislation.gov.uk/uksi/1998/366); relevant amending instruments are [S.S.I. 2000/199](https://www.legislation.gov.uk/ssi/2000/199), [2001/23](https://www.legislation.gov.uk/ssi/2001/23), [2002/311](https://www.legislation.gov.uk/ssi/2002/311), [2005/293](https://www.legislation.gov.uk/ssi/2005/293), [315](https://www.legislation.gov.uk/ssi/2005/315) and [554](https://www.legislation.gov.uk/ssi/2005/554), [2006/123](https://www.legislation.gov.uk/ssi/2006/123), [468](https://www.legislation.gov.uk/ssi/2006/468) and [514](https://www.legislation.gov.uk/ssi/2006/514), and [2007/71](https://www.legislation.gov.uk/ssi/2007/71).
 
 [^f00003]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
 [^f00004]: Footnote: [S.S.I. 2008/228](https://www.legislation.gov.uk/ssi/2008/228)
 
+[^c-64ead8d865ed896b21bc24c7f6bb9f48]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-2a0a9ed776633b799ef4b162d0c06b86]: Commencement: Reg. 4(1)(2)(4)-(12) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-e778f5f4c721d3c083932b36580a66f1]: Commencement: Reg. 4(3) in force at 1.4.2010, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/3)
+
 [^f00005]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
+
+[^c-fe263bb6be5a52536b32ec1f28dd1411]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-c7d92ebc77cc0fe5c2c27849dafcd10e]: Commencement: Reg. 6 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-90e3f84e8c02a4cc86d0aeaf80eb097a]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
 
 [^f00006]: Footnote: See also regulation 79(1) of the Administration Regulations.
 
+[^c-f3120de685104806d46647f5e4dd3796]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-ad3e84a354004a2e39b4efe33966a548]: Commencement: Reg. 9 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-0162e28399aee1830b774bbb49e5da91]: Commencement: Reg. 10 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-5aacb818b3a216bac1bd4c77e77172fa]: Commencement: Reg. 11 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-8e2305dede2b3538e622b1475df49af5]: Commencement: Reg. 12 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-414ca37d18c8de80ec73167f343ae0de]: Commencement: Reg. 13 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-e27d70b6c546cf81555910de9268add4]: Commencement: Reg. 14 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-b1391d0439c957d810cfe0719531d6ba]: Commencement: Reg. 15 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-a3fa03302fb9fdda309f4e35be07b1a2]: Commencement: Reg. 16 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-f26b904f2a6b24733fa07dc346a4c864]: Commencement: Reg. 17 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-e74599f6e03f5a2c5614df82dc5cfadf]: Commencement: Reg. 18 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
 [^f00007]: Footnote: S.I. [2006/246](https://www.legislation.gov.uk/uksi/2006/246).
+
+[^c-61ecfd4534c6cb5dd859510ed43b02bc]: Commencement: Reg. 19 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-d6f93fefd173fde43be3295626b79bd8]: Commencement: Reg. 20 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
 
 [^f00008]: Footnote: S.I. [2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
+[^c-953f0aac23c3ffd70c030ff65c9d06fc]: Commencement: Reg. 21 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-0ef4b8887228050386b631c5de981cb1]: Commencement: Reg. 22 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
 [^f00009]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
+[^c-49fd175330aad6f647efb5db8a4d1a31]: Commencement: Reg. 23 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-ca14e431f6f4c68844bfed06831a63e8]: Commencement: Reg. 24 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-a6e6358b82485057a964398617ad7310]: Commencement: Reg. 25 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-18eb72076c4bd4dfd6940df4651e7159]: Commencement: Reg. 26 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
 [^f00010]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).
+
+[^c-c5725c99167be77778647f367faa7748]: Commencement: Reg. 27 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-731e040139b69fba99bb82c9f0b18d49]: Commencement: Reg. 28 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-f5bc6b9c0f4067129462244dba189650]: Commencement: Reg. 29 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-b10395a1c98be0b310dfe5b6390130e5]: Commencement: Reg. 30 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-2973a7a355debec1f70e40dbeb3a9a8f]: Commencement: Reg. 31 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-21555f50216eb8917dcd332cd267a5fb]: Commencement: Reg. 32 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-169c1a7407e2f1890966f6455c0f9db5]: Commencement: Reg. 33 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-5edc3556cd767e9a878e2d93e597a4a6]: Commencement: Reg. 34 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-7358165f0487de4cb70fed78a98d1983]: Commencement: Reg. 35 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-c86601d7b9c7878ea7533571aecff48a]: Commencement: Reg. 36 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-05cf564777a2fcb17f2a3d4befc0e5b5]: Commencement: Reg. 37 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-29f55a50cb9cd2041c32a069b3e5a12d]: Commencement: Reg. 38 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
 
 [^f00011]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 
 [^f00012]: Footnote: [1974 c. 9](https://www.legislation.gov.uk/ukpga/1974/9)
 
+[^c-926b63e4e87af5e4d67affa72f56fbfd]: Commencement: Reg. 39 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-a8ba9e9d1a1a8f38fde8a8fe5ead2d0a]: Commencement: Reg. 40 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
 [^f00013]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
+
+[^c-5331af3afae2be447232a76611f6e9cd]: Commencement: Reg. 41 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-93558b44f51c90cfa10dbf3b848fa444]: Commencement: Reg. 42 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
 
 [^f00014]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
+[^c-b60a551d81ab13fc533cd98e68c7c87d]: Commencement: Reg. 43 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
 [^f00015]: Footnote: [1993 C.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
+[^c-06948d24d9e092367344b5c4cbc5acc6]: Commencement: Reg. 44 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-ceba2659476ae07f58f6a29ac341c73c]: Commencement: Sch. para. 1 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
 [^f00016]: Footnote: [S.S.I. 2007/183](https://www.legislation.gov.uk/ssi/2007/183).
+
+[^c-abe124c797f3e5ef327b91d7e7bf6707]: Commencement: Sch. para. 2 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-abcc8aad1b14b04fa85900d6886c10c5]: Commencement: Sch. para. 3 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-d5753d8b9f3aa792ecac526b29132990]: Commencement: Sch. para. 4 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-c3852a50b7d34fbe0a57dce86a312850]: Commencement: Sch. para. 5 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-ff0c93d850c1628a319773b6554827c1]: Commencement: Sch. para. 6 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-827c05368c16ccea7cb024ebb7acccab]: Commencement: Sch. para. 7 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-790f72903f035b7616088fca273cff06]: Commencement: Sch. para. 8 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)
+
+[^c-a23edcfd74e0b4f10f9d12ea2e9c59f7]: Commencement: Sch. para. 9 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/230/regulation/1/2)

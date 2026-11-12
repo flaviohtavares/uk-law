@@ -3,7 +3,7 @@ title: The Individual Savings Account Regulations 1998, SCHEDULE
 act: The Individual Savings Account Regulations 1998
 section: schedule
 status: revised-with-pending-changes
-text_date: '2026-04-06'
+text_date: '2026-10-29'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1998/1870/schedule
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Individual Savings Account Regulations 1998, SCHEDULE
 
-> **Warning: changes not yet applied to this text (42).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/1998/1870
+> **Warning: changes not yet applied to this text (35).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/uksi/1998/1870
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -105,9 +105,12 @@ the account manager must correct the error without delay.
 
 (3) For the purposes of paragraph 7(5)(d) of Schedule 1 (withdrawals not triggering a charge-transfer to another Lifetime ISA), a withdrawal by way of transfer from one Lifetime ISA of the account investor to another such account of the investor must be made in accordance with regulation 21.
 
-### 5. Specified percentage for withdrawal charge
+### 5. Specified percentage for withdrawal charge[^c-e2760d8e6173c508396b3428ee1b68f6]
 
-For the purposes of paragraph 8(2) of Schedule 1 (charge when unlisted withdrawal made) the specified percentage is 25%.
+For the purposes of paragraph 8(2) of Schedule 1 (charge when unlisted withdrawal made), the specified percentage is—
+
+- (a) 20% in relation to a withdrawal to which paragraph 6A applies;
+- (b) 25% in relation to any other withdrawal.
 
 **5A.**[^c-2672f6b2fb2ed617933c6f1140791766] Notwithstanding paragraph 5, the specified percentage in respect of the period beginning on 6th March 2020 and ending on 5th April 2021 is 20%.
 
@@ -153,6 +156,16 @@ For the purposes of paragraph 8(2) of Schedule 1 (charge when unlisted withdrawa
 - (b) procure that the conveyancer provide the information set out in paragraph (8)(2) to their account manager together with the declaration specified in paragraph 8(3).
 
 (14) Where the account manager has received all of the information specified in paragraph (13)(b) and has no reason to believe that the information and declarations are not true and complete, the account manager must transfer the amount of the withdrawal to the account investor’s conveyancer within the period stipulated under regulation 4(7).
+
+### 6A. First-time residential purchase exceeding the property price cap[^c-c72020d3cb37bd740361c7bebc356439]
+
+(1) This paragraph applies to a withdrawal which would fall within paragraph 6 but for the fact that the requirement in paragraph 6(3) is not met.
+
+(2) A withdrawal to which this paragraph applies is to be treated as if it were a first-time residential purchase falling under paragraph 6 for the purposes of—
+
+- (a) regulation 5D(2)(a)(ib),
+- (b) regulation 10A(4)(b), and
+- (c) paragraphs 7 to 10.
 
 ### 7. Definitions for the purposes of paragraph 6
 
@@ -257,6 +270,20 @@ The following definitions apply for the purposes of paragraph 6—
 
 (6) The effect of any notification is suspended by an appeal under paragraph 16 until the appeal is determined or withdrawn.
 
+### 10A. Failed purchase of property exceeding the property price cap[^c-b9790768bdc8a488d80c5607f8b7e831]
+
+(1) This paragraph applies in respect of a withdrawal where—
+
+- (a) a withdrawal to which paragraph 6A applies has been made,
+- (b) the account manager has deducted a withdrawal charge in respect of that withdrawal,
+- (c) the purchase fails to complete in circumstances falling within paragraph 9(2)(b), and
+- (d) the withdrawal is returned to the account manager in accordance with paragraph 10(1).
+
+(2) Where this paragraph applies—
+
+- (a) the withdrawal is to be treated as a withdrawal to which paragraph 8 of Schedule 1 does not apply, and
+- (b) the account manager must restore an amount equal to the withdrawal charge deducted in respect of the withdrawal to the account investor’s Lifetime ISA.
+
 ### 11. Amounts not treated as withdrawals
 
 For the purposes of paragraphs 7(2) and 11(b) of Schedule 1, withdrawals, removals or losses from a Lifetime ISA do not count for the application of a withdrawal charge if they are in respect of—
@@ -304,6 +331,11 @@ and the persons under (a), (b) and (c) shall be jointly and severally liable for
 
 the account manager must correct the error without delay.
 
+(3A)[^c-8614823240a594fc2b45827ec9b9861a] Where paragraph 10A applies, the account manager must—
+
+- (a) if no return relating to the withdrawal charge has been made under sub-paragraph (1), take account of the application of paragraph 10A in the return, or
+- (b) if such a return has been made, correct the return without delay.
+
 (4) The Board may enquire into a return if the Board has reasonable grounds for believing that an error has occurred in the return and give notice to the account manager of the Board’s intention to do so no later than 12 months after the date on which the return is made.
 
 (5)[^c-699ad7c7d19686ca79c07cad963a7e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -311,6 +343,16 @@ the account manager must correct the error without delay.
 ### 14. Payment to the Board of withdrawal charges
 
 (1) For the purpose of paragraph 9(1)(e) of Schedule 1, an account manager liable under paragraph 8(3)(b) of that Schedule must pay to the Board within 28[^c-7b184b571599fba9b7f31a8a83047e12] days after the end of each claim period the amounts due in respect of the period.
+
+(1A)[^c-a011675ae8d655a6021d383e4977c6f0] The amount payable by the account manager under sub-paragraph (1) is reduced by an amount equal to the withdrawal charge deducted in respect of the withdrawal where—
+
+- (a) paragraph 10A applies, and
+- (b) the account manager has not paid the withdrawal charge to the Board.
+
+(1B) The Board must repay the account manager an amount equal to the withdrawal charge deducted in respect of the withdrawal where—
+
+- (a) paragraph 10A applies, and
+- (b) the account manager has paid the withdrawal charge to the Board.
 
 (2) Where a person accountable under paragraph 8 of Schedule 1 is notified by the Board that an amount is due from them, that amount shall be treated for the purposes of Part 6 of the Management Act as if it were tax charged in an assessment and due and payable.
 
@@ -406,12 +448,22 @@ The Board may authorise an extension to any period of time provided for under th
 
 [^c-790c02ea722727772006798f0e411863]: Textual amendment: [Sch. para. 2(11)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/2/11) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/b)
 
+[^c-e2760d8e6173c508396b3428ee1b68f6]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/5) substituted (29.10.2026) by [The Individual Savings Account (Amendment) (No. 3) Regulations 2026 (S.I. 2026/1130)](https://www.legislation.gov.uk/uksi/2026/1130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/5/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/3))
+
 [^c-2672f6b2fb2ed617933c6f1140791766]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/5A) inserted (4.6.2020) by [The Individual Savings Account (Amendment No. 3) (Coronavirus) Regulations 2020 (S.I. 2020/506)](https://www.legislation.gov.uk/uksi/2020/506), [regs. 1](https://www.legislation.gov.uk/uksi/2020/506/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/506/regulation/3)
 
+[^c-c72020d3cb37bd740361c7bebc356439]: Textual amendment: [Sch. para. 6A](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/6A) inserted (29.10.2026) by [The Individual Savings Account (Amendment) (No. 3) Regulations 2026 (S.I. 2026/1130)](https://www.legislation.gov.uk/uksi/2026/1130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/5/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/3))
+
 [^c-c01c121d7d5250baf21b1b75a2baa0b2]: Textual amendment: Words in [Sch. para. 7](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/7) inserted (6.4.2024) by [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/c)
+
+[^c-b9790768bdc8a488d80c5607f8b7e831]: Textual amendment: [Sch. para. 10A](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/10A) inserted (29.10.2026) by [The Individual Savings Account (Amendment) (No. 3) Regulations 2026 (S.I. 2026/1130)](https://www.legislation.gov.uk/uksi/2026/1130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/5/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/3))
+
+[^c-8614823240a594fc2b45827ec9b9861a]: Textual amendment: [Sch. para. 13(3A)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/13/3A) inserted (29.10.2026) by [The Individual Savings Account (Amendment) (No. 3) Regulations 2026 (S.I. 2026/1130)](https://www.legislation.gov.uk/uksi/2026/1130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/5/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/3))
 
 [^c-699ad7c7d19686ca79c07cad963a7e90]: Textual amendment: [Sch. para. 13(5)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/13/5) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/d)
 
 [^c-7b184b571599fba9b7f31a8a83047e12]: Textual amendment: Word in Sch. para. 14(1) substituted (6.4.2018) by [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/359/regulation/6/a)
+
+[^c-a011675ae8d655a6021d383e4977c6f0]: Textual amendment: [Sch. para. 14(1A)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/14/1A)[(1B)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/14/1B) inserted (29.10.2026) by [The Individual Savings Account (Amendment) (No. 3) Regulations 2026 (S.I. 2026/1130)](https://www.legislation.gov.uk/uksi/2026/1130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/5/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/3))
 
 [^c-425b915e934c874ae06155e26bc55003]: Textual amendment: Sch. para. 15(4) inserted (6.4.2018) by [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/359/regulation/6/b)

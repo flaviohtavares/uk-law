@@ -2,8 +2,8 @@
 title: The Prisons and Young Offenders Institutions (Scotland) Rules 2011, section 2
 act: The Prisons and Young Offenders Institutions (Scotland) Rules 2011
 section: '2'
-status: revised-with-pending-changes
-text_date: '2025-11-10'
+status: revised
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2011/331/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Prisons and Young Offenders Institutions (Scotland) Rules 2011, section 2
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-11-10. See https://www.legislation.gov.uk/changes/affected/ssi/2011/331
+> Text as at 2026-10-29.
 >
 > Extent: Scotland.
 
@@ -80,7 +80,7 @@ summary: ''
   - (a) a photographer, cameraman, researcher or producer for, or of, any television, radio or other programme intended for broadcast or transmission by any form of electronic medium; or
   - (b) a journalist or author;
 - “medical facility” includes any hospital and any other premises at which any form of services for the care of a person’s health is provided;[^c-1ceb4060712144ee41d43e82a005a492]
-- “nicotine vapour product” has the meaning given by section 35A of the Tobacco and Primary Medical Services (Scotland) Act 2010;[^c-983ce177c2549117bbd35962f6766169]
+- [^c-4cde9d1e61dd34a3a36bad229dfd8b5b]...
 - “**officer**” means an officer of the prison appointed by the Scottish Ministers and includes the Governor but—
   - (a) for the purposes of searching a prisoner under rule 92(2)(a) and for the purposes of rule 99, includes a prisoner custody officer who is authorised to perform escort functions in accordance with section 114 of the 1994 Act [^c21071311]; and
   - (b) in the case of a legalised police cell, means any constable;
@@ -119,6 +119,7 @@ summary: ''
   - (b) by virtue of remand in custody under the Extradition Act 2003 [^c21071461]; or
   - (c) by virtue of detention under Schedule 2 or 3 to the Immigration Act 1971 [^c21071471];
   - (d) following conviction but awaiting sentence, but does not include any such person who is for the time being serving a sentence of imprisonment;
+- “[^c-540482002e6811e7c2cea5a69ac1a088]**vaping product**” has the meaning given by section 35 of the Tobacco and Primary Medical Services (Scotland) Act 2010;
 - “**visiting minister**” means a minister who is allowed to visit prisoners of his or her religious denomination in terms of section 9(3) of the Act;
 - “**young offender**” means an offender who—
   - (a) has attained 18[^c-177176195eea52bdfd63792a4af44983] years of age but has not yet attained 21 years of age;
@@ -217,7 +218,7 @@ consecutive terms and terms which are wholly or partly concurrent shall be treat
 
 [^c-1ceb4060712144ee41d43e82a005a492]: Textual amendment: Words in rule 2 inserted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/2/c)
 
-[^c-983ce177c2549117bbd35962f6766169]: Textual amendment: Words in rule 2 inserted (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/2/a)
+[^c-4cde9d1e61dd34a3a36bad229dfd8b5b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/331/article/2/1) omitted (29.10.2026) by virtue of [The Tobacco and Vapes Act 2026 (Consequential, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/213)](https://www.legislation.gov.uk/ssi/2026/213), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/213/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/213/regulation/2/2/a)
 
 [^c21071311]: Marginal citation: [1994 c.33](https://www.legislation.gov.uk/ukpga/1994/33), [section 114(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/114/1) was amended by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [article 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4) and paragraph 115 of Schedule 2.
 
@@ -254,6 +255,8 @@ consecutive terms and terms which are wholly or partly concurrent shall be treat
 [^c21071461]: Marginal citation: [2003 c.41](https://www.legislation.gov.uk/ukpga/2003/41).
 
 [^c21071471]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77); Schedule 2 was relevantly amended as follows: paragraph 16(1A) was inserted by paragraph 60 of Schedule 14 to the [Immigration and Asylum Act 1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33); paragraph 16(2) was substituted by section 140(1) of the [Immigration and Asylum Act 1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33); paragraph 16(3) was substituted by paragraph 1(11) of Schedule 4 to the [Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813); paragraph 16(2) was amended by section 73(5) of the [Nationality, Immigration and Asylum Act 2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41), and by paragraph 1(11) of Schedule 4 to the [Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813); Schedule 3 was relevantly amended as follows: paragraph 2(1A) was inserted by paragraph 1(b) of Schedule 10 to the [Criminal Justice Act 1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48); paragraph 2(1) was amended by section 34(1) of the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19), by section 54(2) of the [Immigration and Asylum Act 1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33) and also by paragraph 1(a) of Schedule 10 to the [Criminal Justice Act 1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48); paragraph 2(2) was amended by section 34(2) of the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19) and also by paragraph 7 of Schedule 7 to the [Nationality, Immigration and Asylum Act 2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41); paragraph 2(3) was amended by section 54(3) of the [Immigration and Asylum Act 1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33). In addition, Schedule 2 is subject to the modifications contained in section 6(6)(b) of the [Criminal Justice (International Co-operation) Act 1990 (c.5)](https://www.legislation.gov.uk/ukpga/1990/5).
+
+[^c-540482002e6811e7c2cea5a69ac1a088]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/331/article/2/1) inserted (29.10.2026) by [The Tobacco and Vapes Act 2026 (Consequential, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/213)](https://www.legislation.gov.uk/ssi/2026/213), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/213/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/213/regulation/2/2/b)
 
 [^c-177176195eea52bdfd63792a4af44983]: Textual amendment: Word in rule 2(1) substituted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 21(4)](https://www.legislation.gov.uk/asp/2024/5/section/21/4), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
 

@@ -3,15 +3,15 @@ title: The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2008
 id: ssi/2008/29
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-04'
-text_date: null
-extent: null
+text_date: '2008-02-14'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/29
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/29/pdfs/ssien_20080029_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/29/pdfs/ssi_20080029_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/29/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/29/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-02-14. See https://www.legislation.gov.uk/changes/affected/ssi/2008/29
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 29
 
@@ -44,7 +48,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 5(1)(c) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001] and all other powers enabling them to do so:
 
-## 1. Citation, commencement, cessation and extent
+## 1. Citation, commencement, cessation and extent[^c-75be8f646ecfd62908739f1aabad95e0]
 
 (1) This Order may be cited as the Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2008 and shall come into force on 14th February 2008.
 
@@ -54,7 +58,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (4) Insofar as it extends beyond Scotland and the Scottish zone, it does so only as a matter of Scots law.
 
-## 2. Interpretation
+## 2. Interpretation[^c-616922014c0a43e620b979c1cd1ce76b]
 
 (1) In this Order–
 
@@ -67,7 +71,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (2) For the purposes of this Order a trawl shall be deemed to have been used for the purpose of fishing for Norway lobsters (*Nephrops norvegicus*) if the catch retained on board that boat complies with the conditions laid down with respect to towed gears of mesh size range 70 to 79 millimetres in Annex I to the Council Regulation.
 
-## 3. Prohibited methods of fishing
+## 3. Prohibited methods of fishing[^c-faa0d30f45353d967e0ad025553686d7]
 
 (1) Subject to paragraphs (2) and (3), fishing for sea fish by any method, by any Scottish fishing boat or any relevant British fishing boat, within the area comprising that part of the Scottish zone contained within–
 
@@ -87,7 +91,7 @@ is prohibited.
 - (a) a scallop dredge; or
 - (b) a creel.
 
-## 4. Powers of British sea-fishery officers in relation to fishing boats
+## 4. Powers of British sea-fishery officers in relation to fishing boats[^c-e770c537c1a84226923b5822267eec56]
 
 (1) For the purposes of the enforcement of this Order, a British sea-fishery officer may exercise in relation to–
 
@@ -114,7 +118,7 @@ but nothing in sub-paragraph (d) shall permit any document required by law to be
 
 (5) Where the officer detains or requires the detention of a boat under this article the officer shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
 
-## 5. Revocation
+## 5. Revocation[^c-3e3a06947a057f07ed7912ce4ac4fb43]
 
 The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2007[^f00005] is revoked.
 
@@ -152,10 +156,20 @@ The Regulatory Impact Assessment relating to this Order is available from the Sc
 
 [^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); section 5(1) was substituted by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 22(1); section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), Schedule 1, paragraph 38(3) and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), Schedule 2, paragraph 16(1). Relevant modifications are contained in the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 (S.I. [1999/1748](https://www.legislation.gov.uk/uksi/1999/1748)), article 5 and the Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756)), articles 3, 5 and 6. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 22(2) which contains a definition of “the Ministers” for the purposes of sections 5 and 15(3) was amended by the Fisheries Act 1981, sections 19(2)(d) and 45(b). The definition has effect in relation to Scotland with the modifications made by section 22A(12)(b) inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 43(13).
 
+[^c-75be8f646ecfd62908739f1aabad95e0]: Commencement: Art. 1 in force at 14.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/29/article/1/1)
+
+[^c-616922014c0a43e620b979c1cd1ce76b]: Commencement: Art. 2 in force at 14.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/29/article/1/1)
+
 [^f00002]: Footnote: O.J. No. L 125, 27.4.98, p.1. Council Regulation 850/98 was corrected by Corrigendum to Annex XII to that Regulation (O.J. No. L 318, 27.11.98, p.63) and was amended by Council Regulation [(EC) No. 308/1999](https://www.legislation.gov.uk/european/regulation/1999/0308) (O.J. No. L 38, 12.2.99, p.6); Council Regulation [(EC) No. 1459/1999](https://www.legislation.gov.uk/european/regulation/1999/1459) (O.J. No. L 168, 3.7.99, p.1); Council Regulation [(EC) No. 2723/1999](https://www.legislation.gov.uk/european/regulation/1999/2723) (O.J. No. L 328, 22.12.99, p.9); Council Regulation [(EC) No. 812/2000](https://www.legislation.gov.uk/european/regulation/2000/0812) (O.J. No. L 100, 20.4.00, p.3); Council Regulation [(EC) No. 1298/2000](https://www.legislation.gov.uk/european/regulation/2000/1298) (O.J. No. L 148, 22.6.00, p.1); Council Regulation [(EC) No. 724/2001](https://www.legislation.gov.uk/european/regulation/2001/0724) (O.J. No. L 102, 12.4.01, p.16); Council Regulation [(EC) No. 973/2001](https://www.legislation.gov.uk/european/regulation/2001/0973) (O.J. No. L 137, 19.5.01, p.1); Council Regulation [(EC) No. 602/2004](https://www.legislation.gov.uk/european/regulation/2004/0602) (O.J. No. L 97, 1.4.04, p.30); Council Regulation [(EC) No. 1568/2005](https://www.legislation.gov.uk/european/regulation/2005/1568) (O.J. No. L 252, 28.9.05, p.2); and Council Regulation [(EC) No. 2166/2005](https://www.legislation.gov.uk/european/regulation/2005/2166) (O.J. No. L 345, 28.12.05, p.5).
 
 [^f00003]: Footnote: Cmnd. 2586.
 
 [^f00004]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). The part of the internal waters and territorial sea of the United Kingdom which is adjacent to Scotland is determined by the Scottish Adjacent Waters Boundaries Order 1999 (S.I. [1999/1126](https://www.legislation.gov.uk/uksi/1999/1126)).
+
+[^c-faa0d30f45353d967e0ad025553686d7]: Commencement: Art. 3 in force at 14.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/29/article/1/1)
+
+[^c-e770c537c1a84226923b5822267eec56]: Commencement: Art. 4 in force at 14.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/29/article/1/1)
+
+[^c-3e3a06947a057f07ed7912ce4ac4fb43]: Commencement: Art. 5 in force at 14.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/29/article/1/1)
 
 [^f00005]: Footnote: [S.S.I. 2007/63](https://www.legislation.gov.uk/ssi/2007/63).

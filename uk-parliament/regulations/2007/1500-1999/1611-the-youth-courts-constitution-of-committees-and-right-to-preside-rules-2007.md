@@ -57,14 +57,14 @@ In these Rules—
 - “the 2007 Rules” means the Justices of the Peace (Training Development and Committee) Rules 2007[^f00004];
 - “BTDC” means the Bench Training and Development Committee established in accordance with the 2007 Rules;
 - “ILYTDC” means the Inner London Youth Training and Development Committee established in accordance with the 2007 Rules;
-- “Inner London area” means the local justice areas covering the London Boroughs listed in Part 2 of Schedule I to the 2007 Rules;
-- “justice” means a lay justice and, in relation to a local justice area, means a justice assigned to that area;
-- “justices’ clerk”, in relation to a local justice area, means a justices’ clerk assigned to that area and includes any person acting as such;
-- “outgoing panel” means—
+- “**Inner London area**” means the local justice areas covering the London Boroughs listed in Part 2 of Schedule I to the 2007 Rules;
+- “**justice**” means a lay justice and, in relation to a local justice area, means a justice assigned to that area;
+- “**justices’ clerk**”, in relation to a local justice area, means a justices’ clerk assigned to that area and includes any person acting as such;
+- “**outgoing panel**” means—
   - (a) in relation to the Inner London area, the youth panel for the metropolitan area established in accordance with Schedule 2 of the Children and Young Persons Act 1933[^f00005]; and
   - (b) in any other case, the youth panel formed for a local justice area in accordance with the Youth Courts (Constitution) Rules 1954[^f00006];
-- “youth election meeting” means the meeting held by the youth panel between 1st September and 30th November each year in accordance with rule 4; and
-- “youth justice” means a justice authorised to sit as a member of a youth court.
+- “**youth election meeting**” means the meeting held by the youth panel between 1st September and 30th November each year in accordance with rule 4; and
+- “**youth justice**” means a justice authorised to sit as a member of a youth court.
 
 ## 3. Formation of Youth Panels
 
@@ -112,7 +112,7 @@ In these Rules—
 
 (1) In this rule—
 
-- (a) “previous chairman” means a youth justice who has held office as chairman of a youth panel established under these Rules or of an outgoing panel or combined outgoing panel; and
+- (a) “**previous chairman**” means a youth justice who has held office as chairman of a youth panel established under these Rules or of an outgoing panel or combined outgoing panel; and
 - (b) references, however phrased, to periods of office shall include periods of office held as chairman or deputy chairman, as the case may be, of an outgoing panel or combined outgoing panel.
 
 (2) A previous chairman shall not be eligible for re-election as chairman if, on 1st January after the election, he will have held such office for periods totalling more than two years unless at least six years have elapsed since he last held office.
@@ -166,7 +166,7 @@ A youth panel shall—
 - (a) he is under the supervision of a youth justice who is on a list of approved youth court chairmen; and
 - (b) he has completed the training courses prescribed by rule 31 of the 2007 Rules.
 
-(3) In this rule “list of approved youth court chairmen” means a list kept by the ILYTDC or BTDC as appropriate in accordance with rules 32 and 36 of the 2007 Rules.
+(3) In this rule “**list of approved youth court chairmen**” means a list kept by the ILYTDC or BTDC as appropriate in accordance with rules 32 and 36 of the 2007 Rules.
 
 ## 12. Absence of youth justice entitled to preside
 

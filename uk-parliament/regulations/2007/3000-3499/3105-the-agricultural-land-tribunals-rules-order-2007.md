@@ -322,37 +322,37 @@ In these Rules, unless the context otherwise requires, the following definitions
 - “the 1954 Act” means the Agriculture (Miscellaneous Provisions) Act 1954;
 - “the 1986 Act” means the Agricultural Holding Act 1986;
 - “the 1991 Act” means the Land Drainage Act 1991[^f00007];
-- “application” means an application to the Tribunal and “apply” and “applicant” have corresponding meanings;
-- “Chairman” means—
+- “**application**” means an application to the Tribunal and “apply” and “applicant” have corresponding meanings;
+- “**Chairman**” means—
   - (a) the Chairman of the Tribunal;
   - (b) a person nominated under paragraph 16(1) of Schedule 9 to the 1947 Act to act as Chairman at any hearing; or
   - (c) a person appointed under paragraph 16(A) of that Schedule to act as Chairman;
-- “confidential matter” means any matter that relates to intimate personal, medical or financial circumstances or national security, or is commercially sensitive, or consists of information communicated or obtained in confidence;
-- “costs” means any costs that the Tribunal has the authority to award under section 5 of the 1954 Act or section 27(7) of the 1986 Act;
-- “decision” means a decision of the Tribunal on the application before it or any substantive issue that arises in it, and includes a dismissal of an application or reply;
-- “decision document” has the meaning given by rule 30(4);
-- “designated applicant” means a person who is validly designated by the deceased in his will in accordance with section 39(4) of the 1986 Act;
-- “direction” means any order or other determination by a Tribunal or the Chairman other than a decision;
-- “document” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include references to producing a copy of the information—
+- “**confidential matter**” means any matter that relates to intimate personal, medical or financial circumstances or national security, or is commercially sensitive, or consists of information communicated or obtained in confidence;
+- “**costs**” means any costs that the Tribunal has the authority to award under section 5 of the 1954 Act or section 27(7) of the 1986 Act;
+- “**decision**” means a decision of the Tribunal on the application before it or any substantive issue that arises in it, and includes a dismissal of an application or reply;
+- “**decision document**” has the meaning given by rule 30(4);
+- “**designated applicant**” means a person who is validly designated by the deceased in his will in accordance with section 39(4) of the 1986 Act;
+- “**direction**” means any order or other determination by a Tribunal or the Chairman other than a decision;
+- “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include references to producing a copy of the information—
   - (a) in legible form; or
   - (b) in a form from which it can be readily produced in a legible form;
-- “drainage case” means proceedings started by an application under the 1991 Act;
-- “holding” means land (including a ditch) in respect of which an application is made;
-- “interested party” includes—
+- “**drainage case**” means proceedings started by an application under the 1991 Act;
+- “**holding**” means land (including a ditch) in respect of which an application is made;
+- “**interested party**” includes—
   - (a) in the case of an application under section 39 of the 1986 Act—
     - (i) any other applicant under that section or any other person eligible to be such an applicant;
     - (ii) any personal representative of the deceased tenant, any person eligible to apply to be the personal representative of the deceased tenant or any person administering the estate of the deceased tenant;
   - (b) in the case of an application under section 53 of the 1986 Act, the tenant of the holding,
 
   but does not include the applicant or the respondent;
-- “the landlord” means the landlord of the holding;
-- “other applicant” means any person who is also making an application in respect of the same or some of the same land;
-- “the official expert” means a person who for his agricultural, drainage or similar expertise is engaged by the Secretary of State or the Welsh Ministers, as the case may be, to report or act on behalf of the Secretary of State or Welsh Ministers in connection with the application;
-- “party” means the applicant or respondent;
-- “register” means the register of applications and decisions kept by the Secretary;
-- “reply” includes a reply by a respondent or interested party as provided for in rule 4 of these Rules;
-- “respondent” means a person against whom any application is made or any person added or substituted as a respondent;
-- “the Secretary” means the person for the time being acting as Secretary of the Tribunal and includes any assistant Secretary or other officer or servant appointed under paragraph 22 of Schedule 9 to the 1947 Act;
+- “**the landlord**” means the landlord of the holding;
+- “**other applicant**” means any person who is also making an application in respect of the same or some of the same land;
+- “**the official expert**” means a person who for his agricultural, drainage or similar expertise is engaged by the Secretary of State or the Welsh Ministers, as the case may be, to report or act on behalf of the Secretary of State or Welsh Ministers in connection with the application;
+- “**party**” means the applicant or respondent;
+- “**register**” means the register of applications and decisions kept by the Secretary;
+- “**reply**” includes a reply by a respondent or interested party as provided for in rule 4 of these Rules;
+- “**respondent**” means a person against whom any application is made or any person added or substituted as a respondent;
+- “**the Secretary**” means the person for the time being acting as Secretary of the Tribunal and includes any assistant Secretary or other officer or servant appointed under paragraph 22 of Schedule 9 to the 1947 Act;
 - “the Tribunal” means the Agricultural Land Tribunal for the area in which the whole or the greater part of the holding is situated, or, where the proceedings are transferred, means the Agricultural Land Tribunal to which they have been transferred.
 
 ### PART 2 — Applications and replies
@@ -661,7 +661,7 @@ and may give such directions as it thinks fit***.***
 
 (6) Rules 27, 28 and 29 apply to the report and evidence of the official expert.
 
-(7) In this rule, “business day” means any day except Saturday, Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971[^f00008].
+(7) In this rule, “**business day**” means any day except Saturday, Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971[^f00008].
 
 #### 27. Expert evidence
 

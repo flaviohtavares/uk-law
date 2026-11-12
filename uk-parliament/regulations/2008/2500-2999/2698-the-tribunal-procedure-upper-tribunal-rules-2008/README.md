@@ -3,9 +3,9 @@ title: The Tribunal Procedure (Upper Tribunal) Rules 2008
 id: uksi/2008/2698
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-10-09'
-text_date: '2026-09-30'
+text_date: '2026-11-06'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2008/2698
 pdf_urls:
@@ -14,7 +14,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2698/pdfs/uksi_20082698_301114_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2698/pdfs/uksi_20082698_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2698/data.pdf
-pending_changes: 8
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -22,7 +22,7 @@ summary: ''
 
 # The Tribunal Procedure (Upper Tribunal) Rules 2008
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
+> Text as at 2026-11-06.
 
 2008 No. 2698 (L. 15)
 
@@ -97,6 +97,7 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
 - [Section 28 — Applications for permission to bring judicial review proceedings](part-4/section-28.md)
 - [Section 28A — Special provisions for immigration judicial review proceedings](part-4/section-28a.md)
 - [Section 29 — Acknowledgment of service](part-4/section-29.md)
+- [Section 29A — Reply to acknowledgment of service](part-4/section-29a.md)
 - [Section 30 — Decision on permission or summary dismissal, and reconsideration of permission or summary dismissal at a hearing](part-4/section-30.md)
 - [Section 31 — Responses](part-4/section-31.md)
 - [Section 32 — Applicant seeking to rely on additional grounds](part-4/section-32.md)

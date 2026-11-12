@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **SOCIAL CARE**. Repe
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Care Standards Act 2000](../uk-parliament/acts/public/2000/14-care-standards-act-2000/README.md) *(changes pending)* — 99 regulations on this topic made under it
-- [Social Services and Well-being (Wales) Act 2014](../wales/acts/2014/4-social-services-and-well-being-wales-act-2014/README.md) *(changes pending)* — 81 regulations on this topic made under it
+- [Social Services and Well-being (Wales) Act 2014](../wales/acts/2014/4-social-services-and-well-being-wales-act-2014/README.md) *(changes pending)* — 82 regulations on this topic made under it
 - [Regulation of Care (Scotland) Act 2001](../scotland/acts/2001/8-regulation-of-care-scotland-act-2001/README.md) *(changes pending)* — 57 regulations on this topic made under it
 - [Regulation and Inspection of Social Care (Wales) Act 2016](../wales/acts/2016/2-regulation-and-inspection-of-social-care-wales-act-2016/README.md) *(changes pending)* — 54 regulations on this topic made under it
 - [Care Act 2014](../uk-parliament/acts/public/2014/23-care-act-2014/README.md) *(changes pending)* — 46 regulations on this topic made under it
@@ -22,12 +22,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Health and Social Care (Quality and Engagement) (Wales) Act 2020](../wales/acts/2020/1-health-and-social-care-quality-and-engagement-wales-act-2020.md) — 6 regulations on this topic made under it
 - [Protection of Children Act 1999](../uk-parliament/acts/public/1999/14-protection-of-children-act-1999.md) *(changes pending)* — 6 regulations on this topic made under it
 - [Social Care (Self-directed Support) (Scotland) Act 2013](../scotland/acts/2013/1-social-care-self-directed-support-scotland-act-2013.md) *(changes pending)* — 6 regulations on this topic made under it
+- [Health and Social Care (Wales) Act 2025](../wales/acts/2025/1-health-and-social-care-wales-act-2025.md) — 4 regulations on this topic made under it
 - [Health and Care (Staffing) (Scotland) Act 2019](../scotland/acts/2019/6-health-and-care-staffing-scotland-act-2019.md) — 3 regulations on this topic made under it
-- [Health and Social Care (Wales) Act 2025](../wales/acts/2025/1-health-and-social-care-wales-act-2025.md) *(changes pending)* — 3 regulations on this topic made under it
 
 ## Regulations
 
-628 in force.
+629 in force.
 
 **2026**
 
@@ -43,6 +43,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Children’s Wellbeing and Schools Act 2026 (Commencement No. 2) (England) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/803-the-childrens-wellbeing-and-schools-act-2026-commencement-no-2-england-regulatio.md)
 - [The Code of Practice on Quality Assurance and Performance Management, Escalating Concerns and Closure of Regulated Care and Support Services (Appointed Day) (Wales) Order 2026](../wales/regulations/2026/0000-0499/23-the-code-of-practice-on-quality-assurance-and-performance-management-escalating.md) *(as originally made)*
 - [The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/157-the-community-care-personal-care-and-nursing-care-scotland-amendment-regulations.md) *(as originally made)*
+- [The Fostering Panels (Establishment and Functions) (Wales) (Amendment and Transitional Provision) Regulations 2026](../wales/regulations/2026/0000-0499/135-the-fostering-panels-establishment-and-functions-wales-amendment-and-transitiona.md) *(as originally made)*
 - [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026](../wales/regulations/2026/0000-0499/16-the-fostering-panels-and-care-planning-miscellaneous-amendments-wales-regulation.md) *(as originally made)*
 - [The Health and Social Care (Wales) Act 2025 (Commencement No. 2) Order 2026](../wales/regulations/2026/0000-0499/130-the-health-and-social-care-wales-act-2025-commencement-no-2-order-2026.md) *(as originally made)*
 - [The Health and Social Care (Wales) Act 2025 (Consequential Amendments) (Wales) Regulations 2026](../wales/regulations/2026/0000-0499/98-the-health-and-social-care-wales-act-2025-consequential-amendments-wales-regulat.md) *(as originally made)*

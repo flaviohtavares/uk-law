@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **IMMIGRATION**. Repe
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Immigration and Asylum Act 1999](../uk-parliament/acts/public/1999/33-immigration-and-asylum-act-1999/README.md) *(changes pending)* — 147 regulations on this topic made under it
+- [Immigration and Asylum Act 1999](../uk-parliament/acts/public/1999/33-immigration-and-asylum-act-1999/README.md) *(changes pending)* — 146 regulations on this topic made under it
 - [Immigration Act 1971](../uk-parliament/acts/public/1971/77-immigration-act-1971/README.md) *(changes pending)* — 118 regulations on this topic made under it
 - [Nationality, Immigration and Asylum Act 2002](../uk-parliament/acts/public/2002/41-nationality-immigration-and-asylum-act-2002/README.md) *(changes pending)* — 92 regulations on this topic made under it
 - [Immigration Act 2014](../uk-parliament/acts/public/2014/22-immigration-act-2014/README.md) *(changes pending)* — 91 regulations on this topic made under it
@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-603 in force.
+602 in force.
 
 **2026**
 
@@ -143,7 +143,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2021**
 
 - [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2021](../uk-parliament/regulations/2021/1000-1499/1045-the-allocation-of-housing-and-homelessness-eligibility-england-and-persons-subje.md) *(as originally made)*
-- [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021](../uk-parliament/regulations/2021/0500-0999/772-the-immigration-collection-use-and-retention-of-biometric-information-and-relate.md) *(changes pending)*
+- [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021](../uk-parliament/regulations/2021/0500-0999/772-the-immigration-collection-use-and-retention-of-biometric-information-and-relate.md)
 - [The Immigration (Control of Entry through Republic of Ireland) (Amendment) Order 2021](../uk-parliament/regulations/2021/0500-0999/600-the-immigration-control-of-entry-through-republic-of-ireland-amendment-order-202.md) *(as originally made)*
 - [The Immigration (Disposal of Property) (Amendment) Regulations 2021](../uk-parliament/regulations/2021/1000-1499/1007-the-immigration-disposal-of-property-amendment-regulations-2021.md) *(as originally made)*
 - [The Immigration (Guidance on Detention of Vulnerable Persons) Regulations 2021](../uk-parliament/regulations/2021/0000-0499/184-the-immigration-guidance-on-detention-of-vulnerable-persons-regulations-2021.md) *(as originally made)*
@@ -375,7 +375,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Asylum Support (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/760-the-asylum-support-amendment-regulations-2008.md) *(changes pending)*
 - [The Immigration (Biometric Registration) (Civil Penalty Code of Practice) Order 2008](../uk-parliament/regulations/2008/3000-3499/3049-the-immigration-biometric-registration-civil-penalty-code-of-practice-order-2008.md) *(as originally made)*
 - [The Immigration (Biometric Registration) (Objection to Civil Penalty) Order 2008](../uk-parliament/regulations/2008/2500-2999/2830-the-immigration-biometric-registration-objection-to-civil-penalty-order-2008.md)
 - [The Immigration (Biometric Registration) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3048-the-immigration-biometric-registration-regulations-2008.md)

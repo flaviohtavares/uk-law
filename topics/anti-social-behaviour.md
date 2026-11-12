@@ -17,7 +17,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Anti-social Behaviour (Provision of Information) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1081-the-anti-social-behaviour-provision-of-information-regulations-2026.md) *(as originally made)*
 - [The Antisocial Behaviour (Fixed Penalty Offences) (Miscellaneous Amendment) (Scotland) Order 2026](../scotland/regulations/2026/0000-0499/163-the-antisocial-behaviour-fixed-penalty-offences-miscellaneous-amendment-scotland.md) *(as originally made)*
 - [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1111-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-amendmen.md) *(as originally made)*
-- [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/960-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulati.md) *(as originally made)*
+- [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/960-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulati.md)
 
 **2019**
 

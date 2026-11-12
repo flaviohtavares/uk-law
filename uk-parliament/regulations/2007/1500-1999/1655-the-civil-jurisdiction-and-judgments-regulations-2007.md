@@ -190,9 +190,9 @@ Regulation 5
 
 The Magistrates’ Courts Act 1980[^f00016] is amended as follows.
 
-**9.**[^c-12387067b3f4be82b099e414e8872651] In section 65 (meaning of family proceedings), in subsection (1)(r), after “civil and commercial matters” insert “, as amended from time to time and as applied by the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No. L 299 16.11.2005 at p62)”.
+**9.**[^M_F_47d36a81-751d-4657-8bb6-5f47d8947615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^c-6eb32d046088e40f905545cfeef186ff] In section 95 (remission of arrears and manner in which arrears to be paid), in subsection (7), in the definition of “non-English maintenance order”, in paragraph (a)(v), after “civil and commercial matters” insert “, as amended from time to time and as applied by the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No. L 299 16.11.2005 at p62)”.
+**10.**[^M_I_4c96e911-259e-4e4c-feb4-3308578e0e50] In section 95 (remission of arrears and manner in which arrears to be paid), in subsection (7), in the definition of “non-English maintenance order”, in paragraph (a)(v), after “civil and commercial matters” insert “, as amended from time to time and as applied by the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No. L 299 16.11.2005 at p62)”.
 
 #### 11. The Merchant Shipping (Liner Conferences) Act [1982 (c.37)](https://www.legislation.gov.uk/ukpga/1982/37)[^c-c1ab45cc3da08fde4b459df7f19f2c30]
 
@@ -204,9 +204,9 @@ The Magistrates’ Courts Act 1980[^f00016] is amended as follows.
 
 The Matrimonial and Family Proceedings Act 1984[^f00018] is amended as follows.
 
-**13.**[^c-bb56dd57e2840a59c5015bb99390984c] In section 15 (jurisdiction of the court), in subsection (2), after “civil and commercial matters” insert “, as amended from time to time and as applied by the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No. L 299 16.11.2005 at p62)”.
+**13.**[^M_I_204e5fb0-1204-4b5f-e150-fe636d79a30b] In section 15 (jurisdiction of the court), in subsection (2), after “civil and commercial matters” insert “, as amended from time to time and as applied by the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No. L 299 16.11.2005 at p62)”.
 
-**14.**[^c-aab65aaff9b17c6c0fc2fe2dc72a73aa] In section 28 (circumstances in which a Scottish court may entertain application for financial provision), in subsection (4), after “civil and commercial matters” insert “, as amended from time to time and as applied by the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No. L 299 16.11.2005 at p62)”.
+**14.**[^M_I_f20e0979-723c-4c04-f133-b2eaa019ffbb] In section 28 (circumstances in which a Scottish court may entertain application for financial provision), in subsection (4), after “civil and commercial matters” insert “, as amended from time to time and as applied by the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No. L 299 16.11.2005 at p62)”.
 
 #### 15. The Companies Act [1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40)[^c-a4190f5b32ff2bec371b7b63fccdd047]
 
@@ -392,9 +392,9 @@ These Regulations shall come into force on 1st July 2007.
 
 [^f00016]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^c-12387067b3f4be82b099e414e8872651]: Commencement: Sch. para. 9 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1655/regulation/1)
+[^M_F_47d36a81-751d-4657-8bb6-5f47d8947615]: Textual amendment: Sch. para. 9 revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
-[^c-6eb32d046088e40f905545cfeef186ff]: Commencement: Sch. para. 10 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1655/regulation/1)
+[^M_I_4c96e911-259e-4e4c-feb4-3308578e0e50]: Commencement: Sch. para. 10 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1655/regulation/1)
 
 [^c-c1ab45cc3da08fde4b459df7f19f2c30]: Commencement: Sch. para. 11 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1655/regulation/1)
 
@@ -404,9 +404,9 @@ These Regulations shall come into force on 1st July 2007.
 
 [^f00018]: Footnote: [1984 c.42](https://www.legislation.gov.uk/ukpga/1984/42).
 
-[^c-bb56dd57e2840a59c5015bb99390984c]: Commencement: Sch. para. 13 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1655/regulation/1)
+[^M_I_204e5fb0-1204-4b5f-e150-fe636d79a30b]: Commencement: Sch. para. 13 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1655/regulation/1)
 
-[^c-aab65aaff9b17c6c0fc2fe2dc72a73aa]: Commencement: Sch. para. 14 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1655/regulation/1)
+[^M_I_f20e0979-723c-4c04-f133-b2eaa019ffbb]: Commencement: Sch. para. 14 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1655/regulation/1)
 
 [^c-a4190f5b32ff2bec371b7b63fccdd047]: Commencement: Sch. para. 15 in force at 1.7.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1655/regulation/1)
 

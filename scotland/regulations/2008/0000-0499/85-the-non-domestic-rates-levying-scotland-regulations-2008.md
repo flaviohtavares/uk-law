@@ -3,15 +3,15 @@ title: The Non-Domestic Rates (Levying) (Scotland) Regulations 2008
 id: ssi/2008/85
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-04'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/85
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/85/pdfs/ssien_20080085_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/85/pdfs/ssi_20080085_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/85/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/85/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Non-Domestic Rates (Levying) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/85
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 85
 
@@ -42,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-e3d6c02c2c7e09b94f0e2295055bb8d6]
 
 These Regulations may be cited as the Non Domestic Rates (Levying) (Scotland) Regulations 2008 and come into force on 1st April 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-b83c0d45cb3ae6a963536a15cc47d45a]
 
 In these Regulations–
 
@@ -68,7 +72,7 @@ In these Regulations–
 - “the relevant year” means the period of 12 months beginning with 1st April 2008; and
 - “the roll” means a valuation roll made up under section 1 of the 1975 Act[^f00011].
 
-## 3. Amount payable as rates – lands and heritages with rateable value of £15,000 or less
+## 3. Amount payable as rates – lands and heritages with rateable value of £15,000 or less[^c-5fbb10be1b6a68db1ab4219dd6cfa2b5]
 
 (1) This regulation applies to lands and heritages on a day in the relevant year where they have a rateable value of £15,000 or less.
 
@@ -100,7 +104,7 @@ but only to the extent that the amount of such rate relief is reduced to nil.
 
 or both.
 
-## 4. Amount payable as rates – lands and heritages with rateable value of more than £29,000
+## 4. Amount payable as rates – lands and heritages with rateable value of more than £29,000[^c-b717bc0d1916557329ad689b5b95e6c5]
 
 (1) This regulation applies to lands and heritages on any day in the relevant year when they have a rateable value exceeding £29,000.
 
@@ -114,14 +118,14 @@ where–
 - RV is the rateable value of the lands and heritages on that day;
 - S is the additional factor of 0.004.
 
-## 5. Exemptions and discretionary reductions and remissions
+## 5. Exemptions and discretionary reductions and remissions[^c-714173202ece6f11909b7045d830930a]
 
 Nothing in these Regulations–
 
 - (a) shall require rates to be paid in respect of lands and heritages for any day where those lands and heritages are under any enactment entirely exempt from rates for that day; or
 - (b) shall prejudice the power of a rating authority to grant a reduction or remission of rates under section 4(5) of the 1962 Act[^f00018], section 25A of the 1966 Act[^f00019] or paragraph 4 of Schedule 2 to the 1997 Act[^f00020].
 
-## 6. Revocation
+## 6. Revocation[^c-be56c1786ae73646bdddcde26339083f]
 
 (1) Subject to paragraph (2), the 2007 Regulations are revoked.
 
@@ -155,6 +159,10 @@ The 2007 Regulations are revoked by regulation 6.
 
 [^f00001]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
+[^c-e3d6c02c2c7e09b94f0e2295055bb8d6]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/85/regulation/1)
+
+[^c-b83c0d45cb3ae6a963536a15cc47d45a]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/85/regulation/1)
+
 [^f00002]: Footnote: [1962 c. 9](https://www.legislation.gov.uk/ukpga/1962/9).
 
 [^f00003]: Footnote: [1966 c. 51](https://www.legislation.gov.uk/ukpga/1966/51).
@@ -175,6 +183,8 @@ The 2007 Regulations are revoked by regulation 6.
 
 [^f00011]: Footnote: Section 1 was repealed in part by the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29), Schedule 4.
 
+[^c-5fbb10be1b6a68db1ab4219dd6cfa2b5]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/85/regulation/1)
+
 [^f00012]: Footnote: Section 4(2) was amended by the Local Government (Miscellaneous Provisions) (Scotland) Act [1981 (c. 23)](https://www.legislation.gov.uk/ukpga/1981/23), section 5(a) and Schedule 4, the Local Government and Planning (Scotland) Act [1982 (c. 43)](https://www.legislation.gov.uk/ukpga/1982/43), section 5(1)(a), and the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41), Schedule 12, paragraph 7.
 
 [^f00013]: Footnote: Section 4(5) was amended by the Local Government and Planning (Scotland) Act 1982, section 5(1)(b), the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 57, and the Local Government and Rating Act 1997, Schedule 3, paragraph 2(a).
@@ -187,8 +197,14 @@ The 2007 Regulations are revoked by regulation 6.
 
 [^f00017]: Footnote: [1956 c. 50](https://www.legislation.gov.uk/ukpga/1956/50); section 7B was inserted by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), section 145 and Schedule 6, paragraph 4.
 
+[^c-b717bc0d1916557329ad689b5b95e6c5]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/85/regulation/1)
+
+[^c-714173202ece6f11909b7045d830930a]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/85/regulation/1)
+
 [^f00018]: Footnote: Section 4(5) was amended by the Local Government and Planning (Scotland) Act 1982, section 5(1)(b), the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 57, and the Local Government and Rating Act 1997, Schedule 3, paragraph 2(a).
 
 [^f00019]: Footnote: Section 25A was inserted by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), section 156.
 
 [^f00020]: Footnote: Paragraph 4 was amended by section 28 of the [Local Government in Scotland Act 2003, asp 1](https://www.legislation.gov.uk/asp/2003/1).
+
+[^c-be56c1786ae73646bdddcde26339083f]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/85/regulation/1)

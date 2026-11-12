@@ -159,7 +159,7 @@ Laws in force under the legislation.gov.uk subject heading **COMMUNITY CHARGES**
 - [The Standard Community Charge (Scotland) Regulations 1989](../uk-parliament/regulations/1989/2000-2499/2437-the-standard-community-charge-scotland-regulations-1989.md) *(as originally made)*
 - [The Standard and Collective Community Charges (Scotland) Amendment (No.2) Regulations 1989](../uk-parliament/regulations/1989/1000-1499/1476-the-standard-and-collective-community-charges-scotland-amendment-no-2-regulation.md) *(as originally made)*
 - [The Standard and Collective Community Charges (Scotland) Amendment Regulations 1989](../uk-parliament/regulations/1989/1000-1499/1004-the-standard-and-collective-community-charges-scotland-amendment-regulations-198.md) *(as originally made)*
-- [The Valuation and Community Charge Tribunals Regulations 1989](../uk-parliament/regulations/1989/0000-0499/439-the-valuation-and-community-charge-tribunals-regulations-1989.md) *(as originally made)*
+- [The Valuation and Community Charge Tribunals Regulations 1989](../uk-parliament/regulations/1989/0000-0499/439-the-valuation-and-community-charge-tribunals-regulations-1989.md) *(changes pending)*
 
 **1988**
 

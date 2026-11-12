@@ -3,7 +3,7 @@ title: Nature Conservation (Scotland) Act 2004, section 56
 act: Nature Conservation (Scotland) Act 2004
 section: '56'
 status: revised-with-pending-changes
-text_date: '2025-11-01'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2004/6/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Nature Conservation (Scotland) Act 2004, section 56
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/asp/2004/6
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/asp/2004/6
 >
 > Extent: Scotland.
 

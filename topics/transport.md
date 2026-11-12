@@ -44,8 +44,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) (No. 2) Order 2026](../scotland/regulations/2026/0000-0499/159-the-national-bus-travel-concession-schemes-miscellaneous-amendment-scotland-no-2.md) *(as originally made)*
 - [The National Bus Travel Concession Schemes (Miscellaneous Amendment) (Scotland) Order 2026](../scotland/regulations/2026/0000-0499/154-the-national-bus-travel-concession-schemes-miscellaneous-amendment-scotland-orde.md) *(as originally made)*
 - [The Network Rail (Old Oak Common Great Western Mainline Track Access) Order 2026](../uk-parliament/regulations/2026/0500-0999/591-the-network-rail-old-oak-common-great-western-mainline-track-access-order-2026.md) *(as originally made)*
-- [The Pedicab Drivers (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/134-the-pedicab-drivers-london-regulations-2026.md) *(changes pending)*
-- [The Pedicab Operators (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/135-the-pedicab-operators-london-regulations-2026.md) *(changes pending)*
+- [The Pedicab Drivers (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/134-the-pedicab-drivers-london-regulations-2026.md)
+- [The Pedicab Operators (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/135-the-pedicab-operators-london-regulations-2026.md)
 - [The Pedicab Vehicles (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/136-the-pedicab-vehicles-london-regulations-2026.md) *(changes pending)*
 - [The Pedicabs (London) (Fares and Fees) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/137-the-pedicabs-london-fares-and-fees-regulations-2026.md) *(changes pending)*
 - [The Planning and Infrastructure Act 2025 (Commencement No. 4 and Transitional Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/641-the-planning-and-infrastructure-act-2025-commencement-no-4-and-transitional-prov.md) *(as originally made)*
@@ -405,7 +405,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Abolition of Bridge Tolls (Scotland) Act 2008 (Commencement) Order 2008](../scotland/regulations/2008/0000-0499/22-the-abolition-of-bridge-tolls-scotland-act-2008-commencement-order-2008.md) *(as originally made)*
 - [The Channel Tunnel Rail Link (Nomination) Order 2008](../uk-parliament/regulations/2008/3000-3499/3076-the-channel-tunnel-rail-link-nomination-order-2008.md) *(as originally made)*
 - [The Cross-border Railway Services (Working Time) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/315-the-cross-border-railway-services-working-time-regulations-northern-ireland-2008.md)
-- [The Cross-border Railway Services (Working Time) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1660-the-cross-border-railway-services-working-time-regulations-2008.md) *(changes pending)*
+- [The Cross-border Railway Services (Working Time) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1660-the-cross-border-railway-services-working-time-regulations-2008.md)
 - [The Crossrail (Nomination) Order 2008](../uk-parliament/regulations/2008/2000-2499/2036-the-crossrail-nomination-order-2008.md) *(as originally made)*
 - [The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008](../uk-parliament/regulations/2008/2500-2999/2512-the-felixstowe-branch-line-and-ipswich-yard-improvement-order-2008.md) *(as originally made)*
 - [The Local Authorities (Elected Mayors) (England) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3112-the-local-authorities-elected-mayors-england-regulations-2008.md) *(as originally made)*
@@ -881,7 +881,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Bure Valley Railway Light Railway Order 1989](../uk-parliament/regulations/1989/0500-0999/835-the-bure-valley-railway-light-railway-order-1989.md) *(as originally made)*
 - [The Cholsey and Wallingford Light Railway Order 1989](../uk-parliament/regulations/1989/1500-1999/1833-the-cholsey-and-wallingford-light-railway-order-1989.md) *(as originally made)*
 - [The London Regional Transport (Levy) Order 1989](../uk-parliament/regulations/1989/0000-0499/296-the-london-regional-transport-levy-order-1989.md) *(as originally made)*
-- [The Service Subsidy Agreements (Tendering) (Amendment) Regulations 1989](../uk-parliament/regulations/1989/0000-0499/464-the-service-subsidy-agreements-tendering-amendment-regulations-1989.md) *(as originally made)*
+- [The Service Subsidy Agreements (Tendering) (Amendment) Regulations 1989](../uk-parliament/regulations/1989/0000-0499/464-the-service-subsidy-agreements-tendering-amendment-regulations-1989.md) *(changes pending)*
 - [The Transport Act 1985 (Extension of Eligibility for Travel Concessions) (Amendment) Order 1989](../uk-parliament/regulations/1989/2000-2499/2293-the-transport-act-1985-extension-of-eligibility-for-travel-concessions-amendment.md) *(as originally made)*
 
 **1988**

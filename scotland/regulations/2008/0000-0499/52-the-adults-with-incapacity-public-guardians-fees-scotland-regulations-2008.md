@@ -3,16 +3,16 @@ title: The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulati
 id: ssi/2008/52
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-20'
-text_date: null
-extent: null
+text_date: '2008-02-20'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/52
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/52/pdfs/ssien_20080052_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/52/pdfs/ssi_20080052_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/52/made/data.pdf
-pending_changes: 8
+- http://www.legislation.gov.uk/ssi/2008/52/data.pdf
+pending_changes: 13
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (13).** Text as at 2008-02-20. See https://www.legislation.gov.uk/changes/affected/ssi/2008/52
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 52
 
@@ -42,24 +48,24 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 7(2) and 86(2) of the Adults with Incapacity (Scotland) Act 2000[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-e34119015124339da6699097decd12ba]
 
 (1) These Regulations may be cited as the Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2008 and come into force on 1st April 2008.
 
 (2) In these Regulations, “the Act” means the Adults with Incapacity (Scotland) Act 2000 and references to sections are references to sections in that Act.
 
-## 2. Fees payable to Public Guardian
+## 2. Fees payable to Public Guardian[^c-9d8a90b2e5e5b08c9eb082704988f797]
 
 The fees payable to the Public Guardian in respect of matters specified in column 1 of the Schedule shall be the fees specified in relation to those matters in column 2 of that Schedule.
 
-## 3. Exemption from fees
+## 3. Exemption from fees[^c-17105c3c46006100a57ca2e5eba05c0b]
 
 A fee regulated by these Regulations shall not be payable by a person if–
 
 - (a) the person is in receipt of legal aid within the meaning of section 13(2) of the Legal Aid (Scotland) Act 1986[^f00002] in respect of the matter in the Table of Fees in connection with which the fee is payable; or
 - (b) the person’s solicitor is undertaking work in relation to the matter in the Table of Fees in connection with which the fee is payable on the basis of any regulations made under section 36 of the Legal Aid (Scotland) Act 1986 providing for legal aid in a matter of special urgency.
 
-## 4. Revocation of the Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2001
+## 4. Revocation of the Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2001[^c-228a00efeec93595c3d44e775c2262d6]
 
 The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2001[^f00003] are revoked.
 
@@ -73,7 +79,7 @@ Edinburgh
 
 20th February 2008
 
-## SCHEDULE — TABLE OF FEES PAYABLE TO PUBLIC GUARDIAN
+## SCHEDULE — TABLE OF FEES PAYABLE TO PUBLIC GUARDIAN[^c-17e3cffa1a521105362553f419bcce06]
 
 Regulation 2
 
@@ -149,6 +155,16 @@ The changes in the Schedule are in numbers 5 to 13. Numbers 5 and 6 reflect the 
 
 [^f00001]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4), as amended by the [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10). See section 87(1) and (1A) for the definition of “prescribe” and section 86(1) as to power to make regulations.
 
+[^c-e34119015124339da6699097decd12ba]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/52/regulation/1/1)
+
+[^c-9d8a90b2e5e5b08c9eb082704988f797]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/52/regulation/1/1)
+
+[^c-17105c3c46006100a57ca2e5eba05c0b]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/52/regulation/1/1)
+
 [^f00002]: Footnote: [1986 (c. 47)](https://www.legislation.gov.uk/ukpga/1986/47). Section 13(2) was amended by section 74 of and paragraph 36(3) of Schedule 8 to the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c.40)](https://www.legislation.gov.uk/ukpga/1990/40).
 
+[^c-228a00efeec93595c3d44e775c2262d6]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/52/regulation/1/1)
+
 [^f00003]: Footnote: [S.S.I. 2001/75](https://www.legislation.gov.uk/ssi/2001/75), as amended by [S.S.I. 2002/131](https://www.legislation.gov.uk/ssi/2002/131) and [2007/320](https://www.legislation.gov.uk/ssi/2007/320).
+
+[^c-17e3cffa1a521105362553f419bcce06]: Commencement: Sch. in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/52/regulation/1/1)

@@ -64,43 +64,43 @@ these Rules shall apply with the modifications set out in rule 27.
 
 (1) In these Rules—
 
-- “additional inspector” means an inspector appointed by the Secretary of State under paragraph 5A(3)(a) of Schedule 8[^f00004];
-- “application” means, except where the context requires otherwise, an application made under paragraph 1 of Schedule 8 for—
+- “**additional inspector**” means an inspector appointed by the Secretary of State under paragraph 5A(3)(a) of Schedule 8[^f00004];
+- “**application**” means, except where the context requires otherwise, an application made under paragraph 1 of Schedule 8 for—
   - (a) consent under section 36[^f00005] to construct, extend or operate a generating station, together with any application under section 36A[^f00006] for a declaration relating to rights of navigation which is made with that application for consent;
   - (b) consent under section 37 to install or keep installed an electric line above ground,
 
-  and “applicant” means the person making an application;
-- “assessor” means a person appointed by the Secretary of State to sit with an inspector at an inquiry or re-opened inquiry to advise the inspector on such matters arising as the Secretary of State may specify;
-- “by local advertisement”, in relation to a notice, means by publication of the notice in at least one newspaper circulating in the locality in which the land to which the application relates is situated;
-- “document” includes a photograph, map or plan;
-- “electronic communication” has the same meaning as in section 15(1) of the Electronic Communications Act 2000[^f00007];
-- “generating station” shall be construed in accordance with section 64[^f00008];
-- “inquiry” means a public inquiry in relation to which these Rules apply; and where an inquiry is conducted by means of concurrent sessions, it includes any such session;
-- “inspector” includes a lead inspector and an additional inspector;
-- “land” means the land (including trees, buildings or other structures, and land covered with water) to which an inquiry relates;
-- “lead inspector” means a person appointed by the Secretary of State to hold an inquiry or a re-opened inquiry;
-- “mediator” means a person who is appointed by the Secretary of State under rule 8;
-- “outline statement” means a written statement of the principal submissions which a person proposes to put forward at an inquiry;
-- “person entitled to appear at an inquiry” means a person described in rule 15(1), and cognate expressions shall be construed accordingly;
-- “pre-inquiry meeting” means a meeting held before an inquiry to consider what may be done with a view to securing that the inquiry is conducted efficiently and expeditiously, and where two or more such meetings are held about the same inquiry, references to the conclusion of a pre-inquiry meeting are references to the conclusion of the final meeting;
-- “qualifying objector” means—
+  and “**applicant**” means the person making an application;
+- “**assessor**” means a person appointed by the Secretary of State to sit with an inspector at an inquiry or re-opened inquiry to advise the inspector on such matters arising as the Secretary of State may specify;
+- “**by local advertisement**”, in relation to a notice, means by publication of the notice in at least one newspaper circulating in the locality in which the land to which the application relates is situated;
+- “**document**” includes a photograph, map or plan;
+- “**electronic communication**” has the same meaning as in section 15(1) of the Electronic Communications Act 2000[^f00007];
+- “**generating station**” shall be construed in accordance with section 64[^f00008];
+- “**inquiry**” means a public inquiry in relation to which these Rules apply; and where an inquiry is conducted by means of concurrent sessions, it includes any such session;
+- “**inspector**” includes a lead inspector and an additional inspector;
+- “**land**” means the land (including trees, buildings or other structures, and land covered with water) to which an inquiry relates;
+- “**lead inspector**” means a person appointed by the Secretary of State to hold an inquiry or a re-opened inquiry;
+- “**mediator**” means a person who is appointed by the Secretary of State under rule 8;
+- “**outline statement**” means a written statement of the principal submissions which a person proposes to put forward at an inquiry;
+- “**person entitled to appear at an inquiry**” means a person described in rule 15(1), and cognate expressions shall be construed accordingly;
+- “**pre-inquiry meeting**” means a meeting held before an inquiry to consider what may be done with a view to securing that the inquiry is conducted efficiently and expeditiously, and where two or more such meetings are held about the same inquiry, references to the conclusion of a pre-inquiry meeting are references to the conclusion of the final meeting;
+- “**qualifying objector**” means—
   - (a) where the Secretary of State has caused a public inquiry to be held under paragraph 2 or 3 of Schedule 8 in respect of an application, anyone who has objected to the application in accordance with regulations under paragraph 3(1) of that Schedule;
   - (b) where the Secretary of State has caused a public inquiry to be held under section 62 in respect of an application, notice of which was not required to be published by regulations under paragraph 3(1) of Schedule 8, anyone who has made a written objection in respect of the application to the Secretary of State or the relevant planning authority before the date of the relevant notice,
 
   and whose objection has not been withdrawn;
-- “qualifying planning authority” means—
+- “**qualifying planning authority**” means—
   - (a) where the Secretary of State has caused a public inquiry to be held under paragraph 2 of Schedule 8 in respect of an application, any relevant planning authority who has objected to the application in accordance with regulations under paragraph 2(3) of that Schedule and whose objection has not been withdrawn;
   - (b) where the Secretary of State has caused a public inquiry to be held under section 62 in respect of an application, notice of which was not required to be published by regulations under paragraph 3(1) of Schedule 8, any relevant planning authority;
-- “registration form” means a form for completion by persons who wish to participate in the inquiry;
-- “relevant notice” means (except in rule 28(2)) the Secretary of State’s written notice under rule 4(1);
-- “relevant planning authority” has the same meaning as in paragraph (a), (aa) or (ab) (as the case may be) of paragraph 2(6) of Schedule 8[^f00009];
-- “statement of case” means a written statement which contains—
+- “**registration form**” means a form for completion by persons who wish to participate in the inquiry;
+- “**relevant notice**” means (except in rule 28(2)) the Secretary of State’s written notice under rule 4(1);
+- “**relevant planning authority**” has the same meaning as in paragraph (a), (aa) or (ab) (as the case may be) of paragraph 2(6) of Schedule 8[^f00009];
+- “**statement of case**” means a written statement which contains—
   - (a) full particulars of the case which a person proposes to put forward at an inquiry;
   - (b) a list of any documents which that person intends to refer to or put in evidence;
   - (c) a list of the individuals whom that person proposes to call as witnesses; and
   - (d) the subject-matter of the evidence of each such witness;
-- “statement of common ground” means a written statement prepared jointly by the relevant planning authority and the applicant, which contains agreed factual information about the proposal which is the subject of the application;
-- “technical adviser” means a person appointed by the Secretary of State under rule 7.
+- “**statement of common ground**” means a written statement prepared jointly by the relevant planning authority and the applicant, which contains agreed factual information about the proposal which is the subject of the application;
+- “**technical adviser**” means a person appointed by the Secretary of State under rule 7.
 
 (2) Except where the context otherwise requires, any reference in these Rules to a numbered section or Schedule is a reference to that section of, or that Schedule to, the Electricity Act 1989[^f00010].
 
@@ -123,10 +123,10 @@ these Rules shall apply with the modifications set out in rule 27.
 
 (1) In these Rules, and in relation to the use of electronic communications for any purpose of these Rules which is capable of being carried out electronically—
 
-- (a) the expression “address” includes any number or address used for the purposes of such communications, except that where any provision of these Rules requires any person to provide a name and address to any other person, the requirement shall not be fulfilled unless the person subject to the requirement provides a postal address;
+- (a) the expression “**address**” includes any number or address used for the purposes of such communications, except that where any provision of these Rules requires any person to provide a name and address to any other person, the requirement shall not be fulfilled unless the person subject to the requirement provides a postal address;
 - (b) references to statements, notices, or other documents, or to copies of such documents, include references to such documents or copies of them in electronic form.
 
-(2) Paragraphs (3) to (7) apply where an electronic communication is used by a person for the purpose of fulfilling any requirement of these Rules to give or send any statement, notice or other document to any other person (“the recipient”).
+(2) Paragraphs (3) to (7) apply where an electronic communication is used by a person for the purpose of fulfilling any requirement of these Rules to give or send any statement, notice or other document to any other person (“**the recipient**”).
 
 (3) The requirement shall be taken to be fulfilled where the statement, notice or other document transmitted by means of the electronic communication is—
 
@@ -134,9 +134,9 @@ these Rules shall apply with the modifications set out in rule 27.
 - (b) legible in all material respects; and
 - (c) sufficiently permanent to be used for subsequent reference.
 
-(4) In paragraph (3), “legible in all material respects” means that the information contained in the statement, notice or document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
+(4) In paragraph (3), “**legible in all material respects**” means that the information contained in the statement, notice or document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
 
-(5) Where the electronic communication is received by the recipient outside the recipient’s business hours, it shall be taken to have been received on the next working day; and for this purpose “working day” means a day which is not a Saturday, a Sunday, Christmas Day, Good Friday, or a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00011].
+(5) Where the electronic communication is received by the recipient outside the recipient’s business hours, it shall be taken to have been received on the next working day; and for this purpose “**working day**” means a day which is not a Saturday, a Sunday, Christmas Day, Good Friday, or a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00011].
 
 (6) A requirement of these Rules that any document shall be in writing is fulfilled where that document satisfies the criteria in paragraph (3).
 
@@ -595,7 +595,7 @@ and is for that reason disposed to disagree with a recommendation made by the le
 
 (3) Where a copy of the lead inspector’s report is not sent with the notification of the decision, the notification shall be accompanied by a statement of his conclusions and of any recommendations made by him, and if a person entitled to be notified of the decision has not received a copy of that report, he shall be supplied with a copy of it on written application to the Secretary of State.
 
-(4) In this rule “report” includes any assessor’s report appended to an inspector’s report and an additional inspector’s report appended to the lead inspector’s report but does not include any other documents so appended; but any person who has received a copy of the report may apply to the Secretary of State in writing, within six weeks of the date of the Secretary of State’s decision, for an opportunity of inspecting any such documents and the Secretary of State shall afford him that opportunity.
+(4) In this rule “**report**” includes any assessor’s report appended to an inspector’s report and an additional inspector’s report appended to the lead inspector’s report but does not include any other documents so appended; but any person who has received a copy of the report may apply to the Secretary of State in writing, within six weeks of the date of the Secretary of State’s decision, for an opportunity of inspecting any such documents and the Secretary of State shall afford him that opportunity.
 
 (5) Any person applying to the Secretary of State under paragraph (3) shall ensure that his application is received by the Secretary of State within four weeks of the Secretary of State’s determination.
 
@@ -652,7 +652,7 @@ and shall specify the time within which such documents should be received by him
   - (i) in the definition of “by local advertisement” for the words from “circulating in the” onwards substitute “which is likely to come to the attention of those likely to be affected by the consent applied for if it is given;”; and
   - (ii) after the definition of “person entitled to appear at an inquiry” insert—
 
-    > - “place” means, unless the context otherwise requires, the place to which an inquiry relates, that is, the place where it is proposed to construct the generating station, where the proposed extension will be or where the station proposed to be operated is situated;
+    > - “**place**” means, unless the context otherwise requires, the place to which an inquiry relates, that is, the place where it is proposed to construct the generating station, where the proposed extension will be or where the station proposed to be operated is situated;
 
     ;
 - (b) in rule 9—
@@ -665,7 +665,7 @@ and shall specify the time within which such documents should be received by him
 
 - (a) in rule 2(1) after the definition of “inspector” insert—
 
-  > - “interested authority” means any body upon whom the applicant has served a notice of the application in accordance with regulation 6 of the Electricity (Offshore Generating Stations) (Applications for Consent) Regulations 2006[^f00016];
+  > - “**interested authority**” means any body upon whom the applicant has served a notice of the application in accordance with regulation 6 of the Electricity (Offshore Generating Stations) (Applications for Consent) Regulations 2006[^f00016];
 
   ; and
 - (b) in rules 2(4), 11(6) and 11(13) for “relevant planning authority”, wherever it appears, substitute “interested authority”.

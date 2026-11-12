@@ -3,7 +3,7 @@ title: The Individual Savings Account Regulations 1998, section 10A
 act: The Individual Savings Account Regulations 1998
 section: 10A
 status: revised-with-pending-changes
-text_date: '2026-04-06'
+text_date: '2026-10-29'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1998/1870/section/10A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Individual Savings Account Regulations 1998, section 10A
 
-> **Warning: changes not yet applied to this text (42).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/1998/1870
+> **Warning: changes not yet applied to this text (35).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/uksi/1998/1870
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -48,6 +48,7 @@ summary: ''
 - (a) a defaulted Lifetime ISA subscription under regulation 5D(2)(a)(ia);
 - (b) a returned withdrawal under regulation 5D(2)(a)(ib); [^c-d3cfdf7a65ff21c42cbf15fd18f99596]...
 - (c)[^c-9d0fe51f0a96aa372360437b06ffc4c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-c785e326bbc355175c2b336c662ab8f9] a repayment of a withdrawal charge under paragraph 10A of the Schedule.
 
 ## Annotations
 
@@ -56,3 +57,5 @@ summary: ''
 [^c-d3cfdf7a65ff21c42cbf15fd18f99596]: Textual amendment: Word in [reg. 10A(4)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/10A/4) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2024/350/regulation/18/a)
 
 [^c-9d0fe51f0a96aa372360437b06ffc4c4]: Textual amendment: [Reg. 10A(4)(c)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/10A/4/c) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2024/350/regulation/18/b)
+
+[^c-c785e326bbc355175c2b336c662ab8f9]: Textual amendment: [Reg. 10A(4)(d)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/10A/4/d) inserted (29.10.2026) by [The Individual Savings Account (Amendment) (No. 3) Regulations 2026 (S.I. 2026/1130)](https://www.legislation.gov.uk/uksi/2026/1130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/1130/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/1130/regulation/1/3))

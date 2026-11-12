@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2008-11-04'
-text_date: '2008-11-26'
+text_date: '2008-12-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2856
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2856/pdfs/uksiem_20082856_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2856/pdfs/uksi_20082856_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2856/data.pdf
-pending_changes: 2
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Family Proceedings Fees (Amendment) Order 2008
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2008-11-26. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2856
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-12-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2856
 >
 > Extent: England, Wales.
 
@@ -72,8 +72,8 @@ The Family Proceedings Fees Order 2008[^f00002] is amended as follows.
 
 (2) after sub-paragraph (c), insert —
 
-> - (ca) section 11J(2)[^f00004] (enforcement orders);
-> - (cb) section 11O(2)[^f00005] (compensation for financial loss)
+> - (ca)[^c-5623ab8fd1fdd7bf240b33593be8d703] section 11J(2) (enforcement orders); £175
+> - (cb) section 11O(2) (compensation for financial loss); £175
 
 ; and
 
@@ -186,9 +186,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^c-57b554421cf7029209f26647fcf78f46]: Commencement: Art. 5 in force at 8.12.2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/2856/article/1/3)
 
-[^f00004]: Footnote: Section IIJ was inserted by section 4(1) of the [Children and Adoption Act (2006 c. 20)](https://www.legislation.gov.uk/ukpga/2006/20).
-
-[^f00005]: Footnote: Section 11O was inserted by section 5 of the [Children and Adoption Act (2006 c. 20)](https://www.legislation.gov.uk/ukpga/2006/20).
+[^c-5623ab8fd1fdd7bf240b33593be8d703]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2008/2856/article/5/2) substituted (5.12.2008) by [The Family Proceedings Fees (Amendment No. 2) Order 2008 (S.I. 2008/3106)](https://www.legislation.gov.uk/uksi/2008/3106), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/3106/article/1/2), [3](https://www.legislation.gov.uk/uksi/2008/3106/article/3)
 
 [^f00006]: Footnote: Schedule A1 was inserted by Schedule 1 to the [Children and Adoption Act (2006 c. 20)](https://www.legislation.gov.uk/ukpga/2006/20).
 

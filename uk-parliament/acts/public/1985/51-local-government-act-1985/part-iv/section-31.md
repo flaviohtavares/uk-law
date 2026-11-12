@@ -3,7 +3,7 @@ title: Local Government Act 1985, section 31
 act: Local Government Act 1985
 section: '31'
 status: revised-with-pending-changes
-text_date: '2026-04-29'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1985/51/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Local Government Act 1985, section 31
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
 > Extent: England, Wales.
 
-## 31. Replacement of members.[^c3163021][^c3163001][^c3163011]
+## 31. Replacement of members.[^c3163021][^c-22fc4aff515608467c5ea94c44c366eb][^c3163001][^c3163011]
 
 *Extent: E+W*
 
@@ -32,6 +32,8 @@ summary: ''
 ## Annotations
 
 [^c3163021]: Modification: S. 31 applied (with modifications) (8.1.1996) by [1995 c. x](https://www.legislation.gov.uk/ukla/1995/10), [s. 44](https://www.legislation.gov.uk/ukla/1995/10/section/44), [Sch.](https://www.legislation.gov.uk/ukla/1995/10/schedule)
+
+[^c-22fc4aff515608467c5ea94c44c366eb]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/1985/51/section/31) modified (E.) (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/5/a) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c3163001]: Modification: S. 31 amended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 4(1)](https://www.legislation.gov.uk/uksi/1985/1884/article/4/1)(*a*)
 

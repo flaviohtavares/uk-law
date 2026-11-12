@@ -3,15 +3,15 @@ title: The Smoke Control Areas (Exempt Fireplaces) (Scotland) (No. 2) Order 2008
 id: ssi/2008/296
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-03'
-text_date: null
-extent: null
+text_date: '2008-10-01'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/296
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/296/pdfs/ssien_20080296_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/296/pdfs/ssi_20080296_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/296/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2008/296/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Smoke Control Areas (Exempt Fireplaces) (Scotland) (No. 2) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-10-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/296
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2008 No. 296
 
@@ -44,17 +48,17 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with that section, they are satisfied that the classes of fireplace exempted by this Order can be used for burning fuel other than authorised fuels[^f00002] without producing any smoke or a substantial quantity of smoke.
 
-## 1. Citation, commencement and extent
+## 1. Citation, commencement and extent[^c-9b231d7698a45e97c8f584baa36ba28a]
 
 (1) This Order may be cited as the Smoke Control Areas (Exempt Fireplaces) (Scotland) (No. 2) Order 2008 and comes into force on 1st October 2008.
 
 (2) This Order extends to Scotland only.
 
-## 2. Fireplaces exempted from section 20 of the Clean Air Act 1993
+## 2. Fireplaces exempted from section 20 of the Clean Air Act 1993[^c-038bbee45bf559f034b6f539e20d25d7]
 
 The fireplaces described in the Schedule which comply with the conditions specified in relation to each of them in that Schedule are exempt from the provisions of section 20 (prohibition on emission of smoke in smoke control area) of the Clean Air Act 1993.
 
-## 3. Revocation
+## 3. Revocation[^c-6e91b5dfaf73c3c8930f350f36c625cd]
 
 The Smoke Control Areas (Exempt Fireplaces) (Scotland) Order 2008[^f00003] is revoked.
 
@@ -68,7 +72,7 @@ Edinburgh
 
 3rd September 2008
 
-## SCHEDULE — Exempted fireplaces
+## SCHEDULE — Exempted fireplaces[^c-3d2dac099aa1fa8e9eedc1f23713a019]
 
 Article 2
 
@@ -198,7 +202,15 @@ No Regulatory Impact Assessment has been prepared for this instrument as it has 
 
 [^f00002]: Footnote: Fuels declared by the Scottish Ministers to be authorised fuels for the purposes of Part III of the Clean Air Act 1993 under section 20(6) of that Act are specified in [S.S.I. 2008/295](https://www.legislation.gov.uk/ssi/2008/295).
 
+[^c-9b231d7698a45e97c8f584baa36ba28a]: Commencement: Art. 1 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/296/article/1/1)
+
+[^c-038bbee45bf559f034b6f539e20d25d7]: Commencement: Art. 2 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/296/article/1/1)
+
+[^c-6e91b5dfaf73c3c8930f350f36c625cd]: Commencement: Art. 3 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/296/article/1/1)
+
 [^f00003]: Footnote: [S.S.I. 2008/157](https://www.legislation.gov.uk/ssi/2008/157).
+
+[^c-3d2dac099aa1fa8e9eedc1f23713a019]: Commencement: Sch. in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/296/article/1/1)
 
 [^f01000]: Footnote: (a)
 

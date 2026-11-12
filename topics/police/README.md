@@ -6,14 +6,14 @@ Laws in force under the legislation.gov.uk subject heading **POLICE**. Repealed 
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Police Act 1996](../../uk-parliament/acts/public/1996/16-police-act-1996/README.md) *(changes pending)* — 160 regulations on this topic made under it
+- [Police Act 1996](../../uk-parliament/acts/public/1996/16-police-act-1996/README.md) *(changes pending)* — 159 regulations on this topic made under it
 - [Police Act 1997](../../uk-parliament/acts/public/1997/50-police-act-1997/README.md) *(changes pending)* — 131 regulations on this topic made under it
 - [Police Act 1964](../../uk-parliament/acts/public/1964/48-police-act-1964/README.md) *(changes pending)* — 91 regulations on this topic made under it
 - [Police (Northern Ireland) Act 1998](../../uk-parliament/acts/public/1998/32-police-northern-ireland-act-1998/README.md) *(changes pending)* — 75 regulations on this topic made under it
 - [Police and Criminal Evidence Act 1984](../../uk-parliament/acts/public/1984/60-police-and-criminal-evidence-act-1984/README.md) *(changes pending)* — 68 regulations on this topic made under it
 - [Police Pensions Act 1976](../../uk-parliament/acts/public/1976/35-police-pensions-act-1976.md) — 67 regulations on this topic made under it
 - [Police Reform and Social Responsibility Act 2011](../../uk-parliament/acts/public/2011/13-police-reform-and-social-responsibility-act-2011/README.md) *(changes pending)* — 50 regulations on this topic made under it
-- [Police Reform Act 2002](../../uk-parliament/acts/public/2002/30-police-reform-act-2002/README.md) *(changes pending)* — 46 regulations on this topic made under it
+- [Police Reform Act 2002](../../uk-parliament/acts/public/2002/30-police-reform-act-2002/README.md) *(changes pending)* — 45 regulations on this topic made under it
 - [Police (Northern Ireland) Act 2000](../../uk-parliament/acts/public/2000/32-police-northern-ireland-act-2000/README.md) *(changes pending)* — 44 regulations on this topic made under it
 - [Serious Organised Crime and Police Act 2005](../../uk-parliament/acts/public/2005/15-serious-organised-crime-and-police-act-2005/README.md) *(changes pending)* — 30 regulations on this topic made under it
 - [Police and Fire Reform (Scotland) Act 2012](../../scotland/acts/2012/8-police-and-fire-reform-scotland-act-2012/README.md) *(changes pending)* — 29 regulations on this topic made under it
@@ -35,7 +35,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1115 in force, by year:
+1114 in force, by year:
 
 | year | in force |
 |---|---|
@@ -57,7 +57,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 29 |
 | [2010](2010.md) | 35 |
 | [2009](2009.md) | 27 |
-| [2008](2008.md) | 47 |
+| [2008](2008.md) | 46 |
 | [2007](2007.md) | 45 |
 | [2006](2006.md) | 45 |
 | [2005](2005.md) | 32 |

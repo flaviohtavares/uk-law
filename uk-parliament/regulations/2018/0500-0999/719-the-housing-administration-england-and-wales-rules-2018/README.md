@@ -3,16 +3,16 @@ title: The Housing Administration (England and Wales) Rules 2018
 id: uksi/2018/719
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2018-06-12'
-text_date: '2018-07-05'
+text_date: '2026-10-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2018/719
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2018/719/pdfs/uksiem_20180719_en.pdf
 - http://www.legislation.gov.uk/uksi/2018/719/pdfs/uksi_20180719_en.pdf
 - http://www.legislation.gov.uk/uksi/2018/719/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Housing Administration (England and Wales) Rules 2018
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2018-07-05. See https://www.legislation.gov.uk/changes/affected/uksi/2018/719
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales.
 

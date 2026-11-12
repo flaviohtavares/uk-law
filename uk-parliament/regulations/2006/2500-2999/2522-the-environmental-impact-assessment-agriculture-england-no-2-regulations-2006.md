@@ -3,16 +3,16 @@ title: The Environmental Impact Assessment (Agriculture) (England) (No.2) Regula
 id: uksi/2006/2522
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2006-09-13'
-text_date: '2025-02-27'
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2006/2522
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2006/2522/pdfs/uksiem_20062522_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/2522/pdfs/uksi_20062522_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/2522/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Environmental Impact Assessment (Agriculture) (England) (No.2) Regulations 2006
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2006/2522
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales.
 
@@ -119,7 +119,7 @@ He makes the following Regulations under the powers conferred by that section:[^
 
 (1) These Regulations apply to any restructuring project or uncultivated land project, unless it is exempt under paragraph (2) or regulation 3A or 3B[^c-2ff56dfef693922b830950d621d91941].
 
-(2) A restructuring project or an uncultivated land project is exempt if it—
+(2)[^c-26fe2f9d26b4ae4ccd51d5e964e2510f] A restructuring project or an uncultivated land project is exempt if it—
 
 - (a) is a project mentioned in regulation 3(2) of the Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1999[^f00014];
 - (b) constitutes development to which the Town and Country Planning (Environmental Impact Assessment) Regulations 2011 apply;[^c-5a65546f1ad62912c6f7e3d7931c377e]
@@ -1299,6 +1299,8 @@ Copies of the Transposition Note and Regulatory Impact Assessment are available 
 [^c-22e3440e0a3c59b6ac6db25f8d25ca11]: Commencement: Reg. 3 in force at 10.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/1/2)
 
 [^c-2ff56dfef693922b830950d621d91941]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Agriculture) (England) (No. 2) (Amendment) Regulations 2017 (S.I. 2017/593)](https://www.legislation.gov.uk/uksi/2017/593), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/593/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/593/regulation/4/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2017/593/regulation/19))
+
+[^c-26fe2f9d26b4ae4ccd51d5e964e2510f]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/2522/regulation/3/2) modified (30.10.2026) by [The Green Hill Solar Farm Order 2026 (S.I. 2026/1074)](https://www.legislation.gov.uk/uksi/2026/1074), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1074/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2026/1074/article/6/4) (with [Sch. 15](https://www.legislation.gov.uk/uksi/2026/1074/schedule/15))
 
 [^f00014]: Footnote: [S.I. 1999/2228](https://www.legislation.gov.uk/uksi/1999/2228).
 

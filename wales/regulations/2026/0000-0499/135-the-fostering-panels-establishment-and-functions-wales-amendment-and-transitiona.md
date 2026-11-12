@@ -1,0 +1,141 @@
+---
+title: The Fostering Panels (Establishment and Functions) (Wales) (Amendment and Transitional Provision) Regulations 2026
+id: wsi/2026/135
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-11-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2026/135
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2026/135/pdfs/wsi_20260135_mi.pdf
+- http://www.legislation.gov.uk/wsi/2026/135/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fostering Panels (Establishment and Functions) (Wales) (Amendment and Transitional Provision) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 135
+
+SOCIAL CARE, WALES
+
+The Fostering Panels (Establishment and Functions) (Wales) (Amendment and Transitional Provision) Regulations 2026
+
+Made
+
+9 November 2026
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by [sections 87](https://www.legislation.gov.uk/anaw/2014/4/section/87), [93](https://www.legislation.gov.uk/anaw/2014/4/section/93) and [196](https://www.legislation.gov.uk/anaw/2014/4/section/196) [(2)](https://www.legislation.gov.uk/anaw/2014/4/section/196) [(a)](https://www.legislation.gov.uk/anaw/2014/4/section/196) and [(b)](https://www.legislation.gov.uk/anaw/2014/4/section/196) of the [Social Services and Well-being (Wales) Act 2014](https://www.legislation.gov.uk/anaw/2014/4/contents)[^f00001] and [section 28](https://www.legislation.gov.uk/asc/2025/1/section/28) [(1)](https://www.legislation.gov.uk/asc/2025/1/section/28) [(a)](https://www.legislation.gov.uk/asc/2025/1/section/28) and [(b)](https://www.legislation.gov.uk/asc/2025/1/section/28) of the [Health and Social Care (Wales) Act 2025](https://www.legislation.gov.uk/asc/2025/1/contents)[^f00002].
+
+## 1. Title and coming into force
+
+(1) The title of these Regulations is the Fostering Panels (Establishment and Functions) (Wales) (Amendment and Transitional Provision) Regulations 2026.
+
+(2) Subject to paragraph (3), these Regulations come into force on 21 December 2026.
+
+(3) Regulation 3 comes into force on 1 April 2030.
+
+## 2. Amendment of the Fostering Panels (Establishment and Functions) (Wales) Regulations 2018
+
+(1) The [Fostering Panels (Establishment and Functions) (Wales) Regulations 2018](https://www.legislation.gov.uk/wsi/2018/1333/contents)[^f00003] are amended as follows—
+
+(2) After [regulation 8](https://www.legislation.gov.uk/wsi/2018/1333/regulation/8) insert—
+
+> **8A. Deemed approval by successor fostering services provider following re-establishment as a not-for-profit entity**
+>
+> (1) This regulation applies where—
+>
+> - (a) a foster parent was approved by a regulated fostering services provider (“the former provider”),
+> - (b) the former provider has ceased to provide the fostering service on or after the coming into force of this regulation,
+> - (c) a not-for-profit fostering services provider (“the successor provider”) commences providing a fostering service, and
+> - (d) either paragraph (2) or paragraph (3) applies.
+>
+> (2) This paragraph applies where the Welsh Ministers have exercised the power in [regulation 3B](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3B) [(3)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3B) of the [Regulated Services (Registration) (Wales) Regulations 2017](https://www.legislation.gov.uk/wsi/2017/1098/contents)[^f00004] in relation to the registration of the successor provider.
+>
+> (3) This paragraph applies where the Welsh Ministers determine that there is substantial continuity between the former provider and the successor provider.
+>
+> (4) In making the determination referred to in paragraph (3), the Welsh Ministers must have regard to all the circumstances, including—
+>
+> - (a) continuity of foster placements;
+> - (b) continuity of the responsible individual;
+> - (c) continuity of the directors, trustees or similar office holders;
+> - (d) continuity of operational arrangements and oversight;
+> - (e) continuity of staff.
+>
+> (5) The matters listed in paragraph (4) are not exhaustive and no one matter is determinative.
+>
+> (6) Where paragraph (2) applies, the foster parent is to be treated as approved by the successor provider from the later of—
+>
+> - (a) the date on which the registration of the successor provider takes effect, or
+> - (b) the date on which the former provider ceased to provide the fostering service.
+>
+> (7) Where paragraph (3) applies, the foster parent is to be treated as approved by the successor provider from the date on which the Welsh Ministers make the determination under paragraph (3).
+>
+> (8) A foster parent treated as approved under paragraph (6) or (7) is subject to any terms that applied to that foster parent's approval immediately before the former provider ceased to provide the fostering service.
+>
+> (9) The requirements of these Regulations relating to—
+>
+> - (a) consideration of the foster parent's case by a fostering panel, and
+> - (b) the making of a determination as to the foster parent’s approval,
+>
+> do not apply in relation to a foster parent who is treated as approved under paragraph (6) or (7).
+>
+> (10) As soon as reasonably practicable after a foster parent is treated as approved under paragraph (6) or (7), the successor provider must take all reasonable steps to satisfy itself that the information that it holds, which is relevant to the foster parent’s suitability, remains current and valid.
+>
+> (11) The successor provider must ensure that a review of the foster parent’s approval is carried out within 12 months of the date on which the foster parent is treated as approved under paragraph (6) or (7).
+>
+> (12) In this regulation—
+>
+> - “**not-for-profit fostering services provider**” (“**darparwr gwasanaethau maethu nid-er-elw**”) means a service provider that meets the requirement in section 6A(1)(1) of the 2016 Act;
+> - “**responsible individual**” (“**unigolyn cyfrifol**”) has the meaning given in section 21(1) of the 2016 Act.
+
+## 3. Revocation and saving
+
+(1) Regulation 8A of the Fostering Panels (Establishment and Functions) (Wales) Regulations 2018 is revoked.
+
+(2) The revocation of regulation 8A does not affect—
+
+- (a) the approval of a foster parent treated as approved under that regulation before 1 April 2030, nor
+- (b) any requirement arising under regulation 8A(9) or (10) in relation to such a foster parent.
+
+Delyth Jewell
+
+Deputy Minister for Social Care, Mental Health and Women's Health, under the authority of the Cabinet Minister for Health and Care, one of the Welsh Ministers
+
+9 November 2026
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Fostering Panels (Establishment and Functions) (Wales) Regulations 2018 (“**the 2018 Regulations**”).
+
+Regulation 2 inserts new regulation 8A into the 2018 Regulations.
+
+New regulation 8A is a temporary transitional provision intended to support the transfer of fostering services to not-for-profit providers following the changes made by Chapter 1 of the Health and Social Care (Wales) Act 2025. It provides for a foster parent to be treated as approved by a successor provider in certain circumstances. In broad terms, those circumstances arise where a fostering services provider has ceased to provide the fostering service and a not-for-profit fostering services provider that meets the requirement in section 6A(1) of the Regulation and Inspection of Social Care (Wales) Act 2016 (“**the 2016 Act**”) subsequently commences providing the fostering service. The provision is intended to ensure continuity of fostering services and placements, by avoiding the need for foster parents to undergo a fresh approval process where specified continuity conditions are met.
+
+Regulation 8A applies either where the Welsh Ministers have exercised the power in regulation 3B(3) of the Regulated Services (Registration) (Wales) Regulations 2017 in relation to the registration of the successor provider, or where the Welsh Ministers determine under paragraph (3) that there is substantial continuity between the former provider and the successor provider. In making such a determination, the Welsh Ministers must have regard to all the circumstances, including continuity of foster placements, continuity of the responsible individual, continuity of directors, trustees or equivalent office holders, continuity of operational arrangements and oversight, and continuity of staff. Where the regulation 3B(3) route applies, a foster parent is treated as approved either from the date on which the successor provider's registration takes effect, or the date on which the former provider ceased to provide the fostering service, whichever date is later. Where the substantial continuity route applies, a foster parent is treated as approved from the date on which the Welsh Ministers make their determination.
+
+Where regulation 8A of the 2018 Regulations applies, the requirements under the 2018 Regulations relating to consideration of the foster parent's case by a fostering panel and the making of a determination as to the foster parent's approval do not apply. As soon as reasonably practicable after a foster parent is treated as approved under regulation 8A, the successor provider must take all reasonable steps to satisfy itself that information relevant to the foster parent's suitability remains current and valid. The successor provider must also ensure that a review of the foster parent's approval is carried out within 12 months of the date on which the foster parent is treated as approved.
+
+Regulation 3 revokes regulation 8A of the 2018 Regulations on 1 April 2030. Regulation 3 also provides that the revocation does not affect the approval of a foster parent treated as approved under regulation 8A before 1 April 2030.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government, Cathays Park, Cardiff, CF10 3NQ and on the website at www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4/contents).
+
+[^f00002]: Footnote: [2025 asc 1](https://www.legislation.gov.uk/asc/2025/1/contents).
+
+[^f00003]: Footnote: [S.I. 2018/1333 (W. 260)](https://www.legislation.gov.uk/wsi/2018/1333).
+
+[^f00004]: Footnote: [S.I. 2017/1098 (W. 278)](https://www.legislation.gov.uk/wsi/2017/1098/contents). Regulation 3B was inserted by [regulation 5](https://www.legislation.gov.uk/wsi/2026/38/regulation/5) of the [Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026](https://www.legislation.gov.uk/wsi/2026/38/contents) ([W.S.I. 2026/38](https://www.legislation.gov.uk/wsi/2026/38)).

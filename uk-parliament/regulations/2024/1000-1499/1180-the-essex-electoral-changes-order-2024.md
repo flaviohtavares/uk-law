@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2024-11-13'
-text_date: '2025-10-15'
+text_date: '2026-10-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2024/1180
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/1180/pdfs/uksiem_20241180_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2024/1180/pdfs/uksi_20241180_en.pdf
 - http://www.legislation.gov.uk/uksi/2024/1180/data.pdf
-pending_changes: 5
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Essex (Electoral Changes) Order 2024
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2025-10-15. See https://www.legislation.gov.uk/changes/affected/uksi/2024/1180
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/uksi/2024/1180
 >
 > Extent: England, Wales.
 
@@ -98,9 +98,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that parish ward in the second column of the table in Schedule 2.
 
-## 5. Parish wards of the parishes of Chelmsford Garden, Ramsey & Parkeston, Rayleigh and Rochford[^c-4289beb7b22e1d3469b1e4a84098dba3]
-
-**Not yet in force.**
+## 5. Parish wards of the parishes of Chelmsford Garden, Ramsey & Parkeston, Rayleigh and Rochford[^c-6d65e8815c53b6d6ff49bf7d761d7708]
 
 (1) The existing parish wards of the parishes of Chelmsford Garden, Ramsey & Parkeston, Rayleigh and Rochford are abolished.
 
@@ -322,13 +320,13 @@ Article 4
 | Wickford North | 7 |
 | Wickford Park | 4 |
 
-## Schedule 3 — Names of parish wards and number of councillors for the parishes of Chelmsford Garden, Ramsey & Parkeston, Rayleigh and Rochford[^c-0a2d90f6364897855144bb097f6cae52]
-
-**Not yet in force.**
+## Schedule 3 — Names of parish wards and number of councillors for the parishes of Chelmsford Garden, Ramsey & Parkeston, Rayleigh and Rochford[^c-c3f9f37fa8a9ea23934c4d9a7470255f]
 
 Article 5
 
 ### Table 1
+
+[^c-c3f9f37fa8a9ea23934c4d9a7470255f]
 
 **Parish wards of the parish of Chelmsford Garden and number of councillors**
 
@@ -342,6 +340,8 @@ Article 5
 
 ### Table 2
 
+[^c-c3f9f37fa8a9ea23934c4d9a7470255f]
+
 **Parish wards of the parish of Ramsey & Parkeston and number of councillors**
 
 | (1) Name of parish ward | (2) Number of councillors |
@@ -351,6 +351,8 @@ Article 5
 | Ramsey | 5 |
 
 ### Table 3
+
+[^c-c3f9f37fa8a9ea23934c4d9a7470255f]
 
 **Parish wards of the parish of Rayleigh and number of councillors**
 
@@ -366,6 +368,8 @@ Article 5
 | Whitehouse | 1 |
 
 ### Table 4
+
+[^c-c3f9f37fa8a9ea23934c4d9a7470255f]
 
 **Parish wards of the parish of Rochford and number of councillors**
 
@@ -427,7 +431,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-0a1ba7379f3206c33df17d632bad13e0]: Commencement: Art. 4 in force at 15.10.2025 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/4)
 
-[^c-4289beb7b22e1d3469b1e4a84098dba3]: Commencement: Art. 5 in force at 15.10.2026 for specified purposes and on the ordinary day of election of councillors in England in 2027 otherwise, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/5)
+[^c-6d65e8815c53b6d6ff49bf7d761d7708]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2024/1180/article/5) in force at 15.10.2026 for specified purposes and on the ordinary day of election of councillors in England in 2027 otherwise, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/5)
 
 [^c-77b63d6e707c53ad70d238b811235b30]: Commencement: Art. 6 in force at 15.10.2027 for specified purposes and on the ordinary day of election of councillors in England in 2028 otherwise, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/6)
 
@@ -437,6 +441,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c-1bc8fd95ee4647a0dc02acaa437b32a1]: Commencement: Sch. 2 in force at 15.10.2025 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/4)
 
-[^c-0a2d90f6364897855144bb097f6cae52]: Commencement: Sch. 3 in force at 15.10.2026 ffor specified purposes and on the ordinary day of election of councillors in England in 2027 otherwise, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/5)
+[^c-c3f9f37fa8a9ea23934c4d9a7470255f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2024/1180/schedule/3) in force at 15.10.2026 for specified purposes and on the ordinary day of election of councillors in England in 2027 otherwise, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/5)
 
 [^c-7bc42d9313229351f1efadc38119482a]: Commencement: Sch. 4 in force at 15.10.2027 for specified purposes and on the ordinary day of election of councillors in England in 2028 otherwise, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/6)

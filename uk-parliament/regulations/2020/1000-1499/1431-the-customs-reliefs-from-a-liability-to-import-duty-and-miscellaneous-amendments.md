@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2020-12-15'
-text_date: '2026-07-01'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2020/1431
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2020/1431
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2020/1431
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -472,7 +472,7 @@ HMRC must, when notification of the grant is given, repay the person the amount 
 
 (3) Paragraph (2) does not apply where the rate of import duty which would apply by virtue of that paragraph is higher than the rate which would apply by virtue of any provision made under any of sections 9 to 15 of the Act.
 
-(4) In this regulation, “**authorised use rates document**” means the document entitled “Authorised Use: Eligible Goods and Rates,[^c-4072bfdfb10d15c625d0aa4972d06a06] “version[^c-fe7078ef383fa5ece884a1916edea4c6] 1.25”[^c-91f46a04d125cfa9f3493375f0f8cf74] , dated 26th May 2026.
+(4) In this regulation, “**authorised use rates document**” means the document entitled “Authorised Use: Eligible Goods and Rates,[^c-4072bfdfb10d15c625d0aa4972d06a06] “version 1.26”[^c-b72d81f9580200ec0edb09d5f668348b], dated 1st September 2026.
 
 ## PART 8 — Consequential amendments
 
@@ -841,9 +841,7 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
 [^c-4072bfdfb10d15c625d0aa4972d06a06]: Textual amendment: Words in reg. 20(4) substituted (18.7.2025) by [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2025 (S.I. 2025/751)](https://www.legislation.gov.uk/uksi/2025/751), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/751/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2025/751/regulation/4)
 
-[^c-fe7078ef383fa5ece884a1916edea4c6]: Textual amendment: Words in reg. 20(4) substituted (21.6.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 3) Regulations 2026 (S.I. 2026/541)](https://www.legislation.gov.uk/uksi/2026/541), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/541/regulation/2/2/c), [3](https://www.legislation.gov.uk/uksi/2026/541/regulation/3)
-
-[^c-91f46a04d125cfa9f3493375f0f8cf74]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2020/1431/regulation/20/4) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/703/regulation/18)
+[^c-b72d81f9580200ec0edb09d5f668348b]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2020/1431/regulation/20/4) substituted (1.10.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 6) Regulations 2026 (S.I. 2026/984)](https://www.legislation.gov.uk/uksi/2026/984), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/984/regulation/1/2/b), [6](https://www.legislation.gov.uk/uksi/2026/984/regulation/6)
 
 [^c-14e14d2221f2bd75de2211bae7e1ef24]: Commencement: Reg. 21 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1431/regulation/1)
 

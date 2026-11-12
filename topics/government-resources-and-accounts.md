@@ -6,11 +6,11 @@ Laws in force under the legislation.gov.uk subject heading **GOVERNMENT RESOURCE
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Government Resources and Accounts Act 2000](../uk-parliament/acts/public/2000/20-government-resources-and-accounts-act-2000.md) *(changes pending)* — 76 regulations on this topic made under it
+- [Government Resources and Accounts Act 2000](../uk-parliament/acts/public/2000/20-government-resources-and-accounts-act-2000.md) *(changes pending)* — 75 regulations on this topic made under it
 
 ## Regulations
 
-109 in force.
+108 in force.
 
 **2026**
 
@@ -154,7 +154,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2008](../uk-parliament/regulations/2008/0500-0999/817-the-government-resources-and-accounts-act-2000-audit-of-public-bodies-order-2008.md) *(as originally made)*
 - [The Whole of Government Accounts (Designation of Bodies) (No. 2) Order 2008](../uk-parliament/regulations/2008/1500-1999/1907-the-whole-of-government-accounts-designation-of-bodies-no-2-order-2008.md) *(as originally made)*
 - [The Whole of Government Accounts (Designation of Bodies) Order (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/191-the-whole-of-government-accounts-designation-of-bodies-order-northern-ireland-20.md)
-- [The Whole of Government Accounts (Designation of Bodies) Order 2008](../uk-parliament/regulations/2008/1000-1499/1440-the-whole-of-government-accounts-designation-of-bodies-order-2008.md) *(as originally made)*
 
 **2007**
 

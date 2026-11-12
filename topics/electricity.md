@@ -6,8 +6,8 @@ Laws in force under the legislation.gov.uk subject heading **ELECTRICITY**. Repe
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Electricity Act 1989](../uk-parliament/acts/public/1989/29-electricity-act-1989/README.md) *(changes pending)* — 275 regulations on this topic made under it
-- [Energy Act 2013](../uk-parliament/acts/public/2013/32-energy-act-2013/README.md) *(changes pending)* — 58 regulations on this topic made under it
+- [Electricity Act 1989](../uk-parliament/acts/public/1989/29-electricity-act-1989/README.md) *(changes pending)* — 276 regulations on this topic made under it
+- [Energy Act 2013](../uk-parliament/acts/public/2013/32-energy-act-2013/README.md) *(changes pending)* — 59 regulations on this topic made under it
 - [Utilities Act 2000](../uk-parliament/acts/public/2000/27-utilities-act-2000/README.md) *(changes pending)* — 34 regulations on this topic made under it
 - [Gas Act 1986](../uk-parliament/acts/public/1986/44-gas-act-1986/README.md) *(changes pending)* — 33 regulations on this topic made under it
 - [Energy Act 2004](../uk-parliament/acts/public/2004/20-energy-act-2004/README.md) *(changes pending)* — 24 regulations on this topic made under it
@@ -21,7 +21,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-554 in force.
+555 in force.
 
 **2026**
 
@@ -41,6 +41,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Renewables Obligation (Amendment) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/67-the-renewables-obligation-amendment-order-northern-ireland-2026.md)
 - [The Renewables Obligation (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/380-the-renewables-obligation-amendment-order-2026.md) *(as originally made)*
 - [The Renewables Obligation (Scotland) Amendment Order 2026](../scotland/regulations/2026/0000-0499/160-the-renewables-obligation-scotland-amendment-order-2026.md) *(as originally made)*
+- [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1171-the-renewables-obligation-and-electricity-capacity-amendment-british-industrial.md) *(as originally made)*
 - [The Warm Home Discount (England and Wales) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/389-the-warm-home-discount-england-and-wales-regulations-2026.md) *(as originally made)*
 - [The Warm Home Discount (Reconciliation) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/991-the-warm-home-discount-reconciliation-amendment-regulations-2026.md) *(as originally made)*
 - [The Warm Home Discount (Scotland) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/488-the-warm-home-discount-scotland-regulations-2026.md) *(as originally made)*

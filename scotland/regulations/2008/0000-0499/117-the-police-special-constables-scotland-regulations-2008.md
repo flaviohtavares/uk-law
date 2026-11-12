@@ -3,16 +3,16 @@ title: The Police (Special Constables) (Scotland) Regulations 2008
 id: ssi/2008/117
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-13'
-text_date: null
-extent: null
+text_date: '2008-03-13'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/117
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/117/pdfs/ssien_20080117_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/117/pdfs/ssi_20080117_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/117/made/data.pdf
-pending_changes: 4
+- http://www.legislation.gov.uk/ssi/2008/117/data.pdf
+pending_changes: 48
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Police (Special Constables) (Scotland) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (48).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/ssi/2008/117
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 117
 
@@ -46,13 +52,13 @@ In accordance with section 26(9) of the 1967 Act, they have submitted a draft of
 
 ## PART 1 — COMMENCEMENT AND INTERPRETATION
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-6b39409bf97dcf2182671847263b4b3f]
 
 (1) These Regulations may be cited as the Police (Special Constables) (Scotland) Regulations 2008.
 
 (2) These Regulations come into force on 12th May 2008 but regulation 26(2) and (6) shall have effect from 1st September 2006[^f00003].
 
-### 2. Interpretation
+### 2. Interpretation[^c-f8fea54e9957af0c94e985854f72b80e]
 
 (1) In these Regulations, unless the context otherwise requires–
 
@@ -71,19 +77,19 @@ In accordance with section 26(9) of the 1967 Act, they have submitted a draft of
 
 (3) Nothing in these Regulations shall be construed as authorising allowances payable to a special constable to be reduced retrospectively.
 
-### 3. References to transfers
+### 3. References to transfers[^c-ea922a6182264c661830e5c8aeb55951]
 
 Except where the context otherwise requires, a reference in these Regulations to a special constable transferring from one police force to another shall be construed as a reference to that special constable being voluntarily so transferred.
 
 ## PART 2 — GOVERNMENT
 
-### 4. Restrictions on the private life of special constables
+### 4. Restrictions on the private life of special constables[^c-f448026790aa4a7c200c4f635a982c86]
 
 (1) The restrictions on private life contained in Schedule 1 shall apply to all special constables.
 
 (2) No other restrictions except those designed to secure the proper exercise of the functions of a special constable shall be imposed by the chief constable on the private life of a special constable.
 
-### 5. Business interests
+### 5. Business interests[^c-fc31f5c241052b723795d740ad0234e5]
 
 (1) A special constable must not have a business interest without the consent of the chief constable.
 
@@ -103,7 +109,7 @@ Except where the context otherwise requires, a reference in these Regulations to
 - (a) a man and a woman who are living together as if they were husband and wife; or
 - (b) two persons of the same sex who are living together as if they were civil partners.
 
-### 6. Qualifications for appointment as a special constable
+### 6. Qualifications for appointment as a special constable[^c-0f8b4d7117f7e128ea67fc2b9925d1c8]
 
 (1) A candidate for appointment to the office of special constable–
 
@@ -124,7 +130,7 @@ Except where the context otherwise requires, a reference in these Regulations to
 - (a) “armed forces” means the naval, military or air forces of the Crown including any women’s service administered by the Defence Council; and
 - (b) “seaman” has the same meaning as in section 313 of the Merchant Shipping Act 1995[^f00007].
 
-### 7. Declaration to be made on appointment
+### 7. Declaration to be made on appointment[^c-5a266b161e886a905d849bd01a1f72d8]
 
 The terms of the declaration to be made under section 16 of the 1967 Act[^f00008] by a person appointed to the office of special constable shall be as follows–
 
@@ -132,13 +138,13 @@ The terms of the declaration to be made under section 16 of the 1967 Act[^f00008
 
 .
 
-### 8. Retirement
+### 8. Retirement[^c-9920a82befe88593e2402e9a9c917399]
 
 (1) A special constable who wishes to retire voluntarily must give such written notice of intention to retire to the chief constable as may be specified in a determination made by the Scottish Ministers or such shorter notice as may have been accepted by the chief constable.
 
 (2) Subject to regulation 30(2) and (3)(b), a special constable must retire at the age of 60 years.
 
-### 9. Contents of personal records
+### 9. Contents of personal records[^c-24ac6338ad44b0be22445d55b4126dde]
 
 (1) The chief constable must maintain a personal record for each special constable.
 
@@ -168,11 +174,11 @@ The terms of the declaration to be made under section 16 of the 1967 Act[^f00008
 - (a) if the chief constable was not requested to review the matter in accordance with regulation 23, the date on which the disposal was, or disposals were, imposed on the special constable concerned by the misconduct officer; or
 - (b) if the chief constable is requested to review the matter in accordance with regulation 23, the date on which the disposal was, or disposals were, imposed on the special constable concerned by the chief constable.
 
-### 10. Transfer of personal records
+### 10. Transfer of personal records[^c-7536e69b3f2eb32a08810a8cb4722b4f]
 
 Where a special constable transfers to another police force that special constable’s personal record must be transferred to the chief constable of that other police force.
 
-### 11. Personal record of special constable leaving force
+### 11. Personal record of special constable leaving force[^c-c714d613bb069bc0a4a0543f31a25930]
 
 (1) When a person ceases to be a special constable of a police force, otherwise than by transferring to another police force, that person must be given a certificate setting out the period of his or her service as a special constable in that police force and in any other police force.
 
@@ -184,7 +190,7 @@ Where a special constable transfers to another police force that special constab
 
 (3) Where a person ceases to be a special constable of that police force, otherwise than by transferring to another police force, that person’s special constable personal record must be kept for such time as the chief constable thinks fit and must then be destroyed.
 
-### 12. Fingerprints
+### 12. Fingerprints[^c-3dd3e42d4894840ee6d5285c86f5cfbc]
 
 (1) All special constables, except those who are appointed following their transfer from another police force, must on appointment and in accordance with the directions of the chief constable have their fingerprints taken.
 
@@ -194,7 +200,7 @@ Where a special constable transfers to another police force that special constab
 
 (4) The fingerprints of a special constable taken in accordance with this regulation and all copies and records must be destroyed upon that person ceasing to be a special constable of a police force, except that, where that person becomes a special constable of another police force, that person’s fingerprints and all copies and records must be transferred to the chief constable of that other police force.
 
-### 13. Samples
+### 13. Samples[^c-39d364116aea510f321068af2d9d3598]
 
 (1) All special constables, except those who are appointed following their transfer from another police force, must on appointment and in accordance with the directions of the chief constable have a sample taken.
 
@@ -212,11 +218,11 @@ Where a special constable transfers to another police force that special constab
 
 ## PART 3 — DUTY
 
-### 14. Duty to carry out lawful orders
+### 14. Duty to carry out lawful orders[^c-c5f8828aa057d1639bdda176442905c5]
 
 Every special constable must carry out all lawful orders and must at all times punctually and promptly perform all appointed duties and attend to all matters within the scope of that person’s office as a special constable.
 
-### 15. Duty
+### 15. Duty[^c-ba58b5055179a455f9dc54713519419e]
 
 (1) Subject to section 26(5) of the 1967 Act[^f00015], the Scottish Ministers shall determine–
 
@@ -233,11 +239,11 @@ Every special constable must carry out all lawful orders and must at all times p
 
 ## PART 4 — MISCONDUCT
 
-### 16. Misconduct
+### 16. Misconduct[^c-2365facad69771be37e9266bd8eebafa]
 
 For the purpose of these Regulations, an act or omission of a special constable shall amount to misconduct on the part of that special constable if it falls within any of the types of conduct described in Schedule 2.
 
-### 17. Preliminary Procedures
+### 17. Preliminary Procedures[^c-12b4b61dd27d8738d2b8cb6b3ffcf1cf]
 
 (1) The deputy chief constable must prepare and maintain procedures for the consideration and handling of any report, complaint or allegation from which it may reasonably be inferred that an act, omission or an alleged act or omission of a special constable amounts, or may amount to misconduct.
 
@@ -250,7 +256,7 @@ For the purpose of these Regulations, an act or omission of a special constable 
 
 (4) Where it is decided that an inquiry into the report, complaint or allegation should take place, the deputy chief constable or, if paragraph (2)(b) is applicable, the nominated officer must select an inquiry officer to carry out an inquiry into the matter.
 
-### 18. The nominated officer
+### 18. The nominated officer[^c-cd7be370bca659a3c8644ad88df13eb6]
 
 (1) The nominated officer shall be selected by the deputy chief constable.
 
@@ -266,7 +272,7 @@ For the purpose of these Regulations, an act or omission of a special constable 
 - (c) any constable who the deputy chief constable considers is or appears to be a material witness to the complaint, report or allegation which has been received; and
 - (d) any other constable who the deputy chief constable considers is or appears to be an interested party.
 
-### 19. The inquiry officer
+### 19. The inquiry officer[^c-d6facc36f7c74dd36616b0d051b08be8]
 
 (1) The inquiry officer shall be selected by the deputy chief constable or, if regulation 17(2)(b) is applicable, the nominated officer.
 
@@ -283,7 +289,7 @@ For the purpose of these Regulations, an act or omission of a special constable 
 - (d) any constable who the deputy chief constable or, if regulation 17(2)(b) is applicable, the nominated officer considers is or appears to be a material witness to the complaint, report or allegation which has been received; and
 - (e) any other constable who the deputy chief constable or, if regulation 17(2)(b) is applicable, the nominated officer considers is or appears to be an interested party.
 
-### 20. Inquiry procedure
+### 20. Inquiry procedure[^c-797165ce1134fb0d2820359a60eac936]
 
 (1) Subject to regulation 25, and unless it would be prejudicial to the carrying out of an inquiry, the inquiry officer must as soon as reasonably practicable after his or her selection give oral or written notice to the special constable concerned–
 
@@ -296,7 +302,7 @@ For the purpose of these Regulations, an act or omission of a special constable 
 
 (3) After completing the inquiry into the report, complaint or allegation, the inquiry officer must submit a written report to the misconduct officer in relation to the matter.
 
-### 21. The misconduct officer
+### 21. The misconduct officer[^c-05e7a9ba3d40cedf2fcfc4d12de6f77b]
 
 (1) The misconduct officer shall be selected by the deputy chief constable or, if regulation 17(2)(b) is applicable, the nominated officer.
 
@@ -313,7 +319,7 @@ For the purpose of these Regulations, an act or omission of a special constable 
 - (d) any constable who the deputy chief constable or, if regulation 17(2)(b) is applicable, the nominated officer considers is or appears to be a material witness to the complaint, report or allegation which has been received; and
 - (e) any other constable who the deputy chief constable or, if regulation 17(2)(b) is applicable, the nominated officer considers is or appears to be an interested party.
 
-### 22. Procedure on receipt of inquiry officer’s report
+### 22. Procedure on receipt of inquiry officer’s report[^c-75bca944756b9a86ce75dd9891b2a5e5]
 
 (1) After considering the report submitted by the inquiry officer, the misconduct officer may–
 
@@ -354,7 +360,7 @@ within 7 days of such a decision being made.
 
 the misconduct officer may make a finding of misconduct and impose a disposal under paragraph (2) without having heard from the special constable, if it appears to the misconduct officer just and proper to do so.
 
-### 23. Review by chief constable
+### 23. Review by chief constable[^c-d42b1eb4ee90d7be763bc6860bcd3c99]
 
 (1) Where a finding of misconduct has been recorded and a disposal has been imposed on a special constable under regulation 22(2)(a), (b) or (c), the special constable concerned shall be entitled to request the chief constable to review that finding or that disposal or both the finding and the disposal.
 
@@ -381,7 +387,7 @@ and separate disposals may be made in relation to separate findings.
 
 (8) Where a special constable decides to request a review of the finding made or the disposal imposed by the misconduct officer, the decision of the chief constable following such a review shall be final.
 
-### 24. Suspension
+### 24. Suspension[^c-b48bee7ecd735ddc4860eb09c4adb813]
 
 (1) Where a report, allegation or complaint is received from which it may reasonably be inferred that an act, omission or an alleged act or omission of a special constable concerned–
 
@@ -401,7 +407,7 @@ the special constable concerned may be suspended from duty by the deputy chief c
 
 (4) Subject to the provisions of this regulation, these Regulations shall apply to a special constable who has been suspended from duty.
 
-### 25. Alleged criminal offence
+### 25. Alleged criminal offence[^c-94ac309c252758a66924ffd35cef0ddb]
 
 (1) Notwithstanding anything in regulations 16 to 24, where a report, allegation or complaint is received from which it may reasonably be inferred that a special constable may have committed a criminal offence, the deputy chief constable must, as soon as possible, refer the matter to the procurator fiscal.
 
@@ -418,7 +424,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 ## PART 5 — ALLOWANCES AND EXPENSES
 
-### 26. Allowances
+### 26. Allowances[^c-ba42fad4be1bb21c0f081075c3efa706]
 
 (1) The Scottish Ministers shall determine the entitlement of special constables to any allowance.
 
@@ -439,7 +445,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 (6) In this regulation, “periodic payment allowance” means an allowance as specified in section 3(4) of the 1967 Act[^f00016].
 
-### 27. Expenses
+### 27. Expenses[^c-1c5e4ee41d9185cfdb789b33858b3cfc]
 
 (1) The Scottish Ministers shall determine the entitlement of a special constable to reimbursement of any expenses incurred by that special constable in, or in connection with, the execution of that special constable’s duty.
 
@@ -447,7 +453,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 ## PART 6 — UNIFORM AND EQUIPMENT
 
-### 28. Issue of uniform and equipment
+### 28. Issue of uniform and equipment[^c-d7d988f47ee81574802b15a3960b59ea]
 
 (1) Special constables shall be entitled to receive the uniform and equipment that they need as determined by the police authority free of charge and in a clean and serviceable condition from the police authority.
 
@@ -457,7 +463,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 ## PART 7 — DETERMINATIONS AND AMENDMENT OF OTHER REGULATIONS
 
-### 29. Determinations
+### 29. Determinations[^c-464260403cdbe2356dc2df1fc7956337]
 
 (1) Before making a determination under any provision of these Regulations, the Scottish Ministers shall supply the Police Advisory Board for Scotland with a draft of the determination, and take into consideration any representations made by that Board.
 
@@ -465,7 +471,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 (3) A determination under any provision of these Regulations may make different provision for different cases and circumstances.
 
-### 30. Revocations and savings provisions
+### 30. Revocations and savings provisions[^c-64b727d177860aecd87a1fc44bb624d6]
 
 (1) Subject to paragraphs (2) to (4), the Regulations specified in Schedule 3 are, to the extent that they have not previously been revoked, hereby revoked.
 
@@ -496,17 +502,17 @@ Edinburgh
 
 Regulation 4
 
-**1.** A special constable must at all times abstain from any activity which is likely to interfere with the impartial discharge of that special constable’s duties or which is likely to give rise to the impression amongst members of the public that it may so interfere.
+**1.**[^c-34cb6d1270b9466a315b51ff613a1305] A special constable must at all times abstain from any activity which is likely to interfere with the impartial discharge of that special constable’s duties or which is likely to give rise to the impression amongst members of the public that it may so interfere.
 
-**2.** A special constable must not take any active part in politics.
+**2.**[^c-115c945396238e9a53cd1cc73959dae9] A special constable must not take any active part in politics.
 
-**3.** A special constable must not wilfully refuse or neglect to discharge any lawful debt.
+**3.**[^c-205604b4c6a3ccd65b493f4c78d47d18] A special constable must not wilfully refuse or neglect to discharge any lawful debt.
 
 ## SCHEDULE 2 — CONDUCT CONSTITUTING MISCONDUCT
 
 Regulation 16
 
-**1.** Conduct including–
+**1.**[^c-ff5b16af5058f885a31b944d4a21e9f9] Conduct including–
 
 - (a) insubordination or incivility;
 - (b) corrupt practice;
@@ -517,25 +523,25 @@ Regulation 16
 - (g) disorderly conduct; or
 - (h) acting towards, or treating, any person in an oppressive or improper manner.
 
-**2.** Failure to comply, without good and sufficient cause, with a lawful order.
+**2.**[^c-a9ac3b5bc8c92457ab794df72b06e559] Failure to comply, without good and sufficient cause, with a lawful order.
 
-**3.** Failure to report any matter which it is the special constable’s duty to report or to account for any act or omission occurring in the ordinary course of duty which he or she has a duty to account for.
+**3.**[^c-76c993cdcec7507c9fdc9e3f2f517902] Failure to report any matter which it is the special constable’s duty to report or to account for any act or omission occurring in the ordinary course of duty which he or she has a duty to account for.
 
-**4.** Neglect of duty.
+**4.**[^c-f1b6087b204636ed4372bb3e82128395] Neglect of duty.
 
-**5.** Wilful or careless falsehood.
+**5.**[^c-ecf62d9af98ce4d1ce31b60ecbe1f209] Wilful or careless falsehood.
 
-**6.** Malingering.
+**6.**[^c-52c9b048a89ab8ab2d6d9a7098101a4e] Malingering.
 
-**7.** Being absent from duty, or late for duty, without leave.
+**7.**[^c-8d1a326a21e58680b5ab24b7921ca060] Being absent from duty, or late for duty, without leave.
 
-**8.** Contravention of regulation 5 or Schedule 1 of these Regulations.
+**8.**[^c-e5ebb46e8e58f7f5303da0a4a162f2cc] Contravention of regulation 5 or Schedule 1 of these Regulations.
 
-**9.** Having been found guilty by a criminal court of a criminal offence in any part of the United Kingdom or in any of the Channel Islands or the Isle of Man.
+**9.**[^c-e491a98d5e44e24cd18d288af695bee0] Having been found guilty by a criminal court of a criminal offence in any part of the United Kingdom or in any of the Channel Islands or the Isle of Man.
 
-**10.** Any other conduct which is considered to bring discredit on the police force or service.
+**10.**[^c-2027332e78cb3854b5acb694a425dab7] Any other conduct which is considered to bring discredit on the police force or service.
 
-## SCHEDULE 3 — REVOCATIONS
+## SCHEDULE 3 — REVOCATIONS[^c-3545ed3e71f517b02cd0d1e1e5077e40]
 
 Regulation 30
 
@@ -611,7 +617,11 @@ Regulation 30 revokes the 1966 Regulations but saves regulations 2(1) and 10(a) 
 
 [^f00002]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30); section 82(4) was amended by the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedule 4, paragraph 185.
 
+[^c-6b39409bf97dcf2182671847263b4b3f]: Commencement: Reg. 1 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
 [^f00003]: Footnote: Section 26(3) of the Police (Scotland) Act [1967 (c. 77)](https://www.legislation.gov.uk/ukpga/1967/77) provides that regulations made under section 26 of that Act may regulate allowances which are paid to special constables with retrospective effect.
+
+[^c-f8fea54e9957af0c94e985854f72b80e]: Commencement: Reg. 2 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
 
 [^f00004]: Footnote: S.I. [1966/97](https://www.legislation.gov.uk/uksi/1966/97), amended by S.I. [1994/3309](https://www.legislation.gov.uk/uksi/1994/3309) and [S.S.I. 2003/21](https://www.legislation.gov.uk/ssi/2003/21).
 
@@ -619,9 +629,29 @@ Regulation 30 revokes the 1966 Regulations but saves regulations 2(1) and 10(a) 
 
 [^f00006]: Footnote: Section 3 was amended by the [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), section 48.
 
+[^c-ea922a6182264c661830e5c8aeb55951]: Commencement: Reg. 3 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-f448026790aa4a7c200c4f635a982c86]: Commencement: Reg. 4 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-fc31f5c241052b723795d740ad0234e5]: Commencement: Reg. 5 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-0f8b4d7117f7e128ea67fc2b9925d1c8]: Commencement: Reg. 6 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
 [^f00007]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
+[^c-5a266b161e886a905d849bd01a1f72d8]: Commencement: Reg. 7 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
 [^f00008]: Footnote: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77).
+
+[^c-9920a82befe88593e2402e9a9c917399]: Commencement: Reg. 8 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-24ac6338ad44b0be22445d55b4126dde]: Commencement: Reg. 9 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-7536e69b3f2eb32a08810a8cb4722b4f]: Commencement: Reg. 10 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-c714d613bb069bc0a4a0543f31a25930]: Commencement: Reg. 11 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-3dd3e42d4894840ee6d5285c86f5cfbc]: Commencement: Reg. 12 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
 
 [^f00009]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46); section 19A was inserted by the Crime and Punishment Act [1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48) (“the 1997 Act”), section 48(2); section 19AA was inserted by the [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10) (“the 2006 Act”), section 77(2); section 18 was amended by the 1997 Act, section 47 and Schedule 3, the [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) (“the 2003 Act”), section 55, the 2006 Act, section 83(1) and schedule 6, paragraph 4; section 19 was amended by the 1997 Act, sections 47 and 48, the 2003 Act, section 55 and the 2006 Act, section 77(3); section 19A was amended by the 2006 Act, section 77(4) and schedule 6, paragraph 4.
 
@@ -629,12 +659,76 @@ Regulation 30 revokes the 1966 Regulations but saves regulations 2(1) and 10(a) 
 
 [^f00011]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42); section 87(5A) was inserted by the 2006 Act, section 77(7).
 
+[^c-39d364116aea510f321068af2d9d3598]: Commencement: Reg. 13 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
 [^f00012]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
 [^f00013]: Footnote: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7).
 
 [^f00014]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
+[^c-c5f8828aa057d1639bdda176442905c5]: Commencement: Reg. 14 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-ba58b5055179a455f9dc54713519419e]: Commencement: Reg. 15 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
 [^f00015]: Footnote: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77).
 
+[^c-2365facad69771be37e9266bd8eebafa]: Commencement: Reg. 16 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-12b4b61dd27d8738d2b8cb6b3ffcf1cf]: Commencement: Reg. 17 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-cd7be370bca659a3c8644ad88df13eb6]: Commencement: Reg. 18 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-d6facc36f7c74dd36616b0d051b08be8]: Commencement: Reg. 19 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-797165ce1134fb0d2820359a60eac936]: Commencement: Reg. 20 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-05e7a9ba3d40cedf2fcfc4d12de6f77b]: Commencement: Reg. 21 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-75bca944756b9a86ce75dd9891b2a5e5]: Commencement: Reg. 22 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-d42b1eb4ee90d7be763bc6860bcd3c99]: Commencement: Reg. 23 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-b48bee7ecd735ddc4860eb09c4adb813]: Commencement: Reg. 24 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-94ac309c252758a66924ffd35cef0ddb]: Commencement: Reg. 25 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-ba42fad4be1bb21c0f081075c3efa706]: Commencement: Reg. 26 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
 [^f00016]: Footnote: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77); section 3(4) was inserted by the [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), section 48.
+
+[^c-1c5e4ee41d9185cfdb789b33858b3cfc]: Commencement: Reg. 27 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-d7d988f47ee81574802b15a3960b59ea]: Commencement: Reg. 28 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-464260403cdbe2356dc2df1fc7956337]: Commencement: Reg. 29 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-64b727d177860aecd87a1fc44bb624d6]: Commencement: Reg. 30 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-34cb6d1270b9466a315b51ff613a1305]: Commencement: Sch. 1 para. 1 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-115c945396238e9a53cd1cc73959dae9]: Commencement: Sch. 1 para. 2 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-205604b4c6a3ccd65b493f4c78d47d18]: Commencement: Sch. 1 para. 3 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-ff5b16af5058f885a31b944d4a21e9f9]: Commencement: Sch. 2 para. 1 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-a9ac3b5bc8c92457ab794df72b06e559]: Commencement: Sch. 2 para. 2 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-76c993cdcec7507c9fdc9e3f2f517902]: Commencement: Sch. 2 para. 3 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-f1b6087b204636ed4372bb3e82128395]: Commencement: Sch. 2 para. 4 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-ecf62d9af98ce4d1ce31b60ecbe1f209]: Commencement: Sch. 2 para. 5 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-52c9b048a89ab8ab2d6d9a7098101a4e]: Commencement: Sch. 2 para. 6 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-8d1a326a21e58680b5ab24b7921ca060]: Commencement: Sch. 2 para. 7 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-e5ebb46e8e58f7f5303da0a4a162f2cc]: Commencement: Sch. 2 para. 8 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-e491a98d5e44e24cd18d288af695bee0]: Commencement: Sch. 2 para. 9 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-2027332e78cb3854b5acb694a425dab7]: Commencement: Sch. 2 para. 10 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)
+
+[^c-3545ed3e71f517b02cd0d1e1e5077e40]: Commencement: Sch. 3 in force at 12.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/117/regulation/1/2)

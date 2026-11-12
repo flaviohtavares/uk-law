@@ -191,7 +191,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The General Medical Council (Registration Appeals Panels Procedure) Rules Order of Council 2010](../uk-parliament/regulations/2010/0000-0499/476-the-general-medical-council-registration-appeals-panels-procedure-rules-order-of.md)
 - [The General Pharmaceutical Council (Appeals Committee Rules) Order of Council 2010](../uk-parliament/regulations/2010/1500-1999/1614-the-general-pharmaceutical-council-appeals-committee-rules-order-of-council-2010.md)
 - [The General Pharmaceutical Council (Constitution) Order 2010](../uk-parliament/regulations/2010/0000-0499/300-the-general-pharmaceutical-council-constitution-order-2010.md)
-- [The General Pharmaceutical Council (Fitness to Practise and Disqualification etc. Rules) Order of Council 2010](../uk-parliament/regulations/2010/1500-1999/1615-the-general-pharmaceutical-council-fitness-to-practise-and-disqualification-etc.md) *(changes pending)*
+- [The General Pharmaceutical Council (Fitness to Practise and Disqualification etc. Rules) Order of Council 2010](../uk-parliament/regulations/2010/1500-1999/1615-the-general-pharmaceutical-council-fitness-to-practise-and-disqualification-etc.md)
 - [The General Pharmaceutical Council (Registration Rules) Order of Council 2010](../uk-parliament/regulations/2010/1500-1999/1617-the-general-pharmaceutical-council-registration-rules-order-of-council-2010.md)
 - [The General Pharmaceutical Council (Statutory Committees and their Advisers Rules) Order of Council 2010](../uk-parliament/regulations/2010/1500-1999/1616-the-general-pharmaceutical-council-statutory-committees-and-their-advisers-rules.md)
 - [The General Pharmaceutical Council (Transfer of Property, Rights and Liabilities, Fees and Grants) Order of Council 2010](../uk-parliament/regulations/2010/1500-1999/1618-the-general-pharmaceutical-council-transfer-of-property-rights-and-liabilities-f.md) *(as originally made)*
@@ -244,9 +244,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2927-the-council-for-healthcare-regulatory-excellence-appointment-procedure-etc-regul.md) *(changes pending)*
+- [The Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2927-the-council-for-healthcare-regulatory-excellence-appointment-procedure-etc-regul.md)
 - [The European Qualifications (Health and Social Care Professions) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/462-the-european-qualifications-health-and-social-care-professions-amendment-regulat.md) *(as originally made)*
-- [The General Chiropractic Council (Constitution) Order 2008](../uk-parliament/regulations/2008/3000-3499/3047-the-general-chiropractic-council-constitution-order-2008.md) *(as originally made)*
+- [The General Chiropractic Council (Constitution) Order 2008](../uk-parliament/regulations/2008/3000-3499/3047-the-general-chiropractic-council-constitution-order-2008.md)
 - [The General Dental Council (Constitution) (Amendment) Order of Council 2008](../uk-parliament/regulations/2008/3000-3499/3238-the-general-dental-council-constitution-amendment-order-of-council-2008.md) *(as originally made)*
 - [The General Dental Council (Continuing Professional Development) (Dentists) Rules Order of Council 2008](../uk-parliament/regulations/2008/1500-1999/1822-the-general-dental-council-continuing-professional-development-dentists-rules-or.md) *(as originally made)*
 - [The General Dental Council (Continuing Professional Development) (Professions Complementary to Dentistry) Rules Order of Council 2008](../uk-parliament/regulations/2008/1500-1999/1823-the-general-dental-council-continuing-professional-development-professions-compl.md) *(as originally made)*
@@ -365,7 +365,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Medical Act 1983 (Amendment) Order 2002 (Saving Provision) Order of Council 2004](../uk-parliament/regulations/2004/1500-1999/1731-the-medical-act-1983-amendment-order-2002-saving-provision-order-of-council-2004.md) *(as originally made)*
 - [The Medical Act 1983 (Amendment) Order 2002 (Transitional Provision) Order of Council 2004](../uk-parliament/regulations/2004/2500-2999/2610-the-medical-act-1983-amendment-order-2002-transitional-provision-order-of-counci.md) *(as originally made)*
 - [The Nursing and Midwifery Council (Education, Registration and Registration Appeals) Rules Order of Council 2004](../uk-parliament/regulations/2004/1500-1999/1767-the-nursing-and-midwifery-council-education-registration-and-registration-appeal.md)
-- [The Nursing and Midwifery Council (Fees) Rules Order of Council 2004](../uk-parliament/regulations/2004/1500-1999/1654-the-nursing-and-midwifery-council-fees-rules-order-of-council-2004.md) *(changes pending)*
+- [The Nursing and Midwifery Council (Fees) Rules Order of Council 2004](../uk-parliament/regulations/2004/1500-1999/1654-the-nursing-and-midwifery-council-fees-rules-order-of-council-2004.md)
 - [The Nursing and Midwifery Council (Fitness to Practise) Rules Order of Council 2004](../uk-parliament/regulations/2004/1500-1999/1761-the-nursing-and-midwifery-council-fitness-to-practise-rules-order-of-council-200.md) *(as originally made)*
 - [The Nursing and Midwifery Council (Midwives) Rules Order of Council 2004](../uk-parliament/regulations/2004/1500-1999/1764-the-nursing-and-midwifery-council-midwives-rules-order-of-council-2004.md) *(as originally made)*
 - [The Nursing and Midwifery Order 2001 (Transitional Provisions) Order of Council 2004](../uk-parliament/regulations/2004/1500-1999/1762-the-nursing-and-midwifery-order-2001-transitional-provisions-order-of-council-20.md) *(as originally made)*

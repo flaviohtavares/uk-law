@@ -571,7 +571,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Crossrail (Fees for Requests for Planning Approval) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2175-the-crossrail-fees-for-requests-for-planning-approval-regulations-2008.md) *(as originally made)*
-- [The Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2908-the-crossrail-planning-appeals-written-representations-procedure-england-regulat.md) *(changes pending)*
+- [The Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2908-the-crossrail-planning-appeals-written-representations-procedure-england-regulat.md)
 - [The Crossrail (Qualifying Authorities) Order 2008](../uk-parliament/regulations/2008/2000-2499/2034-the-crossrail-qualifying-authorities-order-2008.md) *(as originally made)*
 - [The Planning (Listed Buildings and Conservation Areas) (Amendment) (England) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/551-the-planning-listed-buildings-and-conservation-areas-amendment-england-regulatio.md) *(as originally made)*
 - [The Planning (National Security Directions and Appointed Representatives) (Scotland) Rules 2008](../uk-parliament/regulations/2008/1500-1999/1590-the-planning-national-security-directions-and-appointed-representatives-scotland.md) *(as originally made)*
@@ -586,7 +586,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Strategic Development Planning Authority Designation (No. 2) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/196-the-strategic-development-planning-authority-designation-no-2-scotland-order-200.md) *(as originally made)*
 - [The Strategic Development Planning Authority Designation (No. 3) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/197-the-strategic-development-planning-authority-designation-no-3-scotland-order-200.md) *(as originally made)*
 - [The Strategic Development Planning Authority Designation (No. 4) (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/198-the-strategic-development-planning-authority-designation-no-4-scotland-order-200.md) *(as originally made)*
-- [The Town and Country Planning (Appeals) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/434-the-town-and-country-planning-appeals-scotland-regulations-2008.md) *(as originally made)*
+- [The Town and Country Planning (Appeals) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/434-the-town-and-country-planning-appeals-scotland-regulations-2008.md) *(changes pending)*
 - [The Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Amendment) (England) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/595-the-town-and-country-planning-determination-of-appeals-by-appointed-persons-pres.md) *(as originally made)*
 - [The Town and Country Planning (Development Planning) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/426-the-town-and-country-planning-development-planning-scotland-regulations-2008.md)
 - [The Town and Country Planning (Environmental Impact Assessment) (Mineral Permissions and Amendment) (England) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1556-the-town-and-country-planning-environmental-impact-assessment-mineral-permission.md)

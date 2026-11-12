@@ -3,15 +3,15 @@ title: The Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations (
 id: nisr/2008/354
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-08-27'
-text_date: '2026-04-01'
+text_date: '2026-10-31'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2008/354
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2008/354/pdfs/nisr_20080354_en.pdf
 - http://www.legislation.gov.uk/nisr/2008/354/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations (Northern Ireland) 2008
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/nisr/2008/354
+> Text as at 2026-10-31.
 >
 > Extent: Northern Ireland.
 
@@ -95,6 +95,21 @@ A payment made in error and which in consequence is liable to be repaid in accor
 
 (4) In Table 2 of the Schedule the reference to the age of the person with mesothelioma is a reference to the age of the person at death.
 
+## 5A. Payment to personal representatives[^c-7bdbcc3890987e547b03f141d50f7434]
+
+(1) Where—
+
+- (a) a claim is made, and
+- (b) the person making the claim dies before payment is made, payment must be made to the person’s personal representatives, subject to the condition in paragraph (2) having been met.
+
+(2) The condition is that any document that is by law sufficient evidence of the grant of—
+
+- (a) probate of the will of the person,
+- (b) letters of administration of the estate of the person, or
+- (c) confirmation as executor of the person,
+
+has been provided to the Department.
+
 Sealed with the Official Seal of the Department for Social Development on 27th August 2008
 
 (L.S.)
@@ -160,7 +175,7 @@ Amount of lump sum payment to person with mesothelioma
 </tbody>
 </table>
 
-Table 2[^c-8c4771cfd34920a7ed3f10b67e233c88]
+Table 2[^c-0e0f1b57c1f984b02bdf8ec38885769a]
 
 Amount of lump sum payment to dependant
 
@@ -169,37 +184,48 @@ Amount of lump sum payment to dependant
 <tr><th colspan="2">Age of person with mesothelioma at death</th><th><em>Payment</em><br><em>£</em></th></tr>
 </thead>
 <tbody>
-<tr><td></td><td>37 or under</td><td>62,743</td></tr>
-<tr><td></td><td>38</td><td>61,396</td></tr>
-<tr><td></td><td>39</td><td>60,049</td></tr>
-<tr><td></td><td>40</td><td>58,703</td></tr>
-<tr><td></td><td>41</td><td>57,358</td></tr>
-<tr><td></td><td>42</td><td>56,013</td></tr>
-<tr><td></td><td>43</td><td>54,723</td></tr>
-<tr><td></td><td>44</td><td>53,424</td></tr>
-<tr><td></td><td>45</td><td>52,145</td></tr>
-<tr><td></td><td>46</td><td>50,858</td></tr>
-<tr><td></td><td>47</td><td>49,573</td></tr>
-<tr><td></td><td>48</td><td>47,994</td></tr>
-<tr><td></td><td>49</td><td>46,409</td></tr>
-<tr><td></td><td>50</td><td>44,831</td></tr>
-<tr><td></td><td>51</td><td>43,257</td></tr>
-<tr><td></td><td>52</td><td>41,676</td></tr>
-<tr><td></td><td>53</td><td>40,381</td></tr>
-<tr><td></td><td>54</td><td>39,099</td></tr>
-<tr><td></td><td>55</td><td>37,811</td></tr>
-<tr><td></td><td>56</td><td>36,515</td></tr>
-<tr><td></td><td>57</td><td>35,231</td></tr>
-<tr><td></td><td>58</td><td>31,668</td></tr>
-<tr><td></td><td>59</td><td>28,091</td></tr>
-<tr><td></td><td>60</td><td>24,526</td></tr>
-<tr><td></td><td>61</td><td>20,954</td></tr>
-<tr><td></td><td>62</td><td>17,379</td></tr>
-<tr><td></td><td>63</td><td>16,359</td></tr>
-<tr><td></td><td>64</td><td>15,347</td></tr>
-<tr><td></td><td>65</td><td>14,308</td></tr>
-<tr><td></td><td>66</td><td>13,286</td></tr>
-<tr><td></td><td>67 or over</td><td>10,387</td></tr>
+<tr><td></td><td>37 or under</td><td>120,566</td></tr>
+<tr><td></td><td>38</td><td>118,221</td></tr>
+<tr><td></td><td>39</td><td>115,882</td></tr>
+<tr><td></td><td>40</td><td>113,543</td></tr>
+<tr><td></td><td>41</td><td>111,199</td></tr>
+<tr><td></td><td>42</td><td>108,858</td></tr>
+<tr><td></td><td>43</td><td>107,691</td></tr>
+<tr><td></td><td>44</td><td>106,513</td></tr>
+<tr><td></td><td>45</td><td>105,347</td></tr>
+<tr><td></td><td>46</td><td>104,176</td></tr>
+<tr><td></td><td>47</td><td>103,005</td></tr>
+<tr><td></td><td>48</td><td>99,733</td></tr>
+<tr><td></td><td>49</td><td>96,457</td></tr>
+<tr><td></td><td>50</td><td>93,173</td></tr>
+<tr><td></td><td>51</td><td>89,901</td></tr>
+<tr><td></td><td>52</td><td>86,614</td></tr>
+<tr><td></td><td>53</td><td>84,275</td></tr>
+<tr><td></td><td>54</td><td>81,939</td></tr>
+<tr><td></td><td>55</td><td>79,602</td></tr>
+<tr><td></td><td>56</td><td>77,249</td></tr>
+<tr><td></td><td>57</td><td>74,908</td></tr>
+<tr><td></td><td>58</td><td>68,825</td></tr>
+<tr><td></td><td>59</td><td>62,735</td></tr>
+<tr><td></td><td>60</td><td>56,656</td></tr>
+<tr><td></td><td>61</td><td>50,567</td></tr>
+<tr><td></td><td>62</td><td>44,481</td></tr>
+<tr><td></td><td>63</td><td>40,735</td></tr>
+<tr><td></td><td>64</td><td>36,985</td></tr>
+<tr><td></td><td>65</td><td>33,245</td></tr>
+<tr><td></td><td>66</td><td>29,498</td></tr>
+<tr><td></td><td>67</td><td>25,753</td></tr>
+<tr><td></td><td>68</td><td>24,989</td></tr>
+<tr><td></td><td>69</td><td>24,224</td></tr>
+<tr><td></td><td>70</td><td>23,471</td></tr>
+<tr><td></td><td>71</td><td>22,710</td></tr>
+<tr><td></td><td>72</td><td>21,953</td></tr>
+<tr><td></td><td>73</td><td>21,304</td></tr>
+<tr><td></td><td>74</td><td>20,644</td></tr>
+<tr><td></td><td>75</td><td>20,012</td></tr>
+<tr><td></td><td>76</td><td>19,377</td></tr>
+<tr><td></td><td>77 or over</td><td>18,733</td></tr>
+<tr><td></td><td></td><td></td></tr>
 </tbody>
 </table>
 
@@ -241,8 +267,10 @@ Sections 1(3) and 2(1)(b) and (c), (2)(b) and (c), (3)(e) and (4)(d) of the Act 
 
 [^c-fa6efa684af1fd20d029f43fe5a20896]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/354/regulation/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
 
+[^c-7bdbcc3890987e547b03f141d50f7434]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2008/354/regulation/5A) inserted (31.10.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment No. 2) Regulations (Northern Ireland) 2026 (S.R. 2026/169)](https://www.legislation.gov.uk/nisr/2026/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/169/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2026/169/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/169/regulation/1/2))
+
 [^c-2a3c74e0139a78d4cec8914064cc9314]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
 
 [^c-db4d92ce4e02771350972ede0fd99fa5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) Table 1 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/60)](https://www.legislation.gov.uk/nisr/2026/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2026/60/regulation/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2026/60/schedule/part/1) (with [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/2/a))
 
-[^c-8c4771cfd34920a7ed3f10b67e233c88]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) Table 2 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/60)](https://www.legislation.gov.uk/nisr/2026/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2026/60/regulation/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2026/60/schedule/part/2) (with [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/2/b))
+[^c-0e0f1b57c1f984b02bdf8ec38885769a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) Table 2 substituted (31.10.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment No. 2) Regulations (Northern Ireland) 2026 (S.R. 2026/169)](https://www.legislation.gov.uk/nisr/2026/169), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/169/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2026/169/regulation/2/3)

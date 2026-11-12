@@ -2,8 +2,8 @@
 title: The Prisons and Young Offenders Institutions (Scotland) Rules 2011, SCHEDULE 1
 act: The Prisons and Young Offenders Institutions (Scotland) Rules 2011
 section: schedule-1
-status: revised-with-pending-changes
-text_date: '2025-11-10'
+status: revised
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2011/331/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Prisons and Young Offenders Institutions (Scotland) Rules 2011, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-11-10. See https://www.legislation.gov.uk/changes/affected/ssi/2011/331
+> Text as at 2026-10-29.
 >
 > Extent: Scotland.
 
@@ -78,7 +78,7 @@ A prisoner is guilty of a breach of discipline if he or she—
 - (b) unauthorised property; or
 - (c) an article which he or she has been authorised to keep or possess but which he or she has not been specifically authorised to inhale or inhale the fumes thereof;
 
-**26.**[^c-fbefbdfb1bac35b94c04f95b043dca5f] uses a nicotine vapour product in an area of the prison where it is not permitted by virtue of rule 36 to use a nicotine vapour product;
+**26.**[^c-fbefbdfb1bac35b94c04f95b043dca5f] uses a vaping[^c-ed330181aaa815be9938ae5372e3367d] product in an area of the prison where it is not permitted by virtue of rule 36 to use a vaping product;
 
 **27.** administers a controlled drug to himself or herself or fails to prevent the administration of a controlled drug to himself or herself by another person but subject to rule 117;
 
@@ -103,6 +103,8 @@ A prisoner is guilty of a breach of discipline if he or she—
 ## Annotations
 
 [^c-fbefbdfb1bac35b94c04f95b043dca5f]: Textual amendment: Sch. 1 para. 26 substituted (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/6)
+
+[^c-ed330181aaa815be9938ae5372e3367d]: Textual amendment: Word in [sch. 1 para. 26](https://www.legislation.gov.uk/ssi/2011/331/schedule/1/paragraph/26) substituted (29.10.2026) by [The Tobacco and Vapes Act 2026 (Consequential, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/213)](https://www.legislation.gov.uk/ssi/2026/213), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/213/regulation/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2026/213/regulation/2/5)
 
 [^c-37f828a90a9fc97256ca8c3871a9322c]: Textual amendment: [Sch. 1 paras. 27A-27E](https://www.legislation.gov.uk/ssi/2011/331/schedule/1/paragraph/27A) inserted (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(8)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/8)
 

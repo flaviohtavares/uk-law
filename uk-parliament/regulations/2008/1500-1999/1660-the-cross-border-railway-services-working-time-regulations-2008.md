@@ -3,16 +3,16 @@ title: The Cross-border Railway Services (Working Time) Regulations 2008
 id: uksi/2008/1660
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-25'
-text_date: '2020-12-31'
+text_date: '2026-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/1660
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1660/pdfs/uksiem_20081660_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1660/pdfs/uksi_20081660_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1660/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Cross-border Railway Services (Working Time) Regulations 2008
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1660
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland.
 
@@ -272,8 +272,8 @@ Proceedings for an offence must not, in England and Wales, be instituted except 
 
 (2) An employment tribunal may not consider a complaint under this regulation unless it is presented—
 
-- (a) before the end of the period of three months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period extending over more than one day, the date on which it should have been permitted to begin);
-- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
+- (a) before the end of the period of six[^c-ffda77c41eb73540c5ee9bb8bf9eae25] months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period extending over more than one day, the date on which it should have been permitted to begin);
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^c-3ac187a44eaa7337d28c1cae7cad5112] months.
 
 (2A)[^c-6b5fd47a41c32ba8c01246b24399ee4a] Regulation 17A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
@@ -646,6 +646,10 @@ Copies of the Impact Assessment and of the Transposition Note may also be access
 [^c-de93925234cddfbb33a7009909c5150d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/10/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/ii)
 
 [^c-5fcec4f96415bc42e4e9583845bf239f]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/15/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/iii)
+
+[^c-ffda77c41eb73540c5ee9bb8bf9eae25]: Textual amendment: Word in [reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/17/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 15(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/15/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^c-3ac187a44eaa7337d28c1cae7cad5112]: Textual amendment: Word in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/17/2/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 15(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/15/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
 [^c-6b5fd47a41c32ba8c01246b24399ee4a]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/17/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/54)
 

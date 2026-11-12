@@ -5,13 +5,13 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2024-05-02'
-text_date: '2026-05-07'
+text_date: '2026-10-15'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2024/597
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2024/597/pdfs/uksi_20240597_en.pdf
 - http://www.legislation.gov.uk/uksi/2024/597/data.pdf
-pending_changes: 2
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Uttlesford (Electoral Changes) Order 2024
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-05-07. See https://www.legislation.gov.uk/changes/affected/uksi/2024/597
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/uksi/2024/597
 >
 > Extent: England, Wales.
 
@@ -65,8 +65,6 @@ The area that ceases to be part of the parish of Sewards End and becomes part of
 
 ## 3. Alteration of district ward boundaries[^c-327481b4072ba053801b7587ec1e1781][^c-6705ccf94f089839244067f9622dc5c3]
 
-**Not yet in force.**
-
 The area that ceases to be part of the parish of Sewards End and becomes part of the parish of Saffron Walden by virtue of the District of Uttlesford (Reorganisation of Community Governance) Order 2023 ceases to be part of the Ashdon district ward and becomes part of the Saffron Walden Shire district ward.
 
 Sealed with the seal of the Local Government Boundary Commission for England
@@ -109,6 +107,6 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00004]: Footnote: That Order was made by Uttlesford District Council on 13th December 2023. A copy of that Order is available for inspection at reasonable times at the offices of Uttlesford District Council at Council Offices, London Road, Saffron Walden CB11 4ER. Such Orders are not required to be made by statutory instrument.
 
-[^c-327481b4072ba053801b7587ec1e1781]: Commencement: Art. 3 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/597/article/1/4/a)
+[^c-327481b4072ba053801b7587ec1e1781]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/597/article/3) in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/597/article/1/4/a)
 
 [^c-6705ccf94f089839244067f9622dc5c3]: Commencement: Art. 3 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/597/article/1/4/b)

@@ -300,28 +300,28 @@ These Rules may be cited as the Royal Pharmaceutical Society of Great Britain (F
 
 - “the Act” means the Medicines Act 1968;
 - “allegation”, unless the context otherwise requires, means a criminal conduct allegation, a disqualification allegation or a fitness to practise allegation;
-- “applicant concerned” means an applicant for registration whose application has been referred to the Health or Disciplinary Committee for advice (or, where appropriate their representatives);
-- “criminal conduct allegation” means a complaint to, or concern of, the Society which gives rise or may give rise to criminal proceedings under any enactment;
-- “disqualification allegation” means a complaint to, or concern of, the Society which gives rise or may give rise to an inquiry under Part 4 of the Act;
-- “fitness to practise allegation” means an allegation which is an allegation for the purposes of article 49(1), 50(1), 51(1) or 52(1) of the Order, as appropriate;
-- “interim order” means an interim order under article 54 of the Order;
-- “interim order hearing” means a hearing solely for the purposes of considering whether to make, confirm, vary, replace or revoke an interim order;
+- “**applicant concerned**” means an applicant for registration whose application has been referred to the Health or Disciplinary Committee for advice (or, where appropriate their representatives);
+- “**criminal conduct allegation**” means a complaint to, or concern of, the Society which gives rise or may give rise to criminal proceedings under any enactment;
+- “**disqualification allegation**” means a complaint to, or concern of, the Society which gives rise or may give rise to an inquiry under Part 4 of the Act;
+- “**fitness to practise allegation**” means an allegation which is an allegation for the purposes of article 49(1), 50(1), 51(1) or 52(1) of the Order, as appropriate;
+- “**interim order**” means an interim order under article 54 of the Order;
+- “**interim order hearing**” means a hearing solely for the purposes of considering whether to make, confirm, vary, replace or revoke an interim order;
 - “the Order” means the Pharmacists and Pharmacy Technicians Order 2007;
-- “parties” means the Society and the applicant or registrant concerned (or, where appropriate, their representatives);
-- “prescribed fee” means a fee prescribed in rules under article 40(1) of the Order;
-- “the presenter” means the representative of the Society presenting the case at a hearing (and includes employees of the Society);
-- “principal hearing” means—
+- “**parties**” means the Society and the applicant or registrant concerned (or, where appropriate, their representatives);
+- “**prescribed fee**” means a fee prescribed in rules under article 40(1) of the Order;
+- “**the presenter**” means the representative of the Society presenting the case at a hearing (and includes employees of the Society);
+- “**principal hearing**” means—
   - (a) in fitness to practise proceedings, a hearing of the Health or Disciplinary Committee held in connection with making a determination under article 51(2) or (3) or 52(2) or (3) of the Order (as opposed to any further hearing to consider varying or revoking any direction given as a consequence of a finding of impairment); and
   - (b) in disqualification proceedings, a hearing of the Disciplinary Committee held in connection with making a direction under section 80 of the Act;
-- “register of premises” means the register kept under section 75(1) of the Act;
-- “registrant”, in relation to the register of premises, means the person whose premises (that is, the premises at which he carries on a retail pharmacy business) are entered in the register of premises;
+- “**register of premises**” means the register kept under section 75(1) of the Act;
+- “**registrant**”, in relation to the register of premises, means the person whose premises (that is, the premises at which he carries on a retail pharmacy business) are entered in the register of premises;
 - “registrant concerned” in the context of fitness to practise or disqualification proceedings or proceedings under Part 4 of the Registration Rules, means the registrant who is the subject of the allegation or investigation to which those proceedings relate (or, where appropriate, their representatives);
 - “Registration Rules” means the Royal Pharmaceutical Society of Great Britain (Registration Rules) 2007[^f00002];
-- “restoration hearing” means a hearing in fitness to practise proceedings to consider an application for restoration to the register;
-- “review hearing” means a hearing for the purpose of—
+- “**restoration hearing**” means a hearing in fitness to practise proceedings to consider an application for restoration to the register;
+- “**review hearing**” means a hearing for the purpose of—
   - (a) reviewing directions issued by the Disciplinary Committee or the Health Committee under article 51 or 52 of the Order; or
   - (b) revoking a direction by virtue of section 83(1) of the Act;
-- “the standards” means the standards of conduct, practice and performance (including the Society’s Code of Ethics and the related guidance) published by the Council under article 45(1) of the Order.
+- “**the standards**” means the standards of conduct, practice and performance (including the Society’s Code of Ethics and the related guidance) published by the Council under article 45(1) of the Order.
 
 (2) For the purposes of these Rules—
 
@@ -1284,7 +1284,7 @@ or both.
 
 #### 46. Witness evidence
 
-(1) Persons giving oral evidence at a hearing (referred to in these Rules as “witnesses”, and which includes an applicant or registrant concerned giving oral evidence) shall be required to take an oath, or to affirm, before giving their oral evidence.
+(1) Persons giving oral evidence at a hearing (referred to in these Rules as “**witnesses**”, and which includes an applicant or registrant concerned giving oral evidence) shall be required to take an oath, or to affirm, before giving their oral evidence.
 
 (2) The Society may not compel the applicant or registrant concerned to be a witness.
 
@@ -1376,7 +1376,7 @@ EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
-This Order approves Rules of the Royal Pharmaceutical Society of Great Britain (“the Society”) that set out various matters relating to the procedures to be followed by the Society when considering three types of allegations: allegations that the fitness to practise of its registrant pharmacists (or its registrant pharmacy technicians, once article 21 of the Pharmacists and Pharmacy Technicians Order 2007 comes into force) is impaired; allegations that a person should be disqualified from inclusion in the register of pharmacy retail business premises kept by the Society; and allegations of criminal conduct that the Society is under a duty to investigate.
+This Order approves Rules of the Royal Pharmaceutical Society of Great Britain (“**the Society**”) that set out various matters relating to the procedures to be followed by the Society when considering three types of allegations: allegations that the fitness to practise of its registrant pharmacists (or its registrant pharmacy technicians, once article 21 of the Pharmacists and Pharmacy Technicians Order 2007 comes into force) is impaired; allegations that a person should be disqualified from inclusion in the register of pharmacy retail business premises kept by the Society; and allegations of criminal conduct that the Society is under a duty to investigate.
 
 Part 1 contains preliminary matters, including provisions relating to the service of documents. Part 2 deals with the initial consideration of allegations by the Registrar of the Society. The Registrar screens all allegations and determines whether it is appropriate to refer the allegation to one of the Society’s fitness to practise committees: the Investigating Committee, the Health Committee or the Disciplinary Committee. He is also given powers in respect of the initial screening of applications for restoration to one of the Society’s registers. If an allegation is to be referred to one of the Society’s fitness to practise committees, unless it is exclusively a criminal conduct allegation, the registrant concerned will be sent a notice of the referral. If that referral is to the Investigating Committee, the notice of referral is to be accompanied by the evidence that the Investigating Committee is to consider, and the applicant will be invited to make written representations on the allegation, and on any recommendations for disposal of the case made by the Registrar.
 

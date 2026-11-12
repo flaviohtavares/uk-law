@@ -2,8 +2,8 @@
 title: The Housing Administration (England and Wales) Rules 2018, section 4.41
 act: The Housing Administration (England and Wales) Rules 2018
 section: '4.41'
-status: revised-with-pending-changes
-text_date: '2018-07-05'
+status: revised
+text_date: '2026-10-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2018/719/section/4.41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Administration (England and Wales) Rules 2018, section 4.41
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2018-07-05. See https://www.legislation.gov.uk/changes/affected/uksi/2018/719
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales.
 
@@ -48,7 +48,7 @@ summary: ''
 - “district judge sitting in a district registry” means a district judge sitting in an assigned district registry as a district judge of the High Court under section 100 of the Senior Courts Act 1981[^f00028];
 - “High Court Judge” means a judge listed in section 4(1) of the Senior Courts Act 1981[^f00029];
 - “Insolvency and Companies Court Judge” means a person appointed to the office of Insolvency and Companies Court Judge under section 89(1) of the Senior Courts Act 1981[^f00030];
-- “Master” means a person appointed to the office of Master, Chancery Division under section 89(1) of the Senior Courts Act 1981,
+- “Master” means a person appointed to the office of Master, Business and Property Division[^c-b2311cb5a12f8e08f7c76de1ef917992] under section 89(1) of the Senior Courts Act 1981,
 
 and for the purposes of each definition a person appointed to act as a deputy for any person holding that office is included.
 
@@ -69,3 +69,5 @@ and for the purposes of each definition a person appointed to act as a deputy fo
 [^f00029]: Footnote: Section 4 was amended by section 72 of the Courts and Legal Services Act [1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41), section 69 of the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), paragraphs 114 and 114 of Schedule 15 to the Constitutional Reform Act 2005, and paragraphs 12 and 13 of Schedule 13 to the Crime and Courts Act 2013. There are other amendments but those are not relevant to this instrument.
 
 [^f00030]: Footnote: The definition was inserted in section 89(1) by paragraph 3(a) of Schedule 1 to [S.I. 2018/130](https://www.legislation.gov.uk/uksi/2018/130). Other amendments have been made to section 89(1), but those are not relevant to this instrument.
+
+[^c-b2311cb5a12f8e08f7c76de1ef917992]: Textual amendment: Words in [art. 4.41(5)](https://www.legislation.gov.uk/uksi/2018/719/article/4.41/5) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/21)

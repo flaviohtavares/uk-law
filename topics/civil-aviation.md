@@ -300,7 +300,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Air Navigation (Overseas Territories) (Environmental Standards) Order 2004](../uk-parliament/regulations/2004/3000-3499/3337-the-air-navigation-overseas-territories-environmental-standards-order-2004.md) *(as originally made)*
 - [The Aviation Safety Regulations 2004](../uk-parliament/regulations/2004/0000-0499/77-the-aviation-safety-regulations-2004.md) *(as originally made)*
 - [The Carriage by Air Acts (Application of Provisions) Order 2004](../uk-parliament/regulations/2004/1500-1999/1899-the-carriage-by-air-acts-application-of-provisions-order-2004.md)
-- [The Civil Aviation (Working Time) Regulations 2004](../uk-parliament/regulations/2004/0500-0999/756-the-civil-aviation-working-time-regulations-2004.md) *(changes pending)*
+- [The Civil Aviation (Working Time) Regulations 2004](../uk-parliament/regulations/2004/0500-0999/756-the-civil-aviation-working-time-regulations-2004.md)
 - [The EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004](../uk-parliament/regulations/2004/1000-1499/1256-the-ec-swiss-air-transport-agreement-consequential-amendments-regulations-2004.md)
 - [The Stansted Airport Aircraft Movement Limit (Revocation) Order 2004](../uk-parliament/regulations/2004/1500-1999/1946-the-stansted-airport-aircraft-movement-limit-revocation-order-2004.md) *(as originally made)*
 - [The Transport Act 2000 (Consequential Amendment) Order 2004](../uk-parliament/regulations/2004/1500-1999/1755-the-transport-act-2000-consequential-amendment-order-2004.md) *(as originally made)*

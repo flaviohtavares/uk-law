@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **INSOLVENCY**. Repea
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Insolvency Act 1986](../uk-parliament/acts/public/1986/45-insolvency-act-1986/README.md) *(changes pending)* — 178 regulations on this topic made under it
+- [Insolvency Act 1986](../uk-parliament/acts/public/1986/45-insolvency-act-1986/README.md) *(changes pending)* — 176 regulations on this topic made under it
 - [The Insolvency (Northern Ireland) Order 1989](../northern-ireland/orders-in-council/1989/2405-the-insolvency-northern-ireland-order-1989/README.md) *(changes pending)* — 67 regulations on this topic made under it
 - [Corporate Insolvency and Governance Act 2020](../uk-parliament/acts/public/2020/12-corporate-insolvency-and-governance-act-2020/README.md) *(changes pending)* — 20 regulations on this topic made under it
 - [Company Directors Disqualification Act 1986](../uk-parliament/acts/public/1986/46-company-directors-disqualification-act-1986.md) *(changes pending)* — 17 regulations on this topic made under it
@@ -22,7 +22,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-391 in force.
+389 in force.
 
 **2026**
 
@@ -143,7 +143,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Education Administration Rules 2018](../uk-parliament/regulations/2018/1000-1499/1135-the-education-administration-rules-2018/README.md) *(as originally made)*
 - [The Financial Market Infrastructure Administration (Designation of VocaLink) Order 2018](../uk-parliament/regulations/2018/0500-0999/858-the-financial-market-infrastructure-administration-designation-of-vocalink-order.md) *(as originally made)*
 - [The Financial Market Infrastructure Administration (England and Wales) Rules 2018](../uk-parliament/regulations/2018/0500-0999/833-the-financial-market-infrastructure-administration-england-and-wales-rules-2018.md) *(as originally made)*
-- [The Housing Administration (England and Wales) Rules 2018](../uk-parliament/regulations/2018/0500-0999/719-the-housing-administration-england-and-wales-rules-2018/README.md) *(changes pending)*
+- [The Housing Administration (England and Wales) Rules 2018](../uk-parliament/regulations/2018/0500-0999/719-the-housing-administration-england-and-wales-rules-2018/README.md)
 - [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018](../uk-parliament/regulations/2018/1000-1499/1082-the-insolvency-scotland-company-voluntary-arrangements-and-administration-rules/README.md)
 - [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018](../scotland/regulations/2018/0000-0499/347-the-insolvency-scotland-receivership-and-winding-up-rules-2018/README.md)
 - [The Insolvency of Registered Providers of Social Housing Regulations 2018](../uk-parliament/regulations/2018/0500-0999/728-the-insolvency-of-registered-providers-of-social-housing-regulations-2018.md) *(as originally made)*
@@ -293,7 +293,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008](../scotland/regulations/2008/0000-0499/115-the-bankruptcy-and-diligence-etc-scotland-act-2007-commencement-no-3-savings-and.md) *(as originally made)*
 - [The Insolvency (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/670-the-insolvency-amendment-regulations-2008.md) *(as originally made)*
 - [The Insolvency (Amendment) Rules (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/118-the-insolvency-amendment-rules-northern-ireland-2008.md) *(as originally made)*
-- [The Insolvency (Amendment) Rules 2008](../uk-parliament/regulations/2008/0500-0999/737-the-insolvency-amendment-rules-2008.md) *(changes pending)*
 - [The Insolvency (Company Arrangement or Administration Provisions for an Industrial and Provident Society) Order (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/445-the-insolvency-company-arrangement-or-administration-provisions-for-an-industria.md) *(as originally made)*
 - [The Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/94-the-insolvency-disqualification-from-office-general-order-northern-ireland-2008.md)
 - [The Insolvency (Scotland) Amendment Rules 2008](../uk-parliament/regulations/2008/0500-0999/662-the-insolvency-scotland-amendment-rules-2008.md) *(changes pending)*
@@ -301,7 +300,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Insolvency (Voluntary Winding Up) (Forms) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/261-the-insolvency-voluntary-winding-up-forms-regulations-northern-ireland-2008.md) *(as originally made)*
 - [The Insolvency Practitioners and Insolvency Services Account (Fees) (Amendment) (No. 2) Order 2008](../uk-parliament/regulations/2008/0500-0999/672-the-insolvency-practitioners-and-insolvency-services-account-fees-amendment-no-2.md) *(as originally made)*
 - [The Insolvency Practitioners and Insolvency Services Account (Fees) (Amendment) Order 2008](../uk-parliament/regulations/2008/0000-0499/3-the-insolvency-practitioners-and-insolvency-services-account-fees-amendment-orde.md) *(as originally made)*
-- [The Insolvency Proceedings (Fees) (Amendment) Order 2008](../uk-parliament/regulations/2008/0500-0999/714-the-insolvency-proceedings-fees-amendment-order-2008.md) *(changes pending)*
 
 **2007**
 

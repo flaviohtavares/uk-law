@@ -2,8 +2,8 @@
 title: The Tribunal Procedure (Upper Tribunal) Rules 2008, section 21
 act: The Tribunal Procedure (Upper Tribunal) Rules 2008
 section: '21'
-status: revised-with-pending-changes
-text_date: '2026-09-30'
+status: revised
+text_date: '2026-11-06'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2008/2698/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Tribunal Procedure (Upper Tribunal) Rules 2008, section 21
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
+> Text as at 2026-11-06.
 
 ## 21. Application to the Upper Tribunal for permission to appeal
 
@@ -30,6 +30,7 @@ summary: ''
 - (a) in the case of an application under section 4 of the Safeguarding Vulnerable Groups Act 2006, 3 months after the date on which written notice of the decision being challenged was sent to the appellant; [^c-c32a344b4807038e7416e69b4a7263f9]...
 - (aa)[^c-9f653f305cbd4fd19aa15ebf88c4f6ea] in an asylum case or an immigration case where the appellant is in the United Kingdom at the time that the application is made, 14 days after the date on which notice of the First-tier Tribunal’s refusal of permission was sent to the appellant;
 - (ab)[^c-335276d2b6b3ccd7340b6dac4c7f8b16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ac)[^c-c1a10fef1a7205d45dc9fc4c31a07aa2] in the case of an application under section 168(1) of the Online Safety Act 2023, 3 months after the date on which notice of the decision being challenged was published by OFCOM in accordance with the relevant provisions of that Act;
 - (b) otherwise, a month after the date on which the tribunal that made the decision under challenge sent notice of its refusal of permission to appeal, or refusal to admit the application for permission to appeal, to the appellant.
 
 (3A)[^c-21f449788f01bb64a617d28c53a1e941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -74,6 +75,8 @@ summary: ''
 [^c-9f653f305cbd4fd19aa15ebf88c4f6ea]: Textual amendment: [Rule 21(3)(aa)](https://www.legislation.gov.uk/uksi/2008/2698/rule/21/3/aa) substituted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2020/651/rule/5/6)
 
 [^c-335276d2b6b3ccd7340b6dac4c7f8b16]: Textual amendment: Rule 21(3)(ab) omitted (20.10.2014) by virtue of [The Tribunal Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/2128)](https://www.legislation.gov.uk/uksi/2014/2128), [rules 1(b)](https://www.legislation.gov.uk/uksi/2014/2128/article/1/b), [8(c)](https://www.legislation.gov.uk/uksi/2014/2128/rule/8/c)
+
+[^c-c1a10fef1a7205d45dc9fc4c31a07aa2]: Textual amendment: [Rule 21(3)(ac)](https://www.legislation.gov.uk/uksi/2008/2698/rule/21/3/ac) inserted (6.11.2026) by [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2026 (S.I. 2026/1084)](https://www.legislation.gov.uk/uksi/2026/1084), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/1084/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/1084/rule/2/2)
 
 [^c-21f449788f01bb64a617d28c53a1e941]: Textual amendment: Rule 21(3A) omitted (20.10.2014) by virtue of [The Tribunal Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/2128)](https://www.legislation.gov.uk/uksi/2014/2128), [rules 1(b)](https://www.legislation.gov.uk/uksi/2014/2128/article/1/b), [8(d)](https://www.legislation.gov.uk/uksi/2014/2128/rule/8/d)
 

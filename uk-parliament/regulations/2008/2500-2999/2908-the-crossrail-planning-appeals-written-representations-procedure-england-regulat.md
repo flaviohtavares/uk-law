@@ -3,16 +3,16 @@ title: The Crossrail (Planning Appeals) (Written Representations Procedure) (Eng
 id: uksi/2008/2908
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-11-10'
-text_date: '2008-12-01'
+text_date: '2014-06-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2908
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2908/pdfs/uksiem_20082908_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2908/pdfs/uksi_20082908_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2908/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2008-12-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2908
+> Text as at 2014-06-30.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -185,6 +185,24 @@ whichever is the later proceed to a decision, taking into account only those rep
 - (a) it appears to the determiner that sufficient material has been submitted to enable the determiner to reach a decision on the merits of the case; and
 - (b) notice has been given by the determiner to the appellant and to the authority of the determiner’s intention to proceed to a decision notwithstanding that no representations have been submitted within that period.
 
+## 13. Review[^c-dd051713346e4d5a6be7b016ce48e0ae]
+
+(1) The appropriate Ministers must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) The first report under this regulation must be published before 31st December 2021.
+
+(4) Reports under this regulation are afterwards to be published at intervals not exceeding eight years.
+
 Signed by authority of the Secretary of State for Transport
 
 Andrew Adonis
@@ -209,7 +227,7 @@ Department of Communities and Local Government
 
 Regulation 5
 
-## SCHEDULE 2 — Appeal Questionnaire[^c-7804c6f4b86dc4762275404c280e7e0d]
+## SCHEDULE 2 — Appeal Questionnaire[^c-7804c6f4b86dc4762275404c280e7e0d][^c-488fa93d83e7f202deac5a6e5dcbbf38]
 
 Regulation 8
 
@@ -257,6 +275,10 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^c-3ae533c2312e23d5700ed07ffafba2ec]: Commencement: Reg. 12 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
 
+[^c-dd051713346e4d5a6be7b016ce48e0ae]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2008/2908/regulation/13) inserted (30.6.2014) by [The Crossrail (Insertion of Review Clauses) Regulations 2014 (S.I. 2014/1382)](https://www.legislation.gov.uk/uksi/2014/1382), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1382/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/1382/regulation/3)
+
 [^c-e4ed7045770e5a09483c322f88afb45e]: Commencement: Sch. 1 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
 
 [^c-7804c6f4b86dc4762275404c280e7e0d]: Commencement: Sch. 2 in force at 1.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2908/regulation/1)
+
+[^c-488fa93d83e7f202deac5a6e5dcbbf38]: Textual amendment: [Sch. 2 para. A5:](https://www.legislation.gov.uk/uksi/2008/2908/schedule/2/paragraph/A5) words "Please list below any additional requests for approval under paragraph 8, 11, 17 and 23 of Schedule 7 to the Crossrail Act 2008" deleted (29.6.2009) by virtue of [The Crossrail (Planning Appeals) (Written Representations Procedure) (England) (Amendment) Regulations 2009 (S.I. 2009/1312)](https://www.legislation.gov.uk/uksi/2009/1312), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1312/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1312/regulation/2/2)

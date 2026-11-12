@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1985-07-16'
-text_date: '2026-04-29'
+text_date: '2026-10-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1985/51
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1985/51/pdfs/ukpga_19850051_en.pdf
 - http://www.legislation.gov.uk/ukpga/1985/51/data.pdf
-pending_changes: 12
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Local Government Act 1985
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

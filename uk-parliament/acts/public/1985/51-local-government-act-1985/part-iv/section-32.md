@@ -3,7 +3,7 @@ title: Local Government Act 1985, section 32
 act: Local Government Act 1985
 section: '32'
 status: revised-with-pending-changes
-text_date: '2026-04-29'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1985/51/section/32
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Local Government Act 1985, section 32
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
 > Extent: England, Wales.
 
-## 32. Filling of vacancies.
+## 32. Filling of vacancies.[^c-1adb7afefd16c5b947ab95a2e95251da]
 
 *Extent: E+W*
 
@@ -62,7 +62,9 @@ that council shall as soon as practicable replace his appointment by a further a
 
 ## Annotations
 
-[^c3163211]: Modification: S. 32(1) amended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 4(1)](https://www.legislation.gov.uk/uksi/1985/1884/article/4/1)(*b*)
+[^c-1adb7afefd16c5b947ab95a2e95251da]: Modification: [S. 32](https://www.legislation.gov.uk/ukpga/1985/51/section/32) modified in part (E.) (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/5/b) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+
+[^c3163211]: Modification: S. 32(1) amended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/1985/1884/article/4/1)
 
 [^c3163221]: Modification: S. 32(1) modified by [S.I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110), [art. 2(2)](https://www.legislation.gov.uk/uksi/1987/2110/article/2/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/1987/2110/schedule/1/paragraph/7/b)
 
@@ -70,7 +72,7 @@ that council shall as soon as practicable replace his appointment by a further a
 
 [^c3163241]: Textual amendment: S. 32(1A) inserted by [Local Government Act 1986 (c.10, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1986/10), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1986/10/section/10/1)
 
-[^c3163261]: Modification: S. 32(2)–(7) amended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 4(1)](https://www.legislation.gov.uk/uksi/1985/1884/article/4/1)(*b*)
+[^c3163261]: Modification: S. 32(2)–(7) amended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/1985/1884/article/4/1)
 
 [^c3163271]: Modification: S. 32(2)–(7) modified by [S.I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110), [art. 2(2)](https://www.legislation.gov.uk/uksi/1987/2110/article/2/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/1987/2110/schedule/1/paragraph/7/b)
 

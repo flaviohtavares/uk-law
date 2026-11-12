@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2026**
 
-- [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/960-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulati.md) *(as originally made)*
+- [The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/960-the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulati.md)
 
 **2025**
 

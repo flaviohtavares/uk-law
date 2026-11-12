@@ -102,8 +102,7 @@ summary: ''
 - “**earnings**” has the meaning prescribed in regulation 35 or, as the case may be, 37;
 - “**the Eileen Trust**” means the charitable trust of that name established on 29th March 1993 out of funds provided by the Secretary of State for the benefit of persons eligible for payment in accordance with its provisions;
 - “electronic communication” has the same meaning as in section 15(1) of the[^c-fc9e61e465f2b34becce16fdcd96fa5c] 2000 Act;
-- “[^c-54f82e93e8bdf3c76d1edd54d6e92ef7]**eligible rent *(affected by repeal, see note)*[^c-54f82e93e8bdf3c76d1edd54d6e92ef7]**” is to be construed in accordance with regulation 12 (rent); *(affected by repeal, see note)*[^c-54f82e93e8bdf3c76d1edd54d6e92ef7]
-- “eligible rent” means, as the case may require, an eligible rent determined in accordance with—
+- “eligible rent” means, as the case may require, an eligible rent determined in accordance with—[^c-54f82e93e8bdf3c76d1edd54d6e92ef7]
   - (a) regulations 12B 12BA (eligible rent and maximum rent (social sector)),[^c-10137eb7cf6beddc2ce43355e21c2a16] (eligible rent), 12C (eligible rent and maximum rent) or 12D (eligible rent and maximum rent (LHA)); or
   - (b) regulations 12 (rent) and 13 (restrictions on unreasonable payments) as set out in paragraph 5 of Schedule 3 to the Consequential Provisions Regulations in a case to which paragraph 4 of that Schedule applies;
 
@@ -137,8 +136,7 @@ summary: ''
     - (ii) an independent hospital; or
     - (iii) an Abbeyfield Home;
 - “Housing Act functions” means functions under section 122 of the Housing Act 1996;[^c-bba13473581f350528a44a35134c0d07]
-- “[^c-677ac51bd872df13f7b40e37863d50a5]**housing association *(affected by repeal, see note)*[^c-677ac51bd872df13f7b40e37863d50a5]**” has the meaning assigned to it by section 1(1) of the Housing Associations Act 1985 *(affected by repeal, see note)*[^c-677ac51bd872df13f7b40e37863d50a5] [^c15406601];
-- “housing association” has the meaning assigned to it by section 1(1) of the Housing Associations Act 1985;
+- “housing association” has the meaning assigned to it by section 1(1) of the Housing Associations Act 1985;[^c-677ac51bd872df13f7b40e37863d50a5]
 
   “**Immigration and Asylum Act**” means the Immigration and Asylum Act 1999 [^c15406611];
 - “**an income-based jobseeker's allowance**” and “**a joint-claim jobseeker's allowance**” have the same meanings as they have in the Jobseekers Act by virtue of section 1(4) of that Act;
@@ -181,12 +179,11 @@ summary: ''
 - “**the Macfarlane (Special Payments) Trust**” means the trust of that name, established on 29th January 1990 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia;
 - “**the Macfarlane (Special Payments) (No. 2) Trust**” means the trust of that name, established on 3rd May 1991 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia and other beneficiaries;
 - “**the Macfarlane Trust**” means the charitable trust, established partly out of funds provided by the Secretary of State to the Haemophilia Society, for the relief of poverty or distress among those suffering from haemophilia;
-- “[^c-e68d60a3a863f06f10d51217485174a0]**main phase employment and support allowance**” means an employment and support allowance where the calculation of the amount payable in respect of the claimant includes a component under section 2(1)(b) or 4(2)(b) of the Welfare Reform Act or the claimant is a member of the work-related activity group[^c-031f53dbfcc11a3774456059665bdb19];
+- “[^c-e68d60a3a863f06f10d51217485174a0]**main phase employment and support allowance**” means an employment and support allowance where the calculation of the amount payable in respect of the claimant includes a component under section 2(1)(b) or 4(2)(b) of the Welfare Reform Act or the claimant is a member of the work-related activity group[^c-031f53dbfcc11a3774456059665bdb19] except in Part 1 of Schedule 3[^M_F_bb852e08-6f44-456c-f562-3507500c6a3a];
 - “[^c-66e4e067eba40b06e794c271147c0737]**the Mandatory Work Activity Scheme**” means a scheme within section 17A (schemes for assisting persons to obtain employment: “work for your benefit” schemes etc.) of the Jobseekers Act 1995 known by that name and provided pursuant to arrangements made by the Secretary of State that is designed to provide work or work-related activity for up to 30 hours per week over a period of four consecutive weeks with a view to assisting claimants to improve their prospects of obtaining employment;
 - “**maternity leave**” means a period during which a woman is absent from work because she is pregnant or has given birth to a child, and at the end of which she has a right to return to work either under the terms of her contract of employment or under Part 8 of the Employment Rights Act 1996 [^c15406681];
 - “maximum rent (LHA)” means the amount determined in accordance with regulation 13D;
-- “[^c-3ddce3b96cb89761074bfd1fe5a23758]**maximum rent *(affected by repeal, see note)*[^c-3ddce3b96cb89761074bfd1fe5a23758]**” means the amount to which the eligible rent is restricted in a case where regulation 13 applies; *(affected by repeal, see note)*[^c-3ddce3b96cb89761074bfd1fe5a23758]
-- “maximum rent” means the amount to which the eligible rent is restricted in a case where regulation 13 applies;
+- “maximum rent” means the amount to which the eligible rent is restricted in a case where regulation 13 applies;[^c-3ddce3b96cb89761074bfd1fe5a23758]
 - “member of a couple who cannot share a bedroom” means a member of a couple—[^c-f5b3af7c055f59627517e187fd448082]
   - (a) who is in receipt of—
     - (i) attendance allowance [^c-9c298575529741956b0a36fc80066ff4]...;
@@ -217,8 +214,7 @@ summary: ''
 - “**the New Deal options**” means the employment programmes specified in regulation 75(1)(a)(ii) of the Jobseeker's Allowance Regulations and the training scheme specified in regulation 75(1)(b)(ii) of those Regulations;
 - “new dwelling” means, for the purposes of the definition of “second authority” and regulations 72C, 73C, 115 and 116, the dwelling to which a claimant has moved, or is about to move, which is or will be occupied as the claimant’s new home;[^c-0b7ad6a3cc72aa48ca2b76cf4b8a0fd3]
 - “**non-dependant**” has the meaning prescribed in regulation 3;
-- “[^c-bb61a26c76f943187794800c7b8fdae6]**non-dependant deduction *(affected by repeal, see note)*[^c-bb61a26c76f943187794800c7b8fdae6]**” means a deduction that is to be made under regulation 74 (non-dependant deductions); *(affected by repeal, see note)*[^c-bb61a26c76f943187794800c7b8fdae6]
-- “non-dependant deduction” means a deduction that is to be made under regulation 74 (non-dependant deductions);
+- “non-dependant deduction” means a deduction that is to be made under regulation 74 (non-dependant deductions);[^c-bb61a26c76f943187794800c7b8fdae6]
 
   “**occupational pension**” means any pension or other periodical payment under an occupational pension scheme but does not include any discretionary payment out of a fund established for relieving hardship in particular cases;
 - “**ordinary clothing or footwear**” means clothing or footwear for normal daily use but does not include school uniforms or clothing or footwear used solely for sporting activities;
@@ -229,7 +225,7 @@ summary: ''
   - (a) where a claimant is a member of a couple, the other member of that couple; or
   - (b) where a claimant is polygamously married to two or more members of his household, any such member;
 - “parental bereavement leave” means leave under section 80EA of the Employment Rights Act 1996;[^c-ca31082c51b5222a99e8e38a5e6d9410]
-- “paternity leave” means a period of absence from work on[^c-1f6247a5bba1d9146a81c21471ac456e] [^c-7780e48257ec4bc2829cd2d43b6a82b0]... paternity leave by virtue of section 80A or 80B of the Employment Rights Act 1996 or on additional paternity leave by virtue of section 80AA or 80BB of that Act *(affected by repeal, see note)*[^c-f57578d2776d1361021ac456fa90a622];
+- “paternity leave” means a period of absence from work on[^c-1f6247a5bba1d9146a81c21471ac456e] [^c-7780e48257ec4bc2829cd2d43b6a82b0]... paternity leave by virtue of section 80A or 80B of the Employment Rights Act 1996 [^c-f57578d2776d1361021ac456fa90a622]...;
 - “**payment**” includes part of a payment;
 - “[^c-415c6bef147e9b9fc477d5f7acf5668c]**pension age disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Older People (Scotland) Regulations 2024;
 - “**pension fund holder**” means with respect to a personal pension scheme or an occupational pension scheme[^c-a491ab3bfae8148a9c777b76ed658c86], the trustees, managers or scheme administrators, as the case may be, of the scheme [^c-ae04211c94507075d1ea989605cd6796]... concerned;
@@ -298,8 +294,7 @@ summary: ''
 - “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests;[^c-b0dd954c6661dd43cb2abb51ecda98be]
 - “**remunerative work**” has the meaning prescribed in regulation 6 (remunerative work);
 - “**rent**” includes all those payments in respect of a dwelling specified in regulation 12(1);
-- “[^c-0c57670e74aec056ba22a6ebba391770]**the Rent Officers Order *(affected by repeal, see note)*[^c-0c57670e74aec056ba22a6ebba391770]**” means the Rent Officers (Housing Benefit Functions) Order 1997 *(affected by repeal, see note)*[^c-0c57670e74aec056ba22a6ebba391770] [^c15406741] or, as the case may be, the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997 *(affected by repeal, see note)*[^c-0c57670e74aec056ba22a6ebba391770] [^c15406751];
-- “Rent Officers Order” means the Rent Officers (Housing Benefit Functions) Order 1997 or, as the case may be, the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997;
+- “[^c-0c57670e74aec056ba22a6ebba391770]Rent Officers Order” means the Rent Officers (Housing Benefit Functions) Order 1997 or, as the case may be, the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997;
 
   [^c-39386852092167b893da4e8f4f88b88b]...
 - “[^c-d5990404f80e774702916316f16efbc6]**Scottish adult disability living allowance**” has the meaning given in regulation 2 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
@@ -315,8 +310,8 @@ summary: ''
   - (c) a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013;
   - (c) [^M_F_546042d5-c905-401d-f98c-4a40efd43375]...
 - [^c-7306a005bfcf531d1877d91a53cea69d]...
-- “**shared ownership lease[^c-0a420f6c504a4ef09fbe26ff3ca219eb]**” means—
-  - (a) in relation to England and Wales, a tenancy granted on payment of a premium calculated by reference to a percentage of the value of the dwelling or the cost of providing it;
+- “**shared ownership tenancy**” means—
+  - (a) in relation to England and Wales, a lease[^c-0a420f6c504a4ef09fbe26ff3ca219eb] granted on payment of a premium calculated by reference to a percentage of the value of the dwelling or the cost of providing it;
   - (b) in relation to Scotland, an agreement by virtue of which the tenant of a dwelling of which he and the landlord are joint owners is the tenant in respect of the landlord's interest in the dwelling or by virtue of which the tenant has the right to purchase the dwelling or the whole or part of the landlord's interest therein;
 - “shared parental leave” means leave under section 75E or 75G of the Employment Rights Act 1996;[^c-68db0c89e95c57cbfaca7486b6469124]
 - “**single claimant**” means a claimant who neither has a partner nor is a lone parent;
@@ -332,7 +327,7 @@ summary: ''
 - “[^c-c73181b467a0ca67c97005490a29aa9c]**the Trafficking Convention**” means the Council of Europe Convention on Action against Trafficking in Human Beings (done at Warsaw on 16th May 2005)”;
 - “**trafficking in human beings**” has the same meaning as in the Trafficking Convention;
 - “**training allowance**” means an allowance (whether by way of periodical grants or otherwise) payable—
-  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland,[^c-e605080e009893b576f57d7c94193384] Scottish Enterprise or Highlands and Islands Enterprise, the Young People’s Learning Agency for England, *(Extent: E+W)* *(affected by repeal, see note)*[^c-042d11646f2d6fcf273fd2746869ec4a] [^c-c826104de3fac20490ce50222148545d]... or the Welsh Ministers[^c-86f62a32c70ddf4e3a2308e68e0c6ee0];
+  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland,[^c-e605080e009893b576f57d7c94193384] Scottish Enterprise or Highlands and Islands Enterprise, [^c-042d11646f2d6fcf273fd2746869ec4a]... [^c-c826104de3fac20490ce50222148545d]... or the Welsh Ministers[^c-86f62a32c70ddf4e3a2308e68e0c6ee0];
   - (b) to a person for his maintenance or in respect of a member of his family; and
   - (c) for the period, or part of the period, during which he is following a course of training or instruction provided by, or in pursuance of arrangements made with, that department or approved by that department in relation to him or so provided or approved by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise or Highlands and Islands Enterprise or the Welsh Ministers,
 
@@ -356,24 +351,9 @@ summary: ''
 - “Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;
 - “**working tax credit**” means a working tax credit under section 10 of the Tax Credits Act;
 - “**Working Tax Credit Regulations**” means the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 [^c15406881];
-- “[^c-6b56c39ae11458b41b6a4e57a186542d]**young individual *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]**” means a single claimant who has not attained the age of 25 years, but does not include such a claimant— *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-  - (a) whose landlord is a registered housing association; *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-  - (b) who has not attained the age of *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d] 25 years[^c-a688072c3171427883e1242ea24d91d8] *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d] and has ceased to be the subject of a care order made pursuant to section 31(1)(a) of the Children Act 1989 *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d] [^c15406891] which had previously been made in respect to him either— *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-    - (i) after he attained the age of 16 years; or *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-    - (ii) before he attained the age of 16 years, but had continued after he attained that age; *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-  - (c) who has not attained the age of 22 years and was formerly provided with accommodation under section 20 of the Children Act 1989; *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-  - (d) who has not attained the age of 22 years and has ceased to be subject to a supervision requirement by a children's hearing under section 70 of the Children (Scotland) Act 1995 *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d] [^c15406901](“**the 1995 Act *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]**”) made in respect of him which had continued after he attained the age of 16 years, other than a case where— *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-    - (i) the ground of referral was based on the sole condition as to the need for compulsory measures of care specified in section 52(1)(i) of the 1995 Act (commission of offences by child); or *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-    - (ii) he was required by virtue of the supervision requirement to reside with a parent or guardian of his within the meaning of the 1995 Act, or with a friend or relative of his or of his parent or guardian; *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-  - (e) who has not attained the age of 22 years and has ceased to be a child in relation to whom the parental rights and responsibilities were transferred to a local authority under a parental responsibilities order made in accordance with section 86 of the 1995 Act or treated as so vested in accordance with paragraph 3 of Schedule 3 to that Act, either— *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-    - (i) after he attained the age of 16 years; or *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-    - (ii) before he attained the age of 16 years, but had continued after he attained that age; or *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-  - (f) who has not attained the age of 22 years and has ceased to be provided with accommodation by a local authority under section 25 of the 1995 Act where he has previously been provided with accommodation by the authority under that provision either— *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-    - (i) after he attained the age of 16 years; or *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-    - (ii) before he attained the age of 16 years, but had continued to be in such accommodation after he attained that age; *(affected by repeal, see note)*[^c-6b56c39ae11458b41b6a4e57a186542d]
-- “young individual” means a single claimant who has not attained the age of 35 years[^c-7b5d1774de80c78706c442ac45907e5c], but does not include such a claimant—
+- “young individual” means a single claimant who has not attained the age of[^c-6b56c39ae11458b41b6a4e57a186542d] 35 years[^c-7b5d1774de80c78706c442ac45907e5c], but does not include such a claimant—
   - (a) whose landlord is a registered housing association;
-  - (b) who has not attained the age of 25 years and has ceased to be the subject of a care order made pursuant to section 31(1)(a) of the Children Act 1989 which had previously been made in respect to him either—
+  - (b) who has not attained the age of 25 years[^c-a688072c3171427883e1242ea24d91d8] and has ceased to be the subject of a care order made pursuant to section 31(1)(a) of the Children Act 1989 which had previously been made in respect to him either—
     - (i) after he attained the age of 16 years; or
     - (ii) before he attained the age of 16 years, but had continued after he attained that age;
   - (c) who has not attained the age of 25 years years and was formerly provided with accommodation under section 20 of the Children Act 1989 or section 76 of the Social Services and Well-being (Wales) Act 2014[^c-55f0070f7f98ac9a9c0f55a96f461827];
@@ -486,7 +466,7 @@ summary: ''
 
 [^c15406491]: Marginal citation: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686); the relevant amending Instruments are [S.I. 1983/1164](https://www.legislation.gov.uk/uksi/1983/1164), 1984/1675 and 2001/420.
 
-[^c-e362efe7d478b5dcde7fc938caf57f72]: Textual amendment: Words in reg. 2(1) inserted (1.4.2009 for specified purposes) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/5), [6(2)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/6/2/b)
+[^c-e362efe7d478b5dcde7fc938caf57f72]: Textual amendment: Words in reg. 2(1) inserted (1.4.2009 for specified purposes) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/5), [6(2)(a)](https://www.legislation.gov.uk/uksi/2009/583/regulation/6/2/a)
 
 [^c-2fa57cdbadc56f0bfeffa4f1e517ad44]: Textual amendment: Words in reg. 2(1) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/5/2/b)
 
@@ -594,8 +574,6 @@ summary: ''
 
 [^c-677ac51bd872df13f7b40e37863d50a5]: Textual amendment: Words in reg. 2(1) substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [4(1)(b)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/4/1/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
 
-[^c15406601]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
-
 [^c15406611]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
 [^c-9ab4e9d0c87827520ec2935f9d85fd49]: Textual amendment: Words in reg. 2(1) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [5(2)(e)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/5/2/e)
@@ -637,6 +615,8 @@ summary: ''
 [^c-e68d60a3a863f06f10d51217485174a0]: Textual amendment: Words in reg. 2(1) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [5(2)(f)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/5/2/f)
 
 [^c-031f53dbfcc11a3774456059665bdb19]: Textual amendment: Words in reg. 2(1) inserted (23.6.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations 2017 (S.I. 2017/581)](https://www.legislation.gov.uk/uksi/2017/581), [regs. 1](https://www.legislation.gov.uk/uksi/2017/581/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2017/581/regulation/5/2/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2017/581/regulation/10))
+
+[^M_F_bb852e08-6f44-456c-f562-3507500c6a3a]: Textual amendment: Words in reg. 2(1) inserted (1.4.2009 for specified purposes) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/5), [6(2)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/6/2/b)
 
 [^c-66e4e067eba40b06e794c271147c0737]: Textual amendment: Words in reg. 2(1) inserted (25.4.2011) by [The Jobseekers Allowance (Mandatory Work Activity Scheme) Regulations 2011 (S.I. 2011/688)](https://www.legislation.gov.uk/uksi/2011/688), [regs. 1](https://www.legislation.gov.uk/uksi/2011/688/regulation/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2011/688/regulation/11/1/b)[(2)](https://www.legislation.gov.uk/uksi/2011/688/regulation/11/2)
 
@@ -784,10 +764,6 @@ summary: ''
 
 [^c-0c57670e74aec056ba22a6ebba391770]: Textual amendment: Words in reg. 2(1) substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [4(1)(e)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/4/1/e) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
 
-[^c15406741]: Marginal citation: [S.I. 1997/1984](https://www.legislation.gov.uk/uksi/1997/1984); the relevant amending Instrument is [S.I. 2000/1](https://www.legislation.gov.uk/uksi/2000/1), 2001/1325, 2004/2101 and 2005/236..
-
-[^c15406751]: Marginal citation: [S.I. 1997/1995](https://www.legislation.gov.uk/uksi/1997/1995)(S.144); the relevant amending Instrument is S.I 2000/3.
-
 [^c-39386852092167b893da4e8f4f88b88b]: Textual amendment: Words in reg. 2(1) omitted (16.7.2007) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2007 (S.I. 2007/1749)](https://www.legislation.gov.uk/uksi/2007/1749), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1749/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2007/1749/regulation/4/2/c)
 
 [^c-d5990404f80e774702916316f16efbc6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/213/regulation/2/1) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [11(2)(c)](https://www.legislation.gov.uk/uksi/2025/227/article/11/2/c)
@@ -824,7 +800,7 @@ summary: ''
 
 [^c-e605080e009893b576f57d7c94193384]: Textual amendment: Words in reg. 2(1) inserted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2009/583/regulation/6/3/a)
 
-[^c-042d11646f2d6fcf273fd2746869ec4a]: Textual amendment: Words in reg. 2(1) omitted (E+W) (1.5.2012) by virtue of [The Young Peoples Learning Agency Abolition (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/956)](https://www.legislation.gov.uk/uksi/2012/956), [arts. 1](https://www.legislation.gov.uk/uksi/2012/956/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2012/956/article/11/2)
+[^c-042d11646f2d6fcf273fd2746869ec4a]: Textual amendment: Words in reg. 2(1) omitted (1.5.2012) by virtue of [The Young Peoples Learning Agency Abolition (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/956)](https://www.legislation.gov.uk/uksi/2012/956), [arts. 1](https://www.legislation.gov.uk/uksi/2012/956/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2012/956/article/11/2)
 
 [^c-c826104de3fac20490ce50222148545d]: Textual amendment: Words in reg. 2(1) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/8/2)
 
@@ -852,13 +828,9 @@ summary: ''
 
 [^c-6b56c39ae11458b41b6a4e57a186542d]: Textual amendment: Words in reg. 2(1) substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [4(1)(f)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/4/1/f) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
 
-[^c-a688072c3171427883e1242ea24d91d8]: Textual amendment: Words in reg. 2(1) substituted (31.5.2021) by [The Housing Benefit and Universal Credit (Care Leavers and Homeless) (Amendment) Regulations 2021 (S.I. 2021/546)](https://www.legislation.gov.uk/uksi/2021/546), [regs. 1](https://www.legislation.gov.uk/uksi/2021/546/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/546/regulation/2/2/a)
-
-[^c15406891]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
-
-[^c15406901]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
-
 [^c-7b5d1774de80c78706c442ac45907e5c]: Textual amendment: Words in reg. 2(1) substituted (1.1.2012) by [The Housing Benefit (Amendment) Regulations 2011 (S.I. 2011/1736)](https://www.legislation.gov.uk/uksi/2011/1736), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1736/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2011/1736/regulation/2/2/a)
+
+[^c-a688072c3171427883e1242ea24d91d8]: Textual amendment: Words in reg. 2(1) substituted (31.5.2021) by [The Housing Benefit and Universal Credit (Care Leavers and Homeless) (Amendment) Regulations 2021 (S.I. 2021/546)](https://www.legislation.gov.uk/uksi/2021/546), [regs. 1](https://www.legislation.gov.uk/uksi/2021/546/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/546/regulation/2/2/a)
 
 [^c-55f0070f7f98ac9a9c0f55a96f461827]: Textual amendment: Words in reg. 2(1) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2017/901/article/11/2)
 

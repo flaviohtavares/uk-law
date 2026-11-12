@@ -4,7 +4,7 @@ Laws in force under the legislation.gov.uk subject heading **JUDICIAL APPOINTMEN
 
 ## Regulations
 
-36 in force.
+35 in force.
 
 **2025**
 
@@ -60,7 +60,6 @@ Laws in force under the legislation.gov.uk subject heading **JUDICIAL APPOINTMEN
 
 - [The Constitutional Reform Act 2005 (Commencement No. 10) Order 2008](../uk-parliament/regulations/2008/2500-2999/2597-the-constitutional-reform-act-2005-commencement-no-10-order-2008.md) *(as originally made)*
 - [The Judicial Appointments Order 2008](../uk-parliament/regulations/2008/2500-2999/2995-the-judicial-appointments-order-2008.md) *(changes pending)*
-- [The Judicial Discipline (Prescribed Procedures) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2000-2499/2098-the-judicial-discipline-prescribed-procedures-amendment-regulations-2008.md) *(changes pending)*
 - [The Tribunals, Courts and Enforcement Act 2007 (Commencement No. 5 and Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/1500-1999/1653-the-tribunals-courts-and-enforcement-act-2007-commencement-no-5-and-transitional.md) *(as originally made)*
 - [The Tribunals, Courts and Enforcement Act 2007 (Commencement No. 6 and Transitional Provisions) Order 2008](../uk-parliament/regulations/2008/2500-2999/2696-the-tribunals-courts-and-enforcement-act-2007-commencement-no-6-and-transitional.md) *(as originally made)*
 

@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2008-08-08'
-text_date: '2025-02-27'
+text_date: '2026-10-17'
 extent: E+W+S+NI
 source_url: https://www.legislation.gov.uk/uksi/2008/2164
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2164/pdfs/uksiem_20082164_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2164/pdfs/uksi_20082164_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2164/data.pdf
-pending_changes: 10
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Batteries and Accumulators (Placing on the Market) Regulations 2008
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2164
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-17. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2164
 >
 > Extent: England, Wales, Scotland, NI.
 
@@ -30,503 +30,501 @@ summary: ''
 
 Environmental Protection
 
-The Batteries and Accumulators (Placing on the Market) Regulations 2008
+The Batteries and Accumulators (Placing on the Market) Regulations 2008 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Made
+Made *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-8th August 2008
+8th August 2008 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Laid before Parliament
+Laid before Parliament *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-15th August 2008
+15th August 2008 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Coming into force
+Coming into force *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-26th September 2008
+26th September 2008 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in respect of matters relating to batteries and accumulators.
+The Secretary of State is a Minister designated *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7][^f00002] in respect of matters relating to batteries and accumulators. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations.
+The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-## PART 1 — Preliminary
+## PART 1 (Extent: N.I.) (affected by repeal, see note) — Preliminary (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 1. Citation and commencement
+### 1 (Extent: N.I.) (affected by repeal, see note). Citation and commencement (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-These Regulations may be cited as the Batteries and Accumulators (Placing on the Market) Regulations 2008 and shall come into force on 26th September 2008.
+These Regulations may be cited as the Batteries and Accumulators (Placing on the Market) Regulations 2008 and shall come into force on 26th September 2008. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 2. Interpretation
+### 2 (Extent: N.I.) (affected by repeal, see note). Interpretation (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) In these Regulations—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] In these Regulations— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- “appliance” means any electrical or electronic equipment, as defined by[^c-efd8578ce17c0e21fb106bdc988bfbe7] Article 3(1)(a) of[^c-f2e2112e02e1f0f4aec03be49f5fac0a] Directive 2012/19/EU of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE), as last amended by Directive (EU) 2018/849[^c-464a76a2835f7f566ed96dc06a0ab3ff], which is fully or partly powered by batteries or accumulators or is capable of being so;
-- “battery” or “accumulator” means any source of electrical energy generated by direct conversion of chemical energy and consisting of one or more primary battery cells (non-rechargeable) or consisting of one or more secondary battery cells (rechargeable);
-- “battery pack” means any set of batteries or accumulators that are connected together or encapsulated within an outer casing so as to form a complete unit that the end-user is not intended to split up or open;
-- “button cell” means any small round portable battery or accumulator whose diameter is greater than its height and which is used for special purposes such as hearing aids, watches, small portable equipment and back-up power;
-- “compliance notice” has the meaning given in regulation 13(2);
-- “crossed out wheeled bin symbol” has the meaning given in regulation 5(1);
-- “enforcement notice” has the meaning given in regulation 14(2);
-- “enforcement officer” means an officer of the Secretary of State or an officer of a person appointed to act on behalf of the Secretary of State for the purposes of enforcing these Regulations;
-- “European Economic Area” means the area comprised by the EEA states;
-- “infringing goods” means batteries or accumulators or appliances the characteristics, contents or labelling of which are not such as are permitted or required by Part 2 and which were placed on the market on or after 26th September 2008; and
-- “placing on the market”—[^c-364b24ed3ee2b868df0ce61c099c34e8]
-  - (a) except in relation to a person in Northern Ireland, means supplying or making available, whether in return for payment or free of charge, to a third party within the United Kingdom;
-  - (b) in relation to a person in Northern Ireland, means supplying or making available, whether in return for payment or free of charge, to a third party within the United Kingdom or the European Economic Area, and includes import into the customs territory of the Union as defined in Article 4 of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code, as that Regulation applies in EU law;
+- “appliance” means any electrical or electronic equipment, as defined by[^c-efd8578ce17c0e21fb106bdc988bfbe7] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] Article 3(1)(a) of[^c-f2e2112e02e1f0f4aec03be49f5fac0a] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] Directive 2012/19/EU of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] , as last amended by Directive (EU) 2018/849[^c-464a76a2835f7f566ed96dc06a0ab3ff] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7], which is fully or partly powered by batteries or accumulators or is capable of being so; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “battery” or “accumulator” means any source of electrical energy generated by direct conversion of chemical energy and consisting of one or more primary battery cells (non-rechargeable) or consisting of one or more secondary battery cells (rechargeable); *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “battery pack” means any set of batteries or accumulators that are connected together or encapsulated within an outer casing so as to form a complete unit that the end-user is not intended to split up or open; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “button cell” means any small round portable battery or accumulator whose diameter is greater than its height and which is used for special purposes such as hearing aids, watches, small portable equipment and back-up power; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “compliance notice” has the meaning given in regulation 13(2); *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “crossed out wheeled bin symbol” has the meaning given in regulation 5(1); *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “enforcement notice” has the meaning given in regulation 14(2); *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “enforcement officer” means an officer of the Secretary of State or an officer of a person appointed to act on behalf of the Secretary of State for the purposes of enforcing these Regulations; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “European Economic Area” means the area comprised by the EEA states; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “infringing goods” means batteries or accumulators or appliances the characteristics, contents or labelling of which are not such as are permitted or required by Part 2 and which were placed on the market on or after 26th September 2008; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “[^c-e95bb298c0e98f8a75d2202b96fc64c6] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]**placing on the market *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]**” means supplying or making available, whether in return for payment or free of charge, to a third party within Great Britain. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) In these Regulations, except in paragraph (1), any reference to a battery shall be construed as being a reference to a battery or an accumulator.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] In these Regulations, except in paragraph (1), any reference to a battery shall be construed as being a reference to a battery or an accumulator. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 3. Application
+### 3 (Extent: N.I.) (affected by repeal, see note). Application (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) These Regulations apply to—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] These Regulations apply to— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) all types of batteries, regardless of their shape, volume, weight, material composition or use; and
-- (b) all appliances into which a battery is or may be incorporated.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] all types of batteries, regardless of their shape, volume, weight, material composition or use; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] all appliances into which a battery is or may be incorporated. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) These Regulations do not apply to batteries used in—
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] These Regulations do not apply to batteries used in— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) equipment connected with the protection of essential security interests[^c-f97faf87efe113646fae51d92967c38a], such as arms, munitions and war material, and intended for specifically military purposes; or
-- (b) equipment designed to be sent into space.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] equipment connected with the protection of *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] essential security interests[^c-f97faf87efe113646fae51d92967c38a] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7], such as arms, munitions and war material, and intended for specifically military purposes; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] equipment designed to be sent into space. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3)[^c-b06b5c6aa0f1d92931ca8aa23bbca39e] In paragraph (2)(a)—
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-b06b5c6aa0f1d92931ca8aa23bbca39e][^c-03bd5a065fd33e9f898609a1f0990dd7] In paragraph (2)(a)— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) as it applies in England and Wales and Scotland, “essential security interests” means the essential security interests of the United Kingdom;
-- (b) as it applies in Northern Ireland, “essential security interests” means the essential security interests of the United Kingdom or EEA states.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] as it applies in England and Wales and Scotland, “essential security interests” means the essential security interests of the United Kingdom; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-78a25b3e5a28feeac726162034a061d8][^c-03bd5a065fd33e9f898609a1f0990dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-## PART 2 — Prohibitions and labelling requirements
+## PART 2 (Extent: N.I.) (affected by repeal, see note) — Prohibitions and labelling requirements (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 4. Prohibitions on mercury and cadmium
+### 4 (Extent: N.I.) (affected by repeal, see note). Prohibitions on mercury and cadmium (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) No person shall place on the market—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] No person shall place on the market— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) a battery that contains more than 0.0005% of mercury by weight;
-- (b) a portable battery that contains more than 0.002% of cadmium by weight.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a battery that contains more than 0.0005% of mercury by weight; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a portable battery that contains more than 0.002% of cadmium by weight. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2)[^c-e02a8777d63323e9d9c0f37dd2b38fed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-e02a8777d63323e9d9c0f37dd2b38fed][^c-03bd5a065fd33e9f898609a1f0990dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3)[^c-cb63105dec3bf8471be8a9848da24893] The prohibition in paragraph (1)(b) shall not apply to a portable battery intended for use in—
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-cb63105dec3bf8471be8a9848da24893][^c-03bd5a065fd33e9f898609a1f0990dd7] The prohibition in paragraph (1)(b) shall not apply to a portable battery intended for use in— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) emergency and alarm systems, including emergency lighting; or
-- (b) medical equipment.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] emergency and alarm systems, including emergency lighting; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] medical equipment. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(4) This regulation does not apply to a battery which is a component of a vehicle for the purposes of regulation 6 of the End-of-Life Vehicles Regulations 2003[^f00006].
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] This regulation does not apply to a battery which is a component of a vehicle for the purposes of regulation 6 of the End-of-Life Vehicles Regulations 2003 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7][^f00006]. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(5) In this regulation—
+(5 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] In this regulation— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- “portable battery” means any battery or battery pack which is—
-  - (a) sealed,
-  - (b) can be hand-carried by an average natural person without difficulty, and
-  - (c) is neither an automotive battery nor an industrial battery;
-- “automotive battery” means any battery used for automotive starter, lighting or ignition power;
-- “industrial battery” means any battery or battery pack which is—
-  - (a) designed exclusively for industrial or professional uses,
-  - (b) used as a source of power for propulsion in an electric vehicle,
-  - (c) unsealed but is not an automotive battery, or
-  - (d) sealed but is not a portable battery; and[^c-f4926220b5826c148e3a233b65a0a849]
-- “electric vehicle” means a vehicle which uses electricity as a source of power for propulsion and includes a vehicle which in addition uses, or is capable of using, other sources of power for this purpose[^c-b34b590db40c3c5e7a58d81b5b4c7081]
+- “portable battery” means any battery or battery pack which is— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (a) sealed, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (b) can be hand-carried by an average natural person without difficulty, and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (c) is neither an automotive battery nor an industrial battery; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “automotive battery” means any battery used for automotive starter, lighting or ignition power; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “industrial battery” means any battery or battery pack which is— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (a) designed exclusively for industrial or professional uses, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (b) used as a source of power for propulsion in an electric vehicle, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (c) unsealed but is not an automotive battery, or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (d) sealed but is not a portable battery; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] and[^c-f4926220b5826c148e3a233b65a0a849] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “electric vehicle” means a vehicle which uses electricity as a source of power for propulsion and includes a vehicle which in addition uses, or is capable of using, other sources of power for this *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] purpose[^c-b34b590db40c3c5e7a58d81b5b4c7081] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 5. Marking with crossed out wheeled bin symbol
+### 5 (Extent: N.I.) (affected by repeal, see note). Marking with crossed out wheeled bin symbol (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) No person shall place on the market any battery or battery pack unless it is marked with the symbol shown in Schedule 1 (the “crossed out wheeled bin symbol”).
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] No person shall place on the market any battery or battery pack unless it is marked with the symbol shown in Schedule 1 (the “crossed out wheeled bin symbol”). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) Subject to paragraph (3), the crossed out wheeled bin symbol shall cover at least 3% of the area of the largest side of the battery or battery pack and shall have a maximum size of 5 x 5 centimetres.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Subject to paragraph (3), the crossed out wheeled bin symbol shall cover at least 3% of the area of the largest side of the battery or battery pack and shall have a maximum size of 5 x 5 centimetres. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) In the case of cylindrical cells, the crossed out wheeled bin symbol shall cover at least 1.5% of the surface area of the battery and shall have a maximum size of 5 x 5 centimetres.
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] In the case of cylindrical cells, the crossed out wheeled bin symbol shall cover at least 1.5% of the surface area of the battery and shall have a maximum size of 5 x 5 centimetres. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(4) Where the size of the battery or battery pack is such that the crossed out wheeled bin symbol would be smaller than 0.5 x 0.5 centimetres, the battery or battery pack need not be marked but a crossed out wheeled bin symbol measuring at least 1 x 1 centimetre shall be printed on the packaging.
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Where the size of the battery or battery pack is such that the crossed out wheeled bin symbol would be smaller than 0.5 x 0.5 centimetres, the battery or battery pack need not be marked but a crossed out wheeled bin symbol measuring at least 1 x 1 centimetre shall be printed on the packaging. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(5) The crossed out wheeled bin symbol shall be printed visibly, legibly and indelibly.
+(5 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] The crossed out wheeled bin symbol shall be printed visibly, legibly and indelibly. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 5A. Capacity Labelling[^c-7d98ba0263d14ea6cffcd21148a7d357]
+### 5A (Extent: N.I.) (affected by repeal, see note). Capacity Labelling (Extent: N.I.) (affected by repeal, see note)[^c-7d98ba0263d14ea6cffcd21148a7d357][^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) No person shall place on the market any portable secondary (rechargeable) battery or automotive battery or accumulator to which Article 1 of the Capacity Labelling Regulation applies unless the capacity of the battery is indicated upon it visibly, legibly and indelibly in accordance with the requirements of that Regulation.
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] No person shall place on the market any portable secondary (rechargeable) battery or automotive battery or accumulator to which Article 1 of the Capacity Labelling Regulation applies unless the capacity of the battery is indicated upon it visibly, legibly and indelibly in accordance with the requirements of that Regulation. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2)  The “Capacity Labelling Regulation” means Commission Regulation (EU) No 1103/2010 of 29 November 2010 establishing, pursuant to Directive [2006/66/EC](https://www.legislation.gov.uk/european/directive/2006/0066) of the European Parliament and of the Council, rules as regards capacity labelling of portable secondary (rechargeable) and automotive batteries and accumulators.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7]  The “Capacity Labelling Regulation” means Commission Regulation ( *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]EU *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]) No 1103/2010 of 29 November 2010 establishing, pursuant to Directive *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] [2006/66/ *(Extent: N.I.)* *(affected by repeal, see note)*EC *(Extent: N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0066)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7] of the European Parliament and of the Council, rules as regards capacity labelling of portable secondary (rechargeable) and automotive batteries and accumulators. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 6. Marking with mercury, cadmium and lead symbols
+### 6 (Extent: N.I.) (affected by repeal, see note). Marking with mercury, cadmium and lead symbols (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) No person shall place on the market—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] No person shall place on the market— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) a button cell containing more than 0.0005% of mercury by weight unless it is marked with the chemical symbol “Hg”;
-- (b) a battery containing more than 0.002% of cadmium by weight unless it is marked with the chemical symbol “Cd”;
-- (c) a battery containing more than 0.004% of lead by weight unless it is marked with the chemical symbol “Pb”.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a button cell containing more than 0.0005% of mercury by weight unless it is marked with the chemical symbol “Hg”; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a battery containing more than 0.002% of cadmium by weight unless it is marked with the chemical symbol “Cd”; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a battery containing more than 0.004% of lead by weight unless it is marked with the chemical symbol “Pb”. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) Each of the chemical symbols mentioned in paragraph (1) shall—
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Each of the chemical symbols mentioned in paragraph (1) shall— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) be printed beneath the crossed out wheeled bin symbol;
-- (b) cover an area of at least one quarter the size of that symbol; and
-- (c) be printed visibly, legibly and indelibly.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] be printed beneath the crossed out wheeled bin symbol; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] cover an area of at least one quarter the size of that symbol; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] be printed visibly, legibly and indelibly. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 7. Appliances into which batteries are or may be incorporated
+### 7 (Extent: N.I.) (affected by repeal, see note). Appliances into which batteries are or may be incorporated (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) No person shall place on the market an appliance into which a battery is or may be incorporated unless that appliance is—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] No person shall place on the market an appliance into which a battery is or may be incorporated unless that appliance is— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) designed in such a way that a waste battery can be readily removed from that appliance by the end-user or, where it cannot be readily removed by the end-user, by a qualified professional who is independent of the manufacturer[^c-19f831dca2855364d495785dde96edf0]; and
-- (b) accompanied by instructions showing how the battery can be removed safely by the end-user or by a qualified professional who is independent of the manufacturer[^c-09eb25f9096cafbf6c4ac6b212b9ce78] and, where appropriate, informing the end-user of the type of the incorporated battery.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] designed in such a way that a waste battery can be readily removed from that appliance *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] by the end-user or, where it cannot be readily removed by the end-user, by a qualified professional who is independent of the manufacturer[^c-19f831dca2855364d495785dde96edf0] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] accompanied by instructions showing how the battery can be removed safely *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] by the end-user or by a qualified professional who is independent of the manufacturer[^c-09eb25f9096cafbf6c4ac6b212b9ce78] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] and, where appropriate, informing the end-user of the type of the incorporated battery. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) Paragraph (1) shall not apply where for safety, performance, medical or data integrity reasons continuity of power supply is necessary and requires a permanent connection between the appliance and the battery.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Paragraph (1) shall not apply where for safety, performance, medical or data integrity reasons continuity of power supply is necessary and requires a permanent connection between the appliance and the battery. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) In this regulation “waste battery” means any battery which is waste within the meaning of Article 3(1) of[^c-46c128e6c58bd0879dd916bb785654ea] [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^c-81fb51909b23a2612471f71a5fa02a1a] , and as read with Articles 5 and 6 of that Directive[^c-2fe378d90cac25cd8f2731e51ab27289].
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] In this regulation “waste battery” means any battery which is waste within the meaning of Article *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] 3(1) of[^c-46c128e6c58bd0879dd916bb785654ea] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] [Directive 2008/98/EC *(Extent: N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/eudr/2008/0098)[^c-03bd5a065fd33e9f898609a1f0990dd7] of the European Parliament and of the Council on waste, as last amended by *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] Directive (EU) 2018/851[^c-81fb51909b23a2612471f71a5fa02a1a] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] , and as read with Articles 5 and 6 of that Directive[^c-2fe378d90cac25cd8f2731e51ab27289] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(4)[^c-54bdcd5fdc2b33890771600bf4642298] For the purposes of paragraph (3), Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) is to be read in accordance with paragraphs (5) and (6).
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-54bdcd5fdc2b33890771600bf4642298][^c-03bd5a065fd33e9f898609a1f0990dd7] For the purposes of paragraph (3), Directive *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] [2008/98/EC *(Extent: N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/eudr/2008/98)[^c-03bd5a065fd33e9f898609a1f0990dd7] is to be read in accordance with paragraphs (5) and (6). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(5) Article 5 is to be read as if—
+(5 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Article 5 is to be read as if— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
-- (b) after paragraph 1 there were inserted—
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] after paragraph 1 there were inserted— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-  > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+  > **1A (Extent: N.I.) (affected by repeal, see note).**[^c-03bd5a065fd33e9f898609a1f0990dd7] Any decision as to whether a substance or object is a by-product must be made— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
   >
-  > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
-  > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+  > - (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  > - (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-  ;
-- (c) paragraphs 2 and 3 were omitted.
+  ; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] paragraphs 2 and 3 were omitted. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(6) Article 6 is to be read as if—
+(6 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Article 6 is to be read as if— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
-- (b) after paragraph 1 there were inserted—
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] after paragraph 1 there were inserted— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-  > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+  > **1A (Extent: N.I.) (affected by repeal, see note).**[^c-03bd5a065fd33e9f898609a1f0990dd7] Any decision as to whether a substance or object has ceased to be waste must be made— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
   >
-  > - (a) in accordance with any regulations or assimilated direct[^c-3c7847ac69f402355ec55acaec308e4d] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
-  > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+  > - (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in accordance with any regulations or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] assimilated direct[^c-3c7847ac69f402355ec55acaec308e4d] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  > - (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-  ;
-- (c) in paragraph 2—
-  - (i) the first subparagraph were omitted;
-  - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
-  - (iii) the third and fourth subparagraphs were omitted;
-- (d) paragraph 3 were omitted;
-- (e) in paragraph 4—
-  - (i) in the first subparagraph—
-    - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
-    - (bb) the second sentence were omitted;
-  - (ii) in the second subparagraph—
-    - (aa) for “Member States” there were substituted “The appropriate agency”;
-    - (bb) “by competent authorities” were omitted.
+  ; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in paragraph 2— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] the first subparagraph were omitted; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (iii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] the third and fourth subparagraphs were omitted; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (d (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] paragraph 3 were omitted; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (e (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in paragraph 4— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in the first subparagraph— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+    - (aa (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+    - (bb (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] the second sentence were omitted; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in the second subparagraph— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+    - (aa (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] for “Member States” there were substituted “The appropriate agency”; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+    - (bb (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] “by competent authorities” were omitted. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(7) In paragraphs (5) and (6)—
+(7 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] In paragraphs (5) and (6)— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- “appropriate agency” means—
-  - (a) in relation to England, the Environment Agency;
-  - (b) in relation to Wales, the Natural Resources Body for Wales;
-  - (c) in relation to Scotland, the Scottish Environment Protection Agency;
-  - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
-- “appropriate authority” means—
-  - (a) in relation to England, the Secretary of State;
-  - (b) in relation to Wales, the Welsh Ministers;
-  - (c) in relation to Scotland, the Scottish Ministers;
-  - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+- “appropriate agency” means— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (a) in relation to England, the Environment Agency; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (b) in relation to Wales, the Natural Resources Body for Wales; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (c) in relation to Scotland, the Scottish Environment Protection Agency; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (d) [^c-d544c437bb874ddeca763591b4bc7996]... *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- “appropriate authority” means— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (a) in relation to England, the Secretary of State; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (b) in relation to Wales, the Welsh Ministers; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (c) in relation to Scotland, the Scottish Ministers; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (d) [^c-d544c437bb874ddeca763591b4bc7996]... *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-## PART 3 — Enforcement
+## PART 3 (Extent: N.I.) (affected by repeal, see note) — Enforcement (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 8. Enforcement authority
+### 8 (Extent: N.I.) (affected by repeal, see note). Enforcement authority (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) It shall be the duty of the Secretary of State to enforce these Regulations.
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] It shall be the duty of the Secretary of State to enforce these Regulations. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) The Secretary of State may appoint a person to act on behalf of the Secretary of State for the purposes of paragraph (1).
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] The Secretary of State may appoint a person to act on behalf of the Secretary of State for the purposes of paragraph (1). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) The Secretary of State shall not commence proceedings for an offence in Scotland.
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] The Secretary of State shall not commence proceedings for an offence in Scotland. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 9. Test purchases
+### 9 (Extent: N.I.) (affected by repeal, see note). Test purchases (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) The Secretary of State may purchase batteries or appliances for the purpose of ascertaining whether or not they are infringing goods.
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] The Secretary of State may purchase batteries or appliances for the purpose of ascertaining whether or not they are infringing goods. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) If—
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] If— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) a battery or an appliance purchased under this regulation is submitted to a test;
-- (b) the test leads to the bringing of proceedings for an offence under regulation 15(1); and
-- (c) a person—
-  - (i) from whom the battery or the appliance was purchased;
-  - (ii) who is a party to the proceedings; or
-  - (iii) who has an interest in the battery or the appliance which is identified as infringing goods in an enforcement notice,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a battery or an appliance purchased under this regulation is submitted to a test; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] the test leads to the bringing of proceedings for an offence under regulation 15(1); and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a person— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] from whom the battery or the appliance was purchased; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] who is a party to the proceedings; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (iii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] who has an interest in the battery or the appliance which is identified as infringing goods in an enforcement notice, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-  requests the Secretary of State to allow that person to have the battery or the appliance tested,
+  requests the Secretary of State to allow that person to have the battery or the appliance tested, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-the Secretary of State shall, if it is practicable for such a test to be carried out, allow that person to have the battery or the appliance tested.
+the Secretary of State shall, if it is practicable for such a test to be carried out, allow that person to have the battery or the appliance tested. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 10. Power to require production of documents and information by notice
+### 10 (Extent: N.I.) (affected by repeal, see note). Power to require production of documents and information by notice (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) If the Secretary of State reasonably believes that a person possesses information or documents which may provide evidence as to whether or not batteries or appliances are infringing goods, the Secretary of State may give that person notice in writing, requiring that person to provide the Secretary of State with that information, those documents, or copies of them.
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] If the Secretary of State reasonably believes that a person possesses information or documents which may provide evidence as to whether or not batteries or appliances are infringing goods, the Secretary of State may give that person notice in writing, requiring that person to provide the Secretary of State with that information, those documents, or copies of them. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) A notice given under paragraph (1) shall state the period of time within which the person to whom it is given must comply with it: this shall be a period which is reasonable in all the circumstances, and shall not in any event be less than fourteen days.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A notice given under paragraph (1) shall state the period of time within which the person to whom it is given must comply with it: this shall be a period which is reasonable in all the circumstances, and shall not in any event be less than fourteen days. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 11. Further powers to obtain evidence
+### 11 (Extent: N.I.) (affected by repeal, see note). Further powers to obtain evidence (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) The powers specified in paragraphs (3) and (4) may be exercised where the Secretary of State reasonably believes that their exercise will enable the Secretary of State to obtain evidence as to whether or not batteries or appliances are infringing goods.
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] The powers specified in paragraphs (3) and (4) may be exercised where the Secretary of State reasonably believes that their exercise will enable the Secretary of State to obtain evidence as to whether or not batteries or appliances are infringing goods. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) Before exercising any of the powers specified in paragraph (3) or (4), enforcement officers shall, if so requested, produce a copy of their authorisations to act as enforcement officers.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Before exercising any of the powers specified in paragraph (3) or (4), enforcement officers shall, if so requested, produce a copy of their authorisations to act as enforcement officers. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) Enforcement officers may—
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Enforcement officers may— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) enter at any reasonable time any premises other than premises occupied only as a person’s residence;
-- (b) examine and investigate—
-  - (i) any process of assembly or manufacture; or
-  - (ii) any other aspect of the supply,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] enter at any reasonable time any premises other than premises occupied only as a person’s residence; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] examine and investigate— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] any process of assembly or manufacture; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] any other aspect of the supply, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-  of a battery or an appliance, or the component parts of any such battery or appliance, taking place on, or organised from, such premises;
-- (c) take such measurements and photographs and make such recordings as are necessary for the purpose of any examination or investigation under sub-paragraph (b)(i); and
-- (d) require any person on such premises to afford them such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as are necessary to enable them to exercise any of the powers conferred on them by sub-paragraphs (b) and (c) with due regard to the health and safety of themselves and others.
+  of a battery or an appliance, or the component parts of any such battery or appliance, taking place on, or organised from, such premises; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] take such measurements and photographs and make such recordings as are necessary for the purpose of any examination or investigation under sub-paragraph (b)(i); and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (d (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] require any person on such premises to afford them such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as are necessary to enable them to exercise any of the powers conferred on them by sub-paragraphs (b) and (c) with due regard to the health and safety of themselves and others. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(4) When enforcement officers have exercised the power of entry under paragraph (3)(a), or when, with a view to ascertaining whether or not batteries or appliances are infringing goods, they have agreed to meet, at a specified time and place, a person in whose possession they reasonably believe there is evidence of the kind referred to in paragraph (1), they may—
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] When enforcement officers have exercised the power of entry under paragraph (3)(a), or when, with a view to ascertaining whether or not batteries or appliances are infringing goods, they have agreed to meet, at a specified time and place, a person in whose possession they reasonably believe there is evidence of the kind referred to in paragraph (1), they may— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) take samples of any articles or substances found on or in the vicinity of the premises they have entered or which are in that person’s possession;
-- (b) require any person on the premises or at the meeting to produce, or, where the information is recorded in computerised form, furnish extracts in legible form from, any records to which that person has access—
-  - (i) which it is necessary for the enforcement officers to see for the purposes of an examination or investigation under paragraph (3)(b); or
-  - (ii) which take the form of existing documents which the Secretary of State could require to be produced under regulation 10,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] take samples of any articles or substances found on or in the vicinity of the premises they have entered or which are in that person’s possession; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] require any person on the premises or at the meeting to produce, or, where the information is recorded in computerised form, furnish extracts in legible form from, any records to which that person has access— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] which it is necessary for the enforcement officers to see for the purposes of an examination or investigation under paragraph (3)(b); or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] which take the form of existing documents which the Secretary of State could require to be produced under regulation 10, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-  and inspect and take copies of, or of any entry in, the records; and
-- (c) take possession of articles or substances of the kind referred to in sub-paragraph (a) or records of the kind referred to in sub-paragraph (b), and detain them for so long as is necessary to—
-  - (i) examine them, or cause them to be examined;
-  - (ii) ensure that they are not tampered with before examination of them is completed; and
-  - (iii) ensure that they are available for use in evidence in any proceedings for an offence under regulation 15(1) or (3).
+  and inspect and take copies of, or of any entry in, the records; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] take possession of articles or substances of the kind referred to in sub-paragraph (a) or records of the kind referred to in sub-paragraph (b), and detain them for so long as is necessary to— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] examine them, or cause them to be examined; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] ensure that they are not tampered with before examination of them is completed; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (iii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] ensure that they are available for use in evidence in any proceedings for an offence under regulation 15(1) or (3). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(5) Where enforcement officers exercise a power conferred by paragraph (4)(a) or (b), instead of immediately—
+(5 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Where enforcement officers exercise a power conferred by paragraph (4)(a) or (b), instead of immediately— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) taking the samples of articles or substances; or
-- (b) requiring the production of the records,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] taking the samples of articles or substances; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] requiring the production of the records, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-they may require them (or, in the case of records, copies of them) to be produced at such time and place and by such means as they may reasonably specify.
+they may require them (or, in the case of records, copies of them) to be produced at such time and place and by such means as they may reasonably specify. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 12. Powers of entry: supplementary
+### 12 (Extent: N.I.) (affected by repeal, see note). Powers of entry: supplementary (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) When enforcement officers enter premises by virtue of regulation 11(3)(a), they may take with them such other persons and such equipment or materials as they reasonably consider it necessary or expedient to have with them—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] When enforcement officers enter premises by virtue of regulation 11(3)(a), they may take with them such other persons and such equipment or materials as they reasonably consider it necessary or expedient to have with them— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) for the purpose of establishing whether or not batteries or appliances are infringing goods; and
-- (b) to assist them in exercising any of their powers under regulation 11(3)(b) and (c).
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] for the purpose of establishing whether or not batteries or appliances are infringing goods; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] to assist them in exercising any of their powers under regulation 11(3)(b) and (c). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) Enforcement officers who enter any premises by virtue of regulation 11(3)(a) may direct that those premises, or any part of them, or anything in them, shall be left undisturbed for so long, and to such extent, as is reasonably necessary for the purpose of the exercise of any of their powers under regulation 11(3)(b) and (c).
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Enforcement officers who enter any premises by virtue of regulation 11(3)(a) may direct that those premises, or any part of them, or anything in them, shall be left undisturbed for so long, and to such extent, as is reasonably necessary for the purpose of the exercise of any of their powers under regulation 11(3)(b) and (c). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) Where enforcement officers leave any premises that they have entered by virtue of regulation 11(3)(a) and such premises are unoccupied or their occupier is temporarily absent, they shall leave them as effectively secured against a trespasser as they found them.
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Where enforcement officers leave any premises that they have entered by virtue of regulation 11(3)(a) and such premises are unoccupied or their occupier is temporarily absent, they shall leave them as effectively secured against a trespasser as they found them. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 13. Compliance notice
+### 13 (Extent: N.I.) (affected by repeal, see note). Compliance notice (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) The Secretary of State may serve a notice on any person who—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] The Secretary of State may serve a notice on any person who— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) places on the market; or
-- (b) supplies or makes available in the United Kingdom in the course of business,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] places on the market; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] supplies or makes available in *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] Great Britain[^c-1dc1d911cfa043fee2739839ff4d9b40] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] in the course of business, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-batteries or appliances which the Secretary of State has reasonable grounds to suspect are infringing goods.
+batteries or appliances which the Secretary of State has reasonable grounds to suspect are infringing goods. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) A notice served under paragraph (1) (a “compliance notice”) shall—
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A notice served under paragraph (1) (a “compliance notice”) shall— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) identify the alleged infringing goods (the “specified goods”);
-- (b) state why the Secretary of State suspects that the specified goods are infringing goods;
-- (c) specify what action the Secretary of State considers the person on whom the notice is served needs to take, or to refrain from taking, in order—
-  - (i) to cause the specified goods to cease to be infringing goods, or
-  - (ii) where it is not possible for them to cease to be infringing goods, to withdraw them from the market or to cease to supply or to make them available in the United Kingdom; and
-- (d) state that, if that person does not take, or refrain from taking, such action within such period as the notice specifies, and the Secretary of State considers that the specified goods continue to be infringing goods, the Secretary of State may—
-  - (i) take further action under regulation 14; or
-  - (ii) in the case of an alleged contravention of a requirement of Part 2, commence proceedings under regulation 15(1)(a), (b) or (c).
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] identify the alleged infringing goods (the “specified goods”); *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] state why the Secretary of State suspects that the specified goods are infringing goods; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] specify what action the Secretary of State considers the person on whom the notice is served needs to take, or to refrain from taking, in order— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] to cause the specified goods to cease to be infringing goods, or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] where it is not possible for them to cease to be infringing goods, to withdraw them from the market or to cease to supply or to make them available in *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] Great Britain[^c-e2d8734de2eddc420216499591f6c6cb] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (d (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] state that, if that person does not take, or refrain from taking, such action within such period as the notice specifies, and the Secretary of State considers that the specified goods continue to be infringing goods, the Secretary of State may— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] take further action under regulation 14; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in the case of an alleged contravention of a requirement of Part 2, commence proceedings under regulation 15(1)(a), (b) or (c). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) No proceedings shall be commenced against a person under regulation 15(1)(a), (b) or (c) in respect of an alleged contravention of a requirement of Part 2 where—
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] No proceedings shall be commenced against a person under regulation 15(1)(a), (b) or (c) in respect of an alleged contravention of a requirement of Part 2 where— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) a compliance notice has been served on that person in respect of the alleged contravention; and
-- (b) the period specified under paragraph (2)(d) in that notice has not come to an end.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a compliance notice has been served on that person in respect of the alleged contravention; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] the period specified under paragraph (2)(d) in that notice has not come to an end. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 14. Enforcement notice
+### 14 (Extent: N.I.) (affected by repeal, see note). Enforcement notice (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) Where the Secretary of State serves a compliance notice on a person and, at the end of the period specified in the notice under regulation 13(2)(d)—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Where the Secretary of State serves a compliance notice on a person and, at the end of the period specified in the notice under regulation 13(2)(d)— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) it appears to the Secretary of State that that person has failed to take, or to refrain from taking, the action specified in the compliance notice under regulation 13(2)(c); and
-- (b) the Secretary of State has reasonable grounds for considering that the specified goods are infringing goods,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] it appears to the Secretary of State that that person has failed to take, or to refrain from taking, the action specified in the compliance notice under regulation 13(2)(c); and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] the Secretary of State has reasonable grounds for considering that the specified goods are infringing goods, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-the Secretary of State may serve a further notice on that person.
+the Secretary of State may serve a further notice on that person. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) A notice served under paragraph (1) (an “enforcement notice”) shall—
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A notice served under paragraph (1) (an “enforcement notice”) shall— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) identify the specified goods;
-- (b) state why the conditions in paragraph (1) are satisfied in relation to the specified goods;
-- (c) specify the period ending not less than twenty-one days from the date of the notice, within which the person on whom the notice is served is required to take, or to refrain from taking, such action as is specified in the notice;
-- (d) state that, if that person does not take, or refrain from taking, such action within the period specified in the notice, and the Secretary of State considers that the specified goods continue to be infringing goods, the Secretary of State may commence proceedings under regulation 15(1); and
-- (e) state the judicial remedies available to that person and the time limits to which those remedies are subject.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] identify the specified goods; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] state why the conditions in paragraph (1) are satisfied in relation to the specified goods; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] specify the period ending not less than twenty-one days from the date of the notice, within which the person on whom the notice is served is required to take, or to refrain from taking, such action as is specified in the notice; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (d (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] state that, if that person does not take, or refrain from taking, such action within the period specified in the notice, and the Secretary of State considers that the specified goods continue to be infringing goods, the Secretary of State may commence proceedings under regulation 15(1); and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (e (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] state the judicial remedies available to that person and the time limits to which those remedies are subject. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) An enforcement notice may—
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] An enforcement notice may— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) require the specified goods to be modified so as to cease to be infringing goods;
-- (b) require the specified goods to be withdrawn from the market;
-- (c) prohibit or restrict the specified goods from being supplied or made available in the United Kingdom in the course of business; or
-- (d) prohibit or restrict the placing on the market of the specified goods.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] require the specified goods to be modified so as to cease to be infringing goods; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] require the specified goods to be withdrawn from the market; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] prohibit or restrict the specified goods from being supplied or made available in *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] Great Britain[^c-92d05ab50666d5790419daef401203f7] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] in the course of business; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (d (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] prohibit or restrict the placing on the market of the specified goods. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(4) No proceedings shall be commenced against a person under regulation 15(1) in connection with any specified goods which it is alleged are infringing goods where—
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] No proceedings shall be commenced against a person under regulation 15(1) in connection with any specified goods which it is alleged are infringing goods where— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) an enforcement notice relating them has been served on that person in respect of those specified goods; and
-- (b) the period specified under paragraph (2)(c) in that notice has not come to an end.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] an enforcement notice relating them has been served on that person in respect of those specified goods; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] the period specified under paragraph (2)(c) in that notice has not come to an end. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(5) In this regulation “specified goods” means the alleged infringing goods that have been identified in a compliance notice in accordance with regulation 13(2)(a).
+(5 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] In this regulation “specified goods” means the alleged infringing goods that have been identified in a compliance notice in accordance with regulation 13(2)(a). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 15. Offences
+### 15 (Extent: N.I.) (affected by repeal, see note). Offences (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) A person who contravenes or fails to comply with any of the requirements of—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A person who contravenes or fails to comply with any of the requirements of— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) regulation 4,
-- (b) regulation 5, 5A or 7[^c-69d54fdab9a40af4587ae317a73c5056] ,
-- (c) regulation 6, or
-- (d) an enforcement notice,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] regulation 4, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] regulation 5, 5A or 7[^c-69d54fdab9a40af4587ae317a73c5056] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7], *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] regulation 6, or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (d (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] an enforcement notice, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-shall be guilty of an offence.
+shall be guilty of an offence. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) A person who intentionally obstructs an enforcement officer who is acting pursuant to any provision of this Part shall be guilty of an offence.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A person who intentionally obstructs an enforcement officer who is acting pursuant to any provision of this Part shall be guilty of an offence. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) A person who is subject to a requirement imposed under regulation 10 or 11(3)(d), (4) or (5) to provide information, documents or records (or copies of information, documents or records) shall be guilty of an offence—
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A person who is subject to a requirement imposed under regulation 10 or 11(3)(d), (4) or (5) to provide information, documents or records (or copies of information, documents or records) shall be guilty of an offence— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) if that person fails, without reasonable excuse, to comply with that requirement; or
-- (b) if—
-  - (i) any information, document or record which that person provides in response to that requirement is false or misleading in a material respect; or
-  - (ii) any statement which that person makes in response to that requirement is false or misleading in a material respect,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] if that person fails, without reasonable excuse, to comply with that requirement; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] if— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] any information, document or record which that person provides in response to that requirement is false or misleading in a material respect; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] any statement which that person makes in response to that requirement is false or misleading in a material respect, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-  and that person either knows that it is false or misleading in a material respect or is reckless as to whether it is false or misleading in a material respect.
+  and that person either knows that it is false or misleading in a material respect or is reckless as to whether it is false or misleading in a material respect. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 16. Penalties
+### 16 (Extent: N.I.) (affected by repeal, see note). Penalties (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) A person who is guilty of an offence under regulation 15(1)(a) or (d) shall be liable—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A person who is guilty of an offence under regulation 15(1)(a) or (d) shall be liable— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum;
-- (b) on conviction on indictment, to a fine.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] on summary conviction, to a fine not exceeding the statutory maximum; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] on conviction on indictment, to a fine. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) A person who is guilty of an offence under regulation 15(1)(b) or (c), (2) or (3) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A person who is guilty of an offence under regulation 15(1)(b) or (c), (2) or (3) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 17. Power of the court to require matters to be remedied
+### 17 (Extent: N.I.) (affected by repeal, see note). Power of the court to require matters to be remedied (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) Where a person is convicted of an offence under regulation 15(1) in respect of any matters which appear to the court to be matters which it is in that person’s power to remedy, the court may, in addition to or instead of imposing any punishment, order that person, within such time as may be fixed by the order, to take such steps as may be specified in the order for remedying those matters.
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Where a person is convicted of an offence under regulation 15(1) in respect of any matters which appear to the court to be matters which it is in that person’s power to remedy, the court may, in addition to or instead of imposing any punishment, order that person, within such time as may be fixed by the order, to take such steps as may be specified in the order for remedying those matters. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) The time fixed by an order under paragraph (1) may be extended or further extended by order of the court on an application made before the end of the time as originally fixed or as extended under this paragraph, as the case may be.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] The time fixed by an order under paragraph (1) may be extended or further extended by order of the court on an application made before the end of the time as originally fixed or as extended under this paragraph, as the case may be. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) Where a person is ordered under paragraph (1) to remedy any matters, that person shall not be guilty of an offence under regulation 15(1) in respect of those matters in so far as they continue during the time fixed by the order or any further time allowed under paragraph (2).
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Where a person is ordered under paragraph (1) to remedy any matters, that person shall not be guilty of an offence under regulation 15(1) in respect of those matters in so far as they continue during the time fixed by the order or any further time allowed under paragraph (2). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 18. Recovery of expenses of enforcement
+### 18 (Extent: N.I.) (affected by repeal, see note). Recovery of expenses of enforcement (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) This regulation applies where a court convicts a person of an offence under regulation 15(1)(a), (b) in relation to a contravention of, or failure to, comply with regulation 5A,[^c-c5129c0c0a9acc6070cd14a93b976f2c] (c) or (d).
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] This regulation applies where a court convicts a person of an offence under regulation 15(1)(a), *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] (b) in relation to a contravention of, or failure to, comply with regulation 5A,[^c-c5129c0c0a9acc6070cd14a93b976f2c] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] (c) or (d). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) The court may (in addition to any other order it may make as to costs or expenses) order the person convicted to reimburse the Secretary of State for any expenditure which the Secretary of State has incurred in investigating the offence, including in having the battery or appliance in respect of which the offence was committed tested.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] The court may (in addition to any other order it may make as to costs or expenses) order the person convicted to reimburse the Secretary of State for any expenditure which the Secretary of State has incurred in investigating the offence, including in having the battery or appliance in respect of which the offence was committed tested. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 19. Commencement of proceedings
+### 19 (Extent: N.I.) (affected by repeal, see note). Commencement of proceedings (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-In England and Wales a magistrates’ court may try an information, and in Northern Ireland a magistrates’ court may try a complaint, in relation to an offence under these Regulations if the information is laid or if the complaint is made within twelve months from the time when the offence is committed. In Scotland summary proceedings for such an offence may be begun at any time within twelve months from the time when the offence is committed.
+In England and Wales a magistrates’ court may try an information *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] [^c-61805d3cc31258fb7ededdc883b560d0]... in relation to an offence under these Regulations if the information is laid *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] [^c-f30cb15c7b9e2198d92a41c7d070ad78]... within twelve months from the time when the offence is committed. In Scotland summary proceedings for such an offence may be begun at any time within twelve months from the time when the offence is committed. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 20. Defence of due diligence
+### 20 (Extent: N.I.) (affected by repeal, see note). Defence of due diligence (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) Subject to the following provisions of this regulation, in proceedings for an offence under regulation 15(1)(a), (c) or (d), a person who is shown to have taken all reasonable steps and exercised all due diligence to avoid committing the offence shall have a defence.
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Subject to the following provisions of this regulation, in proceedings for an offence under regulation 15(1)(a), (c) or (d), a person who is shown to have taken all reasonable steps and exercised all due diligence to avoid committing the offence shall have a defence. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) Where, in any proceedings against a person for such an offence, the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to—
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Where, in any proceedings against a person for such an offence, the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) the act or default of another; or
-- (b) reliance on information given by another,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] the act or default of another; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] reliance on information given by another, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-such a defence shall not, without leave of the court, be relied on unless, not later than seven clear days before the hearing of the proceedings (or, in Scotland, the trial diet), that person has served a notice in accordance with paragraph (3) on the person bringing the proceedings.
+such a defence shall not, without leave of the court, be relied on unless, not later than seven clear days before the hearing of the proceedings (or, in Scotland, the trial diet), that person has served a notice in accordance with paragraph (3) on the person bringing the proceedings. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) A notice under this regulation shall give such information identifying or assisting in the identification of the person who committed the act or default or gave the information as is in the possession of the person serving the notice at the time it is served.
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A notice under this regulation shall give such information identifying or assisting in the identification of the person who committed the act or default or gave the information as is in the possession of the person serving the notice at the time it is served. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(4) A person shall not be entitled to rely on the defence provided by paragraph (1) by reason of that person’s reliance on information supplied by another, unless it is shown that it was reasonable in all the circumstances for that person to have relied on the information, having regard in particular to—
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A person shall not be entitled to rely on the defence provided by paragraph (1) by reason of that person’s reliance on information supplied by another, unless it is shown that it was reasonable in all the circumstances for that person to have relied on the information, having regard in particular to— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) the steps which that person took and those which might reasonably have been taken, for the purpose of verifying the information; and
-- (b) whether that person had any reason to disbelieve the information.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] the steps which that person took and those which might reasonably have been taken, for the purpose of verifying the information; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] whether that person had any reason to disbelieve the information. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 21. Liability of persons other than the principal offender
+### 21 (Extent: N.I.) (affected by repeal, see note). Liability of persons other than the principal offender (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) Where the commission by a person of an offence under these Regulations is due to anything which another person did or failed to do in the course of a business, that other person shall be guilty of the offence and may be proceeded against and punished, whether or not proceedings are taken against the first person.
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Where the commission by a person of an offence under these Regulations is due to anything which another person did or failed to do in the course of a business, that other person shall be guilty of the offence and may be proceeded against and punished, whether or not proceedings are taken against the first person. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) Where a body corporate commits an offence and it is proved that the offence was committed—
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Where a body corporate commits an offence and it is proved that the offence was committed— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) with the consent or connivance of an officer of the body corporate; or
-- (b) as a result of the negligence of an officer of the body corporate,
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] with the consent or connivance of an officer of the body corporate; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] as a result of the negligence of an officer of the body corporate, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-the officer, as well as the body corporate, shall be guilty of the offence.
+the officer, as well as the body corporate, shall be guilty of the offence. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) In paragraph (2) a reference to an officer of a body corporate includes a reference to—
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] In paragraph (2) a reference to an officer of a body corporate includes a reference to— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) a director, manager, company secretary or other similar officer of the body corporate;
-- (b) a person purporting to act as a director, manager, company secretary or other similar officer; and
-- (c) if the affairs of a body corporate are managed by its members, a member.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a director, manager, company secretary or other similar officer of the body corporate; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] a person purporting to act as a director, manager, company secretary or other similar officer; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] if the affairs of a body corporate are managed by its members, a member. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(4) In this regulation references to a “body corporate” include references to a partnership in Scotland, and in relation to such partnership, any reference to a director, manager, company secretary or other similar officer of a body corporate is a reference to a partner.
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] In this regulation references to a “body corporate” include references to a partnership in Scotland, and in relation to such partnership, any reference to a director, manager, company secretary or other similar officer of a body corporate is a reference to a partner. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 22. Service of documents
+### 22 (Extent: N.I.) (affected by repeal, see note). Service of documents (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) Any document required or authorised by these Regulations to be served on a person may be so served—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Any document required or authorised by these Regulations to be served on a person may be so served— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) by delivering it to that person or by leaving it at that person’s proper address or by sending it by post to that person at that address; or
-- (b) if a person is a body corporate, by serving it in accordance with sub-paragraph (a) on the secretary, clerk or other similar officer of that body corporate; or
-- (c) if the person is a partnership, by serving it in accordance with sub-paragraph (a) on a partner or on a person having control or management of the partnership business.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] by delivering it to that person or by leaving it at that person’s proper address or by sending it by post to that person at that address; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] if a person is a body corporate, by serving it in accordance with sub-paragraph (a) on the secretary, clerk or other similar officer of that body corporate; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] if the person is a partnership, by serving it in accordance with sub-paragraph (a) on a partner or on a person having control or management of the partnership business. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) For the purposes of paragraph (1), and for the purposes of section 7 of the Interpretation Act 1978[^f00008] (which relates to the service of documents by post) in its application to that paragraph, the proper address of any person on whom a document is to be served in accordance with these Regulations shall be that person’s last known address except that—
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] For the purposes of paragraph (1), and for the purposes of section 7 of the Interpretation Act 1978 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7][^f00008] (which relates to the service of documents by post) in its application to that paragraph, the proper address of any person on whom a document is to be served in accordance with these Regulations shall be that person’s last known address except that— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) in the case of service on a body corporate or its secretary, clerk or other similar officer, it shall be the address of the registered or principal office of the body corporate;
-- (b) in the case of service on a partnership or a partner or a person having the control or management of a partnership business, it shall be the principal office of the partnership;
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in the case of service on a body corporate or its secretary, clerk or other similar officer, it shall be the address of the registered or principal office of the body corporate; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] in the case of service on a partnership or a partner or a person having the control or management of a partnership business, it shall be the principal office of the partnership; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-and for the purposes of this paragraph, the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+and for the purposes of this paragraph, the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-## PART 4 — Miscellaneous
+## PART 4 (Extent: N.I.) (affected by repeal, see note) — Miscellaneous (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 23. Restrictions on enforcement powers and use of certain evidence under them
+### 23 (Extent: N.I.) (affected by repeal, see note). Restrictions on enforcement powers and use of certain evidence under them (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) Nothing in these Regulations shall be taken as—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] Nothing in these Regulations shall be taken as— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) requiring a person to produce any document which that person would be entitled to refuse to produce in any proceedings in any court on the grounds that it is the subject of legal professional privilege or, in Scotland, that it contains a confidential communication made by or to an advocate or solicitor in that capacity; or
-- (b) authorising a person to take possession of any document which is in the possession of a person who would be so entitled.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] requiring a person to produce any document which that person would be entitled to refuse to produce in any proceedings in any court on the grounds that it is the subject of legal professional privilege or, in Scotland, that it contains a confidential communication made by or to an advocate or solicitor in that capacity; or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] authorising a person to take possession of any document which is in the possession of a person who would be so entitled. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2) A statement by a person in response to a requirement imposed by virtue of regulation 10 may only be used in evidence against that person—
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] A statement by a person in response to a requirement imposed by virtue of regulation 10 may only be used in evidence against that person— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) on a prosecution for an offence under regulation 15(3)(b); or
-- (b) on a prosecution for some other offence where in giving evidence that person makes a statement inconsistent with it.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] on a prosecution for an offence under regulation 15(3)(b); or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] on a prosecution for some other offence where in giving evidence that person makes a statement inconsistent with it. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3) But the statement may not be used against that person by virtue of paragraph (2)(b) unless evidence relating to it is adduced, or a question relating to it is asked, by or on behalf of that person in the proceedings arising out of the prosecution.
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] But the statement may not be used against that person by virtue of paragraph (2)(b) unless evidence relating to it is adduced, or a question relating to it is asked, by or on behalf of that person in the proceedings arising out of the prosecution. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 24. Amendment of the Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Specification) Order 2004
+### 24 (Extent: N.I.) (affected by repeal, see note). Amendment of the Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Specification) Order 2004 (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Schedule 1 to the Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Specification) Order 2004[^f00009] is amended by the addition, at the end, of the following entry—
+Schedule 1 to the Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Specification) Order 2004 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7][^f00009] is amended by the addition, at the end, of the following entry— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-> The Batteries and Accumulators (Placing on the Market) Regulations 2008.
+> The Batteries and Accumulators (Placing on the Market) Regulations 2008. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-.
+. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 25. Revocations
+### 25 (Extent: N.I.) (affected by repeal, see note). Revocations (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Schedule 2 (revocations) shall have effect.
+Schedule 2 (revocations) shall have effect. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-### 26. Review[^c-a75f9ad608cf75489b185aa7f7511ae2]
+### 26 (Extent: N.I.) (affected by repeal, see note). Review (Extent: N.I.) (affected by repeal, see note)[^c-a75f9ad608cf75489b185aa7f7511ae2][^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(1) The Secretary of State must from time to time—
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] The Secretary of State must from time to time— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) carry out a review of regulations 1 to 24,
-- (b) set out the conclusions of the review in a report, and
-- (c) publish the report.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] carry out a review of regulations 1 to 24, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] set out the conclusions of the review in a report, and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] publish the report. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(2)  In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the requirements for placing batteries and accumulators on the market in Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66) of the European Parliament and of the Council on batteries and accumulators and waste batteries and accumulators, as last amended by[^c-b30aceda838361dd390b2d23e47f558a] Directive (EU) 2018/849[^c-511790d08478bf73a9aa6c4ac7840934] of the European Parliament and of the Council, and in the Capacity Labelling Regulation (which are implemented by means of these Regulations) are implemented in other member States.
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7]  In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the requirements for placing batteries and accumulators on the market in Directive *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] [2006/66/ *(Extent: N.I.)* *(affected by repeal, see note)*EC *(Extent: N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/eudr/2006/66)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7] of the European Parliament and of the Council on batteries and accumulators and waste batteries and accumulators *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7], as last amended by[^c-b30aceda838361dd390b2d23e47f558a] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] Directive (EU) 2018/849[^c-511790d08478bf73a9aa6c4ac7840934] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] of the European Parliament and of the Council, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] and in the Capacity Labelling Regulation (which are implemented by means of these Regulations) are implemented in other member States. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(3)  The report must in particular—
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7]  The report must in particular— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-- (a) set out the objectives intended to be achieved by the regulatory system established by those regulations;
-- (b) assess the extent to which those objectives are achieved; and
-- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] set out the objectives intended to be achieved by the regulatory system established by those regulations; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] assess the extent to which those objectives are achieved; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7] assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(4)  The first report under this regulation must be published before the end of the period of 5 years beginning with the 31st May 2012.
+(4 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7]  The first report under this regulation must be published before the end of the period of 5 years beginning with the 31st May 2012. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-(5)  Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+(5 (Extent: N.I.) (affected by repeal, see note))[^c-03bd5a065fd33e9f898609a1f0990dd7]  Reports under this regulation are afterwards to be published at intervals not exceeding five years. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Malcolm Wicks
+Malcolm Wicks *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Minister of State for Energy,
+Minister of State for Energy, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Department for Business, Enterprise and Regulatory Reform
+Department for Business, Enterprise and Regulatory Reform *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-## SCHEDULE 1 — Crossed out wheeled bin symbol
+## SCHEDULE 1 (Extent: N.I.) (affected by repeal, see note) — Crossed out wheeled bin symbol (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Regulation 5
+Regulation 5 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/2164/images/uksi_20082164_en_001)
 
-## SCHEDULE 2 — Revocations
+## SCHEDULE 2 (Extent: N.I.) (affected by repeal, see note) — Revocations (Extent: N.I.) (affected by repeal, see note)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-Regulation 25
+Regulation 25 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7]
 
-| Title | Reference | Extent of revocation |
+| Title *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] | Reference *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] | Extent of revocation *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] |
 | --- | --- | --- |
-| The Batteries and Accumulators (Containing Dangerous Substances) Regulations 1994 | [S.I. 1994/232](https://www.legislation.gov.uk/uksi/1994/232) | The whole Regulations |
-| The Batteries and Accumulators (Containing Dangerous Substances) (Amendment) Regulations 2000 | [S.I. 2000/3097](https://www.legislation.gov.uk/uksi/2000/3097) | The whole Regulations |
-| The Batteries and Accumulators (Containing Dangerous Substances) (Amendment) Regulations 2001 | [S.I. 2001/2551](https://www.legislation.gov.uk/uksi/2001/2551) | The whole Regulations |
-| The Batteries and Accumulators (Containing Dangerous Substances) Regulations (Northern Ireland) 1995 | [S.R. 1995/122](https://www.legislation.gov.uk/nisr/1995/122) | The whole Regulations |
-| The Batteries and Accumulators (Containing Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2002 | [S.R. 2002/300](https://www.legislation.gov.uk/nisr/2002/300) | The whole Regulations |
+| The Batteries and Accumulators (Containing Dangerous Substances) Regulations 1994 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] | [S.I. *(Extent: N.I.)* *(affected by repeal, see note)* 1994/232 *(Extent: N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/uksi/1994/232)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7] | The whole Regulations *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] |
+| The Batteries and Accumulators (Containing Dangerous Substances) (Amendment) Regulations 2000 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] | [S.I. *(Extent: N.I.)* *(affected by repeal, see note)* 2000/3097 *(Extent: N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/uksi/2000/3097)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7] | The whole Regulations *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] |
+| The Batteries and Accumulators (Containing Dangerous Substances) (Amendment) Regulations 2001 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] | [S.I. *(Extent: N.I.)* *(affected by repeal, see note)* 2001/2551 *(Extent: N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/uksi/2001/2551)[^c-03bd5a065fd33e9f898609a1f0990dd7][^c-03bd5a065fd33e9f898609a1f0990dd7] | The whole Regulations *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] |
+| The Batteries and Accumulators (Containing Dangerous Substances) Regulations (Northern Ireland) 1995 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] | [S.R. 1995/122 *(Extent: N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/nisr/1995/122)[^c-03bd5a065fd33e9f898609a1f0990dd7] | The whole Regulations *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] |
+| The Batteries and Accumulators (Containing Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2002 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] | [S.R. 2002/300 *(Extent: N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/nisr/2002/300)[^c-03bd5a065fd33e9f898609a1f0990dd7] | The whole Regulations *(Extent: N.I.)* *(affected by repeal, see note)*[^c-03bd5a065fd33e9f898609a1f0990dd7] |
 
 EXPLANATORY NOTE
 
@@ -554,6 +552,8 @@ An Impact Assessment (IA) in respect of these Regulations is available and a cop
 
 ## Annotations
 
+[^c-03bd5a065fd33e9f898609a1f0990dd7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2164) revoked (N.I.) (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [19(1)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/19/1) (with [reg. 19(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/19/2))
+
 [^f00001]: Footnote: [S.I. 2007/3471](https://www.legislation.gov.uk/uksi/2007/3471).
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Under section 57 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to Scottish Ministers of functions in relation to implementing obligations under Community law in respect of devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by the Secretary of State as regards Scotland.
@@ -564,11 +564,13 @@ An Impact Assessment (IA) in respect of these Regulations is available and a cop
 
 [^c-464a76a2835f7f566ed96dc06a0ab3ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2164/regulation/2/1) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/904/regulation/12/2)
 
-[^c-364b24ed3ee2b868df0ce61c099c34e8]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/13/2/b) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(7)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/7/a))
+[^c-e95bb298c0e98f8a75d2202b96fc64c6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2164/regulation/2/1) substituted (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/20/2)
 
 [^c-f97faf87efe113646fae51d92967c38a]: Textual amendment: Words in reg. 3(2)(a) substituted (31.12.2020) by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/13/3/a) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(7)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/7/b))
 
 [^c-b06b5c6aa0f1d92931ca8aa23bbca39e]: Textual amendment: Reg. 3(3) inserted by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [reg. 13(3)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/13/3/b) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(7)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/7/b))
+
+[^c-78a25b3e5a28feeac726162034a061d8]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2008/2164/regulation/3/3/b) omitted (17.10.2026) by virtue of [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/20/3)
 
 [^c-e02a8777d63323e9d9c0f37dd2b38fed]: Textual amendment: Reg. 4(2) omitted (1.10.2015) by virtue of [The Batteries and Accumulators (Placing on the Market) (Amendment) Regulations 2015 (S.I. 2015/63)](https://www.legislation.gov.uk/uksi/2015/63), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/63/regulation/1/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2015/63/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/63/regulation/3/2))
 
@@ -596,9 +598,21 @@ An Impact Assessment (IA) in respect of these Regulations is available and a cop
 
 [^c-3c7847ac69f402355ec55acaec308e4d]: Textual amendment: Words in [reg. 7(6)(b)](https://www.legislation.gov.uk/uksi/2008/2164/regulation/7/6/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 15](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/15)
 
+[^c-d544c437bb874ddeca763591b4bc7996]: Textual amendment: Words in [reg. 7(7)](https://www.legislation.gov.uk/uksi/2008/2164/regulation/7/7) omitted (17.10.2026) by virtue of [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/20/5)
+
+[^c-1dc1d911cfa043fee2739839ff4d9b40]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2008/2164/regulation/13/1/b) substituted (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [20(6)(a)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/20/6/a)
+
+[^c-e2d8734de2eddc420216499591f6c6cb]: Textual amendment: Words in [reg. 13(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2008/2164/regulation/13/2/c/ii) substituted (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [20(6)(b)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/20/6/b)
+
+[^c-92d05ab50666d5790419daef401203f7]: Textual amendment: Words in [reg. 14(3)(c)](https://www.legislation.gov.uk/uksi/2008/2164/regulation/14/3/c) substituted (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [20(7)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/20/7)
+
 [^c-69d54fdab9a40af4587ae317a73c5056]: Textual amendment: Words in reg. 15(1)(b) substituted (31.5.2012) by virtue of [The Batteries and Accumulators (Placing on the Market) (Amendment) Regulations 2012 (S.I. 2012/1139)](https://www.legislation.gov.uk/uksi/2012/1139), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1139/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1139/regulation/2/3)
 
 [^c-c5129c0c0a9acc6070cd14a93b976f2c]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2008/2164/regulation/18/1) inserted (31.5.2012) by [The Batteries and Accumulators (Placing on the Market) (Amendment) Regulations 2012 (S.I. 2012/1139)](https://www.legislation.gov.uk/uksi/2012/1139), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1139/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/1139/regulation/2/4)
+
+[^c-61805d3cc31258fb7ededdc883b560d0]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2008/2164/regulation/19) omitted (17.10.2026) by virtue of [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [20(8)(a)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/20/8/a)
+
+[^c-f30cb15c7b9e2198d92a41c7d070ad78]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2008/2164/regulation/19) omitted (17.10.2026) by virtue of [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [20(8)(b)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/20/8/b)
 
 [^f00008]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 

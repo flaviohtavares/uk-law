@@ -3,16 +3,16 @@ title: The Prisons and Young Offenders Institutions (Scotland) Rules 2011
 id: ssi/2011/331
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2011-09-12'
-text_date: '2025-11-10'
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2011/331
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2011/331/pdfs/ssien_20110331_en.pdf
 - http://www.legislation.gov.uk/ssi/2011/331/pdfs/ssi_20110331_en.pdf
 - http://www.legislation.gov.uk/ssi/2011/331/data.pdf
-pending_changes: 11
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Prisons and Young Offenders Institutions (Scotland) Rules 2011
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2025-11-10. See https://www.legislation.gov.uk/changes/affected/ssi/2011/331
+> Text as at 2026-10-29.
 >
 > Extent: Scotland.
 
@@ -115,7 +115,7 @@ The Scottish Ministers make the following Rules in exercise of the powers confer
 
 *Extent: S*
 
-- [Section 36 — Use of nicotine vapour products](part-5/section-36.md)
+- [Section 36 — Use of vaping products](part-5/section-36.md)
 - [Section 37 — Provision of accommodation for healthcare services](part-5/section-37.md)
 - [Section 38 — Notification to a healthcare professional of prisoners requiring attention](part-5/section-38.md)
 - [Section 39 — Arrangements for care outwith prison](part-5/section-39.md)

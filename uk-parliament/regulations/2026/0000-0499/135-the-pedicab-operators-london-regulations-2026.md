@@ -3,15 +3,15 @@ title: The Pedicab Operators (London) Regulations 2026
 id: uksi/2026/135
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2026-02-18'
-text_date: '2026-03-09'
+text_date: '2026-10-27'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/135
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/135/pdfs/uksi_20260135_en.pdf
 - http://www.legislation.gov.uk/uksi/2026/135/data.pdf
-pending_changes: 25
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Pedicab Operators (London) Regulations 2026
 
-> **Warning: changes not yet applied to this text (25).** Text as at 2026-03-09. See https://www.legislation.gov.uk/changes/affected/uksi/2026/135
+> Text as at 2026-10-27.
 >
 > Extent: England, Wales.
 
@@ -48,7 +48,7 @@ Transport for London, having consulted in accordance with section 1(3) of the Pe
 (2) These Regulations come into force as follows—
 
 - (a) this regulation and regulations 2 and 4 to 9 come into force on 9th March 2026; and
-- (b) regulations 3 and 10 to 28 come into force on 30th October 2026.
+- (b) regulations 3 and 10 to 28 come into force on 27th November[^c-b92fdfe31e482848f53024874d8e099b] 2026.
 
 ### 2. Interpretation[^c-cbecee0d1e9b50dc3c88dbe8298aec27]
 
@@ -59,6 +59,7 @@ In these Regulations—
 - “**additional services**” means the provision of commentary, entertainment or hospitality;
 - “**the appropriate fee**” means the fee which TfL may charge in accordance with regulation 11 of, and table 2 in the Schedule to, the Fares and Fees Regulations;
 - “**associated person**” means any individual, firm, company or any other body, undertaking or other group of persons having an interest in the operator’s licence (including during the application process for an operator’s licence) including any partner or officer or representatives specifically nominated by any of the aforementioned, as the context may require;
+- “authorised officer” means a person authorised in writing by TfL for the purposes of these Regulations[^c-8a6b39bbe6c9c60caa524fa48909a07e];
 - “**cab-driver’s licence**” has the meaning given in article 2 of the London Cab Order 1934[^f00004];
 - “**DBS certificate**” means a criminal records certificate issued by the Disclosure and Barring Service for the purposes of Part V of the Police Act 1997[^f00005];
 - “**DBS check**” means a criminal records check with the Disclosure and Barring Service for the purposes of Part V of the Police Act 1997;
@@ -368,7 +369,7 @@ TfL may issue a replacement licence.
 
 ### 16. Particulars of pedicab bookings[^c-4564dfaabc735935ece5bd49987ebd6b]
 
-An operator is required to enter the following particulars of any pedicab booking which it operates in the record referred to in regulation 15 (form of record of pedicab bookings)—
+Before the commencement of a journey, an[^c-7245b3ed08579ff7a175e20843203f6d] operator is required to enter the following particulars of any pedicab booking which it operates in the record referred to in regulation 15 (form of record of pedicab bookings)—
 
 - (a) the date on which the pedicab booking is made and, if different, the date of the proposed journey;
 - (b) the name of the person who accepted the pedicab booking at the operating centre;
@@ -652,7 +653,11 @@ the operator must, within 14 days of the date of such event (other than sub-para
   - (i) notify TfL; and
   - (ii) obtain TfL’s consent to the change.
 
-**5.**[^c-095fd3b702e995778649cdbd60b6efa7] An operator must maintain in force a policy of insurance against public liability risks which provides a minimum indemnity of £5,000,000 in respect of any one event.
+**5.**[^c-095fd3b702e995778649cdbd60b6efa7] An operator must maintain in force a policy of insurance —[^c-9cb82d6fdaced37ee3b26f12f3212430]
+
+- (a) as specified by TfL;
+- (b) produce the certificate of insurance held in accordance with this paragraph for inspection when requested to do so by a police constable or authorised officer; and
+- (c) provide a copy of the certificate of insurance held in accordance with this paragraph to the pedicab driver and the pedicab vehicle licence holder if required to do so by TfL.
 
 **6.**[^c-6150fb81a605ca0acfe17740318c0995] The operator must enter into a contractual obligation as principal with the person making the pedicab booking to provide the journey which is the subject of the booking and any such contractual obligation must be consistent with these Regulations.
 
@@ -666,7 +671,7 @@ the operator must, within 14 days of the date of such event (other than sub-para
 
 **9.**[^c-fe2a0c330ef9593d0c0ae84cb95ea0ea] At all times during the operator’s hours of business and at all times during a journey, the operator, unless the operator is a fleet operator, must ensure that the person for whom the pedicab booking was made is able to speak to a person at the operating centre if the person wants to make a complaint or discuss any other matter about the carrying out of the pedicab booking with the operator.
 
-**10.**[^c-57a741a372ee122a22d5e72a2391f27b] The operator must provide to TfL such particulars of pedicab drivers and pedicab vehicles at such frequency as may be specified by TfL from time to time, including the location of storage facilities for pedicab vehicles which it controls or manages.
+**10.**[^c-57a741a372ee122a22d5e72a2391f27b] The operator must provide to TfL such particulars of pedicab drivers and pedicab vehicles at such frequency as may be specified by TfL from time to time [^c-52c1a1e7ce0288137fb69cb807e01a8a]....
 
 **11.**[^c-4cbf3d126f32d1708d652eb385a180a5] The operator must provide to TfL such particulars of—
 
@@ -750,11 +755,15 @@ The Schedule sets out further requirements attached to operator licences. These 
 
 [^c-b9ead9a4ad449e286f084b6672fb0e8e]: Commencement: Reg. 1 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
 
+[^c-b92fdfe31e482848f53024874d8e099b]: Textual amendment: Words in reg. 1 substituted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12)
+
 [^c-cbecee0d1e9b50dc3c88dbe8298aec27]: Commencement: Reg. 2 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
 
 [^f00002]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13).
 
 [^f00003]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^c-8a6b39bbe6c9c60caa524fa48909a07e]: Textual amendment: Words in reg. 2 inserted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [13](https://www.legislation.gov.uk/uksi/2026/1122/regulation/13)
 
 [^f00004]: Footnote: [S.I. 1934/1346](https://www.legislation.gov.uk/uksi/1934/1346).
 
@@ -810,6 +819,8 @@ The Schedule sets out further requirements attached to operator licences. These 
 
 [^c-4564dfaabc735935ece5bd49987ebd6b]: Commencement: Reg. 16 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
 
+[^c-7245b3ed08579ff7a175e20843203f6d]: Textual amendment: Words in reg. 16 substituted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [14](https://www.legislation.gov.uk/uksi/2026/1122/regulation/14)
+
 [^c-f5602b8d23a94e9c5c9148c24e538647]: Commencement: Reg. 17 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
 
 [^c-cb78249f96aab9470af5fc2feab1a19c]: Commencement: Reg. 18 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
@@ -846,6 +857,8 @@ The Schedule sets out further requirements attached to operator licences. These 
 
 [^c-095fd3b702e995778649cdbd60b6efa7]: Commencement: Sch. para. 5 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
 
+[^c-9cb82d6fdaced37ee3b26f12f3212430]: Textual amendment: Words in Sch. para. 5 substituted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/15/2)
+
 [^c-6150fb81a605ca0acfe17740318c0995]: Commencement: Sch. para. 6 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
 
 [^c-93e8cf1b777038edf855befbd666a196]: Commencement: Sch. para. 7 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
@@ -855,6 +868,8 @@ The Schedule sets out further requirements attached to operator licences. These 
 [^c-fe2a0c330ef9593d0c0ae84cb95ea0ea]: Commencement: Sch. para. 9 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
 
 [^c-57a741a372ee122a22d5e72a2391f27b]: Commencement: Sch. para. 10 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
+
+[^c-52c1a1e7ce0288137fb69cb807e01a8a]: Textual amendment: Words in Sch. para. 10 omitted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2026/1122/regulation/15/3)
 
 [^c-4cbf3d126f32d1708d652eb385a180a5]: Commencement: Sch. para. 11 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
 

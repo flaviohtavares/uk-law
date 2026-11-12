@@ -3,16 +3,16 @@ title: The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Amendmen
 id: ssi/2008/238
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-06'
-text_date: null
-extent: null
+text_date: '2008-06-06'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/238
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/238/pdfs/ssien_20080238_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/238/pdfs/ssi_20080238_en.pdf
-- http://www.legislation.gov.uk/ssi/2008/238/made/data.pdf
-pending_changes: 5
+- http://www.legislation.gov.uk/ssi/2008/238/data.pdf
+pending_changes: 12
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Amendment Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (12).** Text as at 2008-06-06. See https://www.legislation.gov.uk/changes/affected/ssi/2008/238
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**Not yet in force.**
 
 2008 No. 238
 
@@ -40,7 +46,7 @@ Coming into force in accordance with regulation 1
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 7(2) of the Adults with Incapacity (Scotland) Act 2000[^f00001] and of other powers enabling them to do so.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-814e35717425a2facb4e93e22573e99e]
 
 (1) These Regulations may be cited as the Adults with Incapacity (Public Guardian’s Fees) (Scotland) Amendment Regulations 2008 and, subject to paragraphs (2) and (3), shall come into force on 1st August 2008.
 
@@ -48,7 +54,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) Regulation 2(3)(c) and Schedule 3 shall come into force, and regulation 2(3)(b) and Schedule 2 shall cease to have effect, on 1st April 2010.
 
-## 2. Amendment of the Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2008
+## 2. Amendment of the Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2008[^c-5f6b151660d765ef9f8fcd7ffe896037][^c-d60a18a7cca7c57710c2a8d79b4f5619][^c-ce203b352364547db650d9c061b6650a]
 
 (1) The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2008[^f00002] shall be amended in accordance with the following paragraphs.
 
@@ -299,6 +305,14 @@ These Regulations further specify new fee levels which will be applicable from 1
 ## Annotations
 
 [^f00001]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4) as amended by the [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10). See section 87(1) and (1A) for the definition of “prescribe” and section 86(1) as to power to make regulations.
+
+[^c-814e35717425a2facb4e93e22573e99e]: Commencement: Reg. 1 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/238/regulation/1/1)
+
+[^c-5f6b151660d765ef9f8fcd7ffe896037]: Commencement: Reg. 2(03)(c) in force at 1.4.2010, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2008/238/regulation/1/3)
+
+[^c-d60a18a7cca7c57710c2a8d79b4f5619]: Commencement: Reg. 2(1)(2)(3)(a) in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/238/regulation/1/1)
+
+[^c-ce203b352364547db650d9c061b6650a]: Commencement: Reg. 2(3)(b) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/238/regulation/1/2)
 
 [^f00002]: Footnote: [S.S.I. 2008/52](https://www.legislation.gov.uk/ssi/2008/52).
 

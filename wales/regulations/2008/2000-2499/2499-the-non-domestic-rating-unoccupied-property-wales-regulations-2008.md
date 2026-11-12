@@ -3,15 +3,15 @@ title: The Non-Domestic Rating (Unoccupied Property) (Wales) Regulations 2008
 id: wsi/2008/2499
 type: WelshStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-20'
-text_date: '2008-09-20'
+text_date: '2024-11-04'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/2499
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/2499/pdfs/wsi_20082499_mi.pdf
 - http://www.legislation.gov.uk/wsi/2008/2499/data.pdf
-pending_changes: 6
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,13 +19,11 @@ summary: ''
 
 # The Non-Domestic Rating (Unoccupied Property) (Wales) Regulations 2008
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2008-09-20. See https://www.legislation.gov.uk/changes/affected/wsi/2008/2499
+> Text as at 2024-11-04.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 2499 (W.217)
 
@@ -82,19 +80,19 @@ The relevant non-domestic hereditaments described in this regulation are any her
 - (b) which is a qualifying industrial hereditament and the whole of which, subject to regulation 5, has been unoccupied for a continuous period not exceeding six months;
 - (c) whose owner is prohibited by law from occupying it or allowing it to be occupied;
 - (d) which is kept vacant by reason of action taken by or on behalf of the Crown or any local or public authority with a view to prohibiting the occupation of the hereditament or to acquiring it;
-- (e) which is the subject of a building preservation notice within the meaning of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00003] or is included in a list compiled under section 1 of that Act;
-- (f) which is included in the Schedule of monuments compiled under section 1 of the Ancient Monuments and Archaeological Areas Act 1979[^f00004];
-- (g) whose rateable value is less than £2,200;
+- (e)[^c-3905565689eda250022651ace6e07d33] which is the subject of a temporary listing notice under section 83 or 84 of the Historic Environment (Wales) Act 2023 or is included in the list maintained under section 76(1) of that Act;
+- (f) which is included in the Schedule of monuments compiled under section 3 of the Historic Environment (Wales) Act 2023[^c-0ff9962ebf305ac163ef3b7b6d85adc5];
+- (g) whose rateable value is less than £2,600[^c-d0b1bb063c086c5d4af5304e2d64ebb7];
 - (h) whose owner is entitled to possession only in his or her capacity as the personal representative of a deceased person;
 - (i) where, in respect of the owner’s estate, there subsists a bankruptcy order within the meaning of section 381(2) of the Insolvency Act 1986[^f00005];
-- (j) whose owner is entitled to possession in his or her capacity as trustee under a deed of arrangement to which the Deeds of Arrangement Act 1914[^f00006] applies;
+- (j)[^c-7473d720aba972992d616d094f9ec6e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) whose owner is a company which is subject to a winding-up order made under the Insolvency Act 1986 or which is being wound up voluntarily under that Act;
 - (l) whose owner is a company in administration within the meaning of paragraph 1 of Schedule B1 to the Insolvency Act 1986 or is subject to an administration order made under the former administration provisions within the meaning of article 3 of the Enterprise Act 2002 (Commencement No. 4 and Transitional Provisions and Savings) Order 2003[^f00007];
 - (m) whose owner is entitled to possession in his or her capacity as liquidator by virtue of an order made under section 112 or section 145 of the Insolvency Act 1986.
 
 ## 5. Continuous occupation[^c-1e74fbe636d09047e06228191443041e]
 
-A hereditament which has been unoccupied and becomes occupied on any day is to be treated as having been continuously unoccupied for the purposes of regulation 4(a) and (b) if it becomes unoccupied again on the expiration of a period of less than six weeks beginning with that day.
+A hereditament which has been unoccupied and becomes occupied on any day is to be treated as having been continuously unoccupied for the purposes of regulation 4(a) and (b) if it becomes unoccupied again on the expiration of a period of less than 26 weeks[^c-1d921343efbf4736f620c1246dc0d5f1] beginning with that day.
 
 ## 6. Hereditaments not previously occupied[^c-a1d1a078640d1b34fb22ee21fc812c84]
 
@@ -137,32 +135,36 @@ A regulatory impact assessment has been prepared in connection with these Regula
 
 [^f00002]: Footnote: The functions of the Secretary of State contained in the Local Government Finance Act 1988 in relation to Wales were transferred to the National Assembly for Wales by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2, Schedule 1). The functions of the National Assembly for Wales were vested in the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^c-4eeba1d4cc87bef966ec2cf37155c32e]: Commencement: Reg. 1 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-4eeba1d4cc87bef966ec2cf37155c32e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1) in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
-[^c-ad9994bd19f53607a0de02a0f19d4604]: Commencement: Reg. 2 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-ad9994bd19f53607a0de02a0f19d4604]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2008/2499/regulation/2) in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
-[^c-657cc439eeab3bc3389e65e03011331e]: Commencement: Reg. 3 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-657cc439eeab3bc3389e65e03011331e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2008/2499/regulation/3) in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
-[^c-46fd344633213bc20494a227e79f541c]: Commencement: Reg. 4 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-46fd344633213bc20494a227e79f541c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2008/2499/regulation/4) in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
-[^f00003]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). “Building preservation notice” is defined in section 91(1).
+[^c-3905565689eda250022651ace6e07d33]: Textual amendment: [Reg. 4(e)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/4/e) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [43(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/43/a)
 
-[^f00004]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
+[^c-0ff9962ebf305ac163ef3b7b6d85adc5]: Textual amendment: Words in [reg. 4(f)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/4/f) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [43(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/43/b)
+
+[^c-d0b1bb063c086c5d4af5304e2d64ebb7]: Textual amendment: Sum in [reg. 4(g)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/4/g) substituted (28.2.2011 with application in accordance with reg. 1(2)) by [The Non-Domestic Rating (Unoccupied Property) (Wales) (Amendment) Regulations 2011 (S.I. 2011/197)](https://www.legislation.gov.uk/wsi/2011/197), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/197/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2011/197/regulation/2)
 
 [^f00005]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^f00006]: Footnote: [1914 c. 47](https://www.legislation.gov.uk/ukpga/1914/47).
+[^c-7473d720aba972992d616d094f9ec6e8]: Textual amendment: [Reg. 4(j)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/4/j) omitted (1.10.2015) by virtue of [The Deregulation Act 2015 (Insolvency) (Consequential Amendments and Transitional and Savings Provisions) Order 2015 (S.I. 2015/1641)](https://www.legislation.gov.uk/uksi/2015/1641), [art. 3](https://www.legislation.gov.uk/uksi/2015/1641/article/3), [Sch. 3 para. 3(9)](https://www.legislation.gov.uk/uksi/2015/1641/schedule/3/paragraph/3/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2015/1641/article/10))
 
 [^f00007]: Footnote: [S.I. 2003/2093 (C.85)](https://www.legislation.gov.uk/uksi/2003/2093), to which there are amendments not relevant to these Regulations.
 
-[^c-1e74fbe636d09047e06228191443041e]: Commencement: Reg. 5 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-1e74fbe636d09047e06228191443041e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2008/2499/regulation/5) in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
-[^c-a1d1a078640d1b34fb22ee21fc812c84]: Commencement: Reg. 6 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-1d921343efbf4736f620c1246dc0d5f1]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/wsi/2008/2499/regulation/5) substituted (1.4.2022) by [The Non-Domestic Rating (Unoccupied Property) (Wales) (Amendment) Regulations 2021 (S.I. 2021/118)](https://www.legislation.gov.uk/wsi/2021/118), [regs. 1](https://www.legislation.gov.uk/wsi/2021/118/regulation/1), [2](https://www.legislation.gov.uk/wsi/2021/118/regulation/2)
+
+[^c-a1d1a078640d1b34fb22ee21fc812c84]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2008/2499/regulation/6) in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
 [^f00008]: Footnote: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9).
 
 [^f00009]: Footnote: Schedule 4A was inserted by paragraph 36 of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^c-f40e6a981e6c1db9ba204ec598921e83]: Commencement: Reg. 7 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-f40e6a981e6c1db9ba204ec598921e83]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2008/2499/regulation/7) in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 1989/2261](https://www.legislation.gov.uk/uksi/1989/2261) which was revoked in its application to England by [S.I. 2008/386](https://www.legislation.gov.uk/uksi/2008/386).

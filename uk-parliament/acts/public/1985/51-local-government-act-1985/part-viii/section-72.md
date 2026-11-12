@@ -3,7 +3,7 @@ title: Local Government Act 1985, section 72
 act: Local Government Act 1985
 section: '72'
 status: revised-with-pending-changes
-text_date: '2026-04-29'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1985/51/section/72
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Local Government Act 1985, section 72
 
-> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
 > Extent: England, Wales.
 
-## 72. Accounts and audit.
+## 72. Accounts and audit.[^c-d623374de1c1821f50a09caa4799295c]
 
 *Extent: E+W*
 
@@ -36,6 +36,8 @@ summary: ''
 - (d)[^c-ead656aab8c00dd256537dd1005dac94] a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023.
 
 ## Annotations
+
+[^c-d623374de1c1821f50a09caa4799295c]: Modification: [S. 72](https://www.legislation.gov.uk/ukpga/1985/51/section/72) modified in part (E.) (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/6/a) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c3164831]: Modification: S. 72(1)(2)(4) amended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 9(1)](https://www.legislation.gov.uk/uksi/1985/1884/article/9/1)
 

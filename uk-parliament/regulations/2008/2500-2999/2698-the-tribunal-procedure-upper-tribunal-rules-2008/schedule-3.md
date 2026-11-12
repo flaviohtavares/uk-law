@@ -2,8 +2,8 @@
 title: The Tribunal Procedure (Upper Tribunal) Rules 2008, SCHEDULE 3
 act: The Tribunal Procedure (Upper Tribunal) Rules 2008
 section: schedule-3
-status: revised-with-pending-changes
-text_date: '2026-09-30'
+status: revised
+text_date: '2026-11-06'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2008/2698/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Tribunal Procedure (Upper Tribunal) Rules 2008, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
+> Text as at 2026-11-06.
 
 ## SCHEDULE 3 — Procedure in financial services cases and Wholesale Energy Cases[^c-f1af02cb3a030168cb14db92d1553fb4][^c-fe5bdb7822239624a61cd39846fa5023]
 

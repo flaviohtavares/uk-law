@@ -69,7 +69,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Official Statistics (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/131-the-official-statistics-scotland-order-2008.md)
 - [The Official Statistics Order 2008](../uk-parliament/regulations/2008/0500-0999/928-the-official-statistics-order-2008.md) *(as originally made)*
 - [The Pre-release Access to Official Statistics (Scotland) Order 2008](../scotland/regulations/2008/0000-0499/399-the-pre-release-access-to-official-statistics-scotland-order-2008.md)
-- [The Pre-release Access to Official Statistics Order 2008](../uk-parliament/regulations/2008/2500-2999/2998-the-pre-release-access-to-official-statistics-order-2008.md) *(as originally made)*
+- [The Pre-release Access to Official Statistics Order 2008](../uk-parliament/regulations/2008/2500-2999/2998-the-pre-release-access-to-official-statistics-order-2008.md)
 - [The Statistics and Registration Service Act 2007 (Commencement No. 2 and Transitional Provision) Order 2008](../uk-parliament/regulations/2008/0500-0999/839-the-statistics-and-registration-service-act-2007-commencement-no-2-and-transitio.md) *(as originally made)*
 
 **2007**

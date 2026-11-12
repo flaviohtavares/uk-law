@@ -3,7 +3,7 @@ title: The Prisons and Young Offenders Institutions (Scotland) Rules 2011, SCHED
 act: The Prisons and Young Offenders Institutions (Scotland) Rules 2011
 section: schedule-3
 status: repealed
-text_date: '2025-11-10'
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2011/331/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
