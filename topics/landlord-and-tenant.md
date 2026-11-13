@@ -12,7 +12,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Commonhold and Leasehold Reform Act 2002](../uk-parliament/acts/public/2002/15-commonhold-and-leasehold-reform-act-2002/README.md) *(changes pending)* — 35 regulations on this topic made under it
 - [Rent Act 1977](../uk-parliament/acts/public/1977/42-rent-act-1977/README.md) *(changes pending)* — 30 regulations on this topic made under it
 - [The Private Tenancies (Northern Ireland) Order 2006](../northern-ireland/orders-in-council/2006/1459-the-private-tenancies-northern-ireland-order-2006/README.md) — 28 regulations on this topic made under it
-- [Landlord and Tenant Act 1985](../uk-parliament/acts/public/1985/70-landlord-and-tenant-act-1985.md) *(changes pending)* — 22 regulations on this topic made under it
+- [Landlord and Tenant Act 1985](../uk-parliament/acts/public/1985/70-landlord-and-tenant-act-1985.md) *(changes pending)* — 23 regulations on this topic made under it
 - [Landlord and Tenant Act 1987](../uk-parliament/acts/public/1987/31-landlord-and-tenant-act-1987/README.md) *(changes pending)* — 20 regulations on this topic made under it
 - [Landlord and Tenant Act 1954](../uk-parliament/acts/public/eliz2-2-3/56-landlord-and-tenant-act-1954/README.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Agricultural Holdings (Scotland) Act 2003](../scotland/acts/2003/11-agricultural-holdings-scotland-act-2003/README.md) *(changes pending)* — 12 regulations on this topic made under it
@@ -30,13 +30,14 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-417 in force.
+418 in force.
 
 **2026**
 
 - [The Approval of Code of Management Practice (Residential Management) (Service Charges) (England) Order 2026](../uk-parliament/regulations/2026/0000-0499/298-the-approval-of-code-of-management-practice-residential-management-service-charg.md) *(as originally made)*
 - [The Assured Tenancies (Private Rented Sector) (Prescribed Forms and Transitional Provisions) (England) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/354-the-assured-tenancies-private-rented-sector-prescribed-forms-and-transitional-pr.md) *(as originally made)*
 - [The Assured Tenancies (Private Rented Sector) (Written Statement of Terms etc and Information Sheet) (England) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/324-the-assured-tenancies-private-rented-sector-written-statement-of-terms-etc-and-i.md) *(as originally made)*
+- [The Building Insurance Information (England) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1181-the-building-insurance-information-england-regulations-2026.md) *(as originally made)*
 - [The Domestic Abuse (Protection) (Scotland) Act 2021 (Consequential and Supplementary Amendments) Regulations 2026](../scotland/regulations/2026/0000-0499/133-the-domestic-abuse-protection-scotland-act-2021-consequential-and-supplementary.md) *(as originally made)*
 - [The Housing Act 1988 (Assured Tenancies) (Definition of Legal Representative) (England) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/321-the-housing-act-1988-assured-tenancies-definition-of-legal-representative-englan.md) *(as originally made)*
 - [The Leasehold and Freehold Reform Act 2024 (Commencement No. 4 and Saving Provision) (England) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1128-the-leasehold-and-freehold-reform-act-2024-commencement-no-4-and-saving-provisio.md) *(as originally made)*

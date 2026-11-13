@@ -3,15 +3,15 @@ title: The Building (Registered Building Control Approvers etc.) (Wales) Regulat
 id: wsi/2024/1268
 type: WelshStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2024-11-28'
-text_date: '2025-07-01'
+text_date: '2026-07-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2024/1268
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2024/1268/pdfs/wsi_20241268_mi.pdf
 - http://www.legislation.gov.uk/wsi/2024/1268/data.pdf
-pending_changes: 45
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024
 
-> **Warning: changes not yet applied to this text (45).** Text as at 2025-07-01. See https://www.legislation.gov.uk/changes/affected/wsi/2024/1268
+> Text as at 2026-07-20.
 >
 > Extent: England, Wales.
 
@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred on them by sections 1(1)[^f00001], 2A[^f00002], 34, 35, 47(1)[^f00003], (2), (3), (4)[^f00004] and (5)[^f00005], 50(1A), (1D)[^f00006], (4)[^f00007], (6), and (7)[^f00008], 51(1)[^f00009] and (2), 51A(2)[^f00010], (3), (5) and (6), 52(1)[^f00011], (2) and (4), 53(2), (4), (4B)[^f00012], (4C)[^f00013], and (7), 53B(5)[^f00014], (2)[^f00015], (3)[^f00016], (5)[^f00017], (5A)[^f00018] and (7)[^f00019], 52A(1)[^f00020], 53C(3)[^f00021] and (6), 53D(2)[^f00022], (3), (5), 54(1)[^f00023], (2) and (3), 56(1)[^f00024], 58C(5), 58O(4), 58U(4), 58V(4)[^f00025], and 92(2)[^f00026] of, and paragraphs 1[^f00027], 1A, 1D, 1F, 1G, 1H, 1I[^f00028], 5B[^f00029], 7[^f00030], 8[^f00031] and 10[^f00032] of Schedule 1 and paragraphs 1, 2[^f00033], 3 , 4( and 5 of Schedule 4 to, the Building Act 1984[^f00034] and sections 41 and 167(1) of the Building Safety Act 2022[^f00035].
 
-The Welsh Ministers have, in accordance with section 14(7) of the 1984 Act, consulted the Building Regulations Advisory Committee for Wales.
+The Welsh Ministers have, in accordance with section 14(7) of the 1984 Act, consulted the Building Regulations Advisory Committee for Wales.[^c-13ed9aee870c144986f4e1e0d2e701dd]
 
 ## Contents
 
@@ -76,6 +76,10 @@ The Welsh Ministers have, in accordance with section 14(7) of the 1984 Act, cons
 - [Section 11 — Effect of plans certificate](part-3/section-11.md)
 - [Section 12 — Form, grounds and period for rejecting final certificate](part-3/section-12.md)
 - [Section 13 — Form of notice under section 51C of the 1984 Act](part-3/section-13.md)
+- [Section 13A — Notice before starting work and further notice when work is “commenced” etc.](part-3/section-13a.md)
+- [Section 13B — Lapse of initial notice: commencement of work](part-3/section-13b.md)
+- [Section 13C — Notifying a Registered Building Control Approver of a change in dutyholders](part-3/section-13c.md)
+- [Section 13D — Compliance declaration to be given to Registered Building Control Approvers](part-3/section-13d.md)
 - [Section 14 — Events causing initial notice to cease to be in force](part-3/section-14.md)
 - [Section 15 — Cancellation of initial notice: forms etc.](part-3/section-15.md)
 - [Section 16 — Cancellation of initial notice: notice of contravention of building regulations](part-3/section-16.md)
@@ -85,6 +89,7 @@ The Welsh Ministers have, in accordance with section 14(7) of the 1984 Act, cons
 *Extent: E+W*
 
 - [Section 17 — Local authority powers in relation to partly completed work](part-4/section-17.md)
+- [Section 17A — Completion notices](part-4/section-17a.md)
 - [Section 18 — Periods within which information on work to which an initial notice relates must be provided](part-4/section-18.md)
 
 ### PART 5 — Transfer of projects to another approver
@@ -124,7 +129,7 @@ The Welsh Ministers have, in accordance with section 14(7) of the 1984 Act, cons
 
 *Extent: E+W*
 
-- [Section 37 — Contravention of certain regulations not to be an offence](part-8/section-37.md)
+- [Section 37 — Contravention of certain regulations not to be an offence or be subject to a compliance notice](part-8/section-37.md)
 - [Section 38 — Consequential amendment to the Regulatory Reform (Fire Safety) Order 2005](part-8/section-38.md)
 - [Section 39 — Consequential amendments to the Building (Local Authority Charges) Regulations 2010](part-8/section-39.md)
 - [Section 40 — Consequential amendment to the 2010 Regulations](part-8/section-40.md)
@@ -285,3 +290,5 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 [^f00034]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55).
 
 [^f00035]: Footnote: [2022 c. 30](https://www.legislation.gov.uk/ukpga/2022/30).
+
+[^c-13ed9aee870c144986f4e1e0d2e701dd]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2024/1268) continued (1.7.2026) by [The Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025 (S.I. 2025/1321)](https://www.legislation.gov.uk/wsi/2025/1321), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/wsi/2025/1321/schedule/3/paragraph/1/2)

@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 18
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '18'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 18. Offences and penalties
+## 18. Offences and penalties[^c-1cfae5f9e06b16c9ec900b84318928cf]
+
+*Extent: E+W*
 
 (1) If—
 
@@ -32,3 +36,7 @@ he shall be guilty of an offence and shall be liable—
 - (b) one year from its discovery by the prosecutor;
 
 whichever is the earlier.
+
+## Annotations
+
+[^c-1cfae5f9e06b16c9ec900b84318928cf]: Commencement: Reg. 18 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

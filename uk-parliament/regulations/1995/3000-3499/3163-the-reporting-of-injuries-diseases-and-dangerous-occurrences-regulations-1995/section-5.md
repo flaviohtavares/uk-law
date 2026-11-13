@@ -2,9 +2,9 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 5
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1995-12-06'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 5. Reporting of cases of disease
+## 5. Reporting of cases of disease[^c-33d57fbcab56e13165a4f6741049c9f2]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) and (3) and to regulation 10, where—
 
@@ -29,3 +35,7 @@ the responsible person shall forthwith send a report thereof to the relevant enf
 - (b) in the case of a self-employed person, that person has been informed, by a registered medical practitioner, that he is suffering from a disease so specified.
 
 (3) In the case of a self-employed person, it shall be a sufficient compliance with paragraph (1) if that person makes arrangements for the report to be sent to the relevant enforcing authority by some other person.
+
+## Annotations
+
+[^c-33d57fbcab56e13165a4f6741049c9f2]: Commencement: Reg. 5 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)

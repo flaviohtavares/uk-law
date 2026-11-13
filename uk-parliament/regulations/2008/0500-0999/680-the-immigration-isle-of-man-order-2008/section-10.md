@@ -2,9 +2,9 @@
 title: The Immigration (Isle of Man) Order 2008, section 10
 act: The Immigration (Isle of Man) Order 2008
 section: '10'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008, section 10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Extension of the Immigration Act 1988 to the Isle of Man
+## 10. Extension of the Immigration Act 1988 to the Isle of Man[^c-1285f86273ea368680d27bd70f4f475b]
+
+*Extent: E+W+S+N.I.*
 
 (1) The following provisions of the 1988 Act shall extend to the Isle of Man subject to the modifications specified in Schedule 4.
 
@@ -35,4 +39,10 @@ summary: ''
 - (g) section 11 (expenses and receipts); and
 - (h) section 12 (short title and interpretation).
 
-**11.** For ease of reference, the provisions of the 1988 Act as modified and extended to the Isle of Man (except for provisions which amend or repeal other enactments) are set out in Part 2 of Schedule 10.
+**11.**[^c-6e43f68ae07b5212f69c7c16f6269086] For ease of reference, the provisions of the 1988 Act as modified and extended to the Isle of Man (except for provisions which amend or repeal other enactments) are set out in Part 2 of Schedule 10.
+
+## Annotations
+
+[^c-1285f86273ea368680d27bd70f4f475b]: Commencement: Art. 10 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-6e43f68ae07b5212f69c7c16f6269086]: Commencement: Art. 11 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)

@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 9
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '9'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 9. Authorisation
+## 9. Authorisation[^c-3466f6ad2de279dcb55345298cc5143e]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) SIB may, on an application duly made in accordance with regulation 7 above and after being furnished with all such information as it may require under that regulation, make an order (an “authorisation order”) in respect of a company under these Regulations if—
 
@@ -36,3 +42,7 @@ summary: ''
 (5) Schedule 3 to these Regulations (which makes provision with respect to the contents, alteration and binding nature of the instrument of incorporation of an investment company with variable capital) shall have effect.
 
 (6) In paragraph (2)(b) above, “shadow director”, in relation to a body corporate, means any person in accordance with whose directions or instructions (not being advice given in a professional capacity) the directors of that body are accustomed to act.
+
+## Annotations
+
+[^c-3466f6ad2de279dcb55345298cc5143e]: Commencement: Reg. 9 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

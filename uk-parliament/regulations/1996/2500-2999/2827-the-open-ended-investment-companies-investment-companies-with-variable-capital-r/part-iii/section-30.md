@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 30
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '30'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 30
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 30. Inspection of directors' service contracts
+## 30. Inspection of directors' service contracts[^c-a9a4e9e3f4cdb234b9799f22bed3f8d5]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Every investment company with variable capital shall keep at an appropriate place—
 
@@ -36,3 +42,7 @@ summary: ''
 (6) Every copy and memorandum required by paragraph (1) above to be kept shall be made available by the company for inspection by any shareholder at the company’s annual general meeting.
 
 (7) Paragraph (1) above applies to a variation of a director’s contract of service as it applies to the contract.
+
+## Annotations
+
+[^c-a9a4e9e3f4cdb234b9799f22bed3f8d5]: Commencement: Reg. 30 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

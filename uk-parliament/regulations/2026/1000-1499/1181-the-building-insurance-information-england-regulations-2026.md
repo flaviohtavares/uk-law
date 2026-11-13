@@ -1,0 +1,229 @@
+---
+title: The Building Insurance Information (England) Regulations 2026
+id: uksi/2026/1181
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-11-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/1181
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/1181/pdfs/uksiem_20261181_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/1181/pdfs/uksi_20261181_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/1181/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Insurance Information (England) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 1181
+
+LANDLORD AND TENANT, ENGLAND
+
+The Building Insurance Information (England) Regulations 2026
+
+Made
+
+10th November 2026
+
+Laid before Parliament
+
+12th November 2026
+
+Coming into force
+
+1st November 2027
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by paragraphs 1A, 1B and 1C of the Schedule to the Landlord and Tenant Act 1985[^f00001].
+
+## 1. Citation, commencement, extent and application
+
+(1) These Regulations may be cited as the Building Insurance Information (England) Regulations 2026.
+
+(2) These Regulations come into force on 1st November 2027.
+
+(3) These Regulations extend to England and Wales but apply in relation to leases[^f00002] of dwellings[^f00003] in England.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the 1985 Act**” means the Landlord and Tenant Act 1985;
+- “**building**” means a building of which the dwelling forms part;
+- “**building insurance disclosure document**” means the form in the Schedule or a form to the same effect;
+- “**insurance information**” means, in relation to a policy of insurance for which a service charge is payable by a tenant[^f00004] of a dwelling, the information[^f00005] specified in regulation 3;
+- “**policy**” means the policy of insurance to which the insurance information relates.
+
+## 3. Insurance information
+
+(1) The information which a landlord[^f00006] must obtain and provide for the purposes of paragraph 1A(2) of the Schedule to the 1985 Act is the following—
+
+- (a) the name and address of the insurer,
+- (b) the name and address of any appointed insurance broker,
+- (c) contact details for the insurer and any appointed insurance broker,
+- (d) how an insurance claim can be made,
+- (e) the number of insurers from whom quotes for insurance policies were requested,
+- (f) the number of quotes obtained for alternative insurance policies,
+- (g) the landlord’s reasons for selecting the policy and—
+  - (i) not selecting any alternative policies for which quotes were obtained, or
+  - (ii) not obtaining quotes for any alternative policies,
+- (h) the policy number,
+- (i) the type of insurance,
+- (j) the period of insurance,
+- (k) a summary of the insured risks,
+- (l) a summary of any excluded risks,
+- (m) the sum and description of any excess,
+- (n) a summary of the significant features and benefits,
+- (o) the reinstatement value in respect of—
+  - (i) the building, or
+  - (ii) the dwelling, if the dwelling does not form part of a building,
+- (p) the insured sums including—
+  - (i) the total sum insured,
+  - (ii) the sum insured in respect of the building if the dwelling forms part of a building, and
+  - (iii) the sum insured in respect of the dwelling if one or more of the following apply—
+    - (aa) the dwelling does not form part of a building;
+    - (bb) the sum insured in respect of the dwelling is stated in the policy,
+- (q) the premium including—
+  - (i) the total premium, and
+  - (ii) the premium in respect of—
+    - (aa) the building, or
+    - (bb) the dwelling, if the dwelling does not form part of a building,
+- (r) the amount of any Insurance Premium Tax payable in respect of the premium,
+- (s) the amount of any Value Added Tax payable in respect of the premium,
+- (t) the cost payable by the tenant in respect of the premium,
+- (u) the amount of commission offered to, or received by, any insurance intermediary or third party,
+- (v) details of any remuneration or financial incentive other than commission offered to or received by any landlord, managing agent, insurance intermediary or third party,
+- (w) details of any non-monetary benefit received by any landlord, managing agent or third party other than an insurance intermediary,
+- (x) details of any corporate connections,
+- (y) details of any insurance connections, and
+- (z) whether the landlord or managing agent share with the insurer or insurance intermediary any company directors or persons with significant control.
+
+(2) In this regulation—
+
+- “**corporate connection**” means one or more corporate interests held by one or more of the following—
+  - (a) the landlord or managing agent in the insurer or insurance intermediary;
+  - (b) the insurer or insurance intermediary in the landlord or managing agent;
+  - (c) the landlord or managing agent in any third party who participates in or derives financial benefit from the procurement or management of the policy;
+- “**corporate interests**” means one or both of the following—
+  - (a) equity;
+  - (b) voting rights;
+- “**insurance connection**” means a direct or indirect holding representing 10% or more of the voting rights or capital held by—
+  - (a) an insurance intermediary in the insurer, or
+  - (b) the insurer or its parent undertaking in an insurance intermediary;
+- “**insurance distribution activities**” means, in relation to a contract of insurance, one or more of the following—
+  - (a) carrying out transactions as an agent;
+  - (b) arranging deals;
+  - (c) making arrangements with a view to transactions;
+  - (d) assisting in the administration or performance of a contract of insurance;
+  - (e) advising;
+  - (f) agreeing to carry out any of the activities in paragraphs (a) to (e);
+- “**insurance intermediary**” means a person, other than a landlord or managing agent, who carries out insurance distribution activities as their principal professional activity and carries out such activities in relation to the policy;
+- “**managing agent**” means a person appointed as an agent of the landlord to discharge any of the landlord’s obligations in relation to the management of—
+  - (a) the dwelling, or
+  - (b) the premises in which the dwelling is situated;
+- “**parent undertaking**” has the same meaning as in section 1162 of the Companies Act 2006[^f00007];
+- “**person with significant control**” has the same meaning as in section 790C of the Companies Act 2006[^f00008].
+
+## 4. Request to another person for insurance information
+
+(1) Where a landlord requests insurance information from another person (“**P**”) under paragraph 1A(2)(a) of the Schedule to the 1985 Act, the landlord must make the request before the end of the period of 14 days beginning with—
+
+- (a) the day on which the policy is effected[^f00009], or
+- (b) if later, the day on which the landlord receives the policy.
+
+(2) Where a landlord requests information from P under paragraph 1A(2)(a) of the Schedule to the 1985 Act, P must provide the landlord with any of the requested information that is within P’s possession before the end of the period of 14 days beginning with the day on which the request is made.
+
+(3) Where a person (“A“) requests information from another person (“**B**”) under paragraph 1B(3) of the Schedule to the 1985 Act—
+
+- (a) the request to B must be made before the end of the period of 14 days beginning with the day on which A receives the request;
+- (b) B must provide A with any of the requested information that is within B’s possession before the end of the period of 14 days beginning with the day on which the request to B is made;
+- (c) A must provide any information received from B to the person who requested information from A before the end of the period of 14 days beginning with the day on which A receives the information from B.
+
+(4) A request for information under paragraph 1A(2) or 1B(3) of the Schedule to the 1985 Act must be made in writing and must include the building insurance disclosure document.
+
+(5) The building insurance disclosure document must be used to provide information in response to a request made under paragraph 1A(2)(a) or 1B(3) of the Schedule to the 1985 Act.
+
+## 5. Exemption for public authorities
+
+(1) Where a landlord believes that a public authority possesses insurance information, paragraph 1A(2) of the Schedule to the 1985 Act does not apply in respect of the information possessed by the public authority.
+
+(2) A public authority is not required to comply with a request under paragraph 1B of the Schedule to the 1985 Act.
+
+(3) In this regulation, “**public authority**” means a public authority within the meaning of section 3(1) of the Freedom of Information Act 2000[^f00010] that is not a landlord of the dwelling or the building to which the insurance information relates.
+
+## 6. Provision of information to tenant
+
+(1) The landlord must provide the insurance information to the tenant using the building insurance disclosure document before the end of the information provision period.
+
+(2) But where the landlord receives information under regulation 4(2), the landlord must provide that information to the tenant by the end of 14 days beginning with the day on which the landlord receives the information, if that is later than the end of the information provision period.
+
+(3) In this regulation, the “**information provision period**” means 60 days beginning with—
+
+- (a) the day on which the policy is effected;
+- (b) the day on which the landlord receives the policy, if that day is more than 10 days after the policy is effected.
+
+## 7. Powers of the tribunal: time periods
+
+The period specified for the purposes of paragraphs 1C(2)(a) and 1C(4)(a) of the Schedule to the 1985 Act is the period of 14 days beginning with the day of the order.
+
+Signed by authority of the Secretary of State for Housing, Communities and Local Government
+
+Matthew Pennycook
+
+Minister of State
+
+Ministry of Housing, Communities and Local Government
+
+10th November 2026
+
+## Schedule — Building insurance disclosure document
+
+Regulation 2
+
+[image: see source](https://www.legislation.gov.uk/uksi/2026/1181/images/uksi_20261181_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2026/1181/images/uksi_20261181_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2026/1181/images/uksi_20261181_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2026/1181/images/uksi_20261181_en_004) [image: see source](https://www.legislation.gov.uk/uksi/2026/1181/images/uksi_20261181_en_005)
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations make provision regarding information about insurance that a landlord must give to a tenant where a service charge includes an amount payable for that insurance. They concern leases of dwellings in England.
+
+Regulation 3 sets out what insurance information is for the purposes of the Landlord and Tenant Act [1985 (c. 70)](https://www.legislation.gov.uk/ukpga/1985/70) (“**the 1985 Act**”).
+
+Regulation 4 sets out the rules that apply where the landlord requests insurance information from another person in order to comply with paragraph 1A(2)(a) of the Schedule to the 1985 Act. If a person does not have the requested information, they are required to request it from a person whom they believe does possess it. This regulation sets out time limits for making requests and providing the information. It also sets out the form of requests and the form in which the information is to be provided.
+
+Regulation 5 provides that certain public bodies are exempt from duties in paragraphs 1A and 1B of the Schedule to the 1985 Act.
+
+Regulation 6 sets out time limits and the form in which the landlord must provide insurance information to the tenant.
+
+Regulation 7 has the effect that a person has 14 days to comply with the requirements under paragraph 1A or 1B of the Schedule to the 1985 Act if ordered to do so by a tribunal.
+
+A full impact assessment has been published in relation to the Leasehold and Freehold Reform Act [2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), which introduces the framework for these provisions, and copies can be obtained at https://publications.parliament.uk/pa/bills/cbill/58-04/0013/LeaseholdandFreeholdReformBillImpactAssessment.pdf or from the Ministry of Housing, Communities and Local Government at 2 Marsham Street, London SW1P 4DF.
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70); paragraphs 1A, 1B and 1C of the Schedule were inserted by section 60 of the Leasehold and Freehold Reform Act [2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22). The “appropriate authority” is defined in section 38, in relation to England, as the Secretary of State.
+
+[^f00002]: Footnote: See section 36 of the Landlord and Tenant Act 1985 for the definition of “lease”.
+
+[^f00003]: Footnote: See section 38 of the Landlord and Tenant Act 1985 for the definition of “dwelling”.
+
+[^f00004]: Footnote: See section 36 of the Landlord and Tenant Act 1985 for the definition of “tenant”.
+
+[^f00005]: Footnote: See paragraph 1A(9) of the Schedule to the Landlord and Tenant Act 1985 for the definition of “information”.
+
+[^f00006]: Footnote: See section 36 of the Landlord and Tenant Act 1985 for the definition of “landlord”.
+
+[^f00007]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00008]: Footnote: Section 790C was inserted by paragraph 1 of Schedule 3 to the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26). It was amended by paragraph 9 of Schedule to the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56) and by [S.I. 2016/136](https://www.legislation.gov.uk/uksi/2016/136), [2017/693](https://www.legislation.gov.uk/uksi/2017/693), [694](https://www.legislation.gov.uk/uksi/2017/694) and [2019/348](https://www.legislation.gov.uk/uksi/2019/348).
+
+[^f00009]: Footnote: See paragraph 1A(6) of the Schedule to the Landlord and Tenant Act 1985 for the meaning of “effected”.
+
+[^f00010]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).

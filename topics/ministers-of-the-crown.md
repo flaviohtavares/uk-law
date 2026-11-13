@@ -6,11 +6,15 @@ Laws in force under the legislation.gov.uk subject heading **MINISTERS OF THE CR
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Ministers of the Crown Act 1975](../uk-parliament/acts/public/1975/26-ministers-of-the-crown-act-1975.md) — 125 regulations on this topic made under it
+- [Ministers of the Crown Act 1975](../uk-parliament/acts/public/1975/26-ministers-of-the-crown-act-1975.md) — 126 regulations on this topic made under it
 
 ## Regulations
 
-129 in force.
+130 in force.
+
+**2026**
+
+- [The Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026](../uk-parliament/regulations/2026/1000-1499/1147-the-secretaries-of-state-for-business-innovation-science-and-trade-and-for-digit.md) *(as originally made)*
 
 **2025**
 

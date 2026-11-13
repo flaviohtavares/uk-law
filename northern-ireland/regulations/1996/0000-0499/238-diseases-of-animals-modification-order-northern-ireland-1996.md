@@ -3,13 +3,13 @@ title: Diseases of Animals (Modification) Order (Northern Ireland) 1996
 id: nisr/1996/238
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-14'
-text_date: null
-extent: null
+text_date: '1996-06-17'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/238
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/238/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/238/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # Diseases of Animals (Modification) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 1996-06-17. See https://www.legislation.gov.uk/changes/affected/nisr/1996/238
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 238
 
@@ -36,13 +40,13 @@ Coming into operation
 
 The Department of Agriculture, being satisfied that the modification of Schedule 2 to the Diseases of Animals (Northern Ireland) Order 1981[^f00001] set out in Article 2 is necessary or expedient for the purposes of that Order, in exercise of the powers conferred on it by Article 16(2) of that Order and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-901d34bc0a51ef900daa7dbf4f7334b7]
 
 (1) This Order may be cited as the Diseases of Animals (Modification) Order (Northern Ireland) 1996 and shall come into operation on 17th June 1996.
 
 (2) In this Order “the principal Order” means the Diseases of Animals (Northern Ireland) Order 1981.
 
-## 2. Modification of the Diseases of Animals (Northern Ireland) Order 1981
+## 2. Modification of the Diseases of Animals (Northern Ireland) Order 1981[^c-d4dce1f76b9fa3f71fd64e4a84ce82b9]
 
 In Part II of Schedule 2 to the principal Order, in paragraph 12A[^f00002] —
 
@@ -63,7 +67,7 @@ In Part II of Schedule 2 to the principal Order, in paragraph 12A[^f00002] —
 
   .
 
-## 3. Saving
+## 3. Saving[^c-9e93b2f53f12d95ccaaae761a488e2c6]
 
 Paragraph 12A of Part II of Schedule 2 to the principal Order shall continue to apply in relation to any animal slaughtered before 17th June 1996 as if this Order had not been made.
 
@@ -87,8 +91,14 @@ The Order amends the formula used to calculate the indicative market price conta
 
 [^f00001]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115). The relevant amending Orders are [S.R. 1990 No. 135](https://www.legislation.gov.uk/nisr/1990/135) and [S.R. 1995 No. 273](https://www.legislation.gov.uk/nisr/1995/273)
 
+[^c-901d34bc0a51ef900daa7dbf4f7334b7]: Commencement: Art. 1 in operation at 17.6.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/238/article/1/1)
+
+[^c-d4dce1f76b9fa3f71fd64e4a84ce82b9]: Commencement: Art. 2 in operation at 17.6.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/238/article/1/1)
+
 [^f00002]: Footnote: Paragraph 12A as substituted by [S.R. 1995 No. 273](https://www.legislation.gov.uk/nisr/1995/273)
 
 [^f00003]: Footnote: O.J. No. L99, 19.4.96, p. 14
 
 [^f00004]: Footnote: [S.R. 1995 No. 274](https://www.legislation.gov.uk/nisr/1995/274)
+
+[^c-9e93b2f53f12d95ccaaae761a488e2c6]: Commencement: Art. 3 in operation at 17.6.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/238/article/1/1)

@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **BROADCASTING**. Rep
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Communications Act 2003](../uk-parliament/acts/public/2003/21-communications-act-2003/README.md) *(changes pending)* — 81 regulations on this topic made under it
+- [Communications Act 2003](../uk-parliament/acts/public/2003/21-communications-act-2003/README.md) *(changes pending)* — 82 regulations on this topic made under it
 - [Broadcasting Act 1990](../uk-parliament/acts/public/1990/42-broadcasting-act-1990/README.md) *(changes pending)* — 69 regulations on this topic made under it
 - [Broadcasting Act 1996](../uk-parliament/acts/public/1996/55-broadcasting-act-1996/README.md) *(changes pending)* — 39 regulations on this topic made under it
 - [Media Act 2024](../uk-parliament/acts/public/2024/15-media-act-2024/README.md) *(changes pending)* — 5 regulations on this topic made under it
@@ -16,7 +16,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-200 in force.
+201 in force.
 
 **2026**
 
@@ -24,6 +24,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Communications (Television Licensing) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/104-the-communications-television-licensing-amendment-regulations-2026.md) *(as originally made)*
 - [The Communications Act 2003 (Commencement No. 6) and Media Act 2024 (Commencement No. 4 and Saving Provision) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/715-the-communications-act-2003-commencement-no-6-and-media-act-2024-commencement-no.md) *(as originally made)*
 - [The Listed Events (Coverage) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/751-the-listed-events-coverage-regulations-2026.md) *(as originally made)*
+- [The Radio Selection Services (Designation) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1179-the-radio-selection-services-designation-regulations-2026.md) *(as originally made)*
 - [The Regulated Electronic Programme Guide (Prescribed Description and Transitional Arrangements) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/529-the-regulated-electronic-programme-guide-prescribed-description-and-transitional.md) *(as originally made)*
 - [The Television Selection Services (Designation) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/531-the-television-selection-services-designation-regulations-2026.md) *(as originally made)*
 

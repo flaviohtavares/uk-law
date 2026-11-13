@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 71
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '71'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/71
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 71
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 71. Service of documents
+## 71. Service of documents[^c-87d9cc243672d00aada50c601a45e379]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) This regulation has effect in relation to any notice, direction or other document required or authorised by these Regulations or SIB regulations to be given or served on any person other than the registrar of companies.
 
@@ -38,5 +44,7 @@ summary: ''
 - (c) in the case of an unincorporated association (other than a partnership) or a member of its governing body, its principal office in the United Kingdom.
 
 ## Annotations
+
+[^c-87d9cc243672d00aada50c601a45e379]: Commencement: Reg. 71 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
 
 [^f00027]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

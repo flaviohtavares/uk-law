@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 12
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '12'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 12. Restrictions on the sale of raw cows' milk as drinking milk
+## 12. Restrictions on the sale of raw cows' milk as drinking milk[^c-8903b93b1d6de5e5ca509944fa7f5733]
+
+*Extent: E+W*
 
 (1) No person shall sell drinking milk which is raw cows' milk, except in accordance with the following provisions of this regulation.
 
@@ -29,3 +33,7 @@ summary: ''
 - (a) in the containers in which he receives the milk with the fastenings of the containers unbroken;
 - (b) from a vehicle which is lawfully used as shop premises; and
 - (c) direct to the ultimate consumer.
+
+## Annotations
+
+[^c-8903b93b1d6de5e5ca509944fa7f5733]: Commencement: Reg. 12 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

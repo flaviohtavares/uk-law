@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 39
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '39'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 39
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Offences under Part II
+## 39. Offences under Part II[^c-9a1bd8b9e01d20747989f0c4e3f482db]
+
+*Extent: E+W+S+N.I.*
 
 (1) In subsection (1) of section 71 of the 1982 Act (offences under Part II)—
 
@@ -42,6 +46,8 @@ summary: ''
 (7) In subsection (7) of that section[^f00024], for the words “31A or 51 (other than subsection (2)(c)) above” substitute the words “or 31A above or Part II of Schedule 2C to this Act (other than paragraph 7(1)(c))”.
 
 ## Annotations
+
+[^c-9a1bd8b9e01d20747989f0c4e3f482db]: Commencement: Reg. 39 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
 
 [^f00022]: Footnote: Subsection (3) was amended by the Fines and Penalties (Northern Ireland) Order 1984 ([S.I. 1984/703 (N.I.3)](https://www.legislation.gov.uk/nisi/1984/703)), the Criminal Penalties etc. (Increase) Order (Northern Ireland) 1984 ([S.R. 1984/253](https://www.legislation.gov.uk/nisr/1984/253)) and [S.I. 1992/2890](https://www.legislation.gov.uk/uksi/1992/2890), reg 6.
 

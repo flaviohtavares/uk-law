@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 38
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '38'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 38
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 38. Invalidity of certain transactions involving directors
+## 38. Invalidity of certain transactions involving directors[^c-2e48c470abcab223b39313b92d21b5f4]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) This regulation applies where—
 
@@ -48,3 +54,7 @@ summary: ''
 - (a) “associate”, in relation to any person who is a director of the company, means that person’s wife, husband or minor child or step-child, any body corporate of which that person is a director, any person who is an employee or partner of that person and, if that person is a body corporate, any subsidiary of that body corporate and any employee of such a subsidiary;
 - (b) “transaction” includes any act; and
 - (c) the reference in paragraph (1)(b) above to any limitation on directors' powers under the company’s constitution shall include any limitation deriving from these Regulations, from SIB regulations or from a resolution of the company in general meeting or of a meeting of any class of shareholders.
+
+## Annotations
+
+[^c-2e48c470abcab223b39313b92d21b5f4]: Commencement: Reg. 38 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

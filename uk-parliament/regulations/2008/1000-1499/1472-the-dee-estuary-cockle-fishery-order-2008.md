@@ -6,7 +6,7 @@ category: secondary
 status: revised-with-pending-changes
 made_date: '2008-06-08'
 text_date: '2008-07-01'
-extent: E+W+S
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1472
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1472/pdfs/uksiem_20081472_en.pdf
@@ -22,9 +22,9 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2008-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1472
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
-*Extent: E+W+S*
+*Extent: E+W*
 
 2008 No. 1472
 
@@ -64,11 +64,11 @@ In the opinion of the Secretary of State and the Welsh Ministers the following O
 
 Accordingly, the Secretary of State in relation to England and the Welsh Ministers in relation to Wales, exercising their powers under sections 1, 3(1), 4(2) and (4) of, and Schedule 1 to, the Act, make the following Order.
 
-## 1. Title and commencement
+## 1. Title and commencement[^c-b941ddb7bc21db12d60ceb7e6709965c]
 
 This Order may be cited as the Dee Estuary Cockle Fishery Order 2008 and comes into force on 1st July 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-82e62e1bf2dd526be4a3b7b7b37efdc1]
 
 In this Order—
 
@@ -77,7 +77,7 @@ In this Order—
 - “the fishery” means the area shown coloured in red on the map prepared in triplicate, sealed with the official seal of the Secretary of State, signed on 5th June 2008 on behalf of the Secretary of State and the Welsh Ministers and marked “Dee Estuary Cockle Fishery Order 2008 – Definitive map showing the extent of the area concerned”[^f00002];
 - “the grantee” means the Environment Agency.
 
-## 3. Right of regulating a fishery and duration of right
+## 3. Right of regulating a fishery and duration of right[^c-a1125ed61bd14679623ee3f76b5cffe2]
 
 (1) The grantee has the right of regulating a fishery for cockles within the fishery for a period of 20 years starting on 1st July 2008.
 
@@ -88,7 +88,7 @@ In this Order—
 - (a) in relation to England, the Secretary of State; and
 - (b) in relation to Wales, the Welsh Ministers.
 
-## 4. Regulations and restrictions applicable in respect of the fishery
+## 4. Regulations and restrictions applicable in respect of the fishery[^c-549adbe84f3471a73b687eeeca2f4952]
 
 (1) No person may dredge, fish for or take cockles within the fishery unless they do so under the terms of—
 
@@ -104,7 +104,7 @@ In this Order—
 
 (4) Schedule 1 (regulations and restrictions applicable to the fishery) has effect.
 
-## 5. Licence terms, duration of licences and tolls
+## 5. Licence terms, duration of licences and tolls[^c-2fa0a5885a22f6a0f89b404663b25d5e]
 
 (1) Schedule 2 (terms which may be attached to a licence) has effect.
 
@@ -116,7 +116,7 @@ In this Order—
 
 (5) Where a licence is to be valid for less than one year, the toll is calculated pro rata based on the duration of the licence in relation to the duration of time the fishery is open in the year in question.
 
-## 6. Authorisations
+## 6. Authorisations[^c-3b5c29c751450b515f52144a9edb1b72]
 
 (1) The grantee may on application from a licensee authorise a second person to dredge, fish for or take cockles within the fishery under the same conditions as the licensee, for the same or a shorter period.
 
@@ -124,7 +124,7 @@ In this Order—
 
 (3) An authorised person may not dredge, fish for or take cockles within the fishery at the same time as the licensee.
 
-## 7. Accounts of income and expenditure, other information and inspections
+## 7. Accounts of income and expenditure, other information and inspections[^c-f3075af0bf8179697d1d116bf3e78646]
 
 (1) The grantee must give the Secretary of State and the Welsh Ministers annual accounts of its income and expenditure under this Order.
 
@@ -132,7 +132,7 @@ In this Order—
 
 (3) The grantee must allow any person authorised by the Secretary of State or the Welsh Ministers to inspect the fishery and all accounts and other documents in the possession of the grantee relating to this Order, and must give that person any information relating to these matters which that person may require.
 
-## 8. Lawful activities of statutory undertakers
+## 8. Lawful activities of statutory undertakers[^c-2176467b15e42aecb821a64ab5880b79]
 
 (1) Nothing in this Order or in any restriction imposed or regulation made under it adversely affects the lawful activities of any statutory undertaker.
 
@@ -163,24 +163,24 @@ Minister for Rural Affairs, one of the Welsh Ministers
 
 Article 4(4)
 
-**1.** Any person in possession of cockles in breach of a provision of this Order must, if requested by the grantee, immediately redeposit them as close as possible to the location from which they were taken.
+**1.**[^c-c7553d846be1cae53d8b0a10ad8203e4] Any person in possession of cockles in breach of a provision of this Order must, if requested by the grantee, immediately redeposit them as close as possible to the location from which they were taken.
 
-**2.** (1) No person may remove any culch or other material for the reception of spat of cockles from the fishery or from one part of the fishery to another unless the grantee has given that person written consent.
+**2.**[^c-cebaaad4c369b4f853c2ed62b622011a] (1) No person may remove any culch or other material for the reception of spat of cockles from the fishery or from one part of the fishery to another unless the grantee has given that person written consent.
 
 (2) Any person lifting any culch or other material for the reception of spat of cockles within the fishery must immediately replace it as close as possible to the place from which it was lifted.
 
-**3.** Paragraph 2 does not apply to any removing or lifting—
+**3.**[^c-c03b5c0bd36c8d22dc09a2e7771a5772] Paragraph 2 does not apply to any removing or lifting—
 
 - (a) caused by raising an anchor or other mooring device for the purpose of navigation; or
 - (b) in pursuance of provision made under section 3(1)(c) of the Act.
 
-**4.** No person may dredge, fish for or take cockles in or from any bed within the fishery which the grantee has closed unless the grantee has given that person written consent.
+**4.**[^c-a3e7c7444d0f4a1946bd6a2f1bbfe165] No person may dredge, fish for or take cockles in or from any bed within the fishery which the grantee has closed unless the grantee has given that person written consent.
 
-**5.** (1) No person may introduce any cockles into the fishery.
+**5.**[^c-c9e87dc3513c8c3c13b4f2c5e9d108b5] (1) No person may introduce any cockles into the fishery.
 
 (2) Sub-paragraph (1) does not apply to any introduction in pursuance of provision made under section 3(1)(c) of the Act.
 
-## SCHEDULE 2 — TERMS WHICH MAY BE ATTACHED TO A LICENCE
+## SCHEDULE 2 — TERMS WHICH MAY BE ATTACHED TO A LICENCE[^c-923e9be13c0d4760080d47f02a8d99a5]
 
 Article 5(1)
 
@@ -215,7 +215,23 @@ A person who dredges, fishes for or takes cockles in contravention of any restri
 
 [^f00001]: Footnote: [1967 c. 83](https://www.legislation.gov.uk/ukpga/1967/83). Section 1 of the Act was amended by section 15(1) and (2) of the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77); section 1 of the Sea Fisheries (Shellfish) (Amendment) Act [1997 (c. 3)](https://www.legislation.gov.uk/ukpga/1997/3); and section 9(1) of, and paragraph 15 of Schedule 2 to, the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86). The Act is to be read with section 15(3) to (5) of the Sea Fisheries Act 1968. Schedule 1 to the Act was amended by section 15(7) of the Sea Fisheries Act 1968. The functions of the appropriate Minister as defined in section 22(1) of the Act, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and were subsequently transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32). By virtue of article 2(2) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)) the functions of the Minister were transferred to the Secretary of State.
 
+[^c-b941ddb7bc21db12d60ceb7e6709965c]: Commencement: Art. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-82e62e1bf2dd526be4a3b7b7b37efdc1]: Commencement: Art. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
 [^f00002]: Footnote: The map is deposited and available for inspection at the Department for Environment, Food and Rural Affairs, Information Resource Centre, Lower Ground Floor, Ergon House, Horseferry Road, London SW1P 3JR and the Welsh Assembly Government, Fisheries Branch, Cathays Park, Cardiff CF10 3NQ.
+
+[^c-a1125ed61bd14679623ee3f76b5cffe2]: Commencement: Art. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-549adbe84f3471a73b687eeeca2f4952]: Commencement: Art. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-2fa0a5885a22f6a0f89b404663b25d5e]: Commencement: Art. 5 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-3b5c29c751450b515f52144a9edb1b72]: Commencement: Art. 6 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-f3075af0bf8179697d1d116bf3e78646]: Commencement: Art. 7 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-2176467b15e42aecb821a64ab5880b79]: Commencement: Art. 8 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
 
 [^f00003]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
@@ -224,3 +240,15 @@ A person who dredges, fishes for or takes cockles in contravention of any restri
 [^f00005]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00006]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); section 17A was inserted by section 56 of, and paragraphs 1 and 2 of Schedule 4 to, the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37).
+
+[^c-c7553d846be1cae53d8b0a10ad8203e4]: Commencement: Sch. 1 para. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-cebaaad4c369b4f853c2ed62b622011a]: Commencement: Sch. 1 para. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-c03b5c0bd36c8d22dc09a2e7771a5772]: Commencement: Sch. 1 para. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-a3e7c7444d0f4a1946bd6a2f1bbfe165]: Commencement: Sch. 1 para. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-c9e87dc3513c8c3c13b4f2c5e9d108b5]: Commencement: Sch. 1 para. 5 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)
+
+[^c-923e9be13c0d4760080d47f02a8d99a5]: Commencement: Sch. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1472/article/1)

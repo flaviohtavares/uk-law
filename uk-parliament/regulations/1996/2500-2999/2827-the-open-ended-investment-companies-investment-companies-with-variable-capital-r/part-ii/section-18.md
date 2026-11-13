@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 18
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '18'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 18. Directions
+## 18. Directions[^c-e0338fbe4f10d30b0177da70a111a2a8]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) SIB may give a direction under this regulation in relation to an investment company with variable capital if it appears to it—
 
@@ -59,3 +65,7 @@ summary: ''
 - (c) these Regulations;
 - (d) SIB regulations; and
 - (e) any rules of a recognised self-regulating organisation of which an investment company with variable capital, or any director or depositary or such a company, is a member.
+
+## Annotations
+
+[^c-e0338fbe4f10d30b0177da70a111a2a8]: Commencement: Reg. 18 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

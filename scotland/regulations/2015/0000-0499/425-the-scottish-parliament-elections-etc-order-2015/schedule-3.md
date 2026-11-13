@@ -2,8 +2,8 @@
 title: The Scottish Parliament (Elections etc.) Order 2015, SCHEDULE 3
 act: The Scottish Parliament (Elections etc.) Order 2015
 section: schedule-3
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2015/425/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2015, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (33).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/ssi/2015/425
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -27,6 +27,7 @@ Article 12(2)
 (1) Applications under article 8, 9, 10 or 11 (absent votes) must be made and sent or delivered in accordance with article 87, must be dated and must state—
 
 - (a) the applicant’s name in full;
+- (aa)[^c-74f0184b509a5e7fd98982155845f15b] the applicant’s national insurance number or, if the applicant is unable to provide that information, the reason why they are unable to do so,
 - (b) except in the case of an application under article 11, the address in respect of which the applicant is registered or has applied to be (or is treated as having applied to be) registered in the register of electors;
 - (c) in the case of an application under article 11, the address of the applicant, together with the name of the elector for whom the applicant will act as proxy and the address of that elector in respect of which the elector is registered or has applied to be (or is treated as having applied to be) registered in the register of electors;
 - (d) in the case of an application to vote by proxy, the grounds on which the elector claims to be entitled to an absent vote;
@@ -49,13 +50,46 @@ Article 12(2)
 - (d) in the case of a homeless person, within the meaning of section 7B(2)(c) of the 1983 Act, or of a person to whom section 7B(2A) of the 1983 Act[^f00078] applies, the address shown on the declaration of local connection in accordance with section 7B(3)(d) of that Act.
 - (e)[^c-552e848b532b9d07219c28cf56632c07] in the case of a person to whom section 3(1A) of the 1983 Act (exception to disenfranchisement for offenders sentenced to term not exceeding 12 months) applies, the address shown on the declaration of local connection in accordance with section 7B(3)(d) of that Act.
 
-(5) An application under article 9(1), (2) or (4), 10(7) or 11(4) or (6) shall specify the election in respect of which it is made.
+(5) An application under article 9(1), (2) or (4), 10(7) or 11(4)(b)[^c-1d3964034d77af2d96d17a0e9ac95aff] or (6) shall specify the election in respect of which it is made.
 
-(6) An application under article 9(1), (2) or (4) shall also specify whether it is for an indefinite period or for a particular period specified in the application.
+(6)[^c-473d894949af9be65a763c4d5901184a] An application under article 8(1), 8(2), 10(6) or 11(4)(a) must specify whether it is for—
+
+- (a) an indefinite period,
+- (b) the maximum period, or
+- (c) the period specified in the application.
 
 (7) An application to vote by proxy under article 8(2) or (7) or 9(2) or (4) shall include an application for the appointment of a proxy which meets the requirements of paragraph 8[^c-f879782b756cce539a4f627b34f906ca].
 
 (8) An application under article 8, 9, 10 or 11 shall comply with such further requirements of this Schedule as apply to such an application including the requirements as to time set out by paragraph 9.
+
+(9)[^c-28b5094260c1eea508db522dd7d93d4f] Where by virtue of arrangements made by the Minister of the Crown, an absent voting application is made through the UK digital service—
+
+- (a) the Minister of the Crown may complete the application in part using information provided by the applicant as part of an application, or partially completed application, under section 10ZC or 10ZD of the 1983 Act for registration in, or alteration of, a register of electors made through or completed using the UK digital service,
+- (b) where the application is required to contain a signature, the application must contain a compliant photograph or electronic scan of the applicant’s signature,
+- (c) the Minister of the Crown must—
+  - (i) request that the applicant provide their most recent previous name (if they have one), and
+  - (ii) provide an explanation of the purpose for which the information will be used.
+
+(10) In sub-paragraph (9)(b), “compliant photograph or electronic scan of the applicant’s signature” means—
+
+- (a) the signature contained in the photograph or electronic scan complies with the requirements of sub-paragraph (2)(a), and
+- (b) the photograph or electronic scan of the signature is sufficiently clear and unambiguous so as to comply with the requirements of sub-paragraph (2).
+
+(11) Where an applicant is unable to provide a national insurance number in accordance with sub-paragraph (1)(aa), the applicant may provide as part of the application a copy of any of the documents listed in paragraph 9B(2) to (4).
+
+(12) The Minister of the Crown must send to the ERO—
+
+- (a) subject to sub-paragraph (13), any absent voting application the Minister of the Crown receives,
+- (b) the applicant’s previous name (if any provided),
+- (c) any copy documentation provided by the applicant in accordance with sub-paragraph (11), and
+- (d) a reference number unique to that application.
+
+(13) Where an absent voting application made through the UK digital service in accordance with sub-paragraph (9) includes the applicant’s national insurance number, the Minister of the Crown—
+
+- (a) may send the ERO that application without the national insurance number, and
+- (b) where the Minister of the Crown does so, must indicate to the ERO that a national insurance number was included when the application was made by the applicant.
+
+(14) A document provided in accordance with sub-paragraph (11) or paragraph 9B may be transmitted by an applicant by electronic means.
 
 ### 2. Checking of signatures[^c-5288e91d64f4d08c85f4e78fcd536247]
 
@@ -140,7 +174,7 @@ for the person’s ballot paper to be sent to a different address from the addre
 - (a) the application is based on the applicant’s blindness and the applicant is registered as a blind person by a local authority, which is specified in the application; [^M_F_4ee2e8c7-fbe9-4036-cda2-9a488d6d9a1a]...
 - (aa)[^M_F_39187427-66fc-4513-bce5-a48f77effe62] the application states that the applicant is in receipt of the higher rate of the mobility component of child disability payment (payable in accordance with regulation 13 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021), or short-term assistance (payable in accordance with Part 1 of the schedule (short-term assistance) of those Regulations) where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the higher rate of the mobility component of child disability payment because of the disability specified in the application, [^c-8933546d1f291efccf5c0a74a1029dea]...
 - (b) the application states that the applicant is in receipt of the higher rate of the mobility component of a disability living allowance (payable under section 73 of the Social Security Contributions and Benefits Act 1992[^f00089]), armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00090] or the enhanced rate of the mobility component of personal independence payment (payable under section 79(2) of the Welfare Reform Act 2012[^f00091]) because of the disability specified in the application ,[^c-f53256eae0f972d00a0c8c909dd7fd4d] [^c-d2e9a1a826e43e45febfff5740f5f6c8]...
-- (c) the application states that the applicant is in receipt of the enhanced rate of the mobility component of adult disability payment in accordance with regulation 6 (mobility component) of the Disability Assistance for Working Age People (Scotland) Regulations 2022, or short-term assistance (payable in accordance with Part 1 of schedule 2 (short-term assistance) of those Regulations) where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the enhanced rate of the mobility component of adult disability payment because of the disability specified in the application or[^c-3378da8ee2e125dad3eaa766c7dc0a48]
+- (c) the application states that the applicant is in receipt of the enhanced rate of the mobility component of adult disability payment in accordance with regulation 6 (mobility component) of the Disability Assistance for Working Age People (Scotland) Regulations 2022, or short-term assistance (payable in accordance with Part 1 of schedule 2 (short-term assistance) of those Regulations) where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the enhanced rate of the mobility component of adult disability payment because of the disability specified in the application, or[^c-3378da8ee2e125dad3eaa766c7dc0a48]
 - (d)[^c-82f8d36b2cbf6d5bbeb77be01245867a] the application states that the applicant is in receipt of higher rate of the mobility component of Scottish adult disability living allowance (payable under regulation 8 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025, or short-term assistance (payable in accordance with Part 1 of schedule 1 (short-term assistance) of those Regulations) where the “earlier determination” referred to in paragraph 1(1)(a) of schedule 1 (entitlement to short-term assistance) of those Regulations awarded the higher rate of the mobility component of Scottish adult disability living allowance because of the disability specified in the application,
 
 (7) The fact that an applicant is registered as a blind person with a local authority shall be deemed sufficient evidence that the applicant is eligible to vote by proxy on the grounds set out in article 8(3)(c).
@@ -270,6 +304,13 @@ An application to vote by proxy for a particular or indefinite period under arti
   - (iii) that P knows, but is not related, to the applicant,
   - (iv) the reasons why the applicant was unable to make the application before 5 pm on the sixth day before the date of the poll at the election for which it is made.
 
+(7F)[^c-00c789dc155596af19719290f3d1a078] Sub-paragraph (7G) applies where an application under article 9(2) to vote by proxy at a particular election is made—
+
+- (a) on grounds that the circumstances set out in paragraph 9(4F) apply, and
+- (b) after 5 pm on the sixth day before the date of a poll at the election for which it is made.
+
+(7G) The application must, in addition to providing the information required by sub-paragraph (1), state that it is being provided because of those circumstances.
+
 (8) This paragraph does not apply where an applicant has an anonymous entry.
 
 ### 7A. Emergency change of proxy: proxy unable to vote in person[^c-d6e7b8ce25d35cb647e814fc3a49f50d]
@@ -290,6 +331,10 @@ An application for the appointment of a proxy under article 10(6) or (7) shall s
 
 - (a) if it is signed only by the applicant, shall contain a statement by the applicant that the applicant has consulted the person so named and that that person is capable of being and willing to be appointed to vote as the applicant’s proxy; or
 - (b) if it is also signed by the person to be appointed, shall contain a statement by that person that the person is capable of being and willing to be appointed to vote as the applicant’s proxy.
+
+### 8A. Additional requirement for applications for appointment of a proxy: due to a technical defect[^c-d2fefb90854ba333c8edcb47a01b571d]
+
+An application for the appointment of a proxy under article 10(7) to which paragraph 9(4E) applies must (in addition to the requirements of paragraph 8) state that it is being made because the circumstances in paragraph 9(4F) apply.
 
 ### 9. Closing dates for applications[^c-5cc24df44513afee94fdd854da931be8][^c-ab4d20a1b2fb23c200a023a0a2553980]
 
@@ -338,6 +383,16 @@ the application, or an application under article 10(7) made by virtue of that ap
 
 (4D) Sub-paragraphs (4A) and (4B) cease to have effect at the end of the period of 2 years beginning with the day on which that Order comes into force.
 
+(4E)[^c-535a50cc8531c9b80fe960c4fbb4397a] Where an application is made under article 9(2) or 10(7) in the circumstances set out in sub-paragraph (4F), the application must be refused if it is received after 5 pm on the day of the poll at the election for which it is made.
+
+(4F) The circumstances are that—
+
+- (a) the applicant submitted the application because an earlier application submitted by the applicant under article 8(2) or 10(6) is to be disregarded for the purposes of the particular Scottish parliamentary election for which it was made because that earlier application—
+  - (i) was submitted prior to the deadline of 5 pm on the sixth day before the date of the poll at the election for which the application is made,
+  - (ii) was submitted via the UK digital service, and
+  - (iii) was not received by the ERO until after the deadline of 5 pm on the sixth day before the date of the poll at the election for which it is made due to a technical defect in the UK digital service, or
+- (b) the application referred to in sub-paragraph (4E) meets the conditions specified in sub-heads (i), (ii) and (iii) of head (a).
+
 (5)[^c-db0071dd78a0f6155bfe3bd41330b9b9] An application—
 
 - (a) to vote by post under article 9(1);
@@ -361,9 +416,182 @@ shall be disregarded for the purposes of a particular election if it is received
 
 shall be disregarded.
 
+### 9A. Verification of information provided in absent voting application[^c-afd2be181187308fbeda6e74ea2209fb]
+
+(1) On receipt of an absent voting application made otherwise than through the UK digital service, an ERO must disclose the applicant’s name or names, address, date of birth and national insurance number (“the first stage information”) to the Secretary of State for Housing, Communities and Local Government in such format and through such an infrastructure system as the Secretary of State for Housing, Communities and Local Government may have notified to the ERO in writing.
+
+(2) Following receipt of the first stage information from the ERO or, in the case of an application made through or partially completed using the UK digital service, from the applicant, the Secretary of State for Housing, Communities and Local Government may disclose the first stage information to the Secretary of State for Work and Pensions.
+
+(3) Where the first stage information has been disclosed to the Secretary of State for Work and Pensions under sub-paragraph (2), the Secretary of State for Work and Pensions may compare it against—
+
+- (a) the name, address, date of birth and national insurance number of individuals appearing in the following types of data kept by the Secretary of State—
+  - (i) data kept for the purposes of functions relating to social security (including such information kept on behalf of the Department for Social Development), and
+  - (ii) data relating to working tax credit, child tax credit and child benefit (being information kept on behalf of His Majesty’s Revenue and Customs), and
+- (b) any other information contained in such types of data which relates to the information disclosed under sub-paragraph (2).
+
+(4) The Secretary of State for Work and Pensions may disclose the results of the comparison of the first stage information (“the second stage information”) to the Secretary of State for Housing, Communities and Local Government.
+
+(5) On receipt of the second stage information, the Secretary of State for Housing, Communities and Local Government may disclose that information—
+
+- (a) to the Secretary of State for Work and Pensions, or
+- (b) to the ERO to whom the application has been made or, in the case of an application made through the UK digital service, the ERO appointed for the register to which the application relates.
+
+(6) Sub-paragraph (3) applies to the second stage information where it has been disclosed to the Secretary of State for Work and Pensions under sub-paragraph (5)(a) as it applies to the first stage information disclosed under sub-paragraph (2).
+
+(7) The Secretary of State for Work and Pensions may disclose the results of the comparison of the second stage information (“the third stage information”) to the Secretary of State for Housing, Communities and Local Government.
+
+(8) On receipt of the third stage information, the Secretary of State for Housing, Communities and Local Government may—
+
+- (a) compare the third stage information against the information provided in the absent voting application, and
+- (b) notify the ERO to whom the application has been made or, in the case of an application made through the UK digital service, the ERO appointed for the register to which the application relates, as to whether the comparison in head (a) resulted in a match.
+
+(9) The ERO must take into account any information disclosed by, or notification received from, the Secretary of State for Housing, Communities and Local Government in accordance with this paragraph when determining the application.
+
+(10) This paragraph does not apply in relation to an application under article 9(2)—
+
+- (a) which is received by the ERO after 5 pm on the sixth day before the date of the poll at the election for which it is made, and
+- (b) where paragraph 9(4) applies.
+
+(11) In sub-paragraph (1)—
+
+- (a) “infrastructure system” has the meaning given in schedule 3A of the Communications Act 2003,
+- (b) the reference to the applicant’s address is a reference to the address in the application in accordance with paragraph 1(1)(b).
+
+### 9B. Power to request additional evidence in relation to absent voting applications[^c-6ed03f8e743873f26e679053b459695a]
+
+(1) This paragraph applies where, upon receipt of an absent voting application, an ERO considers additional evidence is necessary to verify the identity of the applicant.
+
+(2) The ERO may require that the applicant provide the ERO with a copy, or where the ERO considers it appropriate, the original, of one of the following documents—
+
+- (a) the applicant’s passport,
+- (b) the applicant’s identity card issued in the European Economic Area,
+- (c) the applicant’s biometric immigration document issued in the United Kingdom in accordance with regulations made under section 5 of the UK Borders Act 2007,
+- (d) the applicant’s electoral identity card issued in Northern Ireland,
+- (e) the applicant’s photocard driving licence granted in the United Kingdom or driving licence granted by a Crown Dependency, which bears a photograph of the applicant.
+
+(3) Where an applicant is not able to give one of the documents in sub-paragraph (2), the ERO may require that the applicant provide the ERO with a copy, or where the ERO considers it appropriate, the original, of—
+
+- (a) one of the following documents, which, except in relation to paragraph (vii) must have been issued in the United Kingdom or Crown Dependencies—
+  - (i) the applicant’s birth certificate,
+  - (ii) the applicant’s marriage or civil partnership certificate,
+  - (iii) the applicant’s adoption certificate,
+  - (iv) the applicant’s firearms certificate granted under the Firearms Act 1968,
+  - (v) the record of a decision on bail made in respect of the applicant in accordance with section 5(1) of the Bail Act 1976 or Part 3 of the Criminal Procedure (Scotland) Act 1995,
+  - (vi) the applicant’s driving licence, which is not in the form of a photocard,
+  - (vii) the applicant’s driving licence granted other than in the United Kingdom or Crown Dependencies, which bears a photograph of the applicant and which must be valid for at least 12 months from the date the applicant entered the United Kingdom, and
+- (b) two other documents, each of which may be either from head (a) or from those mentioned in sub-paragraph (4)(a) to (e).
+
+(4) Where the applicant is not able to provide documents in accordance with sub-paragraph (3), the ERO may require that the applicant provides the ERO with a copy, or where the ERO considers it appropriate, the original, of four documents, each of which may be any of the following kinds of evidence and which must bear the applicant’s full name—
+
+- (a) a financial statement, including but not limited to—
+  - (i) a mortgage statement,
+  - (ii) a bank or building society statement or a letter from a bank or building society confirming that the applicant has opened an account with that bank or building society,
+  - (iii) a credit card statement,
+  - (iv) a pension statement,
+- (b) a council tax demand letter or statement,
+- (c) a utility bill,
+- (d) a Form P45 or Form P60 issued to the applicant by their employer or former employer,
+- (e) a statement of benefits or entitlement to benefits, such as a statement of child benefit, within the meaning of section 141 of the Social Security Contributions and Benefits Act 1992, or a letter confirming that the applicant is entitled to housing benefit, within the meaning of section 130 of that Act.
+
+(5) If the applicant is unable to provide the documentary evidence required under sub-paragraphs (2) to (4), the ERO may require that the applicant give an attestation which must—
+
+- (a) confirm that the applicant is the person named in the application,
+- (b) be in writing and signed by a qualifying attestor,
+- (c) state the qualifying attestor’s full name, date of birth, occupation, residential address, and (if different) the address in respect of which the qualifying attestor is registered as an elector,
+- (d) state the qualifying attestor’s electoral number,
+- (e) include an explanation as to the qualifying attestor’s ability to confirm that the applicant is the person named in the application, including (but not limited to) the qualifying attestor’s connection to the applicant and the length of time that connection has existed,
+- (f) include—
+  - (i) an indication that the qualifying attestor is aware of article 27 (offences relating to applications for postal and proxy votes) of this Order, and
+  - (ii) a declaration by the qualifying attestor that all information provided in the attestation is true, and
+- (g) state the date on which it is made.
+
+(6) In sub-paragraph (5), a “qualifying attestor” is a person—
+
+- (a) who is not the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild of the applicant,
+- (b) who is registered as an elector in a local authority area in Scotland,
+- (c) whom the ERO is satisfied is of good standing in the community, and
+- (d) who has not already signed a relevant identity attestation for two other applicants since whichever is the later—
+  - (i) the date on which the revised register in which the qualifying attestor’s name appears was last published under section 13(1) of the 1983 Act,
+  - (ii) the date on which a notice specifying the qualifying attestor’s entry in the register was issued under section 13A(2), 13AB(2), 13B or 13BC of that Act (and if there has been more than one such notice, the date on which the last one was issued).
+
+(7) In sub-paragraph (6)(d), a “relevant identity attestation” is an attestation provided in accordance with—
+
+- (a) sub-paragraph (5),
+- (b) regulation 26B(6) or (6ZA) or 56C(5A) or (6) of the Representation of the People (England and Wales) Regulations 2001,
+- (c) regulation 26B(6) or (6ZA) or 56C(5A) or (6) of the Representation of the People (Scotland) Regulations 2001,
+- (d) regulation 11B(5) of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007,
+- (e) regulation 25A(3) of the Representation of the People (Northern Ireland) Regulations 2008,
+- (f) paragraph 16C(5) of schedule 2 of the Police and Crime Commissioner Elections Order 2012,
+- (g) regulation 72B(5A) or (6) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016,
+- (h) regulation 7(6) of the Voter Identification Regulations 2022,
+- (i) paragraph 11B(5) of schedule 1 of the Senedd Cymru (Representation of the People) Order 2025.
+
+(8) Sub-paragraphs (2) to (5) do not apply where the applicant is registered, or has applied to be registered, in the register of local government electors in Scotland in pursuance of any of the following declarations—
+
+- (a) a service declaration on the grounds that the applicant is a Crown servant or the spouse or civil partner of a Crown Servant,
+- (b) a service declaration on the grounds that the applicant is a member of the forces,
+- (c) a service declaration on the grounds that the applicant is the spouse or civil partner of a member of the forces.
+
+(9) In the case of an application to which sub-paragraph (8)(a) or (c) applies, the ERO may require that the applicant give them a copy, or where the ERO considers it appropriate, the original, of one of the following documents, which has been certified by a Crown servant or British Council employee or an officer of the forces, who is not the applicant’s spouse or civil partner—
+
+- (a) the applicant’s passport,
+- (b) the applicant’s identity card issued in the European Economic Area.
+
+(10) In the case of an application to which sub-paragraph (8)(b) applies, the ERO may require that the applicant give an attestation which must—
+
+- (a) confirm that the applicant is the person named in the application,
+- (b) be in writing and signed by an officer of the forces who is not the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild of the applicant,
+- (c) state the full name, address and rank of the person signing the attestation and the service (whether naval, military or air forces) in which they serve, and
+- (d) state the date on which it is made.
+
+(11) A document or attestation provided in accordance with this paragraph may be transmitted by an applicant by electronic means.
+
+(12) In this paragraph—
+
+- “**Crown Dependency**” means the Bailiwick of Jersey, the Bailiwick of Guernsey or the Isle of Man,
+- “**member of the forces**” has the same meaning as in section 59(1) of the 1983 Act,
+- “**officer of the forces**” means a member of the forces who is an officer.
+
+(13) This paragraph does not apply in relation to an application under article 9(2)—
+
+- (a) which is received by the ERO after 5 pm on the sixth day before the date of the poll at the election for which it is made, and
+- (b) where paragraph 9(4) or (4E) applies.
+
+### 9C. Processing of information provided in connection with an absent voting application
+
+(1) If a person provides an original document under paragraph 9B, the ERO must make a copy of that document and return the original document to the person who provided it.
+
+(2) In respect of any absent voting application, until the application has been determined the ERO must retain—
+
+- (a) the application form , or, in the case of an application made through the UK digital service, the information contained in the application transmitted to the ERO by the Secretary of State[^c-311d7b7e48ef390bacfee91410328e00],
+- (b) any other information or documents provided to the ERO in connection with the application or, in the case of original documents returned under sub-paragraph (1), a copy of those documents.
+
+(3) Subject to sub-paragraph (4), the ERO may retain the application form, information and documents in sub-paragraph (2) after the application has been determined but, if they do so, must delete the applicant’s national insurance number from the application form, information and documents in sub-paragraph (2) by no later than the date which is 13 months from the date on which the ERO determined the absent voting application.
+
+(4) The requirement to delete the national insurance number in sub-paragraph (3) does not apply where the application, information and documents in sub-paragraph (2) are required for the purpose of any civil or criminal proceedings.
+
+(5) Information disclosed under paragraph 9A must not be disclosed to any other person, except for the purposes of—
+
+- (a) determining the absent voting application in connection with which the information was disclosed,
+- (b) any civil or criminal proceedings.
+
+(6) A person who discloses information in breach of sub-paragraph (5) is guilty of an offence and liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine (or both),
+- (b) on summary conviction, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum (or both).
+
+(7) Any information disclosed under paragraph 9A must be processed in accordance with any requirements as to the processing of information that may have been imposed by the Secretary of State for Housing, Communities and Local Government in writing in advance of that processing, including requirements as to the transfer, storage, destruction and security of that information.
+
+(8) In this paragraph, “**copy**” includes an electronic copy.
+
 ### 10. Grant or refusal of applications for a postal or proxy vote[^c-e2f60ad2065188f78539e8fdb95a788f]
 
 (1) Where the ERO grants an application under article 8, 9, 10 or 11 the ERO shall, where practicable, notify the applicant of the ERO’s decision.
+
+(1A)[^c-680b19a61e9b5be45d67d63842feb809] Where the ERO grants an application to vote by post, the notification under sub-paragraph (1) must include—
+
+- (a) where the postal vote entitlement is for a particular election, the date of the poll for which the elector’s entitlement to vote by post has been granted,
+- (b) otherwise, the date on which the elector’s entitlement to vote by post ends.
 
 (2) Where the ERO grants an application for the appointment of a proxy, the ERO shall, where practicable—
 
@@ -379,6 +607,39 @@ shall be disregarded.
 (6) Where a person is removed from the record kept in pursuance of article 8(4), the ERO shall, where practicable, notify the person of this and the reason for it.
 
 (7) At an election where the ERO is not the CRO for any constituency or part of a constituency for which the ERO is the ERO, the ERO shall send to that CRO details of any application to vote by post which the ERO has granted as soon as practicable after doing so.
+
+(7A)[^c-fc5a83af0942f1a50b86750d50492a75] Sub-paragraphs (7B) to (7D) apply where—
+
+- (a) an application has been made under article 8, 9 or 11, and
+- (b) either—
+  - (i) paragraph 4(1) applies to that application, or would have applied if sub-paragraph (4) of that paragraph were ignored, or
+  - (ii) paragraph 4(2) applies to that application, or would have applied if sub-paragraph (4) of that paragraph were ignored.
+
+(7B) A notification under sub-paragraph (1) to one of the following types of applicants must also include a statement that ballot papers will be sent to the postal ballot delivery address—
+
+- (a) an applicant registered in pursuance of a service declaration,
+- (b) an applicant registered in pursuance of a local connection (within the meaning of section 7B of the 1983 Act),
+- (c) an applicant who is a merchant seaman (within the meaning of section 6 of the 1983 Act),
+- (d) an applicant who has an anonymous entry.
+
+(7C) Where heads (a) to (d) of sub-paragraph (7B) do not apply to the applicant, the ERO must, in addition to notifying the applicant in accordance with sub-paragraphs (1), (4) or (5), notify the applicant in writing that—
+
+- (a) the application has been granted, refused or disregarded, and
+- (b) where the application has been granted, ballot papers will be sent to the postal ballot delivery address.
+
+(7D) A notification under sub-paragraph (7C) must be delivered to—
+
+- (a) where sub-paragraph (7A)(b)(ii) applies and the notification is to be delivered to a person shown as voting by post in the record kept under article 9(5)(a), the address shown in that record,
+- (b) otherwise—
+  - (i) the address stated in the application in accordance with paragraph 1(1)(b), or
+  - (ii) the proxy’s address stated in the application in accordance with paragraph 1(1)(c).
+
+(7E) In sub-paragraph (7B) “**service declaration**” has the same meaning as in section 202(1) of the 1983 Act.
+
+(7F) In sub-paragraphs (7B) and (7C) the “postal ballot delivery address” means—
+
+- (a) where sub-paragraph (7A)(b)(i) applies, the different address described in paragraph 4(1),
+- (b) where sub-paragraph (7A)(b)(ii) applies, the address stated in the application in accordance with paragraph 1(1)(e).
 
 ### 11. Notice of appeal[^c-7378a991df23a56b7c41253b2fa25614]
 
@@ -409,7 +670,18 @@ and shall also give to the sheriff any other information which the sheriff may r
 
 (2) The ERO may treat the failure by a person of whom inquiries have been made under sub-paragraph (1) to respond to such inquiries within one month of the date on which they were made as sufficient evidence of a material change in circumstances.
 
+### 13A. Requirement to notify certain electors and proxies that postal vote entitlement is to end[^c-a29a407e9c608769c23b18133b121ad7]
+
+(1) This paragraph applies in respect of an elector or proxy who remains entitled to vote by post at a Scottish parliamentary election or at local government and Scottish parliamentary elections by virtue of an entitlement which was granted for the maximum period (“**the relevant person**”).
+
+(2) Before the end of the maximum period, the ERO must send to the relevant person—
+
+- (a) a notice informing the relevant person of the date on which the relevant person’s entitlement to vote by post is to end, and
+- (b) information about how to make a fresh application to vote by post (as elector or, as the case may be, as proxy).
+
 ### 14. Requirement to provide fresh signatures at five yearly intervals[^c-fc469ee6e0f000e74deb11c3db14004c]
+
+(A1)[^c-00762f0ad2677280bd9adb4a1c61a6f5] This paragraph does not apply to an elector or proxy so far as that elector or proxy remains entitled to vote by post at a Scottish parliamentary election or at local government and Scottish parliamentary elections.
 
 (1) The ERO shall every year by 31st January send every person who remains an absent voter and whose signature held on the personal identifiers record is more than five years old a notice in writing—
 
@@ -681,6 +953,8 @@ To indicate that an elector or the elector’s proxy is entitled to vote by post
 
 [^c-987d23d41a567d765a3adb9f8c48557e]: Commencement: Sch. 3 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
 
+[^c-74f0184b509a5e7fd98982155845f15b]: Textual amendment: Sch. 3 para. 1(1)(aa) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [8(a)](https://www.legislation.gov.uk/ssi/2026/121/article/8/a)
+
 [^f00076]: Footnote: Section 16(1)(d) was amended by the 2000 Act, sections 8 and 15(2), Schedule 1, paragraphs 1 and 9(c) and Schedule 7, Part 1. The existing text was renumbered as subsection (1), and a further subsection added, by section 9 of the Scottish Elections (Reduction of Voting Age) Act [2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7).
 
 [^f00077]: Footnote: Section 7B was inserted by the 2000 Act, section 6, and is amended by section 8 of the Scottish Elections (Reduction of Voting Age) Act [2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7).
@@ -691,7 +965,13 @@ To indicate that an elector or the elector’s proxy is entitled to vote by post
 
 [^c-552e848b532b9d07219c28cf56632c07]: Textual amendment: [Sch. 3 para. 1(4)(e)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/1/4/e) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [16(3)](https://www.legislation.gov.uk/ssi/2020/426/article/16/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
+[^c-1d3964034d77af2d96d17a0e9ac95aff]: Textual amendment: Word in [sch. 3 para. 1(5)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/1/5) substituted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [8(b)](https://www.legislation.gov.uk/ssi/2026/121/article/8/b)
+
+[^c-473d894949af9be65a763c4d5901184a]: Textual amendment: [Sch. 3 para. 1(6)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/1/6) substituted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2026/121/article/8/c)
+
 [^c-f879782b756cce539a4f627b34f906ca]: Textual amendment: Words in [sch. 3 para. 1(7)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/1/7) substituted (24.3.2021) by [The Scottish Parliament (Elections etc.) Amendment (Coronavirus) Order 2021 (S.S.I. 2021/164)](https://www.legislation.gov.uk/ssi/2021/164), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/164/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/164/article/2/2) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2021/164/article/1/2))
+
+[^c-28b5094260c1eea508db522dd7d93d4f]: Textual amendment: Sch. 3 para. 1(9)-(14) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [18](https://www.legislation.gov.uk/ssi/2026/122/regulation/18)
 
 [^c-5288e91d64f4d08c85f4e78fcd536247]: Commencement: Sch. 3 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
 
@@ -755,11 +1035,15 @@ To indicate that an elector or the elector’s proxy is entitled to vote by post
 
 [^c-5e6ae846fcf93f5b37a7832908031cda]: Textual amendment: [Sch. 3 para. 7(7A)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/7/7A)[(7B)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/7/7B) inserted (2.4.2020) by [Scottish Elections (Franchise and Representation) Act 2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/6/section/12/1), [sch. para. 2(5)(b)](https://www.legislation.gov.uk/asp/2020/6/schedule/paragraph/2/5/b)
 
-[^c-ae10b65821f10808ad6a9fbf2575f336]: Textual amendment: [Sch. 3 para. 7(7C)-(7E)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/7/7C) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [15(a)](https://www.legislation.gov.uk/ssi/2025/313/article/15/a)
+[^c-ae10b65821f10808ad6a9fbf2575f336]: Textual amendment: Sch. 3 para. 7(7C)-(7E) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [15(a)](https://www.legislation.gov.uk/ssi/2025/313/article/15/a)
+
+[^c-00c789dc155596af19719290f3d1a078]: Textual amendment: Sch. 3 para. 7(7F)(7G) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [19](https://www.legislation.gov.uk/ssi/2026/122/regulation/19)
 
 [^c-d6e7b8ce25d35cb647e814fc3a49f50d]: Textual amendment: [Sch. 3 para. 7A](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/7A) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [15(b)](https://www.legislation.gov.uk/ssi/2025/313/article/15/b)
 
 [^c-cfd0509aeddcfc2c1791ad5c8f9ae2f7]: Commencement: Sch. 3 para. 8 in force at 16.12.2015 in accordance with art. 1(1)
+
+[^c-d2fefb90854ba333c8edcb47a01b571d]: Textual amendment: Sch. 3 para. 8A inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [20](https://www.legislation.gov.uk/ssi/2026/122/regulation/20)
 
 [^c-5cc24df44513afee94fdd854da931be8]: Commencement: Sch. 3 para. 9 in force at 16.12.2015 in accordance with art. 1(1)
 
@@ -773,11 +1057,23 @@ To indicate that an elector or the elector’s proxy is entitled to vote by post
 
 [^c-1f5a67d3a488c711cf3fb31e5fac7ed6]: Textual amendment: [Sch. 3 para. 9(4A)-(4D)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/9/4A) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [16(6)](https://www.legislation.gov.uk/ssi/2020/426/article/16/6) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
+[^c-535a50cc8531c9b80fe960c4fbb4397a]: Textual amendment: Sch. 3 para. 9(4E)(4F) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [21](https://www.legislation.gov.uk/ssi/2026/122/regulation/21)
+
 [^c-db0071dd78a0f6155bfe3bd41330b9b9]: Modification: [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/9/5): power to modify conferred (30.1.2021) by [Scottish General Election (Coronavirus) Act 2021 (asp 5)](https://www.legislation.gov.uk/asp/2021/5), [ss. 3(5)](https://www.legislation.gov.uk/asp/2021/5/section/3/5), [15](https://www.legislation.gov.uk/asp/2021/5/section/15) (with [ss. 3(6)](https://www.legislation.gov.uk/asp/2021/5/section/3/6), [12](https://www.legislation.gov.uk/asp/2021/5/section/12))
 
 [^f00093]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
+[^c-afd2be181187308fbeda6e74ea2209fb]: Textual amendment: Sch. 3 para. 9A inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [22(1)](https://www.legislation.gov.uk/ssi/2026/122/regulation/22/1)
+
+[^c-6ed03f8e743873f26e679053b459695a]: Textual amendment: Sch. 3 paras. 9B, 9C inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [9](https://www.legislation.gov.uk/ssi/2026/121/article/9)
+
+[^c-311d7b7e48ef390bacfee91410328e00]: Textual amendment: Words in [sch. 3 para. 9C(2)(a)](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/9C/2/a) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [22(2)](https://www.legislation.gov.uk/ssi/2026/122/regulation/22/2)
+
 [^c-e2f60ad2065188f78539e8fdb95a788f]: Commencement: Sch. 3 para. 10 in force at 16.12.2015 in accordance with art. 1(1)
+
+[^c-680b19a61e9b5be45d67d63842feb809]: Textual amendment: Sch. 3 para. 10(1A) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [10(a)](https://www.legislation.gov.uk/ssi/2026/121/article/10/a)
+
+[^c-fc5a83af0942f1a50b86750d50492a75]: Textual amendment: Sch. 3 para. 10(7A)-(7F) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [10(b)](https://www.legislation.gov.uk/ssi/2026/121/article/10/b)
 
 [^c-7378a991df23a56b7c41253b2fa25614]: Commencement: Sch. 3 para. 11 in force at 16.12.2015 in accordance with art. 1(1)
 
@@ -785,7 +1081,11 @@ To indicate that an elector or the elector’s proxy is entitled to vote by post
 
 [^c-0f5fd8fb1cd616ded64e4d68f7eb778f]: Commencement: Sch. 3 para. 13 in force at 16.12.2015 in accordance with art. 1(1)
 
+[^c-a29a407e9c608769c23b18133b121ad7]: Textual amendment: Sch. 3 para. 13A inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [11](https://www.legislation.gov.uk/ssi/2026/121/article/11)
+
 [^c-fc469ee6e0f000e74deb11c3db14004c]: Commencement: Sch. 3 para. 14 in force at 16.12.2015 in accordance with art. 1(1)
+
+[^c-00762f0ad2677280bd9adb4a1c61a6f5]: Textual amendment: Sch. 3 para. 14(A1) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [12](https://www.legislation.gov.uk/ssi/2026/121/article/12)
 
 [^c-6a63c23c5d0d34903cf99728c0b246bd]: Textual amendment: [Sch. 3 para. 14A](https://www.legislation.gov.uk/ssi/2015/425/schedule/3/paragraph/14A) inserted (1.12.2025) by [The Absent Voting at Scottish Parliament and Local Government Elections (Signature Refresh) (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/354)](https://www.legislation.gov.uk/ssi/2025/354), [arts. 1](https://www.legislation.gov.uk/ssi/2025/354/article/1), [3](https://www.legislation.gov.uk/ssi/2025/354/article/3)
 

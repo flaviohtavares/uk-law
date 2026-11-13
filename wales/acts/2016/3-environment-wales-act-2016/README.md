@@ -5,7 +5,7 @@ type: WelshNationalAssemblyAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2016-03-21'
-text_date: '2026-06-27'
+text_date: '2026-10-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/anaw/2016/3
 pdf_urls:
@@ -16,7 +16,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/anaw/2016/3/pdfs/anaw_20160003_en.pdf
 - http://www.legislation.gov.uk/anaw/2016/3/pdfs/anaw_20160003_we.pdf
 - http://www.legislation.gov.uk/anaw/2016/3/data.pdf
-pending_changes: 9
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -24,7 +24,7 @@ summary: ''
 
 # Environment (Wales) Act 2016
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2026-06-27. See https://www.legislation.gov.uk/changes/affected/anaw/2016/3
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/anaw/2016/3
 >
 > Extent: England, Wales.
 

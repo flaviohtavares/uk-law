@@ -2,9 +2,9 @@
 title: Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996, section 13
 act: Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996
 section: '13'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-06-24'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/247/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996, section 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## 13. Fees
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Without prejudice to the power of the Department, where it is a notified body, to charge fees pursuant to Regulations made under section 56 of the Finance Act 1973[^f00014] and subject to paragraphs (2) and (3), a notified body appointed by the Department other than the Department may charge such fees in connection with, or incidental to, carrying out its duties in relation to the functions referred to in regulation 12(2)(*c*) as it may determine.
 

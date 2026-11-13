@@ -3,13 +3,13 @@ title: The Insurance Companies (Third Insurance Directives) Regulations 1994
 id: uksi/1994/1696
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1994-06-27'
-text_date: null
-extent: null
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696
 pdf_urls:
-- http://www.legislation.gov.uk/uksi/1994/1696/made/data.pdf
+- http://www.legislation.gov.uk/uksi/1994/1696/data.pdf
 pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 1994 No. 1696
 
@@ -44,19 +48,29 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 
 ### PART I — GENERAL
 
+*Extent: E+W+S+N.I.*
+
 - [Section 1 — Citation, commencement and extent](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
 ### PART II — AMENDMENTS OF 1982 ACT
 
+*Extent: E+W+S+N.I.*
+
 #### CHAPTER I — RESTRICTION ON CARRYING ON INSURANCE BUSINESS
 
+*Extent: E+W+S+N.I.*
+
 ##### Preliminary
+
+*Extent: E+W+S+N.I.*
 
 - [Section 3 — Classification of long term business](part-ii/section-3.md)
 - [Section 4 — Restriction on carrying on insurance business](part-ii/section-4.md)
 
 ##### Applications for authorisation
+
+*Extent: E+W+S+N.I.*
 
 - [Section 5 — Sound and prudent management: criteria which must be fulfilled](part-ii/section-5.md)
 - [Section 6 — Combination of long term and general business](part-ii/section-6.md)
@@ -66,17 +80,25 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 
 ##### Withdrawal of authorisation
 
+*Extent: E+W+S+N.I.*
+
 - [Section 10 — Withdrawal of authorisation in respect of new business](part-ii/section-10.md)
 - [Section 11 — Suspension of authorisation in urgent cases](part-ii/section-11.md)
 - [Section 12 — Final withdrawal of authorisation](part-ii/section-12.md)
 
 #### CHAPTER II — REGULATION OF INSURANCE COMPANIES
 
+*Extent: E+W+S+N.I.*
+
 ##### Preliminary
+
+*Extent: E+W+S+N.I.*
 
 - [Section 13 — Insurance companies to which Part II applies](part-ii/section-13.md)
 
 ##### Financial resources
+
+*Extent: E+W+S+N.I.*
 
 - [Section 14 — Margins of solvency](part-ii/section-14.md)
 - [Section 15 — Companies supervised in other EEA States](part-ii/section-15.md)
@@ -85,6 +107,8 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 18 — Adequacy of premiums: long term business](part-ii/section-18.md)
 
 ##### Powers of intervention
+
+*Extent: E+W+S+N.I.*
 
 - [Section 19 — Grounds on which powers of intervention are exercisable](part-ii/section-19.md)
 - [Section 20 — Requirements about investments](part-ii/section-20.md)
@@ -98,15 +122,21 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 
 ##### Transfers of insurance business
 
+*Extent: E+W+S+N.I.*
+
 - [Section 28 — Transfers of long term and general business](part-ii/section-28.md)
 - [Section 29 — Issue of certificates by Secretary of State](part-ii/section-29.md)
 - [Section 30 — Effect of transfers authorised in other EEA States](part-ii/section-30.md)
 
 ##### Winding up
 
+*Extent: E+W+S+N.I.*
+
 - [Section 31 — Winding up on petition by Secretary of State](part-ii/section-31.md)
 
 ##### Changes of director, controller or manager etc.
+
+*Extent: E+W+S+N.I.*
 
 - [Section 32 — Approval of proposed managing director or chief executive](part-ii/section-32.md)
 - [Section 33 — Approval of proposed controller where section 60 does not apply](part-ii/section-33.md)
@@ -117,10 +147,14 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 
 ##### Miscellaneous and supplemental
 
+*Extent: E+W+S+N.I.*
+
 - [Section 38 — Documents deposited in Northern Ireland](part-ii/section-38.md)
 - [Section 39 — Offences under Part II](part-ii/section-39.md)
 
 #### CHAPTER III — CONDUCT OF INSURANCE BUSINESS
+
+*Extent: E+W+S+N.I.*
 
 - [Section 40 — Information for policy holders of UK insurers and EC companies](part-ii/section-40.md)
 - [Section 41 — Information for policy holders of EFTA companies](part-ii/section-41.md)
@@ -130,15 +164,21 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 
 #### CHAPTER IV — RECOGNITION IN ACCORDANCE WITH INSURANCE DIRECTIVES
 
+*Extent: E+W+S+N.I.*
+
 - [Section 45 — Recognition in the United Kingdom of EC and EFTA companies](part-ii/section-45.md)
 - [Section 46 — Recognition in other EEA States of UK insurers](part-ii/section-46.md)
 
 #### CHAPTER V — SPECIAL CLASSES OF INSURERS
 
+*Extent: E+W+S+N.I.*
+
 - [Section 47 — Industrial assurance business](part-ii/section-47.md)
 - [Section 48 — Lloyd’s underwriters](part-ii/section-48.md)
 
 #### CHAPTER VI — SUPPLEMENTARY PROVISIONS
+
+*Extent: E+W+S+N.I.*
 
 - [Section 49 — Applicable law](part-ii/section-49.md)
 - [Section 50 — General interpretation](part-ii/section-50.md)
@@ -149,6 +189,8 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [Section 55 — Meaning of “claims representative”](part-ii/section-55.md)
 
 ### PART III — AMENDMENTS OF 1986 ACT
+
+*Extent: E+W+S+N.I.*
 
 - [Section 56 — Recognition of self-regulating organisations](part-iii/section-56.md)
 - [Section 57 — Authorised insurers](part-iii/section-57.md)
@@ -165,6 +207,8 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 
 ### PART IV — SUPPLEMENTAL
 
+*Extent: E+W+S+N.I.*
+
 - [Section 68 — Minor and consequential amendments and saving](part-iv/section-68.md)
 - [Section 69 — Transitional provisions: EC companies](part-iv/section-69.md)
 - [Section 70 — Transitional provisions: UK insurers](part-iv/section-70.md)
@@ -179,6 +223,8 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on hi
 - [SCHEDULE 7](schedule-7.md)
 - [SCHEDULE 8](schedule-8.md)
 
+*Extent: E+W+S+N.I.*
+
 Neil Hamilton
 
 Parliamentary Under-Secretary of State,
@@ -186,6 +232,8 @@ Parliamentary Under-Secretary of State,
 Department of Trade and Industry
 
 27th June 1994
+
+*Extent: E+W+S+N.I.*
 
 (This note is not part of the Regulations)
 

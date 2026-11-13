@@ -3,7 +3,7 @@ title: Police Reform Act 2002, section 19
 act: Police Reform Act 2002
 section: '19'
 status: revised-with-pending-changes
-text_date: '2026-10-29'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2002/30/section/19
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Police Reform Act 2002, section 19
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
 > Extent: England, Wales.
 
-## 19. Use of investigatory powers by or on behalf of the Director General[^c20012681][^c21090641][^c21093021][^c-d637c489fd07d1d0edd1142cc358892c][^c-a1ba8eb6825b717a1c2257edb4385c80][^c-544c79333fd0541521774feeb47cfa2d][^c-97f5f3e2b5a02ebd14b313a655dff6c0][^c-538d3c9c69a323365abec23daea3fe19][^c-6509241667c96cee7db799f0c028e3af][^c-84d9b16057619b62622a93ee96a1254f]
+## 19. Use of investigatory powers by or on behalf of the Director General[^c20012681][^c21090641][^c21093021][^c-d637c489fd07d1d0edd1142cc358892c][^c-a1ba8eb6825b717a1c2257edb4385c80][^c-544c79333fd0541521774feeb47cfa2d][^c-97f5f3e2b5a02ebd14b313a655dff6c0][^c-d9c38727ed07a71d4018f8f86ba97807][^c-538d3c9c69a323365abec23daea3fe19][^c-6509241667c96cee7db799f0c028e3af][^c-84d9b16057619b62622a93ee96a1254f]
 
 *Extent: E+W*
 
@@ -55,6 +55,8 @@ to have effect with such modifications as may be specified in the order.
 [^c-544c79333fd0541521774feeb47cfa2d]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/2002/30/section/19) applied (with modifications) (1.5.2025) by [The Food Crime Officers (Complaints and Misconduct) Regulations 2025 (S.I. 2025/301)](https://www.legislation.gov.uk/uksi/2025/301), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/301/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2025/301/regulation/4)
 
 [^c-97f5f3e2b5a02ebd14b313a655dff6c0]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/2002/30/section/19) applied (with modifications) (5.8.2010) by [The Revenue and Customs (Complaints and Misconduct) Regulations 2010 (S.I. 2010/1813)](https://www.legislation.gov.uk/uksi/2010/1813), [reg. 5](https://www.legislation.gov.uk/uksi/2010/1813/regulation/5) (with [reg. 11](https://www.legislation.gov.uk/uksi/2010/1813/regulation/11)) (as amended (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/703/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3)))
+
+[^c-d9c38727ed07a71d4018f8f86ba97807]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/2002/30/section/19) applied (with modifications) (9.11.2026) by [The Authorised Investigators (Complaints and Misconduct) Regulations 2026 (S.I. 2026/1098)](https://www.legislation.gov.uk/uksi/2026/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1098/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/1098/regulation/6)
 
 [^c-538d3c9c69a323365abec23daea3fe19]: Modification: Pt. 2 applied (with modifications) (22.11.2012) by [The Police (Complaints and Misconduct) Regulations 2012 (S.I. 2012/1204)](https://www.legislation.gov.uk/uksi/2012/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1204/regulation/1/1), [35(1)](https://www.legislation.gov.uk/uksi/2012/1204/regulation/35/1) (with [reg. 35(2)](https://www.legislation.gov.uk/uksi/2012/1204/regulation/35/2))
 

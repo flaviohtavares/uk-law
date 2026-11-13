@@ -3,7 +3,7 @@ title: Adoption and Children Act 2002, section 67
 act: Adoption and Children Act 2002
 section: '67'
 status: revised-with-pending-changes
-text_date: '2022-11-30'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2002/38/section/67
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Adoption and Children Act 2002, section 67
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Status conferred by adoption[^c-b72030671eafa9475f0fb6772432f9e4]
+## 67. Status conferred by adoption[^c-b72030671eafa9475f0fb6772432f9e4][^c-8c90d2c93353c01dc296227f2a58b30f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,8 @@ but this subsection does not affect any reference in this Act to a person’s na
 ## Annotations
 
 [^c-b72030671eafa9475f0fb6772432f9e4]: Commencement: S. 67 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+
+[^c-8c90d2c93353c01dc296227f2a58b30f]: Modification: [S. 67](https://www.legislation.gov.uk/ukpga/2002/38/section/67) applied (6.11.2026) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), [s. 67E(12)](https://www.legislation.gov.uk/ukpga/2008/4/section/67E/12) (as inserted by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/106/1), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c))
 
 [^c-9bf0540378e624425208299f7d9d41fe]: Modification: S. 67(1)-(3) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
 

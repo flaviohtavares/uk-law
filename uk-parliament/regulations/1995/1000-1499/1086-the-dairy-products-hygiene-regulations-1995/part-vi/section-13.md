@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 13
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '13'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 13. Duties of occupier or purchasers of raw milk for re-sale
+## 13. Duties of occupier or purchasers of raw milk for re-sale[^c-781f0d17842a7a7685043bf716f32098]
+
+*Extent: E+W*
 
 (1) Subject to paragraph (3) below, the occupier of a dairy establishment shall—
 
@@ -45,3 +49,7 @@ summary: ''
 - (d) the carrying out of checks to ensure compliance with the standards for animal health prescribed in Part I of Schedule 3;
 - (e) the requirements specified in paragraph (1)(c) to (h) above, as appropriate; and
 - (f) the requirements specified in Schedules 7 and 8.
+
+## Annotations
+
+[^c-781f0d17842a7a7685043bf716f32098]: Commencement: Reg. 13 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

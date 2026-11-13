@@ -3,7 +3,7 @@ title: Regulation and Inspection of Social Care (Wales) Act 2016, section 63
 act: Regulation and Inspection of Social Care (Wales) Act 2016
 section: '63'
 status: not-yet-in-force
-text_date: '2026-04-01'
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/anaw/2016/2/section/63
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

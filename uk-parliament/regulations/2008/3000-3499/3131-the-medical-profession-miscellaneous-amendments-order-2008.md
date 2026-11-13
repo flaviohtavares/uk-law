@@ -3,16 +3,16 @@ title: The Medical Profession (Miscellaneous Amendments) Order 2008
 id: uksi/2008/3131
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-10'
-text_date: '2009-01-01'
+text_date: '2012-12-03'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3131
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3131/pdfs/uksiem_20083131_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3131/pdfs/uksi_20083131_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3131/data.pdf
-pending_changes: 19
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Medical Profession (Miscellaneous Amendments) Order 2008
 
-> **Warning: changes not yet applied to this text (19).** Text as at 2009-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3131
+> Text as at 2012-12-03.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -54,7 +54,7 @@ A draft of this Order in Council has been approved by resolution of each House o
 
 Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council, to make the following Order in Council:
 
-## 1. Citation, commencement and interpretation[^c-034a856d80c5d765490b3f347b636834]
+## 1. Citation, commencement and interpretation[^c-034a856d80c5d765490b3f347b636834][^c-034a856d80c5d765490b3f347b636834]
 
 (1) This Order may be cited as the Medical Profession (Miscellaneous Amendments) Order 2008.
 
@@ -69,7 +69,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 (6) In this Order—
 
 - “the 1983 Act” means the Medical Act 1983[^f00002];
-- “the 2003 Order” means the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^f00003]; and
+- [^c-c14ae3c3b3ac582c7649642a406a6542]...; and
 - “the General Council” means the General Medical Council.
 
 ## 2. Transfer of medical education functions to the General Council[^c-1e9afdbb0c6722cd470785a8e3157970]
@@ -88,17 +88,15 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 ## 3. Amendments to the 1983 Act[^c-bb35d818fa37135fc13b2ae55f2e640c][^c-619549901925898ffe98151bb1005758]
 
-(1) Part 1 of Schedule 1 to this Order makes amendments to the 1983 Act relating to medical education, including amendments consequential on article 2.
+(1)[^c-bb35d818fa37135fc13b2ae55f2e640c] Part 1 of Schedule 1 to this Order makes amendments to the 1983 Act relating to medical education, including amendments consequential on article 2.
 
-(2) Part 2 of Schedule 1 to this Order further amends the 1983 Act in connection with licences to practise and revalidation of medical practitioners.
+(2)[^c-951a5acb77592eb649aa291a0e04d01c][^c-435329e500b93bcd7fd75ed284cbd1d7][^c-90fdda7f5238efa68891d251a01fba7f] Part 2 of Schedule 1 to this Order further amends the 1983 Act in connection with licences to practise and revalidation of medical practitioners.
 
-## 4. Amendments to the 2003 Order[^c-38a2c4d7eab16bdf9fb6c36a5ef26d8a]
+## 4. Amendments to the 2003 Order[^c-ba0028f66f2043e276b39cf79343ccf7]
 
-**Not yet in force.**
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Schedule 2 to this Order amends the 2003 Order to provide that certain persons who were consultants immediately before 1st January 1997 may, in accordance with a scheme to be published by the General Council, be entered on the Specialist Register.
-
-## 5. Transitional, transitory or saving provisions orders[^c-567e0a689438445955ef57202f8dad17]
+## 5. Transitional, transitory or saving provisions orders[^c-567e0a689438445955ef57202f8dad17][^c-567e0a689438445955ef57202f8dad17]
 
 (1) In connection with the commencement of any provision of this Order, the Privy Council may by order make such transitional, transitory or saving provisions as it considers appropriate.
 
@@ -110,7 +108,7 @@ Schedule 2 to this Order amends the 2003 Order to provide that certain persons w
 - (b) in relation to all cases to which the power extends or in relation to all those cases subject to specified exceptions; or
 - (c) so as to make any supplementary, incidental or consequential provisions which the Privy Council considers necessary or expedient.
 
-## 6. Privy Council procedures etc.[^c-1c39f69217486e7b9e5d4e1f78d38e03]
+## 6. Privy Council procedures etc.[^c-1c39f69217486e7b9e5d4e1f78d38e03][^c-1c39f69217486e7b9e5d4e1f78d38e03]
 
 (1) The power of the Privy Council to make an order under article 1(4) or 5(1) may be exercised by any two or more members of the Privy Council.
 
@@ -203,13 +201,11 @@ Omit paragraph 14 of Schedule 6 (transitional and saving provisions).
 
 ### PART 2 — Licence to practise and revalidation
 
-**Not yet in force.**
-
 #### 8. Amendment of section 29A[^c-bb27b97914143472f764b728e30a28c4]
 
-(1) Amend section 29A[^f00010] (regulations as to licence to practise and revalidation) as follows.
+(1)[^c-b0c861ead55189c3dcf2df3ef570be32] Amend section 29A[^f00010] (regulations as to licence to practise and revalidation) as follows.
 
-(2) In subsection (4), (regulations as to licence to practise and revalidation), for paragraph (d) substitute—
+(2)[^c-f291c1515412eb1a2d0f312d55817993] In subsection (4), (regulations as to licence to practise and revalidation), for paragraph (d) substitute—
 
 > - (d) revalidation of a medical practitioner of a prescribed description whenever a licensing authority sees fit to do so, either as a condition of the practitioner’s continuing to hold a licence to practise or of the practitioner’s licence to practise being restored.
 
@@ -236,6 +232,8 @@ Omit paragraph 14 of Schedule 6 (transitional and saving provisions).
   .
 
 #### 9. Amendment of section 29B[^c-c3d95ad2476d091660afc53cb760f53f]
+
+**Not yet in force.**
 
 (1) Amend section 29B (grant, refusal and withdrawal of licence) as follows.
 
@@ -281,7 +279,7 @@ Omit paragraph 14 of Schedule 6 (transitional and saving provisions).
 
 .
 
-#### 10. Amendment of section 29C[^c-cfb2c19f1eb974951a2acd9f2eac4ab6]
+#### 10. Amendment of section 29C[^c-cfb2c19f1eb974951a2acd9f2eac4ab6][^c-0042b344ef99dedce87778f6e5839c33]
 
 For section 29C substitute—
 
@@ -296,7 +294,7 @@ For section 29C substitute—
 
 .
 
-#### 11. Amendment of section 29D[^c-2dc78019091f08d778d8a086fe11571b]
+#### 11. Amendment of section 29D[^c-2dc78019091f08d778d8a086fe11571b][^c-b64fdaa8ab991d858081d3c717bfeb23]
 
 After section 29D(1) (restoration of licence) insert—
 
@@ -305,6 +303,8 @@ After section 29D(1) (restoration of licence) insert—
 .
 
 #### 12. Amendment of section 29E[^c-27d7de5b09d7ecfcd4621e06e68d903c]
+
+**Not yet in force.**
 
 (1) Amend section 29E (evidence) as follows.
 
@@ -328,7 +328,7 @@ After section 29D(1) (restoration of licence) insert—
 
   .
 
-#### 13. New section 29EA[^c-f3c2b46e998e9fb2bec8d96e8d38378b]
+#### 13. New section 29EA[^c-f3c2b46e998e9fb2bec8d96e8d38378b][^c-00f595f8879e4fea3b3cfa4866aba21b][^c-e09009a7608f2d580ffb46ff7da3a17f]
 
 After section 29E insert—
 
@@ -357,6 +357,8 @@ After section 29E insert—
 
 #### 14. Amendment of section 29F[^c-c2a1b9a653de07e5090a61f7c90bf793]
 
+**Not yet in force.**
+
 (1) Amend section 29F (appeals) as follows.
 
 (2) Omit “or” at the end of subsection (1)(b).
@@ -370,7 +372,7 @@ After section 29E insert—
 
 (4) In subsection (3) for “to withdraw a licence to practise from a medical practitioner” substitute “to take in relation to a medical practitioner any of the steps mentioned in subsection (1)(b) or (d) above”.
 
-#### 15. Amendment of section 29G[^c-27b9b76e26d89f6adfa07665612873d1]
+#### 15. Amendment of section 29G[^c-27b9b76e26d89f6adfa07665612873d1][^c-d01bcad7e96ed528554a4260d6c72bb8]
 
 (1) Amend section 29G (guidance) as follows.
 
@@ -393,9 +395,9 @@ After section 29E insert—
 
 #### 16. Amendment of section 29J[^c-fa3e8a48fa082958921db72c02c6d0fd]
 
-(1) Amend section 29J (miscellaneous) as follows.
+(1)[^c-b6e1631d364888fd19b5025d3537137c] Amend section 29J (miscellaneous) as follows.
 
-(2) For subsection (2) substitute—
+(2)[^c-b6e1631d364888fd19b5025d3537137c] For subsection (2) substitute—
 
 > (2) Any sum payable by a medical practitioner under subsection (1) above—
 >
@@ -425,9 +427,9 @@ After section 29E insert—
 
 .
 
-(3) At the end of subsection (3) insert “or different areas”.
+(3)[^c-2f859c943c6b3c521b35a3aea95da0d2] At the end of subsection (3) insert “or different areas”.
 
-#### 17. Amendment of section 35C[^c-7dc58b52589580c0f5f945ba55686d18]
+#### 17. Amendment of section 35C[^c-7dc58b52589580c0f5f945ba55686d18][^c-7ca7b1e7e88fcb82036f18ae0db3d24c]
 
 (1) Amend section 35C (functions of the Investigation Committee) as follows.
 
@@ -453,11 +455,13 @@ After section 29E insert—
 
   .
 
-#### 18. Amendment of section 35CC[^c-33a717f9e6264243b9e58e6d12a5605a]
+#### 18. Amendment of section 35CC[^c-33a717f9e6264243b9e58e6d12a5605a][^c-9afa3b4a27d4926a5ef0a19f2619d8ad]
 
 In section 35CC(3) (provisions supplementary to section 35C), after the words “in a case where” insert “, in circumstances other than those specified in section 29C(1)(a) and (b)”.
 
 #### 19. Amendment of Schedule 3B[^c-4574654e713d7b5ab453badef877f6c5]
+
+**Not yet in force.**
 
 (1) Amend Schedule 3B (licence to practise and revalidation: appeals) as follows.
 
@@ -514,41 +518,19 @@ In section 35CC(3) (provisions supplementary to section 35C), after the words �
     ; and
 - (c) in sub-paragraph (4), after “direction under sub-paragraph (2)(b)” insert “or (c)”.
 
-## SCHEDULE 2 — Amendments to the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003
+## SCHEDULE 2 — Amendments to the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^c-74b16070d0cf8b42b976e570c51913c5]
 
-**Not yet in force.**
+**No longer in force.**
 
 Article 4
 
-### 20. Amendment of article 14[^c-adf3dcdd6325955545bf52a855eb8a55]
+### 20. Amendment of article 14[^c-74b16070d0cf8b42b976e570c51913c5]
 
-In article 14[^f00012] (specialists eligible for entry in the Specialist Register), after paragraph (3) insert—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> (3A) A person is also an eligible specialist for the purposes of article 13(2)(b) if—
->
-> - (a) he is a person to whom the scheme under article 15B applies; and
-> - (b) it would be appropriate, in accordance with that scheme, for the person’s name to be included in the Specialist Register.
+### 21. New article 15B[^c-74b16070d0cf8b42b976e570c51913c5]
 
-.
-
-### 21. New article 15B[^c-4532df3512d7ee40b0ba79246dab1ef6]
-
-After article 15A[^f00013] insert—
-
-> **15B. Scheme for registration of persons who were consultants before 1997**
->
-> (1) This article has effect for the purposes of article 14(3A).
->
-> (2) The GMC shall publish a scheme for the inclusion in the Specialist Register of persons who, immediately before 1st January 1997, were consultants in a medical specialty in either the National Health Service or the armed forces.
->
-> (3) The scheme shall make provision—
->
-> - (a) as to the criteria to be considered in determining whether to include a person’s name in the register; and
-> - (b) excluding any person whose name has been removed from the Specialist Register under regulations made by virtue of section 29B(2A) of the Medical Act 1983 (grant, refusal and withdrawal of licences to practise).
->
-> (4) In paragraph (2), “armed forces” means the naval, military or air forces of the Crown and includes the reserve forces within the meaning of section 1(2) of the Reserve Forces Act 1996[^f00014].
-
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -572,7 +554,7 @@ Article 4 of the Order introduces Schedule 2 to the Order which amends Part 4 of
 
 [^f00002]: Footnote: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54).
 
-[^f00003]: Footnote: [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
+[^c-c14ae3c3b3ac582c7649642a406a6542]: Textual amendment: Words in [art. 1(6)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/6) revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c-1e9afdbb0c6722cd470785a8e3157970]: Commencement: Art. 2 in force at 1.1.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/3)
 
@@ -580,7 +562,13 @@ Article 4 of the Order introduces Schedule 2 to the Order which amends Part 4 of
 
 [^c-619549901925898ffe98151bb1005758]: Commencement: Art. 3(2) not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
 
-[^c-38a2c4d7eab16bdf9fb6c36a5ef26d8a]: Commencement: Art. 4 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
+[^c-951a5acb77592eb649aa291a0e04d01c]: Commencement: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2008/3131/article/3/2) in force at 9.9.2009 for specified purposes by [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)
+
+[^c-435329e500b93bcd7fd75ed284cbd1d7]: Commencement: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2008/3131/article/3/2) in force at 30.4.2010 for specified purposes by [S.I. 2010/1182](https://www.legislation.gov.uk/uksi/2010/1182), [art. 2](https://www.legislation.gov.uk/uksi/2010/1182/article/2)
+
+[^c-90fdda7f5238efa68891d251a01fba7f]: Commencement: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2008/3131/article/3/2) in force at 3.12.2012 for specified purposes immediately after the commencement of [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [art. 10](https://www.legislation.gov.uk/uksi/2002/3135/article/10) in so far as it relates to [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54), [ss. 29A(4)(d)](https://www.legislation.gov.uk/ukpga/1983/54/section/29A/4/d), [29C](https://www.legislation.gov.uk/ukpga/1983/54/section/29C) and [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [art. 65](https://www.legislation.gov.uk/uksi/2006/1914/article/65) (and art. 2 in so far as it relates to art. 65) by [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(b)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/b)
+
+[^c-ba0028f66f2043e276b39cf79343ccf7]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2008/3131/article/4) revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c-567e0a689438445955ef57202f8dad17]: Commencement: Art. 5 in force at 11.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/2)
 
@@ -614,7 +602,11 @@ Article 4 of the Order introduces Schedule 2 to the Order which amends Part 4 of
 
 [^c-bb27b97914143472f764b728e30a28c4]: Commencement: Sch. 1 para. 8 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
 
+[^c-b0c861ead55189c3dcf2df3ef570be32]: Commencement: [Sch. 1 para. 8(1)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/8/1) in force at 3.12.2012 for specified purposes immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65) by [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/ii)
+
 [^f00010]: Footnote: Part 3A of the Medical Act [1983 (c.54)](https://www.legislation.gov.uk/ukpga/1983/54) is comprised of sections 29A to 29J. Part 3A was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). Section 29A(4) was amended by [S.I 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^c-f291c1515412eb1a2d0f312d55817993]: Commencement: [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/8/2) in force at 3.12.2012 immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65) by [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(i)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/i)
 
 [^f00011]: Footnote: [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
@@ -622,30 +614,40 @@ Article 4 of the Order introduces Schedule 2 to the Order which amends Part 4 of
 
 [^c-cfb2c19f1eb974951a2acd9f2eac4ab6]: Commencement: Sch. 1 para. 10 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
 
+[^c-0042b344ef99dedce87778f6e5839c33]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/10) in force at 3.12.2012 immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65) by [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/iii)
+
 [^c-2dc78019091f08d778d8a086fe11571b]: Commencement: Sch. 1 para. 11 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
+
+[^c-b64fdaa8ab991d858081d3c717bfeb23]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/11) in force at 9.9.2009 by [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)
 
 [^c-27d7de5b09d7ecfcd4621e06e68d903c]: Commencement: Sch. 1 para. 12 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
 
 [^c-f3c2b46e998e9fb2bec8d96e8d38378b]: Commencement: Sch. 1 para. 13 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
 
+[^c-00f595f8879e4fea3b3cfa4866aba21b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/13) in force at 30.4.2010 for specified purposes by [S.I. 2010/1182](https://www.legislation.gov.uk/uksi/2010/1182), [art. 2](https://www.legislation.gov.uk/uksi/2010/1182/article/2)
+
+[^c-e09009a7608f2d580ffb46ff7da3a17f]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/13) in force at 3.12.2012 for specified purposes immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65) by [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(iv)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/iv)
+
 [^c-c2a1b9a653de07e5090a61f7c90bf793]: Commencement: Sch. 1 para. 14 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
 
 [^c-27b9b76e26d89f6adfa07665612873d1]: Commencement: Sch. 1 para. 15 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
 
+[^c-d01bcad7e96ed528554a4260d6c72bb8]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/15) in force at 9.9.2009 by [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)
+
 [^c-fa3e8a48fa082958921db72c02c6d0fd]: Commencement: Sch. 1 para. 16 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
+
+[^c-b6e1631d364888fd19b5025d3537137c]: Commencement: [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/16/1)[(2)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/16/2) in force at 9.9.2009 for specified purposes by [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)
+
+[^c-2f859c943c6b3c521b35a3aea95da0d2]: Commencement: [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/16/3) in force at 9.9.2009 by [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)
 
 [^c-7dc58b52589580c0f5f945ba55686d18]: Commencement: Sch. 1 para. 17 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
 
+[^c-7ca7b1e7e88fcb82036f18ae0db3d24c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/17) in force at 30.4.2010 by [S.I. 2010/1182](https://www.legislation.gov.uk/uksi/2010/1182), [art. 2](https://www.legislation.gov.uk/uksi/2010/1182/article/2)
+
 [^c-33a717f9e6264243b9e58e6d12a5605a]: Commencement: Sch. 1 para. 18 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
+
+[^c-9afa3b4a27d4926a5ef0a19f2619d8ad]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/18) in force at 3.12.2012 immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65) by [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(v)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/v)
 
 [^c-4574654e713d7b5ab453badef877f6c5]: Commencement: Sch. 1 para. 19 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
 
-[^c-adf3dcdd6325955545bf52a855eb8a55]: Commencement: Sch. 2 para. 20 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
-
-[^f00012]: Footnote: Article 14 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
-
-[^c-4532df3512d7ee40b0ba79246dab1ef6]: Commencement: Sch. 2 para. 21 not in force at made date, see [art. 1(4)(5)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4/5)
-
-[^f00013]: Footnote: Article 15A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
-
-[^f00014]: Footnote: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).
+[^c-74b16070d0cf8b42b976e570c51913c5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3131/schedule/2) revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)

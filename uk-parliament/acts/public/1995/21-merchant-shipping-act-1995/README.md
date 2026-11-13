@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1995-07-19'
-text_date: '2026-06-23'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1995/21
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1995/21/pdfs/ukpga_19950021_en.pdf
 - http://www.legislation.gov.uk/ukpga/1995/21/data.pdf
-pending_changes: 17
+pending_changes: 15
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Merchant Shipping Act 1995
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

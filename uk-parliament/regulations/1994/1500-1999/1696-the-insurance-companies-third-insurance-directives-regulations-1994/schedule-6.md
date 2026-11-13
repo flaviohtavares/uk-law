@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, SCHEDULE 6
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: schedule-6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, SCHEDULE 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6
+## SCHEDULE 6[^c-0e7b683781d0a1724a8b3f2f805d2428]
+
+*Extent: E+W+S+N.I.*
 
 Regulation 45.
 
@@ -434,3 +438,7 @@ Regulation 45.
 > (3) Where, in the case of an EC company which is not a Gibraltar company, the requirementsof paragraph 8 above are complied with in respect of the provision of any insurance, the Secretary of State shall send to the supervisory authority in Gibraltar a notice which contains the requisite details for the purposes of that paragraph.
 >
 > (4) Where, in the case of an EFTA company, the requirements of paragraph 18 above are compliedwith in respect of the provision of any insurance, the Secretary of State shall send to the supervisory authority in Gibraltar a notice which contains the requisite details for the purposes of that paragraph.
+
+## Annotations
+
+[^c-0e7b683781d0a1724a8b3f2f805d2428]: Commencement: Sch. 6 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

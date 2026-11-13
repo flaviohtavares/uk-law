@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 13
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '13'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 13. Registrar’s approval of names
+## 13. Registrar’s approval of names[^c-ef378a7c211829e137efeb50edb9ef00]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Where, in respect of a proposed investment company with variable capital, it appears to SIB that the requirements of sub-paragraphs (a) and (b) of regulation 9(1) above are or will be met, SIB shall send the papers mentioned in paragraph (2) below—
 
@@ -31,3 +37,7 @@ summary: ''
 (3) The registrar shall retain the papers delivered to him under paragraph (1) above and if it it appears to him that the provisions of regulation 14(1) below are not contravened in relation to the proposed company, he shall notify SIB to that effect.
 
 (4) In this regulation any reference to the instrument of incorporation of a company is a reference to the instrument of incorporation which was supplied for the purposes of regulation 9(1)(a) above.
+
+## Annotations
+
+[^c-ef378a7c211829e137efeb50edb9ef00]: Commencement: Reg. 13 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

@@ -27,7 +27,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-629 in force.
+628 in force.
 
 **2026**
 
@@ -487,7 +487,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Health and Social Care Act 2008 (Consequential Amendments and Transitory Provisions) Order 2008](../uk-parliament/regulations/2008/2000-2499/2250-the-health-and-social-care-act-2008-consequential-amendments-and-transitory-prov.md) *(as originally made)*
 - [The Local Government and Public Involvement in Health Act 2007 (Commencement No.4) Order 2008](../uk-parliament/regulations/2008/0000-0499/461-the-local-government-and-public-involvement-in-health-act-2007-commencement-no-4.md) *(as originally made)*
 - [The Local Involvement Networks (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1877-the-local-involvement-networks-amendment-regulations-2008.md) *(as originally made)*
-- [The Local Involvement Networks Regulations 2008](../uk-parliament/regulations/2008/0500-0999/528-the-local-involvement-networks-regulations-2008.md) *(changes pending)*
 - [The Suspension of Day Care Providers and Child Minders (Wales) (Amendment) Regulations 2008](../wales/regulations/2008/2500-2999/2689-the-suspension-of-day-care-providers-and-child-minders-wales-amendment-regulatio.md) *(as originally made)*
 
 **2007**

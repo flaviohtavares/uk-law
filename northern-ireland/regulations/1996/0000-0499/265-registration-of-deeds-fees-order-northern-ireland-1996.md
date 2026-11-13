@@ -3,14 +3,14 @@ title: Registration of Deeds (Fees) Order (Northern Ireland) 1996
 id: nisr/1996/265
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-27'
-text_date: null
-extent: null
+text_date: '1996-06-27'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/265
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/265/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/265/data.pdf
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Registration of Deeds (Fees) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1996-06-27. See https://www.legislation.gov.uk/changes/affected/nisr/1996/265
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 265
 
@@ -38,22 +44,22 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred by section 16(1) of the Registration of Deeds Act (Northern Ireland) 1970[^f00001] and now vested in it[^f00002] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-e96eca617ecf951adbc470446cf1b1f5]
 
 This Order may be cited as the Registration of Deeds (Fees) Order (Northern Ireland) 1996 and shall come into operation on 8th August 1996.
 
-## 2. Interpretation
+## 2. Interpretation[^c-4c59bdda5d54060550b58eae65b3e73e]
 
 In this Order—
 
 - “Matrimonial Charges Index” has the same meaning as in regulation 3(2) of the Matrimonial Charges Regulations (Northern Ireland) 1989[^f00003];
 - “order charging land” has the same meaning as in Article 46(1) of the Judgements Enforcement (Northern Ireland) Order 1981[^f00004].
 
-## 3. Fees
+## 3. Fees[^c-88ed7ab8437b21593b1d673830a46ccb]
 
 The fees to be taken in the registry of deeds in respect of the matters set out in column 1 of the Schedule shall be those set out opposite thereto in column 2 of that Schedule.
 
-## 4. Revocation
+## 4. Revocation[^c-3b650aa792a5a7c9c96039cf761db90e]
 
 The Registration of Deeds (Fees) Order (Northern Ireland) 1995[^f00005] is hereby revoked.
 
@@ -65,7 +71,7 @@ Assistant Secretary
 
 27th June 1996.
 
-## SCHEDULE 1
+## SCHEDULE 1[^c-eaa1a205f97f28d59389946e97bda20e]
 
 Article 3
 
@@ -110,10 +116,20 @@ The main changes effected by the Order are:—
 
 [^f00002]: Footnote: S.I. [1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 5(*b*) and Schedule 1, Part II
 
+[^c-e96eca617ecf951adbc470446cf1b1f5]: Commencement: Art. 1 in operation at 8.8.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/265/article/1)
+
+[^c-4c59bdda5d54060550b58eae65b3e73e]: Commencement: Art. 2 in operation at 8.8.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/265/article/1)
+
 [^f00003]: Footnote: [S.R. 1989 No. 271](https://www.legislation.gov.uk/nisr/1989/271)
 
 [^f00004]: Footnote: S.I. [1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226)
 
+[^c-88ed7ab8437b21593b1d673830a46ccb]: Commencement: Art. 3 in operation at 8.8.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/265/article/1)
+
+[^c-3b650aa792a5a7c9c96039cf761db90e]: Commencement: Art. 4 in operation at 8.8.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/265/article/1)
+
 [^f00005]: Footnote: [S.R. 1995 No. 317](https://www.legislation.gov.uk/nisr/1995/317)
+
+[^c-eaa1a205f97f28d59389946e97bda20e]: Commencement: Sch. 1 in operation at 8.8.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/265/article/1)
 
 [^f00006]: Footnote: [S.R. 1991 No. 382](https://www.legislation.gov.uk/nisr/1991/382)

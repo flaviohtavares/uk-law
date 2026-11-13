@@ -2,9 +2,9 @@
 title: The Immigration (Isle of Man) Order 2008, section 16
 act: The Immigration (Isle of Man) Order 2008
 section: '16'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008, section 16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Extension of the Nationality, Immigration and Asylum Act 2002 to the Isle of Man
+## 16. Extension of the Nationality, Immigration and Asylum Act 2002 to the Isle of Man[^c-70c22b977af3dec9eeef46b59eef02c1]
+
+*Extent: E+W+S+N.I.*
 
 (1) The following provisions of the 2002 Act shall extend to the Isle of Man subject to the modifications specified in Schedule 7.
 
@@ -62,4 +66,10 @@ summary: ''
   - (iii) Schedule 9 (repeals), in so far as it relates to provisions of the 1971 Act which extend to the Isle of Man;
   - (iv) section 164 (short title).
 
-**17.** For ease of reference, the provisions of the 2002 Act as modified and extended to the Isle of Man (except for provisions which amend or repeal other enactments) are set out in Part 5 of Schedule 10.
+**17.**[^c-dd63e3921335953226466e60bfe6837a] For ease of reference, the provisions of the 2002 Act as modified and extended to the Isle of Man (except for provisions which amend or repeal other enactments) are set out in Part 5 of Schedule 10.
+
+## Annotations
+
+[^c-70c22b977af3dec9eeef46b59eef02c1]: Commencement: Art. 16 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-dd63e3921335953226466e60bfe6837a]: Commencement: Art. 17 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)

@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 27
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '27'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/27
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 27
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 27. Dissolution in other circumstances
+## 27. Dissolution in other circumstances[^c-fb86c22a373ee5b7616c4a14330b5ebd]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Where the affairs of an investment company with variable capital have been wound up otherwise than by the court, SIB shall ensure that, as soon as is reasonably practicable after the winding up is complete, the registrar of companies is sent notice of that fact.
 
@@ -32,5 +38,7 @@ summary: ''
 - (b) thereafter be treated as if it were a sum of money lodged in such an account by virtue of section 193 of the Insolvency Act 1986 (unclaimed distributions), as that section applies by virtue of Part V of that Act.
 
 ## Annotations
+
+[^c-fb86c22a373ee5b7616c4a14330b5ebd]: Commencement: Reg. 27 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
 
 [^f00017]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66); the definition of “appropriate bank or institution” was substituted by section 108(1) of, and paragraph 20 of Schedule 6 to, the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22).

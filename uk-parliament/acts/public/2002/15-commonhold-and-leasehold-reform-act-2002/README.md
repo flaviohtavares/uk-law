@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2002-05-01'
-text_date: '2025-03-03'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2002/15
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2002/15/pdfs/ukpgaen_20020015_en.pdf
 - http://www.legislation.gov.uk/ukpga/2002/15/pdfs/ukpga_20020015_en.pdf
 - http://www.legislation.gov.uk/ukpga/2002/15/data.pdf
-pending_changes: 51
+pending_changes: 45
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Commonhold and Leasehold Reform Act 2002
 
-> **Warning: changes not yet applied to this text (51).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/15
+> **Warning: changes not yet applied to this text (45).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/15
 >
 > Extent: England, Wales.
 

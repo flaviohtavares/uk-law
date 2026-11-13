@@ -1,31 +1,29 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, section 20
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, section 20
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: '20'
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: repealed
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, section 20
+# The Scottish Parliament (Elections etc. ) Order 2010, section 20
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Loan of equipment for Scottish parliamentary elections[^c-f11da8b8745d03aea6cafdac764709f1]
+## 20. Loan of equipment for Scottish parliamentary elections[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c-93fdf7566492def98c8578e971f5656f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
 
-(2) Any ballot boxes, fittings and compartments provided by or belonging to a local authority shall, on request, and if not required for immediate use by that authority, be lent to a CRO at a Scottish parliamentary election on such terms and conditions as may be agreed.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-f11da8b8745d03aea6cafdac764709f1]: Commencement: Art. 20 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
-
-[^c-93fdf7566492def98c8578e971f5656f]: Textual amendment: [Art. 20(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/20/1) omitted (1.7.2015) by virtue of [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 (S.I. 2015/683)](https://www.legislation.gov.uk/uksi/2015/683), [arts. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1), [6](https://www.legislation.gov.uk/uksi/2015/683/article/6) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2015/683/article/3))
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

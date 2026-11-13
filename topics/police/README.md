@@ -23,8 +23,8 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Protection of Freedoms Act 2012](../../uk-parliament/acts/public/2012/9-protection-of-freedoms-act-2012/README.md) *(changes pending)* — 20 regulations on this topic made under it
 - [Criminal Justice and Police Act 2001](../../uk-parliament/acts/public/2001/16-criminal-justice-and-police-act-2001/README.md) *(changes pending)* — 18 regulations on this topic made under it
 - [Police, Public Order and Criminal Justice (Scotland) Act 2006](../../scotland/acts/2006/10-police-public-order-and-criminal-justice-scotland-act-2006/README.md) *(changes pending)* — 12 regulations on this topic made under it
-- [The Police and Criminal Evidence (Northern Ireland) Order 1989](../../northern-ireland/orders-in-council/1989/1341-the-police-and-criminal-evidence-northern-ireland-order-1989/README.md) *(changes pending)* — 11 regulations on this topic made under it
 - [Superannuation (Miscellaneous Provisions) Act 1967](../../uk-parliament/acts/public/1967/28-superannuation-miscellaneous-provisions-act-1967.md) — 10 regulations on this topic made under it
+- [The Police and Criminal Evidence (Northern Ireland) Order 1989](../../northern-ireland/orders-in-council/1989/1341-the-police-and-criminal-evidence-northern-ireland-order-1989/README.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Crime and Security Act 2010](../../uk-parliament/acts/public/2010/17-crime-and-security-act-2010/README.md) *(changes pending)* — 9 regulations on this topic made under it
 - [Police Pensions Act 1961](../../uk-parliament/acts/public/eliz2-9-10/35-police-pensions-act-1961.md) — 8 regulations on this topic made under it
 - [Policing and Crime Act 2009](../../uk-parliament/acts/public/2009/26-policing-and-crime-act-2009/README.md) *(changes pending)* — 7 regulations on this topic made under it
@@ -35,7 +35,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1114 in force, by year:
+1113 in force, by year:
 
 | year | in force |
 |---|---|
@@ -69,7 +69,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [1999](1999.md) | 22 |
 | [1998](1998.md) | 26 |
 | [1997](1997.md) | 32 |
-| [1996](1996.md) | 24 |
+| [1996](1996.md) | 23 |
 | [1995](1995.md) | 30 |
 | [1994](1994.md) | 19 |
 | [1993](1993.md) | 18 |

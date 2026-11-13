@@ -2,8 +2,8 @@
 title: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 3
 act: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024
 section: '3'
-status: revised-with-pending-changes
-text_date: '2025-07-01'
+status: revised
+text_date: '2026-07-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2024/1268/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 3
 
-> **Warning: changes not yet applied to this text (45).** Text as at 2025-07-01. See https://www.legislation.gov.uk/changes/affected/wsi/2024/1268
+> Text as at 2026-07-20.
 >
 > Extent: England, Wales.
 

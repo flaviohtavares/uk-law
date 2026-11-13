@@ -2,8 +2,8 @@
 title: Gender Recognition Act 2004, SCHEDULE 3
 act: Gender Recognition Act 2004
 section: schedule-3
-status: revised-with-pending-changes
-text_date: '2024-01-01'
+status: revised
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2004/7/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Gender Recognition Act 2004, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/7
+> Text as at 2026-11-09.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -75,7 +75,7 @@ Section 10
 
 (2) Any fee which would be payable for a certified copy of the person’s UK birth register entry is payable for a certified copy of the entry made in relation to the person in the Gender Recognition Register.
 
-(3) If the person’s UK birth register entry is an entry in the Gender Recognition Register, sub-paragraph (1) applies as if the person’s UK birth register entry were the most recent entry within section 10(2)(a) or (b) containing a record of the person’s birth or adoption which is not an entry in the Gender Recognition Register.
+(3) If the person’s UK birth register entry is an entry in the Gender Recognition Register, sub-paragraph (1) applies as if the person’s UK birth register entry were the most recent entry within section 10(2)(a) , (b) or (c)[^c-9b5131cb5eb19429c0f92367ab448702] containing a record of the person’s birth or adoption which is not an entry in the Gender Recognition Register.
 
 (4) A certified copy of an entry in the Gender Recognition Register must not disclose the fact that the entry is contained in the Gender Recognition Register.
 
@@ -103,7 +103,7 @@ Section 10
 - (a) relates to that person, and
 - (b) under paragraph 4(1) is included in the index which includes the person’s UK birth register entry.
 
-(2) If the person’s UK birth register entry is an entry in the Gender Recognition Register, the references in sub-paragraph (1) to the person’s UK birth register entry are to the most recent entry within section 10(2)(a) or (b) containing a record of the person’s birth or adoption which is not an entry in the Gender Recognition Register.
+(2) If the person’s UK birth register entry is an entry in the Gender Recognition Register, the references in sub-paragraph (1) to the person’s UK birth register entry are to the most recent entry within section 10(2)(a) , (b) or (c)[^c-c9d16348226c2446c3f3cb6e4c8af34c] containing a record of the person’s birth or adoption which is not an entry in the Gender Recognition Register.
 
 (3) The Registrar General may correct the Gender Recognition Register by entry in the margin (without any alteration of the original entry) in consequence of the issue of a full gender recognition certificate after an application under section 6(1).
 
@@ -382,6 +382,10 @@ Section 10
 [^c2034819]: Modification: Sch. 3 para. 3(5): functions transferred (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/678/article/3/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/13) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^c2034809]: Textual amendment: Words in Sch. 3 para. 3(5) substituted (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 5(1)](https://www.legislation.gov.uk/uksi/2008/678/article/5/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/13) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+
+[^c-9b5131cb5eb19429c0f92367ab448702]: Textual amendment: Words in Sch. 3 para. 5(3) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/27); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-c9d16348226c2446c3f3cb6e4c8af34c]: Textual amendment: Words in Sch. 3 para. 8(2) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/27); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
 
 [^c2033447]: Textual amendment: Words in Sch. 3 para. 9(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 250(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/250/9), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 3](https://www.legislation.gov.uk/uksi/2005/3175/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3175/schedule/2)
 

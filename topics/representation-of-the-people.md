@@ -280,7 +280,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Representation of the People (Scotland) (Amendment) (No. 2) Regulations 2015](../uk-parliament/regulations/2015/1500-1999/1966-the-representation-of-the-people-scotland-amendment-no-2-regulations-2015.md) *(as originally made)*
 - [The Representation of the People (Scotland) (Amendment) Regulations 2015](../uk-parliament/regulations/2015/0000-0499/450-the-representation-of-the-people-scotland-amendment-regulations-2015.md) *(as originally made)*
 - [The Scottish Independence Referendum (Chief Counting Officer and Counting Officer Charges and Expenses) Order 2015](../scotland/regulations/2015/0000-0499/368-the-scottish-independence-referendum-chief-counting-officer-and-counting-officer.md) *(as originally made)*
-- [The Scottish Parliament (Elections etc.) Order 2015](../scotland/regulations/2015/0000-0499/425-the-scottish-parliament-elections-etc-order-2015/README.md) *(changes pending)*
+- [The Scottish Parliament (Elections etc.) Order 2015](../scotland/regulations/2015/0000-0499/425-the-scottish-parliament-elections-etc-order-2015/README.md)
 - [The Scottish Parliament (Regional Returning Officers) (Revocation) Order 2015](../uk-parliament/regulations/2015/0500-0999/743-the-scottish-parliament-regional-returning-officers-revocation-order-2015.md) *(as originally made)*
 - [The Scottish Parliament (Returning Officers’ Charges) (Revocation) Order 2015](../uk-parliament/regulations/2015/0500-0999/761-the-scottish-parliament-returning-officers-charges-revocation-order-2015.md) *(as originally made)*
 

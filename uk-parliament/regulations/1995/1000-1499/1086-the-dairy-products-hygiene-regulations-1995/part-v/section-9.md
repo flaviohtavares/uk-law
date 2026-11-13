@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 9
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '9'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 9. General conditions
+## 9. General conditions[^c-f5d13acc8edc579e92676457a380e6ac]
+
+*Extent: E+W*
 
 (1) Subject to paragraphs (10), (11), (12) and (13) below and regulation 15, no person shall sell for human consumption any raw milk, thermised milk, heat-treated drinking milk, heat-treated milk intended for the manufacture of milk-based products or milk-based products, unless—
 
@@ -78,5 +82,7 @@ summary: ''
 - (b) in paragraph (11), “infected area” has the same meaning as in the Foot and Mouth Disease Order 1983[^f00012].
 
 ## Annotations
+
+[^c-f5d13acc8edc579e92676457a380e6ac]: Commencement: Reg. 9 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
 
 [^f00012]: Footnote: S.I. [1983/1950](https://www.legislation.gov.uk/uksi/1983/1950), to which there is an amendment not relevant to these Regulations.

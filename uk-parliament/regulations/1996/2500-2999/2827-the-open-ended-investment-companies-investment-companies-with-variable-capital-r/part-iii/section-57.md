@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 57
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '57'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 57
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 57. Power of court to grant relief in certain cases
+## 57. Power of court to grant relief in certain cases[^c-d7c9c47301ed6568a14f5a118ba30acb]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) This regulation applies to—
 
@@ -34,3 +40,7 @@ the court may relieve him, either wholly or partly, from his liability on such t
 (4) The court, on an application under paragraph (3) above, has the same power to relieve the applicant as under this regulation it would have had if it had been a court before which the relevant proceedings against the applicant had been brought.
 
 (5) Where a case to which paragraph (2) above applies is being tried by a judge with a jury, the judge, after hearing the evidence, may, if he is satisfied that the defendant or defender ought in pursuance of that paragraph to be relieved either in whole or in part from the liability sought to be enforced against him, withdraw the case in whole or in part from the jury and forthwith direct judgment to be entered for the defendant or defender on such terms as to costs or otherwise as the judge may think proper.
+
+## Annotations
+
+[^c-d7c9c47301ed6568a14f5a118ba30acb]: Commencement: Reg. 57 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

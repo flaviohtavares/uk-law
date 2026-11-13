@@ -3,16 +3,16 @@ title: The Council Tax Reduction (Scotland) Regulations 2021
 id: ssi/2021/249
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2021-06-23'
-text_date: '2026-04-01'
+text_date: '2026-11-06'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2021/249
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2021/249/pdfs/ssipn_20210249_en.pdf
 - http://www.legislation.gov.uk/ssi/2021/249/pdfs/ssi_20210249_en.pdf
 - http://www.legislation.gov.uk/ssi/2021/249/data.pdf
-pending_changes: 4
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Council Tax Reduction (Scotland) Regulations 2021
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2021/249
+> Text as at 2026-11-06.
 >
 > Extent: Scotland.
 

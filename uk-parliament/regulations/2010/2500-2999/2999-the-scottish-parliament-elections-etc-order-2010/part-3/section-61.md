@@ -1,53 +1,29 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, section 61
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, section 61
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: '61'
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: repealed
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, section 61
+# The Scottish Parliament (Elections etc. ) Order 2010, section 61
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Right to send election address post free[^c-d283ba81ccab3b0dcec730e464f0af12]
+## 61. Right to send election address post free[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
-(1) At a Scottish parliamentary election—
+**No longer in force.**
 
-- (a) each candidate for return as a constituency member;
-- (b) each individual candidate for return as a regional member; and
-- (c) the nominating officer of each registered party which has submitted a regional list,
-
-is entitled to send, free of any charge for postage which would otherwise be made by a universal postal service provider, a postal communication containing only matter relating to the election and not exceeding 60 grams in weight.
-
-(2) One postal communication as described in paragraph (1) may be addressed to each elector—
-
-- (a) in the constituency; or
-- (b) where the sender is a person described in paragraph (1)(b) or (c), in the region,
-
-or alternatively one unaddressed such communication may be sent to each place which, in accordance with such reasonable terms and conditions as the universal postal service provider may specify, constitutes a delivery point for the purposes of this article.
-
-(3) Any such candidate or, as the case may be, party’s nominating officer is also, subject as mentioned in paragraph (2), entitled to send free of any such charge for postage as mentioned above to each person entered in the list of proxies for the election one such communication as mentioned in paragraph (1) for each appointment in respect of which that person is so entered.
-
-(4) Any such candidate or, as the case may be, party’s nominating officer, may also require the appropriate returning officer to make arrangements with the universal postal service provider for addressed communications under paragraph (2) to be sent to persons who have anonymous entries in the register of electors, which arrangements shall be such as to ensure that it is not disclosed to any other person that the addressee of such a communication has an anonymous entry.
-
-(5) In relation to a candidate for return as a constituency member or to an individual candidate for return as a regional member, such a person shall not be deemed for the purposes of this article to be a candidate unless that person is shown as standing nominated in the statement of persons nominated; but, until publication of that statement, any person who declares himself or herself to be such a candidate shall be entitled to exercise the right of free postage conferred by this article if the person gives such security as may be required by the universal postal service provider concerned for the payment of postage should the person not be shown as standing nominated as mentioned above.
-
-(6) A registered party shall not be deemed to have submitted a regional list for the purposes of this article unless that party is shown as standing nominated in the statement published under rule 19 of the Scottish Parliamentary Election Rules (publication of statement of persons and parties nominated for return as regional members) but until the publication of that statement the nominating officer of a party which has submitted a regional list shall be entitled to exercise the right of free postage conferred by this article if the nominating officer gives such security as may be required by the universal postal service provider should the party not be shown as standing nominated as mentioned above.
-
-(7) For the purposes of this article, “elector”—
-
-- (a) means a person who is registered in the register of electors for the constituency or region on the last day for publication of notice of the election; and
-- (b) includes a person then shown in that register (or, in the case of a person who has an anonymous entry in the register, in the record of anonymous entries) as below voting age if (but only if) it appears from the register that that person will be of voting age on the day fixed for the poll.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-d283ba81ccab3b0dcec730e464f0af12]: Commencement: Art. 61 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

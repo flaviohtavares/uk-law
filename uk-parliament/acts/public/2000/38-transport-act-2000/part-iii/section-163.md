@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In this Part “**ch.arging scheme**” means a scheme for imposing charges in respect of the use or keeping of motor vehicles on roads.
+(1) In this Part “**charging scheme**” means a scheme for imposing charges in respect of the use or keeping of motor vehicles on roads.
 
 (2) Charges imposed in respect of any motor vehicle by a charging scheme under this Part shall be paid—
 

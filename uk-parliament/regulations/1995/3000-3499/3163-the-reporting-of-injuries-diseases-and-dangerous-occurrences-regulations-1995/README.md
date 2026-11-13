@@ -3,14 +3,14 @@ title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations
 id: uksi/1995/3163
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1995-12-06'
-text_date: null
-extent: null
+text_date: '1995-12-06'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163
 pdf_urls:
-- http://www.legislation.gov.uk/uksi/1995/3163/made/data.pdf
-pending_changes: 56
+- http://www.legislation.gov.uk/uksi/1995/3163/data.pdf
+pending_changes: 158
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (158).** Text as at 1995-12-06. See https://www.legislation.gov.uk/changes/affected/uksi/1995/3163
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 1995 No. 3163
 
@@ -67,6 +73,10 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 - [SCHEDULE 7](schedule-7.md)
 - [SCHEDULE 8](schedule-8.md)
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 Signed by authority of the Secretary of State.
 
 Paul Beresford
@@ -76,6 +86,10 @@ Parliamentary Under Secretary of State,
 Department of the Environment
 
 6th December 1995
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (This note is not part of the Regulations)
 

@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 16
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '16'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 16. Revocation of authorisation
+## 16. Revocation of authorisation[^c-2ec9c8bbbde607ae4c9ab9f8186471b5]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) SIB may revoke an authorisation order if it appears to it—
 
@@ -45,3 +51,7 @@ summary: ''
 - (c) these Regulations;
 - (d) SIB regulations; and
 - (e) any rules of a recognised self-regulating organisation of which an investment company with variable capital, or any director or depositary of such a company, is a member.
+
+## Annotations
+
+[^c-2ec9c8bbbde607ae4c9ab9f8186471b5]: Commencement: Reg. 16 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

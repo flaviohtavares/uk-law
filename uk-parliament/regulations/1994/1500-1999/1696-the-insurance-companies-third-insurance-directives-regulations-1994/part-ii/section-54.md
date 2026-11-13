@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 54
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '54'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 54
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Meaning of “main agent”
+## 54. Meaning of “main agent”[^c-f7bde2576c93f15472d29941df952bad]
+
+*Extent: E+W+S+N.I.*
 
 After section 96D of the 1982 Act insert—
 
@@ -41,3 +45,7 @@ After section 96D of the 1982 Act insert—
 > (5) If no accounts have been deposited under section 22 above the aggregate amount of gross premiums shall be the amount or, if more than one amount, the lower or lowest amount, shown in respect of gross premiums relating to the company’s business in the financial forecast last submitted by the company in accordance with regulations made for the purposes of section 5(1)(a) above.
 >
 > (6) Any reference in subsection (3) or (5) above to the company’s business is, in the case of an insurance company which is not a UK company, a reference to its business in the United Kingdom.
+
+## Annotations
+
+[^c-f7bde2576c93f15472d29941df952bad]: Commencement: Reg. 54 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

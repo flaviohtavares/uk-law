@@ -2,8 +2,8 @@
 title: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 42
 act: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024
 section: '42'
-status: revised-with-pending-changes
-text_date: '2025-07-01'
+status: revised
+text_date: '2026-07-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2024/1268/section/42
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 42
 
-> **Warning: changes not yet applied to this text (45).** Text as at 2025-07-01. See https://www.legislation.gov.uk/changes/affected/wsi/2024/1268
+> Text as at 2026-07-20.
 >
 > Extent: England, Wales.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) As respects Wales, Parts 2 – 5, Part 6A, Part 7 of and Schedules 1 – 9 to the Building (Approved Inspectors etc.) Regulations 2010 (“**the AI Regulations**”) are revoked, but this is subject to paragraphs (5) to (7).
+(1) As respects Wales, Parts 1 – 6[^c-96e4bf2b413b599dce348aed7fb3d7bc], Part 6A, Part 7 of and Schedules 1 – 9 to the Building (Approved Inspectors etc.) Regulations 2010 (“**the AI Regulations**”) are revoked, but this is subject to paragraphs (5) to (7).
 
 (2) The following provisions are revoked:
 
@@ -47,6 +47,8 @@ summary: ''
 ## Annotations
 
 [^c-c86cda250fafb7ccef40ff1b424421a9]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+
+[^c-96e4bf2b413b599dce348aed7fb3d7bc]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/1) substituted (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [17(11)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/17/11) (with [reg. 20](https://www.legislation.gov.uk/wsi/2025/1320/regulation/20)) (as substituted by [W.S.I. 2026/60](https://www.legislation.gov.uk/wsi/2026/60), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/60/regulation/1/2/a), [7(2)](https://www.legislation.gov.uk/wsi/2026/60/regulation/7/2))
 
 [^f00048]: Footnote: [S.I. 2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747).
 

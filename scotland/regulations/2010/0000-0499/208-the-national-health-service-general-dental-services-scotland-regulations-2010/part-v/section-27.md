@@ -2,8 +2,8 @@
 title: The National Health Service (General Dental Services) (Scotland) Regulations 2010, section 27
 act: The National Health Service (General Dental Services) (Scotland) Regulations 2010
 section: '27'
-status: revised-with-pending-changes
-text_date: '2026-04-01'
+status: revised
+text_date: '2026-11-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2010/208/section/27
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service (General Dental Services) (Scotland) Regulations 2010, section 27
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2010/208
+> Text as at 2026-11-01.
 >
 > Extent: Scotland.
 
@@ -35,7 +35,7 @@ the SDPB may give a direction as mentioned in paragraph (2).
 - (a) to reply within 28 days; or
 - (b) to disclose the reasonable grounds as mentioned in paragraph (1)(c)(ii),
 
-the SDPB may direct the dentist not to provide or assist in the provision of treatment, or a description of treatment specified in the direction, for a period between 3 months and 9 months as specified in the direction, without obtaining prior approval of an estimate from the SDPB, but nothing in any such direction shall prevent the dentist, without such approval, from providing or assisting in the provision of treatment following trauma or in an emergency, any private treatment or, in the course of any single consultation, treatment of a patient consisting of one examination and the taking of no more than 2 small radiographs, each of a size not exceeding 16 square centimetres.
+the SDPB may direct the dentist not to provide or assist in the provision of treatment, or a description of treatment specified in the direction, for a period between 3 months and 9 months as specified in the direction, without obtaining prior approval of an estimate from the SDPB, but nothing in any such direction shall prevent the dentist, without such approval, from providing or assisting in the provision of treatment following trauma or in an emergency, any private treatment or, in the course of any single consultation, treatment of a patient consisting of one examination and the taking of no more than 2 [^c-9a3bac60a151e094606197ff1d091e51]... radiographs [^c-9a3bac60a151e094606197ff1d091e51]....
 
 (2A)[^c-c1ae222d6e1a917e03950651b637c2bb] The SDPB may give a direction to a dentist under paragraph (2) by an electronic communication.
 
@@ -63,6 +63,8 @@ the SDPB may direct the dentist not to provide or assist in the provision of tre
 ## Annotations
 
 [^c-8f0ebdf25146dabb410eb23eb58fe7a8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2010/208/regulation/27) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+
+[^c-9a3bac60a151e094606197ff1d091e51]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/ssi/2010/208/regulation/27/2) omitted (1.11.2026) by virtue of [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/3), [19](https://www.legislation.gov.uk/ssi/2025/380/regulation/19)
 
 [^c-c1ae222d6e1a917e03950651b637c2bb]: Textual amendment: [Reg. 27(2A)](https://www.legislation.gov.uk/ssi/2010/208/regulation/27/2A) inserted (1.1.2020) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(5)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/5), [6(a)](https://www.legislation.gov.uk/ssi/2017/289/regulation/6/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14)) (as amended by [S.S.I. 2018/300](https://www.legislation.gov.uk/ssi/2018/300), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/2))
 

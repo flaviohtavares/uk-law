@@ -1,36 +1,29 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, section 12
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, section 12
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: '12'
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: repealed
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, section 12
+# The Scottish Parliament (Elections etc. ) Order 2010, section 12
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Absent voting at elections: miscellaneous[^c-32034075dce7664e38aedac06845d39b]
+## 12. Absent voting at elections: miscellaneous[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
-(1) Section 59 of the 1983 Act[^f00026] (supplemental provisions as to members of forces and service voters) shall apply for the purposes of a Scottish parliamentary election subject to the following modifications:—
+**No longer in force.**
 
-- (a) in subsection (3) (right to register and vote in person, by post or by proxy), “this Act” shall be construed as including a reference to this Order in connection with the rights conferred by this Order on a person having a service qualification by virtue of section 14(1)(a) or (b) of that Act (service qualification as a member of the forces or being employed in the service of the Crown in a post outside the UK of a prescribed class or description) in relation to the making and cancellation of appointments of a proxy and in relation to voting by post; and
-- (b) in subsection (3A) (right of members of forces and service voters to information about their right to vote), “this Act and any regulations made under it” shall be similarly construed.
-
-(2) Schedule 3 (which makes provision in connection with absent voting at Scottish parliamentary elections) has effect.
-
-(3) Schedule 4 (which makes provision in connection with the issue and receipt of postal ballot papers) has effect.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-32034075dce7664e38aedac06845d39b]: Commencement: Art. 12 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
-
-[^f00026]: Footnote: Section 59 was amended by the Representation of the People Act [1993 (c.29)](https://www.legislation.gov.uk/ukpga/1993/29), section 1; the 2000 Act, Schedule 1, paragraph 16 and the 2006 Act, section 13.
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

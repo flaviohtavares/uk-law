@@ -2,8 +2,8 @@
 title: The National Health Service (General Dental Services) (Scotland) Regulations 2010, SCHEDULE 1
 act: The National Health Service (General Dental Services) (Scotland) Regulations 2010
 section: schedule-1
-status: revised-with-pending-changes
-text_date: '2026-04-01'
+status: revised
+text_date: '2026-11-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2010/208/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service (General Dental Services) (Scotland) Regulations 2010, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2010/208
+> Text as at 2026-11-01.
 >
 > Extent: Scotland.
 
@@ -496,7 +496,7 @@ in the patient record and shall include with that record details of any private 
 (3) Subject to sub-paragraphs (6), (7) and (10) where a dentist has obtained the approval from the SDPB required by sub-paragraph (1) because the care and treatment is or includes an item of treatment referred to in Part I of Schedule 4, and in the opinion of the dentist carrying out the treatment a variation of or addition to such care and treatment is necessary, which variation or addition—
 
 - (a) is or includes an item of treatment referred to in Part I of Schedule 4; or
-- (b) has the effect that the care and treatment then falls within Part II of Schedule 4,
+- (b) has the effect that the care and treatment then falls within Part II of Schedule 4,
 
 the dentist shall re-submit, without unreasonable delay, the estimate to the SDPB for approval, including details of any part of that care and treatment provided or to be provided privately.
 
@@ -509,17 +509,17 @@ the dentist shall re-submit, without unreasonable delay, the estimate to the SDP
 
 (6)[^c-30eb997ac2020d9e952cb3bf188bed73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) A dentist may proceed immediately with the care and treatment of merchant seamen, deep sea fishermen, or oil rig workers, about to go to sea for a period in excess of four weeks, or persons about to go aboard for a period in excess of four weeks, and in such event shall submit[^c-7670fb11643cb64662e24562a79beac2] an estimate to the SDPB for approval within 7 days of the commencement of the care and treatment.
+(7)[^c-f0c9bcb74a8370bae485e948ebdded62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Where, in consequence of any proceeding under the National Health Service (Discipline Committees) (Scotland) Regulations 2006[^f00053] in respect of general dental services provided in the area of any Health Board, a dentist is required for any period to submit all estimates to the SDPB for approval, in respect of all treatment or any specified description of treatment, the contractor or dentist—
 
 - (a) shall submit, without unreasonable delay, all such estimates (whether relating to treatment to be provided in that or any other area), to the SDPB for approval; and
-- (b) shall not proceed with such treatment until the dentist receives approval from the SDPB, except that the dentist may in the course of any single consultation proceed with treatment consisting of one examination and the taking of no more than two small radiographs, each of a size not exceeding 16 square centimetres, or treatment in an emergency.
+- (b) shall not proceed with such treatment until the dentist receives approval from the SDPB, except that the dentist may in the course of any single consultation proceed with treatment consisting of one examination and the taking of no more than two [^c-18ef9032570ba2b33fd2b969c66fa70a]... radiographs [^c-18ef9032570ba2b33fd2b969c66fa70a]... or treatment in an emergency.
 
 (9) Where in consequence of a direction given by the SDPB under regulation 27(2) a dentist is directed, for any period, to submit all estimates to the SDPB for approval in respect of treatment or a description of treatment specified in the direction the dentist—
 
 - (a) shall submit, without unreasonable delay, all such estimates (relating to treatment in the area of any Health Board) to the SDPB for approval; and
-- (b) shall not proceed with such treatment until the dentist receives approval from the SDPB, except that the dentist may in the course of any single consultation proceed with treatment consisting of one examination and the taking of no more than two small radiographs, each of a size not exceeding 16 square centimetres, or treatment following trauma or in an emergency.
+- (b) shall not proceed with such treatment until the dentist receives approval from the SDPB, except that the dentist may in the course of any single consultation proceed with treatment consisting of one examination and the taking of no more than two [^c-0d7c8c05a31d9eb6fd4bdaace77d21b7]... radiographs [^c-0d7c8c05a31d9eb6fd4bdaace77d21b7]... or treatment following trauma or in an emergency.
 
 (10) Nothing in this paragraph shall prevent a dentist or contractor carrying out any care and treatment privately.
 
@@ -1101,9 +1101,13 @@ A domiciliary care dentist who is assigned to a care home may withdraw from thei
 
 [^c-30eb997ac2020d9e952cb3bf188bed73]: Textual amendment: [Sch. 1 para. 28(6)](https://www.legislation.gov.uk/ssi/2010/208/schedule/1/paragraph/28/6) omitted (1.11.2023) by virtue of [The National Health Service (General Dental Services) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/247)](https://www.legislation.gov.uk/ssi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/247/regulation/1/1), [12(21)](https://www.legislation.gov.uk/ssi/2023/247/regulation/12/21) (with [regs. 16](https://www.legislation.gov.uk/ssi/2023/247/regulation/16), [17](https://www.legislation.gov.uk/ssi/2023/247/regulation/17))
 
-[^c-7670fb11643cb64662e24562a79beac2]: Textual amendment: Word in [sch. 1 para. 28(7)](https://www.legislation.gov.uk/ssi/2010/208/schedule/1/paragraph/28/7) substituted (26.10.2017) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2), [11(11)](https://www.legislation.gov.uk/ssi/2017/289/regulation/11/11) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))
+[^c-f0c9bcb74a8370bae485e948ebdded62]: Textual amendment: [Sch. 1 para. 28(7)](https://www.legislation.gov.uk/ssi/2010/208/schedule/1/paragraph/28/7) omitted (1.11.2026) by virtue of [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/3), [20(a)](https://www.legislation.gov.uk/ssi/2025/380/regulation/20/a)
 
 [^f00053]: Footnote: [S.S.I. 2006/330](https://www.legislation.gov.uk/ssi/2006/330), amended by [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183) and [308](https://www.legislation.gov.uk/ssi/2009/308).
+
+[^c-18ef9032570ba2b33fd2b969c66fa70a]: Textual amendment: Words in [sch. 1 para. 28(8)(b)](https://www.legislation.gov.uk/ssi/2010/208/schedule/1/paragraph/28/8/b) omitted (1.11.2026) by virtue of [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/3), [20(b)](https://www.legislation.gov.uk/ssi/2025/380/regulation/20/b)
+
+[^c-0d7c8c05a31d9eb6fd4bdaace77d21b7]: Textual amendment: Words in [sch. 1 para. 28(9)(b)](https://www.legislation.gov.uk/ssi/2010/208/schedule/1/paragraph/28/9/b) omitted (1.11.2026) by virtue of [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/3), [20(b)](https://www.legislation.gov.uk/ssi/2025/380/regulation/20/b)
 
 [^c-4649ce5df8c8553c74245f6f43e92e28]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ssi/2010/208/schedule/1/paragraph/29) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 

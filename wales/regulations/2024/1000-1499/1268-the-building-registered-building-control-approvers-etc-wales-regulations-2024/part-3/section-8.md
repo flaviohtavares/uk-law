@@ -2,8 +2,8 @@
 title: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 8
 act: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024
 section: '8'
-status: revised-with-pending-changes
-text_date: '2025-07-01'
+status: revised
+text_date: '2026-07-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2024/1268/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 8
 
-> **Warning: changes not yet applied to this text (45).** Text as at 2025-07-01. See https://www.legislation.gov.uk/changes/affected/wsi/2024/1268
+> Text as at 2026-07-20.
 >
 > Extent: England, Wales.
 
@@ -44,7 +44,7 @@ summary: ''
 - (a) must have regard to any views expressed by the authority, and
 - (b) must not give a plans certificate or a final certificate until 15 working days have elapsed from the day on which the approver consulted the authority, unless the authority have expressed their views to the approver before the expiry of that period.
 
-(5) Where a local enactment would, if plans were deposited in accordance with building regulations, require the local authority to consult the fire and rescue authority before or during the carrying out of any work, the approver must consult the fire and rescue authority in a manner similar to that required by that enactment.
+(5) Where a local enactment would, if an application for building control approval with full plans were submitted or granted[^c-72b3fd7c39856f61146c72f616bb4efb] in accordance with building regulations, require the local authority to consult the fire and rescue authority before or during the carrying out of any work, the approver must consult the fire and rescue authority in a manner similar to that required by that enactment.
 
 (6) In this regulation—
 
@@ -58,3 +58,5 @@ summary: ''
 ## Annotations
 
 [^c-91951d3967d4ab1622a48c3315ef11ed]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/1268/regulation/8) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+
+[^c-72b3fd7c39856f61146c72f616bb4efb]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/8/5) substituted (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [17(5)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/17/5) (with [regs. 20](https://www.legislation.gov.uk/wsi/2025/1320/regulation/20), [21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21)) (as substituted by [W.S.I. 2026/60](https://www.legislation.gov.uk/wsi/2026/60), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/60/regulation/1/2/a), [7(2)](https://www.legislation.gov.uk/wsi/2026/60/regulation/7/2))

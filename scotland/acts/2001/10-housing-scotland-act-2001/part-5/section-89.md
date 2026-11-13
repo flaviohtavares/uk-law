@@ -3,7 +3,7 @@ title: Housing (Scotland) Act 2001, section 89
 act: Housing (Scotland) Act 2001
 section: '89'
 status: revised-with-pending-changes
-text_date: '2026-08-01'
+text_date: '2026-11-09'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2001/10/section/89
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Housing (Scotland) Act 2001, section 89
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/asp/2001/10
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/asp/2001/10
 >
 > Extent: Scotland.
 
@@ -79,6 +79,8 @@ with a view to accomplishing the purpose set out in subsection (5).
 - (c) may from time to time, after consultation with such persons as it thinks fit, modify its strategy, and
 - (d) must submit any such modified strategy to the Scottish Ministers.
 
+(12)[^c-c82f700bd057bb320bd8e0353f1f6f6e] For the purpose of subsection (5)(b), a person lives in fuel poverty if the person is a member of a household which is in fuel poverty for the purposes of the Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019.
+
 ## Annotations
 
 [^c286666]: Commencement: S. 89 wholly in force at 1.11.2001, see s. 113 and [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/397/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2001/397/schedule) (subject to transitional provisions in [arts. 3-6](https://www.legislation.gov.uk/ssi/2001/397/article/3))
@@ -86,3 +88,5 @@ with a view to accomplishing the purpose set out in subsection (5).
 [^c-6b8d8a9078cc21cb91eae1329837694f]: Textual amendment: S. 89(5)(za) inserted (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 10(a)](https://www.legislation.gov.uk/asp/2006/1/section/10/a), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
 [^c-f11ba56fd4368acc93bd6dac0ef72ace]: Textual amendment: S. 89(5A) inserted (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 10(b)](https://www.legislation.gov.uk/asp/2006/1/section/10/b), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+
+[^c-c82f700bd057bb320bd8e0353f1f6f6e]: Textual amendment: S. 89(12) inserted (9.11.2026) by [Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (asp 10)](https://www.legislation.gov.uk/asp/2019/10), [ss. 18(3)](https://www.legislation.gov.uk/asp/2019/10/section/18/3), [20(2)](https://www.legislation.gov.uk/asp/2019/10/section/20/2); [S.S.I. 2026/319](https://www.legislation.gov.uk/ssi/2026/319), [reg. 2](https://www.legislation.gov.uk/ssi/2026/319/regulation/2)

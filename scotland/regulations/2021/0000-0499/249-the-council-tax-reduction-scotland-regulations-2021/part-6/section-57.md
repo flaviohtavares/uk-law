@@ -2,8 +2,8 @@
 title: The Council Tax Reduction (Scotland) Regulations 2021, section 57
 act: The Council Tax Reduction (Scotland) Regulations 2021
 section: '57'
-status: revised-with-pending-changes
-text_date: '2026-04-01'
+status: revised
+text_date: '2026-11-06'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2021/249/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Reduction (Scotland) Regulations 2021, section 57
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2021/249
+> Text as at 2026-11-06.
 >
 > Extent: Scotland.
 
@@ -29,7 +29,7 @@ summary: ''
   - (iii) contributory[^c-6e1cc5392384f16c11bfe26166f71ecf] employment and support allowance [^c-b0ffdc6dbbd3d10f1d8f86160bfd1a60]...,
   - (iv) carer’s allowance (but ignoring any carer’s allowance supplement under section 81 of the 2018 Act[^f00166]),
   - (iva)[^c-b723caabc76133dff1577937540ecfe3] carer support payment,
-  - (v) widowed mother’s allowance,
+  - (v)[^c-cc85e339b94f1ee0be891bd007bdd013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) widowed parent’s allowance,
   - (vii) widow’s pension,
   - (viii) maternity allowance,
@@ -85,7 +85,7 @@ summary: ''
 
 ## Annotations
 
-[^c-bd72f3531808e5468f0153ff5958b730]: Commencement: [Reg. 57](https://www.legislation.gov.uk/ssi/2021/249/regulation/57) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-bd72f3531808e5468f0153ff5958b730]: Commencement: Reg. 57 in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00165]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). Section 73 was amended by paragraph 49 of schedule 2 of the Jobseekers Act [1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18), paragraph 59 of schedule 24 of the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 1 of schedule 2 of the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6), paragraph 10 of schedule 3 and paragraph 1 of schedule 8 of the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5), paragraph 11 of schedule 9 of the Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5), paragraph 12 of schedule 12 of the Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19) and [S.I. 2019/128](https://www.legislation.gov.uk/uksi/2019/128).
 
@@ -93,13 +93,15 @@ summary: ''
 
 [^c-fe573380b0d55c952dc774dca3b77b49]: Textual amendment: Words in reg. 57(1)(b)(ii) inserted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [13(a)(ii)](https://www.legislation.gov.uk/ssi/2022/52/regulation/13/a/ii)
 
-[^c-6e1cc5392384f16c11bfe26166f71ecf]: Textual amendment: Word in [reg. 57(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2021/249/regulation/57/1/b/iii) inserted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [14(a)(i)](https://www.legislation.gov.uk/ssi/2023/38/regulation/14/a/i)
+[^c-6e1cc5392384f16c11bfe26166f71ecf]: Textual amendment: Word in reg. 57(1)(b)(iii) inserted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [14(a)(i)](https://www.legislation.gov.uk/ssi/2023/38/regulation/14/a/i)
 
-[^c-b0ffdc6dbbd3d10f1d8f86160bfd1a60]: Textual amendment: Words in [reg. 57(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2021/249/regulation/57/1/b/iii) omitted (1.4.2023) by virtue of [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [14(a)(ii)](https://www.legislation.gov.uk/ssi/2023/38/regulation/14/a/ii)
+[^c-b0ffdc6dbbd3d10f1d8f86160bfd1a60]: Textual amendment: Words in reg. 57(1)(b)(iii) omitted (1.4.2023) by virtue of [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [14(a)(ii)](https://www.legislation.gov.uk/ssi/2023/38/regulation/14/a/ii)
 
 [^f00166]: Footnote: There are amendments to section 81 that are not relevant to these Regulations.
 
-[^c-b723caabc76133dff1577937540ecfe3]: Textual amendment: [Reg. 57(1)(b)](https://www.legislation.gov.uk/ssi/2021/249/regulation/57/1/b)[(iva)](https://www.legislation.gov.uk/ssi/2021/249/regulation/57/1/iva) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Consequential and Miscellaneous Amendments and Transitional Provision) (Scotland) Regulations 2023 (S.S.I. 2023/258)](https://www.legislation.gov.uk/ssi/2023/258), [regs. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2023/258/regulation/8/3) (with [reg. 9](https://www.legislation.gov.uk/ssi/2023/258/regulation/9))
+[^c-b723caabc76133dff1577937540ecfe3]: Textual amendment: Reg. 57(1)(b)(iva) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Consequential and Miscellaneous Amendments and Transitional Provision) (Scotland) Regulations 2023 (S.S.I. 2023/258)](https://www.legislation.gov.uk/ssi/2023/258), [regs. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2023/258/regulation/8/3) (with [reg. 9](https://www.legislation.gov.uk/ssi/2023/258/regulation/9))
+
+[^c-cc85e339b94f1ee0be891bd007bdd013]: Textual amendment: Reg. 57(1)(b)(v) omitted (6.11.2026) by virtue of [The Council Tax Reduction (Miscellaneous Amendment) (No. 2) (Scotland) Regulations 2026 (S.S.I. 2026/259)](https://www.legislation.gov.uk/ssi/2026/259), [regs. 1](https://www.legislation.gov.uk/ssi/2026/259/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/259/regulation/3/2)
 
 [^f00167]: Footnote: Section 68 was repealed by Schedule 13 to the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), subject to savings provisions in [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958).
 
@@ -119,20 +121,20 @@ summary: ''
 
 [^f00173]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376), relevantly amended by section 14(5) of the Welfare Reform and Work Act [2016 (c.7)](https://www.legislation.gov.uk/ukpga/2016/7).
 
-[^c-79f6a5da7e6b6a44f70b275b96f8efd8]: Textual amendment: Words in [reg. 57(2)(d)(i)(aa)](https://www.legislation.gov.uk/ssi/2021/249/regulation/57/2/d/i/aa) omitted (10.11.2025) by virtue of [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 5) Regulations 2025 (S.S.I. 2025/275)](https://www.legislation.gov.uk/ssi/2025/275), [regs. 1](https://www.legislation.gov.uk/ssi/2025/275/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/275/regulation/2/2/a)
+[^c-79f6a5da7e6b6a44f70b275b96f8efd8]: Textual amendment: Words in reg. 57(2)(d)(i)(aa) omitted (10.11.2025) by virtue of [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 5) Regulations 2025 (S.S.I. 2025/275)](https://www.legislation.gov.uk/ssi/2025/275), [regs. 1](https://www.legislation.gov.uk/ssi/2025/275/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/275/regulation/2/2/a)
 
 [^c-76cbc831cd2e73b2fbf78f013b2884ba]: Textual amendment: Words in reg. 57(2)(d)(i)(bb) substituted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [13(c)(ii)](https://www.legislation.gov.uk/ssi/2022/52/regulation/13/c/ii)
 
-[^c-b74e841f9e7f89c0ecfb98201951c084]: Textual amendment: [Reg. 57(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2021/249/regulation/57/2/d/ii) omitted (10.11.2025) by virtue of [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 5) Regulations 2025 (S.S.I. 2025/275)](https://www.legislation.gov.uk/ssi/2025/275), [regs. 1](https://www.legislation.gov.uk/ssi/2025/275/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/275/regulation/2/2/b)
+[^c-b74e841f9e7f89c0ecfb98201951c084]: Textual amendment: Reg. 57(2)(d)(ii) omitted (10.11.2025) by virtue of [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 5) Regulations 2025 (S.S.I. 2025/275)](https://www.legislation.gov.uk/ssi/2025/275), [regs. 1](https://www.legislation.gov.uk/ssi/2025/275/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/275/regulation/2/2/b)
 
-[^c-d72ea4a06b552a42eaa4eab52d68a4c4]: Textual amendment: [Reg. 57(2)(d)(iii)](https://www.legislation.gov.uk/ssi/2021/249/regulation/57/2/d/iii) omitted (10.11.2025) by virtue of [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 5) Regulations 2025 (S.S.I. 2025/275)](https://www.legislation.gov.uk/ssi/2025/275), [regs. 1](https://www.legislation.gov.uk/ssi/2025/275/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/275/regulation/2/2/b)
+[^c-d72ea4a06b552a42eaa4eab52d68a4c4]: Textual amendment: Reg. 57(2)(d)(iii) omitted (10.11.2025) by virtue of [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 5) Regulations 2025 (S.S.I. 2025/275)](https://www.legislation.gov.uk/ssi/2025/275), [regs. 1](https://www.legislation.gov.uk/ssi/2025/275/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/275/regulation/2/2/b)
 
-[^c-fbb08ea911236cbaacde2a2e06e2af19]: Textual amendment: [Reg. 57(2)(d)(iv)](https://www.legislation.gov.uk/ssi/2021/249/regulation/57/2/d/iv) substituted (10.11.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 5) Regulations 2025 (S.S.I. 2025/275)](https://www.legislation.gov.uk/ssi/2025/275), [regs. 1](https://www.legislation.gov.uk/ssi/2025/275/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2025/275/regulation/2/2/c)
+[^c-fbb08ea911236cbaacde2a2e06e2af19]: Textual amendment: Reg. 57(2)(d)(iv) substituted (10.11.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 5) Regulations 2025 (S.S.I. 2025/275)](https://www.legislation.gov.uk/ssi/2025/275), [regs. 1](https://www.legislation.gov.uk/ssi/2025/275/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2025/275/regulation/2/2/c)
 
 [^f00175]: Footnote: Regulation 8(2A) was inserted by [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65). It was amended by [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152). Regulations 46 and 47 were added, and subsequently amended, by [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152).
 
 [^f00176]: Footnote: [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152). Regulation 5 was amended by [S.I. 2020/826](https://www.legislation.gov.uk/uksi/2020/826).
 
-[^c-27c60fba0a95567bb18b987e77920bf3]: Textual amendment: Words in [reg. 57(4)](https://www.legislation.gov.uk/ssi/2021/249/regulation/57/4) substituted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [14(b)](https://www.legislation.gov.uk/ssi/2023/38/regulation/14/b)
+[^c-27c60fba0a95567bb18b987e77920bf3]: Textual amendment: Words in reg. 57(4) substituted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [14(b)](https://www.legislation.gov.uk/ssi/2023/38/regulation/14/b)
 
 [^c-41c7d417d92cab0de04545a73b5cb446]: Textual amendment: Reg. 57(6) inserted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [13(d)](https://www.legislation.gov.uk/ssi/2022/52/regulation/13/d)

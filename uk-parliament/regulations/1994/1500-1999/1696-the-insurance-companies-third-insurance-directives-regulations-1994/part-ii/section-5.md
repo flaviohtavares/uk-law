@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 5
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Sound and prudent management: criteria which must be fulfilled
+## 5. Sound and prudent management: criteria which must be fulfilled[^c-d7ebb2b939e83e6b0dfab2408ddd53f1]
+
+*Extent: E+W+S+N.I.*
 
 (1) After subsection (1) of section 5 of the 1982 Act (submission of proposals etc.) insert—
 
@@ -48,3 +52,7 @@ summary: ''
 > - (d) business which is exempted from the authorisation requirements contained in this Part of this Act by subsections (2) to (5) of section 2 above.
 
 (3) After Schedule 2 to the 1982 Act insert Schedule 1 to these Regulations (criteria ofsound and prudent management), as Schedule 2A.
+
+## Annotations
+
+[^c-d7ebb2b939e83e6b0dfab2408ddd53f1]: Commencement: Reg. 5 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

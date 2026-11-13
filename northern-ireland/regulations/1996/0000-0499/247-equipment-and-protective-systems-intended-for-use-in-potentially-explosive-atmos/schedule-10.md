@@ -2,9 +2,9 @@
 title: Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996, SCHEDULE 10
 act: Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996
 section: schedule-10
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-06-24'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/247/schedule/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996, SCHEDULE 10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 10 — Module: Internal control of production
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 Regulation 10(3)(*b*)(ii) and (*c*) and (4) (Annex VIII to the ATEX Directive)
 

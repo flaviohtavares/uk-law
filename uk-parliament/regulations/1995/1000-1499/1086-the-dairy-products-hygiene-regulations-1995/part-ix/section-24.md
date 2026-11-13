@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 24
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 24. Consequential amendments
+## 24. Consequential amendments[^c-c7d92c7abf84be76d0e1ae0380510316]
+
+*Extent: E+W*
 
 (1) In the Ice Cream (Heat Treatment etc) Regulations 1959[^f00015], after regulation 2A there shall be inserted the following regulation—
 
@@ -42,6 +46,8 @@ summary: ''
 - (b) sub-paragraph (b) of regulation 3(2) shall be deleted.
 
 ## Annotations
+
+[^c-c7d92c7abf84be76d0e1ae0380510316]: Commencement: Reg. 24 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
 
 [^f00015]: Footnote: S.I. [1959/734](https://www.legislation.gov.uk/uksi/1959/734) to which there are amendments not relevant to these Regulations.
 

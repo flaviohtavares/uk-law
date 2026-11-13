@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **GENDER RECOGNITION*
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Gender Recognition Act 2004](../uk-parliament/acts/public/2004/7-gender-recognition-act-2004/README.md) *(changes pending)* — 28 regulations on this topic made under it
+- [Gender Recognition Act 2004](../uk-parliament/acts/public/2004/7-gender-recognition-act-2004/README.md) — 28 regulations on this topic made under it
 
 ## Regulations
 

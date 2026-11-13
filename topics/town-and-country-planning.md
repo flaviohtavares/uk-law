@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **TOWN AND COUNTRY PL
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Town and Country Planning Act 1990](../uk-parliament/acts/public/1990/8-town-and-country-planning-act-1990/README.md) *(changes pending)* — 332 regulations on this topic made under it
+- [Town and Country Planning Act 1990](../uk-parliament/acts/public/1990/8-town-and-country-planning-act-1990/README.md) *(changes pending)* — 331 regulations on this topic made under it
 - [Town and Country Planning (Scotland) Act 1997](../uk-parliament/acts/public/1997/8-town-and-country-planning-scotland-act-1997/README.md) *(changes pending)* — 127 regulations on this topic made under it
 - [Planning and Compulsory Purchase Act 2004](../uk-parliament/acts/public/2004/5-planning-and-compulsory-purchase-act-2004/README.md) *(changes pending)* — 102 regulations on this topic made under it
 - [Planning (Listed Buildings and Conservation Areas) Act 1990](../uk-parliament/acts/public/1990/9-planning-listed-buildings-and-conservation-areas-act-1990/README.md) *(changes pending)* — 44 regulations on this topic made under it
@@ -30,7 +30,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-907 in force.
+906 in force.
 
 **2026**
 
@@ -591,7 +591,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Town and Country Planning (Development Planning) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/426-the-town-and-country-planning-development-planning-scotland-regulations-2008.md)
 - [The Town and Country Planning (Environmental Impact Assessment) (Mineral Permissions and Amendment) (England) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1556-the-town-and-country-planning-environmental-impact-assessment-mineral-permission.md)
 - [The Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2008](../wales/regulations/2008/2000-2499/2336-the-town-and-country-planning-general-development-procedure-amendment-wales-orde.md) *(as originally made)*
-- [The Town and Country Planning (General Permitted Development) (Amendment) (England) Order 2008](../uk-parliament/regulations/2008/0500-0999/675-the-town-and-country-planning-general-permitted-development-amendment-england-or.md) *(changes pending)*
 - [The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2008](../wales/regulations/2008/0500-0999/502-the-town-and-country-planning-general-permitted-development-amendment-wales-orde.md) *(as originally made)*
 - [The Town and Country Planning (General Permitted Development) (Avian Influenza) (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/74-the-town-and-country-planning-general-permitted-development-avian-influenza-scot.md) *(as originally made)*
 - [The Town and Country Planning (General Permitted Development) (Scotland) Amendment Order 2008](../scotland/regulations/2008/0000-0499/203-the-town-and-country-planning-general-permitted-development-scotland-amendment-o.md) *(as originally made)*

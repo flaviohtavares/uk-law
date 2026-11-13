@@ -3,7 +3,7 @@ title: Adoption and Children Act 2002, section 78
 act: Adoption and Children Act 2002
 section: '78'
 status: revised-with-pending-changes
-text_date: '2022-11-30'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2002/38/section/78
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Adoption and Children Act 2002, section 78
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -33,8 +33,8 @@ summary: ''
 
 (4)[^c-6d5042172cea149bc047277cb13a4286] The terms, conditions and regulations as to payment of fees, and otherwise, applicable under the Births and Deaths Registration Act 1953 (c. 20), and the Registration Service Act 1953 (c. 37), in respect of—
 
-- (a) searches in the index kept in the General Register Office of certified copies of entries in the registers of live-births,
-- (b) the supply from that office of certified copies of entries in those certified copies,
+- (a) searches in the index kept in the General Register Office of [^c-06a6eb37593d4e70ca1212a3ef4d132a]... entries in the registers of live-births,
+- (b) the supply from that office of certified copies of entries in those registers[^c-ea44baacc99db837654b63a0c5320ea3],
 
 also apply in respect of searches, and supplies of certified copies, under subsection (2).
 
@@ -51,3 +51,7 @@ also apply in respect of searches, and supplies of certified copies, under subse
 [^c-be2e9c90407bd69e060b00c6008b36ca]: Modification: S. 78(3): transfer of functions (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/12/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^c-b34aeedf50d83cd5d303d70321302f25]: Textual amendment: Words in s. 78(3) substituted (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/12/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+
+[^c-06a6eb37593d4e70ca1212a3ef4d132a]: Textual amendment: Words in s. 78(4)(a) omitted (9.11.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 24(a)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/24/a); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)
+
+[^c-ea44baacc99db837654b63a0c5320ea3]: Textual amendment: Word in s. 78(4)(b) substituted (9.11.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 3 para. 24(b)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/3/paragraph/24/b); [S.I. 2026/1167](https://www.legislation.gov.uk/uksi/2026/1167), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/1167/regulation/2/1/e)

@@ -3,7 +3,7 @@ title: Police Reform Act 2002, section 10D
 act: Police Reform Act 2002
 section: 10D
 status: revised-with-pending-changes
-text_date: '2026-10-29'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2002/30/section/10D
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Police Reform Act 2002, section 10D
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

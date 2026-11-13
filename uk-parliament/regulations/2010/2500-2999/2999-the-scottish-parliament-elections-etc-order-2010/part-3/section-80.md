@@ -1,33 +1,29 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, section 80
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, section 80
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: '80'
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: repealed
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/section/80
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, section 80
+# The Scottish Parliament (Elections etc. ) Order 2010, section 80
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Rights of creditors[^c-055b9b094508add7f7b7e3439d4bbc27]
+## 80. Rights of creditors[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
-The provisions of this Part prohibiting—
+**No longer in force.**
 
-- (a) payments and contracts for payments;
-- (b) the payment or incurring of election expenses in excess of the maximum amount allowed by this Order; or
-- (c) the incurring of expenses not authorised by an election agent,
-
-do not affect the right of any creditor, who, when the contract was made or the expense was incurred, was ignorant of that contract or expense being in contravention of this Order.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-055b9b094508add7f7b7e3439d4bbc27]: Commencement: Art. 80 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

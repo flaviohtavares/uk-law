@@ -3,7 +3,7 @@ title: Social Security (Scotland) Act 2018, section 94
 act: Social Security (Scotland) Act 2018
 section: '94'
 status: not-yet-in-force
-text_date: '2026-03-15'
+text_date: '2026-11-02'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2018/9/section/94
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

@@ -3,14 +3,14 @@ title: The Tax Credits Act 2002 (Transitional Provisions) Order 2008
 id: uksi/2008/3151
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-09'
-text_date: null
-extent: null
+text_date: '2008-12-09'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3151
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3151/pdfs/uksi_20083151_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3151/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/3151/data.pdf
 pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Tax Credits Act 2002 (Transitional Provisions) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2008-12-09. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3151
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 3151 (C. 139)
 
@@ -33,11 +37,11 @@ Made
 
 The Treasury, in exercise of the powers conferred by section 62(2) of the Tax Credits Act 2002[^f00001], make the following Order:
 
-## 1. Citation
+## 1. Citation[^c-3fcf2602e9122d57c3aa8360efdb034c]
 
 This Order may be cited as the Tax Credits Act 2002 (Transitional Provisions) Order 2008.
 
-## 2. Deemed claims for tax credits
+## 2. Deemed claims for tax credits[^c-cb836d4f48130168a141c1508557c4ae]
 
 (1) A claim shall be deemed to be made under section 3(1) of the Tax Credits Act 2002 where—
 
@@ -49,7 +53,7 @@ This Order may be cited as the Tax Credits Act 2002 (Transitional Provisions) Or
 
 (3) The claim shall be deemed to be made on the date when it is recorded on a computer system of Her Majesty’s Revenue and Customs. This is subject to the effect of Article 3(3).
 
-## 3. Amendments to the Tax Credits Act 2002 (Commencement No. 4, Transitional Provisions and Savings) Order 2003
+## 3. Amendments to the Tax Credits Act 2002 (Commencement No. 4, Transitional Provisions and Savings) Order 2003[^c-b0178f0cd012d66a6f9c14f16efb015a]
 
 (1) The Tax Credits Act 2002 (Commencement No. 4, Transitional Provisions and Savings) Order 2003[^f00004] shall be amended as follows:
 
@@ -87,8 +91,14 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 
+[^c-3fcf2602e9122d57c3aa8360efdb034c]: Commencement: Art. 1 in force at made date
+
+[^c-cb836d4f48130168a141c1508557c4ae]: Commencement: Art. 2 in force at made date
+
 [^f00002]: Footnote: [S.I 2008/3051](https://www.legislation.gov.uk/uksi/2008/3051).
 
 [^f00003]: Footnote: [S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014) as amended by [S.I.2008/2169](https://www.legislation.gov.uk/uksi/2008/2169).
+
+[^c-b0178f0cd012d66a6f9c14f16efb015a]: Commencement: Art. 3 in force at made date
 
 [^f00004]: Footnote: [S.I. 2003/962 (C. 51)](https://www.legislation.gov.uk/uksi/2003/962); Article 2(5) was amended by [S.I. 2005/1106](https://www.legislation.gov.uk/uksi/2005/1106) and [S.I. 2006/3369](https://www.legislation.gov.uk/uksi/2006/3369).

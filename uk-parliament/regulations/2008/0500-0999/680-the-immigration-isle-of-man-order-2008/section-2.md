@@ -2,9 +2,9 @@
 title: The Immigration (Isle of Man) Order 2008, section 2
 act: The Immigration (Isle of Man) Order 2008
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation
+## 2. Interpretation[^c-02afec581338de5eadfcc94c928db862]
+
+*Extent: E+W+S+N.I.*
 
 In this Order—
 
@@ -28,6 +32,8 @@ In this Order—
 - “the 2006 Act” means the Immigration, Asylum and Nationality Act 2006[^f00008].
 
 ## Annotations
+
+[^c-02afec581338de5eadfcc94c928db862]: Commencement: Art. 2 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
 
 [^f00001]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
 

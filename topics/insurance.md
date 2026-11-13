@@ -133,7 +133,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Insurance Companies (Accounts and Statements) (Amendment) Regulations 1994](../uk-parliament/regulations/1994/1500-1999/1515-the-insurance-companies-accounts-and-statements-amendment-regulations-1994.md) *(as originally made)*
 - [The Insurance Companies (Amendment No. 2) Regulations 1994](../uk-parliament/regulations/1994/3000-3499/3133-the-insurance-companies-amendment-no-2-regulations-1994.md) *(as originally made)*
 - [The Insurance Companies (Amendment) Regulations 1994](../uk-parliament/regulations/1994/3000-3499/3132-the-insurance-companies-amendment-regulations-1994.md) *(as originally made)*
-- [The Insurance Companies (Third Insurance Directives) Regulations 1994](../uk-parliament/regulations/1994/1500-1999/1696-the-insurance-companies-third-insurance-directives-regulations-1994/README.md) *(as originally made)*
+- [The Insurance Companies (Third Insurance Directives) Regulations 1994](../uk-parliament/regulations/1994/1500-1999/1696-the-insurance-companies-third-insurance-directives-regulations-1994/README.md) *(changes pending)*
 - [The Insurance Companies Regulations 1994](../uk-parliament/regulations/1994/1500-1999/1516-the-insurance-companies-regulations-1994/README.md) *(as originally made)*
 
 **1993**

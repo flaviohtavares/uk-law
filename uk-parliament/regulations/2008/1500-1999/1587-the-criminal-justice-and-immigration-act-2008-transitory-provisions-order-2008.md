@@ -3,15 +3,15 @@ title: The Criminal Justice and Immigration Act 2008 (Transitory Provisions) Ord
 id: uksi/2008/1587
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-17'
-text_date: null
-extent: null
+text_date: '2008-07-14'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1587
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1587/pdfs/uksiem_20081587_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1587/pdfs/uksi_20081587_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1587/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1587/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Criminal Justice and Immigration Act 2008 (Transitory Provisions) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-14. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1587
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 1587
 
@@ -46,7 +50,7 @@ Coming into force
 
 The Secretary of State makes this Order in exercise of the powers conferred by section 148(3) and (4)(a) of the Criminal Justice and Immigration Act 2008[^f00001].
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-e6c9aff812f9b714aecb7f2094da8727]
 
 (1) This Order may be cited as the Criminal Justice and Immigration Act 2008 (Transitory Provisions) Order 2008 and shall come into force on 14<sup>th</sup> July 2008.
 
@@ -55,7 +59,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 - “the 2003 Act” means the Criminal Justice Act 2003[^f00002];
 - “the 2008 Act” means the Criminal Justice and Immigration Act 2008.
 
-## 2. Modifications for sentencing of offenders aged at least 18 but under 21
+## 2. Modifications for sentencing of offenders aged at least 18 but under 21[^c-2a9c11d09c5c8d92fed0a8f9a3c7f2a5]
 
 (1) In relation to any time before the coming into force of section 61 of the Criminal Justice and Court Services Act 2000[^f00003] (abolition of sentences of detention in a young offender institution, custody for life etc), the following provisions of Part 12 of the 2003 Act shall have effect subject to the modifications specified in paragraphs (2) to (4).
 
@@ -74,17 +78,17 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 (4) Section 305(4)(c)[^f00009] has effect as if, after the words “a sentence of imprisonment for life” there were inserted “or, in the case of a person aged at least 18 but under 21, a sentence of custody for life”.
 
-## 3. Modifications in relation to the release and recall of offenders aged at least 18 but under 21
+## 3. Modifications in relation to the release and recall of offenders aged at least 18 but under 21[^c-6f6d7a1d69b9441fb3367fbdda247edf]
 
 In relation to any sentence passed before the coming into force of section 61 of the Criminal Justice and Court Services Act 2000, section 255A(14) of the 2003 Act[^f00010] (further release after recall) has effect as if, after the words “section 91” there were inserted “or 96” and after the words “or under section” there were inserted “227 or”.
 
-## 4. Modification of references to Supreme Court
+## 4. Modification of references to Supreme Court[^c-f3b45345d2f8c4a8b47cf067823d3ed6]
 
 References to the Supreme Court in section 5 of the Administration of Justice Act 1960[^f00011] are to be read as references to the House of Lords until the coming into force of paragraph 13(5) of Schedule 9 to the Constitutional Reform Act 2005[^f00012].
 
-**5.** References to the Supreme Court in section 37 of the Criminal Appeal Act 1968[^f00013] are to be read as references to the House of Lords until the coming into force of paragraph 16(6) of Schedule 9 to the Constitutional Reform Act 2005.
+**5.**[^c-e432479a702510c9798e2d205946e29e] References to the Supreme Court in section 37 of the Criminal Appeal Act 1968[^f00013] are to be read as references to the House of Lords until the coming into force of paragraph 16(6) of Schedule 9 to the Constitutional Reform Act 2005.
 
-**6.** References to the Supreme Court in section 36 of the Criminal Appeal (Northern Ireland) Act 1980[^f00014] are to be read as references to the House of Lords until the coming into force of paragraph 33(6) of Schedule 9 to the Constitutional Reform Act 2005.
+**6.**[^c-e0044312758403cc99a3d8152270a539] References to the Supreme Court in section 36 of the Criminal Appeal (Northern Ireland) Act 1980[^f00014] are to be read as references to the House of Lords until the coming into force of paragraph 33(6) of Schedule 9 to the Constitutional Reform Act 2005.
 
 Signed by the authority of the Secretary of State
 
@@ -114,7 +118,11 @@ The modifications made by articles 4, 5 and 6 are needed until such time as the 
 
 [^f00001]: Footnote: [2008 c.4](https://www.legislation.gov.uk/ukpga/2008/4)
 
+[^c-e6c9aff812f9b714aecb7f2094da8727]: Commencement: Art. 1 in force at 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1587/article/1/1)
+
 [^f00002]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44)
+
+[^c-2a9c11d09c5c8d92fed0a8f9a3c7f2a5]: Commencement: Art. 2 in force at 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1587/article/1/1)
 
 [^f00003]: Footnote: [2000 c.43](https://www.legislation.gov.uk/ukpga/2000/43)
 
@@ -130,12 +138,20 @@ The modifications made by articles 4, 5 and 6 are needed until such time as the 
 
 [^f00009]: Footnote: Subsection (4)(c) of section 305 was substituted by paragraph 72(a) of Schedule 26 to the 2008 Act.
 
+[^c-6f6d7a1d69b9441fb3367fbdda247edf]: Commencement: Art. 3 in force at 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1587/article/1/1)
+
 [^f00010]: Footnote: Section 255A of the Criminal Justice Act 2003 was added by section 29 of the 2008 Act.
+
+[^c-f3b45345d2f8c4a8b47cf067823d3ed6]: Commencement: Art. 4 in force at 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1587/article/1/1)
 
 [^f00011]: Footnote: [1960 c.65](https://www.legislation.gov.uk/ukpga/1960/65). Section 5 was amended by paragraph 26 of Schedule 8 to the 2008 Act.
 
 [^f00012]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4)
 
+[^c-e432479a702510c9798e2d205946e29e]: Commencement: Art. 5 in force at 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1587/article/1/1)
+
 [^f00013]: Footnote: [1968 c.19](https://www.legislation.gov.uk/ukpga/1968/19). Section 37 was amended by paragraph 13 of Schedule 8 to the 2008 Act.
+
+[^c-e0044312758403cc99a3d8152270a539]: Commencement: Art. 6 in force at 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1587/article/1/1)
 
 [^f00014]: Footnote: [1980 c.47](https://www.legislation.gov.uk/ukpga/1980/47). Section 36 was amended by paragraph 24 of Schedule 8 to the 2008 Act.

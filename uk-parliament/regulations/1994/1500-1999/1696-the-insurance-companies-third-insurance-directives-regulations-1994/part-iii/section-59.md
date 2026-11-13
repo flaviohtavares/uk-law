@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 59
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '59'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/59
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 59
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Powers of intervention
+## 59. Powers of intervention[^c-8105c5dfa6c801d6beafd7a5a1df52a0]
+
+*Extent: E+W+S+N.I.*
 
 (1) Section 64 of the 1986 Act (scope of powers of intervention) shall have effect in relation to an authorised person who is an EC company as if subsection (1)(b) (fitness to carry on investment business) were omitted.
 
@@ -33,3 +37,7 @@ summary: ''
 - (e) where the Board imposes a prohibition under that section on an EC company, the Board shall inform the company in writing of its reasons for doing so.
 
 (3) In this regulation “the Board” means The Securities and Investments Board.
+
+## Annotations
+
+[^c-8105c5dfa6c801d6beafd7a5a1df52a0]: Commencement: Reg. 59 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

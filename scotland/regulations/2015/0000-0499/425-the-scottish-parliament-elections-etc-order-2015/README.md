@@ -3,16 +3,16 @@ title: The Scottish Parliament (Elections etc.) Order 2015
 id: ssi/2015/425
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2015-12-15'
-text_date: '2026-02-05'
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2015/425
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2015/425/pdfs/ssipn_20150425_en.pdf
 - http://www.legislation.gov.uk/ssi/2015/425/pdfs/ssi_20150425_en.pdf
 - http://www.legislation.gov.uk/ssi/2015/425/data.pdf
-pending_changes: 33
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2015
 
-> **Warning: changes not yet applied to this text (33).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/ssi/2015/425
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -67,7 +67,7 @@ In accordance with section 115 of, and Schedule 7 to, the Scotland Act 1998[^f00
 - [Section 5 — Polling districts and places at elections](part-2/section-5.md)
 - [Section 6 — Rules for Scottish parliamentary elections](part-2/section-6.md)
 - [Section 7 — Manner of voting at Scottish parliamentary elections](part-2/section-7.md)
-- [Section 8 — Absent vote at Scottish parliamentary elections for an indefinite or a particular period](part-2/section-8.md)
+- [Section 8 — Absent vote at Scottish parliamentary elections ...](part-2/section-8.md)
 - [Section 9 — Absent vote at a particular Scottish parliamentary election and special lists](part-2/section-9.md)
 - [Section 10 — Proxies at Scottish parliamentary elections](part-2/section-10.md)
 - [Section 11 — Voting as proxy](part-2/section-11.md)

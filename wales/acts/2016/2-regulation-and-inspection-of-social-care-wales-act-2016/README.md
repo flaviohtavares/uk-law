@@ -5,7 +5,7 @@ type: WelshNationalAssemblyAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2016-01-18'
-text_date: '2026-04-01'
+text_date: '2026-10-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/anaw/2016/2
 pdf_urls:
@@ -16,7 +16,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/anaw/2016/2/pdfs/anaw_20160002_we.pdf
 - http://www.legislation.gov.uk/anaw/2016/2/pdfs/anaw_20160002_en.pdf
 - http://www.legislation.gov.uk/anaw/2016/2/data.pdf
-pending_changes: 10
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -24,7 +24,7 @@ summary: ''
 
 # Regulation and Inspection of Social Care (Wales) Act 2016
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

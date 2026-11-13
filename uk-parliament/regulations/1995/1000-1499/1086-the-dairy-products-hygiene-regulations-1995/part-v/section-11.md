@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 11
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '11'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 11. Storage, transport, wrapping and labelling conditions
+## 11. Storage, transport, wrapping and labelling conditions[^c-32d35598cceca84a68b2dbe032f80bfa]
+
+*Extent: E+W*
 
 (1) Dairy products intended for sale shall—
 
@@ -28,3 +32,7 @@ summary: ''
 (3) No person shall use on any dairy product which has not been produced in accordance with these Regulations any mark which is not a health mark but which resembles a health mark in such a way as to be likely to suggest that the product has been produced in accordance with these Regulations.
 
 (4) An occupier may until 1st January 1996, use on his dairy products any packaging or wrapping which may not comply with the requirements of Part II of Schedule 10.
+
+## Annotations
+
+[^c-32d35598cceca84a68b2dbe032f80bfa]: Commencement: Reg. 11 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

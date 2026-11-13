@@ -2,8 +2,8 @@
 title: The National Health Service (General Dental Services) (Scotland) Regulations 2010, section 2
 act: The National Health Service (General Dental Services) (Scotland) Regulations 2010
 section: '2'
-status: revised-with-pending-changes
-text_date: '2026-04-01'
+status: revised
+text_date: '2026-11-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2010/208/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The National Health Service (General Dental Services) (Scotland) Regulations 2010, section 2
 
-> **Warning: changes not yet applied to this text (8).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2010/208
+> Text as at 2026-11-01.
 >
 > Extent: Scotland.
 
@@ -146,6 +146,7 @@ summary: ''
 - “trauma” means damage to teeth, gingival tissues, or *alveoli* caused by a force arising outside the mouth resulting in mobility, luxation, subluxation or fracture of the hard tissues or injury to the soft tissues;
 - “treatment” means all proper and necessary dental treatment which a dentist usually undertakes for a patient and which the patient is willing to undergo, including examination, diagnosis, preventative treatment, periodontal treatment, conservative treatment, surgical treatment, the supply, replacement and repair of dental appliances, orthodontic treatment, the taking of radiographs, the provision of sedation in connection with such treatment, and the supply of listed drugs and the issue of prescription forms in accordance with paragraphs 24 and 25 of Schedule 1;
 - “treatment on referral” means any care and treatment provided by a dentist under paragraph 14 of Schedule 1;
+- “[^c-03b36ddffefde0c583876fbca0471dc1]**treatment plan**” means a treatment plan referred to in paragraph 5(2)(d) of schedule 1;
 - “treatment requiring prior approval” means any item of treatment referred to in Part I of Schedule 4 or any care and treatment specified in paragraph 1 or 2 in Part II of that Schedule;
 - “Tribunal” means the Tribunal constituted in accordance with the provisions of section 29 of, and Schedule 8[^f00020] to, the Act;
 - “vocational training” has the meaning assigned to it by regulation 1(2) of the National Health Service (Vocational Training for General Dental Practice) (Scotland) Regulations 2004[^f00021];
@@ -268,6 +269,8 @@ summary: ''
 [^f00019]: Footnote: Section 32B(1) was substituted by the 1995 Act, section 8 and amended by the 1999 Act, section 65 and Schedule 4, paragraph 52, and by the 2005 Act, Schedule 3.
 
 [^c-cd3f24db074726af71c7a7010128564a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/208/regulation/2/1) inserted (26.10.2017) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2), [3(1)(j)](https://www.legislation.gov.uk/ssi/2017/289/regulation/3/1/j) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))
+
+[^c-03b36ddffefde0c583876fbca0471dc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/208/regulation/2/1) inserted (1.11.2026) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/3), [18](https://www.legislation.gov.uk/ssi/2025/380/regulation/18)
 
 [^f00020]: Footnote: Schedule 8 was amended by the 1995 Act, section 12, [S.I. 1995/3214](https://www.legislation.gov.uk/uksi/1995/3214); the National Health Service (Primary Care) Act [1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46), section 41(10), and Schedule 2, Part II, paragraph 58; [S.I. 1998/631](https://www.legislation.gov.uk/uksi/1998/631); the 1999 Act, sections 65(1) and Schedule 4, paragraph 64, and by the 2005 Act, Schedule 2, paragraph 2.
 

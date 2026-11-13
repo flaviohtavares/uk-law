@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 23
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '23'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 23
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. General investigations
+## 23. General investigations[^c-ee1cf0e3929e951dd79070499eb77624]
+
+*Extent: E+W+S+N.I.*
 
 After section 43 of the 1982 Act insert—
 
@@ -40,3 +44,7 @@ After section 43 of the 1982 Act insert—
 > (4) A person exercising powers by virtue of an appointment under this section shall, if so required, produce evidence of his authority.
 >
 > (5) A statement made by a person in compliance with a requirement imposed by virtue of this section may be used in evidence against him.
+
+## Annotations
+
+[^c-ee1cf0e3929e951dd79070499eb77624]: Commencement: Reg. 23 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, SCHEDULE 2
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2
+## SCHEDULE 2[^c-ccd3b410e4528711e79e83aa4d32becf]
+
+*Extent: E+W+S+N.I.*
 
 Regulation 26.
 
@@ -188,6 +192,8 @@ Regulation 26.
 > (3) Paragraph 6 above does not preclude the disclosure of any such information as is mentioned in section 180(5) of the Financial Services Act 1986 by any person who by virtue of that section is not precluded by section 179 of that Act from disclosing it.
 
 ## Annotations
+
+[^c-ccd3b410e4528711e79e83aa4d32becf]: Commencement: Sch. 2 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
 
 [^f00055]: Footnote: [1985 c. 8](https://www.legislation.gov.uk/ukpga/1985/8).
 

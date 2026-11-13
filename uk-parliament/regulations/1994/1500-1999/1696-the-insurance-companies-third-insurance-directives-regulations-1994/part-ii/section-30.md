@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 30
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '30'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 30
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Effect of transfers authorised in other EEA States
+## 30. Effect of transfers authorised in other EEA States[^c-c0f92884382d7bb964be1e8ddf315704]
+
+*Extent: E+W+S+N.I.*
 
 After section 52A of the 1982 Act insert—
 
@@ -42,3 +46,7 @@ After section 52A of the 1982 Act insert—
 > (3) Directions under this section may make different provision for different cases or descriptions of case.
 >
 > (4) A policy which evidences a contract of direct insurance is a UK policy for the purposes of this section if the law applicable to it is the law of any part of the United Kingdom.
+
+## Annotations
+
+[^c-c0f92884382d7bb964be1e8ddf315704]: Commencement: Reg. 30 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

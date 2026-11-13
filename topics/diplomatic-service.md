@@ -6,11 +6,11 @@ Laws in force under the legislation.gov.uk subject heading **DIPLOMATIC SERVICE*
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Consular Fees Act 1980](../uk-parliament/acts/public/1980/23-consular-fees-act-1980.md) — 44 regulations on this topic made under it
+- [Consular Fees Act 1980](../uk-parliament/acts/public/1980/23-consular-fees-act-1980.md) — 43 regulations on this topic made under it
 
 ## Regulations
 
-44 in force.
+43 in force.
 
 **2025**
 
@@ -42,10 +42,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Consular Fees (Amendment) Order 2012](../uk-parliament/regulations/2012/1500-1999/1752-the-consular-fees-amendment-order-2012.md) *(as originally made)*
 - [The Consular Fees Order 2012](../uk-parliament/regulations/2012/0500-0999/798-the-consular-fees-order-2012.md)
-
-**2008**
-
-- [The Consular Fees Order 2008](../uk-parliament/regulations/2008/0500-0999/676-the-consular-fees-order-2008.md) *(changes pending)*
 
 **2007**
 

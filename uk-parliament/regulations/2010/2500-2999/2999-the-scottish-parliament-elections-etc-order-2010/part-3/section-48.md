@@ -1,50 +1,29 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, section 48
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, section 48
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: '48'
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: repealed
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/section/48
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, section 48
+# The Scottish Parliament (Elections etc. ) Order 2010, section 48
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Declarations as to election expenses: constituency and individual regional candidates[^c-b744939eb41de85b58c1ea548d4126a7]
+## 48. Declarations as to election expenses: constituency and individual regional candidates[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
-(1) Each return delivered under article 47 shall be accompanied by a declaration made by the election agent in the form D set out in the Appendix.
+**No longer in force.**
 
-(2) At the same time as the election agent delivers that return, or within seven days thereafter—
-
-- (a) each candidate for return as a constituency member; and
-- (b) each individual candidate for return as a regional member,
-
-shall deliver to the appropriate returning officer a declaration made by that candidate in the form D set out in the Appendix.
-
-(3) Where a candidate is out of the United Kingdom when the return is so delivered—
-
-- (a) the declaration required by paragraph (2) may be made by the candidate within 14 days after the candidate’s return to the United Kingdom; and
-- (b) in that case, the declaration shall be forthwith delivered to the appropriate returning officer,
-
-but the delay authorised by this provision in making the declaration shall not exonerate the election agent from complying with the provisions of this Order relating to the return and declaration as to election expenses.
-
-(4) Where—
-
-- (a) a candidate for return as a constituency member is that candidate’s own election agent; or
-- (b) an individual candidate for return as a regional member is that candidate’s own election agent,
-
-the declaration by the election agent as to the election expenses need not be made and the declaration by the candidate as to election expenses shall be modified as specified in the form D set out in the Appendix.
-
-(5) A candidate or election agent who knowingly makes the declaration required by this article falsely shall be guilty of a corrupt practice.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-b744939eb41de85b58c1ea548d4126a7]: Commencement: Art. 48 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

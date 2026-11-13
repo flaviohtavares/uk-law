@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **COURT OF SESSION**.
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Court of Session Act 1988](../uk-parliament/acts/public/1988/36-court-of-session-act-1988.md) — 218 regulations on this topic made under it
+- [Court of Session Act 1988](../uk-parliament/acts/public/1988/36-court-of-session-act-1988.md) — 219 regulations on this topic made under it
 - [Courts Reform (Scotland) Act 2014](../scotland/acts/2014/18-courts-reform-scotland-act-2014/README.md) *(changes pending)* — 94 regulations on this topic made under it
 - [Scottish Civil Justice Council and Criminal Legal Assistance Act 2013](../scotland/acts/2013/3-scottish-civil-justice-council-and-criminal-legal-assistance-act-2013.md) *(changes pending)* — 84 regulations on this topic made under it
 - [Execution of Diligence (Scotland) Act 1926](../uk-parliament/acts/public/geo5-16-17/16-execution-of-diligence-scotland-act-1926.md) *(changes pending)* — 26 regulations on this topic made under it
@@ -19,7 +19,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-397 in force.
+398 in force.
 
 **2026**
 
@@ -30,6 +30,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Court Sittings) 2026](../scotland/regulations/2026/0000-0499/53-act-of-sederunt-rules-of-the-court-of-session-1994-amendment-court-sittings-2026.md) *(as originally made)*
 - [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026](../scotland/regulations/2026/0000-0499/238-act-of-sederunt-taxation-of-judicial-expenses-rules-amendment-2026.md) *(as originally made)*
 - [The Court of Session etc. Fees Order 2026](../scotland/regulations/2026/0000-0499/80-the-court-of-session-etc-fees-order-2026.md) *(as originally made)*
+- [The Maximum Number of Judges (Scotland) Order 2026](../scotland/regulations/2026/0000-0499/340-the-maximum-number-of-judges-scotland-order-2026.md) *(as originally made)*
 
 **2025**
 

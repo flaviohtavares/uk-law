@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 50
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '50'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 50
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. General interpretation
+## 50. General interpretation[^c-6ac39775e438938b794c6add042cc0a7]
+
+*Extent: E+W+S+N.I.*
 
 (1) In subsection (1) of section 96 of the 1982 Act[^f00030] (general interpretation)—
 
@@ -89,6 +93,8 @@ summary: ''
 > (5) Except as otherwise provided by paragraph 27 of Schedule 2F to this Act, this Act shall apply as if Gibraltar were a member State.
 
 ## Annotations
+
+[^c-6ac39775e438938b794c6add042cc0a7]: Commencement: Reg. 50 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
 
 [^f00030]: Footnote: Section 96 has been amended by [S.I. 1990/1333](https://www.legislation.gov.uk/uksi/1990/1333), reg 8(3) and [S.I. 1993/174](https://www.legislation.gov.uk/uksi/1993/174), reg 2(1)(c); and there are other amendments not relevant to these Regulations.
 

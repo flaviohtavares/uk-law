@@ -3,9 +3,9 @@ title: The Building Regulations etc. (Amendment) (England) Regulations 2023
 id: uksi/2023/911
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2023-08-09'
-text_date: '2023-10-01'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2023/911
 pdf_urls:
@@ -13,7 +13,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/2023/911/pdfs/uksiem_20230911_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2023/911/pdfs/uksi_20230911_en.pdf
 - http://www.legislation.gov.uk/uksi/2023/911/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -21,7 +21,7 @@ summary: ''
 
 # The Building Regulations etc. (Amendment) (England) Regulations 2023
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2023/911
+> Text as at 2026-11-06.
 >
 > Extent: England, Wales.
 
@@ -1565,61 +1565,9 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 ## PART 3 — Amendment of other secondary legislation
 
-### 18. Amendments to the Building (Local Authority Charges) Regulations 2010[^c-e11d7e05cbe5d23677820d57db44cc2b]
+### 18. Amendments to the Building (Local Authority Charges) Regulations 2010[^c-2fa2f67f84d76a3c40312ed7df81d11b]
 
-(1) The Building (Local Authority Charges) Regulations 2010[^f00016] are amended as follows.
-
-(2) In regulation 5(1) (principles of charging scheme)—
-
-- (a) in sub-paragraph (a), at the beginning, insert “in relation to Wales,”;
-- (b) after sub-paragraph (a) insert—
-
-  > - (aa) in relation to England—
-  >   - (i) the passing or rejection of plans which have been deposited with the local authority, in accordance with section 16 of the Act, before 1st October 2023, or
-  >   - (ii) the granting or rejection of an application for building control approval in relation to proposed building work in England made to the local authority in accordance with the Principal Regulations,
-  >
-  >   (“a plan charge”);
-
-  ;
-- (c) in sub-paragraph (b), at the beginning, insert “in relation to Wales,”;
-- (d) after sub-paragraph (b) insert—
-
-  > - (ba) in relation to England, the inspection of building work for which—
-  >   - (i) plans have been deposited with the local authority, in accordance with section 16 of the Act, before 1st October 2023, or
-  >   - (ii) an application for building control approval has been granted in accordance with the Principal Regulations,
-  >
-  >   (“an inspection charge”);
-
-  .
-
-(3) In regulation 7(5) (principles of charging scheme: calculating charges) after sub-paragraph (j) insert—
-
-> - (ja) whether an application or building notice in relation to building work is in respect of building work which is substantially the same as building work in respect of which an application for building control approval has been granted or building works inspected by the same local authority;
-
-.
-
-(4) In regulation 8 (principles of charging scheme as to payment)—
-
-- (a) in paragraph (1)—
-  - (i) in sub-paragraph (a) after “deposited with” insert “, or an application for building control approval for the building work is made to,”;
-  - (ii) in sub-paragraph (d)—
-    - (aa) for “first deposited with” substitute “first given to”;
-    - (bb) for “have been deposited with” substitute “have been given to”;
-    - (cc) for “are or have been deposited” substitute “are or have been given”;
-- (b) in paragraph (2)—
-  - (i) after “are deposited” insert “or an application for building control approval which is made”; and
-  - (ii) after “of the Act” insert “or is not validly made for the purposes of the Principal Regulations”;
-- (c) in paragraph (3) after “plans of building work are deposited” insert “, an application for building control approval is made”.
-
-(5) In regulation 11 (refunds and supplementary charges)—
-
-- (a) in paragraph (1) after “the Act” insert “or do not give notice of the granting or rejection of an application for building control approval within the period required under the Principal Regulations”;
-- (b) in paragraph (2)—
-  - (i) after “the plans were deposited” insert “or an application for building control approval was made”;
-  - (ii) after “in order to comply with section 16 of the Act” insert “or the Principal Regulations”;
-- (c) in paragraph (6) after “plans which are deposited with a local authority under section 16 of the Act” insert “or an application for building control approval which is made to a local authority under the Principal Regulations”.
-
-(6) Omit regulation 14 (fees for determination of questions by the Secretary of State).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 19. Amendments to the Energy Performance of Buildings (England and Wales) Regulations 2012[^c-7d7bfc30a8ddf860d39c33630d8064d8]
 
@@ -1877,9 +1825,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c-17300b4ce9e8446aed689a9d41984d2b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/911/regulation/17) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^c-e11d7e05cbe5d23677820d57db44cc2b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/911/regulation/18) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
-
-[^f00016]: Footnote: [S.I. 2010/404](https://www.legislation.gov.uk/uksi/2010/404) as amended by [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215).
+[^c-2fa2f67f84d76a3c40312ed7df81d11b]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/911/regulation/18) revoked (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [12(e)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/12/e) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c-7d7bfc30a8ddf860d39c33630d8064d8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2023/911/regulation/19) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 

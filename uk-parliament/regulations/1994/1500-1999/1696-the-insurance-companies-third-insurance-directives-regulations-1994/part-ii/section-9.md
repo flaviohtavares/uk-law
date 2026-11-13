@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 9
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '9'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Applicants from non-EEA States etc.
+## 9. Applicants from non-EEA States etc.[^c-b830e5732a7b3a587f52c990a7350095]
+
+*Extent: E+W+S+N.I.*
 
 (1) In subsections (1) and (4) of section 9 of the 1982 Act (applicants from outside the Community), for the words “whose head office is not in a member State” substitute the words “to which this section applies”.
 
@@ -32,5 +36,7 @@ summary: ''
 (5) In subsection (6) of that section, the words from “In this section” to “except that” (which are superseded by regulation 50 below) shall cease to have effect.
 
 ## Annotations
+
+[^c-b830e5732a7b3a587f52c990a7350095]: Commencement: Reg. 9 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
 
 [^f00006]: Footnote: Subsection (5A) was inserted by [S.I. 1993/3127](https://www.legislation.gov.uk/uksi/1993/3127), reg. 2(3).

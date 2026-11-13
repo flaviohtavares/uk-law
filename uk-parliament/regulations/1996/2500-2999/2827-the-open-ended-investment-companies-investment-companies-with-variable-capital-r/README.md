@@ -3,14 +3,14 @@ title: The Open-Ended Investment Companies (Investment Companies with Variable C
 id: uksi/1996/2827
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-11-11'
-text_date: null
-extent: null
+text_date: '1996-11-11'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1996/2827
 pdf_urls:
-- http://www.legislation.gov.uk/uksi/1996/2827/made/data.pdf
-pending_changes: 4
+- http://www.legislation.gov.uk/uksi/1996/2827/data.pdf
+pending_changes: 172
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (172).** Text as at 1996-11-11. See https://www.legislation.gov.uk/changes/affected/uksi/1996/2827
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 1996 No. 2827
 
@@ -44,12 +50,24 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 
 ### PART I — GENERAL
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 - [Section 1 — Citation, commencement and extent](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
 ### PART II — FORMATION, SUPERVISION AND CONTROL
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 #### General
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 - [Section 3 — Investment company with variable capital](part-ii/section-3.md)
 - [Section 4 — Registration by registrar of companies](part-ii/section-4.md)
@@ -57,6 +75,10 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 - [Section 6 — SIB regulations](part-ii/section-6.md)
 
 #### Authorisation
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 - [Section 7 — Applications for authorisation](part-ii/section-7.md)
 - [Section 8 — Particulars of directors](part-ii/section-8.md)
@@ -67,14 +89,26 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 
 #### Registrar’s approval of names
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 - [Section 13 — Registrar’s approval of names](part-ii/section-13.md)
 - [Section 14 — Prohibition on certain names](part-ii/section-14.md)
 
 #### Alterations
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 - [Section 15 — SIB approval for certain changes in respect of company](part-ii/section-15.md)
 
 #### Intervention
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 - [Section 16 — Revocation of authorisation](part-ii/section-16.md)
 - [Section 17 — Representations against revocation](part-ii/section-17.md)
@@ -84,6 +118,10 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 
 #### Investigations
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 - [Section 21 — Investigations: functions of Secretary of State and SIB](part-ii/section-21.md)
 - [Section 22 — Investigations: powers and duties of inspectors](part-ii/section-22.md)
 - [Section 23 — Investigations: disclosure](part-ii/section-23.md)
@@ -91,13 +129,25 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 
 #### Winding up
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 - [Section 25 — Winding up by the court](part-ii/section-25.md)
 - [Section 26 — Dissolution on winding up by the court](part-ii/section-26.md)
 - [Section 27 — Dissolution in other circumstances](part-ii/section-27.md)
 
 ### PART III — CORPORATE CODE
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 #### Organs
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 - [Section 28 — Directors](part-iii/section-28.md)
 - [Section 29 — Directors to have regard to interests of employees](part-iii/section-29.md)
@@ -113,6 +163,10 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 
 #### Shares
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 - [Section 39 — Shares](part-iii/section-39.md)
 - [Section 40 — Share certificates](part-iii/section-40.md)
 - [Section 41 — Exceptions from regulation 40](part-iii/section-41.md)
@@ -123,6 +177,10 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 - [Section 46 — Share transfers](part-iii/section-46.md)
 
 #### Operation
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 - [Section 47 — Power incidental to carrying on business](part-iii/section-47.md)
 - [Section 48 — Name to appear in correspondence etc](part-iii/section-48.md)
@@ -140,6 +198,10 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 
 #### Reports
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 - [Section 60 — Reports: preparation](part-iii/section-60.md)
 - [Section 61 — Reports: accounts](part-iii/section-61.md)
 - [Section 62 — Reports: voluntary revision](part-iii/section-62.md)
@@ -147,9 +209,17 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 
 #### Mergers and divisions
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 - [Section 64 — Mergers and divisions](part-iii/section-64.md)
 
 ### PART IV — MISCELLANEOUS
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 - [Section 65 — Notifications to registrar of companies](part-iv/section-65.md)
 - [Section 66 — Contraventions](part-iv/section-66.md)
@@ -172,6 +242,10 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 - [SCHEDULE 7](schedule-7.md)
 - [SCHEDULE 8](schedule-8.md)
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 Patrick McLoughlin
 
 Richard Ottaway
@@ -179,6 +253,10 @@ Richard Ottaway
 Two of the Lords Commissioners of Her Majesty’s Treasury
 
 11th November 1996
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (This note is not part of the Regulations)
 

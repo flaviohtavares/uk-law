@@ -157,7 +157,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [Planning (General Development) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/232-planning-general-development-amendment-order-northern-ireland-1996.md) *(as originally made)*
+- [Planning (General Development) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/232-planning-general-development-amendment-order-northern-ireland-1996.md) *(changes pending)*
 - [Planning (Use Classes) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/248-planning-use-classes-amendment-order-northern-ireland-1996.md) *(as originally made)*
 
 Not official and not legal advice: check [legislation.gov.uk](https://www.legislation.gov.uk) before relying on any text.

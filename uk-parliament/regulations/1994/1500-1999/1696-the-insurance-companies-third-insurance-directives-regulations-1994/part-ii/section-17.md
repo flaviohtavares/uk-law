@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 17
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '17'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Adequacy of assets
+## 17. Adequacy of assets[^c-ea615680b9927dd6fcaa36967fcbfc95]
+
+*Extent: E+W+S+N.I.*
 
 After section 35 of the 1982 Act insert—
 
@@ -38,3 +42,7 @@ After section 35 of the 1982 Act insert—
 > - ‘linked long term contract’ means a contract ofinsurance—
 >   - (a) the effecting of which constitutes the carrying on of long term business; and
 >   - (b) under which linked benefits are payable to the policy holder.
+
+## Annotations
+
+[^c-ea615680b9927dd6fcaa36967fcbfc95]: Commencement: Reg. 17 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

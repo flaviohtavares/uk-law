@@ -3,16 +3,16 @@ title: The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 
 id: uksi/2008/674
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-07'
-text_date: null
-extent: null
+text_date: '2008-04-06'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/674
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/674/pdfs/uksiem_20080674_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/674/pdfs/uksi_20080674_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/674/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/674/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2008-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2008/674
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 This Order has been made partly in consequence of defects in [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) and [3495](https://www.legislation.gov.uk/uksi/2007/3495) and is being issued free of charge to all known recipients of those Orders.
 
@@ -42,11 +46,11 @@ Coming into force in accordance with article 2
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 1292(1)(b), 1296(1) and (2) and 1300(2) of the Companies Act 2006[^f00001].
 
-## 1. Citation
+## 1. Citation[^c-dcae22a9d963325bf12273a3c0f62596]
 
 This Order may be cited as the Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008.
 
-## 2. Coming into force
+## 2. Coming into force[^c-3679c7f5e6356ba20df9fff5f31fda69]
 
 (1) The provisions of this Order come into force as follows.
 
@@ -62,7 +66,7 @@ This Order may be cited as the Companies Act 2006 (Commencement No. 6, Saving an
 - (b) on 6th April 2008 so far as relating to provisions coming into force on that date;
 - (c) on 1st October 2008 so far as relating to provisions coming into force on that date.
 
-## 3. Provisions of the Companies Act 2006 coming into force on 1st April 2008
+## 3. Provisions of the Companies Act 2006 coming into force on 1st April 2008[^c-331a5b73da6b8dd81c40c1c953c637ac]
 
 (1) The following provisions of the Companies Act 2006 come into force on 1st April 2008—
 
@@ -77,7 +81,7 @@ This Order may be cited as the Companies Act 2006 (Commencement No. 6, Saving an
 - (a) in relation to accounts for financial years beginning before 1st April 2008, or
 - (b) as applied by paragraph 16A of Schedule 1 to the Housing Act 1996[^f00003] (registered social landlords).
 
-## 4. Saving for small charitable companies in Northern Ireland
+## 4. Saving for small charitable companies in Northern Ireland[^c-185a48fbcff333103b02f52768fbd772]
 
 (1) The repeal of Articles 257A and 257B to 257E of the Companies (Northern Ireland) Order 1986[^f00004] (exemptions from audit for certain categories of small companies) does not affect the continued operation of those Articles in relation to companies that are charities.
 
@@ -85,11 +89,11 @@ This Order may be cited as the Companies Act 2006 (Commencement No. 6, Saving an
 
 (3) The provisions of this article and Schedule 2 have effect in relation to accounts for financial years beginning on or after 6th April 2008.
 
-## 5. Amendments of earlier Orders
+## 5. Amendments of earlier Orders[^c-7e09446f0ef51e5c7a5c22f9142ee617]
 
 Schedule 3 contains amendments of earlier commencement Orders.
 
-## 6. Savings
+## 6. Savings[^c-8e44ae2300a20a7653451531e061d12e][^c-7533199b490fcae257797e4c36cbf175][^c-c596a61a00afbaac8f7176aee5fe772a]
 
 (1) Nothing in this Order affects any provision of the Companies Act 1985 or the Companies (Northern Ireland) Order 1986 as applied by the Limited Liability Partnerships Regulations 2001[^f00005] or the Limited Liability Partnerships Regulations (Northern Ireland) 2004[^f00006] to limited liability partnerships.
 
@@ -103,7 +107,7 @@ Department for Business, Enterprise and Regulatory Reform
 
 7th March 2008
 
-## SCHEDULE 1
+## SCHEDULE 1[^c-005ebd343a80f6384a5d2ee2cdb00a1e]
 
 Article 3(1)(c)
 
@@ -121,11 +125,11 @@ Article 3(1)(c)
 
 Article 4(2) and (3)
 
-**1.** (1) Articles 257A and 257B to 257E of the Companies (Northern Ireland) Order 1986 as they apply by virtue of article 4(1) of this Order have effect with the following adaptations.
+**1.**[^c-b52c29f503e8231abba99f2657682f86] (1) Articles 257A and 257B to 257E of the Companies (Northern Ireland) Order 1986 as they apply by virtue of article 4(1) of this Order have effect with the following adaptations.
 
 (2) Expressions used in those Articles, as so applied, have the same meaning as in the Companies Acts (as defined in section 2(1) of the Companies Act 2006).
 
-### 2. Article 257A (exemptions from audit)
+### 2. Article 257A (exemptions from audit)[^c-1fea79e2228189baf02d97831d48e38a]
 
 (1) Article 257A of the Companies (Northern Ireland) Order 1986 is adapted as follows.
 
@@ -145,7 +149,7 @@ Article 4(2) and (3)
 
 (7) In paragraph (7), in the definition of “balance sheet total” for “has the meaning given by Article 255(5)” substitute “has the same meaning as in section 477 of the Companies Act 2006”.
 
-### 3. Article 257B (cases where exemptions not available)
+### 3. Article 257B (cases where exemptions not available)[^c-463d9faba5a26bb9cef877cc39a0d970]
 
 (1) Article 257B of the Companies (Northern Ireland) Order 1986 is adapted as follows.
 
@@ -173,7 +177,7 @@ Article 4(2) and (3)
 
 (8) In paragraph (5), for “Article 241” substitute “section 414 of the Companies Act 2006”.
 
-### 4. Article 257C (the report required for the purposes of Article 257A(2))
+### 4. Article 257C (the report required for the purposes of Article 257A(2))[^c-d5b4d1411531c59764b318e47aa62c70]
 
 (1) Article 257C of the Companies (Northern Ireland) Order 1986 is adapted as follows.
 
@@ -194,7 +198,7 @@ Article 4(2) and (3)
 
 .
 
-### 5. Article 257D (the reporting accountant)
+### 5. Article 257D (the reporting accountant)[^c-9385d6ddb190e74c38ec1a8c46c16a79]
 
 (1) Article 257D of the Companies (Northern Ireland) Order 1986 is adapted as follows.
 
@@ -213,7 +217,7 @@ Article 4(2) and (3)
 
 .
 
-### 6. Article 257E (effect of exemptions)
+### 6. Article 257E (effect of exemptions)[^c-eab99b3cd5f77df4beb108b663a8d901]
 
 (1) Article 257E of the Companies (Northern Ireland) Order 1986 is adapted as follows.
 
@@ -241,7 +245,9 @@ Article 4(2) and (3)
 
 Article 5
 
-### 1. Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194 (C. 84)](https://www.legislation.gov.uk/uksi/2007/2194))
+### 1. Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194 (C. 84)](https://www.legislation.gov.uk/uksi/2007/2194))[^c-43c69fc29ad610eee8ea6702242a28f4]
+
+**Not yet in force.**
 
 (1) As from 1st October 2008—
 
@@ -250,7 +256,7 @@ Article 5
 
 (2) In section 205(5) and section 234(6), for the words from “section 661(3)” to “innocent nominee)” substitute “section 144(3) or (4) of the Companies Act 1985 or Article 154(3) or (4) of the Companies (Northern Ireland) Order 1986 (acquisition of shares by innocent nominee)”.
 
-**2.** (1) Schedule 3 to the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (transitional provisions and savings) is amended as follows.
+**2.**[^c-35349ffe0fe8930eb260358c2e7a23a6] (1) Schedule 3 to the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (transitional provisions and savings) is amended as follows.
 
 (2) After paragraph 26 (notice of meetings) insert—
 
@@ -276,18 +282,18 @@ Article 5
 
 (3) In paragraph 48 (company investigations), for “1035 to 1039” substitute “1035 to 1037 and 1038(1)”.
 
-### 3. Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/3495 (C. 150)](https://www.legislation.gov.uk/uksi/2007/3495))
+### 3. Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/3495 (C. 150)](https://www.legislation.gov.uk/uksi/2007/3495))[^c-ead800938fb0837b003279d083146efb]
 
 In article 9(4) of the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007, insert “the” before “1985”.
 
-**4.** The revocation by article 10(1)(b) of the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 of paragraph 15(2) of Schedule 1 to the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (transitional adaptation: period within which public company must hold AGM) does not have effect in relation to a company until—
+**4.**[^c-8626125f07330c3daf867306fa6b937a] The revocation by article 10(1)(b) of the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 of paragraph 15(2) of Schedule 1 to the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (transitional adaptation: period within which public company must hold AGM) does not have effect in relation to a company until—
 
 - (a) the directors of the company have complied with section 241 of the Companies Act 1985[^f00008] or Article 249 of the Companies (Northern Ireland) Order 1986[^f00009] in respect of the last financial year of the company beginning before 6th April 2008, or
 - (b) the first financial year of the company beginning on or after that date comes to an end.
 
-**5.** In Schedule 1 to the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (transitional adaptations), omit paragraphs 1 and 2 (so that those paragraphs do not come into force on 6th April 2008).
+**5.**[^c-091824875cd597095e65d452cb21c462] In Schedule 1 to the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (transitional adaptations), omit paragraphs 1 and 2 (so that those paragraphs do not come into force on 6th April 2008).
 
-**6.** (1) Schedule 4 to the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (transitional provisions and savings) is amended as follows.
+**6.**[^c-ca22c7cdd33598713dd9e2d0285cd8aa] (1) Schedule 4 to the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (transitional provisions and savings) is amended as follows.
 
 (2) In paragraph 2(2) (retention of particulars removed from register of members), for “2008” substitute “2018”.
 
@@ -323,7 +329,7 @@ In article 9(4) of the Companies Act 2006 (Commencement No. 5, Transitional Prov
 
 (6) The amendments in this paragraph come into force at the same time as the provision amended.
 
-**7.** In Schedule 5 to the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (amendments of earlier commencement orders), in paragraph 2(2) for “2006” substitute “1985”.
+**7.**[^c-d1bff7313aa429df72cb423eb38c4596] In Schedule 5 to the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (amendments of earlier commencement orders), in paragraph 2(2) for “2006” substitute “1985”.
 
 EXPLANATORY NOTE
 
@@ -456,22 +462,66 @@ The provisions of the Companies Act 2006 in respect of which an entry is made in
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
+[^c-dcae22a9d963325bf12273a3c0f62596]: Commencement: Art. 1 in force at 1.4.2008, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/674/article/2/1)
+
+[^c-3679c7f5e6356ba20df9fff5f31fda69]: Commencement: Art. 2 in force at 1.4.2008, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/674/article/2/1)
+
+[^c-331a5b73da6b8dd81c40c1c953c637ac]: Commencement: Art. 3 in force at 1.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/674/article/2/2)
+
 [^f00002]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00003]: Footnote: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52); paragraph 16A was inserted by paragraph 11 of Schedule 11 to the Housing Act [2004 (c.34)](https://www.legislation.gov.uk/ukpga/2004/34).
 
+[^c-185a48fbcff333103b02f52768fbd772]: Commencement: Art. 4 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
 [^f00004]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Articles 257A and 257B to 257E were inserted by [S.R. (N.I.) 1995 No. 128](https://www.legislation.gov.uk/nisr/1995/128); the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/3495 (C. 150)](https://www.legislation.gov.uk/uksi/2007/3495)) provides for their repeal (by section 1295 of and Schedule 16 to the Companies Act 2006) to come into force on 6th April 2008 and to have effect in relation to accounts for financial years beginning on or after that date (see article 8 of, Schedule 2 and paragraph 6 of Schedule 4 to, that Order).
+
+[^c-7e09446f0ef51e5c7a5c22f9142ee617]: Commencement: Art. 5 in force at 6.4.2008, see [art. 2(3)(4)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3/4)
+
+[^c-8e44ae2300a20a7653451531e061d12e]: Commencement: Art. 6 in force at 1.4.2008 for specified purposes, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2008/674/article/2/5/a)
+
+[^c-7533199b490fcae257797e4c36cbf175]: Commencement: Art. 6 in force at 6.4.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2008/674/article/2/5/b)
+
+[^c-c596a61a00afbaac8f7176aee5fe772a]: Commencement: Art. 6 in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2008/674/article/2/5/c)
 
 [^f00005]: Footnote: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).
 
 [^f00006]: Footnote: [S.R. (N.I.) 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307).
 
+[^c-005ebd343a80f6384a5d2ee2cdb00a1e]: Commencement: Sch. 1 in force at 1.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/674/article/2/2)
+
+[^c-b52c29f503e8231abba99f2657682f86]: Commencement: Sch. 2 para. 1 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
+[^c-1fea79e2228189baf02d97831d48e38a]: Commencement: Sch. 2 para. 2 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
+[^c-463d9faba5a26bb9cef877cc39a0d970]: Commencement: Sch. 2 para. 3 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
+[^c-d5b4d1411531c59764b318e47aa62c70]: Commencement: Sch. 2 para. 4 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
 [^f00007]: Footnote: [S.I. 2008/409](https://www.legislation.gov.uk/uksi/2008/409).
+
+[^c-9385d6ddb190e74c38ec1a8c46c16a79]: Commencement: Sch. 2 para. 5 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
+[^c-eab99b3cd5f77df4beb108b663a8d901]: Commencement: Sch. 2 para. 6 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
+[^c-43c69fc29ad610eee8ea6702242a28f4]: Commencement: Sch. 3 para. 1 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2008/674/article/2/4)
+
+[^c-35349ffe0fe8930eb260358c2e7a23a6]: Commencement: Sch. 3 para. 2 in force at 1.10.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
+[^c-ead800938fb0837b003279d083146efb]: Commencement: Sch. 3 para. 3 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
+[^c-8626125f07330c3daf867306fa6b937a]: Commencement: Sch. 3 para. 4 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
 
 [^f00008]: Footnote: Section 241 was substituted by section 11 of the Companies Act [1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
 [^f00009]: Footnote: Article 249 was substituted by Article 13 of the Companies (Northern Ireland) Order 1990 ([S.I. 1990/595 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/595)).
 
+[^c-091824875cd597095e65d452cb21c462]: Commencement: Sch. 3 para. 5 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
+[^c-ca22c7cdd33598713dd9e2d0285cd8aa]: Commencement: Sch. 3 para. 6 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)
+
 [^f00010]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^f00011]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
+
+[^c-d1bff7313aa429df72cb423eb38c4596]: Commencement: Sch. 3 para. 7 in force at 6.4.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3)

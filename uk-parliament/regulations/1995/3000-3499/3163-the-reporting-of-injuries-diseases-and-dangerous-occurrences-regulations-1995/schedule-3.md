@@ -2,9 +2,9 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, SCHEDULE 3
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: schedule-3
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1995-12-06'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,19 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, SCHEDULE 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3 — REPORTABLE DISEASES
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 Regulation 5(1) and (2)
 
-### PART I — OCCUPATIONAL DISEASES
+### PART I — OCCUPATIONAL DISEASES[^c-27998e68245841cc84814627374fc9c2]
 
 <table>
 <thead>
@@ -81,52 +87,106 @@ Regulation 5(1) and (2)
 
 ### PART II — DISEASES ADDITIONALLY REPORTABLE IN RESPECT OF OFFSHORE WORK PLACES
 
-**48.** Chickenpox.
+**48.**[^c-66a309062fc3a58c249c34bd6ca313d6] Chickenpox.
 
-**49.** Cholera.
+**49.**[^c-1ad0cc7ff892c51951a18a7d38bab857] Cholera.
 
-**50.** Diphtheria.
+**50.**[^c-acd2c2114645fa7959dcda7444c46133] Diphtheria.
 
-**51.** Dysentery (amoebic or bacillary).
+**51.**[^c-d793bccdf34713f0ec2a0874e40aa1b4] Dysentery (amoebic or bacillary).
 
-**52.** Acute encephalitis.
+**52.**[^c-be0301c3bf97067874cc3ba4c072d251] Acute encephalitis.
 
-**53.** Erysipelas.
+**53.**[^c-536d1f80e637ca864d2c88e8fbd2df4b] Erysipelas.
 
-**54.** Food poisoning.
+**54.**[^c-6d682177e01e72c85b5678a98ed7a3ee] Food poisoning.
 
-**55.** Legionellosis.
+**55.**[^c-d19e65f996eba5633d1561075de7a064] Legionellosis.
 
-**56.** Malaria.
+**56.**[^c-05ace126bd3a81af647075d78bb63cd0] Malaria.
 
-**57.** Measles.
+**57.**[^c-6331b7fd53e03412c5135a56df35aae0] Measles.
 
-**58.** Meningitis.
+**58.**[^c-b8cefcd656b583d760c9668b3bc73d81] Meningitis.
 
-**59.** Meningococcal septicaemia (without meningitis).
+**59.**[^c-6ad8cfe4a869e00f4318098c78767681] Meningococcal septicaemia (without meningitis).
 
-**60.** Mumps.
+**60.**[^c-6e2000e065215506810ce10383e7adc4] Mumps.
 
-**61.** Paratyphoid fever.
+**61.**[^c-0ed2a6dff248b33771306919c8e0e712] Paratyphoid fever.
 
-**62.** Plague.
+**62.**[^c-acd43be8bf0cb030f8f10f0d8f7a0c78] Plague.
 
-**63.** Acute poliomyelitis.
+**63.**[^c-b831502d720f6d0b609f1b1cfdb96a29] Acute poliomyelitis.
 
-**64.** Rabies.
+**64.**[^c-27eea81494738cd04aa8e820cf39c848] Rabies.
 
-**65.** Rubella.
+**65.**[^c-2798b1cbfe2b51c243e37111db08e37a] Rubella.
 
-**66.** Scarlet fever.
+**66.**[^c-f5a997dd1d0b093cd68b274d023eaf86] Scarlet fever.
 
-**67.** Tetanus.
+**67.**[^c-8902b358169e9f279ae27647950f773f] Tetanus.
 
-**68.** Tuberculosis.
+**68.**[^c-ed0298134248771a04eabbc7e18cb6ed] Tuberculosis.
 
-**69.** Typhoid fever.
+**69.**[^c-bdc677108adb2ddc83f389dccaa63be3] Typhoid fever.
 
-**70.** Typhus.
+**70.**[^c-e0206a29a58f0dda562350280350d93f] Typhus.
 
-**71.** Viral haemorrhagic fevers.
+**71.**[^c-3b058f6b82ace5aab545e70ce217e741] Viral haemorrhagic fevers.
 
-**72.** Viral hepatitis.
+**72.**[^c-ec2c5cff4846ede77369ed9f6e7ead71] Viral hepatitis.
+
+## Annotations
+
+[^c-27998e68245841cc84814627374fc9c2]: Commencement: Sch. 3 Pt. I in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-66a309062fc3a58c249c34bd6ca313d6]: Commencement: Sch. 3 para. 48 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-1ad0cc7ff892c51951a18a7d38bab857]: Commencement: Sch. 3 para. 49 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-acd2c2114645fa7959dcda7444c46133]: Commencement: Sch. 3 para. 50 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-d793bccdf34713f0ec2a0874e40aa1b4]: Commencement: Sch. 3 para. 51 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-be0301c3bf97067874cc3ba4c072d251]: Commencement: Sch. 3 para. 52 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-536d1f80e637ca864d2c88e8fbd2df4b]: Commencement: Sch. 3 para. 53 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-6d682177e01e72c85b5678a98ed7a3ee]: Commencement: Sch. 3 para. 54 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-d19e65f996eba5633d1561075de7a064]: Commencement: Sch. 3 para. 55 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-05ace126bd3a81af647075d78bb63cd0]: Commencement: Sch. 3 para. 56 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-6331b7fd53e03412c5135a56df35aae0]: Commencement: Sch. 3 para. 57 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-b8cefcd656b583d760c9668b3bc73d81]: Commencement: Sch. 3 para. 58 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-6ad8cfe4a869e00f4318098c78767681]: Commencement: Sch. 3 para. 59 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-6e2000e065215506810ce10383e7adc4]: Commencement: Sch. 3 para. 60 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-0ed2a6dff248b33771306919c8e0e712]: Commencement: Sch. 3 para. 61 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-acd43be8bf0cb030f8f10f0d8f7a0c78]: Commencement: Sch. 3 para. 62 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-b831502d720f6d0b609f1b1cfdb96a29]: Commencement: Sch. 3 para. 63 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-27eea81494738cd04aa8e820cf39c848]: Commencement: Sch. 3 para. 64 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-2798b1cbfe2b51c243e37111db08e37a]: Commencement: Sch. 3 para. 65 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-f5a997dd1d0b093cd68b274d023eaf86]: Commencement: Sch. 3 para. 66 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-8902b358169e9f279ae27647950f773f]: Commencement: Sch. 3 para. 67 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-ed0298134248771a04eabbc7e18cb6ed]: Commencement: Sch. 3 para. 68 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-bdc677108adb2ddc83f389dccaa63be3]: Commencement: Sch. 3 para. 69 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-e0206a29a58f0dda562350280350d93f]: Commencement: Sch. 3 para. 70 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-3b058f6b82ace5aab545e70ce217e741]: Commencement: Sch. 3 para. 71 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+
+[^c-ec2c5cff4846ede77369ed9f6e7ead71]: Commencement: Sch. 3 para. 72 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)

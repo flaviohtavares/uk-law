@@ -3,14 +3,14 @@ title: Food Safety (Fishery Products and Live Bivalve Molluscs and Other Shellfi
 id: nisr/1996/264
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-01'
-text_date: null
-extent: null
+text_date: '1996-07-01'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/264
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/264/made/data.pdf
-pending_changes: 3
+- http://www.legislation.gov.uk/nisr/1996/264/data.pdf
+pending_changes: 20
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Food Safety (Fishery Products and Live Bivalve Molluscs and Other Shellfish) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (20).** Text as at 1996-07-01. See https://www.legislation.gov.uk/changes/affected/nisr/1996/264
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 264
 
@@ -36,17 +42,17 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland in exercise of the powers conferred on it by Articles 15(1), 16(1), 25(3), 26(3), 47(2) and 48(2) of the Food Safety (Northern Ireland) Order 1991[^f00001] and, being a designated Department[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2), and of all other powers enabling it in that behalf and after consultation in accordance with Article 47(3) of the said Order with such organisations as appear to it to be representative of interests likely to be substantially affected by these Regulations, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-e743ebfcc0f2d5b957879bb075df4370]
 
 (1) These Regulations may be cited as the Food Safety (Fishery Products and Live Bivalve Molluscs and Other Shellfish) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 12th August 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Food Safety (Fishery Products) Regulations (Northern Ireland) 1993
+## 2. Amendment of the Food Safety (Fishery Products) Regulations (Northern Ireland) 1993[^c-df917ec3729177c4146f9a3d1a1c3cca]
 
 The Food Safety (Fishery Products) Regulations (Northern Ireland) 1993[^f00005] shall be amended as specified in Schedule 1.
 
-## 3. Amendment of the Food Safety (Fishery Products on Fishing Vessels) Regulations (Northern Ireland) 1993
+## 3. Amendment of the Food Safety (Fishery Products on Fishing Vessels) Regulations (Northern Ireland) 1993[^c-2ecda5b69554dc17c0cf8471318e6e8c]
 
 In the Food Safety (Fishery Products on Fishing Vessels) Regulations (Northern Ireland) 1993[^f00006] in regulation 1(2) (interpretation) for the definition of “fishery products” there shall be substituted—
 
@@ -54,15 +60,15 @@ In the Food Safety (Fishery Products on Fishing Vessels) Regulations (Northern I
 
 .
 
-## 4. Amendment of the Food Safety (Live Bivalve Molluscs and Other Shellfish) (Import Conditions and Miscellaneous Amendments) Regulations (Northern Ireland) 1995
+## 4. Amendment of the Food Safety (Live Bivalve Molluscs and Other Shellfish) (Import Conditions and Miscellaneous Amendments) Regulations (Northern Ireland) 1995[^c-ee66b852130e1ff8c1c10a0db62ef671]
 
 The Food Safety (Live Bivalve Molluscs and Other Shellfish) (Import Conditions and Miscellaneous Amendments) Regulations (Northern Ireland) 1995[^f00007] shall be amended as specified in Schedule 2.
 
-## 5. Amendment of the Food Safety (Fishery Products) (Import Conditions and Miscellaneous Amendments) Regulations (Northern Ireland) 1995
+## 5. Amendment of the Food Safety (Fishery Products) (Import Conditions and Miscellaneous Amendments) Regulations (Northern Ireland) 1995[^c-fa79db5edcc98aa13114d5ec9d70d91d]
 
 The Food Safety (Fishery Products) (Import Conditions and Miscellaneous Amendments) Regulations (Northern Ireland) 1995[^f00008] shall be amended as specified in Schedule 3.
 
-## 6. Revocations
+## 6. Revocations[^c-175d75072bca5df6155e26d6735341a8]
 
 The Regulations specified in column (1) of Schedule 4 are hereby revoked to the extent specified in column (3) of that Schedule.
 
@@ -78,7 +84,7 @@ Assistant Secretary
 
 Regulation 2
 
-**1.** In Section C of Part II of Schedule 1, for paragraphs 1 and 2 there shall be substituted—
+**1.**[^c-b956677734c27d4c8ca1c4831eaf218c] In Section C of Part II of Schedule 1, for paragraphs 1 and 2 there shall be substituted—
 
 > **1.** When chemical checks are to be carried out by the district council samples must be taken and subjected to laboratory analysis for the control of the following parameters—
 >
@@ -111,11 +117,11 @@ Regulation 2
 
 Regulation 4
 
-**1.** In regulation 3 (general restriction on importing live bivalve molluscs or other shellfish), in paragraph (1)(*a*)(i), for “and the Reference Laboratories Decision are satisfied” there shall be substituted “are satisfied and the control system to which they have been subject in accordance with Chapter VI of the Annex to the Council Directive includes provision for the laboratory tests mentioned in paragraph 3 of that Chapter to be carried out at a national reference laboratory responsible for the tasks set out in Article 2.1 of the Reference Laboratories Decision”.
+**1.**[^c-c7c945202e73dec406757ecdfa8bef46] In regulation 3 (general restriction on importing live bivalve molluscs or other shellfish), in paragraph (1)(*a*)(i), for “and the Reference Laboratories Decision are satisfied” there shall be substituted “are satisfied and the control system to which they have been subject in accordance with Chapter VI of the Annex to the Council Directive includes provision for the laboratory tests mentioned in paragraph 3 of that Chapter to be carried out at a national reference laboratory responsible for the tasks set out in Article 2.1 of the Reference Laboratories Decision”.
 
-**2.** In paragraph 1 of Schedule 1 (approved import conditions), after “Commission Decision [93/530/EEC](https://www.legislation.gov.uk/european/decision/1993/0530)” there shall be inserted “, Commission Decision [94/767/EC](https://www.legislation.gov.uk/european/decision/1994/0767) [^f00010] and Commission Decision [96/31/EC](https://www.legislation.gov.uk/european/decision/1996/0031)[^f00011].”
+**2.**[^c-4d3cb500aa7a706e053a2670ca3fc59e] In paragraph 1 of Schedule 1 (approved import conditions), after “Commission Decision [93/530/EEC](https://www.legislation.gov.uk/european/decision/1993/0530)” there shall be inserted “, Commission Decision [94/767/EC](https://www.legislation.gov.uk/european/decision/1994/0767) [^f00010] and Commission Decision [96/31/EC](https://www.legislation.gov.uk/european/decision/1996/0031)[^f00011].”
 
-**3.** After paragraph 1 of Schedule 1, there shall be added:
+**3.**[^c-bf862b27b230355f6a36e0dec5605162] After paragraph 1 of Schedule 1, there shall be added:
 
 > **2.** Commission Decision [94/777/EC](https://www.legislation.gov.uk/european/decision/1994/0777) laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in Turkey[^f00012], as amended by Commission Decision [95/275/EC](https://www.legislation.gov.uk/european/decision/1995/0275)[^f00013] and Commission Decision [96/31/EC](https://www.legislation.gov.uk/european/decision/1996/0031).
 >
@@ -129,16 +135,16 @@ Regulation 4
 
 Regulation 5
 
-**1.** In regulation 2(1) (interpretation), in the definition of “the Council and Commission Decisions” the words “Council and” shall be omitted in both places where they appear.
+**1.**[^c-19d0f18e62d3512bb89cd13364ce6722] In regulation 2(1) (interpretation), in the definition of “the Council and Commission Decisions” the words “Council and” shall be omitted in both places where they appear.
 
-**2.** In regulation 3 (general restriction on importing fishery products)—
+**2.**[^c-700c6c4e84cd6d39eac79e2ea1ed4423] In regulation 3 (general restriction on importing fishery products)—
 
 - (a) in paragraph (1)(*a*), for “and the Council and Commission Decisions are satisfied” there shall be substituted “, and the Commission Decisions are satisfied and the control system to which they have been subject in accordance with Chapter V of the annex to the Council Directive includes provision for the chemical checks mentioned in paragraph 3 of that Chapter to be carried out at a national reference laboratory responsible for the tasks set out in Article 2.1 of Council Decision [93/383/EEC](https://www.legislation.gov.uk/european/decision/1993/0383) on reference laboratories for the monitoring of marine biotoxins”[^f00016];
 - (b) in paragraph (1)(*c*)(i), for the words “and the Council and Commission Decisions which relate to that process or operation are satisfied” there shall be substituted “, and the Commission Decisions which relate to that process or operation are satisfied and the control system to which they have been subject in accordance with Chapter V of the annex to the Council Directive includes provision for the chemical checks mentioned in paragraph 3 of that Chapter to be carried out at a national reference laboratory responsible for the tasks set out in Article 2.1 of Council Decision [93/383/EEC](https://www.legislation.gov.uk/european/decision/1993/0383) on reference laboratories for the monitoring of marine biotoxins”.
 
-**3.** In regulation 4 (additional conditions relating to certain third country imports), in paragraph 2(*a*)(iii), for “Commission Decision [93/185/EEC](https://www.legislation.gov.uk/european/decision/1993/0185) of 15th March 1993” there shall be substituted “Commission Decision [95/328/EC](https://www.legislation.gov.uk/european/decision/1995/0328) of 25th July 1995[^f00017]”.
+**3.**[^c-d80b53a33fbbdd6a7f777404a0d00b7b] In regulation 4 (additional conditions relating to certain third country imports), in paragraph 2(*a*)(iii), for “Commission Decision [93/185/EEC](https://www.legislation.gov.uk/european/decision/1993/0185) of 15th March 1993” there shall be substituted “Commission Decision [95/328/EC](https://www.legislation.gov.uk/european/decision/1995/0328) of 25th July 1995[^f00017]”.
 
-**4.** In Schedule 1 (approved import conditions)—
+**4.**[^c-3eb76465969514286480787dc66f5237] In Schedule 1 (approved import conditions)—
 
 - (a) in paragraph 1, after “Commission Decision [94/188/EC](https://www.legislation.gov.uk/european/decision/1994/0188)” there shall be inserted “, Commission Decision [94/675/EC](https://www.legislation.gov.uk/european/decision/1994/0675)[^f00018], Commission Decision [94/675/EC](https://www.legislation.gov.uk/european/decision/1994/0675) corrigendum[^f00019], Commission Decision [95/164/EC](https://www.legislation.gov.uk/european/decision/1995/0164)[^f00020], and Commission Decision [96/31/EC](https://www.legislation.gov.uk/european/decision/1996/0031)[^f00021]”;
 - (b) in paragraph 2, after “Commission Decision [94/341/EC](https://www.legislation.gov.uk/european/decision/1994/0341)” there shall be inserted “, Commission Decision [95/299/EC](https://www.legislation.gov.uk/european/decision/1995/0299)[^f00022] and Commission Decision [96/31/EC](https://www.legislation.gov.uk/european/decision/1996/0031)”;
@@ -153,7 +159,7 @@ Regulation 5
 - (k) in paragraph 11, after “Thailand” there shall be inserted “, as amended by Commission Decision [94/704/EC](https://www.legislation.gov.uk/european/decision/1994/0704)[^f00031], Commission Decision [95/178/EC](https://www.legislation.gov.uk/european/decision/1995/0178)[^f00032] and Commission Decision [96/31/EC](https://www.legislation.gov.uk/european/decision/1996/0031)”; and
 - (l) in paragraph 12, after “New Zealand” there shall be inserted “, as amended by Commission Decision [94/705/EC](https://www.legislation.gov.uk/european/decision/1994/0705)[^f00033], Commission Decision [95/179/EC](https://www.legislation.gov.uk/european/decision/1995/0179)[^f00034], Commission Decision [95/310/EC](https://www.legislation.gov.uk/european/decision/1995/0310)[^f00035] and Commission Decision [96/31/EC](https://www.legislation.gov.uk/european/decision/1996/0031)”.
 
-**5.** After paragraph 12 there shall be added:
+**5.**[^c-2d9587f293cd88ef468f30658659a0b3] After paragraph 12 there shall be added:
 
 > **13.** Commission Decision [94/766/EC](https://www.legislation.gov.uk/european/decision/1994/0766) laying down special conditions governing the import of fishery and aquaculture products originating in Taiwan[^f00036], as amended by Commission Decision [96/31/EC](https://www.legislation.gov.uk/european/decision/1996/0031).
 >
@@ -171,12 +177,12 @@ Regulation 5
 
 .
 
-**6.** In Schedule 2—
+**6.**[^c-9db13ddf40b686a9ec8ac192639737e9] In Schedule 2—
 
 - (a) for the title “The Council and Commission decisions” there shall be substituted: “The Commission Decisions”;
 - (b) for paragraph 5, there shall be substituted: “Commission Decision [95/149/EC](https://www.legislation.gov.uk/european/decision/1995/0149) fixing the total volatile basic nitrogen (TVB-N) limit values for certain categories of fishery products and specifying the analysis methods to be used[^f00046].”.
 
-## SCHEDULE 4 — Revocations
+## SCHEDULE 4 — Revocations[^c-611f7fbebdf6a1b06a516a8b2a1407b8]
 
 Regulation 6
 
@@ -214,21 +220,41 @@ Regulation 6 and Schedule 4 revoke the Imported Food and Feedingstuffs (Safeguar
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
+[^c-e743ebfcc0f2d5b957879bb075df4370]: Commencement: Reg. 1 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c-df917ec3729177c4146f9a3d1a1c3cca]: Commencement: Reg. 2 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1993 No. 51](https://www.legislation.gov.uk/nisr/1993/51); the relevant amending Regulations are [S.R. 1995 No. 113](https://www.legislation.gov.uk/nisr/1995/113)
 
+[^c-2ecda5b69554dc17c0cf8471318e6e8c]: Commencement: Reg. 3 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
 [^f00006]: Footnote: [S.R. 1993 No. 53](https://www.legislation.gov.uk/nisr/1993/53), to which there are amendments not relevant to these Regulations
+
+[^c-ee66b852130e1ff8c1c10a0db62ef671]: Commencement: Reg. 4 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1995 No. 112](https://www.legislation.gov.uk/nisr/1995/112)
 
+[^c-fa79db5edcc98aa13114d5ec9d70d91d]: Commencement: Reg. 5 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
 [^f00008]: Footnote: [S.R. 1995 No. 113](https://www.legislation.gov.uk/nisr/1995/113)
 
+[^c-175d75072bca5df6155e26d6735341a8]: Commencement: Reg. 6 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
+[^c-b956677734c27d4c8ca1c4831eaf218c]: Commencement: Sch. 1 para. 1 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
 [^f00009]: Footnote: O.J. No. L97, 29.4.95, p. 84
+
+[^c-c7c945202e73dec406757ecdfa8bef46]: Commencement: Sch. 2 para. 1 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
+[^c-4d3cb500aa7a706e053a2670ca3fc59e]: Commencement: Sch. 2 para. 2 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
 
 [^f00010]: Footnote: O.J. No. L305, 30.11.94, p. 36
 
 [^f00011]: Footnote: O.J. No. L9, 12.1.96, p. 6
+
+[^c-bf862b27b230355f6a36e0dec5605162]: Commencement: Sch. 2 para. 3 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
 
 [^f00012]: Footnote: O.J. No. L312, 6.12.94, p. 35
 
@@ -238,9 +264,17 @@ Regulation 6 and Schedule 4 revoke the Imported Food and Feedingstuffs (Safeguar
 
 [^f00015]: Footnote: O.J. No. L264, 7.11.95, p. 35
 
+[^c-19d0f18e62d3512bb89cd13364ce6722]: Commencement: Sch. 3 para. 1 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
+[^c-700c6c4e84cd6d39eac79e2ea1ed4423]: Commencement: Sch. 3 para. 2 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
 [^f00016]: Footnote: O.J. No. L166, 8.7.93, p. 31
 
+[^c-d80b53a33fbbdd6a7f777404a0d00b7b]: Commencement: Sch. 3 para. 3 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
 [^f00017]: Footnote: O.J. No. L191, 12.8.95, p. 32
+
+[^c-3eb76465969514286480787dc66f5237]: Commencement: Sch. 3 para. 4 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
 
 [^f00018]: Footnote: O.J. No. L268, 19.10.94, p. 22
 
@@ -278,6 +312,8 @@ Regulation 6 and Schedule 4 revoke the Imported Food and Feedingstuffs (Safeguar
 
 [^f00035]: Footnote: O.J. No. L186, 5.8.95, p. 70
 
+[^c-2d9587f293cd88ef468f30658659a0b3]: Commencement: Sch. 3 para. 5 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
 [^f00036]: Footnote: O.J. No. L305, 30.11.94, p. 31
 
 [^f00037]: Footnote: O.J. No. L312, 6.12.94, p. 40
@@ -298,4 +334,8 @@ Regulation 6 and Schedule 4 revoke the Imported Food and Feedingstuffs (Safeguar
 
 [^f00045]: Footnote: O.J. No. L264, 7.11.95, p. 37
 
+[^c-9db13ddf40b686a9ec8ac192639737e9]: Commencement: Sch. 3 para. 6 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)
+
 [^f00046]: Footnote: O.J. No. L97, 29.4.95, p. 84
+
+[^c-611f7fbebdf6a1b06a516a8b2a1407b8]: Commencement: Sch. 4 in operation at 12.8.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/264/regulation/1/1)

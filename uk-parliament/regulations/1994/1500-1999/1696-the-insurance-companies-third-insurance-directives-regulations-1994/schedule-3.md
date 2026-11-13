@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, SCHEDULE 3
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: schedule-3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, SCHEDULE 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3
+## SCHEDULE 3[^c-798c50e8cf7dcbb276b6492fbd8106ad]
+
+*Extent: E+W+S+N.I.*
 
 Regulation 28.
 
@@ -322,6 +326,8 @@ Regulation 28.
 > (3) Except in so far as the Secretary of State may otherwise direct, a policy holder whose policy is included in such an instrument shall not be bound by it unless he has been given written notice of its execution by the transferor or the transferee.
 
 ## Annotations
+
+[^c-798c50e8cf7dcbb276b6492fbd8106ad]: Commencement: Sch. 3 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
 
 [^f00076]: Footnote: Section 427A was inserted by [S.I. 1987/1991](https://www.legislation.gov.uk/uksi/1987/1991), reg 2(a) and Schedule, Part I and amended by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 114(2).
 

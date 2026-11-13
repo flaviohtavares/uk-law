@@ -21,7 +21,7 @@ Laws in force under the legislation.gov.uk subject heading **REGISTRATION OF DEE
 
 **1996**
 
-- [Registration of Deeds (Fees) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/265-registration-of-deeds-fees-order-northern-ireland-1996.md) *(as originally made)*
+- [Registration of Deeds (Fees) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/265-registration-of-deeds-fees-order-northern-ireland-1996.md) *(changes pending)*
 
 **1992**
 

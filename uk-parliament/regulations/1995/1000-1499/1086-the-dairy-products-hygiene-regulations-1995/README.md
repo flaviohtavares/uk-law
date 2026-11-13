@@ -3,14 +3,14 @@ title: The Dairy Products (Hygiene) Regulations 1995
 id: uksi/1995/1086
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1995-04-14'
-text_date: null
-extent: null
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086
 pdf_urls:
-- http://www.legislation.gov.uk/uksi/1995/1086/made/data.pdf
-pending_changes: 53
+- http://www.legislation.gov.uk/uksi/1995/1086/data.pdf
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,11 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 1995 No. 1086
 
@@ -46,25 +50,35 @@ The Minister of Agriculture, Fisheries and Food, the Secretary of State for Heal
 
 ### PART I — PRELIMINARY
 
+*Extent: E+W*
+
 - [Section 1 — Title and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Exemptions](part-i/section-3.md)
 
 ### PART II — REGISTRATION AND USE OF PRODUCTION HOLDINGS
 
+*Extent: E+W*
+
 - [Section 4 — Registration](part-iin1/section-4.md)
 - [Section 5 — List of production holdings](part-iin1/section-5.md)
 
 ### PART II — APPROVAL AND USE OF DAIRY ESTABLISHMENTS
+
+*Extent: E+W*
 
 - [Section 6 — Approvals](part-iin2/section-6.md)
 - [Section 7 — List of dairy establishments](part-iin2/section-7.md)
 
 ### PART IV — CANCELLATION OF REGISTRATIONS AND REVOCATION OF APPROVALS
 
+*Extent: E+W*
+
 - [Section 8 — Cancellation revocation and appeal](part-iv/section-8.md)
 
 ### PART V — CONDITIONS FOR THE HANDLING AND MARKETING OF DAIRY PRODUCTS
+
+*Extent: E+W*
 
 - [Section 9 — General conditions](part-v/section-9.md)
 - [Section 10 — Methods of analysis](part-v/section-10.md)
@@ -73,14 +87,20 @@ The Minister of Agriculture, Fisheries and Food, the Secretary of State for Heal
 
 ### PART VI — CONDITIONS RELATING TO ALL DAIRY ESTABLISHMENTS
 
+*Extent: E+W*
+
 - [Section 13 — Duties of occupier or purchasers of raw milk for re-sale](part-vi/section-13.md)
 
 ### PART VII — TRANSITIONAL PROVISIONS RELATING TO DAIRY FARMS AND DAIRY ESTABLISHMENTS
+
+*Extent: E+W*
 
 - [Section 14 — Dairy Farms](part-vii/section-14.md)
 - [Section 15 — Temporary derogations under Directive 92/47](part-vii/section-15.md)
 
 ### PART VIII — ENFORCEMENT, SUPERVISION AND PENALTIES
+
+*Extent: E+W*
 
 - [Section 16 — Enforcement and supervision](part-viii/section-16.md)
 - [Section 17 — Information to be provided by approving authorities](part-viii/section-17.md)
@@ -89,6 +109,8 @@ The Minister of Agriculture, Fisheries and Food, the Secretary of State for Heal
 - [Section 20 — Application of various sections of the Act](part-viii/section-20.md)
 
 ### PART IX — MISCELLANEOUS AND SUPPLEMENTARY
+
+*Extent: E+W*
 
 - [Section 21 — Dairy products from Scotland, Northern Ireland, the Isle of Man and the Channel Islands](part-ix/section-21.md)
 - [Section 22 — Imports from third countries and EEA States](part-ix/section-22.md)
@@ -108,6 +130,8 @@ The Minister of Agriculture, Fisheries and Food, the Secretary of State for Heal
 - [SCHEDULE 11](schedule-11.md)
 - [SCHEDULE 12](schedule-12.md)
 - [SCHEDULE 13](schedule-13.md)
+
+*Extent: E+W*
 
 Angela Browing
 
@@ -132,6 +156,8 @@ Gwilym Jones
 Parliamentary Under Secretary of State, Welsh Office
 
 6th April 1995
+
+*Extent: E+W*
 
 (This note is not part of the Regulations)
 

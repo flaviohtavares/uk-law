@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 40
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '40'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 40
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 40. Share certificates
+## 40. Share certificates[^c-15d58e9ff9830fcb677929cfe22bb67e]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Subject to regulation 41 below, an investment company with variable capital shall prepare documentary evidence of title to its shares (“share certificates”) as follows—
 
@@ -69,5 +75,7 @@ is prima facie evidence of that person’s title to the shares.
 is, unless the contrary is shown, sufficient evidence of that person’s title to the shares.
 
 ## Annotations
+
+[^c-15d58e9ff9830fcb677929cfe22bb67e]: Commencement: Reg. 40 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
 
 [^f00018]: Footnote: [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7).

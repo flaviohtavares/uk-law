@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 10
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '10'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 10. Criteria for authorisation
+## 10. Criteria for authorisation[^c-be481a16f69ad77eab2e0cb54517c379]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) The criteria referred to in regulation 9(1)(b) above are as follows.
 
@@ -51,6 +57,8 @@ summary: ''
 (12) In paragraph (8)(a) above, “EEA state” means a State which is a contracting party to the agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00011] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00012].
 
 ## Annotations
+
+[^c-be481a16f69ad77eab2e0cb54517c379]: Commencement: Reg. 10 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
 
 [^f00010]: Footnote: Section 48 was amended by section 206 of, and paragraph 2 of Schedule 23 to, the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40); there are other amendments not relevant to these Regulations.
 

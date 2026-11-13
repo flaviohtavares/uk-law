@@ -3,14 +3,14 @@ title: Planning (General Development) (Amendment) Order (Northern Ireland) 1996
 id: nisr/1996/232
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-12'
-text_date: null
-extent: null
+text_date: '1996-06-12'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/232
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/232/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/232/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Planning (General Development) (Amendment) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 1996-06-12. See https://www.legislation.gov.uk/changes/affected/nisr/1996/232
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 232
 
@@ -36,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Article 13 of the Planning (Northern Ireland) Order 1991[^f00001] and all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-0dd77ba48ae13fb22a63606bc4f8366a]
 
 This Order may be cited as the Planning (General Development) (Amendment) Order (Northern Ireland) 1996 and shall come into operation on 19th July 1996.
 
-## 2. Amendment
+## 2. Amendment[^c-4daee239a22f4df6800e0321da4c6a06]
 
 After Class D of Part 3 of Schedule 1 of the Planning (General Development) Order (Northern Ireland) 1993[^f00002] (changes of use) add the following Classes—
 
@@ -72,5 +78,9 @@ This Order further amends the Planning (General Development) Order (Northern Ire
 ## Annotations
 
 [^f00001]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220); *see* Article 2(2) for the definition of “Department”
+
+[^c-0dd77ba48ae13fb22a63606bc4f8366a]: Commencement: Art. 1 in operation at 19.7.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/232/article/1)
+
+[^c-4daee239a22f4df6800e0321da4c6a06]: Commencement: Art. 2 in operation at 19.7.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/232/article/1)
 
 [^f00002]: Footnote: [S.R. 1993 No. 278](https://www.legislation.gov.uk/nisr/1993/278) to which there are amendments not relevant to this Order

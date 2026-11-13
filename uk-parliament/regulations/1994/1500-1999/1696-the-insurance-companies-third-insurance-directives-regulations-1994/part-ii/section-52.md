@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 52
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '52'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/52
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 52
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Meaning of “controller” etc.
+## 52. Meaning of “controller” etc.[^c-4998147c58e6d1eee879f41c6e5a0598]
+
+*Extent: E+W+S+N.I.*
 
 After section 96B of the 1982 Act[^f00043] insert—
 
@@ -75,6 +79,8 @@ After section 96B of the 1982 Act[^f00043] insert—
 > (7) Any reference in this section to a UK or non-EC company includes a reference to a company which, if any authorisation sought by it were issued, would be such a company.
 
 ## Annotations
+
+[^c-4998147c58e6d1eee879f41c6e5a0598]: Commencement: Reg. 52 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
 
 [^f00043]: Footnote: Section 96B was inserted by [S.I. 1990/1333](https://www.legislation.gov.uk/uksi/1990/1333), reg 4 and amended by [S.I. 1992/2890](https://www.legislation.gov.uk/uksi/1992/2890), reg 9(5).
 

@@ -3,7 +3,7 @@ title: Regulation and Inspection of Social Care (Wales) Act 2016, section 15
 act: Regulation and Inspection of Social Care (Wales) Act 2016
 section: '15'
 status: revised-with-pending-changes
-text_date: '2026-04-01'
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/anaw/2016/2/section/15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Regulation and Inspection of Social Care (Wales) Act 2016, section 15
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
 > Extent: England, Wales.
 
@@ -41,7 +41,11 @@ summary: ''
 
 (3) No cancellation may be made under this section unless —[^c-385c1714947046f53774823919a60eec]
 
-- (a) in the case of‍ cancellation on the grounds set out in subsection (1)(a), (b) or (ba), the requirements of sections 18 and 19 are met;
+- (a)[^c-78030ed9520bbce1664f076a4c9ac51b] in the case of—
+  - (i) cancellation on the grounds set out in subsection (1)(a), (b), (ba) or (g), or
+  - (ii) cancellation in accordance with paragraph 3(4)(b) of Schedule 1A,
+
+  the requirements of sections 18 and 19 are met;
 - (b) in the case of‍ cancellation on the grounds set out in subsection (1)(c), (d), (e) or (f), the requirements of sections 16 and 17 are met.
 
 (4)[^c-0833674ee94e2676f950a175368025fa] But nothing in subsection (3) affects the power of the Welsh Ministers to urgently cancel a registration under section 23.
@@ -61,5 +65,7 @@ summary: ''
 [^c-ccfb84685b4032a22d3847b23169ac2a]: Textual amendment: Words in [s. 15(2)](https://www.legislation.gov.uk/anaw/2016/2/section/15/2) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 16(3)(b)](https://www.legislation.gov.uk/asc/2025/1/section/16/3/b), [29(1)(a)(i)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/i)
 
 [^c-385c1714947046f53774823919a60eec]: Textual amendment: Words in [s. 15(3)](https://www.legislation.gov.uk/anaw/2016/2/section/15/3) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 16(3)(c)](https://www.legislation.gov.uk/asc/2025/1/section/16/3/c), [29(1)(a)(i)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/i)
+
+[^c-78030ed9520bbce1664f076a4c9ac51b]: Textual amendment: [S. 15(3)(a)](https://www.legislation.gov.uk/anaw/2016/2/section/15/3/a) substituted (30.10.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/2/3); [W.S.I. 2026/130](https://www.legislation.gov.uk/wsi/2026/130), [art. 2](https://www.legislation.gov.uk/wsi/2026/130/article/2)
 
 [^c-0833674ee94e2676f950a175368025fa]: Textual amendment: [S. 15(4)](https://www.legislation.gov.uk/anaw/2016/2/section/15/4) inserted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 16(3)(d)](https://www.legislation.gov.uk/asc/2025/1/section/16/3/d), [29(1)(a)(i)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/i)

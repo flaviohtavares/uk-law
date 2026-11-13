@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 4
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '4'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 4. Registration by registrar of companies
+## 4. Registration by registrar of companies[^c-1b40c9bda74e0a950227170a82f8c07a]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) As soon as is reasonably practicable after the coming into effect of an authorisation order in respect of an investment company with variable capital, SIB shall send a copy of the order to—
 
@@ -31,3 +37,7 @@ summary: ''
 (4) Schedule 1 to these Regulations (which makes provision with respect to the registration of, and the functions of the registrar of companies in relation to, investment companies with variable capital) shall have effect.
 
 (5) In this regulation any reference to the instrument of incorporation of a company is a reference to the instrument of incorporation which was supplied for the purposes of regulation 9(1)(a) below.
+
+## Annotations
+
+[^c-1b40c9bda74e0a950227170a82f8c07a]: Commencement: Reg. 4 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

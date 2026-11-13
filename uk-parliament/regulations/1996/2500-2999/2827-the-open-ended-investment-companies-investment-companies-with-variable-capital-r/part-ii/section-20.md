@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 20
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '20'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 20
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 20. Applications to the court
+## 20. Applications to the court[^c-a6793592f68ce919257ad8d99be61098]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) In any case in which SIB has power to give a direction under regulation 18 above in relation to an investment company with variable capital, it may apply to the court for an order—
 
@@ -32,3 +38,7 @@ and replacing any of them with a person or persons nominated by SIB and appearin
   - (ii) its depositary; and
   - (iii) where the application seeks the removal of any director of the company, that director; and
 - (b) take such steps as it considers appropriate for bringing the making of the application to the attention of the shareholders of the company.
+
+## Annotations
+
+[^c-a6793592f68ce919257ad8d99be61098]: Commencement: Reg. 20 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

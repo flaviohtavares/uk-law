@@ -2,8 +2,8 @@
 title: The Scottish Parliament (Elections etc.) Order 2015, section 2
 act: The Scottish Parliament (Elections etc.) Order 2015
 section: '2'
-status: revised-with-pending-changes
-text_date: '2026-02-05'
+status: revised
+text_date: '2026-11-03'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2015/425/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2015, section 2
 
-> **Warning: changes not yet applied to this text (33).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/ssi/2015/425
+> Text as at 2026-11-03.
 >
 > Extent: Scotland.
 
@@ -29,6 +29,7 @@ summary: ''
 - “the 2001 Regulations” means the Representation of the People (Scotland) Regulations 2001[^f00009];
 - “the 2006 Act” means the Electoral Administration Act 2006[^f00010];
 - “absent voter” means an elector who is entitled to vote by proxy or an elector or proxy who is entitled to vote by post;
+- “[^c-e0da5547598eb5fe48565ad4060758d8]**absent voting application**” means an application (including a partially completed application) under article 8, 9, 10 or 11,
 - “anonymous entry”, in relation to the register of electors, shall be construed in accordance with section 9B of the 1983 Act[^f00011] (anonymous registration);
 - “appropriate returning officer” means—
   - (a) in relation to a candidate for return as a constituency member (or to an election agent or sub-agent for such a candidate), the CRO for that constituency; and
@@ -41,6 +42,7 @@ summary: ''
 - “ERO” means an electoral registration officer within the meaning of the 1983 Act[^f00013];
 - “list of proxies” means the list of persons kept in pursuance of article 9(5)(b);
 - “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00014];
+- “[^c-d25e0731c71a52e8755ce2529e92edea]**maximum period**” means the period specified in article 8(1A)(a) or article 11(4B)(a),
 - “nominating officer” means the person registered under the 2000 Political Parties Act as the officer with responsibility for the matters referred to in section 24(3) of that Act in respect of a registered party;
 - “of voting age” means 16 years of age or over;
 - “ordinary local government election” means an ordinary election of councillors for local government areas;
@@ -59,6 +61,7 @@ summary: ''
 - “Scottish parliamentary election” means an election for membership of the Scottish Parliament and “Scottish parliamentary general election” shall be construed accordingly;
 - “Scottish Parliamentary Election Rules” means the rules set out in Schedule 2; and
 - “service voter” means a person who has made a service declaration in accordance with section 15 of the 1983 Act[^f00021] and is registered or entitled to be registered in pursuance of it;
+- “[^c-7cc0b61b39abaa7f80461c29f46d6392]**UK digital service**” has the same meaning as in section 12B(6) of the Scotland Act 1998,
 - “universal postal service provider” means a universal service provider within the meaning of Part 3 of the Postal Services Act 2011[^f00022] (regulation of postal services).
 
 (2) For the purposes of this Order, a person shall be deemed not to have attained a given age until commencement of the relevant anniversary of the day of his or her birth.
@@ -79,6 +82,8 @@ summary: ''
 
 [^f00010]: Footnote: [2006 c.22](https://www.legislation.gov.uk/ukpga/2006/22).
 
+[^c-e0da5547598eb5fe48565ad4060758d8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/425/article/2/1) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [4(a)](https://www.legislation.gov.uk/ssi/2026/121/article/4/a)
+
 [^f00011]: Footnote: Section 9B was added by section 10 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22) (“the 2006 Act”) and is relevantly amended by Schedule 4, paragraph 7 of the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6).
 
 [^c-e63924ca36be555c9c1999168e4b443a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/425/article/2/1) omitted (3.8.2020) by virtue of [The Scottish Parliament (Elections etc.) Amendment Order 2020 (S.S.I. 2020/179)](https://www.legislation.gov.uk/ssi/2020/179), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/179/article/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2020/179/article/3/a); [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
@@ -86,6 +91,8 @@ summary: ''
 [^f00013]: Footnote: Electoral registration officers are appointed under section 8 of the 1983 Act. In terms of section 8(1) they are referred to as “registration officers” in the 1983 Act.
 
 [^f00014]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^c-d25e0731c71a52e8755ce2529e92edea]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/425/article/2/1) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/121)](https://www.legislation.gov.uk/ssi/2026/121), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/121/article/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2026/121/article/4/b)
 
 [^f00015]: Footnote: Section 13AB was added by the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6), section 16(3). Section 13B was added by the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2) (“the 2000 Act”), Schedule 1, paragraph 6 and amended by the 2006 Act, section 11.
 
@@ -102,5 +109,7 @@ summary: ''
 [^f00020]: Footnote: Section 28(4) was amended by the 2006 Act, section 48.
 
 [^f00021]: Footnote: Section 15 was amended by the 2000 Act, Schedule 1, paragraph 8(2) and (4) and Schedule 7, paragraph 1; the 2006 Act, sections 12(7) and 13(1), section 9 of the Scottish Elections (Reduction of Voting Age) Act [2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7) and [S.I. 1995/1948](https://www.legislation.gov.uk/uksi/1995/1948), Schedule 2, paragraph 4(b).
+
+[^c-7cc0b61b39abaa7f80461c29f46d6392]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/425/article/2/1) inserted (3.11.2026) by [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/122)](https://www.legislation.gov.uk/ssi/2026/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/122/regulation/1/3), [17](https://www.legislation.gov.uk/ssi/2026/122/regulation/17)
 
 [^f00022]: Footnote: [2011 c.5](https://www.legislation.gov.uk/ukpga/2011/5).

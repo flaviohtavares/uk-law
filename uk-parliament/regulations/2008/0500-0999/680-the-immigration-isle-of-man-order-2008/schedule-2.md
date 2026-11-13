@@ -2,9 +2,9 @@
 title: The Immigration (Isle of Man) Order 2008, SCHEDULE 2
 act: The Immigration (Isle of Man) Order 2008
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,17 +12,21 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 2 — Transitional provisions
 
+*Extent: E+W+S+N.I.*
+
 Article 4
 
-### 1. Interpretation
+### 1. Interpretation[^c-4cd0ab3814547b41b68fabe3be7a81a3]
 
 Unless the context otherwise requires, article 5 of this Order applies to this Schedule as it applies to an enactment which extends to the Isle of Man by virtue of this Order.
 
-### 2. Transitional provision relating to the Immigration Act 1971
+### 2. Transitional provision relating to the Immigration Act 1971[^c-aba14e17d4384ccae0002d1f0823bf34]
 
 (1) Section 3C of the 1971 Act (continuation of leave pending variation decision) shall apply in relation to an application made before 1st May 2008, in respect of which no decision has been made on or before 1st May 2008, as it applies to such an application made after 1st May 2008.
 
@@ -49,15 +53,15 @@ Unless the context otherwise requires, article 5 of this Order applies to this S
   - (i) paragraph 29(1) of Schedule 2 (grant of bail pending appeal);
   - (ii) paragraph 3 of Schedule 3 (effect of appeals).
 
-### 3. Transitional provision relating to the Asylum and Immigration Act 1996
+### 3. Transitional provision relating to the Asylum and Immigration Act 1996[^c-f2b24340aa43a34cee3a4be09c347c10]
 
 Section 8 of the 1996 Act shall not apply to employment which began before 1st May 2008.
 
-### 4. Transitional provision relating to the Immigration and Asylum Act 1999
+### 4. Transitional provision relating to the Immigration and Asylum Act 1999[^c-e46bd1fa2d61c67b9992cdd5dceade9a]
 
 Section 10 of the 1999 Act (removal of certain persons unlawfully in the United Kingdom) shall not have effect in relation to any person on whom the Governor has, before 1st May 2008, served a notice of his intention to make a deportation order.
 
-### 5. Transitional provision relating to the Nationality, Immigration and Asylum Act 2002
+### 5. Transitional provision relating to the Nationality, Immigration and Asylum Act 2002[^c-c6580f6194e23eeea06b15dc446315ca]
 
 (1) Subject to subparagraph (2) below, the new appeals provisions shall not have effect in relation to events which took place before 1st May 2008 and, notwithstanding the revocation of the Immigration (Isle of Man) Order 1997, the old appeals provisions shall continue to have effect in relation to such events.
 
@@ -104,10 +108,24 @@ on the day on which it was or they were sent to the person concerned, if sent by
 
 (8) In subparagraph (7) “the person concerned” means the person who is the subject of the notice, decision, directions or certificate or the person who appears to be his representative.
 
-### 6. Transitional provision relating to the Immigration, Asylum and Nationality Act 2006
+### 6. Transitional provision relating to the Immigration, Asylum and Nationality Act 2006[^c-dca9d3271e93faaab0702aa13840fb23]
 
 (1) Sections 2 and 5 of the 2006 Act shall apply only in respect of a decision made on or after 1st May 2008.
 
 (2) Where, immediately before 1st May 2008, a passport or other document produced or found in accordance with paragraph 4 of Schedule 2 to the 1971 Act is being examined or detained by an immigration officer under paragraph 4(2A) or paragraph 4(4) of that Schedule, paragraph 4(4) as substituted by section 27 of the 2006 Act shall apply to the examination or detention of those documents on or after 1st May 2008 as if it had been in force on the date on which the passport or other document was produced or found, and paragraph 4(2A) shall cease to have effect.
 
 (3) Paragraph 4(5) of Schedule 2 to the 1971 Act as substituted by section 27 of the 2006 Act shall apply only where the examination under paragraph 2, 2A or 3 of that Schedule begins on or after 1st May 2008.
+
+## Annotations
+
+[^c-4cd0ab3814547b41b68fabe3be7a81a3]: Commencement: Sch. 2 para. 1 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-aba14e17d4384ccae0002d1f0823bf34]: Commencement: Sch. 2 para. 2 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-f2b24340aa43a34cee3a4be09c347c10]: Commencement: Sch. 2 para. 3 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-e46bd1fa2d61c67b9992cdd5dceade9a]: Commencement: Sch. 2 para. 4 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-c6580f6194e23eeea06b15dc446315ca]: Commencement: Sch. 2 para. 5 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-dca9d3271e93faaab0702aa13840fb23]: Commencement: Sch. 2 para. 6 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)

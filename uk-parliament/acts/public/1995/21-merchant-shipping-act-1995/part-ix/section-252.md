@@ -3,7 +3,7 @@ title: Merchant Shipping Act 1995, section 252
 act: Merchant Shipping Act 1995
 section: '252'
 status: revised-with-pending-changes
-text_date: '2026-06-23'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1995/21/section/252
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Merchant Shipping Act 1995, section 252
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Powers of harbour and conservancy authorities in relation to wrecks.[^c14528121][^c-70a24fd37604181ccd20c97457fcd449][^c-73bbfc8c3fbe42631c2359aa3c0fdcc8][^c-b4ec97b775f4431ef728eaa020a98df5][^c-a846f6ea0403accc468b0ec775632efb][^c-f2318b23ee0a6233b2ff1841a4ca18db][^c-72a49ce59aa02538b6c4c94b5f5b0e2f][^c-33f02b739e29db3123fbf822993a66d2][^c-33505131167db34976a1ab068c24322d][^c-6e65686c791f5ff2a1f516f9527ec629][^c-e457585efe8b886bec092315363ff333]
+## 252. Powers of harbour and conservancy authorities in relation to wrecks.[^c14528121][^c-70a24fd37604181ccd20c97457fcd449][^c-73bbfc8c3fbe42631c2359aa3c0fdcc8][^c-b4ec97b775f4431ef728eaa020a98df5][^c-a846f6ea0403accc468b0ec775632efb][^c-f2318b23ee0a6233b2ff1841a4ca18db][^c-72a49ce59aa02538b6c4c94b5f5b0e2f][^c-33f02b739e29db3123fbf822993a66d2][^c-33505131167db34976a1ab068c24322d][^c-6e65686c791f5ff2a1f516f9527ec629][^c-e457585efe8b886bec092315363ff333][^c-3add3872036c8a5b93f44f5b659bfc58][^c-2a1b9b567f9e19328f36c5bbf58ef816]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,6 +77,10 @@ summary: ''
 [^c-6e65686c791f5ff2a1f516f9527ec629]: Modification: [S. 252](https://www.legislation.gov.uk/ukpga/1995/21/section/252) applied (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [44(1)](https://www.legislation.gov.uk/uksi/2026/62/article/44/1) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
 [^c-e457585efe8b886bec092315363ff333]: Modification: [S. 252](https://www.legislation.gov.uk/ukpga/1995/21/section/252) restricted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [44(5)](https://www.legislation.gov.uk/uksi/2026/62/article/44/5) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+
+[^c-3add3872036c8a5b93f44f5b659bfc58]: Modification: [S. 252](https://www.legislation.gov.uk/ukpga/1995/21/section/252) restricted (5.11.2026) by [The Port of Tyne Harbour Revision Order 2026 (S.I. 2026/1088)](https://www.legislation.gov.uk/uksi/2026/1088), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1088/article/1/1), [58(5)](https://www.legislation.gov.uk/uksi/2026/1088/article/58/5) (with [arts. 64](https://www.legislation.gov.uk/uksi/2026/1088/article/64), [65](https://www.legislation.gov.uk/uksi/2026/1088/article/65))
+
+[^c-2a1b9b567f9e19328f36c5bbf58ef816]: Modification: [S. 252](https://www.legislation.gov.uk/ukpga/1995/21/section/252) applied (5.11.2026) by [The Port of Tyne Harbour Revision Order 2026 (S.I. 2026/1088)](https://www.legislation.gov.uk/uksi/2026/1088), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1088/article/1/1), [58(1)](https://www.legislation.gov.uk/uksi/2026/1088/article/58/1) (with [arts. 64](https://www.legislation.gov.uk/uksi/2026/1088/article/64), [65](https://www.legislation.gov.uk/uksi/2026/1088/article/65))
 
 [^c-b36e63a19bf15f96282ca63535e7b81c]: Textual amendment: Words in [s. 252(2)(b)](https://www.legislation.gov.uk/ukpga/1995/21/section/252/2/b) substituted (26.6.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/11/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
 

@@ -6,12 +6,12 @@ Laws in force under the legislation.gov.uk subject heading **NATIONAL ASSISTANCE
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [National Assistance Act 1948](../uk-parliament/acts/public/geo6-11-12/29-national-assistance-act-1948.md) *(changes pending)* — 115 regulations on this topic made under it
-- [Social Work (Scotland) Act 1968](../uk-parliament/acts/public/1968/49-social-work-scotland-act-1968/README.md) *(changes pending)* — 46 regulations on this topic made under it
+- [National Assistance Act 1948](../uk-parliament/acts/public/geo6-11-12/29-national-assistance-act-1948.md) *(changes pending)* — 114 regulations on this topic made under it
+- [Social Work (Scotland) Act 1968](../uk-parliament/acts/public/1968/49-social-work-scotland-act-1968/README.md) *(changes pending)* — 45 regulations on this topic made under it
 
 ## Regulations
 
-122 in force.
+121 in force.
 
 **2026**
 
@@ -70,7 +70,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The National Assistance (Assessment of Resources and Sums for Personal Requirements) (Amendment) (Wales) Regulations 2008](../wales/regulations/2008/0500-0999/743-the-national-assistance-assessment-of-resources-and-sums-for-personal-requiremen.md) *(as originally made)*
 - [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/13-the-national-assistance-assessment-of-resources-amendment-scotland-regulations-2.md) *(as originally made)*
 - [The National Assistance (Sums for Personal Requirements and Assessment of Resources) Amendment (England) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/593-the-national-assistance-sums-for-personal-requirements-and-assessment-of-resourc.md) *(as originally made)*
-- [The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/14-the-national-assistance-sums-for-personal-requirements-scotland-regulations-2008.md) *(changes pending)*
 
 **2007**
 

@@ -6,14 +6,14 @@ Laws in force under the legislation.gov.uk subject heading **BUILDING AND BUILDI
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Building Act 1984](../uk-parliament/acts/public/1984/55-building-act-1984/README.md) *(changes pending)* — 109 regulations on this topic made under it
+- [Building Act 1984](../uk-parliament/acts/public/1984/55-building-act-1984/README.md) *(changes pending)* — 108 regulations on this topic made under it
 - [Building (Scotland) Act 2003](../scotland/acts/2003/8-building-scotland-act-2003/README.md) *(changes pending)* — 42 regulations on this topic made under it
 - [Building Safety Act 2022](../uk-parliament/acts/public/2022/30-building-safety-act-2022/README.md) *(changes pending)* — 39 regulations on this topic made under it
 - [Energy Act 2011](../uk-parliament/acts/public/2011/16-energy-act-2011/README.md) — 11 regulations on this topic made under it
 
 ## Regulations
 
-251 in force.
+250 in force.
 
 **2026**
 
@@ -53,7 +53,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Building (Procedure) (Scotland) Amendment Regulations 2024](../scotland/regulations/2024/0000-0499/376-the-building-procedure-scotland-amendment-regulations-2024.md) *(as originally made)*
 - [The Building (Registered Building Control Approvers etc.) (England) (Amendment) Regulations 2024](../uk-parliament/regulations/2024/0000-0499/474-the-building-registered-building-control-approvers-etc-england-amendment-regulat.md) *(as originally made)*
 - [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024](../uk-parliament/regulations/2024/0000-0499/110-the-building-registered-building-control-approvers-etc-england-regulations-2024.md) *(changes pending)*
-- [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024](../wales/regulations/2024/1000-1499/1268-the-building-registered-building-control-approvers-etc-wales-regulations-2024/README.md) *(changes pending)*
+- [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024](../wales/regulations/2024/1000-1499/1268-the-building-registered-building-control-approvers-etc-wales-regulations-2024/README.md)
 - [The Building (Restricted Activities and Functions) (Wales) Regulations 2024](../wales/regulations/2024/0000-0499/238-the-building-restricted-activities-and-functions-wales-regulations-2024.md)
 - [The Building (Scotland) Amendment (No. 2) Regulations 2024](../scotland/regulations/2024/0000-0499/327-the-building-scotland-amendment-no-2-regulations-2024.md) *(as originally made)*
 - [The Building (Scotland) Amendment Regulations 2024](../scotland/regulations/2024/0000-0499/247-the-building-scotland-amendment-regulations-2024.md) *(as originally made)*
@@ -76,7 +76,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Building (Scotland) Amendment Regulations 2023](../scotland/regulations/2023/0000-0499/177-the-building-scotland-amendment-regulations-2023.md) *(as originally made)*
 - [The Building Act 1984 (Commencement No. 3) (England) Order 2023](../uk-parliament/regulations/2023/0500-0999/992-the-building-act-1984-commencement-no-3-england-order-2023.md) *(as originally made)*
 - [The Building Control Profession (Charges) (Wales) Regulations 2023](../wales/regulations/2023/1000-1499/1303-the-building-control-profession-charges-wales-regulations-2023.md)
-- [The Building Regulations etc. (Amendment) (England) Regulations 2023](../uk-parliament/regulations/2023/0500-0999/911-the-building-regulations-etc-amendment-england-regulations-2023.md) *(changes pending)*
+- [The Building Regulations etc. (Amendment) (England) Regulations 2023](../uk-parliament/regulations/2023/0500-0999/911-the-building-regulations-etc-amendment-england-regulations-2023.md)
 - [The Building Safety (Description of Higher-Risk Building) (Design and Construction Phase) (Wales) Regulations 2023](../wales/regulations/2023/1000-1499/1210-the-building-safety-description-of-higher-risk-building-design-and-construction.md) *(as originally made)*
 - [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023](../uk-parliament/regulations/2023/0500-0999/895-the-building-safety-leaseholder-protections-etc-england-amendment-regulations-20.md)
 - [The Building Safety (Leaseholder Protections) (England) (Amendment) Regulations 2023](../uk-parliament/regulations/2023/0000-0499/126-the-building-safety-leaseholder-protections-england-amendment-regulations-2023.md) *(as originally made)*
@@ -233,7 +233,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Building (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/671-the-building-amendment-regulations-2008.md) *(changes pending)*
 - [The Building (Electronic Communications) Order 2008](../uk-parliament/regulations/2008/2000-2499/2334-the-building-electronic-communications-order-2008.md) *(as originally made)*
 - [The Building (Fees) (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/397-the-building-fees-scotland-amendment-regulations-2008.md) *(as originally made)*
 - [The Building (Scotland) Amendment Regulations 2008](../scotland/regulations/2008/0000-0499/310-the-building-scotland-amendment-regulations-2008.md) *(as originally made)*

@@ -3,16 +3,16 @@ title: The Local Government (Structural Changes) (Finance) Regulations 2008
 id: uksi/2008/3022
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-11-20'
-text_date: '2008-11-20'
+text_date: '2026-05-08'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3022
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3022/pdfs/uksiem_20083022_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3022/pdfs/uksi_20083022_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3022/data.pdf
-pending_changes: 98
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Local Government (Structural Changes) (Finance) Regulations 2008
 
-> **Warning: changes not yet applied to this text (98).** Text as at 2008-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3022
+> Text as at 2026-05-08.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 3022
 
@@ -69,21 +67,27 @@ In these Regulations—
 - “first transitional period”, in relation to a preparing council, means the period defined as such in the order which confers functions on the authority;
 - “first year” means the financial year beginning on the reorganisation date;
 - “Implementation Executive” means a committee of a preparing council’s executive established in pursuance of an order;
-- “order” means an order under section 7 of the 2007 Act;
+- “merged council” means a district council which, in accordance with a section 10 order, becomes the council for the area of two or more district councils which are wound up and dissolved under that order;[^c-d2eb292c64ebf2b6273b656454289a9a]
+- “order” means an order under section 7 or section 10[^c-32a472beb7e41d3f150577f3f3e679f8] of the 2007 Act;
 - “preceding year” means the financial year preceding the first year;
 - “preparing council” means a local authority which, in accordance with an order, becomes a single-tier council on the reorganisation date;
 - “relevant authority”, in relation to a reorganised area, means the preparing council or the shadow council (as the case may be);
 - “relevant period”, in relation to a reorganised area, means the period which—
   - (a) begins at the start of the transitional period or the shadow period (as the case may be), and
   - (b) ends immediately before the reorganisation date;
-- “reorganisation date”, in relation to an order, means the date specified in the order as that on which a structural change comes into effect;
-- “reorganised area” means any area which, in accordance with an order, becomes a single-tier area on the reorganisation date[^f00004];
+- “reorganisation date”, in relation to an order, means the date specified in the order as that on which a structural change or boundary change[^c-7d8482102f348200b8b0233a5b0a2c53] comes into effect;
+- “reorganised area” means any area which—[^c-2c84d2f675a4a680b108227fe27818bc]
+  - (a) in accordance with an order under section 7, becomes the area of a single-tier council on the reorganisation date; or
+  - (b) in accordance with an order under section 10, becomes the area of a merged council on the reorganisation date;
 - “second transitional period”, in relation to a preparing council, means the period defined as such in the order which confers functions on the authority;
 - “second year” means the financial year following the first year, “third year” means the financial year following the second year, and so on;
 - “shadow council” means an authority (not being a local authority) which in accordance with an order becomes a local authority on the reorganisation date;
 - “shadow executive”, in relation to a shadow council, means the executive created by the council in accordance with an order;
 - “shadow period”, in relation to a shadow council, means the period defined as such in the order which confers functions on the authority;
 - “single-tier council” means a local authority which on and after the reorganisation date is the sole principal authority for an area;
+- “successor council” means—[^c-4e0348b29409812b7a9ca22e79c1044d]
+  - (a) in relation to an area which is a reorganised area in consequence of an order under section 7, the single-tier council;
+  - (b) in relation to an area which is a reorganised area in consequence of an order under section 10, the merged council;
 - “transitional period” in relation to a preparing council, means the period defined as such in the order which confers functions on the authority; and
 - “valuation list” means a list complied and maintained for a billing authority[^f00005] under Chapter 2 of Part 1 of the 1992 Act.
 
@@ -97,7 +101,7 @@ In these Regulations—
 
 (3) In connection with the exercise of the function of making a calculation (whether originally or by way of substitute) in accordance with—
 
-- (a) any of sections 32 to 37, 52I and 52T[^f00006] of the 1992 Act,
+- (a)[^c-5c2e75c14189a8411e3f6f9b1151b271] any of sections 31A, 31B, 34 to 36A and 52ZF of the 1992 Act,
 - (b) any of those sections as modified by these Regulations, or
 - (c) Part 4 of these Regulations,
 
@@ -120,7 +124,7 @@ the actions specified in paragraph (4) shall be the responsibility of the shadow
 
 (3) Notwithstanding any contrary provision in the Local Authorities (Functions and Responsibilities) (England) Regulations 2000[^f00007], in connection with the exercise of the function of making a calculation (whether originally or by way of substitute) in accordance with—
 
-- (a) any of sections 32 to 37, 52I and 52T of the 1992 Act,
+- (a)[^c-0c87ba53f7d39b34654f1ba566f215ad] any of sections 31A, 31B, 34 to 36A and 52ZF of the 1992 Act,
 - (b) any of those sections as modified by these Regulations, or
 - (c) Part 4 these Regulations,
 
@@ -178,39 +182,48 @@ In relation to a reorganised area—
   - (ii) Part 1 (council tax: England and Wales) of the 1992 Act,
 
   shall apply in relation to the first year as if the relevant authority were the billing authority for the reorganised area; and
-- (b) on and after the reorganisation date those Parts shall apply in relation to any financial year before the first year as if the single-tier council were the billing authority for that area.
+- (b) on and after the reorganisation date those Parts shall apply in relation to any financial year before the first year as if the successor council[^c-2857780d07f369f210b29e17ff8731fd] were the billing authority for that area.
 
 ### 9. Continuity of functions[^c-2905457e6f67f658234811d2c3364b7c]
 
-In relation to a reorganised area, anything done before the reorganisation date—
+(1)[^c-baef1a9655d50d6ffca413d345f31f37] In relation to a reorganised area, anything done before the reorganisation date—
 
 - (a) under Part 3 of the 1988 Act, or
 - (b) under Part 1 of the 1992 Act,
 
-by or in relation to a billing authority shall on and after that date be treated as if it had been done by or in relation to the single-tier council.
+by or in relation to a billing authority shall on and after that date be treated as if it had been done by or in relation to the successor council[^c-4a090ac3a0083ed11d4a643463a41239].
+
+(2)[^c-5c84cab13cd6aa4c2bc6829866a8f318] Where at least one but not all of the predecessor billing authorities made a relevant determination, any subsequent determination is to be treated for the purposes of section 11C(3) of the 1992 Act as the first determination of the successor council insofar as it relates to a subsequent determination area.
+
+(3) For the purposes of paragraph (2)—
+
+- “**predecessor billing authority**” means a billing authority for part of the reorganised area before the reorganisation date;
+- “**relevant determination**” means a determination under section 11C(1) of the 1992 Act made before the reorganisation date;
+- “**subsequent determination**” means a determination under section 11C(1) of the 1992 Act which is the first such determination made by a successor council on or after the reorganisation date in relation to a subsequent determination area; and
+- “**subsequent determination area**” means any part of the reorganised area which was the area of a predecessor billing authority which did not make a relevant determination.
 
 ### 10. Relevant lists[^c-2b6ffea1e5a1e09799fe0cfe3bfb7484]
 
 (1) Subject to regulation 11, on and after the reorganisation date the appropriate lists taken as a whole shall constitute (as the case may be)—
 
-- (a) the single-tier council’s local rating list, or
-- (b) the single-tier council’s valuation list.
+- (a) the successor council’s[^c-c51b64b159fa1b74bea2d20aa289e13e] local rating list, or
+- (b) the successor council’s valuation list.
 
 (2) For the purposes of paragraph (1), an appropriate list—
 
-- (a) in relation to the single-tier council’s local rating list, is a local rating list insofar as the list shows hereditaments situated in the reorganised area; and
-- (b) in relation to the single-tier council’s valuation list, is a valuation list insofar as the list shows dwellings situated in the reorganised area.
+- (a) in relation to the successor council’s local rating list, is a local rating list insofar as the list shows hereditaments situated in the reorganised area; and
+- (b) in relation to the successor council’s valuation list, is a valuation list insofar as the list shows dwellings situated in the reorganised area.
 
 ### 11. Amalgamation of relevant lists[^c-e275d62ebbd652505c08c24e3a553eff]
 
-(1) At any time after the reorganisation date a single-tier council’s relevant officer may amalgamate a relevant list into a single document.
+(1) At any time after the reorganisation date a successor council’s[^c-54ac4c76abc0e79039df7ac402494bed] relevant officer may amalgamate a relevant list into a single document.
 
 (2) An amalgamated list must include the information which immediately before the amalgamation is in the relevant list, but only insofar as that information is still relevant to the reorganised area.
 
 (3) As soon as it is compiled an amalgamated list shall be (as the case may be)—
 
-- (a) the single-tier council’s local rating list, or
-- (b) the single tier council’s valuation list.
+- (a) the successor council’s local rating list, or
+- (b) the successor council’s valuation list.
 
 (4) As soon as reasonably practicable after compiling an amalgamated list, the relevant officer must send a copy of the list to the council.
 
@@ -229,13 +242,13 @@ by or in relation to a billing authority shall on and after that date be treated
 
 - “appropriate authority”, in relation to a reorganised area, means—
   - (a) the relevant authority during the relevant period, or
-  - (b) the single-tier council on and after the reorganisation date;
+  - (b) the successor council[^c-410716cd96fae2d5888087f7bd8fbc19] on and after the reorganisation date;
 - “basic amount of council tax”, in relation to a part of an appropriate authority’s area and a financial year, means the amount of that authority’s council tax which will be payable for that year in respect of a dwelling which—
   - (a) is situated in that part, and
   - (b) is listed in valuation band D;
-- “the Council Tax Base Regulations” means the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^f00011];
+- “the Council Tax Base Regulations” means the Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012[^c-302676333a0a50746901d581025f50a1];
 - “dwelling” has the same meaning as in section 3 (meaning of “dwelling”) of the 1992 Act;
-- “preceding year council tax”, in relation to a predecessor area, means the amount calculated under section 33(1) (basic amount of council tax) of the 1992 Act for the area for the preceding year[^f00012];
+- “preceding year council tax”, in relation to a predecessor area, means the amount calculated under section 31B(1) (calculation of basic amount of tax by authorities in England)[^c-ebcf94ffc35eb288187e8f62cb341709] of the 1992 Act for the area for the preceding year[^f00012];
 - “predecessor area”, in relation to a reorganised area, means any district which is abolished by or in consequence of an order;
 - “principal area”, in relation to a reorganised area, means—
   - (a) in relation to the first year, the predecessor area which had the highest preceding year council tax,
@@ -246,11 +259,11 @@ by or in relation to a billing authority shall on and after that date be treated
       - (bb) under regulation 21 in such a way that the basic amount of council tax for the area is more than the higher amount by an amount equal to the aggregate of the special items that relate to the area, or
       - (cc) under regulation 22 in such a way that the amount calculated by applying the formula in paragraph (6) of that regulation is equal to the higher amount;
 - “special item” means an item mentioned in section 35(1) (special items for the purpose of section 34) of the 1992 Act; and
-- “uniform amount of council tax”, in relation to a reorganised area and a financial year, means the amount calculated for the area and the year under section 33(1) of the 1992 Act as modified by paragraph 2 of Schedule 2 to these Regulations.
+- “uniform amount of council tax”, in relation to a reorganised area and a financial year, means the amount calculated for the area and the year under section 31B(1)[^c-06b065b396e5ce6554de6e4fd69fdcd4] of the 1992 Act as modified by paragraph 2 of Schedule 2 to these Regulations.
 
 (2) The reference in the definition of “basic amount of council tax” in paragraph (1) to a dwelling listed in valuation band D is a reference to a dwelling to which that valuation band is shown as applicable in the appropriate authority’s valuation list.
 
-(3) Any calculation of a council tax base by an appropriate authority under this Part for any part of its area must be made in accordance with the Council Tax Base Regulations as modified by paragraphs 11 to 13 of Schedule 2 to these Regulations.
+(3) Any calculation of a council tax base by an appropriate authority under this Part for any part of its area must be made in accordance with the Council Tax Base Regulations as modified by paragraphs 8 to 10[^c-5c8add1930b98130f07cceb726eadc7f] of Schedule 2 to these Regulations.
 
 #### 13. Definition of “higher amount”[^c-dd83f9dce823ed1576d0b80cc8743502]
 
@@ -318,18 +331,20 @@ where—
 (1) In order to equalise more equitably the amounts of council tax payable in respect of dwellings situated in the predecessor areas of a reorganised area—
 
 - (a) the relevant authority may determine that it will calculate basic amounts of council tax for the predecessor areas in accordance with regulations 16 to 22 for the first year; and
-- (b) the single-tier council may determine that it will calculate basic amounts of council tax for the principal area and any predecessor areas other than the principal area in accordance with regulations 16 to 22 for any of the following financial years—
+- (b) the successor council[^c-7a4b9145c72d134a9c04a305264398c2] may determine that it will calculate basic amounts of council tax for the principal area and any predecessor areas other than the principal area in accordance with regulations 16 to 22 for any of the following financial years—
   - (i) the second year,
   - (ii) the third year,
   - (iii) the fourth year,
-  - (iv) the fifth year.
+  - (iv) the fifth year ,[^c-efd1d1d0e3bd79ffbb69eea74d4c07d1]
+  - (v)[^c-415c27aeb355a0bb39d73c7f9185e722] the sixth year,
+  - (vi) the seventh year.
 
 (2) But—
 
-- (a) a determination may not be made under paragraph (1) for a financial year if the appropriate authority has already made calculations under sections 32 to 36 of the 1992 Act for that year, and
+- (a) a determination may not be made under paragraph (1) for a financial year if the appropriate authority has already made calculations under sections 31A, 31B and 34 to 36[^c-923be4d9456811d53e72dd383af0e13d] of the 1992 Act for that year, and
 - (b) a determination may only be made under paragraph (1)(b) if a determination was made by an appropriate authority under paragraph (1) for the financial year preceding that year.
 
-(3) Any determination under paragraph (1) for a year must be made before 11th March in the financial year preceding that year, but a determination is not invalid merely because it is made after that date.
+(3) Any determination under paragraph (1) for a year must be made before 11th March in the financial year preceding that year, but a determination is not invalid merely because it is made on or[^c-e0e88ce3833c9d2c6c276dbd427799e4] after that date.
 
 (4) Regulations 16 to 22 shall apply in relation to a financial year if an appropriate authority has made a determination under paragraph (1) for that year.
 
@@ -337,9 +352,26 @@ where—
 
 (6) The enactments are—
 
-- (a) the 1992 Act,
+- (a) Chapters 3 (setting of council tax) and 6 (miscellaneous and supplemental) of Part 1 of[^c-8343914db50da80eb68794fdbbd8d9b6] the 1992 Act,
 - (b) the Council Tax Base Regulations, and
 - (c) the Local Authorities (Calculation of Council Tax Base) (Supply of Information) Regulations 1992[^f00013].
+
+#### 15A. Modifications to Chapters 4ZA and 6 of Part 1 of the Local Government Finance Act 1992[^c-fb1aa4030c3dbc5716e8b145b3a8e5c2]
+
+(1) In relation to the first year and a reorganised area, Chapters 4ZA (referendums relating to council tax increases) and 6 of Part 1 of the 1992 Act shall have effect with the modifications specified in Part 1 of Schedule 3 to these Regulations.
+
+(2) In relation to each of the second, the third, the fourth, the fifth, the sixth and the seventh years[^c-00550971e725ef6bf4fa59868d1cafe2] and a reorganised area, Chapters 4ZA and 6 of Part 1 of the 1992 Act shall have effect with the modifications specified in Part 2 of Schedule 3 to these Regulations if an appropriate authority made a determination under regulation 15(1) for the financial year preceding that year.
+
+(3) In relation to the eighth year[^c-146ffce663f67123fe422a6d2f720fb1] and a reorganised area, Chapter 4ZA of Part 1 of the 1992 Act shall have effect with the modifications specified in Part 3 of Schedule 3 to these Regulations if the authority made a determination under regulation 15(1) for the seventh year[^c-dfe8a91c4c2f66fde0ace00bb8252254].
+
+#### 15B. Modifications to the Council Tax (Demand Notices) (England) Regulations 2011[^c-1c3b8f7fa5749324189356de0dc4f5b4]
+
+(1)[^c-ef85947d4116fdadeab9825a492a0e21] In relation to a reorganised area and a notice served in relation to a financial year beginning in the modification period[^c-5aee5b3f30a0b42feea62772e74dba3b] the Council Tax (Demand Notices) (England) Regulations 2011 shall have effect with the modifications specified in Schedule 4 to these Regulations.
+
+(2)[^c-832f4f8ff34abcbbd8d6d5cfced4f03a] For the purposes of this regulation—
+
+- “**modification period**” means, where the reorganisation date falls on or after 1st April 2019, the period beginning with the reorganisation date and ending with 31st March 2025;
+- “**notice**” has the same meaning as in regulation 2(1) of the Council Tax (Demand Notices) (England) Regulations 2011.
 
 #### 16. Limitation on council tax requirement[^c-a72654939df851d6e8fdd13cdeaa8950]
 
@@ -350,7 +382,7 @@ where—
 where—
 
 - I is the uniform amount of council tax; and
-- T is item T in section 33(1) of the 1992 Act as modified by paragraph 2 of Schedule 2 to these Regulations.
+- T is item T in section 31B(1)[^c-20537af2289082fa434658e0183cf4de] of the 1992 Act as modified by paragraph 2 of Schedule 2 to these Regulations.
 
 (2) The formula first referred to paragraph (1) is—
 
@@ -489,14 +521,14 @@ Regulation 5
 
 (2) This Schedule has effect notwithstanding any contrary provision in the Local Authorities (Functions and Responsibilities) (England) Regulations 2000[^f00014] or in the standing orders of the preparing council.
 
-(3) Paragraphs 3 to 7 do not apply in relation to any calculations (whether originally or by way of substitute) made under sections 52I and 52T of the 1992 Act[^f00015].
+(3)[^c-1e67642ec229b4dbc754cbd163ae9a67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Interpretation[^c-d9c6d5ffcb0741c912f61f539b352df7]
 
 In this Schedule—
 
 - “relevant provisions” means—
-  - (a) any of sections 32 to 37 of the 1992 Act,
+  - (a) any of sections 31A, 31B, 34 to 36A and 52ZF[^c-10f083df2aa3ac67d3228e99b27fc13d] of the 1992 Act,
   - (b) any of those sections as modified by Schedule 2 to these Regulations,
   - (c) any of regulations 13, 14, 16 to 18, and 20 to 22 of these Regulations; and
 - “specified period” means the period specified by the authority under paragraph 3(2)(b)(ii).
@@ -542,29 +574,33 @@ When making calculations (whether originally or by way of substitute) in accorda
 
 (2) At least three clear days’ notice must be given to all members of the authority of any meeting at which a vote is to be taken on a motion of the description in sub-paragraph (1); and the notice must set out the terms of the motion.
 
-## SCHEDULE 2 — CALCULATION OF COUNCIL TAX: MODIFICATIONS TO THE LOCAL GOVERNMENT FINANCE ACT 1992 AND CERTAIN SECONDARY LEGISLATION
+## SCHEDULE 2 — CALCULATION OF COUNCIL TAX: MODIFICATIONS TO CHAPTERS 3 AND 6 OF PART 1 OF THE LOCAL GOVERNMENT FINANCE ACT 1992 AND CERTAIN SECONDARY LEGISLATION[^c-8d6a56a8833a445c08eec1c39d24d976]
 
 Regulation 15(5) and (6)
 
 ### The Local Government Finance Act 1992
 
-#### 1. Section 30 of the Local Government Finance Act 1992[^c-ca4ce3d1bd35ac45932bfb129adbc24a]
+#### 1. Section 30 of the Local Government Finance Act 1992
 
 In section 30 (amounts for different categories of dwelling)—
 
-- (a) in subsection (2)(a), for “32 to 36 below” substitute “32 and 36 below and Part 4 of the 2008 Regulations”;
-- (b) in subsection (4), for “32 to 36 below” substitute “32 and 36 below and Part 4 of the 2008 Regulations”; and
-- (c) in subsection (8), at the end insert “and Part 4 of the 2008 Regulations”.
+- (a) in subsection (2)(a)(i)—
+  - (i) omit “34 to”, and
+  - (ii) after “below” insert “and Part 4 of the 2008 Regulations”;
+- (b) in subsection (4)(a)—
+  - (i) omit “34 to”, and
+  - (ii) after the first “below” insert “and Part 4 of the 2008 Regulations”; and
+- (c) in subsection (8), at the end insert “and Part 4 of the 2008 Regulations.”.
 
-#### 2. Section 33 of the Local Government Finance Act 1992[^c-bb467207c2aa50090dacff22fc8f2647]
+#### 2. Section 31B of the Local Government Finance Act 1992
 
-In the heading to section 33 (calculation of basic amount of tax) and in subsection (1)[^f00016], for each occurrence of “basic” substitute “uniform”.
+In the heading to section 31B (calculation of basic amount of tax by authorities in England) and in subsection (1), for each occurrence of “basic” substitute “uniform”.
 
-#### 3. Section 34 of the Local Government Finance Act 1992[^c-8ecac4f573772919f073289668367e60]
+#### 3. Section 34 of the Local Government Finance Act 1992
 
 Omit section 34 (additional calculations where special items relate to part only of area).
 
-#### 4. Section 36 of the Local Government Finance Act 1992[^c-413aced6871e1ecd34a7337f013e0b55]
+#### 4. Section 36 of the Local Government Finance Act 1992
 
 In section 36 (calculation of tax for different valuation bands)—
 
@@ -575,106 +611,675 @@ In section 36 (calculation of tax for different valuation bands)—
   ; and
 - (b) in subsection (2), for “section 34 above” substitute “Part 4 of the 2008 Regulations”.
 
-#### 5. Section 37 of the Local Government Finance Act 1992[^c-6b736e3a088629ee4c2f42fda47a6519]
+#### 5. Section 36A of the Local Government Finance Act 1992
 
-In section 37 (substitute calculations)—
+In section 36A (substitute calculations: England)—
 
 - (a) in subsection (1)—
-  - (i) for “32 to 36 above” substitute “32 and 36 above and Part 4 of the 2008 Regulations”, and
-  - (ii) for “those sections” substitute “those provisions”;
-- (b) in subsection (2)(a), for “section 33(1) or 34(2) or (3) above” substitute “Part 4 of the 2008 Regulations”;
+  - (i) omit “34 to”,
+  - (ii) after the first “above” insert “and Part 4 of the 2008 Regulations”, and
+  - (iii) for “those sections” substitute “those provisions”;
+- (b) in subsection (2)(a), for “section 31B(1) or 34(2) or (3) above” substitute “Part 4 of the 2008 Regulations”;
 - (c) for subsection (3) substitute—
 
-  > (3) In making the substitute calculations, the billing authority must use any amount determined in the previous calculations—
+  > (3) In making substitute calculations, the billing authority must use any amount determined in the previous calculations—
   >
-  > - (a) for item P or T in section 33(1) above, and
+  > - (a) for item T in section 31B(1), and
   > - (b) as the council tax base for any part of the authority’s area.
 
   ; and
-- (d) in subsection (6), for “32 to 36 above” substitute “32 or 36 above, or Part 4 of the 2008 Regulations”.
+- (d) in subsection (5)—
+  - (i) omit “34 to”, and
+  - (ii) after the second “above” insert “, or Part 4 of the 2008 Regulations”.
 
-#### 6. Section 52I of the Local Government Finance Act 1992[^c-e9a6868c9934b988321c799b778bca7f]
-
-In section 52I (duty of a designated billing authority)—
-
-- (a) in subsection (1), for “32 to 36 above” substitute “32 and 36 above and Part 4 of the 2008 Regulations”;
-- (b) in subsection (2)(b), for “section 33(1) or 34(2) or (3) above” substitute “Part 4 of the 2008 Regulations”; and
-- (c) for subsection (4) substitute—
-
-  > (4) In making the substitute calculations, the billing authority must use any amount determined in the previous calculations—
-  >
-  > - (a) for item P or T in section 33(1), and
-  > - (b) as the council tax base for any part of the authority’s area.
-
-  .
-
-#### 7. Section 52T of the Local Government Finance Act 1992[^c-c131c25cf20ebb7884f906f4389bc7c9]
-
-In section 52T (duty of a designated billing authority)—
-
-- (a) in subsections (2) and (3), for each occurrence of “32 to 36 above” substitute “32 and 36 above and Part 4 of the 2008 Regulations”;
-- (b) in subsection (4)(b), for “section 33(1) or 34(2) or (3) above” substitute “Part 4 of the 2008 Regulations”; and
-- (c) for subsection (6), substitute—
-
-  > (6) In making the substitute calculations, the billing authority must use any amount determined in the previous calculations—
-  >
-  > - (a) for item P or T in section 33(1), and
-  > - (b) as the council tax base for any part of the authority’s area.
-
-  .
-
-#### 8. Section 66 of the Local Government Finance Act 1992[^c-a76a21dab09daf8431da50b8df200e2d]
+#### 6. Section 66 of the Local Government Finance Act 1992
 
 In section 66 (judicial review)—
 
-- (a) in subsection (2)(c)[^f00017], after “above” insert “, or Part 4 of the 2008 Regulations”; and
+- (a) in subsection (2)(c), after “above” insert “, or Part 4 of the 2008 Regulations”; and
 - (b) in subsection (2)(d), after “Part” insert “and under Part 4 of the 2008 Regulations”.
 
-#### 9. Section 67 of the Local Government Finance Act 1992[^c-ca7234d3f7d67be882ffc7805c6a9554]
+#### 7. Section 67 of the Local Government Finance Act 1992
 
-In section 67 (functions to be discharged only by authority), omit paragraph (b) of subsection (2A)[^f00018].
-
-#### 10. Section 69 of the Local Government Finance Act 1992[^c-c61af7aba7b1f37e8af8875113f31543]
-
-In section 69 (interpretation), in subsection (1), before the definition of “additional grant” insert—
-
-> - “the 2008 Regulations” mean the Local Government (Structural Changes) (Finance) Regulations 2008;
-
-.
+In section 67 (functions to be discharged only by authority), omit paragraph (b) of subsection (2A).
 
 ### The Local Authorities (Calculation of Council Tax Base) Regulations 1992
 
-#### 11. Regulation 1 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^c-25769a3ef7003bc58e9db7088f545761]
+#### 8. Regulation 1 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992
 
-In regulation 1 (citation, commencement and interpretation), in paragraph (3), before the definition of “a relevant percentage” insert—
+In regulation 1 (citation, commencement, application and interpretation[^c-9317f4f871bbe55af3ccd5c32fde19ea]), in paragraph (4), before the definition of “a relevant percentage” insert—
 
-> - “predecessor area” has the same meaning as in the Local Government (Structural Changes) (Finance) Regulations 2008;
-> - “principal area” has the same meaning as in the Local Government (Structural Changes) (Finance) Regulations 2008; and
+> - “predecessor area” and “principal area” have the same meaning as in the Local Government (Structural Changes) (Finance) Regulations 2008; and
 
 .
 
-#### 12. Regulation 6 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^c-14b0d697b19abe0ccdc19f4ac578671c]
+#### 9. Regulation 6 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992
 
 In regulation 6 (calculation of billing authority’s council tax base for a part of its area)—
 
 - (a) in paragraph (1)—
-  - (i) omit “for the purposes of item TP in section 34(3)”; and
+  - (i) omit “for the purposes of item TP in section 34(3) and item T in section 52ZX(5)[^c-16b912532fd2b2dad44f3d7a3d1a7773]”, and
   - (ii) after “for a part of its area” insert “(including the principal area and any predecessor area other than the principal area)”;
-- (b) in paragraph 2(d)(ii)(aa), for “amount of item TP in section 34(3)” substitute “tax base for a part of its area”; and
-- (c) in paragraph 2(d)(ii)(bb), for the words from “relevant” to the end substitute “tax base for the part of its area for the year”.
+- (b) in paragraph (2)(d)(i)[^c-d0773c177af422b61f348140f11f2901], for “amount for item TP in section 34(3) and item T in section 52ZX(5)[^c-0145e5aaea3cf9db5f24c0587d482e1a]” substitute “tax base for a part of its area”; and
+- (c) in paragraph (2)(d)(ii)[^c-8be2d4cf4d09778541a1009361a5acf4], for the words from “relevant” to the end substitute “tax base for the part of its area for the year.”.
 
-#### 13. Regulation 7 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992[^c-3ebcbd4b41794bb05ff84e80c4e61e6a]
+#### 10. Regulation 7 of the Local Authorities (Calculation of Council Tax Base) Regulations 1992
 
 In regulation 7 (calculation of council tax base for the purposes of a major precepting authority), in paragraph (2)—
 
-- (a) for “for the purposes of item TP in section 34(3)” substitute “by the billing authority under that regulation”, and
+- (a) for “for the purposes of item TP in section 34(3)” substitute “by the billing authority under that regulation”; and
 - (b) for the words from “the calculation” to the end substitute “that calculation”.
 
 ### The Local Authorities (Calculation of Council Tax Base) (Supply of Information) Regulations 1992
 
-#### 14. Regulation 4 of the Local Authorities (Calculation of Council Tax Base) (Supply of Information) Regulations 1992[^c-4c62dfb617161151044ad5bb2b8de920]
+#### 11. Regulation 4 of the Local Authorities (Calculation of Council Tax Base) (supply of Information) Regulations 1992
 
 In regulation 4 (supply of information to local precepting authorities), in paragraph (2)(a), for “for item TP in section 34(3) of the Act” substitute “as its council tax base”.
+
+## SCHEDULE 3 — REFERENDUMS RELATING TO COUNCIL TAX: MODIFICATIONS TO CHAPTERS 4ZA AND 6 OF PART 1 OF THE LOCAL GOVERNMENT FINANCE ACT 1992[^c-e3815f07ca23db08f16b801ea5827a46]
+
+Regulation 15A
+
+### PART 1 — Modifications having effect in the circumstances mentioned in regulation 15A(1)
+
+#### 1. Section 52ZC of the Local Government Finance Act 1992
+
+(1)[^c-da6df51302eaaaa443bf3ea21b15dfa7] This paragraph has effect in relation to determinations made by or in relation to a single-tier council.
+
+(2) In section 52ZC (determination of whether increase is excessive)—
+
+- (a) after subsection (1) insert—
+
+  > (1A) For these purposes—
+  >
+  > - (a) the principles mentioned in subsection (2)(b)(i) apply if for the year under consideration the authority calculates its basic amount of council tax under section 31B(1) above; and
+  > - (b) the principles mentioned in subsection (2)(b)(ii) apply if for that year the authority calculates basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations.
+
+  ;
+- (b) in subsection (2), for paragraph (b) substitute—
+
+  > - (b) must constitute or include—
+  >   - (i) a comparison falling within subsection (3A) below, and
+  >   - (ii)[^c-8d139256b30186c680c0a78018001d00] either—
+  >     - (aa) a comparison falling within subsection (3C) below; or
+  >     - (bb) a comparison falling within subsection (3D) below.
+
+  ;
+- (c) omit subsection (3); and
+- (d) before subsection (4) insert—
+
+  > (3A) A comparison falls within this subsection if it is between—
+  >
+  > - (a) the amount that would be calculated by the authority for the year under consideration under section 31B(1) above if section 31A above did not require or permit it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below; and
+  > - (b) the amount found by applying the formula—
+  >
+  >   [formula: see source](https://www.legislation.gov.uk/uksi/2008/3022)
+  >
+  >   where—
+  >
+  >   - A is the aggregate of the amounts calculated by applying the formula in subsection (3B) in relation to the financial year immediately preceding the year under consideration and in relation to—
+  >     - (a) each district council that was a district council for a predecessor area of the authority, and
+  >     - (b) each county council that was a county council for the whole or any part of the authority’s area; and
+  >   - B is the aggregate of the council tax bases calculated for the authority’s predecessor areas for the financial year immediately preceding the year under consideration.
+  >
+  > (3B) The formula is—
+  >
+  > [formula: see source](https://www.legislation.gov.uk/uksi/2008/3022)
+  >
+  > where—
+  >
+  > - C is—
+  >   - (a) in relation to a district council for a predecessor area of the authority, the amount that would have been calculated by the council under section 31B(1) above if section 31A above had not required or permitted the amounts mentioned in section 52ZX(1)(a) and (b) below to be taken into account,
+  >   - (b) in relation to a county council for the whole or any part of the authority’s area, the amount that would have been calculated by the council under section 42B(1) above if section 42A above had not required or permitted the amounts mentioned in section 52ZX(3)(a) and (b) below to be taken into account; and
+  > - D is—
+  >   - (a) in relation to a district council, the council tax base calculated for the area mentioned in paragraph (a) of the definition of item C above;
+  >   - (b) in relation to a county council, the council tax base calculated for the area or (as the case may be) the part of an area mentioned in paragraph (b) of that definition.
+  >
+  > (3C) A comparison falls within this subsection if it is to be made for each predecessor area between—
+  >
+  > - (a) the basic amount of council tax that would be calculated by the authority for the area for the year under consideration under Part 4 of the 2008 Regulations if section 31A above did not require or permit the authority to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below; and
+  > - (b) the aggregate of the amounts that would have been calculated for the area for the financial year immediately preceding the year under consideration—
+  >   - (i) by any district council for the predecessor area, under section 31B(1) above if section 31A above had not required or permitted the amounts mentioned in section 52ZX(1)(a) and (b) below to be taken into account, and
+  >   - (ii) by any county council that was a county council for the whole or any part of the predecessor area, under section 42B(1) above if section 42A above had not required or permitted the amounts mentioned in section 52ZX(3)(a) and (b) below to be taken into account.
+  >
+  > (3D)[^c-e660df7db9f9d0d2f7ebfd81578596f0] A comparison falls within this subsection if it is between—
+  >
+  > - (a) the amount that would have been the authority’s uniform amount of council tax for the year under consideration if section 31A above did not require or permit it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below; and
+  > - (b) the amount found by applying the formula in subsection (3A)(b) above.
+
+  .
+
+#### 1A.[^c-fa27d5051d7646a7f780d2fd8a6b37f3]
+
+(1) This paragraph has effect in relation to determinations made by or in relation to a merged council.
+
+(2) In section 52ZC (determination of whether increase is excessive)—
+
+- (a) after subsection (1) insert—
+
+  > (1A) For these purposes—
+  >
+  > - (a) the principles mentioned in subsection (2)(b)(i) apply if for the year under consideration the authority calculates its basic amount of council tax under section 31B(1) above; and
+  > - (b) the principles mentioned in subsection (2)(b)(ii) apply if for that year the authority calculates basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations.
+
+  ;
+- (b) in subsection (2), for paragraph (b) substitute—
+
+  > - (b) must constitute or include—
+  >   - (i) a comparison falling within subsection (3A) below, and
+  >   - (ii) either—
+  >     - (aa) a comparison falling within subsection (3C) below; or
+  >     - (bb) a comparison falling within subsection (3D) below.
+- (c) omit subsection (3); and
+- (d) before subsection (4) insert—
+
+  > (3A) A comparison falls within this subsection if it is between—
+  >
+  > - (a) the amount that would be calculated by the authority for the year under consideration under section 31B(1) above if section 31A above did not require or permit it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below; and
+  > - (b) the amount found by applying the formula—
+  >
+  >   [formula: see source](https://www.legislation.gov.uk/uksi/2008/3022)
+  >
+  >   where—
+  >
+  >   - A is the aggregate of the amounts calculated by applying the formula in subsection (3B) in relation to the financial year immediately preceding the year under consideration and in relation to each district council that was a district council for a predecessor area of the authority, and
+  >   - B is the aggregate of the council tax bases calculated for the authority’s predecessor areas for the financial year immediately preceding the year under consideration.
+  >
+  > (3B) The formula is—
+  >
+  > [formula: see source](https://www.legislation.gov.uk/uksi/2008/3022)
+  >
+  > where—
+  >
+  > - C is, in relation to a district council for a predecessor area of the authority, the amount that would have been calculated by the council under section 31B(1) above if section 31A above had not required or permitted the amounts mentioned in section 52ZX(1)(a) and (b) below to be taken into account, and
+  > - D is the council tax base calculated for the area mentioned in the definition of item C above.
+  >
+  > (3C) A comparison falls within this subsection if it is to be made for each predecessor area between—
+  >
+  > - (a) the basic amount of council tax that would be calculated by the authority for the area for the year under consideration under Part 4 of the 2008 Regulations if section 31A above did not require or permit the authority to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below; and
+  > - (b) the aggregate of the amounts that would have been calculated for the area for the financial year immediately preceding the year under consideration by any district council for the predecessor area, under section 31B(1) above if section 31A above had not required or permitted the amounts mentioned in section 52ZX(1)(a) and (b) below to be taken into account.
+  >
+  > (3D) A comparison falls within this subsection if it is between—
+  >
+  > - (a) the amount that would have been that authority’s uniform amount of council tax for the year under consideration if section 31A above did not require or permit it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below; and
+  > - (b) the amount found by applying the formula in subsection (3A)(b) above.
+
+  .
+
+#### 2. Section 52ZE of the Local Government Finance Act 1992
+
+In section 52ZE (alternative notional amounts)—
+
+- (a) in subsection (2), for the words from “the authority’s” to the end substitute—
+
+  > —
+  >
+  > - (a) the amount mentioned in section 52ZC(3A)(b) above; or
+  > - (b) the aggregate amount mentioned in section 52ZC(3C)(b) above ; or[^c-acf334795eed5be0e7914351a615960a]
+  > - (c)[^c-783144d512955635c6d1097c0e948250] the amount mentioned in section 52ZC(3D)(b) above.
+
+  ; and
+- (b) in subsection (5), for the words from “the reference” to the end substitute “(as the case may be) the amount mentioned in section 52ZC(3A)(b) above, or the aggregate amount mentioned in section 52ZC(3C)(b) above, or the amount mentioned in section 52ZC(3D)(b) above,[^c-2a721112658e2b2599d619952582dcf9] were replaced with alternative notional amount.”.
+
+#### 3. Section 52ZF of the Local Government Finance Act 1992
+
+In section 52ZF (billing authority’s duty to make substitute calculations)—
+
+- (a) for subsection (2)(a) substitute—
+
+  > - (a) they are made in accordance with—
+  >   - (i) if the authority calculates its basic amount of council tax under section 31B(1) above, sections 31A, 31B and 34 to 36 above, or
+  >   - (ii) if the authority calculates basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, sections 31A, 31B and 36 above and Part 4 of the 2008 Regulations,
+  >
+  >   in each case ignoring section 31A(11) above for this purpose,
+
+  ; and
+- (b) in subsection (3)—
+  - (i) omit “and” at the end of paragraph (a), and
+  - (ii) for paragraph (b) substitute—
+
+    > - (b) use the amount determined in the previous calculation for the year for item T in section 31B(1) above,
+    > - (c) use each amount determined in the previous calculation for the year as the council tax base for a part of the authority’s area including (where applicable) item TP in section 34(3) above, and
+    > - (d) if it calculated basic amounts of council tax for its predecessor areas for the year under Part 4 of the 2008 Regulations, ensure that the basic amount of council tax calculated for each predecessor area is less than the amount so calculated under the previous calculation.
+
+    .
+
+#### 4. Section 52ZG of the Local Government Finance Act 1992
+
+In section 52ZG (arrangements for referendum), for subsection (1) substitute—
+
+> (1) The billing authority must make arrangements to hold a referendum in accordance with this section in relation to—
+>
+> - (a) if the authority calculates its basic amount of council tax for the financial year under section 31B(1) above, the authority’s relevant basic amount of council tax for the year;
+> - (b) if the authority calculates basic amounts of council tax for its predecessor areas for the financial year under Part 4 of the 2008 Regulations, the amount that would be the authority’s uniform amount of council tax for the year if section 31A above did not require or permit it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below.
+
+.
+
+#### 5. Section 52ZH of the Local Government Finance Act 1992
+
+In section 52ZH (effect of referendum), in each of subsections (2) and (4), for the words from “billing” to “year” substitute “amount mentioned in section 52ZG(1)(a) above, or the amount mentioned in section 52ZG(1)(b) above (as the case may be),”.
+
+#### 6. Section 52ZR of the Local Government Finance Act 1992
+
+In section 52ZR (direction that referendum provisions are not to apply)—
+
+- (a) in subsection (6)(a), for the words from “the authority’s” to “year” substitute “the amount mentioned in section 52ZG(1)(a) above, or the amount mentioned in section 52ZG(1)(b) above (as the case may be)”; and
+- (b) in subsection (8), in the definition of “council tax calculations” for paragraph (a) substitute—
+
+  > - (a) in relation to a billing authority—
+  >   - (i) if the authority calculates its basic amount of council tax under section 31B(1) above, sections 31A, 31B and 34 to 36 above, or
+  >   - (ii) if the authority calculates basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, sections 31A, 31B and 36 above and Part 4 of the 2008 Regulations,
+
+  .
+
+#### 7. Section 52ZX of the Local Government Finance Act 1992
+
+In section 52ZX (meaning of relevant basic amount of council tax)
+
+- (a) at the beginning of subsection (1) insert “Subject to subsection (1A),”; and
+- (b) after subsection (1) insert—
+
+  > (1A) In the case of an authority which has power in relation to a financial year to calculate basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, any reference in this Chapter to the billing authority’s relevant basic amount of council tax for the financial year is a reference to—
+  >
+  > - (a) if the authority calculates its basic amount of council tax under section 31B(1) above, the amount that would be calculated by the authority under that section if section 31A above did not require or permit it to take into account the amounts mentioned in subsection (1)(a) and (b); or
+  > - (b) if the authority calculates basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, each of the amounts that would be calculated by the authority under those Regulations if section 31A above did not require or permit it to take into account the amounts mentioned in subsection (1)(a) and (b).
+
+  .
+
+#### 8. Section 69 of the Local Government Finance Act 1992
+
+In section 69 (interpretation), in subsection (1) insert each of the following definitions in the appropriate place—
+
+> - “the 2008 Regulations” means the Local Government (Structural Changes) (Finance) Regulations 2008;
+
+;
+
+> - “predecessor area” has the same meaning as in the 2008 Regulations;
+
+;
+
+> - “uniform amount” has the same meaning as in the 2008 Regulations;
+
+.
+
+### PART 2 — Modifications having effect in the circumstances mentioned in regulation 15A(2)
+
+#### 9. Section 52ZC of the Local Government Finance Act 1992
+
+In section 52ZC (determination of whether increase is excessive)—
+
+- (a) after subsection (1), insert—
+
+  > (1A) For these purposes—
+  >
+  > - (a) the principles mentioned in subsection (2)(b)(i) apply if for the year under consideration the authority calculates its basic amount of council tax under section 31B(1) above; and
+  > - (b) the principles mentioned in subsection (2)(b)(ii) apply if for that year the authority calculates basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations.
+
+  ;
+- (b) in subsection (2), for paragraph (b) substitute—
+
+  > - (b) must constitute or include—
+  >   - (i) a comparison falling within subsection (3A) below, and
+  >   - (ii)[^c-561efe7bf91902048be367db1200c025] either—
+  >     - (aa) a comparison falling within subsection (3C) below; or
+  >     - (bb) a comparison falling within subsection (3F) below.
+
+  ;
+- (c) omit subsection (3); and
+- (d) before subsection (4) insert—
+
+  > (3A) A comparison falls within this subsection if it is between—
+  >
+  > - (a) the amount that would be calculated by the authority for the year under consideration under section 31B(1) above if section 31A above did not require or permit it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below; and
+  > - (b) the amount that would have been the authority’s uniform amount of council tax for the financial year immediately preceding that year if section 31A above had not required or permitted it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below.
+  >
+  > (3B) For the financial year beginning on 1st April 2012, subsection (3A)(b) shall have effect as if the reference to “section 31A above” were a reference to “section 32”.
+  >
+  > (3C) Subject to subsections (3D) and (3E) below, a comparison falls within this subsection if it is to be made for each predecessor area between —
+  >
+  > - (a) the basic amount of council tax that would be calculated by the authority for the area for the year under consideration under Part 4 of the 2008 Regulations if section 31A above did not require or permit the authority to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below; and
+  > - (b) the basic amount of council tax that would have been calculated by the authority for the area for the financial year immediately preceding the year under consideration under Part 4 of the 2008 Regulations if section 31A above had not required or permitted the authority to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below.
+  >
+  > (3D) Subsection (3E) applies if an authority’s principal area for the year under consideration is comprised of—
+  >
+  > - (a) its principal area for the financial year immediately preceding the year under consideration; and
+  > - (b) one or more other areas each of which were predecessor areas for the financial year preceding the year under consideration.
+  >
+  > (3E) In relation to the year under consideration, subsection (3C)(b) applies as if—
+  >
+  > - (a) the areas mentioned in subsection (3D)(a) and (b) were the authority’s principal area for the financial year immediately preceding the year under consideration; and
+  > - (b) the amount calculated for that area were the lowest amount that would be calculated under subsection (3C)(b) if separate calculations were made for each of the areas mentioned in paragraph (3D)(b).
+  >
+  > (3F)[^c-8c59f74f1304ecfa3c597d8f3f1c0d22] A comparison falls within this subsection if it is between—
+  >
+  > - (a) the amount that would have been the authority’s uniform amount of council tax for the year under consideration if section 31A above did not require or permit it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below; and
+  > - (b) the amount that would have been the authority’s uniform amount of council tax for the financial year immediately preceding that year if section 31A above had not required or permitted it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below.
+
+  .
+
+#### 10. Section 52ZE of the Local Government Finance Act 1992
+
+In section 52ZE (alternative notional amounts)—
+
+- (a) in subsection (2), for the words from “the authority’s” to the end substitute—
+
+  > —
+  >
+  > - (a) the amount mentioned in section 52ZC(3A)(b) above; or
+  > - (b) the amount mentioned in section 52ZC(3C)(b) above when that section is read with section 52ZC(3D) and (3E) above ; or[^c-ae1bf23be3aa427ebc8b20155edf582e]
+  > - (c)[^c-cda18c2c6c7542878af8a7bb6cf99dfa] the amount mentioned in section 52ZC(3F)(b) above.
+
+  ; and
+- (b) in subsection (5), for the words from “the reference” to the end substitute “(as the case may be) the amount mentioned in section 52ZC(3A)(b) above, or the amount mentioned in section 52ZC(3C)(b) above when that section is read with section 52ZC(3D) and (3E) above, or the amount mentioned in section 52ZC(3F)(b) above,[^c-cf6918ee0e0d07886271cd645ecfe17d] were replaced with the alternative notional amount.”.
+
+#### 11. Section 52ZF of the Local Government Finance Act 1992
+
+In section 52ZF (billing authority’s duty to make substitute calculations)—
+
+- (a) for subsection (2)(a) substitute—
+
+  > - (a) they are made in accordance with—
+  >   - (i) if the authority calculates its basic amount of council tax under section 31B(1) above, sections 31A, 31B and 34 to 36 above, or
+  >   - (ii) if the authority calculates basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, sections 31A, 31B and 36 above and Part 4 of the 2008 Regulations,
+  >
+  >   in each case ignoring section 31A(11) above for this purpose,
+
+  ; and
+- (b) in subsection (3)—
+  - (i) omit “and” at the end of paragraph (a), and
+  - (ii) for paragraph (b) substitute—
+
+    > - (b) use the amount determined in the previous calculation for the year for item T in section 31B(1) above,
+    > - (c) use each amount determined in the previous calculation for the year as the council tax base for a part of the authority’s area including (where applicable) item TP in section 34(3) above, and
+    > - (d) if it calculated basic amounts of council tax for its predecessor areas for the year under Part 4 of the 2008 Regulations, ensure that the basic amount of council tax calculated for each predecessor area is less than the amount so calculated under the previous calculation.
+
+    .
+
+#### 12. Section 52ZG of the Local Government Finance Act 1992
+
+In section 52ZG (arrangements for referendum), for subsection (1) substitute—
+
+> (1) The billing authority must make arrangements to hold a referendum in accordance with this section in relation to—
+>
+> - (a) if the authority calculates its basic amount of council tax for the financial year under section 31B(1) above, the authority’s relevant basic amount of council tax for the year;
+> - (b) if the authority calculates basic amounts of council tax for its predecessor areas for the financial year under Part 4 of the 2008 Regulations, the amount that would be the authority’s uniform amount of council tax for the year if section 31A above did not require or permit it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below.
+
+.
+
+#### 13. Section 52ZH of the Local Government Finance Act 1992
+
+In section 52ZH (effect of referendum), in each of subsections (2) and (4), for the words from “billing” to “year” substitute “amount mentioned in section 52ZG(1)(a) above, or the amount mentioned in section 52ZG(1)(b) above (as the case may be),”.
+
+#### 14. Section 52ZR of the Local Government Finance Act 1992
+
+In section 52ZR (direction that referendum provisions are not to apply)—
+
+- (a) in subsection (6)(a), for the words from “the authority’s” to “year” substitute “the amount mentioned in section 52ZG(1)(a) above, or the amount mentioned in section 52ZG(1)(b) above (as the case may be)”; and
+- (b) in subsection (8), in the definition of “council tax calculations” for paragraph (a) substitute—
+
+  > - (a) in relation to a billing authority—
+  >   - (i) if the authority calculates its basic amount of council tax under section 31B(1) above, sections 31A, 31B and 34 to 36 above, or
+  >   - (ii) if the authority calculates basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, sections 31A, 31B and 36 above and Part 4 of the 2008 Regulations,
+
+  .
+
+#### 15. Section 52ZX of the Local Government Finance Act 1992
+
+In section 52ZX (meaning of relevant basic amount of council tax)
+
+- (a) at the beginning of subsection (1) insert “Subject to subsection (1A),”; and
+- (b) after subsection (1) insert—
+
+  > (1A) In the case of an authority which has power in relation to a financial year to calculate basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, any reference in this Chapter to the billing authority’s relevant basic amount of council tax for the financial year is a reference to—
+  >
+  > - (a) if the authority calculates its basic amount of council tax under section 31B(1) above, the amount that would be calculated by the authority under that section if section 31A above did not require or permit it to take into account the amounts mentioned in subsection (1)(a) and (b); or
+  > - (b) if the authority calculates basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, each of the amounts that would be calculated by the authority under those Regulations if section 31A above did not require or permit it to take into account the amounts mentioned in subsection (1)(a) and (b).
+
+  .
+
+#### 16. Section 69 of the Local Government Finance Act 1992
+
+In section 69 (interpretation), in subsection (1) insert each of the following definitions in the appropriate place—
+
+> - “the 2008 Regulations” means the Local Government (Structural Changes) (Finance) Regulations 2008;
+
+;
+
+> - “predecessor area” has the same meaning as in the 2008 Regulations;
+
+;
+
+> - “principal area” has the same meaning as in the 2008 Regulations;
+
+;
+
+> - “uniform amount” has the same meaning as in the 2008 Regulations;
+
+.
+
+### PART 3 — Modifications having effect in the circumstances mentioned in regulation 15A(3)
+
+#### 17. Section 52ZC of the Local Government Finance Act 1992
+
+In section 52ZC (determination of whether increase is excessive)—
+
+- (a) for subsection (3)(b) substitute—
+
+  > - (b) the amount that would have been the authority’s uniform amount of council tax for the financial year immediately preceding the year under consideration if section 31A above had not required or permitted it to take into account the amounts mentioned in section 52ZX(1)(a) and (b) below.
+
+  , and
+- (b) after paragraph (7) insert—
+
+  > (8) In this section, “uniform amount of council tax” has the same meaning as in the Local Government (Structural Changes) (Finance) Regulations 2008.
+
+  .
+
+#### 18. Section 52ZE of the Local Government Finance Act 1992[^c-32be69bd5345ebee2a0210a98def5f23]
+
+In section 52ZE (alternative notional amounts) in subsection (2) for the words from “the authority’s” to the end substitute “the amount mentioned in section 52ZC(3)(b) above.
+
+## SCHEDULE 4 — COUNCIL TAX DEMAND NOTICES: MODIFICATIONS TO THE COUNCIL TAX (DEMAND NOTICES) (ENGLAND) REGULATIONS 2011[^c-f0d9d287982b872a276fc02bcbbfe166]
+
+Regulation 15B
+
+### 1. Modifications to Schedule 1 to the Council Tax (Demand Notices) (England) Regulations 2011
+
+In paragraph 1 (interpretation) in the appropriate places in the list of definitions insert—
+
+> - “the 2008 Regulations” means the Local Government (Structural Changes) (Finance) Regulations 2008;
+
+;
+
+> - “predecessor area” has the meaning given in regulation 12(1) (interpretation) of the 2008 Regulations;
+
+;
+
+> - “predecessor council” in relation to a billing authority means the council (whether a district council or a county council) for any area, or any part of an area, which has become the area, or part of the area, of the billing authority by or in consequence of an order under section 7 of the Local Government and Public Involvement in Health Act 2007;
+
+;
+
+> - “reorganisation date” has the meaning given in regulation 2 (interpretation) of the 2008 Regulations.
+
+.
+
+**2.** In paragraph 7 (amount of council tax) after “Subject to paragraph 7A” insert “, paragraph 7B or paragraph 7C”.
+
+**3.** After paragraph 7A insert—
+
+> **7B.** (1) This paragraph applies instead of paragraph 7—
+>
+> - (a) in relation to the year beginning on the reorganisation date and to any subsequent year;
+> - (b) where the billing authority is an adult social care authority;
+> - (c) where the authority has calculated basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations;
+> - (d) where the amount set by the authority under section 30 of the Act includes an amount attributable to the adult social care precept in the relevant year or in any prior year; and
+> - (e) where any predecessor council—
+>   - (i) was an adult social care authority or the billing authority for an adult social care authority; and
+>   - (ii) had in any prior year set an amount under section 30 of the Act which included an amount attributable to the adult social care precept.
+>
+> (2) For each predecessor area the notice must contain the matters specified in sub-paragraphs (3) and (4).
+>
+> (3) The amount set by the authority under section 30 of the Act less—
+>
+> - (a) any amount which is attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in the relevant year and in any prior year; and
+> - (b) any amount which is attributable to the adult social care precept in the amount set by the predecessor council under section 30 of the Act in any prior year.
+>
+> (4) The amount attributable to the adult social care precept.
+>
+> (5) The amount referred to in sub-paragraph (4) must represent the aggregate of—
+>
+> - (a) the amount attributable to the adult social care precept in the relevant year; and
+> - (b) the aggregate of—
+>   - (i) any amount attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in any prior year; and
+>   - (ii) any amount attributable to the adult social care precept in the amount set by the predecessor council under section 30 of the Act in any prior year.
+>
+> **7C.** (1) This paragraph applies instead of paragraph 7—
+>
+> - (a) in relation to the year beginning on the reorganisation date and to any subsequent year;
+> - (b) where the billing authority is an adult social care authority;
+> - (c) where the authority has calculated its basic amount of council tax under section 31B(1) of the Act;
+> - (d) where the amount set by the authority under section 30 of the Act includes an amount attributable to the adult social care precept in the relevant year or in any prior year; and
+> - (e) where any predecessor council—
+>   - (i) was an adult social care authority or the billing authority for an adult social care authority; and
+>   - (ii) had in any prior year set an amount under section 30 of the Act which included an amount attributable to the adult social care precept.
+>
+> (2) The notice must contain the matters specified in sub-paragraphs (3) and (4).
+>
+> (3) The amount set by the authority under section 30 of the Act less—
+>
+> - (a) any amount which is attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in the relevant year;
+> - (b) any amount which is attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in any prior year in which the authority calculated its basic amount of council tax under section 31B(1) of the Act;
+> - (c) in relation to any prior year in which the authority calculated basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, the amount found by applying the formula—
+>
+>   [formula: see source](https://www.legislation.gov.uk/uksi/2008/3022)
+>
+>   where—
+>
+>   - A is the aggregate of any amounts which are attributable to the adult social care precept in the amounts set by the authority for its predecessor areas under section 30 of the Act, and
+>   - B is the number of predecessor areas in relation to which the authority has set an amount under section 30 of the Act which includes an amount attributable to the adult social care precept; and
+> - (d) in relation to any prior year in which the authority’s predecessor councils calculated basic amounts of council tax under section 31B(1) of the Act, the amount found by applying the formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2008/3022)
+>
+> where—
+>
+> - A is the aggregate of any amounts which are attributable to the adult social care precept in the amounts set by the authority’s predecessor councils under section 30 of the Act, and
+> - B is the number of predecessor councils who set an amount under section 30 of the Act which included an amount attributable to the adult social care precept.
+>
+> (4) The amount attributable to the adult social care precept.
+>
+> (5) The amount referred to in sub-paragraph (4) must represent the aggregate of—
+>
+> - (a) the amount attributable to the adult social care precept in the relevant year; and
+> - (b) the aggregate of—
+>   - (i) any amount attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in any prior year in which the authority calculated its basic amount of council tax under section 31B(1) of the Act;
+>   - (ii) in relation to any prior year in which the authority calculated basic amounts of council tax for its predecessor areas under Part 4 of the 2008 Regulations, the amount found by applying the formula in sub-paragraph (3)(c); and
+>   - (iii) in relation to any prior year in which the authority’s predecessor councils calculated basic amounts of council tax under section 31B(1) of the Act, the amount found by applying the formula in sub-paragraph (3)(d).
+
+.
+
+**4.** In paragraph 12A (adult social care funding) after “paragraph 7A” insert “, paragraph 7B or paragraph 7C”.
+
+**5.** In paragraph 13 after “14,” insert “14A,”.
+
+**6.** In paragraph 14 after “in the relevant year” insert “is not an adult social care authority and”.
+
+**7.** After paragraph 14 insert—
+
+> **14A.** Paragraph 15A applies instead of paragraph 13—
+>
+> - (a) where the authority exercising a relevant function as at 1st April in the relevant year is—
+>   - (i) an adult social care authority;
+>   - (ii) is different from the authority that exercised that function as at 1st April in the preceding year in consequence of an order under Part 1 of the Local Government and Public Involvement in Health Act 2007; and
+> - (b) to the extent that paragraph 13 applies to the amount in paragraph 7.
+
+.
+
+**8.** After paragraph 15 insert—
+
+> **15A.** Where this paragraph applies, the matters are—
+>
+> - (a) an explanation of why a different authority is exercising the function as at 1st April in the relevant year;
+> - (b) the relevant amounts which were included in notices issued (whether by the billing authority or another billing authority) for—
+>   - (i) the preceding year, and
+>   - (ii) the relevant valuation band and the category of dwellings which at that time included the dwelling; and
+> - (c) where the notice specifies an amount under paragraph 7B(3), for each predecessor area the percentage change between—
+>   - (i) the amount set by the predecessor council under section 30 of the Act for the preceding year, and the relevant valuation band and the category of dwellings which at that time included the dwelling, and
+>   - (ii) the amount set by the authority under section 30 of the Act for the relevant year, the applicable band and the category of dwellings which includes the dwelling, less—
+>     - (aa) any amount which is attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in the relevant year;
+>     - (bb) any amount which is attributable to the adult social care precept in the amount set by the predecessor council under section 30 of the Act in any prior year,
+>
+>   expressed to one decimal place;
+> - (d) where the notice specifies an amount under paragraph 7B(4), both—
+>   - (i) the percentage change calculated in accordance with sub-paragraph (c); and
+>   - (ii) for each predecessor area the number of percentage points which the amount attributable to the adult social care precept in the relevant year represents as part of the percentage change between—
+>     - (aa) the amount set by the predecessor council under section 30 of the Act in the preceding year; and
+>     - (bb) the amount set by the authority under section 30 of the Act in the relevant year,
+>
+>     expressed to one decimal place;
+> - (e) where the notice specifies an amount under paragraph 7C(3), the percentage change between—
+>   - (i) the amount set by the predecessor council under section 30 of the Act for the preceding year, and
+>   - (ii) the amount set by the authority under section 30 of the Act for the relevant year, less—
+>     - (aa) any amount which is attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in the relevant year;
+>     - (bb) any amount which is attributable to the adult social care precept in the amounts set by the predecessor councils under section 30 of the Act in any prior year,
+>
+>   expressed to one decimal place;
+> - (f) where the notice specifies an amount under paragraph 7C(4), both—
+>   - (i) the percentage change calculated in accordance with sub-paragraph (e); and
+>   - (ii) the number of percentage points which the amount attributable to the adult social care precept in the relevant year represents as part of the percentage change between—
+>     - (aa) the amount set by the predecessor council under section 30 of the Act in the preceding year; and
+>     - (bb) the amount set by the authority under section 30 of the Act in the relevant year,
+>
+>     expressed to one decimal place.
+
+.
+
+**9.** After paragraph 16 insert—
+
+> **16A.** The matters in paragraph 15A(a) and (b) may be included as a footnote to the matter in paragraph 15A(c).
+
+.
+
+**10.** In paragraph 17 for “paragraphs 13 and 15(b) and (c)” substitute “paragraphs 13, 15(b) and (c) and 15A (b), (c), (d), (e) and (f)”.
+
+**11.** In paragraph 17A (comparisons with the preceding year) after sub-paragraph (3) insert—
+
+> (4) Where the notice specifies an amount under paragraph 7B(3), for each predecessor area the percentage change between—
+>
+> - (a) the amount set by the authority under section 30 of the Act for the preceding year, and
+> - (b) the amount set by the authority under section 30 of the Act for the relevant year, less—
+>   - (i) any amount which is attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in the relevant year and in any prior year;
+>   - (ii) any amount which is attributable to the adult social care precept in the amount set by the predecessor council under section 30 of the Act in any prior year,
+>
+> expressed to one decimal place.
+>
+> (5) Where the notice specifies an amount under paragraph 7B(4), both—
+>
+> - (a) the percentage change calculated in accordance with sub-paragraph (4); and
+> - (b) for each predecessor area the number of percentage points which the amount attributable to the adult social care precept in the relevant year represents as part of the percentage change between—
+>   - (i) the amount set by the authority under section 30 of the Act in the preceding year; and
+>   - (ii) the amount set by the authority under section 30 of the Act in the relevant year,
+>
+>   expressed to one decimal place.
+>
+> (6) Where the notice specifies an amount under paragraph 7C(3), the percentage change between—
+>
+> - (a) the amount set by the authority under section 30 for the preceding year, and
+> - (b) the amount set by the authority under section 30 of the Act for the relevant year, less—
+>   - (i) any amount which is attributable to the adult social care precept in the amount set by the authority under section 30 of the Act in the relevant year and in any prior year;
+>   - (ii) any amount which is attributable to the adult social care precept in the amounts set by the predecessor councils under section 30 of the Act in any prior year,
+>
+> expressed to one decimal place.
+>
+> (7) Where the notice specifies an amount under paragraph 7C(4), both—
+>
+> - (a) the percentage change calculated in accordance with sub-paragraph (6); and
+> - (b) the number of percentage points which the amount attributable to the adult social care precept in the relevant year represents as part of the percentage change between—
+>   - (i) the amount set by the authority under section 30 of the Act in the preceding year; and
+>   - (ii) the amount set by the authority under section 30 of the Act in the relevant year,
+>
+>   expressed to one decimal place.
+
+.
 
 EXPLANATORY NOTE
 
@@ -712,120 +1317,190 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). Section 14(2) provides for subsection (1) to be read with section 15.
 
-[^c-a0e629f6ca462325793d5337eb063fbe]: Commencement: Reg. 1 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-a0e629f6ca462325793d5337eb063fbe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^c-4a329927c1ad8445d7c7798ab09ddd33]: Commencement: Reg. 2 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-4a329927c1ad8445d7c7798ab09ddd33]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/3022/regulation/2) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00002]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41).
 
 [^f00003]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^f00004]: Footnote: As to an area which is “single-tier”, *see* section 23(2)(a) of the 2007 Act.
+[^c-d2eb292c64ebf2b6273b656454289a9a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/3022/regulation/2) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/3/b)
+
+[^c-32a472beb7e41d3f150577f3f3e679f8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/3022/regulation/2) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/3/a)
+
+[^c-7d8482102f348200b8b0233a5b0a2c53]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/3022/regulation/2) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/3/c)
+
+[^c-2c84d2f675a4a680b108227fe27818bc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/3022/regulation/2) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/3/d)
+
+[^c-4e0348b29409812b7a9ca22e79c1044d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/3022/regulation/2) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/3/e)
 
 [^f00005]: Footnote: The term “billing authority” is defined in section 1(2) of the 1992 Act.
 
-[^c-b64e3eb20b9830d6469bcac697ee47dc]: Commencement: Reg. 3 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-b64e3eb20b9830d6469bcac697ee47dc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/3022/regulation/3) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^f00006]: Footnote: Sections 52I and 52T were inserted into the 1992 Act by paragraph 1 of Schedule 1 to the Local Government Act [1999 (c.27)](https://www.legislation.gov.uk/ukpga/1999/27).
+[^c-5c2e75c14189a8411e3f6f9b1151b271]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/3/a) substituted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/20/regulation/3)
 
-[^c-aaacd879bcfbbf5d61071f4f24a7a5f7]: Commencement: Reg. 4 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-aaacd879bcfbbf5d61071f4f24a7a5f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/3022/regulation/4) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), to which there are amendments not relevant to these Regulations.
 
-[^c-c9a052093e868535a70dc45d57a79f76]: Commencement: Reg. 5 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-0c87ba53f7d39b34654f1ba566f215ad]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/4/3/a) substituted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2012/20/regulation/4)
 
-[^c-52ca18ee265d78d17d489711f1ae428b]: Commencement: Reg. 6 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-c9a052093e868535a70dc45d57a79f76]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/3022/regulation/5) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-52ca18ee265d78d17d489711f1ae428b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/3022/regulation/6) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00008]: Footnote: The term “billing authority” is defined in section 144(2) of the 1988 Act, which section was substituted by paragraph 81 of Schedule 13 to the 1992 Act.
 
 [^f00009]: Footnote: Section 61(1)(a) was amended by paragraph 69 of Schedule 13 to the 1992 Act.
 
-[^c-6b50d6dc023294fa445b9a5c59f1700e]: Commencement: Reg. 7 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-6b50d6dc023294fa445b9a5c59f1700e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/3022/regulation/7) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00010]: Footnote: The term “major precepting authority” is defined in section 39(1) of the 1992 Act.
 
-[^c-158df1e771fff79f86bd9eca1af7f396]: Commencement: Reg. 8 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-158df1e771fff79f86bd9eca1af7f396]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/3022/regulation/8) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^c-2905457e6f67f658234811d2c3364b7c]: Commencement: Reg. 9 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-2857780d07f369f210b29e17ff8731fd]: Textual amendment: Words in [reg. 8(b)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/8/b) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1296/regulation/4)
 
-[^c-2b6ffea1e5a1e09799fe0cfe3bfb7484]: Commencement: Reg. 10 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-2905457e6f67f658234811d2c3364b7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/3022/regulation/9) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^c-e275d62ebbd652505c08c24e3a553eff]: Commencement: Reg. 11 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-baef1a9655d50d6ffca413d345f31f37]: Textual amendment: Reg. 9 renumbered as reg. 9(1) (8.5.2026) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2026 (S.I. 2026/406)](https://www.legislation.gov.uk/uksi/2026/406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/406/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/406/regulation/2/a)
 
-[^c-b3f81137ff5d793228cd2611af34cae4]: Commencement: Reg. 12 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-4a090ac3a0083ed11d4a643463a41239]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2008/3022/regulation/9) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/1296/regulation/5)
 
-[^f00011]: Footnote: [S.I. 1992/612](https://www.legislation.gov.uk/uksi/1992/612); relevant amending instruments are [S.I. 1992/2943](https://www.legislation.gov.uk/uksi/1992/2943), [1999/3437](https://www.legislation.gov.uk/uksi/1999/3437) and [2003/3012](https://www.legislation.gov.uk/uksi/2003/3012).
+[^c-5c84cab13cd6aa4c2bc6829866a8f318]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/9/3) inserted (8.5.2026) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2026 (S.I. 2026/406)](https://www.legislation.gov.uk/uksi/2026/406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/406/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/406/regulation/2/b)
+
+[^c-2b6ffea1e5a1e09799fe0cfe3bfb7484]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2008/3022/regulation/10) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-c51b64b159fa1b74bea2d20aa289e13e]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2008/3022/regulation/10) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/1296/regulation/6)
+
+[^c-e275d62ebbd652505c08c24e3a553eff]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2008/3022/regulation/11) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-54ac4c76abc0e79039df7ac402494bed]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2008/3022/regulation/11) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/1296/regulation/7)
+
+[^c-b3f81137ff5d793228cd2611af34cae4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2008/3022/regulation/12) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-410716cd96fae2d5888087f7bd8fbc19]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2008/3022/regulation/12) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1296/regulation/8)
+
+[^c-302676333a0a50746901d581025f50a1]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/12/1) substituted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/3/a)
+
+[^c-ebcf94ffc35eb288187e8f62cb341709]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/12/1) substituted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2012/20/regulation/5/a)
 
 [^f00012]: Footnote: Section 33(1) was amended by paragraph 5 of Schedule 12 to the Local Government (Wales) Act 1994, [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246), [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234) and in relation to the financial year beginning on 1st April 2008 by [S.I. 2008/227](https://www.legislation.gov.uk/uksi/2008/227).
 
-[^c-dd83f9dce823ed1576d0b80cc8743502]: Commencement: Reg. 13 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-06b065b396e5ce6554de6e4fd69fdcd4]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/12/1) substituted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2012/20/regulation/5/b)
 
-[^c-59ffdda06168a589b7f69053d0963a75]: Commencement: Reg. 14 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-5c8add1930b98130f07cceb726eadc7f]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/12/3) substituted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2012/20/regulation/5/c)
 
-[^c-094783984f350843e2401171fd9ee76f]: Commencement: Reg. 15 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-dd83f9dce823ed1576d0b80cc8743502]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2008/3022/regulation/13) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-59ffdda06168a589b7f69053d0963a75]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2008/3022/regulation/14) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-094783984f350843e2401171fd9ee76f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-7a4b9145c72d134a9c04a305264398c2]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15/1/b) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [9(a)(i)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/9/a/i)
+
+[^c-efd1d1d0e3bd79ffbb69eea74d4c07d1]: Textual amendment: [Reg. 15(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15/1/b/iv): comma substituted for full stop (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/9/a/ii)
+
+[^c-415c27aeb355a0bb39d73c7f9185e722]: Textual amendment: [Reg. 15(1)(b)(v)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15/1/b/v)[(vi)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15/1/b/vi) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [9(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/9/a/iii)
+
+[^c-923be4d9456811d53e72dd383af0e13d]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15/2/a) substituted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2012/20/regulation/6/a)
+
+[^c-e0e88ce3833c9d2c6c276dbd427799e4]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15/3) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/9/b)
+
+[^c-8343914db50da80eb68794fdbbd8d9b6]: Textual amendment: Words in [reg. 15(6)(a)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15/6/a) inserted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2012/20/regulation/6/b)
 
 [^f00013]: Footnote: [S.I. 1992/2904](https://www.legislation.gov.uk/uksi/1992/2904), to which there are amendments not relevant to these Regulations.
 
-[^c-a72654939df851d6e8fdd13cdeaa8950]: Commencement: Reg. 16 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-fb1aa4030c3dbc5716e8b145b3a8e5c2]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15A) inserted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/20/regulation/7)
 
-[^c-2b733fcad3529aaca948280773e08eaf]: Commencement: Reg. 17 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-00550971e725ef6bf4fa59868d1cafe2]: Textual amendment: Words in [reg. 15A(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15A/2) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/10/a)
 
-[^c-3b8e946dbf64950525f33e83ac8ca0d1]: Commencement: Reg. 18 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-146ffce663f67123fe422a6d2f720fb1]: Textual amendment: Words in [reg. 15A(3)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15A/3) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/10/b/i)
 
-[^c-efc80f9ccf337fcea5532de527a5b7c5]: Commencement: Reg. 19 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-dfe8a91c4c2f66fde0ace00bb8252254]: Textual amendment: Words in [reg. 15A(3)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15A/3) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/10/b/ii)
 
-[^c-54d95d9e1d1931be9a6cf0bcd5424c7e]: Commencement: Reg. 20 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-1c3b8f7fa5749324189356de0dc4f5b4]: Textual amendment: [Reg. 15B](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15B) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1296/regulation/11)
 
-[^c-a078b1cc6e57d4491487d27e0c4ac717]: Commencement: Reg. 21 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-ef85947d4116fdadeab9825a492a0e21]: Textual amendment: Reg. 15B renumbered as reg. 15B(1) (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/3/2/a)
 
-[^c-d4530287dcbbea6c3c3d9225f0a7f8f1]: Commencement: Reg. 22 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-5aee5b3f30a0b42feea62772e74dba3b]: Textual amendment: Words in [reg. 15B(1)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15B/1) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/8/regulation/3/2/b)
 
-[^c-8bdd48c327f5ba2b952f77aa6ee1e669]: Commencement: Sch. 1 para. 1 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-832f4f8ff34abcbbd8d6d5cfced4f03a]: Textual amendment: [Reg. 15B(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15B/2) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/8/regulation/3/2/c)
+
+[^c-a72654939df851d6e8fdd13cdeaa8950]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2008/3022/regulation/16) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-20537af2289082fa434658e0183cf4de]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2008/3022/regulation/16) substituted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2012/20/regulation/8)
+
+[^c-2b733fcad3529aaca948280773e08eaf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2008/3022/regulation/17) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-3b8e946dbf64950525f33e83ac8ca0d1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2008/3022/regulation/18) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-efc80f9ccf337fcea5532de527a5b7c5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2008/3022/regulation/19) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-54d95d9e1d1931be9a6cf0bcd5424c7e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2008/3022/regulation/20) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-a078b1cc6e57d4491487d27e0c4ac717]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2008/3022/regulation/21) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-d4530287dcbbea6c3c3d9225f0a7f8f1]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2008/3022/regulation/22) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+
+[^c-8bdd48c327f5ba2b952f77aa6ee1e669]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/3022/schedule/1/paragraph/1) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), to which there are amendments not relevant to these Regulations.
 
-[^f00015]: Footnote: Sections 52I and 52T were inserted into the 1992 Act by paragraph 1 of Schedule 1 to the Local Government Act [1999 (c.27)](https://www.legislation.gov.uk/ukpga/1999/27).
+[^c-1e67642ec229b4dbc754cbd163ae9a67]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/1/paragraph/1/3) omitted (25.1.2012) by virtue of [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2012/20/regulation/9/a)
 
-[^c-d9c6d5ffcb0741c912f61f539b352df7]: Commencement: Sch. 1 para. 2 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-d9c6d5ffcb0741c912f61f539b352df7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2008/3022/schedule/1/paragraph/2) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^c-272d1ef57aeab2853851870f0ed386bf]: Commencement: Sch. 1 para. 3 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-10f083df2aa3ac67d3228e99b27fc13d]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2008/3022/schedule/1/paragraph/2) substituted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2012/20/regulation/9/b)
 
-[^c-5fda1e900c6794771a45b6d251bd8a54]: Commencement: Sch. 1 para. 4 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-272d1ef57aeab2853851870f0ed386bf]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2008/3022/schedule/1/paragraph/3) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^c-f4ccfc33c1b227c2c54e3a5a1a3d50ac]: Commencement: Sch. 1 para. 5 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-5fda1e900c6794771a45b6d251bd8a54]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2008/3022/schedule/1/paragraph/4) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^c-dca0ab572144738a4bd03733c83ef32b]: Commencement: Sch. 1 para. 6 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-f4ccfc33c1b227c2c54e3a5a1a3d50ac]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2008/3022/schedule/1/paragraph/5) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^c-ca4ce3d1bd35ac45932bfb129adbc24a]: Commencement: Sch. 2 para. 1 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-dca0ab572144738a4bd03733c83ef32b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2008/3022/schedule/1/paragraph/6) in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
 
-[^c-bb467207c2aa50090dacff22fc8f2647]: Commencement: Sch. 2 para. 2 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-8d6a56a8833a445c08eec1c39d24d976]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3022/schedule/2) substituted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/20/schedule/1)
 
-[^f00016]: Footnote: Section 33(1) was amended by paragraph 5 of Schedule 12 to the Local Government (Wales) Act 1994, [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246), [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234) and in relation to the financial year beginning on 1st April 2008 by [S.I. 2008/227](https://www.legislation.gov.uk/uksi/2008/227).
+[^c-9317f4f871bbe55af3ccd5c32fde19ea]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/3022/schedule/2/paragraph/8) substituted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/3/b)
 
-[^c-8ecac4f573772919f073289668367e60]: Commencement: Sch. 2 para. 3 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-16b912532fd2b2dad44f3d7a3d1a7773]: Textual amendment: Words in [Sch. 2 para. 9(a)(i)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/2/paragraph/9/a/i) inserted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(3)(c)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/3/c)
 
-[^c-413aced6871e1ecd34a7337f013e0b55]: Commencement: Sch. 2 para. 4 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-d0773c177af422b61f348140f11f2901]: Textual amendment: Words in [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/2/paragraph/9/b) substituted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(3)(d)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/3/d)
 
-[^c-6b736e3a088629ee4c2f42fda47a6519]: Commencement: Sch. 2 para. 5 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-0145e5aaea3cf9db5f24c0587d482e1a]: Textual amendment: Words in [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/2/paragraph/9/b) inserted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(3)(d)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/3/d)
 
-[^c-e9a6868c9934b988321c799b778bca7f]: Commencement: Sch. 2 para. 6 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-8be2d4cf4d09778541a1009361a5acf4]: Textual amendment: Words in [Sch. 2 para. 9(c)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/2/paragraph/9/c) substituted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(3)(e)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/3/e)
 
-[^c-c131c25cf20ebb7884f906f4389bc7c9]: Commencement: Sch. 2 para. 7 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-e3815f07ca23db08f16b801ea5827a46]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3) inserted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/20/schedule/2)
 
-[^c-a76a21dab09daf8431da50b8df200e2d]: Commencement: Sch. 2 para. 8 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-da6df51302eaaaa443bf3ea21b15dfa7]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/1/1) substituted and renumbered as Sch. 3 para. 1(1)(2) (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(a)(i)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/a/i)
 
-[^f00017]: Footnote: Section 66(2)(c) was amended by paragraph 6 of Schedule 1 to the Local Government Act [1999 (c.27)](https://www.legislation.gov.uk/ukpga/1999/27).
+[^c-8d139256b30186c680c0a78018001d00]: Textual amendment: Words in [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/1/b) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/a/ii)
 
-[^c-ca7234d3f7d67be882ffc7805c6a9554]: Commencement: Sch. 2 para. 9 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-e660df7db9f9d0d2f7ebfd81578596f0]: Textual amendment: Words in [Sch. 3 para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/1/d) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/a/iii)
 
-[^f00018]: Footnote: Section 67(2A) was inserted by section 84 of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
+[^c-fa27d5051d7646a7f780d2fd8a6b37f3]: Textual amendment: [Sch. 3 para. 1A](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/1A) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/b)
 
-[^c-c61af7aba7b1f37e8af8875113f31543]: Commencement: Sch. 2 para. 10 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-acf334795eed5be0e7914351a615960a]: Textual amendment: Word in [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/2/a) substituted for full stop (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/c/i/aa)
 
-[^c-25769a3ef7003bc58e9db7088f545761]: Commencement: Sch. 2 para. 11 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-783144d512955635c6d1097c0e948250]: Textual amendment: Words in [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/2/a) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/c/i/bb)
 
-[^c-14b0d697b19abe0ccdc19f4ac578671c]: Commencement: Sch. 2 para. 12 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-2a721112658e2b2599d619952582dcf9]: Textual amendment: Words in [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/2/b) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/c/ii)
 
-[^c-3ebcbd4b41794bb05ff84e80c4e61e6a]: Commencement: Sch. 2 para. 13 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-561efe7bf91902048be367db1200c025]: Textual amendment: Words in [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/9/b) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(d)(i)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/d/i)
 
-[^c-4c62dfb617161151044ad5bb2b8de920]: Commencement: Sch. 2 para. 14 in force at 24.12.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2)
+[^c-8c59f74f1304ecfa3c597d8f3f1c0d22]: Textual amendment: Words in [Sch. 3 para. 9(d)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/9/d) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/d/ii)
+
+[^c-ae1bf23be3aa427ebc8b20155edf582e]: Textual amendment: Word in [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/10/a) substituted for full stop (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/e/aa)
+
+[^c-cda18c2c6c7542878af8a7bb6cf99dfa]: Textual amendment: Words in [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/10/a) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/e/bb)
+
+[^c-cf6918ee0e0d07886271cd645ecfe17d]: Textual amendment: Words in [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/10/b) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(e)(ii)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/e/ii)
+
+[^c-32be69bd5345ebee2a0210a98def5f23]: Textual amendment: [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3/paragraph/18) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [12(f)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12/f)
+
+[^c-f0d9d287982b872a276fc02bcbbfe166]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2008/3022/schedule/4) inserted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1296/schedule)

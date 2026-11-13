@@ -3,7 +3,7 @@ title: Police Reform Act 2002, section 22
 act: Police Reform Act 2002
 section: '22'
 status: revised-with-pending-changes
-text_date: '2026-10-29'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2002/30/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Police Reform Act 2002, section 22
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
 > Extent: England, Wales.
 
-## 22. Power of the Director General to issue guidance[^c20012711][^c21090681][^c21093061][^c-eaf4358fcdf04bda3b2636cb5721883b][^c-66e6b09c17457e2b776f3651ae5476b6][^c-f3d35754efbd9166151c3c88e7bda304][^c-08ffc9e4d48268dd59c2fe2cfdb8af8c][^c-abd5f78ba0c92d3b4403644189ef9922][^c-3f9f833322cb9779a260109b1f2b5180][^c-74d3d239053b41265f11a373f2e8975f][^c-9c61c39d9a4b9099ed4348b90e864724][^c-206aa61bd2128d47e3606f31adc531cc][^c-4b03a062a205195f97b11eb247ede23c][^c-0d7809a5d1b87706d92d3c4895677eb7][^c-e4ce77eba7bc165c9730901126c6498e]
+## 22. Power of the Director General to issue guidance[^c20012711][^c21090681][^c21093061][^c-eaf4358fcdf04bda3b2636cb5721883b][^c-66e6b09c17457e2b776f3651ae5476b6][^c-f3d35754efbd9166151c3c88e7bda304][^c-08ffc9e4d48268dd59c2fe2cfdb8af8c][^c-abd5f78ba0c92d3b4403644189ef9922][^c-202560c07675695e49fb2df6ebb6d06e][^c-3f9f833322cb9779a260109b1f2b5180][^c-74d3d239053b41265f11a373f2e8975f][^c-9c61c39d9a4b9099ed4348b90e864724][^c-206aa61bd2128d47e3606f31adc531cc][^c-4b03a062a205195f97b11eb247ede23c][^c-0d7809a5d1b87706d92d3c4895677eb7][^c-e4ce77eba7bc165c9730901126c6498e]
 
 *Extent: E+W*
 
@@ -82,6 +82,8 @@ concerning the exercise or performance, by the persons to whom the guidance is i
 [^c-08ffc9e4d48268dd59c2fe2cfdb8af8c]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/2002/30/section/22) applied (with modifications) (1.5.2025) by [The Food Crime Officers (Complaints and Misconduct) Regulations 2025 (S.I. 2025/301)](https://www.legislation.gov.uk/uksi/2025/301), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/301/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2025/301/regulation/4)
 
 [^c-abd5f78ba0c92d3b4403644189ef9922]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/2002/30/section/22) applied (with modifications) (5.8.2010) by [The Revenue and Customs (Complaints and Misconduct) Regulations 2010 (S.I. 2010/1813)](https://www.legislation.gov.uk/uksi/2010/1813), [reg. 5](https://www.legislation.gov.uk/uksi/2010/1813/regulation/5) (with [reg. 11](https://www.legislation.gov.uk/uksi/2010/1813/regulation/11)) (as amended (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/703/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3)))
+
+[^c-202560c07675695e49fb2df6ebb6d06e]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/2002/30/section/22) applied (with modifications) (9.11.2026) by [The Authorised Investigators (Complaints and Misconduct) Regulations 2026 (S.I. 2026/1098)](https://www.legislation.gov.uk/uksi/2026/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1098/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/1098/regulation/6)
 
 [^c-3f9f833322cb9779a260109b1f2b5180]: Modification: Pt. 2: power to amend conferred (E.W.) (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21), [s. 4K(2)(4)](https://www.legislation.gov.uk/ukpga/2004/21/section/4K/2/4) (as inserted by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38))
 

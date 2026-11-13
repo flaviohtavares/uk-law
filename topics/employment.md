@@ -8,7 +8,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Employment Rights (Northern Ireland) Order 1996](../northern-ireland/orders-in-council/1996/1919-the-employment-rights-northern-ireland-order-1996/README.md) *(changes pending)* — 51 regulations on this topic made under it
 - [The Employment Relations (Northern Ireland) Order 1999](../northern-ireland/orders-in-council/1999/2790-the-employment-relations-northern-ireland-order-1999.md) — 22 regulations on this topic made under it
-- [Gangmasters (Licensing) Act 2004](../uk-parliament/acts/public/2004/11-gangmasters-licensing-act-2004.md) *(changes pending)* — 18 regulations on this topic made under it
+- [Gangmasters (Licensing) Act 2004](../uk-parliament/acts/public/2004/11-gangmasters-licensing-act-2004.md) *(changes pending)* — 17 regulations on this topic made under it
 - [The Employment (Northern Ireland) Order 2002](../northern-ireland/orders-in-council/2002/2836-the-employment-northern-ireland-order-2002.md) — 13 regulations on this topic made under it
 - [The Industrial Relations (Northern Ireland) Order 1992](../northern-ireland/orders-in-council/1992/807-the-industrial-relations-northern-ireland-order-1992/README.md) *(changes pending)* — 8 regulations on this topic made under it
 - [The Work and Families (Northern Ireland) Order 2006](../northern-ireland/orders-in-council/2006/1947-the-work-and-families-northern-ireland-order-2006.md) — 7 regulations on this topic made under it
@@ -21,7 +21,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-225 in force.
+224 in force.
 
 **2026**
 
@@ -200,7 +200,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/76-the-conduct-of-employment-agencies-and-employment-businesses-amendment-regulatio.md) *(as originally made)*
 - [The Employment Act 2008 (Commencement No. 1, Transitional Provisions and Savings) Order 2008](../uk-parliament/regulations/2008/3000-3499/3232-the-employment-act-2008-commencement-no-1-transitional-provisions-and-savings-or.md) *(as originally made)*
 - [The Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) (No. 2) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/416-the-fixed-term-employees-prevention-of-less-favourable-treatment-amendment-no-2.md) *(as originally made)*
-- [The Gangmasters (Licensing Conditions) (No.2) (Amendment) Rules 2008](../uk-parliament/regulations/2008/0500-0999/638-the-gangmasters-licensing-conditions-no-2-amendment-rules-2008.md) *(changes pending)*
 - [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/374-the-maternity-and-parental-leave-etc-and-the-paternity-and-adoption-leave-amendm.md) *(as originally made)*
 
 **2007**

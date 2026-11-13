@@ -3,7 +3,7 @@ title: Police Reform Act 2002, section 9
 act: Police Reform Act 2002
 section: '9'
 status: revised-with-pending-changes
-text_date: '2026-10-29'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2002/30/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Police Reform Act 2002, section 9
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. The Independent Office for Police Conduct[^c2342521][^c20012571][^c21090621][^c21092961][^c-4298cfacd61295fff0b4a821edbd4c1f][^c-7d6aa0b309ec0a7c50afc8e1775a9b95][^c-1f1c9f49ebe5a722bc2ffd7f8f8716f6][^c-5ad6e691902d423a75ad830859b46da8][^c-5c0b94dcbde88c0cd695dd61fa219c45][^c-3f9f833322cb9779a260109b1f2b5180][^c-c88e7674e9c9aee2d00670c1b941874b]
+## 9. The Independent Office for Police Conduct[^c2342521][^c20012571][^c21090621][^c21092961][^c-4298cfacd61295fff0b4a821edbd4c1f][^c-7d6aa0b309ec0a7c50afc8e1775a9b95][^c-1f1c9f49ebe5a722bc2ffd7f8f8716f6][^c-5ad6e691902d423a75ad830859b46da8][^c-464971759be39ceea566dc3400ee25b4][^c-5c0b94dcbde88c0cd695dd61fa219c45][^c-3f9f833322cb9779a260109b1f2b5180][^c-c88e7674e9c9aee2d00670c1b941874b]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,6 +86,8 @@ and the Office's[^c-58140c2f5158b612b41875bb1a0faf4a] property shall not be rega
 [^c-1f1c9f49ebe5a722bc2ffd7f8f8716f6]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2002/30/section/9) applied (with modifications) (1.5.2025) by [The Food Crime Officers (Complaints and Misconduct) Regulations 2025 (S.I. 2025/301)](https://www.legislation.gov.uk/uksi/2025/301), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/301/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2025/301/regulation/4)
 
 [^c-5ad6e691902d423a75ad830859b46da8]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2002/30/section/9) applied (with modifications) (5.8.2010) by [The Revenue and Customs (Complaints and Misconduct) Regulations 2010 (S.I. 2010/1813)](https://www.legislation.gov.uk/uksi/2010/1813), [reg. 5](https://www.legislation.gov.uk/uksi/2010/1813/regulation/5) (with [reg. 11](https://www.legislation.gov.uk/uksi/2010/1813/regulation/11)) (as amended (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/703/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3)))
+
+[^c-464971759be39ceea566dc3400ee25b4]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2002/30/section/9) applied (with modifications) (9.11.2026) by [The Authorised Investigators (Complaints and Misconduct) Regulations 2026 (S.I. 2026/1098)](https://www.legislation.gov.uk/uksi/2026/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1098/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/1098/regulation/6)
 
 [^c-5c0b94dcbde88c0cd695dd61fa219c45]: Modification: Pt. 2: power to amend conferred (E.W.) (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [s. 107EE(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/107EE/4) (as inserted by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/2), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a))
 

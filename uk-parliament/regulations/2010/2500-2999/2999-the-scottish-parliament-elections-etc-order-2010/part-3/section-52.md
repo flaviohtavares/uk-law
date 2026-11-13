@@ -1,37 +1,29 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, section 52
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, section 52
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: '52'
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: repealed
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/section/52
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, section 52
+# The Scottish Parliament (Elections etc. ) Order 2010, section 52
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Penalty for sitting or voting where no return and declaration is transmitted[^c-7bc89eb72e7bb51a4ed947821cd2e45c]
+## 52. Penalty for sitting or voting where no return and declaration is transmitted[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
-(1) If, in the case of a candidate for return as a constituency member or an individual candidate for return as a regional member, the return and declarations as to election expenses are not delivered before the expiry of the time limited for the purpose, that candidate shall not, after the expiry of the time, sit or vote in the Parliament as a member for the constituency or region until—
+**No longer in force.**
 
-- (a) that return and those declarations have been delivered; or
-- (b) the date of the allowance of an authorised excuse for the failure to deliver the return and declaration.
-
-(2) If, in the case of a candidate included on a registered party’s regional list, the candidate’s declaration as to elections expenses is not delivered before the expiry of the time limited for the purpose, that candidate shall not, after the expiry of the time, sit or vote in the Parliament as a member for region until—
-
-- (a) that declaration has been delivered; or
-- (b) the date of the allowance of an authorised excuse for the failure to deliver the declaration.
-
-(3) If the candidate sits or votes in contravention of this article the candidate shall forfeit £100 for every day on which the candidate so sits or votes.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-7bc89eb72e7bb51a4ed947821cd2e45c]: Commencement: Art. 52 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

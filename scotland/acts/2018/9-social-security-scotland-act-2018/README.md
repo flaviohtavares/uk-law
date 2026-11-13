@@ -5,14 +5,14 @@ type: ScottishAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2018-06-01'
-text_date: '2026-03-15'
+text_date: '2026-11-02'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2018/9
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2018/9/pdfs/aspen_20180009_en.pdf
 - http://www.legislation.gov.uk/asp/2018/9/pdfs/asp_20180009_en.pdf
 - http://www.legislation.gov.uk/asp/2018/9/data.pdf
-pending_changes: 96
+pending_changes: 95
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Social Security (Scotland) Act 2018
 
-> **Warning: changes not yet applied to this text (96).** Text as at 2026-03-15. See https://www.legislation.gov.uk/changes/affected/asp/2018/9
+> **Warning: changes not yet applied to this text (95).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/asp/2018/9
 >
 > Extent: Scotland.
 
@@ -341,6 +341,66 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 94 — Universal credit: payment to joint claimants](part-6/section-94.md)
 
+### Part 6A — Recovery from compensation payments[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+*Extent: S*
+
+#### Introductory[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+- [Section 94A — Application of this Part](part-6a/section-94a.md)
+- [Section 94B — Interpretation of this Part](part-6a/section-94b.md)
+
+#### Certificate of recoverable assistance[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+- [Section 94C — Application for certificate of recoverable assistance](part-6a/section-94c.md)
+- [Section 94D — Information contained in certificates](part-6a/section-94d.md)
+
+#### Liability of compensator[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+**Not yet in force.**
+
+- [Section 94E — Liability to pay the Scottish Ministers amount equal to recoverable assistance](part-6a/section-94e.md)
+- [Section 94F — Recovery of payments due under section 94E](part-6a/section-94f.md)
+- [Section 94G — Amounts overpaid under section 94E](part-6a/section-94g.md)
+- [Section 94H — Liability of insurers](part-6a/section-94h.md)
+- [Section 94I — Failure to issue certificate of recoverable assistance](part-6a/section-94i.md)
+
+#### Reduction of compensation payment[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+- [Section 94J — Reduction of compensation payment](part-6a/section-94j.md)
+- [Section 94K — Reduction of compensation payment under Diffuse Mesothelioma Payment Scheme](part-6a/section-94k.md)
+- [Section 94L — Reduction of compensation payment: further provision](part-6a/section-94l.md)
+
+#### Reviews, reconsiderations and appeals[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+- [Section 94M — Review of certificate of recoverable assistance](part-6a/section-94m.md)
+- [Section 94N — Reconsideration of certificate of recoverable assistance](part-6a/section-94n.md)
+- [Section 94O — Appeal to First-tier Tribunal against reconsideration](part-6a/section-94o.md)
+- [Section 94P — Payments following reconsideration or appeal](part-6a/section-94p.md)
+
+#### Reduction of compensation: complex cases[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+**Not yet in force.**
+
+- [Section 94Q — Multiple compensation payments](part-6a/section-94q.md)
+- [Section 94R — Periodical payments](part-6a/section-94r.md)
+
+#### Cases involving courts[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+**Not yet in force.**
+
+- [Section 94S — Court orders](part-6a/section-94s.md)
+
+#### Information and investigation[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+- [Section 94T — Provision of information](part-6a/section-94t.md)
+- [Section 94U — Power to make provision for investigation](part-6a/section-94u.md)
+
+#### Interaction with provision for other parts of the United Kingdom[^c-1ecbe103fdbc87925817ea654f01f8d6]
+
+- [Section 94V — Relationship between this Part and UK provisions](part-6a/section-94v.md)
+- [Section 94W — Recovery of payments due from compensator](part-6a/section-94w.md)
+
 ### PART 7 — FINAL PROVISIONS
 
 - [Section 95 — Ancillary provision](part-7/section-95.md)
@@ -393,3 +453,5 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 [^c-15473c52603be604652a346d4fb5b7af]: Textual amendment: [Ss. 87B-87E](https://www.legislation.gov.uk/asp/2018/9/section/87B) and cross-heading inserted (15.12.2025 for specified purposes) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 18(2)](https://www.legislation.gov.uk/asp/2025/2/section/18/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/377](https://www.legislation.gov.uk/ssi/2025/377), [reg. 2](https://www.legislation.gov.uk/ssi/2025/377/regulation/2)
 
 [^c-230d1c8d1b4f5812a3977364d4ac39f2]: Textual amendment: Pt. 5A inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/2/section/2/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+
+[^c-1ecbe103fdbc87925817ea654f01f8d6]: Textual amendment: Pt. 6A inserted (2.11.2026 for the insertion of ss. 94A(3), 94B(2), 94C(9), 94M(5), 94N(7), 94T(1), 94U(1), 94V(1), 94W(1) for the purpose of enabling the Scottish Ministers to make regulations; otherwise prosp.) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 19(2)](https://www.legislation.gov.uk/asp/2025/2/section/19/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2026/274](https://www.legislation.gov.uk/ssi/2026/274), [reg. 2](https://www.legislation.gov.uk/ssi/2026/274/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/274/schedule)

@@ -2,9 +2,9 @@
 title: The Immigration (Isle of Man) Order 2008, SCHEDULE 10
 act: The Immigration (Isle of Man) Order 2008
 section: schedule-10
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680/schedule/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008, SCHEDULE 10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 10 — The text of immigration legislation as extended to the Isle of Man
 
+*Extent: E+W+S+N.I.*
+
 Articles 7, 11, 13, 15, 17, 19 and 21
 
-### PART 1 — The Immigration Act 1971
+### PART 1 — The Immigration Act 1971[^c-ce9cfad4c5db7bd5e7ac5bbbabde564a]
 
 Article 7
 
@@ -2058,7 +2062,7 @@ Article 7
 >
 > **4.** Notwithstanding anything in section 1(3) of this Act, it shall not be lawful for a person who is not a British citizen to enter the Isle of Man from the United Kingdom or any of the Channel Islands where his presence was unlawful under the immigration laws of the United Kingdom or, as the case may be, of that island, unless he is given leave to enter.
 
-### PART 2 — The Immigration Act 1988
+### PART 2 — The Immigration Act 1988[^c-cb34711c2817adec6126026f420ca658]
 
 Article 11
 
@@ -2114,7 +2118,7 @@ Article 11
 >
 > (2) In this Act “the principal Act” means the Immigration Act 1971 and any expression which is also used in that Act has the same meaning as in that Act.
 
-### PART 3 — The Asylum and Immigration Act 1996
+### PART 3 — The Asylum and Immigration Act 1996[^c-00683054c3e1a4bd2d2fd5c4844a06ea]
 
 Article 13
 
@@ -2201,7 +2205,7 @@ Article 13
 > - “the 1971 Act” means the Immigration Act 1971 as that Act has effect in the Isle of Man;
 > - “person subject to immigration control” means a person who under the 1971 Act requires leave to enter or remain in the Isle of Man (whether or not such leave has been given).
 
-### PART 4 — The Immigration and Asylum Act 1999
+### PART 4 — The Immigration and Asylum Act 1999[^c-68957def7f5a0ac2ee12e4c7b420fc09]
 
 Article 15
 
@@ -3023,7 +3027,7 @@ Article 15
 >
 > but not necessarily in that order of priority.
 
-### PART 5 — The Nationality, Immigration and Asylum Act 2002
+### PART 5 — The Nationality, Immigration and Asylum Act 2002[^c-f73ed4902b624880b1d09390bd1713b1]
 
 Article 17
 
@@ -3945,7 +3949,7 @@ Article 17
 >
 > This Act may be cited as the Nationality, Immigration and Asylum Act 2002.
 
-### PART 6 — The Asylum and Immigration (Treatment of Claimants, etc.) Act 2004
+### PART 6 — The Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^c-3a90a005c6439232f37d1c3dad6788cb]
 
 Article 19
 
@@ -4316,7 +4320,7 @@ Article 19
 >
 > This Act may be cited as the Asylum and Immigration (Treatment of Claimants, etc) Act 2004.
 
-### PART 7 — The Immigration, Asylum and Nationality Act 2006
+### PART 7 — The Immigration, Asylum and Nationality Act 2006[^c-df528fab570cbd56c138217323b5405b]
 
 Article 21
 
@@ -4416,3 +4420,19 @@ Article 21
 > - (f) the Nationality, Immigration and Asylum Act [2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41),
 > - (g) the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19), and
 > - (h) this Act.
+
+## Annotations
+
+[^c-ce9cfad4c5db7bd5e7ac5bbbabde564a]: Commencement: Sch. 10 Pt. 1 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-cb34711c2817adec6126026f420ca658]: Commencement: Sch. 10 Pt. 2 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-00683054c3e1a4bd2d2fd5c4844a06ea]: Commencement: Sch. 10 Pt. 3 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-68957def7f5a0ac2ee12e4c7b420fc09]: Commencement: Sch. 10 Pt. 4 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-f73ed4902b624880b1d09390bd1713b1]: Commencement: Sch. 10 Pt. 5 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-3a90a005c6439232f37d1c3dad6788cb]: Commencement: Sch. 10 Pt. 6 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-df528fab570cbd56c138217323b5405b]: Commencement: Sch. 10 Pt. 7 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)

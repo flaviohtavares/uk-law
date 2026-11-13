@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 22
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '22'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 22
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Prohibition on disposal of assets
+## 22. Prohibition on disposal of assets[^c-9dcd52e12cbd32109cc544c8d5254a49]
+
+*Extent: E+W+S+N.I.*
 
 After section 40 of the 1982 Act insert—
 
@@ -27,3 +31,7 @@ After section 40 of the 1982 Act insert—
 > (3) The jurisdiction conferred by this section shall be exercisable by the High Court and the Court of Session.
 >
 > (4) In this section “EC liabilities” has the same meaning as in section 39 above.
+
+## Annotations
+
+[^c-9dcd52e12cbd32109cc544c8d5254a49]: Commencement: Reg. 22 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

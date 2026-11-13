@@ -18,7 +18,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The General Dental Council (Continuing Professional Development) (Dentists) Rules Order of Council 2008](../uk-parliament/regulations/2008/1500-1999/1822-the-general-dental-council-continuing-professional-development-dentists-rules-or.md) *(as originally made)*
+- [The General Dental Council (Continuing Professional Development) (Dentists) Rules Order of Council 2008](../uk-parliament/regulations/2008/1500-1999/1822-the-general-dental-council-continuing-professional-development-dentists-rules-or.md)
 
 **2005**
 

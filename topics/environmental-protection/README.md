@@ -10,7 +10,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Pollution Prevention and Control Act 1999](../../uk-parliament/acts/public/1999/24-pollution-prevention-and-control-act-1999.md) — 68 regulations on this topic made under it
 - [Environment Act 1995](../../uk-parliament/acts/public/1995/25-environment-act-1995/README.md) *(changes pending)* — 61 regulations on this topic made under it
 - [The Waste and Contaminated Land (Northern Ireland) Order 1997](../../northern-ireland/orders-in-council/1997/2778-the-waste-and-contaminated-land-northern-ireland-order-1997/README.md) *(changes pending)* — 60 regulations on this topic made under it
-- [Marine and Coastal Access Act 2009](../../uk-parliament/acts/public/2009/23-marine-and-coastal-access-act-2009/README.md) *(changes pending)* — 47 regulations on this topic made under it
+- [Marine and Coastal Access Act 2009](../../uk-parliament/acts/public/2009/23-marine-and-coastal-access-act-2009/README.md) *(changes pending)* — 48 regulations on this topic made under it
 - [Environment Act 2021](../../uk-parliament/acts/public/2021/30-environment-act-2021/README.md) — 37 regulations on this topic made under it
 - [Water Environment and Water Services (Scotland) Act 2003](../../scotland/acts/2003/3-water-environment-and-water-services-scotland-act-2003/README.md) *(changes pending)* — 29 regulations on this topic made under it
 - [Clean Neighbourhoods and Environment Act 2005](../../uk-parliament/acts/public/2005/16-clean-neighbourhoods-and-environment-act-2005/README.md) *(changes pending)* — 24 regulations on this topic made under it
@@ -39,11 +39,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1242 in force, by year:
+1243 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 32 |
+| [2026](2026.md) | 33 |
 | [2025](2025.md) | 42 |
 | [2024](2024.md) | 22 |
 | [2023](2023.md) | 39 |

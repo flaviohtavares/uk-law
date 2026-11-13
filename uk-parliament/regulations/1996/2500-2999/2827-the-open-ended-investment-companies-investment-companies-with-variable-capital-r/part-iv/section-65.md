@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 65
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '65'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/65
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 65
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 65. Notifications to registrar of companies
+## 65. Notifications to registrar of companies[^c-9f0bcf70b16e2a13d2cddb0b7ab6a56d]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) An investment company with variable capital shall as soon as is reasonably practicable after the coming into effect of an authorisation order in respect of the company send to the registrar of companies a copy of the company’s prospectus.
 
@@ -49,3 +55,7 @@ summary: ''
 (8) Where an auditor of a company deposits a notice of his resignation from office under paragraph 15 of Schedule 6 to these Regulations, a company shall not later than 14 days after the deposit of the notice send a copy of the notice to the registrar of companies.
 
 (9) Where the affairs of a company are to be wound up otherwise than by the court, the company shall as soon as reasonably practicable after the commencement of the winding up notify the registrar of companies of that fact.
+
+## Annotations
+
+[^c-9f0bcf70b16e2a13d2cddb0b7ab6a56d]: Commencement: Reg. 65 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

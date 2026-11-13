@@ -3,15 +3,15 @@ title: The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 20
 id: uksi/2008/1432
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-03'
-text_date: null
-extent: null
+text_date: '2008-06-04'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1432
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1432/pdfs/uksiem_20081432_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1432/pdfs/uksi_20081432_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1432/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1432/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-04. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1432
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 1432
 
@@ -42,11 +46,11 @@ In accordance with section 317(1) of the Pensions Act 2004 and section 25(3)(b) 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-f7afe3169a534294a7097a7aa394d42b]
 
 These Regulations may be cited as the Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2008 and shall come into force on the day after the day on which they are made.
 
-### 2. Interpretation
+### 2. Interpretation[^c-8b57fed7e4b7da76f8e1eaf7d4625a15]
 
 In these Regulations—
 
@@ -63,17 +67,17 @@ In these Regulations—
 
 ## PART 2 — Amendment of section 18 of the Pensions Act 2007
 
-### 3. Amendment of section 18 of the Pensions Act 2007
+### 3. Amendment of section 18 of the Pensions Act 2007[^c-2aee36e64fe9283794d1904bdea37709]
 
 In section 18(5) and (7) of the Pensions Act 2007 (financial assistance scheme: increased levels of payments), for “0.8” substitute “0.9”.
 
 ## PART 3 — Amendment of the FAS Regulations
 
-### 4. Amendment of the FAS Regulations
+### 4. Amendment of the FAS Regulations[^c-cedba6a7bce5c807c8de7be4ad324fbc]
 
 The FAS Regulations are amended in accordance with this Part.
 
-### 5. Amendment of Part 1
+### 5. Amendment of Part 1[^c-3cae142ffe8c1f52425b84590960e17e]
 
 After paragraph (1) of regulation 2 (interpretation) insert—
 
@@ -88,7 +92,7 @@ After paragraph (1) of regulation 2 (interpretation) insert—
 
 .
 
-### 6. Amendment of Part 5
+### 6. Amendment of Part 5[^c-800dbd59b7a0c176d8790a2acc20ca37]
 
 (1) In regulation 17 (annual payments)—
 
@@ -131,7 +135,7 @@ After paragraph (1) of regulation 2 (interpretation) insert—
 
     .
 
-### 7. Amendment of Schedule 2
+### 7. Amendment of Schedule 2[^c-dd4ba36c86fbe57ed8b409583a71503e]
 
 (1) Schedule 2 (determination of annual and initial payments)[^f00006] is amended in accordance with this regulation.
 
@@ -205,7 +209,7 @@ After paragraph (1) of regulation 2 (interpretation) insert—
 
 ## PART 4 — Transitional provision
 
-### 8. Transitional provision
+### 8. Transitional provision[^c-cb8d4320c0157295c119f19b0099093d]
 
 The FAS Regulations and section 18 of the Pensions Act 2007 shall continue to have effect as if these Regulations had not come into force where—
 
@@ -251,14 +255,30 @@ An impact assessment has not been published for this instrument as it has only a
 
 [^f00002]: Footnote: [2007 c.22](https://www.legislation.gov.uk/ukpga/2007/22). Section 18 extends to England, Wales, Scotland and Northern Ireland.
 
+[^c-f7afe3169a534294a7097a7aa394d42b]: Commencement: Reg. 1 in force at 4.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1432/regulation/1)
+
+[^c-8b57fed7e4b7da76f8e1eaf7d4625a15]: Commencement: Reg. 2 in force at 4.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1432/regulation/1)
+
 [^f00003]: Footnote: [S.I. 2005/1986](https://www.legislation.gov.uk/uksi/2005/1986), amended by [S.I. 2005/3256](https://www.legislation.gov.uk/uksi/2005/3256), [2006/3370](https://www.legislation.gov.uk/uksi/2006/3370) and [2007/3581](https://www.legislation.gov.uk/uksi/2007/3581).
+
+[^c-2aee36e64fe9283794d1904bdea37709]: Commencement: Reg. 3 in force at 4.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1432/regulation/1)
+
+[^c-cedba6a7bce5c807c8de7be4ad324fbc]: Commencement: Reg. 4 in force at 4.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1432/regulation/1)
+
+[^c-3cae142ffe8c1f52425b84590960e17e]: Commencement: Reg. 5 in force at 4.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1432/regulation/1)
+
+[^c-800dbd59b7a0c176d8790a2acc20ca37]: Commencement: Reg. 6 in force at 4.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1432/regulation/1)
 
 [^f00004]: Footnote: Regulation 17(6) was amended by [S.I. 2005/3256](https://www.legislation.gov.uk/uksi/2005/3256).
 
 [^f00005]: Footnote: Regulation 18 was substituted by [S.I. 2005/3256](https://www.legislation.gov.uk/uksi/2005/3256) and paragraph (1) was amended by [S.I. 2006/3370](https://www.legislation.gov.uk/uksi/2006/3370).
+
+[^c-dd4ba36c86fbe57ed8b409583a71503e]: Commencement: Reg. 7 in force at 4.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1432/regulation/1)
 
 [^f00006]: Footnote: Schedule 2 was amended by [S.I. 2005/3256](https://www.legislation.gov.uk/uksi/2005/3256), [2006/3370](https://www.legislation.gov.uk/uksi/2006/3370) and [2007/3581](https://www.legislation.gov.uk/uksi/2007/3581).
 
 [^f00007]: Footnote: The figure 0.8 occurs in paragraphs 3(2), 4(2), 5(3), 7(1), 7(2) and 10(e). Paragraph 5(3) applies to both annual payments for survivors of qualifying members and as modified by paragraph 10(e) of Schedule 2 for the purposes of determining the amount of initial payments to such survivors.
 
 [^f00008]: Footnote: Paragraph 9(2A) was inserted by [S.I. 2006/3370](https://www.legislation.gov.uk/uksi/2006/3370).
+
+[^c-cb8d4320c0157295c119f19b0099093d]: Commencement: Reg. 8 in force at 4.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1432/regulation/1)

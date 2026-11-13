@@ -2,9 +2,9 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 6
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: '6'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1995-12-06'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 6. Reporting of gas incidents
+## 6. Reporting of gas incidents[^c-21eb7506ffd6710eb6da65f3e62e7d4c]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Whenever a conveyor of flammable gas through a fixed pipe distribution system, or a filler, importer or supplier (other than by means of retail trade) of a refillable container containing liquefied petroleum gas receives notification of any death or any major injury which has arisen out of or in connection with the gas distributed, filled, imported or supplied, as the case may be, by that person, he shall forthwith notify the Executive of the incident, and shall within 14 days send a report of it to the Executive on a form approved for the purposes of this regulation.
 
@@ -34,5 +40,7 @@ he shall within 14 days send a report of it to the Executive on a form approved 
 (4) In this regulation “liquefied petroleum gas” means commercial butane (that is, a hydrocarbon mixture consisting predominantly of butane, butylene or any mixture thereof) or commercial propane (that is, a hydrocarbon mixture consisting predominantly of propane, propylene or any mixture thereof) or any mixture of commercial butane and commercial propane.
 
 ## Annotations
+
+[^c-21eb7506ffd6710eb6da65f3e62e7d4c]: Commencement: Reg. 6 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
 
 [^f00017]: Footnote: [S.I. 1994/1886](https://www.legislation.gov.uk/uksi/1994/1886).

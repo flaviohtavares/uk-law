@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 8
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 8. Particulars of directors
+## 8. Particulars of directors[^c-3b903b81d789c5ee6721397abd6702ab]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2) below, an application for an authorisation order shall contain the following particulars with respect to each person named as director of an investment company with variable capital, that is to say—
 
@@ -41,5 +47,7 @@ summary: ''
 (5) In paragraph (3) above the reference to significant transaction is, in relation to a company within the meaning of section 735(1) of the 1985 Act, a reference to a significant accounting transaction within the meaning of section 250(3) of that Act[^f00009].
 
 ## Annotations
+
+[^c-3b903b81d789c5ee6721397abd6702ab]: Commencement: Reg. 8 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
 
 [^f00009]: Footnote: Section 250 was substituted by section 14 of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).

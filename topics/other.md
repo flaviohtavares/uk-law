@@ -1163,7 +1163,7 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 ## Milk and Dairies
 - [Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/287-dairy-products-hygiene-amendment-regulations-northern-ireland-1996.md) *(as originally made)*
 - [The Dairy Products (Hygiene) (Scotland) Amendment Regulations 1996](../uk-parliament/regulations/1996/2000-2499/2465-the-dairy-products-hygiene-scotland-amendment-regulations-1996.md) *(as originally made)*
-- [The Dairy Products (Hygiene) Regulations 1995](../uk-parliament/regulations/1995/1000-1499/1086-the-dairy-products-hygiene-regulations-1995/README.md) *(as originally made)*
+- [The Dairy Products (Hygiene) Regulations 1995](../uk-parliament/regulations/1995/1000-1499/1086-the-dairy-products-hygiene-regulations-1995/README.md) *(changes pending)*
 
 ## Multilateral Investment Guarantee Agency1
 - [The Multilateral Investment Guarantee Agency (Further Subscription to Capital Stock) Order 2000](../uk-parliament/regulations/2000/1000-1499/1406-the-multilateral-investment-guarantee-agency-further-subscription-to-capital-sto.md) *(as originally made)*
@@ -1457,7 +1457,7 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 - [The Proceeds of Crime Act 2002 (External Investigations) Order 2014](../uk-parliament/regulations/2014/1500-1999/1893-the-proceeds-of-crime-act-2002-external-investigations-order-2014.md)
 
 ## Professions Complementary to Dentistry
-- [The General Dental Council (Continuing Professional Development) (Professions Complementary to Dentistry) Rules Order of Council 2008](../uk-parliament/regulations/2008/1500-1999/1823-the-general-dental-council-continuing-professional-development-professions-compl.md) *(as originally made)*
+- [The General Dental Council (Continuing Professional Development) (Professions Complementary to Dentistry) Rules Order of Council 2008](../uk-parliament/regulations/2008/1500-1999/1823-the-general-dental-council-continuing-professional-development-professions-compl.md)
 
 ## Protection of Trading Interests Judgments
 - [The Protection of Trading Interests Act 1980 (Isle of Man) Order 1983](../uk-parliament/regulations/1983/1500-1999/1704-the-protection-of-trading-interests-act-1980-isle-of-man-order-1983.md) *(as originally made)*
@@ -1948,6 +1948,12 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 ## Unauthorised Encampments
 - [The Unauthorised Encampments (2005 Order) (Commencement) Order (Northern Ireland) 2006](../northern-ireland/regulations/2006/0000-0499/244-the-unauthorised-encampments-2005-order-commencement-order-northern-ireland-2006.md) *(as originally made)*
 - [The Unauthorised Encampments (Retention and Disposal of Vehicles) Regulations (Northern Ireland) 2006](../northern-ireland/regulations/2006/0000-0499/243-the-unauthorised-encampments-retention-and-disposal-of-vehicles-regulations-nort.md) *(as originally made)*
+
+## United Kingdom Internal Market
+- [The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Glue Traps) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/79-the-united-kingdom-internal-market-act-2020-exclusions-from-market-access-princi.md) *(as originally made)*
+- [The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Single-Use Plastics) Regulations 2022](../uk-parliament/regulations/2022/0500-0999/857-the-united-kingdom-internal-market-act-2020-exclusions-from-market-access-princi.md) *(as originally made)*
+- [The United Kingdom Internal Market Act 2020 (Services Exclusions) Regulations 2023](../uk-parliament/regulations/2023/1000-1499/1263-the-united-kingdom-internal-market-act-2020-services-exclusions-regulations-2023.md) *(as originally made)*
+- [The Windsor Framework (UK Internal Market and Unfettered Access) Regulations 2024](../uk-parliament/regulations/2024/0000-0499/163-the-windsor-framework-uk-internal-market-and-unfettered-access-regulations-2024.md) *(as originally made)*
 
 ## Universities
 - [The Federated Superannuation System for Universities (Temporary Service) Regulations 1949](../uk-parliament/regulations/1949/1500-1999/1890-the-federated-superannuation-system-for-universities-temporary-service-regulatio.md) *(as originally made)*

@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 68
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '68'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/68
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 68
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 68. Offences: bodies corporate, partnerships and unincorporated associations
+## 68. Offences: bodies corporate, partnerships and unincorporated associations[^c-0da5e092ca94aefff4d6c48ccc80a98a]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Where an offence under these Regulations committed by an investment company with variable capital is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director of the company, or a person purporting to act in any such capacity, he, as well as the company, is guilty of the offence and liable to be proceeded against and punished accordingly.
 
@@ -27,3 +33,7 @@ summary: ''
 (4) Where an offence under these Regulations committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he, as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
 
 (5) Where an offence under these Regulations committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer of the association or any member of its governing body, he as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+## Annotations
+
+[^c-0da5e092ca94aefff4d6c48ccc80a98a]: Commencement: Reg. 68 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

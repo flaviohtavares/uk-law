@@ -32,19 +32,19 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Children and Young Persons (Protection from Tobacco) Act 1991](../../uk-parliament/acts/public/1991/23-children-and-young-persons-protection-from-tobacco-act-1991.md) *(changes pending)* — 6 regulations on this topic made under it
 - [Children (Leaving Care) Act 2000](../../uk-parliament/acts/public/2000/35-children-leaving-care-act-2000.md) *(changes pending)* — 5 regulations on this topic made under it
 - [Child Poverty Act 2010](../../uk-parliament/acts/public/2010/9-child-poverty-act-2010.md) — 4 regulations on this topic made under it
+- [Children (Care and Justice) (Scotland) Act 2024](../../scotland/acts/2024/5-children-care-and-justice-scotland-act-2024.md) — 4 regulations on this topic made under it
 - [Children and Young Persons Act 1933](../../uk-parliament/acts/public/geo5-23-24/12-children-and-young-persons-act-1933/README.md) *(changes pending)* — 4 regulations on this topic made under it
 - [Children's Hearings (Scotland) Act 2011](../../scotland/acts/2011/1-childrens-hearings-scotland-act-2011/README.md) *(changes pending)* — 4 regulations on this topic made under it
-- [Children (Care and Justice) (Scotland) Act 2024](../../scotland/acts/2024/5-children-care-and-justice-scotland-act-2024.md) — 3 regulations on this topic made under it
 - [Children (Scotland) Act 2020](../../scotland/acts/2020/16-children-scotland-act-2020.md) *(changes pending)* — 3 regulations on this topic made under it
 - [Children Act 1975](../../uk-parliament/acts/public/1975/72-children-act-1975/README.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-1030 in force, by year:
+1031 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 20 |
+| [2026](2026.md) | 21 |
 | [2025](2025.md) | 14 |
 | [2024](2024.md) | 9 |
 | [2023](2023.md) | 15 |

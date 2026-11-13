@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 7
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 7. Applications for authorisation
+## 7. Applications for authorisation[^c-f01d36c2c7524b2a54934e1cd4126b3d]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Any application for an authorisation order in respect of an investment company with variable capital—
 
@@ -40,3 +46,7 @@ he furnishes information which he knows to be false or misleading in a material 
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both;
 - (b) on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding the statutory maximum or to both.
+
+## Annotations
+
+[^c-f01d36c2c7524b2a54934e1cd4126b3d]: Commencement: Reg. 7 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

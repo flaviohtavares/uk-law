@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 21
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '21'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 21. Dairy products from Scotland, Northern Ireland, the Isle of Man and the Channel Islands
+## 21. Dairy products from Scotland, Northern Ireland, the Isle of Man and the Channel Islands[^c-2b9457e1e345be6607e9c653f5548d90]
+
+*Extent: E+W*
 
 (1) The places to which this regulation applies are Scotland, Northern Ireland, the Isle of Man and the Channel Islands.
 
@@ -33,3 +37,7 @@ unless any handling of those products in that place was in accordance with legis
 
 - (a) the “specified date” means the date on which these Regulations come into force;
 - (b) the “relevant EC health mark”, in relation to any place to which this regulation applies, means a mark applied in accordance with legislation having effect in that place and corresponding to the provisions of Part II of Schedule 10 relation to the health mark.
+
+## Annotations
+
+[^c-2b9457e1e345be6607e9c653f5548d90]: Commencement: Reg. 21 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

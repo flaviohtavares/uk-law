@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 70
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '70'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/70
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 70
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 70. Jurisdiction and procedure in respect of offences
+## 70. Jurisdiction and procedure in respect of offences[^c-0563cd8d28daf2fc7cfa6258eae4e622]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Summary proceedings for an offence under these Regulations may, without prejudice to any jurisdiction exercisable apart from this regulation, be taken against an investment company with variable capital or other body corporate, or an unincorporated association, at any place at which it has a place of business and against an individual at any place where he is for the time being.
 
@@ -27,6 +33,8 @@ summary: ''
 (5) A fine imposed on an unincorporated association on its conviction of such an offence shall be paid out of the funds of the association.
 
 ## Annotations
+
+[^c-0563cd8d28daf2fc7cfa6258eae4e622]: Commencement: Reg. 70 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
 
 [^f00024]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86).
 

@@ -19,7 +19,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-472 in force.
+473 in force.
 
 **2026**
 
@@ -35,6 +35,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026](../uk-parliament/regulations/2026/0000-0499/246-the-social-security-scotland-act-2018-carers-assistance-consequential-modificati.md) *(as originally made)*
 - [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026](../uk-parliament/regulations/2026/0500-0999/679-the-social-security-scotland-act-2018-disability-and-carer-benefits-consequentia.md) *(as originally made)*
 - [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2026](../uk-parliament/regulations/2026/0000-0499/358-the-tertiary-education-and-research-wales-act-2022-consequential-amendments-orde.md) *(as originally made)*
+- [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1186-the-withdrawal-agreement-windsor-framework-and-governance-amendment-regulations.md) *(as originally made)*
 
 **2025**
 
@@ -226,7 +227,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Scotland Act 2012 (Commencement No. 5) Order 2015](../uk-parliament/regulations/2015/0500-0999/682-the-scotland-act-2012-commencement-no-5-order-2015.md) *(as originally made)*
 - [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015](../uk-parliament/regulations/2015/0500-0999/683-the-scotland-act-2012-saving-and-consequential-provisions-order-2015.md)
 - [The Scottish Administration (Offices) Order 2015](../uk-parliament/regulations/2015/0000-0499/200-the-scottish-administration-offices-order-2015.md) *(as originally made)*
-- [The Scottish Parliament (Elections etc.) Order 2015](../scotland/regulations/2015/0000-0499/425-the-scottish-parliament-elections-etc-order-2015/README.md) *(changes pending)*
+- [The Scottish Parliament (Elections etc.) Order 2015](../scotland/regulations/2015/0000-0499/425-the-scottish-parliament-elections-etc-order-2015/README.md)
 - [The Scottish Parliament (Regional Returning Officers) (Revocation) Order 2015](../uk-parliament/regulations/2015/0500-0999/743-the-scottish-parliament-regional-returning-officers-revocation-order-2015.md) *(as originally made)*
 - [The Scottish Parliament (Returning Officers’ Charges) (Revocation) Order 2015](../uk-parliament/regulations/2015/0500-0999/761-the-scottish-parliament-returning-officers-charges-revocation-order-2015.md) *(as originally made)*
 - [The Tweed Regulation Amendment Order 2015](../scotland/regulations/2015/0000-0499/11-the-tweed-regulation-amendment-order-2015.md) *(as originally made)*
@@ -305,7 +306,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Northern Ireland Act 1998 (Amendment of Schedule 3) Order 2010](../uk-parliament/regulations/2010/0500-0999/977-the-northern-ireland-act-1998-amendment-of-schedule-3-order-2010.md) *(as originally made)*
 - [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010](../uk-parliament/regulations/2010/0500-0999/976-the-northern-ireland-act-1998-devolution-of-policing-and-justice-functions-order/README.md)
 - [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010](../uk-parliament/regulations/2010/2500-2999/2660-the-protection-of-vulnerable-groups-scotland-act-2007-consequential-provisions-o.md)
-- [The Scottish Parliament (Elections etc.) Order 2010](../uk-parliament/regulations/2010/2500-2999/2999-the-scottish-parliament-elections-etc-order-2010/README.md) *(changes pending)*
+- [The Scottish Parliament (Elections etc. ) Order 2010](../uk-parliament/regulations/2010/2500-2999/2999-the-scottish-parliament-elections-etc-order-2010/README.md)
 - [The Scottish Register of Tartans Act 2008 (Consequential Modifications) Order 2010](../uk-parliament/regulations/2010/0000-0499/180-the-scottish-register-of-tartans-act-2008-consequential-modifications-order-2010.md) *(as originally made)*
 - [The Welsh Ministers (Transfer of Fire and Rescue Service Equipment) Order 2010](../uk-parliament/regulations/2010/0000-0499/428-the-welsh-ministers-transfer-of-fire-and-rescue-service-equipment-order-2010.md) *(as originally made)*
 - [The Welsh Zone (Boundaries and Transfer of Functions) Order 2010](../uk-parliament/regulations/2010/0500-0999/760-the-welsh-zone-boundaries-and-transfer-of-functions-order-2010.md) *(as originally made)*

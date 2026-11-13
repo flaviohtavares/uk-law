@@ -10,11 +10,12 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-119 in force.
+120 in force.
 
 **2026**
 
 - [The Levelling-up and Regeneration Act 2023 (Commencement No. 12) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1105-the-levelling-up-and-regeneration-act-2023-commencement-no-12-regulations-2026.md) *(as originally made)*
+- [The Marine Licensing (Exempted Activities and Fees) (Amendment) (No. 2) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1180-the-marine-licensing-exempted-activities-and-fees-amendment-no-2-regulations-202.md) *(as originally made)*
 - [The Marine Licensing (Exempted Activities and Fees) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1110-the-marine-licensing-exempted-activities-and-fees-amendment-regulations-2026.md) *(as originally made)*
 - [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026](../wales/regulations/2026/0000-0499/21-the-marine-licensing-exempted-activities-wales-amendment-order-2026.md) *(as originally made)*
 - [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026](../uk-parliament/regulations/2026/0500-0999/676-the-marine-licensing-miscellaneous-provisions-amendment-etc-order-2026.md)

@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 23
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '23'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 23
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 23. Investigations: disclosure
+## 23. Investigations: disclosure[^c-e494a98b72a9571a09d56c762744e82f]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) A person shall not under regulation 22 above be required to disclose any information or produce any document which he would be entitled to refuse to disclose or produce on grounds of legal professional privilege in proceedings in the High Court or on grounds of confidentiality as between client and professional legal adviser in proceedings in the Court of Session except that a lawyer may be required to furnish the name and address of his client.
 
@@ -27,3 +33,7 @@ summary: ''
 
 - (a) an investment company with variable capital, director or depositary under investigation by virtue of paragraph (1) of regulation 22 above; or
 - (b) an investment company with variable capital, or any other person, under investigation by virtue of paragraph (2) of that regulation.
+
+## Annotations
+
+[^c-e494a98b72a9571a09d56c762744e82f]: Commencement: Reg. 23 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

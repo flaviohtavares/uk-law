@@ -2,8 +2,8 @@
 title: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 17
 act: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024
 section: '17'
-status: revised-with-pending-changes
-text_date: '2025-07-01'
+status: revised
+text_date: '2026-07-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2024/1268/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 17
 
-> **Warning: changes not yet applied to this text (45).** Text as at 2025-07-01. See https://www.legislation.gov.uk/changes/affected/wsi/2024/1268
+> Text as at 2026-07-20.
 >
 > Extent: England, Wales.
 
@@ -35,8 +35,10 @@ summary: ''
 
 (3) Where paragraph (1) applies and work in relation to a building has begun but not been completed, a person who intends to carry out further work in relation to the partly completed work must give the local authority sufficient plans to show that the intended work will not contravene any requirement in the 2010 Regulations, including such plans of any part of the work already carried out as may be necessary to show that the intended work can be carried out without contravening any such requirement.
 
-(4) Plans given to a local authority in accordance with paragraph (3) are not to be regarded as plans deposited in accordance with building regulations.
+(4) Plans given to a local authority in accordance with paragraph (3) are not to be regarded as an application for building control approval with full plans[^c-c579682942c757453d9d774df9ffcb8f].
 
 ## Annotations
 
 [^c-5b3e7f7951002e6de8307e22eb507a42]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2024/1268/regulation/17) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+
+[^c-c579682942c757453d9d774df9ffcb8f]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/17/4) substituted (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [17(8)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/17/8) (with [regs. 20](https://www.legislation.gov.uk/wsi/2025/1320/regulation/20), [21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21)) (as substituted by [W.S.I. 2026/60](https://www.legislation.gov.uk/wsi/2026/60), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/60/regulation/1/2/a), [7(2)](https://www.legislation.gov.uk/wsi/2026/60/regulation/7/2))

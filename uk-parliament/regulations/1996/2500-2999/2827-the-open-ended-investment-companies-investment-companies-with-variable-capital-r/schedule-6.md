@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, SCHEDULE 6
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: schedule-6
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,17 +12,23 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, SCHEDULE 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 6 — AUDITORS
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 Regulation 63
 
-### 1. Eligibility
+### 1. Eligibility[^c-df830469781be72bfa1c44c3894fee64]
 
 No person is eligible for appointment as auditor of an investment company with variable capital unless he is also eligible under section 25 of the Companies Act 1989[^f00035] (eligibility for appointment as company auditor) for appointment as a company auditor.
 
-**2.** (1) A person is ineligible for appointment as auditor of an investment company with variable capital if he is—
+**2.**[^c-82cda85b72b9edffb31b9ca3c8ca0332] (1) A person is ineligible for appointment as auditor of an investment company with variable capital if he is—
 
 - (a) an officer or employee of the company; or
 - (b) a partner or employee of such a person, or a partnership of which such a person is a partner.
@@ -36,7 +42,7 @@ No person is eligible for appointment as auditor of an investment company with v
 
 (4) Any reference in this paragraph to an officer of an investment company with variable capital shall include a reference to a shadow director of such a company.
 
-**3.** (1) No person shall act as auditor of a company if he is ineligible for appointment to the office.
+**3.**[^c-bb5c73e2d8f99a75864c2ea9c806ec99] (1) No person shall act as auditor of a company if he is ineligible for appointment to the office.
 
 (2) If during his term of office an auditor of a company becomes ineligible for appointment to the office, he shall thereupon vacate office and shall forthwith give notice in writing to the company concerned that he has vacated it by reason of ineligibility.
 
@@ -49,7 +55,7 @@ No person is eligible for appointment as auditor of an investment company with v
 
 (5) In proceedings against a person for an offence under this paragraph it is a defence for him to show that he did not know and had no reason to believe that he was, or had become, ineligible for appointment.
 
-### 4. Appointment
+### 4. Appointment[^c-982b27025f6ff0db628404ab2807aae5]
 
 (1) Every company shall appoint an auditor or auditors in accordance with this paragraph.
 
@@ -61,13 +67,13 @@ No person is eligible for appointment as auditor of an investment company with v
 
 (5) No rules made under section 107 of the 1986 Act (appointment etc of auditors) shall apply in relation to investment companies with variable capital.
 
-**5.** If, in any case, no auditors are appointed as required in paragraph 4 above, SIB may appoint a person to fill the vacancy.
+**5.**[^c-df8f4532f5b4b35097d42152c9772944] If, in any case, no auditors are appointed as required in paragraph 4 above, SIB may appoint a person to fill the vacancy.
 
-**6.** (1) The directors of a company, or the company in general meeting, may fill a casual vacancy in the office of auditor.
+**6.**[^c-9d2dba62b30ebc2ab874996276c2b2e6] (1) The directors of a company, or the company in general meeting, may fill a casual vacancy in the office of auditor.
 
 (2) While such a vacancy continues, any surviving or continuing auditor or auditors may continue to act.
 
-**7.** (1) Sub-paragraphs (2) to (5) below apply to the appointment as auditor of a company of a partnership constituted under the law of England and Wales or Northern Ireland, or under the law of any other country or territory in which a partnership is not a legal person; and sub-paragraphs (3) to (5) below apply to the appointment as such an auditor of a partnership constituted under the law of Scotland, or under the law of any other country or territory in which a partnership is a legal person.
+**7.**[^c-c653cd487fc7c261ff873d5729184ac8] (1) Sub-paragraphs (2) to (5) below apply to the appointment as auditor of a company of a partnership constituted under the law of England and Wales or Northern Ireland, or under the law of any other country or territory in which a partnership is not a legal person; and sub-paragraphs (3) to (5) below apply to the appointment as such an auditor of a partnership constituted under the law of Scotland, or under the law of any other country or territory in which a partnership is a legal person.
 
 (2) The appointment is, unless the contrary intention appears, an appointment of the partnership as such and not of the partners.
 
@@ -80,7 +86,7 @@ No person is eligible for appointment as auditor of an investment company with v
 
 (5) Where the partnership ceases and no person succeeds to the appointment under sub-paragraph (3) above, the appointment may with the consent of the company be treated as extending to a partnership or other person eligible for the appointment who succeeds to the business of the former partnership or to such part of it as is agreed by the company shall be treated as comprising the appointment.
 
-### 8. Rights
+### 8. Rights[^c-6c04a3dbd7c44a1e13f3ff6e3d425dd3]
 
 (1) The auditors of a company shall have a right of access at all times to the company’s books, accounts and vouchers and are entitled to require from the company’s officers such information and explanations as they think necessary for the performance of their duties as auditors.
 
@@ -96,7 +102,7 @@ No person is eligible for appointment as auditor of an investment company with v
 
 (4) This paragraph applies to a shadow director of an investment company with variable capital as it applies to an officer of such a company.
 
-**9.** (1) The auditors of a company are entitled—
+**9.**[^c-766e0ee1658ab12b60a69f840f044c93] (1) The auditors of a company are entitled—
 
 - (a) to receive all such notices of, and other communications relating to, any general meeting of the company as a shareholder of the company is entitled to receive;
 - (b) to attend any general meeting of the company; and
@@ -104,20 +110,20 @@ No person is eligible for appointment as auditor of an investment company with v
 
 (2) The right to attend and be heard at a meeting is exercisable in the case of a body corporate or partnership by an individual authorised by it in writing to act as its representative at the meeting.
 
-### 10. Remuneration
+### 10. Remuneration[^c-7e0e5f2ad726e42c88e06bc79d2c84be]
 
 (1) The remuneration of auditors of a company who are appointed by the company in general meeting shall be fixed by the company in general meeting or in such manner as the company in general meeting may determine.
 
 (2) The remuneration of auditors who are appointed by the directors or SIB shall, as the case may be, be fixed by the directors or SIB (and shall be payable by the company even where it is fixed by SIB).
 
-**11.** (1) Subject to sub-paragraph (2) below, the power of the Secretary of State to make regulations under section 390B of the 1985 Act[^f00036] (remuneration of auditors and their associates for non-audit work) in relation to company auditors shall be exercisable in relation to auditors of investment companies with variable capital—
+**11.**[^c-f8e657eaa06f8ed3bc37ac571df4fa40] (1) Subject to sub-paragraph (2) below, the power of the Secretary of State to make regulations under section 390B of the 1985 Act[^f00036] (remuneration of auditors and their associates for non-audit work) in relation to company auditors shall be exercisable in relation to auditors of investment companies with variable capital—
 
 - (a) for like purposes; and
 - (b) subject to the same conditions.
 
 (2) For the purposes of the exercise of the power to make regulations under section 390B of the 1985 Act, as extended by sub-paragraph (1) above, the reference in section 390B(3) to a note to a company’s accounts shall be taken to be a reference to the annual report of an investment company with variable capital.
 
-### 12. Removal
+### 12. Removal[^c-5975c0365a9da6bc996f62bd6f2caab2]
 
 (1) A company may by resolution remove an auditor from office notwithstanding anything in any agreement between it and him.
 
@@ -125,7 +131,7 @@ No person is eligible for appointment as auditor of an investment company with v
 
 (3) Nothing in this paragraph shall be taken as depriving a person removed under it of compensation or damages payable to him in respect of the termination of his appointment as auditor or of any appointment terminating with that as auditor.
 
-### 13. Rights on removal or non-reappointment
+### 13. Rights on removal or non-reappointment[^c-a3654e9a2a5c5c61570fb2e9c3ecc017]
 
 (1) A resolution at a general meeting of a company—
 
@@ -149,11 +155,11 @@ is not effective unless notice of the intention to move it has been given to the
 
 (6) Copies of the representations need not be sent out, the steps required by sub-paragraph (4)(c) or (d) above need not be taken and the representations need not be read out at the meeting if, on the application of the company or any other person claiming to be aggrieved, the court is satisfied that the rights conferred by this paragraph are being abused to secure needless publicity for defamatory matter; and the court may order the costs of the company on such an application to be paid in whole or in part by the auditor, notwithstanding that he is not a party to the application.
 
-**14.** (1) An auditor who has been removed from office has, notwithstanding his removal, the rights conferred by paragraph 9 above in relation to any general meeting of the company at which his term of office would otherwise have expired or at which it is proposed to fill the vacancy caused by his removal.
+**14.**[^c-211b6e62976a5ee538e48bf1cdbd80fa] (1) An auditor who has been removed from office has, notwithstanding his removal, the rights conferred by paragraph 9 above in relation to any general meeting of the company at which his term of office would otherwise have expired or at which it is proposed to fill the vacancy caused by his removal.
 
 (2) Any reference in paragraph 9 above to business concerning the auditors as auditors shall be construed in relation to an auditor who has been removed from office as a reference to business concerning him as former auditor.
 
-### 15. Resignation
+### 15. Resignation[^c-7d7660e174b0b9da86a9fa65c25cb04d]
 
 (1) An auditor of a company may resign his office by depositing a notice in writing to that effect at the company’s head office.
 
@@ -163,7 +169,7 @@ is not effective unless notice of the intention to move it has been given to the
 
 (4) The company shall not later than 14 days after the deposit of a notice of resignation send a copy of the notice to SIB.
 
-**16.** (1) This paragraph applies where a notice of resignation of an auditor is accompanied by a statement of circumstances which he considers ought to be brought to the attention of the shareholders or creditors of the company.
+**16.**[^c-f29bd1dee4db78cfd09ee4a82e7670e8] (1) This paragraph applies where a notice of resignation of an auditor is accompanied by a statement of circumstances which he considers ought to be brought to the attention of the shareholders or creditors of the company.
 
 (2) An auditor may deposit with the notice a signed requisition that a general meeting of the company be convened forthwith for the purpose of receiving and considering such explanation of the circumstances connected with his resignation as he may wish to place before the meeting.
 
@@ -186,11 +192,11 @@ a statement in writing (not exceeding a reasonable length) of the circumstances 
 
 (7) Copies of a statement need not be sent out or provided and the statement need not be read out at the meeting if, on the application of the company or any other person claiming to be aggrieved, the court is satisfied that the rights conferred by this paragraph are being abused to secure needless publicity for defamatory matter; and the court may order the costs of the company on such an application to be paid in whole or in part by the auditor, notwithstanding that he is not a party to the application.
 
-**17.** (1) An auditor who has resigned has, notwithstanding his removal, the rights conferred by paragraph 9 above in relation to any such general meeting of the company as is mentioned in paragraph 16(4)(a) or (b) above.
+**17.**[^c-14e6cb328d8f1bd9186265b02796b9e5] (1) An auditor who has resigned has, notwithstanding his removal, the rights conferred by paragraph 9 above in relation to any such general meeting of the company as is mentioned in paragraph 16(4)(a) or (b) above.
 
 (2) The reference in paragraph 9 above to business concerning the auditors as auditors shall be construed in relation to an auditor who has resigned as a reference to business concerning him as former auditor.
 
-### 18. Statement by auditor ceasing to hold office
+### 18. Statement by auditor ceasing to hold office[^c-5fbafb907f4a8de11083b986ab07fa78]
 
 (1) Where an auditor ceases for any reason to hold office, he shall deposit at the head office of the company a statement of any circumstances connected with his ceasing to hold office which he considers should be brought to the attention of the shareholders or creditors of the company or, if he considers that there are no such circumstances, a statement that there are none.
 
@@ -222,7 +228,7 @@ and the company shall not later than 14 days after the court’s decision take s
 
 (8) Where a notice of appeal is filed not later than 14 days after the court’s decision, any reference to that decision in sub-paragraphs (5) and (6) above shall be construed as a reference to the final determination or withdrawal of that appeal, as the case may be.
 
-**19.** (1) If a person ceasing to hold office as auditor fails to comply with paragraph 18 above, he is guilty of an offence and liable—
+**19.**[^c-fb03829b1759dbd4756b4f4ed14cb0b5] (1) If a person ceasing to hold office as auditor fails to comply with paragraph 18 above, he is guilty of an offence and liable—
 
 - (a) on conviction on indictment, to a fine;
 - (b) on summary conviction, to a fine not exceeding the statutory maximum.
@@ -231,6 +237,44 @@ and the company shall not later than 14 days after the court’s decision take s
 
 ## Annotations
 
+[^c-df830469781be72bfa1c44c3894fee64]: Commencement: Sch. 6 para. 1 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
 [^f00035]: Footnote: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
 
+[^c-82cda85b72b9edffb31b9ca3c8ca0332]: Commencement: Sch. 6 para. 2 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-bb5c73e2d8f99a75864c2ea9c806ec99]: Commencement: Sch. 6 para. 3 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-982b27025f6ff0db628404ab2807aae5]: Commencement: Sch. 6 para. 4 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-df8f4532f5b4b35097d42152c9772944]: Commencement: Sch. 6 para. 5 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-9d2dba62b30ebc2ab874996276c2b2e6]: Commencement: Sch. 6 para. 6 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-c653cd487fc7c261ff873d5729184ac8]: Commencement: Sch. 6 para. 7 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-6c04a3dbd7c44a1e13f3ff6e3d425dd3]: Commencement: Sch. 6 para. 8 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-766e0ee1658ab12b60a69f840f044c93]: Commencement: Sch. 6 para. 9 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-7e0e5f2ad726e42c88e06bc79d2c84be]: Commencement: Sch. 6 para. 10 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-f8e657eaa06f8ed3bc37ac571df4fa40]: Commencement: Sch. 6 para. 11 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
 [^f00036]: Footnote: Section 390B was inserted into the 1985 Act by section 121 of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
+
+[^c-5975c0365a9da6bc996f62bd6f2caab2]: Commencement: Sch. 6 para. 12 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-a3654e9a2a5c5c61570fb2e9c3ecc017]: Commencement: Sch. 6 para. 13 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-211b6e62976a5ee538e48bf1cdbd80fa]: Commencement: Sch. 6 para. 14 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-7d7660e174b0b9da86a9fa65c25cb04d]: Commencement: Sch. 6 para. 15 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-f29bd1dee4db78cfd09ee4a82e7670e8]: Commencement: Sch. 6 para. 16 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-14e6cb328d8f1bd9186265b02796b9e5]: Commencement: Sch. 6 para. 17 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-5fbafb907f4a8de11083b986ab07fa78]: Commencement: Sch. 6 para. 18 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-fb03829b1759dbd4756b4f4ed14cb0b5]: Commencement: Sch. 6 para. 19 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

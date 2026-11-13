@@ -3,7 +3,7 @@ title: Regulation and Inspection of Social Care (Wales) Act 2016, section 187
 act: Regulation and Inspection of Social Care (Wales) Act 2016
 section: '187'
 status: revised-with-pending-changes
-text_date: '2026-04-01'
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/anaw/2016/2/section/187
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Regulation and Inspection of Social Care (Wales) Act 2016, section 187
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
 > Extent: England, Wales.
 
@@ -30,6 +30,7 @@ summary: ''
 - (a) section 2(1)(i) (regulations specifying other care and support services as regulated services);
 - (b) section 2(3) (regulations prescribing things not to be treated as regulated services);
 - (c) section 3(3) (regulations prescribing things not to be treated as care and support);
+- (ca)[^c-ec7c10d0691fd9eebbe0a56a31f25569] section 6A(3)(b) (regulations prescribing public goods to which a person’s objects or purposes must primarily relate);
 - (d) section 9(9) (regulations varying the evidence to be taken into account when determining whether a person is fit and proper);
 - (e) section 11(2) (regulations prescribing a time limit within which an application to designate a replacement responsible individual must be made);
 - (f) section 27(1) (regulations imposing requirements on service providers);
@@ -49,7 +50,8 @@ summary: ''
 - (t) section 165 (designation of regulated activities etc. for the purposes of prohibition orders under Part 7);
 - (u) section 171(3) (creation of offences in relation to employment or appointment of persons subject to prohibition orders etc.);
 - (v) section 177(1)(h) (regulations prescribing other persons as relevant authorities for the purposes of Part 9);
-- (w) paragraph 7 of Schedule 1 (regulations specifying certain services as regulated advocacy services).
+- (w) paragraph 7 of Schedule 1 (regulations specifying certain services as regulated advocacy services);
+- (x)[^c-9de21687e72dfcccc8ef741293128dfa] paragraphs 1(1)(b) and 3(1) of Schedule 1A (regulations in relation to transitional period for restricted children’s services).
 
 (3) Any other statutory instrument containing regulations made under this Act is subject to annulment in pursuance of a resolution of Senedd Cymru[^c-d768f85dfcefd29f6c3e94ff1093c4de].
 
@@ -58,5 +60,9 @@ summary: ''
 ## Annotations
 
 [^c-43cdc682e694106085f37df5b5f983bd]: Textual amendment: Words in [s. 187(2)](https://www.legislation.gov.uk/anaw/2016/2/section/187/2) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(15)(f)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/15/f)
+
+[^c-ec7c10d0691fd9eebbe0a56a31f25569]: Textual amendment: [S. 187(2)(ca)](https://www.legislation.gov.uk/anaw/2016/2/section/187/2/ca) inserted (30.10.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 2(5)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/2/5/a); [W.S.I. 2026/130](https://www.legislation.gov.uk/wsi/2026/130), [art. 2](https://www.legislation.gov.uk/wsi/2026/130/article/2)
+
+[^c-9de21687e72dfcccc8ef741293128dfa]: Textual amendment: [S. 187(2)(x)](https://www.legislation.gov.uk/anaw/2016/2/section/187/2/x) inserted (30.10.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 2(5)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/2/5/b); [W.S.I. 2026/130](https://www.legislation.gov.uk/wsi/2026/130), [art. 2](https://www.legislation.gov.uk/wsi/2026/130/article/2)
 
 [^c-d768f85dfcefd29f6c3e94ff1093c4de]: Textual amendment: Words in [s. 187(3)](https://www.legislation.gov.uk/anaw/2016/2/section/187/3) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(15)(f)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/15/f)

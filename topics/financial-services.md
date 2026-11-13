@@ -13,13 +13,14 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-241 in force.
+242 in force.
 
 **2026**
 
 - [The Central Counterparties (Equivalence) (Indonesia and the People’s Republic of China) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1134-the-central-counterparties-equivalence-indonesia-and-the-peoples-republic-of-chi.md) *(as originally made)*
 - [The Central Counterparties (Equivalence) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/779-the-central-counterparties-equivalence-regulations-2026.md) *(as originally made)*
 - [The Central Counterparties (Transitional Provision) (Extension and Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1010-the-central-counterparties-transitional-provision-extension-and-amendment-regula.md) *(as originally made)*
+- [The Collective Investment Schemes (Amendment etc.) (EU Exit) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1183-the-collective-investment-schemes-amendment-etc-eu-exit-amendment-regulations-20.md) *(as originally made)*
 - [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1154-the-financial-services-gibraltar-amendment-eu-exit-regulations-2026.md) *(as originally made)*
 - [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/102-the-financial-services-and-markets-act-2000-cryptoassets-regulations-2026/README.md) *(as originally made)*
 - [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/621-the-money-laundering-and-terrorist-financing-amendment-regulations-2026.md) *(as originally made)*
@@ -232,7 +233,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Financial Services Act 1986 (Investment Advertisements) (Exemptions) Order 1996](../uk-parliament/regulations/1996/1500-1999/1586-the-financial-services-act-1986-investment-advertisements-exemptions-order-1996.md) *(as originally made)*
 - [The Financial Services Act 1986 (Restriction of Scope of Act and Meaning of Collective Investment Scheme) Order 1996](../uk-parliament/regulations/1996/2500-2999/2996-the-financial-services-act-1986-restriction-of-scope-of-act-and-meaning-of-colle.md) *(as originally made)*
 - [The Financial Services Act 1986 (Uncertificated Securities) (Extension of Scope of Act) Order 1996](../uk-parliament/regulations/1996/1000-1499/1322-the-financial-services-act-1986-uncertificated-securities-extension-of-scope-of.md) *(as originally made)*
-- [The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996](../uk-parliament/regulations/1996/2500-2999/2827-the-open-ended-investment-companies-investment-companies-with-variable-capital-r/README.md) *(as originally made)*
+- [The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996](../uk-parliament/regulations/1996/2500-2999/2827-the-open-ended-investment-companies-investment-companies-with-variable-capital-r/README.md) *(changes pending)*
 
 **1995**
 

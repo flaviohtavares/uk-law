@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 69
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '69'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/69
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 69
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 69. Time limits for prosecution of offences
+## 69. Time limits for prosecution of offences[^c-692368aee02406e8c8ac3f22d29d3e23]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Any information relating to an offence under these Regulations which is triable by a magistrates' court in England and Wales may be so tried on an information laid at any time within 12 months after the date on which evidence sufficient in the opinion of the relevant authority to justify the proceedings comes to its knowledge.
 
@@ -34,6 +40,8 @@ summary: ''
 - (b) in any other case where proceedings are instituted in England and Wales, the person instituting the proceedings.
 
 ## Annotations
+
+[^c-692368aee02406e8c8ac3f22d29d3e23]: Commencement: Reg. 69 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
 
 [^f00022]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

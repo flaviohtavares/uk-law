@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 11
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '11'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Suspension of authorisation in urgent cases
+## 11. Suspension of authorisation in urgent cases[^c-2c6871bf1267d1e08c15dccf9ffd651f]
+
+*Extent: E+W+S+N.I.*
 
 After section 12 of the 1982 Act insert—
 
@@ -49,3 +53,7 @@ After section 12 of the 1982 Act insert—
 > (7) Where a direction under this section is so confirmed, it may not be revoked or varied; but if the Secretary of State subsequently issues to the company under section 3 above an authorisation to carry on insurance business of a class to which the direction relates, the direction shall cease to have effect in relation to such business.
 >
 > (8) In this section ‘the relevant period’, in relation to a direction under this section, means the period of two months beginning with the date on which the direction is given.
+
+## Annotations
+
+[^c-2c6871bf1267d1e08c15dccf9ffd651f]: Commencement: Reg. 11 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

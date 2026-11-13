@@ -14,10 +14,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Coronavirus (Recovery and Reform) (Scotland) Act 2022](../scotland/acts/2022/8-coronavirus-recovery-and-reform-scotland-act-2022/README.md) — 4 regulations on this topic made under it
 - [The Criminal Justice (Northern Ireland) Order 2003](../northern-ireland/orders-in-council/2003/1247-the-criminal-justice-northern-ireland-order-2003.md) *(changes pending)* — 4 regulations on this topic made under it
 - [Bail and Release from Custody (Scotland) Act 2023](../scotland/acts/2023/4-bail-and-release-from-custody-scotland-act-2023.md) — 3 regulations on this topic made under it
+- [Victims, Witnesses, and Justice Reform (Scotland) Act 2025](../scotland/acts/2025/12-victims-witnesses-and-justice-reform-scotland-act-2025/README.md) *(changes pending)* — 3 regulations on this topic made under it
 
 ## Regulations
 
-121 in force.
+122 in force.
 
 **2026**
 
@@ -27,6 +28,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (Commencement No. 1 and Transitional Provision) Regulations 2026](../scotland/regulations/2026/0000-0499/85-the-criminal-justice-modernisation-and-abusive-domestic-behaviour-reviews-scotla.md) *(as originally made)*
 - [The Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (Commencement No. 2) Regulations 2026](../scotland/regulations/2026/0000-0499/294-the-criminal-justice-modernisation-and-abusive-domestic-behaviour-reviews-scotla.md) *(as originally made)*
 - [The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 2 and Saving Provisions) Regulations 2026](../scotland/regulations/2026/0000-0499/120-the-victims-witnesses-and-justice-reform-scotland-act-2025-commencement-no-2-and.md) *(as originally made)*
+- [The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 3) Regulations 2026](../scotland/regulations/2026/0000-0499/334-the-victims-witnesses-and-justice-reform-scotland-act-2025-commencement-no-3-reg.md) *(as originally made)*
 
 **2025**
 

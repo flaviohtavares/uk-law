@@ -2,9 +2,9 @@
 title: The Immigration (Isle of Man) Order 2008, section 14
 act: The Immigration (Isle of Man) Order 2008
 section: '14'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008, section 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Extension of the Immigration and Asylum Act 1999 to the Isle of Man
+## 14. Extension of the Immigration and Asylum Act 1999 to the Isle of Man[^c-c9f7dadd9e6019a77e9950d5ff458df1]
+
+*Extent: E+W+S+N.I.*
 
 (1) The following provisions of the 1999 Act shall extend to the Isle of Man subject to the modifications specified in Schedule 6.
 
@@ -53,10 +57,14 @@ summary: ''
   - (v) Schedule 16 (repeals), in so far as it relates to provisions of the 1971 Act, the Immigration (Carriers’ Liability) Act 1987[^f00013], the 1988 Act and the Asylum and Immigration Appeals Act 1993[^f00014] which extend to the Isle of Man;
   - (vi) section 170 (short title, commencement and extent).
 
-**15.** For ease of reference, the provisions of the 1999 Act as modified and extended to the Isle of Man (except for provisions which amend or repeal other enactments) are set out in Part 4 of Schedule 10.
+**15.**[^c-5a1616829c43a95708e0ce8dd6ad97fc] For ease of reference, the provisions of the 1999 Act as modified and extended to the Isle of Man (except for provisions which amend or repeal other enactments) are set out in Part 4 of Schedule 10.
 
 ## Annotations
+
+[^c-c9f7dadd9e6019a77e9950d5ff458df1]: Commencement: Art. 14 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
 
 [^f00013]: Footnote: [1987 c.24](https://www.legislation.gov.uk/ukpga/1987/24).
 
 [^f00014]: Footnote: [1993 c.24](https://www.legislation.gov.uk/ukpga/1993/24).
+
+[^c-5a1616829c43a95708e0ce8dd6ad97fc]: Commencement: Art. 15 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)

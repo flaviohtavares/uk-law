@@ -1,70 +1,29 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, section 31
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, section 31
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: '31'
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: repealed
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, section 31
+# The Scottish Parliament (Elections etc. ) Order 2010, section 31
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Requirement of secrecy[^c-2d79d88f592189083eff82871db7d1f7]
+## 31. Requirement of secrecy[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
-(1) The following persons attending at a polling station, namely—
+**No longer in force.**
 
-- (a) a CRO, RRO or a member of staff of a CRO or RRO;
-- (b) a presiding officer or clerk;
-- (c) a candidate (including a candidate on a party’s regional list);
-- (d) a nominating officer of a registered party which has submitted a regional list;
-- (e) an election agent;
-- (f) a polling agent;
-- (g) a person attending by virtue of sections 6A to 6D of the 2000 Political Parties Act[^f00031](representatives of the Electoral Commission and accredited observers),
-
-shall maintain and aid in maintaining the secrecy of voting and shall not, except for some purpose authorised by law, communicate to any person before the poll is closed the information described in paragraph (2).
-
-(2) The information referred to in paragraph (1) is any information as to—
-
-- (a) the name of any elector or proxy for an elector who has or has not applied for a ballot paper or voted at a polling station;
-- (b) the number on the register of electors of any elector who, or whose proxy, has or has not applied for a ballot paper or voted at a polling station; or
-- (c) the official mark being used in accordance with rule 30 of the Scottish Parliamentary Election Rules (the official mark).
-
-(3) Every person attending at the counting of the votes shall maintain and aid in maintaining the secrecy of voting and shall not—
-
-- (a) ascertain or attempt to ascertain at the counting of the votes the number or other unique identifying mark on the back of any ballot paper;
-- (b) communicate any information obtained at the counting of the votes as to the candidate for whom or, as the case may be, registered party for which, any vote is given on any particular ballot paper.
-
-(4) No person shall—
-
-- (a) interfere with or attempt to interfere with a voter when the voter is recording the voter’s vote;
-- (b) otherwise obtain or attempt to obtain in a polling station information as to the candidate for whom or the registered party for which a voter in that station is about to vote or has voted;
-- (c) communicate at any time to any person any information obtained in a polling station as to the candidate for whom or the registered party for which a voter in that station is about to vote or has voted, or as to the number or other unique identifying mark on the back of a ballot paper given to a voter at that station; or
-- (d) directly or indirectly induce a voter to display a ballot paper after the voter has marked it so as to make known to any person the name of the candidate for whom or the registered party for which the voter has or has not voted.
-
-(5) Every person attending the proceedings in connection with the issue or the receipt of ballot papers for persons voting by post shall maintain and aid in maintaining the secrecy of voting and shall not—
-
-- (a) except for some purpose authorised by law, communicate, before the poll is closed, to any person any information obtained at those proceedings as to the official mark;
-- (b) except for some purpose authorised by law, communicate to any person at any time any information obtained at those proceedings as to the number or other unique identifying mark on the back of any ballot paper sent to any person;
-- (c) except for some purpose authorised by law, attempt to ascertain at the proceedings in connection with the receipt of ballot papers the number or other unique identifying mark on the back of any ballot paper; or
-- (d) attempt to ascertain at the proceedings in connection with the receipt of ballot papers the name of the candidate for whom or the registered party for which, any vote is given in any particular ballot paper or communicate any information with respect thereto obtained at those proceedings.
-
-(6) No person having undertaken to assist a voter with disabilities to vote shall communicate at any time to any person any information as to the name of the candidate for whom or, as the case may be, the registered party for which, that voter intends to vote or has voted, or as to the number or other unique identifying mark on the back of a ballot paper given for the use of that voter.
-
-(7) If a person acts in contravention of this article that person shall be liable on summary conviction to a fine not exceeding the amount specified as level 5 on the standard scale or to imprisonment for a term not exceeding three months.
-
-(8) In this article a voter with disabilities is a voter who has made a declaration under rule 48 of the Scottish Parliamentary Election Rules that the voter is so incapacitated by blindness or other disability or by inability to read, as to be unable to vote without assistance.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-2d79d88f592189083eff82871db7d1f7]: Commencement: Art. 31 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
-
-[^f00031]: Footnote: Sections 6A to 6D were inserted by the 2006 Act, section 29.
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

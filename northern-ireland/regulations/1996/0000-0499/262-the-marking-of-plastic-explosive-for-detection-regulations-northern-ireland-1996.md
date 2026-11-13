@@ -3,14 +3,14 @@ title: The Marking of Plastic Explosive for Detection Regulations (Northern Irel
 id: nisr/1996/262
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-07'
-text_date: null
-extent: null
+text_date: '1996-06-07'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/262
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/262/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/262/data.pdf
+pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Marking of Plastic Explosive for Detection Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 1996-06-07. See https://www.legislation.gov.uk/changes/affected/nisr/1996/262
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 262
 
@@ -40,11 +46,11 @@ or on a day to be notified in the Belfast Gazette whichever is the earlier
 
 The Secretary of State, in pursuance of Articles 17(1) and (2) and 55(2) of, and paragraph 1(1)(*b*) of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00001] as applied and modified by Article 53 of that Order and after consulting, in accordance with Article 46 of that Order as so applied and modified, the Health and Safety Agency for Northern Ireland and such other bodies as appeared to him to be appropriate, hereby makes the following regulations:
 
-## 1. Citation and Commencment
+## 1. Citation and Commencment[^c-b4ba263bc4c2afdb81183fc363c6ac8a]
 
 These regulations may be cited as the Marking of Plastic Explosive for Detection Regulations (Northern Ireland) 1996 and shall come into operation on 31st July 1997 or on the day on which the Convention enters into operation for the United Kingdom (such date to be notified by the Secretary of State in the Belfast Gazette) whichever is the earlier.
 
-## 2. Interpretation
+## 2. Interpretation[^c-9963e09201b3d2837cc68e0d67f37fa9]
 
 (1) In these Regulations,
 
@@ -59,11 +65,11 @@ These regulations may be cited as the Marking of Plastic Explosive for Detection
 
 (2) For the purposes of these Regulations, an explosive is marked if it, or a sample of the explosive, contains a detection agent of at least the concentration specified in the corresponding entry for that detection agent in column 2 of the Table in Part II of the Schedule, whether that detection agent is introduced during the process of manufacture of the explosive for the purpose of making the explosive detectable or, as a result of the normal formulation of that explosive.
 
-## 3. Prohibition on manufacture
+## 3. Prohibition on manufacture[^c-fd39de422a9a24dfd8e45b1f41f92083]
 
 No person shall manufacture any explosive the finished product of which is unmarked.
 
-## 4. Prohibition on possession
+## 4. Prohibition on possession[^c-680610b1d7d9d604aceb36fc62227187]
 
 (1) No person shall have in his possession nor transfer possession of any unmarked explosive.
 
@@ -79,13 +85,13 @@ No person shall manufacture any explosive the finished product of which is unmar
 - (b) does not fall within paragraph (4); and
 - (c) is in the possession of the authorities of a State Party to the Convention for military or police purposes.
 
-## 5. Importation
+## 5. Importation[^c-3e530752b9b24adef8fbb7df23593140]
 
 (1) No person shall import any unmarked explosive into the United Kingdom.
 
 (2) Paragraph (1) of this regulation shall not apply for a period of 15 years, commencing with the date of coming into operation of these Regulations, to any unmarked explosive manufactured before these Regulations come into operation, imported by the authorities of a State Party to the Convention for military or police purposes.
 
-## 6. Enforcement
+## 6. Enforcement[^c-92d8bbb1c9ce56f2ab34d26f8c647756]
 
 The Chief Constable of the Royal Ulster Constabulary shall be the enforcing authority for these Regulations.
 
@@ -103,22 +109,22 @@ Regulation 2
 
 ### Part I — Meaning of “Explosive”
 
-**1.** For the purposes of these Regulations “explosive” means an explosive substance, commonly known as a “plastic explosive”, including such substance in flexible or elastic sheet form and whether or not contained in an explosive article, which is—
+**1.**[^c-dd8aa26d5042f4d1bd3e18a9f153c3eb] For the purposes of these Regulations “explosive” means an explosive substance, commonly known as a “plastic explosive”, including such substance in flexible or elastic sheet form and whether or not contained in an explosive article, which is—
 
 - (a) formulated with one or more high explosives which in their pure form have a vapour pressure less than 10 <sup>−4</sup> Pa at a temperature of 25°C;
 - (b) formulated with a binder material; and
 - (c) malleable or flexible at normal room temperature.
 
-**2.** The following explosives, even though meeting the description of explosives in paragraph 1 of this Part, shall not be considered to be explosives for the purposes of these Regulations as long as their manufacture or possession continues to be to a quantity and for a purpose specified in any of the sub-paragraphs (*a*) to (*c*) of this paragraph or they continue to satisfy the description specified in sub-paragraph (*d*) of this paragraph, namely any explosive—
+**2.**[^c-38a7e8f42a810071f3864aa05559f38b] The following explosives, even though meeting the description of explosives in paragraph 1 of this Part, shall not be considered to be explosives for the purposes of these Regulations as long as their manufacture or possession continues to be to a quantity and for a purpose specified in any of the sub-paragraphs (*a*) to (*c*) of this paragraph or they continue to satisfy the description specified in sub-paragraph (*d*) of this paragraph, namely any explosive—
 
 - (a) the manufacture or possession of which is to a quantity no greater than is necesssary for the purpose of and is solely for use in lawful research, development or testing of new or modified explosives;
 - (b) the manufacture or possession of which is to a quantity no greater than is necessary for the purpose of and is solely for use in lawful training in explosives detection or development or testing of explosives detection equipment;
 - (c) the manufacture or possession of which is to a quantity no greater than is necessary for the purpose and is solely for the purpose of lawful forensic science; or
 - (d) which is manufactured in the United Kingdom and destined to be incorporated as an integral part of an authorised military device in the United Kingdom before the date which is 3 years after the coming into operation of these Regulations.
 
-**3.** In this Part “high explosives” include but are not restricted to cyclotetramethylenetranitramine (HMX), pentaerythritol tetranitrate (PETN) and cyclotrimethylenetrinitramine (RDX).
+**3.**[^c-28218355e9865832c82d55e4cecaec4e] In this Part “high explosives” include but are not restricted to cyclotetramethylenetranitramine (HMX), pentaerythritol tetranitrate (PETN) and cyclotrimethylenetrinitramine (RDX).
 
-### Part II — Detection Agents
+### Part II — Detection Agents[^c-8dee2edb2f39699cb62dcdcbd4566d73]
 
 TABLE
 
@@ -151,4 +157,24 @@ TABLE
 
 [^f00001]: Footnote: S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
 
+[^c-b4ba263bc4c2afdb81183fc363c6ac8a]: Commencement: Reg. 1 in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)
+
+[^c-9963e09201b3d2837cc68e0d67f37fa9]: Commencement: Reg. 2 in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)
+
 [^f00002]: Footnote: [S.R. 1991 No. 516](https://www.legislation.gov.uk/nisr/1991/516)
+
+[^c-fd39de422a9a24dfd8e45b1f41f92083]: Commencement: Reg. 3 in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)
+
+[^c-680610b1d7d9d604aceb36fc62227187]: Commencement: Reg. 4 in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)
+
+[^c-3e530752b9b24adef8fbb7df23593140]: Commencement: Reg. 5 in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)
+
+[^c-92d8bbb1c9ce56f2ab34d26f8c647756]: Commencement: Reg. 6 in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)
+
+[^c-dd8aa26d5042f4d1bd3e18a9f153c3eb]: Commencement: Sch. para. 1 in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)
+
+[^c-38a7e8f42a810071f3864aa05559f38b]: Commencement: Sch. para. 2 in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)
+
+[^c-28218355e9865832c82d55e4cecaec4e]: Commencement: Sch. para. 3 in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)
+
+[^c-8dee2edb2f39699cb62dcdcbd4566d73]: Commencement: Sch. Pt. II in operation at 31.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/262/regulation/1)

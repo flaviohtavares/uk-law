@@ -1,0 +1,155 @@
+---
+title: The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 3) Regulations 2026
+id: ssi/2026/334
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-11-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2026/334
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2026/334/pdfs/ssi_20260334_en.pdf
+- http://www.legislation.gov.uk/ssi/2026/334/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 3) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 334 (C. 39)
+
+CRIMINAL PROCEDURE
+
+CRIMINAL LAW
+
+The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 3) Regulations 2026
+
+Made
+
+10th November 2026
+
+Laid before the Scottish Parliament
+
+12th November 2026
+
+Coming into force
+
+1st December 2026
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 116(2) and (3)(b) of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 3) Regulations 2026 and come into force on 1 December 2026.
+
+(2) In these Regulations—
+
+- “**the 2003 Act**” means the Criminal Justice (Scotland) Act 2003[^f00002],
+- “**the Act**” means the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+## 2. Appointed days
+
+(1) 1 December 2026 is the day appointed for the coming into force of the provisions of the Act specified in column 1 of the table in the schedule (the subject matter of which is specified in column 2 of that table).
+
+(2) Where a purpose is specified in column 3 of the table in the schedule in relation to any provision specified in column 1 of that table, that provision comes into force on 1 December 2026 for that purpose only.
+
+(3) 30 December 2026 is the day appointed for the coming into force of section 101 (vulnerable witnesses under the 1995 Act: admission of the record of a prior examination as evidence in full) of the Act.
+
+NEIL GRAY
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+10th November 2026
+
+## Schedule — Provisions of the Act coming into force on 1 December 2026
+
+Regulation 2
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th>(provision of the Act)</th><th>(subject matter)</th><th>(purpose)</th></tr>
+</thead>
+<tbody>
+<tr><td>Section 36</td><td>Right of eligible persons to receive information in event of death or incapacity of victim</td><td>For the purpose of the commencement of paragraph 1(1), 1(4) and 1(5)(a) and (b) of schedule 3 of the Act</td></tr>
+<tr><td>Section 42(1)</td><td>Powers to modify information to be given and right to make representations</td><td>For the purpose of the commencement of section 42(6)</td></tr>
+<tr><td>Section 42(6)</td><td>Powers to modify information to be given and right to make representations</td><td>For the purpose of the insertion of “, 17A(5), 17B(7)” into section 88(2)(a) of the 2003 Act but only insofar as necessary for the commencement of paragraph 1(5)(b) of schedule 3 of the Act</td></tr>
+<tr><td>Section 43(1)</td><td>Co-operation with the Scottish Ministers for the purposes of sharing information with victims</td><td>For the purpose of the commencement of section 43(3)(a) and (b)</td></tr>
+<tr><td>Section 43(3)(a)</td><td>Co-operation with the Scottish Ministers for the purposes of sharing information with victims</td><td></td></tr>
+<tr><td>Section 43(3)(b)</td><td>Co-operation with the Scottish Ministers for the purposes of sharing information with victims</td><td>For the purpose of the insertion of “, 17DB(2)” into section 88(2)(a) of the 2003 Act but only insofar as necessary for the commencement of paragraph 1(5)(b) of schedule 3 of the Act</td></tr>
+<tr><td>Section 109</td><td>Offences relating to protective orders made outwith Scotland</td><td></td></tr>
+<tr><td>Paragraph 1(1) of schedule 3</td><td>Right of eligible persons to receive information in event of death or incapacity of victim</td><td>For the purpose of the commencement of paragraph 1(4) and (5)(a) and (b) of schedule 3</td></tr>
+<tr><td>Paragraph 1(4) of schedule 3</td><td>Right of eligible persons to receive information in event of death or incapacity of victim</td><td></td></tr>
+<tr><td>Paragraph 1(5)(a) of schedule 3</td><td>Right of eligible persons to receive information in event of death or incapacity of victim</td><td>For the purpose of the insertion of “, 16(9), 16B(7)” into section 88(2)(a) of the 2003 Act but only insofar as necessary for the commencement of paragraph 1(5)(b) of schedule 3 of the Act</td></tr>
+<tr><td>Paragraph 1(5)(b) of schedule 3</td><td>Right of eligible persons to receive information in event of death or incapacity of victim</td><td></td></tr>
+</tbody>
+</table>
+
+[^f00003]
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force certain provisions of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (“**the Act**”).
+
+Regulation 2(1) and (2) and the schedule bring into force the provisions of the Act specified in column 1 of the table in the schedule on 1 December 2026. If a purpose is stated in column 3 of the table in the schedule, the provision is only brought into force for that purpose.
+
+The provisions which are brought into force on 1 December 2026 include section 109 which creates new criminal offences of breaching specified protective orders made elsewhere in the UK in the circumstances set out in that section. Paragraph 1(4) of schedule 3 of the Act is also brought into force on 1 December 2026. This inserts a new section 18ZA into the Criminal Justice (Scotland) Act 2003 (“**the 2003 Act**”), which makes provision for a code of practice in relation to the exercise of certain functions under sections 16 and 16B of the 2003 Act. The Scottish Ministers will require to have regard to the code of practice when making certain decisions once relevant provisions of the Act are in force.
+
+Section 42(6), section 43(3)(b) and paragraph 1(5)(a) of schedule 3 are also brought into force on 1 December 2026, for the limited purpose of amendments to section 88(2)(a) of the 2003 Act which are necessary for the commencement of paragraph 1(5)(b) of schedule 3.
+
+Section 42(6), section 43(3)(b) and paragraph 1(5)(a) of schedule 3 of the Act will amend section 88(2)(a) of the 2003 Act. These provisions each insert references to other provisions of the 2003 Act into the text of section 88(2)(a). They indicate where in the text of section 88(2)(a) each reference is to be inserted by their position relative to other inserted references in section 88(2)(a) made by these provisions.
+
+The commencement of paragraph 1(5)(b) of schedule 3, which inserts the text: “18ZA(5)” into section 88(2)(a) of the 2003 Act, is therefore dependent upon other textual amendments being commenced for the limited purpose of effecting that insertion.
+
+The table makes clear that the purpose of the commencement of each of sections 42(6) and 43(3)(b) and of paragraph 1(5)(a) of schedule 3 is only to insert the text as required to permit the insertion of the text “18ZA(5)” in accordance with paragraph 1(5)(b) of schedule 3. The effect of which is that regulations made under section 18ZA(5) of the 2003 Act are subject to affirmative procedure.
+
+Regulation 2(3) brings section 101 of the Act into force on 30 December 2026, which makes provision for vulnerable witnesses to give evidence by admission of the record of a prior examination before a commissioner.
+
+The Bill for the Act received Royal Assent on 30 October 2025 and sections 112 to 114, 116 and 117 came into force the following day.
+
+NOTE AS TO EARLIER COMMENCEMENT Regulations
+
+(This note is not part of the Regulations)
+
+The following provisions of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 have been, or are to be, brought into force by commencement regulations made before the date of these Regulations.
+
+| Provision | Date of Commencement | S.S.I. No. |
+| --- | --- | --- |
+| Section 1 | 19 March 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Sections 26, 27, 28, 29, 30, 31 and 32 | 1 October 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 35(1) (partially) | 19 March 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 35(3) and (4) | 19 March 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 44 | 1 October 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 50 | 16 November 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 51 | 1 April 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 52 | 1 October 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 54 | 19 March 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Sections 55 and 56 | 11 February 2026 | [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393) and [S.S.I. 2026/66](https://www.legislation.gov.uk/ssi/2026/66) |
+| Section 57 | 1 August 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 62 | 1 January 2026 | [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393) |
+| Section 63 | 6 April 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 64 | 2 November 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Sections 65, 66, 67 and 68 | 1 January 2026 | [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393) |
+| Sections 102 and 103 | 30 March 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Sections 107 and 108 | 1 September 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Section 111 | 19 March 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+| Schedule 1 | 19 March 2026 | [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120) |
+
+## Annotations
+
+[^f00001]: Footnote: [2025 asp 12](https://www.legislation.gov.uk/asp/2025/12).
+
+[^f00002]: Footnote: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7).
+
+[^f00003]: Footnote: Paragraph 1(5)(b) of schedule 3 of the Victims, Witnesses, and Justice Reform (Scotland) Act [2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12) amends section 88(2)(a) of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) by inserting “, 18ZA(5)” after “17DB(2)”. Paragraph 1(5)(b) of schedule 3 was corrected by correction slip dated September 2026 (ISBN 978-0-10-590441-0) so that “17DB(1A)” instead reads “17DB(2)”, and “section 29B(3)(b)” instead reads “section 43(3)(b)”. Section 43(2) was corrected by that correction slip so that subsection (6) of section 17DB of the 2003 Act is re-numbered as subsection (3) of section 43 of the Act. Section 43(3)(b) inserts “, 17DB(2)” after “17B(7)”. Section 42(6) inserts “, 17A(5), 17B(7)” after “16B(7)”. Paragraph 1(5)(a) of schedule 3 inserts “, 16(9), 16B(7)” after “16(4)”.

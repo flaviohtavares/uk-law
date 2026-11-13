@@ -1,66 +1,39 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, SCHEDULE 7
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, SCHEDULE 7
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: schedule-7
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: revised
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, SCHEDULE 7
+# The Scottish Parliament (Elections etc. ) Order 2010, SCHEDULE 7
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> Text as at 2020-12-11.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — USE OF SCHOOL ROOMS AND MEETING ROOMS FOR ELECTION MEETINGS
+## SCHEDULE 7 — USE OF SCHOOL ROOMS AND MEETING ROOMS FOR ELECTION MEETINGS[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
 Article 67(6)
 
-### 1. Use of rooms in school premises[^c-d781f2e80db031b121ab6daa09eaa716]
+### 1. ...[^c-930e730efe491d6003111fad250ef582]
 
-(1) Any arrangements for the use of a room in school premises shall be made with the education authority managing the school or, in the case of a room in the premises of a self governing school, with the board of management of the school.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Any question—
+### 2.[^c-930e730efe491d6003111fad250ef582]
 
-- (a) as to the rooms in school premises in any constituency which a candidate for return as a constituency member is entitled to use;
-- (b) as to the rooms in school premises in any region which an individual candidate for return as a regional member or a registered party is entitled to use;
-- (c) as to the times at which that candidate or party is entitled to use them; or
-- (d) as to the notice which is reasonable,
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-shall be determined by the Secretary of State.
+### 3.[^c-930e730efe491d6003111fad250ef582]
 
-### 2. Lists of rooms in school premises and meeting rooms[^c-30be8b6d7c21676e5c0611866e9ccc34]
-
-(1) It is the duty of the proper officer of every local authority to prepare and keep for each Scottish parliamentary constituency wholly or partly situated in the area of that authority—
-
-- (a) a list of rooms in school premises;
-- (b) a list of meeting rooms,
-
-which candidates for return as constituency members or individual candidates for return as regional members or registered parties are entitled to use.
-
-(2) The list shall include the rooms in premises outside, as well as those in premises inside, the constituency.
-
-### 3. Inspection etc. of lists[^c-e4d11783bc27d990ad4998e350bab959]
-
-(1) Subject to sub-paragraph (2), in the event of a publication of a notice of election any person stating himself to be, or to be authorised by—
-
-- (a) a candidate or the candidate’s election agent; or
-- (b) a registered party’s nominating officer or the election agent of that registered party in relation to a regional list submitted by that party,
-
-shall be entitled at all reasonable hours to inspect the lists kept in accordance with paragraph 2(1) or a copy of them.
-
-(2) The rights conferred by sub-paragraph (1) on an individual candidate for return as a regional member or a registered party’s nominating officer (or the election agent of such a candidate or party) shall not apply in relation to an election to fill a vacancy in the seat of a constituency member.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-d781f2e80db031b121ab6daa09eaa716]: Commencement: Sch. 7 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
-
-[^c-30be8b6d7c21676e5c0611866e9ccc34]: Commencement: Sch. 7 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
-
-[^c-e4d11783bc27d990ad4998e350bab959]: Commencement: Sch. 7 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

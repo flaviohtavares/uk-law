@@ -1,31 +1,29 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, section 16
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, section 16
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: '16'
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: repealed
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, section 16
+# The Scottish Parliament (Elections etc. ) Order 2010, section 16
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Returning officers: discharge of functions[^c-4871d3f893060dc855d324b832b01f7b]
+## 16. Returning officers: discharge of functions[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
-(1) A CRO or RRO at a Scottish parliamentary election may, in writing, appoint one or more persons to discharge all or any of the functions of that CRO or RRO.
+**No longer in force.**
 
-(2) Except in the case of an election to fill a vacancy in the seat of a constituency member, it shall be the duty of each RRO and each CRO for a Scottish parliamentary constituency within each RRO’s region to co-operate with each other in the discharge of their functions.
-
-(3) The duty imposed by paragraph (2) applies as between CROs in any region as well as between such officers and the RRO for that region.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-4871d3f893060dc855d324b832b01f7b]: Commencement: Art. 16 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

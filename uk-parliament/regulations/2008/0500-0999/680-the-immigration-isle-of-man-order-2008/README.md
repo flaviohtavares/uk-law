@@ -3,14 +3,14 @@ title: The Immigration (Isle of Man) Order 2008
 id: uksi/2008/680
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-12'
-text_date: null
-extent: null
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/680/pdfs/uksi_20080680_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/680/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/680/data.pdf
 pending_changes: 308
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 680
 
@@ -69,9 +73,13 @@ Her Majesty, in pursuance of the powers conferred on Her by the enactments speci
 - [SCHEDULE 9](schedule-9.md)
 - [SCHEDULE 10](schedule-10.md)
 
+*Extent: E+W+S+N.I.*
+
 Judith Simpson
 
 Clerk of the Privy Council
+
+*Extent: E+W+S+N.I.*
 
 EXPLANATORY NOTE
 

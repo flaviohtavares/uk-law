@@ -5,14 +5,14 @@ type: ScottishAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2002-04-23'
-text_date: '2026-09-30'
+text_date: '2026-11-09'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2002/11
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2002/11/pdfs/aspen_20020011_en.pdf
 - http://www.legislation.gov.uk/asp/2002/11/pdfs/asp_20020011_en.pdf
 - http://www.legislation.gov.uk/asp/2002/11/data.pdf
-pending_changes: 5
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Scottish Public Services Ombudsman Act 2002
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/asp/2002/11
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/asp/2002/11
 >
 > Extent: Scotland.
 

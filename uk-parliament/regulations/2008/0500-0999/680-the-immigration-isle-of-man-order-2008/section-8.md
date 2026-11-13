@@ -2,9 +2,9 @@
 title: The Immigration (Isle of Man) Order 2008, section 8
 act: The Immigration (Isle of Man) Order 2008
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Extension of the British Nationality Act 1981 to the Isle of Man
+## 8. Extension of the British Nationality Act 1981 to the Isle of Man[^c-812237a8ded29b37212a04ea4d6851c9]
+
+*Extent: E+W+S+N.I.*
 
 (1) The following provisions of the 1981 Act shall extend to the Isle of Man.
 
@@ -34,3 +38,7 @@ summary: ''
     - (bb) paragraph 19(2) of Schedule 2 (administrative provisions as to control and entry);
   - (iv) paragraph 5;
   - (v) paragraph 7.
+
+## Annotations
+
+[^c-812237a8ded29b37212a04ea4d6851c9]: Commencement: Art. 8 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)

@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 8
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 8. Cancellation revocation and appeal
+## 8. Cancellation revocation and appeal[^c-2d4a5796b02e588645fbdfee90cdcb3f]
+
+*Extent: E+W*
 
 (1) The Minister may cancel a registration granted by the Minister under regulation 4 or deemed to be granted by virtue of regulation 14, in respect of any production holding if, after an inspection of, or an inquiry into, the method of operation of the production holding, the Minister is satisfied that in respect of that production holding—
 
@@ -53,3 +57,7 @@ and in consequence of compliance with the order dairy products may no longer be 
 (7) A cancellation or revocation shall not take effect until the time for appealing against it has expired and, if an appeal is lodged, until the appeal is finally disposed of or abandoned.
 
 (8) In paragraph (3) above “occupier”, in relation to a proposed cancellation or revocation by virtue of paragraph (1)(c) or (2)(c) above, where the production holding or dairy establishment is vacant, means the last person known to the Minister or the approving authority, as the case may be, to have carried on at the production holding or dairy establishment the business of producing or handling dairy products, or his successor in respect of that business.
+
+## Annotations
+
+[^c-2d4a5796b02e588645fbdfee90cdcb3f]: Commencement: Reg. 8 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

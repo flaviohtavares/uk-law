@@ -3,7 +3,7 @@ title: The National Health Service (General Dental Services) (Scotland) Regulati
 act: The National Health Service (General Dental Services) (Scotland) Regulations 2010
 section: schedule-3
 status: repealed
-text_date: '2026-04-01'
+text_date: '2026-11-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2010/208/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

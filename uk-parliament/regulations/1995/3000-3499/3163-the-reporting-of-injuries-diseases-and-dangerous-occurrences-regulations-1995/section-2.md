@@ -2,9 +2,9 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 2
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1995-12-06'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 2. Interpretation
+## 2. Interpretation[^c-0db4020aa16c8f965a7387b0101f704c]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -85,6 +91,8 @@ summary: ''
 (3) For the purposes of these Regulations, a person who is at an offshore workplace shall be deemed to be at work at all times when he is at that workplace in connection with his work.
 
 ## Annotations
+
+[^c-0db4020aa16c8f965a7387b0101f704c]: Commencement: Reg. 2 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1995/263](https://www.legislation.gov.uk/uksi/1995/263).
 

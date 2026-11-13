@@ -2,9 +2,9 @@
 title: Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996, SCHEDULE 2
 act: Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-06-24'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/247/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 2 — Essential health and safety requirements relating to the design and construction of equipment and protective systems intended for use in potentially explosive atmospheres
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 Regulations 2(2) and 10(4) (Annex II to the ATEX Directive)
 

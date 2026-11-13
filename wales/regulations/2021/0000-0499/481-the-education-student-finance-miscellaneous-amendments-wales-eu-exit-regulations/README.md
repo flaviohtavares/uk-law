@@ -3,14 +3,14 @@ title: The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Ex
 id: wsi/2021/481
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2021-04-19'
-text_date: null
-extent: null
+text_date: '2021-04-25'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2021/481
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2021/481/pdfs/wsi_20210481_mi.pdf
-- http://www.legislation.gov.uk/wsi/2021/481/made/data.pdf
+- http://www.legislation.gov.uk/wsi/2021/481/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2021-04-25.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2021 No. 481 (W. 148)
 
@@ -47,42 +51,252 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 ### PART 1 — TITLE, COMMENCEMENT AND APPLICATION
 
+*Extent: E+W*
+
 - [Section 1 — Title and commencement](part-1/section-1.md)
 - [Section 2 — Application](part-1/section-2.md)
 
 ### PART 2 — AMENDMENTS TO THE EDUCATION (FEES AND AWARDS) (WALES) REGULATIONS 2007
 
+*Extent: E+W*
+
 - [Section 3 — Amendments to the Education (Fees and Awards) (Wales) Regulations 2007](part-2/section-3.md)
+- [Section 4](part-2/section-4.md)
+- [Section 5](part-2/section-5.md)
+- [Section 6](part-2/section-6.md)
+- [Section 7](part-2/section-7.md)
+- [Section 8](part-2/section-8.md)
+- [Section 9](part-2/section-9.md)
+- [Section 10](part-2/section-10.md)
+- [Section 11](part-2/section-11.md)
+- [Section 12](part-2/section-12.md)
+- [Section 13](part-2/section-13.md)
+- [Section 14](part-2/section-14.md)
+- [Section 15](part-2/section-15.md)
+- [Section 16](part-2/section-16.md)
+- [Section 17](part-2/section-17.md)
+- [Section 18](part-2/section-18.md)
+- [Section 19](part-2/section-19.md)
+- [Section 20](part-2/section-20.md)
+- [Section 21](part-2/section-21.md)
+- [Section 22](part-2/section-22.md)
+- [Section 23](part-2/section-23.md)
+- [Section 24](part-2/section-24.md)
+- [Section 25](part-2/section-25.md)
+- [Section 26](part-2/section-26.md)
+- [Section 27](part-2/section-27.md)
+- [Section 28](part-2/section-28.md)
+- [Section 29](part-2/section-29.md)
 
 ### PART 3 — AMENDMENTS TO THE HIGHER EDUCATION (QUALIFYING COURSES, QUALIFYING PERSONS AND SUPPLEMENTARY PROVISION) (WALES) REGULATIONS 2015
 
+*Extent: E+W*
+
 - [Section 30 — Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015](part-3/section-30.md)
+- [Section 31](part-3/section-31.md)
+- [Section 32](part-3/section-32.md)
+- [Section 33](part-3/section-33.md)
+- [Section 34](part-3/section-34.md)
+- [Section 35](part-3/section-35.md)
+- [Section 36](part-3/section-36.md)
+- [Section 37](part-3/section-37.md)
+- [Section 38](part-3/section-38.md)
+- [Section 39](part-3/section-39.md)
+- [Section 40](part-3/section-40.md)
+- [Section 41](part-3/section-41.md)
+- [Section 42](part-3/section-42.md)
+- [Section 43](part-3/section-43.md)
+- [Section 44](part-3/section-44.md)
+- [Section 45](part-3/section-45.md)
+- [Section 46](part-3/section-46.md)
+- [Section 47](part-3/section-47.md)
+- [Section 48](part-3/section-48.md)
+- [Section 49](part-3/section-49.md)
+- [Section 50](part-3/section-50.md)
 
 ### PART 4 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2017
 
+*Extent: E+W*
+
 - [Section 51 — Amendments to the Education (Student Support) (Wales) Regulations 2017](part-4/section-51.md)
+- [Section 52](part-4/section-52.md)
+- [Section 53](part-4/section-53.md)
+- [Section 54](part-4/section-54.md)
+- [Section 55](part-4/section-55.md)
+- [Section 56](part-4/section-56.md)
+- [Section 57](part-4/section-57.md)
+- [Section 58](part-4/section-58.md)
+- [Section 59](part-4/section-59.md)
+- [Section 60](part-4/section-60.md)
+- [Section 61](part-4/section-61.md)
+- [Section 62](part-4/section-62.md)
+- [Section 63](part-4/section-63.md)
+- [Section 64](part-4/section-64.md)
+- [Section 65](part-4/section-65.md)
+- [Section 66](part-4/section-66.md)
+- [Section 67](part-4/section-67.md)
+- [Section 68](part-4/section-68.md)
+- [Section 69](part-4/section-69.md)
+- [Section 70](part-4/section-70.md)
+- [Section 71](part-4/section-71.md)
+- [Section 72](part-4/section-72.md)
+- [Section 73](part-4/section-73.md)
+- [Section 74](part-4/section-74.md)
+- [Section 75](part-4/section-75.md)
+- [Section 76](part-4/section-76.md)
+- [Section 77](part-4/section-77.md)
+- [Section 78](part-4/section-78.md)
+- [Section 79](part-4/section-79.md)
+- [Section 80](part-4/section-80.md)
+- [Section 81](part-4/section-81.md)
+- [Section 82](part-4/section-82.md)
+- [Section 83](part-4/section-83.md)
+- [Section 84](part-4/section-84.md)
+- [Section 85](part-4/section-85.md)
+- [Section 86](part-4/section-86.md)
+- [Section 87](part-4/section-87.md)
+- [Section 88](part-4/section-88.md)
+- [Section 89](part-4/section-89.md)
+- [Section 90](part-4/section-90.md)
 
 ### PART 5 — AMENDMENTS TO THE EDUCATION (POSTGRADUATE MASTER’S DEGREE LOANS) (WALES) REGULATIONS 2017
 
+*Extent: E+W*
+
 - [Section 91 — Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017](part-5/section-91.md)
+- [Section 92](part-5/section-92.md)
+- [Section 93](part-5/section-93.md)
+- [Section 94](part-5/section-94.md)
+- [Section 95](part-5/section-95.md)
+- [Section 96](part-5/section-96.md)
+- [Section 97](part-5/section-97.md)
+- [Section 98](part-5/section-98.md)
+- [Section 99](part-5/section-99.md)
+- [Section 100](part-5/section-100.md)
+- [Section 101](part-5/section-101.md)
+- [Section 102](part-5/section-102.md)
+- [Section 103](part-5/section-103.md)
+- [Section 104](part-5/section-104.md)
+- [Section 105](part-5/section-105.md)
+- [Section 106](part-5/section-106.md)
+- [Section 107](part-5/section-107.md)
+- [Section 108](part-5/section-108.md)
+- [Section 109](part-5/section-109.md)
+- [Section 110](part-5/section-110.md)
+- [Section 111](part-5/section-111.md)
+- [Section 112](part-5/section-112.md)
+- [Section 113](part-5/section-113.md)
 
 ### PART 6 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2018
 
+*Extent: E+W*
+
 - [Section 114 — Amendments to the Education (Student Support) (Wales) Regulations 2018](part-6/section-114.md)
+- [Section 115](part-6/section-115.md)
+- [Section 116](part-6/section-116.md)
+- [Section 117](part-6/section-117.md)
+- [Section 118](part-6/section-118.md)
+- [Section 119](part-6/section-119.md)
+- [Section 120](part-6/section-120.md)
+- [Section 121](part-6/section-121.md)
+- [Section 122](part-6/section-122.md)
+- [Section 123](part-6/section-123.md)
+- [Section 124](part-6/section-124.md)
+- [Section 125](part-6/section-125.md)
+- [Section 126](part-6/section-126.md)
+- [Section 127](part-6/section-127.md)
+- [Section 128](part-6/section-128.md)
+- [Section 129](part-6/section-129.md)
+- [Section 130](part-6/section-130.md)
+- [Section 131](part-6/section-131.md)
+- [Section 132](part-6/section-132.md)
+- [Section 133](part-6/section-133.md)
+- [Section 134](part-6/section-134.md)
+- [Section 135](part-6/section-135.md)
+- [Section 136](part-6/section-136.md)
+- [Section 137](part-6/section-137.md)
+- [Section 138](part-6/section-138.md)
+- [Section 139](part-6/section-139.md)
+- [Section 140](part-6/section-140.md)
+- [Section 141](part-6/section-141.md)
+- [Section 142](part-6/section-142.md)
+- [Section 143](part-6/section-143.md)
+- [Section 144](part-6/section-144.md)
+- [Section 145](part-6/section-145.md)
+- [Section 146](part-6/section-146.md)
+- [Section 147](part-6/section-147.md)
+- [Section 148](part-6/section-148.md)
+- [Section 149](part-6/section-149.md)
+- [Section 150](part-6/section-150.md)
+- [Section 151](part-6/section-151.md)
+- [Section 152](part-6/section-152.md)
 
 ### PART 7 — AMENDMENTS TO THE EDUCATION (POSTGRADUATE DOCTORAL DEGREE LOANS) (WALES) REGULATIONS 2018
 
+*Extent: E+W*
+
 - [Section 153 — Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018](part-7/section-153.md)
+- [Section 154](part-7/section-154.md)
+- [Section 155](part-7/section-155.md)
+- [Section 156](part-7/section-156.md)
+- [Section 157](part-7/section-157.md)
+- [Section 158](part-7/section-158.md)
+- [Section 159](part-7/section-159.md)
+- [Section 160](part-7/section-160.md)
+- [Section 161](part-7/section-161.md)
+- [Section 162](part-7/section-162.md)
+- [Section 163](part-7/section-163.md)
+- [Section 164](part-7/section-164.md)
+- [Section 165](part-7/section-165.md)
+- [Section 166](part-7/section-166.md)
+- [Section 167](part-7/section-167.md)
+- [Section 168](part-7/section-168.md)
+- [Section 169](part-7/section-169.md)
+- [Section 170](part-7/section-170.md)
+- [Section 171](part-7/section-171.md)
+- [Section 172](part-7/section-172.md)
+- [Section 173](part-7/section-173.md)
+- [Section 174](part-7/section-174.md)
+- [Section 175](part-7/section-175.md)
 
 ### PART 8 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (POSTGRADUATE MASTER’S DEGREES) (WALES) REGULATIONS 2019
 
+*Extent: E+W*
+
 - [Section 176 — Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019](part-8/section-176.md)
+- [Section 177](part-8/section-177.md)
+- [Section 178](part-8/section-178.md)
+- [Section 179](part-8/section-179.md)
+- [Section 180](part-8/section-180.md)
+- [Section 181](part-8/section-181.md)
+- [Section 182](part-8/section-182.md)
+- [Section 183](part-8/section-183.md)
+- [Section 184](part-8/section-184.md)
+- [Section 185](part-8/section-185.md)
+- [Section 186](part-8/section-186.md)
+- [Section 187](part-8/section-187.md)
+- [Section 188](part-8/section-188.md)
+- [Section 189](part-8/section-189.md)
+- [Section 190](part-8/section-190.md)
+- [Section 191](part-8/section-191.md)
+- [Section 192](part-8/section-192.md)
+- [Section 193](part-8/section-193.md)
+- [Section 194](part-8/section-194.md)
+- [Section 195](part-8/section-195.md)
+- [Section 196](part-8/section-196.md)
+- [Section 197](part-8/section-197.md)
+- [Section 198](part-8/section-198.md)
+- [Section 199](part-8/section-199.md)
+
+*Extent: E+W*
 
 Kirsty Williams
 
 Minister for Education, one of the Welsh Ministers
 
 19 April 2021
+
+*Extent: E+W*
 
 EXPLANATORY NOTE
 

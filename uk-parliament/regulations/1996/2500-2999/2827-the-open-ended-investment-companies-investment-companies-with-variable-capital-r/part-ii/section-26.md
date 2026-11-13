@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 26
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '26'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 26
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 26. Dissolution on winding up by the court
+## 26. Dissolution on winding up by the court[^c-b47b9eccdb9a7c21926e6e4459577c42]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) This regulation applies where, in respect of an investment company with variable capital, the registrar of companies receives—
 
@@ -43,3 +49,7 @@ not later than seven days after the giving of the direction, the determination o
 
 - (a) to a fine not exceeding level 1 on the standard scale; and
 - (b) on a second or subsequent conviction, instead of the penalty set out in sub-paragraph (a) above, to a fine of £100 for each day on which the contravention is continued.
+
+## Annotations
+
+[^c-b47b9eccdb9a7c21926e6e4459577c42]: Commencement: Reg. 26 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

@@ -302,21 +302,21 @@ In the School Organisation Proposals by the National Council for Education and T
 
 (9) Insert the following after Regulation 6:
 
-### 8A. Determination by the National Assembly[^c-795a0116058149ccae7199762307786c]
-
-(1) After the expiry of the period mentioned in regulation 6, the National Assembly shall determine whether to—
-
-- (a) withdraw the proposals,
-- (b) confirm them without modification; or
-- (c) confirm them subject to modifications.
-
-(2) In making a determination under paragraph (1), the National Assembly shall have regard to any objections made in accordance with regulation 6 and not withdrawn.
-
-(3) Before confirming the proposals subject to modifications the National Assembly shall consult such persons as it considers appropriate.
-
-(4) A confirmation under sub-paragraph (1)(b) or (c) may be subject to the occurrence by a specified time of a specified event which is of a prescribed kind; and if the event does not occur by the specified time the National Assembly shall reconsider its determination under paragraph (1).
-
-(5) The National Assembly may withdraw its proposals at any time before a determination is made under this regulation.
+> **8A. Determination by the National Assembly**
+>
+> (1) After the expiry of the period mentioned in regulation 6, the National Assembly shall determine whether to—
+>
+> - (a) withdraw the proposals,
+> - (b) confirm them without modification; or
+> - (c) confirm them subject to modifications.
+>
+> (2) In making a determination under paragraph (1), the National Assembly shall have regard to any objections made in accordance with regulation 6 and not withdrawn.
+>
+> (3) Before confirming the proposals subject to modifications the National Assembly shall consult such persons as it considers appropriate.
+>
+> (4) A confirmation under sub-paragraph (1)(b) or (c) may be subject to the occurrence by a specified time of a specified event which is of a prescribed kind; and if the event does not occur by the specified time the National Assembly shall reconsider its determination under paragraph (1).
+>
+> (5) The National Assembly may withdraw its proposals at any time before a determination is made under this regulation.
 
 (10) In regulation 9—
 
@@ -470,8 +470,6 @@ In the St David’s Catholic College Incorporation Order 2005:
 [^c-33e5f31ae6996aeb90f67e064e2a9239]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/wsi/2005/3238/schedule/2/paragraph/38) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
 
 [^c-036c3abc36684d014561944ef2889ee6]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/wsi/2005/3238/schedule/2/paragraph/39) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
-
-[^c-795a0116058149ccae7199762307786c]: Commencement: [Sch. 2 para. 8A](https://www.legislation.gov.uk/wsi/2005/3238/schedule/2/paragraph/8A) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
 
 [^c-881aa5559fb9cebe694fe94b7a21e9a8]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/wsi/2005/3238/schedule/2/paragraph/40) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
 

@@ -3,7 +3,7 @@ title: Housing (Scotland) Act 2001, section 2
 act: Housing (Scotland) Act 2001
 section: '2'
 status: revised-with-pending-changes
-text_date: '2026-08-01'
+text_date: '2026-11-09'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2001/10/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Housing (Scotland) Act 2001, section 2
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/asp/2001/10
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/asp/2001/10
 >
 > Extent: Scotland.
 

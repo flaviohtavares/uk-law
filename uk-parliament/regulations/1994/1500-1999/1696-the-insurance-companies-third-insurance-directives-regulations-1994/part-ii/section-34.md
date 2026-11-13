@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 34
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '34'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 34
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Approval of acquisition of notifiable holding in UK company
+## 34. Approval of acquisition of notifiable holding in UK company[^c-e62dc824b1f57a862371c67463da916c]
+
+*Extent: E+W+S+N.I.*
 
 After section 61 of the 1982 Act insert—
 
@@ -35,5 +39,7 @@ After section 61 of the 1982 Act insert—
 > (3) Subsections (2) to (4) of section 61 above[^f00019] shall (with the necessary modifications) apply for the purposes of this section as they apply for the purposes of that section.
 
 ## Annotations
+
+[^c-e62dc824b1f57a862371c67463da916c]: Commencement: Reg. 34 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
 
 [^f00019]: Footnote: Subsection (2A) of section 61 was inserted by [S.I. 1992/2890](https://www.legislation.gov.uk/uksi/1992/2890), reg 4.

@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, SCHEDULE 13
 act: The Dairy Products (Hygiene) Regulations 1995
 section: schedule-13
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/schedule/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, SCHEDULE 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
 ## SCHEDULE 13 — AMENDMENT OF THE FOOD LABELLING REGULATIONS 1984
 
+*Extent: E+W*
+
 **Regulation 24(3)**
 
-**1.** In regulation 2(1)—
+**1.**[^c-3f17b40ef23a0a0f047820a81eee96b2] In regulation 2(1)—
 
 - (a) after the definition of “liqueur wine” there shall be inserted the following definition—
 
@@ -33,9 +37,9 @@ summary: ''
 
   .
 
-**2.** In regulation 3(1), for the words “they shall not” there shall be substituted the words “Part IV shall not”.
+**2.**[^c-36a8d2e1959c9adf7d3c872272093c0b] In regulation 3(1), for the words “they shall not” there shall be substituted the words “Part IV shall not”.
 
-**3.** After regulation 31A there shall be inserted the following regulation—
+**3.**[^c-c58726c45495051dbe96be462c66b3f3] After regulation 31A there shall be inserted the following regulation—
 
 > **31B. Health warning on cows' raw milk**
 >
@@ -52,14 +56,14 @@ summary: ''
 
 .
 
-**4.** In regulation 24, in the definition of “prepacked for direct sale” in paragraph (3)—
+**4.**[^c-3b0f7c6bf413c5b9014bc01c6c239b2a] In regulation 24, in the definition of “prepacked for direct sale” in paragraph (3)—
 
 - (a) in sub-paragraph (a), for the words “and bread” there shall be substituted the words “, bread and milk”, and
 - (b) the full stop at the end of sub-paragraph (b) shall be replaced by a semi-colon and after that sub-paragraph there shall be inserted the following sub-paragraph—
 
   > - (c) in relation to cows' milk, put into containers on the premises where the milk is produced by the person owning or having control of the herd from which the milk is produced for sale by him on those premises or from a vehicle or stall used by him.
 
-**5.** In regulation 33, after paragraph (2), there shall be inserted the following paragraph—
+**5.**[^c-8dd8b2a53b249a3f9bf9963051d999a4] In regulation 33, after paragraph (2), there shall be inserted the following paragraph—
 
 > (3) Notwithstanding paragraphs (1) and (2) of this regulation—
 >
@@ -68,4 +72,18 @@ summary: ''
 
 .
 
-**6.** In regulation 35, in paragraphs (1) and (2), after the words “of alcoholic strength by volume” in each paragraph there shall be inserted the words “or, in the case of cows' raw milk, the required cautionary words”.
+**6.**[^c-68b3edea8592e38e6bdc03bf3e308185] In regulation 35, in paragraphs (1) and (2), after the words “of alcoholic strength by volume” in each paragraph there shall be inserted the words “or, in the case of cows' raw milk, the required cautionary words”.
+
+## Annotations
+
+[^c-3f17b40ef23a0a0f047820a81eee96b2]: Commencement: Sch. 13 para. 1 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
+
+[^c-36a8d2e1959c9adf7d3c872272093c0b]: Commencement: Sch. 13 para. 2 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
+
+[^c-c58726c45495051dbe96be462c66b3f3]: Commencement: Sch. 13 para. 3 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
+
+[^c-3b0f7c6bf413c5b9014bc01c6c239b2a]: Commencement: Sch. 13 para. 4 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
+
+[^c-8dd8b2a53b249a3f9bf9963051d999a4]: Commencement: Sch. 13 para. 5 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
+
+[^c-68b3edea8592e38e6bdc03bf3e308185]: Commencement: Sch. 13 para. 6 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

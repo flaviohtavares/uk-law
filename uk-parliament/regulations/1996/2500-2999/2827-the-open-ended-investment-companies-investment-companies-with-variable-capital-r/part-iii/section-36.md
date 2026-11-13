@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 36
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '36'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/36
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 36
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 36. Restraint and ratification by shareholders
+## 36. Restraint and ratification by shareholders[^c-9938032bbccdb7ca1c5a63f7282b4954]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) A shareholder of an investment company with variable capital may bring proceedings to restrain the doing of an act which but for regulation 32(1) above would be beyond the company’s capacity.
 
@@ -32,3 +38,7 @@ may only be ratified by resolution of the company in general meeting.
 (5) A resolution ratifying such action shall not affect any liability incurred by the directors or any other person; relief from any such liability must be agreed to separately by resolution of the company in general meeting.
 
 (6) Nothing in this regulation affects any power or right conferred by or arising under section 61 (injunctions and restitution orders) or 62 (actions for damages) of the 1986 Act.
+
+## Annotations
+
+[^c-9938032bbccdb7ca1c5a63f7282b4954]: Commencement: Reg. 36 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

@@ -2,9 +2,9 @@
 title: The Immigration (Isle of Man) Order 2008, SCHEDULE 8
 act: The Immigration (Isle of Man) Order 2008
 section: schedule-8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680/schedule/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008, SCHEDULE 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 8 — The Asylum and Immigration (Treatment of Claimants, etc.) Act 2004
 
+*Extent: E+W+S+N.I.*
+
 Article 18
 
-**1.** (1) Section 2 of the 2004 Act is modified as follows.
+**1.**[^c-f3d2cdbdb4342fd3db0f748bf76de91e] (1) Section 2 of the 2004 Act is modified as follows.
 
 (2) In the heading to section 2 and in the following subsections—
 
@@ -49,7 +53,7 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 
 (7) Omit subsections (15) to (17).
 
-**2.** (1) Section 4 of the 2004 Act is modified as follows.
+**2.**[^c-f839d5d8511debcf79b1e80bcfdc4d0e] (1) Section 4 of the 2004 Act is modified as follows.
 
 (2) In subsections (1), (2) and (3), for “United Kingdom”, wherever those words occur, substitute “Isle of Man”.
 
@@ -61,7 +65,7 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 - (b) in paragraph (a), for “indictment” substitute “information”;
 - (c) in paragraph (b), for “twelve” substitute “six”.
 
-**3.** (1) Section 5 of the 2004 Act is modified as follows.
+**3.**[^c-5a60b740bcb061c83e03fc2a05b75097] (1) Section 5 of the 2004 Act is modified as follows.
 
 (2) In subsection (1)—
 
@@ -70,11 +74,11 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 
 (3) Omit subsections (6) to (13).
 
-**4.** (1) Section 6 of the 2004 Act is modified as follows.
+**4.**[^c-95b8f5fd3b7f5347a554bd9cad52fadb] (1) Section 6 of the 2004 Act is modified as follows.
 
 (2) Omit subsection (2).
 
-**5.** (1) Section 14 of the 2004 Act is modified as follows.
+**5.**[^c-c4753e69940f7961ec2eff4d9de81fa1] (1) Section 14 of the 2004 Act is modified as follows.
 
 (2) For subsection (2) substitute—
 
@@ -100,13 +104,13 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 
 (3) Omit subsection (4).
 
-**6.** (1) Section 17 of the 2004 Act is modified as follows.
+**6.**[^c-e325c070d71cde48fb54597b805f243f] (1) Section 17 of the 2004 Act is modified as follows.
 
 (2) For “Secretary of State”, wherever those words occur, substitute “Governor”.
 
 (3) In paragraph (a), for “United Kingdom” substitute “Isle of Man”.
 
-**7.** (1) Section 19 of the 2004 Act is modified as follows.
+**7.**[^c-6374ba3d23ac93ec17be26928da2614e] (1) Section 19 of the 2004 Act is modified as follows.
 
 (2) For the heading to section 19 substitute “Procedure for marriage”.
 
@@ -125,7 +129,7 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 - (a) in paragraph (a)(ii), for “United Kingdom” substitute “Isle of Man”;
 - (b) in paragraph (d), for “Registrar General” substitute “Chief Registrar”.
 
-**8.** (1) Section 20 of the 2004 Act is modified as follows.
+**8.**[^c-e9d59cd8eedb36c683813845947e5595] (1) Section 20 of the 2004 Act is modified as follows.
 
 (2) For the heading to section 20 substitute “Procedure for marriage: supplemental”.
 
@@ -144,7 +148,7 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 
 (6) In subsection (5), for “Marriage Act [1949 (c.76)](https://www.legislation.gov.uk/ukpga/1949/76)” substitute “Marriage Act 1984 (an Act of Tynwald)”.
 
-**9.** (1) Section 25 of the 2004 Act is modified as follows.
+**9.**[^c-0c5200392f38ef5a9bd1486af06642c7] (1) Section 25 of the 2004 Act is modified as follows.
 
 (2) For section 25 substitute—
 
@@ -159,11 +163,11 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 
 .
 
-**10.** (1) Section 26 of the 2004 Act is modified as follows.
+**10.**[^c-5c189108806481a583fa9e8f6b565d55] (1) Section 26 of the 2004 Act is modified as follows.
 
 (2) In subsection (6), for “that Act” substitute “the Nationality, Immigration and Asylum Act 2002”.
 
-**11.** (1) Section 35 of the 2004 Act is modified as follows.
+**11.**[^c-266b34fd3b905fa3a4914381db630c89] (1) Section 35 of the 2004 Act is modified as follows.
 
 (2) In subsections (1), (2) and (3), for “Secretary of State”, wherever those words occur, substitute “Governor”.
 
@@ -183,7 +187,7 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 
 (6) Omit subsection (8) to (11).
 
-**12.** (1) Section 36 of the 2004 Act is modified as follows.
+**12.**[^c-c4cbf7bae46f92aa631f4e23fbdaf5f4] (1) Section 36 of the 2004 Act is modified as follows.
 
 (2) In subsection (1)(d)—
 
@@ -199,7 +203,7 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 
 (5) Omit subsections (11)(c) and (d) and (12).
 
-**13.** (1) Section 42 of the 2004 Act[^f00151] is modified as follows.
+**13.**[^c-d4f4d62b42969b82eac50d00507f2f4c] (1) Section 42 of the 2004 Act[^f00151] is modified as follows.
 
 (2) In subsections (1), (1)(b), (5)(b) and (6). for “Secretary of State” substitute “Governor”.
 
@@ -217,13 +221,23 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 
 (7) Omit subsections (7) and (8).
 
-**14.** (1) Section 45 of the 2004 Act is modified as follows.
+**14.**[^c-d10634dcd1e7ce65a45519ab2cac838d] (1) Section 45 of the 2004 Act is modified as follows.
 
 (2) For “Secretary of State” substitute “Governor”.
 
 ## Annotations
 
+[^c-f3d2cdbdb4342fd3db0f748bf76de91e]: Commencement: Sch. 8 para. 1 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-f839d5d8511debcf79b1e80bcfdc4d0e]: Commencement: Sch. 8 para. 2 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
 [^f00146]: Footnote: 1993 c.3 (Isle of Man).
+
+[^c-5a60b740bcb061c83e03fc2a05b75097]: Commencement: Sch. 8 para. 3 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-95b8f5fd3b7f5347a554bd9cad52fadb]: Commencement: Sch. 8 para. 4 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-c4753e69940f7961ec2eff4d9de81fa1]: Commencement: Sch. 8 para. 5 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
 
 [^f00147]: Footnote: Statutes vol.IV p.160 (Isle of Man).
 
@@ -233,4 +247,22 @@ for “United Kingdom,” wherever those words occur, substitute “Isle of Man�
 
 [^f00150]: Footnote: Statutes vol.XVIII p.6 (Isle of Man).
 
+[^c-e325c070d71cde48fb54597b805f243f]: Commencement: Sch. 8 para. 6 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-6374ba3d23ac93ec17be26928da2614e]: Commencement: Sch. 8 para. 7 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-e9d59cd8eedb36c683813845947e5595]: Commencement: Sch. 8 para. 8 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-0c5200392f38ef5a9bd1486af06642c7]: Commencement: Sch. 8 para. 9 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-5c189108806481a583fa9e8f6b565d55]: Commencement: Sch. 8 para. 10 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-266b34fd3b905fa3a4914381db630c89]: Commencement: Sch. 8 para. 11 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-c4cbf7bae46f92aa631f4e23fbdaf5f4]: Commencement: Sch. 8 para. 12 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
+[^c-d4f4d62b42969b82eac50d00507f2f4c]: Commencement: Sch. 8 para. 13 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
 [^f00151]: Footnote: Section 42 was amended by paragraph 6 of Schedule 2 to the Immigration, Asylum and Nationality Act [2006 (c.13)](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^c-d10634dcd1e7ce65a45519ab2cac838d]: Commencement: Sch. 8 para. 14 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)

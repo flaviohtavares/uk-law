@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, section 55
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: '55'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, section 55
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Meaning of “claims representative”
+## 55. Meaning of “claims representative”[^c-08c04b8257ea7a1173a52149cea090ba]
+
+*Extent: E+W+S+N.I.*
 
 After section 96E of the 1982 Act insert—
 
@@ -43,3 +47,7 @@ After section 96E of the 1982 Act insert—
 > - (b) in the case of a corporation, have a place of business in that EEA State.
 >
 > (6) In this section ‘relevant claim’ means any claim which may be made against a policy issued by the company to the extent that it covers relevant motor vehicle risks situated in the EEA State concerned, whether or not submitted to the company and whether by a policy holder or by a third party having rights of action against the company or a policy holder or by both.
+
+## Annotations
+
+[^c-08c04b8257ea7a1173a52149cea090ba]: Commencement: Reg. 55 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)

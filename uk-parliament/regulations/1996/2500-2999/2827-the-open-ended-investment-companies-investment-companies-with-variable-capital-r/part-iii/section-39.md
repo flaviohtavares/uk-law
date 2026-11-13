@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 39
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '39'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 39
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 39. Shares
+## 39. Shares[^c-de333e33531754ea6d0462a3f62417dd]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Without prejudice to the generality of regulation 6(1) above, an investment company with variable capital may issue more than one class of shares.
 
@@ -36,3 +42,7 @@ summary: ''
 - (b) in respect of a class of shares within that paragraph, equal to the rights that attach to each other share of that class of the same denomination.
 
 (7) In respect of any class of shares within paragraph (4) above, the rights that attach to any smaller denomination share of that class shall be a proportion of the rights that attach to any larger denomination share of that class and that proportion shall be the same as the proportion referred to in paragraph (4) above.
+
+## Annotations
+
+[^c-de333e33531754ea6d0462a3f62417dd]: Commencement: Reg. 39 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

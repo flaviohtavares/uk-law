@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 59
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '59'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/59
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 59
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 59. Power to provide for employees on cessation or transfer of business
+## 59. Power to provide for employees on cessation or transfer of business[^c-a476eceb44980e05d45ef54502455745]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) The powers of an investment company with variable capital include power to make the following provision for the benefit of persons employed or formerly employed by the company, that is to say, provision in connection with the cessation or the transfer to any person of the whole or part of the undertaking of the company.
 
@@ -29,3 +35,7 @@ summary: ''
 - (c) if the instrument of incorporation requires the exercise of the power to be sanctioned by a resolution of the company in general meeting for which more than a simple majority of the shareholders voting is necessary, by a resolution of that majority;
 
 and in any case after compliance with any other requirements of the instrument of incorporation applicable to the exercise of the power.
+
+## Annotations
+
+[^c-a476eceb44980e05d45ef54502455745]: Commencement: Reg. 59 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

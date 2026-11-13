@@ -2,9 +2,9 @@
 title: The Immigration (Isle of Man) Order 2008, SCHEDULE 5
 act: The Immigration (Isle of Man) Order 2008
 section: schedule-5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/680/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The Immigration (Isle of Man) Order 2008, SCHEDULE 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (308).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 5 — The Asylum and Immigration Act 1996
 
+*Extent: E+W+S+N.I.*
+
 Article 12
 
-**1.** (1) Section 8 of the 1996 Act[^f00104] is modified as follows.
+**1.**[^c-9fc8e5372a9b597b67775ff25c615048] (1) Section 8 of the 1996 Act[^f00104] is modified as follows.
 
 (2) In subsection (1)(a), for “United Kingdom” substitute “Isle of Man”.
 
@@ -39,7 +43,7 @@ Article 12
 
 (7) Omit subsection (9).
 
-**2.** (1) Section 8A of the 1996 Act[^f00105] is modified as follows.
+**2.**[^c-1fda6ed23f7ccb055ce8c6e7e8c7b06f] (1) Section 8A of the 1996 Act[^f00105] is modified as follows.
 
 (2) For subsection (1) substitute—
 
@@ -60,7 +64,7 @@ Article 12
 
 (5) Omit subsections (12) and (13).
 
-**3.** (1) Section 13 of the 1996 Act is modified as follows.
+**3.**[^c-8d3989c762369a7f41933a788a06d4a3] (1) Section 13 of the 1996 Act is modified as follows.
 
 (2) For the heading to section 13 substitute “Short title and interpretation”.
 
@@ -74,10 +78,16 @@ Article 12
 
 ## Annotations
 
+[^c-9fc8e5372a9b597b67775ff25c615048]: Commencement: Sch. 5 para. 1 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
+
 [^f00104]: Footnote: Section 8 was amended by section 147 of the Nationality, Immigration and Asylum Act [2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^c-1fda6ed23f7ccb055ce8c6e7e8c7b06f]: Commencement: Sch. 5 para. 2 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)
 
 [^f00105]: Footnote: Section 8A was inserted by section 22 of the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33).
 
 [^f00106]: Footnote: 2004 c.6 (Isle of Man).
 
 [^f00107]: Footnote: 2006 c.21 (Isle of Man).
+
+[^c-8d3989c762369a7f41933a788a06d4a3]: Commencement: Sch. 5 para. 3 in force at 13.3.2008 for specified purposes and at 1.5.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/680/article/1/2)

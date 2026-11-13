@@ -2,9 +2,9 @@
 title: The Insurance Companies (Third Insurance Directives) Regulations 1994, SCHEDULE 7
 act: The Insurance Companies (Third Insurance Directives) Regulations 1994
 section: schedule-7
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1994-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/1696/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Insurance Companies (Third Insurance Directives) Regulations 1994, SCHEDULE 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 1994-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1696
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7
+## SCHEDULE 7[^c-8ea46fa79ba1a9d21d1adbac9a8a6b5f]
+
+*Extent: E+W+S+N.I.*
 
 Regulation 46.
 
@@ -348,5 +352,7 @@ Regulation 46.
 > - (b) references to a commitment do not include a commitment falling within any of classes VII, VIII and IX of Schedule 1 to this Act (long term insurance).
 
 ## Annotations
+
+[^c-8ea46fa79ba1a9d21d1adbac9a8a6b5f]: Commencement: Sch. 7 in force at 1.7.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/1696/regulation/1/1)
 
 [^f00084]: Footnote: O.J. L8, 11.1.84, page 17.

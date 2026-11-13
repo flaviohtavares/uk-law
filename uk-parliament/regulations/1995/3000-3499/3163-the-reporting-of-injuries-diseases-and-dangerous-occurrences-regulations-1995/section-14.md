@@ -2,9 +2,9 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 14
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: '14'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1995-12-06'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 14. Repeal and amendment of provisions in the Regulation of Railways Act 1871, the Railway Employment (Prevention of Accidents) Act 1900 and the Transport and Works Act 1992
+## 14. Repeal and amendment of provisions in the Regulation of Railways Act 1871, the Railway Employment (Prevention of Accidents) Act 1900 and the Transport and Works Act 1992[^c-55a880549129ba3ee40bd1b309bb5541]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Section 6 (Companies to make returns of accidents to Board of Trade) of the Regulations of Railways Act 1871[^f00020], section 13(2) of the Railway Employment (Prevention of Accidents) Act 1900[^f00021] and sections 43 (Accidents etc.) and 44 (Accidents etc: consequential amendments) of the Transport and Works Act 1992[^f00022] are hereby repealed.
 
@@ -33,6 +39,8 @@ summary: ''
 - (e) in section 8, after the word “accident”, in the second place where it occurs, there shall be inserted the words “or occurrence”.
 
 ## Annotations
+
+[^c-55a880549129ba3ee40bd1b309bb5541]: Commencement: Reg. 14 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
 
 [^f00020]: Footnote: [1871 c. 78](https://www.legislation.gov.uk/ukpga/1871/78); section 6 (as extended by section 13(2) of the Railway Employment (Protection of Accidents) Act [1900 (c. 27)](https://www.legislation.gov.uk/ukpga/1900/27), modified in its effect by section 43(1) of the Road and Rail Traffic Act [1933 (c. 53)](https://www.legislation.gov.uk/ukpga/1933/53) and amended by the Railways Act 1993 (Conseqential Modifications) Order 1994 ([S.I. 1994/857](https://www.legislation.gov.uk/uksi/1994/857))) was to be repealed, from a day to be appointed, by section 44(1) of the Transport and Works Act 1992 ([1992 c. 42)](https://www.legislation.gov.uk/ukpga/1992/42).
 

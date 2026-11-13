@@ -502,7 +502,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/376-chemicals-hazard-information-and-packaging-for-supply-amendment-regulations-nort.md) *(as originally made)*
 - [Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/510-construction-health-safety-and-welfare-regulations-northern-ireland-1996/README.md) *(as originally made)*
-- [Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/247-equipment-and-protective-systems-intended-for-use-in-potentially-explosive-atmos/README.md) *(as originally made)*
+- [Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/247-equipment-and-protective-systems-intended-for-use-in-potentially-explosive-atmos/README.md) *(changes pending)*
 - [Gas Safety (Management) Regulations 1996](../uk-parliament/regulations/1996/0500-0999/551-gas-safety-management-regulations-1996.md)
 - [Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/250-genetically-modified-organisms-contained-use-amendment-regulations-northern-irel.md) *(as originally made)*
 - [Health and Safety (Consultation with Employees) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/511-health-and-safety-consultation-with-employees-regulations-northern-ireland-1996.md) *(as originally made)*
@@ -535,7 +535,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Health and Safety (Repeals and Revocations) Regulations 1996](../uk-parliament/regulations/1996/3000-3499/3022-the-health-and-safety-repeals-and-revocations-regulations-1996.md) *(as originally made)*
 - [The Health and Safety (Safety Signs and Signals) Regulations 1996](../uk-parliament/regulations/1996/0000-0499/341-the-health-and-safety-safety-signs-and-signals-regulations-1996.md)
 - [The Health and Safety at Work etc. Act 1974 (Application to Environmentally Hazardous Substances) Regulations 1996](../uk-parliament/regulations/1996/2000-2499/2075-the-health-and-safety-at-work-etc-act-1974-application-to-environmentally-hazard.md) *(as originally made)*
-- [The Marking of Plastic Explosive for Detection Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/262-the-marking-of-plastic-explosive-for-detection-regulations-northern-ireland-1996.md) *(as originally made)*
+- [The Marking of Plastic Explosive for Detection Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/262-the-marking-of-plastic-explosive-for-detection-regulations-northern-ireland-1996.md) *(changes pending)*
 - [The Marking of Plastic Explosives for Detection Regulations 1996](../uk-parliament/regulations/1996/0500-0999/890-the-marking-of-plastic-explosives-for-detection-regulations-1996.md) *(as originally made)*
 - [The Mines (Substances Hazardous to Health) Regulations 1996](../uk-parliament/regulations/1996/2000-2499/2001-the-mines-substances-hazardous-to-health-regulations-1996.md) *(as originally made)*
 - [The Notification of Existing Substances (Enforcement) (Amendment) Regulations 1996](../uk-parliament/regulations/1996/1000-1499/1373-the-notification-of-existing-substances-enforcement-amendment-regulations-1996.md) *(as originally made)*
@@ -562,7 +562,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995](../uk-parliament/regulations/1995/0500-0999/743-the-offshore-installations-prevention-of-fire-and-explosion-and-emergency-respon.md)
 - [The Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995](../uk-parliament/regulations/1995/0500-0999/738-the-offshore-installations-and-pipeline-works-management-and-administration-regu.md)
 - [The Quarries Miscellaneous Health and Safety Provisions Regulations 1995](../uk-parliament/regulations/1995/2000-2499/2036-the-quarries-miscellaneous-health-and-safety-provisions-regulations-1995.md) *(as originally made)*
-- [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995](../uk-parliament/regulations/1995/3000-3499/3163-the-reporting-of-injuries-diseases-and-dangerous-occurrences-regulations-1995/README.md) *(as originally made)*
+- [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995](../uk-parliament/regulations/1995/3000-3499/3163-the-reporting-of-injuries-diseases-and-dangerous-occurrences-regulations-1995/README.md) *(changes pending)*
 
 **1994**
 

@@ -5,14 +5,14 @@ type: ScottishAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2001-07-18'
-text_date: '2026-08-01'
+text_date: '2026-11-09'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2001/10
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2001/10/pdfs/aspen_20010010_en.pdf
 - http://www.legislation.gov.uk/asp/2001/10/pdfs/asp_20010010_en.pdf
 - http://www.legislation.gov.uk/asp/2001/10/data.pdf
-pending_changes: 10
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Housing (Scotland) Act 2001
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/asp/2001/10
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/asp/2001/10
 >
 > Extent: Scotland.
 
@@ -244,7 +244,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 93 — Assistance for housing purposes: further provision](part-5/section-93.md)
 - [Section 94 — Alteration of housing finance arrangements](part-5/section-94.md)
 
-#### Meaning of “fuel poverty”
+#### ...[^c-9d6182fcef72485f16bc309e96d1d583]
 
 - [Section 95 — Meaning of “fuel poverty”](part-5/section-95.md)
 
@@ -328,5 +328,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 [^c-71acc63fe879a64cc635a9c71ee2dd38]: Textual amendment: S. 68A and cross-heading inserted (29.1.2006) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 177](https://www.legislation.gov.uk/asp/2006/1/section/177), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2006/14](https://www.legislation.gov.uk/ssi/2006/14), [art. 2](https://www.legislation.gov.uk/ssi/2006/14/article/2)
 
 [^c-035bed74217e3b295205f64c9f442657]: Textual amendment: S. 88 and cross-heading repealed (19.9.2019) by [Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (asp 10)](https://www.legislation.gov.uk/asp/2019/10), [ss. 18(2)](https://www.legislation.gov.uk/asp/2019/10/section/18/2), [20(2)](https://www.legislation.gov.uk/asp/2019/10/section/20/2); [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+
+[^c-9d6182fcef72485f16bc309e96d1d583]: Textual amendment: S. 95 and cross-heading repealed (9.11.2026) by [Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (asp 10)](https://www.legislation.gov.uk/asp/2019/10), [ss. 18(4)](https://www.legislation.gov.uk/asp/2019/10/section/18/4), [20(2)](https://www.legislation.gov.uk/asp/2019/10/section/20/2); [S.S.I. 2026/319](https://www.legislation.gov.uk/ssi/2026/319), [reg. 2](https://www.legislation.gov.uk/ssi/2026/319/regulation/2)
 
 [^c-5793e298ee80813250e3f26b25f1810d]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/asp/2001/10/part/6) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

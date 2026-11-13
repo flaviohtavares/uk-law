@@ -3,15 +3,15 @@ title: The Legal Services Act 2007 (Commencement No. 2 and Transitory Provisions
 id: uksi/2008/1436
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-05'
-text_date: null
-extent: null
+text_date: '2008-06-30'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/1436
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1436/pdfs/uksiem_20081436_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1436/pdfs/uksi_20081436_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1436/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1436/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Legal Services Act 2007 (Commencement No. 2 and Transitory Provisions) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1436
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2008 No. 1436 (C. 65)
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Lord Chancellor makes the following Order in exercise of the powers conferred by sections 204, 208(2) and (4) and 211(2) of the Legal Services Act 2007[^f00001]:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-a91a518adb993517760b2d3cef2e4d3e]
 
 (1) This Order may be cited as the Legal Services Act 2007 (Commencement No. 2 and Transitory Provisions) Order 2008.
 
@@ -53,7 +57,7 @@ The Lord Chancellor makes the following Order in exercise of the powers conferre
 - (a) “the 2007 Act” means the Legal Services Act 2007; and
 - (b) a reference to a section, Schedule or paragraph of a Schedule by number alone is a reference to that section, Schedule or paragraph in the 2007 Act.
 
-## 2. Commencement of provisions
+## 2. Commencement of provisions[^c-5b7046ca7d30033bff4e40a6d0575e21]
 
 The following provisions of the 2007 Act shall come into force on 30th June 2008—
 
@@ -67,13 +71,13 @@ The following provisions of the 2007 Act shall come into force on 30th June 2008
 - (f) in Schedule 22, paragraph 18; and
 - (g) in Schedule 23, the entry relating to section 46(6) to (8) of the Solicitors Act 1974[^f00004].
 
-**3.** The following provisions of the 2007 Act shall come into force on 1st October 2008—
+**3.**[^c-8dde3209da64607917895f7f19a2e5c3] The following provisions of the 2007 Act shall come into force on 1st October 2008—
 
 - (a) sections 194, to the extent that it is not already in force, 195 and 196;
 - (b) Schedule 20; and
 - (c) in Schedule 23, the entries relating to the Solicitors (Scotland) Act 1980[^f00005], the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00006] and the Legal Profession and Legal Aid (Scotland) Act 2007[^f00007].
 
-## 4. Transitory provisions
+## 4. Transitory provisions[^c-e7503b589da065b17d1e9b1e294280d2]
 
 Until the appointment of a Chief Executive under paragraph 13 of Schedule 1, the Solicitors Disciplinary Tribunal may exercise—
 
@@ -133,14 +137,22 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29).
 
+[^c-a91a518adb993517760b2d3cef2e4d3e]: Commencement: Art. 1 in force at 30.6.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1436/article/1/2)
+
+[^c-5b7046ca7d30033bff4e40a6d0575e21]: Commencement: Art. 2 in force at 30.6.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1436/article/1/2)
+
 [^f00002]: Footnote: [1985 (c.61)](https://www.legislation.gov.uk/ukpga/1985/61).
 
 [^f00003]: Footnote: [1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41), there are amendments to section 89 which are not relevant to this Order.
 
 [^f00004]: Footnote: [1974 (c. 47)](https://www.legislation.gov.uk/ukpga/1974/47).
 
+[^c-8dde3209da64607917895f7f19a2e5c3]: Commencement: Art. 3 in force at 30.6.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1436/article/1/2)
+
 [^f00005]: Footnote: [1980 (c.46)](https://www.legislation.gov.uk/ukpga/1980/46).
 
 [^f00006]: Footnote: [1990 (c.40)](https://www.legislation.gov.uk/ukpga/1990/40).
 
 [^f00007]: Footnote: [2007 asp 5](https://www.legislation.gov.uk/asp/2007/5).
+
+[^c-e7503b589da065b17d1e9b1e294280d2]: Commencement: Art. 4 in force at 30.6.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1436/article/1/2)

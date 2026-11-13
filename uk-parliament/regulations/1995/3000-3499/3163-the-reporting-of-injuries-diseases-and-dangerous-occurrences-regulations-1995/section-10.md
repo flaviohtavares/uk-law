@@ -2,9 +2,9 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 10
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: '10'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1995-12-06'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 10
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 10. Restrictions on the application of regulations 3, 4 and 5
+## 10. Restrictions on the application of regulations 3, 4 and 5[^c-f24adcad09cb56314c5b50b3c93e4c78]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) The requirements of regulation 3 relating to the death or injury of a person as a result of an accident shall not apply to an accident causing death or injury to a person arising out of the conduct of any operation on, or any examination or other medical treatment of, that person which is administered by, or conducted under the supervision of, a registered medical practitioner or a registered dentist (and for the purposes of this paragraph a registered dentist has the meaning assigned to it by section 53(1) of the Dentists Act 1984[^f00018]).
 
@@ -36,6 +42,8 @@ summary: ''
 (5) Regulation 3(1)(i) shall not apply to a self-employed person who is injured at premises of which he is the owner or occupier, but regulation 3(1)(ii) shall apply to such a self-employed person (other than in the case of death) and it shall be sufficient compliance with that sub-paragraph if that self-employed person makes arrangements for the report to be sent to the relevant enforcing authority by some other person.
 
 ## Annotations
+
+[^c-f24adcad09cb56314c5b50b3c93e4c78]: Commencement: Reg. 10 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
 
 [^f00018]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 

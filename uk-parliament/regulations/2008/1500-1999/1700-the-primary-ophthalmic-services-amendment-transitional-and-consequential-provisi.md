@@ -3,16 +3,16 @@ title: The Primary Ophthalmic Services Amendment, Transitional and Consequential
 id: uksi/2008/1700
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-28'
-text_date: null
-extent: null
+text_date: '2008-06-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1700
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1700/pdfs/uksiem_20081700_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1700/pdfs/uksi_20081700_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1700/made/data.pdf
-pending_changes: 6
+- http://www.legislation.gov.uk/uksi/2008/1700/data.pdf
+pending_changes: 44
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Primary Ophthalmic Services Amendment, Transitional and Consequential Provisions Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (44).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1700
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1700
 
@@ -44,13 +50,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and application
+### 1. Citation, commencement and application[^c-6951645d5774d0d17e356f2d97ed40ad]
 
 (1) These Regulations may be cited as the Primary Ophthalmic Services Amendment, Transitional and Consequential Provisions Regulations 2008 and come into force on 1st August 2008.
 
 (2) These Regulations apply in relation to England.
 
-### 2. Interpretation
+### 2. Interpretation[^c-e34ffe49c6958285a8ebf4e71c62dad0]
 
 (1) In these Regulations—
 
@@ -71,11 +77,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 2 — TRANSITIONAL PROVISIONS IN RESPECT OF GENERAL OPHTHALMIC SERVICES PROVIDED BEFORE 1ST AUGUST 2008
 
-### 3. Interpretation of Part 2
+### 3. Interpretation of Part 2[^c-a359d1196dec5f0e69ab1c05a1f93f40]
 
 For the purposes of this Part “relevant contractor” means an ophthalmic practitioner included in an ophthalmic list on 31<sup>st</sup> July 2008 which enters into a general ophthalmic services contract and includes any contractor which is a partnership, one of whose partners was such an ophthalmic practitioner.
 
-### 4. Investigation of outstanding complaints
+### 4. Investigation of outstanding complaints[^c-010ae62975229ec871dcf097534aa2a3]
 
 (1) Subject to paragraph (2), where before 1st August 2008—
 
@@ -88,7 +94,7 @@ that complaint must, on or after 1st August 2008, be investigated, or continue t
 
 (3) Where a complaint falls to be investigated by a PCT under paragraph (2), the investigation shall be carried out in accordance with the Complaints Regulations.
 
-### 5. Complaints relating to general ophthalmic services made after 31st July 2008
+### 5. Complaints relating to general ophthalmic services made after 31st July 2008[^c-9b536607b9640f5ba1fb73fdb119bbfb]
 
 (1) Subject to paragraph (2), the complaints procedure established and operated by a relevant contractor under the terms of its general ophthalmic services contract which gives effect to paragraph 22 of Schedule 1 (other contractual terms) to the Contracts Regulations shall apply to any complaint which a patient or former patient of the relevant contractor could have made (but did not make) on or before 31st July 2008 under paragraphs 8A to 8C of Schedule 1 to the 1986 Regulations, as it applies to complaints made by a patient or former patient of the relevant contractor in relation to any matter reasonably connected with the provision of services under the contract.
 
@@ -96,7 +102,7 @@ that complaint must, on or after 1st August 2008, be investigated, or continue t
 
 (3) Where a complaint falls to be investigated by a PCT under paragraph (2), the investigation shall be carried out in accordance with the Complaints Regulations.
 
-### 6. Recovery of Overpayments
+### 6. Recovery of Overpayments[^c-457002b27c2b88b640493c113f0e8cdc]
 
 (1) Where, before 1st August 2008, an ophthalmic practitioner had admitted an overpayment drawn to its attention by a PCT under regulation 12(2) (payment for services) of the 1986 Regulations[^f00013], but the overpayment, or any part of it, had not been recovered before that date, the amount overpaid, or the part of it not recovered, shall continue to be recoverable by that PCT and be treated as a debt owed by that ophthalmic practitioner to that PCT, notwithstanding the revocation of the 1986 Regulations.
 
@@ -112,7 +118,7 @@ that complaint must, on or after 1st August 2008, be investigated, or continue t
 - (a) the arrangements for appeals referred to in regulation 12(2)(b) of the 1986 Regulations, as in force on 31st July 2008, as those arrangements had effect on 31st July 2008, shall apply; and
 - (b) if the ophthalmic practitioner has not appealed or does not appeal, or is unsuccessful in an appeal, the PCT may recover the amount as a civil debt.
 
-### 7. Remuneration of Ophthalmic Practitioners
+### 7. Remuneration of Ophthalmic Practitioners[^c-c48e13f334d623bbf1eaa478a9dc0835]
 
 (1) Notwithstanding the revocation of the 1986 Regulations, claims may still be made for payments under the Statement by an ophthalmic practitioner in relation to general ophthalmic services provided before 1st August 2008, who may be entitled to such a payment, provided that the claim is made within any period stipulated in the Statement as being the period during which a claim for the payment is to be made.
 
@@ -122,17 +128,17 @@ that complaint must, on or after 1st August 2008, be investigated, or continue t
 - (b) the recovery of payments and overpayments; and
 - (c) the payments in consequence of suspension or successful appeal.
 
-### 8. Service of documents
+### 8. Service of documents[^c-f788e05258e5e430e7baa2ff53289d08]
 
 Where any notice or other document is required to be given or sent as a consequence of regulation 16 (service of documents on contractors) of the 1986 Regulations[^f00014] and has not be given or sent before 1st August 2008, notwithstanding the revocation of the 1986 Regulations, regulation 16 of those Regulations shall continue to have effect as in force on 31st July 2008 in respect of such a notice or document.
 
-### 9. Records
+### 9. Records[^c-88d98d64499b33287643422e0bc759d1]
 
 Notwithstanding the revocation of the 1986 Regulations, an ophthalmic practitioner shall continue to keep a record in respect of the matters referred to in paragraph 6(1) (records)[^f00015] of Schedule 1 to the 1986 Regulations and paragraph 6 of that Schedule shall continue to have effect as in force on 31st July 2008 to such a record until 1st August 2015.
 
 ## PART 3 — TRANSITIONAL ARRANGEMENTS: THE NATIONAL HEALTH SERVICE (SERVICE COMMITTEES AND TRIBUNAL) REGULATIONS 1992
 
-### 10. Interpretation: Part 3
+### 10. Interpretation: Part 3[^c-4a78bec02d83ae49e98b944abc9b8177]
 
 (1) In this Part—
 
@@ -158,7 +164,7 @@ and terms used both in this Part and in the Service Committees Regulations shall
 - (a) a numbered regulation is to the regulation bearing that number in the Service Committees Regulations; and
 - (b) a numbered Schedule is to the Schedule to the Service Committees Regulations bearing that number.
 
-### 11. Cases where no decision has been made before the relevant date as to whether disciplinary action should be taken (regulation 4)
+### 11. Cases where no decision has been made before the relevant date as to whether disciplinary action should be taken (regulation 4)[^c-e4bc68d12aef6ff2f57f1825b1b15754]
 
 (1) Where, before the relevant date, or on or after the relevant date in respect of a matter that occurred before the relevant date, a PCT receives, or has received, information that could amount to an allegation that an ophthalmic practitioner had failed to comply with the terms of service and—
 
@@ -177,7 +183,7 @@ paragraph (2) shall apply.
 - (a) PCT (B) shall investigate the matter and report to the appropriate PCT as if the amendments to regulations 2 to 10 and Schedules 2 and 4 had not taken effect; and
 - (b) the appropriate PCT shall be entitled, subject to regulation 14 of these Regulations, to take any action it could have taken pursuant to the Service Committees Regulations as if those amendments had not taken effect.
 
-### 12. Referrals to investigating discipline committees before the relevant date (regulation 5)
+### 12. Referrals to investigating discipline committees before the relevant date (regulation 5)[^c-87a6aca353826e7de340e04bee761479]
 
 Where a PCT (PCT(A)) has, before the relevant date, referred a matter in respect of an ophthalmic practitioner to another PCT (PCT (B)) in accordance with regulation 4(2)(a) or (7) (that is for investigation under regulation 5(1)) and—
 
@@ -186,7 +192,7 @@ Where a PCT (PCT(A)) has, before the relevant date, referred a matter in respect
   - (ii) PCT (A) shall be entitled to take any action it could have taken pursuant to the Service Committees Regulations as if those amendments had not taken effect, subject to regulation 14 of these Regulations; or
 - (b) PCT (A) has received the report of the discipline committee of PCT (B), but has not yet determined what (if any) action to take as a result of the report, PCT (A) shall be entitled to take any action it could have taken pursuant to the Service Committees Regulations as if the amendments to regulations 2 to 6 and 10 had not taken effect, subject to regulation 14 of these Regulations.
 
-### 13. Determination of a PCT or the Secretary of State made before the relevant date (regulations 8, 9, 10 and 11)
+### 13. Determination of a PCT or the Secretary of State made before the relevant date (regulations 8, 9, 10 and 11)[^c-5d53eb7428019b0afb3c0a4425636266]
 
 (1) Where, before the relevant date, a PCT (or where relevant, the Secretary of State) has determined pursuant to regulation 8(5)(a), regulation 9(3) or regulation 11 that an amount should be recovered from the ophthalmic practitioner, in so far as any of that amount has not been recovered before the relevant date, it shall continue to be recoverable by the PCT that was the appropriate PCT for the purposes of the Service Committees Regulations in respect of that matter, and it shall be treated as a debt owed by that ophthalmic practitioner to that Trust.
 
@@ -199,7 +205,7 @@ Where a PCT (PCT(A)) has, before the relevant date, referred a matter in respect
 
 (4) Where a Performers List PCT has record of, or receives notification of, an adverse determination pursuant to regulation 8, 9, 10, 11 or 12 made before the relevant date in respect of a ophthalmic practitioner (where, in the case of a determination under regulation 8, such a determination was not overturned on appeal) it may take that determination into account in determining what (if any) action it should take in respect of that ophthalmic practitioner pursuant to its powers under the Performers Lists Regulations.
 
-### 14. Determination of a PCT made on or after the relevant date (regulation 8)
+### 14. Determination of a PCT made on or after the relevant date (regulation 8)[^c-58f0faccf1ce3c155e29925dbb078196]
 
 (1) Where, on or after the relevant date, an appropriate PCT is determining what (if any) action to take pursuant to regulation 8 in accordance with provision made in this Part, it shall make the determination in accordance with the provisions relating to that regulation specified in this regulation.
 
@@ -227,7 +233,7 @@ and if it makes any one or more of the decisions specified in sub-paragraphs (b)
 
 it shall consider what (if any) action it should take in respect of that ophthalmic practitioner pursuant to its powers under the Performers Lists Regulations.
 
-### 15. Appeals to the Secretary of State against determinations of PCTs (regulations 9, 10 and 11)
+### 15. Appeals to the Secretary of State against determinations of PCTs (regulations 9, 10 and 11)[^c-c6ba5e8598b75269fde7229ef18ff177]
 
 (1) Where—
 
@@ -265,7 +271,7 @@ the Secretary of State shall, in addition to the persons specified in regulation
 
 (10) Where a Performers List PCT has received notification from the Secretary of State pursuant to paragraph (4) or (5), whether or not the Performers List PCT is also the appropriate PCT, it shall consider what (if any) action it should take in respect of that ophthalmic practitioner pursuant to its powers under the Performers Lists Regulations.
 
-### 16. Functions of Local Optical Committees
+### 16. Functions of Local Optical Committees[^c-3b4a0273a2b250f36a17d8192717da30]
 
 Where—
 
@@ -276,15 +282,15 @@ the Local Optical Committee that is recognised by a PCT pursuant to section 125 
 
 ## PART 4 — TRANSITIONAL, CONSEQUENTIAL AND REVOCATION PROVISIONS
 
-### 17. Transitional provision in relation to the Family Health Services Appeal Authority (Procedure) Rules 2001
+### 17. Transitional provision in relation to the Family Health Services Appeal Authority (Procedure) Rules 2001[^c-64bca3256751c707d27248cd0ed96733]
 
 Notwithstanding the amendments made to the Family Health Services Appeal Authority (Procedure) Rules 2001[^f00018] by paragraph 8 of Schedule 1, those Rules shall, in relation to any decision of a PCT made before 1st August 2008, continue to apply as they had effect on 31st July 2008 as if those amendments had not been made.
 
-### 18. Minor and consequential amendments
+### 18. Minor and consequential amendments[^c-93f220d3e839602780bca6e8a7904d83]
 
 The provisions listed in Schedule 1 are amended as there specified.
 
-### 19. Revocations
+### 19. Revocations[^c-143388e3185c34692248200743469578]
 
 The provisions listed in Schedule 2 are revoked in relation to England to the extent there specified.
 
@@ -302,11 +308,11 @@ Department of Health
 
 Regulation 18
 
-### 1. Sight Testing (Examination and Prescription) (No. 2) Regulations 1989
+### 1. Sight Testing (Examination and Prescription) (No. 2) Regulations 1989[^c-2ba8e7d11e06933f909b85937ab19c03]
 
 In regulation 3(3) of the Sight Testing (Examination and Prescription) (No. 2) Regulations 1989[^f00019] for the words after “ophthalmic hospital” to the end of the paragraph substitute “in accordance with regulation 13(3) of the General Ophthalmic Contracts Regulations 2008[^f00020].”.
 
-### 2. The National Health Service Trusts (Membership and Procedure) Regulations 1990
+### 2. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^c-f56e439dddfd85cea8fe3c606f225c16]
 
 In regulation 11(1)(f) (disqualification for appointment of chairman and non-executive directors) of National Health Service Trusts (Membership and Procedure) Regulations 1990[^f00021]**,** for paragraphs (ii) and (iii) substitute—
 
@@ -315,7 +321,7 @@ In regulation 11(1)(f) (disqualification for appointment of chairman and non-exe
 
 .
 
-### 3. The National Health Service (Service Committees and Tribunal) Regulations 1992
+### 3. The National Health Service (Service Committees and Tribunal) Regulations 1992[^c-9347c7a9823142233ac2ffbfbd1c4d4b]
 
 (1) Subject to regulations 10 to 16, the National Health Service (Service Committees and Tribunal) Regulations 1992[^f00022] are amended as follows.
 
@@ -350,7 +356,7 @@ In regulation 11(1)(f) (disqualification for appointment of chairman and non-exe
 
 (10) In paragraph 9 of Schedule 4 (procedure for investigation by discipline committees) omit sub-paragraph (b)(iii).
 
-### 4. The Health Authorities (Membership and Procedure) Regulations 1996
+### 4. The Health Authorities (Membership and Procedure) Regulations 1996[^c-9cec092de08327061960f05d31e6bd12]
 
 (1) The Health Authorities (Membership and Procedure) Regulations 1996[^f00023] are amended as follows.
 
@@ -366,7 +372,7 @@ In regulation 11(1)(f) (disqualification for appointment of chairman and non-exe
 
 (5) In regulation 16(6)(b) (disability of chairman and members in proceedings on account of pecuniary interest), for “Part II services or providing or performing primary medical services or primary dental services under Part 1 of the 1977 Act” substitute “pharmaceutical services or local pharmaceutical services or providing or performing primary dental services, primary medical services or primary ophthalmic services under the National Health Service Act 2006”.
 
-### 5. The Primary Care Trusts (Consultation on Establishment, Dissolution and Transfer of Staff) Regulations 1999
+### 5. The Primary Care Trusts (Consultation on Establishment, Dissolution and Transfer of Staff) Regulations 1999[^c-f361df3e9adf26ab42154af9899f2354]
 
 (1) The Primary Care Trusts (Consultation on Establishment, Dissolution and Transfer of Staff) Regulations 1999[^f00024] are amended as follows.
 
@@ -376,7 +382,7 @@ In regulation 11(1)(f) (disqualification for appointment of chairman and non-exe
 
 (4) In regulation 3(4)(d)(i) (consultation on amendment of a PCT order or dissolution), after “primary dental services,” insert “primary ophthalmic services,”.
 
-### 6. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000
+### 6. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^c-ea52c73f7f81cf5a3750b378509f38ec]
 
 (1) The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^f00025] are amended as follows.
 
@@ -393,11 +399,11 @@ In regulation 11(1)(f) (disqualification for appointment of chairman and non-exe
 
 (3) In regulation 5(1)(g)(i) (disqualification for appointment: chairman and non-officer members), after “primary dental services,” insert “primary ophthalmic services,”.
 
-### 7. The National Health Service (Charges for Drugs and Appliances) Regulations 2000
+### 7. The National Health Service (Charges for Drugs and Appliances) Regulations 2000[^c-5bf4bbecf62475132e8b07f93bcc3cda]
 
 In the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^f00026], in regulation 2(1) (interpretation), in the definition of “terms of service” omit “general ophthalmic services and”.
 
-### 8. The Family Health Services Appeal Authority (Procedure) Rules 2001
+### 8. The Family Health Services Appeal Authority (Procedure) Rules 2001[^c-0997818d49b3d123249225b956ff05d4]
 
 In rule 2 (interpretation) of the Family Health Services Appeal Authority (Procedure) Rules 2001[^f00027], in the definition of “FHS Regulations”—
 
@@ -408,18 +414,18 @@ In rule 2 (interpretation) of the Family Health Services Appeal Authority (Proce
   ; and
 - (b) in paragraph (g), omit “, general ophthalmic services and”.
 
-### 9. The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002
+### 9. The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^c-7fc1e1248b3e2409316f0524b4ed9300]
 
 In Part 1 of Schedule 1 (Secretary of State Functions Exercisable by Strategic Health Authorities and by Primary Care Trusts) to the National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^f00028], for the entry in column 2 relating to section 26(2) of the 1977 Act, substitute “Supplying prescribed goods, materials or other facilities to persons providing pharmaceutical services or providing services under a general medical services contract, a general ophthalmic services contract or a general dental services contract or in accordance with section 28C arrangements or providing local pharmaceutical services”.
 
-### 10. The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003
+### 10. The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^c-14ec2441b1005377a09f075da819b522]
 
 In regulation 3(1A) (NHS travel expenses) of the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00029]—
 
 - (a) in paragraphs (a) and (c), after “primary medical services”, insert “, primary ophthalmic services”; and
 - (b) in paragraphs (b) and (c), after “medical practitioner”, insert “, ophthalmic practitioner”.
 
-### 11. The National Health Service (Complaints) Regulations 2004
+### 11. The National Health Service (Complaints) Regulations 2004[^c-1c615c2dfa1381a5a7922f122a7a9e5b]
 
 In regulation 2 (interpretation) of the Complaints Regulations[^f00030]—
 
@@ -434,27 +440,27 @@ In regulation 2 (interpretation) of the Complaints Regulations[^f00030]—
 
   .
 
-### 12. The National Health Service (General Medical Services Contracts) Regulations 2004
+### 12. The National Health Service (General Medical Services Contracts) Regulations 2004[^c-7f0ede313b01c2d69afbbfe4d7e18c9d]
 
 In regulation 2(1) (interpretation) of the National Health Service (General Medical Services Contracts) Regulations 2004[^f00032], in paragraph (a) of the definition of “primary care list” for “primary medical or dental services” substitute “primary medical services, primary dental services or primary ophthalmic services”.
 
-### 13. The National Health Service (Personal Medical Services Agreements) Regulations 2004
+### 13. The National Health Service (Personal Medical Services Agreements) Regulations 2004[^c-f857cc9d912f9e10f88986226534efea]
 
 In paragraph (a) of the definition of “primary care list” in regulation 2(1) (interpretation) of the National Health Service (Personal Medical Services Agreements) Regulations 2004[^f00033], after “primary medical” insert “services, primary ophthalmic services”.
 
-### 14. The National Health Service (Performers Lists) Regulations 2004
+### 14. The National Health Service (Performers Lists) Regulations 2004[^c-922c17cf42469d02e4588544f71c7f59]
 
 In paragraph (a) of the definition of “register” in regulation 34(1) (interpretation) of the National Health Service (Performers Lists) Regulations 2004[^f00034], after “section 7(a)” insert “or 8B(1)(a)[^f00035]”.
 
-### 15. The National Health Service (General Dental Services Contracts) Regulations 2005
+### 15. The National Health Service (General Dental Services Contracts) Regulations 2005[^c-f91aec79de254525ceca8d7c4fa1281f]
 
 In paragraph (a) of the definition of “primary care list” in regulation 2(1) (interpretation) of the National Health Service (General Dental Services Contracts) Regulations 2005[^f00036], after “primary medical” insert “services, primary ophthalmic services”.
 
-### 16. The National Health Service (Local Pharmaceutical Services etc) Regulations 2006
+### 16. The National Health Service (Local Pharmaceutical Services etc) Regulations 2006[^c-bf1fe531f656a468f46ec3c60218b3a2]
 
 In paragraph (a) of the definition of “primary care list” in regulation 2(1) (interpretation) of the National Health Service (Local Pharmaceutical Services etc) Regulations 2006[^f00037], for “primary medical or dental services” substitute “primary medical services, primary dental services or primary ophthalmic services”.
 
-### 17. The Primary Ophthalmic Services Regulations 2008
+### 17. The Primary Ophthalmic Services Regulations 2008[^c-ea294204f0318ca114959ea16cdcbcc0]
 
 In regulation 2(1) (interpretation)[^f00038] of the Primary Ophthalmic Services Regulations 2008, after the definition of “mobile services” insert the following definition—
 
@@ -462,11 +468,11 @@ In regulation 2(1) (interpretation)[^f00038] of the Primary Ophthalmic Services 
 
 .
 
-### 18. The General Ophthalmic Services Contracts Regulations 2008
+### 18. The General Ophthalmic Services Contracts Regulations 2008[^c-27ef455a29addafdd115e3add994af5a]
 
 In regulation 2(1) (interpretation) of the General Ophthalmic Services Contracts Regulations 2008[^f00040], in paragraph (a) of the definition of “register”, after “section 7(a)” insert “or 8B(1)(a)[^f00041]”.
 
-## SCHEDULE 2 — REVOCATIONS
+## SCHEDULE 2 — REVOCATIONS[^c-62998236ed822eed3b6819e44f9bb2f8]
 
 Regulation 19
 
@@ -501,6 +507,10 @@ An Impact Assessment has not been produced for this Instrument as it has no impa
 
 [^f00002]: Footnote: [2006 c.28](https://www.legislation.gov.uk/ukpga/2006/28).
 
+[^c-6951645d5774d0d17e356f2d97ed40ad]: Commencement: Reg. 1 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-e34ffe49c6958285a8ebf4e71c62dad0]: Commencement: Reg. 2 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00003]: Footnote: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49).
 
 [^f00004]: Footnote: [S.I. 1986/975](https://www.legislation.gov.uk/uksi/1986/975).
@@ -519,62 +529,134 @@ An Impact Assessment has not been produced for this Instrument as it has no impa
 
 [^f00011]: Footnote: [S.I. 2008/1209](https://www.legislation.gov.uk/uksi/2008/1209).
 
+[^c-a359d1196dec5f0e69ab1c05a1f93f40]: Commencement: Reg. 3 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-010ae62975229ec871dcf097534aa2a3]: Commencement: Reg. 4 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00012]: Footnote: Paragraphs 8A to 8C were inserted by [S.I. 1996/705](https://www.legislation.gov.uk/uksi/1996/705) and amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/1550](https://www.legislation.gov.uk/uksi/2006/1550).
+
+[^c-9b536607b9640f5ba1fb73fdb119bbfb]: Commencement: Reg. 5 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-457002b27c2b88b640493c113f0e8cdc]: Commencement: Reg. 6 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00013]: Footnote: Regulation 12(2) was amended by [S.I. 1996/705](https://www.legislation.gov.uk/uksi/1996/705), [2001/3739](https://www.legislation.gov.uk/uksi/2001/3739) and [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 
+[^c-c48e13f334d623bbf1eaa478a9dc0835]: Commencement: Reg. 7 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-f788e05258e5e430e7baa2ff53289d08]: Commencement: Reg. 8 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00014]: Footnote: Regulation 16 was amended by [S.I. 1996/705](https://www.legislation.gov.uk/uksi/1996/705), [2001/414](https://www.legislation.gov.uk/uksi/2001/414) and [3739](https://www.legislation.gov.uk/uksi/2001/3739) and [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 
+[^c-88d98d64499b33287643422e0bc759d1]: Commencement: Reg. 9 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00015]: Footnote: Paragraph 6 was substituted by [S.I. 2001/414](https://www.legislation.gov.uk/uksi/2001/414) and amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2005/480](https://www.legislation.gov.uk/uksi/2005/480).
+
+[^c-4a78bec02d83ae49e98b944abc9b8177]: Commencement: Reg. 10 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 1992/664](https://www.legislation.gov.uk/uksi/1992/664) was amended by [S.I. 1996/703](https://www.legislation.gov.uk/uksi/1996/703), [1998/674](https://www.legislation.gov.uk/uksi/1998/674), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [2004/865](https://www.legislation.gov.uk/uksi/2004/865), [2005/641](https://www.legislation.gov.uk/uksi/2005/641) and [2006/562](https://www.legislation.gov.uk/uksi/2006/562).
 
 [^f00017]: Footnote: [S.I. 2004/585](https://www.legislation.gov.uk/uksi/2004/585); as amended by [S.I. 2004/2694](https://www.legislation.gov.uk/uksi/2004/2694), [2005/502](https://www.legislation.gov.uk/uksi/2005/502), [893](https://www.legislation.gov.uk/uksi/2005/893) and [3491](https://www.legislation.gov.uk/uksi/2005/3491), [S.I. 2006/835](https://www.legislation.gov.uk/uksi/2006/835), [1914](https://www.legislation.gov.uk/uksi/2006/1914) and [3185](https://www.legislation.gov.uk/uksi/2006/3185) and [S.I. 2008/1187](https://www.legislation.gov.uk/uksi/2008/1187).
 
+[^c-e4bc68d12aef6ff2f57f1825b1b15754]: Commencement: Reg. 11 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-87a6aca353826e7de340e04bee761479]: Commencement: Reg. 12 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-5d53eb7428019b0afb3c0a4425636266]: Commencement: Reg. 13 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-58f0faccf1ce3c155e29925dbb078196]: Commencement: Reg. 14 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-c6ba5e8598b75269fde7229ef18ff177]: Commencement: Reg. 15 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-3b4a0273a2b250f36a17d8192717da30]: Commencement: Reg. 16 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-64bca3256751c707d27248cd0ed96733]: Commencement: Reg. 17 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00018]: Footnote: [S.I. 2001/3750](https://www.legislation.gov.uk/uksi/2001/3750); relevant amendments are [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/520](https://www.legislation.gov.uk/uksi/2006/520).
+
+[^c-93f220d3e839602780bca6e8a7904d83]: Commencement: Reg. 18 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-143388e3185c34692248200743469578]: Commencement: Reg. 19 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
+[^c-2ba8e7d11e06933f909b85937ab19c03]: Commencement: Sch. 1 para. 1 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 1989/1230](https://www.legislation.gov.uk/uksi/1989/1230); paragraph (3) was inserted by [S.I. 2005/480](https://www.legislation.gov.uk/uksi/2005/480) and amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
 [^f00020]: Footnote: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185).
 
+[^c-f56e439dddfd85cea8fe3c606f225c16]: Commencement: Sch. 1 para. 2 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00021]: Footnote: [S.I. 1990/2024](https://www.legislation.gov.uk/uksi/1990/2024); relevant amendments are [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [S.I. 2006/562](https://www.legislation.gov.uk/uksi/2006/562).
+
+[^c-9347c7a9823142233ac2ffbfbd1c4d4b]: Commencement: Sch. 1 para. 3 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00022]: Footnote: [S.I. 1992/664](https://www.legislation.gov.uk/uksi/1992/664); relevant amendments are [S.I. 1996/703](https://www.legislation.gov.uk/uksi/1996/703), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2004/865](https://www.legislation.gov.uk/uksi/2004/865), [2005/641](https://www.legislation.gov.uk/uksi/2005/641) and [2006/562](https://www.legislation.gov.uk/uksi/2006/562).
 
+[^c-9cec092de08327061960f05d31e6bd12]: Commencement: Sch. 1 para. 4 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00023]: Footnote: [S.I. 1996/707](https://www.legislation.gov.uk/uksi/1996/707). These Regulations (but not the title) were amended, for England, to relate to Strategic Health Authorities by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469). Other relevant amending instruments are [S.I. 1997/2991](https://www.legislation.gov.uk/uksi/1997/2991), [1998/646](https://www.legislation.gov.uk/uksi/1998/646) and [2621](https://www.legislation.gov.uk/uksi/1998/2621), [1999/1901](https://www.legislation.gov.uk/uksi/1999/1901), [2000/696](https://www.legislation.gov.uk/uksi/2000/696) and [2002/556](https://www.legislation.gov.uk/uksi/2002/556), [2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/562](https://www.legislation.gov.uk/uksi/2006/562).
+
+[^c-f361df3e9adf26ab42154af9899f2354]: Commencement: Sch. 1 para. 5 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00024]: Footnote: [S.I. 1999/2337](https://www.legislation.gov.uk/uksi/1999/2337); relevant amending instruments are [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/562](https://www.legislation.gov.uk/uksi/2006/562).
 
+[^c-ea52c73f7f81cf5a3750b378509f38ec]: Commencement: Sch. 1 para. 6 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00025]: Footnote: [S.I. 2000/89](https://www.legislation.gov.uk/uksi/2000/89); relevant amending instruments are [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2861](https://www.legislation.gov.uk/uksi/2002/2861), [2003/1616](https://www.legislation.gov.uk/uksi/2003/1616), [2004/696](https://www.legislation.gov.uk/uksi/2004/696), [865](https://www.legislation.gov.uk/uksi/2004/865) and [1771](https://www.legislation.gov.uk/uksi/2004/1771), [2005/1622](https://www.legislation.gov.uk/uksi/2005/1622) and [2006/1162](https://www.legislation.gov.uk/uksi/2006/1162).
+
+[^c-5bf4bbecf62475132e8b07f93bcc3cda]: Commencement: Sch. 1 para. 7 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 2000/620](https://www.legislation.gov.uk/uksi/2000/620); relevant amending instruments are [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/520](https://www.legislation.gov.uk/uksi/2006/520).
 
+[^c-0997818d49b3d123249225b956ff05d4]: Commencement: Sch. 1 para. 8 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00027]: Footnote: [S.I. 2001/3750](https://www.legislation.gov.uk/uksi/2001/3750); relevant amendments are [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/520](https://www.legislation.gov.uk/uksi/2006/520).
+
+[^c-7fc1e1248b3e2409316f0524b4ed9300]: Commencement: Sch. 1 para. 9 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00028]: Footnote: [S.I. 2002/2375](https://www.legislation.gov.uk/uksi/2002/2375); relevant amendments are [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/520](https://www.legislation.gov.uk/uksi/2006/520).
 
+[^c-14ec2441b1005377a09f075da819b522]: Commencement: Sch. 1 para. 10 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00029]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); regulation 3(1A) was inserted by [S.I. 2008/571](https://www.legislation.gov.uk/uksi/2008/571).
+
+[^c-1c615c2dfa1381a5a7922f122a7a9e5b]: Commencement: Sch. 1 para. 11 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 2004/1768](https://www.legislation.gov.uk/uksi/2004/1768); relevant amendment is [S.I. 2006/562](https://www.legislation.gov.uk/uksi/2006/562).
 
 [^f00031]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
+[^c-7f0ede313b01c2d69afbbfe4d7e18c9d]: Commencement: Sch. 1 para. 12 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00032]: Footnote: [S.I. 2004/291](https://www.legislation.gov.uk/uksi/2004/291).
 
+[^c-f857cc9d912f9e10f88986226534efea]: Commencement: Sch. 1 para. 13 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00033]: Footnote: [S.I. 2004/627](https://www.legislation.gov.uk/uksi/2004/627).
+
+[^c-922c17cf42469d02e4588544f71c7f59]: Commencement: Sch. 1 para. 14 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 2004/585](https://www.legislation.gov.uk/uksi/2004/585); regulation 34 was added by [S.I. 2008/1187](https://www.legislation.gov.uk/uksi/2008/1187).
 
 [^f00035]: Footnote: Section 8B of the Opticians Act [1989 (c. 44)](https://www.legislation.gov.uk/ukpga/1989/44) was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
+[^c-f91aec79de254525ceca8d7c4fa1281f]: Commencement: Sch. 1 para. 15 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00036]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361).
 
+[^c-bf1fe531f656a468f46ec3c60218b3a2]: Commencement: Sch. 1 para. 16 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00037]: Footnote: [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552).
+
+[^c-ea294204f0318ca114959ea16cdcbcc0]: Commencement: Sch. 1 para. 17 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
 
 [^f00038]: Footnote: [S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186).
 
 [^f00039]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382);. regulation 8 was amended by [S.I. 2005/578](https://www.legislation.gov.uk/uksi/2005/578).
 
+[^c-27ef455a29addafdd115e3add994af5a]: Commencement: Sch. 1 para. 18 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)
+
 [^f00040]: Footnote: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185).
 
 [^f00041]: Footnote: Section 8B of the Opticians Act [1989 (c. 44)](https://www.legislation.gov.uk/ukpga/1989/44) was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
+
+[^c-62998236ed822eed3b6819e44f9bb2f8]: Commencement: Sch. 2 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/1)

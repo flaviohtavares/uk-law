@@ -3,16 +3,16 @@ title: The Social Security (Child Benefit Disregard) Regulations 2008
 id: uksi/2008/3140
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-05'
-text_date: null
-extent: null
+text_date: '2008-12-05'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/3140
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3140/pdfs/uksiem_20083140_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3140/pdfs/uksi_20083140_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3140/made/data.pdf
-pending_changes: 4
+- http://www.legislation.gov.uk/uksi/2008/3140/data.pdf
+pending_changes: 9
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Social Security (Child Benefit Disregard) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (9).** Text as at 2008-12-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3140
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2008 No. 3140
 
@@ -46,7 +52,7 @@ The Social Security Advisory Committee[^f00003] has agreed that the proposals in
 
 In respect of the provisions in these Regulations relating to housing benefit and council tax benefit, the Secretary of State has consulted the organisations appearing to him to be representative of the authorities concerned[^f00004].
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-b01bba428175c2fcff3d64fd5f01d986]
 
 (1) These Regulations may be cited as the Social Security (Child Benefit Disregard) Regulations 2008.
 
@@ -58,7 +64,7 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 (5) In paragraph (4), the reference to regulation 80 means regulation 80 of the Housing Benefit Regulations 2006 as in force immediately before 1st April 2008 and as substituted by regulation 16 of the Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007[^f00010].
 
-## 2. Amendment of the Income Support (General) Regulations 1987
+## 2. Amendment of the Income Support (General) Regulations 1987[^c-554c855a2db35aecf48ae311c150728e]
 
 (1) The Income Support (General) Regulations 1987 are amended as follows.
 
@@ -78,7 +84,7 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations 1996
+## 3. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-8f7945a2d30529b91fee75197ef857c3]
 
 (1) The Jobseeker’s Allowance Regulations 1996 are amended as follows.
 
@@ -98,7 +104,7 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 .
 
-## 4. Amendment of the Housing Benefit Regulations 2006
+## 4. Amendment of the Housing Benefit Regulations 2006[^c-33c8967c15baeaab92a743e086c8146a]
 
 (1) The Housing Benefit Regulations 2006 are amended as follows.
 
@@ -116,7 +122,7 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 .
 
-## 5. Amendment of the Council Tax Benefit Regulations 2006
+## 5. Amendment of the Council Tax Benefit Regulations 2006[^c-80fd2888a435737da00ab23e25dda612]
 
 (1) The Council Tax Benefit Regulations 2006 are amended as follows.
 
@@ -164,6 +170,8 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00004]: Footnote: *See* section 176(1) of the Social Security Administration Act 1992 as amended by section 103 of, and paragraph 23 of Schedule 9 to, the Local Government Finance Act 1992.
 
+[^c-b01bba428175c2fcff3d64fd5f01d986]: Commencement: Reg. 1 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
+
 [^f00005]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
 [^f00006]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
@@ -176,10 +184,18 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00010]: Footnote: [S.I. 2007/2868](https://www.legislation.gov.uk/uksi/2007/2868).
 
+[^c-554c855a2db35aecf48ae311c150728e]: Commencement: Reg. 2 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
+
 [^f00011]: Footnote: Paragraph 5B was inserted by [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455).
 
 [^f00012]: Footnote: [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455).
 
 [^f00013]: Footnote: [S.I. 2006/965](https://www.legislation.gov.uk/uksi/2006/965). Regulation 2 was amended by [S.I. 2008/797](https://www.legislation.gov.uk/uksi/2008/797).
 
+[^c-8f7945a2d30529b91fee75197ef857c3]: Commencement: Reg. 3 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
+
 [^f00014]: Footnote: Paragraph 6B was inserted by [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455).
+
+[^c-33c8967c15baeaab92a743e086c8146a]: Commencement: Reg. 4 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)
+
+[^c-80fd2888a435737da00ab23e25dda612]: Commencement: Reg. 5 in force at 5.1.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3140/regulation/1/2)

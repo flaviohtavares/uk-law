@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2002-07-24'
-text_date: '2026-10-29'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2002/30
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2002/30/pdfs/ukpga_20020030_en.pdf
 - http://www.legislation.gov.uk/ukpga/2002/30/data.pdf
-pending_changes: 17
+pending_changes: 14
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Police Reform Act 2002
 
-> **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

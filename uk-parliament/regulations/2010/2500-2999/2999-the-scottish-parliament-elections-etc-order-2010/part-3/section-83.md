@@ -1,34 +1,29 @@
 ---
-title: The Scottish Parliament (Elections etc.) Order 2010, section 83
-act: The Scottish Parliament (Elections etc.) Order 2010
+title: The Scottish Parliament (Elections etc. ) Order 2010, section 83
+act: The Scottish Parliament (Elections etc. ) Order 2010
 section: '83'
-status: revised-with-pending-changes
-text_date: '2015-07-01'
+status: repealed
+text_date: '2020-12-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/2999/section/83
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
-# The Scottish Parliament (Elections etc.) Order 2010, section 83
+# The Scottish Parliament (Elections etc. ) Order 2010, section 83
 
-> **Warning: changes not yet applied to this text (4).** Text as at 2015-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2999
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Computation of time for purposes of Part 3[^c-0db1156b924c26fc266e49628150f0b6]
+## 83. Computation of time for purposes of Part 3[^c-930e730efe491d6003111fad250ef582]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the day or last day on which anything is required or permitted to be done by or in pursuance of this Part is any of the days mentioned in paragraph (2)—
+**No longer in force.**
 
-- (a) the requirement or permission shall be deemed to relate to the first day thereafter which is not one of those days; and
-- (b) in computing any period of not more than seven days for the purposes of this Part any of the days so mentioned shall be disregarded.
-
-(2) The days referred to in paragraph (1) are a Saturday, Sunday, Christmas Eve, Christmas Day, Good Friday, Easter Monday, a day which is a bank holiday in Scotland under section 1 of the Banking and Financial Dealings Act 1971[^f00051], or a day appointed for public thanksgiving or mourning.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-0db1156b924c26fc266e49628150f0b6]: Commencement: Art. 83 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
-
-[^f00051]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+[^c-930e730efe491d6003111fad250ef582]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2999) revoked (except art. 87 and sch. 2 rule 65) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [sch. para. 2](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/2), [3](https://www.legislation.gov.uk/ssi/2020/426/schedule/paragraph/3) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2), [20(2)](https://www.legislation.gov.uk/ssi/2020/426/article/20/2))

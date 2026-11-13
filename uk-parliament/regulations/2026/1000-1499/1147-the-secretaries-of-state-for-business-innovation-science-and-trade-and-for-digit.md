@@ -1,0 +1,1049 @@
+---
+title: The Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026
+id: uksi/2026/1147
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-11-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/1147
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/1147/pdfs/uksiem_20261147_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/1147/pdfs/uksi_20261147_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/1147/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 1147
+
+MINISTERS OF THE CROWN
+
+The Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026
+
+Made
+
+11th November 2026
+
+Laid before Parliament
+
+12th November 2026
+
+Coming into force
+
+3rd December 2026
+
+At the Court at Buckingham Palace, the 11th day of November 2026
+
+Present,
+
+The King’s Most Excellent Majesty in Council
+
+His Majesty, in exercise of the powers conferred by sections 1 and 2 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of His Privy Council, to order as follows:
+
+## 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026.
+
+(2) This Order comes into force on 3rd December 2026.
+
+(3) Subject to paragraph (4), this Order extends to England and Wales, Scotland and Northern Ireland.
+
+(4) An amendment made by this Order has the same extent as the provision amended.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “**business and trade function**” means any function so far as—
+  - (a) it is transferred by article 4(1), (2)(a) or (4), or
+  - (b) it was entrusted to the Secretary of State for Business and Trade immediately before 21st July 2026 and has before the making of this Order been entrusted to the Secretary of State for Business, Innovation, Science and Trade;
+- “**CMS function**” means any function so far as—
+  - (a) it is transferred by article 6(1), (2), (4)(a), (5)(a), (7)(a) or (8)(a), or
+  - (b) it was entrusted to the Secretary of State for Culture, Media and Sport immediately before 21st July 2026 and has before the making of this Order been entrusted to the Secretary of State for Digital, Culture, Media and Sport;
+- “**CO AI function**” means any function so far as—
+  - (a) it is transferred by article 8, or
+  - (b) it was entrusted to the Secretary of State for Science, Innovation and Technology immediately before 21st July 2026 and has before the making of this Order been entrusted to the Chancellor of the Duchy of Lancaster;
+- “**digital function**” means any function so far as—
+  - (a) it is transferred by article 6(3), (4)(b), (5)(b), (7)(b), (8)(b) or (9), or
+  - (b) it was entrusted to the Secretary of State for Science, Innovation and Technology immediately before 21st July 2026 and has before the making of this Order been entrusted to the Secretary of State for Digital, Culture, Media and Sport;
+- “**national security and investment function**” means any function so far as it was entrusted to the Chancellor of the Duchy of Lancaster immediately before 21st July 2026 and has before the making of this Order been entrusted to the Secretary of State for Business, Innovation, Science and Trade;
+- “**science and innovation function**” means any function so far as—
+  - (a) it is transferred by article 4(2)(b) or (c), or
+  - (b) it was entrusted to the Secretary of State for Science, Innovation and Technology immediately before 21st July 2026 and has before the making of this Order been entrusted to the Secretary of State for Business, Innovation, Science and Trade.
+
+(2) In this Order, “**instrument**” includes Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, licences, authorisations, consents, approvals, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents.
+
+## 3. Incorporation of the Secretary of State for Business, Innovation, Science and Trade
+
+(1) The person who at the coming into force of this Order is the Secretary of State for Business, Innovation, Science and Trade and any successor to that person is by that name a corporation sole.
+
+(2) The corporate seal of the Secretary of State for Business, Innovation, Science and Trade—
+
+- (a) is to be authenticated by the signature of a Secretary of State or a person authorised by a Secretary of State to act in that behalf, and
+- (b) is to be officially and judicially noticed.
+
+(3) Every document purporting to be an instrument made or issued by the Secretary of State for Business, Innovation, Science and Trade and to be—
+
+- (a) sealed with the corporate seal of that Secretary of State authenticated in the manner provided for in paragraph (2), or
+- (b) signed or executed by a person authorised by a Secretary of State to act in that behalf,
+
+is to be received in evidence and to be deemed to be so made or issued without further proof, unless the contrary is shown.
+
+(4) A certificate signed by the Secretary of State for Business, Innovation, Science and Trade that an instrument purporting to be made or issued by—
+
+- (a) the Secretary of State for Business, Innovation, Science and Trade,
+- (b) the Secretary of State for Business and Trade,
+- (c) the Secretary of State for Business, Energy and Industrial Strategy,
+- (d) the Secretary of State for International Trade,
+- (e) the Secretary of State for Business, Innovation and Skills,
+- (f) the Secretary of State for Business, Enterprise and Regulatory Reform, or
+- (g) the Secretary of State for Trade and Industry,
+
+was so made or issued is conclusive evidence of that fact.
+
+(5) The Documentary Evidence Act 1868[^f00002] applies in relation to the Secretary of State for Business, Innovation, Science and Trade—
+
+- (a) as if references to regulations and orders included references to any document, and
+- (b) as if the officers mentioned in column 2 of the Schedule included any officer authorised to act on behalf of the Secretary of State.
+
+## 4. Transfer of functions to the Secretary of State for Business, Innovation, Science and Trade
+
+(1) There are transferred to the Secretary of State for Business, Innovation, Science and Trade the functions of the Secretary of State for Business and Trade under section 71 of the Serious Organised Crime and Police Act 2005[^f00003] (offer of immunity from prosecution).
+
+(2) There are transferred to the Secretary of State for Business, Innovation, Science and Trade—
+
+- (a) the functions of the Secretary of State for Business and Trade under the following provisions of the Digital Economy Act 2017[^f00004]—
+  - (i) section 35(1) (disclosure of information to improve public service delivery);
+  - (ii) section 48(1) (disclosure of information to reduce debt owed to the public sector);
+  - (iii) section 56(1) (disclosure of information to combat fraud against the public sector),
+- (b) the functions of the Secretary of State for Science, Innovation and Technology under the following provisions of that Act, so far as those functions relate to a relevant science and innovation function—
+  - (i) section 35(1);
+  - (ii) section 56(1), and
+- (c) the functions of the Secretary of State for Science, Innovation and Technology under section 48(1) of that Act.
+
+(3) In paragraph (2) “**relevant science and innovation function**” means a function falling within paragraph (b) of the definition of science and innovation function in article 2.
+
+(4) There are transferred to the Secretary of State for Business, Innovation, Science and Trade—
+
+- (a) the functions of the Secretary of State for Business and Trade under section 306 of the Planning (Wales) Act 2026 (operational land of universal postal service providers)[^f00005], and
+- (b) the functions of the Secretary of State for Business and Trade under that Act that are exercisable due to the Secretary of State being the appropriate Minister by virtue of section 308(1)(d) of that Act.
+
+## 5. Supplementary provisions in relation to the Secretary of State for Business, Innovation, Science and Trade
+
+(1) There are transferred to the Secretary of State for Business, Innovation, Science and Trade—
+
+- (a) all property, rights and liabilities to which the Secretary of State for Business and Trade is entitled or subject at the coming into force of this Order in connection with any business and trade function,
+- (b) all property, rights and liabilities to which the Secretary of State for Science, Innovation and Technology is entitled or subject at the coming into force of this Order in connection with any science and innovation function, and
+- (c) all property, rights and liabilities to which the Chancellor of the Duchy of Lancaster is entitled or subject at the coming into force of this Order in connection with any national security and investment function.
+
+(2) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to—
+
+- (a) the Secretary of State for Business and Trade, so far as it relates to a business and trade function or anything transferred by paragraph (1)(a),
+- (b) the Secretary of State for Science, Innovation and Technology, so far as it relates to a science and innovation function or anything transferred by paragraph (1)(b), or
+- (c) the Chancellor of the Duchy of Lancaster, so far as it relates to a national security and investment function or anything transferred by paragraph (1)(c),
+
+may be continued by or in relation to the Secretary of State for Business, Innovation, Science and Trade.
+
+(3) Anything done (or having effect as if done) by or in relation to—
+
+- (a) the Secretary of State for Business and Trade in connection with a business and trade function or anything transferred by paragraph (1)(a),
+- (b) the Secretary of State for Science, Innovation and Technology in connection with a science and innovation function or anything transferred by paragraph (1)(b), or
+- (c) the Chancellor of the Duchy of Lancaster in connection with a national security and investment function or anything transferred by paragraph (1)(c),
+
+has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Secretary of State for Business, Innovation, Science and Trade.
+
+(4) Documents or forms printed for use in connection with a business and trade function may be used in connection with that function even though they contain, or are to be read as containing, references to the Secretary of State for Business and Trade; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Secretary of State for Business, Innovation, Science and Trade.
+
+(5) Documents or forms printed for use in connection with a science and innovation function may be used in connection with that function even though they contain, or are to be read as containing, references to the Secretary of State for Science, Innovation and Technology; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Secretary of State for Business, Innovation, Science and Trade.
+
+(6) Documents or forms printed for use in connection with a national security and investment function may be used in connection with that function even though they contain, or are to be read as containing, references to the Chancellor of the Duchy of Lancaster; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Secretary of State for Business, Innovation, Science and Trade.
+
+(7) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the transfer or entrusting to the Secretary of State for Business, Innovation, Science and Trade of any business and trade function, or
+- (b) the transfer of anything by paragraph (1)(a),
+
+as if references to (and references which are to be read as references to) the Secretary of State for Business and Trade were or included references to the Secretary of State for Business, Innovation, Science and Trade.
+
+(8) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the transfer or entrusting to the Secretary of State for Business, Innovation, Science and Trade of any science and innovation function, or
+- (b) the transfer of anything by paragraph (1)(b),
+
+as if references to (and references which are to be read as references to) the Secretary of State for Science, Innovation and Technology were or included references to the Secretary of State for Business, Innovation, Science and Trade.
+
+(9) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the entrusting to the Secretary of State for Business, Innovation, Science and Trade of any national security and investment function, or
+- (b) the transfer of anything by paragraph (1)(c),
+
+as if references to (and references which are to be read as references to) the Chancellor of the Duchy of Lancaster were or included references to the Secretary of State for Business, Innovation, Science and Trade.
+
+(10) In paragraphs (2), (3), (4), (5), (7) and (8) references to the Secretary of State for Business and Trade or to the Secretary of State for Science, Innovation and Technology include references to the department or an officer of that Secretary of State; and references to the Secretary of State for Business, Innovation, Science and Trade are to be read accordingly.
+
+(11) In paragraphs (2), (3), (6) and (9)—
+
+- (a) references to the Chancellor of the Duchy of Lancaster include references to the Cabinet Office or an officer in that Office, and
+- (b) references to the Secretary of State for Business, Innovation, Science and Trade are to be read accordingly.
+
+## 6. Transfer of functions to the Secretary of State for Digital, Culture, Media and Sport
+
+(1) There are transferred to the Secretary of State for Digital, Culture, Media and Sport the functions of the Secretary of State for Culture, Media and Sport under the Schedule to the Imperial War Museum Act 1920[^f00006] (constitution and proceedings of the board of trustees).
+
+(2) There are transferred to the Secretary of State for Digital, Culture, Media and Sport the functions of the Secretary of State for Culture, Media and Sport under paragraph 5(4) of Schedule 7 to the Channel Tunnel Rail Link Act 1996[^f00007] (disputes about ancient monuments) that are exercisable due to the Secretary of State being an appropriate Minister by virtue of paragraph 5(5) of that Schedule.
+
+(3) There are transferred to the Secretary of State for Digital, Culture, Media and Sport—
+
+- (a) the functions of the Secretary of State for Science, Innovation and Technology under Schedule 4 to the Housing and Regeneration Act 2008[^f00008] (powers in relation to, and for, statutory undertakers) that are exercisable due to the Secretary of State being an appropriate Minister by virtue of paragraph 8(4)(b) or 15(2)(b) of that Schedule, and
+- (b) the functions of the Secretary of State for Science, Innovation and Technology under paragraph 40(1)(b) of that Schedule.
+
+(4) There are transferred to the Secretary of State for Digital, Culture, Media and Sport—
+
+- (a) the functions of the Secretary of State for Culture, Media and Sport under paragraph 5(4) of Schedule 9 to the Crossrail Act 2008[^f00009] (disputes about ancient monuments) that are exercisable due to the Secretary of State being an appropriate Minister by virtue of paragraph 5(5) of that Schedule, and
+- (b) the functions of the Secretary of State for Science, Innovation and Technology under paragraph 6 of Part 4 of Schedule 17 to that Act (protection of electronic communications code networks) that are exercisable due to the Secretary of State being an appropriate Minister by virtue of paragraph 6(3) of that Part of that Schedule.
+
+(5) There are transferred to the Secretary of State for Digital, Culture, Media and Sport—
+
+- (a) the functions of the Secretary of State for Culture, Media and Sport under the following provisions of the Digital Economy Act 2017[^f00010], so far as those functions relate to a relevant CMS function—
+  - (i) section 35(1) (disclosure of information to improve public service delivery);
+  - (ii) section 56(1) (disclosure of information to combat fraud against the public sector), and
+- (b) the functions of the Secretary of State for Science, Innovation and Technology under the following provisions of that Act, so far as those functions relate to a relevant digital function—
+  - (i) section 35(1);
+  - (ii) section 56(1).
+
+(6) In paragraph (5)—
+
+- “**relevant CMS function**” means—
+  - (a) a function falling within paragraph (b) of the definition of CMS function in article 2, or
+  - (b) a function transferred by paragraph (1), (2), (4)(a), (7)(a) or (8)(a);
+- “**relevant digital function**” means—
+  - (a) a function falling within paragraph (b) of the definition of digital function in article 2, or
+  - (b) a function transferred by paragraph (3), (4)(b), (7)(b), (8)(b) or (9).
+
+(7) There are transferred to the Secretary of State for Digital, Culture, Media and Sport—
+
+- (a) the functions of the Secretary of State for Culture, Media and Sport under paragraph 2(4) of Schedule 19 to the High Speed Rail (London - West Midlands) Act 2017[^f00011] (disputes about ancient monuments), and
+- (b) the functions of the Secretary of State for Science, Innovation and Technology under Part 3 of Schedule 33 to that Act (protective provisions: electronic communications code networks) that are exercisable due to the Secretary of State being an appropriate Minister by virtue of paragraph 32(2) of that Schedule.
+
+(8) There are transferred to the Secretary of State for Digital, Culture, Media and Sport—
+
+- (a) the functions of the Secretary of State for Culture, Media and Sport under paragraph 2(4) of Schedule 19 to the High Speed Rail (West Midlands - Crewe) Act 2021[^f00012] (disputes about ancient monuments), and
+- (b) the functions of the Secretary of State for Science, Innovation and Technology under Part 3 of Schedule 32 to that Act (protective provisions: electronic communications code networks) that are exercisable due to the Secretary of State being an appropriate Minister by virtue of paragraph 32(2) of that Schedule.
+
+(9) There are transferred to the Secretary of State for Digital, Culture, Media and Sport—
+
+- (a) the functions of the Secretary of State for Science, Innovation and Technology under section 315(3) and (4) of, and Part 1 of Schedule 18 to, the Planning (Wales) Act 2026 (removal notices: withdrawal or taking effect)[^f00013] that are exercisable due to the Secretary of State being the appropriate Minister by virtue of section 315(8) of that Act, and
+- (b) the functions of the Secretary of State for Science, Innovation and Technology under section 316(7) (powers of statutory undertakers or network operators to enter land to remove or re-site apparatus) of that Act that are exercisable due to the Secretary of State being the appropriate Minister by virtue of section 316(9) of that Act.
+
+## 7. Supplementary provisions in relation to the Secretary of State for Digital, Culture, Media and Sport
+
+(1) There are transferred to the Secretary of State for Digital, Culture, Media and Sport—
+
+- (a) all property, rights and liabilities to which the Secretary of State for Culture, Media and Sport is entitled or subject at the coming into force of this Order, and
+- (b) all property, rights and liabilities to which the Secretary of State for Science, Innovation and Technology is entitled or subject at the coming into force of this Order in connection with any digital function.
+
+(2) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to—
+
+- (a) the Secretary of State for Culture, Media and Sport, or
+- (b) the Secretary of State for Science, Innovation and Technology, so far as it relates to a digital function or anything transferred by paragraph (1)(b),
+
+may be continued by or in relation to the Secretary of State for Digital, Culture, Media and Sport.
+
+(3) Anything done (or having effect as if done) by or in relation to—
+
+- (a) the Secretary of State for Culture, Media and Sport, or
+- (b) the Secretary of State for Science, Innovation and Technology in connection with a digital function or anything transferred by paragraph (1)(b),
+
+has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Secretary of State for Digital, Culture, Media and Sport.
+
+(4) Documents or forms printed for use in connection with a CMS function may be used in connection with that function even though they contain, or are to be read as containing, references to the Secretary of State for Culture, Media and Sport; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Secretary of State for Digital, Culture, Media and Sport.
+
+(5) Documents or forms printed for use in connection with a digital function may be used in connection with that function even though they contain, or are to be read as containing, references to the Secretary of State for Science, Innovation and Technology; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Secretary of State for Digital, Culture, Media and Sport.
+
+(6) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the transfer or entrusting to the Secretary of State for Digital, Culture, Media and Sport of any CMS function, or
+- (b) the transfer of anything by paragraph (1)(a),
+
+as if references to (and references which are to be read as references to) the Secretary of State for Culture, Media and Sport were or included references to the Secretary of State for Digital, Culture, Media and Sport.
+
+(7) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the transfer or entrusting to the Secretary of State for Digital, Culture, Media and Sport of any digital function, or
+- (b) the transfer of anything by paragraph (1)(b),
+
+as if references to (and references which are to be read as references to) the Secretary of State for Science, Innovation and Technology were or included references to the Secretary of State for Digital, Culture, Media and Sport.
+
+(8) In paragraphs (2) to (7), references to the Secretary of State for Culture, Media and Sport or to the Secretary of State for Science, Innovation and Technology include references to the department or an officer of that Secretary of State; and references to the Secretary of State for Digital, Culture, Media and Sport are to be read accordingly.
+
+## 8. Transfer of functions to the Chancellor of the Duchy of Lancaster
+
+(1) There are transferred to the Chancellor of the Duchy of Lancaster the functions of the Secretary of State for Science, Innovation and Technology under sections 35(1) and 56(1) of the Digital Economy Act 2017[^f00014] (disclosures of information to improve public service delivery and combat public sector fraud), so far as those functions relate to a relevant CO AI function.
+
+(2) In paragraph (1) “**relevant CO AI function**” means a function falling within paragraph (b) of the definition of CO AI function in article 2.
+
+## 9. Supplementary provisions in relation to the Chancellor of the Duchy of Lancaster
+
+(1) There are transferred to the Chancellor of the Duchy of Lancaster all property, rights and liabilities to which the Secretary of State for Science, Innovation and Technology is entitled or subject at the coming into force of this Order in connection with any CO AI function.
+
+(2) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Secretary of State for Science, Innovation and Technology, so far as it relates to a CO AI function or anything transferred by paragraph (1), may be continued by or in relation to the Chancellor of the Duchy of Lancaster.
+
+(3) Anything done (or having effect as if done) by or in relation to the Secretary of State for Science, Innovation and Technology in connection with a CO AI function or anything transferred by paragraph (1) has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Chancellor of the Duchy of Lancaster.
+
+(4) Documents or forms printed for use in connection with a CO AI function may be used in connection with that function even though they contain, or are to be read as containing, references to the Secretary of State for Science, Innovation and Technology; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Chancellor of the Duchy of Lancaster.
+
+(5) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as is necessary for the purposes of or in consequence of—
+
+- (a) the transfer or entrusting to the Chancellor of the Duchy of Lancaster of any CO AI function, or
+- (b) the transfer of anything by paragraph (1),
+
+as if references to (and references which are to be read as references to) the Secretary of State for Science, Innovation and Technology were or included references to the Chancellor of the Duchy of Lancaster.
+
+(6) In paragraphs (2) to (5)—
+
+- (a) references to the Secretary of State for Science, Innovation and Technology include the department or an officer of that Secretary of State; and
+- (b) references to the Chancellor of the Duchy of Lancaster include references to the Cabinet Office or an officer in that Office accordingly.
+
+## 10. Supplementary: validity of things done before coming into force of this Order
+
+(1) This Order does not affect the validity of anything done (or having effect as if done) by or in relation to—
+
+- (a) the Secretary of State for Business and Trade,
+- (b) the Secretary of State for Science, Innovation and Technology,
+- (c) the Secretary of State for Culture, Media and Sport, or
+- (d) the Chancellor of the Duchy of Lancaster,
+
+before the coming into force of this Order.
+
+(2) In paragraph (1)—
+
+- (a) references to a Secretary of State include the department or an officer of that Secretary of State, and
+- (b) the reference to the Chancellor of the Duchy of Lancaster includes the Cabinet Office or an officer in that Office.
+
+## 11. Consequential amendments
+
+The Schedule has effect.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+## Schedule — Consequential amendments
+
+Article 11
+
+### Part 1 — Primary legislation
+
+#### 1. Imperial War Museum Act [1920 (c. 16)](https://www.legislation.gov.uk/ukpga/1920/16)
+
+In paragraph 1 of the Schedule to the Imperial War Museum Act 1920 (appointing authorities for Board of Trustees)[^f00015], in the second column of the Table, for “The Secretary of State for Culture, Media and Sport” substitute “The Secretary of State for Digital, Culture, Media and Sport”.
+
+#### 2. Public Records Act [1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51)
+
+In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 1 of the Table at the end of paragraph 3, in the entry for the Meteorological Office, for “Department for Science, Innovation and Technology” substitute “Department for Business, Innovation, Science and Trade”.
+
+#### 3. Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)
+
+In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation)[^f00016]—
+
+- (a) omit “Department for Business and Trade.”, “Department for Culture, Media and Sport.” and “Department for Science, Innovation and Technology.”;
+- (b) at the appropriate places insert—
+
+  > - Department for Business, Innovation, Science and Trade.”;
+  > - “Department for Digital, Culture, Media and Sport.
+
+  .
+
+#### 4. Coinage Act [1971 (c. 24)](https://www.legislation.gov.uk/ukpga/1971/24)
+
+(1) The Coinage Act 1971 is amended as follows.
+
+(2) In section 6(3) (standard trial plates), for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+(3) In section 8(2)(d) (trial of the pyx), for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 5. Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)
+
+In section 114A(2)(a) of the Police and Criminal Evidence Act 1984 (power to apply Act to officers of the Secretary of State etc)[^f00017], for “the Secretary of State for Business and Trade” substitute “the Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 6. Weights and Measures Act [1985 (c. 72)](https://www.legislation.gov.uk/ukpga/1985/72)
+
+(1) The Weights and Measures Act 1985 is amended as follows.
+
+(2) In section 3 (secondary, tertiary and coinage standards)—
+
+- (a) in the heading, for “Department of Trade and Industry” substitute “Department for Business, Innovation, Science and Trade”;
+- (b) in subsections (1) and (5), for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”.
+
+(3) In section 94(1) (interpretation), for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”.
+
+(4) In Part 5 of Schedule 2 (authorised copies of UK primary standards of the yard and pound), in paragraph (e), for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”.
+
+#### 7. Channel Tunnel Rail Link Act [1996 (c. 61)](https://www.legislation.gov.uk/ukpga/1996/61)
+
+In Schedule 7 to the Channel Tunnel Rail Link Act 1996 (heritage), in paragraph 5(5)(a), for “the Secretary of State for Culture, Media and Sport” substitute “the Secretary of State for Digital, Culture, Media and Sport”.
+
+#### 8. Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23)
+
+In Part 1 of Schedule 1 to the Regulation of Investigatory Powers Act 2000 (relevant public authorities)—
+
+- (a) omit paragraphs 15C and 15E;
+- (b) before the italic heading “The Welsh Assembly Government” insert—
+
+  > **15F.** The Department for Business, Innovation, Science and Trade.
+
+  .
+
+#### 9. Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15)
+
+In section 71 of the Serious Organised Crime and Police Act 2005 (assistance by offender: immunity from prosecution)—
+
+- (a) in subsection (4)(db)[^f00018], for “Secretary of State for Business and Trade” substitute “Secretary of State for Business, Innovation, Science and Trade”;
+- (b) in subsection (6A)[^f00019], in the words before paragraph (a), for “Secretary of State for Business and Trade” substitute “Secretary of State for Business, Innovation, Science and Trade”;
+- (c) in subsection (6C)[^f00020], for “Secretary of State for Business and Trade” substitute “Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 10. Corporate Manslaughter and Corporate Homicide Act [2007 (c. 19)](https://www.legislation.gov.uk/ukpga/2007/19)
+
+In Schedule 1 to the Corporate Manslaughter and Corporate Homicide Act 2007 (list of government departments etc)—
+
+- (a) omit “Department for Business and Trade”, “Department for Culture, Media and Sport” and “Department for Science, Innovation and Technology”;
+- (b) at the appropriate places insert—
+
+  > - Department for Business, Innovation, Science and Trade”;
+  > - “Department for Digital, Culture, Media and Sport
+
+  .
+
+#### 11. Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17)
+
+In Schedule 4 to the Housing and Regeneration Act 2008 (powers in relation to, and for, statutory undertakers), in the following places, for “the Secretary of State for Science, Innovation and Technology” substitute “the Secretary of State for Digital, Culture, Media and Sport”—
+
+- (a) paragraph 8(4)(b);
+- (b) paragraph 15(2)(b);
+- (c) paragraph 40(1)(b).
+
+#### 12. Crossrail Act [2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18)
+
+(1) The Crossrail Act 2008 is amended as follows.
+
+(2) In Schedule 9 (heritage: disapplication and modification of controls), in paragraph 5(5), for “the Secretary of State for Culture, Media and Sport” substitute “the Secretary of State for Digital, Culture, Media and Sport”.
+
+(3) In Part 4 of Schedule 17 (protection of electronic communications code networks), in paragraph 6(3), for “the Secretary of State for Science, Innovation and Technology” substitute “the Secretary of State for Digital, Culture, Media and Sport”.
+
+#### 13. Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25)
+
+In Part 1 of Schedule 4 to the Investigatory Powers Act 2016 (relevant public authorities and designated senior officers etc), in column (1) of the Table, for “**Department for Business and Trade**” (in each place it occurs) substitute “Department for Business, Innovation, Science and Trade”.
+
+#### 14. Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30)
+
+(1) The Digital Economy Act 2017 is amended as follows.
+
+(2) In Part 1 of Schedule 4 (public service delivery: specified persons for the purposes of section 35; UK and English bodies)—
+
+- (a) in paragraph 6 for “Business and Trade, in relation to the Secretary of State’s relevant business functions” substitute “Business, Innovation, Science and Trade, in relation to the Secretary of State’s relevant business functions and relevant science and innovation functions”;
+- (b) in paragraph 9[^f00021], for “Culture, Media and Sport” substitute “Digital, Culture, Media and Sport”;
+- (c) omit paragraph 9B[^f00022];
+- (d) after paragraph 27 insert—
+
+  > **27ZA.** The Chancellor of the Duchy of Lancaster in relation to their relevant CO AI functions.
+
+  ;
+- (e) in paragraph 28A[^f00023]—
+  - (i) after the definition of “relevant business function” insert—
+
+    > - “**relevant CO AI function**” has the meaning given in article 8(2) of the 2026 Transfer of Functions Order;
+    > - “**relevant science and innovation function**” has the meaning given in article 4(3) of the 2026 Transfer of Functions Order;
+
+    ;
+  - (ii) after the definition of “the 2023 Transfer of Functions Order” insert—
+
+    > - “**the 2026 Transfer of Functions Order**” means the Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026 ([S.I. 2026/1147](https://www.legislation.gov.uk/uksi/2026/1147)).
+
+    .
+
+(3) In Part 1 of Schedule 7 (specified persons for the purposes of the debt provisions; UK and English bodies)—
+
+- (a) in paragraph 5, for “Business and Trade, in relation to the Secretary of State’s relevant business functions” substitute “Business, Innovation, Science and Trade, in relation to the Secretary of State’s relevant business functions and relevant SIT functions”;
+- (b) omit paragraph 5B[^f00024].
+
+(4) In Part 1 of Schedule 8 (specified persons for the purposes of the fraud provisions; UK and English bodies)—
+
+- (a) in paragraph 6, for “Business and Trade, in relation to the Secretary of State’s relevant business functions” substitute “Business, Innovation, Science and Trade, in relation to the Secretary of State’s relevant business functions and relevant science and innovation functions”;
+- (b) in paragraph 12[^f00025], for “Culture, Media and Sport” substitute “Digital, Culture, Media and Sport”;
+- (c) omit paragraph 12B[^f00026];
+- (d) before paragraph 13 insert—
+
+  > **12C.** The Chancellor of the Duchy of Lancaster in relation to their relevant CO AI functions.
+
+  ;
+- (e) in paragraph 41A[^f00027]—
+  - (i) after the definition of “relevant business function” insert—
+
+    > - “**relevant CO AI function**” has the meaning given in article 8(2) of the 2026 Transfer of Functions Order;
+    > - “**relevant science and innovation function**” has the meaning given in article 4(3) of the 2026 Transfer of Functions Order;
+
+    ;
+  - (ii) after the definition of “the 2023 Transfer of Functions Order” insert—
+
+    > - “**the 2026 Transfer of Functions Order**” means the Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026 ([S.I. 2026/1147](https://www.legislation.gov.uk/uksi/2026/1147)).
+
+    .
+
+#### 15. High Speed Rail (London - West Midlands) Act [2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7)
+
+(1) The High Speed Rail (London - West Midlands) Act 2017 is amended as follows.
+
+(2) In Schedule 19 (ancient monuments), in paragraph 2(4), for “the Secretary of State for Culture, Media and Sport” substitute “the Secretary of State for Digital, Culture, Media and Sport”.
+
+(3) In Part 3 of Schedule 33 (protective provisions: electronic communications code networks), in paragraph 32(2), in the definition of “the appropriate Ministers”, for “the Secretary of State for Science, Innovation and Technology” substitute “the Secretary of State for Digital, Culture, Media and Sport”.
+
+#### 16. High Speed Rail (West Midlands - Crewe) Act [2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2)
+
+(1) The High Speed Rail (West Midlands - Crewe) Act 2021 is amended as follows.
+
+(2) In Schedule 19 (ancient monuments), in paragraph 2(4), for “the Secretary of State for Culture, Media and Sport” substitute “the Secretary of State for Digital, Culture, Media and Sport”.
+
+(3) In Part 3 of Schedule 32 (protective provisions: electronic communications code networks), in paragraph 32(2), in the definition of “the appropriate Ministers”, for “the Secretary of State for Science, Innovation and Technology” substitute “the Secretary of State for Digital, Culture, Media and Sport”.
+
+#### 17. Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32)
+
+In Part 3 of Schedule 3 to the Police, Crime, Sentencing and Courts Act 2022 (extraction of information from electronic devices; authorised persons in relation to the prevention of crime etc only)—
+
+- (a) for “An officer of the department of the Secretary of State for Business and Trade.” substitute “An officer of the department of the Secretary of State for Business, Innovation, Science and Trade.”;
+- (b) omit “An officer of the department of the Secretary of State for Science, Innovation and Technology.”.
+
+#### 18. British Sign Language Act [2022 (c. 34)](https://www.legislation.gov.uk/ukpga/2022/34)
+
+In the Schedule to the British Sign Language Act 2022 (relevant government departments)—
+
+- (a) in paragraph 3, for “Business and Trade” substitute “Business, Innovation, Science and Trade”;
+- (b) in paragraph 4, for “Culture, Media and Sport” substitute “Digital, Culture, Media and Sport”;
+- (c) omit paragraph 8A.
+
+#### 19. Crime and Policing Act [2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20)
+
+In section 175(1) of the Crime and Policing Act 2026 (interpretation: extraction of online information), in the first and second columns of the table, for “an officer of the department of the Secretary of State for Business and Trade” substitute “an officer of the department of the Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 20. Planning (Wales) Act [2026 (asc 6)](https://www.legislation.gov.uk/asc/2026/6)
+
+(1) The Planning (Wales) Act 2026 is amended as follows.
+
+(2) In the English language text of section 308 (meaning of “**appropriate Minister**”), in subsection (1)(d), for “Secretary of State for Business and Trade” substitute “Secretary of State for Business, Innovation, Science and Trade”.
+
+(3) In the Welsh language text of section 308, in subsection (1)(d), for “Ysgrifennydd Gwladol dros Fusnes a Masnach” substitute “Ysgrifennydd Gwladol dros Fusnes, Arloesi, Gwyddoniaeth a Masnach”.
+
+(4) In the English language text of section 315 (removal notices: withdrawal or taking effect), in subsection (8), for “Secretary of State for Science, Innovation and Technology” substitute “Secretary of State for Digital, Culture, Media and Sport”.
+
+(5) In the Welsh language text of section 315, in subsection (8), for “Ysgrifennydd Gwladol dros Wyddoniaeth, Arloesi a Thechnoleg” substitute “Ysgrifennydd Gwladol dros Dechnoleg Ddigidol, Diwylliant, y Cyfryngau a Chwaraeon”.
+
+(6) In the English language text of section 316 (powers of statutory undertakers or network operators to enter land to remove or re-site apparatus), in subsection (9), for “Secretary of State for Science, Innovation and Technology” substitute “Secretary of State for Digital, Culture, Media and Sport”.
+
+(7) In the Welsh language text of section 316, in subsection (9), for “Ysgrifennydd Gwladol dros Wyddoniaeth, Arloesi a Thechnoleg” substitute “Ysgrifennydd Gwladol dros Dechnoleg Ddigidol, Diwylliant, y Cyfryngau a Chwaraeon”.
+
+(8) In the English language text of section 407 (regulations), in subsection (2), for “Secretary of State for Business and Trade” substitute “Secretary of State for Business, Innovation, Science and Trade”.
+
+(9) In the Welsh language text of section 407, in subsection (2), for “Ysgrifennydd Gwladol dros Fusnes a Masnach” substitute “Ysgrifennydd Gwladol dros Fusnes, Arloesi, Gwyddoniaeth a Masnach”.
+
+### Part 2 — Subordinate legislation
+
+#### 21. Church Commissioners Measure [1947 (No. 2)](https://www.legislation.gov.uk/ukcm/1947/2)
+
+In Schedule 1 to the Church Commissioners Measure 1947 (constitution of the Commissioners), in paragraph 1(a)[^f00028], for “Department for Culture, Media and Sport” substitute “Department for Digital, Culture, Media and Sport”.
+
+#### 22. Housing (Right to Buy) (Service Charges) Order 1986 ([S.I. 1986/2195](https://www.legislation.gov.uk/uksi/1986/2195))
+
+In article 2 of the Housing (Right to Buy) (Service Charges) Order 1986 (interpretation), in the definition of “index figure”[^f00029]—
+
+- (a) for “**DBT**” (in both places it occurs) substitute “DBIST”;
+- (b) for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”.
+
+#### 23. Social Fund Cold Weather Payments (General) Regulations 1988 ([S.I. 1988/1724](https://www.legislation.gov.uk/uksi/1988/1724))
+
+In regulation 1(2) of the Social Fund Cold Weather Payments (General) Regulations 1988 (interpretation), in the definition of “the Met Office”[^f00030], for “Department for Science, Innovation and Technology” substitute “Department for Business, Innovation, Science and Trade”.
+
+#### 24. Planning (Listed Buildings and Conservation Areas) Regulations 1990 ([S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519))
+
+In Schedule 4 to the Planning (Listed Buildings and Conservation Areas) Regulations 1990 (notice that a building has become listed)[^f00031], for “**the Secretary of State for Culture, Media and Sport**” (in each place it occurs) substitute “the Secretary of State for Digital, Culture, Media and Sport”.
+
+#### 25. Patent Office Trading Fund Order 1991 ([S.I. 1991/1796](https://www.legislation.gov.uk/uksi/1991/1796))
+
+(1) The Patent Office Trading Fund Order 1991 is amended as follows.
+
+(2) In article 2 (establishment of the fund) in paragraph (2)[^f00032], for “Department for Science, Innovation and Technology” substitute “Department for Business, Innovation, Science and Trade”.
+
+(3) In article 3 (source of loans), for “The Secretary of State for Science, Innovation and Technology” substitute “The Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 26. Bail (Amendment) Act 1993 (Prescription of Prosecuting Authorities) Order 1994 ([S.I. 1994/1438](https://www.legislation.gov.uk/uksi/1994/1438))
+
+In the Schedule to the Bail (Amendment) Act 1993 (Prescription of Prosecuting Authorities) Order 1994 (prescribed prosecuting authorities), for “The Secretary of State for Business and Trade” substitute “The Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 27. Insolvency Regulations 1994 ([S.I. 1994/2507](https://www.legislation.gov.uk/uksi/1994/2507))
+
+In regulation 3(3) of the Insolvency Regulations 1994 (interpretation and application), for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 28. Meteorological Office Trading Fund Order 1996 ([S.I. 1996/774](https://www.legislation.gov.uk/uksi/1996/774))
+
+(1) The Meteorological Office Trading Fund Order 1996 is amended as follows.
+
+(2) In article 3 (source of loans), for “The Secretary of State for Science, Innovation and Technology” substitute “The Secretary of State for Business, Innovation, Science and Trade”.
+
+(3) In Schedule 1 (funded operations), in paragraph (a), for “the Department for Science, Innovation and Technology” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 29. Trial of the Pyx Order 1998 ([S.I. 1998/1764](https://www.legislation.gov.uk/uksi/1998/1764))
+
+In the Trial of the Pyx Order 1998, in the following places, for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”—
+
+- (a) article 4(4) (preliminary arrangements for the trial);
+- (b) article 15(2) (verdict).
+
+#### 30. Building Societies (Business Names) Regulations 1998 ([S.I. 1998/3186](https://www.legislation.gov.uk/uksi/1998/3186))
+
+In the Schedule to the Building Societies (Business Names) Regulations 1998 (specification of words, expressions and relevant bodies), in the entry for Polytechnic, in column (2), for “The Department for Science, Innovation and Technology” substitute “The Department for Business, Innovation, Science and Trade”.
+
+#### 31. Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999 ([S.R. 1999/401](https://www.legislation.gov.uk/nisr/1999/401))
+
+In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^f00033], in column (1), for “Secretary of State for Business and Trade”[^f00034] substitute “Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 32. Northern Ireland Act 1998 (Designation of Public Authorities) Order 2000 ([S.I. 2000/1787](https://www.legislation.gov.uk/uksi/2000/1787))
+
+In the Schedule to the Northern Ireland Act 1998 (Designation of Public Authorities) Order 2000 (designated bodies), for “Department for Culture, Media and Sport” substitute “Department for Digital, Culture, Media and Sport”.
+
+#### 33. Social Security (Contributions) Regulations 2001 ([S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004))
+
+In Part 10 of Schedule 3 to the Social Security (Contributions) Regulations 2001 (miscellaneous payments to be disregarded in calculation of earnings for purposes of earnings-related contributions), for “**the Department for Business and Trade**” (in each place it occurs) substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 34. Railway Administration Order Rules 2001 ([S.I. 2001/3352](https://www.legislation.gov.uk/uksi/2001/3352))
+
+In rule 1.2(1) of the Railway Administration Order Rules 2001 (construction and interpretation), in the definition of “the Department”, for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 35. Police and Criminal Evidence Act 1984 (Department of Trade and Industry Investigations) Order 2002 ([S.I. 2002/2326](https://www.legislation.gov.uk/uksi/2002/2326))
+
+(1) The Police and Criminal Evidence Act 1984 (Department of Trade and Industry Investigations) Order 2002 is amended as follows.
+
+(2) In article 2 (definitions)—
+
+- (a) for “**DBT investigator**” (in both places it occurs) substitute “DBIST investigator”;
+- (b) for “DBT investigation” substitute “DBIST investigation”;
+- (c) for “the Secretary of State for Business and Trade” substitute “the Secretary of State for Business, Innovation, Science and Trade”.
+
+(3) In article 3 (application of certain provisions of the Act to investigations), in paragraph (1)(b) and in the heading, for “DBT investigations” substitute “DBIST investigations”.
+
+(4) In article 4 (modifications)—
+
+- (a) for “**DBT investigator**” (in each place it occurs) substitute “DBIST investigator”;
+- (b) for “**the Secretary of State for Business and Trade**” (in each place it occurs) substitute “the Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 36. Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003 ([S.I. 2003/96](https://www.legislation.gov.uk/uksi/2003/96))
+
+In the Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003, in the following places, for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”—
+
+- (a) regulation 7(4) (publication of details);
+- (b) regulation 12A(2) (notice of a first investment in a CDFI)[^f00035];
+- (c) in regulation 13 (reporting requirements), paragraphs (1) (in both places it occurs) and (4);
+- (d) regulation 15(2)(b)(ii) (withdrawal of accreditation);
+- (e) regulation 16(3)(b) (appeals against refusal to grant accreditation or withdrawal of accreditation).
+
+#### 37. Land Registration Rules 2003 ([S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417))
+
+In Schedule 5 to the Land Registration Rules 2003 (applications in connection with investigation or enforcement proceedings - qualifying applicants)[^f00036], for “the Secretary of State for Business and Trade” substitute “the Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 38. Sustainable Energy (CHP Provisions) Order 2003 ([S.I. 2003/2987](https://www.legislation.gov.uk/uksi/2003/2987))
+
+In the Schedule to the Sustainable Energy (CHP Provisions) Order 2003 (definition of government for purposes of Sustainable Energy Act 2003), in paragraph 10, for “Department for Culture, Media and Sport” substitute “Department for Digital, Culture, Media and Sport”.
+
+#### 39. Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004 ([S.I. 2004/1034](https://www.legislation.gov.uk/uksi/2004/1034))
+
+In article 2(2) of the Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004, for “the Secretary of State for Business and Trade” substitute “the Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 40. Measuring Instruments (EEC Requirements) (Fees) Regulations 2004 ([S.I. 2004/1300](https://www.legislation.gov.uk/uksi/2004/1300))
+
+In paragraph (b) of Schedule 1 to the Measuring Instruments (EEC Requirements) (Fees) Regulations 2004 (calculation of variable fee), for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 41. Damages (Government and Health Service Bodies) Order 2005 ([S.I. 2005/474](https://www.legislation.gov.uk/uksi/2005/474))
+
+In Part 1 of the Schedule to the Damages (Government and Health Service Bodies) Order 2005 (designated government bodies)—
+
+- (a) for “Department for Culture, Media and Sport” substitute “Department for Digital, Culture, Media and Sport”;
+- (b) for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”;
+- (c) omit “Department for Science, Innovation and Technology”.
+
+#### 42. Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006 ([S.I. 2006/1466](https://www.legislation.gov.uk/uksi/2006/1466))
+
+In column (2) of the table in Schedule 5 to the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006 (persons to be served with copy of application etc), in row 8 and row 19, for “Secretary of State for Culture, Media and Sport” substitute “Secretary of State for Digital, Culture, Media and Sport”.
+
+#### 43. Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007 ([S.I. 2007/934](https://www.legislation.gov.uk/uksi/2007/934))
+
+In the Schedule to the Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007, in column 1, for “The Department for Business and Trade” substitute “The Department for Business, Innovation, Science and Trade”.
+
+#### 44. Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007 ([S.I. 2007/2501](https://www.legislation.gov.uk/uksi/2007/2501))
+
+In article 11(g) of the Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007 (disclosure of information by the Commission), for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 45. Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008 ([S.I. 2008/1737](https://www.legislation.gov.uk/uksi/2008/1737))
+
+In article 11(g) of the Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008 (disclosure of information by the Commission), for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 46. Export Control Order 2008 ([S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231))
+
+In the Export Control Order 2008, in the following places, for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”—
+
+- (a) article 33(5) (licence refusals, etc and appeals);
+- (b) article 44 (service of notices).
+
+#### 47. Charities Act 2006 (Principal Regulators of Exempt Charities) Regulations 2010 ([S.I. 2010/501](https://www.legislation.gov.uk/uksi/2010/501))
+
+In regulation 1(2) of the Charities Act 2006 (Principal Regulators of Exempt Charities) Regulations 2010 (interpretation), in the definition of “Culture Secretary”, for “the Secretary of State for Culture, Media and Sport” substitute “the Secretary of State for Digital, Culture, Media and Sport”.
+
+#### 48. Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010 ([S.I. 2010/521](https://www.legislation.gov.uk/uksi/2010/521))
+
+In Part 1 of the Schedule to the Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010 (offices and restrictions etc), in column (1), for “The Department for Business and Trade” substitute “The Department for Business, Innovation, Science and Trade”.
+
+#### 49. Criminal Justice Act 2003 (Commencement No. 26) Order 2011 ([S.I. 2011/2188](https://www.legislation.gov.uk/uksi/2011/2188))
+
+In article 3(b) of the Criminal Justice Act 2003 (Commencement No. 26) Order 2011, for “the Secretary of State for Business and Trade” substitute “the Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 50. Public Interest Disclosure (Prescribed Persons) Order 2014 ([S.I. 2014/2418](https://www.legislation.gov.uk/uksi/2014/2418))
+
+(1) The Schedule to the Public Interest Disclosure (Prescribed Persons) Order 2014 is amended as follows.
+
+(2) In the entry for the Secretary of State for Business and Trade—
+
+- (a) in the first column, for “Secretary of State for Business and Trade” substitute “Secretary of State for Business, Innovation, Science and Trade”;
+- (b) in the second column—
+  - (i) omit the “and” at the end of paragraph (b);
+  - (ii) after paragraph (ba) insert—
+
+    > - (bb) matters relating to fraud and other misconduct related to science and innovation schemes and programmes administered, funded or sponsored by the Department for Business, Innovation, Science and Trade.
+
+    .
+
+(3) Omit the entry for the Secretary of State for Science, Innovation and Technology.
+
+#### 51. Company, Limited Liability Partnership and Business Names (Sensitive Words and Expressions) Regulations 2014 ([S.I. 2014/3140](https://www.legislation.gov.uk/uksi/2014/3140))
+
+In Part 1 of Schedule 2 to the Company, Limited Liability Partnership and Business Names (Sensitive Words and Expressions) Regulations 2014 (list of bodies whose views must be sought), in column (2), for “**Department for Business and Trade**” (in each place it occurs) substitute “Department for Business, Innovation, Science and Trade”.
+
+#### 52. The Immigration and Nationality (Fees) Regulations 2018 ([S.I. 2018/330](https://www.legislation.gov.uk/uksi/2018/330))
+
+(1) The Immigration and Nationality (Fees) Regulations 2018 are amended as follows.
+
+(2) In paragraph 2 of Schedule 1 (applications for entry clearance to enter and leave to enter), in Table 4 (exceptions), in entry 4.13.1[^f00037], for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”.
+
+(3) In paragraph 2 of Schedule 2 (applications for leave to remain), in Table 9 (exceptions), in entry 9.25[^f00038], for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”.
+
+(4) In paragraph 2 of Schedule 3 (documents and administration), in Table 11 (exceptions), in entry 11.6.3[^f00039], for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”.
+
+#### 53. Digital Government (Disclosure of Information) Regulations 2018 ([S.I. 2018/912](https://www.legislation.gov.uk/uksi/2018/912))
+
+(1) Paragraph 1 of the Schedule to the Digital Government (Disclosure of Information) Regulations 2018 (specified objectives in relation to a specified person) is amended as follows.
+
+(2) In sub-paragraph (2)—
+
+- (a) in the words before paragraph (a), after “objective,” insert “but subject to sub-paragraph (3),”;
+- (b) in paragraph (c)(i)—
+  - (i) after “8,” insert “9,”;
+  - (ii) omit “9B,”;
+  - (iii) for “27” substitute “27ZA”.
+
+(3) After sub-paragraph (2) insert—
+
+> (3) In the application, by virtue of sub-paragraph (2)(c), of section 35 of and Schedule 4 to the Act to the Secretary of State for Digital, Culture, Media and Sport, or to a person providing services to that Secretary of State, that Schedule has effect as if it referred to that Secretary of State in relation to their relevant digital functions.
+>
+> (4) In this paragraph—
+>
+> - “**the 2026 Transfer of Functions Order**” means the Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026 ([S.I. 2026/1147](https://www.legislation.gov.uk/uksi/2026/1147));
+> - “**relevant digital functions**” has the meaning given by article 6(6) of the 2026 Transfer of Functions Order.
+
+.
+
+#### 54. Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Order 2021 ([S.S.I. 2021/98](https://www.legislation.gov.uk/ssi/2021/98))
+
+In article 2(1) of the Town and Country Planning (Cairnryan Border Control Posts) (EU Exit) (Scotland) Special Development Order 2021 (interpretation), in paragraph (b) of the definition of “border department”[^f00040] for “Secretary of State for Business and Trade” substitute “Secretary of State for Business, Innovation, Science and Trade”.
+
+#### 55. Proceeds of Crime Act 2002 (References to Financial Investigators) (England and Wales and Northern Ireland) Order 2021 ([S.I. 2021/640](https://www.legislation.gov.uk/uksi/2021/640))
+
+(1) Schedule 1 to the Proceeds of Crime Act 2002 (References to Financial Investigators) (England and Wales and Northern Ireland) Order 2021 (accredited financial investigators)[^f00041] is amended as follows.
+
+(2) Except as set out in sub-paragraph (3), for “**the Department for Business and Trade**” (in each place it occurs) substitute “the Department for Business, Innovation, Science and Trade”.
+
+(3) In Table 3 in Part 3, in column (2) of the entry for sections 303Z41 and 303Z60[^f00042], for “the Department for Business and Trade Strategy” substitute “the Department for Business, Innovation, Science and Trade”.
+
+(4) Omit each paragraph in column (2) of the following Tables that refers to the Department for Science, Innovation and Technology—
+
+- (a) Table 1 in Part 1;
+- (b) Table 3 in Part 3;
+- (c) Table 4 in Part 4;
+- (d) Table 5 in Part 5.
+
+#### 56. Space Industry (Appeals) Regulations 2021 ([S.I. 2021/816](https://www.legislation.gov.uk/uksi/2021/816))
+
+In regulation 2 of the Space Industry (Appeals) Regulations 2021 (interpretation), in the definition of “UKSA”, for “, an executive agency of the Department for Science, Innovation and Technology” substitute “of the Department for Business, Innovation, Science and Trade”.
+
+#### 57. National Security and Investment Act 2021 (Notifiable Acquisition) (Specification of Qualifying Entities) Regulations 2021 ([S.I. 2021/1264](https://www.legislation.gov.uk/uksi/2021/1264))
+
+(1) The Table in paragraph 2 of Schedule 9 to the National Security and Investment Act 2021 (Notifiable Acquisition) (Specification of Qualifying Entities) Regulations 2021 (interpretation — public sector authority) is amended as follows.
+
+(2) For “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”.
+
+(3) Omit the entry for “Department for Science, Innovation and Technology”.
+
+(4) For “Department for Culture, Media and Sport” substitute “Department for Digital, Culture, Media and Sport”.
+
+#### 58. Post Office Horizon Compensation and Infected Blood Interim Compensation Payment Schemes (Tax Exemptions and Relief) Regulations 2023 ([S.I. 2023/184](https://www.legislation.gov.uk/uksi/2023/184))
+
+In regulation 2 of the Post Office Horizon Compensation and Infected Blood Interim Compensation Payment Schemes (Tax Exemptions and Relief) Regulations 2023 (interpretation), in the definition of “Group Litigation Order compensation payment”, for “the Department for Business, Energy and Industrial Strategy or the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 59. Post Office Horizon Shortfall Scheme and Group Litigation Order Compensation Payments (Inheritance Tax Relief) Regulations 2023 ([S.I. 2023/1009](https://www.legislation.gov.uk/uksi/2023/1009))
+
+In regulation 2 of the Post Office Horizon Shortfall Scheme and Group Litigation Order Compensation Payments (Inheritance Tax Relief) Regulations 2023 (interpretation), in the definition of “Group Litigation Order compensation payment”, for “the Department for Business, Energy and Industrial Strategy or the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 60. Digital Government (Disclosure of Information) (Identity Verification Services) Regulations 2024 ([S.I. 2024/64](https://www.legislation.gov.uk/uksi/2024/64))
+
+In the Schedule to the Digital Government (Disclosure of Information) (Identity Verification Services) Regulations 2024 (specified persons in relation to the digital identity verification services objective)—
+
+- (a) in paragraph 6, for “Business and Trade, in relation to the Secretary of State’s relevant business functions” substitute “Business, Innovation, Science and Trade, in relation to the Secretary of State’s relevant business functions and relevant science and innovation functions”;
+- (b) omit paragraph 8;
+- (c) in paragraph 11, for “Culture, Media and Sport” substitute “Digital, Culture, Media and Sport”;
+- (d) after paragraph 20 insert—
+
+  > **20A.** The Chancellor of the Duchy of Lancaster in relation to their relevant CO AI functions.
+
+  .
+
+#### 61. Post Office Compensation Schemes and Victims of Overseas Terrorism Compensation Scheme (Tax Exemptions and Relief) Regulations 2024 ([S.I. 2024/182](https://www.legislation.gov.uk/uksi/2024/182))
+
+In regulation 2 of the Post Office Compensation Schemes and Victims of Overseas Terrorism Compensation Scheme (Tax Exemptions and Relief) Regulations 2024 (interpretation), in the definition of “Group Litigation Order nominated individual compensation payment”, for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 62. Procurement Regulations 2024 ([S.I. 2024/692](https://www.legislation.gov.uk/uksi/2024/692))
+
+(1) In Schedule 2 to the Procurement Regulations 2024 (central government authorities), the Table is amended as follows.
+
+(2) In the entry for the Department for Business and Trade—
+
+- (a) in column (1), for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”;
+- (b) in column (2), at the end insert—
+
+  > - Intellectual Property Office
+  > - Meteorological Office (known as “**Met Office**”)
+  > - UK Research and Innovation
+
+  .
+
+(3) For “Department for Culture, Media and Sport” substitute “Department for Digital, Culture, Media and Sport”.
+
+(4) Omit the entry for the Department for Science, Innovation and Technology.
+
+#### 63. Horizon Convictions Redress Scheme and Horizon Shortfall Scheme Fixed Sum Award (Tax Exemptions and Relief) Regulations 2024 ([S.I. 2024/818](https://www.legislation.gov.uk/uksi/2024/818))
+
+In regulation 2(1) of the Horizon Convictions Redress Scheme and Horizon Shortfall Scheme Fixed Sum Award (Tax Exemptions and Relief) Regulations 2024 (interpretation), in the definition of “Horizon Convictions Redress Scheme compensation payment”, for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 64. Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025 ([S.I. 2025/434](https://www.legislation.gov.uk/uksi/2025/434))
+
+In the Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025, in the following places, for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”—
+
+- (a) regulation 2(1) (interpretation);
+- (b) regulation 3(1) (exemption from income tax);
+- (c) regulation 4(1) (exemption from capital gains tax);
+- (d) regulation 5(1) (relief from inheritance tax);
+- (e) regulation 6(1) (exemption from corporation tax).
+
+#### 65. Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025 ([S.I. 2025/1130](https://www.legislation.gov.uk/uksi/2025/1130))
+
+In the Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025, in the following places, for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”—
+
+- (a) regulation 3(1) (exemption from income tax);
+- (b) regulation 4(1) (exemption from capital gains tax);
+- (c) regulation 5(1) (relief from inheritance tax);
+- (d) regulation 6(1) (exemption from corporation tax).
+
+#### 66. Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2026 ([S.I. 2026/216](https://www.legislation.gov.uk/uksi/2026/216))
+
+(1) The Schedule to the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2026 (designated bodies) is amended as follows.
+
+(2) In Part 8—
+
+- (a) in the heading, for “Department for Culture, Media and Sport” substitute “Department for Digital, Culture, Media and Sport”;
+- (b) at the appropriate places insert—
+
+  > - Information Commission”;
+  > - “Information Commissioner”;
+  > - “Office of the Adjudicator Broadcast Transmission Services Limited”;
+  > - “Office of the Adjudicator Limited”;
+  > - “Office of Communications
+
+  .
+
+(3) Omit Part 9.
+
+(4) In Part 13—
+
+- (a) in the heading, for “Department for Business and Trade” substitute “Department for Business, Innovation, Science and Trade”;
+- (b) at the appropriate places insert—
+
+  > - Advanced Research and Invention Agency”;
+  > - “British Technology Investments Limited”;
+  > - “The Copyright Tribunal”;
+  > - “Council for Science and Technology”;
+  > - “Daresbury SIC (PubSec) LLP”;
+  > - “Diamond Light Source Limited”;
+  > - “Harwell Science and Innovation Campus Public Sector Limited Partnership”;
+  > - “Innovate UK Loans Limited”;
+  > - “Knowledge Transfer Network Limited”;
+  > - “Medical Research Council”;
+  > - “The NESTA Trust”;
+  > - “STFC Innovations Limited”;
+  > - “UK Shared Business Services Limited”;
+  > - “United Kingdom Research and Innovation
+
+  .
+
+#### 67. Horizon Family Members Redress Scheme (Tax Exemptions and Relief) Regulations 2026 ([S.I. 2026/717](https://www.legislation.gov.uk/uksi/2026/717))
+
+In the Horizon Family Members Redress Scheme (Tax Exemptions and Relief) Regulations 2026, in the following places, for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”—
+
+- (a) regulation 3(1) (exemption from income tax);
+- (b) regulation 4(1) (exemption from capital gains tax);
+- (c) regulation 5(1) (relief from inheritance tax).
+
+### Part 3 — Retained EU law
+
+#### 68. Commission Delegated [Regulation (EU) No 664/2014](https://www.legislation.gov.uk/european/regulation/2014/0664) of 18 December 2013 supplementing [Regulation (EU) No 1151/2012](https://www.legislation.gov.uk/european/regulation/2012/1151) of the European Parliament and of the Council with regard to the establishment of the Union symbols for protected designations of origin, protected geographical indications and traditional specialities guaranteed and with regard to certain rules on sourcing, certain procedural rules and certain additional transitional rules
+
+In Article 6 of Commission Delegated [Regulation (EU) 664/2014](https://www.legislation.gov.uk/european/regulation/2014/0664), in the following places, for “the Department for Science, Innovation and Technology” substitute “the Department for Business, Innovation, Science and Trade”—
+
+- (a) paragraph 4(b);
+- (b) paragraph 4e(e)(iii).
+
+#### 69. [Regulation (EU) 2016/793](https://www.legislation.gov.uk/european/regulation/2016/0793) of the European Parliament and of the Council of 11 May 2016 to avoid trade diversion into the European Union of certain key medicines
+
+In Article 4(1) of [Regulation (EU) 2016/793](https://www.legislation.gov.uk/european/regulation/2016/0793) of the European Parliament and of the Council, for “the Department for Business and Trade” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 70. Commission Delegated [Regulation (EU) 2019/33](https://www.legislation.gov.uk/european/regulation/2019/0033) of 17 October 2018 supplementing [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, restrictions of use, amendments to product specifications, cancellation of protection, and labelling and presentation
+
+In Article 14 of Commission Delegated [Regulation (EU) 2019/33](https://www.legislation.gov.uk/european/regulation/2019/0033), in paragraph 2b(b), for “the Department for Science, Innovation and Technology” substitute “the Department for Business, Innovation, Science and Trade”.
+
+#### 71. [Regulation (EU) 2019/787](https://www.legislation.gov.uk/european/regulation/2019/0787) of the European Parliament and of the Council of 17 April 2019 on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, and repealing Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110)
+
+In article 31 of [Regulation (EU) 2019/787](https://www.legislation.gov.uk/european/regulation/2019/0787) of the European Parliament and of the Council, in paragraph 6(b), for “the Department for Science, Innovation and Technology” substitute “the Department for Business, Innovation, Science and Trade”.
+
+Explanatory Note
+
+(This note is not part of the Order in Council)
+
+This Order in Council is made under sections 1 and 2 of the Ministers of the Crown Act [1975 (c. 26)](https://www.legislation.gov.uk/ukpga/1975/26).
+
+Article 3 provides for the incorporation of the Secretary of State for Business, Innovation, Science and Trade, and makes provision about the authentication of the corporate seal and the execution and certification of documents.
+
+Article 4 transfers certain statutory functions to the Secretary of State for Business, Innovation, Science and Trade. Some of these come from the Secretary of State for Business and Trade, and some from the Secretary of State for Science, Innovation and Technology.
+
+Article 5(1) provides for the transfer to the Secretary of State for Business, Innovation, Science and Trade of property, rights and liabilities connected with any business and trade function (from the Secretary of State for Business and Trade), any science and innovation function (from the Secretary of State for Science, Innovation and Technology) and any national security and investment function (from the Chancellor of the Duchy of Lancaster). Paragraphs (2) to (11) of article 5 make supplementary provision, in particular for ensuring continuity in the exercise of these functions and in relation to the property, rights and liabilities transferred.
+
+Article 6 transfers certain statutory functions to the Secretary of State for Digital, Culture, Media and Sport. Some of these come from the Secretary of State for Culture, Media and Sport, and some from the Secretary of State for Science, Innovation and Technology.
+
+Article 7(1) provides for the transfer to the Secretary of State for Digital, Culture, Media and Sport of property, rights and liabilities of the Secretary of State for Culture, Media and Sport and of the Secretary of State for Science, Innovation and Technology in connection with any digital function. Paragraphs (2) to (8) of article 7 make supplementary provision similar to that in article 5(2) to (11).
+
+Article 8 transfers to the Chancellor of the Duchy of Lancaster the functions of the Secretary of State for Science, Innovation and Technology under sections 35(1) and 56(1) of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), so far as those functions relate to certain CO AI functions.
+
+Article 9(1) provides for the transfer from the Secretary of State for Science, Innovation and Technology of property, rights and liabilities connected with any CO AI function to the Chancellor of the Duchy of Lancaster. Paragraphs (2) to (6) of article 9 make supplementary provision similar to that in article 5(2) to (11).
+
+Article 10 makes provision preserving the validity of anything done by or in relation to the Secretary of State for Business and Trade, the Secretary of State for Science, Innovation and Technology, the Secretary of State for Culture, Media and Sport, or the Chancellor of the Duchy of Lancaster before the coming into force of this Order.
+
+Article 11 introduces the Schedule, which makes consequential amendments to Acts of Parliament, secondary legislation and assimilated law.
+
+Nothing in this Order alters the functions of the Welsh Ministers, the Scottish Ministers or the devolved authorities in Northern Ireland.
+
+An impact assessment has not been produced for this Order as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26). Section 1 was amended by section 20 of the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^f00002]: Footnote: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
+
+[^f00003]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15).
+
+[^f00004]: Footnote: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30).
+
+[^f00005]: Footnote: [2026 asc 6](https://www.legislation.gov.uk/asc/2026/6). The power to make regulations under section 306 is exercisable by the Welsh Ministers and the Secretary of State for Business and Trade acting jointly by virtue of section 407(2) of the Act.
+
+[^f00006]: Footnote: [1920 c. 16](https://www.legislation.gov.uk/ukpga/1920/16).
+
+[^f00007]: Footnote: [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61).
+
+[^f00008]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17).
+
+[^f00009]: Footnote: [2008 c. 18](https://www.legislation.gov.uk/ukpga/2008/18).
+
+[^f00010]: Footnote: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30).
+
+[^f00011]: Footnote: [2017 c. 7](https://www.legislation.gov.uk/ukpga/2017/7).
+
+[^f00012]: Footnote: [2021 c. 2](https://www.legislation.gov.uk/ukpga/2021/2).
+
+[^f00013]: Footnote: [2026 asc 6](https://www.legislation.gov.uk/asc/2026/6).
+
+[^f00014]: Footnote: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30).
+
+[^f00015]: Footnote: Paragraph 1 was substituted by [S.I. 1986/2239](https://www.legislation.gov.uk/uksi/1986/2239).
+
+[^f00016]: Footnote: Schedule 2 was substituted by [S.I. 2011/2986](https://www.legislation.gov.uk/uksi/2011/2986).
+
+[^f00017]: Footnote: Section 114A was inserted by the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), section 85.
+
+[^f00018]: Footnote: Subsection (4)(db) was inserted by the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), section 113.
+
+[^f00019]: Footnote: Subsection (6A) was inserted by the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), section 113.
+
+[^f00020]: Footnote: Subsection (6C) was inserted by the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), section 113.
+
+[^f00021]: Footnote: Paragraph 9 was substituted by [S.I. 2017/979](https://www.legislation.gov.uk/uksi/2017/979).
+
+[^f00022]: Footnote: Paragraph 9B was inserted by [S.I. 2023/424](https://www.legislation.gov.uk/uksi/2023/424).
+
+[^f00023]: Footnote: Paragraph 28A was inserted by [S.I. 2023/424](https://www.legislation.gov.uk/uksi/2023/424).
+
+[^f00024]: Footnote: Paragraph 5B was inserted by [S.I. 2023/424](https://www.legislation.gov.uk/uksi/2023/424).
+
+[^f00025]: Footnote: Paragraph 12 was substituted by [S.I. 2017/979](https://www.legislation.gov.uk/uksi/2017/979).
+
+[^f00026]: Footnote: Paragraph 12B was inserted by [S.I. 2023/424](https://www.legislation.gov.uk/uksi/2023/424).
+
+[^f00027]: Footnote: Paragraph 41A was inserted by [S.I. 2023/424](https://www.legislation.gov.uk/uksi/2023/424).
+
+[^f00028]: Footnote: Paragraph 1 was substituted by the National Institutions Measure [1998 (No. 1)](https://www.legislation.gov.uk/ukcm/1998/1).
+
+[^f00029]: Footnote: The definition of “index figure” was substituted, in relation to England, by [S.I. 2010/2769](https://www.legislation.gov.uk/uksi/2010/2769).
+
+[^f00030]: Footnote: The definition of “the Met Office” was substituted by [S.I. 2016/876](https://www.legislation.gov.uk/uksi/2016/876).
+
+[^f00031]: Footnote: Schedule 4 was substituted, in relation to England, by [S.I. 2009/2711](https://www.legislation.gov.uk/uksi/2009/2711). It was revoked, in relation to Wales, by [S.I. 2012/793](https://www.legislation.gov.uk/uksi/2012/793).
+
+[^f00032]: Footnote: Article 2(2) was inserted by [S.I. 2023/424](https://www.legislation.gov.uk/uksi/2023/424).
+
+[^f00033]: Footnote: The Schedule was substituted by [S.R. 2022/72](https://www.legislation.gov.uk/nisr/2022/72).
+
+[^f00034]: Footnote: The entry for the Secretary of State for Business and Trade was substituted by [S.R. 2025/140](https://www.legislation.gov.uk/nisr/2025/140).
+
+[^f00035]: Footnote: Regulation 12A was inserted by [S.I. 2013/417](https://www.legislation.gov.uk/uksi/2013/417).
+
+[^f00036]: Footnote: Schedule 5 was substituted by [S.I. 2018/70](https://www.legislation.gov.uk/uksi/2018/70).
+
+[^f00037]: Footnote: Entry 4.13 was inserted by [S.I. 2023/349](https://www.legislation.gov.uk/uksi/2023/349).
+
+[^f00038]: Footnote: Entry 9.25 was inserted by [S.I. 2023/349](https://www.legislation.gov.uk/uksi/2023/349).
+
+[^f00039]: Footnote: Entry 11.6 was inserted by [S.I. 2024/398](https://www.legislation.gov.uk/uksi/2024/398).
+
+[^f00040]: Footnote: The definition of border department was inserted by [S.S.I. 2021/293](https://www.legislation.gov.uk/ssi/2021/293).
+
+[^f00041]: Footnote: Schedule 1 was amended by [S.I. 2024/425](https://www.legislation.gov.uk/uksi/2024/425).
+
+[^f00042]: Footnote: The entry for section 303Z41 was inserted by [S.I. 2024/425](https://www.legislation.gov.uk/uksi/2024/425).

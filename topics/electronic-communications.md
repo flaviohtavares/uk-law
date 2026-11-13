@@ -7,7 +7,7 @@ Laws in force under the legislation.gov.uk subject heading **ELECTRONIC COMMUNIC
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
 - [Wireless Telegraphy Act 2006](../uk-parliament/acts/public/2006/36-wireless-telegraphy-act-2006/README.md) *(changes pending)* — 121 regulations on this topic made under it
-- [Communications Act 2003](../uk-parliament/acts/public/2003/21-communications-act-2003/README.md) *(changes pending)* — 108 regulations on this topic made under it
+- [Communications Act 2003](../uk-parliament/acts/public/2003/21-communications-act-2003/README.md) *(changes pending)* — 109 regulations on this topic made under it
 - [Online Safety Act 2023](../uk-parliament/acts/public/2023/50-online-safety-act-2023/README.md) *(changes pending)* — 18 regulations on this topic made under it
 - [Office of Communications Act 2002](../uk-parliament/acts/public/2002/11-office-of-communications-act-2002.md) — 9 regulations on this topic made under it
 - [Digital Switchover (Disclosure of Information) Act 2007](../uk-parliament/acts/public/2007/8-digital-switchover-disclosure-of-information-act-2007.md) *(changes pending)* — 3 regulations on this topic made under it
@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-359 in force.
+360 in force.
 
 **2026**
 
@@ -31,6 +31,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Online Safety Act 2023 (Commencement No. 7) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/262-the-online-safety-act-2023-commencement-no-7-regulations-2026.md) *(as originally made)*
 - [The Online Safety Act 2023 (Exempt User-to-User and Search Services) (Amendment) Regulations 2026](../wales/regulations/2026/0000-0499/69-the-online-safety-act-2023-exempt-user-to-user-and-search-services-amendment-reg.md) *(as originally made)*
 - [The Product Security and Telecommunications Infrastructure Act 2022 (Conferral of Tribunal Jurisdiction under the Landlord and Tenant Act 1954 etc.) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/569-the-product-security-and-telecommunications-infrastructure-act-2022-conferral-of.md) *(as originally made)*
+- [The Radio Selection Services (Designation) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1179-the-radio-selection-services-designation-regulations-2026.md) *(as originally made)*
 - [The Television Selection Services (Designation) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/531-the-television-selection-services-designation-regulations-2026.md) *(as originally made)*
 - [The Trade (Mobile Roaming) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/837-the-trade-mobile-roaming-amendment-regulations-2026.md) *(as originally made)*
 - [The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/660-the-wireless-telegraphy-direct-to-device-satellite-communications-exemption-amen.md) *(as originally made)*

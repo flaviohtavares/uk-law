@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 4
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '4'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 4. Registration
+## 4. Registration[^c-d49c3b0f079911683b4e937bca8df77a]
+
+*Extent: E+W*
 
 (1) No person shall use any premises as a production holding for the production of raw milk unless those premises—
 
@@ -47,3 +51,7 @@ summary: ''
 (9) Without prejudice to sections 9 to 12 of the Act, where the Minister has refused a registration under this regulation, a person who both prior to the coming into force of these Regulations and immediately before such refusal had been lawfully using any premises for the production of raw milk, may continue to use such premises for that purpose, subject to any reasonable conditions imposed by the Minister for the protection of public health, until the time for appeal has expired and, if an appeal is lodged, until the appeal is finally disposed of or abandoned.
 
 (10) The Minister shall be entitled to inspect any premises in respect of which an application had been made to the Minister to register such premises as a production holding, prior to registering those premises.
+
+## Annotations
+
+[^c-d49c3b0f079911683b4e937bca8df77a]: Commencement: Reg. 4 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

@@ -3,7 +3,7 @@ title: Adoption and Children Act 2002, section 31
 act: Adoption and Children Act 2002
 section: '31'
 status: revised-with-pending-changes
-text_date: '2022-11-30'
+text_date: '2026-11-09'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2002/38/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Adoption and Children Act 2002, section 31
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
 > Extent: England, Wales.
 

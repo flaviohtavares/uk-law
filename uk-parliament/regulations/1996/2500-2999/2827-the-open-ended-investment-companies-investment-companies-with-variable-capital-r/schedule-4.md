@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, SCHEDULE 4
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: schedule-4
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,27 +12,33 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, SCHEDULE 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — REGISTER OF SHAREHOLDERS
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 Regulation 43
 
-### 1. General
+### 1. General[^c-2b64f19a73db55eaa496dd32dbdb2dca]
 
 (1) Subject to sub-paragraph (2) below, every investment company with variable capital shall keep a register of persons who hold shares in the company.
 
 (2) Except to the extent that the aggregate numbers of shares mentioned in paragraphs 5(1)(b) and 7 below include bearer shares, nothing in this Schedule requires any entry to be made in the register in respect of bearer shares.
 
-**2.** (1) Subject as mentioned in sub-paragraph (2) below, the register of shareholders shall be prima facie evidence of any matters which are by these Regulations directed or authorised to be contained in it.
+**2.**[^c-f7ebfe58b1d2bcf734a16d40de019701] (1) Subject as mentioned in sub-paragraph (2) below, the register of shareholders shall be prima facie evidence of any matters which are by these Regulations directed or authorised to be contained in it.
 
 (2) In the case of a register kept by a company which is a participating issuer, sub-paragraph (1) above has effect subject to regulation 23(7) of the Uncertificated Securities Regulations 1995[^f00031] (purported registration of transfer of title to uncertificated unit other than in accordance with that regulation to be of no effect).
 
-**3.** In the case of companies registered in England and Wales, no notice of any trust, express, implied or constructive, shall be entered on the company’s register or be receivable by the company.
+**3.**[^c-e75663797a4dece5d3d1bef01e8d8c5f] In the case of companies registered in England and Wales, no notice of any trust, express, implied or constructive, shall be entered on the company’s register or be receivable by the company.
 
-**4.** A company shall exercise all due diligence and take all reasonable steps to ensure that the information contained in the register is at all times complete and up to date.
+**4.**[^c-fdec90c62948b21062a3be2791e390ad] A company shall exercise all due diligence and take all reasonable steps to ensure that the information contained in the register is at all times complete and up to date.
 
-### 5. Contents
+### 5. Contents[^c-70cadd2f6a833e74a794eb909f70f2ef]
 
 (1) The register of shareholders shall contain an entry consisting of—
 
@@ -47,7 +53,7 @@ Regulation 43
 
 (3) The statements referred to in paragraphs (b) and (c) of sub-paragraph (1) above shall be up-dated at least once a day.
 
-**6.** (1) This paragraph shall not apply to any issue of shares to the designated person or to any transfer of shares to the designated person to which paragraph 4 of Schedule 5 to these Regulations applies.
+**6.**[^c-945c7767f5024950f511f4fa06f834c9] (1) This paragraph shall not apply to any issue of shares to the designated person or to any transfer of shares to the designated person to which paragraph 4 of Schedule 5 to these Regulations applies.
 
 (2) Where a company issues a share to any person and the name of that person is not already entered on the register, the company shall enter his name on the register.
 
@@ -60,9 +66,9 @@ Regulation 43
 
 (4) In sub-paragraph (3)(d) above, “uncertificated form” and “certificated form” have the same meaning as in the Uncertificated Securities Regulations 1995.
 
-**7.** The register of shareholders shall contain a monthly statement of the aggregate number of all the bearer shares in issue except for any bearer shares in issue which, at the time when the statement is made, are held by the designated person.
+**7.**[^c-43aec772ca3ef0c4440c83f9a57afc3a] The register of shareholders shall contain a monthly statement of the aggregate number of all the bearer shares in issue except for any bearer shares in issue which, at the time when the statement is made, are held by the designated person.
 
-**8.** (1) This paragraph applies where the aggregate number of shares referred to in paragraphs 5 to 7 above includes any shares to which attach rights expressed in two denominations.
+**8.**[^c-d16eec32ffa3fe838033acd77ae21e45] (1) This paragraph applies where the aggregate number of shares referred to in paragraphs 5 to 7 above includes any shares to which attach rights expressed in two denominations.
 
 (2) In respect of each class of shares to which are attached rights expressed in two denominations, the number of shares of that class held by any person referred to in paragraph 5 or 6 above, or the number of bearer shares of that class referred to in paragraph 7 above, shall be taken to be the total of—
 
@@ -76,14 +82,14 @@ Regulation 43
 
 (4) Nothing in these Regulations shall be taken as preventing the total arrived at under sub-paragraph (2) above being expressed on the register as a single entry representing the result derived from the formula set out in that sub-paragraph.
 
-### 9. Location
+### 9. Location[^c-5a9ff7e8cc3f032e2595d479a19f41b2]
 
 The register of shareholders of a company shall be kept at its head office, except that—
 
 - (a) if the work of making it up is done at another office of the company, it may be kept there; and
 - (b) if the company arranges with some other person for the making up of the register to be undertaken on its behalf by that other person, it may be kept at the office of the other person at which the work is being done.
 
-### 10. Index
+### 10. Index[^c-29e66559ee8c3704a60e9593970e9798]
 
 (1) Every company shall keep an index of the names of the holders of its registered shares.
 
@@ -93,7 +99,7 @@ The register of shareholders of a company shall be kept at its head office, exce
 
 (4) Not later than 14 days after the date on which any alteration is made to the register of shareholders, the company shall make any necessary alteration in the index.
 
-### 11. Inspection
+### 11. Inspection[^c-09a33887170905aae20287a159d9ef3e]
 
 (1) Subject to regulation 44 above and to SIB regulations, the register of shareholders and the index of names shall be open to the inspection of any shareholder (including any holder of bearer shares) without charge.
 
@@ -101,7 +107,7 @@ The register of shareholders of a company shall be kept at its head office, exce
 
 (3) If an inspection required under this paragraph is refused, or if a copy so required is not sent, the court may by order compel an immediate inspection of the register and index, or direct that the copy required be sent to the person requiring it.
 
-### 12. Agent’s default
+### 12. Agent’s default[^c-462e5f9af1d33e2ac6e12a1826eb282a]
 
 (1) Sub-paragraphs (2) and (4) below apply where, in accordance with paragraph 9(b) above, the register of shareholders is kept at the office of some person other than the company and by reason of any default of his—
 
@@ -116,6 +122,30 @@ The register of shareholders of a company shall be kept at its head office, exce
 
 ## Annotations
 
+[^c-2b64f19a73db55eaa496dd32dbdb2dca]: Commencement: Sch. 4 para. 1 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-f7ebfe58b1d2bcf734a16d40de019701]: Commencement: Sch. 4 para. 2 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
 [^f00031]: Footnote: S.I. [1995/3272](https://www.legislation.gov.uk/uksi/1995/3272).
 
+[^c-e75663797a4dece5d3d1bef01e8d8c5f]: Commencement: Sch. 4 para. 3 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-fdec90c62948b21062a3be2791e390ad]: Commencement: Sch. 4 para. 4 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-70cadd2f6a833e74a794eb909f70f2ef]: Commencement: Sch. 4 para. 5 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
 [^f00032]: Footnote: S.I. [1995/3272](https://www.legislation.gov.uk/uksi/1995/3272).
+
+[^c-945c7767f5024950f511f4fa06f834c9]: Commencement: Sch. 4 para. 6 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-43aec772ca3ef0c4440c83f9a57afc3a]: Commencement: Sch. 4 para. 7 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-d16eec32ffa3fe838033acd77ae21e45]: Commencement: Sch. 4 para. 8 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-5a9ff7e8cc3f032e2595d479a19f41b2]: Commencement: Sch. 4 para. 9 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-29e66559ee8c3704a60e9593970e9798]: Commencement: Sch. 4 para. 10 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-09a33887170905aae20287a159d9ef3e]: Commencement: Sch. 4 para. 11 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
+
+[^c-462e5f9af1d33e2ac6e12a1826eb282a]: Commencement: Sch. 4 para. 12 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)

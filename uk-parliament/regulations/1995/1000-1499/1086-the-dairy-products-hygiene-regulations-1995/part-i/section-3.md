@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 3
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '3'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 3. Exemptions
+## 3. Exemptions[^c-349acaee9a68860eb6ac2564f142d9bc]
+
+*Extent: E+W*
 
 (1) These Regulations shall not apply to—
 
@@ -51,3 +55,7 @@ where such sales are made direct to the ultimate consumer exclusively.
 (5) Notwithstanding the exemption in paragraph (4)(a) above, the occupier of a processing establishment which comprises part of any farm premises shall ensure that the requirements of regulation 6(1)(a) as read with Part III of Schedule 2 are complied with in that processing establishment.
 
 (6) In paragraph (1)(a) above, “occupier” includes any person forming part of the occupier’s household.
+
+## Annotations
+
+[^c-349acaee9a68860eb6ac2564f142d9bc]: Commencement: Reg. 3 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

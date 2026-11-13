@@ -3,7 +3,7 @@ title: Housing (Scotland) Act 2001, SCHEDULE 7
 act: Housing (Scotland) Act 2001
 section: schedule-7
 status: repealed
-text_date: '2026-08-01'
+text_date: '2026-11-09'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2001/10/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

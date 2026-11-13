@@ -3,14 +3,14 @@ title: Equipment and Protective Systems Intended for Use in Potentially Explosiv
 id: nisr/1996/247
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-24'
-text_date: null
-extent: null
+text_date: '1996-06-24'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/247
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/247/made/data.pdf
-pending_changes: 43
+- http://www.legislation.gov.uk/nisr/1996/247/data.pdf
+pending_changes: 75
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (75).** Text as at 1996-06-24. See https://www.legislation.gov.uk/changes/affected/nisr/1996/247
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 247
 
@@ -40,16 +46,28 @@ The Department of Economic Development, being a Department designated[^f00001] f
 
 ### Part I — Preliminary
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 1 — Citation, commencement and revocations](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
 ### Part II — Application
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 3 — Equipment, protective systems, devices and components](part-ii/section-3.md)
 - [Section 4 — Excluded equipment, protective systems, devices and components](part-ii/section-4.md)
 - [Section 5 — Exclusion until 30th June 2003 of equipment and protective systems complying with health and safety provisions in operation on 23rd March 1994](part-ii/section-5.md)
 
 ### Part III — General Requirements
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 6 — General duty relating to the placing on the market of equipment, protective systems or devices by a responsible person](part-iii/section-6.md)
 - [Section 7 — General duty relating to the supply of equipment, protective systems or devices by a person other than the responsible person](part-iii/section-7.md)
@@ -62,9 +80,17 @@ The Department of Economic Development, being a Department designated[^f00001] f
 
 ### Supplementary Provisions
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 14 — Conditions for equipment, protective systems, devices and components being taken to comply with the provisions of the ATEX Directive](part-4/section-14.md)
 
 ### Part IV — Enforcement
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 15 — Application of Schedule 13](part-iv/section-15.md)
 - [Section 16 — Offences and penalties](part-iv/section-16.md)
@@ -100,6 +126,10 @@ The Department of Economic Development, being a Department designated[^f00001] f
 - [SCHEDULE 12](schedule-12.md)
 - [SCHEDULE 13](schedule-13.md)
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 Sealed with the Official Seal of the Department of Economic Development on
 
 Philip B. Strong
@@ -107,6 +137,10 @@ Philip B. Strong
 Assistant Secretary
 
 24th June 1996.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (This note is not part of the Regulations.)
 

@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2002-11-07'
-text_date: '2022-11-30'
+text_date: '2026-11-09'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2002/38
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2002/38/pdfs/ukpga_20020038_en.pdf
 - http://www.legislation.gov.uk/ukpga/2002/38/data.pdf
-pending_changes: 16
+pending_changes: 10
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Adoption and Children Act 2002
 
-> **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

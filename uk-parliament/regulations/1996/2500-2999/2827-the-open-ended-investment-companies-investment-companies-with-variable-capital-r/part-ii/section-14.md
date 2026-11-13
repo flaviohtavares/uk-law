@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 14
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '14'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 14. Prohibition on certain names
+## 14. Prohibition on certain names[^c-40c271ffed33437fc7032ff2ceb552f6]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) No investment company with variable capital shall have a name that—
 
@@ -42,5 +48,7 @@ summary: ''
 and “and” and “&” are to be taken as the same.
 
 ## Annotations
+
+[^c-40c271ffed33437fc7032ff2ceb552f6]: Commencement: Reg. 14 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
 
 [^f00013]: Footnote: S.I. [1989/638](https://www.legislation.gov.uk/uksi/1989/638). The regulations were amended by virtue of section 2(1) of the European Economic Area Act [1994 (c. 51)](https://www.legislation.gov.uk/ukpga/1994/51) so that, for any limitation in the Regulations that proceeds by reference to the Communities, there is substituted a corresponding limitation relating to the European Economic Area.

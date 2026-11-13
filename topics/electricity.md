@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **ELECTRICITY**. Repe
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Electricity Act 1989](../uk-parliament/acts/public/1989/29-electricity-act-1989/README.md) *(changes pending)* — 276 regulations on this topic made under it
+- [Electricity Act 1989](../uk-parliament/acts/public/1989/29-electricity-act-1989/README.md) *(changes pending)* — 277 regulations on this topic made under it
 - [Energy Act 2013](../uk-parliament/acts/public/2013/32-energy-act-2013/README.md) *(changes pending)* — 59 regulations on this topic made under it
 - [Utilities Act 2000](../uk-parliament/acts/public/2000/27-utilities-act-2000/README.md) *(changes pending)* — 34 regulations on this topic made under it
 - [Gas Act 1986](../uk-parliament/acts/public/1986/44-gas-act-1986/README.md) *(changes pending)* — 33 regulations on this topic made under it
@@ -21,7 +21,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-555 in force.
+557 in force.
 
 **2026**
 
@@ -35,11 +35,13 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/155-the-electricity-and-gas-energy-company-obligation-amendment-order-2026.md) *(as originally made)*
 - [The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/73-the-electricity-and-gas-standards-of-performance-suppliers-amendment-regulations.md) *(as originally made)*
 - [The Energy-Intensive Industry Electricity Support Payments and Levy (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/243-the-energy-intensive-industry-electricity-support-payments-and-levy-amendment-re.md) *(as originally made)*
+- [The Feed-in Tariffs (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Order 2026](../uk-parliament/regulations/2026/1000-1499/1182-the-feed-in-tariffs-amendment-british-industrial-competitiveness-scheme-excluded.md) *(as originally made)*
 - [The Feed-in Tariffs (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/2-the-feed-in-tariffs-amendment-order-2026.md) *(as originally made)*
 - [The Meters (Certification) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/162-the-meters-certification-amendment-regulations-2026.md) *(as originally made)*
 - [The Plugs and Sockets etc. (Safety) Regulations 1994 and Electricity Safety, Quality and Continuity Regulations 2002 (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/848-the-plugs-and-sockets-etc-safety-regulations-1994-and-electricity-safety-quality.md) *(as originally made)*
 - [The Renewables Obligation (Amendment) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/67-the-renewables-obligation-amendment-order-northern-ireland-2026.md)
 - [The Renewables Obligation (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/380-the-renewables-obligation-amendment-order-2026.md) *(as originally made)*
+- [The Renewables Obligation (Scotland) Amendment (No. 2) Order 2026](../scotland/regulations/2026/0000-0499/338-the-renewables-obligation-scotland-amendment-no-2-order-2026.md) *(as originally made)*
 - [The Renewables Obligation (Scotland) Amendment Order 2026](../scotland/regulations/2026/0000-0499/160-the-renewables-obligation-scotland-amendment-order-2026.md) *(as originally made)*
 - [The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1171-the-renewables-obligation-and-electricity-capacity-amendment-british-industrial.md) *(as originally made)*
 - [The Warm Home Discount (England and Wales) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/389-the-warm-home-discount-england-and-wales-regulations-2026.md) *(as originally made)*

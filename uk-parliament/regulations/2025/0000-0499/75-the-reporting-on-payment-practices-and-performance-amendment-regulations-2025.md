@@ -199,7 +199,7 @@ After Schedule 1 (as renamed) insert—
 >   - (b) an interim payment due to B in accordance with the terms of the qualifying construction contract between A and B; or
 >   - (c) the contract sum of the qualifying construction contract,
 >
->   until any condition set out in the qualifying construction contract for release or partial release of the monies to is met;
+>   until any condition set out in the qualifying construction contract for release or partial release of the monies is met;
 > - “**standard payment terms**” means, in relation to a qualifying construction contract—
 >   - (a) the standard terms relating to payment that the qualifying company uses for qualifying construction contracts; or
 >   - (b) where the qualifying company does not use standard terms, the qualifying company’s most frequently used payment terms for qualifying construction contracts; and

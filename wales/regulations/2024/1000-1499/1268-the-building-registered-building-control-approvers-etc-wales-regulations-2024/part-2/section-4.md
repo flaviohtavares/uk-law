@@ -2,8 +2,8 @@
 title: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 4
 act: The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024
 section: '4'
-status: revised-with-pending-changes
-text_date: '2025-07-01'
+status: revised
+text_date: '2026-07-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2024/1268/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, section 4
 
-> **Warning: changes not yet applied to this text (45).** Text as at 2025-07-01. See https://www.legislation.gov.uk/changes/affected/wsi/2024/1268
+> Text as at 2026-07-20.
 >
 > Extent: England, Wales.
 
@@ -28,6 +28,7 @@ summary: ''
   - (i) regulation 4 (requirements relating to building work),
   - (ii) regulation 6 (requirements relating to material change of use),
   - (iii) regulation 7 (materials and workmanship),
+  - (iiia)[^c-d3d84e231cd50014284ee4b956b98427] Part 2B – Wales (dutyholders and competence)
   - (iv) regulation 20 (provisions applicable to self-certification schemes),
   - (v) regulation 22 (requirements relating to a change to energy status),
   - (vi) regulation 23 (requirements for the renovation or replacement of thermal elements),
@@ -60,6 +61,8 @@ summary: ''
 ## Annotations
 
 [^c-922ba3b1b3daf9f4f0430d2999464b43]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+
+[^c-d3d84e231cd50014284ee4b956b98427]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4/2/a)[(iiia)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4/2/iiia) inserted (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [17(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/17/2) (with [reg. 20](https://www.legislation.gov.uk/wsi/2025/1320/regulation/20)) (as substituted by [W.S.I. 2026/60](https://www.legislation.gov.uk/wsi/2026/60), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/60/regulation/1/2/a), [7(2)](https://www.legislation.gov.uk/wsi/2026/60/regulation/7/2))
 
 [^c-51a905c765b48c28c83568c2439944cd]: Textual amendment: Word in [reg. 4(2)(a)(xxviii)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4/2/a/xxviii) omitted (1.7.2025) by virtue of [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2025/377/regulation/5/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
 

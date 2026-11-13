@@ -3,16 +3,16 @@ title: The Education (Induction Arrangements for School Teachers) (England) Regu
 id: uksi/2008/657
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-07'
-text_date: null
-extent: null
+text_date: '2008-03-07'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/657
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/657/pdfs/uksiem_20080657_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/657/pdfs/uksi_20080657_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/657/made/data.pdf
-pending_changes: 44
+- http://www.legislation.gov.uk/uksi/2008/657/data.pdf
+pending_changes: 114
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (Induction Arrangements for School Teachers) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (114).** Text as at 2008-03-07. See https://www.legislation.gov.uk/changes/affected/uksi/2008/657
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 657
 
@@ -42,13 +48,13 @@ Coming into force
 
 The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the powers conferred by sections 19 and 42(6) of the Teaching and Higher Education Act 1998[^f00001]:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-dbe472660edd3bf92271da28581b7a6c]
 
 (1) These Regulations may be cited as the Education (Induction Arrangements for School Teachers) (England) Regulations 2008 and come into force on 1st September 2008.
 
 (2) These Regulations apply in relation to England.
 
-## 2. Revocations and transitional provision
+## 2. Revocations and transitional provision[^c-f69ad0f5bec4ac9ec8dee571ce6cc3b2]
 
 (1) Subject to paragraph (2), the Regulations specified in Schedule 1 are revoked to the extent specified in that Schedule.
 
@@ -59,7 +65,7 @@ The Secretary of State for Children, Schools and Families makes the following Re
 - (a) whose induction period is extended under regulations 16(3)(b), 19(3)(c) or 19(4)(c) of the 2001 Induction Regulations; and
 - (b) who immediately before 1st September 2008 has not completed the induction period as so extended.
 
-## 3. Interpretation
+## 3. Interpretation[^c-efccee3db1b2076609c1a56e578ee584]
 
 In these Regulations—
 
@@ -89,7 +95,7 @@ In these Regulations—
 - “the Welsh Induction Regulations” means the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2005[^f00010]; and
 - “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971 in England[^f00011].
 
-## 4. Meaning of references to operating day
+## 4. Meaning of references to operating day[^c-c4c525626b7cb68aaf4c28ec83e55a94]
 
 (1) In these Regulations “operating day” means, in relation to an institution, a day on which the institution is open for providing facilities for education or in connection with the provision of such facilities.
 
@@ -106,11 +112,11 @@ In these Regulations—
 - A is the amount of time (rounded up to the nearest hour) that the person is required to work on the particular day, and
 - B is the amount of time (rounded up to the nearest hour) that the person would be required to work on that day if contracted or engaged to work full-time.
 
-## 5. Breach of time limits
+## 5. Breach of time limits[^c-10abf605ec560824162822cbcc7effac]
 
 Failure by any person to discharge any duty within a time limit specified in these Regulations does not relieve that person of that duty.
 
-## 6. Appropriate body
+## 6. Appropriate body[^c-4281e6747ce139a2aeb4049e6c17b813]
 
 For the purpose of these Regulations—
 
@@ -119,13 +125,13 @@ For the purpose of these Regulations—
 - (c) the appropriate body in relation to an independent school is the relevant body referred to in regulation 8(3)(c); and
 - (d) the appropriate body in relation to a further education institution is the authority referred to in regulation 8(5).
 
-## 7. Requirement to serve an induction period
+## 7. Requirement to serve an induction period[^c-d04a4edc5673c15b904320bf3a439e32]
 
 (1) Subject to the exceptions in Schedule 2, no qualified teacher is to be employed as a teacher at a relevant school[^f00012] unless that person has satisfactorily completed an induction period in accordance with the following provisions of these Regulations in a school or a further education institution to which regulation 8(1) refers.
 
 (2) A person is employed for the purposes of paragraph (1) if that person is engaged to provide services as a teacher, whether under a contract of employment or otherwise, in accordance with section 43(2) of the Teaching and Higher Education Act 1998[^f00013].
 
-## 8. Institutions in which an induction period may be served
+## 8. Institutions in which an induction period may be served[^c-e95952bea4579ff242ccf11bf57b5018]
 
 (1) Subject to paragraph (2), an induction period may only be served in—
 
@@ -159,7 +165,7 @@ For the purpose of these Regulations—
 
 (6) In this regulation, “induction period” includes a part of an induction period.
 
-## 9. Length of an induction period
+## 9. Length of an induction period[^c-5a41f218296f3c2b46c71e57ab6b0f7e]
 
 (1) —Subject to paragraph (2), the length of the induction period is—
 
@@ -192,7 +198,7 @@ the length of the induction period is to be determined in accordance with paragr
 - (c) the appropriate body has decided that the person has achieved the standards mentioned in regulation 15 during the reduced period; and
 - (d) that person agrees to the reduced period in place of the prescribed induction period.
 
-## 10. Periods of employment counting towards an induction period
+## 10. Periods of employment counting towards an induction period[^c-18f868c5404ca04588d1b3910a53e297]
 
 (1) Subject to the following provisions of this regulation, a period of continuous employment as a qualified teacher of not less than 1 term in duration counts towards an induction period where it is served in an institution to which regulation 8(1) applies, and—
 
@@ -230,7 +236,7 @@ counts as employment of 2 terms for the purposes of paragraph (1) as read with p
 
 (7) Except as provided for in paragraphs (1) to (5), no period of employment as a teacher counts towards an induction period.
 
-## 11. Extension of an induction period before completion
+## 11. Extension of an induction period before completion[^c-6a4739be087f1b51e3db430c93888464]
 
 (1) Subject to paragraph (2), where a person serving an induction period is absent from work on 30 or more operating days, that person’s induction period is to be extended by the aggregate period of that person’s absences.
 
@@ -240,17 +246,17 @@ counts as employment of 2 terms for the purposes of paragraph (1) as read with p
 
 (4) Except as provided for in this regulation an induction period may not be extended before its completion.
 
-## 12. Service of more than one induction period
+## 12. Service of more than one induction period[^c-a083be4a16551e5dcc74200cd6d2454d]
 
 No person may serve more than one induction period.
 
-## 13. Supervision and training during the induction period
+## 13. Supervision and training during the induction period[^c-40789b8d63e4bd468f6b19dface373de]
 
 (1) The head teacher of an institution in which a person serves a period of employment for the purposes of regulation 10 and the appropriate body in relation to that institution is responsible for that person’s supervision and training during that period of employment.
 
 (2) The duties assigned to a person serving an induction period, that person’s supervision and the conditions under which that person works are to be such as to facilitate a fair and effective assessment of that person’s conduct and efficiency as a teacher.
 
-## 14. Responsibility for an induction period served by a teacher employed in two or more institutions simultaneously
+## 14. Responsibility for an induction period served by a teacher employed in two or more institutions simultaneously[^c-de951487e879dba9b72db313d8e39be7]
 
 (1) Subject to paragraph (2), where a person serving an induction period is employed in two or more institutions simultaneously, the head teachers of those institutions must agree which of them is to act as the lead head teacher.
 
@@ -258,11 +264,11 @@ No person may serve more than one induction period.
 
 (3) The appropriate body in relation to the lead head teacher’s school or further education institution is to be solely responsible for carrying out the functions of the appropriate body specified in regulation 16.
 
-## 15. Standards for determining whether a person has satisfactorily completed an induction period
+## 15. Standards for determining whether a person has satisfactorily completed an induction period[^c-a601e7970aceda45f880790df51a62a4]
 
 The Secretary of State may determine the standards against which persons who have completed an induction period are to be assessed for the purpose of deciding whether they have satisfactorily completed their induction period, and may determine different standards in relation to different categories of persons.
 
-## 16. Completion of an induction period
+## 16. Completion of an induction period[^c-7b92c9211c4b67dbaf812e3e711c9e0b]
 
 (1) Subject to paragraph (2), this regulation applies where—
 
@@ -308,14 +314,14 @@ The Secretary of State may determine the standards against which persons who hav
 
 (9) In this regulation “appropriate body” means the appropriate body for the institution at which the person is employed at the completion of the induction period except where it is determined by regulation 14(3).
 
-## 17. Extension of an induction period pursuant to a decision of the appropriate body or the Council
+## 17. Extension of an induction period pursuant to a decision of the appropriate body or the Council[^c-ede8a1e0424a636c628738ad543a6387]
 
 Regulations 8, 10, 12 to 16, 18 and 19 and Schedule 4 apply in relation to —
 
 - (a) a person serving an induction period extended under regulation 16 or by the Council under regulation 19, or
 - (b) a person for the time being serving an induction period in England where the induction period has been extended under regulation 10 of the Welsh Induction Regulations.
 
-## 18. Termination of employment following failure to complete an induction period satisfactorily
+## 18. Termination of employment following failure to complete an induction period satisfactorily[^c-34e96dc9fd35217c00a3f96e29abfefd]
 
 (1) This paragraph applies to a person employed as a teacher at a relevant school in England when the decision is made under regulation 16(5)(c) of these Regulations, or regulation 14(3)(c) of the Welsh Induction Regulations, that the person has failed satisfactorily to complete the induction period which the person is required to serve under these Regulations or the Welsh Induction Regulations.
 
@@ -333,7 +339,7 @@ Regulations 8, 10, 12 to 16, 18 and 19 and Schedule 4 apply in relation to —
 
 (5) In this regulation, any reference to “the Council” in relation to a person who has failed satisfactorily to complete an induction period under the Welsh Induction Regulations, is a reference to the General Teaching Council for Wales.
 
-## 19. Appeals
+## 19. Appeals[^c-a6b5a0f36bbb674297983ec9cfa52fe2]
 
 (1) Where the appropriate body decides that—
 
@@ -356,7 +362,7 @@ that person may appeal to the Council against the decision.
 - (b) dismiss the appeal; or
 - (c) extend the induction for such period as it thinks fit.
 
-## 20. Other functions of the appropriate body
+## 20. Other functions of the appropriate body[^c-5d1c433789cbf8d90942c2bae7174516]
 
 (1) The appropriate body may provide—
 
@@ -365,11 +371,11 @@ that person may appeal to the Council against the decision.
 
 in connection with providing induction training, supervision and assessment under these Regulations.
 
-## 21. Charges
+## 21. Charges[^c-f74c0492bcd558c9c575b1e2775cd9d4]
 
 The appropriate body in relation to an independent school or further education institution may make a reasonable charge not exceeding the cost of provision of the service to the proprietor of a school or the governing body of a further education institution, for which it is the appropriate body in connection with any of its functions under these Regulations.
 
-## 22. Guidance given by the Secretary of State
+## 22. Guidance given by the Secretary of State[^c-65ec4f58add8ceafa0fd3af93d47e746]
 
 A person or body exercising a function under these Regulations must have regard to any guidance given by the Secretary of State from time to time as to the exercise of that function.
 
@@ -381,7 +387,7 @@ Department for Children, Schools and Families
 
 7th March 2008
 
-## SCHEDULE 1 — Revocations
+## SCHEDULE 1 — Revocations[^c-cc14bb3ab6f22bd7e52502df13ee884c]
 
 Regulation 2
 
@@ -400,81 +406,81 @@ Regulation 2
 
 Regulation 7
 
-**1.** A person who on 7th May 1999 was a qualified teacher.
+**1.**[^c-4f84b55e7b3fcc07aa0e8dd07bf8168b] A person who on 7th May 1999 was a qualified teacher.
 
-**2.** A person who—
+**2.**[^c-cde1519991ab06f0b3035b1d991952d2] A person who—
 
 - (a) is serving an induction period (including an induction period extended under regulations 11, 16 or 19); or
 - (b) has completed such an induction period and is being employed to work as a teacher pending a decision of the appropriate body pursuant to regulation 16(5) or regulation 14(3) of the Welsh Induction Regulations.
 
-**3.** A person who has failed satisfactorily to complete an induction period whose employment is pending the outcome of that person’s appeal.
+**3.**[^c-ea999a7920305c6ff9f6887c76c7d16a] A person who has failed satisfactorily to complete an induction period whose employment is pending the outcome of that person’s appeal.
 
-**4.** A person—
+**4.**[^c-3220af153e6091685c24f56b1ca833ac] A person—
 
 - (a) who is employed for one or more periods of less than one term as a supply teacher during the period of sixteen months starting on the date that that person is first employed as a supply teacher (by that or any other employer); or
 - (b) who has been so employed during that period, and whom the appropriate body has authorised to be employed for a period or periods of less than one term, as a supply teacher during a further period of not more than twelve months starting on the date that that person is first employed pursuant to this sub-paragraph (by that or any other employer).
 
-**5.** A person who can no longer be employed under paragraph 4 of this Schedule but who is employed for a period as a supply teacher while serving an induction period in part-time service.
+**5.**[^c-2df92d0e4e659f7d150ccae2fa2c33ca] A person who can no longer be employed under paragraph 4 of this Schedule but who is employed for a period as a supply teacher while serving an induction period in part-time service.
 
-**6.** A person who has satisfactorily completed an induction period under regulations made from time to time under section 19 of the Teaching and Higher Education Act 1998[^f00015] in relation to teachers in Wales.
+**6.**[^c-22dba3a4970884931dbadf0d5631941c] A person who has satisfactorily completed an induction period under regulations made from time to time under section 19 of the Teaching and Higher Education Act 1998[^f00015] in relation to teachers in Wales.
 
-**7.** A person—
+**7.**[^c-ad9707f6254073ac95be34233be435bc] A person—
 
 - (a) who qualified as a teacher in England on or after 7th May 1999 but before or on 1st April 2003;
 - (b) whose first post as a teacher (including as a supply teacher) following that person’s qualification was in a school in Wales; and
 - (c) who before or on 1st April 2003 has completed not less than two terms’ service in such a post.
 
-**8.** A person who has, or is eligible for, full registration as a teacher of primary or secondary education with the General Teaching Council for Scotland.
+**8.**[^c-d76d5e343fab66373d4682125f2c6de9] A person who has, or is eligible for, full registration as a teacher of primary or secondary education with the General Teaching Council for Scotland.
 
-**9.** A person who—
+**9.**[^c-24815e0558b63636be000d79224fab5f] A person who—
 
 - (a) has successfully completed the induction stage of teacher education in Northern Ireland, or
 - (b) was employed as a teacher in Northern Ireland at any time prior to the introduction of the induction stage of teacher training in Northern Ireland.
 
-**10.** A person who is, as respects the profession of school teacher, entitled to practice pursuant to Part 2 and Chapters 1, 2 and 4 of Part 3 of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^f00016].
+**10.**[^c-5aea4f15c87596d40ae1bf236486c863] A person who is, as respects the profession of school teacher, entitled to practice pursuant to Part 2 and Chapters 1, 2 and 4 of Part 3 of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^f00016].
 
-**11.** A person who has successfully completed a probationary period for teachers under arrangements approved and supervised by the Director of Education of Gibraltar.
+**11.**[^c-fefa5657e5509b834c11badd09681c77] A person who has successfully completed a probationary period for teachers under arrangements approved and supervised by the Director of Education of Gibraltar.
 
-**12.** A person who has successfully completed the States of Jersey Induction Programme for Newly Qualified Teachers.
+**12.**[^c-4783ae218176a89093dfcaaad03e68b0] A person who has successfully completed the States of Jersey Induction Programme for Newly Qualified Teachers.
 
-**13.** A person who has been approved by the States of Guernsey Education Department as having successfully completed an induction period for teachers.
+**13.**[^c-38cd5f9af9684a16b1d4b201c78e10f0] A person who has been approved by the States of Guernsey Education Department as having successfully completed an induction period for teachers.
 
-**14.** A person who has successfully completed an induction period for teachers under arrangements approved and supervised by the Isle of Man Department of Education.
+**14.**[^c-2f1403e9d197808c8a18e85f1712c880] A person who has successfully completed an induction period for teachers under arrangements approved and supervised by the Isle of Man Department of Education.
 
-**15.** A person who on or before 7th May 1999—
+**15.**[^c-c103b378608632a05fd5d92c07b8d809] A person who on or before 7th May 1999—
 
 - (a) was employed as a teacher at a relevant school in England or Wales; and
 - (b) either—
   - (i) had successfully completed a course of initial training for teachers in schools at an educational institution in Scotland, or
   - (ii) was registered as a teacher of primary or secondary education with the General Teaching Council for Scotland.
 
-**16.** A person who on or before 7th May 1999—
+**16.**[^c-a5cdd2c8c731170eb10ed61af1842e64] A person who on or before 7th May 1999—
 
 - (a) was employed as a teacher at a relevant school in England or Wales; and
 - (b) either—
   - (i) had successfully completed a course of initial training for teachers in schools at an educational institution in Northern Ireland, or
   - (ii) had been awarded confirmation of recognition as a teacher in schools in Northern Ireland by the Northern Ireland Department of Education, that confirmation not having been withdrawn at any time subsequent to the award.
 
-**17.** A person who is a qualified teacher and who became so qualified by virtue of regulation 5 of, and paragraph 12 of Schedule 2 to, the 2003 Qualifications Regulations.
+**17.**[^c-97486504cb43e0d178eaf845461bc108] A person who is a qualified teacher and who became so qualified by virtue of regulation 5 of, and paragraph 12 of Schedule 2 to, the 2003 Qualifications Regulations.
 
-**18.** A person who—
+**18.**[^c-93d445f207cc51dcaaae024ac98925ab] A person who—
 
 - (a) has successfully completed a programme of professional training for teachers in any country outside the United Kingdom and which is recognised as such by the competent authority in that country;
 - (b) has not less than two years’ full-time teaching experience, or its equivalent, in the United Kingdom or elsewhere;
 - (c) is a qualified teacher who became so qualified on or after 26th April 2001 by virtue of regulation 5 of, and paragraph 9 or 10 of Schedule 2 to, the 2003 Qualifications Regulations; and
 - (d) has been assessed by a person approved by the Training and Development Agency for Schools as meeting the standards mentioned in regulation 15.
 
-**19.** A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 13 of Schedule 2 to, the 2003 Qualifications Regulations.
+**19.**[^c-e805803529976e0f1fa82c1935745aed] A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 13 of Schedule 2 to, the 2003 Qualifications Regulations.
 
-**20.** A person who has successfully completed the Service Children’s Education Schools Induction Programme in Germany or Cyprus.
+**20.**[^c-09363d843e6626f3fb531ba859f90675] A person who has successfully completed the Service Children’s Education Schools Induction Programme in Germany or Cyprus.
 
-**21.** A person who on or before 1st September 2003 has successfully completed a course of initial teacher training in an educational institution in Wales.
+**21.**[^c-ab5ab8a4194ea97c5e195f5cc13c9bc9] A person who on or before 1st September 2003 has successfully completed a course of initial teacher training in an educational institution in Wales.
 
 ## SCHEDULE 3 — Special provisions applying to a qualified teacher who has not passed the numeracy skills test on completion of the induction period
 
 Regulation 16
 
-**1.** (1) In this Schedule—
+**1.**[^c-facd6cbadefa7fa51d48b6575567c5fc] (1) In this Schedule—
 
 - “the numeracy skills test” means the numeracy test for the time being determined by the Secretary of State as an induction standard under regulation 15 in relation to persons who qualified between 1<sup>st</sup> May 2000 and 30<sup>th</sup> April 2001.
 
@@ -483,34 +489,34 @@ Regulation 16
 - (a) qualified as a teacher between 1st May 2000 and 30th April 2001; and
 - (b) has completed an induction period but has not passed the numeracy skills test on the date when the induction period is completed.
 
-**2.** The head teacher of the institution at which that person is employed at the completion of the induction period must within the period of 10 working days beginning on the date when the induction period is completed—
+**2.**[^c-254f712bc60a1cb9414dd2dd9d59d967] The head teacher of the institution at which that person is employed at the completion of the induction period must within the period of 10 working days beginning on the date when the induction period is completed—
 
 - (a) make a written recommendation to the appropriate body as to whether that person has achieved the induction standards mentioned in regulation 15 except for passing the numeracy skills test, and
 - (b) at the same time send a copy of that written recommendation to that person.
 
-**3.** The appropriate body must—
+**3.**[^c-0c11339584b484c8c024b01ec49e308a] The appropriate body must—
 
 - (a) not take any decision pursuant to regulation 16(5) in respect of such a person;
 - (b) notify the Council that it has received notice of such a person and identifying that person;
 - (c) notify the employer of the person to whom this Schedule applies where that employer is not the appropriate body; and
 - (d) at the same time send a copy of such notification to that person.
 
-**4.** The employer of a person to whom this Schedule applies is to secure the termination of that person’s employment as a teacher so that the termination takes effect as soon as practicable at the end of the induction period.
+**4.**[^c-b97f11f2dc91d560ce916b6963d5d044] The employer of a person to whom this Schedule applies is to secure the termination of that person’s employment as a teacher so that the termination takes effect as soon as practicable at the end of the induction period.
 
-**5.** A person to whom this Schedule applies but who subsequently passes the numeracy skills test must give written notification of that fact to—
+**5.**[^c-05b525024025edc7b10f3d8265098c54] A person to whom this Schedule applies but who subsequently passes the numeracy skills test must give written notification of that fact to—
 
 - (a) the appropriate body; and
 - (b) the Council.
 
-**6.** The appropriate body, within the period of 20 working days beginning with the date on which it receives such notification, must take a decision pursuant to regulation 16(5).
+**6.**[^c-dd0a0bb1c483f051a1e832e83db17fc9] The appropriate body, within the period of 20 working days beginning with the date on which it receives such notification, must take a decision pursuant to regulation 16(5).
 
-**7.** Notification under paragraphs 3 and 5 may be given by facsimile, electronic mail or other similar means which are capable of producing a document containing the text of the communication, and notification sent by such method is regarded as given when it is received in legible form.
+**7.**[^c-e8b23aa6123cd4f6a54e53c47bb76da3] Notification under paragraphs 3 and 5 may be given by facsimile, electronic mail or other similar means which are capable of producing a document containing the text of the communication, and notification sent by such method is regarded as given when it is received in legible form.
 
 ## SCHEDULE 4 — Procedure for appeal against a decision of the appropriate body
 
 Regulation 19
 
-### 1. Interpretation
+### 1. Interpretation[^c-5886df61caef088f4792a4c92afe730f]
 
 In this Schedule—
 
@@ -519,7 +525,7 @@ In this Schedule—
 - “disputed decision” means the decision against which the appeal is brought; and
 - “the proper officer” means the person appointed by the Council to perform the duties of the proper officer under this Schedule.
 
-### 2. Time for and manner of making an appeal
+### 2. Time for and manner of making an appeal[^c-aab3297abbcba939bec6f04ce19b6f9e]
 
 (1) An appeal is to be made by sending a notice of appeal to the proper officer so that it is received not later than the end of the period of 20 working days beginning with the date on which the appellant received notice under regulation 16(5) of the disputed decision.
 
@@ -527,7 +533,7 @@ In this Schedule—
 
 (3) Where the appellant considers it likely that a notice of appeal will be received outside the time limit imposed by sub-paragraph (1) that person may include with the notice of appeal a statement of the reasons on which that person relies to justify the delay and the Council must consider any such statement in deciding whether or not to extend the time limit.
 
-### 3. The notice of appeal
+### 3. The notice of appeal[^c-e52cd0ec9cf324d34d8da2db23cc8db7]
 
 (1) The notice of appeal must state—
 
@@ -546,7 +552,7 @@ In this Schedule—
 - (b) any written statement given to the appellant by the appropriate body giving reasons for its decision; and
 - (c) every other document on which the appellant relies for the purposes of the appeal.
 
-### 4. Additional documents, amendment and withdrawal of the appeal
+### 4. Additional documents, amendment and withdrawal of the appeal[^c-64a39de58eeb23c45cc1db22ac1ff0cf]
 
 (1) The appellant may at any time before receiving notice under paragraph 13 of the date fixed for the hearing or of a decision of the Council under paragraph 11—
 
@@ -560,7 +566,7 @@ In this Schedule—
 
 (4) An appeal is to be amended or withdrawn by sending to the proper officer an amended notice of appeal or a notice stating that the appeal is withdrawn, as the case may be.
 
-### 5. Acknowledgement and notification of the appeal
+### 5. Acknowledgement and notification of the appeal[^c-3945ac704e0537947c6ac2d153f345db]
 
 (1) The proper officer must not later than the end of the period of 3 working days beginning with the date on which the Council received the notice of appeal—
 
@@ -571,7 +577,7 @@ In this Schedule—
 
 (2) The proper officer must not later than the end of the period of 3 working days beginning with the date on which the Council received from the appellant any additional documents, amended grounds of appeal, amended documents submitted in support of an appeal or notice of withdrawal of an appeal send a copy to the appropriate body.
 
-### 6. Request for further material
+### 6. Request for further material[^c-6590bdbd3c20925dae164034b750ba10]
 
 (1) Where the Council decides the appeal could be decided more fairly and efficiently if the appellant provided further material, it may send to the appellant a notice inviting him to supply that material by not later than the end of the period of 10 working days beginning with the date of the notice.
 
@@ -579,7 +585,7 @@ In this Schedule—
 
 (3) The proper officer must not later than the end of the period of 3 working days beginning with the date on which the Council received further material under sub-paragraph (1) send a copy of it to the appropriate body.
 
-### 7. Reply by the appropriate body
+### 7. Reply by the appropriate body[^c-0abe6cec6201deca9f05cb0e8c06ca6a]
 
 (1) The appropriate body must send to the proper officer a reply fulfilling the requirements of paragraph 8 so that it is received not later than the end of the period of 20 working days beginning with the date on which the appropriate body received a copy of the notice of appeal.
 
@@ -587,7 +593,7 @@ In this Schedule—
 
 (3) The Council is to allow the appeal where the appropriate body states in the reply, or at any time states in writing, that it does not seek to uphold the disputed decision, and must do so not later than the end of the period of 3 working days beginning with the date on which the Council received notification that the appropriate body did not seek to uphold the disputed decision.
 
-### 8. Contents of the reply
+### 8. Contents of the reply[^c-3bcc44304f5f01832a3959f8c8c1a8c2]
 
 (1) The reply must state—
 
@@ -603,7 +609,7 @@ In this Schedule—
 - (a) any document on which it wishes to reply for the purpose of opposing the appeal; and
 - (b) where the appellant has not sent to the proper officer a copy of a written statement given to that person by the appropriate body giving reasons for its decision, a statement giving reasons for the decision.
 
-### 9. Additional documents, amendment and withdrawal of the reply
+### 9. Additional documents, amendment and withdrawal of the reply[^c-7a0cb95ff367f8b1df40560a1c53de02]
 
 (1) The appropriate body may at any time before it receives notice under paragraph 13 of the date fixed for the hearing or of a decision of the Council under paragraph 11—
 
@@ -615,7 +621,7 @@ In this Schedule—
 
 (3) A reply is to be amended or withdrawn by sending to the proper officer an amended reply or a notice stating that the reply is withdrawn, as the case may be.
 
-### 10. Acknowledgement and notification of the reply
+### 10. Acknowledgement and notification of the reply[^c-6095deda042477e9bdb564dd421250da]
 
 (1) The proper officer must not later than the end of the period of 3 working days beginning with the date on which the Council received the reply—
 
@@ -624,7 +630,7 @@ In this Schedule—
 
 (2) The proper officer must not later than the end of the period of 3 working days beginning with the date on which the Council received from the appropriate body any additional documents, amended reply, amended documents submitted in support of a reply, or notice of withdrawal of a reply send a copy to the appellant.
 
-### 11. Power to decide the appeal without a hearing
+### 11. Power to decide the appeal without a hearing[^c-9783174a3a5d37acfe2cf0e8a90421d2]
 
 (1) Where following the expiry of the period within which the appropriate body is required to send its reply neither the appellant nor the appropriate body has requested an oral hearing, and the Council does not consider an oral hearing is necessary, the Council may decide the appeal without an oral hearing.
 
@@ -632,11 +638,11 @@ In this Schedule—
 
 (3) If the Council decides the appeal without an oral hearing, it must send notice of its decision as required by paragraph 17.
 
-### 12. Appeal hearing
+### 12. Appeal hearing[^c-2c2d0cf6d6640344b7efc8d83ec003e1]
 
 Paragraphs 13 to 16 apply where the appeal is to be decided on the basis of an oral hearing.
 
-### 13. Fixing a date for the hearing
+### 13. Fixing a date for the hearing[^c-e9e50d3249caa2f29782081c6cc287eb]
 
 (1) The Council must—
 
@@ -652,7 +658,7 @@ Paragraphs 13 to 16 apply where the appeal is to be decided on the basis of an o
 
 (3) The date fixed for the hearing must not be less than 15 working days after the date of the notice.
 
-### 14. Action by the appellant and the appropriate body on receiving notice of the hearing
+### 14. Action by the appellant and the appropriate body on receiving notice of the hearing[^c-821a397961d9562fb2c5ec089086ee2b]
 
 (1) Not less than 10 working days before the date fixed for the hearing the appellant and the appropriate body—
 
@@ -662,13 +668,13 @@ Paragraphs 13 to 16 apply where the appeal is to be decided on the basis of an o
 
 (2) The proper officer must not later than the end of the period of 3 working days beginning with the date on which representations are received send to each party a copy of any representations received by that person from the other party under this paragraph.
 
-### 15. Alteration of place or time of the hearing
+### 15. Alteration of place or time of the hearing[^c-9e6f6faf4c93f00a929d215208cd5f6f]
 
 (1) The Council may alter the place or time of the hearing in such circumstances as it considers appropriate provided that the altered date of the hearing is not earlier than the original date.
 
 (2) Where the Council alters the place or time of the hearing the proper officer must without delay and in any event not later than the end of the period of 3 working days beginning with the date on which the alteration was made send a notice to the appellant and the appropriate body informing them of the alteration.
 
-### 16. Procedure at the hearing
+### 16. Procedure at the hearing[^c-fe88057720fcf4d33aadfedcc6c87155]
 
 (1) Subject to the following provisions of this paragraph the Council must determine the procedure at the hearing of the appeal.
 
@@ -686,7 +692,7 @@ Paragraphs 13 to 16 apply where the appeal is to be decided on the basis of an o
 
 (8) The time and place for an adjourned hearing is either to be announced before the adjournment or the Council must without delay and in any event not later than the end of the period of 3 working days beginning with the date of the adjournment send notice to the appellant and the appropriate body informing them of the time and place of the adjourned hearing.
 
-### 17. Decision of the Council
+### 17. Decision of the Council[^c-7245271c84a44a54fb3bb21457c47a01]
 
 (1) The decision of the Council may be made and announced at the end of the hearing but, in any event whether there has been a hearing or not, must be recorded immediately it is made in a document which must also contain a statement of the reasons for the decision and must be signed and dated by a person authorised by the Council.
 
@@ -695,13 +701,13 @@ Paragraphs 13 to 16 apply where the appeal is to be decided on the basis of an o
 - (a) send a copy of the document referred to in sub-paragraph (1) to the appellant, the appropriate body and the head teacher of the institution at which the appellant was employed at the completion of the appellant’s induction period; and
 - (b) if a person or body other than the appropriate body is named as the appellant’s employer in the notice of appeal, notify that person or that body of its decision.
 
-### 18. Irregularities
+### 18. Irregularities[^c-8f41ee4efaad7a5fba66d539cd6f9c82]
 
 (1) Any irregularity resulting from failure to comply with any provision of this Schedule before the Council has reached its decision does not of itself render the proceedings void.
 
 (2) Where any such irregularity comes to the attention of the Council, it may and must if it considers either party may have been prejudiced by the irregularity, give such directions as it thinks just before reaching its decision to cure or waive the irregularity.
 
-### 19. Documents
+### 19. Documents[^c-ede3372400232812058021bf65ee9cf7]
 
 (1) Anything required to be sent to a person for the purposes of an appeal under this Schedule may be—
 
@@ -741,6 +747,12 @@ The Explanatory Memorandum for this instrument is available on the website of th
 
 [^f00001]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); section 19 was amended by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 139 and by the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32) Schedule 21, paragraph 85. By virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) the powers conferred by sections 19 and 42 are exercisable by the Secretary of State only in relation to England. For the meaning of “prescribed” and “regulations” *see* section 43(1).
 
+[^c-dbe472660edd3bf92271da28581b7a6c]: Commencement: Reg. 1 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-f69ad0f5bec4ac9ec8dee571ce6cc3b2]: Commencement: Reg. 2 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-efccee3db1b2076609c1a56e578ee584]: Commencement: Reg. 3 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^f00003]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
@@ -761,12 +773,146 @@ The Explanatory Memorandum for this instrument is available on the website of th
 
 [^f00011]: Footnote: [1971 c 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
+[^c-c4c525626b7cb68aaf4c28ec83e55a94]: Commencement: Reg. 4 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-10abf605ec560824162822cbcc7effac]: Commencement: Reg. 5 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-4281e6747ce139a2aeb4049e6c17b813]: Commencement: Reg. 6 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-d04a4edc5673c15b904320bf3a439e32]: Commencement: Reg. 7 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
 [^f00012]: Footnote: For the definition of “relevant school” see section 19(10)(b) of the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30) as amended by the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32) Schedule 21 paragraph 85(c).
 
 [^f00013]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30).
 
+[^c-e95952bea4579ff242ccf11bf57b5018]: Commencement: Reg. 8 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-5a41f218296f3c2b46c71e57ab6b0f7e]: Commencement: Reg. 9 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-18f868c5404ca04588d1b3910a53e297]: Commencement: Reg. 10 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-6a4739be087f1b51e3db430c93888464]: Commencement: Reg. 11 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
 [^f00014]: Footnote: [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312); regulation 7 has been amended by [S.I. 2002/2789](https://www.legislation.gov.uk/uksi/2002/2789) and [2006/2014](https://www.legislation.gov.uk/uksi/2006/2014).
+
+[^c-a083be4a16551e5dcc74200cd6d2454d]: Commencement: Reg. 12 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-40789b8d63e4bd468f6b19dface373de]: Commencement: Reg. 13 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-de951487e879dba9b72db313d8e39be7]: Commencement: Reg. 14 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-a601e7970aceda45f880790df51a62a4]: Commencement: Reg. 15 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-7b92c9211c4b67dbaf812e3e711c9e0b]: Commencement: Reg. 16 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-ede8a1e0424a636c628738ad543a6387]: Commencement: Reg. 17 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-34e96dc9fd35217c00a3f96e29abfefd]: Commencement: Reg. 18 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-a6b5a0f36bbb674297983ec9cfa52fe2]: Commencement: Reg. 19 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-5d1c433789cbf8d90942c2bae7174516]: Commencement: Reg. 20 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-f74c0492bcd558c9c575b1e2775cd9d4]: Commencement: Reg. 21 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-65ec4f58add8ceafa0fd3af93d47e746]: Commencement: Reg. 22 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-cc14bb3ab6f22bd7e52502df13ee884c]: Commencement: Sch. 1 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-4f84b55e7b3fcc07aa0e8dd07bf8168b]: Commencement: Sch. 2 para. 1 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-cde1519991ab06f0b3035b1d991952d2]: Commencement: Sch. 2 para. 2 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-ea999a7920305c6ff9f6887c76c7d16a]: Commencement: Sch. 2 para. 3 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-3220af153e6091685c24f56b1ca833ac]: Commencement: Sch. 2 para. 4 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-2df92d0e4e659f7d150ccae2fa2c33ca]: Commencement: Sch. 2 para. 5 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-22dba3a4970884931dbadf0d5631941c]: Commencement: Sch. 2 para. 6 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
 
 [^f00015]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30).
 
+[^c-ad9707f6254073ac95be34233be435bc]: Commencement: Sch. 2 para. 7 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-d76d5e343fab66373d4682125f2c6de9]: Commencement: Sch. 2 para. 8 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-24815e0558b63636be000d79224fab5f]: Commencement: Sch. 2 para. 9 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-5aea4f15c87596d40ae1bf236486c863]: Commencement: Sch. 2 para. 10 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
 [^f00016]: Footnote: [S.I. 2007/278](https://www.legislation.gov.uk/uksi/2007/278).
+
+[^c-fefa5657e5509b834c11badd09681c77]: Commencement: Sch. 2 para. 11 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-4783ae218176a89093dfcaaad03e68b0]: Commencement: Sch. 2 para. 12 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-38cd5f9af9684a16b1d4b201c78e10f0]: Commencement: Sch. 2 para. 13 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-2f1403e9d197808c8a18e85f1712c880]: Commencement: Sch. 2 para. 14 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-c103b378608632a05fd5d92c07b8d809]: Commencement: Sch. 2 para. 15 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-a5cdd2c8c731170eb10ed61af1842e64]: Commencement: Sch. 2 para. 16 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-97486504cb43e0d178eaf845461bc108]: Commencement: Sch. 2 para. 17 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-93d445f207cc51dcaaae024ac98925ab]: Commencement: Sch. 2 para. 18 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-e805803529976e0f1fa82c1935745aed]: Commencement: Sch. 2 para. 19 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-09363d843e6626f3fb531ba859f90675]: Commencement: Sch. 2 para. 20 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-ab5ab8a4194ea97c5e195f5cc13c9bc9]: Commencement: Sch. 2 para. 21 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-facd6cbadefa7fa51d48b6575567c5fc]: Commencement: Sch. 3 para. 1 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-254f712bc60a1cb9414dd2dd9d59d967]: Commencement: Sch. 3 para. 2 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-0c11339584b484c8c024b01ec49e308a]: Commencement: Sch. 3 para. 3 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-b97f11f2dc91d560ce916b6963d5d044]: Commencement: Sch. 3 para. 4 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-05b525024025edc7b10f3d8265098c54]: Commencement: Sch. 3 para. 5 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-dd0a0bb1c483f051a1e832e83db17fc9]: Commencement: Sch. 3 para. 6 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-e8b23aa6123cd4f6a54e53c47bb76da3]: Commencement: Sch. 3 para. 7 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-5886df61caef088f4792a4c92afe730f]: Commencement: Sch. 4 para. 1 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-aab3297abbcba939bec6f04ce19b6f9e]: Commencement: Sch. 4 para. 2 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-e52cd0ec9cf324d34d8da2db23cc8db7]: Commencement: Sch. 4 para. 3 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-64a39de58eeb23c45cc1db22ac1ff0cf]: Commencement: Sch. 4 para. 4 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-3945ac704e0537947c6ac2d153f345db]: Commencement: Sch. 4 para. 5 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-6590bdbd3c20925dae164034b750ba10]: Commencement: Sch. 4 para. 6 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-0abe6cec6201deca9f05cb0e8c06ca6a]: Commencement: Sch. 4 para. 7 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-3bcc44304f5f01832a3959f8c8c1a8c2]: Commencement: Sch. 4 para. 8 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-7a0cb95ff367f8b1df40560a1c53de02]: Commencement: Sch. 4 para. 9 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-6095deda042477e9bdb564dd421250da]: Commencement: Sch. 4 para. 10 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-9783174a3a5d37acfe2cf0e8a90421d2]: Commencement: Sch. 4 para. 11 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-2c2d0cf6d6640344b7efc8d83ec003e1]: Commencement: Sch. 4 para. 12 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-e9e50d3249caa2f29782081c6cc287eb]: Commencement: Sch. 4 para. 13 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-821a397961d9562fb2c5ec089086ee2b]: Commencement: Sch. 4 para. 14 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-9e6f6faf4c93f00a929d215208cd5f6f]: Commencement: Sch. 4 para. 15 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-fe88057720fcf4d33aadfedcc6c87155]: Commencement: Sch. 4 para. 16 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-7245271c84a44a54fb3bb21457c47a01]: Commencement: Sch. 4 para. 17 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-8f41ee4efaad7a5fba66d539cd6f9c82]: Commencement: Sch. 4 para. 18 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)
+
+[^c-ede3372400232812058021bf65ee9cf7]: Commencement: Sch. 4 para. 19 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1)

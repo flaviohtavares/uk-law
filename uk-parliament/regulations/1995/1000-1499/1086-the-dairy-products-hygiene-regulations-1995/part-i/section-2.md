@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 2
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## 2. Interpretation
+## 2. Interpretation[^c-efc5ac287bd1d575b3f4635e9e818fc5]
+
+*Extent: E+W*
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -103,6 +107,8 @@ summary: ''
 (3) Except in so far as the context otherwise requires, any reference in these Regulations to a numbered regulation or Schedule shall be construed as a reference to the regulation or Schedule bearing that number in these Regulations.
 
 ## Annotations
+
+[^c-efc5ac287bd1d575b3f4635e9e818fc5]: Commencement: Reg. 2 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
 
 [^f00002]: Footnote: OJ No. L268, 14.9.92, p.1.
 

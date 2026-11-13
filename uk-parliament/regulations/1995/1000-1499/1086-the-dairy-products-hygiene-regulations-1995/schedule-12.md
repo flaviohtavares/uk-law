@@ -2,9 +2,9 @@
 title: The Dairy Products (Hygiene) Regulations 1995, SCHEDULE 12
 act: The Dairy Products (Hygiene) Regulations 1995
 section: schedule-12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '1995-05-09'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/schedule/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, SCHEDULE 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+>
+> Extent: England, Wales.
 
-## SCHEDULE 12 — REVOCATIONS
+## SCHEDULE 12 — REVOCATIONS[^c-98aa90d614db717ef31182bc9ec9b175]
+
+*Extent: E+W*
 
 **Regulation 23**
 
@@ -43,3 +47,7 @@ summary: ''
 | The Food Safety (Exports) Regulations 1991. | [S.I. 1991/1476](https://www.legislation.gov.uk/uksi/1991/1476) | The reference in Schedule 1 to the Milk-based Drinks (Hygiene and Heat Treatment) Regulations 1983, the Milk and Dairies (Heat Treatment of Cream) Regulations 1983, the Milk and Dairies (Semi-skimmed and Skimmed Milk) (Heat Treatment and Labelling) Regulations 1988 and the Milk (Special Designation) Regulations 1989. |
 | Milk (Special Designation) Regulations (Amendment) Order 1992. | [S.I. 1992/1208](https://www.legislation.gov.uk/uksi/1992/1208) | The whole Regulations. |
 | Milk and Dairies (Standardisation and Importation) Regulations 1992. | [S.I. 1992/3143](https://www.legislation.gov.uk/uksi/1992/3143) | Regulations 3, 5 and 6. |
+
+## Annotations
+
+[^c-98aa90d614db717ef31182bc9ec9b175]: Commencement: Sch. 12 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)

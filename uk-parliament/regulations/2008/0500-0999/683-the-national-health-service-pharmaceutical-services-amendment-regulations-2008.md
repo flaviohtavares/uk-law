@@ -3,16 +3,16 @@ title: The National Health Service (Pharmaceutical Services) (Amendment) Regulat
 id: uksi/2008/683
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-06'
-text_date: null
-extent: null
+text_date: '2008-03-06'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/683
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/683/pdfs/uksiem_20080683_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/683/pdfs/uksi_20080683_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/683/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/683/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The National Health Service (Pharmaceutical Services) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2008-03-06. See https://www.legislation.gov.uk/changes/affected/uksi/2008/683
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 683
 
@@ -42,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 126, 129, 164(6) and (7) and 272(7) and (8) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation, commencement, application and interpretation
+## 1. Citation, commencement, application and interpretation[^c-1ff49d22e8e9fd2e8f9f54d13cbe1d2f]
 
 (1) These Regulations may be cited as the National Health Service (Pharmaceutical Services) (Amendment) Regulations 2008 and come into force on 21st April 2008.
 
@@ -50,7 +56,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In these Regulations, the “principal Regulations” means the National Health Service (Pharmaceutical Services) Regulations 2005[^f00002].
 
-## 2. Insertion of new regulation 56A in the principal Regulations
+## 2. Insertion of new regulation 56A in the principal Regulations[^c-1f93037d729336ed25c325e01fccd392]
 
 After regulation 56 (provisions relating to determinations under section 164 of the 2006 Act) of the principal Regulations, insert—
 
@@ -71,14 +77,14 @@ After regulation 56 (provisions relating to determinations under section 164 of 
 
 .
 
-## 3. Amendment of Schedule 1 to the principal Regulations
+## 3. Amendment of Schedule 1 to the principal Regulations[^c-517997e28eafd10910c4b558651537bd]
 
 In Schedule 1 to the principal Regulations (terms of service of pharmacists)—
 
 - (a) in sub-paragraph (2)(a)(i) of paragraph 26 (clinical governance), omit the words “, and make available in an appropriate manner,”, and insert after “practice leaflet”, the words “containing approved particulars”; and
 - (b) in sub-paragraph (1)(a) of paragraph 28 (inducements etc.), for the words “non-electronic prescription form or non-electronic repeatable prescription” substitute “prescription form or repeatable prescription”.
 
-## 4. Amendment of Schedule 4 to the principal Regulations
+## 4. Amendment of Schedule 4 to the principal Regulations[^c-aedb31fd76c50c9946a354e5b20c30fd]
 
 In paragraph 2 (details of applicant) of Part 1 of Schedule 4 to the principal Regulations (information to be included in an application for inclusion in a Pharmaceutical List or inclusion in a List in respect of different services or premises), after the word “superintendent” omit “(where known)”.
 
@@ -110,4 +116,12 @@ A full Impact Assessment has not been produced for this Instrument as it has no 
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). *See* section 275(1) for the definition of “prescribed” and “regulations”.
 
+[^c-1ff49d22e8e9fd2e8f9f54d13cbe1d2f]: Commencement: Reg. 1 in force at 21.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/683/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2005/641](https://www.legislation.gov.uk/uksi/2005/641); relevant amending instruments are [2005/1015](https://www.legislation.gov.uk/uksi/2005/1015), [1501](https://www.legislation.gov.uk/uksi/2005/1501), [3315](https://www.legislation.gov.uk/uksi/2005/3315) and [3491](https://www.legislation.gov.uk/uksi/2005/3491) and [2006/552](https://www.legislation.gov.uk/uksi/2006/552), [562](https://www.legislation.gov.uk/uksi/2006/562), [913](https://www.legislation.gov.uk/uksi/2006/913), [1501](https://www.legislation.gov.uk/uksi/2006/1501) and [3373](https://www.legislation.gov.uk/uksi/2006/3373) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [674](https://www.legislation.gov.uk/uksi/2007/674).
+
+[^c-1f93037d729336ed25c325e01fccd392]: Commencement: Reg. 2 in force at 21.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/683/regulation/1/1)
+
+[^c-517997e28eafd10910c4b558651537bd]: Commencement: Reg. 3 in force at 21.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/683/regulation/1/1)
+
+[^c-aedb31fd76c50c9946a354e5b20c30fd]: Commencement: Reg. 4 in force at 21.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/683/regulation/1/1)

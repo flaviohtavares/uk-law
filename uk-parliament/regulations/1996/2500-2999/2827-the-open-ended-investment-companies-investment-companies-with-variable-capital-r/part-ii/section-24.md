@@ -2,9 +2,9 @@
 title: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 24
 act: The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-11-11'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1996/2827/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
 
-## 24. Investigations: supplementary
+## 24. Investigations: supplementary[^c-3f5a8a53189b376bce52f79579298615]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 (1) Where a person claims a lien on a document its production under regulation 22 above shall be without prejudice to the lien.
 
@@ -43,5 +49,7 @@ summary: ''
 - (b) subject to the same conditions.
 
 ## Annotations
+
+[^c-3f5a8a53189b376bce52f79579298615]: Commencement: Reg. 24 in force at 6.1.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2827/regulation/1/2)
 
 [^f00015]: Footnote: Section 205 was substituted by section 206(1) of, and paragraph 18 of Schedule 23 to, the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40) and amended by the Transfer of Functions (Financial Services) Order 1992 (S.I. [1992/1315](https://www.legislation.gov.uk/uksi/1992/1315)).
