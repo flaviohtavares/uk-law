@@ -3,7 +3,7 @@ title: The Senedd Cymru (Representation of the People) Order 2025, section 10
 act: The Senedd Cymru (Representation of the People) Order 2025
 section: '10'
 status: revised-with-pending-changes
-text_date: '2026-03-24'
+text_date: '2026-11-03'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2025/864/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Senedd Cymru (Representation of the People) Order 2025, section 10
 
-> **Warning: changes not yet applied to this text (31).** Text as at 2026-03-24. See https://www.legislation.gov.uk/changes/affected/wsi/2025/864
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-03. See https://www.legislation.gov.uk/changes/affected/wsi/2025/864
 >
 > Extent: England, Wales.
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Where a person applies to the registration officer to vote by post as proxy—
 
-- (a) at Senedd elections, whether for an indefinite period or for a particular period specified in the person’s application, or
+- (a) at Senedd elections, [^c-868536cbee9db9d6911055f0592ce776]... or
 - (b) at a particular Senedd election,
 
 the registration officer must grant the application if the conditions set out in paragraph (5) are satisfied.
@@ -40,9 +40,14 @@ the registration officer must grant the application if the conditions set out in
 - (c) the application contains the applicant’s signature and date of birth, and
 - (d) the application meets the requirements set out in Schedule 1.
 
+(5A)[^c-c4e889b17b5d11507af179092c234e13] Any application granted under paragraph (4)(a) to vote by post as proxy, is to be granted for—
+
+- (a) the period ending with the third 31 January following the date on which the application is granted, or
+- (b) any shorter period specified in the application.
+
 (6) The registration officer must keep a record of the persons whose applications under paragraph (4)(a) have been granted showing—
 
-- (a) whether their applications were to vote by post as proxy for an indefinite or a particular period, specifying that period, and
+- (a)[^c-aff1ccb8fea0d0cfcadaa44d716c8169] the periods for which they may vote by post as proxy, in accordance with paragraph (5A), and
 - (b) the addresses provided by them in their applications as the addresses to which their ballot papers are to be sent.
 
 (7) Where, in the case of a particular election, a person included in the record kept under paragraph (6) applies to the registration officer for their ballot paper to be sent to a different address from that shown in the record, the registration officer must grant the application if it meets the requirements set out in Schedule 1.
@@ -59,7 +64,7 @@ together with the addresses provided by them in their applications under paragra
 (10) The registration officer must remove a person from the record kept under paragraph (8)—
 
 - (a) if that person applies to the registration officer to be removed,
-- (b) in the case of a person who applied to vote by post as proxy for a particular period, once that period expires,
+- (b) in the case of a person who applied to vote by post as proxy , once the period for which the person is entitled to vote by post as proxy, in accordance with paragraph (5A), has ended[^c-eb2d04416eb707f31a7e1cf2f8454eb4],
 - (c) if the elector ceases to be registered in the register of electors, or
 - (d) if the appointment of the person concerned as the elector’s proxy ceases to be in force, whether or not that person is re-appointed.
 
@@ -81,3 +86,11 @@ together with the addresses provided by them in their applications under paragra
 ## Annotations
 
 [^c-5c5c0fa13c9f3479fa6381c6cb318226]: Commencement: Art. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+
+[^c-868536cbee9db9d6911055f0592ce776]: Textual amendment: Words in [art. 10(4)(a)](https://www.legislation.gov.uk/wsi/2025/864/article/10/4/a) omitted (3.11.2026) by virtue of [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [6(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/6/2) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-c4e889b17b5d11507af179092c234e13]: Textual amendment: [Art. 10(5A)](https://www.legislation.gov.uk/wsi/2025/864/article/10/5A) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [6(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/6/3) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-aff1ccb8fea0d0cfcadaa44d716c8169]: Textual amendment: [Art. 10(6)(a)](https://www.legislation.gov.uk/wsi/2025/864/article/10/6/a) substituted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [6(4)](https://www.legislation.gov.uk/wsi/2026/91/regulation/6/4) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-eb2d04416eb707f31a7e1cf2f8454eb4]: Textual amendment: Words in [art. 10(10)(b)](https://www.legislation.gov.uk/wsi/2025/864/article/10/10/b) substituted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [6(5)](https://www.legislation.gov.uk/wsi/2026/91/regulation/6/5) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))

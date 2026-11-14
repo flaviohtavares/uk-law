@@ -201,7 +201,7 @@ Laws in force under the legislation.gov.uk subject heading **EUROPEAN COMMUNITIE
 - [The EC Competition Law (Articles 88 and 89) Enforcement Regulations 1996](../uk-parliament/regulations/1996/2000-2499/2199-the-ec-competition-law-articles-88-and-89-enforcement-regulations-1996.md) *(as originally made)*
 - [The European Communities (Iron and Steel Employees Re-adaptation Benefits Scheme) (No. 2) (Amendment) Regulations 1996](../uk-parliament/regulations/1996/3000-3499/3182-the-european-communities-iron-and-steel-employees-re-adaptation-benefits-scheme.md) *(as originally made)*
 - [The Harbour Works (Assessment of Environmental Effects) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/369-the-harbour-works-assessment-of-environmental-effects-amendment-regulations-nort.md) *(as originally made)*
-- [The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/217-the-protection-of-water-against-agricultural-nitrate-pollution-regulations-north.md) *(as originally made)*
+- [The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/217-the-protection-of-water-against-agricultural-nitrate-pollution-regulations-north.md) *(changes pending)*
 
 **1995**
 

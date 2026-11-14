@@ -3,14 +3,14 @@ title: The Highways (Road Humps) Regulations 1999
 id: uksi/1999/1025
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1999-03-30'
-text_date: null
-extent: null
+text_date: '1999-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1999/1025
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1999/1025/pdfs/uksi_19991025_en.pdf
-- http://www.legislation.gov.uk/uksi/1999/1025/made/data.pdf
+- http://www.legislation.gov.uk/uksi/1999/1025/data.pdf
 pending_changes: 7
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Highways (Road Humps) Regulations 1999
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (7).** Text as at 1999-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/1999/1025
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 1999 No. 1025
 
@@ -41,11 +45,11 @@ Coming into force
 
 The Secretary of State for the Environment, Transport and the Regions, as respects England, and the Secretary of State for Wales, as respects Wales, make these Regulations in exercise of powers conferred by sections 90C(1) and 90D(1) and (2) of the Highways Act 1980[^f00001], and of all other powers enabling them in that behalf, and after consultation with representative organisations in accordance with sections 90C(6) and 90D(3) of that Act–
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-f1ec2e1e9f4263026c9c71e3bd898bb1]
 
 These Regulations may be cited as the Highways (Road Humps) Regulations 1999 and shall come into force on 28th April 1999.
 
-## 2. Interpretation
+## 2. Interpretation[^c-1176b40e8e2dadcb02433c5fb5093e0b]
 
 (1) In these Regulations–
 
@@ -59,7 +63,7 @@ These Regulations may be cited as the Highways (Road Humps) Regulations 1999 and
 
 (2) A reference in these Regulations to a traffic sign is a reference to that sign, if used in Wales, with the prefix W as prescribed by the Traffic Signs (Welsh and English Language Provisions) Regulations 1985[^f00005].
 
-## 3. Consultation about road hump proposals
+## 3. Consultation about road hump proposals[^c-e4312015f4977e226eb8ce1dc8b07b5d]
 
 Where the Secretary of State or a local highway authority proposes to construct a road hump, he or they shall, as well as consulting the chief officer of police as required by section 90C(1) of the Act, also consult–
 
@@ -67,7 +71,7 @@ Where the Secretary of State or a local highway authority proposes to construct 
 - (b) in all cases, the chief officer of the fire brigade for the area in which the highway concerned is situated and the chief officer of any body providing ambulance services under the National Health Service Act 1977[^f00006] and operating in that area;
 - (c) in all cases, organisations appearing to him or them to represent persons who use the highway to which the proposal related, or to represent persons who are otherwise likely to be affected by the road hump.
 
-## 4. Nature, dimensions and location of road humps
+## 4. Nature, dimensions and location of road humps[^c-f766916c7a39a2202a1f72fbc862292a]
 
 (1) Subject to regulation 7, no road hump shall be constructed or maintained in a highway unless–
 
@@ -91,7 +95,7 @@ Where the Secretary of State or a local highway authority proposes to construct 
 - (c) under or within 25 metres of any part of a structure over a carriageway of that highway any part of which is 6.5 metres or less above the surface of the carriageway; or,
 - (d) above or within 25 metres of any part of a bridge over which a carriageway of that highway passes or any part of a tunnel, culvert or other similar structure which crosses beneath a carriageway of that highway.
 
-## 5. Lighting of road humps
+## 5. Lighting of road humps[^c-9ba083943e71da6c1d86aab0ea730709]
 
 Subject to regulation 7 no road hump shall be constructed in any highway unless in that highway there is lighting for that road hump which is–
 
@@ -99,17 +103,17 @@ Subject to regulation 7 no road hump shall be constructed in any highway unless 
 - (b) a system of street lighting complying with the British Standard for Road Lighting published by the British Standards Institution under number BS 5489 or with an equivalent standard or code of practice published by a national standards body or equivalent body of any EEA State before 28th April 1999; or,
 - (c) lighting specially provided for the road hump.
 
-## 6. Placing of traffic signs
+## 6. Placing of traffic signs[^c-6e3823ab191282a959762296a31bcbdd]
 
 Subject of regulation 7, where a road hump is constructed in a highway the highway authority for that highway shall cause to be placed and thereafter cause to be maintained appropriate traffic signs as prescribed in the Traffic Signs Regulations in such positions (if such positions are not prescribed in the Traffic Signs Regulations) as the authority may consider requisite for the purpose of providing adequate warning of the presence of a road hump or series of road humps to persons using the highway.
 
-**7.** Where a road hump is placed in a highway which is in a 20 miles per hour zone, the provisions of regulations 4(1)(a), 4(6)(c) and (d), 5 and 6 shall not apply.
+**7.**[^c-cf0b1218a24bba0d99b6c3a0f4eeace3] Where a road hump is placed in a highway which is in a 20 miles per hour zone, the provisions of regulations 4(1)(a), 4(6)(c) and (d), 5 and 6 shall not apply.
 
-## 8. Revocation
+## 8. Revocation[^c-b84e5cd4b09e9c366551717001f97f79]
 
 The Highways (Road Humps) Regulations 1996[^f00008] are hereby revoked.
 
-## 9. Saving
+## 9. Saving[^c-a3e45112cc36f693949da0b98d5e88a2]
 
 A road hump constructed in compliance with the Highways (Road Humps) Regulations 1996 shall be treated as being in compliance with these Regulations.
 
@@ -146,6 +150,10 @@ British Standard 5489 may be obtained from any outlet operated by the British St
 
 [^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66); sections 90A to F were added by the Transport Act [1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56), Schedule 10.
 
+[^c-f1ec2e1e9f4263026c9c71e3bd898bb1]: Commencement: Reg. 1 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
+
+[^c-1176b40e8e2dadcb02433c5fb5093e0b]: Commencement: Reg. 2 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
+
 [^f00002]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
 [^f00003]: Footnote: Part I of S.I. [1994/1519](https://www.legislation.gov.uk/uksi/1994/1519), to which there are amendments not relevant to these Regulations.
@@ -154,8 +162,22 @@ British Standard 5489 may be obtained from any outlet operated by the British St
 
 [^f00005]: Footnote: Part I of S.I. [1985/713](https://www.legislation.gov.uk/uksi/1985/713).
 
+[^c-e4312015f4977e226eb8ce1dc8b07b5d]: Commencement: Reg. 3 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
+
 [^f00006]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^c-f766916c7a39a2202a1f72fbc862292a]: Commencement: Reg. 4 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
 
 [^f00007]: Footnote: S.I. [1997/2400](https://www.legislation.gov.uk/uksi/1997/2400).
 
+[^c-9ba083943e71da6c1d86aab0ea730709]: Commencement: Reg. 5 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
+
+[^c-6e3823ab191282a959762296a31bcbdd]: Commencement: Reg. 6 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
+
+[^c-cf0b1218a24bba0d99b6c3a0f4eeace3]: Commencement: Reg. 7 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
+
+[^c-b84e5cd4b09e9c366551717001f97f79]: Commencement: Reg. 8 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
+
 [^f00008]: Footnote: S.I. [1996/1483](https://www.legislation.gov.uk/uksi/1996/1483).
+
+[^c-a3e45112cc36f693949da0b98d5e88a2]: Commencement: Reg. 9 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)

@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 28
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '28'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/28
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 28
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 28. Breach of official duty
+## 28. Breach of official duty[^c-9fcc51398d585aeeabc1ac1c7f176a73]
+
+*Extent: S*
 
 (1) If a person to whom this article applies is, without reasonable cause, guilty of any act or omission in breach of his official duty, he shall be liable on summary conviction to a fine not exceeding the amount specified as level 5 on the standard scale.
 
@@ -27,3 +31,7 @@ summary: ''
 - (c) any deputy of a person mentioned in sub paragraph (a) or (b) or any person appointed to assist or in the course of his employment assisting a person so mentioned in connection with his official duties,
 
 and “official duty” shall for the purpose of this article be construed accordingly, but shall not include duties imposed otherwise than by the law relating to Scottish parliamentary elections or the registration of local government electors.
+
+## Annotations
+
+[^c-9fcc51398d585aeeabc1ac1c7f176a73]: Commencement: Art. 28 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

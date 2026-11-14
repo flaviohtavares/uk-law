@@ -12,7 +12,7 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 - [The Statutory Instruments Regulations, 1947](../uk-parliament/regulations/1948/0000-0499/1-the-statutory-instruments-regulations-1947.md)
 
 ## 6. Roumania
-- [The Treaty of Peace (Roumania) Order 1948](../uk-parliament/regulations/1948/0000-0499/118-the-treaty-of-peace-roumania-order-1948.md) *(as originally made)*
+- [The Treaty of Peace (Roumania) Order, 1948](../uk-parliament/regulations/1948/0000-0499/118-the-treaty-of-peace-roumania-order-1948.md) *(as originally made)*
 
 ## Access to Health Records
 - [The Access to Health Records (1993 Order) (Commencement) Order (Northern Ireland) 1994](../northern-ireland/regulations/1994/0000-0499/151-the-access-to-health-records-1993-order-commencement-order-northern-ireland-1994.md) *(as originally made)*
@@ -1161,9 +1161,8 @@ Headings used on very few laws, often a variant spelling of a bigger topic. [All
 - [The Merchant Shipping (ISM Code) (Ro-Ro Passenger Ferries) Regulations 1997](../uk-parliament/regulations/1997/3000-3499/3022-the-merchant-shipping-ism-code-ro-ro-passenger-ferries-regulations-1997.md) *(as originally made)*
 
 ## Milk and Dairies
-- [Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/287-dairy-products-hygiene-amendment-regulations-northern-ireland-1996.md) *(as originally made)*
+- [Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/287-dairy-products-hygiene-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
 - [The Dairy Products (Hygiene) (Scotland) Amendment Regulations 1996](../uk-parliament/regulations/1996/2000-2499/2465-the-dairy-products-hygiene-scotland-amendment-regulations-1996.md) *(as originally made)*
-- [The Dairy Products (Hygiene) Regulations 1995](../uk-parliament/regulations/1995/1000-1499/1086-the-dairy-products-hygiene-regulations-1995/README.md) *(changes pending)*
 
 ## Multilateral Investment Guarantee Agency1
 - [The Multilateral Investment Guarantee Agency (Further Subscription to Capital Stock) Order 2000](../uk-parliament/regulations/2000/1000-1499/1406-the-multilateral-investment-guarantee-agency-further-subscription-to-capital-sto.md) *(as originally made)*

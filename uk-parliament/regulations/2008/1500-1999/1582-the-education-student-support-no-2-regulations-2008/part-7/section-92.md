@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 92
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '92'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/92
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,22 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 92
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Transfers[^c-5eb7676d45e9a305f743e4d6a233e3c8]
+## 92. Transfers[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-Despite regulation 8, where a qualifying student transfers from one qualifying course to another qualifying course—
-
-- (a) the Secretary of State must transfer the student’s status as a qualifying student to the other course on the request of the student unless the period of eligibility has terminated;
-- (b) subject to paragraph (c), if the student transfers before the end of the academic year after applying for a college fee loan, the amount applied for is paid to the relevant college or permanent private hall in respect of the qualifying course to which the student transfers provided that the conditions in regulation 110 are met and the student cannot qualify for another college fee loan in respect of that academic year;
-- (c) if the student transfers after the college fee loan is paid and before the end of the academic year, the student cannot apply for another college fee loan in connection with the academic year of the qualifying course to which the student transfers.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-5eb7676d45e9a305f743e4d6a233e3c8]: Commencement: Reg. 92 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

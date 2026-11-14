@@ -3,13 +3,13 @@ title: Financial Markets and Insolvency Regulations (Northern Ireland) 1996
 id: nisr/1996/252
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-25'
-text_date: null
-extent: null
+text_date: '1996-07-15'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/252
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/252/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/252/data.pdf
 pending_changes: 13
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # Financial Markets and Insolvency Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (13).** Text as at 1996-07-15. See https://www.legislation.gov.uk/changes/affected/nisr/1996/252
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 252
 
@@ -38,11 +42,11 @@ The Department of Economic Development, in exercise of the powers conferred on i
 
 ## Part I — General
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-deb5dc8fa206d4381e77fe7068015d04]
 
 These Regulations may be cited as the Financial Markets and Insolvency Regulations (Northern Ireland) 1996 and shall come into operation on 15th July 1996.
 
-### 2. Interpretation
+### 2. Interpretation[^c-4d28e65d3efd1ed77765134e79e0adbe]
 
 (1) In these Regulations—
 
@@ -69,7 +73,7 @@ and other expressions used in these Regulations which are also used in the 1995 
 
 ## Part II — System charges
 
-### 3. Application of Part V of the Order in relation to system-charges
+### 3. Application of Part V of the Order in relation to system-charges[^c-8819c35fd9c2e04795c47196474d402c]
 
 (1) Subject to the provisions of these Regulations, Part V of the Order[^f00004] shall apply in relation to—
 
@@ -88,7 +92,7 @@ in the same way as it applies in relation to a market charge, any action taken t
 
 (3) In its application, by virtue of these Regulations, in relation to a system-charge, Article 95(2) of the Order shall have effect as if the references to “purposes specified” and “specified purposes” were references to any one or more of the purposes specified in paragraph (2).
 
-### 4. Circumstances in which Part V of the Order applies in relation to system-charge
+### 4. Circumstances in which Part V of the Order applies in relation to system-charge[^c-571c4ca65a7d39b25ac12f73106c0aed]
 
 (1) Part V of the Order shall apply to a system-charge granted by a system-member and in relation to property subject to such a charge only if—
 
@@ -100,7 +104,7 @@ in the same way as it applies in relation to a market charge, any action taken t
 - (a) it is granted to a settlement bank by a system-beneficiary for the purpose of securing debts or liabilities arising in connection with any of the transactions specified in regulation 3(2), incurred by that system-beneficiary or by a system-member who holds uncertificated units of a security on his behalf; and
 - (b) it contains provisions which refer expressly to the relevant system in relation to which the system-member who holds the uncertificated units of a security in relation to which the system-beneficiary has the interest is a system-member.
 
-### 5. Extent to which Part V applies to a system-charge
+### 5. Extent to which Part V applies to a system-charge[^c-8489e282c505e8149bb8a41dc49b623a]
 
 Part V of the Order shall apply in relation to a system-charge only to the extent that—
 
@@ -121,7 +125,7 @@ Part V of the Order shall apply in relation to a system-charge only to the exten
   - (i) the obligation of a system-member or former system-member to reimburse a settlement bank, being an obligation which arises in connection with any of the transactions specified in regulation 3(2) and whether the obligation was incurred by the system-member when acting for himself or when acting on behalf of a system-beneficiary; or
   - (ii) the obligation of a system-beneficiary to reimburse a settlement bank, being an obligation which arises in connection with any of the transactions specified in regulation 3(2) and whether the obligation was incurred by the system-beneficiary when acting for himself or by reason of a system-member acting on his behalf.
 
-### 6. Limitation on disapplication of Articles 23(1)(b) and 24(3)(c) of the Insolvency (Northern Ireland) Order 1989 in relation to system-charges
+### 6. Limitation on disapplication of Articles 23(1)(b) and 24(3)(c) of the Insolvency (Northern Ireland) Order 1989 in relation to system-charges[^c-447f7d0cd6c1b8786a3a4c3bafa4fb35]
 
 (1) This regulation applies where an administration order is made in relation to a system-member or former system-member.
 
@@ -142,7 +146,7 @@ Part V of the Order shall apply in relation to a system-charge only to the exten
 - (a) beginning with (and including) the fifth business day before the day on which the petition for the making of the administration order was presented; and
 - (b) ending with (and including) the second business day after the day on which the administration order is made.
 
-### 7. Limitation on disapplication of Articles 23(1)(b) and 24(3)(c) of the Insolvency (Northern Ireland) Order 1989 in relation to system-charges granted by a system-beneficiary
+### 7. Limitation on disapplication of Articles 23(1)(b) and 24(3)(c) of the Insolvency (Northern Ireland) Order 1989 in relation to system-charges granted by a system-beneficiary[^c-46c96e9661d83dfcef55ffc4b128ce2a]
 
 (1) This regulation applies where an administration order is made in relation to a system-beneficiary.
 
@@ -160,7 +164,7 @@ Part V of the Order shall apply in relation to a system-charge only to the exten
 
 (4) The second of the two sums referred to in paragraph (2) is the sum (if any) due to the settlement bank from the relevant system-beneficiary by reason of an obligation of the kind described in regulation 5(*b*)(ii).
 
-### 8. Ability of administrator or receiver to recover assets in case of property subject to system-charge
+### 8. Ability of administrator or receiver to recover assets in case of property subject to system-charge[^c-4b4d0282c424e7e9d8c3383aa6fba215]
 
 (1) This regulation applies where an administration order is made or an administrator or an administrative receiver or a receiver is appointed, in relation to a system-member, former system-member or system-beneficiary.
 
@@ -211,10 +215,26 @@ Regulation 8 makes provision as to the ability of an administrator and certain k
 
 [^f00001]: Footnote: S.I. [1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504)
 
+[^c-deb5dc8fa206d4381e77fe7068015d04]: Commencement: Reg. 1 in operation at 15.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/252/regulation/1)
+
+[^c-4d28e65d3efd1ed77765134e79e0adbe]: Commencement: Reg. 2 in operation at 15.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/252/regulation/1)
+
 [^f00002]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
 [^f00003]: Footnote: S.I. [1995/3272](https://www.legislation.gov.uk/uksi/1995/3272)
 
+[^c-8819c35fd9c2e04795c47196474d402c]: Commencement: Reg. 3 in operation at 15.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/252/regulation/1)
+
 [^f00004]: Footnote: Part V of the Companies (No. 2) (Northern Ireland) Order 1990 has been amended by the Financial Markets and Insolvency Regulations (Northern Ireland) 1991 ([S.R. 1991 No. 443](https://www.legislation.gov.uk/nisr/1991/443))
 
+[^c-571c4ca65a7d39b25ac12f73106c0aed]: Commencement: Reg. 4 in operation at 15.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/252/regulation/1)
+
+[^c-8489e282c505e8149bb8a41dc49b623a]: Commencement: Reg. 5 in operation at 15.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/252/regulation/1)
+
+[^c-447f7d0cd6c1b8786a3a4c3bafa4fb35]: Commencement: Reg. 6 in operation at 15.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/252/regulation/1)
+
 [^f00005]: Footnote: S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
+
+[^c-46c96e9661d83dfcef55ffc4b128ce2a]: Commencement: Reg. 7 in operation at 15.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/252/regulation/1)
+
+[^c-4b4d0282c424e7e9d8c3383aa6fba215]: Commencement: Reg. 8 in operation at 15.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/252/regulation/1)

@@ -3,14 +3,14 @@ title: The Occupational Pension Schemes (Internal Dispute Resolution Procedures)
 id: nisr/1996/203
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-05-16'
-text_date: null
-extent: null
+text_date: '1996-05-16'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/203
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/203/made/data.pdf
-pending_changes: 7
+- http://www.legislation.gov.uk/nisr/1996/203/data.pdf
+pending_changes: 17
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (17).** Text as at 1996-05-16. See https://www.legislation.gov.uk/changes/affected/nisr/1996/203
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 203
 
@@ -36,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by Articles 10(2)(*b*) and 50(1), (2)(*a*), (3) and (7) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-87baffee8f7f1aa0031d144270394022]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
 
@@ -50,7 +56,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
   - (c) will be admitted to it automatically unless he makes an election not to become a member, or
   - (d) may be admitted to it subject to the consent of his employer.
 
-## 2. Meaning of “prescribed persons” and “complainant of a prescribed description”
+## 2. Meaning of “prescribed persons” and “complainant of a prescribed description”[^c-d3e91a7e49933b8116c5a24c07025a83]
 
 (1) For the purposes of Article 50(1) of the Order (requirement for schemes to make arrangements for the resolution of disagreements between prescribed persons) and of these Regulations, the prescribed persons are, on the one hand, the trustees or managers of the scheme and, on the other hand—
 
@@ -62,7 +68,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (2) For the purposes of Article 50(2) of the Order (resolution of a disagreement on the application of a complainant) and of these Regulations, a complainant of a prescribed description is a person referred to in paragraph (1)(*a*) to (*e*).
 
-## 3. Representation
+## 3. Representation[^c-a50997f1474a6788a73ce8dec70a49e7]
 
 (1) An application under the arrangements required by Article 50 of the Order may be made or continued on behalf of a complainant by a representative nominated by him.
 
@@ -71,7 +77,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (a) in the case of his death, by his personal representative, and
 - (b) in any other case, by a member of his family or other person suitable to represent him.
 
-## 4. Application for a decision
+## 4. Application for a decision[^c-49fdb8f4513dc7b1e94d078f5e1a8838]
 
 (1) An application for a decision under the arrangements required by Article 50(2)(*a*) of the Order shall set out particulars of the disagreement in respect of which a decision is sought.
 
@@ -84,7 +90,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The application shall be signed by or on behalf of the complainant.
 
-## 5. Notice of a decision
+## 5. Notice of a decision[^c-c37cbfae20476a3ead3f5530fbb1a832]
 
 (1) Subject to paragraph (3), a decision on the matters raised by an application under regulation 4 shall be issued to the complainant and, where applicable, his representative by notice in writing within 2 months from the date on which the particulars specified in regulation 4(2) were received.
 
@@ -97,7 +103,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) If, in any case, written notice of a decision under Article 50(2)(*a*) of the Order is not issued within 2 months from the date on which particulars of the disagreement were received an interim reply must immediately be sent to the complainant and, where applicable, his representative setting out the reasons for the delay and an expected date for issuing the decision.
 
-## 6. Referral of disagreement to the trustees or managers
+## 6. Referral of disagreement to the trustees or managers[^c-c3517f6bc7dccdc2f43f0e6b96d8637e]
 
 (1) An application to the trustees or managers of a scheme to reconsider a disagreement in respect of which a decision referred to in regulation 5 has been made may be made within 6 months from the date of the notice of the decision and shall set out particulars of the grounds on which the application is made.
 
@@ -110,7 +116,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The application shall be signed by or on behalf of the complainant.
 
-## 7. Notice of decision from trustees or managers
+## 7. Notice of decision from trustees or managers[^c-1bd4ef5555296a660a6e27d7c89f3364]
 
 (1) Subject to paragraph (3), the trustees or managers of a scheme shall issue to the complainant and, where applicable, his representative a notice in writing of their decision on the matters raised under regulation 6 within 2 months from the date on which the particulars specified in regulation 6(2) were received by them.
 
@@ -124,14 +130,14 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) If, in any case, written notice of a decision under Article 50(2)(*b*) of the Order is not issued within 2 months from the date on which particulars of the disagreement were received under regulation 6, an interim reply must immediately be sent to the complainant and, where applicable, his representative setting out the reasons for the delay and an expected date for issuing the decision.
 
-## 8. Exempted schemes
+## 8. Exempted schemes[^c-0759bbbff0602ec21b33e390c597bc3d]
 
 The requirements of Article 50 of the Order shall not apply to the following schemes—
 
 - (a) schemes in which all the members are trustees;
 - (b) schemes with no more than one member.
 
-## 9. Exempted disagreements
+## 9. Exempted disagreements[^c-fc7390a0d8e7ff5a298327129723da27]
 
 The requirements of Article 50(1) of the Order shall not apply to a disagreement if, in respect of that disagreement—
 
@@ -139,7 +145,7 @@ The requirements of Article 50(1) of the Order shall not apply to a disagreement
 - (b) the Pensions Ombudsman has commenced an investigation into a complaint made or dispute referred to him, or
 - (c) a notice of appeal has been issued by the complainant under Article 61 of the Firemen’s Pension Scheme Order (Northern Ireland) 1973[^f00005] or regulation H2 of the Royal Ulster Constabulary Pensions Regulations 1988[^f00006].
 
-## 10. Civil penalties
+## 10. Civil penalties[^c-746cf27e09fba8979684e8dfd0862d6e]
 
 For the purposes of Article 50(6) of the Order, the maximum amount of the penalty which may be imposed by the Authority under Article 10(2)(*b*) of the Order is—
 
@@ -172,12 +178,32 @@ Regulation 10 makes provision as to the maximum penalty which may be imposed by 
 
 [^f00001]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
+[^c-87baffee8f7f1aa0031d144270394022]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)
+
+[^c-d3e91a7e49933b8116c5a24c07025a83]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)
+
+[^c-a50997f1474a6788a73ce8dec70a49e7]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)
+
+[^c-49fdb8f4513dc7b1e94d078f5e1a8838]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)
+
+[^c-c37cbfae20476a3ead3f5530fbb1a832]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)
+
+[^c-c3517f6bc7dccdc2f43f0e6b96d8637e]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)
+
+[^c-1bd4ef5555296a660a6e27d7c89f3364]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)
+
 [^f00002]: Footnote: The Occupational Pensions Advisory Service’s address for correspondence is 11 Belgrave Road, London SW1V 1RB
 
 [^f00003]: Footnote: The Pensions Ombudsman is appointed under section 145(2) of the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48)
 
 [^f00004]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
+[^c-0759bbbff0602ec21b33e390c597bc3d]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)
+
+[^c-fc7390a0d8e7ff5a298327129723da27]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)
+
 [^f00005]: Footnote: [S.R. & O. (N.I.) 1973 No. 393](https://www.legislation.gov.uk/nisro/1973/393); relevant amending order is [S.R. 1976 No. 216](https://www.legislation.gov.uk/nisr/1976/216); *see also* [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504)
 
 [^f00006]: Footnote: [S.R. 1988 No. 374](https://www.legislation.gov.uk/nisr/1988/374)
+
+[^c-746cf27e09fba8979684e8dfd0862d6e]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/203/regulation/1/1)

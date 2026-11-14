@@ -3,7 +3,7 @@ title: The Senedd Cymru (Representation of the People) Order 2025, SCHEDULE 1
 act: The Senedd Cymru (Representation of the People) Order 2025
 section: schedule-1
 status: revised-with-pending-changes
-text_date: '2026-03-24'
+text_date: '2026-11-03'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2025/864/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Senedd Cymru (Representation of the People) Order 2025, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (31).** Text as at 2026-03-24. See https://www.legislation.gov.uk/changes/affected/wsi/2025/864
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-03. See https://www.legislation.gov.uk/changes/affected/wsi/2025/864
 >
 > Extent: England, Wales.
 
@@ -24,9 +24,10 @@ Article 14(2)
 
 ### 1. General requirements for applications for an absent vote[^c-088f471c63accb72eaba3de61ef9b769]
 
-(1) Applications under article 6 (absent vote at Senedd elections for a particular or an indefinite period), 7 (absent vote at a particular Senedd election), 9 (proxies at Senedd elections) or 10 (voting as proxy at Senedd elections) must state—
+(1) Applications under article 6 (absent vote at Senedd elections [^c-06e3aafdf71d2b71a3dc5e2f5e1889f7]...), 7 (absent vote at a particular Senedd election), 9 (proxies at Senedd elections) or 10 (voting as proxy at Senedd elections) must state—
 
 - (a) the applicant’s full name,
+- (aa)[^c-4fd6b149436ea06977e3372c0f8bb0dd] the applicant’s national insurance number, or if the applicant is not able to provide that information, the reason why the applicant is not able to do so,
 - (b) except in the case of an application under article 10(4) (an application to vote by post as proxy) and (7) (application for ballot paper to be sent to a different address from that shown in the record), the address in respect of which the applicant is registered or has applied to be, or is treated as having applied to be, registered in the register of electors,
 - (c) in the case of an application under article 10, the proxy’s address, together with the name of the elector for whom the proxy will act as proxy, and the elector’s address for the purposes of paragraph (b),
 - (d) in the case of an application to vote by post, the address to which the ballot paper is to be sent,
@@ -45,12 +46,44 @@ Article 14(2)
 
 (5) An application which is made—
 
-- (a) under article 6(1), 9(6) or 10(4)(a), either for an indefinite period or for the period specified in the application, or
+- (a)[^c-8524461dff16c34fe72933881c4b1e59] under article 6(1), 9(6) or 10(4)(a) for—
+  - (i) an indefinite period,
+  - (ii) the maximum period as specified in article 6(1A)(a) or 10(5A)(a), or
+  - (iii) the period specified in the application, or
 - (b) under article 7(1), (2), (3), (4), 9(7) or 10(7), for a particular Senedd election,
 
 must state the period for which it is made, but where the poll for a Senedd election falls on the same day as the poll at another election, the same application may be used for both elections.
 
 (6) Where an application is made to vote by proxy, it must include an application for the appointment of a proxy which meets the requirements of paragraph 6.
+
+(6A)[^c-6e171c6b405d952162209c5a743c0c22] If, by virtue of arrangements made by the Minister of the Crown, an absent voting application is made through the UK digital service—
+
+- (a) the Minister of the Crown may complete the application in part using information provided by the applicant as part of an application, or partially completed application, made under section 10ZC or 10ZD of the 1983 Act for registration in, or alteration of, a register of electors where that application is made through or completed using the UK digital service,
+- (b) the application must contain a compliant photograph or electronic scan of the applicant’s signature if the application is required to contain a signature, and
+- (c) the Minister of the Crown must—
+  - (i) request that the applicant provide their most recent previous name, if they have one, and
+  - (ii) provide an explanation of the purpose for which the information will be used.
+
+(6B) In sub-paragraph (6A)(b), “**compliant photograph or electronic scan of the applicant’s signature**” means—
+
+- (a) the signature contained in the photograph or electronic scan complies with the requirements of sub-paragraph (3)(a), and
+- (b) the photograph or electronic scan of the signature is sufficiently clear and unambiguous to comply with the requirements of sub-paragraph (3)(a).
+
+(6C) If an applicant is unable to provide a national insurance number in accordance with sub-paragraph (1)(aa), as part of the application, the applicant may provide a copy of any of the documents listed in paragraph 11B(2) to (4).
+
+(6D) A document provided under sub-paragraph (6C) may be transmitted by an applicant by electronic means.
+
+(6E) The Minister of the Crown must send to the registration officer—
+
+- (a) any absent voting application the Minister of the Crown receives, subject to sub-paragraph (6F),
+- (b) the applicant’s previous name (if any provided),
+- (c) any copy documentation provided by the applicant in accordance with sub-paragraph (6C), and
+- (d) a reference number unique to that application.
+
+(6F) If an absent voting application made through the UK digital service in accordance with sub-paragraph (6A) includes the applicant’s national insurance number, the Minister of the Crown—
+
+- (a) may send the registration officer that application without the national insurance number, and
+- (b) where the Minister of the Crown does so, must indicate to the registration officer that a national insurance number was included when the application was made by the applicant.
 
 (7) A registration officer may satisfy themselves—
 
@@ -263,6 +296,8 @@ the requirements of paragraphs 1 and 7 apply.
   - (iii) that that person is authorised to make the attestation, and
   - (iv) the statutory provision under which the applicant is liable to be detained in the hospital.
 
+(7A)[^c-35c94b3bcb585ed3bf82a7f5d733a93f] If an application under article 7(2) is made after 5.00 p.m. on the sixth day before the day of the poll at the election for which it is made because the circumstances set out in paragraph 11(3B)(a) apply, the application must, in addition to providing any other information, state that it is being made because of those circumstances.
+
 (8) This paragraph does not apply where the applicant has an anonymous entry.
 
 (9) In this paragraph, the “**allotted polling station**” in relation to an elector, means the polling station allotted or likely to be allotted to the elector under rule 34 of Schedule 5.
@@ -322,6 +357,16 @@ must be disregarded for the purposes of any particular Senedd election if it is 
 
 the application, or an application under article 9(7) made by virtue of that application, must be refused if it is received after 5.00 p.m. on the day of the poll at the election for which it is made.
 
+(3A)[^c-d1c11cd989f3648d7b664d379d1c73e4] If an application is made under article 7(2) or 9(7) in the circumstances set out in sub-paragraph (3B), the application must be refused if it is received after 5.00 p.m. on the day of the poll at the election for which it is made.
+
+(3B) The circumstances are that—
+
+- (a) the applicant submitted the application because an earlier application submitted by that applicant under article 6(2) or 9(6) is to be disregarded for the election for which it is made because that earlier application—
+  - (i) was submitted prior to the deadline of 5.00 p.m. on the sixth day before the day of the poll at the election for which it is made,
+  - (ii) was submitted via the UK digital service, and
+  - (iii) was not received by the registration officer until after the deadline of 5.00 p.m. on the sixth day before the day of the poll at the election for which it is made due to a technical defect in the digital service, or
+- (b) the application meets the conditions specified in sub-paragraphs (i), (ii) and (iii) of paragraph (a).
+
 (4) An application—
 
 - (a) by an absent voter to alter their choice as to the manner of absent voting under article 6(6) or (8),
@@ -348,9 +393,178 @@ must be refused for the purposes of any particular Senedd election if it is rece
 - (f) a day that is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00092];
 - (g) a day appointed for public thanksgiving or mourning.
 
+### 11A. Verification of information provided in an absent voting application[^c-d42b6038d2c9c2ce091fc5c9dbbf9e6c]
+
+(1) On receipt of an absent voting application made otherwise than through the UK digital service, a registration officer must disclose the applicant’s name or names, address, date of birth and national insurance number (“the first stage information”) to the Secretary of State for Housing, Communities and Local Government in such format and through such an infrastructure system as the Secretary of State for Housing, Communities and Local Government may have notified to the registration officer in writing.
+
+(2) Following receipt of the first stage information from the registration officer or, in the case of an application made by an applicant through or partially completed using the UK digital service, from an applicant, the Secretary of State for Housing, Communities and Local Government may disclose the first stage information to the Secretary of State for Work and Pensions.
+
+(3) If the first stage information has been disclosed to the Secretary of State for Work and Pensions under sub-paragraph (2), the Secretary of State for Work and Pensions may compare it against—
+
+- (a) the name, address, date of birth and national insurance number of individuals appearing in the following types of data kept by the Secretary of State—
+  - (i) data kept for the purposes of functions relating to social security, including such information kept on behalf of the Department for Social Development, and
+  - (ii) data relating to working tax credit, child tax credit and child benefit, being information kept on behalf of His Majesty’s Revenue and Customs, and
+- (b) any other information contained in such types of data which relates to the information disclosed under sub-paragraph (2).
+
+(4) The Secretary of State for Work and Pensions may disclose the results of the comparison of the first stage information under sub-paragraph (3) (“the second stage information”) to the Secretary of State for Housing, Communities and Local Government.
+
+(5) On receipt of the second stage information, the Secretary of State for Housing, Communities and Local Government may disclose that information—
+
+- (a) to the Secretary of State for Work and Pensions, or
+- (b) to the registration officer to whom the application has been made or, in the case of an application made through the UK digital service, the registration officer appointed for the register to which the application relates.
+
+(6) Sub-paragraph (3) applies to the second stage information where it has been disclosed to the Secretary of State for Work and Pensions under sub-paragraph (5)(a) as it applies to the first stage information disclosed under sub-paragraph (2).
+
+(7) The Secretary of State for Work and Pensions may disclose the results of the comparison of the second stage information under sub-paragraph (6) (“**the third stage information**”) to the Secretary of State for Housing, Communities and Local Government.
+
+(8) On receipt of the third stage information, the Secretary of State for Housing, Communities and Local Government may—
+
+- (a) compare the third stage information against the information provided in the absent voting application, and
+- (b) notify the registration officer to whom the application has been made or, in the case of an application made through the UK digital service, the registration officer appointed for the register to which the application relates, as to whether the comparison in sub-paragraph 8(a) resulted in a match.
+
+(9) When determining the application, the registration officer must take into account any information disclosed by, or notification received from, the Secretary of State for Housing, Communities and Local Government in accordance with this paragraph.
+
+(10) This paragraph does not apply in relation to an application under article 7(2)—
+
+- (a) which is received by the registration officer after 5.00 p.m. on the sixth day before the day of the poll at the election for which it is made, and
+- (b) if paragraph 11(3) or (3A) applies.
+
+(11) In sub-paragraph (1)—
+
+- (a) “**infrastructure system**” has the meaning given in paragraph 7 of Schedule 3A to the Communications Act 2003;
+- (b) the reference to the applicant’s address is a reference to the address contained in the application under paragraph 1(1)(b).
+
+### 11B. Power to request additional evidence in relation to absent voting applications where registration officer considers it necessary
+
+(1) This paragraph applies where, upon receipt of an absent voting application, a registration officer considers additional evidence is necessary to verify the identity of the applicant.
+
+(2) The registration officer may require the applicant to provide the registration officer with a copy, or where the registration officer considers it appropriate, the original, of one of the following documents—
+
+- (a) the applicant’s passport;
+- (b) the applicant’s identity card issued in the European Economic Area;
+- (c) the applicant’s biometric immigration document issued in the United Kingdom in accordance with regulations made under section 5 of the UK Borders Act 2007;
+- (d) the applicant’s electoral identity card issued in Northern Ireland;
+- (e) the applicant’s photocard driving licence granted in the United Kingdom or driving licence granted by a Crown Dependency, which bears a photograph of the applicant.
+
+(3) If an applicant is not able to provide one of the documents in sub-paragraph (2), the registration officer may require the applicant to provide the registration officer with a copy, or where the registration officer considers it appropriate, the original, of—
+
+- (a) one of the following documents, which, except in relation to paragraph (vii), must have been issued in the United Kingdom or in a Crown Dependency—
+  - (i) the applicant’s birth certificate;
+  - (ii) the applicant’s marriage or civil partnership certificate;
+  - (iii) the applicant’s adoption certificate;
+  - (iv) the applicant’s firearms certificate granted under the Firearms Act 1968;
+  - (v) the record of a decision on bail made in respect of the applicant in accordance with section 5(1) of the Bail Act 1976;
+  - (vi) the applicant’s driving licence, which is not in the form of a photocard;
+  - (vii) the applicant’s driving licence, granted other than in the United Kingdom or Crown Dependencies, which bears a photograph of the applicant and which must be valid for at least 12 months from the date the applicant entered the United Kingdom, and
+- (b) two other documents, each of which may be either from sub-paragraph (3)(a) or from sub-paragraph (4)(a) to (e).
+
+(4) If the applicant is not able to provide documents in accordance with sub-paragraph (3), the registration officer may require that the applicant provides the registration officer with a copy, or where the registration officer considers it appropriate, the original, of four documents, each of which may be any of the following kinds of evidence and which must bear the applicant’s full name—
+
+- (a) a financial statement, including but not limited to—
+  - (i) a mortgage statement;
+  - (ii) a bank or building society statement or a letter from a bank or building society confirming that the applicant has opened an account with that bank or building society;
+  - (iii) a credit card statement;
+  - (iv) a pension statement;
+- (b) a council tax demand letter or statement;
+- (c) a utility bill;
+- (d) a Form P45 or Form P60 issued to the applicant by their employer or former employer;
+- (e) a statement of benefits or entitlement to benefits, such as a statement of child benefit, within the meaning of section 141 of the Social Security Contributions and Benefits Act 1992, or a letter confirming that the applicant is entitled to housing benefit, within the meaning of section 130 of that Act.
+
+(5) If an applicant is unable to provide the documentary evidence required under sub-paragraphs (2) to (4), the registration officer may require that the applicant provides an attestation which must—
+
+- (a) confirm that the applicant is the person named in the application,
+- (b) state that the person signing the attestation is aware of the penalty for providing false information to a registration officer,
+- (c) be in writing and signed by a person—
+  - (i) whom the registration officer is satisfied is of good standing in the community,
+  - (ii) who is registered as an elector in a local authority area in England or Wales,
+  - (iii) who is not the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild of the applicant, and
+  - (iv) who has not already signed a relevant identity attestation for any other applicants since, whichever is the later of—
+    - (aa) the date on which the revised register in which that person’s name appears was last published under section 13(1) of the 1983 Act, or
+    - (bb) the date on which a notice specifying that person’s entry in the register was issued under section 13A(2), 13AB(2), 13B or 13BC of that Act, and if there has been more than one such notice, the date on which the last one was issued;
+- (d) state the full name, date of birth, address, electoral number and occupation of the person signing the attestation, and
+- (e) state the date on which it is made.
+
+(6) Any document provided in accordance with this paragraph may be transmitted by an applicant to a registration officer by electronic means.
+
+(7) In sub-paragraph (5)(c)(iv), a “**relevant identity attestation**” is an attestation provided in accordance with—
+
+- (a) sub-paragraph (5);
+- (b) regulations 26B(6) or (6ZA) or 56C(5A) or (6) of the 2001 Regulations;
+- (c) regulation 26B(6) or (6ZA) or 56C(5A) or (6) of the Representation of the People (Scotland) Regulations 2001;
+- (d) regulation 11B(5) of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007;
+- (e) regulation 25A(3) of the Representation of the People (Northern Ireland) Regulations 2008;
+- (f) paragraph 16C(5) of Schedule 2 to the Police and Crime Commissioner Elections Order 2012;
+- (g) paragraph 9B(5) of Schedule 3 of the Scottish Parliament (Elections etc.) Order 2015;
+- (h) regulation 72B(5A) or (6) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016;
+- (i) regulation 7(6) of the Voter Identification Regulations 2022.
+
+(8) Sub-paragraphs (2) to (5) do not apply where the applicant is registered, or has applied to be registered, in pursuance of any of the following declarations—
+
+- (a) a service declaration on the grounds that the applicant is a Crown servant or the spouse or civil partner of a Crown servant;
+- (b) a service declaration on the grounds that the applicant is a member of the forces;
+- (c) a service declaration on the grounds that the applicant is the spouse or civil partner of a member of the forces.
+
+(9) If sub-paragraph (8)(a) or (c) applies to an application, the registration officer may require that the applicant provides the registration offer with a copy, or where the registration officer considers it appropriate, the original, of one of the following documents, which has been certified by a Crown servant or British Council employee or an officer of the forces, who is not the applicant’s spouse or civil partner—
+
+- (a) the applicant’s passport;
+- (b) the applicant’s identity card issued in the European Economic Area.
+
+(10) If sub-paragraph (8)(b) applies to an application, the registration officer may require that the applicant provides an attestation which must—
+
+- (a) confirm that the applicant is the person named in the application,
+- (b) be in writing and signed by an officer of the forces who is not the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild of the applicant,
+- (c) state the full name, address and rank of the person signing the attestation and the service, whether naval, military or air forces, in which they serve, and
+- (d) state the date on which it is made.
+
+(11) A document or attestation provided under this paragraph may be transmitted by an applicant by electronic means.
+
+(12) In this paragraph—
+
+- “**Crown Dependency**” means the Bailiwick of Jersey, the Bailiwick of Guernsey or the Isle of Man;
+- “**member of the forces**” has the same meaning as in section 59(1) of the 1983 Act;
+- “**officer of the forces**” means a member of the forces who is an officer;
+- “**service declaration**” has the same meaning as in section 202(1) of the 1983 Act.
+
+(13) This paragraph does not apply in relation to an application under article 7(2)—
+
+- (a) which is received by the registration officer after 5.00 p.m. on the sixth day before the day of the poll at the election for which it is made, and
+- (b) where paragraph 11(3) or (3A) applies.
+
+### 11C. Processing of information provided in connection with an absent voting application
+
+(1) If a person provides an original document under paragraph 11B, the registration officer must make a copy of that document and return the original document to the person who provided it.
+
+(2) In respect of any absent voting application, until the application has been determined, the registration officer must retain—
+
+- (a) the application form or, in the case of an application made through the UK digital service, the information contained in the application transmitted to the registration officer by the Secretary of State;
+- (b) any other information or documents provided to the registration officer in connection with the application or, in the case of original documents which are returned under sub-paragraph (1), a copy of such documents.
+
+(3) Subject to sub-paragraph (4), the registration officer may retain the application form, information and documents in sub-paragraph (2) after the application has been determined but, if they do so, must delete the applicant’s national insurance number from the application form, information and documents in sub-paragraph (2) by no later than the date which is 13 months from the date on which the registration officer determined the absent voting application.
+
+(4) The requirement to delete the national insurance number in sub-paragraph (3) does not apply where the application, information and documents referred to in sub-paragraph (2) are required for the purpose of any civil or criminal proceedings.
+
+(5) Information disclosed under paragraph 11A must not be disclosed to any other person, except for the purposes of—
+
+- (a) determining the absent voting application in connection with which the information was disclosed, or
+- (b) civil or criminal proceedings.
+
+(6) A person who discloses information in breach of sub-paragraph (5) is guilty of an offence and liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine, or both;
+- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court, or to a fine, or both.
+
+(7) Any information disclosed under paragraph 11A must be processed in accordance with any requirements as to the processing of information that may have been imposed by the Secretary of State for Housing, Communities and Local Government in writing in advance of that processing, including requirements as to the transfer, storage, destruction and security of that information.
+
+(8) In this paragraph “**copy**” includes an electronic copy.
+
 ### 12. Grant or refusal of applications[^c-e10552cef7abf394c1bba25684ec7e1b]
 
 (1) A decision by the registration officer to grant an application to vote by post must be notified to the applicant.
+
+(1A)[^c-62a9cbf160f0a21778a895fb0c8f4238] The notification under sub-paragraph (1) must include—
+
+- (a) if the postal vote entitlement is for a particular election, the day of the poll for which the elector’s entitlement to vote by post has been granted,
+- (b) otherwise, the date on which the elector’s entitlement to vote by post ends, in accordance with article 6(1A) or 10(5A), as relevant.
 
 (2) Where the registration officer grants an application for the appointment of a proxy, the registration officer must confirm in writing to the elector that the proxy has been appointed, together with the proxy’s name and address and the duration of the appointment.
 
@@ -368,6 +582,39 @@ must be refused for the purposes of any particular Senedd election if it is rece
 (7) Where the appointment of a proxy is cancelled by the elector or otherwise ceases to be in force, the registration officer must, where practicable, notify the elector that the appointment has been cancelled or that the appointment has ceased, and the reason for it.
 
 (8) Where under paragraph 11 the registration officer refuses or disregards an application for the purposes of any Senedd election, the registration officer must notify the applicant of this.
+
+(8A)[^c-d24ea853ca27f9ba24d54f0b18df6066] Sub-paragraphs (8B) to (8D) apply if—
+
+- (a) an application has been made under article 6, 7, 9 or 10, and
+- (b) either—
+  - (i) paragraph 2(2) applies to that application, or would have applied if paragraph 2(3) was ignored, or
+  - (ii) paragraph 3(1) and (2) applies to that application, or would have applied if paragraph 3(3) was ignored.
+
+(8B) A notification under sub-paragraph (1) to one of the following types of applicants must also include a statement that ballot papers will be sent to the postal ballot delivery address—
+
+- (a) an applicant registered in pursuance of a service declaration;
+- (b) an applicant registered in pursuance of a declaration of local connection (within the meaning of section 7B of the 1983 Act);
+- (c) an applicant who is a merchant seaman (within the meaning of section 6 of the 1983 Act);
+- (d) an applicant who has an anonymous entry.
+
+(8C) If sub-paragraphs (a) to (d) of sub-paragraph (8B) do not apply to the applicant, the registration officer must, in addition to notifying the applicant under sub-paragraph (1), (4), (5) or (8), notify the applicant in writing that—
+
+- (a) the application has been granted, refused or disregarded, and
+- (b) where the application has been granted, ballot papers will be sent to the postal ballot delivery address.
+
+(8D) A notification under paragraph (8C) must be delivered to—
+
+- (a) if paragraph (8A)(b)(ii) applies and the notification is to be delivered to a person shown as voting by post in the record kept under article 8(1)(a), the address shown in that record;
+- (b) otherwise—
+  - (i) the address stated in the application in accordance with paragraph 1(1)(b), or
+  - (ii) the proxy’s address stated in the application in accordance with paragraph 1(1)(c).
+
+(8E) In sub-paragraphs (8B) and (8C), the “**postal ballot delivery address**” means—
+
+- (a) if sub-paragraph (8A)(b)(i) applies, the address stated in the application in accordance with paragraph 1(1)(d);
+- (b) if sub-paragraph (8A)(b)(ii) applies, the different address described in paragraph 3(1) and (2).
+
+(8F) In sub-paragraph (8B) “**service declaration**” has the same meaning as in section 202(1) of the 1983 Act.
 
 (9) At a Senedd election, where the registration officer (“**R**”) is not the returning officer for a Senedd constituency, or part of a Senedd constituency, R must send to the returning officer details of any application to vote by post which R has granted as soon as practicable after doing so.
 
@@ -398,7 +645,20 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 
 (3) The registration officer may treat the failure by a person of whom inquiries have been made under sub-paragraph (1) or (2) to respond within 1 month of the date on which they were made as sufficient evidence of a material change in circumstances.
 
+### 15A. Requirement to notify certain electors and proxies that postal vote entitlement is to end[^c-01d7ce91774b89e9e9d6272d630c49d6]
+
+(1) This paragraph applies in respect of an elector or proxy who remains entitled to vote by post at a Senedd election by virtue of an entitlement which was granted for the maximum period (“**the relevant person**”).
+
+(2) Before the end of the maximum period, the registration officer must send to the relevant person—
+
+- (a) notice of the date on which the relevant person’s entitlement to vote by post ends, and
+- (b) information about how to make a fresh application to vote by post, as elector or as proxy.
+
+(3) In this paragraph “**maximum period**” means the maximum period as specified in article 6(1A)(a) or 10(5A)(a).
+
 ### 16. Requirement to provide fresh signatures at five yearly intervals[^c-941a7200c82a52ad6a35e3d668ee7399]
+
+(A1)[^c-a60dd64da03d7b9eaebce3494fc494f8] This paragraph does not apply to an elector or proxy so far as that elector or proxy remains entitled to vote by post at a Senedd election.
 
 (1) Every year by 31 January, the registration officer must send to every person who remains an absent voter and whose signature on the personal identifiers record is more than five years old, a notice in writing—
 
@@ -596,6 +856,14 @@ Where a registration officer is required by this Schedule to notify any person, 
 
 [^c-088f471c63accb72eaba3de61ef9b769]: Commencement: Sch. 1 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
+[^c-06e3aafdf71d2b71a3dc5e2f5e1889f7]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/1/1) omitted (3.11.2026) by virtue of [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [7(2)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/7/2/a) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-4fd6b149436ea06977e3372c0f8bb0dd]: Textual amendment: [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/1/aa) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [10](https://www.legislation.gov.uk/wsi/2026/91/regulation/10) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-8524461dff16c34fe72933881c4b1e59]: Textual amendment: [Sch. 1 para. 1(5)(a)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/1/5/a) substituted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/7/2/b) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-6e171c6b405d952162209c5a743c0c22]: Textual amendment: [Sch. 1 para. 1(6A)-(6F)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/1/6A) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [16](https://www.legislation.gov.uk/wsi/2026/91/regulation/16) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
 [^f00071]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 16 was amended by Schedule 7 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) and section 20(4) of the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1).
 
 [^f00072]: Footnote: Section 7 was amended by section 4 of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2); section 12(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22); paragraph 2 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6); and [S.I. 2005/2078](https://www.legislation.gov.uk/uksi/2005/2078).
@@ -654,13 +922,23 @@ Where a registration officer is required by this Schedule to notify any person, 
 
 [^c-9f7535cd1420071076164063b43ab5dc]: Commencement: Sch. 1 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
+[^c-35c94b3bcb585ed3bf82a7f5d733a93f]: Textual amendment: [Sch. 1 para. 9(7A)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/9/7A) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [24(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/24/2) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
 [^c-f397bd9f7ff29d1391487d05f8573bb7]: Commencement: Sch. 1 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^c-db4a76beedcec61a25ba210743a810c8]: Commencement: Sch. 1 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
+[^c-d1c11cd989f3648d7b664d379d1c73e4]: Textual amendment: [Sch. 1 para. 11(3A)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/11/3A)[(3B)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/11/3B) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [24(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/24/3) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
 [^f00092]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
+[^c-d42b6038d2c9c2ce091fc5c9dbbf9e6c]: Textual amendment: [Sch. 1 paras. 11A-11C](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/11A) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [20](https://www.legislation.gov.uk/wsi/2026/91/regulation/20) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
 [^c-e10552cef7abf394c1bba25684ec7e1b]: Commencement: Sch. 1 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+
+[^c-62a9cbf160f0a21778a895fb0c8f4238]: Textual amendment: [Sch. 1 para. 12(1A)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/12/1A) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [7(3)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/7/3/a) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
+[^c-d24ea853ca27f9ba24d54f0b18df6066]: Textual amendment: [Sch. 1 para. 12(8A)-(8F)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/12/8A) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/7/3/b) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
 
 [^c-36cb9884b1d562567641589ec6a4d3e3]: Commencement: Sch. 1 para. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
@@ -668,7 +946,11 @@ Where a registration officer is required by this Schedule to notify any person, 
 
 [^c-4c3aaad80060f9dea299f9ec1da69003]: Commencement: Sch. 1 para. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
+[^c-01d7ce91774b89e9e9d6272d630c49d6]: Textual amendment: [Sch. 1 para. 15A](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/15A) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [7(4)](https://www.legislation.gov.uk/wsi/2026/91/regulation/7/4) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
+
 [^c-941a7200c82a52ad6a35e3d668ee7399]: Commencement: Sch. 1 para. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+
+[^c-a60dd64da03d7b9eaebce3494fc494f8]: Textual amendment: [Sch. 1 para. 16(A1)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/16/A1) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [7(5)](https://www.legislation.gov.uk/wsi/2026/91/regulation/7/5) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
 
 [^c-de457153772dbcfbc953ae5fa065f87c]: Commencement: Sch. 1 para. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 

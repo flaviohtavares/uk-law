@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
-## 88. Fixed penalty notices for leaving litter.[^c19495391][^c13744831][^c18478801][^c17513401][^c18954341]
+## 88. Fixed penalty notices for leaving litter.[^c19495391][^c13744831][^c18478801][^c17513401][^c18954341][^c13739731]
 
 *Extent: E+W*
 
@@ -202,6 +202,8 @@ shall be evidence of the facts stated.
     S. 88 extended (2.12.2002) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 41](https://www.legislation.gov.uk/ukpga/2002/30/section/41), [Sch. 5 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/5/paragraph/1/2/c); [S.I. 2002/2750](https://www.legislation.gov.uk/uksi/2002/2750), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2002/2750/article/2/a/iii)
 
 [^c18954341]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c18978491]: Textual amendment: S. 88(6)(6A)(6B)(7) substituted (E.W.) (16.3.2006 for certain purposes for W., 6.4.2006 for E. and 15.3.2007 in so far as not already in force for W.) for s. 88(6)(7) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/19/2), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2) (with [art. 4(3)(a)](https://www.legislation.gov.uk/uksi/2006/795/article/4/3/a)); [S.I. 2006/2797](https://www.legislation.gov.uk/uksi/2006/2797), [art. 4(f)](https://www.legislation.gov.uk/uksi/2006/2797/article/4/f) (with [art. 10(3)(a)](https://www.legislation.gov.uk/uksi/2006/2797/article/10/3/a)); [S.I. 2007/739](https://www.legislation.gov.uk/uksi/2007/739)
 

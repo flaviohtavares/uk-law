@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 38
 act: London Local Authorities Act 2007
 section: '38'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 38
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 38. Interpretation of Part III of Act of 1990
+## 38. Interpretation of Part III of Act of 1990[^c-e031ed6bef5afabce938bbe7338e8879]
+
+*Extent: E+W*
 
 (1) Section 21 (interpretation of Part III) of the Act of 1990 is amended as follows.
 
@@ -49,3 +53,7 @@ summary: ''
 .
 
 (6) Paragraphs (f) and (g) of subsection (2) are omitted.
+
+## Annotations
+
+[^c-e031ed6bef5afabce938bbe7338e8879]: Commencement: [S. 38](https://www.legislation.gov.uk/ukla/2007/2/section/38) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

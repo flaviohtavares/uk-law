@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 61
 act: London Local Authorities Act 2007
 section: '61'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 61
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 61. Penalty charges
+## 61. Penalty charges[^c-bcaffa3db1d253903efde7b179ffc26c]
+
+*Extent: E+W*
 
 (1) This section applies where a borough council have reason to believe that a penalty charge is payable to them by virtue of a penalty charge provision.
 
@@ -48,3 +52,7 @@ summary: ''
 - “penalty charge provision” means any enactment which is by the enactment itself or by another enactment designated as a penalty charge provision for the purposes of this section.
 
 (8) In determining, for the purposes of any provision of this Part of this Act, whether a penalty charge has been paid before the end of a particular period, it shall be taken to be paid when it is received by the council.
+
+## Annotations
+
+[^c-bcaffa3db1d253903efde7b179ffc26c]: Commencement: [S. 61](https://www.legislation.gov.uk/ukla/2007/2/section/61) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

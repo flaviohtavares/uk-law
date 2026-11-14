@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2AA — Waste reduction schemes[^c19922641]
+## SCHEDULE 2AA — Waste reduction schemes[^c19922641][^c13739731]
 
 *Extent: E+W*
 
@@ -237,3 +237,5 @@ In paragraph (b) “**modifying**” includes making additions, amendments or om
 ## Annotations
 
 [^c19922641]: Textual amendment: Sch. 2AA inserted (prospectively in accordance with ss. 72-75 of the amending Act) (E.W.) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [ss. 71](https://www.legislation.gov.uk/ukpga/2008/27/section/71), [100](https://www.legislation.gov.uk/ukpga/2008/27/section/100), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2008/27/schedule/5/paragraph/1) and which amending provisions repealed (never in force) (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 47](https://www.legislation.gov.uk/ukpga/2011/20/section/47), [240(1)(e)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1), [Sch. 25 Pt. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/8)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

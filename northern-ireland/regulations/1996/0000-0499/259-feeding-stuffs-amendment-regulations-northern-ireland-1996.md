@@ -3,14 +3,14 @@ title: Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1996
 id: nisr/1996/259
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-27'
-text_date: null
-extent: null
+text_date: '1996-06-27'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/259
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/259/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/259/data.pdf
+pending_changes: 12
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (12).** Text as at 1996-06-27. See https://www.legislation.gov.uk/changes/affected/nisr/1996/259
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 259
 
@@ -36,24 +42,24 @@ Coming into operation
 
 The Department of Agriculture, being a Department designated[^f00001] for the purposes of section 2(2)[^f00002] of the European Communities Act 1972[^f00003](**d**) in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by that section and sections 66(1), 68(1), 73(3), 74(1), 74A[^f00004], 84 and 86 of the Agriculture Act 1970[^f00005] and of every other power enabling it in that behalf, after consultation with such persons or organisations as appear to it to represent the interests concerned, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-d8f8cc24e25b96b3c2f0a6900b27ed57]
 
 (1) These Regulations may be cited as the Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 31st July 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 1995
+## 2. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 1995[^c-f86d90b5c623dac61f9f35caa05da246]
 
 The Feeding Stuffs Regulations (Northern Ireland) 1995[^f00007] shall be amended in accordance with regulations 3 to 8.
 
-**3.** In regulation 2(1) (*Interpretation*), after the definition of “daily ration” there shall be inserted the following definitions—
+**3.**[^c-e0416efa181ac85fc6bb2b80c1426644] In regulation 2(1) (*Interpretation*), after the definition of “daily ration” there shall be inserted the following definitions—
 
 > - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as amended by the Protocol signed at Brussels on 17th March 1993;
 > - “EEA State” means a State which is a Contracting Party to the EEA Agreement;
 
 [^f00008].
 
-**4.** For regulation 10 (*Limits of variation*) there shall be substituted the following regulation:
+**4.**[^c-9b5d82a8b78040408f2b8ce89c5291c1] For regulation 10 (*Limits of variation*) there shall be substituted the following regulation:
 
 > **10.** For the purposes of section 74, the limits of variation in relation to any mis-statement in a statutory statement or mark as to the nature, substance or quality of a feeding stuff, where the mis-statement relates to—
 >
@@ -64,7 +70,7 @@ The Feeding Stuffs Regulations (Northern Ireland) 1995[^f00007] shall be amended
 
 .
 
-**5.** In regulation 15 (*Control of feeding stuffs and ingredients containing undesirable substances*)—
+**5.**[^c-400596401bd6b35a7abcec8267f583d8] In regulation 15 (*Control of feeding stuffs and ingredients containing undesirable substances*)—
 
 - (a) in paragraphs (3), (4) and (6), for the words “a member State of the European Community” in each place where they occur, there shall be substituted “an EEA State”;
 - (b) in paragraph (11) for sub-paragraph (*b*) there shall be substituted the following sub-paragraph:
@@ -78,7 +84,7 @@ The Feeding Stuffs Regulations (Northern Ireland) 1995[^f00007] shall be amended
 
   .
 
-**6.** In Schedule 4—
+**6.**[^c-063c1789ef67b4997fe8cf71826037d4] In Schedule 4—
 
 - (a) in Part II (“Permitted Colourants”)—
 - (i) for the provisions in Columns 1 to 3 relating to the names or descriptions “Carotenoids and xanthophylls” and “Capsanthin” there shall be substituted the following provisions:
@@ -94,9 +100,9 @@ The Feeding Stuffs Regulations (Northern Ireland) 1995[^f00007] shall be amended
     ;
 - (b) in Part VI (“Trace Elements”), for the provisions relating to the element Iodine-I there shall be substituted the contents of Schedule 1.
 
-**7.** In Schedule 5 (“Prescribed Limits For Undesirable Substances”) in Part I Chapter B for the provisions relating to the substance Aflatoxin B<sub>1</sub> there shall be substituted the contents of Schedule 2.
+**7.**[^c-635ea931b1ee0fb4937d2953fcbd8940] In Schedule 5 (“Prescribed Limits For Undesirable Substances”) in Part I Chapter B for the provisions relating to the substance Aflatoxin B<sub>1</sub> there shall be substituted the contents of Schedule 2.
 
-**8.** In Schedule 7 (“Control of Certain Protein Sources”)—
+**8.**[^c-72fd05677e4b5f544647d140a07b527e] In Schedule 7 (“Control of Certain Protein Sources”)—
 
 - (a) after the provisions relating to item 1.1.1 (“Bacteria cultivated on methanol”) there shall be inserted the contents of Schedule 3; and
 - (b) for the provisions in Column 5 relating to item 3.2.2 (“Concentrated liquid L-Lysine (base)”) there shall be substituted the following provisions:
@@ -112,7 +118,7 @@ L. G. McKibben
 
 Assistant Secretary
 
-## SCHEDULE 1
+## SCHEDULE 1[^c-dba4147d28018a266f4c1f88533fa75a]
 
 Regulation 6(*b*)
 
@@ -123,7 +129,7 @@ Regulation 6(*b*)
 > |  |  |  |  | fish; | 20 (total); | — |
 > |  |  |  | other species of animals | 10 (total) | — |  |
 
-## SCHEDULE 2
+## SCHEDULE 2[^c-7f8b7037fbc05da4b168c8736dcb37df]
 
 Regulation 7
 
@@ -140,7 +146,7 @@ Regulation 7
 > | Complementary feeding stuffs for pigs and poultry (except young animals) | 0.03 |
 > | Other complementary feeding stuffs | 0.005 |
 
-## SCHEDULE 3
+## SCHEDULE 3[^c-26b982b00f4ae2d1c5f40cd31226a95e]
 
 Regulation 8(*a*)
 
@@ -180,14 +186,36 @@ The Regulations make the following principal changes—
 
 [^f00005]: Footnote: Inserted by [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68) section 4(1) and Schedule 4, paragraph (6)
 
+[^c-d8f8cc24e25b96b3c2f0a6900b27ed57]: Commencement: Reg. 1 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
+
 [^f00006]: Footnote: [1970 c. 40](https://www.legislation.gov.uk/apni/1970/40) as amended by S.I. [1982/980](https://www.legislation.gov.uk/uksi/1982/980)
+
+[^c-f86d90b5c623dac61f9f35caa05da246]: Commencement: Reg. 2 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
+[^c-e0416efa181ac85fc6bb2b80c1426644]: Commencement: Reg. 3 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
+
 [^f00008]: Footnote: [S.R. 1995 No. 451](https://www.legislation.gov.uk/nisr/1995/451)
+
+[^c-9b5d82a8b78040408f2b8ce89c5291c1]: Commencement: Reg. 4 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
+
+[^c-400596401bd6b35a7abcec8267f583d8]: Commencement: Reg. 5 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
 
 [^f00009]: Footnote: The reference for the EEA Agreement is O.J. No. L1, 3.1.94, p. 1. The reference for the Protocol signed on 17th March 1993 is O.J. No. L1, 3.1.94, p. 571
 
 [^f00010]: Footnote: O.J. No. L194, 25.7.75, p. 39
 
+[^c-063c1789ef67b4997fe8cf71826037d4]: Commencement: Reg. 6 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
+
 [^f00011]: Footnote: O.J. No. L78, 26.3.91, p. 32
+
+[^c-635ea931b1ee0fb4937d2953fcbd8940]: Commencement: Reg. 7 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
+
+[^c-72fd05677e4b5f544647d140a07b527e]: Commencement: Reg. 8 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
+
+[^c-dba4147d28018a266f4c1f88533fa75a]: Commencement: Sch. 1 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
+
+[^c-7f8b7037fbc05da4b168c8736dcb37df]: Commencement: Sch. 2 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)
+
+[^c-26b982b00f4ae2d1c5f40cd31226a95e]: Commencement: Sch. 3 in operation at 31.7.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/259/regulation/1/1)

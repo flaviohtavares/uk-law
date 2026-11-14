@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 81
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '81'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/81
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 81
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 81. Application of certain provisions for Scottish parliamentary elections
+## 81. Application of certain provisions for Scottish parliamentary elections[^c-4abce9e3c459a291533109487776468b]
+
+*Extent: S*
 
 (1) The provisions of the 1983 Act which are specified in the left hand column of Part I of Schedule 6 to this Order shall apply–
 
@@ -55,3 +59,7 @@ for the purposes of a Scottish parliamentary election but only in relation to th
 - (m) any references to an offence under the 1983 Act or to a practice (or payment, employment or hiring) made corrupt or illegal by any provision of that Act shall be construed, subject to any necessary modifications, as a reference to the offence under, or practice, payment, employment or hiring made illegal by, the corresponding provision of this Order.
 
 (4) The references to “parliamentary election” to which paragraph (3)(b) above does not apply are those in section 60(4) of the 1983 Act and the first reference in section 160(5) of that Act.
+
+## Annotations
+
+[^c-4abce9e3c459a291533109487776468b]: Commencement: Art. 81 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 58
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '58'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/58
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 58
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 58. Right to send election address post free
+## 58. Right to send election address post free[^c-c6afbb1483c6ffebfbc601abd1e7d4da]
+
+*Extent: S*
 
 (1) At a Scottish parliamentary election–
 
@@ -43,5 +47,7 @@ is entitled, to send free of any charge for postage which would otherwise be mad
 (7) If the area of a regional returning officer is situated in the area of more than one official designated by a universal postal service provider, the controlling designated official shall be determined by that regional returning officer.
 
 ## Annotations
+
+[^c-c6afbb1483c6ffebfbc601abd1e7d4da]: Commencement: Art. 58 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00027]: Footnote: [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26).

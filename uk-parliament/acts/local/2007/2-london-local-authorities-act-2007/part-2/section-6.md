@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 6
 act: London Local Authorities Act 2007
 section: '6'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 6. Advertisements: designation of areas
+## 6. Advertisements: designation of areas[^c-c3a8c75cece49f9714bd2eb240c439b7]
+
+*Extent: E+W*
 
 (1) A borough council may designate, in accordance with the following provisions of this section, areas comprising any of the following places or any part of such places in the borough as designated areas to which this section applies—
 
@@ -57,3 +61,7 @@ summary: ''
 (9) A designation shall come into force on the date specified in the notice given under subsection (8) above.
 
 (10) In this section, “conservation area” means a conservation area designated under section 69 of the Planning (Listed Buildings and Conservation Areas) Act [1990 (c. 9)](https://www.legislation.gov.uk/ukpga/1990/9) (designation of conservation areas).
+
+## Annotations
+
+[^c-c3a8c75cece49f9714bd2eb240c439b7]: Commencement: [S. 6](https://www.legislation.gov.uk/ukla/2007/2/section/6) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

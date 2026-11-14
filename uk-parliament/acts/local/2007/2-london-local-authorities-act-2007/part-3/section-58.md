@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 58
 act: London Local Authorities Act 2007
 section: '58'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/58
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 58
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 58. Motor vehicles
+## 58. Motor vehicles[^c-344eb02a97a55e94dbff51adf72d0b3e]
+
+*Extent: E+W*
 
 After section 27A (seizure of perishable items) of the Act of 1999, inserted by section 57 (seizure of perishable items) of this Act, the following section is inserted—
 
@@ -42,3 +46,7 @@ After section 27A (seizure of perishable items) of the Act of 1999, inserted by 
 > (8) In determining who was the owner of a motor vehicle at any time, it shall be presumed that the owner is the person in whose name the vehicle is at that time registered under the Vehicle Excise and Registration Act 1994.
 
 .
+
+## Annotations
+
+[^c-344eb02a97a55e94dbff51adf72d0b3e]: Commencement: [S. 58](https://www.legislation.gov.uk/ukla/2007/2/section/58) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

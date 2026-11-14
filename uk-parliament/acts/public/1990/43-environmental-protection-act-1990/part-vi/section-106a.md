@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 106A. Exclusion of precision bred organisms from English application of Part[^c-0afe5258107baf067667beb9053d5088]
+## 106A. Exclusion of precision bred organisms from English application of Part[^c-0afe5258107baf067667beb9053d5088][^c13739731]
 
 *Extent: E+W+S*
 
@@ -37,3 +37,5 @@ summary: ''
 ## Annotations
 
 [^c-0afe5258107baf067667beb9053d5088]: Textual amendment: S. 106A inserted (13.11.2025 for specified purposes) by [Genetic Technology (Precision Breeding) Act 2023 (c. 6)](https://www.legislation.gov.uk/ukpga/2023/6), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/41/2), [48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4) (with [s. 46](https://www.legislation.gov.uk/ukpga/2023/6/section/46)); [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

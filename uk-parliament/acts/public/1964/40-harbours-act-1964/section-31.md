@@ -3,7 +3,7 @@ title: Harbours Act 1964, section 31
 act: Harbours Act 1964
 section: '31'
 status: revised-with-pending-changes
-text_date: '2026-10-23'
+text_date: '2026-11-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1964/40/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Harbours Act 1964, section 31
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Right of objection to ship, passenger and goods dues.[^c7739011][^c7739021][^c-995ff1574458d1377d6225a61f2c4bd1][^c-f8619ae2316de509ace060d9777bd967][^c-065a3f3e240e32da64907b42250f462e][^c-9b266bd4371b0c8bf484cd0231467cf4][^c-6ae02bda78d2da98aa4a0accbdc0ad17][^c-9eede8beecb8853374a931fada1194ac][^c-8c5039470acb8bafdba437974045820c][^c-b1241e4b6d58a28154435851f4ea93fe][^c-364d8dfdad05d613922cde4181c288b5][^c-bd9d13198c0d43f8c6a9374a5015b562][^c-dab4135dee418bb309abf60f831c08b7][^c-6b7b32297271260d67ba57a00d256923][^c-1700a1750daf3e194ebfb46cfb3c14ae][^c-403fb8a829a8a204f832d8a2d484bc18]
+## 31. Right of objection to ship, passenger and goods dues.[^c7739011][^c7739021][^c-995ff1574458d1377d6225a61f2c4bd1][^c-f8619ae2316de509ace060d9777bd967][^c-065a3f3e240e32da64907b42250f462e][^c-9b266bd4371b0c8bf484cd0231467cf4][^c-6ae02bda78d2da98aa4a0accbdc0ad17][^c-9eede8beecb8853374a931fada1194ac][^c-8c5039470acb8bafdba437974045820c][^c-b1241e4b6d58a28154435851f4ea93fe][^c-364d8dfdad05d613922cde4181c288b5][^c-bd9d13198c0d43f8c6a9374a5015b562][^c-dab4135dee418bb309abf60f831c08b7][^c-6b7b32297271260d67ba57a00d256923][^c-1700a1750daf3e194ebfb46cfb3c14ae][^c-403fb8a829a8a204f832d8a2d484bc18][^c-74a292b81f3c3f12fb89050034f0704a]
 
 *Extent: E+W+S*
 
@@ -105,6 +105,8 @@ and the objection is expressed to be made on all or any of the following grounds
 [^c-1700a1750daf3e194ebfb46cfb3c14ae]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/1964/40/section/31) applied (with modifications) (E.W.) (23.7.2026) by [S.I. 2012/1777](https://www.legislation.gov.uk/uksi/2012/1777), [art. 29A](https://www.legislation.gov.uk/uksi/2012/1777/article/29A) (as inserted by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(4)](https://www.legislation.gov.uk/uksi/2026/724/article/39/4) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37)))
 
 [^c-403fb8a829a8a204f832d8a2d484bc18]: Modification: [Ss. 30](https://www.legislation.gov.uk/ukpga/1964/40/section/30), [31](https://www.legislation.gov.uk/ukpga/1964/40/section/31) applied (with modifications) (S.) (24.9.2026) by [The Montrose Harbour Revision Order 2026 (S.S.I. 2026/273)](https://www.legislation.gov.uk/ssi/2026/273), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/273/article/1/1), [36](https://www.legislation.gov.uk/ssi/2026/273/article/36) (with [arts. 33](https://www.legislation.gov.uk/ssi/2026/273/article/33), [48](https://www.legislation.gov.uk/ssi/2026/273/article/48), [49](https://www.legislation.gov.uk/ssi/2026/273/article/49))
+
+[^c-74a292b81f3c3f12fb89050034f0704a]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/1964/40/section/31) applied (with modifications) (E.W.) (5.11.2026) by [The Port of Tyne Harbour Revision Order 2026 (S.I. 2026/1088)](https://www.legislation.gov.uk/uksi/2026/1088), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1088/article/1/1), [19(5)](https://www.legislation.gov.uk/uksi/2026/1088/article/19/5) (with [arts. 22(3)](https://www.legislation.gov.uk/uksi/2026/1088/article/22/3), [64](https://www.legislation.gov.uk/uksi/2026/1088/article/64), [65](https://www.legislation.gov.uk/uksi/2026/1088/article/65))
 
 [^c7739031]: Textual amendment: Words inserted by [Transport Act 1981 (c. 56, SIF 58)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 5 para. 10(3)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/5/paragraph/10/3), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/6/paragraph/8/3)
 

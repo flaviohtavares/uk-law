@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **FOOD**. Repealed la
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Food Safety Act 1990](../../uk-parliament/acts/public/1990/16-food-safety-act-1990/README.md) *(changes pending)* — 606 regulations on this topic made under it
+- [Food Safety Act 1990](../../uk-parliament/acts/public/1990/16-food-safety-act-1990/README.md) *(changes pending)* — 605 regulations on this topic made under it
 - [The Food Safety (Northern Ireland) Order 1991](../../northern-ireland/orders-in-council/1991/762-the-food-safety-northern-ireland-order-1991.md) — 111 regulations on this topic made under it
 - [Social Security Act 1988](../../uk-parliament/acts/public/1988/7-social-security-act-1988.md) — 48 regulations on this topic made under it
 - [Food Act 1984](../../uk-parliament/acts/public/1984/30-food-act-1984/README.md) — 31 regulations on this topic made under it
@@ -22,7 +22,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1271 in force, by year:
+1270 in force, by year:
 
 | year | in force |
 |---|---|
@@ -57,7 +57,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [1998](1998.md) | 19 |
 | [1997](1997.md) | 32 |
 | [1996](1996.md) | 42 |
-| [1995](1995.md) | 33 |
+| [1995](1995.md) | 32 |
 | [1994](1994.md) | 19 |
 | [1993](1993.md) | 16 |
 | [1992](1992.md) | 31 |

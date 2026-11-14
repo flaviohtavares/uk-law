@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88A. Littering from vehicles: civil penalty regime[^c-65537dfba7e77a54d329836e8cff4010]
+## 88A. Littering from vehicles: civil penalty regime[^c-65537dfba7e77a54d329836e8cff4010][^c13739731]
 
 *Extent: E+W*
 
@@ -77,3 +77,5 @@ but may not include provision conferring power on a person to make orders or reg
 ## Annotations
 
 [^c-65537dfba7e77a54d329836e8cff4010]: Textual amendment: S. 88A inserted (E.W.) (25.10.2017) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 154(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/154/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2017/1018](https://www.legislation.gov.uk/uksi/2017/1018), [art. 2](https://www.legislation.gov.uk/uksi/2017/1018/article/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
-## 80. Summary proceedings for statutory nuisances.[^c13743531][^c18946741]
+## 80. Summary proceedings for statutory nuisances.[^c13743531][^c18946741][^c13739731]
 
 *Extent: E+W*
 
@@ -137,6 +137,8 @@ and the notice shall specify the time or times within which the requirements of 
 [^c13743531]: Extent: Ss. 79-82, which previously extended to England and Wales only, extend to Scotland from 1.4.1996 (except where specified) by virtue of the repeal of s. 83 of this Act by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
 [^c18946741]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c18975371]: Textual amendment: Words in s. 80(1) inserted (E.W.) (6.4.2006 for E. and 27.10.2006 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 86](https://www.legislation.gov.uk/ukpga/2005/16/section/86), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); [S.I. 2006/2797](https://www.legislation.gov.uk/uksi/2006/2797), [art. 2(q)](https://www.legislation.gov.uk/uksi/2006/2797/article/2/q)
 

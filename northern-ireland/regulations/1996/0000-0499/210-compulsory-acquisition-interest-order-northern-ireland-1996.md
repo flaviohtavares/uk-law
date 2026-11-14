@@ -3,14 +3,14 @@ title: Compulsory Acquisition (Interest) Order (Northern Ireland) 1996
 id: nisr/1996/210
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-05-22'
-text_date: null
-extent: null
+text_date: '1996-05-22'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/210
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/210/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/210/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Compulsory Acquisition (Interest) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 1996-05-22. See https://www.legislation.gov.uk/changes/affected/nisr/1996/210
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 210
 
@@ -36,11 +42,11 @@ Coming into operation
 
 The Department of Finance and Personnel[^f00001], in exercise of the powers conferred on it by section 12 of the Public Health and Local Government (Miscellaneous Provisions) Act (Northern Ireland) 1955[^f00002] and by section 14(3) of the Administrative and Financial Provisions Act (Northern Ireland) 1956[^f00003] and by section 97(2) of and paragraph 18 of Schedule 6 to the Local Government Act (Northern Ireland) 1972[^f00004] and of every other power enabling it in that behalf hereby makes the following Order.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-8685f29ca94fa9c9a3ecbf6549368977]
 
 This Order may be cited as the Compulsory Acquisition (Interest) Order (Northern Ireland) 1996 and shall come into operation on 1st July 1996.
 
-## 2. Rate of interest
+## 2. Rate of interest[^c-027739accb51e896aac606c676689eb4]
 
 (1) The rate of interest payable by virtue of section 22 of and Article 23 of Schedule 2 to the Local Government Act (Northern Ireland) 1934[^f00005], section 34 of and paragraph 22 of Schedule 5 to the Roads Act (Northern Ireland) 1948[^f00006] or section 97(2) of and paragraph 18 of Schedule 6 to the Local Government Act (Northern Ireland) 1972 on compensation money in respect of land compulsorily acquired shall, in respect of any period after the coming into operation of this Order, be 0.5 per centum per annum below the standard rate described in paragraph (2).
 
@@ -65,7 +71,7 @@ This Order may be cited as the Compulsory Acquisition (Interest) Order (Northern
 
 (6) In paragraph (5)(*b*), the reference to the consolidated gross assets of an institution is a reference to the gross assets of that institution together with any subsidiary (within the meaning of Article 4 of the Companies (Northern Ireland) Order 1986[^f00008].
 
-## 3. Revocation
+## 3. Revocation[^c-c092ecad76dc8b785b5f9efb43bd31a3]
 
 The Compulsory Acquisition (Interest) Order (Northern Ireland) 1994[^f00009] is hereby revoked.
 
@@ -93,6 +99,10 @@ This Order also revokes the Compulsory Acquisition (Interest) Order (Northern Ir
 
 [^f00004]: Footnote: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9)
 
+[^c-8685f29ca94fa9c9a3ecbf6549368977]: Commencement: Art. 1 in operation at 1.7.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/210/article/1)
+
+[^c-027739accb51e896aac606c676689eb4]: Commencement: Art. 2 in operation at 1.7.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/210/article/1)
+
 [^f00005]: Footnote: [1934 c. 22 (N.I.)](https://www.legislation.gov.uk/apni/1934/22) as saved by [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9) s. 149(3)
 
 [^f00006]: Footnote: [1948 c. 28 (N.I.)](https://www.legislation.gov.uk/apni/1948/28) as amended by [1956 c. 17 (N.I.)](https://www.legislation.gov.uk/apni/1956/17) Schedule 1 and as saved by S.I. [1980/1085 (N.I. 11)](https://www.legislation.gov.uk/nisi/1980/1085) Art. 64(1) and Schedule 7 para. 6 and S.I. [1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160) Art. 134(1) and Schedule 9 para. 4
@@ -100,5 +110,7 @@ This Order also revokes the Compulsory Acquisition (Interest) Order (Northern Ir
 [^f00007]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22)
 
 [^f00008]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032) Article 4 was substituted by S.I. [1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504) Art. 62(1)
+
+[^c-c092ecad76dc8b785b5f9efb43bd31a3]: Commencement: Art. 3 in operation at 1.7.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/210/article/1)
 
 [^f00009]: Footnote: [S.R. 1994 No. 91](https://www.legislation.gov.uk/nisr/1994/91)

@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 6
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: schedule-6
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
 ## SCHEDULE 6 — LEGAL PROCEEDINGS
 
+*Extent: S*
+
 Article 81
 
-### PART I — ELECTION OR RETURN OF CONSTITUENCY MEMBER
+### PART I — ELECTION OR RETURN OF CONSTITUENCY MEMBER[^c-5fc3fecb553012d8b0ad8ca908234ba2]
 
 | Provision applied | Modification |
 | --- | --- |
@@ -70,7 +74,7 @@ Article 81
 | Section 185 (interpretation of Part III) |  |
 | Section 186 (computation of time for purposes of Part III) | The reference to “section 119 above” shall be construed as a reference to article 80 and the reference to “Part II of this Act” shall be construed as a reference to Part III of this Order. |
 
-### PART II — ELECTION OR RETURN OF REGIONAL MEMBER
+### PART II — ELECTION OR RETURN OF REGIONAL MEMBER[^c-48923b7062217453fc4357e889ba52db]
 
 | Provision applied | Modification |
 | --- | --- |
@@ -108,3 +112,9 @@ Article 81
 | Section 184 (service of notices) |  |
 | Section 185 (interpretation of Part III) | At the end, insert<br>- “the Order” means the Scottish Parliament (Elections etc.) Order 2002.”. |
 | Section 186 (computation of time for purposes of Part III) | The reference to “section 119 above” shall be construed as a reference to article 80 and the reference to “Part II of this Act” shall be construed as reference to Part III of this Order. |
+
+## Annotations
+
+[^c-5fc3fecb553012d8b0ad8ca908234ba2]: Commencement: Sch. 6 Pt. I in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-48923b7062217453fc4357e889ba52db]: Commencement: Sch. 6 Pt. II in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

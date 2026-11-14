@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 59
 act: London Local Authorities Act 2007
 section: '59'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/59
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 59
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 59. Disposal orders
+## 59. Disposal orders[^c-2fd2b8d5e598520210d571963e871d4d]
+
+*Extent: E+W*
 
 (1) After section 27B (motor vehicles) of the Act of 1999 (inserted by section 58 (motor vehicles) of this Act) the following section is inserted—
 
@@ -54,3 +58,7 @@ summary: ''
 > (8) For the purposes of this section, “owner” in respect of a vehicle, has the same meaning as it has for the purposes of the said section 27B.
 
 .
+
+## Annotations
+
+[^c-2fd2b8d5e598520210d571963e871d4d]: Commencement: [S. 59](https://www.legislation.gov.uk/ukla/2007/2/section/59) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

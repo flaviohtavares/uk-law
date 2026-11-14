@@ -16,10 +16,12 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13746931]
+## 103. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13746931][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
 [^c13746931]: Textual amendment: [S. 103](https://www.legislation.gov.uk/ukpga/1990/43/section/103) repealed (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [s. 50](https://www.legislation.gov.uk/ukpga/1993/12/section/50), [Sch. 6 Pt.I](https://www.legislation.gov.uk/ukpga/1993/12/schedule/6/part/I) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46))
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

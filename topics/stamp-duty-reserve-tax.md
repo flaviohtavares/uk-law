@@ -88,7 +88,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3159-the-authorised-investment-funds-tax-amendment-no-3-regulations-2008.md) *(as originally made)*
+- [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3159-the-authorised-investment-funds-tax-amendment-no-3-regulations-2008.md) *(changes pending)*
 - [The Stamp Duty Reserve Tax (Amendment of section 89AA of the Finance Act 1986) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3236-the-stamp-duty-reserve-tax-amendment-of-section-89aa-of-the-finance-act-1986-reg.md) *(as originally made)*
 - [The Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (The London Stock Exchange) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/52-the-stamp-duty-reserve-tax-investment-exchanges-and-clearing-houses-the-london-s.md) *(as originally made)*
 - [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (Eurex Clearing AG) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/164-the-stamp-duty-and-stamp-duty-reserve-tax-investment-exchanges-and-clearing-hous.md) *(as originally made)*

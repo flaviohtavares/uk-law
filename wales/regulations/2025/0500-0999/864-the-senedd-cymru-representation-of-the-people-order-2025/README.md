@@ -5,13 +5,13 @@ type: WelshStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2025-07-09'
-text_date: '2026-03-24'
+text_date: '2026-11-03'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2025/864
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2025/864/pdfs/wsi_20250864_mi.pdf
 - http://www.legislation.gov.uk/wsi/2025/864/data.pdf
-pending_changes: 31
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Senedd Cymru (Representation of the People) Order 2025
 
-> **Warning: changes not yet applied to this text (31).** Text as at 2026-03-24. See https://www.legislation.gov.uk/changes/affected/wsi/2025/864
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-03. See https://www.legislation.gov.uk/changes/affected/wsi/2025/864
 >
 > Extent: England, Wales.
 
@@ -65,7 +65,7 @@ In accordance with section 13(7) of the Government of Wales Act 2006[^f00005], a
 - [Section 3 — Registration and absent voting](part-2/section-3.md)
 - [Section 4 — Polling districts and places at Senedd elections](part-2/section-4.md)
 - [Section 5 — Manner of voting at Senedd elections](part-2/section-5.md)
-- [Section 6 — Absent vote at Senedd elections for a particular or an indefinite period](part-2/section-6.md)
+- [Section 6 — Absent vote at Senedd elections ...](part-2/section-6.md)
 - [Section 7 — Absent vote at a particular Senedd election](part-2/section-7.md)
 - [Section 8 — Absent voters lists at Senedd elections](part-2/section-8.md)
 - [Section 9 — Proxies at Senedd elections](part-2/section-9.md)

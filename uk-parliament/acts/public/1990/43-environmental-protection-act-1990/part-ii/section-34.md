@@ -83,7 +83,7 @@ and “**transport**” has the same meaning in this subsection as in the Contro
 
 (11) Different codes of practice may be prepared and issued under subsection (7) above for different areas.
 
-## 34. Duty of care etc. as respects waste.[^c13734751][^c18960171]
+## 34. Duty of care etc. as respects waste.[^c13734751][^c18960171][^c13739731]
 
 *Extent: S*
 
@@ -266,6 +266,8 @@ and “**transport**” has the same meaning in this subsection as in the Contro
 [^c13734891]: Textual amendment: S. 34(9)(b) and the word “or” immediately preceding it inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 102(2)(c)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/102/2/c)
 
 [^c18960171]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-ef016a3d79c22bdd771acb97438c1467]: Textual amendment: Words in s. 34(1) substituted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2024/13/section/14/2/a), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 

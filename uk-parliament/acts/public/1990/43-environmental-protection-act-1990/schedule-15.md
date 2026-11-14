@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 15 — Consequential and Minor Amendments of Enactments
+## SCHEDULE 15 — Consequential and Minor Amendments of Enactments[^c13739731]
 
 *Extent: E+W+S*
 
@@ -262,6 +262,8 @@ and, immediately before section 25, as section 24A, a section in the same terms 
 (6 (Extent: S) (affected by repeal, see note))[^c-5746a51f6a1cd5c4f7dbc1afc4eca54a] Section 9(2) shall be omitted. *(Extent: S)* *(affected by repeal, see note)*[^c-5746a51f6a1cd5c4f7dbc1afc4eca54a]
 
 ## Annotations
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13753371]: Textual amendment: [Sch. 15 para 1](https://www.legislation.gov.uk/ukpga/1990/43/schedule/15/paragraph/1) repealed (1.4.1993) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch.14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14); [S.I. 1993/575](https://www.legislation.gov.uk/uksi/1993/575), [art. 2(d)](https://www.legislation.gov.uk/uksi/1993/575/article/2/d),Sch. (with art. 5)
 

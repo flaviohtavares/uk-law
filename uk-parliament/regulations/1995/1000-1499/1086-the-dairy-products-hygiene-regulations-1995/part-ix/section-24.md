@@ -2,8 +2,8 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 24
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '24'
-status: revised-with-pending-changes
-text_date: '1995-05-09'
+status: repealed
+text_date: '2006-01-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,51 +12,20 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 24
 
-> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## 24. Consequential amendments[^c-c7d92c7abf84be76d0e1ae0380510316]
+## 24. Consequential amendments[^c-cc9f07878307ead5d75125f655fe69a3]
 
 *Extent: E+W*
 
-(1) In the Ice Cream (Heat Treatment etc) Regulations 1959[^f00015], after regulation 2A there shall be inserted the following regulation—
+**No longer in force.**
 
-> **2B. Exemption**
->
-> (1) These Regulations shall not apply in relation to any ice-cream which is a milk-based product.
->
-> (2) In this regulation “milk-based product” has the same meaning as in the Dairy Products (Hygiene) Regulations 1995.
-
-(2) In the Drinking Milk Regulations 1976[^f00016], after regulation 5 there shall be inserted the following regulation—
-
-> **5A. Reserved names**
->
-> No person shall use any name specified in Article 3(1) of Council Regulation [(EEC) No. 1411/71](https://www.legislation.gov.uk/european/regulation/1971/1411)[^f00017], as amended[^f00018], except in accordance with paragraph (2) of that Article.
-
-(3) The Good Labelling Regulations 1984[^f00019] shall be amended in accordance with Schedule 13.
-
-(4) The Food Premises (Registration) Regulations 1991[^f00020] shall be amended as follows—
-
-- (a) for sub-paragraph (a) of regulation 3(2) there shall be substituted the following sub-paragraph—
-
-  > - (a) as a production holding or as a dairy establishment, in each case within the meaning, in relation to England and Wales, of the Dairy Products (Hygiene) Regulations 1995;
-
-  ; and
-- (b) sub-paragraph (b) of regulation 3(2) shall be deleted.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-c7d92c7abf84be76d0e1ae0380510316]: Commencement: Reg. 24 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
+[^c-cc9f07878307ead5d75125f655fe69a3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/1086) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); and [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7)
 
-[^f00015]: Footnote: S.I. [1959/734](https://www.legislation.gov.uk/uksi/1959/734) to which there are amendments not relevant to these Regulations.
-
-[^f00016]: Footnote: S.I. [1976/1883](https://www.legislation.gov.uk/uksi/1976/1883), to which there are amendments not relevant to these Regulations.
-
-[^f00017]: Footnote: OJ No. L148, 3.7.71, p.4 (OJ/SE 1971 vol. II, p.412).
-
-[^f00018]: Footnote: The relevant amending instrument is Council Regulation [(EEC) No. 566/76](https://www.legislation.gov.uk/european/regulation/1976/0566) (OJ No. L67, 15.3.76, p.23) as read with the corrigendum at OJ No. L107, 24.4.76, p.22.
-
-[^f00019]: Footnote: S.I. [1984/1305](https://www.legislation.gov.uk/uksi/1984/1305), to which there are amendments not relevant to these Regulations.
-
-[^f00020]: Footnote: S.I. [1991/2825](https://www.legislation.gov.uk/uksi/1991/2825), to which there are amendments not relevant to these Regulations.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

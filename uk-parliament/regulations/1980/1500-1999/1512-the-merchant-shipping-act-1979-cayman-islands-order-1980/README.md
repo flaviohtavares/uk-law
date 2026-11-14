@@ -53,7 +53,7 @@ Her Majesty, in exercise of the powers conferred upon Her by sections 15(1), 19(
 - [Section 2](section-2.md)
 - [Section 3](section-3.md)
 
-- [SCHEDULE TO THE ORDER](schedule-1.md)
+- [SCHEDULE TO THE ORDER](schedule.md)
 
 N.E. Leigh
 

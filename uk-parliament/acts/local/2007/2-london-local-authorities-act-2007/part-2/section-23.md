@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 23
 act: London Local Authorities Act 2007
 section: '23'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 23
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 23. Regulations relating to receptacles for waste: enforcement
+## 23. Regulations relating to receptacles for waste: enforcement[^c-15eb86f7ecf0ae8409d64e72739e7c73]
+
+*Extent: E+W*
 
 (1) This section is a penalty charge provision for the purposes of section 61 (penalty charges) of this Act.
 
@@ -36,3 +40,7 @@ summary: ''
 - (g) that the penalty charge exceeded the amount applicable in the circumstances of the case.
 
 (5) Where any of the grounds mentioned in subsection (4)(a) above is relied on in any representations made under subsection (1) of the said section 62, those representations must include a statement of the name and address of the occupier (if that information is in the recipient’s possession).
+
+## Annotations
+
+[^c-15eb86f7ecf0ae8409d64e72739e7c73]: Commencement: [S. 23](https://www.legislation.gov.uk/ukla/2007/2/section/23) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

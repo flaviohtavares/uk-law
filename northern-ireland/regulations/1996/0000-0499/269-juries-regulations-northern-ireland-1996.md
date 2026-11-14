@@ -3,13 +3,13 @@ title: Juries Regulations (Northern Ireland) 1996
 id: nisr/1996/269
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-02'
-text_date: null
-extent: null
+text_date: '1996-08-01'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/269
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/269/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/269/data.pdf
 pending_changes: 41
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # Juries Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (41).** Text as at 1996-08-01. See https://www.legislation.gov.uk/changes/affected/nisr/1996/269
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 269
 
@@ -38,21 +42,21 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by Articles 2(2), 4(3), 4(8) and 30(1) of the Juries (Northern Ireland) Order 1996[^f00001] hereby makes the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-3d1bffbc3d4b187dce667866408a8e9f]
 
 These Regulations may be cited as the Juries Regulations (Northern Ireland) 1996 and shall come into operation on 1st August 1996.
 
-## 2. Interpretation
+## 2. Interpretation[^c-8dc164ac829e45765dc7a5f253a3f1cb]
 
 In these Regulations “the Order” means the Juries (Northern Ireland) Order 1996.
 
-## 3. Form of return, form of summons and accompanying notices
+## 3. Form of return, form of summons and accompanying notices[^c-2033526e8ba2920d5a3357ca3c7b73b9]
 
 (1) For the purposes of Article 4(3) and (4) of the Order the Notice to Jurors shall be in the form set out in Form 1 in Schedule 1 and the Form of Return shall be in the form set out in Form 2 in Schedule 1.
 
 (2) For the purposes of Article 8 of the Order the Summons to Jurors shall be in the form set out in Form 3 in Schedule 1 and the Notice to Accompany a Jury Summons shall be in the form set out in Form 4 in Schedule 1.
 
-## 4. Arrangement of Divisional Jurors List
+## 4. Arrangement of Divisional Jurors List[^c-422f4da07f4fe61c4d3bc8e62743aa9e]
 
 (1) Subject to paragraph (2) the names of jurors contained in the Divisional Jurors List shall be arranged and numbered as they appear chronologically in the order of the list sent to the Juries Officer in accordance with Article 4(3) of the Order.
 
@@ -62,7 +66,7 @@ In these Regulations “the Order” means the Juries (Northern Ireland) Order 1
 
 (4) In this Regulation “petty sessions district” means a petty sessions district specified under Article 11(2) of the Magistrates' Courts (Northern Ireland) Order 1981[^f00002].
 
-## 5. Balloting of jurors
+## 5. Balloting of jurors[^c-56d2207016a2fba013f19dfca198425f]
 
 (1) For the purposes of Article 12(1) of the Order the jury shall be balloted for in accordance with paragraphs (2) and (3).
 
@@ -70,7 +74,7 @@ In these Regulations “the Order” means the Juries (Northern Ireland) Order 1
 
 (3) In open court an officer of the court shall place the pieces of card referred to in paragraph (2) in a container, shake them together and draw out one after the other as many names as are required to provide a full jury taking into account all challenges and stand-bys.
 
-## 6. Revocations and transitional provision
+## 6. Revocations and transitional provision[^c-c1e8a0d654b06bcf871ad2e41b1c4c71]
 
 The Statutory Rules of Northern Ireland listed in Schedule 2 are hereby revoked to the extent specified in the third column except in respect of Notices to persons on list sent to the juries officer and Forms of Return served before 1st August 1996.
 
@@ -78,7 +82,7 @@ Mackay of Clashfern, *C.*
 
 Dated 2nd July 1996
 
-## SCHEDULE 1
+## SCHEDULE 1[^c-aedc0a2c6076a48cd128995a956c031d]
 
 Regulation 3
 
@@ -118,7 +122,7 @@ Regulation 4(2) and Form 4 in the Schedule to the Juries Regulations (Northern I
 
 [image: see source](https://www.legislation.gov.uk/nisr/1996/269/images/nisr_19960269_en_010) [image: see source](https://www.legislation.gov.uk/nisr/1996/269/images/nisr_19960269_en_011) [image: see source](https://www.legislation.gov.uk/nisr/1996/269/images/nisr_19960269_en_012) [image: see source](https://www.legislation.gov.uk/nisr/1996/269/images/nisr_19960269_en_013)
 
-## SCHEDULE 2 — STATUTORY RULES OF NORTHERN IRELAND REVOKED
+## SCHEDULE 2 — STATUTORY RULES OF NORTHERN IRELAND REVOKED[^c-b345153530b5dabf6227ad6a35e91027]
 
 Regulation 6
 
@@ -141,4 +145,20 @@ These Regulations prescribe:
 
 [^f00001]: Footnote: [S.I. 1996/1141 (N.I. 6)](https://www.legislation.gov.uk/nisi/1996/1141); Article 2(2) is an interpretation provision and is recited because of the meaning assigned to the word “prescribed”
 
+[^c-3d1bffbc3d4b187dce667866408a8e9f]: Commencement: Reg. 1 in operation at 1.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/269/regulation/1)
+
+[^c-8dc164ac829e45765dc7a5f253a3f1cb]: Commencement: Reg. 2 in operation at 1.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/269/regulation/1)
+
+[^c-2033526e8ba2920d5a3357ca3c7b73b9]: Commencement: Reg. 3 in operation at 1.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/269/regulation/1)
+
+[^c-422f4da07f4fe61c4d3bc8e62743aa9e]: Commencement: Reg. 4 in operation at 1.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/269/regulation/1)
+
 [^f00002]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^c-56d2207016a2fba013f19dfca198425f]: Commencement: Reg. 5 in operation at 1.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/269/regulation/1)
+
+[^c-c1e8a0d654b06bcf871ad2e41b1c4c71]: Commencement: Reg. 6 in operation at 1.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/269/regulation/1)
+
+[^c-aedc0a2c6076a48cd128995a956c031d]: Commencement: Sch. 1 in operation at 1.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/269/regulation/1)
+
+[^c-b345153530b5dabf6227ad6a35e91027]: Commencement: Sch. 2 in operation at 1.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/269/regulation/1)

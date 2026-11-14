@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Power to regulate the importation or exportation of waste or the transit of waste for export.[^c-2c12fbced0eb1379d574f9faa81be3e9][^c-e38bb66bba1e9b71814e26e619a37340]
+## 141. Power to regulate the importation or exportation of waste or the transit of waste for export.[^c13739731][^c-2c12fbced0eb1379d574f9faa81be3e9][^c-e38bb66bba1e9b71814e26e619a37340]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,6 +109,8 @@ must also provide that, in relation to an offence committed before the day refer
 (7) In the application of this section to Northern Ireland and the territorial sea of the United Kingdom adjacent to Northern Ireland “**waste regulation authority**” means the Department of the Environment for Northern Ireland[^c13747951].
 
 ## Annotations
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-2c12fbced0eb1379d574f9faa81be3e9]: Textual amendment: Word in [s. 141 heading](https://www.legislation.gov.uk/ukpga/1990/43/part/VIII/crossheading/other-controls-on-substances-articles-or-waste) substituted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 62(2)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/62/2/a), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/k)
 

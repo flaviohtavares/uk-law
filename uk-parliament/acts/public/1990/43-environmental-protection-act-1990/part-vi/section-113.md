@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Fees and charges.[^c13747171]
+## 113. Fees and charges.[^c13747171][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,8 @@ and it shall be a condition of any such consent that any applicable prescribed c
 ## Annotations
 
 [^c13747171]: Commencement: S. 113 wholly in force at 1.4.1991 see s. 164(3) and [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [art. 2](https://www.legislation.gov.uk/uksi/1991/1042/article/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-49639b02f68a5144a39fce4ef7b288af]: Modification: S. 113(1) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [27](https://www.legislation.gov.uk/uksi/2018/644/article/27)
 

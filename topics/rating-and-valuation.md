@@ -50,7 +50,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Non-Domestic Rating (Renewable Energy Projects) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/240-the-non-domestic-rating-renewable-energy-projects-amendment-regulations-2026.md) *(as originally made)*
 - [The Non-Domestic Rating (Small Business Rate Relief and Demand Notices) (England) (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/17-the-non-domestic-rating-small-business-rate-relief-and-demand-notices-england-am.md)
 - [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2026](../scotland/regulations/2026/0000-0499/44-the-non-domestic-rating-valuation-of-utilities-scotland-amendment-order-2026.md) *(as originally made)*
-- [The Non-Domestic Rating (Value of Differential Multipliers) (Wales) Regulations 2026](../wales/regulations/2026/0000-0499/39-the-non-domestic-rating-value-of-differential-multipliers-wales-regulations-2026.md) *(as originally made)*
+- [The Non-Domestic Rating (Value of Differential Multipliers) (Wales) Regulations 2026](../wales/regulations/2026/0000-0499/39-the-non-domestic-rating-value-of-differential-multipliers-wales-regulations-2026.md) *(changes pending)*
 - [The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2026](../wales/regulations/2026/0000-0499/131-the-non-domestic-rating-contributions-wales-amendment-regulations-2026.md) *(as originally made)*
 
 **2025**
@@ -61,7 +61,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2025](../scotland/regulations/2025/0000-0499/39-the-non-domestic-rates-transitional-relief-scotland-regulations-2025.md) *(as originally made)*
 - [The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2025](../wales/regulations/2025/1000-1499/1371-the-non-domestic-rating-chargeable-amounts-wales-regulations-2025.md) *(as originally made)*
 - [The Non-Domestic Rating (Definition of Qualifying Retail, Hospitality or Leisure Hereditament) Regulations 2025](../uk-parliament/regulations/2025/1000-1499/1093-the-non-domestic-rating-definition-of-qualifying-retail-hospitality-or-leisure-h.md)
-- [The Non-Domestic Rating (Description of Differential Multipliers) (Wales) Regulations 2025](../wales/regulations/2025/1000-1499/1163-the-non-domestic-rating-description-of-differential-multipliers-wales-regulation.md) *(as originally made)*
+- [The Non-Domestic Rating (Description of Differential Multipliers) (Wales) Regulations 2025](../wales/regulations/2025/1000-1499/1163-the-non-domestic-rating-description-of-differential-multipliers-wales-regulation.md) *(changes pending)*
 - [The Non-Domestic Rating (Designated Areas) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/180-the-non-domestic-rating-designated-areas-regulations-2025.md) *(as originally made)*
 - [The Non-Domestic Rating (Levy and Safety Net) (Amendment) Regulations 2025](../uk-parliament/regulations/2025/0000-0499/322-the-non-domestic-rating-levy-and-safety-net-amendment-regulations-2025.md) *(as originally made)*
 - [The Non-Domestic Rating (Multiplier) (Wales) Regulations 2025](../wales/regulations/2025/0000-0499/182-the-non-domestic-rating-multiplier-wales-regulations-2025.md) *(as originally made)*

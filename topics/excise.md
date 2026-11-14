@@ -190,7 +190,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Alcoholic Liquor (Surcharge on Spirits Duty) Order 2008](../uk-parliament/regulations/2008/3000-3499/3062-the-alcoholic-liquor-surcharge-on-spirits-duty-order-2008.md) *(as originally made)*
-- [The Alcoholic Liquor Duties (Surcharges) and Tobacco Products Duty Order 2008](../uk-parliament/regulations/2008/3000-3499/3026-the-alcoholic-liquor-duties-surcharges-and-tobacco-products-duty-order-2008.md) *(as originally made)*
+- [The Alcoholic Liquor Duties (Surcharges) and Tobacco Products Duty Order 2008](../uk-parliament/regulations/2008/3000-3499/3026-the-alcoholic-liquor-duties-surcharges-and-tobacco-products-duty-order-2008.md) *(changes pending)*
 - [The Amusement Machine Licence Duty, etc (Amendments) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2693-the-amusement-machine-licence-duty-etc-amendments-regulations-2008.md) *(as originally made)*
 - [The Beer, Cider and Perry and Wine and Made–wine (Amendment) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1885-the-beer-cider-and-perry-and-wine-and-madewine-amendment-regulations-2008.md) *(as originally made)*
 - [The Excise Duties (Road Fuel Gas) (Reliefs) (Revocation) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3019-the-excise-duties-road-fuel-gas-reliefs-revocation-regulations-2008.md) *(as originally made)*

@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 28
 act: London Local Authorities Act 2007
 section: '28'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/28
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 28
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 28. Disposal of removed vehicles
+## 28. Disposal of removed vehicles[^c-f8a8132ac992fbd56000aa1076b4028f]
+
+*Extent: E+W*
 
 (1) Section 4 (disposal of abandoned vehicles) of the 1978 Act shall have effect in the area of a borough council in accordance with this section.
 
@@ -45,3 +49,7 @@ summary: ''
 > (5D) In subsection (5)(b) “prescribed sum” means such sum as may be prescribed by a joint committee established under section 101(5) of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70) and consisting of at least one representative from each London borough council.
 
 .
+
+## Annotations
+
+[^c-f8a8132ac992fbd56000aa1076b4028f]: Commencement: [S. 28](https://www.legislation.gov.uk/ukla/2007/2/section/28) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

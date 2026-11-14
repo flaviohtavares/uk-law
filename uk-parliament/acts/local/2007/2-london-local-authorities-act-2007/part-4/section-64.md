@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 64
 act: London Local Authorities Act 2007
 section: '64'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/64
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 64
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 64. Enforcement of penalty charges
+## 64. Enforcement of penalty charges[^c-f632eee15c5b31a2113665dd60cae8ce]
+
+*Extent: E+W*
 
 (1) The Lord Chancellor may make regulations for or in connection with the enforcement of penalty charges.
 
@@ -40,3 +44,7 @@ summary: ''
 - (b) section 82(3) of the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18),
 
 shall, with any necessary modifications, have effect after that commencement as if made under the corresponding provisions of this section and shall apply in relation to the enforcement of any penalty charge debt.
+
+## Annotations
+
+[^c-f632eee15c5b31a2113665dd60cae8ce]: Commencement: [S. 64](https://www.legislation.gov.uk/ukla/2007/2/section/64) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

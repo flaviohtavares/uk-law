@@ -3,7 +3,7 @@ title: Trade Union and Labour Relations (Consolidation) Act 1992, SCHEDULE A2
 act: Trade Union and Labour Relations (Consolidation) Act 1992
 section: schedule-a2
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1992/52/schedule/a2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Trade Union and Labour Relations (Consolidation) Act 1992, SCHEDULE A2
 
-> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+> **Warning: changes not yet applied to this text (27).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -29,6 +29,7 @@ Section 207A
 - Section 145B of this Act (inducements relating to collective bargaining)
 - Section 146 of this Act (detriment in relation to union membership and activities)
 - Section 189 of this Act (failure to follow consultation requirements)[^c-f785f71a9e137bef2ab916aac7da538f]
+- Section 236A of this Act (detriment on grounds of industrial action)[^c-c43eb9f9dae67c431c784bc9f5451b18]
 - Paragraph 156 of Schedule A1 to this Act (detriment in relation to union recognition rights)
 - [^c-5aee178667e759ef4789e985aa87c210]...
 - Section 23 of the Employment Rights Act 1996 (c. 18) (unauthorised deductions and payments)
@@ -51,7 +52,7 @@ Section 207A
 - Regulation 34 of the European Cooperative Society (Involvement of Employees) Regulations 2006 (SI 2006/2059) (detriment in relation to involvement in a European Cooperative Society)
 - Regulation 17 of the Cross-border Railway Services (Working Time) Regulations 2008 (SI 2008/1660) (breach of regulations).
 - Regulation 9 of the Employment Relations Act 1999 (Blacklists) Regulations 2010 ([^c-806dd1a7363f24b2a09e1a13b9ee03db][SI 2010/493](https://www.legislation.gov.uk/uksi/2010/493)) (detriment connected with prohibited list).
-- Sections 120 and 127 of the Equality Act 2010 (discrimination[^c-8049c2a51ba0b9e743bbd4f890cfa38a] etc in work cases)
+- Sections 120 and 127 of the Equality Act 2010 (discrimination etc in work cases)[^c-8049c2a51ba0b9e743bbd4f890cfa38a]
 
 ## Annotations
 
@@ -60,6 +61,8 @@ Section 207A
 [^c-5aee178667e759ef4789e985aa87c210]: Textual amendment: Sch. A2: entries repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(2)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/2), [Sch. 26 para. 24(2)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/24/2), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (as amended by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(15)(e)(f)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e))
 
 [^c-f785f71a9e137bef2ab916aac7da538f]: Textual amendment: Words in [Sch. A2](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A2) inserted (20.1.2025) by [The Trade Union and Labour Relations (Consolidation) Act 1992 (Amendment of Schedule A2) Order 2024 (S.I. 2024/1272)](https://www.legislation.gov.uk/uksi/2024/1272), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1272/article/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1272/article/2)
+
+[^c-c43eb9f9dae67c431c784bc9f5451b18]: Textual amendment: Words in [Sch. A2](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A2) inserted (30.10.2026) by [The Protection Against Detriment (Industrial Action) Regulations 2026 (S.I. 2026/1099)](https://www.legislation.gov.uk/uksi/2026/1099), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1099/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/1099/regulation/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/1099/regulation/4))
 
 [^c-26e0a6c959adc53e1f3438b25443e97d]: Textual amendment: Words in Sch. A2 inserted (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2023/13/section/12/1), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/l)
 

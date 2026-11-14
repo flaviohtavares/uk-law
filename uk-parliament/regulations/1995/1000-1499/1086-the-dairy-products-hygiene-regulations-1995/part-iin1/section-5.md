@@ -2,8 +2,8 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 5
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '5'
-status: revised-with-pending-changes
-text_date: '1995-05-09'
+status: repealed
+text_date: '2006-01-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,18 +12,20 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 5
 
-> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## 5. List of production holdings[^c-8c532361b3ffcc5326dec4ae5335f879]
+## 5. List of production holdings[^c-cc9f07878307ead5d75125f655fe69a3]
 
 *Extent: E+W*
 
-(1) The Minister shall allot a registration number to each registered production holding, including any premises deemed to be registered in accordance with regulation 14, and keep a list of such production holdings.
+**No longer in force.**
 
-(2) Any registered production holding which ceases to be used as a production holding shall be removed from the list kept by the Minister pursuant to paragraph (1) above.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-8c532361b3ffcc5326dec4ae5335f879]: Commencement: Reg. 5 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
+[^c-cc9f07878307ead5d75125f655fe69a3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/1086) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); and [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7)
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

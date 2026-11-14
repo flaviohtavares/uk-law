@@ -24,8 +24,8 @@ summary: ''
 
 (1A)[^c-3238d974ab63e6929c01ad1c267df9e0] Where a prisoner to whom section 31A below applies is released on licence, the licence shall remain in force until his death unless—
 
-- (a) it is previously revoked under section 32(1) or (2) below
-- (b) it ceases to have effect in accordance with an order made by the Secretary of State under section 31A below; or
+- (a) it is previously revoked under section 32(1) or (2) below; or
+- (b) it ceases to have effect in accordance with an order made by the Secretary of State under section 31A below.
 
 (2) A life prisoner subject to a licence shall comply with such conditions [^c11465701]... as may for the time being be specified in the licence; and the Secretary of State may make rules for regulating the supervision of any description of such persons.
 

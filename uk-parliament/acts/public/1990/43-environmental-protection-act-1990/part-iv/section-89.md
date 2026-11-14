@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 89. Duty to keep land and highways clear of litter etc.[^c13745231]
+## 89. Duty to keep land and highways clear of litter etc.[^c13745231][^c13739731]
 
 *Extent: E+W+S*
 
@@ -104,6 +104,8 @@ and for the purpose of enabling it to discharge its duty under subsection (1)(a)
 [^c13745231]: Commencement: S. 89 wholly in force at 1.6.1991; s. 89 not in force at Royal Assent see s. 164(2); s. 89(7)(8)(9)(11)(12)(13) in force at 13.11.1990 by [S.I. 1990/2243](https://www.legislation.gov.uk/uksi/1990/2243); s. 89(4) in force at 14.1.1991 by [S.I. 1991/96](https://www.legislation.gov.uk/uksi/1991/96), [art. 2](https://www.legislation.gov.uk/uksi/1991/96/article/2)
 
     S. 89(1)(a)-(f)(2)(3)(5)(6)(10)(14) in force at 1.4.1991 and s. 89(1)(g) in force at 1.6.1991 see s. 164(3) and [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [arts. 2](https://www.legislation.gov.uk/uksi/1991/1042/article/2), [3](https://www.legislation.gov.uk/uksi/1991/1042/article/3)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13745241]: Modification: S. 89(1)(a) modified by [S.I. 1991/719](https://www.legislation.gov.uk/uksi/1991/719), [reg. 3(1)](https://www.legislation.gov.uk/uksi/1991/719/regulation/3/1)
 

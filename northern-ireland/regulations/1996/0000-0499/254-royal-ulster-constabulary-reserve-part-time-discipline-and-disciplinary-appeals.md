@@ -3,14 +3,14 @@ title: Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinar
 id: nisr/1996/254
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-24'
-text_date: null
-extent: null
+text_date: '1996-06-24'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/254
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/254/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/254/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) (Amendment) Regulations 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 1996-06-24. See https://www.legislation.gov.uk/changes/affected/nisr/1996/254
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 254
 
@@ -38,11 +44,11 @@ Coming into operation
 
 The Secretary of State, in pursuance of section 26 of the Police Act (Northern Ireland) 1970[^f00001] and Article 14(6) of the Police (Northern Ireland) Order 1987[^f00002] and after consulting, in accordance with section 34(2) of that Act, the Police Authority and the Police Association, hereby makes the following regulations:—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-94f5ba383e81f3457eeb296933c331cc]
 
 These Regulations may be cited as the Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) (Amendment) Regulations 1996 and shall come into operation on 29th July 1996.
 
-## 2. Amendment of the Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) Regulations 1988
+## 2. Amendment of the Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) Regulations 1988[^c-4c6472e25cd6847c33390543a8a2053a]
 
 (1) The Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) Regulations 1988[^f00003] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -58,7 +64,7 @@ Northern Ireland Office
 
 24th June 1996
 
-## SCHEDULE — Schedule to be substituted for Schedule 1A to the Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) Regulations 1988
+## SCHEDULE — Schedule to be substituted for Schedule 1A to the Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) Regulations 1988[^c-0cad02c987d46876a10234048fd1d8fa]
 
 Regulation 2(3)
 
@@ -101,4 +107,10 @@ These regulations make a minor amendment to regulation 15(12)(*b*) of the Royal 
 
 [^f00002]: Footnote: S.I. [1987/938 (N.I. 10)](https://www.legislation.gov.uk/nisi/1987/938)
 
+[^c-94f5ba383e81f3457eeb296933c331cc]: Commencement: Reg. 1 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/254/regulation/1)
+
+[^c-4c6472e25cd6847c33390543a8a2053a]: Commencement: Reg. 2 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/254/regulation/1)
+
 [^f00003]: Footnote: [S.R. 1988 No. 8](https://www.legislation.gov.uk/nisr/1988/8); relevant amendments were made by [S.R. 1989 No. 472](https://www.legislation.gov.uk/nisr/1989/472)
+
+[^c-0cad02c987d46876a10234048fd1d8fa]: Commencement: Sch. in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/254/regulation/1)

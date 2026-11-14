@@ -51,7 +51,7 @@ summary: ''
 
 (5)[^c13733421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Offences.[^c18936191]
+## 23. Offences.[^c18936191][^c13739731]
 
 *Extent: S*
 
@@ -101,5 +101,7 @@ summary: ''
 [^c13733421]: Textual amendment: S. 23(5) repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1/3), [Sch. 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22) par. 59(5), Sch. 24 (with ss. 7(6), 115); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
 [^c18936191]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c18936141]: Textual amendment: Words in s. 23(2)(a) substituted (S.) (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 66](https://www.legislation.gov.uk/asp/2004/8/section/66), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2), [Sch. 2 Pt. 1 para. 4(2)](https://www.legislation.gov.uk/asp/2004/8/schedule/2/part/1/paragraph/4/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)

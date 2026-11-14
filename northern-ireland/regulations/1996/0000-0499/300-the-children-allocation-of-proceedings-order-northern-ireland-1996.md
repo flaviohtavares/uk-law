@@ -3,14 +3,14 @@ title: The Children (Allocation of Proceedings) Order (Northern Ireland) 1996
 id: nisr/1996/300
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-18'
-text_date: null
-extent: null
+text_date: '1996-07-18'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/300
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/300/made/data.pdf
-pending_changes: 16
+- http://www.legislation.gov.uk/nisr/1996/300/data.pdf
+pending_changes: 34
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Children (Allocation of Proceedings) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (34).** Text as at 1996-07-18. See https://www.legislation.gov.uk/changes/affected/nisr/1996/300
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 300
 
@@ -38,7 +44,7 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by Articles 164(5) and 166(4)(*a*) of and Schedule 7 to the Children (Northern Ireland) Order 1995[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:—
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-0ebe667d197fe219503ce6b3af264a13]
 
 (1) This Order may be cited as the Children (Allocation of Proceedings) Order (Northern Ireland) 1996 and shall come into operation on 4th November 1996.
 
@@ -47,14 +53,14 @@ The Lord Chancellor, in exercise of the powers conferred on him by Articles 164(
 - “the 1995 Order” means the Children (Northern Ireland) Order 1995; and
 - “petty sessions districts” means the petty sessions districts into which Northern Ireland is divided by order made by the Lord Chancellor under Article 11(2) of the Magistrates' Courts (Northern Ireland) Order 1981[^f00002].
 
-## 2. Classes of court
+## 2. Classes of court[^c-7c73af0d72fdfd5d49b44e5f5fd3dcf6]
 
 For the purpose of this Order there shall be the following classes of court—
 
 - (a) family proceedings courts being those courts of summary jurisdiction constituted as juvenile courts for the petty sessions districts specified in Schedule 1; and
 - (b) family care centres being those county courts specified in Schedule 2.
 
-## 3. Proceedings to be commenced in a family proceedings court
+## 3. Proceedings to be commenced in a family proceedings court[^c-bb3561038ab96db28cd4ba4fa992305f]
 
 (1) Subject to paragraphs (2), (3), (4) and (5) and to Article 4, proceedings under any of the following provisions of the 1995 Order shall be commenced in a family proceedings court.
 
@@ -94,7 +100,7 @@ For the purpose of this Order there shall be the following classes of court—
 
 (5) Notwithstanding paragraphs (1), (3) and (4) proceedings of a kind specified in sub-paragraphs (*c*), (*e*) to (*n*) or (*s*) shall be commenced in a court in which there are pending any other proceedings under the 1995 Order in relation to the same child and which are also of a kind set out in those sub-paragraphs.
 
-## 4. Application to extend, vary or discharge order
+## 4. Application to extend, vary or discharge order[^c-3b5a6ea4b09639651265cab16078118b]
 
 (1) Proceedings under the 1995 Order—
 
@@ -105,7 +111,7 @@ shall be commenced in the court which made the order.
 
 (2) A court may transfer proceedings commenced in accordance with paragraph (1) to another court in accordance with Articles 5, 6 or 8.
 
-## 5. Transfer from a family proceedings court to a family care centre
+## 5. Transfer from a family proceedings court to a family care centre[^c-fe15cda285433eaac533022a4ace54f8]
 
 (1) Subject to paragraph (2) and to Articles 6 and 7 a family proceedings court shall, upon application by a party or of its own motion, transfer to a family care centre proceedings of a kind mentioned in Article 3(1) where it considers that the proceedings are exceptionally grave, important or complex in particular—
 
@@ -117,26 +123,26 @@ shall be commenced in the court which made the order.
 
 (2) The court shall only transfer proceedings in accordance with paragraph (1) where, having had regard to the principle set out in Article 3(2) of the 1995 Order, it considers it in the interests of the child to do so.
 
-## 6. Transfer from a family proceedings court to the High Court or a county court
+## 6. Transfer from a family proceedings court to the High Court or a county court[^c-b0e35638145cd5032be1c3453c66bc1f]
 
 (1) Notwithstanding Article 5 but subject to paragraph (2) and Article 7 a family proceedings court shall, upon application by a party or of its own motion, transfer to the High Court or county court proceedings of a kind mentioned in Article 3(1) where there are pending in such court any other proceedings which may affect or are connected with the child in respect of whom the proceedings are to be transferred and where it considers that it would be appropriate for the proceedings to be heard together.
 
 (2) The court shall only transfer proceedings in accordance with paragraph (1) where, having had regard to the principle set out in Article 3(2) of the 1995 Order, it considers it in the interests of the child to do so.
 
-## 7. Proceedings not subject to transfer
+## 7. Proceedings not subject to transfer[^c-5a843fbb2c3a430437e6d6d699a2845d]
 
 Notwithstanding Articles 5 and 6—
 
 - (a) proceedings of a kind mentioned in sub-paragraphs (*d*), (*k*), (*l*), (*m*), (*o*) to (*r*), (*t*) and (*u*) of Article 3(1) shall not be transferred from a family proceedings court; and
 - (b) proceedings of the kind mentioned in sub-paragraph (*e*) or (*s*) of Article 3(1) shall only be transferred from a family proceedings court in order to be heard together with other proceedings which arise out of the same circumstances as gave rise to the proceedings to be transferred and which are pending in the High Court or a county court.
 
-## 8. Transfer from a court of summary jurisdiction to a family care centre
+## 8. Transfer from a court of summary jurisdiction to a family care centre[^c-6c86abde7e40eed49d81f01f22ef9d6c]
 
 (1) A court of summary jurisdiction which is not a family proceedings court shall, upon application by a party or of its own motion, transfer to a family care centre proceedings under the 1995 Order where it considers that the proceedings are exceptionally grave, important or complex in particular with reference to the criteria specified in Article 5(1)(*a*) to (*e*).
 
 (2) The court shall only transfer proceedings in accordance with paragraph (1) where, having had regard to the principle set out in Article 3(2) of the 1995 Order, it considers it in the interests of the child to do so.
 
-## 9. Transfer to family care centre following refusal to transfer
+## 9. Transfer to family care centre following refusal to transfer[^c-e51f89fb939b400305a099db4f0195e1]
 
 (1) Where a family proceedings court or other court of summary jurisdiction refuses to transfer proceedings under Article 5 or 8 respectively, a party to those proceedings may apply to a family care centre for an order under paragraph (2).
 
@@ -145,15 +151,15 @@ Notwithstanding Articles 5 and 6—
 - (a) to itself where, having had regard to the principle set out in Article 3(2) of the 1995 Order and the criteria set out in Article 5(1)(*a*) to (*e*), it considers it in the interests of the child to do so; or
 - (b) to the High Court where, having had regard to the principle set out in Article 3(2) of the 1995 Order, it considers that the proceedings are appropriate for determination in the High Court and that such determination would be in the interests of the child.
 
-## 10. Transfer from a family care centre to the High Court
+## 10. Transfer from a family care centre to the High Court[^c-409a1bf19c7b2947f6a456159490b0d8]
 
 Where proceedings have been transferred to a family care centre under Article 5 or 8 the court shall transfer the proceedings to the High Court where, having had regard to the principle set out in Article 3(2) of the 1995 Order, it considers that the proceedings are appropriate for determination in the High Court and that such determination would be in the interests of the child.
 
-## 11. Transfer from a county court to a family proceedings court
+## 11. Transfer from a county court to a family proceedings court[^c-f122a8118c3e01706a79637bfa213dc2]
 
 A county court shall transfer to a family proceedings court, before trial, proceedings which were transferred by that court, under Article 6 where having had regard to the principle set out in Article 3(2) of the 1995 Order and the interests of the child, it considers that the criterion cited by the family proceedings court as the reason for transfer no longer applies because the proceedings with which the transferred proceedings were to be heard have been determined.
 
-## 12. Transfer from a family care centre to a family proceedings court or other court of summary jurisdiction
+## 12. Transfer from a family care centre to a family proceedings court or other court of summary jurisdiction[^c-a60bad2a31e607c03b3bf0b3dad7762c]
 
 (1) Subject to paragraph (3) a family care centre shall transfer to a family proceedings court before trial, proceedings which were transferred by that court under Article 5 where it considers that the criterion cited by the court as the reason for transfer does not apply.
 
@@ -161,19 +167,19 @@ A county court shall transfer to a family proceedings court, before trial, proce
 
 (3) A family care centre shall only transfer proceedings in accordance with paragraphs (1) or (2) where, having regard to the principle set out in Article 3(2) of the 1995 Order, it considers it in the interests of the child to do so.
 
-## 13. Transfer from High Court to family proceedings court
+## 13. Transfer from High Court to family proceedings court[^c-72917cb35e48312c806b25d64103d994]
 
 The High Court shall transfer to a family proceedings court, before trial, proceedings which were transferred by that court under Article 6 where, having had regard to the principle set out in Article 3(2) of the 1995 Order, and the interests of the child, it considers that the criterion for transfer no longer applies because the proceedings with which the transferred proceedings were to be heard have been determined.
 
-## 14. Transfer from the High Court to a family care centre
+## 14. Transfer from the High Court to a family care centre[^c-cf5b3c5fe7eebf03e1a035ea547c8a6c]
 
 The High Court shall transfer to a family care centre, before trial, proceedings which were transferred by that court under Article 9(2)(*b*) or 10 where, having had regard to the principle set out in Article 3(2) of the 1995 Order, it considers that the proceedings are appropriate for determination in that court and that such determination would be in the interests of the child.
 
-## 15. Appeals from family proceedings courts
+## 15. Appeals from family proceedings courts[^c-12cd2242747e8ff567bef00fdbc6b289]
 
 Belfast Recorder’s Court, Londonderry Recorder’s Court and Craigavon county court are hereby specified for the purposes of Article 166(4) of the 1995 Order (appeal from a family proceedings court against the making or refusal to make any order under the 1995 Order).
 
-## 16. Contravention of this Order
+## 16. Contravention of this Order[^c-7dd7e81689d0ede86608bb12108b2bb1]
 
 Where proceedings are commenced or transferred in contravention of a provision of this Order, the contravention shall not have the effect of making the proceedings invalid; and no appeal shall lie against the determination of proceedings on the basis of such contravention alone.
 
@@ -181,7 +187,7 @@ Mackay of Clashfern, *C.*
 
 Dated 18th July 1996.
 
-## SCHEDULE 1
+## SCHEDULE 1[^c-caa96c64063e0b416bd6703485067af4]
 
 Family Proceedings Courts
 
@@ -197,7 +203,7 @@ Article 2(*a*)
 - Ards
 - Belfast and Newtownabbey
 
-## SCHEDULE 2 — Family Care Centres
+## SCHEDULE 2 — Family Care Centres[^c-f784d3814bb1b8b4d689839dfbaba6d2]
 
 Articles 2(*b*)
 
@@ -213,10 +219,46 @@ This Order provides for the allocation and transfer of proceedings under the Chi
 
 [^f00001]: Footnote: S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
+[^c-0ebe667d197fe219503ce6b3af264a13]: Commencement: Art. 1 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
 [^f00002]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
+
+[^c-7c73af0d72fdfd5d49b44e5f5fd3dcf6]: Commencement: Art. 2 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-bb3561038ab96db28cd4ba4fa992305f]: Commencement: Art. 3 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
 
 [^f00003]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
 
 [^f00004]: Footnote: [S.R. 1993 No. 104](https://www.legislation.gov.uk/nisr/1993/104)
 
 [^f00005]: Footnote: S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594); paragraph 6 of Schedule 13 was substituted by paragraph 131 of Schedule 9 to the Children (Northern Ireland) Order 1995 (S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755))
+
+[^c-3b5a6ea4b09639651265cab16078118b]: Commencement: Art. 4 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-fe15cda285433eaac533022a4ace54f8]: Commencement: Art. 5 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-b0e35638145cd5032be1c3453c66bc1f]: Commencement: Art. 6 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-5a843fbb2c3a430437e6d6d699a2845d]: Commencement: Art. 7 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-6c86abde7e40eed49d81f01f22ef9d6c]: Commencement: Art. 8 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-e51f89fb939b400305a099db4f0195e1]: Commencement: Art. 9 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-409a1bf19c7b2947f6a456159490b0d8]: Commencement: Art. 10 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-f122a8118c3e01706a79637bfa213dc2]: Commencement: Art. 11 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-a60bad2a31e607c03b3bf0b3dad7762c]: Commencement: Art. 12 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-72917cb35e48312c806b25d64103d994]: Commencement: Art. 13 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-cf5b3c5fe7eebf03e1a035ea547c8a6c]: Commencement: Art. 14 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-12cd2242747e8ff567bef00fdbc6b289]: Commencement: Art. 15 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-7dd7e81689d0ede86608bb12108b2bb1]: Commencement: Art. 16 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-caa96c64063e0b416bd6703485067af4]: Commencement: Sch. 1 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)
+
+[^c-f784d3814bb1b8b4d689839dfbaba6d2]: Commencement: Sch. 2 in operation at 4.11.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/300/article/1/1)

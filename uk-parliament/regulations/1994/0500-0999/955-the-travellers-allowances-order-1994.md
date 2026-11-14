@@ -3,14 +3,14 @@ title: The Travellers' Allowances Order 1994
 id: uksi/1994/955
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1994-03-28'
-text_date: '2026-02-01'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/1994/955
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1994/955/data.pdf
-pending_changes: 25
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Travellers' Allowances Order 1994
 
-> **Warning: changes not yet applied to this text (25).** Text as at 2026-02-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/955
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -50,10 +50,11 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 
 ## 1A. Interpretation[^c-a53cae18f614435ae230351a0842cd5f][^c-b30d51a2ec86e73a9d2a26f49db36ce6]
 
-(1) In this Order “**excise goods**” means any goods chargeable with excise duty by virtue of any provision of—
+(1)[^c-dab277aaf4d7aee65df746c1a50dd8bb] In this Order, “**excise goods**” means any goods chargeable with excise duty by virtue of any provision of—
 
-- (a) Part 2 of the Finance (No. 2) Act 2023[^c-9759ebeeb971cdbe8f37aa7f21e366a9]; or
-- (b) the Tobacco Products Duty Act 1979.
+- (a) the Tobacco Products Duty Act 1979,
+- (b) Part 2 of the Finance (No. 2) Act 2023, or
+- (c) Part 4 of the Finance Act 2026.
 
 (2) For the purposes of this Order, goods shall be treated as contained in a person’s personal luggage where they are carried with or accompanied by that person or, if intended to accompany that person, were at the time of that person’s departure for the UK consigned by that person as personal luggage to the transport operator with whom that person travelled.
 
@@ -69,7 +70,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 
 [^c-a8364eff5bfaa2a4112c7bb25512ba8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^c-143aa7bd368d790db4b21368713db890][^c-b30d51a2ec86e73a9d2a26f49db36ce6] No relief shall be afforded under this Order to any person under the age of 17 in respect of tobacco products , alcoholic beverages and alcohol[^c-45bc72c345be586feb8c955b24a5bcba].
+**4.**[^c-143aa7bd368d790db4b21368713db890][^c-b30d51a2ec86e73a9d2a26f49db36ce6] No relief shall be afforded under this Order to any person under the age of 17 in respect of tobacco products ,[^c-45bc72c345be586feb8c955b24a5bcba] alcoholic products[^c-f582e1bc299cc5092c6afc71c94748b2] and vaping products[^c-af280dd7db7eb8d26b1c484b110b2637].
 
 **5.**[^c-5f88c846ccb6c7c6f3ea6cee30ebcb89][^c-b30d51a2ec86e73a9d2a26f49db36ce6] The following Orders are revoked—
 
@@ -109,24 +110,20 @@ LONDON SE1 9PJ
 
 Article 2
 
-**1.**[^c-8a2abe67cf8ef5fa4bb011f340d514b1] Paragraphs 2 and 3 apply for the purposes of this Schedule and Schedule 2 (simplified calculation of excise duty (Great Britain)).
+**1.**[^c-b18119974dbdbb8779d107bf39d72055] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** Wine is still if it is not sparkling.
+**2.**[^c-4095387c391675423ab3da358ab1e073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** (1) Wine that is for the time being in a closed container is sparkling if—
-
-- (a) due to the presence of carbon dioxide or any other gas, the pressure in the container, measured at a temperature of 20°C, is not less than 3 bars in excess of atmospheric pressure;
-- (b) regardless of the pressure in the container, the container has a mushroom-shaped stopper (whether solid or hollow) held in place by a tie or fastening.
-
-(2) Wine that is not for the time being in a closed container is sparkling if it has characteristics similar to those of wine that has been removed from a closed container and that, before removal, fell within sub-paragraph (1)(a).
+**3.**[^c-a6ed55f928ac9256ed1616b89d544c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 | Description | Quantity |
 | --- | --- |
 | Goods other than fuel and those described below | Total value £390[^c-aa5a4dd435d76a41dceee0bfa71aeeba] or less, if the person travelled by air, sea or rail[^c-40ca8345fdfab319fe4b77f149d6f439].<br>Total value £270[^c-56ae9b213b808bb99ee145c12920ab86] or less, if the person travelled by way of private pleasure-flying or private pleasure-sea-navigation[^c-bca1e0068a8a26c063a764ccdfff508e].<br>Notes:<br>- (a) [^c-01cf14646bb8fa3415b554f3f0ee8df2]...<br>- (b) Private pleasure-flying or private pleasure-sea-navigation [^c-208a4c0ba3a9e57f827d0145104908fd]... refers to the use of an aircraft or a sea-going vessel by its owner or the person who enjoys its use either through hire or through any other means, for purposes other than commercial and in particular other than for the carriage of passengers or goods or for the supply of services for consideration or for the purposes of public authorities.<br>- (c) The value of an individual item must not be split up.<br>- (d) The value of the person’s personal luggage if imported temporarily or re-imported following its temporary export, and of medicinal products required to meet the person’s personal needs, is excluded from consideration.<br>- (e) [^c-940d39ad469d831ff575dcf8c476b936]... |
-| Alcoholic beverages and alcohol, other than beer and still wine | 4 litres[^c-5794efcfd3d0d976c4b29565fcaf2dd1] of alcohol and alcoholic beverages of an alcoholic strength exceeding 22% by volume, or undenatured ethyl alcohol of 80% by volume and over; or<br>9 litres of alcohol and alcoholic beverages of an alcoholic strength not exceeding 22% by volume.<br>Notes:<br>- (a) Each respective amount represents 100% of the total relief afforded for alcohol and alcoholic beverages.<br>- (b) For any one person, the relief applies to any combination of the types of alcohol and alcoholic beverage described, provided that the aggregate of the percentages used up from the relief the person is afforded for such alcohol and alcoholic beverage does not exceed 100%.<br>- (c) [^c-940d39ad469d831ff575dcf8c476b936]... |
-| Beer | 42 litres[^c-bd837817ad02ec546ff9988fab0e6fe2] or less<br>Notes:<br>- (a) [^c-940d39ad469d831ff575dcf8c476b936]... |
-| Still wine | 18 litres[^c-cff8bcd6e411bbc5e9f9a4ef0ac55f12] or less<br>Notes:<br>- (a) [^c-940d39ad469d831ff575dcf8c476b936]... |
+| Alcoholic products other than beer, cider, and wine[^c-ff032078a18c03e4cfb2a518f9bf0b45] | 4 litres[^c-5794efcfd3d0d976c4b29565fcaf2dd1] of alcoholic products[^c-d25df3ae3fc1290018ffacda99a0ca30] of an alcoholic strength exceeding 22% by volume, or undenatured ethyl alcohol of 80% by volume and over; or<br>9 litres of alcoholic products of an alcoholic strength not exceeding 22% by volume.<br>Notes:<br>- (a) Each respective amount represents 100% of the total relief afforded for alcoholic products[^c-229a412cba51b1cb03a285ef9ee4e79e].<br>- (b) For any one person, the relief applies to any combination of the types of alcoholic product[^c-0f05cfb9f40eefb4e6b47d0164d72040] described, provided that the aggregate of the percentages used up from the relief the person is afforded for such alcoholic product does not exceed 100%.<br>- (c) [^c-940d39ad469d831ff575dcf8c476b936]... |
+| Beer or cider[^c-0e0c7dd0eb357a3f6cbd7571c5bbc27f] | 42 litres[^c-bd837817ad02ec546ff9988fab0e6fe2] or less<br>Notes:<br>- (a) [^c-940d39ad469d831ff575dcf8c476b936]... |
+| Wine[^c-ccd80db11d085709c2230b021b5e014e] | 18 litres[^c-cff8bcd6e411bbc5e9f9a4ef0ac55f12] or less<br>Notes:<br>- (a) [^c-940d39ad469d831ff575dcf8c476b936]... |
 | Tobacco products | 200 cigarettes, or 100 cigarillos, or 50 cigars, or 250 grams of smoking tobacco , or 200 sticks of tobacco for heating[^c-11eb1475d92ceabde185c23956180007].<br>Notes:<br>- (k) Each respective amount represents 100% of the total relief afforded for tobacco products.<br>- (l) For any one person, the relief applies to any combination of tobacco products provided that the aggregate of the percentages used up from the relief the person is afforded for such products does not exceed 100%.<br>- (m) A cigarillo is a cigar of maximum weight 3 grams.<br>- (n) [^c-940d39ad469d831ff575dcf8c476b936]... |
+| Vaping products[^c-55bbe9de30c78d47c96843a7b0893756] | 50 millilitres of vaping liquid or less. |
 
 ## SCHEDULE 2 — SIMPLIFIED CALCULATION OF EXCISE DUTY (GREAT BRITAIN)[^c-b30d51a2ec86e73a9d2a26f49db36ce6][^c-48bfb1a47cefff1b34d77dacfca3f0c4]
 
@@ -134,22 +131,22 @@ Article 6
 
 | Description | A: Rate of Excise Duty | B:Upper threshold |
 | --- | --- | --- |
-| *Alcoholic beverages and alcohol—* |  |  |
+| *Alcoholic products[^c-96e6ea5eb267b0bcedb9c9ee9154fe94]—* |  |  |
 | Beer | £0.95[^c-a3cbcf0a6bab291d1f9313345fb50ce3] per litre | 110 litres |
-| Still wine | £3.52[^c-fcbaa06ae3b0b75e405f34b49357e6ed] per litre | 90 litres |
-| Sparkling wine | £3.52[^c-70ac27f9732e78a5d3155c87e065543b] per litre | 60 litres |
-| Cider | £0.48[^c-0e830b71baed4ada195ee8b1d42a5cd5] per litre | 20 litres |
-| Sparkling cider of an alcoholic strength not exceeding 5.5% by volume | £0.48[^c-103e7593adbb8c49aad7a4de94dd97b9] per litre | 20 litres |
-| Sparkling cider of an alcoholic strength exceeding 5.5% but less than 8.5% by volume | £1.86[^c-911cd948327b3f0588009090a27ddbde] per litre | 20 litres |
+| Wine[^c-0abb61698edf0f943062f7c712d6c2a2] | £3.52[^c-fcbaa06ae3b0b75e405f34b49357e6ed] per litre | 90 litres |
+| [^c-cc5a9371e0941059cb13f7e1e4333d2e]. . . | [^c-fe5392152c167509080c11a14dd730a6]. . . | [^c-5fea208162e898a95ccfd60eb09c2a70]. . . |
+| Cider | £0.48[^c-0e830b71baed4ada195ee8b1d42a5cd5] per litre | 110 litres[^c-94da3e385b91e50a4dfcab32687f512f] |
+| Sparkling cider of an alcoholic strength not exceeding 5.5% by volume | £0.48[^c-103e7593adbb8c49aad7a4de94dd97b9] per litre | 110 litres |
+| Sparkling cider of an alcoholic strength exceeding 5.5% but less than 8.5% by volume | £1.86[^c-911cd948327b3f0588009090a27ddbde] per litre | 110 litres |
 | other fermented products[^c-ee3217d0d8ab206accfce62bd66f6355] | £3.52[^c-82d60d471bfab0e8a260408371957bef] per litre | 20 litres |
 | Spirits | £12.75[^c-a3ff182e07f1ce0635fa46b3c0dd2dea] per litre | 10 litres |
 | *Tobacco products—* |  |  |
-| Cigarettes | £471.93[^c-d4721c294af9d8c88fa53adf05a35276] per 1000 cigarettes | 800 cigarettes |
-| Hand rolling tobacco | £503.80[^c-c24d493d5a828719bf0e767479d7c922] per kilogram | 1 kilogram |
-| Other smoking tobacco and chewing tobacco | £193.87[^c-698870a44563c11bae7295271f7baa57] per kilogram | 1 kilogram |
-| Cigars | £440.93[^c-1f465669493cdf416ef79e3bd7aff056] per kilogram | 200 cigars |
-| Cigarillos<br>(a cigarillo is a cigar weighing no more than 3 grams each) | £440.93[^c-96d5995ae86ea96d472a84b22ed9a19e] per kilogram | 400 cigarillos |
-| Tobacco for heating | £109.01[^c-f7d4ffa2e840cb386f85192f6745a4a7] per 1000 sticks | 800 sticks |
+| Cigarettes | £518.75[^c-6734ab86acd33a92bedfae57c12f48a7] per 1000 cigarettes | 800 cigarettes |
+| Hand rolling tobacco | £574.30[^c-d3b3aaff6ae87c27c2ff176bb60e7d0e] per kilogram | 1 kilogram |
+| Other smoking tobacco and chewing tobacco | £248.07[^c-5aee80b979d7a3608a4e8629f9dada7f] per kilogram | 1 kilogram |
+| Cigars | £508.12[^c-c866a51cdc5a8fea4a59a5048d72396f] per kilogram | 200 cigars |
+| Cigarillos<br>(a cigarillo is a cigar weighing no more than 3 grams each) | £508.12[^c-54a299c2cfc8b65e5219e062aa57ca8e] per kilogram | 400 cigarillos |
+| Tobacco for heating | £127.94[^c-34d075ed024f1ad72198a162ef2e2667] per 1000 sticks | 800 sticks |
 
 (This note is not part of the Order)
 
@@ -173,7 +170,7 @@ Parallel relief from Customs duty is given by Council Regulation [(EC) No. 355/9
 
 [^c-a53cae18f614435ae230351a0842cd5f]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/1994/955/article/1A) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1412/regulation/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1412/regulation/22))
 
-[^c-9759ebeeb971cdbe8f37aa7f21e366a9]: Textual amendment: Words in [art. 1A](https://www.legislation.gov.uk/uksi/1994/955/article/1A) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/8/2)
+[^c-dab277aaf4d7aee65df746c1a50dd8bb]: Textual amendment: [Art. 1A(1)](https://www.legislation.gov.uk/uksi/1994/955/article/1A/1) substituted (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [42(2)](https://www.legislation.gov.uk/uksi/2026/331/regulation/42/2)
 
 [^c-8ef362ee2b4c21dc5f6231c19e1642ad]: Commencement: Art. 2 in force at 1.4.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/955/article/1)
 
@@ -198,6 +195,10 @@ Parallel relief from Customs duty is given by Council Regulation [(EC) No. 355/9
 [^c-143aa7bd368d790db4b21368713db890]: Commencement: Art. 4 in force at 1.4.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/955/article/1)
 
 [^c-45bc72c345be586feb8c955b24a5bcba]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/1994/955/article/4) substituted (1.12.2008 with effect in accordance with art. 1(2) of the amending S.I.) by The Travellers’ [Allowances (Amendment) Order 2008 (S.I. 2008/3058)](https://www.legislation.gov.uk/uksi/2008/3058), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/3058/article/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2008/3058/schedule/paragraph/5)
+
+[^c-f582e1bc299cc5092c6afc71c94748b2]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/1994/955/article/4) substituted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/981/article/1/3), [3](https://www.legislation.gov.uk/uksi/2026/981/article/3)
+
+[^c-af280dd7db7eb8d26b1c484b110b2637]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/1994/955/article/4) substituted (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [42(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/42/3)
 
 [^c-5f88c846ccb6c7c6f3ea6cee30ebcb89]: Commencement: Art. 5 in force at 1.4.1994, see [art. 1](https://www.legislation.gov.uk/uksi/1994/955/article/1)
 
@@ -229,7 +230,11 @@ Parallel relief from Customs duty is given by Council Regulation [(EC) No. 355/9
 
 [^c-387f83fca8a6fdd2125d9ad0d01ea76c]: Textual amendment: Sch. renumbered as Sch. 1 (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/7/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1412/regulation/22))
 
-[^c-8a2abe67cf8ef5fa4bb011f340d514b1]: Textual amendment: [Sch. 1 paras. 1-3](https://www.legislation.gov.uk/uksi/1994/955/schedule/1/paragraph/1) inserted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/4/2)
+[^c-b18119974dbdbb8779d107bf39d72055]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1/paragraph/1) omitted (1.10.2026) by virtue of [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/981/article/4/a)
+
+[^c-4095387c391675423ab3da358ab1e073]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/1/paragraph/2) omitted (1.10.2026) by virtue of [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/981/article/4/a)
+
+[^c-a6ed55f928ac9256ed1616b89d544c22]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1994/955/schedule/1/paragraph/3) omitted (1.10.2026) by virtue of [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/981/article/4/a)
 
 [^c-aa5a4dd435d76a41dceee0bfa71aeeba]: Textual amendment: Sum in [Sch.](https://www.legislation.gov.uk/uksi/1994/955/schedule) substituted (1.1.2010 with effect in accordance with art. 1(2) of the amending S.I.) by [The Travellers’ Allowances (Amendment) Order 2009 (S.I. 2009/3172)](https://www.legislation.gov.uk/uksi/2009/3172), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3172/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/3172/article/3/a) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3172/article/1/2))
 
@@ -245,23 +250,47 @@ Parallel relief from Customs duty is given by Council Regulation [(EC) No. 355/9
 
 [^c-940d39ad469d831ff575dcf8c476b936]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) omitted (31.12.2020) by virtue of [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/7/3/c) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1412/regulation/22))
 
+[^c-ff032078a18c03e4cfb2a518f9bf0b45]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) substituted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [4(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/981/article/4/b/i/aa)
+
 [^c-5794efcfd3d0d976c4b29565fcaf2dd1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [7(3)(d)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/7/3/d) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1412/regulation/22))
 
+[^c-d25df3ae3fc1290018ffacda99a0ca30]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) substituted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [4(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/981/article/4/b/ii/aa)
+
+[^c-229a412cba51b1cb03a285ef9ee4e79e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) substituted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [4(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/981/article/4/b/ii/bb)
+
+[^c-0f05cfb9f40eefb4e6b47d0164d72040]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) substituted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [4(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2026/981/article/4/b/ii/cc)
+
+[^c-0e0c7dd0eb357a3f6cbd7571c5bbc27f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) inserted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [4(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2026/981/article/4/b/i/bb)
+
 [^c-bd837817ad02ec546ff9988fab0e6fe2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [7(3)(e)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/7/3/e) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1412/regulation/22))
+
+[^c-ccd80db11d085709c2230b021b5e014e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) substituted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [4(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2026/981/article/4/b/i/cc)
 
 [^c-cff8bcd6e411bbc5e9f9a4ef0ac55f12]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [7(3)(f)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/7/3/f) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1412/regulation/22))
 
 [^c-11eb1475d92ceabde185c23956180007]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [7(3)(g)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/7/3/g) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1412/regulation/22))
 
+[^c-55bbe9de30c78d47c96843a7b0893756]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/955/schedule/1) Table inserted (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [42(4)](https://www.legislation.gov.uk/uksi/2026/331/regulation/42/4)
+
 [^c-48bfb1a47cefff1b34d77dacfca3f0c4]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1412/regulation/8) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1412/regulation/22))
+
+[^c-96e6ea5eb267b0bcedb9c9ee9154fe94]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) substituted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2026/981/article/5/a/i)
 
 [^c-a3cbcf0a6bab291d1f9313345fb50ce3]: Textual amendment: Sum in Sch. 2 substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(5)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/5/a)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)
 
+[^c-0abb61698edf0f943062f7c712d6c2a2]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) substituted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2026/981/article/5/a/ii)
+
 [^c-fcbaa06ae3b0b75e405f34b49357e6ed]: Textual amendment: Sum in Sch. 2 substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(5)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/5/b)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)
 
-[^c-70ac27f9732e78a5d3155c87e065543b]: Textual amendment: Sum in Sch. 2 substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(5)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/5/c)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)
+[^c-cc5a9371e0941059cb13f7e1e4333d2e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) omitted (1.10.2026) by virtue of [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2026/981/article/5/a/iii)
+
+[^c-fe5392152c167509080c11a14dd730a6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) omitted (1.10.2026) by virtue of [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/981/article/5/b)
+
+[^c-5fea208162e898a95ccfd60eb09c2a70]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) omitted (1.10.2026) by virtue of [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [5(c)(i)](https://www.legislation.gov.uk/uksi/2026/981/article/5/c/i)
 
 [^c-0e830b71baed4ada195ee8b1d42a5cd5]: Textual amendment: Sum in Sch. 2 substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(5)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/5/d)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)
+
+[^c-94da3e385b91e50a4dfcab32687f512f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) substituted (1.10.2026) by [The Travellers’ Allowances (Amendment) Order 2026 (S.I. 2026/981)](https://www.legislation.gov.uk/uksi/2026/981), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/981/article/1/2), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2026/981/article/5/c/ii)
 
 [^c-103e7593adbb8c49aad7a4de94dd97b9]: Textual amendment: Sum in Sch. 2 substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(5)(e)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/5/e)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)
 
@@ -273,14 +302,14 @@ Parallel relief from Customs duty is given by Council Regulation [(EC) No. 355/9
 
 [^c-a3ff182e07f1ce0635fa46b3c0dd2dea]: Textual amendment: Sum in Sch. 2 substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(5)(h)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/5/h)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)
 
-[^c-d4721c294af9d8c88fa53adf05a35276]: Textual amendment: Sum in Sch. 2 substituted (26.11.2025 at 6 p.m.) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 90(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/3)
+[^c-6734ab86acd33a92bedfae57c12f48a7]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) substituted (1.10.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 91(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/3)
 
-[^c-c24d493d5a828719bf0e767479d7c922]: Textual amendment: Sum in Sch. 2 substituted (26.11.2025 at 6 p.m.) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 90(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/3)
+[^c-d3b3aaff6ae87c27c2ff176bb60e7d0e]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) substituted (1.10.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 91(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/3)
 
-[^c-698870a44563c11bae7295271f7baa57]: Textual amendment: Sum in Sch. 2 substituted (26.11.2025 at 6 p.m.) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 90(2)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/2/c)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/3)
+[^c-5aee80b979d7a3608a4e8629f9dada7f]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) substituted (1.10.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 91(2)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/2/c)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/3)
 
-[^c-1f465669493cdf416ef79e3bd7aff056]: Textual amendment: Sum in Sch. 2 substituted (26.11.2025 at 6 p.m.) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 90(2)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/2/d)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/3)
+[^c-c866a51cdc5a8fea4a59a5048d72396f]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) substituted (1.10.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 91(2)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/2/d)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/3)
 
-[^c-96d5995ae86ea96d472a84b22ed9a19e]: Textual amendment: Sum in Sch. 2 substituted (26.11.2025 at 6 p.m.) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 90(2)(e)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/2/e)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/3)
+[^c-54a299c2cfc8b65e5219e062aa57ca8e]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) substituted (1.10.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 91(2)(e)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/2/e)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/3)
 
-[^c-f7d4ffa2e840cb386f85192f6745a4a7]: Textual amendment: Sum in Sch. 2 substituted (26.11.2025 at 6 p.m.) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 90(2)(f)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/2/f)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/90/3)
+[^c-34d075ed024f1ad72198a162ef2e2667]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/1994/955/schedule/2) substituted (1.10.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 91(2)(f)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/2/f)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/3)

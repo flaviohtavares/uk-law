@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 40
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '40'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 40
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 40. Limitation of election expenses: candidates
+## 40. Limitation of election expenses: candidates[^c-f43cf84fc12d25aebe95ce5ddcd2de10]
+
+*Extent: S*
 
 (1) The election expenses incurred by or on behalf of–
 
@@ -50,3 +54,7 @@ shall be guilty of an illegal practice.
 (7) Where a poll for the return of a constituency member is countermanded or abandoned by reason of a candidate’s death, the maximum amount of election expenses shall, for any of the other candidates who then remain validly nominated, be twice, or if there has been a previous increase under this paragraph, three times what it would have been but for any increase under this paragraph.
 
 (8) The maximum amount specified in paragraph (2) or (3) above for a candidate shall not be affected by the change in the timing of a Scottish parliamentary election or of any step in the proceedings at such an election.
+
+## Annotations
+
+[^c-f43cf84fc12d25aebe95ce5ddcd2de10]: Commencement: Art. 40 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

@@ -3,34 +3,36 @@ title: The National Savings Bank (Amendment) (No. 3) Regulations 2008
 id: uksi/2008/1164
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: repealed
 made_date: '2008-04-23'
-text_date: '2008-05-19'
+text_date: '2015-04-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1164
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1164/pdfs/uksiem_20081164_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1164/pdfs/uksi_20081164_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1164/data.pdf
-pending_changes: 1
-repealed_on: null
+pending_changes: 0
+repealed_on: unknown
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
 ---
 
 # The National Savings Bank (Amendment) (No. 3) Regulations 2008
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2008-05-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1164
+> This law has been repealed or revoked.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
 *Extent: E+W+S+N.I.*
 
+**No longer in force.**
+
 2008 No. 1164
 
 Savings Banks
 
-The National Savings Bank (Amendment) (No. 3) Regulations 2008
+The National Savings Bank (Amendment) (No. 3) Regulations 2008 (revoked)[^c-ae34f4e0a54a3a9c8c28163ed71157cf]
 
 Made
 
@@ -44,146 +46,36 @@ Coming into force
 
 19th May 2008
 
-The Treasury, in exercise of the powers conferred upon them by section 2(1) of the National Savings Bank Act 1971[^f00001], as extended by sections 3(2), 4(4), 6(1), 7(2) and 8(1)(l) of that Act, make the following Regulations:
+[^c-ae34f4e0a54a3a9c8c28163ed71157cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^c-d9c8aff975817f041844cd1421392330]
+**No longer in force.**
 
-(1) These Regulations may be cited as the National Savings Bank (Amendment) (No.3) Regulations 2008.
+## 1. Citation, commencement and interpretation[^c-ae34f4e0a54a3a9c8c28163ed71157cf]
 
-(2) These Regulations shall come into force on 19th May 2008.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In these Regulations “the 1972 Regulations” means the National Savings Bank Regulations 1972[^f00002].
+## 2. Withdrawal by electronic transfer[^c-ae34f4e0a54a3a9c8c28163ed71157cf]
 
-## 2. Withdrawal by electronic transfer[^c-d46dfa22554976b738b599712e470a28]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1) Regulation 21 of the 1972 Regulations is amended as follows.
+## 3. Calculation of interest on investment deposits[^c-ae34f4e0a54a3a9c8c28163ed71157cf]
 
-(2) For paragraph (1)[^f00003] substitute—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> (1) Subject to the provisions of these Regulations, an application for withdrawal of investment deposits shall be made in writing in the approved form requesting that payment be made–
->
-> - (a) in cash to the depositor or to the person entitled to make such application; or
-> - (b) by a crossed warrant payable only through a bank drawn in favour of the depositor, or of the person entitled to make such application, or of a third party named in the application; or
-> - (c) by electronic transfer, to such account in the name of the depositor, or of the person entitled to make such application, as may be specified in the application, being an account to which payment is capable of being made by that means.
->
-> (1A) The Director of Savings may, in the Director’s discretion—
->
-> - (a) refuse to permit more than £2,000 to be withdrawn by payment in cash from any one account on any one day; or
-> - (b) limit the number of crossed warrants which may be issued to or under the direction of the same applicant in any calendar year; or
-> - (c) refuse to issue a crossed warrant where the sum to be withdrawn is less than a specified amount fixed for this purpose by the Director of Savings.
+## 4. Conditions for making investment deposits pursuant to telephone instructions[^c-ae34f4e0a54a3a9c8c28163ed71157cf]
 
-.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In paragraph (2) for “If the issue of a crossed warrant is requested” substitute “Where payment is requested by crossed warrant or electronic transfer”.
+## 5. Increase in maximum holding limit[^c-ae34f4e0a54a3a9c8c28163ed71157cf]
 
-(4) For paragraph (4)[^f00004] substitute—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> (4) A request for payment by crossed warrant shall be treated as implying an authority to the Director of Savings to issue a warrant for the amount to be withdrawn and to pay it in accordance with the terms of the warrant.
+[^c-ae34f4e0a54a3a9c8c28163ed71157cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-.
+**May not be in force at this date. Check the source.**
 
-(5) After paragraph (4) insert—
-
-> (4A) A request for payment by electronic transfer shall be treated as implying an authority to the Director of Savings to initiate, in accordance with that system, the process by which payment will be made.
->
-> (4B) Where the process by which a payment is to be made is initiated in accordance with paragraph (4A) above—
->
-> - (a) any determination of the authority to make that payment shall not deprive any person of a good discharge under these Regulations where such payment is made in the normal course as a result of such initiation;
-> - (b) receipt of the payment by the banker or other person with whom the specified account is kept shall be equivalent to receipt thereof by a person entitled to obtain repayment of deposits from the relevant investment deposit account;
-> - (c) subject to regulation 52 below, the Director of Savings shall not be liable for any delay in the completion of the payment by electronic transfer, or any other failure in the operation of that system, which is outside the Director’s direct control.
->
-> (4C) In the case of an application for withdrawal by crossed warrant or electronic transfer, the death of the person who made the application shall not of itself determine the authority in paragraph (4) or (4A) above; but if the Director receives notice that the applicant has died or has determined such authority:
->
-> - (a) where payment was requested by crossed warrant, the Director shall not issue the warrant; or
-> - (b) if the warrant has already been issued or if payment was requested by electronic transfer, the Director shall take such reasonable steps as may be available to the Director to prevent payment being made.
-
-.
-
-## 3. Calculation of interest on investment deposits[^c-3d4bc94b5d4790f638bef76881c3aeb4]
-
-(1) Regulation 42 of the 1972 Regulations is amended as follows.
-
-(2) In paragraph (2)(b)[^f00005] for “an individual savings account” substitute “any other investment account”.
-
-(3) Omit paragraph (2)(c).
-
-(4) In paragraph (3)(b)[^f00006] of the 1972 Regulations for “regulation” substitute “regulations 21,”.
-
-## 4. Conditions for making investment deposits pursuant to telephone instructions[^c-d5111f235b299be1df48091a9adf9f23]
-
-(1) The 1972 Regulations are amended as follows.
-
-(2) After regulation 28(5) insert—
-
-> (6) **28(6)** A deposit may be made to an investment deposit account pursuant to instructions given by telephone if that deposit is made in a manner approved by the Director and it is the first deposit made to that account.
-
-.
-
-(3) For regulation 42(2B)[^f00007] substitute:
-
-> (2B) For the purposes of this regulation:
->
-> - (a) a first deposit made pursuant to instructions given in accordance with regulation 28(6) above; and
-> - (b) a deposit made pursuant to instructions given by the authorised telephone procedure, in accordance with regulation 29N(d) above,
->
-> shall be deemed to have been made on the day when the instructions are accepted by the Director of Savings.
-
-.
-
-## 5. Increase in maximum holding limit[^c-5bf27cdb8a8a6e7bf61b9c4f202c50af]
-
-Article 3 of the National Savings Bank (Investment Deposits) (Limits) Order 1977[^f00008] is amended by substituting the figure “£1,000,000” for the figure “£100,000”.
-
-Alan Campbell
-
-Frank Roy
-
-Two of the Lords Commissioners
-
-of Her Majesty’s Treasury
-
-23rd April 2008
-
-EXPLANATORY NOTE
-
-(This note is not part of the Regulations)
-
-These Regulations amend the National Savings Bank Regulations 1972 (“the 1972 Regulations”) and the National Savings Bank (Investment Deposits) (Limits) Order 1977 so that four changes may be made to the operation of certain National Savings and Investments investment accounts.
-
-Regulation 2 amends the 1972 Regulations so that payments on withdrawals from investment accounts may be made by electronic transfer.
-
-Regulation 3 amends the 1972 Regulations so that interest on investment deposits (other than deposits in a treasurer’s account) may be calculated on every whole penny held in an investment account which contains £1 or more.
-
-Regulation 4 amends the 1972 Regulations to provide that an investment deposit may be made by telephone if that deposit is a first deposit to an investment account.
-
-Regulation 5 amends the National Savings Bank (Investment Deposits) (Limits) (Order) 1977 so as to increase the limit on the aggregate amount which can be accepted by the Director of Savings from any person by way of an investment deposit in the National Savings Bank from £100,000 to £1,000,000.
-
-A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+[^c-ae34f4e0a54a3a9c8c28163ed71157cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^f00001]: Footnote: [1971 c.29](https://www.legislation.gov.uk/ukpga/1971/29).
-
-[^c-d9c8aff975817f041844cd1421392330]: Commencement: Reg. 1 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
-
-[^f00002]: Footnote: [S.I. 1972/764](https://www.legislation.gov.uk/uksi/1972/764); relevant amending instruments are [S.I. 1996/1724](https://www.legislation.gov.uk/uksi/1996/1724), [1999/588](https://www.legislation.gov.uk/uksi/1999/588), [1999/1611](https://www.legislation.gov.uk/uksi/1999/1611), [2006/1066](https://www.legislation.gov.uk/uksi/2006/1066).
-
-[^c-d46dfa22554976b738b599712e470a28]: Commencement: Reg. 2 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
-
-[^f00003]: Footnote: Regulation 21(1) was amended by [S.I. 2006/1066](https://www.legislation.gov.uk/uksi/2006/1066).
-
-[^f00004]: Footnote: Regulation 21(4) was amended by [S.I. 2006/1066](https://www.legislation.gov.uk/uksi/2006/1066).
-
-[^c-3d4bc94b5d4790f638bef76881c3aeb4]: Commencement: Reg. 3 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
-
-[^f00005]: Footnote: Regulation 42(2) was substituted by [S.I. 1999/588](https://www.legislation.gov.uk/uksi/1999/588) and amended by [1999/1611](https://www.legislation.gov.uk/uksi/1999/1611).
-
-[^f00006]: Footnote: Regulation 42(3) was amended by [S.I. 1996/1724](https://www.legislation.gov.uk/uksi/1996/1724) and [1999/588](https://www.legislation.gov.uk/uksi/1999/588).
-
-[^c-d5111f235b299be1df48091a9adf9f23]: Commencement: Reg. 4 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
-
-[^f00007]: Footnote: Regulation 42(2B) was inserted by [S.I. 1999/588](https://www.legislation.gov.uk/uksi/1999/588).
-
-[^c-5bf27cdb8a8a6e7bf61b9c4f202c50af]: Commencement: Reg. 5 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
-
-[^f00008]: Footnote: [S.I. 1977/1210](https://www.legislation.gov.uk/uksi/1977/1210); relevant amending instruments are [S.I 1989/2444](https://www.legislation.gov.uk/uksi/1989/2444); [1993/1239](https://www.legislation.gov.uk/uksi/1993/1239).
+[^c-ae34f4e0a54a3a9c8c28163ed71157cf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1164) revoked (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/623/schedule)

@@ -74,7 +74,7 @@ summary: ''
 
 (13) For the purposes of this section, a “listed operation” is an operation listed in Annex I or II of the Waste Framework Directive[^c-5197c67950faf4f25685e68ed2c38c9f].
 
-## 33. Prohibition on unauthorised or harmful deposit, treatment or disposal etc. of waste.[^c13734301][^c13734311][^c18945711]
+## 33. Prohibition on unauthorised or harmful deposit, treatment or disposal etc. of waste.[^c13734301][^c13734311][^c18945711][^c13739731]
 
 *Extent: S*
 
@@ -210,6 +210,8 @@ summary: ''
 [^c13734311]: Modification: S. 33 restricted (E.) (13.4.2001) by [S.I. 2001/1478](https://www.legislation.gov.uk/uksi/2001/1478), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2001/1478/regulation/3/b)
 
 [^c18945711]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c20582441]: Textual amendment: Words in s. 33(1) inserted (S.) (6.7.2009) by The Waste Batteries (Scotland) Regulations ([S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247)), {reg. 3(2)}
 

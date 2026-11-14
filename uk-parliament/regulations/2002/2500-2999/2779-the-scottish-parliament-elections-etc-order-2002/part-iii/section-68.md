@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 68
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '68'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/68
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 68
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 68. False statements as to candidates
+## 68. False statements as to candidates[^c-b19f412bb4f336f2631a7ac6d5975346]
+
+*Extent: S*
 
 (1) A person who, or any director of any body or association corporate which–
 
@@ -38,3 +42,7 @@ unless–
 (4) Any person who, before or during a Scottish parliamentary election, knowingly publishes a false statement of a withdrawal of candidature at the election for the purpose of promoting or procuring a particular result at that election shall be guilty of an illegal practice.
 
 (5) A candidate shall not be liable, nor shall his election be avoided, for any illegal practice under paragraph (4) above committed by his agent (or in the case of a candidate included in a party’s regional list, the agent of that party) other than the election agent for that candidate, or as the case may be, party.
+
+## Annotations
+
+[^c-b19f412bb4f336f2631a7ac6d5975346]: Commencement: Art. 68 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

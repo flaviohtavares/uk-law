@@ -326,7 +326,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Free Zone (Prestwick Airport) Designation (Variation) Order 1994](../uk-parliament/regulations/1994/0000-0499/143-the-free-zone-prestwick-airport-designation-variation-order-1994.md) *(as originally made)*
 - [The Free Zone (Southampton) Designation (Variation) Order 1994](../uk-parliament/regulations/1994/1000-1499/1410-the-free-zone-southampton-designation-variation-order-1994.md) *(as originally made)*
 - [The Hydrocarbon Oil (Amendment) (No. 2) Regulations 1994](../uk-parliament/regulations/1994/0500-0999/694-the-hydrocarbon-oil-amendment-no-2-regulations-1994.md) *(as originally made)*
-- [The Travellers' Allowances Order 1994](../uk-parliament/regulations/1994/0500-0999/955-the-travellers-allowances-order-1994.md) *(changes pending)*
+- [The Travellers' Allowances Order 1994](../uk-parliament/regulations/1994/0500-0999/955-the-travellers-allowances-order-1994.md)
 
 **1993**
 

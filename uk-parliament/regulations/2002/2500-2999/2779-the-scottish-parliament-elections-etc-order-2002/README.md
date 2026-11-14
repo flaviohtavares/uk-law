@@ -3,14 +3,14 @@ title: The Scottish Parliament (Elections etc.) Order 2002
 id: uksi/2002/2779
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2002-11-06'
-text_date: null
-extent: null
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2002/2779/pdfs/uksi_20022779_en.pdf
-- http://www.legislation.gov.uk/uksi/2002/2779/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2002/2779/data.pdf
 pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2002 No. 2779 (S. 11)
 
@@ -43,11 +47,15 @@ Now therefore, the Secretary of State, in exercise of the powers conferred upon 
 
 ### PART I — GENERAL
 
+*Extent: S*
+
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Revocations](part-i/section-2.md)
 - [Section 3 — Interpretation](part-i/section-3.md)
 
 ### PART II — THE FRANCHISE AND ITS EXERCISE
+
+*Extent: S*
 
 - [Section 4 — Registers of electors etc](part-ii/section-4.md)
 - [Section 5 — Registration appeals](part-ii/section-5.md)
@@ -78,6 +86,8 @@ Now therefore, the Secretary of State, in exercise of the powers conferred upon 
 - [Section 30 — Requirement of secrecy](part-ii/section-30.md)
 
 ### PART III — THE ELECTION CAMPAIGN
+
+*Extent: S*
 
 - [Section 31 — Appointment of election agent](part-iii/section-31.md)
 - [Section 32 — Nomination of sub agent](part-iii/section-32.md)
@@ -132,9 +142,13 @@ Now therefore, the Secretary of State, in exercise of the powers conferred upon 
 
 ### PART IV — LEGAL PROCEEDINGS
 
+*Extent: S*
+
 - [Section 81 — Application of certain provisions for Scottish parliamentary elections](part-iv/section-81.md)
 
 ### PART V — MISCELLANEOUS AND SUPPLEMENTAL
+
+*Extent: S*
 
 - [Section 82 — Vacancies: constituency seats](part-v/section-82.md)
 - [Section 83 — Vacancies: regional member seats](part-v/section-83.md)
@@ -156,6 +170,8 @@ Now therefore, the Secretary of State, in exercise of the powers conferred upon 
 - [SCHEDULE 6](schedule-6.md)
 - [SCHEDULE 7](schedule-7.md)
 
+*Extent: S*
+
 HELEN LIDDELL
 
 One of Her Majesty’s Principal Secretaries of State
@@ -163,6 +179,8 @@ One of Her Majesty’s Principal Secretaries of State
 Scotland Office Meridian Court Glasgow
 
 6th November 2002
+
+*Extent: S*
 
 APPENDIX OF FORMS
 
@@ -355,6 +373,8 @@ to serve in the Scottish Parliament
 **DECLARATION OF IDENTITY FOR A POSTAL VOTE AT LOCAL GOVERNMENT ELECTION which is taken with the Scottish Parliament election and where the proceedings on the issue and receipt of postal ballot papers in respect of each election are not taken together**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/2779/images/uksi_20022779_en_036) [image: see source](https://www.legislation.gov.uk/uksi/2002/2779/images/uksi_20022779_en_037)
+
+*Extent: S*
 
 (This note is not part of the Order)
 

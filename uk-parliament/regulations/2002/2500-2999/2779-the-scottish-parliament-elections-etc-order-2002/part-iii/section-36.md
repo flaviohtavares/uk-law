@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 36
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '36'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/36
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 36
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 36. Payment of expenses through election agent: constituency and individual candidates
+## 36. Payment of expenses through election agent: constituency and individual candidates[^c-dcaf1f87f7fe51ade7e39a3f8ee12f1f]
+
+*Extent: S*
 
 (1) Subject to paragraph (5) below, no payment (of whatever nature) shall be made by–
 
@@ -37,3 +41,7 @@ in respect of election expenses incurred by or on behalf of the candidate for re
 (5) The foregoing provisions of this article shall not be deemed to apply to any sum disbursed by any person out of his own money for any small expense legally incurred by him if the sum is not repaid to him.
 
 (6) A person who makes any payment (of whatever nature) in contravention of paragraph (1) above shall be guilty of an illegal practice.
+
+## Annotations
+
+[^c-dcaf1f87f7fe51ade7e39a3f8ee12f1f]: Commencement: Art. 36 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

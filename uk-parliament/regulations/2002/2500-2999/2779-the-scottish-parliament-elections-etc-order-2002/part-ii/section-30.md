@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 30
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '30'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 30
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 30. Requirement of secrecy
+## 30. Requirement of secrecy[^c-64b81f6074bd11b967d4d946a64d361e]
+
+*Extent: S*
 
 (1) The following persons attending at a polling station, namely–
 
@@ -55,3 +59,7 @@ shall maintain and aid in maintaining the secrecy of voting and shall not, excep
 (6) If a person acts in contravention of this article he shall be liable on summary conviction to a fine not exceeding the amount specified as level 5 on the standard scale or to imprisonment for a term not exceeding three months.
 
 (7) In this article a voter with disabilities is a voter who has made a declaration under the Scottish Parliamentary Election Rules set out in Schedule 2 to this Order that he is so incapacitated by his blindness or other incapacity or by his inability to read, as to be unable to vote without assistance.
+
+## Annotations
+
+[^c-64b81f6074bd11b967d4d946a64d361e]: Commencement: Art. 30 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 9
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '9'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 9. Absent vote at Scottish parliamentary elections for an indefinite or a particular period
+## 9. Absent vote at Scottish parliamentary elections for an indefinite or a particular period[^c-56e05b0ad9c8345d6509cccf769fe99d]
+
+*Extent: S*
 
 (1) Where a person applies to the registration officer to vote by post at Scottish parliamentary elections or at local government and Scottish parliamentary elections (in either case, whether for an indefinite period or for a particular period specified in his application) the registration officer shall grant the application (subject to paragraph (6) below) if–
 
@@ -54,3 +58,7 @@ summary: ''
 - (d) in the case of a person who applied to vote by post or proxy for a particular period, once that period has expired.
 
 (6) A person shown in the record kept under paragraph (4) above as voting by post or, as the case may be, voting by proxy (in either case, whether for an indefinite period or for a particular period specified in his application) may subsequently alter his choice on an application to the registration officer that meets the requirements set out in Schedule 3 and the registration officer shall amend the record accordingly.
+
+## Annotations
+
+[^c-56e05b0ad9c8345d6509cccf769fe99d]: Commencement: Art. 9 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

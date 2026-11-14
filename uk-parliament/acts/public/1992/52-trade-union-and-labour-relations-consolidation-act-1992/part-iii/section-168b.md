@@ -3,7 +3,7 @@ title: Trade Union and Labour Relations (Consolidation) Act 1992, section 168B
 act: Trade Union and Labour Relations (Consolidation) Act 1992
 section: 168B
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/168B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Trade Union and Labour Relations (Consolidation) Act 1992, section 168B
 
-> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+> **Warning: changes not yet applied to this text (27).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
 > Extent: England, Wales, Scotland.
 
@@ -83,4 +83,4 @@ as required by this section.
 
 ## Annotations
 
-[^c-3aefcd8c10ef8351203fcabeb2f7c623]: Textual amendment: [S. 168B](https://www.legislation.gov.uk/ukpga/1992/52/section/168B) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-3aefcd8c10ef8351203fcabeb2f7c623]: Textual amendment: [S. 168B](https://www.legislation.gov.uk/ukpga/1992/52/section/168B) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/h) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/1065/regulation/8))

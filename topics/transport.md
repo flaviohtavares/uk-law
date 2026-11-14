@@ -47,7 +47,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Pedicab Drivers (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/134-the-pedicab-drivers-london-regulations-2026.md)
 - [The Pedicab Operators (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/135-the-pedicab-operators-london-regulations-2026.md)
 - [The Pedicab Vehicles (London) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/136-the-pedicab-vehicles-london-regulations-2026.md) *(changes pending)*
-- [The Pedicabs (London) (Fares and Fees) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/137-the-pedicabs-london-fares-and-fees-regulations-2026.md) *(changes pending)*
+- [The Pedicabs (London) (Fares and Fees) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/137-the-pedicabs-london-fares-and-fees-regulations-2026.md)
 - [The Planning and Infrastructure Act 2025 (Commencement No. 4 and Transitional Provisions) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/641-the-planning-and-infrastructure-act-2025-commencement-no-4-and-transitional-prov.md) *(as originally made)*
 - [The Sussex and Brighton Combined County Authority Regulations 2026](../uk-parliament/regulations/2026/0000-0499/362-the-sussex-and-brighton-combined-county-authority-regulations-2026.md) *(changes pending)*
 - [The Train Driving Licences and Certificates (Amendment) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/461-the-train-driving-licences-and-certificates-amendment-regulations-2026.md) *(as originally made)*
@@ -407,7 +407,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Cross-border Railway Services (Working Time) Regulations (Northern Ireland) 2008](../northern-ireland/regulations/2008/0000-0499/315-the-cross-border-railway-services-working-time-regulations-northern-ireland-2008.md)
 - [The Cross-border Railway Services (Working Time) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1660-the-cross-border-railway-services-working-time-regulations-2008.md)
 - [The Crossrail (Nomination) Order 2008](../uk-parliament/regulations/2008/2000-2499/2036-the-crossrail-nomination-order-2008.md) *(as originally made)*
-- [The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008](../uk-parliament/regulations/2008/2500-2999/2512-the-felixstowe-branch-line-and-ipswich-yard-improvement-order-2008.md) *(as originally made)*
+- [The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008](../uk-parliament/regulations/2008/2500-2999/2512-the-felixstowe-branch-line-and-ipswich-yard-improvement-order-2008.md) *(changes pending)*
 - [The Local Authorities (Elected Mayors) (England) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3112-the-local-authorities-elected-mayors-england-regulations-2008.md) *(as originally made)*
 - [The Mobility and Access Committee for Scotland Revocation Regulations 2008 Revocation Regulations 2008](../scotland/regulations/2008/0000-0499/247-the-mobility-and-access-committee-for-scotland-revocation-regulations-2008-revoc.md) *(as originally made)*
 - [The Network Rail (Thameslink) (Land Acquisition) Order 2008](../uk-parliament/regulations/2008/3000-3499/3163-the-network-rail-thameslink-land-acquisition-order-2008.md) *(as originally made)*

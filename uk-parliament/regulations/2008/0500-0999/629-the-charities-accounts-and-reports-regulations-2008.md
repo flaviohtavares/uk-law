@@ -3,15 +3,15 @@ title: The Charities (Accounts and Reports) Regulations 2008
 id: uksi/2008/629
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-06'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/629
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/629/pdfs/uksiem_20080629_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/629/pdfs/uksi_20080629_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/629/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/629/data.pdf
 pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Charities (Accounts and Reports) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/629
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 629
 
@@ -46,11 +50,11 @@ In accordance with section 86(4) of that Act he has consulted such persons and b
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-b0ca372d49760afc8c4cca717a0105f5]
 
 These Regulations may be cited as the Charities (Accounts and Reports) Regulations 2008 and come into force on 1st April 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-a2f213b10d56a980cf8c9b8dd680bcc6]
 
 (1) In these Regulations—
 
@@ -102,7 +106,7 @@ These Regulations may be cited as the Charities (Accounts and Reports) Regulatio
 
 (4) Where the scheme or schemes regulating an investment fund allocates responsibility for the exercise of a function of a charity trustee to a particular person, “charity trustees”, in relation to that investment fund, includes the person to whom the relevant function has been allocated.
 
-### 3. Financial year of a charity which is not a company
+### 3. Financial year of a charity which is not a company[^c-7b423aeb5a79f60f64250152380348d0]
 
 (1) The financial year of a charity which is not a company (“relevant charity”) is, for the purposes of the 1993 Act and regulations made under that Act, to be determined in accordance with this regulation.
 
@@ -134,7 +138,7 @@ These Regulations may be cited as the Charities (Accounts and Reports) Regulatio
 
 (7) The charity trustees may exercise their power under paragraph (4)(b)(ii) so as to determine an accounting reference date less, or more**,** than 12 months from the beginning of the financial year only where they satisfied that there are exceptional reasons to do so.
 
-### 4. Application, revocation, savings and transitional provisions
+### 4. Application, revocation, savings and transitional provisions[^c-33a4420d8f0d0f4e64787454d9d1f038]
 
 (1) The 2005 Regulations are revoked.
 
@@ -182,7 +186,7 @@ These Regulations may be cited as the Charities (Accounts and Reports) Regulatio
 
 ## PART 2 — FORM AND CONTENT OF STATEMENTS OF ACCOUNT
 
-### 5. General
+### 5. General[^c-283b3432734e7f1deef831ebb16d4190]
 
 The requirements as to the form and content of a statement of accounts of a charity to be prepared under section 42(1) of the 1993 Act are prescribed—
 
@@ -190,7 +194,7 @@ The requirements as to the form and content of a statement of accounts of a char
 - (b) in the case of special case charity, in regulation 7;
 - (c) in the case of any other charity, in regulation 8**.**
 
-### 6. Form and content of statement of accounts: investment funds
+### 6. Form and content of statement of accounts: investment funds[^c-3991b284e7d6351aed659b1f7805295a]
 
 (1) This regulation applies to a statement of accounts prepared by the charity trustees of an investment fund in accordance with section 42(1) of the 1993 Act.
 
@@ -215,7 +219,7 @@ The requirements as to the form and content of a statement of accounts of a char
 
 (8) Where the balance sheet of an investment fund is signed by one or more of the charity trustees in accordance with paragraph (7)(b), the balance sheet must specify the date on which the statement of accounts of which the balance sheet forms part was approved by the charity trustees.
 
-### 7. Form and content of statement of accounts: special case charities
+### 7. Form and content of statement of accounts: special case charities[^c-1820cd7f605cea0c3f10d49d59f8cdd5]
 
 (1) This regulation applies to a statement of accounts prepared by the charity trustees of a special case charity in accordance with section 42(1) of the 1993 Act.
 
@@ -236,7 +240,7 @@ The requirements as to the form and content of a statement of accounts of a char
 - (a) be signed by at least one of the charity trustees of the charity, each of whom has been authorised to do so; and
 - (b) specify the date on which the statement of accounts of which the balance sheet forms part was approved by the charity trustees.
 
-### 8. Form and content of statement of accounts: charities other than investment funds or special case charities
+### 8. Form and content of statement of accounts: charities other than investment funds or special case charities[^c-d4a27a3dd479fa1cb3fe76858d5aacc9]
 
 (1) This regulation applies to a statement of accounts prepared by the charity trustees of a charity which is not an investment fund or a special case charity in accordance with section 42(1) of the 1993 Act.
 
@@ -280,7 +284,7 @@ paragraphs (4) and (5) have effect as if an amount were required to be shown in 
 
 ### CHAPTER 1 — GENERAL
 
-#### 9. Meaning of “aggregate gross income”
+#### 9. Meaning of “aggregate gross income”[^c-197a976c9ee1e532193c2d46473fb5bf]
 
 (1) For the purposes of Schedule 5A to the 1993 Act the aggregate gross income for a financial year of a group consisting of a parent charity and its subsidiary undertaking or undertakings is to be determined by eliminating all group transactions for that year from the group income for that year.
 
@@ -304,7 +308,7 @@ paragraphs (4) and (5) have effect as if an amount were required to be shown in 
 
 (4) If the figures for the corresponding financial year of a subsidiary undertaking cannot be obtained without disproportionate expense or undue delay, the latest available figures are to be taken.
 
-#### 10. Financial years of subsidiary undertakings
+#### 10. Financial years of subsidiary undertakings[^c-5a09e4f1668b949d8017e96ab82a0b82]
 
 (1) For the purposes of Schedule 5A to the 1993 Act the financial years of subsidiary undertakings are to be determined in accordance with this regulation.
 
@@ -312,13 +316,13 @@ paragraphs (4) and (5) have effect as if an amount were required to be shown in 
 
 (3) The financial year of a non-charitable subsidiary undertaking is a period in respect of which a profit and loss account of the undertaking is required to be made up (by its constitution or by the law under which it is established), whether that period is a year or not**.**
 
-#### 11. Requirement for financial years of a parent charity and its subsidiary undertakings to coincide
+#### 11. Requirement for financial years of a parent charity and its subsidiary undertakings to coincide[^c-fa6cc302f2c695e1b021f57075ceb2ae]
 
 The charity trustees of a parent charity must secure that, except where in their opinion there are good reasons against it, the financial year of each of its subsidiary undertakings coincides with its own financial year.
 
 ### CHAPTER 2 — FORM AND CONTENT OF GROUP ACCOUNTS
 
-#### 12. Form and content of group accounts: general
+#### 12. Form and content of group accounts: general[^c-269090c69e36bcfc9d8311a3d6540ef6]
 
 The requirements as to the form and content of group accounts to be prepared under paragraph 3(2) of Schedule 5A to the 1993 Regulations are prescribed**—**
 
@@ -326,7 +330,7 @@ The requirements as to the form and content of group accounts to be prepared und
 - (b) in the case of a parent charity that is a special case charity, in regulation 14;
 - (c) in the case of any other parent charity, in regulation 15.
 
-#### 13. Form and content of group accounts: parent charities that are investment funds
+#### 13. Form and content of group accounts: parent charities that are investment funds[^c-17b38b729935f432ae8087ed44cfe0e5]
 
 (1) This regulation applies to the group accounts prepared by the charity trustees of a parent charity that is an investment fund under paragraph 3(2) of Schedule 5A to the 1993 Act.
 
@@ -352,7 +356,7 @@ The requirements as to the form and content of group accounts to be prepared und
 
 regulation 6 as if the parent charity and its subsidiary undertakings required to be included in the group accounts were a single charity.
 
-#### 14. Form and content of group accounts: parent charities that are special case charities
+#### 14. Form and content of group accounts: parent charities that are special case charities[^c-38cb6f7cc55777b1e299d8bc27e385ef]
 
 (1) This Regulation applies to the group accounts prepared by the charity trustees of a parent charity that is a special case charity under paragraph 3(2) of Schedule 5A to the 1993 Act.
 
@@ -370,7 +374,7 @@ regulation 6 as if the parent charity and its subsidiary undertakings required t
 
 (5) The group accounts must comply with the requirements of paragraph (5) of regulation 7 as if the parent charity and its subsidiary undertakings required to be included in the group accounts were a single charity.
 
-#### 15. Form and content of group accounts: parent charities that are not investment funds or special case charities
+#### 15. Form and content of group accounts: parent charities that are not investment funds or special case charities[^c-74718f5af041d5f886ff6970de7f45e3]
 
 (1) This regulation applies to the group accounts prepared by the charity trustees of a parent charity other than a parent charity to which regulation 13 or 14 applies under paragraph 3(2) of Schedule 5A to the 1993 Act.
 
@@ -397,7 +401,7 @@ regulation 6 as if the parent charity and its subsidiary undertakings required t
 
 .
 
-#### 16. Form and content of group accounts: general requirements
+#### 16. Form and content of group accounts: general requirements[^c-37f4e6fbd51373746416d2c0185f2d0d]
 
 (1) In addition to complying with regulation 13, 14 or 15, as the case may be, the group accounts prepared by the charity trustees of any parent charity under paragraph 3(2) of Schedule 5A to the 1993 Act must comply with the requirements prescribed in this regulation.
 
@@ -432,7 +436,7 @@ the interest of the parent charity or subsidiary undertaking in that associated 
 - (b) “parent financial year” means the financial year of the parent charity in respect of which the group accounts are prepared;
 - (c) “relevant subsidiary undertaking” means a subsidiary undertaking of the parent charity which is not excluded under regulation 19 from the group accounts required to be prepared for the parent financial year.
 
-#### 17. Group Accounts: departure from the general rules
+#### 17. Group Accounts: departure from the general rules[^c-fda12c6e869458df54e02437a13c9456]
 
 (1) Where compliance with the group accounts requirements is not sufficient to comply with any requirement to give a true and fair view, the necessary additional information must be given in the group accounts or a note to them.
 
@@ -444,11 +448,11 @@ the interest of the parent charity or subsidiary undertaking in that associated 
 
 ### CHAPTER 3 — EXCEPTIONS TO THE REQUIREMENT TO PREPARE GROUP ACCOUNTS
 
-#### 18. Exceptions relating to requirement to prepare group accounts
+#### 18. Exceptions relating to requirement to prepare group accounts[^c-f4b46359ca860560d9772d2ea0888d3f]
 
 The sum specified for the purposes of paragraph 4(2) of Schedule 5A to the 1993 Act is £500,000.
 
-**19.** (1) The circumstances in which a subsidiary undertaking may be excluded from group accounts required to be prepared under paragraph 3(2) of Schedule 5A to the 1993 Act are—
+**19.**[^c-e2aefda19c7eee9ad6fd2be4a662556a] (1) The circumstances in which a subsidiary undertaking may be excluded from group accounts required to be prepared under paragraph 3(2) of Schedule 5A to the 1993 Act are—
 
 - (a) subject to paragraph (2), where the inclusion of the subsidiary undertaking is not material for the purposes of giving a true and fair view;
 - (b) severe long term restrictions substantially hinder the exercise of the rights of the parent charity over the assets or management of the undertaking;
@@ -461,7 +465,7 @@ The sum specified for the purposes of paragraph 4(2) of Schedule 5A to the 1993 
 
 ### CHAPTER 1 — GENERAL
 
-#### 20. Duties of auditors: general
+#### 20. Duties of auditors: general[^c-d48972cc29ddecd5f5fe2efbffaf531e]
 
 The duties of an auditor carrying out an audit of the accounts of a charity are—
 
@@ -472,17 +476,17 @@ The duties of an auditor carrying out an audit of the accounts of a charity are�
 - (b) in the case of an audit carried out under section 43A of the 1993 Act, specified in regulation 27;
 - (c) in the case of an audit carried out under section 43B of the 1993 Act, specified in regulation 28.
 
-**21.** The duties of an auditor carrying out an audit of the group accounts of a parent charity under paragraph 6 of Schedule 5A to the 1993 Act, specified in regulation 30.
+**21.**[^c-5c408eb3088e435a8fe34d1d47439d37] The duties of an auditor carrying out an audit of the group accounts of a parent charity under paragraph 6 of Schedule 5A to the 1993 Act, specified in regulation 30.
 
-#### 22. Duties of examiners: general
+#### 22. Duties of examiners: general[^c-f4da6d60913937b6352e6c72482a776f]
 
 The duties of an independent examiner with respect to the making of a report in respect of an examination carried out by him under section 43 of the 1993 Act are specified in regulation 31.
 
-**23.** The duties of an examiner with respect to the making of a report in respect of an examination carried out by him under section 43A or 43B are specified in regulation 32.
+**23.**[^c-10168ef1edf0096245797efca42ba08c] The duties of an examiner with respect to the making of a report in respect of an examination carried out by him under section 43A or 43B are specified in regulation 32.
 
 ### CHAPTER 2 — AUDIT OF INDIVIDUAL CHARITY ACCOUNTS
 
-#### 24. Duties of auditors: audit of a statement of accounts prepared under section 42(1) of the 1993 Act
+#### 24. Duties of auditors: audit of a statement of accounts prepared under section 42(1) of the 1993 Act[^c-8a119e262abd6dcdbba1288862bfd30b]
 
 (1) Where a statement of accounts has been prepared under section 42(1) of the 1993 Act for the relevant financial year, the auditor carrying out the audit of those accounts under section 43 of that Act must make a report on that statement to the charity trustees which—
 
@@ -516,7 +520,7 @@ The duties of an independent examiner with respect to the making of a report in 
 
 (3) The auditor must, in preparing his report carry out such investigations as will enable him to form an opinion as to the matters specified in sub-paragraphs (f) and (g) of paragraph (1).
 
-#### 25. Duties of auditor: audit of accounts prepared under Part 7 of the Companies Act 1985
+#### 25. Duties of auditor: audit of accounts prepared under Part 7 of the Companies Act 1985[^c-3b1ab0481b13e988720ba99394559ca7]
 
 (1) Where individual accounts have been prepared by the charity trustees of a charity which is a company under Chapter 1 of Part 7 of the 1985 Act, the auditor carrying out the audit of those accounts under section 43 of the 1993 Act must make a report on those accounts to the charity trustees which—
 
@@ -544,7 +548,7 @@ The duties of an independent examiner with respect to the making of a report in 
 
 (2) The auditor must in preparing his report carry out such investigations as will enable him to form an opinion as to the matters specified in sub-paragraphs (g) and (h) of paragraph (1).
 
-#### 26. Duties of auditors: audit of a receipts and payments account and a statement of assets and liabilities prepared under section 42(3) of the 1993 Act
+#### 26. Duties of auditors: audit of a receipts and payments account and a statement of assets and liabilities prepared under section 42(3) of the 1993 Act[^c-7064ec3e19f9dbf12d4b6c70c5827518]
 
 (1) Where an account and statement have been prepared under section 42(3) of the 1993 Act for the relevant financial year the auditor carrying out the audit of the accounts under section 43 of that Act must make a report on those accounts to the charity trustees which—
 
@@ -567,7 +571,7 @@ The duties of an independent examiner with respect to the making of a report in 
 
 (2) The auditor must in preparing his report carry out such investigations as will enable him to form an opinion as to the matters specified in sub-paragraphs (f) and (g) of paragraph (1).
 
-#### 27. Duties of auditors of the accounts of English National Health Service Charities
+#### 27. Duties of auditors of the accounts of English National Health Service Charities[^c-86bd9eb02862269b02df79e3f27cc071]
 
 (1) The duties of an auditor carrying out an audit of the accounts of an English National Health Service Charity under section 43A of the 1993 Act are specified in this regulation.
 
@@ -604,7 +608,7 @@ regulation 26 applies to the auditor with the modifications specified in paragra
 
 (6) in paragraph (1)(d) for “section 43” there is substituted “section 43A”.
 
-#### 28. Duties of auditors of accounts of Welsh National Health Service Charities
+#### 28. Duties of auditors of accounts of Welsh National Health Service Charities[^c-387835217331a9792b3a50e76b56772b]
 
 (1) The duties of an auditor carrying out an audit of the accounts of a Welsh National Health Service Charity under section 43B are specified in this regulation.
 
@@ -636,11 +640,11 @@ regulation 26 applies to the Auditor General for Wales with the modifications sp
 
 ### CHAPTER 3 — AUDIT OF GROUP ACCOUNTS
 
-#### 29. Audit of accounts of larger groups
+#### 29. Audit of accounts of larger groups[^c-ba94d13d66ea55f37c4ef76449ae729f]
 
 The sum prescribed as the relevant income threshold for the purpose of paragraph 6(1)(a) of Schedule 5A to the 1993 Act is £500,000.
 
-#### 30. Duties of auditors carrying out an audit of group accounts under paragraph 6 of Schedule 5A to the Charities Act 1993
+#### 30. Duties of auditors carrying out an audit of group accounts under paragraph 6 of Schedule 5A to the Charities Act 1993[^c-50ff782a69e55835a60dbe049aeed811]
 
 (1) Where group accounts prepared under paragraph 3(2) of Schedule 5A to the 1993 Act are required to be audited under paragraph 6 of that Schedule, the auditor must make a report on those accounts to the charity trustees of the parent charity which—
 
@@ -676,7 +680,7 @@ The sum prescribed as the relevant income threshold for the purpose of paragraph
 
 ### CHAPTER 4 — INDEPENDENT EXAMINATION OF INDIVIDUAL CHARITY ACCOUNTS
 
-#### 31. Independent examination of individual charity accounts
+#### 31. Independent examination of individual charity accounts[^c-a67ee469393bbeea92a55a280b1cc620]
 
 An independent examiner who has carried out an examination of the accounts of a charity under section 43 of the 1993 Act must make a report to the charity trustees which—
 
@@ -707,7 +711,7 @@ An independent examiner who has carried out an examination of the accounts of a 
 
 ### CHAPTER 5 — EXAMINATION OF THE ACCOUNTS OF ENGLISH AND WELSH NATIONAL HEALTH SERVICE CHARITIES
 
-#### 32. Examination of the accounts of English and Welsh National Health Service Charities
+#### 32. Examination of the accounts of English and Welsh National Health Service Charities[^c-169df2acbf59871bcf6880b9430e1f65]
 
 Where a person has carried out an examination of the accounts of an English National Health Service charity under section 43A of the 1993 Act, or the Auditor General for Wales has carried out an examination of the accounts of a Welsh National Health Service charity under section 43B of that Act, that person or, as the case may be, the Auditor General for Wales must make a report to the charity trustees which—
 
@@ -728,7 +732,7 @@ Where a person has carried out an examination of the accounts of an English Nati
 
 ### CHAPTER 6 — MISCELLANEOUS
 
-#### 33. Audit and independent examination: supplementary provisions
+#### 33. Audit and independent examination: supplementary provisions[^c-f984da5bacdbee7eea1edba5467d8f75]
 
 (1) Any person carrying out an audit or examination of the accounts of a charity under sections 43, 43A or 43B of or paragraph 6 of Schedule 5A to the 1993 Act has a right of access to any books, documents and other records (however kept) which relate to the charity concerned and which the person concerned considers it necessary to inspect for the purpose of carrying out the audit or examination.
 
@@ -746,7 +750,7 @@ Where a person has carried out an examination of the accounts of an English Nati
 
 (4) For the purposes of this regulation, “officer” includes any auditor or other person appointed to scrutinise the accounts of any such undertaking.
 
-#### 34. Dispensations from audit or examination requirements
+#### 34. Dispensations from audit or examination requirements[^c-7a7bd291a0fce2f9d013c5b662836d65]
 
 (1) The Commission may—
 
@@ -778,7 +782,7 @@ Where a person has carried out an examination of the accounts of an English Nati
 
 (8) The Commission may revoke a dispensation granted under this regulation if the charity trustees fail to comply with a condition imposed under paragraph (6) or (7).
 
-#### 35. Ceasing to hold office
+#### 35. Ceasing to hold office[^c-25112b6bd349399c56ac659bff0201dd]
 
 (1) Where an auditor appointed by charity trustees or under section 43A(2) or (3)(a) ceases for any reason to hold office he must send—
 
@@ -787,7 +791,7 @@ Where a person has carried out an examination of the accounts of an English Nati
   - (ii) if he considers that there are no such circumstances, a statement that there are none;
 - (b) a copy of any statement sent to the charity trustees under sub-paragraph (a)(i) to the Commission.
 
-#### 36. Auditors appointed by the Commission
+#### 36. Auditors appointed by the Commission[^c-9e74b3e49e4b3a8f30a0ac2206c31f2b]
 
 (1) Subject to paragraph (2), in the case of an auditor appointed by the Commission, any report required by any of the provisions of this Part to be made to the charity trustees must instead be made to the Commission.
 
@@ -795,7 +799,7 @@ Where a person has carried out an examination of the accounts of an English Nati
 
 ## PART 5 — ANNUAL REPORTS
 
-### 37. General
+### 37. General[^c-738d94523f8c6b666e8affb005db7372]
 
 (1) The report and information to be contained in the annual report prepared by the charity trustee’s of a charity are prescribed—
 
@@ -821,7 +825,7 @@ Where a person has carried out an examination of the accounts of an English Nati
   - (i) which is not an investment fund; and
   - (ii) the charity trustees of which are required to prepare group accounts in respect of the financial year to which the annual report relates.
 
-### 38. Annual Reports: non-parent investment fund
+### 38. Annual Reports: non-parent investment fund[^c-1b5f4d54ce83779a5acd4fd584c9ae1d]
 
 (1) This regulation applies to the annual report prepared under section 45(1) of the 1993 Act by the charity trustees of a non-parent investment fund.
 
@@ -857,7 +861,7 @@ Where a person has carried out an examination of the accounts of an English Nati
 - (n) the name and address of any person to whom any such functions in respect of the management of the investment fund have been delegated or who have been instructed to provide advice on investment matters; and
 - (o) a statement as to which, if any, of the persons whose names are given in accordance with the provisions of sub-paragraphs (h), (j), (k), (l) or (n), are authorised persons.
 
-### 39. Annual Reports: parent investment funds
+### 39. Annual Reports: parent investment funds[^c-ef15374563d07dcf68f4b0ff1cf55368]
 
 (1) This regulation applies to an annual report prepared in accordance with section 45(1) of the 1993 Act by the charity trustees of a parent investment fund.
 
@@ -896,7 +900,7 @@ Where a person has carried out an examination of the accounts of an English Nati
 
 (4) In this regulation “subsidiary undertaking” does not include a subsidiary undertaking which is excluded from group accounts in accordance with regulation 19.
 
-### 40. Annual reports: non-parent charity
+### 40. Annual reports: non-parent charity[^c-ae84a9bcad53bf25a968fceb755269e3]
 
 (1) This regulation applies to an annual report prepared in accordance with section 45(1) of the 1993 Act by the charity trustees of a non-parent charity**.**
 
@@ -963,7 +967,7 @@ were omitted.
 
 (7) Sub-paragraphs (j), (k), (m), (n), (o) and (q) of paragraph (3) do not apply to a charity which is not an auditable charity.
 
-### 41. Annual Reports: qualifying parent charities
+### 41. Annual Reports: qualifying parent charities[^c-fa0343376d405c501d510fbf712aa790]
 
 (1) This regulation applies to an annual report prepared in accordance with section 45(1) of the 1993 Act by the charity trustees of a qualifying parent charity.
 
@@ -1047,14 +1051,14 @@ Regulation 6
 
 ### PART 1 — STATEMENT OF TOTAL RETURN
 
-**1.** The statement of total return must show—
+**1.**[^c-38e24ecc778434b0c5a8835850bb2dfc] The statement of total return must show—
 
 - (a) the net gain or loss on investments, gross income, total expenditure and total return of the investment fund; and
 - (b) the total amount distributed or due, including interest paid or payable, to participating charities out of the investment fund,
 
 during the relevant financial year.
 
-**2.** Subject to paragraph 4, the information required by paragraph 1 must be analysed by reference to—
+**2.**[^c-91029026732ce4c41d9ca405d2abce27] Subject to paragraph 4, the information required by paragraph 1 must be analysed by reference to—
 
 - (a) net gains or losses on investments analysed as arising from**—**
   - (i) non-derivative securities;
@@ -1104,21 +1108,21 @@ during the relevant financial year.
   - **A** is the amount entered under paragraph (i)
   - **B** is the amount entered under paragraph (j).
 
-**3.** In the case of a common investment fund established by a scheme which, in pursuance of section 22(5) of the 1960 Act or section 24(5) of the 1993 Act, includes provision for enabling sums to be deposited by or on behalf of a charity on the basis that (subject to the provisions of the scheme) the charity shall be entitled to repayment of the sums deposited and to interest thereon at a rate determined by or under the scheme, the analysis required by paragraph 2 must distinguish between—
+**3.**[^c-bc149c9ba732efa08aad18d8458bc9ed] In the case of a common investment fund established by a scheme which, in pursuance of section 22(5) of the 1960 Act or section 24(5) of the 1993 Act, includes provision for enabling sums to be deposited by or on behalf of a charity on the basis that (subject to the provisions of the scheme) the charity shall be entitled to repayment of the sums deposited and to interest thereon at a rate determined by or under the scheme, the analysis required by paragraph 2 must distinguish between—
 
 - (a) the amount of capital and income to be shared between charities participating otherwise than by way of deposit; and
 - (b) the amount of capital and income that is required in respect of the liabilities of the investment fund for the repayment of deposits and for interest on deposits (including amounts required by way of reserve).
 
-**4.** Where a sub-paragraph of paragraph 2 requires information to be divided into separate categories, the division of that information into such separate categories may, if the charity trustees so elect, be effected instead by means of a note to the accounts made in pursuance of Part 5 of this Schedule.
+**4.**[^c-d777d314fbc7d9455343834ca93a3507] Where a sub-paragraph of paragraph 2 requires information to be divided into separate categories, the division of that information into such separate categories may, if the charity trustees so elect, be effected instead by means of a note to the accounts made in pursuance of Part 5 of this Schedule.
 
 ### PART 2 — STATEMENT OF CHANGE IN NET ASSETS
 
-**5.** The statement of change in net assets must provide a reconciliation between—
+**5.**[^c-8e913e8ec16ae3c13e52da69e8918568] The statement of change in net assets must provide a reconciliation between—
 
 - (a) the net assets of the investment fund at the beginning of the relevant financial year; and
 - (b) the net assets of the investment fund at the end of that year.
 
-**6.** The reconciliation referred to in paragraph 5 must show—
+**6.**[^c-37f6d59c19127a72feb475a6f6577a94] The reconciliation referred to in paragraph 5 must show—
 
 - (a) the value of the net assets at the beginning of the relevant financial year;
 - (b) the change in value of the investment fund calculated in accordance with paragraph 2(k);
@@ -1128,20 +1132,20 @@ during the relevant financial year.
   - (i) the amount or value of any property transferred to or withdrawn from the investment fund during the relevant financial year by participating charities; and
   - (ii) the amount of any distribution of income due in respect of accumulation shares.
 
-**7.** In the case of a common investment fund to which paragraph 3 applies, the analysis required by paragraph 6 must distinguish between—
+**7.**[^c-738ce431b5127e1bb70fc76bca837ae1] In the case of a common investment fund to which paragraph 3 applies, the analysis required by paragraph 6 must distinguish between—
 
 - (a) the amount of capital and income to be shared between charities participating otherwise than by way of deposit; and
 - (b) amount of capital and income that is required in respect of the liabilities of the investment fund for the repayment of deposits and for interest on deposits (including amounts required by way of reserve).
 
 ### PART 3 — BALANCE SHEET
 
-**8.** The balance sheet must show the state of affairs of the investment fund as at the end of the relevant financial year by reference to the information specified**—**
+**8.**[^c-a9feada066cd4efb471e10e27d442581] The balance sheet must show the state of affairs of the investment fund as at the end of the relevant financial year by reference to the information specified**—**
 
 - (a) in the case of a common investment fund to which paragraph 3 does not apply, in paragraph 9;
 - (b) in the case of a common investment fund to which paragraph 3 applies, in paragraph 10;
 - (c) in the case of a common deposit fund, in paragraph 11.
 
-**9.** In the case of a common investment fund to which paragraph 3 does not apply, the specified information is**—**
+**9.**[^c-5c0a4437606e4f286c6c9086eecf0c38] In the case of a common investment fund to which paragraph 3 does not apply, the specified information is**—**
 
 - (a) tangible fixed assets for use by the investment fund;
 - (b) investments;
@@ -1166,12 +1170,12 @@ during the relevant financial year.
   - **A** is the amount entered under paragraph (d),
   - **B** is the amount entered under paragraph (g).
 
-**10.** In the case of a common investment fund to which paragraph 3 applies, the specified information is**—**
+**10.**[^c-ed81eb05847ba5ebc087b2b0d5dda4ce] In the case of a common investment fund to which paragraph 3 applies, the specified information is**—**
 
 - (a) in relation to the amount of capital and income to be shared between charities participating otherwise than by way of deposit, the information specified in paragraph 9;
 - (b) in relation to the amount of capital and income that is required in respect of the liabilities of the investment fund for the repayment of deposits and for interest on deposits (including amounts required by way of reserve), the information specified in paragraph 11.
 
-**11.** In the case of a common deposit fund, the specified information is**—**
+**11.**[^c-40d882509cce85db370e1e03365027e1] In the case of a common deposit fund, the specified information is**—**
 
 - (a) cash at bank and in hand;
 - (b) debtors;
@@ -1193,11 +1197,11 @@ during the relevant financial year.
 - (i) sums held as an income reserve on trust for existing depositors; and
 - (j) total liabilities which is calculated by aggregating the amounts entered under paragraphs (g), (h) and (i).
 
-**12.** Despite the requirement in paragraph 11(c) to divide into separate categories the information to be provided by dividing the information into separate categories, the division of that information into those categories may, if the charity trustees so elect, be effected instead by means of a note to the accounts made in pursuance of Part 5 of this Schedule.
+**12.**[^c-72e14861806b16a73687bab9ef5fce02] Despite the requirement in paragraph 11(c) to divide into separate categories the information to be provided by dividing the information into separate categories, the division of that information into those categories may, if the charity trustees so elect, be effected instead by means of a note to the accounts made in pursuance of Part 5 of this Schedule.
 
 ### PART 4 — METHODS AND PRINCIPLES
 
-**13.** (1) The statement of total return must give a true and fair view of the incoming resources and application of the resources of the investment fund in the relevant financial year**.**
+**13.**[^c-c0a7320f96100e1eb01cd68ef9f1a02e] (1) The statement of total return must give a true and fair view of the incoming resources and application of the resources of the investment fund in the relevant financial year**.**
 
 (2) The balance sheet must give a true and fair view of the state of affairs of the investment fund at the end of the relevant financial year.
 
@@ -1210,7 +1214,7 @@ during the relevant financial year.
 - (a) the charity trustees must depart from that provision to the extent necessary to give a true and fair view; and
 - (b) particulars of any such departure, the reasons for it and its effect must be given in a note to the accounts.
 
-**14.** (1) Subject to paragraphs (2) and (3), in respect of every amount required—
+**14.**[^c-7020238f3c9094a4281a24ae497568e4] (1) Subject to paragraphs (2) and (3), in respect of every amount required—
 
 - (a) by paragraph 2 to be shown in the statement of total return,
 - (b) by paragraph 6 to be shown in the statement of changes in net assets;
@@ -1230,11 +1234,11 @@ the corresponding amount for the financial year immediately preceding the releva
 
 sub-paragraph (1) has effect as if such an amount were required to be shown in the relevant financial year and that amount were nil**.**
 
-**15.** The values at which assets and liabilities of an investment fund are recorded in the balance sheet, and the recognition bases for gains and losses, must be determined in accordance with the methods and principles set out in the IMA SORP.
+**15.**[^c-ca1c2d62749d47b2d16aa7045371c9e5] The values at which assets and liabilities of an investment fund are recorded in the balance sheet, and the recognition bases for gains and losses, must be determined in accordance with the methods and principles set out in the IMA SORP.
 
 ### PART 5 — NOTES TO THE ACCOUNTS
 
-**16.** (1) The information to be provided by way of notes to the accounts, insofar as not provided in the statement of accounts, is**—**
+**16.**[^c-2da4f25a5816b5c9f40315156f3e9ab2] (1) The information to be provided by way of notes to the accounts, insofar as not provided in the statement of accounts, is**—**
 
 - (a) a description of the accounting policies adopted for the investment fund and in particular—
   - (i) the basis of valuation of investments;
@@ -1339,7 +1343,7 @@ sub-paragraph (1) has effect as if such an amount were required to be shown in t
 
 ### PART 6 — INTERPRETATION
 
-**17.** (1) In this Schedule—
+**17.**[^c-1c615a7de8aa46a626a2ddfe9d5b4114] (1) In this Schedule—
 
 - “dividend equalisation reserve” means income withheld from distribution with a view to avoiding fluctuations in the amounts distributed;
 - “the IMA SORP” means the Statement of Recommended Practice for Financial Statements of Authorised Funds issued by the Investment Management Association in December 2005[^f00013];
@@ -1380,7 +1384,7 @@ sub-paragraph (1) has effect as if such an amount were required to be shown in t
 
 Regulation 9
 
-**1.** (1) Subject to sub-paragraphs (2) and (3) and in so far as it is not provided in the statement of financial activities or in the balance sheet, the information to be provided by way of notes to the accounts is—
+**1.**[^c-a31d95baf9d7d5b68ad1975848a8a0c9] (1) Subject to sub-paragraphs (2) and (3) and in so far as it is not provided in the statement of financial activities or in the balance sheet, the information to be provided by way of notes to the accounts is—
 
 - (a) particulars of any material adjustment made under regulation 8(8);
 - (b) a description of—
@@ -1475,6 +1479,10 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [1993 c.10](https://www.legislation.gov.uk/ukpga/1993/10). Section 42 was amended by the Charities Act 1993 (Substitution of Sums) Order 1995 ([S.I. 1995/2696](https://www.legislation.gov.uk/uksi/1995/2696)) and by the Charities Act [2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), Schedule 8, paragraph 133. Section 44 was amended by the Charities Act 2006, Schedule 8, paragraphs 96 and 137. Section 45 was amended by the Deregulation and Contracting Out Act 1994, section 29, the Companies Act 1985 (Audit Exemption) Regulations 1994 ([S.I. 1994/1935](https://www.legislation.gov.uk/uksi/1994/1935)), the Regulatory Reform (National Health Service Charitable and Non-charitable Trust Accounts and Audit) Order 2005 and the Charities Act 2006, Schedule 7 and Schedule 8, paragraphs 96 and 138. The amendments made to section 45 by Schedule 7 to the Charities Act 2006 are not yet in force. Sections 43 to 47 of and Schedule 5A to the 1993 Act were also amended by the Charities Act 2006 (Charitable Companies Audit and Group Accounts) Order 2008 ([S.I. 2008/527](https://www.legislation.gov.uk/uksi/2008/527)). The amendments made by that Order have effect in relation to financial years of charities beginning on or after 1st April 2008. Section 86 was amended by the Trustee Act [2000 (c. 29)](https://www.legislation.gov.uk/ukpga/2000/29), Schedule 2, paragraph 2 and Schedule 4, the Charities and Trustee Investment (Scotland) Act [2005 (asp. 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 3, paragraph 9, and the Charities Act [2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), Schedule 7, paragraph 6 and Schedule 8, paragraph 165. The amendments made by Schedule 7 of the 2006 Act are not yet in force. The functions exercisable by the Secretary of State under sections 43 to 45 of the Charities Act 1993 were transferred to the Minister for the Cabinet Office by the Transfer of Functions (Third Sector, Communities and Equality) Order 2006 ([S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951)).
 
+[^c-b0ca372d49760afc8c4cca717a0105f5]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-a2f213b10d56a980cf8c9b8dd680bcc6]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
 [^f00002]: Footnote: [1960 c. 58](https://www.legislation.gov.uk/ukpga/1960/58). The 1960 Act was repealed in part by the Charities Act [1993 (c. 10)](https://www.legislation.gov.uk/ukpga/1993/10). The provisions remaining in force are repealed by the Charities Act 2006, Schedule 9. The relevant entry in Schedule 9 to the 2006 Act has not yet been commenced.
 
 [^f00003]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
@@ -1495,10 +1503,124 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00011]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
+[^c-7b423aeb5a79f60f64250152380348d0]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-33a4420d8f0d0f4e64787454d9d1f038]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-283b3432734e7f1deef831ebb16d4190]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-3991b284e7d6351aed659b1f7805295a]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-1820cd7f605cea0c3f10d49d59f8cdd5]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-d4a27a3dd479fa1cb3fe76858d5aacc9]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-197a976c9ee1e532193c2d46473fb5bf]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-5a09e4f1668b949d8017e96ab82a0b82]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-fa6cc302f2c695e1b021f57075ceb2ae]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-269090c69e36bcfc9d8311a3d6540ef6]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-17b38b729935f432ae8087ed44cfe0e5]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-38cb6f7cc55777b1e299d8bc27e385ef]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-74718f5af041d5f886ff6970de7f45e3]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-37f4e6fbd51373746416d2c0185f2d0d]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
 [^f00012]: Footnote: The Accounting Standards Board was established under the articles of association of The Accounting Standards Board Limited.
+
+[^c-fda12c6e869458df54e02437a13c9456]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-f4b46359ca860560d9772d2ea0888d3f]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-e2aefda19c7eee9ad6fd2be4a662556a]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-d48972cc29ddecd5f5fe2efbffaf531e]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-5c408eb3088e435a8fe34d1d47439d37]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-f4da6d60913937b6352e6c72482a776f]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-10168ef1edf0096245797efca42ba08c]: Commencement: Reg. 23 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-8a119e262abd6dcdbba1288862bfd30b]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-3b1ab0481b13e988720ba99394559ca7]: Commencement: Reg. 25 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-7064ec3e19f9dbf12d4b6c70c5827518]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-86bd9eb02862269b02df79e3f27cc071]: Commencement: Reg. 27 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-387835217331a9792b3a50e76b56772b]: Commencement: Reg. 28 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-ba94d13d66ea55f37c4ef76449ae729f]: Commencement: Reg. 29 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-50ff782a69e55835a60dbe049aeed811]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-a67ee469393bbeea92a55a280b1cc620]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-169df2acbf59871bcf6880b9430e1f65]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-f984da5bacdbee7eea1edba5467d8f75]: Commencement: Reg. 33 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-7a7bd291a0fce2f9d013c5b662836d65]: Commencement: Reg. 34 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-25112b6bd349399c56ac659bff0201dd]: Commencement: Reg. 35 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-9e74b3e49e4b3a8f30a0ac2206c31f2b]: Commencement: Reg. 36 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-738d94523f8c6b666e8affb005db7372]: Commencement: Reg. 37 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-1b5f4d54ce83779a5acd4fd584c9ae1d]: Commencement: Reg. 38 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-ef15374563d07dcf68f4b0ff1cf55368]: Commencement: Reg. 39 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-ae84a9bcad53bf25a968fceb755269e3]: Commencement: Reg. 40 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-fa0343376d405c501d510fbf712aa790]: Commencement: Reg. 41 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-38e24ecc778434b0c5a8835850bb2dfc]: Commencement: Sch. 1 para. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-91029026732ce4c41d9ca405d2abce27]: Commencement: Sch. 1 para. 2 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-bc149c9ba732efa08aad18d8458bc9ed]: Commencement: Sch. 1 para. 3 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-d777d314fbc7d9455343834ca93a3507]: Commencement: Sch. 1 para. 4 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-8e913e8ec16ae3c13e52da69e8918568]: Commencement: Sch. 1 para. 5 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-37f6d59c19127a72feb475a6f6577a94]: Commencement: Sch. 1 para. 6 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-738ce431b5127e1bb70fc76bca837ae1]: Commencement: Sch. 1 para. 7 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-a9feada066cd4efb471e10e27d442581]: Commencement: Sch. 1 para. 8 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-5c0a4437606e4f286c6c9086eecf0c38]: Commencement: Sch. 1 para. 9 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-ed81eb05847ba5ebc087b2b0d5dda4ce]: Commencement: Sch. 1 para. 10 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-40d882509cce85db370e1e03365027e1]: Commencement: Sch. 1 para. 11 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-72e14861806b16a73687bab9ef5fce02]: Commencement: Sch. 1 para. 12 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-c0a7320f96100e1eb01cd68ef9f1a02e]: Commencement: Sch. 1 para. 13 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-7020238f3c9094a4281a24ae497568e4]: Commencement: Sch. 1 para. 14 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-ca1c2d62749d47b2d16aa7045371c9e5]: Commencement: Sch. 1 para. 15 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-2da4f25a5816b5c9f40315156f3e9ab2]: Commencement: Sch. 1 para. 16 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
+
+[^c-1c615a7de8aa46a626a2ddfe9d5b4114]: Commencement: Sch. 1 para. 17 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)
 
 [^f00013]: Footnote: Copies of the IMA SORP are available from the Investment Management Association, 65 Kingsway, London WC2B 6TD.
 
 [^f00014]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3). Section 1005 of the Income Tax Act 2007 was amended by paragraph 1 of Schedule 26 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
 [^f00015]: Footnote: [1992 c. 41](https://www.legislation.gov.uk/ukpga/1992/41).
+
+[^c-a31d95baf9d7d5b68ad1975848a8a0c9]: Commencement: Sch. 2 para. 1 in force at 1.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/629/regulation/1)

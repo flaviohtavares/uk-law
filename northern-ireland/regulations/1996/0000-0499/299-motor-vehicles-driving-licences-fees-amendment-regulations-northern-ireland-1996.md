@@ -3,14 +3,14 @@ title: Motor Vehicles (Driving Licences) (Fees) (Amendment) Regulations (Norther
 id: nisr/1996/299
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-17'
-text_date: null
-extent: null
+text_date: '1996-07-17'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/299
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/299/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/299/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Motor Vehicles (Driving Licences) (Fees) (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 1996-07-17. See https://www.legislation.gov.uk/changes/affected/nisr/1996/299
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 299
 
@@ -36,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 13(1), 19C(1) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, and in accordance with Article 19C(3) of that Order with the approval of the Department of Finance and Personnel, hereby makes the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-44c295a5b8c3ee6cbf2504aedb9d0980]
 
 These Regulations may be cited as the Motor Vehicles (Driving Licences) (Fees) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 2nd September 1996.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994[^c-2b11fded13676286117f1b23000b01be]
 
 For Schedule 1 to the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1994[^f00002] there shall be substituted—
 
@@ -95,6 +101,10 @@ The fee for the grant of a licence to a person suffering from a relevant or pros
 ## Annotations
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department” and “prescribed”; Articles 13 and 19C were substituted by S.I. [1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197) Sch. 1
+
+[^c-44c295a5b8c3ee6cbf2504aedb9d0980]: Commencement: Reg. 1 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/299/regulation/1)
+
+[^c-2b11fded13676286117f1b23000b01be]: Commencement: Reg. 2 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/299/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1994 No. 365](https://www.legislation.gov.uk/nisr/1994/365); to which there are amendments not relevant to these Regulations
 

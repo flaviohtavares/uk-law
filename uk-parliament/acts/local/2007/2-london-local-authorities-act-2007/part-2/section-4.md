@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 4
 act: London Local Authorities Act 2007
 section: '4'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 4. Interpretation of Part 2
+## 4. Interpretation of Part 2[^c-a4b5890287742cda3a5d0b4a461d1aca]
+
+*Extent: E+W*
 
 In this Part of this Act—
 
@@ -45,3 +49,7 @@ In this Part of this Act—
   - (a) under section 224(3) of the Planning Act;
   - (b) committed in Greater London by a person who is deemed to display an advertisement for the purposes of that subsection by virtue of section 224(3)(b) of the Planning Act; and
   - (c) which is committed in respect of the display of a shroud advertisement.
+
+## Annotations
+
+[^c-a4b5890287742cda3a5d0b4a461d1aca]: Commencement: [S. 4](https://www.legislation.gov.uk/ukla/2007/2/section/4) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

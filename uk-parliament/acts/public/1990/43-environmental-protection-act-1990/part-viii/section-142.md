@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales; Scotland, Northern Ireland (the versions of this text differ in extent).
 
-## 142. Powers to obtain information about potentially hazardous substances.[^c20958831]
+## 142. Powers to obtain information about potentially hazardous substances.[^c20958831][^c13739731]
 
 *Extent: E+W*
 
@@ -113,6 +113,8 @@ and a substance is a regulated substance for the purposes of any such enactment 
 ## Annotations
 
 [^c20958831]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland and Northern Ireland only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-b4f2a5396328431bf13a4ba13cfb8e67]: Textual amendment: Words in [s. 142(2)(a)](https://www.legislation.gov.uk/ukpga/1990/43/section/142/2/a) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/458/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 

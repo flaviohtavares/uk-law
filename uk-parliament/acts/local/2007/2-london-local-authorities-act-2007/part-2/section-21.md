@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 21
 act: London Local Authorities Act 2007
 section: '21'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 21. Placing of receptacles for commercial or industrial waste
+## 21. Placing of receptacles for commercial or industrial waste[^c-797ff2c6d07cf1217b112ac570ec2c6a]
+
+*Extent: E+W*
 
 (1) Section 47 of the 1990 Act (receptacles for commercial or industrial waste) shall apply in the area of a borough council as if, in subsection (4), the following paragraph were inserted after paragraph (b)—
 
@@ -36,3 +40,7 @@ summary: ''
 
 - “operational land” has the same meaning as in the Planning Act; and
 - “statutory undertaker” has the same meaning as in section 262(1) of that Act.
+
+## Annotations
+
+[^c-797ff2c6d07cf1217b112ac570ec2c6a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukla/2007/2/section/21) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

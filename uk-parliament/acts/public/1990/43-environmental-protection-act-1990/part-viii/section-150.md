@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
-## 150. Delivery of stray dogs to . . . local authority officer.[^c13748411][^M_E_e86405e1-36ab-493f-9d96-318b911d3bd8][^c18996351]
+## 150. Delivery of stray dogs to . . . local authority officer.[^c13748411][^M_E_e86405e1-36ab-493f-9d96-318b911d3bd8][^c13739731][^c18996351]
 
 *Extent: E+W*
 
@@ -77,6 +77,8 @@ summary: ''
 [^c13748411]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/1990/43/section/150) wholly in force; [s. 150](https://www.legislation.gov.uk/ukpga/1990/43/section/150) not in force at Royal Assent see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3); [s. 150](https://www.legislation.gov.uk/ukpga/1990/43/section/150) in force for certain purposes at 14.2.1992 see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3) and [S.I. 1992/266](https://www.legislation.gov.uk/uksi/1992/266), [art. 2](https://www.legislation.gov.uk/uksi/1992/266/article/2); [s. 150](https://www.legislation.gov.uk/ukpga/1990/43/section/150) in force in so far as not then already in force at 1.4.1992 see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3) and [S.I. 1992/266](https://www.legislation.gov.uk/uksi/1992/266), [art. 3](https://www.legislation.gov.uk/uksi/1992/266/article/3).
 
 [^M_E_e86405e1-36ab-493f-9d96-318b911d3bd8]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c18996351]: Textual amendment: Words in [s. 150](https://www.legislation.gov.uk/ukpga/1990/43/section/150) heading repealed (E.W.) (6.4.2008) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 68(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/68/4), [107](https://www.legislation.gov.uk/ukpga/2005/16/section/107), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108), [Sch. 5 Pt. 6](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/6); [S.I. 2008/956](https://www.legislation.gov.uk/uksi/2008/956), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/956/article/2/b)
 

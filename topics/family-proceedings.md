@@ -304,7 +304,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [The Children (Allocation of Proceedings) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/300-the-children-allocation-of-proceedings-order-northern-ireland-1996.md) *(as originally made)*
+- [The Children (Allocation of Proceedings) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/300-the-children-allocation-of-proceedings-order-northern-ireland-1996.md) *(changes pending)*
 - [The Family Proceedings (Amendment) Rules 1996](../uk-parliament/regulations/1996/0500-0999/816-the-family-proceedings-amendment-rules-1996.md) *(as originally made)*
 - [The Family Proceedings Fees (Amendment) Order 1996](../uk-parliament/regulations/1996/3000-3499/3190-the-family-proceedings-fees-amendment-order-1996.md) *(as originally made)*
 - [The Family Proceedings Fees Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/495-the-family-proceedings-fees-order-northern-ireland-1996.md) *(as originally made)*

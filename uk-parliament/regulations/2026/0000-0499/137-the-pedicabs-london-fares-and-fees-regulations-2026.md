@@ -3,15 +3,15 @@ title: The Pedicabs (London) (Fares and Fees) Regulations 2026
 id: uksi/2026/137
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2026-02-25'
-text_date: '2026-10-27'
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2026/137
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/137/pdfs/uksi_20260137_en.pdf
 - http://www.legislation.gov.uk/uksi/2026/137/data.pdf
-pending_changes: 10
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Pedicabs (London) (Fares and Fees) Regulations 2026
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2026-10-27. See https://www.legislation.gov.uk/changes/affected/uksi/2026/137
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales.
 
@@ -65,9 +65,9 @@ In these Regulations—
 
 ## PART 2 — FARES
 
-**Not yet in force.**
+### 3. Fares for a pedicab journey
 
-### 3. Fares for a pedicab journey[^c-52777342fd4bab01a8a06aaaa598a8b1]
+**Not yet in force.**
 
 (1) Subject to regulation 4, the fare payable by a person for a journey of a pedicab is as set out in this Regulation.
 
@@ -92,7 +92,9 @@ In these Regulations—
 
 (6) For the purposes of subparagraph (5)(b)(ii)(bb), ‘exceptional circumstances’ means a medical emergency, safety or road traffic conditions.
 
-### 4. Fixed fare for a pedicab journey[^c-bfb4f2ac5a8bd8d5f89e70b1a050f7d6]
+### 4. Fixed fare for a pedicab journey
+
+**Not yet in force.**
 
 (1) A driver or operator may charge a fixed fare for a journey of a pedicab in accordance with this regulation and regulation 3 does not apply when the driver or operator agrees to carry the passenger or passengers in accordance with this regulation.
 
@@ -100,7 +102,9 @@ In these Regulations—
 
 (3) A fixed fare under this regulation must be lower than the fare which may be charged under regulation 3.
 
-### 5. Fares for additional services[^c-c327269a3bd2cb4a74579bd8ec28f891]
+### 5. Fares for additional services
+
+**Not yet in force.**
 
 (1) In addition to the fare payable by a person for a journey of pedicab under regulation 3 or 4, an operator may charge a person fees in respect of additional services which may be provided in connection with the journey.
 
@@ -126,7 +130,9 @@ A driver must only use an electronic card payment device of a type which has bee
 
 A pedicab driver who fails to comply with the requirements of regulations 6 and 7 is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 9. Offence for demanding or taking more than permitted fare[^c-364daeba57c4b6b9c23e3f4ba92086a4]
+### 9. Offence for demanding or taking more than permitted fare
+
+**Not yet in force.**
 
 A pedicab driver or pedicab operator who demands or takes more than the fare permitted or agreed in relation to a journey under regulation 3 or agreed for a journey under regulation 4, or who charges more than a fee agreed under regulation 5, is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
@@ -278,25 +284,17 @@ Regulation 12 with the Schedule provides for the fees which TfL may charge in co
 
 [^f00004]: Footnote: [S.I. 2026/136](https://www.legislation.gov.uk/uksi/2026/136).
 
-[^c-52777342fd4bab01a8a06aaaa598a8b1]: Commencement: Reg. 3 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+[^c-a1949b609bf0ab7f20c1926ae867018f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2026/137/regulation/6) in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
 
-[^c-bfb4f2ac5a8bd8d5f89e70b1a050f7d6]: Commencement: Reg. 4 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+[^c-f53c03b8212f377d1f5d54f4a24ceab8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2026/137/regulation/7) in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
 
-[^c-c327269a3bd2cb4a74579bd8ec28f891]: Commencement: Reg. 5 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+[^c-962689b7ba296fc910b93fed0774f4c0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2026/137/regulation/8) in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
 
-[^c-a1949b609bf0ab7f20c1926ae867018f]: Commencement: Reg. 6 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+[^c-c19d34541a9fa3ae2c9ed326d0a41730]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2026/137/regulation/10) in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
 
-[^c-f53c03b8212f377d1f5d54f4a24ceab8]: Commencement: Reg. 7 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+[^c-5f0b12e200c84fd975d409a63b78f764]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2026/137/regulation/11) in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
 
-[^c-962689b7ba296fc910b93fed0774f4c0]: Commencement: Reg. 8 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
-
-[^c-364daeba57c4b6b9c23e3f4ba92086a4]: Commencement: Reg. 9 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
-
-[^c-c19d34541a9fa3ae2c9ed326d0a41730]: Commencement: Reg. 10 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
-
-[^c-5f0b12e200c84fd975d409a63b78f764]: Commencement: Reg. 11 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
-
-[^c-16759d902d23d7f56815f0728ccb44ee]: Commencement: Reg. 12 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
+[^c-16759d902d23d7f56815f0728ccb44ee]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2026/137/regulation/12) in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/b)
 
 [^c-a2b0b849d0cb1b742ebb0f48f2863f48]: Commencement: Reg. 13 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/137/regulation/1/2/a)
 

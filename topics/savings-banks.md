@@ -6,16 +6,15 @@ Laws in force under the legislation.gov.uk subject heading **SAVINGS BANKS**. Re
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [National Savings Bank Act 1971](../uk-parliament/acts/public/1971/29-national-savings-bank-act-1971.md) — 39 regulations on this topic made under it
+- [National Savings Bank Act 1971](../uk-parliament/acts/public/1971/29-national-savings-bank-act-1971.md) — 38 regulations on this topic made under it
 - [Trustee Savings Banks Act 1985](../uk-parliament/acts/public/1985/58-trustee-savings-banks-act-1985.md) — 8 regulations on this topic made under it
 
 ## Regulations
 
-53 in force.
+52 in force.
 
 **2008**
 
-- [The National Savings Bank (Amendment) (No. 3) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1164-the-national-savings-bank-amendment-no-3-regulations-2008.md) *(changes pending)*
 - [The National Savings Bank (Amendment) (No. 4) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3098-the-national-savings-bank-amendment-no-4-regulations-2008.md) *(as originally made)*
 
 **2007**

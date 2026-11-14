@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Power of court to order cause of offence to be remedied.[^c13747271]
+## 120. Power of court to order cause of offence to be remedied.[^c13747271][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,3 +29,5 @@ summary: ''
 ## Annotations
 
 [^c13747271]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/1990/43/section/120) wholly in force at 1.2.1993 see. [s. 1674(2)(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/1674/2/3) and [S.I. 1992/3253](https://www.legislation.gov.uk/uksi/1992/3253), [art. 3](https://www.legislation.gov.uk/uksi/1992/3253/article/3)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

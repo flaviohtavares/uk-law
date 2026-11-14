@@ -232,7 +232,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Seeds (Fees) (No. 2) Regulations (Northern Ireland) 2002](../northern-ireland/regulations/2002/0000-0499/407-seeds-fees-no-2-regulations-northern-ireland-2002.md)
 - [Seeds (Fees) Regulations (Northern Ireland) 2002](../northern-ireland/regulations/2002/0000-0499/257-seeds-fees-regulations-northern-ireland-2002.md) *(as originally made)*
 - [The Forest Reproductive Material (Great Britain) Regulations 2002](../uk-parliament/regulations/2002/3000-3499/3026-the-forest-reproductive-material-great-britain-regulations-2002.md)
-- [The Forest Reproductive Material Regulations (Northern Ireland) 2002](../northern-ireland/regulations/2002/0000-0499/404-the-forest-reproductive-material-regulations-northern-ireland-2002.md) *(changes pending)*
+- [The Forest Reproductive Material Regulations (Northern Ireland) 2002](../northern-ireland/regulations/2002/0000-0499/404-the-forest-reproductive-material-regulations-northern-ireland-2002.md)
 - [The Plant Varieties and Seeds Tribunal (Amendment) (England and Wales) Rules 2002](../uk-parliament/regulations/2002/3000-3499/3198-the-plant-varieties-and-seeds-tribunal-amendment-england-and-wales-rules-2002.md)
 - [The Seed (Registration, Licensing and Enforcement) (England) Regulations 2002](../uk-parliament/regulations/2002/3000-3499/3176-the-seed-registration-licensing-and-enforcement-england-regulations-2002/README.md) *(as originally made)*
 - [The Seeds (Fees) (Amendment) (England) Regulations 2002](../uk-parliament/regulations/2002/1500-1999/1563-the-seeds-fees-amendment-england-regulations-2002.md) *(as originally made)*

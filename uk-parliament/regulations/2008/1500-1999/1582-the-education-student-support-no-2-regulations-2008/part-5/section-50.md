@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 50
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '50'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,18 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 50
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Qualifying conditions for the grant for travel – courses in medicine and dentistry[^c-9fa0fca42ad5a4282b7f16831aaee981]
+## 50. Qualifying conditions for the grant for travel – courses in medicine and dentistry[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-A grant is available to an eligible student attending a course in medicine or dentistry (a necessary part of which is a period of study by way of clinical training) in respect of the reasonable expenditure which the student is obliged to incur in an academic year for the purpose of attending in connection with the student’s course any hospital or other premises in the United Kingdom (not comprised in the institution) at which facilities for clinical training are provided other than expenditure incurred for the purpose of residential study away from the institution.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-9fa0fca42ad5a4282b7f16831aaee981]: Commencement: Reg. 50 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -3,14 +3,14 @@ title: Students Awards (No. 2) Regulations (Northern Ireland) 1996
 id: nisr/1996/298
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-10'
-text_date: null
-extent: null
+text_date: '1996-07-10'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/298
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/298/made/data.pdf
-pending_changes: 10
+- http://www.legislation.gov.uk/nisr/1996/298/data.pdf
+pending_changes: 82
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Students Awards (No. 2) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (82).** Text as at 1996-07-10. See https://www.legislation.gov.uk/changes/affected/nisr/1996/298
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 298
 
@@ -38,15 +44,15 @@ The Department of Education, in exercise of the powers conferred on it by Articl
 
 ## Part I — General
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-f8a70283f52e896268a8d4a0628ae72c]
 
 These Regulations may be cited as the Students Awards (No. 2) Regulations (Northern Ireland) 1996 and shall come into operation on 1st September 1996.
 
-### 2. Revocation
+### 2. Revocation[^c-62edd729fd331d8cfd83f7873f43de17]
 
 The Students Awards Regulations (Northern Ireland) 1996[^f00003] are hereby revoked.
 
-### 3. Interpretation
+### 3. Interpretation[^c-91d5d591d1e334452b206d6845e16d05]
 
 (1) In these Regulations—
 
@@ -146,17 +152,17 @@ The Students Awards Regulations (Northern Ireland) 1996[^f00003] are hereby revo
 
 (4) In paragraph (3) a reference to a person registered or available for employment is a reference to his being so registered or available for the purposes of section 123(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-### 4. Calculation of Income
+### 4. Calculation of Income[^c-410c74a141bbc6f91874081874547720]
 
 In calculating a person’s income for any year, any reduction for income tax is to be made by calculating the tax payable on the income received in that year as if the year were a year of assessment within the meaning of the Income Tax Acts (the necessary apportionment being made in any case where the relevant provisions of those Acts change during the year).
 
-### 5. Termination of marriage
+### 5. Termination of marriage[^c-d0f4a6634087f15bb2ea67ea83c058d6]
 
 A person’s marriage is to be treated as having been terminated not only by the death of the other spouse or the annulment or dissolution of the marriage by an order of a court of competent jurisdiction but also by virtue of the parties to the marriage ceasing ordinarily to live together, whether or not an order for their separation has been made by any court.
 
 ## Part II — Awards
 
-### 6. Specified persons
+### 6. Specified persons[^c-f97a8fada1d6847aa923f56d4b8bb989]
 
 (1) Persons described in Part I of Schedule 2, with the exception of persons described in Part II of that Schedule, are, subject to paragraph (2), specified by the Department for the purposes of Article 50(1).
 
@@ -165,7 +171,7 @@ A person’s marriage is to be treated as having been terminated not only by the
 - (a) the board in the area of which the person was last resident during the period of 2 years preceding the relevant day;
 - (b) if sub-paragraph (*a*) does not apply, the board in the area of which the institution providing the person’s course is situate.
 
-### 7. Ordinarily resident
+### 7. Ordinarily resident[^c-ab031e253d6fccd0d1b7250f78999319]
 
 (1) If a board is satisfied that a person was not ordinarily resident in the British Islands, or in the European Economic Area, throughout the 3 years immediately preceding the first year of the specified course or was not resident in a board’s area on the relevant day only because that person, his spouse, parent, guardian, any other person having parental responsibility for him, or any person having care of him while he is a child, is, or was, at the relevant time, employed temporarily outside the British Islands, or, as the case may be, outside the European Economic Area, then, for the purposes of paragraph 1(*b*) of Schedule 2, that person shall not be regarded as having ceased to be so resident only because of his absence from the British Islands or the European Economic Area or the board’s area in consequence of such employment and paragraph (2) shall not apply in the case of such a person.
 
@@ -188,7 +194,7 @@ A person’s marriage is to be treated as having been terminated not only by the
 
 (6) In paragraph (5) “parent” includes a guardian, any other person having parental responsibility for a child and any person having care of a child.
 
-### 8. Transitional provisions
+### 8. Transitional provisions[^c-6b8063e1f926bc793044c4ddd46e5e0d]
 
 (1) Without prejudice to section 29(3)(*a*) of the Interpretation Act (Northern Ireland) 1954[^f00025] and to the definition of “award”, an award made in pursuance of the Regulations revoked by regulation 2 before the coming into operation of these Regulations, insofar as it could have been made in pursuance of these Regulations, shall for the purposes thereof, be treated as having been so made.
 
@@ -196,7 +202,7 @@ A person’s marriage is to be treated as having been terminated not only by the
 
 (3) Where, before the coming into operation of these Regulations, a student has commenced a course (“the new course”) which is either a course provided by the University of Buckingham for a first degree of that University, a course for the Diploma of Higher Education, or a course for the Higher Diploma and has had made to him under previous awards regulations an award, having previously attended one or more courses of higher education the aggregate of which did not exceed 2 academic years then, notwithstanding any other provisions of these Regulations, payments shall be made in accordance with these Regulations in respect of his attendance at the new course.
 
-### 9. Previous attendance at a course
+### 9. Previous attendance at a course[^c-e03b1228d5661802dff647af3ed3890d]
 
 (1) For the purposes of regulation 19(2) and (5) and paragraphs 1(*d*), 2(*b*) and (*c*) and 3 of Schedule 2—
 
@@ -223,11 +229,11 @@ unless that person has;
 
 (4) Nothing in paragraph (1) shall affect the duty of the board to make an award to a person in respect of his attendance at any full-time course of initial training as a teacher of one academic year’s duration, or a comparable part-time course, not within paragraph (2), unless he has for more than three years held a statutory award in respect of his attendance at a full-time course of higher education or comparable course outside Northern Ireland;
 
-### 10. Specified educational facilities
+### 10. Specified educational facilities[^c-002f5c88620dd2569017cd78f9c39820]
 
 The courses listed in Schedule 3 are specified as educational facilities for the purposes of Article 50(1).
 
-### 11. Terms and Conditions
+### 11. Terms and Conditions[^c-8f0c82e51f0fc6f6f41cfcc5c08528eb]
 
 (1) Awards to be made by boards shall be subject to the terms and conditions set out in Schedule 4.
 
@@ -240,7 +246,7 @@ The courses listed in Schedule 3 are specified as educational facilities for the
 
 ## Part III — Amount of Awards
 
-### 12. Payments by boards
+### 12. Payments by boards[^c-6c55fed97ace91d356e1cf7f5b70a62d]
 
 (1) Subject to paragraphs (2) and (3) and regulations 11, 16, 17, 19 and 20 and paragraph 4 of Schedule 4, the board shall in respect of each year pay in pursuance of an award—
 
@@ -275,7 +281,7 @@ it shall deduct from the sums and grant payable in respect of that year in pursu
 - (a) three-quarters, one-half or one-quarter (as the case may be) of the payments which would have fallen to be made in respect of that year under the Regulations referred to in regulation 2 had they not been revoked; and
 - (b) one-quarter, one-half or three-quarters (as the case may be) of the payments which would have fallen to be made in respect of the year beginning on 1st September 1996 under these Regulations had the academic year of the course begun in the autumn of 1996.
 
-### 13. Calculation of maintenance grant
+### 13. Calculation of maintenance grant[^c-c21d6b65cce7cb8d20e8ddbf4d379d7a]
 
 (1) The maintenance grant in respect of any year shall be the amount by which the student’s resources fall short of his requirements and for the purpose of ascertaining that amount—
 
@@ -291,11 +297,11 @@ it shall deduct from the sums and grant payable in respect of that year in pursu
 - (a) in the case of such a student as is mentioned in Schedule 9, subject to the provisions thereof;
 - (b) where regulation 15 applies, subject as therein provided.
 
-### 14. Assessment of requirements and resources
+### 14. Assessment of requirements and resources[^c-1c1662d0d705dc991ee784b937c9ce27]
 
 The requirements and resources of a student shall be assessed by the board, and for the purpose of the exercise of its functions under this regulation, the board shall require the student to provide from time to time such information as it considers necessary as to the resources of any person whose means are relevant to the assessment of his requirements and resources.
 
-### 15. Sandwich courses
+### 15. Sandwich courses[^c-d3dd01deae0425375df6ced6d460a049]
 
 (1) This regulation shall apply where the course is a sandwich course.
 
@@ -303,7 +309,7 @@ The requirements and resources of a student shall be assessed by the board, and 
 
 (3) No payment in respect of maintenance under regulation 12(1)(*b*) shall be made in respect of a year in which there are no periods of full-time study.
 
-### 16. Courses of teacher training
+### 16. Courses of teacher training[^c-2cd8fa0cc90674073534b84645741a61]
 
 (1) This regulation shall apply—
 
@@ -329,7 +335,7 @@ The requirements and resources of a student shall be assessed by the board, and 
 
 (6) For the purposes of this regulation a day shall be reckoned as a seventh of a week.
 
-### 17. Assisted students
+### 17. Assisted students[^c-a92bae67aee962b8afa589e82597f372]
 
 (1) Notwithstanding anything in the preceding provisions of these Regulations, no payment under regulation 12(1)(*a*) or (*b*) shall be made to a person in respect of any year in respect of which he receives such payments as are mentioned in paragraph (2) amounting to not less than the aggregate of—
 
@@ -346,7 +352,7 @@ The requirements and resources of a student shall be assessed by the board, and 
 
 except that, if the person’s course is a part-time course of teacher training described in paragraph (*c*) in the definition of “course of initial teacher training” in regulation 3(1) and some or all of his periods of study are periods of part-time study, any payments by way of remuneration shall be disregarded.
 
-### 18. Method of payment
+### 18. Method of payment[^c-1562e4020987022739594f49bdfec734]
 
 (1) Subject to paragraph (2), the board shall make any payment due under these Regulations in such instalments (if any) and at such times as it considers appropriate; and in the exercise of its functions under this regulation the board may make provisional payments pending the final calculation of the award.
 
@@ -375,7 +381,7 @@ except that, if the person’s course is a part-time course of teacher training 
 
 (8) Without prejudice to regulation 20 or the recovery of an overpayment by way of a deduction from a subsequent payment, any overpayment or underpayment made in pursuance of this regulation shall be adjusted by payment between the student or, as the case may be, the academic authority and the board.
 
-### 19. Discretionary payments
+### 19. Discretionary payments[^c-fafcac65ac55c6081488b9f93eabc722]
 
 (1) In respect of any period during which the student repeats any part of his course, the board shall not be required to make any payments under regulation 12(1)(*a*) or (*b*) but may pay in pursuance of the award such amounts (if any) as it considers appropriate, being amounts not exceeding the amount of any payments that would, apart from this regulation, be payable to that student in respect of that period.
 
@@ -399,7 +405,7 @@ and holds an award made in respect of a course listed in paragraph 1, 2, or 5 of
 - (b) “the first two years of a course” means, in the case of a student who is excused from attending part of that course by reason of his attendance at a previous course, the two years of that course following upon the period in respect of which the student is excused from attending that course;
 - (c) “a person’s having attended a course” shall be construed as provided in regulation 9(1).
 
-### 20. Withholding and reduction of payments
+### 20. Withholding and reduction of payments[^c-a208ed54d2ba335600dd45b9ba06188a]
 
 (1) Without prejudice to paragraph 4(2) of Schedule 4 in the case of any student who is for the time being in default of any requirement to provide such information as is described in regulation 14, the board may withhold, in part, any payment due to him in respect of maintenance and calculated in accordance with regulation 13, 15 or 16.
 
@@ -426,7 +432,7 @@ the board may reduce any payment otherwise due in pursuance of the award by such
 
 (5) In determining the appropriate proportion under (4)(*b*) the board shall disregard the first 28 days of any period of absence due to illness.
 
-### 21. Saving
+### 21. Saving[^c-7c83cdbad2f4279a1c42b6690060acbf]
 
 In relation to a person who commenced attendance at an institution of higher education in the Republic of Ireland providing a full time course comparable to one listed in paragraph 1, 2, 3 or 4 of Schedule 3 before 10th July 1996 or could have commenced such attendance before that date but for choosing to defer such attendance, the following provisions of the Students Awards Regulations (Northern Ireland) 1996 shall continue to apply as if these Regulations had not been made—
 
@@ -445,11 +451,11 @@ Assistant Secretary
 
 Regulation 3(3)(*a*)
 
-**1.** The Training Opportunities Programme, the Youth Opportunities Programme, the Youth Training Scheme of the Manpower Services Commission or the Training Commission as the case may be or any scheme run by the Training and Enterprise Councils or the local Enterprise Companies.
+**1.**[^c-388a85ce48008056933a81f3dcde5056] The Training Opportunities Programme, the Youth Opportunities Programme, the Youth Training Scheme of the Manpower Services Commission or the Training Commission as the case may be or any scheme run by the Training and Enterprise Councils or the local Enterprise Companies.
 
-**2.** The Youth Training Programme of the Department of Economic Development.
+**2.**[^c-006fb4313a58fe83d7a349eee643376d] The Youth Training Programme of the Department of Economic Development.
 
-**3.** Other training programmes provided by the Department of Economic Development.
+**3.**[^c-07105fd87b3d0a7d748be1e634649df4] Other training programmes provided by the Department of Economic Development.
 
 ## SCHEDULE 2 — PERSONS
 
@@ -459,7 +465,7 @@ Regulations 6, 7, 9 and 11
 
 Regulations 6(1), 7 and 9
 
-**1.** A person—
+**1.**[^c-bf59a79a75743956fa57ae9edd403098] A person—
 
 - (a) who attends a specified course during an academic year beginning after 31st August 1996; and
 - (b) who has been—
@@ -472,33 +478,33 @@ Regulations 6(1), 7 and 9
 
 Regulations 6(1) and 9
 
-**2.** A person who—
+**2.**[^c-cd5d31e77f242172704c2cb1e0d5cf6d] A person who—
 
 - (a) has, in the opinion of the board, by his conduct shown himself unfitted to hold an award;
 - (b) has, subject to paragraph 1(*d*), regulation 8(3) and regulation 9(2), previously attended a first degree course;
 - (c) has previously attended one or more than one course of higher education and the aggregate duration of such course or courses which he has attended (excluding any periods of unpaid service or research or of practice undertaken as part of the student’s course of the kinds mentioned in paragraph (*a*) in the definition of “periods of experience” in regulation 3(1) and, in the case of a sandwich course, periods of experience), exceeds two academic years, unless the course which he previously attended or successfully completed was such as is mentioned in paragraph 1(*d*).
 
-**3.** Subject to regulation 8(3) the board shall not be under a duty to make an award to any person in respect of his attendance at any course for the Diploma of Higher Education or course for the Higher Diploma if he has previously attended any other course defined in regulation 3(1).
+**3.**[^c-e650f5e7e282a7f73ab3548afd6c25c1] Subject to regulation 8(3) the board shall not be under a duty to make an award to any person in respect of his attendance at any course for the Diploma of Higher Education or course for the Higher Diploma if he has previously attended any other course defined in regulation 3(1).
 
 ## SCHEDULE 3 — Specified courses
 
 Regulations 3(1), 10, 19(2), (3) and (4)
 
-### 1. A first degree course
+### 1. A first degree course[^c-fc61845ac60cb6352d136fd50ce6885a]
 
-### 2. A course for the postgraduate certificate in education
+### 2. A course for the postgraduate certificate in education[^c-363ac5ecee26059f6ebb3a7b63b5f915]
 
-### 3. A course for the Diploma of Higher Education
+### 3. A course for the Diploma of Higher Education[^c-ece1a1e281b4be08c4531fe453b6d98d]
 
-### 4. A course for the Higher Diploma
+### 4. A course for the Higher Diploma[^c-acde6df8ee4eac50fccb0f4578302cb1]
 
-### 5. A course comparable to a first degree course.
+### 5. A course comparable to a first degree course.[^c-6f0a7090c7f4678f8e098c1e3f21c37f]
 
 ## SCHEDULE 4 — Terms and conditions
 
 Regulations 11, 12(1) and (2), 20(1) and (3)(*b*)
 
-### 1. Transfer of awards
+### 1. Transfer of awards[^c-21ef0789f71a2dae694762c12aca10db]
 
 (1) An award shall be transferred by the Board at the request of the student so as to be held in respect of attendance at a course other than that in respect of which it is held where—
 
@@ -527,7 +533,7 @@ so, however, that where the student has pursued a part-time course, for the purp
 
 (5) For the purposes of the duty of a board to transfer an award in pursuance of sub-paragraph (1)(*c*) or (*d*) it shall be immaterial whether or not the two courses are provided by the same institution.
 
-### 2. Conditions relating to applications
+### 2. Conditions relating to applications[^c-8d99332c4247968b4d255c94642389e5]
 
 (1) Subject to sub-paragraphs (2) and (3) an award shall be subject to the conditions that—
 
@@ -545,7 +551,7 @@ so, however, that where the student has pursued a part-time course, for the purp
 
 (3) Where the applicant is a minor, any reference in sub-paragraph (1)(*b*) to the applicant shall be construed as including his parent.
 
-### 3. Termination and extension of awards
+### 3. Termination and extension of awards[^c-910e7a0e1d21a64522e5660357519b0f]
 
 (1) Subject to sub-paragraphs (2) to (4), an award shall terminate on the expiry of the period ordinarily required to complete the course in respect of which it is made or to which it is transferred in pursuance of paragraph 1(1).
 
@@ -563,7 +569,7 @@ so, however, that where the student has pursued a part-time course, for the purp
 - (a) abandoned the course in respect of which he holds the award and the award does not fall to be transferred in pursuance of paragraph 1(1); or
 - (b) shown himself by his conduct to be unfitted to hold an award.
 
-### 4. Supplementary provisions
+### 4. Supplementary provisions[^c-d3e5cd4662ee1165aab792bb2ed1e1be]
 
 (1) If, after consultation with the academic authority concerned, a board is of the opinion that the attendance, conduct or progress of a student in relation to a course is not satisfactory, it may suspend or terminate an award held by him in respect of that course, or withhold or reduce any payment normally due in respect of that award.
 
@@ -573,7 +579,7 @@ so, however, that where the student has pursued a part-time course, for the purp
 
 Paragraph 1(*d*) of Schedule 2
 
-### Part I — Colleges providing long-term residential courses of full-time education for adults
+### Part I — Colleges providing long-term residential courses of full-time education for adults[^c-eed5bd8f3609599a90bb64104802e8d1]
 
 - Coleg Harlech, Harlech
 - Co-operative College, Loughborough
@@ -585,7 +591,7 @@ Paragraph 1(*d*) of Schedule 2
 - Plater College, Oxford
 - Ruskin College, Oxford
 
-### Part II — Relevant institutions of higher education in the Republic of Ireland
+### Part II — Relevant institutions of higher education in the Republic of Ireland[^c-6ade51a1b14d47a92319e4ecfdde48ff]
 
 - All Hallows College, Drumcondra
 - Church of Ireland College of Education, Dublin
@@ -618,7 +624,7 @@ Paragraph 1(*d*) of Schedule 2
 - St Patrick’s College of Education, Drumcondra, Dublin
 - St Patrick’s College, Maynooth
 
-## SCHEDULE 6 — Fees
+## SCHEDULE 6 — Fees[^c-4124e2968ef01b6b96ebe36b87dd4e3f]
 
 Regulations 12(1)(*a*), 17(1)(*a*) and 18(2), (3) and (7)
 
@@ -653,7 +659,7 @@ Regulations 13(1)(*a*), 13(3), 15(2) and 17(1)(*b*)
 
 ### Part I — Ordinary maintenance
 
-**1.** (1) The requirements of the student referred to in regulation 13(1)(*a*) shall include his requirement for ordinary maintenance during—
+**1.**[^c-2f5e49695578c76c76688952627b5e93] (1) The requirements of the student referred to in regulation 13(1)(*a*) shall include his requirement for ordinary maintenance during—
 
 - (a) any period while he is attending the course; and
 - (b) the Christmas and Easter vacations;
@@ -662,7 +668,7 @@ and the amount of such requirement (“ordinary maintenance requirement”) shal
 
 (2) Where a student’s ordinary maintenance requirements are different in respect of different parts of a year, his ordinary maintenance requirement for that year shall be the aggregate of the proportionate parts of those differing requirements.
 
-**2.** (1) This paragraph shall apply in the case of—
+**2.**[^c-fd3a5a540b8da5d3274aa2b77bb1dd1e] (1) This paragraph shall apply in the case of—
 
 - (a) any student who does not reside at his parents' home; and
 - (b) any student residing at his parents' home whose parents by reason of age, incapacity or otherwise cannot reasonably be expected to support him and in respect of whom the board is satisfied that in all the circumstances the ordinary maintenance requirements specified herein would be appropriate.
@@ -676,18 +682,18 @@ and the amount of such requirement (“ordinary maintenance requirement”) shal
   - £2,200 if that country is a high-cost country; and
   - £1,710 in any other case.
 
-**3.** In the case of any other student the ordinary maintenance requirement shall be £1,400.
+**3.**[^c-498d1777bc1535bdd9e51b4e3b04184a] In the case of any other student the ordinary maintenance requirement shall be £1,400.
 
 ### Part II — Supplementary maintenance, etc.
 
-**4.** The requirements referred to in regulation 13(1)(*a*) shall include the student’s requirements—
+**4.**[^c-1f787c7407de691139a11c276def184c] The requirements referred to in regulation 13(1)(*a*) shall include the student’s requirements—
 
 - (a) for supplementary maintenance in the cases and for the periods mentioned in paragraphs 5 and 6; and
 - (b) in respect of such expenditure as is mentioned in paragraphs 7 to 10,
 
 and the amount of any such requirement (“supplementary requirement”) shall be determined in accordance with this Part.
 
-**5.** (1) This paragraph shall apply in the case of a student who having, in any academic year, attended his course—
+**5.**[^c-d52b20f5b1379ce1d5797c69cdb30abb] (1) This paragraph shall apply in the case of a student who having, in any academic year, attended his course—
 
 - (a) in the case of a course provided at the University of Oxford or the University of Cambridge, for a period of 25 weeks 3 days; or
 - (b) in the case of any other course, for a period of 30 weeks 3 days,
@@ -705,11 +711,11 @@ in that year attends a course so provided, for a further period (“the excess p
     - £75·60 if that country is a high-cost country; and
     - £58·90 in any other case.
 
-**6.** (1) This paragraph shall apply in the case of a student who attends at his course for a period of not less than 45 weeks in any continuous period of 52 weeks.
+**6.**[^c-c2bd40d3698d517849b2aee79437ad85] (1) This paragraph shall apply in the case of a student who attends at his course for a period of not less than 45 weeks in any continuous period of 52 weeks.
 
 (2) In respect of each aggregate period of a complete week for which he does not attend his course in the period of 52 weeks, the student’s supplementary requirement shall be determined in accordance with paragraph 5(2).
 
-**7.** (1) This paragraph shall apply in the case of a student who is obliged to incur expenditure—
+**7.**[^c-9b8613e28f72b686c0740452ac279f23] (1) This paragraph shall apply in the case of a student who is obliged to incur expenditure—
 
 - (a) within the United Kingdom for the purpose of attending the institution;
 - (b) within or outside the United Kingdom, for the purpose of attending as part of his course, any period of study at an overseas institution.
@@ -752,15 +758,15 @@ whichever is the less.
 
 (6) For the purposes of this paragraph a reference to expenditure incurred for the purpose of attending an institution, establishment or period of study includes expenditure incurred both before and after so attending.
 
-**8.** (1) This paragraph shall apply in the case of a student whose home is for the time being outside the United Kingdom and who incurs expenditure travelling between his home and the institution at the beginning and end of each period of study so appointed by that institution for instruction and study thereat.
+**8.**[^c-3853baadb073d2391ff1c03000cab0f5] (1) This paragraph shall apply in the case of a student whose home is for the time being outside the United Kingdom and who incurs expenditure travelling between his home and the institution at the beginning and end of each period of study so appointed by that institution for instruction and study thereat.
 
 (2) In determining the supplementary requirement of such a student under paragraph 7, the board shall treat such amount of the said expenditure as it considers appropriate (having regard to the extent of that requirement apart from this paragraph), not exceeding the amount the student was obliged to incur, as if it were part of the student’s total travel expenditure.
 
-**9.** (1) This paragraph shall apply in the case of a student who reasonably incurs any expenditure in insuring against liability for the cost of medical treatment provided outside the United Kingdom for any illness or bodily injury contracted or suffered during a period of study outside the United Kingdom.
+**9.**[^c-71c449abbe09b2552d85eac844301a70] (1) This paragraph shall apply in the case of a student who reasonably incurs any expenditure in insuring against liability for the cost of medical treatment provided outside the United Kingdom for any illness or bodily injury contracted or suffered during a period of study outside the United Kingdom.
 
 (2) The student’s supplementary requirement in respect of such expenditure shall be the amount reasonably incurred.
 
-**10.** (1) This paragraph shall apply in the case of a disabled student were the board is satisfied that, by reason of his disability, he is obliged to incur additional expenditure in respect of his attendance at the course, other than expenditure for a purpose specified in paragraph 7(1).
+**10.**[^c-40a8ed3b89a5f3f001dc285eae4c86a3] (1) This paragraph shall apply in the case of a disabled student were the board is satisfied that, by reason of his disability, he is obliged to incur additional expenditure in respect of his attendance at the course, other than expenditure for a purpose specified in paragraph 7(1).
 
 (2) The student’s supplementary requirement in respect of a non-medical personal helper shall be such amount as the board considers appropriate not exceeding £4,975.
 
@@ -770,11 +776,11 @@ whichever is the less.
 
 ### Part III — Maintenance of dependants
 
-**11.** (1) The requirements referred to in regulation 13(1)(*a*) shall include the student’s requirements for the maintenance of dependants during the year and the amount of any such requirement (“dependants' requirement”) shall be determined in accordance with this Part.
+**11.**[^c-ee23ff4ff98ed978330cde79f20dfd50] (1) The requirements referred to in regulation 13(1)(*a*) shall include the student’s requirements for the maintenance of dependants during the year and the amount of any such requirement (“dependants' requirement”) shall be determined in accordance with this Part.
 
 (2) Where a student’s requirements for the maintenance of dependants are different in respect of different parts of a year, his dependants' requirement for that year shall be the aggregate of the proportionate parts of those differing requirements.
 
-**12.** (1) In this Part—
+**12.**[^c-8a2f089b4c1c8a1637c8dcd133e92b19] (1) In this Part—
 
 - “adult dependant” means, in relation to a student, an adult person dependent on the student not being his child, his spouse or a person living with him as his spouse or his former spouse, subject however to sub-paragraphs (2) and (3);
 - “child” means, in relation to a student, includes a person adopted in pursuance of adoption proceedings, a step-child and any child for whom the student has parental responsibility and who is dependent on him;
@@ -803,7 +809,7 @@ whichever is the less.
   - (i) the child is the only or eldest child dependent on the student whose income exceeds by £840 or more the sum specified in paragraph 13(4)(*a*); or
   - (ii) the child’s income exceeds by £840 or more the sum specified in paragraph 13(4)(*b*) and applicable to his age.
 
-**13.** (1) This paragraph shall apply in the case of all students with dependants.
+**13.**[^c-d1b5268c7da4ee80a383feb5662ded89] (1) This paragraph shall apply in the case of all students with dependants.
 
 (2) Subject to paragraphs 14 and 15, the dependants requirement of the student shall be—
 
@@ -829,23 +835,23 @@ X – (Y – Z) where—
 
   except that the only or eldest dependent child shall be disregarded for the purposes hereof if the student has neither an adult dependant nor a spouse who is, or but for paragraph 12(2) would be, a dependant.
 
-**14.** (1) This paragraph shall apply in the case of a student with dependants who maintains a home for himself and a dependant at a place other than that at which he resides while attending the course.
+**14.**[^c-990e5d351ddd29666e42da4bd7ccdd2d] (1) This paragraph shall apply in the case of a student with dependants who maintains a home for himself and a dependant at a place other than that at which he resides while attending the course.
 
 (2) The student’s dependants requirement (determined in accordance with paragraph 13(2)(*a*) or (*b*)) shall be increased by £665.
 
-**15.** (1) This paragraph shall apply in the case of a student who maintains a dependant outside the United Kingdom.
+**15.**[^c-e536a6cc3582752ca4f844ced7eee553] (1) This paragraph shall apply in the case of a student who maintains a dependant outside the United Kingdom.
 
 (2) Notwithstanding anything in the foregoing paragraphs of this Part, the student’s dependants requirement shall be such amount, if any, as the board considers reasonable in all the circumstances, not exceeding the amount determined in accordance with those paragraphs.
 
 ### Part IV — Older students
 
-**16.** This Part shall apply in the case of a student who attained the age of 26 years before the first year of the course in respect of which his award was originally made and who—
+**16.**[^c-6eb7a7425b454d5bd62748e55a9d6ba4] This Part shall apply in the case of a student who attained the age of 26 years before the first year of the course in respect of which his award was originally made and who—
 
 - (a) started the course before 1st September 1996 and in the three years immediately preceding the first year of the course earned or received by way of such unemployment benefit, or income support as is chargeable to income tax under section 617 or 151 respectively of the Income and Corporation Taxes Act 1988 sums totalling at least £12,000; or
 - (b) started the course before 1st September 1996, held an award in respect of his attendance at a previous course and had earned or received such sums as are mentioned at sub-paragraph (*a*) in the three years immediately preceding the first year of that previous course; or
 - (c) started the course on or after 1st September 1996, immediately before starting that course (disregarding any intervening vacation) attended a full-time course of further or higher education which he had started before 1st September 1996 and had earned or received such sums as are mentioned at sub-paragraph (*a*) in the three years immediately preceding the first year of that previous course.
 
-**17.** In relation to a student to whom this Part applies, the requirements referred to in regulation 13(1)(*a*) shall, in addition to the ordinary maintenance requirement, include where at the beginning of the first year of his course—
+**17.**[^c-075b8d84c835aec486b55a593c64f0b9] In relation to a student to whom this Part applies, the requirements referred to in regulation 13(1)(*a*) shall, in addition to the ordinary maintenance requirement, include where at the beginning of the first year of his course—
 
 - (a) he was aged 26 years, the sum of £320;
 - (b) he was so aged 27 years, the sum of £565;
@@ -854,12 +860,12 @@ X – (Y – Z) where—
 
 ### Part V — Interpretation of Parts I to IV
 
-**18.** In this Schedule—
+**18.**[^c-c2dbcbe495623887e4abc794c7b83df3] In this Schedule—
 
 - (a) a reference to the home of the student’s parents shall be construed, in the case of a student whose spouse attends a full-time course at any institution, as including a reference to the home of the parents of the student’s spouse; and
 - (b) a reference to a requirement, expenditure or attendance in respect of which no period of time is specified shall be construed as a reference to a requirement, expenditure or attendance for the year.
 
-**19.** (1) For the purposes of this Schedule, attendance at an institution or the undertaking of a period of study is a necessary part of a student’s course only where the board is satisfied that if the student did not attend the institution or undertake the period of study, he would not be eligible to complete his course and, for the purpose of being so satisfied, the board may require the matter to be evidenced by a certificate given by the academic authority.
+**19.**[^c-3f3e8d5b3fd314ad5b9eab240ac549a7] (1) For the purposes of this Schedule, attendance at an institution or the undertaking of a period of study is a necessary part of a student’s course only where the board is satisfied that if the student did not attend the institution or undertake the period of study, he would not be eligible to complete his course and, for the purpose of being so satisfied, the board may require the matter to be evidenced by a certificate given by the academic authority.
 
 (2) For the purposes of this paragraph, “institution” includes an “overseas institution”.
 
@@ -869,7 +875,7 @@ Regulations 13(1)(*b*), 13(3) and 15(2)
 
 ### Part I — Student’s income
 
-#### 1. Calculation of student’s income
+#### 1. Calculation of student’s income[^c-0b31fe0552dfd8639c0eeb16ca26b0ed]
 
 (1) In calculating the student’s income for the purposes of regulation 13(1)(*b*) there shall be taken into account his income (reduced by income tax and social security contributions) from all sources, but there shall be disregarded the following resources—
 
@@ -908,7 +914,7 @@ except that no deduction shall be made from the income of a married student wher
 
 ### Part II — Parental contribution
 
-#### 2. Interpretation of Part II
+#### 2. Interpretation of Part II[^c-98fc8c81bd7f5deaf461bc12c5543d29]
 
 (1) In this Part—
 
@@ -928,7 +934,7 @@ except that no deduction shall be made from the income of a married student wher
 - (b) the income does not arise in the United Kingdom; or
 - (c) the income arises from an office, service or employment, income from which is exempt from tax in pursuance of any statutory provision, his income for the purposes of this Part shall be computed as though the income first mentioned in this sub-paragraph were part of his total income.
 
-#### 3. Application of Part II
+#### 3. Application of Part II[^c-cd2256b6ea0a2f7f27a9535d4419cf76]
 
 A parental contribution ascertained in accordance with this Part shall be applicable in the case of every student except—
 
@@ -946,7 +952,7 @@ A parental contribution ascertained in accordance with this Part shall be applic
   - (ii) that it would not be reasonably practicable for those parents to send any such contribution to the United Kingdom;
 - (e) where sub-paragraph (7) of paragraph 5 applies and the parent whom the board considered the more appropriate for the purposes of that sub-paragraph has died.
 
-#### 4. Parental contribution
+#### 4. Parental contribution[^c-028f92040aa65a60a796593b33eb7bea]
 
 (1) The parental contribution shall, subject to sub-paragraphs (2), (3) and (4) be—
 
@@ -968,7 +974,7 @@ the parental contribution for the student shall be such proportion of any contri
 
 (4) Where in any year a student attends only part of his course the parental contribution for that year shall be reduced pro rata.
 
-#### 5. Gross income
+#### 5. Gross income[^c-0b0094bb55e3d434749f0ec332d0f634]
 
 (1) For the purposes of this paragraph, “preceding financial year” means the financial year immediately preceding the year in respect of which the resources of the student fall to be assessed (“assessment year”) and “current financial year” means the financial year which includes the first day of that assessment year;
 
@@ -1003,7 +1009,7 @@ the parental contribution shall—
 
 (9) Where the student has a parent and a step-parent, the parental contribution shall be ascertained by reference to the income of the parent.
 
-#### 6. Deductions
+#### 6. Deductions[^c-d587a8631879608bd2376ff1e88e31fa]
 
 (1) For the purposes of determining the income of a student’s parent (and, accordingly, the parent’s gross income), insofar as in computing his total income for income tax purposes any deductions fall to be made—
 
@@ -1029,14 +1035,14 @@ the parent’s income shall be determined as though those deductions did not fal
 
 ### Part III — Spouse’s contribution
 
-#### 7. Application of Part III
+#### 7. Application of Part III[^c-8b0f9e7381df9e8abc614e9b39a620b4]
 
 A spouse’s contribution ascertained in accordance with this Part shall be applicable in the case of every man student ordinarily living with his wife and every woman student so living with her husband except—
 
 - (a) a student in whose case a parental contribution is applicable in accordance with Part II; and
 - (b) a student whose child holds an award in respect of which a parental contribution is applicable.
 
-#### 8. Spouse’s contribution
+#### 8. Spouse’s contribution[^c-c8c856eb89408d126fd7c6c72af2b2d9]
 
 (1) Subject to sub-paragraphs (3) and (4), Part II shall, with the exception of paragraphs 3, 4(1), (2), (3)(*a*) and (*c*), 5(4), (7), (8) and (9) and 6(2)(*f*), apply with the necessary modifications for the ascertainment of the spouse’s contribution as it applies for the ascertainment of the parental contribution, references to the parent being construed as references to the student’s spouse and this Part shall be construed as one with the said Part II.
 
@@ -1056,9 +1062,9 @@ reduced, in any such case, by £100 in respect of each child of the student who 
 
 Regulation 13(3)(*a*)
 
-**1.** This Schedule shall apply in the case of a student who does not ordinarily live with a spouse or with another person as a spouse.
+**1.**[^c-cdabe8f99b33d165d420d819b702647e] This Schedule shall apply in the case of a student who does not ordinarily live with a spouse or with another person as a spouse.
 
-**2.** (1) This paragraph shall apply where the student has dependants within the meaning of Part III of Schedule 7.
+**2.**[^c-9bf9f4c266b9d3f5cfbed851cf28aa9c] (1) This paragraph shall apply where the student has dependants within the meaning of Part III of Schedule 7.
 
 (2) In the case of such a student—
 
@@ -1068,7 +1074,7 @@ Regulation 13(3)(*a*)
 
 whichever is the most favourable to him (disregarding head (*b*) where, in pursuance of paragraph 3, he elects as mentioned therein).
 
-**3.** (1) This paragraph shall apply in the case of a student with one or more child dependants under the age of 19 years and for the purpose of this paragraph “child” shall have the same meaning as in Part III of Schedule 7.
+**3.**[^c-3fb82b6c84e5087298315ed033b9a5f9] (1) This paragraph shall apply in the case of a student with one or more child dependants under the age of 19 years and for the purpose of this paragraph “child” shall have the same meaning as in Part III of Schedule 7.
 
 (2) Such a student may elect that the sum specified as his requirements in Part III of Schedule 7 shall be disregarded and that instead there shall in calculating his income be disregarded £2,195 in respect of his only or eldest child such as is mentioned in sub-paragraph (1) and £695 in respect of every other such child.
 
@@ -1076,7 +1082,7 @@ whichever is the most favourable to him (disregarding head (*b*) where, in pursu
 
 Regulation 15(2)
 
-**1.** (1) For the purposes of determining the prescribed proportion or the modified proportion where the number of weeks in question is not a whole number, a day shall be reckoned as a seventh of a week.
+**1.**[^c-7b32f547b5a4794bd0bcce928cccd026] (1) For the purposes of determining the prescribed proportion or the modified proportion where the number of weeks in question is not a whole number, a day shall be reckoned as a seventh of a week.
 
 (2) In the application of this Schedule to a student to whom Schedule 9 applies, references to Schedules 7 and 8 shall be construed as references to those Schedules as modified in accordance with Schedule 9.
 
@@ -1085,14 +1091,14 @@ Regulation 15(2)
 - (a) in the definition of “prescribed proportion” in regulation 3(1) for the number “30” there were substituted the number “25”; and
 - (b) in paragraphs 2(*a*) and 3(*b*) for “30 weeks 3 days” there were substituted “25 weeks 3 days”.
 
-**2.** The provisions of Schedule 7 shall, as respects any sandwich year, have effect subject to the following modifications—
+**2.**[^c-d64005f0b84332ad390ab7e9dcd6fb10] The provisions of Schedule 7 shall, as respects any sandwich year, have effect subject to the following modifications—
 
 - (a) where the period of full-time study does not exceed 30 weeks 3 days, the student’s requirements for his ordinary maintenance shall be the prescribed proportion of the appropriate amount specified in Part I;
 - (b) where the period of full-time study exceeds 30 weeks 3 days, the student’s requirements for his ordinary and supplementary maintenance shall be the aggregate of the appropriate amount specified in Part I and the appropriate amount specified in paragraph 5 of Part II;
 - (c) the student’s requirement for the maintenance of a dependant shall be the modified proportion of the sum specified in Part III except that where such a requirement falls to be increased under paragraph 14 it shall be increased by the prescribed proportion of the sum there specified; and
 - (d) if the student is a person to whom Part IV applies, his requirements under that Part shall be the modified proportion of the amount there specified.
 
-**3.** The provisions of Schedule 8 shall, as respects any sandwich year, have effect subject to the following modifications—
+**3.**[^c-0fa0884fcf3a3908c391965ae5ec040c] The provisions of Schedule 8 shall, as respects any sandwich year, have effect subject to the following modifications—
 
 - (a) the sum to be disregarded under paragraph 1(1)(*a*) of Part I shall be the prescribed proportion of £800 and the reference in paragraph 1(1)(*c*) to £1,810 shall be construed as a reference to the aggregate of £1,010 and the prescribed proportion of £800;
 - (b) in calculating the student’s income,
@@ -1129,7 +1135,13 @@ Provision has been made to allow payments under the European Community programme
 
 [^f00002]: Footnote: S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
+[^c-f8a70283f52e896268a8d4a0628ae72c]: Commencement: Reg. 1 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-62edd729fd331d8cfd83f7873f43de17]: Commencement: Reg. 2 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
 [^f00003]: Footnote: [S.R. 1996 No. 190](https://www.legislation.gov.uk/nisr/1996/190)
+
+[^c-91d5d591d1e334452b206d6845e16d05]: Commencement: Reg. 3 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L257, 19.10.68, p. 2 (O.J./S.E. 1968 (II) p. 475)
 
@@ -1171,9 +1183,21 @@ Provision has been made to allow payments under the European Community programme
 
 [^f00023]: Footnote: Part XII was amended by Article 4(*b*) of the Still-Birth (Definition) (Northern Ireland) Order 1992 (S.I. [1992/1310 (N.I. 10)](https://www.legislation.gov.uk/nisi/1992/1310)) and by [S.R. 1994 No. 176](https://www.legislation.gov.uk/nisr/1994/176)
 
+[^c-410c74a141bbc6f91874081874547720]: Commencement: Reg. 4 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-d0f4a6634087f15bb2ea67ea83c058d6]: Commencement: Reg. 5 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-f97a8fada1d6847aa923f56d4b8bb989]: Commencement: Reg. 6 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-ab031e253d6fccd0d1b7250f78999319]: Commencement: Reg. 7 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
 [^f00024]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61)
 
+[^c-6b8063e1f926bc793044c4ddd46e5e0d]: Commencement: Reg. 8 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
 [^f00025]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c-e03b1228d5661802dff647af3ed3890d]: Commencement: Reg. 9 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
 
 [^f00026]: Footnote: S.I. [1993/543](https://www.legislation.gov.uk/uksi/1993/543) amended by S.I. [1993/969](https://www.legislation.gov.uk/uksi/1993/969) and S.I. [1994/222](https://www.legislation.gov.uk/uksi/1994/222). Paragraph 2(1A) of Schedule 3 was inserted by section 14(2) of the Education Act [1993 (c. 30)](https://www.legislation.gov.uk/ukpga/1993/30)
 
@@ -1183,7 +1207,91 @@ Provision has been made to allow payments under the European Community programme
 
 [^f00029]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40); the regulations currently in force are the Education (Teachers) Regulations 1993 (S.I. [1993/543](https://www.legislation.gov.uk/uksi/1993/543)) amended by S.I. [1994/222](https://www.legislation.gov.uk/uksi/1994/222) and S.I. [1995/602](https://www.legislation.gov.uk/uksi/1995/602)
 
+[^c-002f5c88620dd2569017cd78f9c39820]: Commencement: Reg. 10 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-8f0c82e51f0fc6f6f41cfcc5c08528eb]: Commencement: Reg. 11 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-6c55fed97ace91d356e1cf7f5b70a62d]: Commencement: Reg. 12 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-c21d6b65cce7cb8d20e8ddbf4d379d7a]: Commencement: Reg. 13 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-1c1662d0d705dc991ee784b937c9ce27]: Commencement: Reg. 14 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-d3dd01deae0425375df6ced6d460a049]: Commencement: Reg. 15 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-2cd8fa0cc90674073534b84645741a61]: Commencement: Reg. 16 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-a92bae67aee962b8afa589e82597f372]: Commencement: Reg. 17 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
 [^f00030]: Footnote: S.I. [1990/1506 (N. I. 11)](https://www.legislation.gov.uk/nisi/1990/1506)
+
+[^c-1562e4020987022739594f49bdfec734]: Commencement: Reg. 18 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-fafcac65ac55c6081488b9f93eabc722]: Commencement: Reg. 19 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-a208ed54d2ba335600dd45b9ba06188a]: Commencement: Reg. 20 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-7c83cdbad2f4279a1c42b6690060acbf]: Commencement: Reg. 21 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-388a85ce48008056933a81f3dcde5056]: Commencement: Sch. 1 para. 1 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-006fb4313a58fe83d7a349eee643376d]: Commencement: Sch. 1 para. 2 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-07105fd87b3d0a7d748be1e634649df4]: Commencement: Sch. 1 para. 3 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-bf59a79a75743956fa57ae9edd403098]: Commencement: Sch. 2 para. 1 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-cd5d31e77f242172704c2cb1e0d5cf6d]: Commencement: Sch. 2 para. 2 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-e650f5e7e282a7f73ab3548afd6c25c1]: Commencement: Sch. 2 para. 3 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-fc61845ac60cb6352d136fd50ce6885a]: Commencement: Sch. 3 para. 1 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-363ac5ecee26059f6ebb3a7b63b5f915]: Commencement: Sch. 3 para. 2 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-ece1a1e281b4be08c4531fe453b6d98d]: Commencement: Sch. 3 para. 3 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-acde6df8ee4eac50fccb0f4578302cb1]: Commencement: Sch. 3 para. 4 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-6f0a7090c7f4678f8e098c1e3f21c37f]: Commencement: Sch. 3 para. 5 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-21ef0789f71a2dae694762c12aca10db]: Commencement: Sch. 4 para. 1 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-8d99332c4247968b4d255c94642389e5]: Commencement: Sch. 4 para. 2 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-910e7a0e1d21a64522e5660357519b0f]: Commencement: Sch. 4 para. 3 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-d3e5cd4662ee1165aab792bb2ed1e1be]: Commencement: Sch. 4 para. 4 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-eed5bd8f3609599a90bb64104802e8d1]: Commencement: Sch. 5 Pt. I in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-6ade51a1b14d47a92319e4ecfdde48ff]: Commencement: Sch. 5 Pt. II in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-4124e2968ef01b6b96ebe36b87dd4e3f]: Commencement: Sch. 6 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-2f5e49695578c76c76688952627b5e93]: Commencement: Sch. 7 para. 1 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-fd3a5a540b8da5d3274aa2b77bb1dd1e]: Commencement: Sch. 7 para. 2 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-498d1777bc1535bdd9e51b4e3b04184a]: Commencement: Sch. 7 para. 3 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-1f787c7407de691139a11c276def184c]: Commencement: Sch. 7 para. 4 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-d52b20f5b1379ce1d5797c69cdb30abb]: Commencement: Sch. 7 para. 5 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-c2bd40d3698d517849b2aee79437ad85]: Commencement: Sch. 7 para. 6 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-9b8613e28f72b686c0740452ac279f23]: Commencement: Sch. 7 para. 7 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-3853baadb073d2391ff1c03000cab0f5]: Commencement: Sch. 7 para. 8 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-71c449abbe09b2552d85eac844301a70]: Commencement: Sch. 7 para. 9 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-40a8ed3b89a5f3f001dc285eae4c86a3]: Commencement: Sch. 7 para. 10 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-ee23ff4ff98ed978330cde79f20dfd50]: Commencement: Sch. 7 para. 11 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-8a2f089b4c1c8a1637c8dcd133e92b19]: Commencement: Sch. 7 para. 12 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
 
 [^f00031]: Footnote: Section 64 was modified by paragraph 19 of Schedule 3 to the Social Security (Consequential Provisions) (Northern Ireland) Act [1992 c. 9](https://www.legislation.gov.uk/ukpga/1992/9)
 
@@ -1196,6 +1304,22 @@ Provision has been made to allow payments under the European Community programme
 [^f00035]: Footnote: Health and Social Services Trust (HSS) means an HSS Trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)) by which functions are exercisable by virtue of an authorisation for the time being in operation under Article 3(1) of the Health and Personal Social Services (Northern Ireland) Order 1994 (S.I. [1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429))
 
 [^f00036]: Footnote: [1968 c. 34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34)
+
+[^c-d1b5268c7da4ee80a383feb5662ded89]: Commencement: Sch. 7 para. 13 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-990e5d351ddd29666e42da4bd7ccdd2d]: Commencement: Sch. 7 para. 14 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-e536a6cc3582752ca4f844ced7eee553]: Commencement: Sch. 7 para. 15 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-6eb7a7425b454d5bd62748e55a9d6ba4]: Commencement: Sch. 7 para. 16 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-075b8d84c835aec486b55a593c64f0b9]: Commencement: Sch. 7 para. 17 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-c2dbcbe495623887e4abc794c7b83df3]: Commencement: Sch. 7 para. 18 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-3f3e8d5b3fd314ad5b9eab240ac549a7]: Commencement: Sch. 7 para. 19 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-0b31fe0552dfd8639c0eeb16ca26b0ed]: Commencement: Sch. 8 para. 1 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
 
 [^f00037]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460); Part III was amended by [S.R. 1988 Nos. 132](https://www.legislation.gov.uk/nisr/1988/132) and [153](https://www.legislation.gov.uk/nisr/1988/153), [S.R. 1989 Nos. 371](https://www.legislation.gov.uk/nisr/1989/371) and [485](https://www.legislation.gov.uk/nisr/1989/485), [S.R. 1991 No. 341](https://www.legislation.gov.uk/nisr/1991/341), [S.R. 1992 No. 284](https://www.legislation.gov.uk/nisr/1992/284) and [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)
 
@@ -1221,12 +1345,38 @@ Provision has been made to allow payments under the European Community programme
 
 [^f00048]: Footnote: S.I. [1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506)
 
+[^c-98fc8c81bd7f5deaf461bc12c5543d29]: Commencement: Sch. 8 para. 2 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
 [^f00049]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
+[^c-cd2256b6ea0a2f7f27a9535d4419cf76]: Commencement: Sch. 8 para. 3 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
 [^f00050]: Footnote: Section 126 was amended by Part II of Schedule 5 to the Mental Health (Northern Ireland) Order 1986 (S.I. [1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595))
+
+[^c-028f92040aa65a60a796593b33eb7bea]: Commencement: Sch. 8 para. 4 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-0b0094bb55e3d434749f0ec332d0f634]: Commencement: Sch. 8 para. 5 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
 
 [^f00051]: Footnote: [1958 c. 23 (N.I.)](https://www.legislation.gov.uk/apni/1958/23)
 
 [^f00052]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
+[^c-d587a8631879608bd2376ff1e88e31fa]: Commencement: Sch. 8 para. 6 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
 [^f00053]: Footnote: [1987 c. 16](https://www.legislation.gov.uk/ukpga/1987/16)
+
+[^c-8b0f9e7381df9e8abc614e9b39a620b4]: Commencement: Sch. 8 para. 7 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-c8c856eb89408d126fd7c6c72af2b2d9]: Commencement: Sch. 8 para. 8 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-cdabe8f99b33d165d420d819b702647e]: Commencement: Sch. 9 para. 1 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-9bf9f4c266b9d3f5cfbed851cf28aa9c]: Commencement: Sch. 9 para. 2 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-3fb82b6c84e5087298315ed033b9a5f9]: Commencement: Sch. 9 para. 3 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-7b32f547b5a4794bd0bcce928cccd026]: Commencement: Sch. 10 para. 1 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-d64005f0b84332ad390ab7e9dcd6fb10]: Commencement: Sch. 10 para. 2 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)
+
+[^c-0fa0884fcf3a3908c391965ae5ec040c]: Commencement: Sch. 10 para. 3 in operation at 1.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/298/regulation/1)

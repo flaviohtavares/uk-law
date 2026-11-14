@@ -2,9 +2,9 @@
 title: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, SCHEDULE 2
 act: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-06-07'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/228/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,19 @@ summary: ''
 
 # Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
 ## SCHEDULE 2 — Modification of the Offshore Installations (Safety Case) Regulations (Northern Ireland) 1993
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 Regulation 26(1)
 
-**1.** In regulation 2 of the 1993 Regulations—
+**1.**[^c-6825191bcc800adb9b6d3466b71e0e54] In regulation 2 of the 1993 Regulations—
 
 - (a) in paragraph (1)—
   - (i) for the definition of “concession owner” there shall be substituted the following definition—
@@ -63,13 +69,13 @@ Regulation 26(1)
 
   .
 
-**2.** There shall be substituted for paragraph (4) of regulation 7 of the 1993 Regulations the following paragraph—
+**2.**[^c-8b0c35608c74e65f185e0c5895bb251f] There shall be substituted for paragraph (4) of regulation 7 of the 1993 Regulations the following paragraph—
 
 > (4) In this regulation, “audit” means systematic assessment of the adequacy of the management system to achieve the purpose referred to in paragraph (1)(*a*) carried out by persons who are sufficiently independent of the system (but who may be employed by the duty holder) to ensure that such assessment is objective.
 
 .
 
-**3.** There shall be added to regulation 10 of the 1993 Regulations the following paragraphs—
+**3.**[^c-8712474113bc55de4fa96c99838c7b77] There shall be added to regulation 10 of the 1993 Regulations the following paragraphs—
 
 > (5) Where an operation is to be carried out in relation to a well or proposed well by means of a vessel which is not an installation, the well-operator shall ensure that the carrying out of the operation is not commenced unless at least 21 days before its commencement he has sent to the Department a notification containing the particulars specified in Schedule 6A.
 >
@@ -79,7 +85,7 @@ Regulation 26(1)
 
 .
 
-**4.** After regulation 12 of the 1993 Regulations there shall be added the following regulation—
+**4.**[^c-9e845c17fb76cab4858ed73adbe7e098] After regulation 12 of the 1993 Regulations there shall be added the following regulation—
 
 > **12A. Transitional provision relating to verification**
 >
@@ -87,7 +93,7 @@ Regulation 26(1)
 
 .
 
-**5.** After paragraph (2) of regulation 14 of the 1993 Regulations there shall be inserted the following paragraph—
+**5.**[^c-c8dfed5bf9559c4fec41cd536a574334] After paragraph (2) of regulation 14 of the 1993 Regulations there shall be inserted the following paragraph—
 
 > (2A) The operator or owner of an installation shall ensure that—
 >
@@ -96,12 +102,12 @@ Regulation 26(1)
 
 .
 
-**6.** In regulation 14(3) of the 1993 Regulations, for the words “sub-paragraphs (*b*), (*c*), (*e*) and (*g*) of paragraph (1)” there shall be substituted the words—
+**6.**[^c-359ee90968af470e9bff74d732605944] In regulation 14(3) of the 1993 Regulations, for the words “sub-paragraphs (*b*), (*c*), (*e*) and (*g*) of paragraph (1)” there shall be substituted the words—
 
 - “paragraphs (1)(*b*), (*c*), (*e*) and (*g*) and (2A)”,
 - and for the word “sub-paragraphs” where it second appears there shall be substituted the word “paragraphs”.
 
-**7.** After regulation 14 of the 1993 Regulations there shall be inserted the following regulations—
+**7.**[^c-51b687df9a39a27de445741f63b6f2e8] After regulation 14 of the 1993 Regulations there shall be inserted the following regulations—
 
 > **14A. Verification schemes for safety-critical elements**
 >
@@ -157,25 +163,25 @@ Regulation 26(1)
 
 .
 
-**8.** After paragraph 9 of Schedule 2 to the 1993 Regulations there shall be inserted the following paragraph—
+**8.**[^c-6b69630f16c334d0ae4ebab5178aa0b1] After paragraph 9 of Schedule 2 to the 1993 Regulations there shall be inserted the following paragraph—
 
 > **9A.** A description of arrangements made for protecting persons on the installation from toxic gas at all times other than during the period described in paragraph 9.
 
 .
 
-**9.** After paragraph 7 of Schedule 3 to the 1993 Regulations there shall be inserted the following paragraph—
+**9.**[^c-c76b39cb209d4944f02816559e5bd71f] After paragraph 7 of Schedule 3 to the 1993 Regulations there shall be inserted the following paragraph—
 
 > **7A.** A description of arrangements made for protecting persons on the installation from toxic gas at all times other than during the period described in paragraph 7.
 
 .
 
-**10.** In Schedule 6 to the 1993 Regulations there shall be added to the heading the words—
+**10.**[^c-3d784a80894f91b9dc871258439b061e] In Schedule 6 to the 1993 Regulations there shall be added to the heading the words—
 
 > from an installation
 
 .
 
-**11.** After Schedule 6 to the 1993 Regulations there shall be added the following Schedule—
+**11.**[^c-d57936421579b6373a25e408b730ef59] After Schedule 6 to the 1993 Regulations there shall be added the following Schedule—
 
 > **SCHEDULE 6A — Particulars to be included in notification of well operations from a vessel**
 >
@@ -228,7 +234,7 @@ Regulation 26(1)
 
 .
 
-**12.** After Schedule 8 to the 1993 Regulations there shall be added the following Schedule—
+**12.**[^c-088ff183dd92491b1fcb362f8dfe3bf5] After Schedule 8 to the 1993 Regulations there shall be added the following Schedule—
 
 > **SCHEDULE 9 — Matters to be provided for in a verification scheme**
 >
@@ -255,3 +261,29 @@ Regulation 26(1)
 > **6.** Arrangements for communicating the matters contained in paragraph 5(*a*) to (*d*) to an appropriate level in the management system of the duty holder for the installation.
 
 .
+
+## Annotations
+
+[^c-6825191bcc800adb9b6d3466b71e0e54]: Commencement: Sch. 2 para. 1 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-8b0c35608c74e65f185e0c5895bb251f]: Commencement: Sch. 2 para. 2 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-8712474113bc55de4fa96c99838c7b77]: Commencement: Sch. 2 para. 3 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-9e845c17fb76cab4858ed73adbe7e098]: Commencement: Sch. 2 para. 4 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-c8dfed5bf9559c4fec41cd536a574334]: Commencement: Sch. 2 para. 5 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-359ee90968af470e9bff74d732605944]: Commencement: Sch. 2 para. 6 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-51b687df9a39a27de445741f63b6f2e8]: Commencement: Sch. 2 para. 7 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-6b69630f16c334d0ae4ebab5178aa0b1]: Commencement: Sch. 2 para. 8 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-c76b39cb209d4944f02816559e5bd71f]: Commencement: Sch. 2 para. 9 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-3d784a80894f91b9dc871258439b061e]: Commencement: Sch. 2 para. 10 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-d57936421579b6373a25e408b730ef59]: Commencement: Sch. 2 para. 11 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
+
+[^c-088ff183dd92491b1fcb362f8dfe3bf5]: Commencement: Sch. 2 para. 12 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)

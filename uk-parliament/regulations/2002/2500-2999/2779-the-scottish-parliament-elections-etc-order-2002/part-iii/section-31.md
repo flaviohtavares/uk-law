@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 31
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '31'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/31
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 31
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 31. Appointment of election agent
+## 31. Appointment of election agent[^c-7da8dea252aa01f811486dfb2e944fc2]
+
+*Extent: S*
 
 (1) Not later than the latest time for delivery of nomination papers for candidature for a Scottish parliamentary election, a person shall be named by, or on behalf of–
 
@@ -48,3 +52,7 @@ but the appointment, whether the election agent appointed be a candidate himself
 shall be of no effect under this article unless it is made and signed by that person or is accompanied by a written declaration of acceptance signed by him.
 
 (8) Upon the name and address of an election agent being declared to the appropriate returning officer the appropriate returning officer shall forthwith give public notice of that name and address.
+
+## Annotations
+
+[^c-7da8dea252aa01f811486dfb2e944fc2]: Commencement: Art. 31 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

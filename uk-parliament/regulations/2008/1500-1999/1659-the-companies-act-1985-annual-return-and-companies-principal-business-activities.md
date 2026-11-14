@@ -3,16 +3,16 @@ title: The Companies Act 1985 (Annual Return) and Companies (Principal Business 
 id: uksi/2008/1659
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-24'
-text_date: null
-extent: null
+text_date: '2008-06-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/1659
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1659/pdfs/uksiem_20081659_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1659/pdfs/uksi_20081659_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1659/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1659/data.pdf
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Companies Act 1985 (Annual Return) and Companies (Principal Business Activities) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2008-06-24. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1659
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2008 No. 1659
 
@@ -42,13 +48,13 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 364(3) and 365(1) of the Companies Act 1985[^f00001] and section 1167 of the Companies Act 2006[^f00002].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-90b090d1bff81466b09c2037c376cfc7]
 
 (1) These Regulations may be cited as the Companies Act 1985 (Annual Return) and Companies (Principal Business Activities) (Amendment) Regulations 2008.
 
 (2) These Regulations come into force on 1st October 2008 and apply in relation to annual returns made up to that date or a later date.
 
-## 2. Information about whether shares admitted to trading on regulated market
+## 2. Information about whether shares admitted to trading on regulated market[^c-f1f850d4a605de67c28b80361dde2270]
 
 In section 364 of the Companies Act 1985 (contents of annual return: general), in subsection (1), after paragraph (i), insert—
 
@@ -56,7 +62,7 @@ In section 364 of the Companies Act 1985 (contents of annual return: general), i
 
 .
 
-## 3. Information about shareholders
+## 3. Information about shareholders[^c-e410751ed0e485018a3c1ab8eb13db73]
 
 In section 364A of the Companies Act 1985 (contents of annual return: particulars of share capital and shareholders)—
 
@@ -64,7 +70,7 @@ In section 364A of the Companies Act 1985 (contents of annual return: particular
 - (b) in subsection (1) omit “and members”; and
 - (c) omit subsections (4) to (7).
 
-**4.** After that section insert—
+**4.**[^c-c53b7a8ea30cb5cd4f340db73192e057] After that section insert—
 
 > **364B. Contents of annual return: information about shareholders: non-traded companies**
 >
@@ -124,7 +130,7 @@ In section 364A of the Companies Act 1985 (contents of annual return: particular
 
 .
 
-## 5. Amendments relating to principal business activities
+## 5. Amendments relating to principal business activities[^c-ccb0e0389fd956f4aad6d9ac96194098]
 
 (1) The Companies (Forms Amendment No. 2 and Company’s Type and Principal Business Activities) Regulations 1990[^f00004] are amended as follows.
 
@@ -157,6 +163,16 @@ An Impact Assessment in respect of these Regulations has been produced and copie
 
 [^f00002]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
+[^c-90b090d1bff81466b09c2037c376cfc7]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
+
+[^c-f1f850d4a605de67c28b80361dde2270]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
+
+[^c-e410751ed0e485018a3c1ab8eb13db73]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
+
+[^c-c53b7a8ea30cb5cd4f340db73192e057]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
+
 [^f00003]: Footnote: OJ No. L145, 30.4.2004, p.1.
+
+[^c-ccb0e0389fd956f4aad6d9ac96194098]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1659/regulation/1/2)
 
 [^f00004]: Footnote: [1990/1766](https://www.legislation.gov.uk/uksi/1990/1766), amended by [S.I. 1996/1105](https://www.legislation.gov.uk/uksi/1996/1105), [2002/3081](https://www.legislation.gov.uk/uksi/2002/3081).

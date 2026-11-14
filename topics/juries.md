@@ -48,7 +48,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **1996**
 
 - [Form of Jurors Oath Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/268-form-of-jurors-oath-order-northern-ireland-1996.md) *(as originally made)*
-- [Juries Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/269-juries-regulations-northern-ireland-1996.md) *(as originally made)*
+- [Juries Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/269-juries-regulations-northern-ireland-1996.md) *(changes pending)*
 - [The Juries (1996 Order) (Commencement) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/267-the-juries-1996-order-commencement-order-northern-ireland-1996.md) *(as originally made)*
 - [The Jurors (Scotland) Act 1825 (Provision of Information) Order 1996](../uk-parliament/regulations/1996/0500-0999/626-the-jurors-scotland-act-1825-provision-of-information-order-1996.md) *(as originally made)*
 

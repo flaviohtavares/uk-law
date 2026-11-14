@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 63
 act: London Local Authorities Act 2007
 section: '63'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/63
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 63
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 63. Adjudicators
+## 63. Adjudicators[^c-af1f9fc82de6204416e635502b2ef8b3]
+
+*Extent: E+W*
 
 (1) The Lord Chancellor may make provision by regulations for and in connection with the appointment of adjudicators for the purposes of this Part.
 
@@ -61,3 +65,7 @@ and shall defray all the expenses of the adjudication process and, in particular
 
 - (a) the persons who are appointed as parking adjudicators under section 73 of the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40) (until that section is repealed by section 98 of the [Traffic Management Act 2004) (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18); or
 - (b) the persons appointed under regulations made under section 81 of the said Act (adjudicators) as adjudicators for the purposes of Part 6 of that Act (after the said section 73 is repealed).
+
+## Annotations
+
+[^c-af1f9fc82de6204416e635502b2ef8b3]: Commencement: [S. 63](https://www.legislation.gov.uk/ukla/2007/2/section/63) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

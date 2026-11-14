@@ -141,7 +141,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [Industrial Training Levy (Construction Industry) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/276-industrial-training-levy-construction-industry-order-northern-ireland-1996.md) *(as originally made)*
+- [Industrial Training Levy (Construction Industry) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/276-industrial-training-levy-construction-industry-order-northern-ireland-1996.md) *(changes pending)*
 - [Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/173-industrial-tribunals-constitution-and-rules-of-procedure-regulations-northern-ir.md) *(changes pending)*
 
 **1991**

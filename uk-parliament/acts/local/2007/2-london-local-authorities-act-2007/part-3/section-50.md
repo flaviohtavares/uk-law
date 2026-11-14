@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 50
 act: London Local Authorities Act 2007
 section: '50'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 50
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 50. Interpretation of Act of 1999
+## 50. Interpretation of Act of 1999[^c-7590104114933db71b742e31760a9688]
+
+*Extent: E+W*
 
 (1) Section 2 (interpretation) of the Act of 1999 is renumbered as subsection (1) and amended as follows.
 
@@ -43,3 +47,7 @@ summary: ''
 > shall be disregarded.
 
 .
+
+## Annotations
+
+[^c-7590104114933db71b742e31760a9688]: Commencement: [S. 50](https://www.legislation.gov.uk/ukla/2007/2/section/50) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

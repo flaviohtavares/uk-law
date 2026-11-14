@@ -451,7 +451,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1463-the-authorised-investment-funds-tax-amendment-no-2-regulations-2008.md) *(as originally made)*
-- [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3159-the-authorised-investment-funds-tax-amendment-no-3-regulations-2008.md) *(as originally made)*
+- [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3159-the-authorised-investment-funds-tax-amendment-no-3-regulations-2008.md) *(changes pending)*
 - [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/705-the-authorised-investment-funds-tax-amendment-regulations-2008.md) *(as originally made)*
 - [The Capital Allowances (Environmentally Beneficial Plant and Machinery) (Amendment) Order 2008](../uk-parliament/regulations/2008/1500-1999/1917-the-capital-allowances-environmentally-beneficial-plant-and-machinery-amendment.md) *(as originally made)*
 - [The Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/383-the-community-investment-tax-relief-accreditation-of-community-development-finan.md) *(as originally made)*

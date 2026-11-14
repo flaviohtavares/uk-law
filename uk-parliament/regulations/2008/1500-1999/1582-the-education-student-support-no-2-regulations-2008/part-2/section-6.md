@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 6
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '6'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,61 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 6
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designated courses[^c-8c926520f8cdf103676c835d1c7733a6]
+## 6. Designated courses[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Subject to paragraphs (2), (3), (4) and (5), a course is a designated course for the purposes of section 22(1) of the 1998 Act and regulation 5 if it is—
-
-- (a) mentioned in Schedule 2;
-- (b) one of the following—
-  - (i) a full-time course;
-  - (ii) a sandwich course; or
-  - (iii) a part-time course for the initial training of teachers;
-- (c) not a designated distance learning course;
-- (d) of at least—
-  - (i) one academic year’s duration; or
-  - (ii) six weeks’ duration in the case of a flexible postgraduate course for the initial training of teachers; and
-- (e) wholly provided by a publicly funded educational institution or institutions in the United Kingdom or provided by such an institution or institutions in conjunction with an institution or institutions outside the United Kingdom.
-
-(2) A course falling within paragraph 7 or 8 of Schedule 2 is not a designated course where the governing body of a maintained school or Academy has arranged for the provision of such a course to a pupil of the school or Academy.
-
-(3) A course that is taken as part of an employment-based teacher training scheme is not a designated course.
-
-(4) A first degree course is not a designated course where—
-
-- (a) it leads to the award of a professional qualification;
-- (b) a first degree (or equivalent qualification) would normally be required for entry to a course leading to the award of that professional qualification; and
-- (c) the current course begins on or after 1st September 2009.
-
-(5) Paragraph (1)(c) does not apply where the person applying for support in connection with the course is—
-
-- (a) a disabled student; and
-- (b) undertaking that course in the United Kingdom but not in attendance because the person is unable to attend for a reason which relates to that person’s disability.
-
-(6) For the purposes of paragraph (1)—
-
-- (a) a course is provided by an institution if it provides the teaching and supervision which comprise the course, whether or not the institution has entered into an agreement with the student to provide the course;
-- (b) a university and any constituent college or institution in the nature of a college of a university is to be regarded as publicly funded if either the university or the constituent college or institution is publicly funded; and
-- (c) an institution is not to be regarded as publicly funded by reason only that it receives public funds from the governing body of a higher education institution in accordance with section 65(3A) of the Further and Higher Education Act 1992[^f00042].
-
-(7) Subject to paragraph (4), a course to which this paragraph applies is considered to be a single course for a first degree or for an equivalent qualification even if—
-
-- (a) the course leads to another degree or qualification being conferred before the degree or equivalent qualification; and
-- (b) part of the course is optional.
-
-(8) Paragraph (7) applies to a course the standard of which is not higher than a first degree which leads to a qualification as a medical doctor, dentist, veterinary surgeon, architect, landscape architect, landscape designer, landscape manager, town planner or town and country planner.
-
-(9) For the purposes of section 22 of the 1998 Act and regulation 5(1) the Secretary of State may designate courses of higher education which are not designated under paragraph (1).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-8c926520f8cdf103676c835d1c7733a6]: Commencement: Reg. 6 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
 
-[^f00042]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -78,7 +78,7 @@ In these Regulations—
 
 ## PART 2 — LICENCES
 
-### 3. Requirement for London pedicab driver’s licence[^c-bbf66107088526c17e69c1910fa58f59]
+### 3. Requirement for London pedicab driver’s licence[^c-7586988be7a781bbf89ed78dbd06c15b]
 
 **Not yet in force.**
 
@@ -626,7 +626,7 @@ Regulation 23 provides that applicants may request TfL to reconsider decisions t
 
 [^c-af9546f0a0200ca18eea1c688d3b4ef2]: Textual amendment: Words in reg. 2 inserted (27.10.2026) by [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [9](https://www.legislation.gov.uk/uksi/2026/1122/regulation/9)
 
-[^c-bbf66107088526c17e69c1910fa58f59]: Commencement: Reg. 3 in force at 30.10.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/3)
+[^c-7586988be7a781bbf89ed78dbd06c15b]: Commencement: Reg. 3 in force at 27.11.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/3) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 8](https://www.legislation.gov.uk/uksi/2026/1122/regulation/8))
 
 [^c-bb981d9072ea32977fc067716be60b7e]: Commencement: Reg. 4 in force at 9.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/134/regulation/1/2)
 

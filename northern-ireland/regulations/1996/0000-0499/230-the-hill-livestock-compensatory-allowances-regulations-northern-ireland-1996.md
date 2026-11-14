@@ -3,13 +3,13 @@ title: The Hill Livestock (Compensatory Allowances) Regulations (Northern Irelan
 id: nisr/1996/230
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-07'
-text_date: null
-extent: null
+text_date: '1996-07-01'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/230
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/230/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/230/data.pdf
 pending_changes: 39
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # The Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (39).** Text as at 1996-07-01. See https://www.legislation.gov.uk/changes/affected/nisr/1996/230
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 230
 
@@ -36,11 +40,11 @@ Coming into operation
 
 The Department of Agriculture being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred upon it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-f8df8574f3fa4b5e678d7cf1445166f2]
 
 These Regulations may be cited as the Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1996, and shall come into operation on 1st July 1996.
 
-## 2. Interpretation
+## 2. Interpretation[^c-a2da02f34662fe47115a5572feb4e374]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
@@ -105,7 +109,7 @@ These Regulations may be cited as the Hill Livestock (Compensatory Allowances) R
 
 (4) Any reference in these Regulations to a Community instrument is a reference to that instrument as amended on the date these Regulations come into force.
 
-## 3. Compensatory allowances for cattle and sheep
+## 3. Compensatory allowances for cattle and sheep[^c-8c827bc0def63eda0dd5ef3fc1a9edd8]
 
 (1) The Department may in respect of any Scheme year pay to any person who in the year prior to that Scheme year submitted a valid area aid application under Article 6 of Council Regulation 3508/92 which indicated eligible land a compensatory allowance for each breeding cow and ewe which was—
 
@@ -123,7 +127,7 @@ by him throughout the retention period for the animal concerned applicable to th
 
 (4) Where in this regulation alternative rates are given in sterling and ECU the rate which results in the lower payment in sterling shall apply.
 
-## 4. Provisions with respect to cattle
+## 4. Provisions with respect to cattle[^c-b8c0314f0340b89613a0f6e7a0bf4ab2]
 
 (1) The number of breeding cows for which a compensatory allowance may be paid to a person who has made a valid application for compensatory allowances for breeding cows in respect of any given Scheme year shall be the least of—
 
@@ -144,7 +148,7 @@ by him throughout the retention period for the animal concerned applicable to th
 
 (5) Where, in the opinion of the Department, an appreciable quantity of milk has been produced by a regular breeding herd in the period of 12 months immediately preceding the date an applicant lodges his claim for a compensatory allowance in respect of a given Scheme year for any breeding cows in that herd and that milk has been sold or used for the manufacture of milk products for sale, a compensatory allowance shall be payable in respect of that Scheme year for the number of breeding cows comprised in the herd on that date, reduced by such number as appears to the Department to be the number of breeding cows in the herd required to produce that quantity of milk in that period of 12 months.
 
-## 5. Provisions with respect to sheep
+## 5. Provisions with respect to sheep[^c-1b795e71c73bfee873fd3e3db65a6954]
 
 (1) The number of ewes for which a compensatory allowance may be paid to a person who has made a valid application for compensatory allowances for ewes in respect of any given Scheme year shall be the least of—
 
@@ -168,7 +172,7 @@ by him throughout the retention period for the animal concerned applicable to th
 
 (4) Where the applicant was not penalised under this regulation for using unsuitable supplementary feeding methods in the preceding Scheme year the compensatory allowance for ewes otherwise payable to him may be reduced by 10%; where the applicant was penalised under this regulation for using unsuitable supplementary feeding methods in the preceding Scheme year but not in the Scheme year preceding that one the compensatory allowance for ewes otherwise payable to him may be reduced by 20%; and where the applicant has been penalised under this regulation for using unsuitable supplementary feeding methods in each of the two preceding Scheme years the compensatory allowance for ewes otherwise payable to him may be withheld.
 
-## 6. Replacement animals
+## 6. Replacement animals[^c-b8fbc146b579e264bea52e6eb4ee8cc4]
 
 (1) In the case of an application for a compensatory allowance for breeding cows in respect of a given Scheme year, any of the breeding cows concerned may be replaced within the period specified in the second paragraph of Article 10(4) of Commission Regulation 3887/92 by another breeding cow or by a female bovine animal which has not yet borne a calf but which is in-calf on the day of replacement before the end of the retention period for those breeding cows applicable to that Scheme year, without calling into question the number of breeding cows which have been owned or leased under the formal leasing arrangement by him throughout that retention period.
 
@@ -181,7 +185,7 @@ by him throughout the retention period for the animal concerned applicable to th
 - (a) within 7 days of the replaced ewe leaving the qualified flock of which it formed part; or
 - (b) (if sooner) before the end of the retention period for the ewes comprising that qualified flock applicable to the Scheme year concerned.
 
-## 7. Overgrazing
+## 7. Overgrazing[^c-452188503c8c0a4f6099cc7f735341e3]
 
 (1) Subject to paragraph (3), where in the year preceding the opening date for lodging applications for compensatory allowances for breeding cows in respect of any given Scheme year the Department forms the opinion that any parcel of land is being overgrazed the Department may notify the occupier of the maximum number of breeding cows which may be grazed and maintained on that parcel in that Scheme year, which number shall be determined by taking account of the number of other animals likely to be grazed and maintained on the parcel concerned in the Scheme year in question and having regard to such conditions as may be specified in the notification.
 
@@ -191,7 +195,7 @@ by him throughout the retention period for the animal concerned applicable to th
 
 (4) Where the Department has made a notification under paragraph (1) or (2) no compensatory allowance shall be paid in respect of the Scheme year for which it was issued for any breeding cows or as the case may be ewes grazed and maintained in that Scheme year on the land to which it relates in excess of the maximum number of such animals specified in it.
 
-## 8. Application for compensatory allowances
+## 8. Application for compensatory allowances[^c-a16cee0deaa8ad9574984349945bbcf7]
 
 (1) An application for a compensatory allowance for breeding cows in respect of any Scheme year shall be lodged with the Department between 1st July and 6th December in the preceding Scheme year (both dates inclusive).
 
@@ -201,7 +205,7 @@ by him throughout the retention period for the animal concerned applicable to th
 
 (4) Where the applicant is a producer group within the meaning of point 2 of Article 1 of Council Regulation 3493/90 the applicant shall in making an application for a compensatory allowance for ewes under this regulation observe signature formalities equivalent to those imposed by Article 2(1) of Commission Regulation 2385/91 in relation to the application referred to therein.
 
-## 9. Powers of authorised persons
+## 9. Powers of authorised persons[^c-8469db31788d7d88c129bd264e22d9b0]
 
 (1) An authorised person may at all reasonable hours and on producing, if so required, some duly authenticated documents showing his authority, exercise the powers specified in this regulation for the purposes of—
 
@@ -227,11 +231,11 @@ by him throughout the retention period for the animal concerned applicable to th
 - (c) make such copies of any document or other record referred to in sub-paragraph (*a*) as he may think fit; and
 - (d) seize and retain any document or other record referred to in sub-paragraph (*a*) which he has reason to believe may be required as evidence in proceedings under these Regulations and, where any such record is kept by means of a computer, require it to be produced in a form in which it may be taken away.
 
-## 10. Assistance to authorised persons
+## 10. Assistance to authorised persons[^c-ed2731e6d9e7e86d9725a4c246effd6a]
 
 An applicant, any employee, servant or agent of an applicant or any person in charge of animals on the land shall give to an authorised person such assistance as the authorised person may reasonably request so as to enable the authorised person to exercise any power conferred by regulation 9 and in particular, in relation to any animal, shall arrange for the collection, penning and securing of such animal, if so requested.
 
-## 11. Release from undertaking
+## 11. Release from undertaking[^c-e9ae9420e6d91a654c677a63611b14e0]
 
 An applicant is released from the undertaking referred to in regulation 3(2)—
 
@@ -239,7 +243,7 @@ An applicant is released from the undertaking referred to in regulation 3(2)—
 - (b) if he is prevented from continuing to discharge that undertaking by reason of any material circumstances beyond his control; or
 - (c) if he ceases farming and at least 3 hectares of his eligible land, or the eligible land used by him for the grazing of animals, continues to be used for agricultural purposes.
 
-## 12. Withholding or recovery of compensatory allowance
+## 12. Withholding or recovery of compensatory allowance[^c-7dcee01426adb6b415de44b428edfdde]
 
 (1) Where any person fails to comply with the terms of an undertaking given by him under regulation 3(2), from which he has not been released by virtue of regulation 11, the Department shall be entitled to withhold or to recover on demand the whole or any part of any compensatory allowance payable or paid to him.
 
@@ -254,11 +258,11 @@ An applicant is released from the undertaking referred to in regulation 3(2)—
 
 the Department may withhold or recover on demand the whole or any part of any compensatory allowance otherwise payable or as the case may be already paid to the recipient of the notification for the Scheme year to which it relates.
 
-## 13. Rate of interest
+## 13. Rate of interest[^c-aed033958e98307bfb9d88410ce1ee7a]
 
 Except where the Department recovers from any applicant any compensatory allowance or part of any compensatory allowance paid to that applicant as a result of an error of the Department, for the purpose of Article 14(1) of the Commission Regulation No. 3887/92, interest shall be charged at the rate of one percentage point above the sterling three months London Interbank Offered Rate on a day to day basis for the period specified in that Article.
 
-## 14. Offences
+## 14. Offences[^c-7ba2170bbfd20ea5d2bd6cf35f5c18b4]
 
 It shall be an offence for a person—
 
@@ -266,13 +270,13 @@ It shall be an offence for a person—
 - (b) without reasonable excuse, to fail to comply with a request made under regulation 10; or
 - (c) knowingly or recklessly to make a statement or furnish any information which is false or misleading in a material particular where the statement is made or the information is furnished for the purposes of obtaining himself or any other person the whole or any part of any compensatory allowance.
 
-## 15. Punishment of offences
+## 15. Punishment of offences[^c-4b151da4ce62aabbdb1da01c24dd31ae]
 
 (1) A person guilty of an offence under regulation 14(*a*) or (*b*) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 (2) A person guilty of an offence under regulation 14(*c*) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 16. Time limit for prosecutions
+## 16. Time limit for prosecutions[^c-9aaa092597be4e38065e8e1f77347277]
 
 (1) Proceedings for an offence under regulation 14 may, subject to paragraph (2), be commenced within the period of six months from the date on which evidence sufficient in the opinion of the Department to warrant proceedings comes to its knowledge.
 
@@ -282,7 +286,7 @@ It shall be an offence for a person—
 
 (4) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
 
-## 17. Offences by bodies corporate
+## 17. Offences by bodies corporate[^c-6727c9db18f045a6a186ac420bdebdb9]
 
 (1) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
@@ -293,7 +297,7 @@ he, as well as the body corporate, shall be guilty of the offence and be liable 
 
 (2) For the purposes of paragraph (1), “director”, in relation to a body corporate whose affairs are managed by its members, means a member of that body corporate.
 
-## 18. Revocation and saving
+## 18. Revocation and saving[^c-52e8623e141529dfbc039db8d77687aa]
 
 The Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1994[^f00021], the Hill Livestock (Compensatory Allowances) (Amendment) (Northern Ireland) Regulations 1995[^f00022], the Hill Livestock (Compensatory Allowances) (Amendment) (No. 2) Regulations (Northern Ireland) 1995[^f00023], the Hill Livestock (Compensatory Allowances) (Amendment) (No. 3) Regulations (Northern Ireland) 1995[^f00024] and the Hill Livestock (Compensatory Allowances) (Amendment) Regulations (Northern Ireland) 1996[^f00025] are hereby revoked, except in relation to any compensatory allowance paid in respect of the 1995 Scheme year.
 
@@ -342,6 +346,10 @@ The principal changes effected by these Regulations are—
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68): section 2 is subject to Schedule 2 to that Act and is to be read with S.I. [1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703) and [S.R. (N.I.) 1984 No. 253](https://www.legislation.gov.uk/nisr/1984/253) and S.I. [1994/2795 (N.I. 15)](https://www.legislation.gov.uk/nisi/1994/2795)
 
+[^c-f8df8574f3fa4b5e678d7cf1445166f2]: Commencement: Reg. 1 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-a2da02f34662fe47115a5572feb4e374]: Commencement: Reg. 2 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00004]: Footnote: O.J. No. L219, 7.8.91, p. 15, as last amended by Commission Regulation [(EC) No. 2569/95](https://www.legislation.gov.uk/european/regulation/1995/2569) (O.J. No. L.262, 1.11.95, p. 32)
@@ -377,6 +385,38 @@ The principal changes effected by these Regulations are—
 [^f00019]: Footnote: [S.R. 1992 No. 476](https://www.legislation.gov.uk/nisr/1992/476) as amended by [S.R. 1994 No. 404](https://www.legislation.gov.uk/nisr/1994/404) and [S.R. 1995 No. 403](https://www.legislation.gov.uk/nisr/1995/403)
 
 [^f00020]: Footnote: [S.R. 1993 No. 280](https://www.legislation.gov.uk/nisr/1993/280) as amended by [S.R. 1994 No. 211](https://www.legislation.gov.uk/nisr/1994/211) and [S.R. 1995 No. 246](https://www.legislation.gov.uk/nisr/1995/246)
+
+[^c-8c827bc0def63eda0dd5ef3fc1a9edd8]: Commencement: Reg. 3 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-b8c0314f0340b89613a0f6e7a0bf4ab2]: Commencement: Reg. 4 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-1b795e71c73bfee873fd3e3db65a6954]: Commencement: Reg. 5 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-b8fbc146b579e264bea52e6eb4ee8cc4]: Commencement: Reg. 6 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-452188503c8c0a4f6099cc7f735341e3]: Commencement: Reg. 7 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-a16cee0deaa8ad9574984349945bbcf7]: Commencement: Reg. 8 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-8469db31788d7d88c129bd264e22d9b0]: Commencement: Reg. 9 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-ed2731e6d9e7e86d9725a4c246effd6a]: Commencement: Reg. 10 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-e9ae9420e6d91a654c677a63611b14e0]: Commencement: Reg. 11 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-7dcee01426adb6b415de44b428edfdde]: Commencement: Reg. 12 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-aed033958e98307bfb9d88410ce1ee7a]: Commencement: Reg. 13 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-7ba2170bbfd20ea5d2bd6cf35f5c18b4]: Commencement: Reg. 14 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-4b151da4ce62aabbdb1da01c24dd31ae]: Commencement: Reg. 15 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-9aaa092597be4e38065e8e1f77347277]: Commencement: Reg. 16 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-6727c9db18f045a6a186ac420bdebdb9]: Commencement: Reg. 17 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
+
+[^c-52e8623e141529dfbc039db8d77687aa]: Commencement: Reg. 18 in operation at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/230/regulation/1)
 
 [^f00021]: Footnote: [S.R. 1994 No. 417](https://www.legislation.gov.uk/nisr/1994/417)
 

@@ -3,7 +3,7 @@ title: Adoption Act 1976, section 53
 act: Adoption Act 1976
 section: '53'
 status: revised-with-pending-changes
-text_date: '2009-10-01'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1976/36/section/53
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Adoption Act 1976, section 53
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2009-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
 >
 > Extent: England, Wales.
 

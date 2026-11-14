@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 7
 act: London Local Authorities Act 2007
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 7. Unauthorised advertisement hoardings
+## 7. Unauthorised advertisement hoardings[^c-2bfe457ed40f3361d1907d10e7531a9c]
+
+*Extent: E+W*
 
 (1) Section 11 (unauthorised advertisement hoardings, etc.) of the [London Local Authorities Act 1995 (c. x)](https://www.legislation.gov.uk/ukla/1995/10) is amended as follows.
 
@@ -33,3 +37,7 @@ summary: ''
 >   - (ii) an appeal in relation to the discontinuance notice under the said section 78 has been made, and the appeal has been discontinued or dismissed.
 
 .
+
+## Annotations
+
+[^c-2bfe457ed40f3361d1907d10e7531a9c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukla/2007/2/section/7) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

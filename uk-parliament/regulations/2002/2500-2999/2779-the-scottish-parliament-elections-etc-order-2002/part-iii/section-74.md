@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 74
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '74'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/74
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 74
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 74. Bribery
+## 74. Bribery[^c-0b7a3eb2e17af3c3ebd2876101e8afe9]
+
+*Extent: S*
 
 (1) A person shall be guilty of a corrupt practice if he is guilty of bribery.
 
@@ -40,3 +44,7 @@ or if upon or in consequence of any such gift or procurement as mentioned above 
 (7) A person shall be guilty of bribery if after a Scottish parliamentary election he directly or indirectly by himself or by any other person on his behalf receives any money or valuable consideration on account of any person having voted or refrained from voting or having induced any other person to vote or refrain from voting.
 
 (8) In this article the expression “voter” includes any person who has or claims to have a right to vote.
+
+## Annotations
+
+[^c-0b7a3eb2e17af3c3ebd2876101e8afe9]: Commencement: Art. 74 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

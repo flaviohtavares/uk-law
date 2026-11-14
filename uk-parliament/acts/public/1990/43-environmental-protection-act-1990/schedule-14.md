@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14 — Amendments of the Prevention of Oil Pollution Act 1971[^c13753281]
+## SCHEDULE 14 — Amendments of the Prevention of Oil Pollution Act 1971[^c13753281][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,7 +99,7 @@ Section 148.
 >   - (v) when summary proceedings are commenced in terms of section 331(3) of the Criminal Procedure (Scotland) Act 1975; and
 > - (b) proceedings for an offence are concluded without the master or owner being convicted on the occurrence of one of the following events—
 >   - (i) the court makes a finding of not guilty or not proven against the master or owner in respect of the offence;
->   - (ii) the proceedings are expressly abandoned (other than*pro loco et tempore*) by the prosecutor or are deserted simpliciter;
+>   - (ii) the proceedings are expressly abandoned (other than *pro loco et tempore*) by the prosecutor or are deserted simpliciter;
 >   - (iii) the conviction is quashed;
 >   - (iv) the accused receives Her Majesty’s pardon in respect of the conviction.
 >
@@ -125,5 +125,7 @@ Section 148.
 ## Annotations
 
 [^c13753281]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/ukpga/1990/43/schedule/14), except so far as the amendments relate to offences under section 2(1) of the Prevention of Oil Pollution Act 1971, repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch.12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1)).
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13753291]: Marginal citation: [1971 c. 60](https://www.legislation.gov.uk/ukpga/1971/60).

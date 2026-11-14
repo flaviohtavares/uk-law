@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 160. Service of notices.[^c13751471][^c18930941]
+## 160. Service of notices.[^c13751471][^c18930941][^c13739731]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,8 @@ and for the purposes of this subsection the principal office of a company regist
 [^c13751471]: Modification: [S. 160](https://www.legislation.gov.uk/ukpga/1990/43/section/160): power to make corresponding provisions conferred (27.7.1999) by [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24), [s. 2](https://www.legislation.gov.uk/ukpga/1999/24/section/2), [Sch. 1 Pt. I para. 20(1)(a)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/part/I/paragraph/20/1/a)
 
 [^c18930941]: Modification: [S. 160](https://www.legislation.gov.uk/ukpga/1990/43/section/160) modified (E.W.) (31.3.2004 for E. for certain purposes, 31.3.2004 for W. and 6.4.2006 otherwise for E.) by Anti-social [Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2003/38/section/49/3), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 4](https://www.legislation.gov.uk/uksi/2004/690/article/4); [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2](https://www.legislation.gov.uk/uksi/2004/999/article/2); [S.I. 2006/393](https://www.legislation.gov.uk/uksi/2006/393), [art. 2](https://www.legislation.gov.uk/uksi/2006/393/article/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c18931611]: Modification: [S. 160(2)-(5)](https://www.legislation.gov.uk/ukpga/1990/43/section/160/2) applied (S.) (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 60](https://www.legislation.gov.uk/asp/2004/8/section/60), [61](https://www.legislation.gov.uk/asp/2004/8/section/61), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 

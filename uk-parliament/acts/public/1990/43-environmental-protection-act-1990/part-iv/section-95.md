@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 95. Public registers.[^c13745571]
+## 95. Public registers.[^c13745571][^c13739731]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,8 @@ summary: ''
 ## Annotations
 
 [^c13745571]: Commencement: S. 95 wholly in force at 1.4.1991 see s. 164(3) and [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [art. 2](https://www.legislation.gov.uk/uksi/1991/1042/article/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13745581]: Textual amendment: Words in s. 95(1) substituted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/3), [Sch. 9 para. 17(9)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/9/paragraph/17/9) (with [s. 54(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/7), [Sch. 17 para. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch.1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1).
 

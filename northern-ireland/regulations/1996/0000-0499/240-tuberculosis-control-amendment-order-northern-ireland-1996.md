@@ -3,13 +3,13 @@ title: Tuberculosis Control (Amendment) Order (Northern Ireland) 1996
 id: nisr/1996/240
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-14'
-text_date: null
-extent: null
+text_date: '1996-06-17'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/240
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/240/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/240/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # Tuberculosis Control (Amendment) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 1996-06-17. See https://www.legislation.gov.uk/changes/affected/nisr/1996/240
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 240
 
@@ -36,15 +40,15 @@ Coming into operation .
 
 The Department of Agriculture, in exercise of the powers conferred on it by Articles 16(1), 44 and 60(1) and paragraph 4 of Part I and paragraph 4 of Part II of Schedule 2 to the Diseases of Animals (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-92cd98a07a3567eed3a35e9e1ea6074b]
 
 This Order may be cited as the Tuberculosis Control (Amendment) Order (Northern Ireland) 1996 and shall come into operation on 17th June 1996.
 
-## 2. Amendment of the Tuberculosis Control Order (Northern Ireland) 1964
+## 2. Amendment of the Tuberculosis Control Order (Northern Ireland) 1964[^c-2c888949cec408b77d810e6b9afc5bf1]
 
 The Tuberculosis Control Order (Northern Ireland) 1964[^f00002] shall be amended as provided by Articles 3 and 4.
 
-**3.** Subject to Article 4, in Article 10 (Compensation) for paragraph (2) there shall be substituted the following paragraph—
+**3.**[^c-5c86b08a5001e865c07fcf12c4a169bb] Subject to Article 4, in Article 10 (Compensation) for paragraph (2) there shall be substituted the following paragraph—
 
 > (2) For the purposes of this Order the market value of the animal means—
 >
@@ -57,7 +61,7 @@ The Tuberculosis Control Order (Northern Ireland) 1964[^f00002] shall be amended
 
 .
 
-## 4. Saving
+## 4. Saving[^c-c7b86317576b1d5690959ae8be08b737]
 
 Article 10 shall continue to apply in relation to a bovine animal slaughtered prior to 17th June 1996, as if this Order had not been made.
 
@@ -81,6 +85,14 @@ Subject to a saving in relation to animals slaughtered before the coming into op
 
 [^f00001]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Art. 23
 
+[^c-92cd98a07a3567eed3a35e9e1ea6074b]: Commencement: Art. 1 in operation at 17.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/240/article/1)
+
+[^c-2c888949cec408b77d810e6b9afc5bf1]: Commencement: Art. 2 in operation at 17.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/240/article/1)
+
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1964 No. 31](https://www.legislation.gov.uk/nisro/1964/31). The relevant amending Orders are [S.R. 1981 No. 412](https://www.legislation.gov.uk/nisr/1981/412) and [S.R. 1986 No. 48](https://www.legislation.gov.uk/nisr/1986/48)
 
+[^c-5c86b08a5001e865c07fcf12c4a169bb]: Commencement: Art. 3 in operation at 17.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/240/article/1)
+
 [^f00003]: Footnote: O.J. No. L99, 19.4.96, p. 14
+
+[^c-c7b86317576b1d5690959ae8be08b737]: Commencement: Art. 4 in operation at 17.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/240/article/1)

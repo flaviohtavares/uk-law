@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Mode of exercise of certain functions.[^c13747341]
+## 126. Mode of exercise of certain functions.[^c13747341][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,5 +50,7 @@ summary: ''
 ## Annotations
 
 [^c13747341]: Textual amendment: S. 126 substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 18](https://www.legislation.gov.uk/ukpga/1999/28/section/18), [Sch. 3 Pt. III para. 18](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/part/III/paragraph/18) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-bbdb50d9f6874d0716baecf6387c80f0]: Textual amendment: [S. 126(9)](https://www.legislation.gov.uk/ukpga/1990/43/section/126/9) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 4(4)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/4/4) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

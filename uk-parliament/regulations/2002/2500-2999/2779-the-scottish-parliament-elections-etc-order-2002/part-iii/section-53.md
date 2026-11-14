@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 53
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '53'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/53
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 53
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 53. Publication of time and place of inspection of returns and declarations
+## 53. Publication of time and place of inspection of returns and declarations[^c-9940a9e0f2dab6bceeb63b69471940f9]
+
+*Extent: S*
 
 (1) At a Scottish parliamentary election, the appropriate returning officer, within 10 days after the end of the time allowed for delivering to him returns as to election expenses, shall–
 
@@ -31,3 +35,7 @@ summary: ''
 
 - (a) an agent who is in fault or is agent for the candidate in fault; or
 - (b) a nominating officer who is in fault or who is the nominating officer for a registered party submitting a regional list on which there is included a candidate who is in fault.
+
+## Annotations
+
+[^c-9940a9e0f2dab6bceeb63b69471940f9]: Commencement: Art. 53 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

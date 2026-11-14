@@ -3,15 +3,15 @@ title: The County Court (Amendment) Rules (Northern Ireland) 2026
 id: nisr/2026/188
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2026-11-09'
-text_date: null
-extent: null
+text_date: '2026-11-09'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/188
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2026/188/pdfs/nisrem_20260188_en_001.pdf
 - http://www.legislation.gov.uk/nisr/2026/188/pdfs/nisr_20260188_en.pdf
-- http://www.legislation.gov.uk/nisr/2026/188/made/data.pdf
+- http://www.legislation.gov.uk/nisr/2026/188/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,13 @@ summary: ''
 
 # The County Court (Amendment) Rules (Northern Ireland) 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-11-09.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 2026 No. 188
 
@@ -46,6 +52,10 @@ The County Court Rules Committee makes and the Department of Justice, after cons
 - [Section 3 — Amendments to the principal Rules](section-3.md)
 
 - [SCHEDULE](schedule.md)
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 Philip Gilpin
 
@@ -76,6 +86,10 @@ Sealed with the Official Seal of the Department of Justice on 09th November 2026
 Naomi Long
 
 Minister of Justice
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 EXPLANATORY NOTE
 

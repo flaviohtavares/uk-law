@@ -319,11 +319,11 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 78YB — Interaction of this Part with other enactments.](part-iia/section-78yb.md)
 - [Section 78YC — This Part and radioactivity.](part-iia/section-78yc.md)
 
-### Part III — Statutory Nuisances and Clean Air[^c13740321][^c20958641][^c20958651][^c20958681][^c20958721][^c-062d92d14c6d041ef9386171423a152f][^c-9ae13b5ffc3f7204008d0cdd4ebe0733][^c-b85bddabeecf1aa5cc4f7469e1f59ee2][^c-742beb85d1bf710d55ad35855a5269d8][^c-4d9da18d0d52e56dd6d7ebda1a0ba8b5][^c-304b72c2ff1d79bb1c1494c8655946d0]
+### Part III — Statutory Nuisances and Clean Air[^c13740321][^c20958641][^c20958651][^c20958681][^c20958721][^c-062d92d14c6d041ef9386171423a152f][^c-9ae13b5ffc3f7204008d0cdd4ebe0733][^c-b85bddabeecf1aa5cc4f7469e1f59ee2][^c-742beb85d1bf710d55ad35855a5269d8][^c-4d9da18d0d52e56dd6d7ebda1a0ba8b5][^c-304b72c2ff1d79bb1c1494c8655946d0][^c13739731]
 
 *Extent: E+W+S*
 
-#### Statutory nuisances . . .[^c13740331]
+#### Statutory nuisances . . .[^c13740331][^c13739731]
 
 *Extent: E+W+S*
 
@@ -336,23 +336,23 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 81B — Payment of expenses by instalments.](part-iii/section-81b.md)
 - [Section 82 — Summary proceedings by persons aggrieved by statutory nuisances.](part-iii/section-82.md)
 
-#### Statutory nuisances: Scotland
+#### Statutory nuisances: Scotland[^c13739731]
 
 - [Section 83 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-83.md)
 
-#### Termination of existing controls over offensive trades and businesses
+#### Termination of existing controls over offensive trades and businesses[^c13739731]
 
 - [Section 84 — Termination of Public Health Act controls over offensive trades etc.](part-iii/section-84.md)
 
-#### Application to gases of certain Clean Air Act provisions
+#### Application to gases of certain Clean Air Act provisions[^c13739731]
 
 - [Section 85 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-85.md)
 
-### Part IV — Litter Etc[^c13744351][^c13744361]
+### Part IV — Litter Etc[^c13744351][^c13744361][^c13739731]
 
 *Extent: E+W+S*
 
-#### Provisions relating to litter
+#### Provisions relating to litter[^c13739731]
 
 *Extent: E+W+S*
 
@@ -381,11 +381,11 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 97B — Exclusion of liability](part-iv/section-97b.md)
 - [Section 98 — Definitions.](part-iv/section-98.md)
 
-#### Abandoned trolleys
+#### Abandoned trolleys[^c13739731]
 
 - [Section 99 — Powers in relation to abandoned shopping and luggage trolleys.](part-iv/section-99.md)
 
-### Part V — Amendment of the Radioactive Substances Act 1960[^c13746881]
+### Part V — Amendment of the Radioactive Substances Act 1960[^c13746881][^c13739731]
 
 - [Section 100 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-100.md)
 - [Section 101 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-101.md)
@@ -394,9 +394,9 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 104 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-104.md)
 - [Section 105 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-105.md)
 
-### Part VI — Genetically Modified Organisms[^c13746961][^c13746971][^c17515381]
+### Part VI — Genetically Modified Organisms[^c13746961][^c13746971][^c17515381][^c13739731]
 
-#### Preliminary
+#### Preliminary[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -404,7 +404,7 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 106A — Exclusion of precision bred organisms from English application of Part](part-vi/section-106a.md)
 - [Section 107 — Meaning of “damage to the environment”, “control” and related expressions in Part VI.](part-vi/section-107.md)
 
-#### General controls
+#### General controls[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -412,7 +412,7 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 109 — General duties relating to importation, acquisition, keeping, release or marketing of organisms.](part-vi/section-109.md)
 - [Section 110 — Prohibition notices.](part-vi/section-110.md)
 
-#### Consents
+#### Consents[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -420,14 +420,14 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 112 — Consents: limitations and conditions.](part-vi/section-112.md)
 - [Section 113 — Fees and charges.](part-vi/section-113.md)
 
-#### Inspectors
+#### Inspectors[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 114 — Appointment etc of inspectors.](part-vi/section-114.md)
 - [Section 115 — Rights of entry and inspection.](part-vi/section-115.md)
 
-#### Enforcement powers and offences
+#### Enforcement powers and offences[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -438,14 +438,14 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 120 — Power of court to order cause of offence to be remedied.](part-vi/section-120.md)
 - [Section 121 — Power of Secretary of State to remedy harm.](part-vi/section-121.md)
 
-#### Publicity
+#### Publicity[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 122 — Public register of information.](part-vi/section-122.md)
 - [Section 123 — Exclusion from register of certain information.](part-vi/section-123.md)
 
-#### Supplementary
+#### Supplementary[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -454,50 +454,50 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 126 — Mode of exercise of certain functions.](part-vi/section-126.md)
 - [Section 127 — Definitions.](part-vi/section-127.md)
 
-### Part VII — Nature Conservation in Great Britain and Countryside Matters in Wales[^c13747371]
+### Part VII — Nature Conservation in Great Britain and Countryside Matters in Wales[^c13747371][^c13739731]
 
 *Extent: E+W+S*
 
-#### New Councils for England, Scotland and Wales
+#### New Councils for England, Scotland and Wales[^c13739731]
 
 - [Section 128 — Creation and constitution of new Councils.](part-vii/section-128.md)
 - [Section 129 — Grants to the Council](part-vii/section-129.md)
 
-#### Countryside matters
+#### Countryside matters[^c13739731]
 
 *Extent: E+W+S*
 
 - [Section 130 — Countryside functions of Welsh Council.](part-vii/section-130.md)
 
-#### Nature conservation in Great Britain
+#### Nature conservation in Great Britain[^c13739731]
 
 - [Section 131 — Nature conservation functions: preliminary.](part-vii/section-131.md)
 - [Section 132 — General functions of the Council.](part-vii/section-132.md)
 - [Section 133 — Special functions of Councils.](part-vii/section-133.md)
 - [Section 134 — Grants and loans by the Council.](part-vii/section-134.md)
 
-#### Transfer of property, rights and liabilities to new Councils
+#### Transfer of property, rights and liabilities to new Councils[^c13739731]
 
 - [Section 135 — Schemes for the transfer of property etc. of the Nature Conservancy Council.](part-vii/section-135.md)
 - [Section 136 — Transfer to Welsh Council of certain property etc. of Countryside Commission.](part-vii/section-136.md)
 
-#### Employment by new Councils of staff of existing bodies
+#### Employment by new Councils of staff of existing bodies[^c13739731]
 
 - [Section 137 — Offers of employment to employees of Nature Conservancy Council and certain employees of Countryside Commission.](part-vii/section-137.md)
 
-#### Dissolution of Nature Conservancy Council
+#### Dissolution of Nature Conservancy Council[^c13739731]
 
 - [Section 138 — Winding up and dissolution of Nature Conservancy Council.](part-vii/section-138.md)
 
-#### Transitional provisions and savings
+#### Transitional provisions and savings[^c13739731]
 
 - [Section 139 — Transitional provisions and savings.](part-vii/section-139.md)
 
-### Part VIII — Miscellaneous
+### Part VIII — Miscellaneous[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
-#### Other controls on substances, articles or waste
+#### Other controls on substances, articles or waste[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -508,13 +508,13 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 144 — Amendments of hazardous substances legislation.](part-viii/section-144.md)
 - [Section 145 — Penalties for offences of polluting controlled waters etc.](part-viii/section-145.md)
 
-#### Pollution at sea
+#### Pollution at sea[^c13739731]
 
 - [Section 146 — Deposits of substances and articles in the sea, etc.](part-viii/section-146.md)
 - [Section 147 — Public registers relating to deposits in the sea and incineration at sea.](part-viii/section-147.md)
 - [Section 148 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-viii/section-148.md)
 
-#### Control of Dogs
+#### Control of Dogs[^c13739731]
 
 *Extent: E+W+S*
 
@@ -522,19 +522,19 @@ An Act to make provision for the improved control of pollution arising from cert
 - [Section 150 — Delivery of stray dogs to . . . local authority officer.](part-viii/section-150.md)
 - [Section 151 — Enforcement of orders about collars and tags for dogs.](part-viii/section-151.md)
 
-#### Straw and stubble burning
+#### Straw and stubble burning[^c13739731]
 
 *Extent: E+W+S*
 
 - [Section 152 — Burning of straw and stubble etc.](part-viii/section-152.md)
 
-#### Environmental expenditure
+#### Environmental expenditure[^c13739731]
 
 - [Section 153 — Financial assistance for environmental purposes.](part-viii/section-153.md)
 - [Section 154 — The Groundwork Foundation: superannuation.](part-viii/section-154.md)
 - [Section 155 — Remuneration of chairman of Inland Waterways Amenity Advisory Council.](part-viii/section-155.md)
 
-### Part IX — General
+### Part IX — General[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -552,7 +552,7 @@ An Act to make provision for the improved control of pollution arising from cert
 
 *Extent: E+W+S+N.I.*
 
-SCHEDULES
+SCHEDULES[^c13739731]
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)

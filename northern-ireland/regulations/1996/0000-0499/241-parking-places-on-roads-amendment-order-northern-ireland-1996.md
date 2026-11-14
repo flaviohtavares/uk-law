@@ -3,14 +3,14 @@ title: Parking Places on Roads (Amendment) Order (Northern Ireland) 1996
 id: nisr/1996/241
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-14'
-text_date: null
-extent: null
+text_date: '1996-06-14'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/241
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/241/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/241/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Parking Places on Roads (Amendment) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 1996-06-14. See https://www.legislation.gov.uk/changes/affected/nisr/1996/241
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 241
 

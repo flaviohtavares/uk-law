@@ -59,7 +59,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **1996**
 
 - [The Social Security Benefits Up-rating Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/73-the-social-security-benefits-up-rating-order-northern-ireland-1996/README.md) *(changes pending)*
-- [The Statutory Maternity Pay (General) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/206-the-statutory-maternity-pay-general-amendment-regulations-northern-ireland-1996.md) *(as originally made)*
+- [The Statutory Maternity Pay (General) (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/206-the-statutory-maternity-pay-general-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
 
 **1994**
 

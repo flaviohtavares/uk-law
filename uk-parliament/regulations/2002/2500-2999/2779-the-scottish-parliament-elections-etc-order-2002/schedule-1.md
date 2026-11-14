@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 1
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
 ## SCHEDULE 1
+
+*Extent: S*
 
 ELECTORS REGISTERS:
 
@@ -40,7 +44,7 @@ Supply a full register etc to elected representatives for electoral purposes and
 
 Supply of full register etc to certain candidates and restrictions on use.
 
-### 1. Supply of free copy of full register for electoral purposes
+### 1. Supply of free copy of full register for electoral purposes[^c-ccc0c70164304ad98a491644bed77627]
 
 (1) As soon as practicable after the relevant date, a registration officer shall supply free of charge to the returning officer for the council, or as the case may be, each council, constituted under section 2 of the Local Government etc (Scotland) Act 1994 for his registration area as many printed copies of–
 
@@ -65,7 +69,7 @@ as the returning officer may reasonably require for the purposes of a Scottish P
 
 except for the purposes of an election.
 
-### 2. Supply of full register etc under paragraphs 3 and 4: general provisions
+### 2. Supply of full register etc under paragraphs 3 and 4: general provisions[^c-12dba4bc8c8461ebad5910d94a832958]
 
 (1) The persons or organisations falling within paragraph 3 or 4 below may request the registration officer to supply free of charge the relevant part (within the meaning of those paragraphs) of any of the following:–
 
@@ -86,7 +90,7 @@ except for the purposes of an election.
 
 (6) A person who obtains a copy of any document under sub-paragraph (4) above may use it for any purpose for which that person would be entitled to obtain that document under this Schedule and any restrictions which apply under whichever of paragraph 3 or 4 below entitles that person to obtain that document for that purpose shall apply to such use.
 
-### 3. Supply of full register etc to elected representatives for electoral purposes and restrictions on use
+### 3. Supply of full register etc to elected representatives for electoral purposes and restrictions on use[^c-f8987e61537868e39da40db662b8b8a3]
 
 (1) This paragraph applies to–
 
@@ -108,7 +112,7 @@ except for purposes in connection with the office by virtue of which he is entit
 
 (4) In this paragraph and paragraph 4 below a reference to the edited register is a reference to the version of the register published under regulation 93 of the Representation of the People (Scotland) Regulations 2001[^f00039].
 
-### 4. Supply of full register etc to certain candidates and restrictions on use
+### 4. Supply of full register etc to certain candidates and restrictions on use[^c-a996bb13803ba99c48bdb60f2b145e7f]
 
 (1) This paragraph applies to a candidate at a Scottish Parliamentary election where any part of the area in respect of which the candidate stands for election includes the whole or part of the registration area.
 
@@ -128,4 +132,12 @@ except for electoral purposes.
 
 ## Annotations
 
+[^c-ccc0c70164304ad98a491644bed77627]: Commencement: Sch. 1 para. 1 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-12dba4bc8c8461ebad5910d94a832958]: Commencement: Sch. 1 para. 2 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-f8987e61537868e39da40db662b8b8a3]: Commencement: Sch. 1 para. 3 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
 [^f00039]: Footnote: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497); regulation 93 was inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), article 14.
+
+[^c-a996bb13803ba99c48bdb60f2b145e7f]: Commencement: Sch. 1 para. 4 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

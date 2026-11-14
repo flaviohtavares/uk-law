@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 45
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '45'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/45
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 45
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 45. Declarations as to election expenses: candidates for return as constituency members and individual candidates for return as regional members
+## 45. Declarations as to election expenses: candidates for return as constituency members and individual candidates for return as regional members[^c-b73d56e27a47cde9f43c66b05a7ba1f8]
+
+*Extent: S*
 
 (1) Each return delivered under article 44 above shall be accompanied by a declaration made by the election agent in the form D set out in the Appendix.
 
@@ -40,3 +44,7 @@ but the delay authorised by this provision in making the declaration shall not e
 the declaration by the election agent as to the election expenses need not be made and the declaration by the candidate as to election expenses shall be modified as specified in the form D set out in the Appendix.
 
 (5) If a candidate or election agent knowingly makes the declaration required by this article falsely, he shall be guilty of a corrupt practice.
+
+## Annotations
+
+[^c-b73d56e27a47cde9f43c66b05a7ba1f8]: Commencement: Art. 45 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

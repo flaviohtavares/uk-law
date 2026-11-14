@@ -510,7 +510,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Health and Social Services Trusts (Originating Capital Debt) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/160-the-health-and-social-services-trusts-originating-capital-debt-amendment-order-n.md) *(as originally made)*
 - [The Health and Social Services Trusts (Originating Capital Debt) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/125-the-health-and-social-services-trusts-originating-capital-debt-order-northern-ir.md)
 - [The Sperrin Lakeland Health and Social Services Trust (Establishment) (Amendment) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/220-the-sperrin-lakeland-health-and-social-services-trust-establishment-amendment-or.md) *(as originally made)*
-- [Travelling Expenses and Remission of Charges (Amendment No. 2) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/209-travelling-expenses-and-remission-of-charges-amendment-no-2-regulations-northern.md) *(as originally made)*
+- [Travelling Expenses and Remission of Charges (Amendment No. 2) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/209-travelling-expenses-and-remission-of-charges-amendment-no-2-regulations-northern.md) *(changes pending)*
 - [Travelling Expenses and Remission of Charges (Amendment No. 3) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/425-travelling-expenses-and-remission-of-charges-amendment-no-3-regulations-northern.md) *(as originally made)*
 
 **1994**

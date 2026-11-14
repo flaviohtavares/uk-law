@@ -3,7 +3,7 @@ title: Trade Union and Labour Relations (Consolidation) Act 1992, SCHEDULE A1
 act: Trade Union and Labour Relations (Consolidation) Act 1992
 section: schedule-a1
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/52/schedule/a1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Trade Union and Labour Relations (Consolidation) Act 1992, SCHEDULE A1
 
-> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+> **Warning: changes not yet applied to this text (27).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
 > Extent: England, Wales, Scotland.
 
@@ -37,6 +37,8 @@ summary: ''
 (4) References to the employer are to the employer of the workers constituting the bargaining unit concerned.
 
 (5) References to the parties are to the union (or unions) and the employer.
+
+(6)[^c-7f3ca34ee93a2c0a8e7b46e49f21d8c8] In relation to an application under paragraph 11 or 12, a reference to the application day is to the day on which the CAC receives the application.
 
 **3.** (1) This paragraph applies for the purposes of this Part of this Schedule.
 
@@ -166,11 +168,90 @@ and different provision may be made for different circumstances.
 
 **13.** The CAC must give notice to the parties of receipt of an application under paragraph 11 or 12.
 
+**13A.**[^c-90716595801997e623ae60ded20fc614] (1) This paragraph applies if—
+
+- (a) the CAC has received an application under paragraph 11 or 12, and
+- (b) it has given notice to the employer under paragraph 13 of receipt of the application.
+
+(2) The employer must comply with the following duties (so far as it is reasonable to expect the employer to do so).
+
+(3) The duties are—
+
+- (a) to give to the CAC, within the relevant period, the specified information in relation to each of the relevant workers;
+- (b) if the relevant workers change as a result of an appropriate bargaining unit being agreed by the parties or decided by the CAC, to give to the CAC, within the relevant period, the specified information in relation to each of those who are now the relevant workers;
+- (c) to take reasonable steps to ensure that the information given to the CAC under paragraph (a) or (b) does not include any information relating to an individual who is not a relevant worker;
+- (d) to inform the CAC, as soon as reasonably practicable, of any worker in relation to whom information has been given to the CAC under paragraph (a) or (b) and who ceases to be a relevant worker (otherwise than by reason of a change mentioned in paragraph (b)).
+
+(4) The relevant period is—
+
+- (a) in the case of the duty in sub-paragraph (3)(a)—
+  - (i) the period of 5 working days starting with the day after that on which notice was given to the employer of receipt of the application, or
+  - (ii) such longer period (so starting) as the CAC may specify to the parties by notice containing reasons for the extension;
+- (b) in the case of the duty in sub-paragraph (3)(b)—
+  - (i) the period of 5 working days starting with the day after that on which the bargaining unit is agreed or the CAC’s decision is notified to the employer, or
+  - (ii) such longer period (so starting) as the CAC may specify to the parties by notice containing reasons for the extension.
+
+(5) The specified information, in relation to a relevant worker, is—
+
+- (a) the worker’s name;
+- (b) the worker’s date of birth;
+- (c) the category of worker to which the relevant worker belongs.
+
+(6) In the case of an application under paragraph 11(2) or 12(2), the relevant workers are—
+
+- (a) in relation to any time before an appropriate bargaining unit is agreed by the parties or decided by the CAC, those falling within the proposed bargaining unit, and
+- (b) in relation to any time after an appropriate bargaining unit is so agreed or decided, those falling within the bargaining unit agreed or decided upon,
+
+but excluding any worker who joined the bargaining unit after the application day.
+
+(7) In the case of an application under paragraph 12(4), the relevant workers are those falling within the bargaining unit agreed by the parties, excluding any worker who joined the bargaining unit after the application day.
+
+**13B.** (1) Sub-paragraph (2) applies if—
+
+- (a) the CAC is satisfied that the employer has failed to fulfil a duty mentioned in paragraph 13A(3), and
+- (b) the application under paragraph 11 or 12 is in progress.
+
+(2) The CAC may order the employer—
+
+- (a) to take such steps to remedy the failure as the CAC considers reasonable and specifies in the order, and
+- (b) to do so within such period as the CAC considers reasonable and specifies in the order;
+
+and in this paragraph a “**remedial order**” means an order under this sub-paragraph.
+
+(3) If—
+
+- (a) the CAC is satisfied that the employer has failed to comply with a remedial order, and
+- (b) the application under paragraph 11 or 12 is in progress,
+
+the CAC must, as soon as reasonably practicable, notify the employer and the union (or unions) that it is satisfied that the employer has failed to comply.
+
+(4) A remedial order and a notice under sub-paragraph (3) must draw the recipient’s attention to the effect of sub-paragraphs (5) and (6).
+
+(5) Sub-paragraph (6) applies if—
+
+- (a) the CAC is satisfied that the employer has failed to comply with a remedial order,
+- (b) the application under paragraph 11 or 12 is in progress,
+- (c) the parties have agreed an appropriate bargaining unit or the CAC has decided an appropriate bargaining unit, and
+- (d) in the case of an application under paragraph 11(2) or 12(2), the CAC, if required to do so, has decided under paragraph 20 that the application is not invalid.
+
+(6) The CAC may issue a declaration that the union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of the workers constituting the bargaining unit.
+
+(7) For the purposes of this paragraph, an application under paragraph 11 or 12 is in progress if none of the following has occurred—
+
+- (a) the withdrawal of the application;
+- (b) the CAC giving notice of a decision under paragraph 14(7) which precludes it from accepting the application;
+- (c) the CAC giving notice under paragraph 15(4)(a) in relation to the application;
+- (d) the CAC giving notice to the union (or unions) of a decision under paragraph 20 that the application is invalid;
+- (e) the CAC giving notice to the union (or unions) of a declaration issued under paragraph 13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5), 22(2) or 27(2) in relation to the application;
+- (f) the holding of any ballot arising from the application.
+
 **14.** (1) This paragraph applies if—
 
 - (a) two or more relevant applications are made,
 - (b) at least one worker falling within one of the relevant bargaining units also falls within the other relevant bargaining unit (or units), and
 - (c) the CAC has not accepted any of the applications.
+
+(1A)[^c-644647956a114c8a9813d582847e6f61] For the purposes of sub-paragraph (1)(b), any worker who joined any of the relevant bargaining units after the application day is to be disregarded.
 
 (2) A relevant application is an application under paragraph 11 or 12.
 
@@ -182,6 +263,8 @@ and different provision may be made for different circumstances.
 (4) Within the acceptance period the CAC must decide, with regard to each relevant application, whether the required percentage test[^c-012d919dece945ac498fb29604ff2e96] is satisfied.
 
 (5) The required percentage test[^c-90ba1529a8a224a3480a94656ea1f52b] is satisfied if members of the union (or unions) constitute at least the required percentage (see paragraph 171B)[^c-7bfed64b6bec91edd731e9b407f2540c] of the workers constituting the relevant bargaining unit.
+
+(5A)[^c-c2db62179ee8916c460d78d73abdf1f0] For the purposes of sub-paragraph (5), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
 
 (6) The acceptance period is—
 
@@ -232,7 +315,7 @@ the CAC must not accept any of the relevant applications.
 - (a) the period of 10 working days starting with the day after that on which the CAC receives the application, or
 - (b) such longer period (so starting) as the CAC may specify to the parties by notice containing reasons for the extension.
 
-**16.** (1) If an application under paragraph 19F(5) or[^c20398891] 11 or 12 is accepted by the CAC, the union (or unions) may not withdraw the application—
+**16.** (1) If an application under paragraph 13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5)[^c-8bb120a8a29bb5da17bca56e0f5981df][^c20398891] or 11 or 12 is accepted by the CAC, the union (or unions) may not withdraw the application—
 
 - (a) after the CAC issues a declaration under paragraph 22(2), or
 - (b) after the union (or the last of the unions) receives notice under paragraph 22(3) or 23(2).
@@ -253,7 +336,7 @@ the CAC must not accept any of the relevant applications.
 
 (3) The final event occurs when the first of the following occurs—
 
-- (a) the CAC issues a declaration under paragraph 19F(5) or[^c20398911] 22(2) in consequence of the application;
+- (a) the CAC issues a declaration under paragraph 13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5)[^c-7c56f9717889008e8f6ca7f89158139a][^c20398911] or 22(2) in consequence of the application;
 - (b) the last day of the notification period ends;
 
 and the notification period is that defined by paragraph 24(6)[^c20398931] and arising from the application.
@@ -349,6 +432,8 @@ and the notification period is that defined by paragraph 24(6)[^c20398931] and a
 
 (2) The union (or unions) may apply to the CAC for the appointment of a suitable independent person to handle communications during the initial period between the union (or unions) and the relevant workers.
 
+(2A)[^c-7041a205e145b356148c435ccc1e80f3] An application under sub-paragraph (2) is valid only if it is made before the end of the period of 5 working days starting with the day after the day on which the CAC gives the union (or unions) notice under paragraph 15(5) that the application mentioned in sub-paragraph (1) is accepted.
+
 (3) In the case of an application under paragraph 11(2) or 12(2), the relevant workers are—
 
 - (a) in relation to any time before an appropriate bargaining unit is agreed by the parties or decided by the CAC, those falling within the proposed bargaining unit, and
@@ -360,7 +445,7 @@ and the notification period is that defined by paragraph 24(6)[^c20398931] and a
 
 - (a) the application under paragraph 11 or 12 is withdrawn;
 - (b) the CAC gives notice to the union (or unions) of a decision under paragraph 20 that the application is invalid;
-- (c) the CAC notifies the union (or unions) of a declaration issued under paragraph 19F(5) or 22(2);
+- (c) the CAC notifies the union (or unions) of a declaration issued under paragraph 13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5)[^c-750930828d420f4d2302ed60d8af6173] or 22(2);
 - (d) the CAC informs the union (or unions) under paragraph 25(9) of the name of the person appointed to conduct a ballot.
 
 (6) A person is a suitable independent person if—
@@ -368,7 +453,7 @@ and the notification period is that defined by paragraph 24(6)[^c20398931] and a
 - (a) he satisfies such conditions as may be specified for the purposes of paragraph 25(7)(a) by an order under that provision, or is himself specified for those purposes by such an order, and
 - (b) there are no grounds for believing either that he will carry out any functions arising from his appointment otherwise than competently or that his independence in relation to those functions might reasonably be called into question.
 
-(7) On an application under sub-paragraph (2) the CAC must as soon as reasonably practicable—
+(7) On a valid application[^c-55afbea22020f6ac83808d1f06907c18] under sub-paragraph (2) the CAC must as soon as reasonably practicable—
 
 - (a) make such an appointment as is mentioned in that sub-paragraph, and
 - (b) inform the parties of the name of the person appointed and the date of his appointment.
@@ -754,18 +839,22 @@ and such an agreement is “entered into” when the terms are so agreed or deci
 
 **22.** (1) This paragraph applies if—
 
-- (a) the CAC proceeds with an application in accordance with paragraph 20 or 21 (and makes no declaration under paragraph 19F(5))[^c20400701], and
+- (a) the CAC proceeds with an application in accordance with paragraph 20 or 21 (and makes no declaration under paragraph[^c20400701] 13B(6), 19F(5), 19K(4) or (5) or 19P(4) or (5)[^c-a43f4b5beaac368ae0fcf17bad5ddbcf]), and
 - (b) the CAC is satisfied that a majority of the workers constituting the bargaining unit are members of the union (or unions).
+
+(1A)[^c-90e51728c63decb4972c21273a9434b7] For the purposes of sub-paragraph (1)(b), any worker who joined the bargaining unit after the application day is to be disregarded.
 
 (2) The CAC must issue a declaration that the union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of the workers constituting the bargaining unit.
 
-(3) But if any of the three qualifying conditions is fulfilled, instead of issuing a declaration under sub-paragraph (2) the CAC must give notice to the parties that it intends to arrange for the holding of a secret ballot in which the workers constituting the bargaining unit are asked whether they want the union (or unions) to conduct collective bargaining on their behalf.
+(3) But if any of the three qualifying conditions is fulfilled, instead of issuing a declaration under sub-paragraph (2) the CAC must give notice to the parties that it intends to arrange for the holding of a secret ballot in which the workers constituting the bargaining unit , other than those who joined the bargaining unit after the application day,[^c-98326238b540528751c20110d1819f07] are asked whether they want the union (or unions) to conduct collective bargaining on their behalf.
 
 (4) These are the three qualifying conditions—
 
 - (a) the CAC is satisfied that a ballot should be held in the interests of good industrial relations;
 - (b)[^c20400771] the CAC has evidence, which it considers to be credible, from a significant number of the union members within the bargaining unit that they do not want the union (or unions) to conduct collective bargaining on their behalf;
 - (c) membership evidence is produced which leads the CAC to conclude that there are doubts whether a significant number of the union members within the bargaining unit want the union (or unions) to conduct collective bargaining on their behalf.
+
+(4A)[^c-d613aa01f4aa6372771a5f910dc802c9] For the purposes of sub-paragraph (4)(b) and (c), evidence from or relating to a worker who joined the bargaining unit after the application day is to be disregarded.
 
 (5) For the purposes of sub-paragraph (4)(c) membership evidence is—
 
@@ -774,12 +863,14 @@ and such an agreement is “entered into” when the terms are so agreed or deci
 
 **23.** (1) This paragraph applies if—
 
-- (a) the CAC proceeds with an application in accordance with paragraph 20 or 21 (and makes no declaration under paragraph 19F(5))[^c20400931], and
+- (a) the CAC proceeds with an application in accordance with paragraph 20 or 21 (and makes no declaration under paragraph[^c20400931] 13B(6), 19F(5), 19K(4) or (5) or 19P(4) or (5)[^c-1cab2965e98061a43025d59203f0b0e0]), and
 - (b) the CAC is not satisfied that a majority of the workers constituting the bargaining unit are members of the union (or unions).
 
-(2) The CAC must give notice to the parties that it intends to arrange for the holding of a secret ballot in which the workers constituting the bargaining unit are asked whether they want the union (or unions) to conduct collective bargaining on their behalf.
+(1A)[^c-972774165b73bc1b76bc64ba026fec76] For the purposes of sub-paragraph (1)(b), any worker who joined the bargaining unit after the application day is to be disregarded.
 
-**24.** (1) This paragraph applies if the CAC gives notice under paragraph 22(3) or 23(2).
+(2) The CAC must give notice to the parties that it intends to arrange for the holding of a secret ballot in which the workers constituting the bargaining unit , other than those who joined the bargaining unit after the application day,[^c-799c3f6d3737773cb5529748b1a1892f] are asked whether they want the union (or unions) to conduct collective bargaining on their behalf.
+
+**24.** (1) This paragraph 19O(5),[^c-6bbcb4ab255621a4e0c3386fb5cd402c] applies if the CAC gives notice under paragraph 22(3) or 23(2).
 
 (2) Within the notification period—
 
@@ -798,17 +889,21 @@ may notify the CAC that the party making the notification does not (or the parti
 
 (5)[^c20400941] The notification period is, in relation to notification by the union (or unions)—
 
-- (a) the period of 10 working days starting with the day on which the union (or last of the unions) receives the CAC’s notice under paragraph 22(3) or 23(2), or
-- (b) such longer period so starting as the CAC may specify to the parties by notice.
+- (za)[^c-8c599e9d430eee468dbd3dfccb0acabd] in the case of notice given under paragraph 19O(5), the period of 5 working days starting with the day on which the union (or the last of the unions) receives that notice,
+- (a) in the case of notice given under paragraph 22(3) or 23(2),[^c-3a9788881401a228f88051601b085797] the period of 10 working days starting with the day on which the union (or last of the unions) receives that notice[^c-d5ed4bc4cb5ceb943d624f048fa17011], or
+- (b) such longer period starting with the day mentioned in paragraph (za) or (a) (as the case may be)[^c-db2c6ef44b1418cbb1e04aa7b108d821] as the CAC may specify to the parties by notice.
 
 (6) The notification period is, in relation to notification by the union (or unions) and the employer—
 
-- (a) the period of 10 working days starting with the day on which the last of the parties receives the CAC’s notice under paragraph 22(3) or 23(2), or
-- (b) such longer period so starting as the CAC may specify to the parties by notice.
+- (za)[^c-bf400600e67118f74ddf6c15375b2e81] in the case of notice given under paragraph 19O(5), the period of 5 working days starting with the day on which the union (or the last of the unions) receives that notice,
+- (a) in the case of notice given under paragraph 22(3) or 23(2),[^c-56e86d7ebf5371cee9fa39916c6fefa1] the period of 10 working days starting with the day on which the last of the parties receives that notice[^c-f82ebb9a63a4bc2e7fc6598f102b3d90], or
+- (b) such longer period starting with the day mentioned in paragraph (za) or (a) (as the case may be)[^c-d237ad27edcab490bf42c1b267c92ea1] as the CAC may specify to the parties by notice.
 
 (7) The CAC may give a notice under sub-paragraph (5)(b) or (6)(b) only if the parties have applied jointly to it for the giving of such a notice.
 
 **25.** (1) This paragraph applies if the CAC arranges under paragraph 24 for the holding of a ballot.
+
+(1A)[^c-58b72b3476ae5017ea4bc6ddfe1bec60] A worker who joined the bargaining unit after the application day is not eligible to vote in the ballot.
 
 (2) The ballot must be conducted by a qualified independent person appointed by the CAC.
 
@@ -858,45 +953,37 @@ to be given the opportunity (if they request it far enough in advance of the bal
 - (d) whether the ballot is to be conducted by post or at a workplace or workplaces;
 - (e) of the workplace or workplaces concerned (if the ballot is to be conducted at a workplace or workplaces).
 
-**26.** (1) An employer who is informed by the CAC under paragraph 25(9) must comply with the following five[^c20401131] duties.
+**26.** (1) An employer who is informed by the CAC under paragraph 25(9) must comply with the following [^c-e41995304aa91bba3e5030a636c47d52]... duties.
 
-(2) The first duty is to co-operate generally, in connection with the ballot, with the union (or unions) and the person appointed to conduct the ballot; and the second and third duties are not to prejudice the generality of this.
+(2) The employer must[^c-72e2cc7607bf7ebb4dc1519472b8b402] co-operate generally, in connection with the ballot, with the union (or unions) and the person appointed to conduct the ballot; and no other duty of the employer under this Part of this Schedule is[^c-7fd3255f0f26cb2b197f51d1d83c3686] to prejudice the generality of this.
 
-(3) The second duty is to give to the union (or unions) such access to the workers constituting the bargaining unit as is reasonable to enable the union (or unions) to inform the workers of the object of the ballot and to seek their support and their opinions on the issues involved.
+(3)[^c-5943252e4bfa3a473beb3a57c3001376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The third duty is to do the following (so far as it is reasonable to expect the employer to do so)—
+(4) The employer must[^c-b37568f0294d63810ddc0ffb7f02f441] do the following (so far as it is reasonable to expect the employer to do so)—
 
-- (a) to give to the CAC, within the period of 10 working days starting with the day after that on which the employer is informed under paragraph 25(9), the names and home addresses of the workers constituting the bargaining unit;
-- (b) to give to the CAC, as soon as is reasonably practicable, the name and home address of any worker who joins the unit after the employer has complied with paragraph (a);
-- (c) to inform the CAC, as soon as is reasonably practicable, of any worker whose name has been given to the CAC under paragraph 19D or paragraph (a) or (b) of this sub-paragraph and[^c20401071] who ceases to be within the unit.
+- (a) give[^c-dd350b9b7a49d0a68a045eaca6128feb] to the CAC, within the period of 10 working days starting with the day after that on which the employer is informed under paragraph 25(9), the names and home addresses of the workers eligible to vote in the ballot[^c-6df1359a082da5ac9ccd1dc9aede7c9d];
+- (b)[^c-85134fcb67b5564cbb172f9f3b0a0018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) inform[^c-2a9c0a71eeb28ecd969aafd289d8d527] the CAC, as soon as is reasonably practicable, of any worker whose name has been given to the CAC under paragraph 19D or paragraph (a)[^c20401071] [^c-1df89b6ff6915433fd6092eb89eb1e1a]... of this sub-paragraph and who ceases to be within the unit.
 
-(4A)[^c20401551] The fourth duty is to refrain from making any offer to any or all of the workers constituting the bargaining unit which—
+(4ZA)[^c-d67ab98a377a67633e5e76f4853c78ce] If the ballot is being held by virtue of paragraph 19O(5), the duty under sub-paragraph (4)(a) is limited to—
 
-- (a) has or is likely to have the effect of inducing any or all of them not to attend any relevant meeting between the union (or unions) and the workers constituting the bargaining unit, and
-- (b) is not reasonable in the circumstances.
+- (a) giving the CAC the names and home addresses of any workers eligible to vote in the ballot which have not previously been given to it in accordance with that duty;
+- (b) informing the CAC of any change to the name or home address of a worker whose name and home address have previously been given to the CAC in accordance with that duty;
+- (c) informing the CAC of any worker whose name had previously been given to it in accordance with that duty who has ceased to be within the bargaining unit.
 
-(4B) The fifth duty is to refrain from taking or threatening to take any action against a worker solely or mainly on the grounds that he—
+(4A)[^c-baaeef4c27b761f1d955d844f0805cff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) attended or took part in any relevant meeting between the union (or unions) and the workers constituting the bargaining unit, or
-- (b) indicated his intention to attend or take part in such a meeting.
+(4B)[^c-baaeef4c27b761f1d955d844f0805cff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4C) A meeting is a relevant meeting in relation to a worker for the purposes of sub-paragraphs (4A) and (4B) if—
+(4C)[^c-baaeef4c27b761f1d955d844f0805cff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) it is organised in accordance with any agreement reached concerning the second duty or as a result of a step ordered to be taken under paragraph 27 to remedy a failure to comply with that duty, and
-- (b) it is one which the employer is, by such an agreement or order as is mentioned in paragraph (a), required to permit the worker to attend.
+(4D)[^c-baaeef4c27b761f1d955d844f0805cff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4D) Without prejudice to the generality of the second duty imposed by this paragraph, an employer is to be taken to have failed to comply with that duty if—
-
-- (a) he refuses a request for a meeting between the union (or unions) and any or all of the workers constituting the bargaining unit to be held in the absence of the employer or any representative of his (other than one who has been invited to attend the meeting) and it is not reasonable in the circumstances for him to do so,
-- (b) he or a representative of his attends such a meeting without having been invited to do so,
-- (c) he seeks to record or otherwise be informed of the proceedings at any such meeting and it is not reasonable in the circumstances for him to do so, or
-- (d) he refuses to give an undertaking that he will not seek to record or otherwise be informed of the proceedings at any such meeting unless it is reasonable in the circumstances for him to do either of those things.
-
-(4E) The fourth and fifth duties do not confer any rights on a worker; but that does not affect any other right which a worker may have.
+(4E)[^c-baaeef4c27b761f1d955d844f0805cff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4F)[^c20401091] Sub-paragraph (4)(a) does not apply to names and addresses that the employer has already given to the CAC under paragraph 19D.
 
-(4G) Where (because of sub-paragraph (4F)) the employer does not have to comply with sub-paragraph (4)(a), the reference in sub-paragraph (4)(b) to the time when the employer complied with sub-paragraph (4)(a) is to be read as a reference to the time when the employer is informed under paragraph 25(9).
+(4G)[^c-1d435904f073dd9c5c427732c61b56a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4H) If—
 
@@ -916,15 +1003,9 @@ any information supplied by the union (or unions) to the person so appointed.
 
 (7) The duty under sub-paragraph (6) does not apply unless the union bears (or unions bear) the cost of sending the information.
 
-(8)[^c20402081] Each of the powers specified in sub-paragraph (9) shall be taken to include power to issue Codes of Practice—
+(8)[^c-ddbf5397db896c1069c8067dfff2e6cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) about reasonable access for the purposes of sub-paragraph (3), and
-- (b) about the fourth duty imposed by this paragraph.
-
-(9) The powers are—
-
-- (a) the power of ACAS under section 199(1);
-- (b) the power of the Secretary of State under section 203(1)(a).
+(9)[^c-0ce5006cb6bde8dc163f87261d16d14e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** (1) If the CAC is satisfied that the employer has failed to fulfil any of the duties imposed on him[^c20402711] by paragraph 26, and the ballot has not been held, the CAC may order the employer—
 
@@ -935,118 +1016,59 @@ any information supplied by the union (or unions) to the person so appointed.
 
 (3) If the CAC issues a declaration under sub-paragraph (2) it shall take steps to cancel the holding of the ballot; and if the ballot is held it shall have no effect.
 
-**27A.**[^c20402751] (1) Each of the parties informed by the CAC under paragraph 25(9) must refrain from using any unfair practice.
+**27ZA.**[^c-549ff10a9f326b461be428d81c3981e8] (1) This paragraph applies if—
 
-(2) A party uses an unfair practice if, with a view to influencing the result of the ballot, the party—
+- (a) the union has (or unions have) been informed of a ballot under paragraph 25(9), and
+- (b) the CAC issues a declaration under paragraph 19K.
 
-- (a) offers to pay money or give money’s worth to a worker entitled to vote in the ballot in return for the worker’s agreement to vote in a particular way or to abstain from voting,
-- (b) makes an outcome-specific offer to a worker entitled to vote in the ballot,
-- (c) coerces or attempts to coerce a worker entitled to vote in the ballot to disclose—
-  - (i) whether he intends to vote or to abstain from voting in the ballot, or
-  - (ii) how he intends to vote, or how he has voted, in the ballot,
-- (d) dismisses or threatens to dismiss a worker,
-- (e) takes or threatens to take disciplinary action against a worker,
-- (f) subjects or threatens to subject a worker to any other detriment, or
-- (g) uses or attempts to use undue influence on a worker entitled to vote in the ballot.
+(2) If the ballot has not been held, the CAC must take steps to cancel it.
 
-(3) For the purposes of sub-paragraph (2)(b) an “outcome-specific offer” is an offer to pay money or give money’s worth which—
+(3) If the ballot is held, it is to have no effect.
 
-- (a) is conditional on the issuing by the CAC of a declaration that—
-  - (i) the union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of the bargaining unit, or
-  - (ii) the union is (or unions are) not entitled to be so recognised, and
-- (b) is not conditional on anything which is done or occurs as a result of the declaration in question.
+**27ZB.** (1) This paragraph applies if—
 
-(4) The duty imposed by this paragraph does not confer any rights on a worker; but that does not affect any other right which a worker may have.
+- (a) the union has (or unions have) been informed of a ballot under paragraph 25(9),
+- (b) a complaint is made under paragraph 19N, and
+- (c) the ballot did not begin before the beginning of the decision period referred to in paragraph 19N(5).
 
-(5) Each of the following powers shall be taken to include power to issue Codes of Practice about unfair practices for the purposes of this paragraph—
+(2) The CAC may by notice to the parties and the qualified independent person postpone the date on which the ballot is to begin until a date which falls after the end of the decision period.
 
-- (a) the power of ACAS under section 199(1);
-- (b) the power of the Secretary of State under section 203(1)(a).
+**27ZC.** (1) This paragraph applies if—
 
-**27B.** (1) A party may complain to the CAC that another party has failed to comply with paragraph 27A.
+- (a) the union has (or unions have) been informed of a ballot under paragraph 25(9),
+- (b) the CAC issues a declaration that a complaint under paragraph 19N is well-founded, and
+- (c) the CAC—
+  - (i) gives a notice under paragraph 19O(5), or
+  - (ii) issues a declaration under paragraph 19P(4) or (5).
 
-(2) A complaint under sub-paragraph (1) must be made on or before the first working day after—
+(2) If the ballot has not been held, the CAC must take steps to cancel it.
 
-- (a) the date of the ballot, or
-- (b) if votes may be cast in the ballot on more than one day, the last of those days.
+(3) If the ballot is held, it is to have no effect.
 
-(3) Within the decision period the CAC must decide whether the complaint is well-founded.
+**27ZD.** (1) This paragraph applies if—
 
-(4) A complaint is well-founded if—
+- (a) the CAC gives a notice under paragraph 19O(5), and
+- (b) the CAC has previously made an order under paragraph 27(1) in relation to a cancelled or ineffective ballot in connection with the application to which the notice relates.
 
-- (a) the CAC finds that the party complained against used an unfair practice, and
-- (b) the CAC is satisfied that the use of that practice changed or was likely to change, in the case of a worker entitled to vote in the ballot—
-  - (i) his intention to vote or to abstain from voting,
-  - (ii) his intention to vote in a particular way, or
-  - (iii) how he voted.
+(2) The order has effect, to the extent that the CAC specifies in a notice to the parties, as if it were made for the purposes of the ballot to which the notice under paragraph 19O(5) relates.
 
-(5) The decision period is—
+**27A.**[^c-165dce2ef9f307a6197f2e63371c0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the period of 10 working days starting with the day after that on which the complaint under sub-paragraph (1) was received by the CAC, or
-- (b) such longer period (so starting) as the CAC may specify to the parties by a notice containing reasons for the extension.
+**27B.**[^c-165dce2ef9f307a6197f2e63371c0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) If, at the beginning of the decision period, the ballot has not begun, the CAC may by notice to the parties and the qualified independent person postpone the date on which it is to begin until a date which falls after the end of the decision period.
+**27C.**[^c-165dce2ef9f307a6197f2e63371c0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27C.** (1) This paragraph applies if the CAC decides that a complaint under paragraph 27B is well-founded.
+**27D.**[^c-165dce2ef9f307a6197f2e63371c0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The CAC must, as soon as is reasonably practicable, issue a declaration to that effect.
+**27E.**[^c-165dce2ef9f307a6197f2e63371c0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The CAC may do either or both of the following—
-
-- (a) order the party concerned to take any action specified in the order within such period as may be so specified, or
-- (b) give notice to the employer and to the union (or unions) that it intends to arrange for the holding of a secret ballot in which the workers constituting the bargaining unit are asked whether they want the union (or unions) to conduct collective bargaining on their behalf.
-
-(4) The CAC may give an order or a notice under sub-paragraph (3) either at the same time as it issues the declaration under sub-paragraph (2) or at any other time before it acts under paragraph 29.
-
-(5) The action specified in an order under sub-paragraph (3)(a) shall be such as the CAC considers reasonable in order to mitigate the effect of the failure of the party concerned to comply with the duty imposed by paragraph 27A.
-
-(6) The CAC may give more than one order under sub-paragraph (3)(a).
-
-**27D.** (1) This paragraph applies if the CAC issues a declaration under paragraph 27C(2) and the declaration states that the unfair practice used consisted of or included—
-
-- (a) the use of violence, or
-- (b) the dismissal of a union official.
-
-(2) This paragraph also applies if the CAC has made an order under paragraph 27C(3)(a) and—
-
-- (a) it is satisfied that the party subject to the order has failed to comply with it, or
-- (b) it makes another declaration under paragraph 27C(2) in relation to a complaint against that party.
-
-(3) If the party concerned is the employer, the CAC may issue a declaration that the union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of the bargaining unit.
-
-(4) If the party concerned is a union, the CAC may issue a declaration that the union is (or unions are) not entitled to be so recognised.
-
-(5) The powers conferred by this paragraph are in addition to those conferred by paragraph 27C(3).
-
-**27E.** (1) This paragraph applies if the CAC issues a declaration that a complaint under paragraph 27B is well-founded and—
-
-- (a) gives a notice under paragraph 27C(3)(b), or
-- (b) issues a declaration under paragraph 27D.
-
-(2) If the ballot in connection with which the complaint was made has not been held, the CAC shall take steps to cancel it.
-
-(3) If that ballot is held, it shall have no effect.
-
-**27F.** (1) This paragraph applies if the CAC gives a notice under paragraph 27C(3)(b).
-
-(2) Paragraphs 24 to 29 apply in relation to that notice as they apply in relation to a notice given under paragraph 22(3) or 23(2) but with the modifications specified in sub-paragraphs (3) to (6).
-
-(3) In each of sub-paragraphs (5)(a) and (6)(a) of paragraph 24 for “10 working days” substitute 5 working days.
-
-(4) An employer’s duty under paragraph (a) of paragraph 26(4) is limited to—
-
-- (a) giving the CAC the names and home addresses of any workers in the bargaining unit which have not previously been given to it in accordance with that duty;
-- (b) giving the CAC the names and home addresses of those workers who have joined the bargaining unit since he last gave the CAC information in accordance with that duty;
-- (c) informing the CAC of any change to the name or home address of a worker whose name and home address have previously been given to the CAC in accordance with that duty; and
-- (d) informing the CAC of any worker whose name had previously been given to it in accordance with that duty who has ceased to be within the bargaining unit.
-
-(5) Any order given under paragraph 27(1) or 27C(3)(a) for the purposes of the cancelled or ineffectual ballot shall have effect (to the extent that the CAC specifies in a notice to the parties) as if it were made for the purposes of the ballot to which the notice under paragraph 27C(3)(b) relates.
-
-(6) The gross costs of the ballot shall be borne by such of the parties and in such proportions as the CAC may determine and, accordingly, sub-paragraphs (2) and (3) of paragraph 28 shall be omitted and the reference in sub-paragraph (4) of that paragraph to the employer and the union (or each of the unions) shall be construed as a reference to the party or parties which bear the costs in accordance with the CAC’s determination.
+**27F.**[^c-165dce2ef9f307a6197f2e63371c0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.** (1) This paragraph applies if the holding of a ballot has been arranged under paragraph 24 whether or not it has been cancelled.
 
-(2) The gross costs of the ballot shall be borne—
+(1A)[^c-23a3e20e98e1c21981372e7ffc1eb7ad] If the ballot is one to which a notice under paragraph 19O(5) relates, the gross costs of the ballot are to be borne by such of the parties and in such proportions as the CAC may determine.
+
+(2) If the ballot is one to which a notice under paragraph 22(3) or 23(2) relates, the gross costs[^c-27873a455da47c97e7c0d7783f0418e9] of the ballot shall be borne—
 
 - (a) as to half, by the employer, and
 - (b) as to half, by the union (or unions).
@@ -1056,7 +1078,7 @@ any information supplied by the union (or unions) to the person so appointed.
 - (a) in such proportions as they jointly indicate to the person appointed to conduct the ballot, or
 - (b) in the absence of such an indication, in equal shares.
 
-(4) The person appointed to conduct the ballot may send to the employer and the union (or each of the unions) a demand stating—
+(4) The person appointed to conduct the ballot may send to the party or parties required to bear the costs[^c-bc9d65f2994cf70082679cdbd441fb04] a demand stating—
 
 - (a) the gross costs of the ballot, and
 - (b) the amount of the gross costs to be borne by the recipient.
@@ -1065,7 +1087,7 @@ any information supplied by the union (or unions) to the person so appointed.
 
 (6) In England and Wales, if the amount stated is not paid in accordance with sub-paragraph (5) it shall, if the county court[^c-6dcfd48213680f206075fd5c65a1e4c9] so orders, be recoverable under section 85 of the County Courts Act 1984[^c-4084924f91125b286f28cae3f45bae05] or otherwise as if it were payable under an order of that court.
 
-(6A)[^c20399041] Where a warrant of control is issued under section 85 of the 1984 Act to recover an amount in accordance with sub-paragraph (6), the power conferred by the warrant is exercisable[^c-c4148bc30a84cf3bb9f2db720118bdcd] , to the same extent and in the same manner as if the union were a body corporate, against any property held in trust for the union other than protected property as defined in section 23(2).
+(6A)[^c20399041] Where a warrant of control is issued under section 85 of the 1984 Act to recover an amount in accordance with sub-paragraph (6), the power conferred by the warrant is exercisable[^c-c4148bc30a84cf3bb9f2db720118bdcd], to the same extent and in the same manner as if the union were a body corporate, against any property held in trust for the union other than protected property as defined in section 23(2).
 
 (7) References to the costs of the ballot are to—
 
@@ -1073,9 +1095,20 @@ any information supplied by the union (or unions) to the person so appointed.
 - (b) such reasonable amount as the person appointed to conduct the ballot charges for his services, and
 - (c) such other costs as the employer and the union (or unions) agree.
 
-**29.** (1) As soon as is reasonably practicable after the CAC is informed of the result of a ballot by the person conducting it, the CAC must act under this paragraph.
+**29.** (1)[^c-11ffc3dbeb8909fd8ffba52c32c68c0a] The CAC must act under this paragraph as soon as reasonably practicable after—
 
-(1A)[^c20402801] The duty in sub-paragraph (1) does not apply if the CAC gives a notice under paragraph 27C(3)(b).
+- (a) the CAC is informed of the result of a ballot by the person conducting it, and
+- (b) the complaint period ends.
+
+(1ZA) The complaint period is the period of 5 working days starting with the day after—
+
+- (a) the date of the ballot, or
+- (b) if votes may be cast in the ballot on more than one day, the last of those days.
+
+(1A) The duty in sub-paragraph (1) does not apply—
+
+- (a) if a complaint is made under paragraph 19N, on or before the day on which the CAC decides whether the complaint is well-founded;
+- (b) if the CAC gives a notice under paragraph 19O(5).
 
 (2) The CAC must inform the employer and the union (or unions) of the result of the ballot.
 
@@ -1152,10 +1185,12 @@ the written agreement shall have effect as a legally enforceable contract made b
 
 **35.** (1) An application under paragraph 11 or 12 is not admissible if the CAC is satisfied that there is already in force a collective agreement under which a union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of any workers falling within the relevant bargaining unit.
 
+(1A)[^c-aafc58a4afe50641d5a6a90b0e4a9ce2] For the purposes of sub-paragraph (1), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
+
 (2) But sub-paragraph (1) does not apply to an application under paragraph 11 or 12 if—
 
 - (a) the union (or unions) recognised under the collective agreement and the union (or unions) making the application under paragraph 11 or 12 are the same, and
-- (b) the matters in respect of which the union is (or unions are) entitled to conduct collective bargaining do not include all of the following: pay, hours and holidays (“the core topics”)[^c20402851] .
+- (b) the matters in respect of which the union is (or unions are) entitled to conduct collective bargaining do not include all of the following: pay, hours and holidays (“the core topics”)[^c20402851].
 
 (3) A declaration of recognition which is the subject of a declaration under paragraph 83(2) must for the purposes of sub-paragraph (1) be treated as ceasing to have effect to the extent specified in paragraph 83(2) on the making of the declaration under paragraph 83(2).
 
@@ -1190,6 +1225,8 @@ the written agreement shall have effect as a legally enforceable contract made b
 
 **36.** (1)[^c-9847445faf3449b7c9c6adcc93c1a8c7] An application under paragraph 11 or 12 is not admissible unless the CAC decides that members of the union (or unions) constitute at least the required percentage (see paragraph 171B) of the workers constituting the relevant bargaining unit.
 
+(1A) For the purposes of sub-paragraph (1), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
+
 (2) The relevant bargaining unit is—
 
 - (a) the proposed bargaining unit, where the application is under paragraph 11(2) or 12(2);
@@ -1214,13 +1251,15 @@ the written agreement shall have effect as a legally enforceable contract made b
 - (a) the CAC accepts a relevant application relating to a bargaining unit or proceeds under paragraph 20 with an application relating to a bargaining unit,
 - (b) the application has not been withdrawn,
 - (c) no notice has been given under paragraph 17(2),
-- (d) the CAC has not issued a declaration under paragraph 19F(5), 22(2), 27(2), 27D(3), 27D(4),[^c20399181] 29(3) or 29(4) in relation to that bargaining unit, and
+- (d) the CAC has not issued a declaration under paragraph 13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5),[^c-f1640a220fe6590142c2002838b46bed][^c20399181] 22(2), 27(2), [^c-42ae49d41b7c9c0ac9b35788d2a9abd1]... 29(3) or 29(4) in relation to that bargaining unit, and
 - (e) no notification has been made under paragraph 24(2).
 
 (2) Another relevant application is not admissible if—
 
 - (a) at least one worker falling within the relevant bargaining unit also falls within the bargaining unit referred to in sub-paragraph (1), and
 - (b) the application is made by a union (or unions) other than the union (or unions) which made the application referred to in sub-paragraph (1).
+
+(2A)[^c-24e3a4465036cd9f04aa6aa7cf09ab11] For the purposes of sub-paragraph (2)(a), any worker who joined the relevant bargaining unit or the bargaining unit referred to in sub-paragraph (1) after the application day is to be disregarded.
 
 (3) A relevant application is an application under paragraph 11 or 12.
 
@@ -1244,9 +1283,9 @@ the written agreement shall have effect as a legally enforceable contract made b
 - (a) the proposed bargaining unit, where the application is under paragraph 11(2) or 12(2);
 - (b) the agreed bargaining unit, where the application is under paragraph 12(4).
 
-(5) This paragraph does not apply if paragraph 40 or 41 applies.
+(5) This paragraph does not apply if paragraph 40 , 40A[^c-6cf69ece8aeb0f33cd4ce10842245bd6] or 41 applies.
 
-**40.** (1) This paragraph applies if the CAC issues a declaration under paragraph 27D(4) or[^c20399221] 29(4) that a union is (or unions are) not entitled to be recognised as entitled to conduct collective bargaining on behalf of a bargaining unit; and this is so whether the ballot concerned is arranged[^c20399241] under this Part or Part III of this Schedule.
+**40.** (1) This paragraph applies if the CAC issues a declaration under paragraph 19K(5), 19P(5)[^c-714e16b7d0e9695d3efa0d422db8a15c][^c20399221] or 29(4) that a union is (or unions are) not entitled to be recognised as entitled to conduct collective bargaining on behalf of a bargaining unit [^c-f4cd8fa82825a66b4233cdd11cfa24ab]....
 
 (2) An application under paragraph 11 or 12 is not admissible if—
 
@@ -1259,7 +1298,20 @@ the written agreement shall have effect as a legally enforceable contract made b
 - (a) the proposed bargaining unit, where the application is under paragraph 11(2) or 12(2);
 - (b) the agreed bargaining unit, where the application is under paragraph 12(4).
 
-**41.** (1) This paragraph applies if the CAC issues a declaration under paragraph 119D(4), 119H(5) or[^c20399291] 121(3) that bargaining arrangements are to cease to have effect; and this is so whether the ballot concerned is arranged[^c20399311] under Part IV or Part V of this Schedule.
+**40A.**[^c-95c730b401fdfb868f39a73fc47f0e62] (1) This paragraph applies if the CAC issues a declaration under paragraph 81E(5), 81J(5) or 29(4) (where it applies by virtue of paragraph 89(5)) that a union is (or unions are) not entitled to be recognised as entitled to conduct collective bargaining on behalf of a bargaining unit.
+
+(2) An application under paragraph 11 or 12 is not admissible if—
+
+- (a) the application is made within the period of 3 years starting with the day after the day on which the declaration was issued,
+- (b) the relevant bargaining unit is the same or substantially the same as the bargaining unit mentioned in sub-paragraph (1), and
+- (c) the application is made by the union (or unions) which made the application leading to the declaration.
+
+(3) The relevant bargaining unit is—
+
+- (a) the proposed bargaining unit, where the application is under paragraph 11(2) or 12(2);
+- (b) the agreed bargaining unit, where the application is under paragraph 12(4).
+
+**41.** (1) This paragraph applies if the CAC issues a declaration under paragraph 116E(5), 116K(5)[^c-ff192c39186bda4a5565eced6102f8c7][^c20399291] or 121(3) that bargaining arrangements are to cease to have effect; and this is so whether the declaration is issued[^c-37ab5c1e074f9e6f45af61dfa29c51fb] under Part IV or Part V of this Schedule.
 
 (2) An application under paragraph 11 or 12 is not admissible if—
 
@@ -1284,6 +1336,8 @@ the written agreement shall have effect as a legally enforceable contract made b
 - (b) references to the relevant bargaining unit are to the bargaining unit agreed by the parties or decided by the CAC.
 
 **44.** (1) The application in question is invalid if the CAC is satisfied that there is already in force a collective agreement under which a union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of any workers falling within the relevant bargaining unit.
+
+(1A)[^c-bec422c00de4b8881b43b99c5cc9e004] For the purposes of sub-paragraph (1), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
 
 (2) But sub-paragraph (1) does not apply to the application in question if—
 
@@ -1316,25 +1370,24 @@ the written agreement shall have effect as a legally enforceable contract made b
 - (a) starting with the day on which the employer receives a valid request for recognition under paragraph 4, and
 - (b) ending with the day on which the CAC makes a decision under paragraph 20.
 
-**45.** The application in question is invalid unless the *(affected by repeal, see note)*[^c-ccaf918459450332490c4a365b501c41] CAC *(affected by repeal, see note)*[^c-ccaf918459450332490c4a365b501c41] decides that— *(affected by repeal, see note)*[^c-ccaf918459450332490c4a365b501c41]
+**45.**[^c-ccaf918459450332490c4a365b501c41] (1) The application in question is invalid unless the CAC decides that members of the union (or unions) constitute at least the required percentage (see paragraph 171B) of the workers constituting the relevant bargaining unit.
 
-- (a) members of the union (or unions) constitute at least 10 per cent of the workers constituting the relevant bargaining unit, and *(affected by repeal, see note)*[^c-ccaf918459450332490c4a365b501c41]
-- (b) a majority of the workers constituting the relevant bargaining unit would be likely to favour recognition of the union (or unions) as entitled to conduct collective bargaining on behalf of the bargaining unit. *(affected by repeal, see note)*[^c-ccaf918459450332490c4a365b501c41]
-
-(1) The application in question is invalid unless the CAC decides that members of the union (or unions) constitute at least the required percentage (see paragraph 171B) of the workers constituting the relevant bargaining unit.
+(2) For the purposes of sub-paragraph (1), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
 
 **46.** (1) This paragraph applies if—
 
 - (a) the CAC accepts an application under paragraph 11 or 12 relating to a bargaining unit or proceeds under paragraph 20 with an application relating to a bargaining unit,
 - (b) the application has not been withdrawn,
 - (c) no notice has been given under paragraph 17(2),
-- (d) the CAC has not issued a declaration under paragraph 19F(5), 22(2), 27(2), 27D(3), 27D(4),[^c20399331] 29(3) or 29(4) in relation to that bargaining unit, and
+- (d) the CAC has not issued a declaration under paragraph 13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5),[^c-404f308c4deca9057fe8d338faeb17fa][^c20399331] 22(2), 27(2), [^c-4d22a9c66e4acd4c595583fd80d1b308]... 29(3) or 29(4) in relation to that bargaining unit, and
 - (e) no notification has been made under paragraph 24(2).
 
 (2) The application in question is invalid if—
 
 - (a) at least one worker falling within the relevant bargaining unit also falls within the bargaining unit referred to in sub-paragraph (1), and
 - (b) the application in question is made by a union (or unions) other than the union (or unions) which made the application referred to in sub-paragraph (1).
+
+(3)[^c-3cb2d7ed1c22f2d04f632ec74065438f] For the purposes of sub-paragraph (2)(a), any worker who joined the relevant bargaining unit or the bargaining unit referred to in sub-paragraph (1) after the application day is to be disregarded.
 
 **47.** (1) This paragraph applies if the CAC accepts an application under paragraph 11 or 12 relating to a bargaining unit or proceeds under paragraph 20 with an application relating to a bargaining unit.
 
@@ -1344,9 +1397,9 @@ the written agreement shall have effect as a legally enforceable contract made b
 - (b) the relevant bargaining unit is the same or substantially the same as the bargaining unit mentioned in sub-paragraph (1), and
 - (c) the application is made by the union (or unions) which made the application mentioned in sub-paragraph (1).
 
-(3) This paragraph does not apply if paragraph 48 or 49 applies.
+(3) This paragraph does not apply if paragraph 48 , 48A[^c-b22163073d0439ffe8ae2f66220938f2] or 49 applies.
 
-**48.** (1) This paragraph applies if the CAC issues a declaration under paragraph 27D(4) or[^c20399451] 29(4) that a union is (or unions are) not entitled to be recognised as entitled to conduct collective bargaining on behalf of a bargaining unit; and this is so whether the ballot concerned is arranged[^c20399471] under this Part or Part III of this Schedule.
+**48.** (1) This paragraph applies if the CAC issues a declaration under paragraph 19K(5), 19P(5)[^c-fb658347c1515ce2b07f51f082cba929][^c20399451] or 29(4) that a union is (or unions are) not entitled to be recognised as entitled to conduct collective bargaining on behalf of a bargaining unit [^c-3b486d73ddad315213eadedd4015fab6]....
 
 (2) The application in question is invalid if—
 
@@ -1354,7 +1407,15 @@ the written agreement shall have effect as a legally enforceable contract made b
 - (b) the relevant bargaining unit is the same or substantially the same as the bargaining unit mentioned in sub-paragraph (1), and
 - (c) the application is made by the union (or unions) which made the application leading to the declaration.
 
-**49.** (1) This paragraph applies if the CAC issues a declaration under paragraph 119D(4), 119H(5) or[^c20399661] 121(3) that bargaining arrangements are to cease to have effect; and this is so whether the ballot concerned is arranged[^c20399681] under Part IV or Part V of this Schedule.
+**48A.**[^c-c1a8c7e47eb697193a0f556b436f213d] (1) This paragraph applies if the CAC issues a declaration under paragraph 81E(5), 81J(5) or 29(4) (where it applies by virtue of paragraph 89(5)) that a union is (or unions are) not entitled to be recognised as entitled to conduct collective bargaining on behalf of a bargaining unit.
+
+(2) The application in question is invalid if—
+
+- (a) the application is made within the period of 3 years starting with the date of the declaration,
+- (b) the relevant bargaining unit is the same or substantially the same as the bargaining unit mentioned in sub-paragraph (1), and
+- (c) the application is made by the union (or unions) which made the application leading to the declaration.
+
+**49.** (1) This paragraph applies if the CAC issues a declaration under paragraph 116E(5), 116K(5)[^c-a7a503f673a90a9ac1091bf0533f15ff][^c20399661] or 121(3) that bargaining arrangements are to cease to have effect; and this is so whether the declaration is issued[^c-435cc9cc6df1b1a565dde10374dca675] under Part IV or Part V of this Schedule.
 
 (2) The application in question is invalid if—
 
@@ -1407,7 +1468,7 @@ but an application cannot be an original application unless it was made under pa
 - (c) the CAC gives notice of a decision under paragraph 14(7) which precludes it from accepting such an application under paragraph 11 or 12;
 - (d) the CAC gives notice under paragraph 15(4)(a) or 20(4)(a) in relation to such an application under paragraph 11 or 12;
 - (e) the parties give notice to the CAC under paragraph 17(2) in relation to such an application under paragraph 11 or 12;
-- (f) the CAC issues a declaration under paragraph 19F(5) or[^c20399751] 22(2) in consequence of such an application under paragraph 11 or 12;
+- (f) the CAC issues a declaration under paragraph 13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5)[^c-364dbe659e6d826c85f906df14192ef6][^c20399751] or 22(2) in consequence of such an application under paragraph 11 or 12;
 - (g) the CAC is notified under paragraph 24(2) in relation to such an application under paragraph 11 or 12;
 - (h) the last day of the notification period ends (the notification period being that defined by paragraph 24(6)[^c20399771] and arising from such an application under paragraph 11 or 12);
 - (i) the CAC is required under paragraph 51(3) to cancel such an application under paragraph 11 or 12.
@@ -1658,7 +1719,9 @@ the written agreement shall have effect as a legally enforceable contract made b
 
 - (a) a change in the organisation or structure of the business carried on by the employer;
 - (b) a change in the activities pursued by the employer in the course of the business carried on by him;
-- (c) a substantial change in the number of workers employed in the original unit.
+- (c) a substantial change in the number of workers employed in the original unit (but see sub-paragraph (3))[^c-00768391d429cc38ce401608bde92bcc].
+
+(3)[^c-1bfd1c0560d6db266767f2f8f7fdea81] In a case where the application was received by the CAC before the end of the period of 3 years starting with the day on which the declaration referred to in paragraph 64(1)(a) was issued, the CAC must disregard the matter specified in sub-paragraph (2)(c).
 
 **68.** (1) The CAC must give notice to the parties of receipt of an application under paragraph 66.
 
@@ -1721,7 +1784,9 @@ the written agreement shall have effect as a legally enforceable contract made b
 
 - (a) any change in the organisation or structure of the business carried on by the employer;
 - (b) any change in the activities pursued by the employer in the course of the business carried on by him;
-- (c) any substantial change in the number of workers employed in the original unit.
+- (c) any substantial change in the number of workers employed in the original unit (but see sub-paragraph (3A))[^c-a25c0e0173775fa1a113cf6daac5f162].
+
+(3A)[^c-3627f070d10871fde65d3ba451f81343] In a case where the application was received by the CAC before the end of the period of 3 years starting with the day on which the declaration referred to in paragraph 64(1)(a) was issued, the CAC may not take into account the matter specified in sub-paragraph (3)(c).
 
 (4) In deciding what other bargaining unit is or units are appropriate the CAC must take these matters into account—
 
@@ -1810,7 +1875,7 @@ he must give the union (or each of the unions) a notice complying with sub-parag
 
 - (a) a change in the organisation or structure of the business carried on by the employer;
 - (b) a change in the activities pursued by the employer in the course of the business carried on by him;
-- (c) a substantial change in the number of workers employed in the original unit.
+- (c) a substantial change in the number of workers employed in the original unit (but see paragraph 77(4A))[^c-fc32a84695a2f7598502334addc95b12].
 
 **76.** (1) The CAC must give notice to the parties of receipt of an application under paragraph 75.
 
@@ -1850,6 +1915,8 @@ he must give the union (or each of the unions) a notice complying with sub-parag
 - (b) the employer’s notice shall be treated as not having been given.
 
 (4) If the CAC decides that the original unit has not ceased to exist, and that the original unit is no longer appropriate by reason of any of the matters specified in paragraph 75(3), the CAC must give the parties notice of its decision.
+
+(4A)[^c-bee60354ddf77f8605d7991a76db8bde] In a case where the copy of the notice given to the CAC by the employer under paragraph 74(1) was received by the CAC before the end of the period of 3 years starting with the day on which the declaration referred to in paragraph 64(1)(a) was issued, in deciding whether the original unit is no longer appropriate the CAC must disregard the matter specified in paragraph 75(3)(c).
 
 (5) The decision period is—
 
@@ -2328,12 +2395,16 @@ and the relevant period is the period of 65 working days starting with the day a
 
 (3) If the CAC is not so notified it must arrange for the holding of the ballot.
 
-(4) Paragraph 25 applies if the CAC arranges under this paragraph for the holding of a ballot (as well as if the CAC arranges under paragraph 24 for the holding of a ballot).
+(4) Paragraph 25 applies if the CAC arranges under this paragraph for the holding of a ballot (as well as if the CAC arranges under paragraph 24 for the holding of a ballot) , but as if paragraph 25(1A) were omitted[^c-6acb81c2afca107731ac82e292853e31].
 
 (5) Paragraphs 26 to 29 apply accordingly, but as if—[^c20399871]
 
-- (a) references to the bargaining unit were references to the new unit, and
-- (b) paragraph 26(4F) to (4H), and the references in paragraph 26(4) and (6) to paragraph 19D, were omitted.
+- (a) references to the bargaining unit were references to the new unit, [^c-4e8b5d1b51b5bbcf3b258863bd7b4c82]...
+- (aa)[^c-a81c4b4b8257952e141b4e649f60720e] references to provisions of paragraphs 19G to 19P were references to the corresponding provisions of paragraphs 81A to 81J,
+- (ab) the duty in paragraph 26(4) included—
+  - (i) a duty to give to the CAC, as soon as is reasonably practicable, the name and home address of any worker who joins the bargaining unit after the employer has complied with paragraph 26(4)(a), and
+  - (ii) a duty to inform the CAC, as soon as is reasonably practicable, of any worker whose name has been given to the CAC under that duty and who ceases to be within the bargaining unit, and
+- (b) paragraph 26(4F) and (4H)[^c-f442f08558b6aa3dd284faee527b9bd0], and the references in paragraph 26(4) and (6) to paragraph 19D, were omitted.
 
 (6) If as a result of the ballot the CAC issues a declaration that the union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of the new unit—
 
@@ -2345,9 +2416,9 @@ and the relevant period is the period of 65 working days starting with the day a
 - (a) the CAC must state in the declaration the date on which the bargaining arrangements, so far as relating to workers falling within the new unit, are to cease to have effect, and
 - (b) the bargaining arrangements shall cease to have effect accordingly.
 
-(8) Paragraphs (a) and (b) of sub-paragraph (6) also apply if the CAC issues a declaration under paragraph 27(2) or 27D(3)[^c20399911].
+(8) Paragraphs (a) and (b) of sub-paragraph (6) also apply if the CAC issues a declaration under paragraph 27(2) , 81E(4) or 81J(4)[^c-6c76b1b5bccd37dcea1f17d23944017a].
 
-(9)[^c20399931] Paragraphs (a) and (b) of sub-paragraph (7) also apply if the CAC issues a declaration under paragraph 27D(4).
+(9)[^c20399931] Paragraphs (a) and (b) of sub-paragraph (7) also apply if the CAC issues a declaration under paragraph 81E(5) or 81J(5)[^c-2aab295e08b0aa27fa6851a47434ba57].
 
 #### Residual workers
 
@@ -2412,7 +2483,7 @@ and in this paragraph the workers so identified in relation to a parent unit are
 
 **93.** (1) If an application under paragraph 66 or 75 is accepted by the CAC, the applicant (or applicants) may not withdraw the application—
 
-- (a) after the CAC issues a declaration under paragraph 69(3) or 78(3),
+- (a) after the CAC issues a declaration under paragraph 69(3) , 78(3), 81E(4) or (5) or 81J(4) or (5)[^c-8c707b20da02693aebba00d9e27ac534],
 - (b) after the CAC decides under paragraph 77(2) or 77(3),
 - (c) after the CAC issues a declaration under paragraph 83(2)[^c20399951], 85(2), 86(3) or 87(2) in relation to the new unit (where there is only one) or a declaration under any of those paragraphs in relation to any of the new units (where there is more than one),
 - (d) after the union has (or unions have) notified the CAC under paragraph 89(1) in relation to the new unit (where there is only one) or any of the new units (where there is more than one), or
@@ -3043,16 +3114,16 @@ and such an agreement is to be treated as “entered into” when the terms are 
 
 #### Ballot on derecognition
 
-**117.** (1) This paragraph applies if the CAC accepts an application under paragraph 106 or 107.
+**117.** (1) Sub-paragraph (3)[^c-290075b964a78bf48b32d05cc344c614] applies if the CAC accepts an application under paragraph 106 or 107.
 
-(2) This paragraph also applies if—
+(2) Sub-paragraph (3)[^c-6baf03d4c6b697af23ae00e232c822ec] also applies if—
 
 - (a) the CAC accepts an application under paragraph 112, and
 - (b) in the period mentioned in paragraph 116(1) there is no agreement or withdrawal as there described.
 
 (3) The CAC must arrange for the holding of a secret ballot in which the workers constituting the bargaining unit are asked whether the bargaining arrangements should be ended.
 
-(4) The ballot must be conducted by a qualified independent person appointed by the CAC.
+(4) A ballot arranged under sub-paragraph (3), or under paragraph 116J(5),[^c-7a465b8ae43291ea500dfb92ce0caaa1] must be conducted by a qualified independent person appointed by the CAC.
 
 (5) The ballot must be conducted within—
 
@@ -3100,41 +3171,34 @@ to be given the opportunity (if they request it far enough in advance of the bal
 - (d) whether the ballot is to be conducted by post or at a workplace or workplaces;
 - (e) of the workplace or workplaces concerned (if the ballot is to be conducted at a workplace or workplaces).
 
-**118.** (1) An employer who is informed by the CAC under paragraph 117(11) must comply with the following five[^c20403611] duties.
+**118.** (1) An employer who is informed by the CAC under paragraph 117(11) must comply with the following [^c-4d971d42b9fee99cfca6acb715660ddb]... duties.
 
-(2) The first duty is to co-operate generally, in connection with the ballot, with the union (or unions) and the person appointed to conduct the ballot; and the second and third duties are not to prejudice the generality of this.
+(2) The employer must[^c-9ccaf5ef77ce8fd9937150a2a4065363] co-operate generally, in connection with the ballot, with the union (or unions) and the person appointed to conduct the ballot; and no other duty of the employer under this Part of this Schedule is[^c-ac21b32afc8448b178e30dab28435c2a] to prejudice the generality of this.
 
-(3) The second duty is to give to the union (or unions) such access to the workers constituting the bargaining unit as is reasonable to enable the union (or unions) to inform the workers of the object of the ballot and to seek their support and their opinions on the issues involved.
+(3)[^c-5b1eecad95085df8518a168e63ecc549] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The third duty is to do the following (so far as it is reasonable to expect the employer to do so)—
+(4) The employer must[^c-a79a2ae7eae3bcc3c6796da17016ae10] do the following (so far as it is reasonable to expect the employer to do so)—
 
-- (a) to give to the CAC, within the period of 10 working days starting with the day after that on which the employer is informed under paragraph 117(11), the names and home addresses of the workers constituting the bargaining unit;
-- (b) to give to the CAC, as soon as is reasonably practicable, the name and home address of any worker who joins the unit after the employer has complied with paragraph (a);
-- (c) to inform the CAC, as soon as is reasonably practicable, of any worker whose name has been given to the CAC under paragraph (a) or (b) but who ceases to be within the unit.
+- (a) give[^c-a3a0b806decc6a04fd6d0e61fc6b3a57] to the CAC, within the period of 10 working days starting with the day after that on which the employer is informed under paragraph 117(11), the names and home addresses of the workers constituting the bargaining unit;
+- (b) give[^c-5c5714f7cb7bf583d3130645e790a560] to the CAC, as soon as is reasonably practicable, the name and home address of any worker who joins the unit after the employer has complied with paragraph (a);
+- (c) inform[^c-ad5b4723c5145c7fd45f8615fabab4b8] the CAC, as soon as is reasonably practicable, of any worker whose name has been given to the CAC under paragraph (a) or (b) but who ceases to be within the unit.
 
-(4A)[^c20403671] The fourth duty is to refrain from making any offer to any or all of the workers constituting the bargaining unit which—
+(4ZA)[^c-57a2aeea7a591c353110900148150bd2] If the ballot is arranged under paragraph 116J(5), the duty under sub-paragraph (4)(a) is limited to—
 
-- (a) has or is likely to have the effect of inducing any or all of them not to attend any relevant meeting between the union (or unions) and the workers constituting the bargaining unit, and
-- (b) is not reasonable in the circumstances.
+- (a) giving the CAC the names and home addresses of any workers in the bargaining unit which have not previously been given to it in accordance with that duty;
+- (b) giving the CAC the names and home addresses of those workers who have joined the bargaining unit since the employer last gave the CAC information in accordance with that duty;
+- (c) informing the CAC of any change to the name or home address of a worker whose name and home address have previously been given to the CAC in accordance with that duty;
+- (d) informing the CAC of any worker whose name had previously been given to it in accordance with that duty who has ceased to be within the bargaining unit.
 
-(4B) The fifth duty is to refrain from taking or threatening to take any action against a worker solely or mainly on the grounds that he—
+(4A)[^c-e5e08a7da8487122594f950929b1ef3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) attended or took part in any relevant meeting between the union (or unions) and the workers constituting the bargaining unit, or
-- (b) indicated his intention to attend or take part in such a meeting.
+(4B)[^c-e5e08a7da8487122594f950929b1ef3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4C) A meeting is a relevant meeting in relation to a worker for the purposes of sub-paragraph (4A) and (4B) if—
+(4C)[^c-e5e08a7da8487122594f950929b1ef3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) it is organised in accordance with any agreement reached concerning the second duty or as a result of a step ordered to be taken under paragraph 119 to remedy a failure to comply with that duty, and
-- (b) it is one which the employer is, by such an agreement or order as is mentioned in paragraph (a), required to permit the worker to attend.
+(4D)[^c-e5e08a7da8487122594f950929b1ef3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4D) Without prejudice to the generality of the second duty imposed by this paragraph, an employer is to be taken to have failed to comply with that duty if—
-
-- (a) he refuses a request for a meeting between the union (or unions) and any or all of the workers constituting the bargaining unit to be held in the absence of the employer or any representative of his (other than one who has been invited to attend the meeting) and it is not reasonable in the circumstances for him to do so,
-- (b) he or a representative of his attends such a meeting without having been invited to do so,
-- (c) he seeks to record or otherwise be informed of the proceedings at any such meeting and it is not reasonable in the circumstances for him to do so, or
-- (d) he refuses to give an undertaking that he will not seek to record or otherwise be informed of the proceedings at any such meeting unless it is reasonable in the circumstances for him to do either of those things.
-
-(4E) The fourth and fifth duties do not confer any rights on a worker; but that does not affect any other right which a worker may have.
+(4E)[^c-e5e08a7da8487122594f950929b1ef3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) As soon as is reasonably practicable after the CAC receives any information under sub-paragraph (4) it must pass it on to the person appointed to conduct the ballot.
 
@@ -3147,15 +3211,9 @@ any information supplied by the union (or unions) to the person so appointed.
 
 (7) The duty under sub-paragraph (6) does not apply unless the union bears (or unions bear) the cost of sending the information.
 
-(8)[^c20403721] Each of the powers specified in sub-paragraph (9) shall be taken to include power to issue Codes of Practice—
+(8)[^c-abf76ccd013c0f95fa487f5f75188888] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) about reasonable access for the purposes of sub-paragraph (3), and
-- (b) about the fourth duty imposed by this paragraph.
-
-(9) The powers are—
-
-- (a) the power of ACAS under section 199(1);
-- (b) the power of the Secretary of State under section 203(1)(a).
+(9)[^c-54cf2cbeb00bf3e2c4c67855ce28f8da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **119.** (1) If the CAC is satisfied that the employer has failed to fulfil any of the duties imposed on him[^c20403781] by paragraph 118, and the ballot has not been held, the CAC may order the employer—
 
@@ -3174,160 +3232,85 @@ the CAC may refuse the application.
 
 (4) If the CAC refuses an application under sub-paragraph (2) it shall take steps to cancel the holding of the ballot; and if the ballot is held it shall have no effect.
 
-**119A.**[^c20403871] (1) Each of the parties informed by the CAC under paragraph 117(11) must refrain from using any unfair practice.
+(5)[^c-be0b5361e3ced5e3a97e29f10d4b89e4] If—
 
-(2) A party uses an unfair practice if, with a view to influencing the result of the ballot, the party—
+- (a) the ballot has been arranged in consequence of an application under paragraph 112,
+- (b) the CAC has made an order against the employer under sub-paragraph (1), and
+- (c) the ballot has not been held,
 
-- (a) offers to pay money or give money’s worth to a worker entitled to vote in the ballot in return for the worker’s agreement to vote in a particular way or to abstain from voting,
-- (b) makes an outcome-specific offer to a worker entitled to vote in the ballot,
-- (c) coerces or attempts to coerce a worker entitled to vote in the ballot to disclose—
-  - (i) whether he intends to vote or to abstain from voting in the ballot, or
-  - (ii) how he intends to vote, or how he has voted, in the ballot,
-- (d) dismisses or threatens to dismiss a worker,
-- (e) takes or threatens to take disciplinary action against a worker,
-- (f) subjects or threatens to subject a worker to any other detriment, or
-- (g) uses or attempts to use undue influence on a worker entitled to vote in the ballot.
+the worker making the application (or each of the workers making the application) and the union (or each of the unions) are entitled to enforce obedience to the order.
 
-(3) For the purposes of sub-paragraph (2)(b) an “outcome-specific offer” is an offer to pay money or give money’s worth which—
-
-- (a) is conditional on—
-  - (i) the issuing by the CAC of a declaration that the bargaining arrangements are to cease to have effect, or
-  - (ii) the refusal by the CAC of an application under paragraph 106, 107 or 112, and
-- (b) is not conditional on anything which is done or occurs as a result of that declaration or, as the case may be, of that refusal.
-
-(4) The duty imposed by this paragraph does not confer any rights on a worker; but that does not affect any other right which a worker may have.
-
-(5) Each of the following powers shall be taken to include power to issue Codes of Practice about unfair practices for the purposes of this paragraph—
-
-- (a) the power of ACAS under section 199(1);
-- (b) the power of the Secretary of State under section 203(1)(a).
-
-**119B.** (1) A party may complain to the CAC that another party has failed to comply with paragraph 119A.
-
-(2) A complaint under sub-paragraph (1) must be made on or before the first working day after—
-
-- (a) the date of the ballot, or
-- (b) if votes may be cast in the ballot on more than one day, the last of those days.
-
-(3) Within the decision period the CAC must decide whether the complaint is well-founded.
-
-(4) A complaint is well-founded if—
-
-- (a) the CAC finds that the party complained against used an unfair practice, and
-- (b) the CAC is satisfied that the use of that practice changed or was likely to change, in the case of a worker entitled to vote in the ballot—
-  - (i) his intention to vote or to abstain from voting,
-  - (ii) his intention to vote in a particular way, or
-  - (iii) how he voted.
-
-(5) The decision period is—
-
-- (a) the period of 10 working days starting with the day after that on which the complaint under sub-paragraph (1) was received by the CAC, or
-- (b) such longer period (so starting) as the CAC may specify to the parties by a notice containing reasons for the extension.
-
-(6) If, at the beginning of the decision period, the ballot has not begun, the CAC may by notice to the parties and the qualified independent person postpone the date on which it is to begin until a date which falls after the end of the decision period.
-
-**119C.** (1) This paragraph applies if the CAC decides that a complaint under paragraph 119B is well-founded.
-
-(2) The CAC must, as soon as is reasonably practicable, issue a declaration to that effect.
-
-(3) The CAC may do either or both of the following—
-
-- (a) order the party concerned to take any action specified in the order within such period as may be so specified, or
-- (b) make arrangements for the holding of a secret ballot in which the workers constituting the bargaining unit are asked whether the bargaining arrangements should be ended.
-
-(4) The CAC may give an order or make arrangements under sub-paragraph (3) either at the same time as it issues the declaration under sub-paragraph (2) or at any other time before it acts under paragraph 121.
-
-(5) The action specified in an order under sub-paragraph (3)(a) shall be such as the CAC considers reasonable in order to mitigate the effect of the failure of the party complained against to comply with the duty imposed by paragraph 119A.
-
-(6) The CAC may give more than one order under sub-paragraph (3)(a).
-
-**119D.** (1) This paragraph applies if the CAC issues a declaration under paragraph 119C(2) and the declaration states that the unfair practice used consisted of or included—
-
-- (a) the use of violence, or
-- (b) the dismissal of a union official.
-
-(2) This paragraph also applies if the CAC has made an order under paragraph 119C(3)(a) and—
-
-- (a) it is satisfied that the party subject to the order has failed to comply with it, or
-- (b) it makes another declaration under paragraph 119C(2) in relation to a complaint against that party.
-
-(3) If the party concerned is the employer, the CAC may refuse the employer’s application under paragraph 106 or 107.
-
-(4) If the party concerned is a union, the CAC may issue a declaration that the bargaining arrangements are to cease to have effect on a date specified by the CAC in the declaration.
-
-(5) If a declaration is issued under sub-paragraph (4) the bargaining arrangements shall cease to have effect accordingly.
-
-(6) The powers conferred by this paragraph are in addition to those conferred by paragraph 119C(3).
-
-**119E.** (1) This paragraph applies if the CAC issues a declaration that a complaint under paragraph 119B is well-founded and—
-
-- (a) makes arrangements under paragraph 119C(3)(b),
-- (b) refuses under paragraph 119D(3) or 119H(6) an application under paragraph 106, 107 or 112, or
-- (c) issues a declaration under paragraph 119D(4) or 119H(5).
-
-(2) If the ballot in connection with which the complaint was made has not been held, the CAC shall take steps to cancel it.
-
-(3) If that ballot is held, it shall have no effect.
-
-**119F.** (1) This paragraph applies if the CAC makes arrangements under paragraph 119C(3)(b).
-
-(2) Paragraphs 117(4) to (11) and 118 to 121 apply in relation to those arrangements as they apply in relation to arrangements made under paragraph 117(3) but with the modifications specified in sub-paragraphs (3) to (5).
-
-(3) An employer’s duty under paragraph (a) of paragraph 118(4) is limited to—
-
-- (a) giving the CAC the names and home addresses of any workers in the bargaining unit which have not previously been given to it in accordance with that duty;
-- (b) giving the CAC the names and home addresses of those workers who have joined the bargaining unit since he last gave the CAC information in accordance with that duty;
-- (c) informing the CAC of any change to the name or home address of a worker whose name and home address have previously been given to the CAC in accordance with that duty; and
-- (d) informing the CAC of any worker whose name had previously been given to it in accordance with that duty who has ceased to be within the bargaining unit.
-
-(4) Any order given under paragraph 119(1) or 119C(3)(a) for the purposes of the cancelled or ineffectual ballot shall have effect (to the extent that the CAC specifies in a notice to the parties) as if it were made for the purposes of the ballot for which arrangements are made under paragraph 119C(3)(b).
-
-(5) The gross costs of the ballot shall be borne by such of the parties and in such proportions as the CAC may determine and, accordingly, sub-paragraphs (2) and (3) of paragraph 120 shall be omitted and the reference in sub-paragraph (4) of that paragraph to the employer and the union (or each of the unions) shall be construed as a reference to the party or parties which bear the costs in accordance with the CAC’s determination.
-
-**119G.** (1) Paragraphs 119A to 119C, 119E and 119F apply in relation to an application under paragraph 112 as they apply in relation to an application under paragraph 106 or 107 but with the modifications specified in this paragraph.
-
-(2) References in those paragraphs (and, accordingly, in paragraph 119H(3)) to a party shall be read as including references to the applicant worker or workers; but this is subject to sub-paragraph (3).
-
-(3) The reference in paragraph 119A(1) to a party informed under paragraph 117(11) shall be read as including a reference to the applicant worker or workers.
-
-**119H.** (1) This paragraph applies in relation to an application under paragraph 112 in the cases specified in sub-paragraphs (2) and (3).
-
-(2) The first case is where the CAC issues a declaration under paragraph 119C(2) and the declaration states that the unfair practice used consisted of or included—
-
-- (a) the use of violence, or
-- (b) the dismissal of a union official.
-
-(3) The second case is where the CAC has made an order under paragraph 119C(3)(a) and—
-
-- (a) it is satisfied that the party subject to the order has failed to comply with it, or
-- (b) it makes another declaration under paragraph 119C(2) in relation to a complaint against that party.
-
-(4) If the party concerned is the employer, the CAC may order him to refrain from further campaigning in relation to the ballot.
-
-(5) If the party concerned is a union, the CAC may issue a declaration that the bargaining arrangements are to cease to have effect on a date specified by the CAC in the declaration.
-
-(6) If the party concerned is the applicant worker (or any of the applicant workers), the CAC may refuse the application under paragraph 112.
-
-(7) If a declaration is issued under sub-paragraph (5) the bargaining arrangements shall cease to have effect accordingly.
-
-(8) The powers conferred by this paragraph are in addition to those conferred by paragraph 119C(3).
-
-**119I.** (1) This paragraph applies if—
-
-- (a) a ballot has been arranged in consequence of an application under paragraph 112,
-- (b) the CAC has given the employer an order under paragraph 119(1), 119C(3) or 119H(4), and
-- (c) the ballot for the purposes of which the order was made (or any other ballot for the purposes of which it has effect) has not been held.
-
-(2) The applicant worker (or each of the applicant workers) and the union (or each of the unions) is entitled to enforce obedience to the order.
-
-(3) The order may be enforced—
+(6) The order may be enforced—
 
 - (a) in England and Wales, in the same way as an order of the county court;
 - (b) in Scotland, in the same way as an order of the sheriff.
 
-**120.** (1) This paragraph applies if the holding of a ballot has been arranged under paragraph 117(3), whether or not it has been cancelled.
+**119ZA.**[^c-f45fbee8072bea6347a7de008106d3ec] (1) This paragraph applies if—
 
-(2) The gross costs of the ballot shall be borne—
+- (a) the union has (or unions have) been informed of a ballot under paragraph 117(11), and
+- (b) the CAC refuses an application or issues a declaration under paragraph 116E.
+
+(2) If the ballot has not been held, the CAC must take steps to cancel it.
+
+(3) If the ballot is held, it is to have no effect.
+
+**119ZB.** (1) This paragraph applies if—
+
+- (a) the union has (or unions have) been informed of a ballot under paragraph 117(11),
+- (b) a complaint is made under paragraph 116I, and
+- (c) the ballot did not begin before the beginning of the decision period referred to in paragraph 116I(5).
+
+(2) The CAC may by notice to the parties and the qualified independent person postpone the date on which the ballot is to begin until a date which falls after the end of the decision period.
+
+(3) In relation to an application under paragraph 112, “**the parties**” includes the worker or workers making the application.
+
+**119ZC.** (1) This paragraph applies if—
+
+- (a) the union has (or unions have) been informed of a ballot under paragraph 117(11),
+- (b) the CAC issues a declaration that a complaint under paragraph 116I is well-founded, and
+- (c) the CAC—
+  - (i) makes arrangements under paragraph 116J(5),
+  - (ii) refuses under paragraph 116K(4)(a) or (6) an application under paragraph 106, 107 or 112, or
+  - (iii) issues a declaration under paragraph 116K(5).
+
+(2) If the ballot has not been held, the CAC must take steps to cancel it.
+
+(3) If the ballot is held, it is to have no effect.
+
+**119ZD.** (1) This paragraph applies if—
+
+- (a) the CAC makes arrangements under paragraph 116J(5), and
+- (b) the CAC has previously given an order under paragraph 119(1) in relation to a cancelled or ineffective ballot in connection with the application to which the notice relates.
+
+(2) The order has effect, to the extent that the CAC specifies in a notice to the parties, as if it were made for the purposes of the ballot for which arrangements are made under paragraph 116J(5).
+
+(3) In relation to an application under paragraph 112, “**the parties**” includes the worker or workers making the application.
+
+**119A.**[^c-d4f251211da3a79fc5d2c69f3bd59eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**119B.**[^c-d4f251211da3a79fc5d2c69f3bd59eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**119C.**[^c-d4f251211da3a79fc5d2c69f3bd59eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**119D.**[^c-d4f251211da3a79fc5d2c69f3bd59eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**119E.**[^c-d4f251211da3a79fc5d2c69f3bd59eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**119F.**[^c-d4f251211da3a79fc5d2c69f3bd59eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**119G.**[^c-d4f251211da3a79fc5d2c69f3bd59eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**119H.**[^c-d4f251211da3a79fc5d2c69f3bd59eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**119I.**[^c-d4f251211da3a79fc5d2c69f3bd59eb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**120.** (1) This paragraph 116J(5) or[^c-846c3ed23606627a827cc0b11e65a19a] applies if the holding of a ballot has been arranged under paragraph 117(3), whether or not it has been cancelled.
+
+(1A)[^c-b1d433820ba339673ca81aa76d0bf7b4] If the holding of the ballot is arranged under paragraph 116J(5), the gross costs of the ballot are to be borne by such of the parties and in such proportions as the CAC may determine.
+
+(1B) In relation to an application under paragraph 112, “**the parties**” includes the worker or workers making the application.
+
+(2) If the holding of the ballot is arranged under paragraph 117(3), the gross costs[^c-5a09463ef3b80a1de3c4ca5d166340f0] of the ballot shall be borne—
 
 - (a) as to half, by the employer, and
 - (b) as to half, by the union (or unions).
@@ -3337,7 +3320,7 @@ the CAC may refuse the application.
 - (a) in such proportions as they jointly indicate to the person appointed to conduct the ballot, or
 - (b) in the absence of such an indication, in equal shares.
 
-(4) The person appointed to conduct the ballot may send to the employer and the union (or each of the unions) a demand stating—
+(4) The person appointed to conduct the ballot may send to the party or parties required to bear the costs[^c-42b9c36e200a517f8db88566eba157a9] a demand stating—
 
 - (a) the gross costs of the ballot, and
 - (b) the amount of the gross costs to be borne by the recipient.
@@ -3346,7 +3329,7 @@ the CAC may refuse the application.
 
 (6) In England and Wales, if the amount stated is not paid in accordance with sub-paragraph (5) it shall, if the county court[^c-7f700814101c84142c63716eb8b11170] so orders, be recoverable under section 85 of the County Courts Act 1984[^c-fd81d4d5dad2e901cfd65664f5ac5fc2] or otherwise as if it were payable under an order of that court.
 
-(6A)[^c20400111] Where a warrant of control is issued under section 85 of the 1984 Act to recover an amount in accordance with sub-paragraph (6), the power conferred by the warrant is exercisable[^c-35996c933c2a3ae70cd1887c95d2be30] , to the same extent and in the same manner as if the union were a body corporate, against any property held in trust for the union other than protected property as defined in section 23(2).
+(6A)[^c20400111] Where a warrant of control is issued under section 85 of the 1984 Act to recover an amount in accordance with sub-paragraph (6), the power conferred by the warrant is exercisable[^c-35996c933c2a3ae70cd1887c95d2be30], to the same extent and in the same manner as if the union were a body corporate, against any property held in trust for the union other than protected property as defined in section 23(2).
 
 (7) References to the costs of the ballot are to—
 
@@ -3354,9 +3337,20 @@ the CAC may refuse the application.
 - (b) such reasonable amount as the person appointed to conduct the ballot charges for his services, and
 - (c) such other costs as the employer and the union (or unions) agree.
 
-**121.** (1) As soon as is reasonably practicable after the CAC is informed of the result of a ballot by the person conducting it, the CAC must act under this paragraph.
+**121.** (1)[^c-a6721639c04d50f2526a5ce013543a0b] The CAC must act under this paragraph as soon as reasonably practicable after—
 
-(1A)[^c20403941] The duty in sub-paragraph (1) does not apply if the CAC makes arrangements under paragraph 119C(3)(b).
+- (a) the CAC is informed of the result of a ballot by the person conducting it, and
+- (b) the complaint period ends.
+
+(1ZA) The complaint period is the period of 5 working days starting with the day after—
+
+- (a) the date of the ballot, or
+- (b) if votes may be cast in the ballot on more than one day, the last of those days.
+
+(1A) The duty in sub-paragraph (1) does not apply—
+
+- (a) if a complaint is made under paragraph 116I, on or before the day on which the CAC decides whether the complaint is well-founded;
+- (b) if the CAC makes arrangements under paragraph 116J(5).
 
 (2) The CAC must inform the employer and the union (or unions) of the result of the ballot.
 
@@ -3383,7 +3377,7 @@ the CAC must issue a declaration that the bargaining arrangements are to cease t
 
 **122.** (1) This Part of this Schedule applies if—
 
-- (a) the CAC has issued a declaration under paragraph 19F(5), 22(2), 27(2) or 27D(3)[^c20400131] that a union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of a bargaining unit, and
+- (a) the CAC has issued a declaration under paragraph 13B(6), 19F(5), 19K(4), 19P(4),[^c-40c44ccb3c0df7cbb76d39dd11c1fd8c][^c20400131] 22(2) or 27(2)[^c-b3e5e99ea72ac248f7ee59c986d6a4eb] that a union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of a bargaining unit, and
 - (b) the parties have agreed under paragraph 30 or 31 a method by which they will conduct collective bargaining.
 
 (2) In such a case references in this Part of this Schedule to the bargaining arrangements are to—
@@ -3393,7 +3387,7 @@ the CAC must issue a declaration that the bargaining arrangements are to cease t
 
 **123.** (1) This Part of this Schedule also applies if—
 
-- (a) the CAC has issued a declaration under paragraph 19F(5), 22(2), 27(2) or 27D(3)[^c20400181] that a union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of a bargaining unit, and
+- (a) the CAC has issued a declaration under paragraph 13B(6), 19F(5), 19K(4), 19P(4),[^c-c51424a91c4fdda93fd0e826e22e8b59][^c20400181] 22(2) or 27(2)[^c-d54e476f8414187dd0b0760568b8765a] that a union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of a bargaining unit, and
 - (b) the CAC has specified to the parties under paragraph 31(3) the method by which they are to conduct collective bargaining.
 
 (2) In such a case references in this Part of this Schedule to the bargaining arrangements are to—
@@ -3401,7 +3395,7 @@ the CAC must issue a declaration that the bargaining arrangements are to cease t
 - (a) the declaration, and
 - (b) anything effective as, or as if contained in, a legally enforceable contract by virtue of paragraph 31.
 
-**124.** (1) This Part of this Schedule also applies if the CAC has issued a declaration under paragraph 87(2) that a union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of a bargaining unit.
+**124.** (1) This Part of this Schedule also applies if the CAC has issued a declaration under paragraph 81E(4), 81J(4) or[^c-4b724ac80c53f4ddb78d19639ce0c3e0] 87(2) that a union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of a bargaining unit.
 
 (2) In such a case references in this Part of this Schedule to the bargaining arrangements are to —
 
@@ -3504,12 +3498,12 @@ or such longer period (so starting) as the parties may from time to time agree.
 
 #### Ballot on derecognition
 
-**133.** (1) Paragraph 117 applies if the CAC accepts an application under paragraph 128 (as well as in the cases mentioned in paragraph 117(1) and (2)).
+**133.** (1) Paragraph 117 applies if the CAC accepts an application under paragraph 128 (as well as in the cases mentioned in paragraph 117(1) , (2) and (4)[^c-e84580c1bc232f3fca3f2f62e76a9532]).
 
 (2) Paragraphs 118 to 121 apply accordingly, but as if—
 
-- (a) the references in paragraphs 119(2)(a) and 119D(3)[^c20400251] to paragraph 106 or 107 were to paragraph 106, 107 or 128;
-- (b) the references in paragraphs 119A(3)(a)(ii), 119E(1)(b) and 121(4)[^c20400271] to paragraph 106, 107 or 112 were to paragraph 106, 107, 112 or 128.
+- (a) the reference in paragraph 119(2)(a)[^c-9278e2fba60c5bc88606c2339c292de3] to paragraph 106 or 107 were to paragraph 106, 107 or 128;
+- (b) the references in paragraphs[^c20400271] 119ZC(1)(c)(ii)[^c-c3b8958d348f31d71337881e4ffa8606] and 121(4) to paragraph 106, 107 or 112 were to paragraph 106, 107, 112 or 128.
 
 ### Part VI — Derecognition where union not independent
 
@@ -3698,13 +3692,14 @@ and a relevant ballot is a ballot held by virtue of this Part of this Schedule.
 - (a) the CAC accepts an application under paragraph 137, and
 - (b) in the period mentioned in paragraph 142(1) or 145(3) there is no agreement or withdrawal as there described,
 
-(as well as in the cases mentioned in paragraph 117(1) and (2)).
+(as well as in the cases mentioned in paragraph 117(1) , (2) and (4)[^c-d7ae82520d172a9a30a818b82960b21c]).
 
 (2) Paragraphs 118 to 121 apply accordingly, but as if—
 
-- (a) the references in paragraphs 119H(1) and 119I(1)(a)[^c20400291] to paragraph 112 were to paragraph 112 or 137;
-- (b) the references in paragraphs 119A(3)(a)(ii), 119E(1)(b) and 121(4)[^c20400311] to paragraph 106, 107 or 112 were to paragraph 106, 107, 112 or 137.
-- (c) the reference in paragraph 119(4) to the CAC refusing an application under paragraph 119(2) included a reference to it being required to give notice under paragraph 146(5).
+- (a) the reference in paragraph 119(5)(a)[^c-b94fb36b9790394fba4e83274b22fe41] to paragraph 112 were to paragraph 112 or 137;
+- (b) the references in paragraphs[^c20400311] 119ZC(1)(c)(ii)[^c-f9b853800d7931755571e113f6b0d798] and 121(4) to paragraph 106, 107 or 112 were to paragraph 106, 107, 112 or 137.
+- (c) the reference in paragraph 119(4) to the CAC refusing an application under paragraph 119(2) included a reference to it being required to give notice under paragraph 146(5);
+- (d)[^c-7a417f03f7e5ffe087b1817d07b5d248] the reference in paragraph 119ZA(1)(b) to the CAC refusing an application included a reference to it being required to give notice under paragraph 146(5).
 
 #### Derecognition: other cases
 
@@ -4195,6 +4190,8 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c20398481]: Textual amendment: Sch. A1 para. 2(3A) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(2)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-7f3ca34ee93a2c0a8e7b46e49f21d8c8]: Textual amendment: [Sch. A1 para. 2(6)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/2/6) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
 [^c20398501]: Textual amendment: Words in Sch. A1 para. 6 substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 50(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/50/6), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
 [^c-e5996d6e8fbefbcb69c8b550bbc13a77]: Textual amendment: Sch. A1 para. 7(5A)(5B) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/7/2)
@@ -4203,11 +4200,17 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c20398571]: Textual amendment: Sch. A1 para. 12(2)(a) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/1/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-90716595801997e623ae60ded20fc614]: Textual amendment: [Sch. A1 paras. 13A](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/13A), [13B](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/13B) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-644647956a114c8a9813d582847e6f61]: Textual amendment: [Sch. A1 para. 14(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/14/1A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+
 [^c-012d919dece945ac498fb29604ff2e96]: Textual amendment: Words in Sch. A1 para. 14(4) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/b/ii) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
 
 [^c-90ba1529a8a224a3480a94656ea1f52b]: Textual amendment: Words in Sch. A1 para. 14(5) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/4/a); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/b/ii) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
 
 [^c-7bfed64b6bec91edd731e9b407f2540c]: Textual amendment: Words in Sch. A1 para. 14(5) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/4/b); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/b/ii) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
+
+[^c-c2db62179ee8916c460d78d73abdf1f0]: Textual amendment: [Sch. A1 para. 14(5A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/14/5A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 5(5)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/5); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
 [^c-49b769e8dffe2afaf26fef700b8a8087]: Textual amendment: Words in Sch. A1 para. 14(7)(a) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 5(6)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/6/a); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/b/ii) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
 
@@ -4215,7 +4218,11 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c-beffd0afe2720c526ac306948995b4ea]: Textual amendment: Words in Sch. A1 para. 14(8) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 5(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/7); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/b/ii) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
 
-[^c20398891]: Textual amendment: Words in Sch. A1 para. 16(1)(a) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(3)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/3); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-8bb120a8a29bb5da17bca56e0f5981df]: Textual amendment: Words in [Sch. A1 para. 16(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/16/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/6); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c20398891]: Textual amendment: Words in [Sch. A1 para. 16(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/16/1) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(3)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/3); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+
+[^c-7c56f9717889008e8f6ca7f89158139a]: Textual amendment: Words in [Sch. A1 para. 17(3)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/17/3/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c20398911]: Textual amendment: Words in Sch. A1 para. 17(3)(a) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(4)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/4/a); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
@@ -4233,15 +4240,21 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c20400631]: Textual amendment: Sch. A1 paras. 19C-19F and preceding cross-heading inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/5/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-7041a205e145b356148c435ccc1e80f3]: Textual amendment: [Sch. A1 para. 19C(2A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/19C/2A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/8/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-750930828d420f4d2302ed60d8af6173]: Textual amendment: Words in [Sch. A1 para. 19C(5)(c)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/19C/5/c) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/8/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-55afbea22020f6ac83808d1f06907c18]: Textual amendment: Words in [Sch. A1 para. 19C(7)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/19C/7) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 8(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/8/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
 [^c-31af1cdcbda813bfe7a66c26acfa1a48]: Textual amendment: Words in [Sch. A1 para. 19E(5)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/19E/5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c-7536c2bbe5d428d6fd4db57405327742]: Textual amendment: Words in Sch. A1 para. 19E(5) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 109(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/109/2) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c-c9b7a12d9d41cfad2da537ce08b391fa]: Textual amendment: Words in Sch. A1 para. 19E(6) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 109(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/109/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^c-01e9d3bc1c53721c9336f17c59d01ef4]: Textual amendment: [Sch. A1 paras. 19G-19L](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/19G) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/9); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-01e9d3bc1c53721c9336f17c59d01ef4]: Textual amendment: [Sch. A1 paras. 19G-19L](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/19G) and cross-heading inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/9); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^c-94aec889f0f39952601f702c64bdf8fc]: Textual amendment: [Sch. A1 paras. 19M-19P](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/19M) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/10); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-94aec889f0f39952601f702c64bdf8fc]: Textual amendment: [Sch. A1 paras. 19M-19P](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/19M) and cross-heading inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/10); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
 [^c20398961]: Textual amendment: Words in Sch. A1 para. 21(1)(b) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(5)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/5); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
@@ -4249,29 +4262,95 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c20400701]: Textual amendment: Words in Sch. A1 para. 22(1)(a) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24) {ss. 5(2)}, 59(2)-(4); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-a43f4b5beaac368ae0fcf17bad5ddbcf]: Textual amendment: Words in [Sch. A1 para. 22(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/22/1/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/11/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-90e51728c63decb4972c21273a9434b7]: Textual amendment: [Sch. A1 para. 22(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/22/1A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 11(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/11/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-98326238b540528751c20110d1819f07]: Textual amendment: Words in [Sch. A1 para. 22(3)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/22/3) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 11(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/11/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
 [^c20400771]: Textual amendment: Sch. A1 para. 22(4)(b) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/6/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+
+[^c-d613aa01f4aa6372771a5f910dc802c9]: Textual amendment: [Sch. A1 para. 22(4A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/22/4A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 11(5)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/11/5); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c20400931]: Textual amendment: Words in Sch. A1 para. 23(1)(a) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/5/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-1cab2965e98061a43025d59203f0b0e0]: Textual amendment: Words in [Sch. A1 para. 23(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/23/1/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 12(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/12/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-972774165b73bc1b76bc64ba026fec76]: Textual amendment: [Sch. A1 para. 23(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/23/1A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 12(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/12/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-799c3f6d3737773cb5529748b1a1892f]: Textual amendment: Words in [Sch. A1 para. 23(2)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/23/2) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 12(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/12/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-6bbcb4ab255621a4e0c3386fb5cd402c]: Textual amendment: Word in [Sch. A1 para. 24(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/24/1) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
 [^c20400941]: Textual amendment: Sch. A1 para. 24(5)-(7) substituted (6.4.2005) for Sch. A1 para. 24(5) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 7](https://www.legislation.gov.uk/ukpga/2004/24/section/7), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+
+[^c-8c599e9d430eee468dbd3dfccb0acabd]: Textual amendment: [Sch. A1 para. 24(5)(za)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/24/5/za) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13/3/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-3a9788881401a228f88051601b085797]: Textual amendment: Words in [Sch. A1 para. 24(5)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/24/5/a) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 13(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13/3/b/i); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-d5ed4bc4cb5ceb943d624f048fa17011]: Textual amendment: Words in [Sch. A1 para. 24(5)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/24/5/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 13(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13/3/b/ii); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-db2c6ef44b1418cbb1e04aa7b108d821]: Textual amendment: Words in [Sch. A1 para. 24(5)(b)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/24/5/b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 13(3)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13/3/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-bf400600e67118f74ddf6c15375b2e81]: Textual amendment: [Sch. A1 para. 24(6)(za)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/24/6/za) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13/4/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-56e86d7ebf5371cee9fa39916c6fefa1]: Textual amendment: Words in [Sch. A1 para. 24(6)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/24/6/a) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 13(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13/4/b/i); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-f82ebb9a63a4bc2e7fc6598f102b3d90]: Textual amendment: Words in [Sch. A1 para. 24(6)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/24/6/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 13(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13/4/b/ii); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-d237ad27edcab490bf42c1b267c92ea1]: Textual amendment: Words in [Sch. A1 para. 24(6)(b)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/24/6/b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 13(4)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13/4/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-58b72b3476ae5017ea4bc6ddfe1bec60]: Textual amendment: [Sch. A1 para. 25(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/25/1A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/14); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c20400981]: Textual amendment: Sch. A1 para. 25(6A) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/8/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c20401131]: Textual amendment: Word in Sch. A1 para. 26(1) substituted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/9/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-e41995304aa91bba3e5030a636c47d52]: Textual amendment: Word in [Sch. A1 para. 26(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/1) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-72e2cc7607bf7ebb4dc1519472b8b402]: Textual amendment: Words in [Sch. A1 para. 26(2)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/2) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/3/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-7fd3255f0f26cb2b197f51d1d83c3686]: Textual amendment: Words in [Sch. A1 para. 26(2)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/2) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/3/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-5943252e4bfa3a473beb3a57c3001376]: Textual amendment: [Sch. A1 para. 26(3)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/3) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-b37568f0294d63810ddc0ffb7f02f441]: Textual amendment: Words in [Sch. A1 para. 26(4)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/4) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(5)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/5/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-dd350b9b7a49d0a68a045eaca6128feb]: Textual amendment: Word in [Sch. A1 para. 26(4)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/4/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/5/b/i); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-6df1359a082da5ac9ccd1dc9aede7c9d]: Textual amendment: Words in [Sch. A1 para. 26(4)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/4/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/5/b/ii); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-85134fcb67b5564cbb172f9f3b0a0018]: Textual amendment: [Sch. A1 para. 26(4)(b)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/4/b) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(5)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/5/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-2a9c0a71eeb28ecd969aafd289d8d527]: Textual amendment: Word in [Sch. A1 para. 26(4)(c)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/4/c) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(5)(d)(i)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/5/d/i); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c20401071]: Textual amendment: Words in Sch A1 para. 26(4)(c) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/5/3), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c20401551]: Textual amendment: Sch. A1 para 26(4A)-(4E) inserted (1.10.2005) by [Employment Relations Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2004/25/section/9/3), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/25/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-1df89b6ff6915433fd6092eb89eb1e1a]: Textual amendment: Words in [Sch. A1 para. 26(4)(c)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/4/c) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(5)(d)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/5/d/ii); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-d67ab98a377a67633e5e76f4853c78ce]: Textual amendment: [Sch. A1 para. 26(4ZA)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/4ZA) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(6)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/6); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-baaeef4c27b761f1d955d844f0805cff]: Textual amendment: [Sch. A1 para. 26(4A)-(4E)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/4A) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c20401091]: Textual amendment: Sch. A1 para. 26(4F)-(4H) inserted (6.4.2005) by virtue of [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/5/4), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-1d435904f073dd9c5c427732c61b56a6]: Textual amendment: [Sch. A1 para. 26(4G)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/4G) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
 [^c20401111]: Textual amendment: Words in Sch. A1 para. 26(6) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 5(5)](https://www.legislation.gov.uk/ukpga/2004/24/section/5/5), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c20402081]: Textual amendment: Sch. A1 para. 26(8)-(9) substituted for Sch. A1 para. 26(8) (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/9/4), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-ddbf5397db896c1069c8067dfff2e6cf]: Textual amendment: [Sch. A1 para. 26(8)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/8) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-0ce5006cb6bde8dc163f87261d16d14e]: Textual amendment: [Sch. A1 para. 26(9)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/26/9) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 15(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c20402711]: Textual amendment: Words in Sch. A1 para. 27(1) substituted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 9(5)](https://www.legislation.gov.uk/ukpga/2004/24/section/9/5), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
 
-[^c20402751]: Textual amendment: Sch. A1 para. 27A-27F inserted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/10/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-549ff10a9f326b461be428d81c3981e8]: Textual amendment: [Sch. A1 paras. 27ZA-27ZD](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/27ZA) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/16); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-165dce2ef9f307a6197f2e63371c0a8a]: Textual amendment: [Sch. A1 paras. 27A-27F](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/27A) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/17); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-23a3e20e98e1c21981372e7ffc1eb7ad]: Textual amendment: [Sch. A1 para. 28(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/28/1A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 18(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/18/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-27873a455da47c97e7c0d7783f0418e9]: Textual amendment: Words in [Sch. A1 para. 28(2)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/28/2) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 18(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/18/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-bc9d65f2994cf70082679cdbd441fb04]: Textual amendment: Words in [Sch. A1 para. 28(4)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/28/4) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 18(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/18/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c-6dcfd48213680f206075fd5c65a1e4c9]: Textual amendment: Words in [Sch. A1 para. 28(6)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/28/6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
@@ -4281,7 +4360,7 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c-c4148bc30a84cf3bb9f2db720118bdcd]: Textual amendment: Words in Sch. A1 para. 28(6A) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 110(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/110/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^c20402801]: Textual amendment: Sch. A1 para. 29(1A) inserted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/10/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-11ffc3dbeb8909fd8ffba52c32c68c0a]: Textual amendment: [Sch. A1 para. 29(1)-(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/29/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 19(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
 [^c-c01bb67a8442752b2ae0b16d00a4bfbd]: Textual amendment: Sch. A1 para. 29(3) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 19(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/c/ii) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/2))
 
@@ -4289,25 +4368,43 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c20399081]: Textual amendment: Words in Sch. A1 para. 32(2) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(7)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/7); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-aafc58a4afe50641d5a6a90b0e4a9ce2]: Textual amendment: [Sch. A1 para. 35(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/35/1A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+
 [^c20402851]: Textual amendment: Words in Sch. A1 para. 35(2)(b) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 11](https://www.legislation.gov.uk/ukpga/2004/24/section/11), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2004/872](https://www.legislation.gov.uk/uksi/2004/872), [art. 4](https://www.legislation.gov.uk/uksi/2004/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2004/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2004/872/article/6))
 
 [^c20402871]: Textual amendment: Words in Sch. A1 para. 35(4)(a) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 50(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/50/6), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [S.I](https://www.legislation.gov.uk/ukpga/2004/24/section/I). 2005/872, {art. 4}, Sch. (with arts. 6-21)
 
 [^c-53f5f67b3b414bb0f1fe583ed4fe893c]: Textual amendment: Sch. A1 para. 35(5A)-(5C) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/d/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
 
-[^c-9847445faf3449b7c9c6adcc93c1a8c7]: Textual amendment: Sch. A1 para. 36(1)(1A) substituted for Sch. A1 para. 36(1) (6.4.2026 to the extent it substitutes new sub-para. 36(1), otherwise prosp.) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/21); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/e) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
+[^c-9847445faf3449b7c9c6adcc93c1a8c7]: Textual amendment: Sch. A1 para. 36(1)(1A) substituted for Sch. A1 para. 36(1) (6.4.2026 to the extent it substitutes new sub-para. 36(1), 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/21); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/e) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1)); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
 [^c20399131]: Textual amendment: Words in Sch. A1 para. 37(3)(b) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(8)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/8); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-f1640a220fe6590142c2002838b46bed]: Textual amendment: Words in [Sch. A1 para. 38(1)(d)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/38/1/d) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/22/2/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
 [^c20399181]: Textual amendment: Words in Sch. A1 para. 38(1)(d) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(9)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/9); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+
+[^c-42ae49d41b7c9c0ac9b35788d2a9abd1]: Textual amendment: Words in [Sch. A1 para. 38(1)(d)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/38/1/d) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/22/2/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-24e3a4465036cd9f04aa6aa7cf09ab11]: Textual amendment: [Sch. A1 para. 38(2A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/38/2A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 22(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/22/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-6cf69ece8aeb0f33cd4ce10842245bd6]: Textual amendment: Word in [Sch. A1 para. 39(5)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/39/5) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/23); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-714e16b7d0e9695d3efa0d422db8a15c]: Textual amendment: Words in [Sch. A1 para. 40(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/40/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 24(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/24/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c20399221]: Textual amendment: Words in Sch. A1 para. 40(1) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(10)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/10/a); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c20399241]: Textual amendment: Word in Sch. A1 para. 40(1) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(10)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/10/b); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-f4cd8fa82825a66b4233cdd11cfa24ab]: Textual amendment: Words in [Sch. A1 para. 40(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/40/1) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 24(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/24/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-95c730b401fdfb868f39a73fc47f0e62]: Textual amendment: [Sch. A1 para. 40A](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/40A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/25); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-ff192c39186bda4a5565eced6102f8c7]: Textual amendment: Words in [Sch. A1 para. 41(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/41/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 26(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/26/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c20399291]: Textual amendment: Words in Sch. A1 para. 41(1) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(11)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/11/a); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c20399311]: Textual amendment: Word in Sch. A1 para. 41(1) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(11)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/11/b); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-37ab5c1e074f9e6f45af61dfa29c51fb]: Textual amendment: Words in [Sch. A1 para. 41(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/41/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 26(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/26/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-bec422c00de4b8881b43b99c5cc9e004]: Textual amendment: [Sch. A1 para. 44(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/44/1A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 27(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
 [^c20402881]: Textual amendment: Words in Sch. A1 para. 44(2)(b) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 11](https://www.legislation.gov.uk/ukpga/2004/24/section/11), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
@@ -4315,21 +4412,37 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c-e3759517845b8f26b94a61da9f9500e2]: Textual amendment: Sch. A1 para. 44(6)-(8) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 27(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(f)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/f/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
 
-[^c-ccaf918459450332490c4a365b501c41]: Textual amendment: Sch. A1 para. 45 substituted (6.4.2026 to the extent it substitutes new sub-para. 45(1), otherwise prosp.) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/28); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(g)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/g) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
+[^c-ccaf918459450332490c4a365b501c41]: Textual amendment: Sch. A1 para. 45 substituted (6.4.2026 to the extent it substitutes new sub-para. 45(1), 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/28); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(g)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/g) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1)); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+
+[^c-404f308c4deca9057fe8d338faeb17fa]: Textual amendment: Words in [Sch. A1 para. 46(1)(d)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/46/1/d) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/29/2/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
 [^c20399331]: Textual amendment: Words in Sch. A1 para. 46(1)(d) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(12)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/12); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-4d22a9c66e4acd4c595583fd80d1b308]: Textual amendment: Words in [Sch. A1 para. 46(1)(d)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/46/1/d) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/29/2/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-3cb2d7ed1c22f2d04f632ec74065438f]: Textual amendment: [Sch. A1 para. 46(3)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/46/3) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 29(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/29/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-b22163073d0439ffe8ae2f66220938f2]: Textual amendment: Word in [Sch. A1 para. 47(3)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/47/3) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/30); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-fb658347c1515ce2b07f51f082cba929]: Textual amendment: Words in [Sch. A1 para. 48(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/48/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 31(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/31/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
 [^c20399451]: Textual amendment: Words in Sch. A1 para. 48(1) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(13)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/13/a); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c20399471]: Textual amendment: Words in Sch. A1 para. 48(1) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(13)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/13/b); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-3b486d73ddad315213eadedd4015fab6]: Textual amendment: Words in [Sch. A1 para. 48(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/48/1) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 31(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/31/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-c1a8c7e47eb697193a0f556b436f213d]: Textual amendment: [Sch. A1 para. 48A](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/48A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/32); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+
+[^c-a7a503f673a90a9ac1091bf0533f15ff]: Textual amendment: Words in [Sch. A1 para. 49(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/49/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 33(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/33/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1), [5](https://www.legislation.gov.uk/uksi/2026/1065/regulation/5))
 
 [^c20399661]: Textual amendment: Words in Sch. A1 para. 49(1) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(14)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/14/a); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/872/schedule/1) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c20399681]: Textual amendment: Words in Sch. A1 para. 49(1) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(14)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/14/b); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/872/schedule/1) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-435cc9cc6df1b1a565dde10374dca675]: Textual amendment: Words in [Sch. A1 para. 49(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/49/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 33(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/33/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1), [5](https://www.legislation.gov.uk/uksi/2026/1065/regulation/5))
 
 [^c20399701]: Textual amendment: Words in Sch. A1 para. 51(2)(b) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(15)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/15); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/872/schedule/1) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
 [^c-38aaeaa277b11d5de91581aaa62e689d]: Textual amendment: Words in Sch. A1 para. 51(2)(c) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/34); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(h)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/h) (with [reg. 6(4)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/4)[(5)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/5))
+
+[^c-364dbe659e6d826c85f906df14192ef6]: Textual amendment: Words in [Sch. A1 para. 52(3)(f)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/52/3/f) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/35); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/3))
 
 [^c20399751]: Textual amendment: Words in Sch. A1 para. 52(3)(f) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(16)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/16/a); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/872/schedule/1) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
@@ -4337,9 +4450,21 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c20398521]: Textual amendment: Words in Sch. A1 para. 60(4) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 50(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/50/6), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c-616efa3b7d461a251f8962f22e3d4e6c]: Textual amendment: [Sch. A1 paras. 81A-81F](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/81A) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/40); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-00768391d429cc38ce401608bde92bcc]: Textual amendment: Words in [Sch. A1 para. 67(2)(c)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/67/2/c) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 36(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/36/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
 
-[^c-d84a78dfae89b9407343ab203a6e2d9c]: Textual amendment: [Sch. A1 paras. 81G-81J](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/81G) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/41); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-1bfd1c0560d6db266767f2f8f7fdea81]: Textual amendment: [Sch. A1 para. 67(3)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/67/3) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 36(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/36/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
+[^c-a25c0e0173775fa1a113cf6daac5f162]: Textual amendment: Words in [Sch. A1 para. 70(3)(c)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/70/3/c) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 37(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/37/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
+[^c-3627f070d10871fde65d3ba451f81343]: Textual amendment: [Sch. A1 para. 70(3A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/70/3A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 37(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/37/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
+[^c-fc32a84695a2f7598502334addc95b12]: Textual amendment: Words in [Sch. A1 para. 75(3)(c)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/75/3/c) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/38); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
+[^c-bee60354ddf77f8605d7991a76db8bde]: Textual amendment: [Sch. A1 para. 77(4A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/77/4A) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 39](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/39); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
+[^c-616efa3b7d461a251f8962f22e3d4e6c]: Textual amendment: [Sch. A1 paras. 81A-81F](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/81A) and cross-heading inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/40); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(5)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/5))
+
+[^c-d84a78dfae89b9407343ab203a6e2d9c]: Textual amendment: [Sch. A1 paras. 81G-81J](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/81G) and cross-heading inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/41); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(5)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/5))
 
 [^c20399811]: Textual amendment: Words in Sch. A1 para. 83(8) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(17)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/17); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/872/schedule/1) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
@@ -4353,11 +4478,23 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c-3866b4ce6435ebb15a63c4745ea34d68]: Textual amendment: Sch. A1 para. 88(1) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/44); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/i) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/6))
 
+[^c-6acb81c2afca107731ac82e292853e31]: Textual amendment: Words in [Sch. A1 para. 89(4)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/89/4) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 45(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/45/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
 [^c20399871]: Textual amendment: Words in Sch. A1 para. 89(5) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(18)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/18); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c20399911]: Textual amendment: Words in Sch A1 para. 89(8) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(19)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/19); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-4e8b5d1b51b5bbcf3b258863bd7b4c82]: Textual amendment: Word in [Sch. A1 para. 89(5)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/89/5/a) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/45/3/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
+[^c-a81c4b4b8257952e141b4e649f60720e]: Textual amendment: [Sch. A1 para. 89(5)(aa)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/89/5/aa)[(ab)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/89/5/ab) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/45/3/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
+[^c-f442f08558b6aa3dd284faee527b9bd0]: Textual amendment: Words in [Sch. A1 para. 89(5)(b)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/89/5/b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 45(3)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/45/3/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
+[^c-6c76b1b5bccd37dcea1f17d23944017a]: Textual amendment: Words in [Sch. A1 para. 89(8)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/89/8) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 45(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/45/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
 
 [^c20399931]: Textual amendment: Sch A1 para. 89(9) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(20)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/20); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+
+[^c-2aab295e08b0aa27fa6851a47434ba57]: Textual amendment: Words in [Sch. A1 para. 89(9)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/89/9) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 45(5)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/45/5); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+
+[^c-8c707b20da02693aebba00d9e27ac534]: Textual amendment: Words in [Sch. A1 para. 93(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/93/1/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 46](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/46); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
 
 [^c20399951]: Textual amendment: Words in Sch. 1A para. 93(1)(c) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(21)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/21); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
@@ -4391,23 +4528,59 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c20403541]: Textual amendment: Sch. A1 para. 113(2)(a) repealed (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 12(9)](https://www.legislation.gov.uk/ukpga/2004/24/section/12/9), [57(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c-a77ed9e52ceee142a92cc1bf50138442]: Textual amendment: [Sch. A1 paras. 116A-116G](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/116A) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/47); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-a77ed9e52ceee142a92cc1bf50138442]: Textual amendment: [Sch. A1 paras. 116A-116G](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/116A) and cross-heading inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/47); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/7))
 
-[^c-104080ab87a65c79935345af527c723a]: Textual amendment: [Sch. A1 paras. 116H-116L](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/116H) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/48); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-104080ab87a65c79935345af527c723a]: Textual amendment: [Sch. A1 paras. 116H-116L](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/116H) and cross-heading inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/48); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/7))
+
+[^c-290075b964a78bf48b32d05cc344c614]: Textual amendment: Words in [Sch. A1 para. 117(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/117/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 49(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/49/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-6baf03d4c6b697af23ae00e232c822ec]: Textual amendment: Words in [Sch. A1 para. 117(2)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/117/2) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 49(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/49/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-7a465b8ae43291ea500dfb92ce0caaa1]: Textual amendment: Words in [Sch. A1 para. 117(4)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/117/4) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 49(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/49/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
 [^c20401031]: Textual amendment: Sch. A1 para. 117(8A) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/8/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c20403611]: Textual amendment: Word in Sch. A1 para. 118(1) substituted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 9(7)](https://www.legislation.gov.uk/ukpga/2004/24/section/9/7), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-4d971d42b9fee99cfca6acb715660ddb]: Textual amendment: Word in [Sch. A1 para. 118(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/1) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
-[^c20403671]: Textual amendment: Sch. A1 para. 118(4A)-(4E) inserted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 9(8)](https://www.legislation.gov.uk/ukpga/2004/24/section/9/8), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-9ccaf5ef77ce8fd9937150a2a4065363]: Textual amendment: Words in [Sch. A1 para. 118(2)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/2) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/3/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
-[^c20403721]: Textual amendment: Sch. A1 para. 118(8)(9) substituted for Sch. A1 para. 118(8) (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 9(9)](https://www.legislation.gov.uk/ukpga/2004/24/section/9/9), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-ac21b32afc8448b178e30dab28435c2a]: Textual amendment: Words in [Sch. A1 para. 118(2)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/2) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/3/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-5b1eecad95085df8518a168e63ecc549]: Textual amendment: [Sch. A1 para. 118(3)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/3) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-a79a2ae7eae3bcc3c6796da17016ae10]: Textual amendment: Words in [Sch. A1 para. 118(4)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/4) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(5)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/5/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-a3a0b806decc6a04fd6d0e61fc6b3a57]: Textual amendment: Word in [Sch. A1 para. 118(4)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/4/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(5)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/5/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-5c5714f7cb7bf583d3130645e790a560]: Textual amendment: Word in [Sch. A1 para. 118(4)(b)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/4/b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(5)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/5/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-ad5b4723c5145c7fd45f8615fabab4b8]: Textual amendment: Word in [Sch. A1 para. 118(4)(c)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/4/c) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(5)(d)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/5/d); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-57a2aeea7a591c353110900148150bd2]: Textual amendment: [Sch. A1 para. 118(4ZA)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/4ZA) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(6)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/6); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-e5e08a7da8487122594f950929b1ef3b]: Textual amendment: [Sch. A1 para. 118(4A)-(4E)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/4A) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-abf76ccd013c0f95fa487f5f75188888]: Textual amendment: [Sch. A1 para. 118(8)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/8) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-54cf2cbeb00bf3e2c4c67855ce28f8da]: Textual amendment: [Sch. A1 para. 118(9)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/118/9) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 50(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50/7); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
 [^c20403781]: Textual amendment: Words in Sch. A1 para. 119(1) substituted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 9(10)](https://www.legislation.gov.uk/ukpga/2004/24/section/9/10), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3](https://www.legislation.gov.uk/uksi/2005/2419/article/3) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
 
 [^c20403821]: Textual amendment: Sch. A1 para. 119(3) repealed (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(22)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/22), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3](https://www.legislation.gov.uk/uksi/2005/2419/article/3) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
 
-[^c20403871]: Textual amendment: Sch. A1 paras. 119A-119I inserted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/13/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3](https://www.legislation.gov.uk/uksi/2005/2419/article/3) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-be0b5361e3ced5e3a97e29f10d4b89e4]: Textual amendment: [Sch. A1 para. 119(5)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/119/5)[(6)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/119/6) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 51](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/51); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-f45fbee8072bea6347a7de008106d3ec]: Textual amendment: [Sch. A1 paras. 119ZA-119ZD](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/119ZA) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 52](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/52); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-d4f251211da3a79fc5d2c69f3bd59eb9]: Textual amendment: [Sch. A1 paras. 119A-119I](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/119A) omitted (30.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 53](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/53); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-846c3ed23606627a827cc0b11e65a19a]: Textual amendment: Words in [Sch. A1 para. 120(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/120/1) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 54(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/54/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-b1d433820ba339673ca81aa76d0bf7b4]: Textual amendment: [Sch. A1 para. 120(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/120/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/120/1B) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 54(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/54/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-5a09463ef3b80a1de3c4ca5d166340f0]: Textual amendment: Words in [Sch. A1 para. 120(2)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/120/2) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 54(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/54/4); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-42b9c36e200a517f8db88566eba157a9]: Textual amendment: Words in [Sch. A1 para. 120(4)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/120/4) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 54(5)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/54/5); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
 [^c-7f700814101c84142c63716eb8b11170]: Textual amendment: Words in [Sch. A1 para. 120(6)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/120/6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
@@ -4417,11 +4590,21 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c-35996c933c2a3ae70cd1887c95d2be30]: Textual amendment: Words in Sch. A1 para. 120(6A) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 111(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/111/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^c20403941]: Textual amendment: Sch. A1 para. 121(1A) inserted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/13/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3](https://www.legislation.gov.uk/uksi/2005/2419/article/3) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-a6721639c04d50f2526a5ce013543a0b]: Textual amendment: [Sch. A1 para. 121(1)-(1A)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/121/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 55](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/55); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+
+[^c-40c44ccb3c0df7cbb76d39dd11c1fd8c]: Textual amendment: Words in [Sch. A1 para. 122(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/122/1/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 56(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/56/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8), [6](https://www.legislation.gov.uk/uksi/2026/1065/regulation/6))
 
 [^c20400131]: Textual amendment: Words in Sch. A1 para. 122(1)(a) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(24)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/24); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
+[^c-b3e5e99ea72ac248f7ee59c986d6a4eb]: Textual amendment: Words in [Sch. A1 para. 122(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/122/1/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 56(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/56/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8), [6](https://www.legislation.gov.uk/uksi/2026/1065/regulation/6))
+
+[^c-c51424a91c4fdda93fd0e826e22e8b59]: Textual amendment: Words in [Sch. A1 para. 123(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/123/1/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 57(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/57/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8), [6](https://www.legislation.gov.uk/uksi/2026/1065/regulation/6))
+
 [^c20400181]: Textual amendment: Words in Sch. A1 para. 123(1)(a) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(25)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/25); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+
+[^c-d54e476f8414187dd0b0760568b8765a]: Textual amendment: Words in [Sch. A1 para. 123(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/123/1/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 57(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/57/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8), [6](https://www.legislation.gov.uk/uksi/2026/1065/regulation/6))
+
+[^c-4b724ac80c53f4ddb78d19639ce0c3e0]: Textual amendment: Words in [Sch. A1 para. 124(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/124/1) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 58](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/58); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8))
 
 [^c20403961]: Textual amendment: Words in Sch. A1 para. 130(1)(a) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 12(8)(a)](https://www.legislation.gov.uk/ukpga/2004/24/section/12/8/a), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
@@ -4431,25 +4614,35 @@ to include matters to which a post-commencement declaration of recognition or me
 
 [^c20404011]: Textual amendment: Sch. A1 para. 130(2)(a) repealed (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 12(9)](https://www.legislation.gov.uk/ukpga/2004/24/section/12/9), [57(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c-55d71316f8254cc2d069c317af1af35b]: Textual amendment: [Sch. A1 para. 132A](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/132A) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 59](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/59); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-55d71316f8254cc2d069c317af1af35b]: Textual amendment: [Sch. A1 para. 132A and cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/part/V/crossheading/access-agreements) inserted (6.1.2026 for specified purposes, 30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 59](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/59); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(9)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/9))
 
-[^c-32cb446d7834e7a6734f0aeec14d765b]: Textual amendment: [Sch. A1 para. 132B](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/132B) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 60](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/60); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-32cb446d7834e7a6734f0aeec14d765b]: Textual amendment: [Sch. A1 para. 132B and cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/part/V/crossheading/unfair-practices) inserted (6.1.2026 for specified purposes, 30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 60](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/60); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(9)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/9))
 
-[^c20400251]: Textual amendment: Words in Sch. A1 para. 133(2)(a) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(26)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/26/a); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-e84580c1bc232f3fca3f2f62e76a9532]: Textual amendment: Words in [Sch. A1 para. 133(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/133/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 61(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/61/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(10)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/10))
+
+[^c-9278e2fba60c5bc88606c2339c292de3]: Textual amendment: Words in [Sch. A1 para. 133(2)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/133/2/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 61(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/61/3/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(10)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/10))
 
 [^c20400271]: Textual amendment: Words in Sch. A1 para. 133(2)(b) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(26)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/26/b); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+
+[^c-c3b8958d348f31d71337881e4ffa8606]: Textual amendment: Words in [Sch. A1 para. 133(2)(b)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/133/2/b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 61(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/61/3/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(10)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/10))
 
 [^c20398531]: Textual amendment: Words in Sch. A1 para. 134(1)(b) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 50(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/50/6), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
 [^c20398541]: Textual amendment: Words in Sch. A1 para. 138 substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 50(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/50/6), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^c-4f2a5adb5a783b8e8a017e9d8d2d740f]: Textual amendment: [Sch. A1 para. 146A](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/146A) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/62); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-4f2a5adb5a783b8e8a017e9d8d2d740f]: Textual amendment: [Sch. A1 para. 146A and cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/part/VI/crossheading/access-agreements) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/62); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(11)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/11))
 
-[^c-74f64827bae535e4ad126fd56d89cd1b]: Textual amendment: [Sch. A1 para. 146B](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/146B) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/63); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-74f64827bae535e4ad126fd56d89cd1b]: Textual amendment: [Sch. A1 para. 146B and cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/part/VI/crossheading/unfair-practices) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/63); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(11)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/11))
 
-[^c20400291]: Textual amendment: Words in Sch. A1 para. 147(2)(a) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(27)(a)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/27/a); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-d7ae82520d172a9a30a818b82960b21c]: Textual amendment: Words in [Sch. A1 para. 147(1)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/147/1) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 64(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/64/2); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(12)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/12))
+
+[^c-b94fb36b9790394fba4e83274b22fe41]: Textual amendment: Words in [Sch. A1 para. 147(2)(a)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/147/2/a) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/64/3/a); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(12)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/12))
 
 [^c20400311]: Textual amendment: Words in Sch. A1 para. 147(2)(b) substituted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 23(27)(b)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/23/27/b); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+
+[^c-f9b853800d7931755571e113f6b0d798]: Textual amendment: Words in [Sch. A1 para. 147(2)(b)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/147/2/b) substituted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/64/3/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(12)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/12))
+
+[^c-7a417f03f7e5ffe087b1817d07b5d248]: Textual amendment: [Sch. A1 para. 147(2)(d)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/147/2/d) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 6 para. 64(3)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/64/3/c); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(12)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/12))
 
 [^c14524691]: Modification: Sch. A1 para. 156 modified (6.6.2000) by [S.I. 2000/1338](https://www.legislation.gov.uk/uksi/2000/1338), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2000/1338/article/3/1/a)
 

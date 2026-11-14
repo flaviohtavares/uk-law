@@ -3,16 +3,16 @@ title: The Roads (Scotland) Act 1984 (Fixed Penalty) Regulations 2008
 id: ssi/2008/243
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-06-11'
-text_date: '2008-06-11'
+text_date: '2011-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/243
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/243/pdfs/ssien_20080243_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/243/pdfs/ssi_20080243_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/243/data.pdf
-pending_changes: 13
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Roads (Scotland) Act 1984 (Fixed Penalty) Regulations 2008
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2008-06-11. See https://www.legislation.gov.uk/changes/affected/ssi/2008/243
+> Text as at 2011-04-01.
 >
 > Extent: Scotland.
 
 *Extent: S*
-
-**Not yet in force.**
 
 2008 No. 243
 
@@ -110,7 +108,7 @@ and for this purpose “legible in all material respects” means that the infor
 
 ## 5. Time limit for giving fixed penalty notice[^c-2ae5e2f79119cbafbe58cee9fafd339d]
 
-A fixed penalty notice for an offence may not be given more than 60 days after the commission of the offence beginning with the day of its commission.
+A fixed penalty notice for an offence may not be given more than 91[^c-38d1b4bdf08b37da0832188b77811844] days after the commission of the offence beginning with the day of its commission.
 
 ## 6. Amount of penalty[^c-9e6d792f0736f2ebbf9ab9127798bc4c]
 
@@ -205,28 +203,30 @@ A regulatory impact assessment has been prepared in respect of these Regulations
 
 [^f00003]: Footnote: Section 163A was inserted by section 39 of the 2005 Act.
 
-[^c-1e215f7842a1e3997a7644edd5489910]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-1e215f7842a1e3997a7644edd5489910]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
-[^c-cbe9f17e5dfd1ffcc036fe3037cc2e2a]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-cbe9f17e5dfd1ffcc036fe3037cc2e2a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/243/regulation/2) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 158.
 
-[^c-39d46873f6e12da0c9b259a52309ff00]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-39d46873f6e12da0c9b259a52309ff00]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2008/243/regulation/3) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
-[^c-44656027893c2196e6cf02798fb3d534]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-44656027893c2196e6cf02798fb3d534]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/243/regulation/4) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
-[^c-2ae5e2f79119cbafbe58cee9fafd339d]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-2ae5e2f79119cbafbe58cee9fafd339d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2008/243/regulation/5) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
-[^c-9e6d792f0736f2ebbf9ab9127798bc4c]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-38d1b4bdf08b37da0832188b77811844]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/ssi/2008/243/regulation/5) substituted (1.4.2011) by [The Roads (Scotland) Act 1984 (Fixed Penalty) Amendment Regulations 2011 (S.S.I. 2011/98)](https://www.legislation.gov.uk/ssi/2011/98), [regs. 1](https://www.legislation.gov.uk/ssi/2011/98/regulation/1), [2](https://www.legislation.gov.uk/ssi/2011/98/regulation/2)
 
-[^c-c47f1f67384c3e64a482acaaf235ebae]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-9e6d792f0736f2ebbf9ab9127798bc4c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2008/243/regulation/6) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
-[^c-3b7a53bc5b4ba621b54cd693d97efa4e]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-c47f1f67384c3e64a482acaaf235ebae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2008/243/regulation/7) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
-[^c-610b1b1c6fd0144eb9db1e2d3de795ef]: Commencement: Reg. 9 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-3b7a53bc5b4ba621b54cd693d97efa4e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2008/243/regulation/8) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
-[^c-d407c2d73280ab02ae6a2940f676ec3a]: Commencement: Sch. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-610b1b1c6fd0144eb9db1e2d3de795ef]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2008/243/regulation/9) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
-[^c-52207cc5b1dbde600864d41b908398e8]: Commencement: Sch. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-d407c2d73280ab02ae6a2940f676ec3a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2008/243/schedule/1) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
 
-[^c-a1aa1b22221c1f4537a5ab4cbdbf4768]: Commencement: Sch. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+[^c-52207cc5b1dbde600864d41b908398e8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2008/243/schedule/2) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)
+
+[^c-a1aa1b22221c1f4537a5ab4cbdbf4768]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2008/243/schedule/3) in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/243/regulation/1)

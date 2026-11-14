@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. General duties relating to importation, acquisition, keeping, release or marketing of organisms.[^c19013291]
+## 109. General duties relating to importation, acquisition, keeping, release or marketing of organisms.[^c19013291][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,3 +60,5 @@ and this subsection applies, with the necessary modifications, to a person propo
 ## Annotations
 
 [^c19013291]: Modification: [Ss. 108-110](https://www.legislation.gov.uk/ukpga/1990/43/section/108) extended (Isles of Scilly) (with modifications) (4.8.2006) by [The Environmental Protection Act 1990 (Isles of Scilly) Order 2006 (S.I. 2006/1381)](https://www.legislation.gov.uk/uksi/2006/1381), [art. 3](https://www.legislation.gov.uk/uksi/2006/1381/article/3)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

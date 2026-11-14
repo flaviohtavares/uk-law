@@ -3,14 +3,14 @@ title: Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996
 id: nisr/1996/287
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-17'
-text_date: null
-extent: null
+text_date: '1996-07-17'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/287
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/287/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/287/data.pdf
+pending_changes: 14
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (14).** Text as at 1996-07-17. See https://www.legislation.gov.uk/changes/affected/nisr/1996/287
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 287
 
@@ -38,15 +44,15 @@ Coming into operation
 
 The Department of Agriculture and the Department of Health and Social Services, being the Departments concerned[^f00001], in exercise of the powers conferred by Articles 15(1) and (3), 16(1), 17(2), 18, 25, 26(3), 32 and 47(2) of, and paragraphs 5 and 6(1)(*a*) of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00002] and of every other power enabling them in that behalf, after consultation in accordance with Article 47(3) of the said Order of 1991 with such organisations as appear to them to be representative of interests likely to be substantially affected by the Regulations, hereby make the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-a57f726836092274dfae7eefec268911]
 
 These Regulations may be cited as the Dairy Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 25th August 1996.
 
-## 2. Amendment of the Dairy Products (Hygiene) Regulations (Northern Ireland) 1995
+## 2. Amendment of the Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^c-0d599468b4bda3dd797a21eb076ed443]
 
 The Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00003] shall be amended in accordance with regulations 3 to 13.
 
-**3.** In regulation 2 (interpretation)—
+**3.**[^c-fe0e4c602381c2a7d18bdf4254d53ac8] In regulation 2 (interpretation)—
 
 - (a) in paragraph (1)—
   - (i) after the definition of “collection centre” there shall be inserted the following definitions—
@@ -77,7 +83,7 @@ The Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00003] shall 
     ;
 - (b) in paragraph (2) there shall be inserted at the end the words “and Commission Decisions 95/165 and 95/340”.
 
-**4.** In regulation 3 (exemptions), there shall be substituted for paragraph (3) the following paragraph—
+**4.**[^c-077b5b1b6d35ba08c698027247099dae] In regulation 3 (exemptions), there shall be substituted for paragraph (3) the following paragraph—
 
 > (3) Notwithstanding the exemption in paragraph (2) the requirements of—
 >
@@ -89,7 +95,7 @@ The Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00003] shall 
 
 .
 
-**5.** In regulation 6 (approval and use of dairy establishments)—
+**5.**[^c-66479b338ea1895f22a264c755b04c4a] In regulation 6 (approval and use of dairy establishments)—
 
 - (a) in paragraph (1)(*b*) there shall be substituted for the words “paragraph (3)(*a*) or (8)” the words “this regulation”;
 - (b) there shall be substituted for paragraph (8) the following paragraphs—
@@ -119,7 +125,7 @@ The Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00003] shall 
 
   .
 
-**6.** In regulation 16 (enforcement and supervision) there shall be substituted for paragraphs (2) and (3) the following paragraphs—
+**6.**[^c-b2a8d43e7d9abb13b7c47f1223dbb202] In regulation 16 (enforcement and supervision) there shall be substituted for paragraphs (2) and (3) the following paragraphs—
 
 > (2) The Department shall enforce and execute—
 >
@@ -130,13 +136,13 @@ The Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00003] shall 
 
 .
 
-**7.** In regulation 21(2) (dairy products from Great Britain, the Isle of Man and the Channel Islands), there shall be substituted for sub-paragraph (*b*) the following sub-paragraph—
+**7.**[^c-284f2b28bf5ab7628dbffdee55de2c2d] In regulation 21(2) (dairy products from Great Britain, the Isle of Man and the Channel Islands), there shall be substituted for sub-paragraph (*b*) the following sub-paragraph—
 
 > - (b) shall not sell for human consumption any dairy products which have been handled after the specified date in a place to which this regulation applies,
 
 .
 
-**8.** In regulation 22 (imports from third countries and EEA States), there shall be substituted for paragraph (4) the following paragraphs—
+**8.**[^c-d290d91e9c1a57bb223f76c11ea87daf] In regulation 22 (imports from third countries and EEA States), there shall be substituted for paragraph (4) the following paragraphs—
 
 > (4) In the case of dairy products produced or manufactured in any third country—
 >
@@ -148,9 +154,9 @@ The Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00003] shall 
 
 .
 
-**9.** In Schedule 1 (conditions for licensing of production holdings) in Part IA (general conditions of hygiene for production holdings), there shall be omitted from paragraph 5 the word “regularly”.
+**9.**[^c-b10bdfac887911db6afa27b3364373b8] In Schedule 1 (conditions for licensing of production holdings) in Part IA (general conditions of hygiene for production holdings), there shall be omitted from paragraph 5 the word “regularly”.
 
-**10.** In Schedule 4 (requirements for drinking milk) in Part III (heat-treated drinking milk), paragraph 2 shall be amended—
+**10.**[^c-432110572f59c193b92566764f01f027] In Schedule 4 (requirements for drinking milk) in Part III (heat-treated drinking milk), paragraph 2 shall be amended—
 
 - (a) by omitting from the end of sub-paragraph (*b*) the word “and”; and
 - (b) by inserting at the end the words
@@ -161,7 +167,7 @@ The Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00003] shall 
 
   .
 
-**11.** In Schedule 6 (requirements for milk-based products)—
+**11.**[^c-0fe7ad20f0157bae4b04763b9d0694cc] In Schedule 6 (requirements for milk-based products)—
 
 - (a) in Part I (microbiological criteria), there shall be substituted—
   - (i) in paragraph 2(*a*) for the word “place” the word “plate”; and
@@ -170,9 +176,9 @@ The Dairy Products (Hygiene) Regulations (Northern Ireland) 1995[^f00003] shall 
 - (c) in Part III (sterilised cream), there shall be substituted in paragraph 1 for the words “Sterilised cream shall be heated—” the words “Sterilised cream shall be obtained by the cream being heated—”;
 - (d) in Part IV (ultra heat-treated cream), there shall be substituted in paragraph 1 for the words “Ultra heat-treated cream shall be heated—” the words “Ultra heat-treated cream shall be obtained by the cream being heated—”.
 
-**12.** In Schedule 10 (labelling and health marking) in Part II (health mark), there shall be inserted in paragraph 4 after the words “legible form and” the words “(except in respect of sub-paragraph (*c*)(ii))”.
+**12.**[^c-aadd9a82ccfbd8917418fe524ea267da] In Schedule 10 (labelling and health marking) in Part II (health mark), there shall be inserted in paragraph 4 after the words “legible form and” the words “(except in respect of sub-paragraph (*c*)(ii))”.
 
-**13.** In Schedule 11 (methods of analysis), paragraph 4 shall be omitted.
+**13.**[^c-3ab51ee6d7153c45c2549696156dc2a9] In Schedule 11 (methods of analysis), paragraph 4 shall be omitted.
 
 Sealed with the Official Seal of the Department of Agriculture on
 
@@ -205,7 +211,13 @@ These Regulations amend the Dairy Products (Hygiene) Regulations (Northern Irela
 
 [^f00002]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762)
 
+[^c-a57f726836092274dfae7eefec268911]: Commencement: Reg. 1 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-0d599468b4bda3dd797a21eb076ed443]: Commencement: Reg. 2 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
 [^f00003]: Footnote: [S.R. 1995 No. 201](https://www.legislation.gov.uk/nisr/1995/201)
+
+[^c-fe0e4c602381c2a7d18bdf4254d53ac8]: Commencement: Reg. 3 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L108, 13.5.95, p. 84
 
@@ -214,3 +226,23 @@ These Regulations amend the Dairy Products (Hygiene) Regulations (Northern Irela
 [^f00006]: Footnote: O.J. No. L24, 31.1.96, p. 34
 
 [^f00007]: Footnote: [S.R. 1995 No. 360](https://www.legislation.gov.uk/nisr/1995/360) as amended by [S.R. 1996 No. 286](https://www.legislation.gov.uk/nisr/1996/286)
+
+[^c-077b5b1b6d35ba08c698027247099dae]: Commencement: Reg. 4 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-66479b338ea1895f22a264c755b04c4a]: Commencement: Reg. 5 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-b2a8d43e7d9abb13b7c47f1223dbb202]: Commencement: Reg. 6 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-284f2b28bf5ab7628dbffdee55de2c2d]: Commencement: Reg. 7 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-d290d91e9c1a57bb223f76c11ea87daf]: Commencement: Reg. 8 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-b10bdfac887911db6afa27b3364373b8]: Commencement: Reg. 9 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-432110572f59c193b92566764f01f027]: Commencement: Reg. 10 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-0fe7ad20f0157bae4b04763b9d0694cc]: Commencement: Reg. 11 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-aadd9a82ccfbd8917418fe524ea267da]: Commencement: Reg. 12 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)
+
+[^c-3ab51ee6d7153c45c2549696156dc2a9]: Commencement: Reg. 13 in operation at 25.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/287/regulation/1)

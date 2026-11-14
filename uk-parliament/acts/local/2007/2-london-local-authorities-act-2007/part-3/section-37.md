@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 37
 act: London Local Authorities Act 2007
 section: '37'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/37
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 37
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 37. Bridges in the City of Westminster and London Borough of Lambeth
+## 37. Bridges in the City of Westminster and London Borough of Lambeth[^c-ee65a6c4d94c1770786c5dd96973a6c4]
+
+*Extent: E+W*
 
 (1) The city council and the borough council may enter into agreements to secure that—
 
@@ -55,3 +59,7 @@ subsection (6) or (7) below shall apply, as appropriate.
   - (a) a petty sessions area, the whole or part of which is in the city, if the effect of an agreement under this section is to apply the Act of 1999 to the bridge;
   - (b) a petty sessions area, the whole or part of which is in the borough, if the effect of an agreement under this section is to apply Part III of the Act of 1990 to the bridge;
 - “street” means any street to which Part III of the Act of 1990 or the Act of 1999 applies, as the case may be.
+
+## Annotations
+
+[^c-ee65a6c4d94c1770786c5dd96973a6c4]: Commencement: [S. 37](https://www.legislation.gov.uk/ukla/2007/2/section/37) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

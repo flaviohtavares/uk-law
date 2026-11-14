@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 22
 act: London Local Authorities Act 2007
 section: '22'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 22
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 22. Regulations relating to receptacles for commercial or industrial waste
+## 22. Regulations relating to receptacles for commercial or industrial waste[^c-11c6782272e905923b767cb7fa4b59c8]
+
+*Extent: E+W*
 
 (1) A borough council who are a waste collection authority under Part II of the 1990 Act may, if satisfied that doing so would prevent nuisances or detriment to the amenities of their area, make regulations requiring occupiers of premises to place commercial or industrial waste for collection in receptacles of a kind and number specified.
 
@@ -58,3 +62,7 @@ summary: ''
 
 - “operational land” has the same meaning as in the Planning Act; and
 - “statutory undertaker” has the same meaning as in section 262(1) of that Act.
+
+## Annotations
+
+[^c-11c6782272e905923b767cb7fa4b59c8]: Commencement: [S. 22](https://www.legislation.gov.uk/ukla/2007/2/section/22) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 20
 act: London Local Authorities Act 2007
 section: '20'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 20
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 20. Regulations relating to receptacles for household waste
+## 20. Regulations relating to receptacles for household waste[^c-33fe765572577b8000a6b83f9d5562a0]
+
+*Extent: E+W*
 
 (1) A borough council who have a duty by virtue of section 45(1)(a) of the 1990 Act to arrange for the collection of household waste from any premises, may make regulations requiring occupiers of such premises to place household waste for collection in receptacles of a kind and number specified.
 
@@ -43,3 +47,7 @@ summary: ''
 (9) In this section and section 46 (2) to (6) of the 1990 Act as applied by subsection (3) above, “specified” means specified in regulations made under subsection (1) above.
 
 (10) Nothing in this section affects the ability of a borough council to serve notices under section 46 of the 1990 Act (receptacles for household waste).
+
+## Annotations
+
+[^c-33fe765572577b8000a6b83f9d5562a0]: Commencement: [S. 20](https://www.legislation.gov.uk/ukla/2007/2/section/20) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

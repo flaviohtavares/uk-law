@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Litter control areas.[^c13745361][^c13745371]
+## 90. Litter control areas.[^c13745361][^c13745371][^c13739731]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,8 @@ summary: ''
     S. 90(3)-(6) in force 1.6.1991 see s. 164(3) and [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [art. 3](https://www.legislation.gov.uk/uksi/1991/1042/article/3)
 
 [^c13745371]: Extent: See s. 164(4)(5)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c18979121]: Textual amendment: S. 90 ceased to have effect (E.W.) (16.3.2006 for certain purposes for W., 6.4.2006 for E. and 15.3.2007 in so far as not already in force for W.) and repealed (E.W.) (6.3.2007 for E. and 15.3.2007 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/20/1), [107](https://www.legislation.gov.uk/ukpga/2005/16/section/107), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/2); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); [S.I. 2006/2797](https://www.legislation.gov.uk/uksi/2006/2797), [art. 4(g)(oo)](https://www.legislation.gov.uk/uksi/2006/2797/article/4/g/oo); [S.I. 2007/390](https://www.legislation.gov.uk/uksi/2007/390), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/390/article/2/c)
 

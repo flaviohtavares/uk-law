@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 149. Seizure of stray dogs.[^c13748351][^c13748361]
+## 149. Seizure of stray dogs.[^c13748351][^c13748361][^c13739731]
 
 *Extent: E+W+S*
 
@@ -62,6 +62,8 @@ but no dog seized under this section shall be sold or given for the purposes of 
 [^c13748351]: Commencement: [S. 149](https://www.legislation.gov.uk/ukpga/1990/43/section/149) wholly in force; [s. 149](https://www.legislation.gov.uk/ukpga/1990/43/section/149) not in force at Royal Assent see. [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3); [s. 149](https://www.legislation.gov.uk/ukpga/1990/43/section/149) in force for certain purposes at 14.2.1992 see [S.I](https://www.legislation.gov.uk/ukpga/1990/43/section/I). 1992/266, art. 2; [s. 149](https://www.legislation.gov.uk/ukpga/1990/43/section/149) in force in so far as not then already in force at 1.4.1992 see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3) and [S.I. 1992/266](https://www.legislation.gov.uk/uksi/1992/266), [art. 3](https://www.legislation.gov.uk/uksi/1992/266/article/3).
 
 [^c13748361]: Modification: [S. 149](https://www.legislation.gov.uk/ukpga/1990/43/section/149) extended (1.4.1992) by [S.I. 1992/901](https://www.legislation.gov.uk/uksi/1992/901), [art. 4](https://www.legislation.gov.uk/uksi/1992/901/article/4).
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13748371]: Textual amendment: Words in [s. 149(11)](https://www.legislation.gov.uk/ukpga/1990/43/section/149/11) repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/3), [66(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/8), [Sch. 9 para. 17(13)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/9/paragraph/17/13), [Sch.18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18) (with [ss. 54(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/7), [66(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/7), [Sch. 17 paras. 22](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch.1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
 

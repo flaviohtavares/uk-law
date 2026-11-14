@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 47
 act: London Local Authorities Act 2007
 section: '47'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/47
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 47
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 47. Disposal orders
+## 47. Disposal orders[^c-f7d2e7043bfd26b3d440b631400ad1d7]
+
+*Extent: E+W*
 
 After section 38B (motor vehicles) of the Act of 1990 (inserted by section 46 (motor vehicles) of this Act) the following section is inserted—
 
@@ -54,3 +58,7 @@ After section 38B (motor vehicles) of the Act of 1990 (inserted by section 46 (m
 > (8) For the purposes of this section, “owner” in respect of a vehicle, has the same meaning as it has for the purposes of the said section 38B.
 
 .
+
+## Annotations
+
+[^c-f7d2e7043bfd26b3d440b631400ad1d7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukla/2007/2/section/47) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

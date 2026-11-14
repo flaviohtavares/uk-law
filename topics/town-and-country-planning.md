@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **TOWN AND COUNTRY PL
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Town and Country Planning Act 1990](../uk-parliament/acts/public/1990/8-town-and-country-planning-act-1990/README.md) *(changes pending)* — 331 regulations on this topic made under it
+- [Town and Country Planning Act 1990](../uk-parliament/acts/public/1990/8-town-and-country-planning-act-1990/README.md) *(changes pending)* — 332 regulations on this topic made under it
 - [Town and Country Planning (Scotland) Act 1997](../uk-parliament/acts/public/1997/8-town-and-country-planning-scotland-act-1997/README.md) *(changes pending)* — 127 regulations on this topic made under it
 - [Planning and Compulsory Purchase Act 2004](../uk-parliament/acts/public/2004/5-planning-and-compulsory-purchase-act-2004/README.md) *(changes pending)* — 102 regulations on this topic made under it
 - [Planning (Listed Buildings and Conservation Areas) Act 1990](../uk-parliament/acts/public/1990/9-planning-listed-buildings-and-conservation-areas-act-1990/README.md) *(changes pending)* — 44 regulations on this topic made under it
@@ -30,7 +30,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-906 in force.
+907 in force.
 
 **2026**
 
@@ -58,6 +58,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Town and Country Planning (Discharge of Local Planning Authority Functions) (England) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/854-the-town-and-country-planning-discharge-of-local-planning-authority-functions-en.md) *(as originally made)*
 - [The Town and Country Planning (Fees for Appeals) (Scotland) Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/47-the-town-and-country-planning-fees-for-appeals-scotland-amendment-regulations-20.md) *(as originally made)*
 - [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/49-the-town-and-country-planning-fees-for-applications-scotland-amendment-regulatio.md) *(as originally made)*
+- [The Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment and Transitional Provision) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1192-the-town-and-country-planning-fees-for-applications-deemed-applications-requests.md) *(as originally made)*
 - [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026](../scotland/regulations/2026/0000-0499/48-the-town-and-country-planning-fees-for-local-reviews-scotland-amendment-regulati.md) *(as originally made)*
 - [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026](../uk-parliament/regulations/2026/0000-0499/313-the-town-and-country-planning-general-permitted-development-etc-england-amendmen.md) *(as originally made)*
 - [The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2026](../wales/regulations/2026/0000-0499/79-the-town-and-country-planning-general-permitted-development-amendment-wales-orde.md) *(as originally made)*

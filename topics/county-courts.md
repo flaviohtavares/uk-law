@@ -20,9 +20,9 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2026**
 
-- [The County Court (Amendment) Rules (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/188-the-county-court-amendment-rules-northern-ireland-2026/README.md) *(as originally made)*
+- [The County Court (Amendment) Rules (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/188-the-county-court-amendment-rules-northern-ireland-2026/README.md)
 - [The County Court Fees (Amendment) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/36-the-county-court-fees-amendment-order-northern-ireland-2026.md)
-- [The County Courts (Financial Limits) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/187-the-county-courts-financial-limits-order-northern-ireland-2026.md) *(as originally made)*
+- [The County Courts (Financial Limits) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/187-the-county-courts-financial-limits-order-northern-ireland-2026.md)
 
 **2025**
 

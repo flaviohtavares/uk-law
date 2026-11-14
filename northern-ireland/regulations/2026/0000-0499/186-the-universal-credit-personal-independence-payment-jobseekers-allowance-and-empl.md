@@ -3,14 +3,15 @@ title: The Universal Credit, Personal Independence Payment, Jobseeker’s Allowa
 id: nisr/2026/186
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2026-11-09'
-text_date: null
-extent: null
+text_date: '2026-11-09'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/186
 pdf_urls:
+- http://www.legislation.gov.uk/nisr/2026/186/pdfs/nisrem_20260186_en_001.pdf
 - http://www.legislation.gov.uk/nisr/2026/186/pdfs/nisr_20260186_en.pdf
-- http://www.legislation.gov.uk/nisr/2026/186/made/data.pdf
+- http://www.legislation.gov.uk/nisr/2026/186/data.pdf
 pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +20,13 @@ summary: ''
 
 # The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2026-11-09.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 2026 No. 186
 
@@ -39,11 +46,11 @@ The Department for Communities[^f00001] makes these Regulations in exercise of t
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00004].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-298e0b5a46eb1d4d4f9aa29ef25b6235]
 
 These Regulations may be cited as the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2026 and come into operation on 30 November 2026.
 
-## 2. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland)
+## 2. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland)[^c-d076b0eba840eb721f3ced0844aa2e57]
 
 After regulation 31A(2) (reclaims of universal credit after nil award due to earnings) of The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016[^f00005] insert—
 
@@ -80,6 +87,10 @@ These Regulations make in relation to Northern Ireland provision corresponding t
 [^f00003]: Footnote: See Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
 [^f00004]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
+
+[^c-298e0b5a46eb1d4d4f9aa29ef25b6235]: Commencement: Reg. 1 in operation at 30.11.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/186/regulation/1)
+
+[^c-d076b0eba840eb721f3ced0844aa2e57]: Commencement: Reg. 2 in operation at 30.11.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/186/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2016 No. 220](https://www.legislation.gov.uk/nisr/2016/220). Regulation 31A was inserted by regulation 3 of S.R.2020 No.85
 

@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1992-07-16'
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1992/52
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1992/52/pdfs/ukpga_19920052_en.pdf
 - http://www.legislation.gov.uk/ukpga/1992/52/data.pdf
-pending_changes: 156
+pending_changes: 27
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Trade Union and Labour Relations (Consolidation) Act 1992
 
-> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+> **Warning: changes not yet applied to this text (27).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -923,8 +923,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 261 — Terms of appointment of members of Committee.](part-vi/section-261.md)
 - [Section 262 — Remuneration, &c. of members of Committee.](part-vi/section-262.md)
 - [Section 263 — Proceedings of the Committee.](part-vi/section-263.md)
-- [Section 263A — Proceedings of the Committee under Schedule A1.](part-vi/section-263a.md)
-- [Section 264 — Awards of the Committee.](part-vi/section-264.md)
+- [Section 263ZA — Proceedings of the Committee under section 70ZE](part-vi/section-263za.md)
+- [Section 263A — Proceedings of the Committee: other special cases](part-vi/section-263a.md)
+- [Section 264 — Awards etc of the Committee.](part-vi/section-264.md)
 - [Section 265 — Annual report and accounts.](part-vi/section-265.md)
 
 #### . . .[^c14522131]
@@ -1065,7 +1066,7 @@ SCHEDULES
 
 [^c14514811]: Textual amendment: Heading substituted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.15](https://www.legislation.gov.uk/ukpga/1993/19/section/15), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1993/19/schedule/9/paragraph/2); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]: Textual amendment: [Pt. 1 Ch. 5ZA](https://www.legislation.gov.uk/ukpga/1992/52/part/I/chapter/5ZA) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/b)
+[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]: Textual amendment: [Pt. I Ch. 5ZA](https://www.legislation.gov.uk/ukpga/1992/52/part/I/chapter/5ZA) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/b); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/e)
 
 [^c14515061]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/1992/52/section/70A) of Chapter VA Pt. I and Chapter heading inserted (6.6.2000) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1999/26/section/1/2); [S.I. 2000/1338](https://www.legislation.gov.uk/uksi/2000/1338), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/1338/article/2/a)
 

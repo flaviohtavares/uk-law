@@ -3,16 +3,16 @@ title: The Occupational Pension Schemes (Internal Dispute Resolution Procedures 
 id: uksi/2008/649
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-03-05'
-text_date: '2008-03-05'
+text_date: '2019-04-06'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/649
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/649/pdfs/uksiem_20080649_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/649/pdfs/uksi_20080649_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/649/data.pdf
-pending_changes: 9
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Occupational Pension Schemes (Internal Dispute Resolution Procedures Consequential and Miscellaneous Amendments) Regulations 2008
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2008-03-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/649
+> Text as at 2019-04-06.
 >
 > Extent: England, Wales, Scotland.
 
 *Extent: E+W+S*
-
-**Not yet in force.**
 
 2008 No. 649
 
@@ -60,8 +58,8 @@ In accordance with section 185(1) of the Pension Schemes Act 1993 and section 12
 
 (1) When the trustees or managers of an occupational pension scheme receive (or, as the case may be, the specified person[^f00003] receives) an application under the relevant procedure, they must as soon as is reasonably practicable—
 
-- (a) inform the applicant that TPAS (the Pensions Advisory Service)[^f00004] is available to assist members and beneficiaries of the scheme in connection with any difficulty with the scheme, and
-- (b) give the applicant the contact details for TPAS.
+- (a) inform the applicant that the Money and Pensions Service[^c-8527a41956d2940fbfa8a5419bca6a6f] is available to assist members and beneficiaries of the scheme in connection with any difficulty with the scheme, and
+- (b) give the applicant the contact details for the Money and Pensions Service[^c-df5fe2978b2dd98dcf856e07a9ab029b].
 
 (2) For the purposes of paragraph (1), the relevant procedure is a procedure for the application for the resolution of a pension dispute under section 50(4) of the Act (procedure for resolution of a pensions dispute).
 
@@ -165,21 +163,23 @@ These Regulations have only a negligible impact on the costs of business, charit
 
 [^f00002]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26). Section 50 is substituted by section 273 of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35) (“the 2004 Act”) as amended by section 16 of the [Pensions Act 2007 ( c.22)](https://www.legislation.gov.uk/ukpga/2007/22)*.* Section 124(1) is cited because of the meaning there given to “prescribed” and “regulations”.
 
-[^c-96c237762f0d251a8dff376f70e27013]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+[^c-96c237762f0d251a8dff376f70e27013]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/649/regulation/1) in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
 
-[^c-7560304beb974954f536d405f6b63b00]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+[^c-7560304beb974954f536d405f6b63b00]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/649/regulation/2) in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
 
 [^f00003]: Footnote: “Specified person” is a term used in section 50(4A) of the Pensions Act 1995. Subsection (4A) is inserted by section 273 of the 2004 Act.
 
-[^f00004]: Footnote: The Pensions Advisory Service Limited is a company limited by guarantee under the Companies Act [1985 (c.6)](https://www.legislation.gov.uk/ukpga/1985/6); registered number 2459671.
+[^c-8527a41956d2940fbfa8a5419bca6a6f]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/649/regulation/2/1/a) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 18(a)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/18/a)
+
+[^c-df5fe2978b2dd98dcf856e07a9ab029b]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/649/regulation/2/1/b) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 18(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/18/b)
 
 [^f00005]: Footnote: Section 124(1) was amended by paragraph 61 of Schedule 12 to the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30)
 
 [^f00006]: Footnote: Section 145(2) was amended by section 274(1) of the 2004 Act.
 
-[^c-12c82543742bb93fb0f277ca8c650796]: Commencement: Reg. 3 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+[^c-12c82543742bb93fb0f277ca8c650796]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/649/regulation/3) in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
 
-[^c-2d9ee1913c54844970c0ae2f7227e4c4]: Commencement: Reg. 4 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+[^c-2d9ee1913c54844970c0ae2f7227e4c4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/649/regulation/4) in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1987/257](https://www.legislation.gov.uk/uksi/1987/257); the relevant amending instruments are [S.I. 2003/535](https://www.legislation.gov.uk/uksi/2003/535), and [2004/1491](https://www.legislation.gov.uk/uksi/2004/1491) and [S.S.I. 2003/406](https://www.legislation.gov.uk/ssi/2003/406) and [2004/486](https://www.legislation.gov.uk/ssi/2004/486).
 
@@ -205,16 +205,16 @@ These Regulations have only a negligible impact on the costs of business, charit
 
 [^f00018]: Footnote: [S.I. 2007/1073 (W.111)](https://www.legislation.gov.uk/wsi/2007/1073).
 
-[^c-07a324d9bc57d33b084c5c22eacc8538]: Commencement: Reg. 5 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+[^c-07a324d9bc57d33b084c5c22eacc8538]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/649/regulation/5) in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 1996/1270](https://www.legislation.gov.uk/uksi/1996/1270); amended by [S.I. 1999/3198](https://www.legislation.gov.uk/uksi/1999/3198), [2004/2306](https://www.legislation.gov.uk/uksi/2004/2306) and [2918](https://www.legislation.gov.uk/uksi/2004/2918) and [2005/2877](https://www.legislation.gov.uk/uksi/2005/2877).
 
 [^f00020]: Footnote: [S.I. 1996/2475](https://www.legislation.gov.uk/uksi/1996/2475), to which there are amendments not relevant to these Regulations.
 
-[^c-08a3d4ff9eedb16524e2a890581601e8]: Commencement: Reg. 6 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+[^c-08a3d4ff9eedb16524e2a890581601e8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/649/regulation/6) in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 1996/1655](https://www.legislation.gov.uk/uksi/1996/1655); the relevant amending instrument is [S.I. 1999/3198](https://www.legislation.gov.uk/uksi/1999/3198).
 
 [^f00022]: Footnote: [S.I. 2000/1403](https://www.legislation.gov.uk/uksi/2000/1403); the relevant amending instrument is [S.I. 2001/934](https://www.legislation.gov.uk/uksi/2001/934).
 
-[^c-66929f00b49495bf5a3e69e3f4ebe7ac]: Commencement: Reg. 7 in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)
+[^c-66929f00b49495bf5a3e69e3f4ebe7ac]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/649/regulation/7) in force at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1)

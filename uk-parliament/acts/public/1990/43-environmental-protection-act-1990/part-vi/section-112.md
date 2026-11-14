@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
-## 112. Consents: limitations and conditions.[^c17528231][^c13747131]
+## 112. Consents: limitations and conditions.[^c17528231][^c13747131][^c13739731]
 
 *Extent: E+W*
 
@@ -109,6 +109,8 @@ But this general condition shall have effect subject to any conditions imposed u
 [^c17528231]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
 [^c13747131]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/1990/43/section/112) partly in force; [s. 112](https://www.legislation.gov.uk/ukpga/1990/43/section/112) not in force at Royal Assent see [s. 164(2)(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/2/3); [s. 112(1)(2)(5)-(7)](https://www.legislation.gov.uk/ukpga/1990/43/section/112/1/2/5) in force at 1.2.1993 see [S.I](https://www.legislation.gov.uk/ukpga/1990/43/section/I). 1992/3253, art. 3
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c17516031]: Textual amendment: Words in [s. 112(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/112/1) inserted (E.) (17.10.2002) by [Genetically Modified Organisms (Deliberate Release) Regulations 2002 (S.I. 2002/2443)](https://www.legislation.gov.uk/uksi/2002/2443), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/1/2/3), [29(2)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/29/2) and (W.) (31.12.2002) by virtue of [Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002 (S.I. 2002/3188)](https://www.legislation.gov.uk/uksi/2002/3188), [reg. 30(1)(2)](https://www.legislation.gov.uk/uksi/2002/3188/regulation/30/1/2)
 

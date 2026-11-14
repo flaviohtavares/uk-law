@@ -3,7 +3,7 @@ title: Trade Union and Labour Relations (Consolidation) Act 1992, section 168A
 act: Trade Union and Labour Relations (Consolidation) Act 1992
 section: 168A
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/168A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Trade Union and Labour Relations (Consolidation) Act 1992, section 168A
 
-> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+> **Warning: changes not yet applied to this text (27).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
 > Extent: England, Wales, Scotland.
 
@@ -61,9 +61,7 @@ to take time off during his working hours for any of the following purposes.
 
 (8A)[^c-21d1e13a503a96a63dae8828a55be792] An employer that permits an employee to take time off as required by this section must, where requested by the employee, provide the employee with such accommodation and other facilities for the purposes for which the employee takes time off as is reasonable in all the circumstances, having regard to any relevant provisions of a Code of Practice issued by ACAS.
 
-(9)[^c-f97bab42b9b842ac1dbfadfccfdb864d] An employee may present a complaint to an employment tribunal that his employer has failed to permit him to take time off as required by this section. *(affected by repeal, see note)*[^c-f97bab42b9b842ac1dbfadfccfdb864d]
-
-(9) An employee may present a complaint to an employment tribunal that the employer has failed—
+(9)[^c-f97bab42b9b842ac1dbfadfccfdb864d] An employee may present a complaint to an employment tribunal that the employer has failed—
 
 - (a) to permit the employee to take time off, or
 - (b) to provide the employee with facilities,
@@ -83,6 +81,6 @@ as required by this section.
 
 [^c20479211]: Textual amendment: S. 168A inserted (27.4.2003) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/43/2), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2003/1190](https://www.legislation.gov.uk/uksi/2003/1190), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1190/article/2/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1190/article/3))
 
-[^c-21d1e13a503a96a63dae8828a55be792]: Textual amendment: [S. 168A(8A)](https://www.legislation.gov.uk/ukpga/1992/52/section/168A/8A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/3/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21)
+[^c-21d1e13a503a96a63dae8828a55be792]: Textual amendment: [S. 168A(8A)](https://www.legislation.gov.uk/ukpga/1992/52/section/168A/8A) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/3/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/1065/regulation/7))
 
-[^c-f97bab42b9b842ac1dbfadfccfdb864d]: Textual amendment: [S. 168A(9)(10)](https://www.legislation.gov.uk/ukpga/1992/52/section/168A/9/10) substituted for s. 168A(9) (6.1.2026 for specified purposes) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/3/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21)
+[^c-f97bab42b9b842ac1dbfadfccfdb864d]: Textual amendment: [S. 168A(9)](https://www.legislation.gov.uk/ukpga/1992/52/section/168A/9)[(10)](https://www.legislation.gov.uk/ukpga/1992/52/section/168A/10) substituted for [s. 168A(9)](https://www.legislation.gov.uk/ukpga/1992/52/section/168A/9) (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/3/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/1065/regulation/7))

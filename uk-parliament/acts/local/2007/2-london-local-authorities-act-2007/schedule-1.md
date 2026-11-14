@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, SCHEDULE 1
 act: London Local Authorities Act 2007
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## SCHEDULE 1 — Sections of Public Health Act [1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49) applied to section 11 (advertising: measures to be taken on surfaces) of this Act
+## SCHEDULE 1 — Sections of Public Health Act [1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49) applied to section 11 (advertising: measures to be taken on surfaces) of this Act[^c-21e77a76a743dc37dd896e72c9a72a54]
+
+*Extent: E+W*
 
 Section 11
 
@@ -31,3 +35,7 @@ Section 11
 | 297 | Continuing offences and penalties. |
 | 300 | Appeals and applications to courts of summary jurisdiction. |
 | 341 | Power to apply provisions of Act to Crown property. |
+
+## Annotations
+
+[^c-21e77a76a743dc37dd896e72c9a72a54]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

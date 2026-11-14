@@ -2,8 +2,8 @@
 title: The Dairy Products (Hygiene) Regulations 1995, section 14
 act: The Dairy Products (Hygiene) Regulations 1995
 section: '14'
-status: revised-with-pending-changes
-text_date: '1995-05-09'
+status: repealed
+text_date: '2006-01-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1995/1086/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,18 +12,20 @@ summary: ''
 
 # The Dairy Products (Hygiene) Regulations 1995, section 14
 
-> **Warning: changes not yet applied to this text (2).** Text as at 1995-05-09. See https://www.legislation.gov.uk/changes/affected/uksi/1995/1086
+> This provision is no longer in force.
 >
 > Extent: England, Wales.
 
-## 14. Dairy Farms[^c-06f38476dd3e8bd5251eb0cbf6d90d0f]
+## 14. Dairy Farms[^c-cc9f07878307ead5d75125f655fe69a3]
 
 *Extent: E+W*
 
-Any production holding which is both registered as a dairy farm before the coming into force of these Regulations, pursuant to the Milk and Dairies (General) Regulations 1959[^f00013], and is in operation as such on the date before the date on which these Regulations come into force, shall be deemed to be premises registered under and subject to the provisions of these Regulations as a production holding.
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-06f38476dd3e8bd5251eb0cbf6d90d0f]: Commencement: Reg. 14 in force at 9.5.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1086/regulation/1/1)
+[^c-cc9f07878307ead5d75125f655fe69a3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/1086) revoked (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7); and [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7)
 
-[^f00013]: Footnote: S.I. [1959/277](https://www.legislation.gov.uk/uksi/1959/277), the relevant provisions of which are revoked by regulation 24 and Schedule 12 of these Regulations.
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -3,14 +3,14 @@ title: The Social Security and Child Support (Jobseeker’s Allowance) (Conseque
 id: nisr/1996/289
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-17'
-text_date: null
-extent: null
+text_date: '1996-07-17'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/289
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/289/made/data.pdf
-pending_changes: 22
+- http://www.legislation.gov.uk/nisr/1996/289/data.pdf
+pending_changes: 49
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (49).** Text as at 1996-07-17. See https://www.legislation.gov.uk/changes/affected/nisr/1996/289
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 289
 
@@ -40,11 +46,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 39 of the Jobseekers (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations made by virtue of, or consequential upon, Article 39(1) of that Order and with the consent of the Department of Finance and Personnel to regulation 16[^f00002], hereby makes the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-79fe4846fcada9984b5e1e7247a76b6f]
 
 These Regulations may be cited as the Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996.
 
-## 2. Amendment of the Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations
+## 2. Amendment of the Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations[^c-cdb80ea1e726e20a30a82e844ea9c0fd]
 
 In regulation 3 of the Social Security (Benefit) (Married Women and Widows Special Provisions) (Northern Ireland) Regulations 1975[^f00003] (modifications in relation to widows with respect to unemployment and other benefits)—
 
@@ -53,11 +59,11 @@ In regulation 3 of the Social Security (Benefit) (Married Women and Widows Speci
   - (ii) sub-paragraph (*c*) shall be omitted, and
 - (b) in paragraph (5) the words “unemployment benefit or” in each place where they occur shall be omitted.
 
-## 3. Amendment of the Social Security (Airmen’s Benefits) Regulations
+## 3. Amendment of the Social Security (Airmen’s Benefits) Regulations[^c-989542e8b3cbe960bdf1190a0b4a155b]
 
 In regulation 3 of the Social Security (Airmen’s Benefits) Regulations (Northern Ireland) 1975[^f00004] (application of the Act and regulations) after “thereunder” there shall be inserted “, and the Jobseekers (Northern Ireland) Order 1995[^f00005] and regulations made thereunder”.
 
-## 4. Amendment of the Social Security (Mariners' Benefits) Regulations
+## 4. Amendment of the Social Security (Mariners' Benefits) Regulations[^c-710e1e57580403a15bbb5ec28dac7790]
 
 (1) The Social Security (Mariners' Benefits) Regulations (Northern Ireland) 1975[^f00006] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -78,7 +84,7 @@ In regulation 3 of the Social Security (Airmen’s Benefits) Regulations (Northe
 
 (5) In regulation 9 (application of the Act and regulations) after “made thereunder” there shall be inserted “, or of the Jobseekers (Northern Ireland) Order 1995 and regulations made thereunder,”.
 
-## 5. Amendment of the Social Security Benefit (Dependency) Regulations
+## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^c-9911746c9dc797cdcb84391d0dd9a74c]
 
 (1) The Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f00009] shall be amended in accordance with paragraphs (2) to (4), (7) and (8).
 
@@ -114,15 +120,15 @@ In regulation 3 of the Social Security (Airmen’s Benefits) Regulations (Northe
 
   .
 
-## 6. Amendment of the Social Security Benefit (Persons Residing Together) Regulations
+## 6. Amendment of the Social Security Benefit (Persons Residing Together) Regulations[^c-a1d2b0c11f4755504ece4dc499497ce3]
 
 In regulation 2(2)(*a*) of the Social Security Benefit (Persons Residing Together) Regulations (Northern Ireland) 1977[^f00016] (circumstances in which a person is to be treated as residing or not residing with another person or in which persons are to be treated as residing or not residing together) “of unemployment benefit or” shall be omitted.
 
-## 7. Amendment of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations
+## 7. Amendment of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations[^c-2331d2ad3c31c7129082af08b5bb9601]
 
 In section 35(9) of the National Insurance Act (Northern Ireland) 1966[^f00017], as continued in force by regulation 2(3) of, and Schedule 1 to, the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978[^f00018], for the words from “sections 25(5)” to the end of the subsection there shall be substituted “section 30B(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00019], regulations 11(1) and 18(6) of the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995[^f00020] and regulation 9(5) of the Jobseeker’s Allowance (Transitional Provisions) Regulations (Northern Ireland) 1996[^f00021] (rates of incapacity benefit and jobseeker’s allowance in transitional cases for persons over pensionable age).”.
 
-## 8. Amendment of the Social Security Benefit (Persons Abroad) Regulations
+## 8. Amendment of the Social Security Benefit (Persons Abroad) Regulations[^c-c7a6ccd0c24b36c714f369cb082167cb]
 
 (1) The Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00022] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -130,14 +136,14 @@ In section 35(9) of the National Insurance Act (Northern Ireland) 1966[^f00017],
 
 (3) In regulation 16 (administrative arrangements about payment of benefit) after “under the Act” there shall be inserted “, or in connection with jobseeker’s allowance,”.
 
-## 9. Amendment of the Social Security Benefit (Computation of Earnings) Regulations
+## 9. Amendment of the Social Security Benefit (Computation of Earnings) Regulations[^c-d5d8dd40c9d84c500a2df08ace852161]
 
 In regulation 3 of the Social Security Benefit (Computation of Earnings) Regulations (Northern Ireland) 1978[^f00023] (payments to be disregarded)—
 
 - (a) in paragraph (3) the words from “and of regulation 7(1)(*g*)(i)” up to and including “a day of unemployment)” shall be omitted, and
 - (b) paragraphs (5) and (6) shall be omitted.
 
-## 10. Amendment of the Child Benefit (General) Regulations
+## 10. Amendment of the Child Benefit (General) Regulations[^c-5fcfa322780a970990c1dc809e58de20]
 
 (1) The Child Benefit (General) Regulations (Northern Ireland) 1979[^f00024] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -151,7 +157,7 @@ In regulation 3 of the Social Security Benefit (Computation of Earnings) Regulat
 
 (3) In regulation 9B(3)(*b*)[^f00027] (circumstances in which a person who has ceased to receive full-time education is to be treated as a child) after “income support” there shall be inserted “or income-based jobseeker’s allowance within the meaning of Article 3(4) of the Jobseekers (Northern Ireland) Order 1995”.
 
-## 11. Amendment of the Social Security (Overlapping Benefits) Regulations
+## 11. Amendment of the Social Security (Overlapping Benefits) Regulations[^c-69aa75ef8766f166c872ec8136c72e0f]
 
 (1) The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00028] shall be amended in accordance with paragraphs (2) to (8).
 
@@ -193,15 +199,15 @@ In regulation 3 of the Social Security Benefit (Computation of Earnings) Regulat
 
 (8) In paragraph 1 of Schedule 1[^f00033] (personal benefit under the Act) for “Unemployment benefit” there shall be substituted “A contribution-based jobseeker’s allowance”.
 
-## 12. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations
+## 12. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^c-6fba87247b4a6d027a800041c8ba4c1f]
 
 In regulation 4(2)(*b*)(ii) of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00034] (days to be treated as days of increment) for the words “unemployment benefit” in the second place where they occur there shall be substituted “a contribution-based jobseeker’s allowance”.
 
-## 13. Amendment of the Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations
+## 13. Amendment of the Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations[^c-23f327b883354b996be499e7e34f2090]
 
 In regulation 20 of the Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations (Northern Ireland) 1984[^f00035] (special provisions for certain persons who have been employed abroad) for “unemployment benefit” there shall be substituted “a contribution-based jobseeker’s allowance”.
 
-## 14. Amendment of the Family Credit (General) Regulations
+## 14. Amendment of the Family Credit (General) Regulations[^c-f66e6382e6826fde37c5b0d3ec221ebe]
 
 (1) The Family Credit (General) Regulations (Northern Ireland) 1987[^f00036] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -233,7 +239,7 @@ In regulation 20 of the Social Security (Unemployment, Sickness and Invalidity B
 
   .
 
-## 15. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations
+## 15. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-85de8369918a5176cbad788a17959812]
 
 (1) The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00042] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -271,7 +277,7 @@ In regulation 20 of the Social Security (Unemployment, Sickness and Invalidity B
   - (i) in the definition of “personal allowance for a single claimant aged not less than 25” at the end there shall be added “or, in the case of a person who is entitled to income-based jobseeker’s allowance, the amount for the time being specified in column (2) of paragraph 1(1)(*e*) of Schedule 1 to the Jobseeker’s Allowance Regulations;”, and
   - (ii) in the definition of “specified benefit” for “unemployment benefit” there shall be substituted “jobseeker’s allowance”.
 
-## 16. Amendment of the Social Security (Recoupment) Regulations
+## 16. Amendment of the Social Security (Recoupment) Regulations[^c-c79420f4862f6fef42b6c661712f2e1f]
 
 In regulation 2(1) of the Social Security (Recoupment) Regulations (Northern Ireland) 1990[^f00047] (relevant benefits) after sub-paragraph (*e*) there shall be inserted the following sub-paragraph—
 
@@ -279,15 +285,15 @@ In regulation 2(1) of the Social Security (Recoupment) Regulations (Northern Ire
 
 .
 
-## 17. Amendment of the Social Security (Attendance Allowance) Regulations
+## 17. Amendment of the Social Security (Attendance Allowance) Regulations[^c-8640963f78c667b6dc5b36890ca774e1]
 
 In regulation 8(6)(*a*) of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00048] (exemption from regulations 6 and 7) after the words “income support” in each place where they occur there shall be inserted “or income-based jobseeker’s allowance”.
 
-## 18. Amendment of the Social Security (Disability Living Allowance) Regulations
+## 18. Amendment of the Social Security (Disability Living Allowance) Regulations[^c-21e27ec2abb3581ecb682c02994bccb7]
 
 In regulation 10(8)(*a*) of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00049] (exemption from regulations 8 and 9) after the words “income support” in each place where they occur there shall be inserted “or income-based jobseeker’s allowance”.
 
-## 19. Amendment of the Disability Working Allowance (General) Regulations
+## 19. Amendment of the Disability Working Allowance (General) Regulations[^c-672d4ed41dfed8e26f4ccda8ecc01e17]
 
 (1) The Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00050] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -328,7 +334,7 @@ In regulation 10(8)(*a*) of the Social Security (Disability Living Allowance) Re
 
   .
 
-## 20. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations
+## 20. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^c-2946a6e5ce9fa6f34fe9e71f6ae69fd4]
 
 (1) The Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00055] shall be amended in accordance with paragraphs (2) to (11).
 
@@ -397,7 +403,7 @@ In regulation 10(8)(*a*) of the Social Security (Disability Living Allowance) Re
 
 (11) In paragraph 1(3)(*b*) of Schedule 1 (persons of 16 or 17 years of age who are not in full-time non-advanced education) after “income support” there shall be inserted “or income-based jobseeker’s allowance”.
 
-## 21. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations
+## 21. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^c-4a9a1673e9cb0e3699e49c667dca901d]
 
 (1) The Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992[^f00061] shall be amended in accordance with paragraphs (2) to (8).
 
@@ -437,7 +443,7 @@ In regulation 10(8)(*a*) of the Social Security (Disability Living Allowance) Re
 
 (8) In Schedule 2, in paragraph 48, in the definition of “concessionary payment” after “Contributions and Benefits Act” there shall be inserted “or the Jobseekers Order”.
 
-## 22. Amendment of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations
+## 22. Amendment of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations[^c-e756720864b389eb4a167c975102e3b4]
 
 (1) In the provisions of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations (Northern Ireland) 1992[^f00065] listed in paragraph (2), after the words “income support” in each place where they occur there shall be inserted “or income-based jobseeker’s allowance”.
 
@@ -447,11 +453,11 @@ In regulation 10(8)(*a*) of the Social Security (Disability Living Allowance) Re
 - (b) regulation 8[^f00066] (retention of recovered arrears of child support maintenance by the Department);
 - (c) regulation 10A[^f00067] (reimbursement of a repayment of overpaid child maintenance).
 
-## 23. Amendment of the Child Support Fees Regulations
+## 23. Amendment of the Child Support Fees Regulations[^c-df08dcd9e84f33fc67dd2a2c512ca5ff]
 
 In regulation 3(5)(*a*) of the Child Support Fees Regulations (Northern Ireland) 1993[^f00068] (liability to pay fees) after “Benefits (Northern Ireland) Act 1992” there shall be inserted “, or income-based jobseeker’s allowance under the Jobseekers (Northern Ireland) Order 1995”.
 
-## 24. Amendment of the Social Security (Incapacity Benefit — Increases for Dependants) Regulations
+## 24. Amendment of the Social Security (Incapacity Benefit — Increases for Dependants) Regulations[^c-429081a8cafbc8002b279c4a8ca2146a]
 
 (1) The Social Security (Incapacity Benefit — Increases for Dependants) Regulations (Northern Ireland) 1994[^f00069] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -461,7 +467,7 @@ In regulation 3(5)(*a*) of the Child Support Fees Regulations (Northern Ireland)
 
 (4) Paragraph (3) shall apply in a particular case only for so long as the amount substituted by that paragraph is greater than the amount specified in regulation 79(1)(*c*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996.
 
-## 25. Amendment of the Social Security (Incapacity for Work) (General) Regulations
+## 25. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-5338c4942c936029fcdbd47914608fde]
 
 (1) The Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00070] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -469,7 +475,7 @@ In regulation 3(5)(*a*) of the Child Support Fees Regulations (Northern Ireland)
 
 (3) In regulation 17A[^f00071] (person who claims unemployment benefit to be treated as capable of work) for “on each day in respect of which he claims unemployment benefit” there shall be substituted “throughout any period in respect of which he claims a jobseeker’s allowance” and for “on that day” there shall be substituted “throughout that period”.
 
-## 26. Revocations
+## 26. Revocations[^c-ac3795a46b01278963538c54d2ba582d]
 
 The regulations specified in Column (1) of the Schedule are revoked to the extent specified in Column (3).
 
@@ -491,7 +497,7 @@ Assistant Secretary
 
 17th July 1996.
 
-## SCHEDULE — Revocations
+## SCHEDULE — Revocations[^c-e2e694c2bc93836237753c432441665b]
 
 Regulation 26
 
@@ -572,17 +578,27 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 
 [^f00002]: Footnote: *See* section 165(9) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
+[^c-79fe4846fcada9984b5e1e7247a76b6f]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
+[^c-cdb80ea1e726e20a30a82e844ea9c0fd]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00003]: Footnote: [S.R. 1975 No. 19](https://www.legislation.gov.uk/nisr/1975/19); relevant amending regulations are [S.R. 1978 No. 102](https://www.legislation.gov.uk/nisr/1978/102) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^c-989542e8b3cbe960bdf1190a0b4a155b]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1975 No. 101](https://www.legislation.gov.uk/nisr/1975/101), to which there are amendments not relevant to these regulations
 
 [^f00005]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^c-710e1e57580403a15bbb5ec28dac7790]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00006]: Footnote: [S.R. 1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108); relevant amending regulations are [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
 [^f00007]: Footnote: Regulation 4(*b*) was amended by regulation 14(2)(*b*) of [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317) and regulation 4(2) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
 [^f00008]: Footnote: Regulation 5 was amended by regulation 14(3) of [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317) and regulation 4(3) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^c-9911746c9dc797cdcb84391d0dd9a74c]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); relevant amending regulations are [S.R. 1983 Nos. 36](https://www.legislation.gov.uk/nisr/1983/36) and [193](https://www.legislation.gov.uk/nisr/1983/193), [S.R. 1984 Nos. 373](https://www.legislation.gov.uk/nisr/1984/373) and [382](https://www.legislation.gov.uk/nisr/1984/382), [S.R. 1985 No. 229](https://www.legislation.gov.uk/nisr/1985/229), [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373) and [S.R. 1994 No. 485](https://www.legislation.gov.uk/nisr/1994/485)
 
@@ -598,7 +614,11 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 
 [^f00015]: Footnote: [S.R. 1996 No. 200](https://www.legislation.gov.uk/nisr/1996/200)
 
+[^c-a1d2b0c11f4755504ece4dc499497ce3]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00016]: Footnote: [S.R. 1977 No. 166](https://www.legislation.gov.uk/nisr/1977/166); relevant amending regulations are [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36), [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^c-2331d2ad3c31c7129082af08b5bb9601]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00017]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6)
 
@@ -610,9 +630,15 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 
 [^f00021]: Footnote: [S.R. 1996 No. 200](https://www.legislation.gov.uk/nisr/1996/200)
 
+[^c-c7a6ccd0c24b36c714f369cb082167cb]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00022]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114), to which there are amendments not relevant to these regulations
 
+[^c-d5d8dd40c9d84c500a2df08ace852161]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00023]: Footnote: [S.R. 1978 No. 371](https://www.legislation.gov.uk/nisr/1978/371); relevant amending regulations are [S.R. 1987 No. 201](https://www.legislation.gov.uk/nisr/1987/201), [S.R. 1989 No. 438](https://www.legislation.gov.uk/nisr/1989/438), [S.R. 1992 No. 96](https://www.legislation.gov.uk/nisr/1992/96) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^c-5fcfa322780a970990c1dc809e58de20]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00024]: Footnote: [S.R. 1979 No. 5](https://www.legislation.gov.uk/nisr/1979/5); relevant amending regulations are [S.R. 1980 No. 261](https://www.legislation.gov.uk/nisr/1980/261) and [S.R. 1988 Nos. 132](https://www.legislation.gov.uk/nisr/1988/132) and [273](https://www.legislation.gov.uk/nisr/1988/273)
 
@@ -621,6 +647,8 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 [^f00026]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
 [^f00027]: Footnote: Regulation 9B was inserted by regulation 6 of [S.R. 1988 No. 273](https://www.legislation.gov.uk/nisr/1988/273)
+
+[^c-69aa75ef8766f166c872ec8136c72e0f]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00028]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending regulations are [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451), [S.R. 1982 No. 272](https://www.legislation.gov.uk/nisr/1982/272), [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36), [S.R. 1992 No. 557](https://www.legislation.gov.uk/nisr/1992/557) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
@@ -634,9 +662,15 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 
 [^f00033]: Footnote: Paragraph 1 was amended by regulation 12(3)(*a*) of [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36) and regulation 14(8)(*a*) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
+[^c-6fba87247b4a6d027a800041c8ba4c1f]: Commencement: Reg. 12 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00034]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); relevant amending regulations are [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
 
+[^c-23f327b883354b996be499e7e34f2090]: Commencement: Reg. 13 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00035]: Footnote: [S.R. 1984 No. 245](https://www.legislation.gov.uk/nisr/1984/245); relevant amending regulations are [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^c-f66e6382e6826fde37c5b0d3ec221ebe]: Commencement: Reg. 14 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00036]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending regulations are [S.R. 1990 No. 138](https://www.legislation.gov.uk/nisr/1990/138), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6) and [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
@@ -650,6 +684,8 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 
 [^f00041]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18)
 
+[^c-85de8369918a5176cbad788a17959812]: Commencement: Reg. 15 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00042]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending regulations are [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1993 No. 175](https://www.legislation.gov.uk/nisr/1993/175) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
 [^f00043]: Footnote: The definition of “benefit” was amended by regulation 4(2) of [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369) and regulation 21(2)(*b*) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
@@ -660,11 +696,19 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 
 [^f00046]: Footnote: Regulation 17 was amended by regulation 14(8) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
+[^c-c79420f4862f6fef42b6c661712f2e1f]: Commencement: Reg. 16 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00047]: Footnote: [S.R. 1990 No. 85](https://www.legislation.gov.uk/nisr/1990/85); relevant amending regulations are [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1994 No. 103](https://www.legislation.gov.uk/nisr/1994/103) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
+
+[^c-8640963f78c667b6dc5b36890ca774e1]: Commencement: Reg. 17 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00048]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20); relevant amending regulations are [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [165](https://www.legislation.gov.uk/nisr/1993/165)
 
+[^c-21e27ec2abb3581ecb682c02994bccb7]: Commencement: Reg. 18 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00049]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); relevant amending regulations are [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [165](https://www.legislation.gov.uk/nisr/1993/165)
+
+[^c-672d4ed41dfed8e26f4ccda8ecc01e17]: Commencement: Reg. 19 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00050]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending regulations are [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373) and [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
@@ -675,6 +719,8 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 [^f00053]: Footnote: Paragraph 46 was added by regulation 10(2) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
 [^f00054]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18)
+
+[^c-2946a6e5ce9fa6f34fe9e71f6ae69fd4]: Commencement: Reg. 20 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00055]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340); relevant amending regulations are [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475) and [S.R. 1996 No. 19](https://www.legislation.gov.uk/nisr/1996/19)
 
@@ -688,6 +734,8 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 
 [^f00060]: Footnote: Regulation 35 was amended by regulation 8(12) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
+[^c-4a9a1673e9cb0e3699e49c667dca901d]: Commencement: Reg. 21 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00061]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341); relevant amending regulations are [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164)
 
 [^f00062]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
@@ -696,16 +744,28 @@ Article 39 of the Order, the enabling provision under which these Regulations ar
 
 [^f00064]: Footnote: [S.R. 1996 No. 200](https://www.legislation.gov.uk/nisr/1996/200)
 
+[^c-e756720864b389eb4a167c975102e3b4]: Commencement: Reg. 22 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00065]: Footnote: [S.R. 1992 No. 342](https://www.legislation.gov.uk/nisr/1992/342); relevant amending regulations are [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
 
 [^f00066]: Footnote: Regulation 8 was substituted by regulation 5(2) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
 
 [^f00067]: Footnote: Regulation 10A was inserted by regulation 5(3) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
 
+[^c-df08dcd9e84f33fc67dd2a2c512ca5ff]: Commencement: Reg. 23 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00068]: Footnote: [S.R. 1993 No. 73](https://www.legislation.gov.uk/nisr/1993/73), to which there are amendments not relevant to these regulations
 
+[^c-429081a8cafbc8002b279c4a8ca2146a]: Commencement: Reg. 24 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
 [^f00069]: Footnote: [S.R. 1994 No. 485](https://www.legislation.gov.uk/nisr/1994/485), to which there are amendments not relevant to these regulations
+
+[^c-5338c4942c936029fcdbd47914608fde]: Commencement: Reg. 25 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
 
 [^f00070]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending regulations are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
 
 [^f00071]: Footnote: Regulation 17A was inserted by regulation 4(6) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
+
+[^c-ac3795a46b01278963538c54d2ba582d]: Commencement: Reg. 26 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)
+
+[^c-e2e694c2bc93836237753c432441665b]: Commencement: Sch. in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/289/regulation/1)

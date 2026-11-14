@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 25
 act: London Local Authorities Act 2007
 section: '25'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 25
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 25. Powers to require removal of waste unlawfully deposited
+## 25. Powers to require removal of waste unlawfully deposited[^c-b39bcfd31e53e3aca00e0509069ab183]
+
+*Extent: E+W*
 
 (1) Subject to subsections (4) and (8) below, section 59 of the 1990 Act shall have effect in the area of a borough council in accordance with this section.
 
@@ -60,3 +64,7 @@ shall be evidence of the publication of the notice and of the date of publicatio
   - (b) Transport for London,
 
   and their subsidiaries (within the meaning given by section 1159 of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46)), servants, agents and contractors.
+
+## Annotations
+
+[^c-b39bcfd31e53e3aca00e0509069ab183]: Commencement: [S. 25](https://www.legislation.gov.uk/ukla/2007/2/section/25) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

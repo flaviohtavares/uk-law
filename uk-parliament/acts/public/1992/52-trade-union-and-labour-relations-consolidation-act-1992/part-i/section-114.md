@@ -3,7 +3,7 @@ title: Trade Union and Labour Relations (Consolidation) Act 1992, section 114
 act: Trade Union and Labour Relations (Consolidation) Act 1992
 section: '114'
 status: repealed
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/114
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

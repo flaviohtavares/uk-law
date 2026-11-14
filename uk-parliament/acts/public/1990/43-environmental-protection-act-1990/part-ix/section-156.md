@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Power to give effect to assimilated obligations and international obligations etc.[^c13751371][^c-224121f71ee739aa175514beeaba73a7][^c-a38788ff5f6003606f1024a81e5b3b4b]
+## 156. Power to give effect to assimilated obligations and international obligations etc.[^c13751371][^c13739731][^c-224121f71ee739aa175514beeaba73a7][^c-a38788ff5f6003606f1024a81e5b3b4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,8 @@ and regulations under it made by that Department shall be a statutory rule for t
 ## Annotations
 
 [^c13751371]: Commencement: S. 156 wholly in force at 1.4.1991 see s. 164(3) and [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [art. 2](https://www.legislation.gov.uk/uksi/1991/1042/article/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-224121f71ee739aa175514beeaba73a7]: Textual amendment: Word in [s. 156](https://www.legislation.gov.uk/ukpga/1990/43/section/156) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 29(8)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/29/8)
 

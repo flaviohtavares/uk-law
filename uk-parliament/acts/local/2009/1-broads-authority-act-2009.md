@@ -3,15 +3,15 @@ title: Broads Authority Act 2009
 id: ukla/2009/1
 type: UnitedKingdomLocalAct
 category: primary
-status: as-enacted
+status: revised
 made_date: '2009-07-02'
-text_date: null
-extent: null
+text_date: '2018-05-25'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2009/1
 pdf_urls:
 - http://www.legislation.gov.uk/ukla/2009/1/pdfs/ukla_20090001_en.pdf
-- http://www.legislation.gov.uk/ukla/2009/1/enacted/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/ukla/2009/1/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # Broads Authority Act 2009
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2018-05-25.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 Broads Authority Act 2009
 
@@ -41,13 +45,13 @@ May it therefore please Your Majesty that it may be enacted, and be it enacted, 
 
 ## PART 1 — Preliminary
 
-### 1. Short and collective titles
+### 1. Short and collective titles[^c-0815e2bd0f05c1d85aaa7e5e820227cc]
 
 (1) This Act may be cited as the Broads Authority Act 2009.
 
 (2) The 1988 Act and this Act may be cited together as the Broads Authority Acts 1988 and 2009.
 
-### 2. Interpretation
+### 2. Interpretation[^c-95b5ac64329f003754d52cbea89ee334]
 
 (1) In this Act, unless the context otherwise requires, words and expressions to which meanings are given by the 1988 Act have the same respective meanings, and—
 
@@ -83,7 +87,7 @@ May it therefore please Your Majesty that it may be enacted, and be it enacted, 
 
 (3) Nothing in this Act shall have the effect of constituting the Authority as harbour authority or navigation authority for any adjacent waters.
 
-### 3. Appointed day
+### 3. Appointed day[^c-b68a02221f36689b9821e795d39412e7]
 
 (1) For the purposes of any provision of this Act, and of any provision of the 1988 Act which is amended by this Act, “the appointed day”, in relation to that provision, means such day (not earlier than 3 months after the passing of this Act) as may be fixed for the purposes of that provision in accordance with subsection (2) by resolution of the Authority.
 
@@ -100,7 +104,7 @@ and the day so fixed shall not be earlier than the expiration of 28 days from th
 
 ### Directions to vessels, etc.
 
-#### 4. General directions to vessels
+#### 4. General directions to vessels[^c-344f50c6dc231d0d3b606f4c15d84b8c]
 
 (1) The Authority may give directions under this section (“general directions”) in respect of vessels in, or proposing to enter, or leaving, the navigation area for the purpose of promoting or securing conditions conducive to the ease, convenience or safety of navigation and the safety of persons and property in the navigation area.
 
@@ -132,11 +136,11 @@ and every direction under this section shall specify the extent of its applicati
 
 (6) The Authority may revoke or amend any general direction.
 
-#### 5. Procedure for making general directions, etc.
+#### 5. Procedure for making general directions, etc.[^c-87ff914d500791730422b57a755a7d35]
 
 Schedule 1 shall have effect.
 
-#### 6. Special directions to vessels
+#### 6. Special directions to vessels[^c-36dd7e301fca87eeb1ec2a66cb459f2a]
 
 (1) Subject to subsection (3) the navigation officer may give directions under this section (“special directions”) for any of the following purposes—
 
@@ -169,13 +173,13 @@ Schedule 1 shall have effect.
 
 (5) The navigation officer may revoke or amend a special direction.
 
-#### 7. Failure to comply with directions
+#### 7. Failure to comply with directions[^c-97b05eb1916ef77c5fde970f2efa6572]
 
 (1) The master of a vessel who fails to comply with a general direction or special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 (2) It shall be a defence for the master of a vessel charged with an offence under subsection (1) to prove that he took all reasonable precautions and exercised due diligence to avoid the commission of the offence or that he had a reasonable excuse for the act or for the failure to act.
 
-#### 8. Enforcement of special directions
+#### 8. Enforcement of special directions[^c-1cfd4b91ef7193e98a618638015effb2]
 
 (1) This section shall have effect in relation to a vessel if a special direction is not complied with within a reasonable time.
 
@@ -206,11 +210,11 @@ Schedule 1 shall have effect.
 
 (11) This section is without prejudice to any other remedy available to the Authority.
 
-#### 9. Master’s responsibility in relation to vessels
+#### 9. Master’s responsibility in relation to vessels[^c-ddf39a23ab38be827a2dbbacbb53dd54]
 
 The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction is given in relation to his vessel, to persons on board the vessel, to the cargo or to any other person or property.
 
-#### 10. Directions as to loading or unloading of vessels, etc.
+#### 10. Directions as to loading or unloading of vessels, etc.[^c-b41816f7222e0b3cba8239ad0ab7b602]
 
 (1) The Authority may designate any part of the navigation area for the loading and unloading of any goods to which this section applies.
 
@@ -231,7 +235,7 @@ The giving of a general direction or a special direction shall not diminish or i
 
 ### Safety of vessels, etc.
 
-#### 11. Byelaws for registration of vessels
+#### 11. Byelaws for registration of vessels[^c-dd25799ad1c472f1a58d145ea81d0103]
 
 (1) In this section—
 
@@ -286,7 +290,7 @@ but where the Authority considers that it is necessary to cancel the registratio
 
 (14) The Broads Authority Vessel Registration Byelaws 1997 (other than byelaws 23 and 28) shall be deemed to have been made under this section, and shall have effect as though the references in those byelaws to the “navigation area” included adjacent waters.
 
-#### 12. Construction and equipment standards
+#### 12. Construction and equipment standards[^c-c94b61b1816ea71fd5e2637290b5df84]
 
 (1) As from the appointed day the Authority by resolution may from time to time impose in relation to vessels in the navigation area or on adjacent waters reasonable standards and specifications (in this Act referred to as “standards”) relating to construction and equipment for the purposes of ensuring safety or preventing noise or pollution.
 
@@ -319,7 +323,7 @@ but where the Authority considers that it is necessary to cancel the registratio
 
 (10) The Authority may exempt any vessel from the requirements of subsection (1) to such extent and upon such terms and conditions as it may determine if, having regard to all the circumstances, it considers that the application of those requirements is not justified in the interests of safety or preventing noise or pollution.
 
-#### 13. Standards appeals panel
+#### 13. Standards appeals panel[^c-f6dc01aa3be0aa027fd3bbf8ffd4758d]
 
 (1) A panel, referred to in this Act as “the standards appeals panel”, shall be established and operate in accordance with the provisions of Schedule 2.
 
@@ -337,7 +341,7 @@ if the question is the subject of an application made in accordance with subsect
 - (a) the owner of the vessel, in the case of a question arising under subsection (2)(a), (b) or (d); and
 - (b) not fewer than 6 persons, each of whom is the owner of any category of vessel to which this section applies, in the case of a question arising under subsection (2)(c).
 
-#### 14. Vessels: insurance requirements
+#### 14. Vessels: insurance requirements[^c-c3dc6539621a15847bfdab2a2a7b8455]
 
 (1) The Authority may from time to time designate categories of vessels to which this section is to apply.
 
@@ -345,7 +349,7 @@ if the question is the subject of an application made in accordance with subsect
 
 (3) The requirements of subsection (2) do not apply in relation to a vessel to the extent that the vessel is exempted by the Authority from those requirements.
 
-#### 15. Offences as to standards and insurance requirements
+#### 15. Offences as to standards and insurance requirements[^c-1d40f364603960250cd4a9d7a6234ddd]
 
 (1) The owner or master of a vessel who without reasonable excuse and (in the case of a master of a vessel who is not also the owner) knowingly—
 
@@ -356,7 +360,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (2) It shall be a defence for the owner or master of a vessel charged with an offence under subsection (1) to prove that he had taken all reasonable precautions and exercised due diligence to avoid the commission of any such offence.
 
-#### 16. Exemption of certain vessels
+#### 16. Exemption of certain vessels[^c-c0bc83e5ca070e5134393585d5a05b88]
 
 (1) In this section—
 
@@ -386,7 +390,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ### Other provisions as to vessels
 
-#### 17. Entry on and inspection of vessels
+#### 17. Entry on and inspection of vessels[^c-d96427525570c51d72c701b4a3cba032]
 
 (1) An authorised officer who produces written evidence of his authority may board any vessel in the navigation area or on adjacent waters for the purpose of—
 
@@ -424,7 +428,7 @@ as are reasonably necessary for any purpose mentioned in subsection (1).
 
 (12) Any person who without reasonable excuse intentionally obstructs an authorised officer acting in accordance with this section or contravenes any requirement of this section shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 18. Meaning of “unsafe vessel”
+#### 18. Meaning of “unsafe vessel”[^c-c5df29d66028d10fbf7663aa191c3d17]
 
 For the purposes of this Act a vessel is unsafe if—
 
@@ -433,7 +437,7 @@ For the purposes of this Act a vessel is unsafe if—
 
 and the Authority is satisfied after taking advice where appropriate from a person qualified to examine or assess compliance with any standards imposed under section 12 that the non-compliance or the circumstances which resulted in the conviction, as the case may be, continues or continue to give rise to a danger to any person or to any property, or risk of pollution, from the vessel.
 
-#### 19. Powers as to unsafe vessels, etc.
+#### 19. Powers as to unsafe vessels, etc.[^c-f24da1cabd5a9f6c74e6b6996782bdc8]
 
 (1) An authorised officer may require the master of any unsafe vessel in the navigation area or on adjacent waters—
 
@@ -446,7 +450,7 @@ and the Authority is satisfied after taking advice where appropriate from a pers
 
 (4) The Authority shall pay reasonable compensation to the owner of any vessel in respect of any damage which is caused to the vessel by the exercise of the powers of this section, if it is shown that at the time of such exercise the vessel was not unsafe, but nothing in this subsection shall require the Authority to pay compensation in respect of any damage to the extent that the damage results from the act or default of the master, owner or any other person (not being an employee or agent of the Authority).
 
-#### 20. Removal of unsafe vessels, etc.
+#### 20. Removal of unsafe vessels, etc.[^c-76ea6f475599a3e0c44950f3f028f723]
 
 (1) The Authority may exercise the powers of this section in relation to any unsafe vessel in the navigation area or on adjacent waters in any case in which—
 
@@ -497,7 +501,7 @@ and the Authority is satisfied after taking advice where appropriate from a pers
 
 (16) The Authority shall pay reasonable compensation to the owner of any vessel in respect of any damage which is caused to the vessel (or loss caused to its owner) by the exercise of the powers of this section and any expenses reasonably incurred by the owner in returning the vessel to the place where it was immediately before the Authority exercised those powers, if it is shown that at the time of such exercise the vessel was not unsafe, but nothing in this subsection shall require the Authority to pay compensation in respect of any damage to the extent that the damage results from the act or default of the master, owner or any other person (not being an employee or agent of the Authority).
 
-#### 21. Request for information as to vessels
+#### 21. Request for information as to vessels[^c-1fc7f5a6f8ae5ca60a100e316ed8348a]
 
 (1) On a request made by an authorised officer who produces, if requested, written evidence of his authority—
 
@@ -518,7 +522,7 @@ and the Authority is satisfied after taking advice where appropriate from a pers
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-#### 22. Notices requiring information from masters and owners, etc. as to vessels
+#### 22. Notices requiring information from masters and owners, etc. as to vessels[^c-7f0ce8e6db5a11caa646f0eb5fe7e592]
 
 (1) Where, with a view to performing a function conferred on the Authority by or under the provisions of this Act, Part II (navigation) of the 1988 Act, or Schedule 5 to the 1988 Act, or by or under any byelaw made under any of those provisions, the Authority reasonably considers that it ought to have information as to any vessel which is or has been in the navigation area or on adjacent waters, or as to the master or owner of any such vessel, the Authority may serve a notice on any person reasonably believed by it to be the master or owner, or to have been the master or owner at any date specified in the notice, requiring the recipient to furnish to the Authority within a period specified in the notice (which shall not be less than 28 days beginning with the day on which the notice is served) the information referred to in the notice.
 
@@ -545,7 +549,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-#### 23. Notices requiring information from landowners, etc. as to vessels
+#### 23. Notices requiring information from landowners, etc. as to vessels[^c-e6e57295040a4357c73c08f57bbd50f6]
 
 (1) A notice served by the Authority under section 16 (power of local authorities to obtain particulars of persons interested in land) of the Local Government (Miscellaneous Provisions) Act [1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57) in respect of any land comprised in or adjoining the navigation area or adjacent waters may require the recipient of the notice to furnish to the Authority, in respect of any vessel such as is referred to in subsection (3), such information as is referred to in subsection (4) as is available to the recipient of the notice.
 
@@ -564,7 +568,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 - (g) details of the type of fuel used on the vessel, and of its engine;
 - (h) information as to the use made of the vessel.
 
-#### 24. Entry on land
+#### 24. Entry on land[^c-2111a83a178860e7613fb57b582956a9]
 
 (1) An authorised officer designated in writing for the purpose by the Authority may enter—
 
@@ -594,11 +598,11 @@ but does not apply to any vessel which is ashore.
 
 ### Water skiing and wake boarding, etc.
 
-#### 25. Coming into force, etc. of provisions as to water skiing and wake boarding
+#### 25. Coming into force, etc. of provisions as to water skiing and wake boarding[^c-24811fe30263b6dd0e98ac096675b942]
 
 Sections 26 to 32 shall come into force as from the appointed day.
 
-#### 26. Zones for water skiing or wake boarding
+#### 26. Zones for water skiing or wake boarding[^c-00595e3a93a3d24e192e47dc33bde22b]
 
 (1) The Authority may from time to time by resolution designate any part of the navigation area as a zone where water skiing or wake boarding is to be permitted.
 
@@ -623,7 +627,7 @@ Sections 26 to 32 shall come into force as from the appointed day.
 
 (8) It shall be the duty of the Authority to exhibit and maintain signs in the vicinity of every zone designated under this section denoting the boundaries of the zone.
 
-#### 27. Permits for water skiing and wake boarding
+#### 27. Permits for water skiing and wake boarding[^c-cf14164968ef1c140774cbdd4d6f3d44]
 
 (1) The Authority may on application by any person issue a permit authorising that person and if the Authority thinks fit such other person or persons as is or are named in the application to engage in water skiing or wake boarding in a zone.
 
@@ -659,7 +663,7 @@ and such other reasonable conditions, including conditions making requirements a
 
 (8) Without prejudice to the power of the Authority to refuse a permit on any other grounds, the Authority may refuse a permit if the number of permits already in force is equal to or exceeds the maximum number from time to time determined by the Authority for the purposes of this Act.
 
-#### 28. Directions as to water skiing and wake boarding
+#### 28. Directions as to water skiing and wake boarding[^c-e47d23b7b8d053087b2c8dfaacd89231]
 
 (1) The Authority may display signs within or in the vicinity of a zone giving directions to persons engaging in water skiing or wake boarding, or intending to do so.
 
@@ -671,7 +675,7 @@ and such other reasonable conditions, including conditions making requirements a
 - (b) may prohibit water skiing or wake boarding temporarily, on the whole or part of any zone, where in the opinion of the Authority or of an authorised officer such a prohibition is necessary in any emergency;
 - (c) may be given so as to restrict the numbers of persons engaging in water skiing or wake boarding on the whole or any part of a zone where in the reasonable opinion of the Authority or of an authorised officer this is necessary to prevent congestion or in the interests of safety.
 
-#### 29. Offences as to water skiing and wake boarding
+#### 29. Offences as to water skiing and wake boarding[^c-024e84fafaf4aca0f09375d9a3d2f2de]
 
 Any person who without reasonable excuse—
 
@@ -683,7 +687,7 @@ Any person who without reasonable excuse—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-#### 30. Cancellation and amendment of permits
+#### 30. Cancellation and amendment of permits[^c-f09881bf730f5430ff6c5ea35627ebc6]
 
 (1) Subsection (2) shall have effect where a person is convicted of an offence under section 29, or under any byelaw relating to water skiing or wake boarding, or is in breach of any other byelaw of the Authority, or where it appears to the Authority that any condition of a permit as to insurance has not been observed.
 
@@ -692,7 +696,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 - (a) who has been convicted of any such offence; or
 - (b) in respect of whom any condition as to insurance has not been observed.
 
-#### 31. Appeals
+#### 31. Appeals[^c-d917aa48aafa0849932a1c7d436a6e8a]
 
 (1) A panel, referred to in this Act as “the water skiing and wake boarding appeals panel”, shall be established and operate in accordance with the provisions of Schedule 2 and of this section.
 
@@ -712,7 +716,7 @@ may appeal to the panel.
 
 (6) It shall be the duty of the Authority to give effect to the decision of the panel taken under subsection (5).
 
-#### 32. Water skiing and wake boarding: interpretation
+#### 32. Water skiing and wake boarding: interpretation[^c-12fccb5cf03a06c29063382952dfbac8]
 
 (1) In sections 26 to 31 and this section—
 
@@ -727,7 +731,7 @@ may appeal to the panel.
 
 ## PART 3 — Miscellaneous
 
-### 33. Meaning of “personal water craft”, etc.
+### 33. Meaning of “personal water craft”, etc.[^c-109ed4afef1f2ac509b7f91d418785b1]
 
 (1) For the purposes of this Act, the 1988 Act and of any byelaw made by the Authority under this Act or (whether before or after the passing of this Act) the 1988 Act “personal water craft” means any personal water craft, that is, any water craft (not being a structure which, by reason of its concave shape, provides buoyancy for the carriage of persons or goods) propelled by a jet drive or other mechanical means of propulsion and steered either—
 
@@ -739,7 +743,7 @@ may appeal to the panel.
 
 (3) An order under subsection (2) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 34. Meaning of “vessel” in certain byelaws
+### 34. Meaning of “vessel” in certain byelaws[^c-d1f59c47f080b4741d18d2e42b4a6043]
 
 (1) The byelaws made under the 1988 Act and referred to in subsection (2) shall have effect as though for the definition of “vessel” there were substituted the definition of that expression in section 25 of that Act as amended by section 43(2) of, and paragraph 9(4) of Schedule 7 to, this Act.
 
@@ -750,7 +754,7 @@ may appeal to the panel.
 - Broads Authority Vessel Dimension Byelaws 1995;
 - Broads Authority Vessel Registration Byelaws 1997.
 
-### 35. Breydon Water and Lower Bure
+### 35. Breydon Water and Lower Bure[^c-7eb518b958fc0e94ddeac5d44afdeeec]
 
 (1) In this section—
 
@@ -771,7 +775,7 @@ may appeal to the panel.
 
 (6) The Authority and the Great Yarmouth Port Authority may enter into and carry into effect agreements for the purposes of or in connection with the transfer of Breydon Water and the Lower Bure by subsection (2).
 
-### 36. Haddiscoe Cut
+### 36. Haddiscoe Cut[^c-a0bb1cf6b041dbfb4a20402e9c9b9af7]
 
 (1) In this section—
 
@@ -791,7 +795,7 @@ may appeal to the panel.
 
 (3) The Authority and the Environment Agency may enter into and carry into effect agreements for the purposes of or in connection with subsection (2).
 
-### 37. Agreements with others
+### 37. Agreements with others[^c-2c759c3eb3361f9e135e44826e89c527]
 
 (1) The Authority may enter into agreements with any other person for the purpose of—
 
@@ -808,7 +812,7 @@ may appeal to the panel.
 
 (4) In this section, “the relevant enactments” means this Act, the 1988 Act and any byelaw of the Authority.
 
-### 38. Provision of information
+### 38. Provision of information[^c-263eb6a93d20f593ec35c8a9121fb396]
 
 (1) This section applies to information which is held by or on behalf of the Authority (including information obtained by or on behalf of the Authority before the coming into force of this section) for the purposes of the following provisions of this Act—
 
@@ -819,7 +823,7 @@ may appeal to the panel.
 
 (2) Information to which this section applies may be supplied to a responsible authority for the purposes of facilitating the exercise of any functions of the Authority or of the responsible authority under any enactment.
 
-(3) Information to which this section applies may be supplied to any person who can show to the satisfaction of the Authority that he has a reasonable cause for wanting the particulars to be made available to him, but nothing in this subsection authorises any disclosure of information which contravenes the Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29).
+(3) Information to which this section applies may be supplied to any person who can show to the satisfaction of the Authority that he has a reasonable cause for wanting the particulars to be made available to him, but nothing in this subsection authorises any disclosure of information which contravenes the data protection legislation[^c-eb8671cfa1965de1fc5e101a9a3b17b2].
 
 (4) Information obtained by virtue of this section must not be further disclosed except to a responsible authority for the purposes mentioned in subsections (2) and (3).
 
@@ -836,9 +840,12 @@ may appeal to the panel.
   - (iii) a harbour authority or a navigation authority; and
   - (iv) the British Waterways Board.
 
-(6) For the purposes of this section, “statutory function” means a function conferred by or under any enactment.
+(6) For the purposes of this section —[^c-d77a7afabfa57bd3433a3ec55ebd5067]
 
-### 39. Removal of vegetation, etc.
+- “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+- “**statutory function**” means a function conferred by or under any enactment.
+
+### 39. Removal of vegetation, etc.[^c-9d2265fa748f0085d0c4039faa33d1ab]
 
 (1) Where it appears to the Authority that any part (including the roots) of a hedge, tree or shrub—
 
@@ -860,13 +867,13 @@ and if all of those works are carried out within the notice period the Authority
 
 (5) The sections of the Public Health Act [1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49) mentioned in Schedule 5 to this Act (other than so much of those sections as authorises a local authority to require the person served with a notice to carry out works) shall have effect as if references in those sections to that Act included references to this section and as if the Authority were a local authority.
 
-### 40. Application of requirements of Public Health Acts Amendment Act 1907
+### 40. Application of requirements of Public Health Acts Amendment Act 1907[^c-2706d593e4789e5c4a5f487cdb3d018c]
 
 (1) For the purposes of this section a relevant vessel is any vessel which is a pleasure boat or pleasure vessel for the purposes of section 94 of the 1907 Act.
 
 (2) As from the appointed day section 94 of the 1907 Act shall apply in respect of a relevant vessel in the navigation area or on adjacent waters as though there were substituted for the expression “the local authority” the expression “the Broads Authority”.
 
-### 41. For protection of Network Rail
+### 41. For protection of Network Rail[^c-59badc705293b62343eaf1a401080660]
 
 (1) For the protection of Network Rail the following provisions shall, unless otherwise agreed in writing between the Authority and Network Rail, apply and have effect.
 
@@ -878,7 +885,7 @@ and if all of those works are carried out within the notice period the Authority
 
 (5) Paragragh 21(9) of Schedule 5 to the 1988 Act shall apply to any dispute between the Authority and Network Rail arising under this section.
 
-### 42. Protection of Crown interests
+### 42. Protection of Crown interests[^c-5b5cf7f89f0bb05f56c59c9cc1f5fcee]
 
 (1) Nothing in this Act affects prejudicially any estate, interest, right, power, privilege, authority or exemption of the Crown and, in particular and without prejudice to the generality of the foregoing, nothing in this Act shall authorise any person to take, use, enter upon or in any manner interfere with, any land or hereditaments or any rights of whatsoever description (including any portion of the shore or bed of the sea or of any river, channel, creek, bay or estuary)—
 
@@ -887,7 +894,7 @@ and if all of those works are carried out within the notice period the Authority
 
 (2) A consent under subsection (1) may be given unconditionally, or subject to such conditions and upon such terms as may be considered necessary or appropriate.
 
-### 43. Transitional provisions, amendments, repeals and revocations
+### 43. Transitional provisions, amendments, repeals and revocations[^c-5c1d5171444082086b3be02cc027657a]
 
 (1) Schedule 6 contains transitional provisions.
 
@@ -905,7 +912,7 @@ SCHEDULES
 
 Section 5
 
-**1.** In this Schedule “the statutory consultees” means—
+**1.**[^c-cb7fd8068ec540a8610ee7188e5ffcca] In this Schedule “the statutory consultees” means—
 
 - (a) Associated British Ports;
 - (b) the Great Yarmouth Port Authority;
@@ -913,71 +920,71 @@ Section 5
 - (d) the British Marine Federation, the Inland Waterways Association and the Royal Yachting Association; and
 - (e) such other bodies (if any) appearing to the Authority to represent boating interests as the Authority considers appropriate.
 
-**2.** The Authority from time to time following consultation with the statutory consultees shall appoint a suitable person to act as the independent person for the purposes of this Schedule, and references in this Schedule to the independent person are references to the person so appointed.
+**2.**[^c-6a543b2cfb475109bf2ef9bcc76fc62c] The Authority from time to time following consultation with the statutory consultees shall appoint a suitable person to act as the independent person for the purposes of this Schedule, and references in this Schedule to the independent person are references to the person so appointed.
 
-**3.** The Authority shall consult the statutory consultees upon any proposal to give, amend or revoke a general direction and except in a case of emergency shall do so before giving notice of the proposal under paragraph 4.
+**3.**[^c-34cc9a2c1aeb6798b7ba26416ac4ea32] The Authority shall consult the statutory consultees upon any proposal to give, amend or revoke a general direction and except in a case of emergency shall do so before giving notice of the proposal under paragraph 4.
 
-**4.** Not less than 42 days before giving, amending or revoking a general direction or in a case of emergency as soon as is reasonably practicable the Authority shall—
+**4.**[^c-369bea5457a7a3af38cd23b6eda6bfd0] Not less than 42 days before giving, amending or revoking a general direction or in a case of emergency as soon as is reasonably practicable the Authority shall—
 
 - (a) publish notice of its intention to do so once in a newspaper circulating in the area of the Broads and on the Authority’s website; and
 - (b) give notice of its intention to do so to the statutory consultees.
 
-**5.** Any notice published under paragraph 4—
+**5.**[^c-1279a7a57f5fc154687ef467a2003435] Any notice published under paragraph 4—
 
 - (a) shall state a place where copies of the direction and any proposed amendment to it may be obtained and a place at which such copies may be inspected;
 - (b) shall state that representations may be made to the Authority in writing during the said period of 42 days or such longer period as may be specified in the notice;
 
 and except in a case of emergency the Authority shall not give, amend or revoke the direction until it has considered all such representations as are made during the period stated in the notice.
 
-**6.** In addition to the requirements of paragraph 4, notice of the giving of a general direction or of the amendment or revocation of a general direction may be given in any manner considered by the Authority to be appropriate.
+**6.**[^c-f01c16028c4a8c56c3ec2a9186bc6545] In addition to the requirements of paragraph 4, notice of the giving of a general direction or of the amendment or revocation of a general direction may be given in any manner considered by the Authority to be appropriate.
 
-**7.** If any of the statutory consultees within the period allowed for in accordance with paragraph 5(b) objects to the giving, revoking or amending of a general direction the Authority shall refer the matter to the independent person.
+**7.**[^c-343df97caf478bf6ba8ea14bf063d370] If any of the statutory consultees within the period allowed for in accordance with paragraph 5(b) objects to the giving, revoking or amending of a general direction the Authority shall refer the matter to the independent person.
 
-**8.** As soon as reasonably practicable after an objection is referred to the independent person under paragraph 7 the independent person shall invite the Authority and statutory consultee by which the objection was made to put their case by way of written representations.
+**8.**[^c-355faaebb059355a76c3afe1a745fcbe] As soon as reasonably practicable after an objection is referred to the independent person under paragraph 7 the independent person shall invite the Authority and statutory consultee by which the objection was made to put their case by way of written representations.
 
-**9.** Following receipt of any representations made under paragraph 8 the independent person shall as soon as reasonably practicable provide the Authority and the statutory consultee by which the objection has been made with a report containing his conclusions on the direction and on the objection.
+**9.**[^c-f89d96f68bdc706b09e9302444f4c091] Following receipt of any representations made under paragraph 8 the independent person shall as soon as reasonably practicable provide the Authority and the statutory consultee by which the objection has been made with a report containing his conclusions on the direction and on the objection.
 
-**10.** Except in an emergency the Authority shall consider the report of the independent person provided under paragraph 9 before giving, revoking or amending any general direction.
+**10.**[^c-c0919681b51e7328f4a0bba758c70806] Except in an emergency the Authority shall consider the report of the independent person provided under paragraph 9 before giving, revoking or amending any general direction.
 
 ## SCHEDULE 2 — Provisions as to appeals panels
 
 Sections 13 and 31
 
-**1.** In this Schedule “the panel” means the standards appeals panel or the water skiing and wake boarding appeals panel, as the case may require.
+**1.**[^c-e8bf45453a00174679b642f9a89e989a] In this Schedule “the panel” means the standards appeals panel or the water skiing and wake boarding appeals panel, as the case may require.
 
-**2.** The standards appeals panel shall consist of not less than 1 person appointed by the Authority and 2 persons appointed by such bodies as appear to the Authority to represent boating interests, the appointments in each case to be made at the Authority’s expense and from amongst persons having knowledge or experience of the standards.
+**2.**[^c-f4182cc34be4cfcefe2cf0064576665e] The standards appeals panel shall consist of not less than 1 person appointed by the Authority and 2 persons appointed by such bodies as appear to the Authority to represent boating interests, the appointments in each case to be made at the Authority’s expense and from amongst persons having knowledge or experience of the standards.
 
-**3.** The water skiing and wake boarding appeals panel shall consist of—
+**3.**[^c-a1c3c2a40c85b54b6960e7ed5206cf64] The water skiing and wake boarding appeals panel shall consist of—
 
 - (a) 1 person appointed by the standards committee established by the Authority under section 53 of the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22) (“the standards committee”) from amongst the members of that committee who are not members or officers of the Authority or of any other relevant authority such as is referred to in section 49(6) of that Act;
 - (b) 2 persons appointed by a body appearing to the Authority to represent water skiing and wake boarding interests nationally;
 - (c) 2 further persons (not being members or officers of the Authority) appointed by the standards committee.
 
-**4.** The Authority shall refer any application duly made under section 13 or section 31 to the panel and provide the panel with reasonable facilities to determine the question which is the subject of the application.
+**4.**[^c-94ca0309cd06889499b1ab35b1cf0359] The Authority shall refer any application duly made under section 13 or section 31 to the panel and provide the panel with reasonable facilities to determine the question which is the subject of the application.
 
-**5.** Subject to the other provisions of this Schedule, the panel shall determine its own procedure (including the quorum for any meeting).
+**5.**[^c-11b15f57cc679ce27be75081a0e1a3c4] Subject to the other provisions of this Schedule, the panel shall determine its own procedure (including the quorum for any meeting).
 
-**6.** A determination by the panel in relation to any question referred to it shall be final.
+**6.**[^c-36153fbd55d089c8425cbe280f167ca5] A determination by the panel in relation to any question referred to it shall be final.
 
-**7.** The reasonable costs incurred in convening the panel in relation to any question referred to it, including the reasonable costs of the Authority in providing facilities to it, shall be paid by such party as the panel may direct.
+**7.**[^c-5dba39a26b99573eaed9b0766272ebf8] The reasonable costs incurred in convening the panel in relation to any question referred to it, including the reasonable costs of the Authority in providing facilities to it, shall be paid by such party as the panel may direct.
 
-**8.** The panel may cause the amount of the costs so incurred by it to be certified and any amount so certified and directed by it to be paid by a person may be recovered from that person by or on behalf of the panel summarily as a civil debt.
+**8.**[^c-2898151afd47a78df929cd0e8a9a8074] The panel may cause the amount of the costs so incurred by it to be certified and any amount so certified and directed by it to be paid by a person may be recovered from that person by or on behalf of the panel summarily as a civil debt.
 
-**9.** The panel may make orders as to the costs of the parties in relation to any question referred to it and as to the parties by whom the costs are to be paid.
+**9.**[^c-b11431548bd5a70550608699ec053db3] The panel may make orders as to the costs of the parties in relation to any question referred to it and as to the parties by whom the costs are to be paid.
 
-**10.** Any order under paragraph 9 may be made a rule of the High Court on the application of any party named in the order.
+**10.**[^c-972d30acd362e8c634e6aabd7e2fa4f4] Any order under paragraph 9 may be made a rule of the High Court on the application of any party named in the order.
 
 ## SCHEDULE 3 — Requirements as to insurance policies
 
 Sections 14(2) and 27(6)(a)
 
-**1.** A policy required under section 14(2) shall insure the owner of the vessel and such other person, persons or classes of persons (if any) as is or as are authorised by the owner to have control of the vessel, in respect of any liability (other than a liability specified in paragraph 4) which may be incurred by the owner, or any such other person, resulting from the presence of the vessel in the navigation area or on adjacent waters, in respect of death of, or bodily injury to, any person or any damage to property.
+**1.**[^c-1c6276aa370ed2891bdf2f47d065bce6] A policy required under section 14(2) shall insure the owner of the vessel and such other person, persons or classes of persons (if any) as is or as are authorised by the owner to have control of the vessel, in respect of any liability (other than a liability specified in paragraph 4) which may be incurred by the owner, or any such other person, resulting from the presence of the vessel in the navigation area or on adjacent waters, in respect of death of, or bodily injury to, any person or any damage to property.
 
-**2.** A policy required under section 27(6)(a) shall insure the holder of the policy in respect of any liability (other than a liability specified in paragraph 4) which may be incurred by the holder in respect of the death of, or bodily injury to, any other person or any damage to property, resulting from the carrying out by the holder of water skiing or wake boarding.
+**2.**[^c-311e8e7b83d0aa36248b804a4c16eff9] A policy required under section 27(6)(a) shall insure the holder of the policy in respect of any liability (other than a liability specified in paragraph 4) which may be incurred by the holder in respect of the death of, or bodily injury to, any other person or any damage to property, resulting from the carrying out by the holder of water skiing or wake boarding.
 
-**3.** A policy required under section 14(2) or section 27(6)(a) shall be issued by an insurer authorised under the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) to carry on in Great Britain or in Northern Ireland insurance business of a relevant class or who has corresponding permission under the law of another member state of the European Community.
+**3.**[^c-b8c5e22ffdfaea1a7366a41198e79d92] A policy required under section 14(2) or section 27(6)(a) shall be issued by an insurer authorised under the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) to carry on in Great Britain or in Northern Ireland insurance business of a relevant class or who has corresponding permission under the law of another member state of the European Community.
 
-**4.** A policy shall not by virtue of this Schedule be required—
+**4.**[^c-8d44cd8e27d4f8a09013da0624072bce] A policy shall not by virtue of this Schedule be required—
 
 - (a) to cover liability in respect of the death, arising out of and in the course of his employment, of a person in the employment of a person insured by the policy or of bodily injury sustained by such a person arising out of and in the course of his employment;
 - (b) in the case of a policy required under section 14(2), to cover liability in respect of—
@@ -988,9 +995,11 @@ Sections 14(2) and 27(6)(a)
 - (e) to cover any contractual liability; or
 - (f) to provide cover in respect of any one accident for a sum in excess of such sum as may for the time being be prescribed by the Authority for the purposes of this paragraph.
 
-## SCHEDULE 4 — Breydon Water and the Lower Bure
+## SCHEDULE 4 — Breydon Water and the Lower Bure[^c-5cfbc794a006f4c197786040a2f9f91a]
 
 Section 35
+
+[^c-5cfbc794a006f4c197786040a2f9f91a]
 
 The area known as Breydon Water and the Lower Bure as enclosed by notional lines drawn—
 
@@ -999,9 +1008,11 @@ The area known as Breydon Water and the Lower Bure as enclosed by notional lines
 - (c) across the river Waveney, between grid references TG 4722 0379 and TG 4725 0375;
 - (d) across the downstream river Yare between grid references TG 5187 0781 and TG 5196 0786;
 
+[^c-5cfbc794a006f4c197786040a2f9f91a]
+
 and on its landward sides by the level of mean high water springs within the area so enclosed.
 
-## SCHEDULE 5 — Sections of Public Health Act 1936 applied by section 39(5)
+## SCHEDULE 5 — Sections of Public Health Act 1936 applied by section 39(5)[^c-0a027cf070eb60a484936c6a190b1c58]
 
 Section 39(5)
 
@@ -1020,7 +1031,7 @@ Section 43(1)
 
 ### Part 1 — General provisions
 
-**1.** In this Part of this Schedule—
+**1.**[^c-bc8f2b2f4e449858f2e5b3db1eef513e] In this Part of this Schedule—
 
 - “the appointed day” means the appointed day referred to in paragraph 5, 7 or 14, as the case may be;
 - “the existing enactments” means—
@@ -1028,27 +1039,27 @@ Section 43(1)
   - (b) the Broads Authority Speed Limit Byelaws 1992; and
   - (c) section 94 of the 1907 Act.
 
-**2.** The repeal, revocation or amendment, as the case may be, by this Act of the existing enactments shall not affect the liability of any person for any offence under any provision of the existing enactments committed before the appointed day.
+**2.**[^c-6b90155a81ed01fc752ff143effc4304] The repeal, revocation or amendment, as the case may be, by this Act of the existing enactments shall not affect the liability of any person for any offence under any provision of the existing enactments committed before the appointed day.
 
-**3.** Any proceedings under the existing enactments (including proceedings for an offence such as is referred to in paragraph 2) may be continued notwithstanding the repeal, revocation or amendment of the existing enactments.
+**3.**[^c-1ae8751e598a10e78a0e1d523951dc12] Any proceedings under the existing enactments (including proceedings for an offence such as is referred to in paragraph 2) may be continued notwithstanding the repeal, revocation or amendment of the existing enactments.
 
-**4.** Any application, approval, certificate, consent, document, exemption, notice or warrant made, submitted, given, granted or issued under any provision of the existing enactments shall continue to have effect after the appointed day as though it had been made, submitted, given, granted or issued under the corresponding provision of this Act until it expires or is revoked or otherwise ceases to have effect in accordance with this Act.
+**4.**[^c-3fce0df530d8e94e7809dd6ec16c3cf5] Any application, approval, certificate, consent, document, exemption, notice or warrant made, submitted, given, granted or issued under any provision of the existing enactments shall continue to have effect after the appointed day as though it had been made, submitted, given, granted or issued under the corresponding provision of this Act until it expires or is revoked or otherwise ceases to have effect in accordance with this Act.
 
 ### Part 2 — Boat safety standards
 
-**5.** In this Part of this Schedule—
+**5.**[^c-6a6801eb3e4c3995414455676cd86f24] In this Part of this Schedule—
 
 - “the appointed day” means the appointed day fixed for the purposes of section 12 (construction and equipment standards) of this Act;
 - “boat standards” means the boat safety standards set out in the 2006 byelaws.
 
-**6.**
+**6.**[^c-4ccb698995990ad72e91674cecd4a8b0]
 
 - (a) As from the appointed day the boat standards shall have effect as though they were standards and specifications imposed under section 12; and shall continue to apply to the categories of vessel to which they applied before the appointed day; and shall apply to vessels of those categories on adjacent waters as well as in the navigation area.
 - (b) The 2006 byelaws shall be revoked on the appointed day.
 
 ### Part 3 — Water skiing and wake boarding
 
-**7.** In this Part of this Schedule—
+**7.**[^c-968237efa8f4409e4a0846bf6ef82838] In this Part of this Schedule—
 
 - “the appointed day” means the appointed day fixed for the purposes of sections 26 to 32 of this Act;
 - “the 1992 byelaws” means the Broads Authority Speed Limit Byelaws 1992;
@@ -1057,24 +1068,24 @@ Section 43(1)
 - “the transitional period” means the period commencing on the appointed day and ending on the relevant date;
 - “water ski permit” means a water ski permit issued by the Authority under byelaw 9 of the 1992 byelaws.
 
-**8.** During the transitional period—
+**8.**[^c-53de5ff08ec95ef2881c10edf7ceb60d] During the transitional period—
 
 - (a) the specified waters shall be deemed to have been designated as zones under section 26; and
 - (b) any water ski permit issued by the Authority shall be deemed to be a permit issued under section 27.
 
-**9.** During the transitional period the Authority shall not be required to exhibit and maintain any signs such as are referred to in section 26(8) in the vicinity of the specified waters.
+**9.**[^c-662f30336cb599c99f23d5aea7934452] During the transitional period the Authority shall not be required to exhibit and maintain any signs such as are referred to in section 26(8) in the vicinity of the specified waters.
 
-**10.** Notwithstanding anything in the 1992 byelaws, or any condition of any water ski permit, every person who immediately before the appointed day held a water ski permit shall be entitled to engage in water skiing until the relevant date in accordance with the permit on the specified waters.
+**10.**[^c-7407a66c7048d5c6e2c4e2cd260f1230] Notwithstanding anything in the 1992 byelaws, or any condition of any water ski permit, every person who immediately before the appointed day held a water ski permit shall be entitled to engage in water skiing until the relevant date in accordance with the permit on the specified waters.
 
-**11.** Paragraph 10 shall have effect subject to—
+**11.**[^c-ce386a0265952a4af124a9f1c732418f] Paragraph 10 shall have effect subject to—
 
 - (a) any resolution passed under section 26(1) or (4);
 - (b) any direction given under section 28; and
 - (c) the right of the Authority under section 30 to cancel or amend the permit in the circumstances referred to in section 30(1).
 
-**12.** Without prejudice to the generality of paragraph 11 the Authority may during the transitional period by resolution passed under section 26 vary the times specified in Schedule 2 to the 1992 byelaws during which water skiing is permitted.
+**12.**[^c-1b7cf39e935d32027cef6f7b8e830f3d] Without prejudice to the generality of paragraph 11 the Authority may during the transitional period by resolution passed under section 26 vary the times specified in Schedule 2 to the 1992 byelaws during which water skiing is permitted.
 
-**13.** On the relevant date the following provisions of the 1992 byelaws shall be revoked—
+**13.**[^c-d606bc9476294b62a13f8efcd5d71ab8] On the relevant date the following provisions of the 1992 byelaws shall be revoked—
 
 - paragraph 2(a) of byelaw 5 (application of speed limits);
 - byelaw 6 (water skiing);
@@ -1085,21 +1096,21 @@ Section 43(1)
 
 ### Part 4 — Pleasure boat licences
 
-**14.** In this Part of this Schedule—
+**14.**[^c-07ccb6fb8d655f7d7b63aea6d9547c82] In this Part of this Schedule—
 
 - “the appointed day” means the appointed day fixed for the purposes of section 40 (application of requirements of 1907 Act) of this Act;
 - “licence” means a licence granted under section 94 of the 1907 Act;
 - “local authority” means any local authority from which functions are transferred to the Authority under section 40.
 
-**15.** Any licence granted by a local authority and in force on the appointed day shall be deemed to have been granted by the Authority.
+**15.**[^c-6d8ec391f82926ab626ead4f20630967] Any licence granted by a local authority and in force on the appointed day shall be deemed to have been granted by the Authority.
 
-**16.** Anything done or commenced before the appointed day by or against, or in relation to, a local authority under section 94 of the 1907 Act may be continued after the appointed day by or against, or in relation to, the Authority under section 94, as it has effect in accordance with section 40 of this Act, and paragraphs 3 and 4 of this Schedule, instead of the local authority.
+**16.**[^c-476b6814a923ad0780cc56087a0575ae] Anything done or commenced before the appointed day by or against, or in relation to, a local authority under section 94 of the 1907 Act may be continued after the appointed day by or against, or in relation to, the Authority under section 94, as it has effect in accordance with section 40 of this Act, and paragraphs 3 and 4 of this Schedule, instead of the local authority.
 
 ## SCHEDULE 7 — Amendments to the Norfolk and Suffolk Broads Act 1988
 
 Section 43(2)
 
-**1.** Amend section 1 (the Broads Authority) as follows—
+**1.**[^c-b6bada80778c755aec3b064ebdcd0b0a] Amend section 1 (the Broads Authority) as follows—
 
 (1) For subsection (5) substitute—
 
@@ -1116,11 +1127,11 @@ Section 43(2)
 
 (2) Omit subsection (6).
 
-**2.** Amend section 4 (conservation of areas of natural beauty) as follows—
+**2.**[^c-46e3f15a54e8a8603913a6ac35b06003] Amend section 4 (conservation of areas of natural beauty) as follows—
 
 In subsections (4) and (5), for “The Agency” substitute “Natural England”.
 
-**3.** Amend section 8 (the navigation area) with effect from the appointed day fixed for the purposes of section 35 of this Act as follows—
+**3.**[^c-b47c4b86183c19e0b5e4abb95d569924] Amend section 8 (the navigation area) with effect from the appointed day fixed for the purposes of section 35 of this Act as follows—
 
 (1) In subsection (1), after paragraph (c) insert
 
@@ -1132,7 +1143,7 @@ In subsections (4) and (5), for “The Agency” substitute “Natural England�
 
 (2) Omit subsection (7).
 
-**4.** Amend section 9 as follows—
+**4.**[^c-d7821b61dabd35edf3384f318026c786] Amend section 9 as follows—
 
 (1) For subsection (6) substitute—
 
@@ -1158,7 +1169,7 @@ In subsections (4) and (5), for “The Agency” substitute “Natural England�
 
 .
 
-**5.** Amend section 10 (functions of Authority and others in relation to the navigation area) as follows—
+**5.**[^c-795a1308d1ac20e9d3212514e63ff47e] Amend section 10 (functions of Authority and others in relation to the navigation area) as follows—
 
 (1) After subsection (2) insert—
 
@@ -1190,13 +1201,13 @@ In subsections (4) and (5), for “The Agency” substitute “Natural England�
 
 (7) Omit subsections (14), (15) and (17)(c).
 
-**6.** For subsection (13) of section 11 (licences required for construction of works) substitute—
+**6.**[^c-0930d9b27ac81752b112beb8eed6d7b6] For subsection (13) of section 11 (licences required for construction of works) substitute—
 
 > (13) Before determining any application for a works licence the granting of which would significantly affect the use or enjoyment of the whole or any part of the navigation area, the Authority shall consult the Navigation Committee.
 
 .
 
-**7.** Amend section 13 (navigation charges) as follows—
+**7.**[^c-b315ae92fc2c7f1bec3efe6a1c13d2d4] Amend section 13 (navigation charges) as follows—
 
 (1) Omit subsections (1) and (2) and insert—
 
@@ -1210,7 +1221,7 @@ In subsections (4) and (5), for “The Agency” substitute “Natural England�
 
 .
 
-**8.** Amend section 17 (accounts and auditing) on the appointed day as follows—
+**8.**[^c-a2bf036b093b0ebaa28a0a492d491aec] Amend section 17 (accounts and auditing) on the appointed day as follows—
 
 (1) For subsection (2) substitute the following—
 
@@ -1252,7 +1263,7 @@ In subsections (4) and (5), for “The Agency” substitute “Natural England�
 
 .
 
-**9.** Amend section 25(1) (interpretation) as follows—
+**9.**[^c-9f0506d6d9f0978172ccbbe66f5d059f] Amend section 25(1) (interpretation) as follows—
 
 (1) Insert at the appropriate places—
 
@@ -1282,15 +1293,15 @@ In subsections (4) and (5), for “The Agency” substitute “Natural England�
 
 .
 
-**10.** Omit paragraph 6(b) of Schedule 1.
+**10.**[^c-df298dc8f48511f253446ae280c20768] Omit paragraph 6(b) of Schedule 1.
 
-**11.** Amend Schedule 3, paragraph 33 (code of practice for land drainage works) as follows—
+**11.**[^c-d3f2b0ab20598f9521a5226646b0ad99] Amend Schedule 3, paragraph 33 (code of practice for land drainage works) as follows—
 
 (1) In sub-paragraph (1), omit “shall” and insert “may”.
 
 (2) In sub-paragraph (2), omit “the code of practice” and insert “any code of practice issued under sub-paragraph (1) above”.
 
-**12.** As from the appointed day fixed for the purposes of section 35 amend Schedule 5 as follows—
+**12.**[^c-95c95d519df123e8e5b309d787b40a4d] As from the appointed day fixed for the purposes of section 35 amend Schedule 5 as follows—
 
 (1) Substitute for paragraph 1(3) the words—
 
@@ -1341,7 +1352,7 @@ In subsections (4) and (5), for “The Agency” substitute “Natural England�
 
 Section 43(3)
 
-### Part 1 — Enactments repealed on the coming into force of thbis Act
+### Part 1 — Enactments repealed on the coming into force of this Act[^c-96507c1734b3a4dccdd43a10c1439950]
 
 <table>
 <thead>
@@ -1358,7 +1369,7 @@ Section 43(3)
 </tbody>
 </table>
 
-### Part 2 — Enactments repealed on the appointed day
+### Part 2 — Enactments repealed on the appointed day[^c-a7d4ad7817181132bc231045bd959b6d]
 
 <table>
 <thead>
@@ -1373,7 +1384,7 @@ Section 43(3)
 </tbody>
 </table>
 
-### Part 3 — Revocations
+### Part 3 — Revocations[^c-7e03c84d381a37aebb79175c1db1277d]
 
 <table>
 <thead>
@@ -1389,3 +1400,209 @@ Section 43(3)
 <tr><td>Schedule 2 (water skiing—light sports vessels).</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-0815e2bd0f05c1d85aaa7e5e820227cc]: Commencement: S. 1 in force at Royal Assent
+
+[^c-95b5ac64329f003754d52cbea89ee334]: Commencement: S. 2 in force at Royal Assent
+
+[^c-b68a02221f36689b9821e795d39412e7]: Commencement: S. 3 in force at Royal Assent
+
+[^c-344f50c6dc231d0d3b606f4c15d84b8c]: Commencement: S. 4 in force at Royal Assent
+
+[^c-87ff914d500791730422b57a755a7d35]: Commencement: S. 5 in force at Royal Assent
+
+[^c-36dd7e301fca87eeb1ec2a66cb459f2a]: Commencement: S. 6 in force at Royal Assent
+
+[^c-97b05eb1916ef77c5fde970f2efa6572]: Commencement: S. 7 in force at Royal Assent
+
+[^c-1cfd4b91ef7193e98a618638015effb2]: Commencement: S. 8 in force at Royal Assent
+
+[^c-ddf39a23ab38be827a2dbbacbb53dd54]: Commencement: S. 9 in force at Royal Assent
+
+[^c-b41816f7222e0b3cba8239ad0ab7b602]: Commencement: S. 10 in force at Royal Assent
+
+[^c-dd25799ad1c472f1a58d145ea81d0103]: Commencement: S. 11 in force at Royal Assent
+
+[^c-c94b61b1816ea71fd5e2637290b5df84]: Commencement: S. 12 in force at Royal Assent
+
+[^c-f6dc01aa3be0aa027fd3bbf8ffd4758d]: Commencement: S. 13 in force at Royal Assent
+
+[^c-c3dc6539621a15847bfdab2a2a7b8455]: Commencement: S. 14 in force at Royal Assent
+
+[^c-1d40f364603960250cd4a9d7a6234ddd]: Commencement: S. 15 in force at Royal Assent
+
+[^c-c0bc83e5ca070e5134393585d5a05b88]: Commencement: S. 16 in force at Royal Assent
+
+[^c-d96427525570c51d72c701b4a3cba032]: Commencement: S. 17 in force at Royal Assent
+
+[^c-c5df29d66028d10fbf7663aa191c3d17]: Commencement: S. 18 in force at Royal Assent
+
+[^c-f24da1cabd5a9f6c74e6b6996782bdc8]: Commencement: S. 19 in force at Royal Assent
+
+[^c-76ea6f475599a3e0c44950f3f028f723]: Commencement: S. 20 in force at Royal Assent
+
+[^c-1fc7f5a6f8ae5ca60a100e316ed8348a]: Commencement: S. 21 in force at Royal Assent
+
+[^c-7f0ce8e6db5a11caa646f0eb5fe7e592]: Commencement: S. 22 in force at Royal Assent
+
+[^c-e6e57295040a4357c73c08f57bbd50f6]: Commencement: S. 23 in force at Royal Assent
+
+[^c-2111a83a178860e7613fb57b582956a9]: Commencement: S. 24 in force at Royal Assent
+
+[^c-24811fe30263b6dd0e98ac096675b942]: Commencement: S. 25 in force at Royal Assent
+
+[^c-00595e3a93a3d24e192e47dc33bde22b]: Commencement: S. 26 comes into force in accordance with ss. 3, 25
+
+[^c-cf14164968ef1c140774cbdd4d6f3d44]: Commencement: S. 27 comes into force in accordance with ss. 3, 25
+
+[^c-e47d23b7b8d053087b2c8dfaacd89231]: Commencement: S. 28 comes into force in accordance with ss. 3, 25
+
+[^c-024e84fafaf4aca0f09375d9a3d2f2de]: Commencement: S. 29 comes into force in accordance with ss. 3, 25
+
+[^c-f09881bf730f5430ff6c5ea35627ebc6]: Commencement: S. 30 comes into force in accordance with ss. 3, 25
+
+[^c-d917aa48aafa0849932a1c7d436a6e8a]: Commencement: S. 31 comes into force in accordance with ss. 3, 25
+
+[^c-12fccb5cf03a06c29063382952dfbac8]: Commencement: S. 32 comes into force in accordance with ss. 3, 25
+
+[^c-109ed4afef1f2ac509b7f91d418785b1]: Commencement: S. 33 in force at Royal Assent
+
+[^c-d1f59c47f080b4741d18d2e42b4a6043]: Commencement: S. 34 in force at Royal Assent
+
+[^c-7eb518b958fc0e94ddeac5d44afdeeec]: Commencement: S. 35 in force at Royal Assent
+
+[^c-a0bb1cf6b041dbfb4a20402e9c9b9af7]: Commencement: S. 36 in force at Royal Assent
+
+[^c-2c759c3eb3361f9e135e44826e89c527]: Commencement: S. 37 in force at Royal Assent
+
+[^c-263eb6a93d20f593ec35c8a9121fb396]: Commencement: S. 38 in force at Royal Assent
+
+[^c-eb8671cfa1965de1fc5e101a9a3b17b2]: Textual amendment: Words in [s. 38(3)](https://www.legislation.gov.uk/ukla/2009/1/section/38/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 162(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/162/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^c-d77a7afabfa57bd3433a3ec55ebd5067]: Textual amendment: Words in [s. 38(6)](https://www.legislation.gov.uk/ukla/2009/1/section/38/6) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 162(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/162/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^c-9d2265fa748f0085d0c4039faa33d1ab]: Commencement: S. 39 in force at Royal Assent
+
+[^c-2706d593e4789e5c4a5f487cdb3d018c]: Commencement: S. 40 in force at Royal Assent
+
+[^c-59badc705293b62343eaf1a401080660]: Commencement: S. 41 in force at Royal Assent
+
+[^c-5b5cf7f89f0bb05f56c59c9cc1f5fcee]: Commencement: S. 42 in force at Royal Assent
+
+[^c-5c1d5171444082086b3be02cc027657a]: Commencement: S. 43 in force at Royal Assent
+
+[^c-cb7fd8068ec540a8610ee7188e5ffcca]: Commencement: Sch. 1 para. 1 in force at Royal Assent
+
+[^c-6a543b2cfb475109bf2ef9bcc76fc62c]: Commencement: Sch. 1 para. 2 in force at Royal Assent
+
+[^c-34cc9a2c1aeb6798b7ba26416ac4ea32]: Commencement: Sch. 1 para. 3 in force at Royal Assent
+
+[^c-369bea5457a7a3af38cd23b6eda6bfd0]: Commencement: Sch. 1 para. 4 in force at Royal Assent
+
+[^c-1279a7a57f5fc154687ef467a2003435]: Commencement: Sch. 1 para. 5 in force at Royal Assent
+
+[^c-f01c16028c4a8c56c3ec2a9186bc6545]: Commencement: Sch. 1 para. 6 in force at Royal Assent
+
+[^c-343df97caf478bf6ba8ea14bf063d370]: Commencement: Sch. 1 para. 7 in force at Royal Assent
+
+[^c-355faaebb059355a76c3afe1a745fcbe]: Commencement: Sch. 1 para. 8 in force at Royal Assent
+
+[^c-f89d96f68bdc706b09e9302444f4c091]: Commencement: Sch. 1 para. 9 in force at Royal Assent
+
+[^c-c0919681b51e7328f4a0bba758c70806]: Commencement: Sch. 1 para. 10 in force at Royal Assent
+
+[^c-e8bf45453a00174679b642f9a89e989a]: Commencement: Sch. 2 para. 1 in force at Royal Assent
+
+[^c-f4182cc34be4cfcefe2cf0064576665e]: Commencement: Sch. 2 para. 2 in force at Royal Assent
+
+[^c-a1c3c2a40c85b54b6960e7ed5206cf64]: Commencement: Sch. 2 para. 3 in force at Royal Assent
+
+[^c-94ca0309cd06889499b1ab35b1cf0359]: Commencement: Sch. 2 para. 4 in force at Royal Assent
+
+[^c-11b15f57cc679ce27be75081a0e1a3c4]: Commencement: Sch. 2 para. 5 in force at Royal Assent
+
+[^c-36153fbd55d089c8425cbe280f167ca5]: Commencement: Sch. 2 para. 6 in force at Royal Assent
+
+[^c-5dba39a26b99573eaed9b0766272ebf8]: Commencement: Sch. 2 para. 7 in force at Royal Assent
+
+[^c-2898151afd47a78df929cd0e8a9a8074]: Commencement: Sch. 2 para. 8 in force at Royal Assent
+
+[^c-b11431548bd5a70550608699ec053db3]: Commencement: Sch. 2 para. 9 in force at Royal Assent
+
+[^c-972d30acd362e8c634e6aabd7e2fa4f4]: Commencement: Sch. 2 para. 10 in force at Royal Assent
+
+[^c-1c6276aa370ed2891bdf2f47d065bce6]: Commencement: Sch. 3 para. 1 in force at Royal Assent
+
+[^c-311e8e7b83d0aa36248b804a4c16eff9]: Commencement: Sch. 3 para. 2 in force at Royal Assent
+
+[^c-b8c5e22ffdfaea1a7366a41198e79d92]: Commencement: Sch. 3 para. 3 in force at Royal Assent
+
+[^c-8d44cd8e27d4f8a09013da0624072bce]: Commencement: Sch. 3 para. 4 in force at Royal Assent
+
+[^c-5cfbc794a006f4c197786040a2f9f91a]: Commencement: Sch. 4 in force at Royal Assent
+
+[^c-0a027cf070eb60a484936c6a190b1c58]: Commencement: Sch. 5 in force at Royal Assent
+
+[^c-bc8f2b2f4e449858f2e5b3db1eef513e]: Commencement: Sch. 6 para. 1 in force at Royal Assent
+
+[^c-6b90155a81ed01fc752ff143effc4304]: Commencement: Sch. 6 para. 2 in force at Royal Assent
+
+[^c-1ae8751e598a10e78a0e1d523951dc12]: Commencement: Sch. 6 para. 3 in force at Royal Assent
+
+[^c-3fce0df530d8e94e7809dd6ec16c3cf5]: Commencement: Sch. 6 para. 4 in force at Royal Assent
+
+[^c-6a6801eb3e4c3995414455676cd86f24]: Commencement: Sch. 6 para. 5 in force at Royal Assent
+
+[^c-4ccb698995990ad72e91674cecd4a8b0]: Commencement: Sch. 6 para. 6 in force at Royal Assent
+
+[^c-968237efa8f4409e4a0846bf6ef82838]: Commencement: Sch. 6 para. 7 in force at Royal Assent
+
+[^c-53de5ff08ec95ef2881c10edf7ceb60d]: Commencement: Sch. 6 para. 8 in force at Royal Assent
+
+[^c-662f30336cb599c99f23d5aea7934452]: Commencement: Sch. 6 para. 9 in force at Royal Assent
+
+[^c-7407a66c7048d5c6e2c4e2cd260f1230]: Commencement: Sch. 6 para. 10 in force at Royal Assent
+
+[^c-ce386a0265952a4af124a9f1c732418f]: Commencement: Sch. 6 para. 11 in force at Royal Assent
+
+[^c-1b7cf39e935d32027cef6f7b8e830f3d]: Commencement: Sch. 6 para. 12 in force at Royal Assent
+
+[^c-d606bc9476294b62a13f8efcd5d71ab8]: Commencement: Sch. 6 para. 13 in force at Royal Assent
+
+[^c-07ccb6fb8d655f7d7b63aea6d9547c82]: Commencement: Sch. 6 para. 14 in force at Royal Assent
+
+[^c-6d8ec391f82926ab626ead4f20630967]: Commencement: Sch. 6 para. 15 in force at Royal Assent
+
+[^c-476b6814a923ad0780cc56087a0575ae]: Commencement: Sch. 6 para. 16 in force at Royal Assent
+
+[^c-b6bada80778c755aec3b064ebdcd0b0a]: Commencement: Sch. 7 para. 1 in force at Royal Assent
+
+[^c-46e3f15a54e8a8603913a6ac35b06003]: Commencement: Sch. 7 para. 2 in force at Royal Assent
+
+[^c-b47c4b86183c19e0b5e4abb95d569924]: Commencement: Sch. 7 para. 3 in force at Royal Assent
+
+[^c-d7821b61dabd35edf3384f318026c786]: Commencement: Sch. 7 para. 4 in force at Royal Assent
+
+[^c-795a1308d1ac20e9d3212514e63ff47e]: Commencement: Sch. 7 para. 5 in force at Royal Assent
+
+[^c-0930d9b27ac81752b112beb8eed6d7b6]: Commencement: Sch. 7 para. 6 in force at Royal Assent
+
+[^c-b315ae92fc2c7f1bec3efe6a1c13d2d4]: Commencement: Sch. 7 para. 7 in force at Royal Assent
+
+[^c-a2bf036b093b0ebaa28a0a492d491aec]: Commencement: Sch. 7 para. 8 in force at Royal Assent
+
+[^c-9f0506d6d9f0978172ccbbe66f5d059f]: Commencement: Sch. 7 para. 9 in force at Royal Assent
+
+[^c-df298dc8f48511f253446ae280c20768]: Commencement: Sch. 7 para. 10 in force at Royal Assent
+
+[^c-d3f2b0ab20598f9521a5226646b0ad99]: Commencement: Sch. 7 para. 11 in force at Royal Assent
+
+[^c-95c95d519df123e8e5b309d787b40a4d]: Commencement: Sch. 7 para. 12 in force at Royal Assent
+
+[^c-96507c1734b3a4dccdd43a10c1439950]: Commencement: Sch. 8 Pt. 1 in force at Royal Assent, see [s. 43(3)](https://www.legislation.gov.uk/ukla/2009/1/section/43/3)
+
+[^c-a7d4ad7817181132bc231045bd959b6d]: Commencement: Sch. 8 Pt. 2 comes into force in accordance with ss. 3, 43(4)
+
+[^c-7e03c84d381a37aebb79175c1db1277d]: Commencement: Sch. 8 Pt. 3 comes into force in accordance with ss. 3, 25, 43(5), Sch. 6 para. 7

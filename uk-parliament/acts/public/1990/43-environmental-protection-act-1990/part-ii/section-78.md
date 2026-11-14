@@ -27,7 +27,7 @@ Except as provided by regulations made by the Secretary of State under this sect
 - (a) provide for prescribed provisions of this Part to have effect with such modifications as the Secretary of State considers appropriate for the purposes of dealing with such radioactive waste;
 - (b) make such modifications of the Environmental Permitting Regulations in relation to such radioactive waste, and any Act or other enactment,[^c20958011] as the Secretary of State considers appropriate.
 
-## 78. This Part and radioactive substances.[^c19495321][^c19495311][^c13739691][^c20958101]
+## 78. This Part and radioactive substances.[^c19495321][^c19495311][^c13739691][^c20958101][^c13739731]
 
 *Extent: S*
 
@@ -53,6 +53,8 @@ Except as provided by regulations made by the Secretary of State under this sect
 [^c20958011]: Textual amendment: Words in s. 78(b) substituted (E.W.) (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [107](https://www.legislation.gov.uk/uksi/2010/675/regulation/107), [Sch. 26 para. 5(9)(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/5/9/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
 
 [^c20958101]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13739701]: Marginal citation: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
 

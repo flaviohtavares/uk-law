@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 33
 act: London Local Authorities Act 2007
 section: '33'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/33
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,26 +12,30 @@ summary: ''
 
 # London Local Authorities Act 2007, section 33
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 33. Hostess bars
+## 33. Hostess bars[^c-ad5cfd462203500abcfd370f67b2f5b0][^c-7191a48859792c160407252bc9ac0e98]
 
-(1) This section shall come into operation—
+*Extent: E+W*
+
+(1)[^c-ad5cfd462203500abcfd370f67b2f5b0] This section shall come into operation—
 
 - (a) at the end of the period of two months beginning with the date on which this Act is passed, as regards the City of Westminster;
 - (b) as from the appointed day as regards any other borough, where the borough council have resolved in accordance with subsection (1) of section 12 (amendment of law relating to sex establishments) of the [Greater London Council (General Powers) Act 1986 (c. iv)](https://www.legislation.gov.uk/ukla/1986/4) that the amendments to Schedule 3 to the Local Government (Miscellaneous Provisions) Act [1982 (c. 30)](https://www.legislation.gov.uk/ukpga/1982/30) set out in subsection (4) of that section shall apply in their area.
 
-(2) The said Schedule 3 shall apply in the area of the borough as follows.
+(2)[^c-7191a48859792c160407252bc9ac0e98] The said Schedule 3 shall apply in the area of the borough as follows.
 
-(3) In paragraph 2, after the words “sex encounter establishment” the words “, a hostess bar” are inserted.
+(3)[^c-7191a48859792c160407252bc9ac0e98] In paragraph 2, after the words “sex encounter establishment” the words “, a hostess bar” are inserted.
 
-(4) Paragraph 3A (inserted, as far as that Schedule applies in Greater London, by section 12 of the Greater London Council (General Powers) Act 1986) is renumbered as sub-paragraph 3A(1) and the following sub-paragraph is inserted after it—
+(4)[^c-7191a48859792c160407252bc9ac0e98] Paragraph 3A (inserted, as far as that Schedule applies in Greater London, by section 12 of the Greater London Council (General Powers) Act 1986) is renumbered as sub-paragraph 3A(1) and the following sub-paragraph is inserted after it—
 
 > (2) In sub-paragraph (1) above, “premises” includes any vehicle, vessel or stall.
 
 .
 
-(5) After paragraph 3A, the following paragraph is inserted—
+(5)[^c-7191a48859792c160407252bc9ac0e98] After paragraph 3A, the following paragraph is inserted—
 
 > **3B. Meaning of “hostess bar”**
 >
@@ -62,9 +66,9 @@ summary: ''
 
 .
 
-(6) In paragraphs 13(2)(a) and (b) after the words “sex establishments” there shall be inserted the words “, hostess bars”.
+(6)[^c-7191a48859792c160407252bc9ac0e98] In paragraphs 13(2)(a) and (b) after the words “sex establishments” there shall be inserted the words “, hostess bars”.
 
-(7) For paragraph 13(3)(d) there shall be substituted the following sub-paragraph—
+(7)[^c-7191a48859792c160407252bc9ac0e98] For paragraph 13(3)(d) there shall be substituted the following sub-paragraph—
 
 > - (d) any change—
 >   - (i) of a sex cinema to a sex shop, a sex encounter establishment, or hostess bar;
@@ -73,3 +77,9 @@ summary: ''
 >   - (iv) of a hostess bar to a sex cinema, a sex shop or a sex encounter establishment.
 
 .
+
+## Annotations
+
+[^c-ad5cfd462203500abcfd370f67b2f5b0]: Commencement: [S. 33(1)](https://www.legislation.gov.uk/ukla/2007/2/section/33/1) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)
+
+[^c-7191a48859792c160407252bc9ac0e98]: Commencement: [S. 33(2)-(7)](https://www.legislation.gov.uk/ukla/2007/2/section/33/2) comes into force in accordance with ss. 1(4), 3

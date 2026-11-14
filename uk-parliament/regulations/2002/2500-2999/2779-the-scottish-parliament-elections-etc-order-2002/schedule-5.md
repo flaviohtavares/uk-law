@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 5
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: schedule-5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
 ## SCHEDULE 5 — COMBINATION OF POLLS
+
+*Extent: S*
 
 Article 13(5)
 
@@ -202,7 +206,7 @@ Local elections rules: declaration to be made by the companion of a voter with d
 
 ### PART 1 — GENERAL
 
-#### 1. Returning officers and polling stations
+#### 1. Returning officers and polling stations[^c-d678f2f69cbacac1bba5a1e36f4a7b2c]
 
 (1) Where the polls at a Scottish parliamentary general election and an ordinary local government election are taken together under article 14(1)–
 
@@ -214,7 +218,7 @@ Local elections rules: declaration to be made by the companion of a voter with d
 - (a) the returning officers for those elections shall decide which returning officer shall discharge in the area in which the polls are combined (“the combined area”) those functions of the other which are specified in paragraph 2 below; and
 - (b) the only polling stations which shall be used in the combined area at such elections are the polling stations used at the election for which the returning officer who discharges the functions referred to above acts as returning officer.
 
-#### 2. Functions at combined polls
+#### 2. Functions at combined polls[^c-7d4a9f70407de81110f87afdcd549d6e]
 
 (1) The functions referred to in paragraph 1 above are the functions conferred or imposed–
 
@@ -235,7 +239,7 @@ and, where the proceedings on the issue and receipt of postal ballot papers at t
 - (h) rule 42(2)(b) (authorisation to order removal from polling station); and
 - (i) in rule 54, paragraph (1) (the count) (as substituted by paragraph 18 of this Schedule) and paragraph (5).
 
-#### 3. Modification of provisions about expenses in this Order and the 1983 Act
+#### 3. Modification of provisions about expenses in this Order and the 1983 Act[^c-d686d9814d5e7282c316105f985b3a88]
 
 (1) Where those functions of a returning officer at an election which are specified in paragraph 2 above are discharged by the returning officer at another election under paragraph 1 above, references to the returning officer or his charges or expenditure–
 
@@ -251,11 +255,11 @@ shall, to the extent that such functions are so discharged, be construed as refe
 
 ### PART II — MODIFICATIONS OF THE SCOTTISH PARLIAMENTARY ELECTION RULES TO APPLY WHERE THE POLL AT A SCOTTISH PARLIAMENTARY ELECTION IS TAKEN TOGETHER WITH A POLL AT A LOCAL GOVERNMENT ELECTION UNDER ARTICLE 14(1) OR (2)
 
-#### 4. Modifications of the Scottish Parliamentary Election Rules: general provision
+#### 4. Modifications of the Scottish Parliamentary Election Rules: general provision[^c-d2d927817d39835c8c8fcee93e08c69c]
 
 Where the poll at a Scottish parliamentary election is taken with the poll at a local government election under article 14(1) or (2), the Scottish Parliamentary Election Rules in Schedule 2 to this Order shall have effect subject to the modifications set out in the remaining paragraphs of this Part.
 
-#### 5. Rule 29 (colour of ballot papers)
+#### 5. Rule 29 (colour of ballot papers)[^c-b9caddbc2fce53549aebab46159093de]
 
 At the end of rule 29 there shall be added–
 
@@ -263,7 +267,7 @@ At the end of rule 29 there shall be added–
 
 .
 
-#### 6. Rule 33 (notice of poll)
+#### 6. Rule 33 (notice of poll)[^c-762595ecb240c5593373ed715c0a7080]
 
 At the end of rule 33 there shall be added–
 
@@ -275,7 +279,7 @@ At the end of rule 33 there shall be added–
 
 .
 
-#### 7. Rule 37 (issue of official poll cards and notifications)
+#### 7. Rule 37 (issue of official poll cards and notifications)[^c-ec3e336d0012d05624befc8e62c4a340]
 
 At the end of rule 37 there shall be added–
 
@@ -283,7 +287,7 @@ At the end of rule 37 there shall be added–
 
 .
 
-#### 8. Rule 38 (equipment of polling stations)
+#### 8. Rule 38 (equipment of polling stations)[^c-8abf69720387128acee63fc921e099bd]
 
 After paragraph (1) of rule 38 there shall be added–
 
@@ -291,7 +295,7 @@ After paragraph (1) of rule 38 there shall be added–
 
 .
 
-#### 9. Rule 39 (appointment of polling and counting agents)
+#### 9. Rule 39 (appointment of polling and counting agents)[^c-0890c6ec517cefa1966a42fd257dadee]
 
 At the end of paragraph (5) of rule 39 there shall be added–
 
@@ -299,11 +303,11 @@ At the end of paragraph (5) of rule 39 there shall be added–
 
 .
 
-#### 10. Rule 44 (questions to be put to voters)
+#### 10. Rule 44 (questions to be put to voters)[^c-30834008bc894d8094e5cd31c9ab65d7]
 
 In question (ii) in paragraph (1)(a) and (b) of rule 44 and in the second question of paragraph (2) of that rule before “election” there shall be inserted “Scottish parliamentary”.
 
-#### 11. Rule 46 (voting procedure)
+#### 11. Rule 46 (voting procedure)[^c-649862633e146fcf93308932ec013e95]
 
 At the end of rule 46 there shall be added–
 
@@ -311,7 +315,7 @@ At the end of rule 46 there shall be added–
 
 .
 
-#### 12. Rule 47 (votes marked by presiding officer)
+#### 12. Rule 47 (votes marked by presiding officer)[^c-97a3c7cc41d6f4df9fc0acb52c8533d6]
 
 At the end of rule 47 there shall be added–
 
@@ -319,7 +323,7 @@ At the end of rule 47 there shall be added–
 
 .
 
-#### 13. Rule 48 (voting by persons with disabilities)
+#### 13. Rule 48 (voting by persons with disabilities)[^c-008558cf90015a23b3d4dc7d9122345e]
 
 At the end of rule 48 there shall be added–
 
@@ -327,7 +331,7 @@ At the end of rule 48 there shall be added–
 
 .
 
-#### 14. Rule 49 (tendered ballot papers)
+#### 14. Rule 49 (tendered ballot papers)[^c-f81194c2ef48c819fa610ccfa7d72569]
 
 At the end of rule 49 there shall be added–
 
@@ -335,7 +339,7 @@ At the end of rule 49 there shall be added–
 
 .
 
-#### 15. Rule 51 (adjournment of poll in case of riot)
+#### 15. Rule 51 (adjournment of poll in case of riot)[^c-3029a1e4db625681648cecb733ee1abe]
 
 In rule 51(1) for the words “constituency returning officer” there shall be substituted–
 
@@ -343,7 +347,7 @@ In rule 51(1) for the words “constituency returning officer” there shall be 
 
 .
 
-#### 16. Rule 52 (procedure on close of poll)
+#### 16. Rule 52 (procedure on close of poll)[^c-903d16a8c2624ded03c84021639cb4fc]
 
 After rule 52(1) there shall be added–
 
@@ -353,7 +357,7 @@ After rule 52(1) there shall be added–
 
 .
 
-#### 17. Rule 53 (attendance at counting of votes)
+#### 17. Rule 53 (attendance at counting of votes)[^c-65ce77f7cd48fd45f1e4cd190cbbf2ba]
 
 (1) For paragraph (1) of rule 53 there shall be substituted the following paragraphs:–
 
@@ -379,7 +383,7 @@ After rule 52(1) there shall be added–
 
 .
 
-#### 18. Rule 54 (the count)
+#### 18. Rule 54 (the count)[^c-3a7aed353c0772b687f13fc6cb84212d]
 
 For rule 54(1) there shall be substituted–
 
@@ -407,7 +411,7 @@ For rule 54(1) there shall be substituted–
 
 .
 
-#### 19. Rule 68 (delivery of documents to the sheriff clerk)
+#### 19. Rule 68 (delivery of documents to the sheriff clerk)[^c-fe77dbe0ead86782f34268b901ec628c]
 
 At the end of rule 68(1) there shall be added–
 
@@ -415,7 +419,7 @@ At the end of rule 68(1) there shall be added–
 
 .
 
-#### 20. Rule 71 (countermand or abandonment of poll etc. on death of candidate)
+#### 20. Rule 71 (countermand or abandonment of poll etc. on death of candidate)[^c-694e29d72730548b2217b633a5a47ace]
 
 (1) At the end of paragraph (1) of rule 71 there shall be added–
 
@@ -432,23 +436,23 @@ At the end of rule 68(1) there shall be added–
 
 .
 
-#### 21. Form of directions for the guidance of the voters in voting in Schedule 5
+#### 21. Form of directions for the guidance of the voters in voting in Schedule 5[^c-c827f9ce274ecd88cbd2268814f69744]
 
 In the Appendix of Forms, for form P (giving information to voters, referred to in rule 38(12)), there shall be substituted form X set out in the Appendix.
 
 ### PART III — MODIFICATIONS OF THE SCOTTISH LOCAL GOVERNMENT ELECTIONS RULES 2002 TO APPLY WHERE THE POLL AT A LOCAL GOVERNMENT ELECTION IS TAKEN TOGETHER WITH A POLL AT A SCOTTISH PARLIAMENTARY ELECTION UNDER ARTICLE 14(1) OR (2)
 
-#### 22. Modifications of the local elections rules: general provision
+#### 22. Modifications of the local elections rules: general provision[^c-4286f2d47c4e960ac6f0270ce378283e]
 
 (1) Where the poll at a local government election is taken together with the poll at a Scottish parliamentary election under article 14(1) or (2), Schedule 2 to the Scottish Local Government Elections Rules 2002[^f00051] shall have effect subject to the modifications set out in the remaining paragraphs of this Part.
 
 (2) In this Part the rules referred to in sub-paragraph (1) above are referred to as “the local elections rules”.
 
-#### 23. Rule 1 of the local elections rules (timetable)
+#### 23. Rule 1 of the local elections rules (timetable)[^c-4248044efc27901f9713d0f028a47f27]
 
 In rule 1 of the local elections rules, in the entry relating to polling, for “8.00 am and 9.00 pm” there shall be substituted “7.00 am and 10.00 pm”.
 
-#### 24. Rule 13 of the local elections rules (the ballot papers)
+#### 24. Rule 13 of the local elections rules (the ballot papers)[^c-99f475274460e0191c096ad2b37525cc]
 
 (1) At the end of rule 13(2) of the local elections rules there shall be added–
 
@@ -462,7 +466,7 @@ In rule 1 of the local elections rules, in the entry relating to polling, for �
 
 .
 
-#### 25. Rule 17 of the local elections rules (notice of poll)
+#### 25. Rule 17 of the local elections rules (notice of poll)[^c-5aef73a809a1c8a7afc0accff033d59a]
 
 At the end of rule 17 of the local elections rules there shall be added–
 
@@ -474,7 +478,7 @@ At the end of rule 17 of the local elections rules there shall be added–
 
 .
 
-#### 26. Rule 21 of the local elections rules (issue of official poll cards and notifications)
+#### 26. Rule 21 of the local elections rules (issue of official poll cards and notifications)[^c-e4b4af5a9ec28a751a4ae97801a2d0cc]
 
 At the end of rule 21 of the local elections rules there shall be added–
 
@@ -482,7 +486,7 @@ At the end of rule 21 of the local elections rules there shall be added–
 
 .
 
-#### 27. Rule 22 of the local elections rules (equipment of polling stations)
+#### 27. Rule 22 of the local elections rules (equipment of polling stations)[^c-f4d7c8741f6e1431ccf5030082df6e39]
 
 (1) After paragraph (1) of rule 22 of the local elections rules there shall be added–
 
@@ -500,7 +504,7 @@ At the end of rule 21 of the local elections rules there shall be added–
 
 .
 
-#### 28. Rule 23 of the local elections rules (appointment of polling and counting agents)
+#### 28. Rule 23 of the local elections rules (appointment of polling and counting agents)[^c-3de70974d110a7d3e524b62cc1801dd1]
 
 At the end of rule 23(3) of the local elections rules there shall be added–
 
@@ -508,11 +512,11 @@ At the end of rule 23(3) of the local elections rules there shall be added–
 
 .
 
-#### 29. Rule 28 of the local elections rules (questions to be put to voters)
+#### 29. Rule 28 of the local elections rules (questions to be put to voters)[^c-163307b5c81e575cc38117e54542d631]
 
 In question (ii) in sub-paragraphs (a) and (b) of paragraph (1) of rule 28 of the local elections rules and in the second question of paragraph (2) of that rule, after the words “this election” there shall be added the words “for this local government area”.
 
-#### 30. Rule 30 of the local elections rules (voting procedure)
+#### 30. Rule 30 of the local elections rules (voting procedure)[^c-56c5c7810d77266c893568a8e0ddd429]
 
 At the end of rule 30 of the local elections rules there shall be added–
 
@@ -520,7 +524,7 @@ At the end of rule 30 of the local elections rules there shall be added–
 
 .
 
-#### 31. Rule 31 of the local elections rules (votes marked by presiding officer)
+#### 31. Rule 31 of the local elections rules (votes marked by presiding officer)[^c-a7fa459e7456d4505081d52695b1db5f]
 
 At the end of rule 31(2) of the local elections rules there shall be added–
 
@@ -528,7 +532,7 @@ At the end of rule 31(2) of the local elections rules there shall be added–
 
 .
 
-#### 32. Rule 32 of the local elections rules (voting by persons with disabilities)
+#### 32. Rule 32 of the local elections rules (voting by persons with disabilities)[^c-dc665f308ac93ca3e15e011591d9f14a]
 
 At the end of rule 32(4) of the local elections rules there shall be added–
 
@@ -536,7 +540,7 @@ At the end of rule 32(4) of the local elections rules there shall be added–
 
 .
 
-#### 33. Rule 33 of the local elections rules (tendered ballot papers)
+#### 33. Rule 33 of the local elections rules (tendered ballot papers)[^c-065735716f6527e470e0303ddac5a349]
 
 At the end of rule 33(3) of the local election rules there shall be added–
 
@@ -544,11 +548,11 @@ At the end of rule 33(3) of the local election rules there shall be added–
 
 .
 
-#### 34. Rule 35 of the local elections rules (adjournment of poll in case of riot)
+#### 34. Rule 35 of the local elections rules (adjournment of poll in case of riot)[^c-66cfe75536cef5a6633610a8750dc961]
 
 At the end of paragraph (1) of rule 35 of the local elections rules there shall be inserted the words “who discharges the functions specified in paragraph 2 of Schedule 5 to the Scottish Parliament (Elections etc.) Order 2002.”.
 
-#### 35. Rule 36 of the local elections rules (procedure on close of poll)
+#### 35. Rule 36 of the local elections rules (procedure on close of poll)[^c-b374c33562dc01ecf90b43263025ca39]
 
 After rule 36(1) of the local elections rules there shall be added–
 
@@ -558,7 +562,7 @@ After rule 36(1) of the local elections rules there shall be added–
 
 .
 
-#### 36. Rule 37 of the local elections rules (attendance at counting of votes)
+#### 36. Rule 37 of the local elections rules (attendance at counting of votes)[^c-e63a4aba498a3c72fd36f449809dba61]
 
 (1) For rule 37(1) of the local elections rules there shall be substituted–
 
@@ -572,7 +576,7 @@ After rule 36(1) of the local elections rules there shall be added–
 
 (3) In paragraph (3) of rule 37 before the words “counting of votes” in the first place where they occur, there shall be inserted the words “proceedings under rule 38(1) (as so substituted) or the,” and before the words “the efficient” there shall be inserted the words “the efficient separating of the ballot papers or, as the case may be,”.
 
-#### 37. Rule 38 of the local elections rules (the count)
+#### 37. Rule 38 of the local elections rules (the count)[^c-f3f41206a3ce9982e3e452fff589f3f6]
 
 (1) For paragraph (1) of rule 38 of the local elections rules there shall be substituted the following paragraphs–
 
@@ -601,7 +605,7 @@ After rule 36(1) of the local elections rules there shall be added–
 
 .
 
-#### 38. Rule 45 of the local elections rules (delivery of documents)
+#### 38. Rule 45 of the local elections rules (delivery of documents)[^c-c964b173cc5e1d484d5ad1e161a20529]
 
 At the end of rule 45 of the local elections rules there shall be added–
 
@@ -609,7 +613,7 @@ At the end of rule 45 of the local elections rules there shall be added–
 
 .
 
-#### 39. Rule 48 of local elections rules (countermand or abandonment of poll on death of candidate)
+#### 39. Rule 48 of local elections rules (countermand or abandonment of poll on death of candidate)[^c-648cf4f8d7c585c5eb8ac396a31a6e6b]
 
 (1) At the end of rule 48(1) of the local elections rules there shall be added–
 
@@ -626,24 +630,108 @@ At the end of rule 45 of the local elections rules there shall be added–
 
 .
 
-#### 40. Local elections rules: declaration of identity
+#### 40. Local elections rules: declaration of identity[^c-0fd1b709afbfe4ae32176e5f033f4978]
 
 In the Appendix of forms in Schedule 2 to the local elections rules, for the form of declaration of identity there shall be substituted form U or, as the case may be, Y set out in the Appendix to this Order.
 
-#### 41. Local elections rules: elector’s official poll card and notification
+#### 41. Local elections rules: elector’s official poll card and notification[^c-b7f06a5804bdf34f9fcb15a88d90c502]
 
 In the Appendix of forms in Schedule 2 to the local elections rules, in the form of an elector’s official poll card and the form of a proxy’s official notification for “8.00 am to 9.00 pm” there shall be substituted “7.00 am to 10.00 pm”.
 
-#### 42. Local elections rules: declaration to be made by the companion of a voter with disabilities
+#### 42. Local elections rules: declaration to be made by the companion of a voter with disabilities[^c-ea4067aa4a2c9a3726c10a5817ad2375]
 
 In the Appendix of forms in Schedule 2 to the local elections rules, in the form of declaration to be made by the companion of a voter with disabilities, after “this election” wherever occurring add “and the election now being held in this Scottish parliamentary constituency”.
 
 ## Annotations
 
+[^c-d678f2f69cbacac1bba5a1e36f4a7b2c]: Commencement: Sch. 5 para. 1 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-7d4a9f70407de81110f87afdcd549d6e]: Commencement: Sch. 5 para. 2 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
 [^f00048]: Footnote: The current rules are the Scottish Local Government Elections Rules 2002 ([S.S.I. 2002/457](https://www.legislation.gov.uk/ssi/2002/457)).
 
 [^f00049]: Footnote: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497) as amended by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), regulations 11, 12 and 13.
 
+[^c-d686d9814d5e7282c316105f985b3a88]: Commencement: Sch. 5 para. 3 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
 [^f00050]: Footnote: Section 29 was amended by the 2000 Political Parties Act, Schedule 21, para 6(3).
 
+[^c-d2d927817d39835c8c8fcee93e08c69c]: Commencement: Sch. 5 para. 4 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-b9caddbc2fce53549aebab46159093de]: Commencement: Sch. 5 para. 5 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-762595ecb240c5593373ed715c0a7080]: Commencement: Sch. 5 para. 6 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-ec3e336d0012d05624befc8e62c4a340]: Commencement: Sch. 5 para. 7 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-8abf69720387128acee63fc921e099bd]: Commencement: Sch. 5 para. 8 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-0890c6ec517cefa1966a42fd257dadee]: Commencement: Sch. 5 para. 9 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-30834008bc894d8094e5cd31c9ab65d7]: Commencement: Sch. 5 para. 10 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-649862633e146fcf93308932ec013e95]: Commencement: Sch. 5 para. 11 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-97a3c7cc41d6f4df9fc0acb52c8533d6]: Commencement: Sch. 5 para. 12 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-008558cf90015a23b3d4dc7d9122345e]: Commencement: Sch. 5 para. 13 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-f81194c2ef48c819fa610ccfa7d72569]: Commencement: Sch. 5 para. 14 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-3029a1e4db625681648cecb733ee1abe]: Commencement: Sch. 5 para. 15 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-903d16a8c2624ded03c84021639cb4fc]: Commencement: Sch. 5 para. 16 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-65ce77f7cd48fd45f1e4cd190cbbf2ba]: Commencement: Sch. 5 para. 17 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-3a7aed353c0772b687f13fc6cb84212d]: Commencement: Sch. 5 para. 18 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-fe77dbe0ead86782f34268b901ec628c]: Commencement: Sch. 5 para. 19 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-694e29d72730548b2217b633a5a47ace]: Commencement: Sch. 5 para. 20 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-c827f9ce274ecd88cbd2268814f69744]: Commencement: Sch. 5 para. 21 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-4286f2d47c4e960ac6f0270ce378283e]: Commencement: Sch. 5 para. 22 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
 [^f00051]: Footnote: S.S.I. .[2002/457](https://www.legislation.gov.uk/ssi/2002/457).
+
+[^c-4248044efc27901f9713d0f028a47f27]: Commencement: Sch. 5 para. 23 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-99f475274460e0191c096ad2b37525cc]: Commencement: Sch. 5 para. 24 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-5aef73a809a1c8a7afc0accff033d59a]: Commencement: Sch. 5 para. 25 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-e4b4af5a9ec28a751a4ae97801a2d0cc]: Commencement: Sch. 5 para. 26 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-f4d7c8741f6e1431ccf5030082df6e39]: Commencement: Sch. 5 para. 27 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-3de70974d110a7d3e524b62cc1801dd1]: Commencement: Sch. 5 para. 28 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-163307b5c81e575cc38117e54542d631]: Commencement: Sch. 5 para. 29 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-56c5c7810d77266c893568a8e0ddd429]: Commencement: Sch. 5 para. 30 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-a7fa459e7456d4505081d52695b1db5f]: Commencement: Sch. 5 para. 31 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-dc665f308ac93ca3e15e011591d9f14a]: Commencement: Sch. 5 para. 32 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-065735716f6527e470e0303ddac5a349]: Commencement: Sch. 5 para. 33 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-66cfe75536cef5a6633610a8750dc961]: Commencement: Sch. 5 para. 34 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-b374c33562dc01ecf90b43263025ca39]: Commencement: Sch. 5 para. 35 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-e63a4aba498a3c72fd36f449809dba61]: Commencement: Sch. 5 para. 36 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-f3f41206a3ce9982e3e452fff589f3f6]: Commencement: Sch. 5 para. 37 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-c964b173cc5e1d484d5ad1e161a20529]: Commencement: Sch. 5 para. 38 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-648cf4f8d7c585c5eb8ac396a31a6e6b]: Commencement: Sch. 5 para. 39 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-0fd1b709afbfe4ae32176e5f033f4978]: Commencement: Sch. 5 para. 40 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-b7f06a5804bdf34f9fcb15a88d90c502]: Commencement: Sch. 5 para. 41 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-ea4067aa4a2c9a3726c10a5817ad2375]: Commencement: Sch. 5 para. 42 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

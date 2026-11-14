@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1964-06-10'
-text_date: '2026-10-23'
+text_date: '2026-11-05'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1964/40
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1964/40/pdfs/ukpga_19640040_en.pdf
 - http://www.legislation.gov.uk/ukpga/1964/40/data.pdf
-pending_changes: 6
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Harbours Act 1964
 
-> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
 >
 > Extent: England, Wales, Scotland.
 

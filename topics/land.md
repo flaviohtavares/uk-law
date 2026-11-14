@@ -46,7 +46,7 @@ Laws in force under the legislation.gov.uk subject heading **LAND**. Repealed la
 
 **1996**
 
-- [Compulsory Acquisition (Interest) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/210-compulsory-acquisition-interest-order-northern-ireland-1996.md) *(as originally made)*
+- [Compulsory Acquisition (Interest) Order (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/210-compulsory-acquisition-interest-order-northern-ireland-1996.md) *(changes pending)*
 
 **1995**
 

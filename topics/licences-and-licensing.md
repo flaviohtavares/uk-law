@@ -175,7 +175,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Licensing Act 2003 (Fees) (Amendment) Regulations 2005](../uk-parliament/regulations/2005/0000-0499/357-the-licensing-act-2003-fees-amendment-regulations-2005.md) *(as originally made)*
 - [The Licensing Act 2003 (Fees) Regulations 2005](../uk-parliament/regulations/2005/0000-0499/79-the-licensing-act-2003-fees-regulations-2005.md) *(as originally made)*
 - [The Licensing Act 2003 (Hearings) (Amendment) Regulations 2005](../uk-parliament/regulations/2005/0000-0499/78-the-licensing-act-2003-hearings-amendment-regulations-2005.md) *(as originally made)*
-- [The Licensing Act 2003 (Hearings) Regulations 2005](../uk-parliament/regulations/2005/0000-0499/44-the-licensing-act-2003-hearings-regulations-2005.md) *(changes pending)*
+- [The Licensing Act 2003 (Hearings) Regulations 2005](../uk-parliament/regulations/2005/0000-0499/44-the-licensing-act-2003-hearings-regulations-2005.md)
 - [The Licensing Act 2003 (Licensing authority’s register) (other information) Regulations 2005](../uk-parliament/regulations/2005/0000-0499/43-the-licensing-act-2003-licensing-authoritys-register-other-information-regulatio.md) *(as originally made)*
 - [The Licensing Act 2003 (Permitted Temporary Activities) (Notices) Regulations 2005](../uk-parliament/regulations/2005/2500-2999/2918-the-licensing-act-2003-permitted-temporary-activities-notices-regulations-2005.md) *(as originally made)*
 - [The Licensing Act 2003 (Personal licence: relevant offences) (Amendment) Order 2005](../uk-parliament/regulations/2005/2000-2499/2366-the-licensing-act-2003-personal-licence-relevant-offences-amendment-order-2005.md) *(as originally made)*

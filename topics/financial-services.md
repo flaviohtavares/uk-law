@@ -224,7 +224,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [Financial Markets and Insolvency Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/252-financial-markets-and-insolvency-regulations-northern-ireland-1996.md) *(as originally made)*
+- [Financial Markets and Insolvency Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/252-financial-markets-and-insolvency-regulations-northern-ireland-1996.md) *(changes pending)*
 - [The Financial Markets and Insolvency Regulations 1996](../uk-parliament/regulations/1996/1000-1499/1469-the-financial-markets-and-insolvency-regulations-1996.md) *(as originally made)*
 - [The Financial Services Act 1986 (Exemption) Order 1996](../uk-parliament/regulations/1996/1500-1999/1587-the-financial-services-act-1986-exemption-order-1996.md) *(as originally made)*
 - [The Financial Services Act 1986 (Extension of Scope of Act) Order 1996](../uk-parliament/regulations/1996/2500-2999/2958-the-financial-services-act-1986-extension-of-scope-of-act-order-1996.md) *(as originally made)*

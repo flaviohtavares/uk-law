@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 79
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '79'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/79
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 79
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 79. Interpretation of Part III
+## 79. Interpretation of Part III[^c-bbb45277b04ed8c75faaab6a35640fd1]
+
+*Extent: S*
 
 In this Part, unless the context otherwise requires–
 
@@ -37,3 +41,7 @@ In this Part, unless the context otherwise requires–
 - “payment” includes any pecuniary or other reward;
 - “personal expenses” as used with respect to the expenditure of any candidate in relation to any Scottish parliamentary election includes the reasonable travelling expenses of the candidate, and the reasonable expenses of his living at hotels or elsewhere for the purposes of and in relation to the election; and
 - “return as to election expenses” means a return (including the bills and receipts to be delivered with it) to be made under article 44 above.
+
+## Annotations
+
+[^c-bbb45277b04ed8c75faaab6a35640fd1]: Commencement: Art. 79 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

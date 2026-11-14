@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 25
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '25'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,41 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 25
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Old system students who are continuing students[^c-5528d488988b2753889821d5b71181eb]
+## 25. Old system students who are continuing students[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) This regulation applies to an old system student who began a designated course before 1st September 2006 and is continuing on that course after 31st August 2009 (a “continuing student”).
-
-(2) A continuing student does not qualify for a grant for fees in respect of any academic year of the course that begins on or after 1st September 2009 where in the course of assessing an application for support in respect of an academic year of the designated course that began before 1st September 2006 the Secretary of State determined in accordance with regulations made by the Secretary of State under section 22 of the 1998 Act that the student did not qualify for fee support in respect of the designated course.
-
-(3) A continuing student does not qualify for a grant for fees in respect of a designated course if the designated course is a flexible postgraduate course for the initial training of teachers.
-
-(4) A continuing student does not qualify for a grant for fees in respect of an academic year of a designated course that is a bursary year or an Erasmus year.
-
-(5) When assessing an application for support in respect of an academic year of the designated course, the Secretary of State must determine the “standard entitlement”.
-
-(6) The standard entitlement is calculated as follows—
-
-[formula: see source](https://www.legislation.gov.uk/uksi/2008/1582)
-
-where
-
-- *SAY* is the number of standard academic years of the designated course that begin after 31st August 2006,
-- *X* is the number of academic years of the designated course that begin after 31st August 2006 in respect of which the Secretary of State determined in accordance with regulations made by the Secretary of State under section 22 of the 1998 Act that the student did not qualify for a grant for fees in the course of assessing an application for support in respect of an academic year of the designated course that began before 1st September 2006.
-
-(7) When assessing an application for support in respect of an academic year of the designated course, the Secretary of State must allocate a grant for fees from the standard entitlement first to the final standard academic year of the course and then to each preceding standard academic year in turn until the standard entitlement is exhausted or a grant for fees has been allocated to each standard academic year of the course.
-
-(8) A continuing student qualifies for a grant for fees in respect of a standard academic year of the designated course if the Secretary of State allocates a grant for fees to that year when assessing the application for support for that year.
-
-(9) The amount of the grant for fees in respect of an academic year is determined in accordance with regulation 31, 32 or 33 and may be nil.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-5528d488988b2753889821d5b71181eb]: Commencement: Reg. 25 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

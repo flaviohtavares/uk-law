@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 30
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '30'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,26 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 30
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Availability of the grant for fees to old system students for years of repeat study[^c-cdaba26d6c181de9ffc9d2d8d8977064]
+## 30. Availability of the grant for fees to old system students for years of repeat study[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) In addition to the standard entitlement, if the Secretary of State determines that the student is repeating an academic year of the designated course because of compelling personal reasons, an old system student qualifies for a grant for fees in respect of the year of repeat study provided that the academic year that the student is repeating was a qualifying year of study and the year of repeat study is not a bursary year.
-
-(2) An old system student qualifies for a grant for fees in respect of an academic year of a designated course that is a year of repeat study which the student is taking other than for compelling personal reasons if—
-
-- (a) the academic year which the student is repeating was a qualifying year of study;
-- (b) the academic year of repeat study is not a bursary year; and
-- (c) when the academic year of repeat study is added to the number of any other academic years of repeat study that the student has already taken (after 31<sup>st</sup> August 2006) on the current course other than for compelling personal reasons, it does not exceed the number of additional years of support.
-
-(3) In this regulation, the “number of additional years of support” is the number of years which make up the standard entitlement less the number of standard academic years (plus one where the student qualifies for a grant for fees under regulation 29(8)).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-cdaba26d6c181de9ffc9d2d8d8977064]: Commencement: Reg. 30 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

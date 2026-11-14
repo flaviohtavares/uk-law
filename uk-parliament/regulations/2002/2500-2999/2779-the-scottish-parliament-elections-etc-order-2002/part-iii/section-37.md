@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 37
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '37'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/37
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 37
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 37. Expenses which may be paid otherwise than by election agent
+## 37. Expenses which may be paid otherwise than by election agent[^c-cff8b8007f2608a8a808258a5793370b]
+
+*Extent: S*
 
 (1) A candidate (including a candidate on a registered party’s regional list) may pay any personal expenses incurred by him on account of or in connection with or incidental to the election, but the amount which a candidate may pay shall not exceed–
 
@@ -32,3 +36,7 @@ and any further personal expenses incurred by him shall be paid by the election 
 (5) A statement of the particulars of payments made by any person so authorised shall be sent to the election agent who authorised them within the time limited by this Order for sending in claims, and shall be vouched for by a bill containing that person’s receipt.
 
 (6) Articles 41 and 42 below do not apply to expenses which, in accordance with any provision of this article, are paid otherwise than by the candidate’s election agent.
+
+## Annotations
+
+[^c-cff8b8007f2608a8a808258a5793370b]: Commencement: Art. 37 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

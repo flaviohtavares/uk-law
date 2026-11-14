@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 8
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 8. Manner of voting at Scottish parliamentary elections
+## 8. Manner of voting at Scottish parliamentary elections[^c-88a73cecfbeddad1ed4056b84386c04c]
+
+*Extent: S*
 
 (1) This article applies to determine the manner of voting of a person entitled to vote as an elector at a Scottish parliamentary election.
 
@@ -36,6 +40,8 @@ whether he is registered by virtue of that provision or not; and such a person m
 (7) For the purposes of the provisions of this Order a person entitled to vote as an elector at a Scottish parliamentary election is entitled as an elector to vote by post or entitled to vote by proxy at the election if he is shown in the absent voter list for the election as so entitled; and references in those provisions to entitlement as an elector to an absent vote at an election are references to an entitlement as an elector to vote by post or entitlement to vote by proxy at the election.
 
 ## Annotations
+
+[^c-88a73cecfbeddad1ed4056b84386c04c]: Commencement: Art. 8 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00017]: Footnote: Section 7 was substituted by the 2000 Act, section 4.
 

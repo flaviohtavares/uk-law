@@ -3,14 +3,14 @@ title: Control of Traffic (Antrim) Order (Northern Ireland) 1996
 id: nisr/1996/310
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-22'
-text_date: null
-extent: null
+text_date: '1996-07-22'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/310
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/310/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/310/data.pdf
+pending_changes: 12
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Control of Traffic (Antrim) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (12).** Text as at 1996-07-22. See https://www.legislation.gov.uk/changes/affected/nisr/1996/310
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 310
 
@@ -40,17 +46,17 @@ AND WHEREAS two objections have been received and subsequently withdrawn and no 
 
 NOW THEREFORE the Department, in exercise of the powers conferred on it by Articles 21(1) and 22(1) of the Road Traffic (Northern Ireland) Order 1981 and of every other power enabling it in that behalf, and in relation to Article 22(1) being satisfied that the roads and length of road specified in Article 2 and Schedule 1 are unsuitable for unrestricted use by vehicles, makes the following Order:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-9fcc5ca4e6d2446e9d59e861011051cd]
 
 (1) This Order may be cited as the Control of Traffic (Antrim) Order (Northern Ireland) 1996 and shall come into operation on 2nd September 1996.
 
 (2) In this Order “taxi” means a public service vehicle used in standing or plying for hire and used to carry passengers for hire and being a vehicle seating not more than six passengers in addition to the driver.
 
-## 2. Prohibition of traffic
+## 2. Prohibition of traffic[^c-09b3552ca3799455fd8364f2c64c09d7]
 
 Subject to Article 3, the use by vehicles, other than taxis, of the roads and length of road specified in Schedule 1, is prohibited.
 
-## 3. Exceptions
+## 3. Exceptions[^c-8af9e0d5bf51b5d8fb21644bc39f2e71]
 
 Article 2 shall not apply to—
 
@@ -60,11 +66,11 @@ Article 2 shall not apply to—
 - (d) a vehicle being used in connection with the laying, erection, alteration or repair of any telecommunications apparatus as defined in section 4(3) of the Telecommunications Act 1984[^f00002]; or
 - (e) a vehicle being used in connection with any building operation or demolition on or adjacent to the roads or length of road.
 
-## 4. Prohibition of direction of travel
+## 4. Prohibition of direction of travel[^c-f05b8aa52ba619f16bcde91c961e32e4]
 
 A person shall not, except upon the direction or with the permission of a constable in uniform or of a traffic warden, cause or permit any vehicle to proceed on the road or length of road specified in column 1 of Schedule 2 in a direction other than that specified in relation to that road in column 2.
 
-## 5. Prohibition of right-hand turn
+## 5. Prohibition of right-hand turn[^c-5981d33c2daf3d7bc9cd60cd2179ac5f]
 
 Subject to Article 7, a person shall not—
 
@@ -75,11 +81,11 @@ Subject to Article 7, a person shall not—
 
   travelling in a northerly direction along Dublin Road, Antrim, to make a right-hand turn into the access lane from Dublin Road to the link road referred to in paragraph (*a*).
 
-## 6. Prohibition of U-turn
+## 6. Prohibition of U-turn[^c-4564e410170ad7a6723b01f5799f292b]
 
 Subject to Article 7, a person shall not cause or permit a vehicle travelling in a northerly direction along Dublin Road, Antrim, on reaching its junction with Castle Way, to make a U-turn at the northern end of the central reservation.
 
-## 7. Exemptions
+## 7. Exemptions[^c-d5678555d72d12850b61efe3ae2ddc5c]
 
 Articles 5 and 6 shall not apply to—
 
@@ -96,21 +102,21 @@ Assistant Secretary
 
 Article 2
 
-**1.** Castle Street, Antrim, from a point approximately 14 metres north of its junction with Market Square, to a point approximately 50 metres north of that junction.
+**1.**[^c-7a0ad2e9ad3be2dbad04eadef50a98d2] Castle Street, Antrim, from a point approximately 14 metres north of its junction with Market Square, to a point approximately 50 metres north of that junction.
 
-**2.** The link road between Castle Street, Antrim, and Dublin Road.
+**2.**[^c-92d82b3ad94be7cb3aa2fb58bb8f815a] The link road between Castle Street, Antrim, and Dublin Road.
 
-**3.** The access lane from Dublin Road, Antrim, to the link road referred to in paragraph 2.
+**3.**[^c-77d4e385e00e1cc160faa346e68a1cf1] The access lane from Dublin Road, Antrim, to the link road referred to in paragraph 2.
 
-## SCHEDULE 2
+## SCHEDULE 2[^c-d3b88d2d4386e311f4f63a6a1cbbf8f9]
 
 Article 4
 
 | *Column 1* | *Column 2* |
 | --- | --- |
 | All in the town of Antrim: |  |
-| **1.** The link road between Castle Street and | Westerly towards Dublin Road Dublin Road, from its junction with the access lane referred to in item 2 to its junction with Dublin Road |
-| **2.** The access lane from Dublin Road to the | Southerly towards the link road link road referred to in item 1 |
+| *Extent: E+W+S+N.I.*<br>**1.** The link road between Castle Street and | Westerly towards Dublin Road Dublin Road, from its junction with the access lane referred to in item 2 to its junction with Dublin Road |
+| *Extent: E+W+S+N.I.*<br>**2.** The access lane from Dublin Road to the | Southerly towards the link road link road referred to in item 1 |
 
 (This note is not part of the Order.)
 
@@ -141,4 +147,26 @@ Traffic signs indicating the effect of the Order will in due course be erected o
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”
 
+[^c-9fcc5ca4e6d2446e9d59e861011051cd]: Commencement: Art. 1 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
+[^c-09b3552ca3799455fd8364f2c64c09d7]: Commencement: Art. 2 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
+[^c-8af9e0d5bf51b5d8fb21644bc39f2e71]: Commencement: Art. 3 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
 [^f00002]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12)
+
+[^c-f05b8aa52ba619f16bcde91c961e32e4]: Commencement: Art. 4 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
+[^c-5981d33c2daf3d7bc9cd60cd2179ac5f]: Commencement: Art. 5 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
+[^c-4564e410170ad7a6723b01f5799f292b]: Commencement: Art. 6 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
+[^c-d5678555d72d12850b61efe3ae2ddc5c]: Commencement: Art. 7 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
+[^c-7a0ad2e9ad3be2dbad04eadef50a98d2]: Commencement: Sch. 1 para. 1 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
+[^c-92d82b3ad94be7cb3aa2fb58bb8f815a]: Commencement: Sch. 1 para. 2 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
+[^c-77d4e385e00e1cc160faa346e68a1cf1]: Commencement: Sch. 1 para. 3 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)
+
+[^c-d3b88d2d4386e311f4f63a6a1cbbf8f9]: Commencement: Sch. 2 in operation at 2.9.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/310/article/1/1)

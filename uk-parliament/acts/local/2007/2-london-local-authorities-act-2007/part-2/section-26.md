@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 26
 act: London Local Authorities Act 2007
 section: '26'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 26
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 26. Civic amenity sites
+## 26. Civic amenity sites[^c-79ed345f393a8cf474611dec86ab69ad]
+
+*Extent: E+W*
 
 (1) A borough council may require proof from a person depositing, intending to deposit or attempting to deposit refuse or waste at an amenity site that the person is resident in the area of the council or in the area of an adjoining local authority (such proof to be in such reasonable form as the council may specify).
 
@@ -78,3 +82,7 @@ the court may accept that statement as evidence that the accused was the person 
 - (a) an “amenity site” means a place provided by a council in compliance with a duty to provide places where refuse may be deposited, by virtue of section 1 of the 1978 Act;
 - (b) “local authority” means a borough council, a district council, or (in the case of a county in which there are no district councils) a county council;
 - (c) “registered keeper” in respect of a vehicle at any time means the person in whose name the vehicle was at that time registered under the Vehicle Excise and Registration Act [1994 (c. 22)](https://www.legislation.gov.uk/ukpga/1994/22).
+
+## Annotations
+
+[^c-79ed345f393a8cf474611dec86ab69ad]: Commencement: [S. 26](https://www.legislation.gov.uk/ukla/2007/2/section/26) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

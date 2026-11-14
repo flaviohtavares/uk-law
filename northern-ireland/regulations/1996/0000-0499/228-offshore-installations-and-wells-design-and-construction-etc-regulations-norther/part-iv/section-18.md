@@ -2,9 +2,9 @@
 title: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 18
 act: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996
 section: '18'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-06-07'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/228/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 18. Arrangements for examination
+## 18. Arrangements for examination[^c-a86eccc056574e267bc0ccfc1f41e527]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Before the design of a well is commenced or adopted the well-operator shall make and put into effect arrangements relating to the well of a kind described in paragraph (2) or (where such arrangements already have effect in relation to another well) apply such arrangements, with any appropriate modifications, to the well.
 
@@ -47,6 +53,8 @@ summary: ''
 in a case where the clause is, pursuant to the relevant Regulations, incorporated in a licence.
 
 ## Annotations
+
+[^c-a86eccc056574e267bc0ccfc1f41e527]: Commencement: Reg. 18 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1988/1213](https://www.legislation.gov.uk/uksi/1988/1213); to which there are amendments not relevant to these Regulations
 

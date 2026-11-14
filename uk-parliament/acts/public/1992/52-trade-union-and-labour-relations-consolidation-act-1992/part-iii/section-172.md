@@ -3,7 +3,7 @@ title: Trade Union and Labour Relations (Consolidation) Act 1992, section 172
 act: Trade Union and Labour Relations (Consolidation) Act 1992
 section: '172'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/172
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Trade Union and Labour Relations (Consolidation) Act 1992, section 172
 
-> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+> **Warning: changes not yet applied to this text (27).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
 > Extent: England, Wales, Scotland.
 
@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where the tribunal finds a complaint under section 168 , 168A[^c14517861] , 168B[^c-ecc59902918a0b1199f3400ff06fbd6f] or 170 is well-founded, it shall make a declaration to that effect and may make an award of compensation to be paid by the employer to the employee.
 
-(2) The amount of the compensation shall be such as the tribunal considers just and equitable in all the circumstances having regard to the employer’s default in failing to permit time off to be taken by the employee *(affected by repeal, see note)*[^c-722714f745ddf5361db9b10c53f9103a] and to any loss sustained by the employee which is attributable to the matters complained of.
+(2) The amount of the compensation shall be such as the tribunal considers just and equitable in all the circumstances having regard to the employer’s default [^c-722714f745ddf5361db9b10c53f9103a]... and to any loss sustained by the employee which is attributable to the matters complained of.
 
 (3) Where on a complaint under section 169 the tribunal finds that the employer has failed to pay the employee in accordance with that section, it shall order him to pay the amount which it finds to be due.
 
@@ -36,6 +36,6 @@ summary: ''
 
 [^c14517861]: Textual amendment: Word in s. 172(1) inserted (27.4.2003) by [2002 c. 22](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 53](https://www.legislation.gov.uk/ukpga/2002/22/section/53), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2002/22/schedule/7/paragraph/20); [S.I. 2003/1190](https://www.legislation.gov.uk/uksi/2003/1190), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1190/article/2/2)
 
-[^c-ecc59902918a0b1199f3400ff06fbd6f]: Textual amendment: Word in [s. 172(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/172/1) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/6), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-ecc59902918a0b1199f3400ff06fbd6f]: Textual amendment: Word in [s. 172(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/172/1) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/6), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/h) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/1065/regulation/8))
 
-[^c-722714f745ddf5361db9b10c53f9103a]: Textual amendment: Words in [s. 172(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/172/2) omitted (6.1.2026 for specified purposes) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21)
+[^c-722714f745ddf5361db9b10c53f9103a]: Textual amendment: Words in [s. 172(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/172/2) omitted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/1065/regulation/7))

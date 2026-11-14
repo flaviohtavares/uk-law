@@ -3,15 +3,15 @@ title: The Non-Domestic Rating (Value of Differential Multipliers) (Wales) Regul
 id: wsi/2026/39
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-02-11'
-text_date: null
-extent: null
+text_date: '2026-02-11'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2026/39
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2026/39/pdfs/wsi_20260039_mi.pdf
-- http://www.legislation.gov.uk/wsi/2026/39/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/wsi/2026/39/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Non-Domestic Rating (Value of Differential Multipliers) (Wales) Regulations 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-02-11. See https://www.legislation.gov.uk/changes/affected/wsi/2026/39
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2026 No. 39
 
@@ -39,13 +45,13 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 These Regulations have been laid before Senedd Cymru in accordance with the Senedd approval procedure under section 143A(5)(m) of that Act[^f00002].
 
-## 1. Title and coming into force
+## 1. Title and coming into force[^c-df23d1a762e6b1da9b4a0ba4a55dacbc]
 
 (1) The title of these Regulations is the Non-Domestic Rating (Value of Differential Multipliers) (Wales) Regulations 2026.
 
 (2) These Regulations come into force on 1 April 2026.
 
-## 2. Prescribed values of the retail multiplier and the higher multiplier
+## 2. Prescribed values of the retail multiplier and the higher multiplier[^c-bc1a126b2db563f4e221e386b4c3132f]
 
 (1) For the purposes of paragraph A16(2)(b) of Schedule 7 to the Local Government Finance Act 1988, the value of N—
 
@@ -79,5 +85,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). See section 146(6) for the definition of “prescribed”. Paragraph A16 of Schedule 7 was inserted by section 10 of the Local Government Finance (Wales) Act [2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6).
 
 [^f00002]: Footnote: Section 143A(5)(m) was inserted by section 14 of the Local Government Finance (Wales) Act 2024.
+
+[^c-df23d1a762e6b1da9b4a0ba4a55dacbc]: Commencement: Reg. 1 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/39/regulation/1/2)
+
+[^c-bc1a126b2db563f4e221e386b4c3132f]: Commencement: Reg. 2 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/39/regulation/1/2)
 
 [^f00003]: Footnote: [2025/1163 (W. 190)](https://www.legislation.gov.uk/wsi/2025/1163).

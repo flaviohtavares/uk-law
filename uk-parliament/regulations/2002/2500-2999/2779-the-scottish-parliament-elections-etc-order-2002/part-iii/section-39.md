@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 39
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '39'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 39
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 39. Prohibition of expenses not authorised by election agent: candidates for return as constituency members and individual candidates for return as regional members
+## 39. Prohibition of expenses not authorised by election agent: candidates for return as constituency members and individual candidates for return as regional members[^c-afc68ce029ad991c4e65dee7c495e60c]
+
+*Extent: S*
 
 (1) No expenses, with a view to promoting or procuring the election of a candidate for return as a constituency member or an individual candidate for return as a regional member at a Scottish parliamentary election, shall be incurred at such an election by any person other than the candidate or his election agent and persons authorised in writing by the election agent on account–
 
@@ -54,6 +58,8 @@ he shall be guilty of a corrupt practice, and if a person fails to deliver or se
 - (b) that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the other circumstances.
 
 ## Annotations
+
+[^c-afc68ce029ad991c4e65dee7c495e60c]: Commencement: Art. 39 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00024]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 

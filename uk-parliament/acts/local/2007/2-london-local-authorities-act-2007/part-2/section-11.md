@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 11
 act: London Local Authorities Act 2007
 section: '11'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 11. Advertising: measures to be taken on surfaces
+## 11. Advertising: measures to be taken on surfaces[^c-2e1adf4106cdd56082a99a6845c9c0e7]
+
+*Extent: E+W*
 
 (1) If a borough council has reason to believe that there is a persistent problem with the display of unauthorised advertisements on a relevant surface, the council may serve a notice under subsection (3) below on the owner or occupier of the land in or on which the relevant surface is situated.
 
@@ -46,3 +50,7 @@ summary: ''
 - “premises” means building, wall, fence or other structure or erection;
 - “relevant surface” means the surface of any premises, apparatus or plant;
 - “unauthorised advertisements” means advertisements in respect of which advertising offences are committed.
+
+## Annotations
+
+[^c-2e1adf4106cdd56082a99a6845c9c0e7]: Commencement: [S. 11](https://www.legislation.gov.uk/ukla/2007/2/section/11) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 75
 act: London Local Authorities Act 2007
 section: '75'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/75
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 75
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 75. Mail forwarding businesses
+## 75. Mail forwarding businesses[^c-ecafc137f42e2b5d94e0b3ed5f8a727d]
+
+*Extent: E+W*
 
 (1) On and after the appointed day, a person shall not in the area of a borough council carry on a mail forwarding business, whether alone or in conjunction with any other business when he is not registered by the council under this section.
 
@@ -82,3 +86,7 @@ he shall be guilty of an offence.
 - (b) need not comply with the requirements of subsection (6) above,
 
 until the council issues a certificate under subsection (2) above or the application is withdrawn.
+
+## Annotations
+
+[^c-ecafc137f42e2b5d94e0b3ed5f8a727d]: Commencement: [S. 75](https://www.legislation.gov.uk/ukla/2007/2/section/75) comes into force in accordance with ss. 1(5), 3

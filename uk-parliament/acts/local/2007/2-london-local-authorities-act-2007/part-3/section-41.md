@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 41
 act: London Local Authorities Act 2007
 section: '41'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 41
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 41. Temporary licences
+## 41. Temporary licences[^c-7b6cec075943b1a69ab6505de7d2ede8]
+
+*Extent: E+W*
 
 (1) Section 31 (temporary licences) of the Act of 1990 is amended as follows.
 
@@ -39,3 +43,7 @@ summary: ''
 > (1F) Where a temporary licence is revoked or suspended under subsection (1E) above, the council shall return to the licensee such proportion of any fee paid for the granting of the licence as is appropriate, taking into account the period for which the licence was granted and the period remaining on the licence when it was revoked or the period for which the licence was suspended, as the case may be.
 
 .
+
+## Annotations
+
+[^c-7b6cec075943b1a69ab6505de7d2ede8]: Commencement: [S. 41](https://www.legislation.gov.uk/ukla/2007/2/section/41) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

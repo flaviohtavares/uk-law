@@ -3,7 +3,7 @@ title: Adoption Act 1976, section 47
 act: Adoption Act 1976
 section: '47'
 status: revised-with-pending-changes
-text_date: '2009-10-01'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1976/36/section/47
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,26 +12,26 @@ summary: ''
 
 # Adoption Act 1976, section 47
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2009-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
 >
 > Extent: England, Wales.
 
-## 47. Miscellaneous enactments.[^c-666cf8d946697de9ff27d95d07351d9e][^c-1ff0b20c9e4b32226d0de818f5c19ff1]
+## 47. Miscellaneous enactments.[^c-666cf8d946697de9ff27d95d07351d9e][^c-1ff0b20c9e4b32226d0de818f5c19ff1][^c-b19bb88486a8c5dc21794c7dd3e084d8]
 
 *Extent: E+W*
 
-(1) Section 39 does not apply for the purposes of section 1 of and Schedule 1 to the Marriage Act 1949 or Schedule 1 to the Civil Partnership Act 2004 (prohibited degrees of kindred and affinity),[^c-6357e1ad565e97c813611f73f25da08d] or sections 64 and 65 of the Sexual Offences Act 2003 (sex with an adult relative)[^c-f06d893815888d5662e828f045cb93c9].
+(1) Section 39 does not apply for the purposes of section 1 of and Schedule 1 to the Marriage Act 1949 or Schedule 1 to the Civil Partnership Act 2004 (prohibited degrees of kindred and affinity),[^c-6357e1ad565e97c813611f73f25da08d] [sections 64](https://www.legislation.gov.uk/ukpga/2003/42/section/64)[^c-fb7afeec926015424b1daca60de5aed8] and [65](https://www.legislation.gov.uk/ukpga/2003/42/section/65) of the [Sexual Offences Act 2003](https://www.legislation.gov.uk/ukpga/2003/42/contents) (sex with an adult relative), or section 67E of the [Criminal Justice and Immigration Act 2008](https://www.legislation.gov.uk/ukpga/2008/4/contents) (possession or publication of pornographic images of sex between relatives).
 
-(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13482261] section 39 does not apply for the purposes of any provision of—
+(2) [^c13482261] ... Section 39 does not apply for the purposes of any provision of—
 
 - (a) the British Nationality Act 1981[^c13482271]
 - (b) the [^c13482281]Immigration Act 1971,
 - (c) any instrument having effect under an enactment within paragraph (a) or (b), or
 - (d) any other provision of the law for the time being in force which determines British citizenship, British Dependent Territories citizenship, the status of a British National (Overseas)[^c13482301] or British Overseas citizenship.
 
-(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13482311]
+(3)[^c13482311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13482321]
+(4)(5)[^c13482321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -39,9 +39,11 @@ summary: ''
 
 [^c-1ff0b20c9e4b32226d0de818f5c19ff1]: Modification: S. 47 restricted by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 65(6)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/65/6/a) (as inserted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(2)(e)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e), [Sch. 15 para. 6(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/6/5))
 
+[^c-b19bb88486a8c5dc21794c7dd3e084d8]: Modification: S. 47 excluded (6.11.2026) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), [s. 67E(12)](https://www.legislation.gov.uk/ukpga/2008/4/section/67E/12) (as inserted by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/106/1), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c))
+
 [^c-6357e1ad565e97c813611f73f25da08d]: Textual amendment: Words in s. 47(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2005/3129/schedule/4/paragraph/3)
 
-[^c-f06d893815888d5662e828f045cb93c9]: Textual amendment: Words in s. 47(1) substituted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(2)(e)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/7)
+[^c-fb7afeec926015424b1daca60de5aed8]: Textual amendment: Words in s. 47(1) substituted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 106(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/106/4), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c)
 
 [^c13482261]: Textual amendment: Words repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [s. 52(8)](https://www.legislation.gov.uk/ukpga/1981/61/section/52/8), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
 

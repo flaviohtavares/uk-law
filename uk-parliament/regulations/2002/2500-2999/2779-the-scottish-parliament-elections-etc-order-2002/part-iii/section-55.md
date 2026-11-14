@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 55
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '55'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 55
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 55. Meaning of Election Expenses
+## 55. Meaning of Election Expenses[^c-1162a44173a650b4aca768dfe6f4a088]
+
+*Extent: S*
 
 (1) In this part of this Order “election expenses” in relation to a candidate at an election, means (subject to paragraphs (2) and (3) and articles 56 and 57 below) any expenses incurred in respect of–
 
@@ -45,3 +49,7 @@ which is or are used for the purposes of the candidate’s election after the da
 - (b) any reference to election expenses incurred by or on behalf of a candidate at an election includes expenses which are incurred as mentioned in sub-paragraph (a)(i) or (ii) above before the date when he becomes a candidate at the election but which by virtue of paragraphs (1) and (2) above fall to be regarded as election expenses.
 
 (6) In this Order, any reference (in whatever terms) to promoting or procuring a candidate’s election at an election includes doing so by prejudicing the electoral prospects of another candidate at the election.
+
+## Annotations
+
+[^c-1162a44173a650b4aca768dfe6f4a088]: Commencement: Art. 55 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163A. Application of Part VI: England and Wales[^c17542111]
+## 163A. Application of Part VI: England and Wales[^c17542111][^c13739731]
 
 *Extent: E+W*
 
@@ -37,5 +37,7 @@ summary: ''
 ## Annotations
 
 [^c17542111]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/1990/43/section/163A) inserted (E.W.) (17.10.2002) by [Genetically Modified Organisms (Deliberate Release) Regulations 2002 (S.I. 2002/2443)](https://www.legislation.gov.uk/uksi/2002/2443), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2002/2443/regulation/1/2/3), [39](https://www.legislation.gov.uk/uksi/2002/2443/regulation/39)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c17542181]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/1990/43/section/163A) ceases to have effect (W.) (31.12.2002) by virtue of [Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002 (S.I. 2002/3188)](https://www.legislation.gov.uk/uksi/2002/3188), [reg. 41](https://www.legislation.gov.uk/uksi/2002/3188/regulation/41)

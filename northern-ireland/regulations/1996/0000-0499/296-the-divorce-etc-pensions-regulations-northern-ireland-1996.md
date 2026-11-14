@@ -3,13 +3,13 @@ title: The Divorce etc. (Pensions) Regulations (Northern Ireland) 1996
 id: nisr/1996/296
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-18'
-text_date: null
-extent: null
+text_date: '1996-08-10'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/296
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/296/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/296/data.pdf
 pending_changes: 14
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # The Divorce etc. (Pensions) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (14).** Text as at 1996-08-10. See https://www.legislation.gov.uk/changes/affected/nisr/1996/296
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 296
 
@@ -40,11 +44,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by Article 27D(2) and (4) of the Matrimonial Causes (Northern Ireland) Order 1978[^f00001], hereby makes the following Regulations:—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-29c723822cd996e1a22875003fc5dd42]
 
 These Regulations may be cited as the Divorce etc. (Pensions) Regulations (Northern Ireland) 1996 and shall come into operation on 10th August 1996.
 
-## 2. Interpretation
+## 2. Interpretation[^c-5ce1558bcc043fce0e4155bf9a6ec659]
 
 In these Regulations—
 
@@ -52,7 +56,7 @@ In these Regulations—
 - (b) all words and phrases defined in Article 27D(3) and (4) have the meanings assigned by those paragraphs;
 - (c) “active member” and “deferred member” have the meanings assigned by Article 121 of the Pensions (Northern Ireland) Order 1995[^f00002].
 
-## 3. Valuation
+## 3. Valuation[^c-239b94c2cfa59ab1c1939aedc048f95f]
 
 (1) The value of any benefits which a party has under a pension scheme shall be calculated and verified, for the purposes of orders under Article 25, in accordance with this regulation; and in calculating that value the court may have regard to any information furnished by the trustees or managers of the pension scheme pursuant to—
 
@@ -70,7 +74,7 @@ In these Regulations—
 
 (6) Except as provided in paragraphs (3), (4) and (5) the court shall calculate the value of any benefits under the scheme which a party has or is likely to have by such method as it shall see fit.
 
-**4.** (1) The trustees or managers of any occupational pension scheme shall furnish in writing the information mentioned in regulation 6(7) of, and paragraphs 8 and 9 of Schedule 2 to the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1986 to a member of the scheme in the circumstances specified in paragraph (4).
+**4.**[^c-9db90de6d9aaf600d2d40f9d11eb689d] (1) The trustees or managers of any occupational pension scheme shall furnish in writing the information mentioned in regulation 6(7) of, and paragraphs 8 and 9 of Schedule 2 to the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1986 to a member of the scheme in the circumstances specified in paragraph (4).
 
 (2) The trustees or managers of any personal pension scheme shall furnish in writing the information mentioned in paragraph 2(1) (or, where applicable, 2(2)) of Schedule 2 to the Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987 to a member of the scheme in the circumstances specified in paragraph (4).
 
@@ -97,9 +101,9 @@ and shall in either case be entitled to recover from the member the reasonable c
 
 and approved by the Department of Health and Social Services for the purposes of this regulation.
 
-**5.** Where the trustees or managers of a pension scheme have been requested to furnish or have furnished information under the preceding paragraph, they shall, if so requested by the member, state in writing what proportion of the estimated cash equivalent or value of the member’s rights is in their opinion attributable to any pension or other periodical payment under the scheme to which a spouse of the member would be or might become entitled in the event of the member’s death.
+**5.**[^c-9c27606ec859c52f261dd6c8af01379a] Where the trustees or managers of a pension scheme have been requested to furnish or have furnished information under the preceding paragraph, they shall, if so requested by the member, state in writing what proportion of the estimated cash equivalent or value of the member’s rights is in their opinion attributable to any pension or other periodical payment under the scheme to which a spouse of the member would be or might become entitled in the event of the member’s death.
 
-## 6. Notices
+## 6. Notices[^c-74dd18091c0972f4c4c473747e798dcc]
 
 (1) This regulation applies in the circumstances set out in Article 27D(1)(*a*).
 
@@ -117,7 +121,7 @@ and approved by the Department of Health and Social Services for the purposes of
 - (c) the name and address of the trustees or managers of the new scheme or schemes;
 - (d) the fact that the order made under Article 25 is to have effect as if it had been made in respect of the trustees or managers of the new scheme or schemes.
 
-**7.** (1) This regulations applies where—
+**7.**[^c-865015a0ad51cecc3246b2f5da97e7da] (1) This regulations applies where—
 
 - (a) an order under Article 25 has been made by virtue of Article 27B or 27C imposing any requirement on the trustees or managers of a pension scheme;
 - (b) an event has occurred which is likely to result in a significant reduction in the benefits payable under the scheme, other than—
@@ -132,7 +136,7 @@ and approved by the Department of Health and Social Services for the purposes of
 - (b) the likely extent of the reduction in the benefits payable under the scheme;
 - (c) where the event mentioned in paragraph (2) has occurred, the name and address of the trustees or managers of any pension scheme under which the party with pension rights has acquired transfer credits as a result of that event.
 
-**8.** (1) This regulation applies where—
+**8.**[^c-000fa110612264725d4a2b8c49aa88db] (1) This regulation applies where—
 
 - (a) an order under Article 25 has been made by virtue of Article 27B or 27C imposing any requirement on the trustees or managers of a pension scheme; and
 - (b) any of the events set out in paragraph (2) has occurred.
@@ -146,13 +150,13 @@ and approved by the Department of Health and Social Services for the purposes of
 
 (4) Where by reason of the inaccuracy of the particulars supplied by the other party or of the other party’s failure to give notice of their having ceased to be accurate it is not reasonably practicable for the trustees or managers of the pension scheme to make a payment to the other party as required by the order, they may instead make that payment to the party with pension rights and shall thereupon be discharged of liability to the other party to the extent of that payment.
 
-**9.** A notice under regulation 6, 7 or 8 may be sent by ordinary first class post to the last known address of the intended recipient and shall be deemed to have been received on the seventh day following the date of posting.
+**9.**[^c-1ac846e019204d61de57471a802f1a46] A notice under regulation 6, 7 or 8 may be sent by ordinary first class post to the last known address of the intended recipient and shall be deemed to have been received on the seventh day following the date of posting.
 
-## 10. Costs and administration
+## 10. Costs and administration[^c-5deb0285ccdb6ea06feb3c97170648eb]
 
 Upon the making of any order under Article 25 which by virtue of Article 27B or 27C imposes any requirement on the trustees or managers of a pension scheme, the pension scheme shall be entitled to recover from the party with pension rights such sum as represents the reasonable administrative expenses which they have incurred or are likely to incur by reason of the order, and this sum shall be assessed by the court if not agreed.
 
-**11.** In deciding whether to make an order which by virtue of Article 27B or 27C imposes any requirement on the trustees or managers of a pension scheme, the court shall take into account any representations of the trustees or managers as to whether, in all the circumstances of the case, the court ought to make the order, and in particular—
+**11.**[^c-69ab7ca1321f65d4d2594c594c29059c] In deciding whether to make an order which by virtue of Article 27B or 27C imposes any requirement on the trustees or managers of a pension scheme, the court shall take into account any representations of the trustees or managers as to whether, in all the circumstances of the case, the court ought to make the order, and in particular—
 
 - (a) whether the particulars supplied are sufficient to enable the trustees or managers to comply with their obligations under any such order, and
 - (b) the administrative expenses which they are likely to incur in complying with their obligations under any such order.
@@ -174,10 +178,32 @@ These Regulations make provision in relation to orders made for ancillary relief
 
 [^f00001]: Footnote: S.I. [1978/1045 (N.I. 15)](https://www.legislation.gov.uk/nisi/1978/1045); Articles 27B, 27C and 27D were inserted by Article 162(1) of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)). Article 27D(4) is recited because of the meaning assigned to the words “prescribed” and “regulations”
 
+[^c-29c723822cd996e1a22875003fc5dd42]: Commencement: Reg. 1 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
+
+[^c-5ce1558bcc043fce0e4155bf9a6ec659]: Commencement: Reg. 2 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
+
 [^f00002]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
+
+[^c-239b94c2cfa59ab1c1939aedc048f95f]: Commencement: Reg. 3 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1986 No. 225](https://www.legislation.gov.uk/nisr/1986/225); as amended by [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
 [^f00004]: Footnote: [S.R. 1987 No. 288](https://www.legislation.gov.uk/nisr/1987/288); as amended by [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
 [^f00005]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
+
+[^c-9db90de6d9aaf600d2d40f9d11eb689d]: Commencement: Reg. 4 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
+
+[^c-9c27606ec859c52f261dd6c8af01379a]: Commencement: Reg. 5 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
+
+[^c-74dd18091c0972f4c4c473747e798dcc]: Commencement: Reg. 6 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
+
+[^c-865015a0ad51cecc3246b2f5da97e7da]: Commencement: Reg. 7 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
+
+[^c-000fa110612264725d4a2b8c49aa88db]: Commencement: Reg. 8 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
+
+[^c-1ac846e019204d61de57471a802f1a46]: Commencement: Reg. 9 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
+
+[^c-5deb0285ccdb6ea06feb3c97170648eb]: Commencement: Reg. 10 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)
+
+[^c-69ab7ca1321f65d4d2594c594c29059c]: Commencement: Reg. 11 in operation at 10.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/296/regulation/1)

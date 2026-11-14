@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 63
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '63'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/63
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 63
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 63. Schools and rooms for Scottish parliamentary election meetings: candidates for return as constituency members
+## 63. Schools and rooms for Scottish parliamentary election meetings: candidates for return as constituency members[^c-b4691ba3ad26fa297a090ba5cb387c46]
+
+*Extent: S*
 
 (1) Subject to the provisions of this article, a candidate for return as a constituency member at a Scottish parliamentary election is entitled for the purpose of holding public meetings in furtherance of his candidature to the use free of charge at reasonable times between the last day on which notice of the election may be published in accordance with the Scottish Parliamentary Election Rules and the day preceding the date of the poll of–
 
@@ -38,5 +42,7 @@ summary: ''
 - (b) the expression “room” includes a hall, gallery or gymnasium.
 
 ## Annotations
+
+[^c-b4691ba3ad26fa297a090ba5cb387c46]: Commencement: Art. 63 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00032]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).

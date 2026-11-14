@@ -3,16 +3,16 @@ title: Sovereign Grant Act 2011
 id: ukpga/2011/15
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised
+status: revised-with-pending-changes
 made_date: '2011-10-18'
-text_date: '2024-02-14'
+text_date: '2026-11-02'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2011/15
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2011/15/pdfs/ukpgaen_20110015_en.pdf
 - http://www.legislation.gov.uk/ukpga/2011/15/pdfs/ukpga_20110015_en.pdf
 - http://www.legislation.gov.uk/ukpga/2011/15/data.pdf
-pending_changes: 0
+pending_changes: 13
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Sovereign Grant Act 2011
 
-> Text as at 2024-02-14.
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/15
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -40,7 +40,7 @@ WHEREAS Your Majesty has been graciously pleased to signify to Your faithful Com
 
 And Whereas Your Majesty has further been graciously pleased to signify that Your Majesty is desirous that the hereditary revenues of the Crown for any period for which support is provided to any of Your successors should be at the disposal of Your faithful Commons.
 
-Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, have freely and voluntarily resolved to make such provision as hereinafter appears for the purposes aforesaid, and we do most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+Now, therefore, we, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, have freely and voluntarily resolved to make such provision as hereinafter appears for the purposes aforesaid, and we do most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-6f96625117241531150cdf376d25d3ff]
 
 ## The Sovereign Grant
 
@@ -542,6 +542,8 @@ Section 15
 (2) The “retained provisions” are section 5 of the Civil List Act 1837 and section 3 of the Civil List Act 1952.
 
 ## Annotations
+
+[^c-6f96625117241531150cdf376d25d3ff]: Modification: Act restricted (2.11.2026) by [Sovereign Grant Act 2026 (c. 28)](https://www.legislation.gov.uk/ukpga/2026/28), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/28/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2026/28/section/2/2), [4(1)](https://www.legislation.gov.uk/ukpga/2026/28/section/4/1)
 
 [^c-b4afefc74103cb848762d599a41e10e1]: Modification: S. 1: the Sovereign Grant provisions are continued (11.9.2022) and will now expire 6 months after the end of the present reign by The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/954/article/1/2), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 

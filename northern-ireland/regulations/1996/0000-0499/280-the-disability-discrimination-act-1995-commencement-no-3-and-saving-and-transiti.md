@@ -3,13 +3,13 @@ title: The Disability Discrimination Act 1995 (Commencement No. 3 and Saving and
 id: nisr/1996/280
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-10'
-text_date: null
-extent: null
+text_date: '1996-07-10'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/280
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/280/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/280/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # The Disability Discrimination Act 1995 (Commencement No. 3 and Saving and Transitional Provisions) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 1996-07-10. See https://www.legislation.gov.uk/changes/affected/nisr/1996/280
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 280 (C. 13)
 
@@ -32,7 +36,7 @@ Made
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by sections 67(3) and 70(3) of the Disability Discrimination Act 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation
+## 1. Citation and interpretation[^c-e626a0e4d6cb8e3f561f92dadea1df7c]
 
 (1) This Order may be cited as the Disability Discrimination Act 1995 (Commencement No. 3 and Saving and Transitional Provisions) Order (Northern Ireland) 1996.
 
@@ -40,13 +44,13 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to this Order as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Appointed days
+## 2. Appointed days[^c-de26c42f4399978c04273f60d5570e68]
 
 (1) The day appointed for the coming into operation of the provisions specified in Part I of the Schedule to this Order is 11th July 1996.
 
 (2) The day appointed for the coming into operation of the provisions specified in Part II of the Schedule to this Order, subject to the saving and transitional provisions set out in Article 3, is 2nd December 1996.
 
-## 3. Saving and transitional provisions
+## 3. Saving and transitional provisions[^c-82ca5add01415a41d332251352b3b7f8]
 
 Notwithstanding the repeal of sections 9 to 11, 12, 14 and 19 of the Disabled Persons (Employment) Act (Northern Ireland) 1945[^f00003] by the bringing into operation by this Order of section 61[^f00004] and Schedule 7[^f00005]:
 
@@ -65,7 +69,7 @@ Under Secretary
 
 Article 2
 
-### Part I — Provisions coming into Operation on 11th July 1996
+### Part I — Provisions coming into Operation on 11th July 1996[^c-9452930933704fe47de06e7dfe06ca24]
 
 | *Provision of the Disability Discrimination Act 1995* | *Subject matter* |
 | --- | --- |
@@ -86,7 +90,7 @@ Article 2
 | Section 56[^f00011]. | Help for persons suffering discrimination. |
 | Schedule 4, Part I, paragraph 3. | Premises occupied under leases — occupation by employer or trade organisation. |
 
-### Part II — Provisions coming into Operation on 2nd December 1996
+### Part II — Provisions coming into Operation on 2nd December 1996[^c-dc4d6eed43b93fb8eee09edfc6d32c4e]
 
 |  |  |
 | --- | --- |
@@ -167,7 +171,13 @@ It further provides for the coming into operation on 2nd December 1996 of supple
 
 [^f00001]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50); Sections 67(3) and 70(3) are modified in their application to Northern Ireland by paragraphs 46 and 48(1) respectively of Schedule 8
 
+[^c-e626a0e4d6cb8e3f561f92dadea1df7c]: Commencement: Art. 1 in operation at made date
+
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c-de26c42f4399978c04273f60d5570e68]: Commencement: Art. 2 in operation at made date
+
+[^c-82ca5add01415a41d332251352b3b7f8]: Commencement: Art. 3 in operation at made date
 
 [^f00003]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6)
 
@@ -176,6 +186,8 @@ It further provides for the coming into operation on 2nd December 1996 of supple
 [^f00005]: Footnote: Schedule 7 is modified in its application to Northern Ireland by paragraph 53 of Schedule 8
 
 [^f00006]: Footnote: [S.R.&O. (N.I.) 1946 No. 31](https://www.legislation.gov.uk/nisr/1946/31)
+
+[^c-9452930933704fe47de06e7dfe06ca24]: Commencement: Sch. Pt. I in operation at made date
 
 [^f00007]: Footnote: Section 8(7) is modified in its application to Northern Ireland by paragraph 5(2) of Schedule 8
 
@@ -186,6 +198,8 @@ It further provides for the coming into operation on 2nd December 1996 of supple
 [^f00010]: Footnote: Section 54 is modified in its application to Northern Ireland by paragraph 37 of Schedule 8
 
 [^f00011]: Footnote: Section 56 is modified in its application to Northern Ireland by paragraph 38 of Schedule 8
+
+[^c-dc4d6eed43b93fb8eee09edfc6d32c4e]: Commencement: Sch. Pt. II in operation at made date
 
 [^f00012]: Footnote: Section 4 is modified in its application to Northern Ireland by paragraph 3 of Schedule 8
 

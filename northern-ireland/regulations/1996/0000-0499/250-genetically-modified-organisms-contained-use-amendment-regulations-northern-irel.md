@@ -3,14 +3,14 @@ title: Genetically Modified Organisms (Contained Use) (Amendment) Regulations (N
 id: nisr/1996/250
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-25'
-text_date: null
-extent: null
+text_date: '1996-06-25'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/250
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/250/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/250/data.pdf
+pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 1996-06-25. See https://www.legislation.gov.uk/changes/affected/nisr/1996/250
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 250
 
@@ -36,17 +42,17 @@ Coming into operation
 
 The Department of Economic Development, the Department of Agriculture and the Department of the Environment being Departments designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the control and regulation of genetically modified organisms, acting jointly in the exercise of the powers conferred on them by the said section 2(2), the Department of Economic Development, acting as the Department concerned[^f00003], in exercise of the powers conferred by Articles 17(1), (2), (4) and (5) of, and paragraphs 1(1) and (5), 3(1), and 14(1) of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00004] and those Departments, in exercise of every other power enabling them in that behalf, after consultation with the Health and Safety Agency for Northern Ireland and such other bodies as appeared to them to be appropriate, hereby make the following Regulations:—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-6cc210854507fb7c35ca8489ba23b080]
 
 These Regulations may be cited as the Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 29th July 1996.
 
-## 2. Interpretation
+## 2. Interpretation[^c-7f4f32ea5ffcdb6c5255a24f950e168b]
 
 (1) In these Regulations, “the principal Regulations” means the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^f00005].
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Amendments to the principal Regulations
+## 3. Amendments to the principal Regulations[^c-e36f0751857f53f891e1433b1a317bd1]
 
 (1) The principal Regulations shall be amended in accordance with Schedule 1 to these Regulations.
 
@@ -80,9 +86,9 @@ Assistant Secretary
 
 Regulation 3(1)
 
-**1.** The principal Regulations shall be amended in accordance with the following paragraphs of this Schedule.
+**1.**[^c-f0519d8fc1a8c881991f74768b150056] The principal Regulations shall be amended in accordance with the following paragraphs of this Schedule.
 
-**2.** In regulation 2—
+**2.**[^c-8fe7edbaffb83f665f672180ebc1981b] In regulation 2—
 
 - (a) in paragraph (1)—
   - (i) after the definition of “activity involving genetic modification” there shall be inserted the following definition—
@@ -116,7 +122,7 @@ Regulation 3(1)
 
   .
 
-**3.** For sub-paragraph (*a*) of paragraph (2) of regulation 6 there shall be substituted the following sub-paragraph—
+**3.**[^c-1a8354278b787a90e0f3886257b3cac9] For sub-paragraph (*a*) of paragraph (2) of regulation 6 there shall be substituted the following sub-paragraph—
 
 > - (a) genetically modified organisms are cultured, stored, used, transported, destroyed or disposed of, where such organisms are or are contained in—
 >   - (i) a product marketed in pursuance of either—
@@ -126,7 +132,7 @@ Regulation 3(1)
 >     in either case, the operation is conducted in accordance with any conditions or limitations attached to that consent, or
 >   - (ii) a medicinal product for human or veterinary use marketed in accordance with Council Regulation [(EEC) No. 2309/93](https://www.legislation.gov.uk/european/regulation/1993/2309)[^f00010]; or
 
-**4.** At the end of paragraph (2) of regulation 8 but before the full stop, there shall be inserted a comma followed by the words—
+**4.**[^c-928f10965236f52f931da1d4e4a950c1] At the end of paragraph (2) of regulation 8 but before the full stop, there shall be inserted a comma followed by the words—
 
 > - except that a separate notification shall not be required—
 >   - (a) where a consent has already been given under paragraph (3) for activities involving Group II micro-organisms and the premises are to be used for activities involving Group I micro-organisms; or
@@ -134,11 +140,11 @@ Regulation 3(1)
 
 .
 
-**5.** In sub-paragraphs (2)(*b*) and (4)(*b*) of regulation 9 for the words “Part III” in each place where they occur there shall be substituted the words “Part II”.
+**5.**[^c-dfe9ca94d5db04e5f8dd1f8556904a67] In sub-paragraphs (2)(*b*) and (4)(*b*) of regulation 9 for the words “Part III” in each place where they occur there shall be substituted the words “Part II”.
 
-**6.** In paragraph 3(*e*) of Schedule 1 for the words “fulfil the criteria of Part III” there shall be substituted the words “satisfy the criteria of Part II”.
+**6.**[^c-bb4d623afc7e8c2ee11f193bfeca8609] In paragraph 3(*e*) of Schedule 1 for the words “fulfil the criteria of Part III” there shall be substituted the words “satisfy the criteria of Part II”.
 
-## SCHEDULE 2 — Schedule to be Substituted as Schedule 2 to the Principal Regulations
+## SCHEDULE 2 — Schedule to be Substituted as Schedule 2 to the Principal Regulations[^c-092efa4a24fa4ebf144b48118d2ee727]
 
 Regulation 3(2)
 
@@ -195,14 +201,34 @@ Regulation 8(2) of the principal Regulations is amended to provide that a separa
 
 [^f00004]: Footnote: S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
 
+[^c-6cc210854507fb7c35ca8489ba23b080]: Commencement: Reg. 1 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)
+
+[^c-7f4f32ea5ffcdb6c5255a24f950e168b]: Commencement: Reg. 2 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)
+
 [^f00005]: Footnote: [S.R. 1994 No. 143](https://www.legislation.gov.uk/nisr/1994/143), to which there are amendments not relevant to these Regulations
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
+[^c-e36f0751857f53f891e1433b1a317bd1]: Commencement: Reg. 3 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)
+
+[^c-f0519d8fc1a8c881991f74768b150056]: Commencement: Sch. 1 para. 1 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)
+
+[^c-8fe7edbaffb83f665f672180ebc1981b]: Commencement: Sch. 1 para. 2 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)
+
 [^f00007]: Footnote: [1993 c. 51](https://www.legislation.gov.uk/ukpga/1993/51)
+
+[^c-1a8354278b787a90e0f3886257b3cac9]: Commencement: Sch. 1 para. 3 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)
 
 [^f00008]: Footnote: S.I. [1991/1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1991/1714)
 
 [^f00009]: Footnote: O.J. No. L117, 8.5.90, p. 15
 
 [^f00010]: Footnote: O.J. No. L214, 24.8.93, p. 1
+
+[^c-928f10965236f52f931da1d4e4a950c1]: Commencement: Sch. 1 para. 4 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)
+
+[^c-dfe9ca94d5db04e5f8dd1f8556904a67]: Commencement: Sch. 1 para. 5 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)
+
+[^c-bb4d623afc7e8c2ee11f193bfeca8609]: Commencement: Sch. 1 para. 6 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)
+
+[^c-092efa4a24fa4ebf144b48118d2ee727]: Commencement: Sch. 2 in operation at 29.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/250/regulation/1)

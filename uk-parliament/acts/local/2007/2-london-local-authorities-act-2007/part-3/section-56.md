@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 56
 act: London Local Authorities Act 2007
 section: '56'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/56
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 56
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 56. Unlicensed street trading under Act of 1999
+## 56. Unlicensed street trading under Act of 1999[^c-16b93ce79a762938ed3ebbb30aa30b10]
+
+*Extent: E+W*
 
 (1) Section 27 (unlicensed street trading) of the Act of 1999 is amended as follows.
 
@@ -34,3 +38,7 @@ summary: ''
   > - (h) where this paragraph applies, the council may make a complaint to the magistrates' court for a disposal order under section 27C (disposal orders) of this Act (whether or not proceedings for an offence under this section have been commenced).
 
   .
+
+## Annotations
+
+[^c-16b93ce79a762938ed3ebbb30aa30b10]: Commencement: [S. 56](https://www.legislation.gov.uk/ukla/2007/2/section/56) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

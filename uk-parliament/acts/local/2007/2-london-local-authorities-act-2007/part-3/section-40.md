@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 40
 act: London Local Authorities Act 2007
 section: '40'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 40
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 40. Lapsing of street trading licence under Act of 1990
+## 40. Lapsing of street trading licence under Act of 1990[^c-9d4459e1a488569b7d03dc1707c23c6a]
+
+*Extent: E+W*
 
 (1) In subsection (4)(b) of section 29 (further provisions relating to grant, renewal or revocation of street trading licences) of the Act of 1990, for “the next following subsection” there is substituted “section 30 (Part III appeals) of this Act”.
 
@@ -30,3 +34,7 @@ summary: ''
 > as the case may be.
 
 .
+
+## Annotations
+
+[^c-9d4459e1a488569b7d03dc1707c23c6a]: Commencement: [S. 40](https://www.legislation.gov.uk/ukla/2007/2/section/40) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

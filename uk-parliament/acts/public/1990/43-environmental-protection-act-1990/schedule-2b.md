@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2B (Extent: E+W) (affected by repeal, see note) — Categories of waste (Extent: E+W) (affected by repeal, see note)[^c-2b48fb47f6185886b3c0b508e3cdc9b3][^c13752361][^c-2b48fb47f6185886b3c0b508e3cdc9b3]
+## SCHEDULE 2B (Extent: E+W) (affected by repeal, see note) — Categories of waste (Extent: E+W) (affected by repeal, see note)[^c-2b48fb47f6185886b3c0b508e3cdc9b3][^c13752361][^c13739731][^c-2b48fb47f6185886b3c0b508e3cdc9b3]
 
 *Extent: E+W+S*
 
@@ -57,3 +57,5 @@ summary: ''
 [^c-2b48fb47f6185886b3c0b508e3cdc9b3]: Textual amendment: Sch. 2B omitted (E.W.) (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 3(9)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/3/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^c13752361]: Textual amendment: Sch. 2B inserted (1.1.2005 for S. and 15.5.2006 for E.W.) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [125(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/3), [Sch. 22 para.95](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/95) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.S.I. 2004/541](https://www.legislation.gov.uk/ssi/2004/541), [art. 2](https://www.legislation.gov.uk/ssi/2004/541/article/2); [S.I. 2006/934](https://www.legislation.gov.uk/uksi/2006/934), [art. 2](https://www.legislation.gov.uk/uksi/2006/934/article/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

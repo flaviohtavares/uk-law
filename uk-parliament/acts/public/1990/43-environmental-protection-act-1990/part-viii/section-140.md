@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Power to prohibit or restrict the importation, use, supply or storage of injurious substances or articles.[^c13747921]
+## 140. Power to prohibit or restrict the importation, use, supply or storage of injurious substances or articles.[^c13747921][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,6 +107,8 @@ but the Secretary of State shall not make any regulations incorporating modifica
 ## Annotations
 
 [^c13747921]: Modification: S. 140 extended (with modifications) (19.2.1999) by [S.I. 1999/396](https://www.legislation.gov.uk/uksi/1999/396), [reg. 2](https://www.legislation.gov.uk/uksi/1999/396/regulation/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13747931]: Textual amendment: Words in s. 140(3)(c) substituted (E.W.S.) (6.5.1999) by [S.I. 1999/1108](https://www.legislation.gov.uk/uksi/1999/1108), [reg. 2](https://www.legislation.gov.uk/uksi/1999/1108/regulation/2)
 

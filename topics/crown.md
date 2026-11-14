@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **CROWN**. Repealed l
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Sovereign Grant Act 2011](../uk-parliament/acts/public/2011/15-sovereign-grant-act-2011.md) — 3 regulations on this topic made under it
+- [Sovereign Grant Act 2011](../uk-parliament/acts/public/2011/15-sovereign-grant-act-2011.md) *(changes pending)* — 3 regulations on this topic made under it
 
 ## Regulations
 

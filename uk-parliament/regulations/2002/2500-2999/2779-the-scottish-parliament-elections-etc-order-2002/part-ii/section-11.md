@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 11
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '11'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 11. Proxies at Scottish parliamentary elections
+## 11. Proxies at Scottish parliamentary elections[^c-4d5300b4945f61deaae81f52e92cfdb0]
+
+*Extent: S*
 
 (1) Subject to the provisions of this article, any person is capable of being appointed proxy to vote for another (in this article and article 12 referred to as “the elector”) at any Scottish parliamentary election and may vote in pursuance of the appointment.
 
@@ -49,3 +53,7 @@ and that the proxy is capable of being and willing to be appointed.
 
 - (a) in the case of an appointment for a particular election, for that election; and
 - (b) in any other case, while the elector is shown as voting by proxy in the record kept under article 9 in pursuance of the same application under that article.
+
+## Annotations
+
+[^c-4d5300b4945f61deaae81f52e92cfdb0]: Commencement: Art. 11 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

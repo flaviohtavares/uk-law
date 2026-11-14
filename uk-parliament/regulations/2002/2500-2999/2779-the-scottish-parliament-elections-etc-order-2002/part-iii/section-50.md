@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 50
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '50'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 50
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 50. Authorised excuses for failure as to return and declarations
+## 50. Authorised excuses for failure as to return and declarations[^c-f8850b7d9273dfff4c419c750e877e69]
+
+*Extent: S*
 
 (1) A candidate, a party’s nominating officer or an election agent may apply for relief under this article to–
 
@@ -73,3 +77,7 @@ the court shall relieve the candidate from the consequences of the act or omissi
 (10) The jurisdiction vested by this article in the sheriff may be exercised other than in open court.
 
 (11) An appeal lies to the Court of Session from any order of the sheriff made by virtue of this article.
+
+## Annotations
+
+[^c-f8850b7d9273dfff4c419c750e877e69]: Commencement: Art. 50 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

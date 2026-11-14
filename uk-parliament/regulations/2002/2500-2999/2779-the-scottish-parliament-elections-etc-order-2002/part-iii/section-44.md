@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 44
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '44'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 44
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 44. Return as to election expenses: candidates for return as constituency members and individual candidates for return as regional members
+## 44. Return as to election expenses: candidates for return as constituency members and individual candidates for return as regional members[^c-9a4ada53c4bd2780a43d37c0f6d3377b]
+
+*Extent: S*
 
 (1) Within 35 days after the day on which the result of a Scottish parliamentary election is declared the election agent of every–
 
@@ -47,3 +51,7 @@ at the election shall deliver to the appropriate returning officer a true return
 - (g) a statement of the amount, if any, of money provided by the candidate from his own resources for the purpose of meeting election expenses incurred by him or on his behalf.
 
 (4) Where after the date at which the return as to election expenses is delivered leave is given by the court under article 41(5) above for any claims to be paid, the candidate or his election agent shall, within seven days after its payment, deliver to the appropriate returning officer a return of the sums paid in pursuance of the leave accompanied by a copy of the order of the court giving the leave and in default he shall be deemed to have failed to comply with the requirements of this article without such authorised excuse as is mentioned in article 50 below.
+
+## Annotations
+
+[^c-9a4ada53c4bd2780a43d37c0f6d3377b]: Commencement: Art. 44 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

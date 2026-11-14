@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 114
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '114'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/114
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,57 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 114
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Overpayments of support payable under Part 5 or Part 6[^c-0730f51aa880eac99a9a66e76fb29bfd]
+## 114. Overpayments of support payable under Part 5 or Part 6[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) An eligible student must, if so required by the Secretary of State, repay any amount paid to the student under Part 5 or 6 which for whatever reason exceeds the amount of support to which the student is entitled under Part 5 or 6.
-
-(2) The Secretary of State must recover an overpayment of any grant for living and other costs unless the Secretary of State considers it is not appropriate to do so.
-
-(3) The methods of recovery are—
-
-- (a) subtracting the overpayment from any kind of grant payable to the student from time to time pursuant to regulations made by the Secretary of State under section 22 of the 1998 Act;
-- (b) taking such other action for the recovery of an overpayment as is available to the Secretary of State.
-
-(4) A payment of any grant for living and other costs made before the relevant date is an overpayment if the student withdraws from the course before the relevant date unless the Secretary of State decides otherwise.
-
-(5) In this regulation, the “relevant date” is the date on which the first term of the academic year in question actually begins.
-
-(6) In the circumstances in paragraph (7) or (8), there is an overpayment of the disabled students’ allowance unless the Secretary of State decides otherwise.
-
-(7) The circumstances are—
-
-- (a) the Secretary of State applies all or part of the disabled students’ allowance to the purchase of specialist equipment on behalf of the eligible student;
-- (b) the student’s period of eligibility terminates after the relevant date; and
-- (c) the equipment has not been delivered to the student before the student’s period of eligibility terminates.
-
-(8) The circumstances are—
-
-- (a) the eligible student’s period of eligibility terminates after the relevant date; and
-- (b) a payment of the disabled students’ allowance in respect of specialist equipment is made to the student after the student’s period of eligibility terminated.
-
-(9) Where there is an overpayment of the disabled students’ allowance, the Secretary of State may accept the return of specialist equipment purchased with the grant by way of recovery of all or part of the overpayment if the Secretary of State considers it is appropriate to do so.
-
-(10) Any overpayment of a loan for living costs or a long courses loan in respect of any academic year may be recovered if in the opinion of the Secretary of State—
-
-- (a) the overpayment is a result of a failure of the student to provide promptly information which might affect whether the student qualifies for the loan in question or the amount of the loan in question for which the student qualifies;
-- (b) any information which the student has provided is inaccurate in a material particular; or
-- (c) the student has failed to provide information which the Secretary of State considers to be material in the context of the recovery of the loan.
-
-(11) Where an overpayment of a loan for living costs or a long courses loan is recoverable under paragraph (10), it may be recovered in whichever one or more of the following ways the Secretary of State considers appropriate in all the circumstances—
-
-- (a) by subtracting the overpayment from any amount of the loan in question payable to the student from time to time;
-- (b) by taking such other action for the recovery of an overpayment as is available to the Secretary of State.
-
-(12) Where there has been an overpayment of a loan for living costs or long courses loan which is not recoverable under paragraph (10), the Secretary of State may subtract the overpayment from any amount of the loan in question payable to the student from time to time.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-0730f51aa880eac99a9a66e76fb29bfd]: Commencement: Reg. 114 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

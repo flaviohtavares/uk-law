@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 16
 act: London Local Authorities Act 2007
 section: '16'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 16. Forfeiture of seized items
+## 16. Forfeiture of seized items[^c-34bcde04f7e11d3aafd28ac79e1eb133]
+
+*Extent: E+W*
 
 (1) Subject to subsection (2) below, the court by or before which a person is convicted of an advertising offence may order any relevant object which the court is satisfied relates to the offence to be forfeited and dealt with in such a manner as the court may order.
 
@@ -28,3 +32,7 @@ summary: ''
   - (ii) the owner of the object,
 
   of the making of the order (taken together with any other order that the court contemplates making).
+
+## Annotations
+
+[^c-34bcde04f7e11d3aafd28ac79e1eb133]: Commencement: [S. 16](https://www.legislation.gov.uk/ukla/2007/2/section/16) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

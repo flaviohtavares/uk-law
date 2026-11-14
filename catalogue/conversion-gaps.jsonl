@@ -107,7 +107,6 @@
 {"id": "uksi/2005/1643", "missing_total": 9, "missing": {"lep": 5, "lex": 1, "teis": 1, "laeq": 1, "lcpeak": 1}}
 {"id": "uksi/2006/1003", "missing_total": 2, "missing": {"18291": 2}}
 {"id": "uksi/2006/1135", "missing_total": 1, "missing": {"laeq": 1}}
-{"id": "uksi/2008/1582", "missing_total": 2, "missing": {"where": 1, "y": 1}}
 {"id": "uksi/2008/2924", "missing_total": 2, "missing": {"n-0": 2}}
 {"id": "uksi/2008/3133", "missing_total": 16, "missing": {"lae": 6, "80lae": 3, "laemeas": 2, "84lae": 1, "76lae": 1, "lamax": 1, "laewhere": 1, "laeref": 1}}
 {"id": "uksi/2008/529", "missing_total": 2, "missing": {"where": 1, "y": 1}}

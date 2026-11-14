@@ -3,16 +3,16 @@ title: The Licensing Act 2003 (Hearings) Regulations 2005
 id: uksi/2005/44
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2005-01-12'
-text_date: '2021-05-01'
+text_date: '2026-11-03'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2005/44
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2005/44/pdfs/uksiem_20050044_en.pdf
 - http://www.legislation.gov.uk/uksi/2005/44/pdfs/uksi_20050044_en.pdf
 - http://www.legislation.gov.uk/uksi/2005/44/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Licensing Act 2003 (Hearings) Regulations 2005
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2021-05-01. See https://www.legislation.gov.uk/changes/affected/uksi/2005/44
+> Text as at 2026-11-03.
 >
 > Extent: England, Wales.
 
@@ -61,6 +61,8 @@ These Regulations may be cited as the Licensing Act 2003 (Hearings) Regulations 
 - “legible in all material respects” means that the information contained in the notice is available to the recipient to no lesser extent than it would be if given by means of a document in written form;
 - “notice of hearing” means the notice given under regulation 6(1);
 - “party to the hearing” means a person to whom the notice of hearing is to be given in accordance with regulation 6(1) and “party” and “parties” shall be construed accordingly.
+
+(1A)[^c-ce8f9064b3fcf02c2057280223ed588c] In these Regulations, a reference to a party includes the Greater London Authority if a London licensing authority has given specified information to the Greater London Authority, in relation to the hearing, under section 18(9A) or 35(8) of the Act.
 
 (2) In these Regulations, a reference to the application, representations or notice made by a party means the application, representations or notice referred to in relation to that party in column 2 of the table in Schedule 2.
 
@@ -505,9 +507,11 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^c-a68cbe66e492c6272a5f801bdccc2ba3]: Commencement: Reg. 2 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/44/regulation/1)
 
-[^c-a9e4106ddb186256602ab0c096a1d833]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2005/44/regulation/2/2A) inserted (W.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/wsi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/356/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2021/356/regulation/8/2) (with [regs. 10](https://www.legislation.gov.uk/wsi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/wsi/2021/356/regulation/11))
+[^c-ce8f9064b3fcf02c2057280223ed588c]: Textual amendment: Reg. 2(1A) inserted (E.) (3.11.2026) by [The Licensing Act 2003 (Applications of Potential Strategic Importance to Greater London etc and Consequential Amendment) Regulations 2026 (S.I. 2026/1078)](https://www.legislation.gov.uk/uksi/2026/1078), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1078/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/1078/regulation/8/2) (with [reg. 15](https://www.legislation.gov.uk/uksi/2026/1078/regulation/15))
 
-[^c-024a531ffb6b014beb7b714592cdb897]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2005/44/regulation/2/4) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/3/2)
+[^c-a9e4106ddb186256602ab0c096a1d833]: Textual amendment: Reg. 2(2A) inserted (W.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/wsi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/356/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2021/356/regulation/8/2) (with [regs. 10](https://www.legislation.gov.uk/wsi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/wsi/2021/356/regulation/11))
+
+[^c-024a531ffb6b014beb7b714592cdb897]: Textual amendment: Reg. 2(4) inserted (1.10.2007) by [The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (S.I. 2007/2502)](https://www.legislation.gov.uk/uksi/2007/2502), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2502/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2502/regulation/3/2)
 
 [^c-519c12828cc6e00ef45082ad8eff8111]: Commencement: Reg. 3 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/44/regulation/1)
 

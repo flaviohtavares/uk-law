@@ -35,7 +35,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Amendment Order 2008](../scotland/regulations/2008/0000-0499/374-the-justice-of-the-peace-court-sheriffdom-of-glasgow-and-strathkelvin-amendment.md) *(as originally made)*
 - [The Justice of the Peace Court (Sheriffdom of Glasgow and Strathkelvin) Order 2008](../scotland/regulations/2008/0000-0499/328-the-justice-of-the-peace-court-sheriffdom-of-glasgow-and-strathkelvin-order-2008.md) *(as originally made)*
 - [The Justice of the Peace Courts (Sheriffdom of Grampian, Highland and Islands) Amendment Order 2008](../scotland/regulations/2008/0000-0499/179-the-justice-of-the-peace-courts-sheriffdom-of-grampian-highland-and-islands-amen.md) *(as originally made)*
-- [The Justice of the Peace Courts (Sheriffdom of Grampian, Highland and Islands) Order 2008](../scotland/regulations/2008/0000-0499/93-the-justice-of-the-peace-courts-sheriffdom-of-grampian-highland-and-islands-orde.md) *(as originally made)*
+- [The Justice of the Peace Courts (Sheriffdom of Grampian, Highland and Islands) Order 2008](../scotland/regulations/2008/0000-0499/93-the-justice-of-the-peace-courts-sheriffdom-of-grampian-highland-and-islands-orde.md) *(changes pending)*
 - [The Justice of the Peace Courts (Sheriffdom of Tayside, Central and Fife) Order 2008](../scotland/regulations/2008/0000-0499/363-the-justice-of-the-peace-courts-sheriffdom-of-tayside-central-and-fife-order-200.md) *(as originally made)*
 
 Not official and not legal advice: check [legislation.gov.uk](https://www.legislation.gov.uk) before relying on any text.

@@ -328,7 +328,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Appeals (Excluded Decisions) Order 2008](../uk-parliament/regulations/2008/2500-2999/2707-the-appeals-excluded-decisions-order-2008.md) *(as originally made)*
 - [The Appeals from the Upper Tribunal to the Court of Appeal Order 2008](../uk-parliament/regulations/2008/2500-2999/2834-the-appeals-from-the-upper-tribunal-to-the-court-of-appeal-order-2008.md) *(as originally made)*
 - [The First-tier Tribunal and Upper Tribunal (Composition of Tribunal) Order 2008](../uk-parliament/regulations/2008/2500-2999/2835-the-first-tier-tribunal-and-upper-tribunal-composition-of-tribunal-order-2008.md)
-- [The Judicial Appointments Order 2008](../uk-parliament/regulations/2008/2500-2999/2995-the-judicial-appointments-order-2008.md) *(changes pending)*
+- [The Judicial Appointments Order 2008](../uk-parliament/regulations/2008/2500-2999/2995-the-judicial-appointments-order-2008.md)
 - [The Membership of the Tribunal Procedure Committee Transitional Order 2008](../uk-parliament/regulations/2008/1000-1499/1149-the-membership-of-the-tribunal-procedure-committee-transitional-order-2008.md) *(as originally made)*
 - [The Mental Health Review Tribunal for Wales Rules 2008](../uk-parliament/regulations/2008/2500-2999/2705-the-mental-health-review-tribunal-for-wales-rules-2008.md)
 - [The Mesothelioma Lump Sum Payments (Claims and Reconsiderations) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2706-the-mesothelioma-lump-sum-payments-claims-and-reconsiderations-amendment-regulat.md) *(as originally made)*

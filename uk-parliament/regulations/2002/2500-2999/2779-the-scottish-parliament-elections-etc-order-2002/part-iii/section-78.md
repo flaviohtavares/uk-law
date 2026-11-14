@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 78
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '78'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/78
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 78
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 78. Savings as to Scottish parliamentary elections
+## 78. Savings as to Scottish parliamentary elections[^c-546e3512d01027526d139cb3863314fc]
+
+*Extent: S*
 
 (1) Where a person has been declared by others to be a candidate at a Scottish parliamentary election without his consent, nothing in this Part shall be construed to impose any liability on that person, unless he has afterwards given his assent to the declaration or has been nominated.
 
@@ -25,3 +29,7 @@ summary: ''
 - (c) is not refused to any person for the purpose of preventing him from recording his vote for any particular candidate or, as the case may be, registered party,
 
 but this paragraph shall not be construed as making illegal any act which would not be illegal apart from this paragraph.
+
+## Annotations
+
+[^c-546e3512d01027526d139cb3863314fc]: Commencement: Art. 78 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

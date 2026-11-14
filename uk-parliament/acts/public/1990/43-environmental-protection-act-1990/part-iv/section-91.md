@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91. Summary proceedings by persons aggrieved by litter.[^c13745431]
+## 91. Summary proceedings by persons aggrieved by litter.[^c13745431][^c13739731]
 
 *Extent: E+W+S*
 
@@ -75,6 +75,8 @@ and any person against whom proceedings are brought may appeal on a point of law
 ## Annotations
 
 [^c13745431]: Commencement: S. 91 in force: s. 91 not in force at Royal Assent see s. 164(2); s. 91(1)(a)-(f)(2)-(13) in force 1.4.1991, s. 91(1)(g) in force 1.6.1991 see s. 164(3) and [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [arts. 2](https://www.legislation.gov.uk/uksi/1991/1042/article/2), [3](https://www.legislation.gov.uk/uksi/1991/1042/article/3)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c18979511]: Textual amendment: Word in s. 91(1)(e) inserted (E.W.) (6.3.2007 for E. and 18.1.2008 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 106](https://www.legislation.gov.uk/ukpga/2005/16/section/106), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2005/16/schedule/4/paragraph/6); [S.I. 2007/390](https://www.legislation.gov.uk/uksi/2007/390), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/390/article/2/a); [S.I. 2007/3371](https://www.legislation.gov.uk/uksi/2007/3371), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3371/article/2/a)
 

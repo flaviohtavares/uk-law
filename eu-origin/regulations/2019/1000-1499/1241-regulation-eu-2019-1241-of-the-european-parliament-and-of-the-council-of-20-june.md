@@ -3,15 +3,15 @@ title: Regulation (EU) 2019/1241 of the European Parliament and of the Council o
 id: eur/2019/1241
 type: EuropeanUnionRegulation
 category: euretained
-status: revised-with-pending-changes
+status: revised
 made_date: '2019-06-20'
-text_date: '2025-02-27'
+text_date: '2026-11-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/eur/2019/1241
 pdf_urls:
 - http://www.legislation.gov.uk/eur/2019/1241/pdfs/eur_20191241_adopted_en.pdf
 - http://www.legislation.gov.uk/eur/2019/1241/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/eur/2019/1241
+> Text as at 2026-11-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -1194,7 +1194,7 @@ New licences shall not be granted to any vessel during this period.
 <tr><td>Red sea-bream (<em>Pagellus bogaraveo</em>)</td><td>33 cm</td></tr>
 <tr><td>Lobster (<em>Hommarus gammarus</em>)</td><td>87 mm</td></tr>
 <tr><td>Spinous spider crab (<em>Maja squinado</em>)</td><td>120 mm</td></tr>
-<tr><td>Queen scallop (<em>Chlamys</em> spp.)</td><td>40 mm</td></tr>
+<tr><td>Queen scallop (<em>Chlamys</em> spp.)</td><td>40 mm (in the Welsh zone, a minimum conservation reference size of 55mm applies)</td></tr>
 <tr><td>Grooved carpetshell (<em>Ruditapes decussatus</em>)</td><td>40 mm</td></tr>
 <tr><td>Carpetshell (<em>Venerupis pullastra</em>)</td><td>38 mm</td></tr>
 <tr><td>Short-necked clam (<em>Venerupis philippinarum</em>)</td><td>35 mm</td></tr>
@@ -1209,7 +1209,7 @@ New licences shall not be granted to any vessel during this period.
 <tr><td>Crawfish (<em>Palinurus</em> spp.)</td><td>95 mm (in the English zone only a minimum conservation reference size of 110 mm shall apply)</td></tr>
 <tr><td>Deepwater rose shrimp (<em>Parapenaeus longirostris</em>)</td><td>22 mm (carapace length)</td></tr>
 <tr><td>Edible crab (<em>Cancer pagurus</em>)</td><td>140 mm</td></tr>
-<tr><td>Scallop (<em>Pecten maximus</em>)</td><td>100 mm</td></tr>
+<tr><td>Scallop (<em>Pecten maximus</em>)</td><td>100 mm (in the Welsh zone, a minimum conservation reference size of 110mm applies)</td></tr>
 <tr><td>Bluefin tuna (Thunnus thynnus)</td><td>115 cm or 30 kg</td></tr>
 <tr><td>Lemon Sole (Microstomus kitt)</td><td>25cm applicable in ICES divisions 7d and 7e only</td></tr>
 <tr><td>Turbot (Scophthalmus maximus)</td><td>30cm applicable in ICES divisions 7d and 7e only</td></tr>
@@ -1217,7 +1217,7 @@ New licences shall not be granted to any vessel during this period.
 </tbody>
 </table>
 
-[^c-b3dd00231b0ada27d5fed99d8e2714bb][^c-f8172a01bcfd780af2c0dffa89169113][^c-a0ca62e93081c2dd51a0333e80bea7c2][^f00042][^f00043][^f00047][^f00047][^f00047][^f00047][^f00047][^c-6256237a09aad4062f15c24fb26c75e2][^f00044][^f00045][^f00046][^f01001][^c-86477093eb5c04b50c55a26b5501ebf5]
+[^c-b3dd00231b0ada27d5fed99d8e2714bb][^c-f8172a01bcfd780af2c0dffa89169113][^c-a0ca62e93081c2dd51a0333e80bea7c2][^f00042][^f00043][^f00047][^f00047][^f00047][^f00047][^f00047][^c-b5daa5a86baa218571f87080977afe71][^c-6256237a09aad4062f15c24fb26c75e2][^f00044][^f00045][^f00046][^c-5d27b95cdbc16492aca984e7b9420224][^f01001][^c-86477093eb5c04b50c55a26b5501ebf5]
 
 The percentage of sardine, anchovy, herring, horse mackerel or mackerel below the minimum conservation reference size shall be calculated as the proportion by live weight of all marine organisms on board after sorting or on landing.
 
@@ -2704,6 +2704,8 @@ Where the data referred to in point 2 of the introductory paragraph of this Anne
 
 [^f00047]: Footnote: By way of derogation from Article 15 of Regulation (EU) No 1380/2013, the minimum conservation reference sizes of sardine, anchovy, herring, horse mackerel and mackerel shall not apply within a limit of 10 % by live weight of the total catches retained on board of each of those species.
 
+[^c-b5daa5a86baa218571f87080977afe71]: Textual amendment: Words in [Annex 6](https://www.legislation.gov.uk/eur/2019/1241/annex/VI) Pt. A table inserted (1.11.2026) by [The Scallop (Amendment of Minimum Conservation Reference Sizes) (Wales) Regulations 2026 (W.S.I. 2026/120)](https://www.legislation.gov.uk/wsi/2026/120), [reg. 2(2)(a)](https://www.legislation.gov.uk/wsi/2026/120/regulation/2/2/a)
+
 [^c-6256237a09aad4062f15c24fb26c75e2]: Textual amendment: Words in Annex 6 Pt. A table inserted (16.12.2024) by [The Sea Fisheries (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1028)](https://www.legislation.gov.uk/uksi/2024/1028), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1028/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1028/regulation/2/4/b)
 
 [^f00044]: Footnote: In United Kingdom[^c-b3dd00231b0ada27d5fed99d8e2714bb] waters in ICES sub-areas, 5, 6 south of 56° N and 7, except ICES divisions 7d, 7e and 7f, a minimum conservation reference size of 130 mm shall apply.
@@ -2711,6 +2713,8 @@ Where the data referred to in point 2 of the introductory paragraph of this Anne
 [^f00045]: Footnote: For edible crabs caught in pots or creels, a maximum of 1 % by weight of the total catch of edible crab may consist of detached claws. For edible crabs caught with any other fishing gear, a maximum of 75 kg of detached crab claws may be landed.
 
 [^f00046]: Footnote: In ICES division 7a north of 52°30′ N, and ICES division 7d, a minimum conservation reference size of 110 mm shall apply.
+
+[^c-5d27b95cdbc16492aca984e7b9420224]: Textual amendment: Words in [Annex 6](https://www.legislation.gov.uk/eur/2019/1241/annex/VI) Pt. A table inserted (1.11.2026) by [The Scallop (Amendment of Minimum Conservation Reference Sizes) (Wales) Regulations 2026 (W.S.I. 2026/120)](https://www.legislation.gov.uk/wsi/2026/120), [reg. 2(2)(b)](https://www.legislation.gov.uk/wsi/2026/120/regulation/2/2/b)
 
 [^f01001]: Footnote: For extensions to and exemptions from the minimum conservation reference size (including derogations from Article 15 of[^c-f8172a01bcfd780af2c0dffa89169113] [Regulation (EU) No 1380/2013](https://www.legislation.gov.uk/european/regulation/2013/1380) ([EUR 2013/1380](https://www.legislation.gov.uk/european/regulation/2013/1380))), see Article 14 of [Regulation (EU) 2016/1627](https://www.legislation.gov.uk/european/regulation/2016/1627) of the European Parliament and of the Council on a multiannual recovery plan for bluefin tuna in the eastern Atlantic and the Mediterranean Regulation ([EUR 2016/1627](https://www.legislation.gov.uk/european/regulation/2016/1627)).
 

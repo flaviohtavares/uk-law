@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 85
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '85'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/85
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,23 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 85
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Persons to be treated as eligible students[^c-56cc067600a3f32e34efeaaa44708d2e]
+## 85. Persons to be treated as eligible students[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-A person is a “person treated as an eligible student” if—
-
-- (a) none of the circumstances in regulation 5(3) applies to that person; and
-- (b) either—
-  - (i) that person would have fallen within paragraph 3, 6, 7, 10 or 11 of Part 2 of Schedule 1 if any requirement in those paragraphs to be ordinarily resident in England at a particular time had been a requirement to be ordinarily resident in Scotland at that time or if any requirement to be working or self-employed in England had been a requirement to be working or self-employed in Scotland; or
-  - (ii) that person is settled in the United Kingdom by virtue of a right of permanent residence and would have fallen within paragraph 8 of Part 2 of Schedule 1 if the requirement in that paragraph to be ordinarily resident in England at a particular time had been a requirement to be ordinarily resident in Scotland.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-56cc067600a3f32e34efeaaa44708d2e]: Commencement: Reg. 85 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

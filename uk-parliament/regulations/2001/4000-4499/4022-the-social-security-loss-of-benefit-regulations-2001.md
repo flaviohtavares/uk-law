@@ -613,7 +613,7 @@ A payment under regulation 16D(1) is to be made in respect of—
 
 The amount of a payment under regulation 16D(1) for each day in respect of which such a payment is to be is made is to be determined in accordance with the formula—
 
-[image: see source](https://www.legislation.gov.uk/uksi/2001/4022)
+[image: see source](https://www.legislation.gov.uk/uksi/2001/4022/images/uksi_20014022_en_epp_001.gif)
 
 where A is equal to the amount of the reduction in the amount of O’s award or, as the case may be, the amount of O and J’s award, calculated under regulation 3ZB for the assessment period preceding the assessment period in which an application is submitted under regulation 16E(a).
 
@@ -986,7 +986,7 @@ These Regulations do not impose a charge on business.
 
 [^c-49f366e8ae09580f01b78e547b2e373b]: Textual amendment: Pt. 4A inserted (E.W.S.) (1.4.2013) by [The Social Security (Loss of Benefit)(Amendment) Regulations 2013 (S.I. 2013/385)](https://www.legislation.gov.uk/uksi/2013/385), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/385/regulation/1/2/c), [13](https://www.legislation.gov.uk/uksi/2013/385/regulation/13)
 
-[^c-0ba7cf08e8a97ee1be33e993e6556e1c]: Textual amendment: Pt. 4B inserted (29.4.2013) by [The Social Security (Loss of Benefit)(Amendment) Regulations 2013 (S.I. 2013/385)](https://www.legislation.gov.uk/uksi/2013/385), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/385/regulation/1/2/a)[(3)](https://www.legislation.gov.uk/uksi/2013/385/regulation/1/3)[14](https://www.legislation.gov.uk/uksi/2013/385/regulation/14)
+[^c-0ba7cf08e8a97ee1be33e993e6556e1c]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/uksi/2001/4022/part/4B) inserted (29.4.2013) by [The Social Security (Loss of Benefit) (Amendment) Regulations 2013 (S.I. 2013/385)](https://www.legislation.gov.uk/uksi/2013/385), [regs. 1(2)(a)(3)](https://www.legislation.gov.uk/uksi/2013/385/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2013/385/regulation/14)
 
 [^c-a321d6b7806a135955870a8f9227835f]: Textual amendment: Words in reg. 17(1) omitted (1.4.2010) by virtue of [The Social Security (Loss of Benefit) Amendment Regulations 2010 (S.I. 2010/1160)](https://www.legislation.gov.uk/uksi/2010/1160), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2010/1160/regulation/2/9/a)
 

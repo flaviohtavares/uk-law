@@ -3,7 +3,7 @@ title: Trade Union and Labour Relations (Consolidation) Act 1992, section 200
 act: Trade Union and Labour Relations (Consolidation) Act 1992
 section: '200'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/200
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Trade Union and Labour Relations (Consolidation) Act 1992, section 200
 
-> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+> **Warning: changes not yet applied to this text (27).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
 > Extent: England, Wales, Scotland.
 
@@ -30,7 +30,7 @@ summary: ''
 (3)[^c14519811] A Code containing practical guidance—
 
 - (a) on the time off and facilities[^c-d066b51306ed72b09185d4fbfacfd96d] to be permitted to a trade union learning representative in accordance with section 168A (time off for training and carrying out functions as a learning representative),
-- (b) on the training that is sufficient to enable a trade union learning representative to carry on the activities mentioned in section 168A(2) (activities for which time off is to be permitted), or *(affected by repeal, see note)*[^c-0900bc359a8caf96337e4edb9c169178]
+- (b) on the training that is sufficient to enable a trade union learning representative to carry on the activities mentioned in section 168A(2) (activities for which time off is to be permitted), [^c-0900bc359a8caf96337e4edb9c169178]...
 - (ba)[^c-ca98833487cf487449837aa562effd89] on the time off and facilities to be permitted to a trade union equality representative in accordance with section 168B (time off for training and carrying out functions as an equality representative),
 - (bb) on the training that is sufficient to enable a trade union equality representative to carry on the activities mentioned in section 168B(2) (activities for which time off is to be permitted), or
 - (c) on any of the matters referred to in section 199(2),
@@ -52,8 +52,8 @@ The order may contain such transitional provisions or savings as appear to him t
 
 [^c14519811]: Textual amendment: [S. 200(3)](https://www.legislation.gov.uk/ukpga/1992/52/section/200/3) substituted (27.4.2003) by [2002 c. 22](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 43(8)](https://www.legislation.gov.uk/ukpga/2002/22/section/43/8), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2003/1190](https://www.legislation.gov.uk/uksi/2003/1190), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1190/article/2/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1190/article/3))
 
-[^c-d066b51306ed72b09185d4fbfacfd96d]: Textual amendment: Words in [s. 200(3)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/200/3/a) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/6), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21)
+[^c-d066b51306ed72b09185d4fbfacfd96d]: Textual amendment: Words in [s. 200(3)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/200/3/a) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/6), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/1065/regulation/7))
 
-[^c-0900bc359a8caf96337e4edb9c169178]: Textual amendment: Word in [s. 200(3)(b)](https://www.legislation.gov.uk/ukpga/1992/52/section/200/3/b) omitted (6.1.2026 for specified purposes) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(9)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/9/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-0900bc359a8caf96337e4edb9c169178]: Textual amendment: Word in [s. 200(3)(b)](https://www.legislation.gov.uk/ukpga/1992/52/section/200/3/b) omitted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(9)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/9/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/h) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/1065/regulation/8))
 
-[^c-ca98833487cf487449837aa562effd89]: Textual amendment: [S. 200(3)(ba)](https://www.legislation.gov.uk/ukpga/1992/52/section/200/3/ba)[(bb)](https://www.legislation.gov.uk/ukpga/1992/52/section/200/3/bb) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(9)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/9/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-ca98833487cf487449837aa562effd89]: Textual amendment: [S. 200(3)(ba)](https://www.legislation.gov.uk/ukpga/1992/52/section/200/3/ba)[(bb)](https://www.legislation.gov.uk/ukpga/1992/52/section/200/3/bb) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(9)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/9/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/h) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/1065/regulation/8))

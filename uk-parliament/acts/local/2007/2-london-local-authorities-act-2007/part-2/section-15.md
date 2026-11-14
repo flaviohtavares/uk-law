@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 15
 act: London Local Authorities Act 2007
 section: '15'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/15
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 15
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 15. Disposal orders
+## 15. Disposal orders[^c-78251ece1c4c5fab674e120e2a4436c2]
+
+*Extent: E+W*
 
 (1) This section applies in respect of a complaint made by a borough council or the Police Commissioner for a disposal order in respect of a relevant object under subsection (5) of section 14 (return and disposal of seized items) of this Act.
 
@@ -28,3 +32,7 @@ summary: ''
 (4) In the case where a copy of a complaint has been served under subsection (2) above, if the relevant object in question is not of sufficient value to defray the expenses of seizing and storing it, the magistrates' court may order that the recipient of the copy of the complaint pay the expenses, or the balance of the expenses, reasonably incurred by the council or the Police Commissioner in seizing and storing it, if it is satisfied that the recipient was the owner of the relevant object in question or was the person from whom it was seized, as the case may be.
 
 (5) For the purposes of this section, “owner” in respect of a vehicle, has the same meaning as it has for the purposes of section 13 (advertising: seizure) of this Act.
+
+## Annotations
+
+[^c-78251ece1c4c5fab674e120e2a4436c2]: Commencement: [S. 15](https://www.legislation.gov.uk/ukla/2007/2/section/15) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

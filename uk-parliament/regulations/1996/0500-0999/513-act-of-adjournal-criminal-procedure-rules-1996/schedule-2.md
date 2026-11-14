@@ -3,7 +3,7 @@ title: Act of Adjournal (Criminal Procedure Rules) 1996, SCHEDULE 2
 act: Act of Adjournal (Criminal Procedure Rules) 1996
 section: schedule-2
 status: revised-with-pending-changes
-text_date: '2026-04-06'
+text_date: '2026-11-02'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/1996/513/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Act of Adjournal (Criminal Procedure Rules) 1996, SCHEDULE 2
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/1996/513
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/uksi/1996/513
 >
 > Extent: Scotland.
 
@@ -1059,6 +1059,18 @@ the persons on the reserve list will, in the order in which their names were dra
 (2) In the case of any juror who elects to affirm, the clerk of court shall administer the affirmation in accordance with the form in Form 14.3-B.
 
 (3) The oath or the affirmation administered in accordance with paragraph (1) or (2), as the case may be, shall be treated as having been administered for the purposes of section 88(6) of the Act of 1995.
+
+##### 14.3A. Form of oath or affirmation to juror’s communication supporter[^c-c91248cd7b005185c586c35b028f9861]
+
+(1) This rule applies where the court has appointed a juror’s communication supporter under section 88A(2) or (5) of the Act of 1995 (appointment of juror’s communication supporter).
+
+(2) For the purpose of this rule, “juror’s communication supporter” has the same meaning given by section 88A(2) of the Act of 1995.
+
+(3) Where the judge administers the oath to a juror’s communication supporter in terms of section 88A(4) or (6), as the case may be, of the Act of 1995 (administration of oath to juror’s communication supporter), the judge must do so in accordance with the form in Form 14.3A-A.
+
+(4) In the case of a juror’s communication supporter who elects to affirm, the judge must administer the affirmation in accordance with the form in Form 14.3A-B.
+
+(5) The oath or the affirmation administered in accordance with paragraph (3) or (4) is to be treated as having been administered for the purposes of section 88A(4) or (6), as the case may be, of the Act of 1995.
 
 ##### 14.4. Jurors chosen for one trial may continue to serve[^c-036bd26d28e410697eb9741e21e9b200]
 
@@ -6469,6 +6481,22 @@ Rule 14.3(2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1996/513/images/uksi_19960513_en_epp_542.gif)
 
+Form 14.3A-A[^c-78d69e27f8372f0539e1605906ea229e]
+
+Form of oath for juror's communication supporter
+
+Rule 14.3A(3)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1996/513/images/uksi_19960513_en_epp_543.gif)
+
+Form 14.3A-B[^c-20054f7cc82312f2533e8737d7c1ba2e]
+
+Form of affirmation for juror's communication supporter
+
+Rule 14.3A(4)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1996/513/images/uksi_19960513_en_epp_544.gif)
+
 FORM 14.5-A
 
 Form of oath for witnesses
@@ -7996,17 +8024,23 @@ Form of endorsement of warrant of arrest under section 1(1) of the Backing of Wa
 
 Rule 30.2(1)
 
+. . . . . . . . . . . . . . . . .
+
 [^M_F_29947c0a-28b8-4620-d1a6-483ee65869a7]FORM 30.2-B
 
 Form of provisional warrant of arrest under section 4 of the Backing of Warrants (Republic of Ireland) Act 1965
 
 Rule 30.2(2)
 
+. . . . . . . . . . . . . . . . .
+
 [^M_F_2401bfd9-bd8d-473f-b9d8-8acdf7c5a729]FORM 30.5
 
 Form of consent to earlier return under section 3(1)(a) of the Backing of Warrants (Republic of Ireland) Act 1965
 
 Rule 30.5(1)
+
+. . . . . . . . . . . . . . . . .
 
 FORM 31.5[^c-3214de05be54f07904e7792debd683a6]
 
@@ -9039,37 +9073,39 @@ FORM 73.3[^c-27748c08f18fffb645d9b134773a035e]
 
 [^c-2d335b0574ef5c6ab3dfea6f988084c5]: Textual amendment: [Sch. 2 rules 13A.2-13A.4](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/13A.2) inserted (1.2.2005) by [Act of Adjournal (Criminal Procedure Rules Amendment) (Criminal Procedure (Amendment) (Scotland) Act 2004) 2005 (S.S.I. 2005/44)](https://www.legislation.gov.uk/ssi/2005/44), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/44/paragraph/1/1), [2(15)](https://www.legislation.gov.uk/ssi/2005/44/paragraph/2/15) (with [para. 2(2)-(4)](https://www.legislation.gov.uk/ssi/2005/44/paragraph/2/2))
 
-[^c-a3c2141e713d21d8b13587bd9ca26758]: Commencement: [Sch. 2 rule 14.1](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.1) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-a3c2141e713d21d8b13587bd9ca26758]: Commencement: Sch. 2 rule 14.1 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
-[^c-898d07931400f2b515be454db52a3c46]: Textual amendment: Words in [Sch. 2 rule 14.1](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.1) inserted (1.6.2010) by [Act of Adjournal (Criminal Procedure Rules Amendment) (Miscellaneous) 2010 (S.S.I. 2010/184)](https://www.legislation.gov.uk/ssi/2010/184), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/1/1), [3(1)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/3/1) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/3/2))
+[^c-898d07931400f2b515be454db52a3c46]: Textual amendment: Words in Sch. 2 rule 14.1 inserted (1.6.2010) by [Act of Adjournal (Criminal Procedure Rules Amendment) (Miscellaneous) 2010 (S.S.I. 2010/184)](https://www.legislation.gov.uk/ssi/2010/184), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/1/1), [3(1)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/3/1) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/3/2))
 
-[^c-2f29b3e110e0890747e1861ea7f514c6]: Textual amendment: [Sch. 2 rule 14.1A](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.1A) inserted (1.6.2010) by [Act of Adjournal (Criminal Procedure Rules Amendment) (Miscellaneous) 2010 (S.S.I. 2010/184)](https://www.legislation.gov.uk/ssi/2010/184), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/3/2) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/3/2))
+[^c-2f29b3e110e0890747e1861ea7f514c6]: Textual amendment: Sch. 2 rule 14.1A inserted (1.6.2010) by [Act of Adjournal (Criminal Procedure Rules Amendment) (Miscellaneous) 2010 (S.S.I. 2010/184)](https://www.legislation.gov.uk/ssi/2010/184), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/3/2) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2010/184/paragraph/3/2))
 
-[^c-242ef69643691b57d238ca7306aec062]: Textual amendment: Words in [Sch. 2 rule 14.1A(1)](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.1A/1) substituted (19.7.2020) by [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Jury Ballot) 2020 (S.S.I. 2020/200)](https://www.legislation.gov.uk/ssi/2020/200), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/200/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/200/paragraph/2/2/a)
+[^c-242ef69643691b57d238ca7306aec062]: Textual amendment: Words in Sch. 2 rule 14.1A(1) substituted (19.7.2020) by [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Jury Ballot) 2020 (S.S.I. 2020/200)](https://www.legislation.gov.uk/ssi/2020/200), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/200/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/200/paragraph/2/2/a)
 
-[^c-b88859f1270aea0e4e290419d999548a]: Commencement: [Sch. 2 rule 14.2](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.2) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-b88859f1270aea0e4e290419d999548a]: Commencement: Sch. 2 rule 14.2 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
-[^c-0031c73f5e93bc352ddc7e1d51efea7c]: Textual amendment: [Sch. 2 rule 14.2(2)-(4)](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.2/2) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/1996/513/schedule/2) [rule 14.2(2)](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.2/2) (19.7.2020) by [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Jury Ballot) 2020 (S.S.I. 2020/200)](https://www.legislation.gov.uk/ssi/2020/200), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/200/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/200/paragraph/2/2/b)
+[^c-0031c73f5e93bc352ddc7e1d51efea7c]: Textual amendment: Sch. 2 rule 14.2(2)-(4) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/1996/513/schedule/2) [rule 14.2(2)](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.2/2) (19.7.2020) by [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Jury Ballot) 2020 (S.S.I. 2020/200)](https://www.legislation.gov.uk/ssi/2020/200), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/200/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/200/paragraph/2/2/b)
 
-[^c-1468ffe671d238564050f48338ffb916]: Commencement: [Sch. 2 rule 14.3](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.3) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-1468ffe671d238564050f48338ffb916]: Commencement: Sch. 2 rule 14.3 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
-[^c-036bd26d28e410697eb9741e21e9b200]: Commencement: [Sch. 2 rule 14.4](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.4) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-c91248cd7b005185c586c35b028f9861]: Textual amendment: Sch. 2 rule 14.3A inserted (2.11.2026) by [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026 (S.S.I. 2026/99)](https://www.legislation.gov.uk/ssi/2026/99), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/99/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/99/paragraph/2/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
-[^c-be2fe0a7b4e1fe2ce6e61dae9f465987]: Commencement: [Sch. 2 rule 14.5](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.5) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-036bd26d28e410697eb9741e21e9b200]: Commencement: Sch. 2 rule 14.4 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+
+[^c-be2fe0a7b4e1fe2ce6e61dae9f465987]: Commencement: Sch. 2 rule 14.5 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
 [^c-803b4ac7bd47b01c6783551318e2bef3]: Commencement: [Sch. 2 rule 14.6](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.6) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
-[^c-87b31bb6c2290a75008d667c45c05236]: Commencement: [Sch. 2 rule 14.7](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.7) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-87b31bb6c2290a75008d667c45c05236]: Commencement: Sch. 2 rule 14.7 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
-[^c-9d1fca5955eaf8c660b6f2e5d48a97df]: Commencement: [Sch. 2 rule 14.8](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.8) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-9d1fca5955eaf8c660b6f2e5d48a97df]: Commencement: Sch. 2 rule 14.8 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
-[^c-586c924fa95b828e255ec315a717f8c9]: Textual amendment: [Sch. 2 rule 14.8A](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.8A) inserted (13.12.2010) by [Act of Adjournal (Criminal Procedure Rules Amendment No. 4) (Miscellaneous) 2010 (S.S.I. 2010/418)](https://www.legislation.gov.uk/ssi/2010/418), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/418/paragraph/1/2), [4](https://www.legislation.gov.uk/ssi/2010/418/paragraph/4)
+[^c-586c924fa95b828e255ec315a717f8c9]: Textual amendment: Sch. 2 rule 14.8A inserted (13.12.2010) by [Act of Adjournal (Criminal Procedure Rules Amendment No. 4) (Miscellaneous) 2010 (S.S.I. 2010/418)](https://www.legislation.gov.uk/ssi/2010/418), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/418/paragraph/1/2), [4](https://www.legislation.gov.uk/ssi/2010/418/paragraph/4)
 
-[^c-15bd24acce6fcb6280c351b1ba274ef1]: Commencement: [Sch. 2 rule 14.9](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.9) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-15bd24acce6fcb6280c351b1ba274ef1]: Commencement: Sch. 2 rule 14.9 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
-[^c-20ece861d56f6b3ef39306d611b6720d]: Commencement: [Sch. 2 rule 14.10](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.10) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-20ece861d56f6b3ef39306d611b6720d]: Commencement: Sch. 2 rule 14.10 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
-[^c-7ef485035ee852ac5ec37f039a4e232e]: Textual amendment: Words in [Sch. 2 rule 14.10(3)(a)](https://www.legislation.gov.uk/uksi/1996/513/schedule/2/rule/14.10/3/a) inserted (20.6.2006) by [Act of Adjournal (Criminal Procedure Rules Amendment No. 3) (Risk Assessment Orders and Orders for Lifelong Restriction) 2006 (S.S.I. 2006/302)](https://www.legislation.gov.uk/ssi/2006/302), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/302/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/302/paragraph/2/2)
+[^c-7ef485035ee852ac5ec37f039a4e232e]: Textual amendment: Words in Sch. 2 rule 14.10(3)(a) inserted (20.6.2006) by [Act of Adjournal (Criminal Procedure Rules Amendment No. 3) (Risk Assessment Orders and Orders for Lifelong Restriction) 2006 (S.S.I. 2006/302)](https://www.legislation.gov.uk/ssi/2006/302), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/302/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/302/paragraph/2/2)
 
 [^c-2c52adfedabaa985c79511882dde4642]: Commencement: Sch. 2 rule 15.1 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
 
@@ -10252,6 +10288,10 @@ FORM 73.3[^c-27748c08f18fffb645d9b134773a035e]
 [^c-139334dd23ff188db955bdf589ea5900]: Textual amendment: Sch. 2 Appendix Form 13A.1-A inserted (4.10.2004) by [Act of Adjournal (Criminal Procedure Rules Amendment No. 4) (Criminal Procedure (Amendment) (Scotland) Act 2004) 2004 (S.S.I. 2004/434)](https://www.legislation.gov.uk/ssi/2004/434), [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/434/paragraph/1/1), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2004/434/schedule/part/3)
 
 [^c-f50f5f1e77cdc0c2ce52d60e383be3de]: Textual amendment: Sch. 2 Appendix Form 14.3-B substituted (6.4.2026) by [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026 (S.S.I. 2026/99)](https://www.legislation.gov.uk/ssi/2026/99), [para. 1(3)](https://www.legislation.gov.uk/ssi/2026/99/paragraph/1/3), [sch. 1](https://www.legislation.gov.uk/ssi/2026/99/schedule/1); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-78d69e27f8372f0539e1605906ea229e]: Textual amendment: Sch. 2 Appendix Form 14.3A-A inserted (2.11.2026) by [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026 (S.S.I. 2026/99)](https://www.legislation.gov.uk/ssi/2026/99), [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/99/paragraph/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2026/99/schedule/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^c-20054f7cc82312f2533e8737d7c1ba2e]: Textual amendment: Sch. 2 Appendix Form 14.3A-B inserted (2.11.2026) by [Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026 (S.S.I. 2026/99)](https://www.legislation.gov.uk/ssi/2026/99), [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/99/paragraph/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2026/99/schedule/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
 [^M_F_e40c5171-c066-4850-b592-83b19136245a]: Textual amendment: Words in Sch. 2 Appendix Form 15.2-A inserted (27.10.2003) by [Act of Adjournal (Criminal Procedure Rules Amendment No.2) (Miscellaneous) 2003 (S.S.I. 2003/468)](https://www.legislation.gov.uk/ssi/2003/468), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/468/paragraph/1/1), [2(17)(d)](https://www.legislation.gov.uk/ssi/2003/468/paragraph/2/17/d)
 

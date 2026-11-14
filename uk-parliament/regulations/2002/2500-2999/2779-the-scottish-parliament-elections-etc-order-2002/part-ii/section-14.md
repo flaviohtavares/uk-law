@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 14
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '14'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 14. Combination of polls
+## 14. Combination of polls[^c-d8c8b118c3508733ea0392fd5d26d80c]
+
+*Extent: S*
 
 (1) Where the polls at a Scottish parliamentary general election and an ordinary local government election are to be taken on the same date, they shall be taken together.
 
@@ -25,3 +29,7 @@ summary: ''
 (4) Where the polls at a Scottish parliamentary election and a local government election are combined under this article the cost of taking the combined polls (excluding any cost solely attributable to one election) and any cost attributable to their combination shall be apportioned in such proportions as the Secretary of State may determine.
 
 (5) Schedule 5 (which makes provision about the combination of polls) has effect.
+
+## Annotations
+
+[^c-d8c8b118c3508733ea0392fd5d26d80c]: Commencement: Art. 14 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

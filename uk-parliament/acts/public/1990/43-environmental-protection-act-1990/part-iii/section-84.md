@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Termination of Public Health Act controls over offensive trades etc.
+## 84. Termination of Public Health Act controls over offensive trades etc.[^c13739731]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,8 @@ and different days may be so appointed in relation to trades or businesses which
 - “ *(Extent: S)* *(affected by repeal, see note)*[^c-0c924e565b6a4c503c03613f44778855]**offensive trade *(Extent: S)* *(affected by repeal, see note)*[^c-0c924e565b6a4c503c03613f44778855]**” or “ *(Extent: S)* *(affected by repeal, see note)*[^c-0c924e565b6a4c503c03613f44778855]**trade *(Extent: S)* *(affected by repeal, see note)*[^c-0c924e565b6a4c503c03613f44778855]**” has the same meaning as in section 107 of the Public Health Act 1936. *(Extent: S)* *(affected by repeal, see note)*[^c-0c924e565b6a4c503c03613f44778855]
 
 ## Annotations
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-0c924e565b6a4c503c03613f44778855]: Textual amendment: S. 84 repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 23(c)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/23/c); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 

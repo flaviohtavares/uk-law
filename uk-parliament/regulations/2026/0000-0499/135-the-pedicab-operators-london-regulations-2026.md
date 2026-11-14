@@ -783,7 +783,7 @@ The Schedule sets out further requirements attached to operator licences. These 
 
 [^f00012]: Footnote: [S.I. 2026/136](https://www.legislation.gov.uk/uksi/2026/136).
 
-[^c-b9891cf4e0bd6a6ca7f6d4843bcaded3]: Commencement: Reg. 3 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-b9891cf4e0bd6a6ca7f6d4843bcaded3]: Commencement: Reg. 3 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
 [^c-b700e2e0fc7fc6e4d102944a76c6cbc8]: Commencement: Reg. 4 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
 
@@ -801,51 +801,51 @@ The Schedule sets out further requirements attached to operator licences. These 
 
 [^c-68248b67db4954288a02de3f5a6dd977]: Commencement: Reg. 9 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
 
-[^c-6c38c05d973f993e7862dc0f9a67713f]: Commencement: Reg. 10 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-6c38c05d973f993e7862dc0f9a67713f]: Commencement: Reg. 10 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-83822b45d430480a7dd8d35d233f636d]: Commencement: Reg. 11 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-83822b45d430480a7dd8d35d233f636d]: Commencement: Reg. 11 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-be5d7180b57badce4c4bbccb8cf48b46]: Commencement: Reg. 12 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-be5d7180b57badce4c4bbccb8cf48b46]: Commencement: Reg. 12 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-c2da4778da652d7ff34dd6a642d6a461]: Commencement: Reg. 13 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-c2da4778da652d7ff34dd6a642d6a461]: Commencement: Reg. 13 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
 [^f00015]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^c-e466ae6307290fbb06e0678de2b6ac94]: Commencement: Reg. 14 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-e466ae6307290fbb06e0678de2b6ac94]: Commencement: Reg. 14 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
 [^f00016]: Footnote: [1985 c. 7](https://www.legislation.gov.uk/ukpga/1985/7).
 
-[^c-75002c36562b6b89510c8f719bcbd33b]: Commencement: Reg. 15 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-75002c36562b6b89510c8f719bcbd33b]: Commencement: Reg. 15 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-4564dfaabc735935ece5bd49987ebd6b]: Commencement: Reg. 16 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-4564dfaabc735935ece5bd49987ebd6b]: Commencement: Reg. 16 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
 [^c-7245b3ed08579ff7a175e20843203f6d]: Textual amendment: Words in reg. 16 substituted (27.10.2026) by virtue of [The Pedicabs (London) (Amendment) Regulations 2026 (S.I. 2026/1122)](https://www.legislation.gov.uk/uksi/2026/1122), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1122/regulation/1), [14](https://www.legislation.gov.uk/uksi/2026/1122/regulation/14)
 
-[^c-f5602b8d23a94e9c5c9148c24e538647]: Commencement: Reg. 17 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-f5602b8d23a94e9c5c9148c24e538647]: Commencement: Reg. 17 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-cb78249f96aab9470af5fc2feab1a19c]: Commencement: Reg. 18 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-cb78249f96aab9470af5fc2feab1a19c]: Commencement: Reg. 18 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-01327c470db6be9d8abe6992bfc73171]: Commencement: Reg. 19 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-01327c470db6be9d8abe6992bfc73171]: Commencement: Reg. 19 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-542eed7443043995759b628d36f57d4f]: Commencement: Reg. 20 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-542eed7443043995759b628d36f57d4f]: Commencement: Reg. 20 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-91e14543af99072af64eb48ef1dc66b9]: Commencement: Reg. 21 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-91e14543af99072af64eb48ef1dc66b9]: Commencement: Reg. 21 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-510519a8239d17c117fee45fa8483c2d]: Commencement: Reg. 22 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-510519a8239d17c117fee45fa8483c2d]: Commencement: Reg. 22 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-1a381c7df3a2d04f7962f3472e4d2dda]: Commencement: Reg. 23 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-1a381c7df3a2d04f7962f3472e4d2dda]: Commencement: Reg. 23 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-1c1cd57d890bed9c73fe84f518eb744a]: Commencement: Reg. 24 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-1c1cd57d890bed9c73fe84f518eb744a]: Commencement: Reg. 24 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
 [^f00017]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
-[^c-72a316833d0c5450819b372454e8b198]: Commencement: Reg. 25 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-72a316833d0c5450819b372454e8b198]: Commencement: Reg. 25 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-0369fc9c5702b338a28d5e0218fd0133]: Commencement: Reg. 26 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-0369fc9c5702b338a28d5e0218fd0133]: Commencement: Reg. 26 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-6669d5216f98bc838405b517c80b5eaf]: Commencement: Reg. 27 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-6669d5216f98bc838405b517c80b5eaf]: Commencement: Reg. 27 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
-[^c-ec75e8e24d5d24b41b0ae59d808c6657]: Commencement: Reg. 28 in force at 30.10.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/b)
+[^c-ec75e8e24d5d24b41b0ae59d808c6657]: Commencement: Reg. 28 in force at 27.11.2026, see reg. 1(2)(b) (as amended by [S.I. 2026/1122](https://www.legislation.gov.uk/uksi/2026/1122), [reg. 12](https://www.legislation.gov.uk/uksi/2026/1122/regulation/12))
 
 [^c-02cb3e79b80fef8dd5f380b2a16aea42]: Commencement: Sch. para. 1 in force at 9.3.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/135/regulation/1/2/a)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Financial assistance for environmental purposes.
+## 153. Financial assistance for environmental purposes.[^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -164,6 +164,8 @@ summary: ''
 (5)[^c13751261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-9b3630f23eeb1e8159ec3c581a8242dc]: Textual amendment: S. 153(1)(za) inserted (E.W.N.I.) (27.9.2021) by [The Financial Assistance for Environmental Purposes Order 2021 (S.I. 2021/984)](https://www.legislation.gov.uk/uksi/2021/984), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2021/984/article/1/c), [2](https://www.legislation.gov.uk/uksi/2021/984/article/2)
 

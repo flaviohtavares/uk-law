@@ -3,14 +3,14 @@ title: Offshore Installations and Wells (Design and Construction, etc.) Regulati
 id: nisr/1996/228
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-06-07'
-text_date: null
-extent: null
+text_date: '1996-06-07'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/228
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/228/made/data.pdf
-pending_changes: 47
+- http://www.legislation.gov.uk/nisr/1996/228/data.pdf
+pending_changes: 154
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (154).** Text as at 1996-06-07. See https://www.legislation.gov.uk/changes/affected/nisr/1996/228
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 228
 
@@ -40,11 +46,19 @@ The Department of Economic Development, being the Department concerned[^f00001],
 
 ### Part I — Interpretation and General
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Application](part-i/section-3.md)
 
 ### Part II — Integrity of Installations
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 4 — General duty](part-ii/section-4.md)
 - [Section 5 — Design of an installation](part-ii/section-5.md)
@@ -56,10 +70,18 @@ The Department of Economic Development, being the Department concerned[^f00001],
 
 ### Part III — Further Requirements Relating to Installations
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 - [Section 11 — Helicopter landing area](part-iii/section-11.md)
 - [Section 12 — Additional requirements](part-iii/section-12.md)
 
 ### Part IV — Wells
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 13 — General duty](part-iv/section-13.md)
 - [Section 14 — Assessment of conditions below ground](part-iv/section-14.md)
@@ -72,6 +94,10 @@ The Department of Economic Development, being the Department concerned[^f00001],
 - [Section 21 — Information, instruction, training and supervision](part-iv/section-21.md)
 
 ### Part V — Miscellaneous
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 - [Section 22 — Defence](part-v/section-22.md)
 - [Section 23 — Certificates of exemption](part-v/section-23.md)
@@ -93,6 +119,10 @@ The Department of Economic Development, being the Department concerned[^f00001],
 - [SCHEDULE 2](schedule-2.md)
 - [SCHEDULE 3](schedule-3.md)
 
+*Extent: N.I.*
+
+**Not yet in force.**
+
 Sealed with the Official Seal of the Department of Economic Development on .
 
 Philip B. Strong
@@ -100,6 +130,10 @@ Philip B. Strong
 Assistant Secretary
 
 7th June 1996
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (This note is not part of the Regulations.)
 

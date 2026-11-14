@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 13
 act: London Local Authorities Act 2007
 section: '13'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 13. Advertising: seizure
+## 13. Advertising: seizure[^c-80cd8ebef130d2e652871119aabbe027]
+
+*Extent: E+W*
 
 (1) If an authorised officer or a constable has reasonable grounds for suspecting that a person has committed an advertising offence in Greater London and the conditions of subsection (2) below apply, the authorised officer or constable may seize any relevant object if the relevant object is in the possession of or under the control of that person at the time of the alleged offence.
 
@@ -44,3 +48,7 @@ he need not comply with paragraph (a) or (b), as the case may be, of subsection 
 (6) The owner of a vehicle for the purposes of this section, shall be taken to be the person by whom the vehicle is kept.
 
 (7) In determining, for the purposes of this section, who was the owner of a vehicle at any time, it shall be presumed that the owner was the person in whose name the vehicle was at that time registered under the Vehicle Excise and Registration Act [1994 (c. 22)](https://www.legislation.gov.uk/ukpga/1994/22).
+
+## Annotations
+
+[^c-80cd8ebef130d2e652871119aabbe027]: Commencement: [S. 13](https://www.legislation.gov.uk/ukla/2007/2/section/13) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

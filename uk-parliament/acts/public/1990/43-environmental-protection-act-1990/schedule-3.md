@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — Statutory Nuisances: Supplementary Provisions
+## SCHEDULE 3 — Statutory Nuisances: Supplementary Provisions[^c13739731]
 
 *Extent: E+W+S*
 
@@ -136,6 +136,8 @@ for the purpose of taking any action, or executing any work, authorised by or re
 **6.** Where an appeal against a notice served by a local authority lies to a magistrates’ court or, in Scotland, the sheriff[^c13752711] by virtue of section 80, it shall be the duty of the authority to include in such a notice a statement indicating that such an appeal lies as aforesaid and specifying the time within which it must be brought.
 
 ## Annotations
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13752531]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

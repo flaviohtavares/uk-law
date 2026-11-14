@@ -86,7 +86,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/217-the-protection-of-water-against-agricultural-nitrate-pollution-regulations-north.md) *(as originally made)*
+- [The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/217-the-protection-of-water-against-agricultural-nitrate-pollution-regulations-north.md) *(changes pending)*
 - [The Surface Waters (Abstraction for Drinking Water) (Classification) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0500-0999/603-the-surface-waters-abstraction-for-drinking-water-classification-regulations-nor.md) *(changes pending)*
 
 **1995**

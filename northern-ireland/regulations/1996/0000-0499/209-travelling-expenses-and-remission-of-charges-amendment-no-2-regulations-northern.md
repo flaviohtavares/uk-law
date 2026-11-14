@@ -3,13 +3,13 @@ title: Travelling Expenses and Remission of Charges (Amendment No. 2) Regulation
 id: nisr/1996/209
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-05-21'
-text_date: null
-extent: null
+text_date: '1996-06-11'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/209
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/209/made/data.pdf
+- http://www.legislation.gov.uk/nisr/1996/209/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -18,7 +18,11 @@ summary: ''
 
 # Travelling Expenses and Remission of Charges (Amendment No. 2) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 1996-06-11. See https://www.legislation.gov.uk/changes/affected/nisr/1996/209
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 1996 No. 209
 
@@ -36,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 45, 98, 106 and 107(6) of, and paragraph 1(*b*) of Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001] and with the approval of the Department of Finance and Personnel insofar as they relate to the remission of charges, and in conjunction with the Department of Finance and Personnel insofar as they relate to travelling expenses, and of all other powers enabling it in that behalf, hereby makes the following regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-27bcd51382ab8ec70406874cef29c1f3]
 
 (1) These regulations may be cited as the Travelling Expenses and Remission of Charges (Amendment No. 2) Regulations (Northern Ireland) 1996 and shall come into operation on 11th June 1996.
 
 (2) In these regulations “the principal regulations” means the Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 1989[^f00002].
 
-## 2. Amendment of Schedule 1 to the principal regulations
+## 2. Amendment of Schedule 1 to the principal regulations[^c-db09e385a95df2c669fc86c8504258d6]
 
 (1) Schedule 1 to the principal regulations (calculation of resources) shall be amended in accordance with the following provisions.
 
@@ -100,6 +104,10 @@ These Regulations further amend the Travelling Expenses and Remission of Charges
 
 [^f00001]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); the relevant amending Instruments are S.I. [1988/594 (N.I. 2)](https://www.legislation.gov.uk/nisi/1988/594) Article 14(1) and (2)(*a*) and S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Article 34 and Part II of Schedule 5
 
+[^c-27bcd51382ab8ec70406874cef29c1f3]: Commencement: Reg. 1 in operation at 11.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/209/regulation/1/1)
+
 [^f00002]: Footnote: [S.R. 1989 No. 348](https://www.legislation.gov.uk/nisr/1989/348); relevant amending regulations are [S.R. 1991 No. 224](https://www.legislation.gov.uk/nisr/1991/224), [S.R. 1993 No. 161](https://www.legislation.gov.uk/nisr/1993/161), [S.R. 1995 Nos. 138](https://www.legislation.gov.uk/nisr/1995/138) and [361](https://www.legislation.gov.uk/nisr/1995/361) and [S.R. 1996 No. 107](https://www.legislation.gov.uk/nisr/1996/107)
+
+[^c-db09e385a95df2c669fc86c8504258d6]: Commencement: Reg. 2 in operation at 11.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/209/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459)

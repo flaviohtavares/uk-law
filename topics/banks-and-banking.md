@@ -8,7 +8,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [Banking Act 2009](../uk-parliament/acts/public/2009/1-banking-act-2009/README.md) *(changes pending)* — 31 regulations on this topic made under it
 - [Banking (Special Provisions) Act 2008](../uk-parliament/acts/public/2008/2-banking-special-provisions-act-2008.md) — 16 regulations on this topic made under it
-- [Bank of England Act 1998](../uk-parliament/acts/public/1998/11-bank-of-england-act-1998/README.md) *(changes pending)* — 13 regulations on this topic made under it
+- [Bank of England Act 1998](../uk-parliament/acts/public/1998/11-bank-of-england-act-1998/README.md) *(changes pending)* — 12 regulations on this topic made under it
 - [Financial Services (Banking Reform) Act 2013](../uk-parliament/acts/public/2013/33-financial-services-banking-reform-act-2013/README.md) — 8 regulations on this topic made under it
 - [Dormant Bank and Building Society Accounts Act 2008](../uk-parliament/acts/public/2008/31-dormant-bank-and-building-society-accounts-act-2008.md) — 5 regulations on this topic made under it
 - [Bank of England and Financial Services Act 2016](../uk-parliament/acts/public/2016/14-bank-of-england-and-financial-services-act-2016/README.md) *(changes pending)* — 4 regulations on this topic made under it
@@ -16,7 +16,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-130 in force.
+129 in force.
 
 **2025**
 
@@ -135,7 +135,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Bradford & Bingley plc Compensation Scheme Order 2008](../uk-parliament/regulations/2008/3000-3499/3249-the-bradford-bingley-plc-compensation-scheme-order-2008.md) *(as originally made)*
 - [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008](../uk-parliament/regulations/2008/2500-2999/2546-the-bradford-bingley-plc-transfer-of-securities-and-property-etc-order-2008.md) *(as originally made)*
-- [The Cash Ratio Deposits (Value Bands and Ratios) Order 2008](../uk-parliament/regulations/2008/1000-1499/1344-the-cash-ratio-deposits-value-bands-and-ratios-order-2008.md) *(as originally made)*
 - [The Heritable Bank plc (Determination of Compensation) Order 2008](../uk-parliament/regulations/2008/3000-3499/3251-the-heritable-bank-plc-determination-of-compensation-order-2008.md) *(as originally made)*
 - [The Heritable Bank plc Transfer of Certain Rights and Liabilities Order 2008](../uk-parliament/regulations/2008/2500-2999/2644-the-heritable-bank-plc-transfer-of-certain-rights-and-liabilities-order-2008.md) *(as originally made)*
 - [The Kaupthing Singer & Friedlander Limited (Determination of Compensation) Order 2008](../uk-parliament/regulations/2008/3000-3499/3250-the-kaupthing-singer-friedlander-limited-determination-of-compensation-order-200.md) *(as originally made)*

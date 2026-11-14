@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 14
 act: London Local Authorities Act 2007
 section: '14'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 14. Return and disposal of seized items
+## 14. Return and disposal of seized items[^c-9c82954880d79453cf68c76643553433]
+
+*Extent: E+W*
 
 (1) The following provisions of this section shall have effect where any relevant object is seized under subsection (1) of section 13 (advertising: seizure) of this Act and references in those provisions to proceedings are to proceedings in respect of the alleged offence in relation to which the relevant object is seized.
 
@@ -48,3 +52,7 @@ the relevant object shall, at the appropriate time, be returned to the person fr
 - (b) any sum obtained by the council in excess of the costs awarded by the court shall be returned to the person to whom the relevant object belongs.
 
 (7) When any relevant object is disposed of by the council under subsection (6) above the council shall have a duty to secure the best possible price which can reasonably be obtained for it.
+
+## Annotations
+
+[^c-9c82954880d79453cf68c76643553433]: Commencement: [S. 14](https://www.legislation.gov.uk/ukla/2007/2/section/14) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

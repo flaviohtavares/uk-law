@@ -3,7 +3,7 @@ title: The Senedd Cymru (Representation of the People) Order 2025, section 2
 act: The Senedd Cymru (Representation of the People) Order 2025
 section: '2'
 status: revised-with-pending-changes
-text_date: '2026-03-24'
+text_date: '2026-11-03'
 extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2025/864/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Senedd Cymru (Representation of the People) Order 2025, section 2
 
-> **Warning: changes not yet applied to this text (31).** Text as at 2026-03-24. See https://www.legislation.gov.uk/changes/affected/wsi/2025/864
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-03. See https://www.legislation.gov.uk/changes/affected/wsi/2025/864
 >
 > Extent: England, Wales.
 
@@ -28,6 +28,7 @@ summary: ''
 - “**the 2011 Act**” (“***Deddf 2011***”) means the Police Reform and Social Responsibility Act 2011[^f00008];
 - “**the 2001 Regulations**” (“***Rheoliadau 2001***”) means the Representation of the People (England and Wales) Regulations 2001[^f00009];
 - “**absent voter**” (“***pleidleisiwr absennol***”) means an elector who is entitled to vote by proxy, or an elector or proxy who is entitled to vote by post, and “**absent vote**” (“***pleidlais absennol***”) is to be construed accordingly;
+- “[^c-e9252e32fa025e5b8247ddea88b04244]**absent voting application**” (“***cais pleidleisio absennol***”) means an application, including a partially completed application, made under article 6 (absent vote at Senedd elections), 7 (absent vote at a particular Senedd election), 9 (proxies at Senedd elections) or 10 (voting as proxy at Senedd elections);
 - “**anonymous entry**” (“***cofnod dienw***”), in relation to a register, is to be construed in accordance with section 9B of the 1983 Act[^f00010];
 - “**available for inspection**” (“***ar gael i edrych arno***”) means available for inspection during ordinary office hours;
 - “**candidate**” (“***ymgeisydd***”) means an individual candidate or a party list candidate for return as a Senedd member;
@@ -95,6 +96,7 @@ summary: ''
 - “**service voter**” (“***pleidleisiwr gwasanaeth***”) means a person who has made a service declaration in accordance with section 15 of the 1983 Act[^f00023] and is registered or entitled to be registered in pursuance of it;
 - “**statement of parties and persons nominated**” (“***datganiad o’r pleidiau a’r personau a enwebwyd***”) means a statement prepared in accordance with rule 17 of Schedule 5;
 - “**sub-agent**” (“***is-asiant***”) has the meaning given by article 40(1);
+- “**UK digital service**” (“***gwasanaeth digidol y DU***”) has the same meaning as in section 13B(8) of the Government of Wales Act 2006;
 - “**UK Parliamentary constituency**” (“***etholaeth Seneddol y DU***”) means a constituency specified in an Order in Council made under section 4 of the Parliamentary Constituencies Act 1986[^f00024];
 - “**universal service provider**” (“***darparwr gwasanaeth cyffredinol***”) means a universal service provider within the meaning of Part 3 of the Postal Services Act 2011[^f00025];
 - “**voter**” (“***pleidleisiwr***”) means a person voting at a Senedd election and includes a person voting as proxy and, except in Schedule 5, a person voting by proxy, and “**vote**” (“*pleidlais*” and “*pleidleisio*”), whether noun or verb, is to be construed accordingly, except that in that Schedule any reference to an elector voting or an elector’s vote includes a reference to an elector voting by proxy or elector’s vote given by proxy, and absent vote is to be construed accordingly;
@@ -111,6 +113,8 @@ summary: ''
 [^f00008]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
 [^f00009]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341).
+
+[^c-e9252e32fa025e5b8247ddea88b04244]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2025/864/article/2/1) inserted (3.11.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/3), [15](https://www.legislation.gov.uk/wsi/2026/91/regulation/15) (with [Pt. 7](https://www.legislation.gov.uk/wsi/2026/91/part/7))
 
 [^f00010]: Footnote: Section 9B was inserted by section 10(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22). It was subsequently amended by paragraph 7 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6).
 

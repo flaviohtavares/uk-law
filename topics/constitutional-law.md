@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **CONSTITUTIONAL LAW*
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Scotland Act 1998](../uk-parliament/acts/public/1998/46-scotland-act-1998/README.md) *(changes pending)* — 267 regulations on this topic made under it
+- [Scotland Act 1998](../uk-parliament/acts/public/1998/46-scotland-act-1998/README.md) *(changes pending)* — 268 regulations on this topic made under it
 - [Government of Wales Act 2006](../uk-parliament/acts/public/2006/32-government-of-wales-act-2006/README.md) *(changes pending)* — 72 regulations on this topic made under it
 - [Government of Wales Act 1998](../uk-parliament/acts/public/1998/38-government-of-wales-act-1998/README.md) *(changes pending)* — 29 regulations on this topic made under it
 - [Scotland Act 2016](../uk-parliament/acts/public/2016/11-scotland-act-2016/README.md) *(changes pending)* — 20 regulations on this topic made under it
@@ -19,13 +19,14 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-473 in force.
+474 in force.
 
 **2026**
 
 - [The Absent Voting (Miscellaneous Amendment) (Scotland) Order 2026](../scotland/regulations/2026/0000-0499/121-the-absent-voting-miscellaneous-amendment-scotland-order-2026.md) *(as originally made)*
 - [The Absent Voting (Miscellaneous Amendment) (Scotland) Regulations 2026](../scotland/regulations/2026/0000-0499/122-the-absent-voting-miscellaneous-amendment-scotland-regulations-2026.md) *(as originally made)*
 - [The Government of Wales Act 2006 (Increase of Capital Borrowing Limits) Order 2026](../uk-parliament/regulations/2026/0500-0999/825-the-government-of-wales-act-2006-increase-of-capital-borrowing-limits-order-2026.md) *(as originally made)*
+- [The Scotland Act 1998 (Agency Arrangements) (Specification) (Digital Waste Tracking) Order 2026](../uk-parliament/regulations/2026/1000-1499/1188-the-scotland-act-1998-agency-arrangements-specification-digital-waste-tracking-o.md) *(as originally made)*
 - [The Scotland Act 1998 (Increase of Borrowing Limits) Order 2026](../uk-parliament/regulations/2026/0500-0999/713-the-scotland-act-1998-increase-of-borrowing-limits-order-2026.md) *(as originally made)*
 - [The Scotland Act 1998 (Modification of Schedule 5) Order 2026](../uk-parliament/regulations/2026/0000-0499/276-the-scotland-act-1998-modification-of-schedule-5-order-2026.md) *(as originally made)*
 - [The Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) (Amendment) Order 2026](../uk-parliament/regulations/2026/1000-1499/1095-the-scotland-act-1998-specification-of-functions-and-transfer-of-property-etc-am.md) *(as originally made)*
@@ -462,7 +463,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Scotland Act 1998 (Modifications of Schedule 5) Order 2002](../uk-parliament/regulations/2002/1500-1999/1629-the-scotland-act-1998-modifications-of-schedule-5-order-2002.md) *(as originally made)*
 - [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2002](../uk-parliament/regulations/2002/1500-1999/1630-the-scotland-act-1998-transfer-of-functions-to-the-scottish-ministers-etc-order.md) *(as originally made)*
 - [The Scottish Administration (Offices) Order 2002](../uk-parliament/regulations/2002/0500-0999/801-the-scottish-administration-offices-order-2002.md) *(as originally made)*
-- [The Scottish Parliament (Elections etc.) Order 2002](../uk-parliament/regulations/2002/2500-2999/2779-the-scottish-parliament-elections-etc-order-2002/README.md) *(as originally made)*
+- [The Scottish Parliament (Elections etc.) Order 2002](../uk-parliament/regulations/2002/2500-2999/2779-the-scottish-parliament-elections-etc-order-2002/README.md) *(changes pending)*
 - [The Water Industry (Scotland) Act 2002 (Directions in the Interests of National Security) Order 2002](../uk-parliament/regulations/2002/1000-1499/1264-the-water-industry-scotland-act-2002-directions-in-the-interests-of-national-sec.md) *(as originally made)*
 - [Welsh Administration Ombudsman (Jurisdiction) Order 2002](../wales/regulations/2002/3000-3499/3146-welsh-administration-ombudsman-jurisdiction-order-2002.md) *(as originally made)*
 

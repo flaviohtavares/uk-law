@@ -2,9 +2,9 @@
 title: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 2
 act: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-06-07'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/228/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,7 +12,13 @@ summary: ''
 
 # Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 **2.** The Regulations give effect, in relation to offshore installations in United Kingdom territorial waters adjacent to Northern Ireland, to the following provisions of Council Directive [92/91/EEC](https://www.legislation.gov.uk/european/directive/1992/0091) (O.J. No. L348, 28.11.92, p. 9), concerning the minimum requirements for improving the safety and health protection of workers in the mineral-extracting industries through drilling (“the directive”)—
 

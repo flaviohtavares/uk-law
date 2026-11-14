@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 16 — Repeals
+## SCHEDULE 16 — Repeals[^c13739731]
 
 *Extent: E+W+S*
 
@@ -197,6 +197,8 @@ summary: ''
 | 1988 c. 33. | Criminal Justice Act 1988. | Section 58. |
 
 ## Annotations
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13754311]: Textual amendment: Sch. 16 Pt. I partly in force; Sch. 16 Pt. I not in force at Royal Assent see 164(3); repeal in Sch. 16 Pt. I relating to [1906 c. 14](https://www.legislation.gov.uk/ukpga/1906/14) in force for certain purposes at 1.12.1994 by [S.I. 1994/2854](https://www.legislation.gov.uk/uksi/1994/2854), [art. 2](https://www.legislation.gov.uk/uksi/1994/2854/article/2) and in force (E.W.) at 16.12.1996 insofar as not already in force by [S.I. 1996/3056](https://www.legislation.gov.uk/uksi/1996/3056), [art. 2](https://www.legislation.gov.uk/uksi/1996/3056/article/2); repeals in Sch. 16 Pt. I relating to [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37) and [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43) in force (E.W.) at 16.12.1996 by [S.I. 1996/3056](https://www.legislation.gov.uk/uksi/1996/3056), [art. 2](https://www.legislation.gov.uk/uksi/1996/3056/article/2).
 

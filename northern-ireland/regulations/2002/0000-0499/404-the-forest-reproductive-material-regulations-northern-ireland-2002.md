@@ -3,15 +3,15 @@ title: The Forest Reproductive Material Regulations (Northern Ireland) 2002
 id: nisr/2002/404
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2002-12-19'
-text_date: '2025-02-27'
+text_date: '2026-10-06'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2002/404
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/2002/404/pdfs/nisr_20020404_en.pdf
 - http://www.legislation.gov.uk/nisr/2002/404/data.pdf
-pending_changes: 42
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Forest Reproductive Material Regulations (Northern Ireland) 2002
 
-> **Warning: changes not yet applied to this text (42).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/nisr/2002/404
+> Text as at 2026-10-06.
 >
 > Extent: Northern Ireland.
 
@@ -59,26 +59,29 @@ These Regulations may be cited as the Forest Reproductive Material Regulations (
   - (b) that it has been regenerated artificially from–
     - (i) reproductive material collected in the same stand or seed source, or
     - (ii) from other stands or seed sources within close proximity meeting the descriptions in (a) or (b)(i);
-- “[^c-3ec8c941762f73d2cb2c995bef537d71]**approved non-EU third countries**” means the countries and territories listed in Part 1A of Schedule 13;
+- [^c-8f06a7c1d8150b456f274c75b77a4c2f]...
 - “authorised officer” means a person authorised by the Department of Agriculture and Rural Development to exercise its powers and execute its functions under these Regulations;
 - “basic material” means material from which reproductive material may be collected or produced and which is in the form of one of the types defined in paragraph (3);
 - “category” in respect of forest reproductive material means one of the categories listed in regulation 4(1);
 - “clonal mixture” is a type of basic material and has the meaning given it in paragraph (3);
 - “clone” is a type of basic material and has the meaning given it in paragraph (3);
 - “collecting” includes the taking of parts of plants, extraction of seed, and harvesting;
-- “the Commissioners” has the same meaning given in the GB Regulations;[^c-0521fdd776b8346a60618447a744865e]
+- [^c-8f06a7c1d8150b456f274c75b77a4c2f]...
 - “contact details” means a person’s telephone number, if he has one, and, where he may be contacted by other telephonic or electronic communication, his fax number or e-mail address;
 - [^c-2c7d8a56e81e9a92136f5adfc6888a6b]...
+- “Council[^c-08f27be25ddf2471bcb098043f0a903e] [Decision 2008/971/EC](https://www.legislation.gov.uk/european/decision/2008/0971)” means Council [Decision 2008/971/EC](https://www.legislation.gov.uk/european/decision/2008/0971) on the equivalence of forest reproductive material produced in third countries, as amended from time to time;
 - “crossing design” means the method by which individual trees used as female parents are pollinated, whether naturally or artificially, by one or more trees used as male parents;
 - “Department” refers to the Department of Agriculture and Rural Development;
 - “the Directive” means Council Directive [1999/105/EC](https://www.legislation.gov.uk/european/directive/1999/0105) of 22nd December 1999 on the marketing of forest reproductive material[^f00004];
 - [^c-a698265eb44e6e116e8e47a95dc786ca]...
+- “EC classification” refers, in respect of *Populus* spp., to the classification EC 1, EC 2, N1, N2, S1 or S2, each of which has the meaning given it in Schedule 9;
 - [^c-0f3f5f0e324e354783d5f9547d6d255d]...
+- “**EU-approved third countries**” means Canada, Great Britain, Norway, Serbia, Switzerland, Turkey and the United States of America;
 - “the EU Plant Health Regulation” means Regulation (EU) 2016/2031 of the European Parliament of the Council on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives[^c-64362693c53e60c5eae1b123ddb02001] [69/464/EEC](https://www.legislation.gov.uk/european/directive/1969/0464), [74/647/EEC](https://www.legislation.gov.uk/european/directive/1974/0647), [93/85/EEC](https://www.legislation.gov.uk/european/directive/1993/0085), [98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057), [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029), [2006/91/EC](https://www.legislation.gov.uk/european/directive/2006/0091) and [2007/33/EC](https://www.legislation.gov.uk/european/directive/2007/0033);
 - “Forest reproductive material” means reproductive material of the tree species and artificial hybrids listed in Schedule 1;
 - “full-sibling” means progeny obtained from parents of family where the identified parent used as female is pollinated with the pollen of one other parent tree;
 - “genetically modified organism” has the meaning given to it in Article 3 of the Genetically Modified Organisms (Northern Ireland) Order 1991[^c-98ff181dd4849c1a662e1b5f75d4412d]
-- “[^c-92467727c92016eed591e6c363213b5d]**the GB Regulations**” means the Forest Reproductive Material (Great Britain) Regulations 2002 ;
+- [^c-8f06a7c1d8150b456f274c75b77a4c2f]...
 - “half-sibling” means progeny obtained from parents of family where the identified parent used as female is pollinated with a number of identified or unidentified parent trees;
 - “indigenous” in respect of a stand or seed source means that it is an autochthonous stand or seed source, or has been raised artificially from seed, the origin of which is situated in the same region of provenance;
 - “infructescense” is a type of seed unit and means a group of fruits formed on a single inflorescence;
@@ -90,25 +93,28 @@ These Regulations may be cited as the Forest Reproductive Material Regulations (
 - “owner” in respect of basic material has the meaning given it in regulation 7(6), subject to regulation 7(9);
 - “Master Certificate” means—[^c-cb3edbb1443befa187c800ba43b469be]
   - (a) in the case of forest reproductive material collected or otherwise derived from basic material which is located in a relevant territory, a Master Certificate issued in accordance with regulation 13;
-  - (b) in the case of forest reproductive material collected or otherwise derived from basic material which is located in Great Britain a Master Certificate issued by the the Commissioners in accordance with regulation 13 of the GB Regulations[^c-dfa7aaec04714c7787d34d104d8b87b0] ;
-  - (c) in the case of forest reproductive material collected or otherwise derived from basic material which is located in another member State, a Master Certificate issued by an official body of that member State in accordance with Article 12 of the Directive;
-  - (d) in the case of forest reproductive material produced in an approved non-EU[^c-4f1a563ea41d4b8ca7ebcdd6b91d072f] third country, a Master Certificate issued by the Department in accordance with regulation 25(5) and (6) or a Master Certificate issued by the Commissioners in accordance with the GB Regulations ;
-  - (e) in the case of forest reproductive material produced in a permitted third country, a Master Certificate issued by the Department in accordance with regulation 25(5), a Master Certificate issued in relation to the material by by a permitted third country authority[^c-24f1930c62ce3ac65726dc696830235f] or an official certificate within the meaning of paragraph 8 of Schedule13;
+  - (b) [^c-d44ad67c264e57ae094133cf862da860]...
+  - (c) in the case of forest reproductive material collected or otherwise derived from basic material which is located in a member State[^c-1b59a996a9d2a78572eb0ae6d2514299], a Master Certificate issued by an official body of that member State in accordance with Article 12 of the Directive;
+  - (d) in the case of forest reproductive material produced in an EU-approved third country, a Master Certificate issued by the Department in accordance with regulation 25(5) or a Master Certificate issued by a relevant official body in accordance with Article 4 of Council[^c-e4b59715ae96a21ad5241456f793ce5c] [Decision 2008/971/EC](https://www.legislation.gov.uk/european/decision/2008/0971);
+  - (e) in the case of forest reproductive material produced in a permitted third country, a Master Certificate issued by the Department in accordance with regulation 25(5), a Master Certificate issued in relation to the material by an official body of a member State or an OECD Certificate of Provenance within the meaning of paragraph 2 of Schedule 13;
 - [^c-b3e4df415cf678561195bd9a4f392396]...
+- “**the Mediterranean climatic region**” means Greece, Italy, Portugal, Spain and the following regions of France: Aquitaine, Languedoc-Roussillon, Midi-Pyrénées and Provence-Alpes-Côte d’Azur;
 - “Northern Ireland Register” has the meaning given to it in regulation 6;
 - “the 1977 Regulations” means the Forest Reproductive Material Regulations (Northern Ireland) 1977[^f00007];
 - “the 1973 Regulations” means the Forest Reproductive Material Regulations (Northern Ireland) 1973[^f00008];
-- “official body”—[^c-8b1c21024123d56c672c7229460f6220]
-  - (a) in relation to a member State has the meaning given in Article 2(k) of the Directive;
-  - (b) [^c-34ced9c2d597fbfa196d0d7dc2b5828a]...
-  - (c) in relation to an approved non-EU third country or[^c-acd327da6058883744d4a4c379531100] a permitted third country means the authority or body which is officially responsible in that country for the approval and control of forest reproductive material produced in the country;
+- “official body”—[^c-031708994ae33d8310c755843b9fa652]
+  - (a) in relation to a member State, has the meaning given in Article 2(k) of the Directive;
+  - (b) in relation to an EU-approved third country, means the competent authority for the relevant country, as listed in Annex 1 to Council [Decision 2008/971/EC](https://www.legislation.gov.uk/european/decision/2008/0971);
+  - (c) in relation to a permitted third country, means the authority or body which is officially responsible in that country for the approval and control of forest reproductive material produced in the country;
 - “origin” means–
   - (a) in respect of an autochthonous stand or seed source, the place in which the trees are growing, and
   - (b) in respect of any other stand or seed source, the place from which the seed or plants in the stand or seed source were originally introduced;
 - “ortet” has the meaning given it under “clones” in paragraph (3) of this regulation;
 - “parents of family” are a type of basic material, and the phrase has the meaning given to it in paragraph (3);
 - “parts of plants” refers to a type of reproductive material, and the phrase has the meaning given it in paragraph (4);
+- “**permitted third country**” means a country listed in Annex 1 to Council [Decision 2008/971/EC](https://www.legislation.gov.uk/european/decision/2008/0971);
 - [^c-f68b495f98344ace8013fb7231f0e4cc]...
+- “**plant passport**” has the meaning given in the EU Plant Health Regulation;
 - “planting stock” refers to a type of reproductive material, and has the meaning given it in paragraph (4);
 - “*Populus* spp.” includes all species of the genus, including artificial hybrids;
 - “production” includes all stages in–
@@ -116,7 +122,7 @@ These Regulations may be cited as the Forest Reproductive Material Regulations (
   - the raising of planting stock from seed units and parts of plants;
 - “provenance” means the place in which any stand of trees is growing or where a seed source is located;
 - “ramet” has the meaning given it under “clones” in paragraph (3) of this regulation;
-- “region of provenance” means, in respect of a species or sub-species, an area demarcated pursuant to regulation 5 by the Department or pursuant to regulation 5 of the GB Regulations by the Commissioners[^c-e662a0e9dc69e5f7c5b9dcecc821405c] , in which stands or seed sources showing similar phenotypic or genetic character are found, or a group of such areas subject to uniform or similar ecological conditions;
+- “[^c-deab1e4f03d066f51dd4ffd8678675b8]**region of provenance**” means, in respect of a species or sub-species, an area demarcated pursuant to regulation 5 by the Department or in accordance with Article 9 of the Directive by another official body, in which stands or seed sources showing similar phenotypic or genetic character are found, or a group of such areas subject to uniform or similar ecological conditions;
 - “registered supplier” means a supplier of forest reproductive material registered in accordance with regulation 16;
 - “reproductive material” means material which is derived from basic material and is in one of the forms defined in paragraph (4);
 - “seed orchard” is a type of basic material and has the meaning given it in paragraph (3);
@@ -128,10 +134,11 @@ These Regulations may be cited as the Forest Reproductive Material Regulations (
 - “subsequent multiplication by vegetative propagation” means propagation by vegetative methods from forest reproductive material in respect of which a Master Certificate has been issued or sought
 - “supplier” means any person who, acting in the course of a business or trade (whether or not for profit), markets or imports forest reproductive material;
 - “supplier’s label or document” means, except in regulations 23 and 24, the label or document setting out the particulars required under regulation 19(1);
-- “[^c-109fe67584d37918e88dcde7910de15e]**third country**” means a country or territory outside the United Kingdom;
+- “[^c-ac929e6d438c348c9e30c05b9488a6b5]**third country**” means a country other than a member State;
 - “the Tribunal” means the Tribunal continued under section 42 of, and Schedule 3 to, the Plant Varieties Act 1997[^f00010];
 - “unit of approval” shall be construed in accordance with regulation 7(5); and
 - “verification test” means an assessment, whether by observation or measurement of characteristics, including molecular methods of measurement, or by other means, of the proportion of hybrid material in reproductive material, where that reproductive material is produced as an artificial hybrid.
+- “**Windsor Framework**” means the part of the Withdrawal Agreement known as the Windsor Framework by virtue of Joint Declaration No. 1/2023 made between the EU and the United Kingdom in the Joint Committee established by the Withdrawal Agreement.
 
 (3) In respect of basic material–
 
@@ -158,6 +165,12 @@ These Regulations may be cited as the Forest Reproductive Material Regulations (
 
 (4A)[^c-101185b7e325d166ded332eb7bc34efc][^c-5a20d6ec06ebf03e903190412659ae15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
+(4B)[^c-9ff1457a3aa4b1eb3f124dd108798917] Other terms in these Regulations that appear in the Directive or Council [Decision 2008/971/EC](https://www.legislation.gov.uk/european/decision/2008/0971) have the same meaning in these Regulations as they have in the Directive or that Decision.
+
+(4C) A reference to a member State is to be read as if Northern Ireland were a member State of the European Union.
+
+(4D) References to the Department’s prescribed fees are to those fees payable to the Department in respect of its functions under these Regulations under relevant legislation.
+
 (5)[^c-101185b7e325d166ded332eb7bc34efc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c-101185b7e325d166ded332eb7bc34efc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -173,6 +186,7 @@ These Regulations shall not apply to forest reproductive material intended for e
 (1) Forest reproductive material shall be categorised as follows–
 
 - (a)[^c-c14cc6b3ddf9a26b4cf8915707049d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-ad0cf02a201d265380ed0990ac8994cc] “source-identified” material shall be so categorised if the basic material from which it is derived meets the requirements of Schedule 2;
 - (b) “selected” material shall be so categorised if the basic material from which it is derived meets the requirements of Schedule 3;
 - (c) “qualified” material shall be so categorised if the basic material from which it is derived meets the requirements of Schedule 4; and
 - (d) “tested” material shall be so categorised if the basic material from which it is derived meets the requirements of Schedule 5.
@@ -206,7 +220,8 @@ These Regulations shall not apply to forest reproductive material intended for e
 
 - (a) the Department is satisfied that it is safe for human health and the environment; and
 - (b)[^c-214749bf42bf8959247e910cc27b5ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^c-ba76cf992fe5f885ed9259a4be5c4157] as regards Northern Ireland, consent to the marketing of the basic material has been given by the Department in accordance with the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003 [^c23561121].
+- (bb)[^c-03d3f5ddd8e142ce63b8a267d70165e7] the basic material has been authorised in accordance with Council [Directive 2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) on the deliberate release into the environment of genetically modified organisms and repealing Council Directive [90/220/EEC](https://www.legislation.gov.uk/european/directive/1990/0220), or in the case of material authorised prior to 17th October 2002, in accordance with Council Directive [90/220/EEC](https://www.legislation.gov.uk/european/directive/1990/0220) on the deliberate release into the environment of genetically modified organisms.
+- (c)[^c-ba76cf992fe5f885ed9259a4be5c4157] as regards Northern Ireland, consent to the marketing of the basic material has been given by the Department in accordance with the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003.
 
 (5) Basic material which is approved in accordance with this regulation shall be entered by the Department in the Northern Ireland Register by reference to a unit of approval to which it shall allocate a unique register reference, and–
 
@@ -351,6 +366,12 @@ Subsequent multiplication by vegetative propagation from a single unit of approv
 - (b) Schedule 7, where the forest reproductive material to be certified is derived from seed orchards or parents of family; and
 - (c) Schedule 8, where the forest reproductive material to be certified is derived from clones or clonal mixtures.
 
+(8A)[^c-014d9b5265695ef4e02b9ada54e78ae7] But for the purposes of paragraph (8) the form of the document set out in—
+
+- (a) Schedule 6 is the form that document would take if regulation 33 of the Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 had not been made;
+- (b) Schedule 7 is the form that document would take if regulation 34 of the Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 had not been made; and
+- (c) Schedule 8 is the form that document would take if regulation 35 of the Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 had not been made.
+
 (9) A Master Certificate issued in respect of forest reproductive material produced by mixing permitted under regulation 15(3) from seed sources and stands in the category “source-identified” shall certify such forest reproductive material as “reproductive material derived from a seed source”.
 
 (10) A Master Certificate issued in respect of forest reproductive material produced from mixing permitted under regulation 15(3) of reproductive material derived from basic material which is neither autochthonous nor indigenous with basic material of unknown origin shall certify such forest reproductive material as being “of unknown origin”.
@@ -381,11 +402,11 @@ Subsequent multiplication by vegetative propagation from a single unit of approv
 
 - (a) “reference number” means
   - (i) in the case of basic material approved by an appropriate authority in accordance with regulation 7, the reference number given to the material in the National Register;
-  - (ii) in the case of basic material approved by the Commissioners[^c-871590572fbcdc3b1bd2f4414bcc484f] , the reference number given to the material in the register drawn up and maintained by the Commissioners in accordance with regulation 7 of the GB Regulations[^c-9c069cefa51f39adf2af2c29bdd1d9b7] ;
-  - (iii) in the case of approved basic material from which reproductive material produced in a member State, an approved non-EU[^c-7527bb011cf8b46270c5c73cde9ad048] third country or a permitted third country has been derived, the reference number given to the material in the national register of basic material approved for forest reproductive material drawn up and maintained by the official body of that country;
+  - (ii)[^c-b89294b6c67dd8faf379bb402978d584] in the case of basic material approved by any other official body of a member State, the reference number given to the material in the register drawn up and maintained by the official body in accordance with Article 10 of the Directive;
+  - (iii) in the case of approved basic material from which reproductive material produced in an EU-approved third country or a permitted third country has been derived, the reference number given to the material in the national register of basic material approved for forest reproductive material drawn up and maintained by the official body of that country;
 - (b) “unit of approval”—
-  - (i) in the case of forest reproductive material derived from basic material approved by an appropriate authority, has the meaning given in regulation
-  - (ia)[^c-a4a3b5f570bcec460ad01dbf45b91f87] in the case of forest reproductive material derived from basic material approved by the Commissioners, has the meaning given in regulation 7(5) of the GB Regulations;
+  - (i)[^c-93783e78318c6d880bf049e76c819d56] in the case of forest reproductive material derived from basic material approved by an appropriate authority, has the meaning given in regulation 7;
+  - (ia)[^c-eb338730c6e39c1a5b890c1a4d1238ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in the case of forest reproductive material derived from basic material approved by another official body, means the unit of basic material from which the forest reproductive material is derived, as recorded in the national register of basic material approved for forest reproductive material drawn up and maintained by the official body.
 
 ### 15. Permitted mixing of forest reproductive material[^c-384775d0404b0748b40e8716bc11d282]
@@ -431,13 +452,15 @@ Subsequent multiplication by vegetative propagation from a single unit of approv
   - (i) its collection and production meet the requirements of regulations 10 to 12 and 14 to 15;
   - (ii) it has been certified in accordance with regulation 13; and
   - (iii) it falls into one of the categories described in regulation 4(1), subject to the application of regulation 7(2);
-- (b) in the case of forest reproductive material produced in Northern Ireland[^c-ac9cb12706fecb3e44f54c80c9a748d1]..., it was accompanied on its entry into Northern Ireland by the supplier’s label or document required by regulation 19 of the GB Regulations[^c-91842bfdce7543b237c3072a316c4441] ;
-- (bb)[^c-850f93230b79a012da7c3fff687434fc] in the case of forest reproductive material produced in a member State and imported into Northern Ireland, it has met the requirements as to entry into Northern Ireland set out in regulation 25;
-- (c) in the case of forest reproductive material produced in approved non-EU[^c-e1f02c637871ae893bda0b6bf47d0b50] third country and imported from a third country into Northern Ireland, a Master Certificate has been issued by the Department in relation to the material in accordance with regulation 25(5) and (6);
-- (d)[^c-d41335815086a3a845ca17dac039884b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) in the case of forest reproductive material produced in a permitted third country and imported from a third country into Northern Ireland, it has met the requirements as to entry into Northern Ireland set out in regulation 25;
-- (ee)[^c-f3faf4c0f61ef347638dc1e62a4e7537] in the case of forest reproductive material imported into England, it met the requirements set out in the GB Regulations as to entry into England and was accompanied on its entry into Northern Ireland by the supplier’s label or document required by regulation 19 of the GB Regulations;
-- (f)[^c-2b2f52f5ac7d388e2e70281b06293721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8e5c3e64d4b3379edc86084c7027c83f] in the case of forest reproductive material produced in a member State, it was accompanied on its entry into Northern Ireland by the supplier’s label or document required by Article 14 of the Directive;
+- (c) in the case of forest reproductive material produced in an EU-approved third country and imported from a third country into Northern Ireland, a Master Certificate has been issued by the Department in relation to the material in accordance with regulation 25(5);
+- (d) in the case of any other forest reproductive material produced in an EU-approved third country—
+  - (i) a Master Certificate has been issued in relation to the material in accordance with Article 4 of [Decision 2008/971/EC](https://www.legislation.gov.uk/european/decision/2008/0971); and
+  - (ii) the forest reproductive material was accompanied on its entry into Northern Ireland by the supplier’s label or document required by Article 14 of the Directive;
+- (e) in the case of forest reproductive material produced in a permitted third country and imported into Northern Ireland, it has met the requirements as to entry into Northern Ireland set out in regulation 25;
+- (f) in the case of any other forest reproductive material produced in a permitted third country—
+  - (i) a Master Certificate has been issued in relation to the material by an official body of a member State; and
+  - (ii) the forest reproductive material was accompanied on its entry into Northern Ireland by the supplier’s label or document required by Article 14 of the Directive;
 - (g) it is marketed and labelled in compliance with paragraphs (2) to (7), regulation 14 and regulation 19 as read with regulation 20 in the case of seeds; and
 - (h) it meets the requirements of paragraphs (8) to (12).
 
@@ -468,6 +491,8 @@ Subsequent multiplication by vegetative propagation from a single unit of approv
 
 (12)[^c-1725260f04e67e961b6a9a931d5f38e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
+(12A)[^c-cdc8e53e9f9c6c428b1b789ee9e0e2a6] Forest reproductive material in the form of planting stock which is intended to be marketed to the Mediterranean climatic region shall comply with the requirements of Schedule 10A.
+
 ### 18. Licences[^c-3fd50805e464ab92c809b459d58213c5]
 
 (1) The Department may authorise a registered supplier by licence to—
@@ -484,7 +509,7 @@ Subsequent multiplication by vegetative propagation from a single unit of approv
 
 - (a) if the forest reproductive material is to be marketed for use in tests, for scientific purposes or for genetic conservation purposes;
 - (b) if the forest reproductive material consists of seed units which are clearly shown not to be intended for forestry purposes; or
-- (c) in exercise of a derogation permitted by any provision made under[^c-64bc312d5982cc5b5773f7321b452326] assimilated[^c-3ff1cae8f8ddd8dabc5921c8fc908ed0] law relating to forest reproductive material or the Seeds Act (Northern Ireland) 1965 .
+- (c)[^c-67dcf832f047fcac10c67488ced0af39] in exercise of a derogation permitted by the Directive.
 
 (4) The Department may also give an authorisation under paragraph (1)(a) if the forest reproductive material is to be marketed for use in selection work.
 
@@ -502,6 +527,7 @@ Subsequent multiplication by vegetative propagation from a single unit of approv
 - (f) whether the material has been vegetatively propagated;
 - (g) in the case of forest reproductive material derived from basic material which consists of a genetically modified organism, the fact that it is so derived; and
 - (h)[^c-91f6cd25b4a3b0dcda429f51d97ebf0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (hh)[^c-d85907e2d56bd18d1a6a906b225bfbc6] in the case of parts of plants of *Populus* spp., the EC classification described in Schedule 9, paragraphs 1(b) and 2(b).
 
 (2) In the case of forest reproductive material marketed as a seed lot, the supplier’s label or document shall, subject to paragraphs (3) and (4), in addition to the information required under paragraph (1), also contain the following information, stating in each case the date on which any assessment which is the source of the information so provided was carried out:
 
@@ -510,7 +536,7 @@ Subsequent multiplication by vegetative propagation from a single unit of approv
 - (c) the weight of 1,000 pure seeds; and
 - (d) the number of germinable seeds per kilogram of the seed, or, where the number of germinable seeds is impossible or impractical to assess, the number of viable seeds per kilogram.
 
-(3) When forest reproductive material in the form of seed of any given season’s crop is first sold in that season as forest reproductive material, it need not meet the requirements of paragraph (2)(b) or, in the case of material produced in an[^c-91e2f07d0373707d2428e9ca59b5926c] approved non-EU[^c-fd840f58cb6b861b69ac80178af60eaa] d third country, the requirements of paragraph (2)(d) if the testing required to ascertain that information has not been concluded, but shall meet those requirements during all subsequent marketing where the supplier’s label or document is needed.
+(3) When forest reproductive material in the form of seed of any given season’s crop is first sold in that season as forest reproductive material, it need not meet the requirements of paragraph (2)(b) or, in the case of material produced in an[^c-91e2f07d0373707d2428e9ca59b5926c] EU-approved third country[^c-08650cc43ce9aeeaae79f9aae955174e], the requirements of paragraph (2)(d) if the testing required to ascertain that information has not been concluded, but shall meet those requirements during all subsequent marketing where the supplier’s label or document is needed.
 
 (4) The information requirements of paragraph[^c-8f1d50f9db74913dac1b61a2d711531e] (2)(b) and (d) shall not apply to forest reproductive material in the form of seed which is marketed in quantities no greater than those described in respect of the individual species and artificial hybrids listed in Schedule 11.
 
@@ -529,35 +555,54 @@ Subsequent multiplication by vegetative propagation from a single unit of approv
 
 For the purposes of providing the information required under regulation 19(2), the supplier shall obtain assessments using testing techniques which the Department has confirmed in writing, prior to the assessments taking place, it is satisfied are, so far as is practical in all the circumstances, internationally accepted techniques.
 
-## PART VI — MOVEMENT OF FOREST REPRODUCTIVE MATERIAL WITHIN THE UNITED KINGDOM[^c-f7d6536164132220f2097008b989beab]
+## PART VI — MOVEMENT OF FOREST REPRODUCTIVE MATERIAL[^c-20d2ab0b2deddc37a3ac545ae9f0351a]
 
-### 21. Forest reproductive material despatched to another part of the United Kingdom[^c-2b026d896b93c82dbe2a116d94fa1b6a][^c-a1bfa1baf6abb0a2158cdbfad054bc87]
+### 21. Forest reproductive material despatched to another part of the United Kingdom[^c-625c62de6bfc55fee1d3857f0bb5f656][^c-a1bfa1baf6abb0a2158cdbfad054bc87]
 
-(1) A person other than a registered supplier shall not despatch forest reproductive material to a destination in another part of the United Kingdom .
-
-(2) A registered supplier shall not despatch forest reproductive material to a destination in another part of the United Kingdom unless that material complies with the requirements of regulation 17 as if the forest reproductive material were to be marketed within Northern Ireland, and it is accompanied by a supplier’s label or document.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 22. Movement of forest reproductive material to another member State[^c-b723e9213dd40449cb547f0f7859dbd4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Movement of forest reproductive material into Northern Ireland from Great Britain or within Great Britain[^c-7e930554052cb3d63b7cfa19f9ca673e][^c-d409b234ec03f765ad4003e9de1b9ead]
+### 22A. Movement of forest reproductive material to a member State[^c-199c63089173f1aa08fe5ed8d4fd79b9]
 
-A person acting in the course of a business or trade whether or not for profit shall not take delivery of forest reproductive material intending to market it if the material has been despatched to him from Great Britain unless it is accompanied by the supplier’s label or document required by Article 14 of the Directive.
+(1) A person, other than a registered supplier, shall not despatch forest reproductive material to a destination in a member State.
+
+(2) A registered supplier shall not despatch forest reproductive material to a destination in a member State unless that material—
+
+- (a) would comply with the requirements of regulation 17 as if the forest reproductive material were to be marketed within Northern Ireland; and
+- (b) is accompanied by a supplier’s label or document.
+
+(3) A registered supplier who despatches forest reproductive material to a destination in a member State shall inform the Department in writing no later than 14 days from the date on which the material has left Northern Ireland providing the following information—
+
+- (a) the Master Certificate number;
+- (b) date of despatch or intended date of despatch of the forest reproductive material;
+- (c) address to which the forest reproductive material has been or is to be despatched;
+- (d) the botanical name, and (if different from that stated in the Master Certificate), the nature and quantity of the forest reproductive material; and
+- (e) the supplier’s label or document.
+
+### 23. Movement of forest reproductive material into Northern Ireland from Great Britain or within Great Britain[^c-8d59f130edd16df27f8b262e52ec6f17][^c-d409b234ec03f765ad4003e9de1b9ead]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 24. Imports into Northern Ireland from a member State[^c-cae64732fdd20394aa74518ceda948ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
+### 24A. Imports into Northern Ireland from a member State[^c-4fa7b2f4ba3e250b6337956c983348a6]
+
+A person acting in the course of a business or trade whether or not for profit shall not import from a member State forest reproductive material into Northern Ireland for the purposes of marketing that material unless it is accompanied by the supplier’s label or document required by Article 14 of the Directive.
+
 ### 25. Regulation 25 (prohibition against imports of forest reproductive material from third countries)[^c-cec79e20d575894dfe5e08c3bdf6422e]
 
 (1) No person may import forest reproductive material into Northern Ireland from a third country for the purpose of marketing it unless—
 
-- (a) it has been produced in a member State, or[^c-052608fb7deaba1ddd2bae3f04c03d13] an approved non-EU third country or a permitted third country;
+- (a)[^c-3953c7332124ea283734609ae49eaa4b] it has been produced in an EU-approved third country or a permitted third country;
 - (b) it is permitted material; and
 - (c) the requirements set out in Schedule 13 are met on entry.
 
-(2) A person intending to import permitted material into Northern Ireland from a member State, or an approved non-EU[^c-00082cb6d910f12e0f39a64f4aaae601] third country or a permitted third country shall notify the Department of the arrival of the material at least three days before the intended date of its arrival into Northern Ireland.
+(2) A person intending to import permitted material into Northern Ireland from [^c-8f1c40fde94c32c57491d8e63d6a71f3]... an approved non-EU[^c-00082cb6d910f12e0f39a64f4aaae601] third country or a permitted third country shall notify the Department of the arrival of the material at least three days before the intended date of its arrival into Northern Ireland.
 
 (3) The notification to the Department shall be—
 
@@ -570,7 +615,7 @@ A person acting in the course of a business or trade whether or not for profit s
 
 (5) If the Department is satisfied that the requirements set out in Schedule 13 have been met in relation to the permitted material, the Department shall issue a Master Certificate for the material to its owner.
 
-(6) In the case of permitted material from a member State, or an approved non-EU[^c-2b6e589454d4f657e50d615d2b0b3c57] third country, a Master Certificate issued under paragraph (5) shall—
+(6) In the case of permitted material from an EU-approved third country[^c-d867d6287dae9e047db55f96ec934753], a Master Certificate issued under paragraph (5) shall—
 
 - (a) be based on the OECD Certificate of Provenance; and
 - (b) indicate that the material has been imported under an equivalence regime.
@@ -597,7 +642,7 @@ A person acting in the course of a business or trade whether or not for profit s
   - (iv) supplier’s label or document;
   - (v) licence granted under regulation 18;
   - (vi) communication required under regulation 22;
-  - (vii) UK[^c-73bb9ee9f9ad402358441638a716adb2] plant passports; and
+  - (vii) [^c-f030e40d3f79827bce054527a1cd3e18]... plant passports; and
 - (b) retain or cause to be retained if so required by a notice in writing served on him by the Department, such other records relating to relevant activities, or to activities undertaken as a registered supplier, in such form, as may be specified in the said notice.
 
 (4) All such documents and other records required to be retained by a registered supplier or other person–
@@ -618,7 +663,7 @@ A person acting in the course of a business or trade whether or not for profit s
 
 (1) Subject to paragraph (5), an authorised officer may, for the purposes set out in paragraph (4), and at all reasonable hours, enter and inspect any premises within the meaning of paragraph (5), and shall, if requested, produce documentary evidence of his authorisation by the Department so to enter and inspect.
 
-(2) An authorised officer entering and inspecting premises in exercise of his powers under paragraph (1) may take with him such other persons,[^c-84b23e86b3725e8cba0c0e1009893ca8]... , and such equipment or vehicles as he considers necessary for the purposes of entering and inspecting the premises[^c-10efeab2be62f4793a8b3e7cc5871e7f]....
+(2)[^c-7a9e53743d78df099f8522ad23c8117a] An authorised officer entering and inspecting premises in exercise of his powers under paragraph (1) may take with him such other persons and such equipment or vehicles as he considers necessary for the purposes of entering and inspecting the premises, or for facilitating the checks required under Article 16(6) of the Directive.
 
 (3) Any persons who have accompanied an authorised officer in entering and inspecting premises in accordance with paragraph (2) may, for the purposes of (2) and (4), whether or not accompanied by the authorised officer and on production if so requested of documentary evidence of their authorisation from [^c-3b9a175a785b9a0a25b9c8c53dc2d3fb]...an authorised officer, remain on and from time to time re-enter the premises with such equipment or vehicles as the authorised officer considers necessary.
 
@@ -705,7 +750,7 @@ if any sample of the seeds has been taken by an authorised officer, the third pa
 
 (4) An owner of existing stock referred to in paragraph (3) in the form of seeds as at 1st January 2003 may market such stock only if, no later than 10th February 2003, he provides the Department with written details of that stock, describing the species, quantity and year of ripening of such stock.
 
-(5) Existing stock marketed under this regulation which is despatched to Great Britain or moved to another member State shall meet the relevant requirements of regulations 21 and 22.
+(5) Existing stock marketed under this regulation which is despatched to Great Britain or moved to a member State outside Northern Ireland[^c-714eacba837c3dd77834561874fbf134] shall meet the relevant requirements of regulations 21 and 22.
 
 ### 32. Appeals[^c-19f5ac7754504036a6da8d78a1142b7c]
 
@@ -732,7 +777,7 @@ if any sample of the seeds has been taken by an authorised officer, the third pa
 
 (1) Forest reproductive material intended for purposes other than forestry which is in the form of planting stock or parts of plants shall be exempted from the requirements of these Regulations.
 
-(2) Where a supplier markets forest reproductive material both for forestry and other purposes, material exempted by virtue of paragraph (1) shall be accompanied by a label or document bearing the statement: “Not for forestry purposes”, unless it is plain from a label accompanying it, in compliance (where applicable) with any United Kingdom [^c-f01fc8318046f5cff0d551cc508a3395]... legal requirement, that the material is not intended for forestry purposes.
+(2) Where a supplier markets forest reproductive material both for forestry and other purposes, material exempted by virtue of paragraph (1) shall be accompanied by a label or document bearing the statement: “Not for forestry purposes”, unless it is plain from a label accompanying it, in compliance (where applicable) with any European Union[^c-3ee2db4eba51c5e69be487bf5bd0484a] [^c-f01fc8318046f5cff0d551cc508a3395]... legal requirement, that the material is not intended for forestry purposes.
 
 ### 34. Revocation[^c-1f0a7dbd7c7f2d3508f35918f823cb7c]
 
@@ -779,7 +824,7 @@ Regulation 2(2)
 
 ## SCHEDULE 2 — MINIMUM REQUIREMENTS FOR THE APPROVAL OF BASIC MATERIAL INTENDED FOR THE PRODUCTION OF REPRODUCTIVE MATERIAL TO BE CERTIFIED AS “SOURCE-IDENTIFIED”
 
-Regulation 4(1)(a)
+Regulation 4(1)(aa)[^c-d1e8bb180078abf4826a4bebeaa7b1fb]
 
 **1.**[^c-bd5df0475c10e927091b12169b344ba9] The basic material shall be a seed source or stand located within a single Region of Provenance.
 
@@ -983,8 +1028,8 @@ Regulation 17(10)
 - (b) Minimum dimensions for stem cuttings–
   - minimum length: 20 cm,
   - minimum top diameter:
-    - Class [^c-73ff10932e80b48da1148eaa31e3c960]... 1: 8 mm
-    - Class [^c-73ff10932e80b48da1148eaa31e3c960]... 2: 10 mm.
+    - Class EC[^c-7ee0d6bc8ebb7996e6d56eaa89669eb7] [^c-73ff10932e80b48da1148eaa31e3c960]... 1: 8 mm
+    - Class EC [^c-73ff10932e80b48da1148eaa31e3c960]... 2: 10 mm.
 
 ### 2. Sets[^c-ec02ed517cc37e18635440d405c18f3a]
 
@@ -1003,16 +1048,16 @@ Regulation 17(10)
   <tr><th>Class</th><th>Minimum diameter (mm) at mid-length</th><th>Minimum height (m)</th></tr>
   </thead>
   <tbody>
-  <tr><td colspan="3">. . .</td></tr>
+  <tr><td colspan="3">Non-Mediterranean regions</td></tr>
   <tr><td>N1</td><td>6</td><td>1.5</td></tr>
   <tr><td>N2</td><td>15</td><td>3.00</td></tr>
-  <tr><td colspan="3">. . .</td></tr>
-  <tr><td>. . .</td><td>. . .</td><td>. . .</td></tr>
-  <tr><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="3">Mediterranean regions</td></tr>
+  <tr><td>S1</td><td>25</td><td>3.00</td></tr>
+  <tr><td>S2</td><td>30</td><td>4.00</td></tr>
   </tbody>
   </table>
 
-  [^c-6fb70a37410d66082e8e7dafd1b87d0c][^c-6fb70a37410d66082e8e7dafd1b87d0c][^c-6fb70a37410d66082e8e7dafd1b87d0c][^c-6fb70a37410d66082e8e7dafd1b87d0c][^c-6fb70a37410d66082e8e7dafd1b87d0c][^c-6fb70a37410d66082e8e7dafd1b87d0c][^c-6fb70a37410d66082e8e7dafd1b87d0c][^c-6fb70a37410d66082e8e7dafd1b87d0c]
+  [^c-5a04df634f0f003a08bbcf1818347c94]
 
 ## SCHEDULE 10 — REQUIREMENTS WHICH MUST BE MET BY PLANTING STOCK WHICH IS TO BE MARKETED TO THE END-USER IN THE MEDITERRANEAN CLIMATIC REGION
 
@@ -1025,6 +1070,46 @@ Regulation 17(12)
 [^c-c1edd3a0ab49afb53925a10359d5d1e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 [^c-c1edd3a0ab49afb53925a10359d5d1e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 10A — REQUIREMENTS WHICH MUST BE MET BY PLANTING STOCK WHICH IS TO BE MARKETED TO THE END-USER IN THE MEDITERRANEAN CLIMATIC REGION[^c-f161cca7e9ca2537ee098787e48c8d5d]
+
+Regulation 17(12A)
+
+**1.** Planting stock shall not be marketed unless 95% of each lot is of fair marketable quality and the requirements and specifications of paragraphs 2 to 4 are met.
+
+**2.** Planting stock shall not be considered to be of fair marketable quality if any of the following defects exist—
+
+- (a) injuries other than pruning cuts or injuries due to damage when lifting;
+- (b) lack of buds with the potential to form a leading shoot;
+- (c) multiple stems;
+- (d) deformed root system;
+- (e) signs of desiccation, overheating, mould, decay or other harmful organisms;
+- (f) the plants are not well balanced.
+
+**3.** Size of the plants—
+
+| Species | Maximum age (years) | Minimum height (cm) | Maximum height (cm) | Minimum root collar diameter (mm) |
+| --- | --- | --- | --- | --- |
+| *Pinus halepensis* | 1 | 8 | 25 | 2 |
+|  | 2 | 12 | 40 | 3 |
+| *Pinus leucodermis* | 1 | 8 | 25 | 2 |
+|  | 2 | 10 | 35 | 3 |
+| *Pinus nigra* | 1 | 8 | 15 | 2 |
+|  | 2 | 10 | 20 | 3 |
+| *Pinus pinaster* | 1 | 7 | 30 | 2 |
+|  | 2 | 15 | 45 | 3 |
+| *Pinus pinea* | 1 | 10 | 30 | 3 |
+|  | 2 | 15 | 40 | 4 |
+| *Quercus ilex* | 1 | 8 | 30 | 2 |
+|  | 2 | 15 | 50 | 3 |
+| *Quercus suber* | 1 | 13 | 60 | 3 |
+
+**4.** Size of the container, where used—
+
+| Species | Minimum volume of the container (cm³) |
+| --- | --- |
+| *Pinus pinaster* | 120 |
+| Other species | 200 |
 
 ## SCHEDULE 11 — SMALL QUANTITIES OF SEEDS WHICH MAY BE MARKETED WITHOUT FULFILLING THE REQUIREMENTS OF REGULATION 19(2)(b) AND (d)
 
@@ -1094,96 +1179,82 @@ THE FOREST REPRODUCTIVE MATERIAL REGULATIONS (NORTHERN IRELAND) 2002
 
 Regulation 25
 
-#### 1. Scope of Schedule
+#### 1. Scope of Schedule[^c-9cbdbce85d50d3d555b34459a62d47ae]
 
-This Schedule applies to consignments of forest reproductive material produced in a member State, an approved non-EU[^c-33716e32111913fd25afd0b19013321c] third country or a permitted third country.
+This Schedule applies to consignments of forest reproductive material produced in an EU-approved third country.
 
 #### 2. Interpretation
 
 In this Schedule—
 
-- **OECD Certificate of Identity[^c-206e6b158d2ba44f806d7d828d2370e3]**” means a certificate of identity issued in accordance with the rules of the OECD Scheme;
+- **[^c-c5fda77e63aa51424b81495729139065]...**
 - “OECD Certificate of Provenance” means a certificate of provenance issued in accordance with the rules of the OECD Scheme;
 - “OECD label” means a label issued in accordance with the rules of the OECD Scheme;
 - “the OECD Scheme” means the OECD Scheme for the Certification of Forest Reproductive Material Moving in International Trade adopted by Decision C(2007)69 of the Council of the Organisation for Economic Co-operation and Development, as last amended by Decision C(2013)30 of that Council;
 - “permitted material” means—
-  - (a) in the case of forest reproductive material produced in an approved non-EU[^c-e20911de5f4976d2619d1d9ade324cc1] third country, forest reproductive material which;
+  - (a) in the case of forest reproductive material produced in an EU-approved[^c-542edc4157779ebbfc36eea458bd932a] third country, forest reproductive material which;
     - (i) is in the form of seeds or planting stock;
     - (ii) is of a species or artificial hybrid listed in Schedule 1;
     - (iii) has been certified as “source-identified”, “selected” or “qualified” by the relevant official body in accordance with the rules of the OECD Scheme;
     - (iv) where it is in the form of seeds, it has been certified as derived from approved basic material by the relevant official body; and
     - (v) where it is in the form of planting stock, it has been produced in a nursery registered with, or under the official supervision of, the relevant official body.
-  - (za) in the case of forest reproductive material produced in a member State, forest reproductive material which has been certified by the relevant official body in accordance with Article 12 of the Directive or the OECD Scheme;[^c-4ac46da8457fd2ea8be36348497c0f3c]
+  - (za) [^c-e11260501113a913971ae91f1188cbf3]...
 
-### PART 1A — Approved non-EU third countries[^c-d2b169cf2a4244acdf3fd561b90d8140]
+### PART 1A — Approved non-EU third countries[^c-c035e941e46327149417e6fc6229debe]
 
-#### 1. Approved non-EU third countries
+**No longer in force.**
 
-Canada.
+#### 1. Approved non-EU third countries[^c-c035e941e46327149417e6fc6229debe]
 
-#### 2.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Norway
+#### 2.[^c-c035e941e46327149417e6fc6229debe]
 
-#### 3.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Serbia
+#### 3.[^c-c035e941e46327149417e6fc6229debe]
 
-#### 4.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Switzerland
+#### 4.[^c-c035e941e46327149417e6fc6229debe]
 
-#### 5.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Turkey
+#### 5.[^c-c035e941e46327149417e6fc6229debe]
 
-#### 6.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-United States of America
+#### 6.[^c-c035e941e46327149417e6fc6229debe]
 
-### PART 1B — Scope of Part 1B
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2A.
+### PART 1B — Scope of Part 1B[^c-9603970301e5902e3c9c79c5efd83a6d]
 
-This Part applies to consignments of permitted material produced in a member State.
+**No longer in force.**
 
-#### 2B. General requirements
+#### 2A.[^c-9603970301e5902e3c9c79c5efd83a6d]
 
-A consignment of permitted material must be accompanied by—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) a copy of the Master Certificate issued by the relevant official body under Article 12 of the Directive;
-- (b) a label or document which complies with the requirements in Article 14 of the Directive;
-- (c) an OECD Certificate of Provenance or OECD Certificate of Identity issued in relation to the permitted material; or
-- (d) a label or document completed by the supplier of the consignment containing—
-  - (i) the supplier's name;
-  - (ii) all of the information contained in the OECD Certificate of Provenance or OECD Certificate of Identity; and
-  - (iii) in relation to any seed lot which is accompanied by an OECD Certificate of Provenance or an OECD Certificate of Identity, the information specified in paragraph 2D.
+#### 2B. General requirements[^c-9603970301e5902e3c9c79c5efd83a6d]
 
-#### 2C.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Where the permitted material is accompanied by an OECD Certificate of Provenance or OECD Certificate of Identity, or a label or document referred to in paragraph 2B(d), an OECD label must be attached to each seed lot and to each consignment of planting stock.
+#### 2C.[^c-9603970301e5902e3c9c79c5efd83a6d]
 
-#### 2D.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-The OECD label attached to the seed lot and any supplier's document accompanying the seed lot must contain the following additional information in relation to the seed lot assessed, so far as is practical in all the circumstances, using internationally accepted techniques—
+#### 2D.[^c-9603970301e5902e3c9c79c5efd83a6d]
 
-- (a) the percentage by weight of pure seed, other seed and inert matter;
-- (b) the germination percentage of pure seed, or where it is impossible or impractical to assess the germination percentage, the viability percentage assessed by reference to a method which must be described;
-- (c) the weight of 1000 pure seeds;
-- (d) the number of germinable seeds per kilogram of the seed, or where it is impossible or impractical to assess the number of germinable seeds, the number of viable seeds per kilogram;
-- (e) in the case of a seed lot of closely related species which does not reach a minimum species purity of 99%, the species purity.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2E.
+#### 2E.[^c-9603970301e5902e3c9c79c5efd83a6d]
 
-But the OECD label and supplier's document may omit the following information—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) any information mentioned in paragraph 2(D)(a) to (e) which is yet to be ascertained by testing the seed using internationally accepted techniques;
-- (b) in the case of a seed lot containing seed which has been harvested from the current season's crop, any information mentioned in paragraph 2(D)(b) or (d) which is not yet available;
-- (c) in the case of seed which is to be marketed in quantities no greater than those specified for the species or artificial hybrid of the seed in Schedule 11, the information mentioned in paragraph 2(D(b) or (d).
+#### 2F.[^c-9603970301e5902e3c9c79c5efd83a6d]
 
-#### 2F.
-
-All seed must be consigned in sealed packages.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2
 
@@ -1269,11 +1340,11 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 
 [^c-adba1eae06341d45e1df8582a8954838]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/nisr/2019/50/regulation/3/1/a)
 
-[^c-3ec8c941762f73d2cb2c995bef537d71]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-0521fdd776b8346a60618447a744865e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f06a7c1d8150b456f274c75b77a4c2f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/2/a/i)
 
 [^c-2c7d8a56e81e9a92136f5adfc6888a6b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(iii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c-08f27be25ddf2471bcb098043f0a903e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/2/a/ii)
 
 [^f00004]: Footnote: O.J. L11, 15.1.00, p. 17
 
@@ -1285,15 +1356,13 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 
 [^c-98ff181dd4849c1a662e1b5f75d4412d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(vi)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-92467727c92016eed591e6c363213b5d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(vii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/vii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
 [^c-cb3edbb1443befa187c800ba43b469be]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [3(1)(d)](https://www.legislation.gov.uk/nisr/2019/50/regulation/3/1/d)
 
-[^c-dfa7aaec04714c7787d34d104d8b87b0]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(aa)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/aa)[(viii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/viii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d44ad67c264e57ae094133cf862da860]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(2)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/2/a/iii/aa)
 
-[^c-4f1a563ea41d4b8ca7ebcdd6b91d072f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(bb)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/bb)[(viii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/viii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b59a996a9d2a78572eb0ae6d2514299]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(2)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/2/a/iii/bb)
 
-[^c-24f1930c62ce3ac65726dc696830235f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(ix)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/ix); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4b59715ae96a21ad5241456f793ce5c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(2)(a)(iii)(cc)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/2/a/iii/cc)
 
 [^c-b3e4df415cf678561195bd9a4f392396]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(x)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/x); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -1301,17 +1370,13 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 
 [^f00008]: Footnote: [S.R. & O. (N.I.) 1973 No. 208](https://www.legislation.gov.uk/nisro/1973/208)
 
-[^c-8b1c21024123d56c672c7229460f6220]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [3(1)(e)](https://www.legislation.gov.uk/nisr/2019/50/regulation/3/1/e)
-
-[^c-34ced9c2d597fbfa196d0d7dc2b5828a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(aa)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/aa)[(xi)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/xi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-acd327da6058883744d4a4c379531100]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(bb)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/bb)[(xi)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/xi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-031708994ae33d8310c755843b9fa652]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/2/a/iv)
 
 [^c-f68b495f98344ace8013fb7231f0e4cc]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(xii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/xii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-e662a0e9dc69e5f7c5b9dcecc821405c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(xiii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/xiii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-deab1e4f03d066f51dd4ffd8678675b8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(2)(a)(v)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/2/a/v)
 
-[^c-109fe67584d37918e88dcde7910de15e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [17(a)(xiv)](https://www.legislation.gov.uk/uksi/2019/211/regulation/17/a/xiv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac929e6d438c348c9e30c05b9488a6b5]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/2/a/vi)
 
 [^f00010]: Footnote: [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66)
 
@@ -1319,11 +1384,15 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 
 [^c-5a20d6ec06ebf03e903190412659ae15]: Textual amendment: [Reg. 2(4A)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/4A) inserted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2019/50/regulation/3/2)
 
+[^c-9ff1457a3aa4b1eb3f124dd108798917]: Textual amendment: [Reg. 2(4B)-(4D)](https://www.legislation.gov.uk/nisr/2002/404/regulation/2/4B) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/2/b)
+
 [^c-4df29197ac65131a0315020429595039]: Commencement: Reg. 3 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
 [^c-c309fd6b1f8b848157c72796fef1082f]: Commencement: Reg. 4 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
 [^c-c14cc6b3ddf9a26b4cf8915707049d9b]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/2002/404/regulation/4/1A) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2019/211/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c-ad0cf02a201d265380ed0990ac8994cc]: Textual amendment: [Reg. 4(1)(aa)](https://www.legislation.gov.uk/nisr/2002/404/regulation/4/1/aa) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/3)
 
 [^c-d7c40a6910a0ac7cc1be7bd63c4f70d5]: Commencement: Reg. 5 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
@@ -1333,9 +1402,9 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 
 [^c-214749bf42bf8959247e910cc27b5ff0]: Textual amendment: [Reg. 7(4)(b)](https://www.legislation.gov.uk/nisr/2002/404/regulation/7/4/b) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2019/211/regulation/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-ba76cf992fe5f885ed9259a4be5c4157]: Textual amendment: [Reg. 7(4)(c)](https://www.legislation.gov.uk/nisr/2002/404/regulation/7/4/c) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2019/211/regulation/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03d3f5ddd8e142ce63b8a267d70165e7]: Textual amendment: [Reg. 7(4)(bb)](https://www.legislation.gov.uk/nisr/2002/404/regulation/7/4/bb) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/4)
 
-[^c23561121]: Annotation text not found in the source document.
+[^c-ba76cf992fe5f885ed9259a4be5c4157]: Textual amendment: [Reg. 7(4)(c)](https://www.legislation.gov.uk/nisr/2002/404/regulation/7/4/c) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2019/211/regulation/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-d34f22a2fc652e61a5380ba5ef76d33b]: Commencement: Reg. 8 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
@@ -1349,19 +1418,19 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 
 [^c-68b6b8c2cedf51864718bc43db558309]: Commencement: Reg. 13 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
+[^c-014d9b5265695ef4e02b9ada54e78ae7]: Textual amendment: [Reg. 13(8A)](https://www.legislation.gov.uk/nisr/2002/404/regulation/13/8A) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/5)
+
 [^c-bd153bf5e7aa329a9f018c3834926290]: Commencement: Reg. 14 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
 [^c-66521c3a41b36bf69468beebe1871047]: Textual amendment: [Reg. 14(1)(f)(i)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/1/f/i) substituted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2019/50/regulation/4/1)
 
 [^c-59bf6302534dd878cff9f2f65ab7a596]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4) inserted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/50/regulation/4/2)
 
-[^c-871590572fbcdc3b1bd2f4414bcc484f]: Textual amendment: Words in [reg. 14(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4/a/ii) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [20(a)(aa)](https://www.legislation.gov.uk/uksi/2019/211/regulation/20/a/aa)[(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/20/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b89294b6c67dd8faf379bb402978d584]: Textual amendment: [Reg. 14(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4/a/ii)[(iii)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4/a/iii) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/6/a)
 
-[^c-9c069cefa51f39adf2af2c29bdd1d9b7]: Textual amendment: Words in [reg. 14(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4/a/ii) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [20(a)(bb)](https://www.legislation.gov.uk/uksi/2019/211/regulation/20/a/bb)[(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/20/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93783e78318c6d880bf049e76c819d56]: Textual amendment: [Reg. 14(4)(b)(i)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4/b/i) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/6/b)
 
-[^c-7527bb011cf8b46270c5c73cde9ad048]: Textual amendment: Words in [reg. 14(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4/a/iii) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [20(a)(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/20/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-a4a3b5f570bcec460ad01dbf45b91f87]: Textual amendment: [Reg. 14(4)(b)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4/b)[(ia)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4/ia) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2019/211/regulation/20/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb338730c6e39c1a5b890c1a4d1238ec]: Textual amendment: [Reg. 14(4)(b)(ia)](https://www.legislation.gov.uk/nisr/2002/404/regulation/14/4/b) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(6)(c)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/6/c)
 
 [^c-384775d0404b0748b40e8716bc11d282]: Commencement: Reg. 15 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
@@ -1371,71 +1440,65 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 
 [^c-5ed500b78a33f53a39bb11c378b0caf0]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/1) substituted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [5](https://www.legislation.gov.uk/nisr/2019/50/regulation/5)
 
-[^c-ac9cb12706fecb3e44f54c80c9a748d1]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/1/b) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [21(a)(aa)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/a/aa)[(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-91842bfdce7543b237c3072a316c4441]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/1/b) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [21(a)(bb)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/a/bb)[(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-850f93230b79a012da7c3fff687434fc]: Textual amendment: [Reg. 17(1)(bb)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/1/bb) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [21(a)(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-e1f02c637871ae893bda0b6bf47d0b50]: Textual amendment: Words in [reg. 17(1)(c)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/1/c) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [21(a)(iii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-d41335815086a3a845ca17dac039884b]: Textual amendment: [Reg. 17(1)(d)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/1/d) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [21(a)(iv)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-f3faf4c0f61ef347638dc1e62a4e7537]: Textual amendment: [Reg. 17(1)(ee)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/1/ee) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [21(a)(v)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/a/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-2b2f52f5ac7d388e2e70281b06293721]: Textual amendment: [Reg. 17(1)(f)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/1/f) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [21(a)(vi)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/a/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e5c3e64d4b3379edc86084c7027c83f]: Textual amendment: [Reg. 17(1)(b)-(f)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/1/b) substituted for reg. 17(1)(b)-(ee) (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(7)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/7/a)
 
 [^c-1725260f04e67e961b6a9a931d5f38e0]: Textual amendment: [Reg. 17(12)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/12) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2019/211/regulation/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
+[^c-cdc8e53e9f9c6c428b1b789ee9e0e2a6]: Textual amendment: [Reg. 17(12A)](https://www.legislation.gov.uk/nisr/2002/404/regulation/17/12A) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(7)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/7/b)
+
 [^c-3fd50805e464ab92c809b459d58213c5]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2002/404/regulation/18) substituted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [6](https://www.legislation.gov.uk/nisr/2019/50/regulation/6)
 
-[^c-64bc312d5982cc5b5773f7321b452326]: Textual amendment: Words in [reg. 18(3)(c)](https://www.legislation.gov.uk/nisr/2002/404/regulation/18/3/c) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2019/211/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-3ff1cae8f8ddd8dabc5921c8fc908ed0]: Textual amendment: Word in [reg. 18(3)(c)](https://www.legislation.gov.uk/nisr/2002/404/regulation/18/3/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/1)
+[^c-67dcf832f047fcac10c67488ced0af39]: Textual amendment: [Reg. 18(3)(c)](https://www.legislation.gov.uk/nisr/2002/404/regulation/18/3/c) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/8)
 
 [^c-5a976244ec16842c9bb37f8fc8dcf942]: Commencement: Reg. 19 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
 [^c-91f6cd25b4a3b0dcda429f51d97ebf0a]: Textual amendment: [Reg. 19(1)(h)](https://www.legislation.gov.uk/nisr/2002/404/regulation/19/1/h) and word omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2019/211/regulation/23/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
+[^c-d85907e2d56bd18d1a6a906b225bfbc6]: Textual amendment: [Reg. 19(1)(hh)](https://www.legislation.gov.uk/nisr/2002/404/regulation/19/1/hh) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(9)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/9/a)
+
 [^c-91e2f07d0373707d2428e9ca59b5926c]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2002/404/regulation/19/3) substituted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2019/50/regulation/7/a)
 
-[^c-fd840f58cb6b861b69ac80178af60eaa]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2002/404/regulation/19/3) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2019/211/regulation/23/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08650cc43ce9aeeaae79f9aae955174e]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2002/404/regulation/19/3) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(9)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/9/b)
 
 [^c-8f1d50f9db74913dac1b61a2d711531e]: Textual amendment: Word in [reg. 19(4)](https://www.legislation.gov.uk/nisr/2002/404/regulation/19/4) substituted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2019/50/regulation/7/b)
 
 [^c-5b3e11e5d1020b5a649e5e02bdfd499a]: Commencement: Reg. 20 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
-[^c-f7d6536164132220f2097008b989beab]: Textual amendment: Words in [Pt. VI](https://www.legislation.gov.uk/nisr/2002/404/part/VI) heading substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2019/211/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-20d2ab0b2deddc37a3ac545ae9f0351a]: Textual amendment: [Pt. VI](https://www.legislation.gov.uk/nisr/2002/404/part/VI) heading substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(10)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/10)
 
-[^c-2b026d896b93c82dbe2a116d94fa1b6a]: Commencement: Reg. 21 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
+[^c-625c62de6bfc55fee1d3857f0bb5f656]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2002/404/regulation/21) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(11)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/11)
 
 [^c-a1bfa1baf6abb0a2158cdbfad054bc87]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/nisr/2002/404/regulation/21) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2019/211/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-b723e9213dd40449cb547f0f7859dbd4]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2002/404/regulation/22) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2019/211/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-7e930554052cb3d63b7cfa19f9ca673e]: Commencement: Reg. 23 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
+[^c-199c63089173f1aa08fe5ed8d4fd79b9]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/nisr/2002/404/regulation/22A) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/12)
+
+[^c-8d59f130edd16df27f8b262e52ec6f17]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/nisr/2002/404/regulation/23) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(11)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/11)
 
 [^c-d409b234ec03f765ad4003e9de1b9ead]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2002/404/regulation/23) heading inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2019/211/regulation/27/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-cae64732fdd20394aa74518ceda948ad]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/nisr/2002/404/regulation/24) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2019/211/regulation/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
+[^c-4fa7b2f4ba3e250b6337956c983348a6]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/nisr/2002/404/regulation/24A) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/12)
+
 [^c-cec79e20d575894dfe5e08c3bdf6422e]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/nisr/2002/404/regulation/25) substituted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [8](https://www.legislation.gov.uk/nisr/2019/50/regulation/8)
 
-[^c-052608fb7deaba1ddd2bae3f04c03d13]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/nisr/2002/404/regulation/25/1) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2019/211/regulation/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3953c7332124ea283734609ae49eaa4b]: Textual amendment: [Reg. 25(1)(a)](https://www.legislation.gov.uk/nisr/2002/404/regulation/25/1/a) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(13)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/13/a)
+
+[^c-8f1c40fde94c32c57491d8e63d6a71f3]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/25/2) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(13)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/13/b)
 
 [^c-00082cb6d910f12e0f39a64f4aaae601]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/25/2) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2019/211/regulation/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^c-2b6e589454d4f657e50d615d2b0b3c57]: Textual amendment: Words in [reg. 25(6)](https://www.legislation.gov.uk/nisr/2002/404/regulation/25/6) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2019/211/regulation/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d867d6287dae9e047db55f96ec934753]: Textual amendment: Words in [reg. 25(6)](https://www.legislation.gov.uk/nisr/2002/404/regulation/25/6) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(13)(c)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/13/c)
 
 [^c-dfafc1ca698defa10fd8c8ddad07837e]: Commencement: Reg. 26 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
-[^c-73bb9ee9f9ad402358441638a716adb2]: Textual amendment: Word in [reg. 26(3)(a)(vii)](https://www.legislation.gov.uk/nisr/2002/404/regulation/26/3/a/vii) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2019/211/regulation/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f030e40d3f79827bce054527a1cd3e18]: Textual amendment: Word in [reg. 26(3)(a)(vii)](https://www.legislation.gov.uk/nisr/2002/404/regulation/26/3/a/vii) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(14)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/14)
 
 [^c-ed164ab331742381a0f10685a65c3f97]: Commencement: Reg. 27 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
-[^c-84b23e86b3725e8cba0c0e1009893ca8]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/27/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [31(a)(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/31/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
-
-[^c-10efeab2be62f4793a8b3e7cc5871e7f]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/27/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [31(a)(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/31/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a9e53743d78df099f8522ad23c8117a]: Textual amendment: [Reg. 27(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/27/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/15)
 
 [^c-3b9a175a785b9a0a25b9c8c53dc2d3fb]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/nisr/2002/404/regulation/27/3) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2019/211/regulation/31/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -1447,9 +1510,13 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 
 [^c-6129abf0ade8565d03042948919eaad8]: Commencement: Reg. 31 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
+[^c-714eacba837c3dd77834561874fbf134]: Textual amendment: Words in [reg. 31(5)](https://www.legislation.gov.uk/nisr/2002/404/regulation/31/5) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(16)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/16)
+
 [^c-19f5ac7754504036a6da8d78a1142b7c]: Commencement: Reg. 32 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
 [^c-660f153f1091cd1cd67f7fae1461c93b]: Commencement: Reg. 33 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
+
+[^c-3ee2db4eba51c5e69be487bf5bd0484a]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/33/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(17)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/17)
 
 [^c-f01fc8318046f5cff0d551cc508a3395]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/nisr/2002/404/regulation/33/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2019/211/regulation/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -1458,6 +1525,8 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 [^f00011]: Footnote: The SI numbers for these two instruments are set out in the footnote to the definition given in regulation 2(2) for the 1977 Regulations
 
 [^c-dee8671e654aa63fd077b209a1a48257]: Commencement: Sch. 1 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
+
+[^c-d1e8bb180078abf4826a4bebeaa7b1fb]: Textual amendment: [Sch. 2 shoulder note](https://www.legislation.gov.uk/nisr/2002/404/schedule/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(18)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/18)
 
 [^c-bd5df0475c10e927091b12169b344ba9]: Commencement: Sch. 2 para. 1 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
@@ -1541,24 +1610,30 @@ The Regulation imposes negligible costs to the industry and no Regulatory Impact
 
 [^c-75c2e6f76483e26ca694ed5b00785266]: Commencement: Sch. 9 para. 1 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
+[^c-7ee0d6bc8ebb7996e6d56eaa89669eb7]: Textual amendment: Word in [Sch. 9 para. 1(b)](https://www.legislation.gov.uk/nisr/2002/404/schedule/9/paragraph/1/b) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(19)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/19/a)
+
 [^c-73ff10932e80b48da1148eaa31e3c960]: Textual amendment: Word in [Sch. 9 para. 1(b)](https://www.legislation.gov.uk/nisr/2002/404/schedule/9/paragraph/1/b) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [36(a)](https://www.legislation.gov.uk/uksi/2019/211/regulation/36/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c-ec02ed517cc37e18635440d405c18f3a]: Commencement: Sch. 9 para. 2 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
-[^c-6fb70a37410d66082e8e7dafd1b87d0c]: Textual amendment: Words in [Sch. 9 para. 2(b)](https://www.legislation.gov.uk/nisr/2002/404/schedule/9/paragraph/2/b) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [36(b)](https://www.legislation.gov.uk/uksi/2019/211/regulation/36/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a04df634f0f003a08bbcf1818347c94]: Textual amendment: [Sch. 9 para. 2(b) Table](https://www.legislation.gov.uk/nisr/2002/404/schedule/9/paragraph/2/b) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(19)(b)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/19/b)
 
 [^c-c1edd3a0ab49afb53925a10359d5d1e7]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/nisr/2002/404/schedule/10) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [37](https://www.legislation.gov.uk/uksi/2019/211/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c-f161cca7e9ca2537ee098787e48c8d5d]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/nisr/2002/404/schedule/10A) inserted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(20)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/20)
 
 [^c-4cd9135e10297988457b71840e817e98]: Commencement: Sch. 12 in operation at 1.1.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/404/regulation/1)
 
 [^c-73238805972dff353b85ccf992879269]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/nisr/2002/404/schedule/13) inserted (22.3.2019) by [The Forest Reproductive Material (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/50)](https://www.legislation.gov.uk/nisr/2019/50), [regs. 1](https://www.legislation.gov.uk/nisr/2019/50/regulation/1), [9](https://www.legislation.gov.uk/nisr/2019/50/regulation/9)
 
-[^c-33716e32111913fd25afd0b19013321c]: Textual amendment: Words in [Sch. 13 para. 1](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/paragraph/1) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [38(a)](https://www.legislation.gov.uk/uksi/2019/211/regulation/38/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9cbdbce85d50d3d555b34459a62d47ae]: Textual amendment: [Sch. 13 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/part/1/paragraph/1) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(21)(a)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/21/a)
 
-[^c-206e6b158d2ba44f806d7d828d2370e3]: Textual amendment: Words in [Sch. 13 para. 2](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/paragraph/2) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [38(b)(i)](https://www.legislation.gov.uk/uksi/2019/211/regulation/38/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5fda77e63aa51424b81495729139065]: Textual amendment: Words in [Sch. 13 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/part/1/paragraph/2) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(21)(b)(i)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/21/b/i)
 
-[^c-e20911de5f4976d2619d1d9ade324cc1]: Textual amendment: Words in [Sch. 13 para. 2](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/paragraph/2) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [38(b)(bb)](https://www.legislation.gov.uk/uksi/2019/211/regulation/38/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/38/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-542edc4157779ebbfc36eea458bd932a]: Textual amendment: Word in [Sch. 13 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/part/1/paragraph/2) substituted (6.10.2026) by [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(21)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/21/b/ii/bb)
 
-[^c-4ac46da8457fd2ea8be36348497c0f3c]: Textual amendment: Words in [Sch. 13 para. 2](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/paragraph/2) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [38(b)(aa)](https://www.legislation.gov.uk/uksi/2019/211/regulation/38/b/aa)[(ii)](https://www.legislation.gov.uk/uksi/2019/211/regulation/38/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e11260501113a913971ae91f1188cbf3]: Textual amendment: Words in [Sch. 13 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/part/1/paragraph/2) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(21)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/21/b/ii/aa)
 
-[^c-d2b169cf2a4244acdf3fd561b90d8140]: Textual amendment: [Sch. 13 Pts. 1A](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/part/1A), [1B](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/part/1B) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [38(c)](https://www.legislation.gov.uk/uksi/2019/211/regulation/38/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c035e941e46327149417e6fc6229debe]: Textual amendment: [Sch. 13 Pt. 1A](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/part/1A) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(22)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/22)
+
+[^c-9603970301e5902e3c9c79c5efd83a6d]: Textual amendment: [Sch. 13 Pt. 1B](https://www.legislation.gov.uk/nisr/2002/404/schedule/13/part/1B) omitted (6.10.2026) by virtue of [The Plant Health, Seeds, Seed Potatoes and Plant Propagating Material (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/1030)](https://www.legislation.gov.uk/uksi/2026/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/1/2), [4(22)](https://www.legislation.gov.uk/uksi/2026/1030/regulation/4/22)

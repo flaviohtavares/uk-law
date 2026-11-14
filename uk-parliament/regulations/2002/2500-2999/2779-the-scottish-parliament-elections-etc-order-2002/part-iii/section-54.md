@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 54
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '54'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 54
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 54. Inspection of returns and declarations: candidates
+## 54. Inspection of returns and declarations: candidates[^c-4ef4f39ca91ba425dc943cdd5f7aafe6]
+
+*Extent: S*
 
 (1) Where the appropriate officer receives any return or declaration under article 44, 45 or 46 above he shall–
 
@@ -31,3 +35,7 @@ summary: ''
 - (b) if the candidate or his election agent so require shall return them to the candidate.
 
 (5) Any returns or declarations delivered under article 39 above shall be returned not to a candidate (if he or his election agents require) but to the person delivering them, if he so requires.
+
+## Annotations
+
+[^c-4ef4f39ca91ba425dc943cdd5f7aafe6]: Commencement: Art. 54 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

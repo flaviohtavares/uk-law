@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 73
 act: London Local Authorities Act 2007
 section: '73'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/73
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 73
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 73. Charges for pipe subways
+## 73. Charges for pipe subways[^c-6d1de99dc6b57b751b33d0de4a8f8ce9]
+
+*Extent: E+W*
 
 (1) On and after the appointed day, section 27 of the [London County Council (General Powers) Act 1958 (c. xxi)](https://www.legislation.gov.uk/ukla/1958/21) (charges in respect of subways of council) shall apply in respect of—
 
@@ -30,3 +34,7 @@ and references in that section to “the council” shall mean the borough counc
 (4) Any person who by virtue of the said subsection (6) was exempt from paying charges under that section shall, from the date on which subsection (3) comes into force until the next review of charges due under subsection (5) of the said section 27, pay such reasonable charges as may be settled by agreement between the borough council and that person or failing such agreement by arbitration.
 
 (5) Subsections (3) and (4) of the said section 27 shall apply in relation to an arbitration under subsection (4) above as they apply in relation to an arbitration under subsection (2) of that section.
+
+## Annotations
+
+[^c-6d1de99dc6b57b751b33d0de4a8f8ce9]: Commencement: [S. 73](https://www.legislation.gov.uk/ukla/2007/2/section/73) comes into force in accordance with ss. 1(5), 3

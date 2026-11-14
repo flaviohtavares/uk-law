@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Appointment etc of inspectors.[^c13747201]
+## 114. Appointment etc of inspectors.[^c13747201][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,5 +33,7 @@ summary: ''
 ## Annotations
 
 [^c13747201]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/1990/43/section/114) wholly in force; [s. 114](https://www.legislation.gov.uk/ukpga/1990/43/section/114) not in force at Royal Assent see [s. 164(2)(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/2/3); [s. 114(1)-(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/114/1) in force at 1.4.1991 see [S.I](https://www.legislation.gov.uk/ukpga/1990/43/section/I). 1991/1042, art. 2; [s. 114(4)(5)](https://www.legislation.gov.uk/ukpga/1990/43/section/114/4/5) in force at 1.2.1993 see [S.I](https://www.legislation.gov.uk/ukpga/1990/43/section/I). 1992/3253, art. 3.
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c19497851]: Textual amendment: Words in [s. 114(4)](https://www.legislation.gov.uk/ukpga/1990/43/section/114/4) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 208](https://www.legislation.gov.uk/ukpga/2007/29/section/208), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 21 para. 102](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/102), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2](https://www.legislation.gov.uk/uksi/2009/3250/article/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))

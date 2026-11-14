@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 29
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '29'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,49 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 29
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Old system students who are gap year students who have studied on a previous course[^c-2e02c9d1343f7aa0b152c291b7398aae]
+## 29. Old system students who are gap year students who have studied on a previous course[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) This regulation applies where—
-
-- (a) an old system student is a gap year student who has studied on a previous course;
-- (b) an old system student has transferred from a course in relation to which that student was a gap year student to another designated course in accordance with regulations made by the Secretary of State under section 22 of the 1998 Act.
-
-(2) An old system student to whom this regulation applies does not qualify for fee support in respect of a designated course if—
-
-- (a) the student has an honours degree from an institution in the United Kingdom and the exemption in regulation 14(1), (2) or (3) does not apply; or
-- (b) the designated course is an old flexible postgraduate course for the initial training of teachers.
-
-(3) An old system student to whom this regulation applies does not qualify for a grant for fees in respect of an academic year of a designated course that is a bursary year or an Erasmus year.
-
-(4) When assessing an application for support in respect of an academic year of a designated course, the Secretary of State must determine the “standard entitlement”.
-
-(5) The standard entitlement is calculated as follows—
-
-[formula: see source](https://www.legislation.gov.uk/uksi/2008/1582)
-
-where
-
-- *OD* is the number of academic years that make up the ordinary duration of the course,
-- *PC* is the number of academic years that the student has spent on previous courses.
-
-(6) When assessing an application for support in connection with an academic year of a designated course, the Secretary of State must allocate a grant for fees from the standard entitlement first to the final standard academic year of the course and then to each preceding standard academic year in turn until the standard entitlement is exhausted or a grant for fees has been allocated to each standard academic year of the course.
-
-(7) An old system student to whom this regulation applies qualifies for a grant for fees in respect of a standard academic year of the designated course if the Secretary of State allocates a grant for fees to that year when assessing the application for support for that year.
-
-(8) In addition to the standard entitlement, an old system student to whom this regulation applies qualifies for a grant for fees in respect of the first academic year that the student takes of the designated course that is not a bursary year or an Erasmus year if the student failed to complete the most recent previous course because of compelling personal reasons.
-
-(9) Where an old system student to whom this regulation applies qualifies for a grant for fees under paragraph (8), the Secretary of State must not allocate a grant for fees under paragraph (6) to the first academic year that the student takes of the designated course that is not a bursary year or an Erasmus year.
-
-(10) The amount of the grant for fees in respect of an academic year is determined in accordance with regulation 31 or 32 where the eligible student falls within paragraph (1)(a) and in accordance with regulation 31, 32 or 33 where the eligible student falls within paragraph (1)(b) and in either case the amount may be nil.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-2e02c9d1343f7aa0b152c291b7398aae]: Commencement: Reg. 29 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

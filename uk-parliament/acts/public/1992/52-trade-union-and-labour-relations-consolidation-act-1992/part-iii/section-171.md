@@ -3,7 +3,7 @@ title: Trade Union and Labour Relations (Consolidation) Act 1992, section 171
 act: Trade Union and Labour Relations (Consolidation) Act 1992
 section: '171'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/171
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Trade Union and Labour Relations (Consolidation) Act 1992, section 171
 
-> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+> **Warning: changes not yet applied to this text (27).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
 > Extent: England, Wales, Scotland.
 
@@ -41,7 +41,7 @@ summary: ''
 
 [^c14517831]: Textual amendment: Word in s. 171 inserted (27.4.2003) by [2002 c. 22](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 53](https://www.legislation.gov.uk/ukpga/2002/22/section/53), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2002/22/schedule/7/paragraph/19); [S.I. 2003/1190](https://www.legislation.gov.uk/uksi/2003/1190), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1190/article/2/2)
 
-[^c-9cf3527691a013df216c4ea36794caf9]: Textual amendment: Word in [s. 171(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/171/1) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/5), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-9cf3527691a013df216c4ea36794caf9]: Textual amendment: Word in [s. 171(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/171/1) inserted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/5), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/h) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/1065/regulation/8))
 
 [^c-c3413b355dd1e61ec2dda0a0cc6c1f6d]: Textual amendment: Word in [s. 171(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/171/1/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(9)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/9); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 

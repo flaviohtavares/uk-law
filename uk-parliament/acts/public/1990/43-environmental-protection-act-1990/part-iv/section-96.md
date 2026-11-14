@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 96. Application of Part II.[^c19495481][^c19495441][^c13745621]
+## 96. Application of Part II.[^c19495481][^c19495441][^c13745621][^c13739731]
 
 *Extent: E+W+S*
 
@@ -40,5 +40,7 @@ summary: ''
 [^c19495441]: Modification: S. 96 applied (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)-(5)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [20(7)](https://www.legislation.gov.uk/ukla/2007/2/section/20/7) (with [s. 20(10)](https://www.legislation.gov.uk/ukla/2007/2/section/20/10))
 
 [^c13745621]: Commencement: S. 96 wholly in force; s. 96 not in force at Royal Assent see s. 164(2); s. 96(2)(3) in force at 14.1.1991 by [S.I. 1991/96](https://www.legislation.gov.uk/uksi/1991/96), [art. 2](https://www.legislation.gov.uk/uksi/1991/96/article/2); s. 96(1) in force at 1.4.1991 by [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [art. 2](https://www.legislation.gov.uk/uksi/1991/1042/article/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c18995951]: Textual amendment: Words in s. 96(1)(b) inserted (E.W.) (6.3.2007 for E. and 18.1.2008 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 106](https://www.legislation.gov.uk/ukpga/2005/16/section/106), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2005/16/schedule/4/paragraph/9); [S.I. 2007/390](https://www.legislation.gov.uk/uksi/2007/390), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/390/article/2/a); [S.I. 2007/3371](https://www.legislation.gov.uk/uksi/2007/3371), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3371/article/2/a)

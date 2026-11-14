@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 3
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: schedule-3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
 ## SCHEDULE 3 — ABSENT VOTING
+
+*Extent: S*
 
 Article 13(2)
 
@@ -68,7 +72,7 @@ Records and lists to be kept under articles 9, 10 and 12.
 
 Marked register for polling stations.
 
-### 1. General requirements for applications
+### 1. General requirements for applications[^c-f4e1745c1988ad6cab40f338f795bee4]
 
 (1) Applications under article 9, 10, 11 or 12 shall, in the case of a person applying to vote by post, state–
 
@@ -93,7 +97,7 @@ and the application shall be signed by the applicant and made and sent or delive
 
 (5) An application under article 9, 10, 11 or 12 shall comply with such further requirements of this Schedule as apply to such an application including the requirements as to time set out by paragraph 6 below.
 
-### 2. Additional requirements for applications on grounds of physical incapacity
+### 2. Additional requirements for applications on grounds of physical incapacity[^c-684833b8dca5a0d9a2832a4df0ab788b]
 
 (1) An application under paragraph (1), as read with paragraph (3)(b), of article 9 shall specify the physical incapacity by reason of which the application is made.
 
@@ -127,7 +131,7 @@ and the application shall be signed by the applicant and made and sent or delive
 
 (7) In this paragraph and paragraphs 3 and 4 below, “his allotted polling station”, in relation to an elector, means the polling station allotted or likely to be allotted to him under this Order.
 
-### 3. Additional requirements for applications based on occupation, service or employment
+### 3. Additional requirements for applications based on occupation, service or employment[^c-51052e75fcaee8a5483fdf1c1a7bbb80]
 
 (1) An application under article 9 and under paragraph (1), as read with paragraph (3)(c), of article 9 shall state–
 
@@ -158,18 +162,18 @@ and, in addition, he shall state–
 - (ii) in the case of a person who attests an application under sub-paragraph (2)(b) above, either that he is the employer of the employed person or the position he holds in the employment of that employer; or
 - (iii) in the case of a person who attests under sub-paragraph (2)(c), the post he holds at the institution.
 
-### 4. Additional requirements for applications for proxy votes in respect of a particular election
+### 4. Additional requirements for applications for proxy votes in respect of a particular election[^c-b604d43964eb4a94cb8ecc78d92117cc]
 
 An application under article 10(1) to vote by proxy at a particular election shall set out why the applicant’s circumstances on the date of the poll for that election in respect of which it is made will be or are likely to be such that he cannot reasonably be expected to vote in person at his allotted polling station.
 
-### 5. Additional requirements for applications for appointment of a proxy
+### 5. Additional requirements for applications for appointment of a proxy[^c-c0971499cfae25c314d3288c2f05adc4]
 
 An application for the appointment of a proxy under article 11(6) or (7) shall state the full name and address of the person whom the applicant wishes to appoint as his proxy, together with his family relationship, if any, with the applicant, and–
 
 - (a) if it is signed only by the applicant, shall contain a statement by him that he has consulted the person so named and that that person is capable of being and willing to be appointed to vote as his proxy; or
 - (b) if it is also signed by the person to be appointed, shall contain a statement by that person that he is capable of being and willing to be appointed to vote as the applicant’s proxy.
 
-### 6. Closing dates for applications
+### 6. Closing dates for applications[^c-5416b086012a5520f7f0f3c3dd2c5f50]
 
 (1) An application–
 
@@ -206,7 +210,7 @@ shall be disregarded for the purposes of a particular election if it is received
 
 shall be disregarded.
 
-### 7. Grant or refusal of applications
+### 7. Grant or refusal of applications[^c-f2917551f6afb2373067b8ae74683fe5]
 
 (1) Where the registration officer grants an application under article 9, 10, 11 or 12 he shall, where practicable, notify the applicant of his decision.
 
@@ -220,7 +224,7 @@ shall be disregarded.
 
 (6) At an election where the registration officer is not the returning officer for any constituency or part of a constituency for which he is the registration officer, he shall send to that officer details of any application to vote by post which he has granted as soon as practicable after doing so.
 
-### 8. Notice of appeal
+### 8. Notice of appeal[^c-be2101f74a217c15499006e3e0b8440c]
 
 (1) A person desiring to appeal under article 5(1) against the decision of a registration officer must give notice of the appeal to the registration officer within 14 days of the receipt of the notice given under paragraph 7(4) above, specifying the grounds of the appeal.
 
@@ -228,20 +232,20 @@ shall be disregarded.
 
 (3) Where it appears to the registration officer that any notices of appeal given to him are based on similar grounds, he shall inform the sheriff so that the sheriff may consolidate the appeals or select a case as a test case.
 
-### 9. Cancellation of proxy appointment
+### 9. Cancellation of proxy appointment[^c-46f7261125280cfedcf6566707d273c6]
 
 Where the appointment of a proxy is cancelled by notice given to the registration officer under article 11(9) or ceases to be in force under that provision or is no longer in force under article 11(10)(b), the registration officer shall–
 
 - (a) notify the person whose appointment as proxy has been cancelled, has expired, ceases to be or is no longer in force, unless the registration officer has previously been notified by that person that he no longer wishes to act as proxy; and
 - (b) remove his name from the record kept under article 9(4).
 
-### 10. Inquiries by registration officer
+### 10. Inquiries by registration officer[^c-b087ee096bc6b9064cbdf4bb4a42887d]
 
 (1) The registration officer may, at such times as he thinks fit, make inquiries of a person who is shown in the record kept under article 9(4) by virtue of an application under that article on the grounds set out in article 9(3)(c) or (d);
 
 (2) The registration officer may treat the failure by a person of whom inquiries have been made under sub-paragraph (1) above to respond to such inquiries within one month of the date on which they were made as sufficient evidence of a material change in circumstances.
 
-### 11. Records and lists kept under articles 9, 10 and 12
+### 11. Records and lists kept under articles 9, 10 and 12[^c-706f2d12005fcd879264d9d5e93cc074]
 
 (1) Subject to the provisions of this paragraph, the records kept under articles 9(4) and 12(5) and the lists kept under articles 10(4) and 12(7) shall be in such form as the registration officer thinks fit.
 
@@ -264,18 +268,42 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 
 (9) In this paragraph, “electoral number” means a person’s number in the register to be used at the election.
 
-### 12. Marked register for polling stations
+### 12. Marked register for polling stations[^c-aac43d079653cd3324b44f20b4df9ec1]
 
 To indicate that an elector or his proxy is entitled to vote by post and is for that reason not entitled to vote in person, the letter “A” shall be placed against the name of that elector in any copy of the register, or part of it, provided for a polling station.
 
 ## Annotations
 
+[^c-f4e1745c1988ad6cab40f338f795bee4]: Commencement: Sch. 3 para. 1 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
 [^f00042]: Footnote: Section 16(d) was amended by the 2000 Act, Schedule 1, paragraph 9(c).
 
 [^f00043]: Footnote: Section 7B was inserted by the 2000 Act, section 6.
+
+[^c-684833b8dca5a0d9a2832a4df0ab788b]: Commencement: Sch. 3 para. 2 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00044]: Footnote: [1997 c. 24](https://www.legislation.gov.uk/ukpga/1997/24).
 
 [^f00045]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
 [^f00046]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^c-51052e75fcaee8a5483fdf1c1a7bbb80]: Commencement: Sch. 3 para. 3 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-b604d43964eb4a94cb8ecc78d92117cc]: Commencement: Sch. 3 para. 4 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-c0971499cfae25c314d3288c2f05adc4]: Commencement: Sch. 3 para. 5 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-5416b086012a5520f7f0f3c3dd2c5f50]: Commencement: Sch. 3 para. 6 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-f2917551f6afb2373067b8ae74683fe5]: Commencement: Sch. 3 para. 7 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-be2101f74a217c15499006e3e0b8440c]: Commencement: Sch. 3 para. 8 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-46f7261125280cfedcf6566707d273c6]: Commencement: Sch. 3 para. 9 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-b087ee096bc6b9064cbdf4bb4a42887d]: Commencement: Sch. 3 para. 10 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-706f2d12005fcd879264d9d5e93cc074]: Commencement: Sch. 3 para. 11 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-aac43d079653cd3324b44f20b4df9ec1]: Commencement: Sch. 3 para. 12 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

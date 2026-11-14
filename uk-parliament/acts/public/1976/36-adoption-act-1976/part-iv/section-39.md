@@ -3,7 +3,7 @@ title: Adoption Act 1976, section 39
 act: Adoption Act 1976
 section: '39'
 status: revised-with-pending-changes
-text_date: '2009-10-01'
+text_date: '2026-11-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1976/36/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Adoption Act 1976, section 39
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2009-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
 >
 > Extent: England, Wales.
 
-## 39. Status conferred by adoption.
+## 39. Status conferred by adoption.[^c-d4685af8041ffbe9a235a39a3eb1df72]
 
 *Extent: E+W*
 
@@ -59,6 +59,8 @@ shall apply in relation to, and to an application for, a direction under subsect
 - (b) has effect as respects things done, or events occurring, after the adoption, or after 31st December 1975, whichever is the later.
 
 ## Annotations
+
+[^c-d4685af8041ffbe9a235a39a3eb1df72]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1976/36/section/39) applied (6.11.2026) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), [s. 67E(12)](https://www.legislation.gov.uk/ukpga/2008/4/section/67E/12) (as inserted by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/106/1), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/c))
 
 [^c-84815fa73b1ee002e71873d3fffa8413]: Textual amendment: Words in s. 39(2) substituted (1.6.2003) by [Adoption (Intercountry Aspects) Act 1999 (c. 18)](https://www.legislation.gov.uk/ukpga/1999/18), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1999/18/section/4/2), [18(3)](https://www.legislation.gov.uk/ukpga/1999/18/section/18/3) (with [s. 17](https://www.legislation.gov.uk/ukpga/1999/18/section/17)); [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/c)
 

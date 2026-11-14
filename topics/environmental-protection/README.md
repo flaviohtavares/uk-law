@@ -39,11 +39,11 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-1243 in force, by year:
+1244 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](2026.md) | 33 |
+| [2026](2026.md) | 34 |
 | [2025](2025.md) | 42 |
 | [2024](2024.md) | 22 |
 | [2023](2023.md) | 39 |

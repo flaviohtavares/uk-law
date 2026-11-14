@@ -4,11 +4,12 @@ Laws in force under the legislation.gov.uk subject heading **WASTE**. Repealed l
 
 ## Regulations
 
-19 in force.
+20 in force.
 
 **2026**
 
 - [The Digital Waste Tracking (Scotland) Regulations 2026](../scotland/regulations/2026/0000-0499/145-the-digital-waste-tracking-scotland-regulations-2026.md) *(as originally made)*
+- [The Scotland Act 1998 (Agency Arrangements) (Specification) (Digital Waste Tracking) Order 2026](../uk-parliament/regulations/2026/1000-1499/1188-the-scotland-act-1998-agency-arrangements-specification-digital-waste-tracking-o.md) *(as originally made)*
 
 **2025**
 

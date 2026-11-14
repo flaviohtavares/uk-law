@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 22
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '22'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 22
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 22. Effect of registers
+## 22. Effect of registers[^c-df3705b46daebb9064a1f397f5324f06]
+
+*Extent: S*
 
 (1) Any entry in the register of electors, if it gives a date as that on which the person named will attain voting age, shall for any purpose of this Part relating to him as elector be conclusive that until the date given in the entry he is not of voting age nor entitled to be treated as an elector except for the purposes of a Scottish parliamentary election at which the date fixed for the poll is that or a later date.
 
@@ -35,6 +39,8 @@ summary: ''
 - (b) in relation to any other person registered in the register, the relevant date for the purposes of section 4 of the 1983 Act[^f00022].
 
 ## Annotations
+
+[^c-df3705b46daebb9064a1f397f5324f06]: Commencement: Art. 22 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00021]: Footnote: Section 13 was substituted by the 2000 Act, Schedule 1, paragraph 6.
 

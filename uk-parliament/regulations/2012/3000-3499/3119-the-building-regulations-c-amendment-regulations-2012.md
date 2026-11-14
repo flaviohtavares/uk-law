@@ -3,16 +3,16 @@ title: The Building Regulations &c. (Amendment) Regulations 2012
 id: uksi/2012/3119
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2012-12-17'
-text_date: '2024-04-06'
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2012/3119
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2012/3119/pdfs/uksiem_20123119_en.pdf
 - http://www.legislation.gov.uk/uksi/2012/3119/pdfs/uksi_20123119_en.pdf
 - http://www.legislation.gov.uk/uksi/2012/3119/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Building Regulations &c. (Amendment) Regulations 2012
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2024-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2012/3119
+> Text as at 2026-11-06.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -540,11 +540,11 @@ In Schedule 4—
 
 ## PART 2 — The Building (Local Authority Charges) Regulations 2010
 
-### 33. Amendment of the Building (Local Authority Charges) Regulations 2010
+### 33. Amendment of the Building (Local Authority Charges) Regulations 2010 (affected by repeal, see note)[^c-381fb6c255713a699b0e081b34a706d7][^c-381fb6c255713a699b0e081b34a706d7]
 
-After the definition of “chargeable function” in regulation 2 of the Building (Local Authority Charges) Regulations 2010 [^c2149247], insert—
+After the definition of “chargeable function” in regulation 2 of the Building (Local Authority Charges) Regulations 2010 *(affected by repeal, see note)*[^c-381fb6c255713a699b0e081b34a706d7] [^c2149247], insert— *(affected by repeal, see note)*[^c-381fb6c255713a699b0e081b34a706d7]
 
-> “officer” [^c2149248] includes a person contracted by the local authority or a person employed by such a contractor, to perform a chargeable function or provide chargeable advice but does not include a consultant of the kind referred to in regulation 7(3);
+> “officer” *(affected by repeal, see note)*[^c-381fb6c255713a699b0e081b34a706d7] [^c2149248] includes a person contracted by the local authority or a person employed by such a contractor, to perform a chargeable function or provide chargeable advice but does not include a consultant of the kind referred to in regulation 7(3); *(affected by repeal, see note)*[^c-381fb6c255713a699b0e081b34a706d7]
 
 .
 
@@ -918,6 +918,8 @@ Schedule 1 sets outs the commencement table.
 [^c2149245]: Marginal citation: A company formed and registered under the Companies Act with the registration number 02513162.
 
 [^c2149246]: Marginal citation: A company formed and registered under the Companies Act with the registration number 04350234.
+
+[^c-381fb6c255713a699b0e081b34a706d7]: Textual amendment: Reg. 33 revoked (E.) (6.11.2026) by [The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026 (S.I. 2026/1094)](https://www.legislation.gov.uk/uksi/2026/1094), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/1/4), [12(c)](https://www.legislation.gov.uk/uksi/2026/1094/regulation/12/c) (with [reg. 13](https://www.legislation.gov.uk/uksi/2026/1094/regulation/13))
 
 [^c2149247]: Marginal citation: [S.I. 2010/404](https://www.legislation.gov.uk/uksi/2010/404) as amended by [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214). Amendments relevant to these regulations are at regulation 54(2) of and paragraph 1(a) of Schedule 6 to [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214).
 

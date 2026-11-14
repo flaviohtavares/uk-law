@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 3
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '3'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 3. Interpretation
+## 3. Interpretation[^c-32a5caf860a263083afeac4d9c11bb59]
+
+*Extent: S*
 
 (1) In this Order, except where the context otherwise requires–
 
@@ -48,6 +52,8 @@ summary: ''
 (2) For the purposes of this Order a person shall be deemed not to have attained a given age until commencement of the relevant anniversary of the day of his birth.
 
 ## Annotations
+
+[^c-32a5caf860a263083afeac4d9c11bb59]: Commencement: Art. 3 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00007]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 

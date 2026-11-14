@@ -3,14 +3,14 @@ title: Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Veh
 id: nisr/1996/305
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-17'
-text_date: null
-extent: null
+text_date: '1996-07-17'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/305
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/305/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/305/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) (Fees) (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 1996-07-17. See https://www.legislation.gov.uk/changes/affected/nisr/1996/305
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 305
 
@@ -36,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 13(1) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00001] and of all other powers enabling it in that behalf, and in accordance with Article 19C(3) of that Order with the approval of the Department of Finance and Personnel, hereby makes the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-60dd8a4ac1c21cf628f47bc5dbc22b2c]
 
 These Regulations may be cited as the Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) (Fees) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 2nd September 1996.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) Regulations (Northern Ireland) 1991
+## 2. Amendment of the Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) Regulations (Northern Ireland) 1991[^c-3690c5f2753bbb1782076d132da9eea9]
 
 For Schedule 3 to the Motor Vehicles (Driving Licences) (Large Goods and Passenger-Carrying Vehicles) Regulations (Northern Ireland) 1991[^f00002] there shall be substituted—
 
@@ -97,5 +103,9 @@ Conversion from a provisional licence to a full licence remains free of charge.
 ## Annotations
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department” and “prescribed”; Articles 13 and 19C were substituted by S.I. [1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197) Sch. 1
+
+[^c-60dd8a4ac1c21cf628f47bc5dbc22b2c]: Commencement: Reg. 1 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/305/regulation/1)
+
+[^c-3690c5f2753bbb1782076d132da9eea9]: Commencement: Reg. 2 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/305/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1991 No. 100](https://www.legislation.gov.uk/nisr/1991/100); to which there are amendments not relevant to these Regulations

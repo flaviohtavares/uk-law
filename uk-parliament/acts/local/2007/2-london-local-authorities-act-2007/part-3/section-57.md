@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 57
 act: London Local Authorities Act 2007
 section: '57'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 57
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 57. Seizure of perishable items
+## 57. Seizure of perishable items[^c-9418242bfa2c054939783ba07177d1ee]
+
+*Extent: E+W*
 
 After section 27 (unlicensed street trading) of the Act of 1999, the following section is inserted—
 
@@ -50,3 +54,7 @@ After section 27 (unlicensed street trading) of the Act of 1999, the following s
 > (11) When this subsection has effect a person who has or at the time of seizure had a legal interest in the item seized may recover compensation from the borough council or (where it is seized by a constable) the Commissioner of Police of the Metropolis by civil action in the County Court in respect of any loss suffered by him as a result of the seizure and any such compensation shall not be included in the computation for calculating charges under section 22 (fees and charges) of this Act.
 
 .
+
+## Annotations
+
+[^c-9418242bfa2c054939783ba07177d1ee]: Commencement: [S. 57](https://www.legislation.gov.uk/ukla/2007/2/section/57) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

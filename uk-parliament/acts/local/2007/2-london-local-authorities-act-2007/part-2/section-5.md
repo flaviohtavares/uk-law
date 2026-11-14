@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 5
 act: London Local Authorities Act 2007
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 5. Portable advertisements, etc.
+## 5. Portable advertisements, etc.[^c-b2f67e577f62b34b6d3389d6dd9a8e66]
+
+*Extent: E+W*
 
 (1) No portable advertisement may be displayed within a designated area, except in accordance with subsection (2) below.
 
@@ -64,3 +68,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 - (a) in a designated area; or
 - (b) on any land within 7 metres of any street or way designated under subsection (1)(c) of the said section 6.
+
+## Annotations
+
+[^c-b2f67e577f62b34b6d3389d6dd9a8e66]: Commencement: [S. 5](https://www.legislation.gov.uk/ukla/2007/2/section/5) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

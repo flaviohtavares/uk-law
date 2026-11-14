@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88B (Extent: E). Guidance on littering enforcement in England and Wales (Extent: E)[^c-ee22d9a6b486c9e3d905d4be269350f5]
+## 88B (Extent: E). Guidance on littering enforcement in England and Wales (Extent: E)[^c-ee22d9a6b486c9e3d905d4be269350f5][^c13739731]
 
 *Extent: E+W*
 
@@ -45,3 +45,5 @@ summary: ''
 ## Annotations
 
 [^c-ee22d9a6b486c9e3d905d4be269350f5]: Textual amendment: [S. 88B](https://www.legislation.gov.uk/ukpga/1990/43/section/88B) inserted (1.4.2023 for E.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 68(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/68/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

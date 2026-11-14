@@ -6,11 +6,11 @@ Laws in force under the legislation.gov.uk subject heading **EDUCATION**. Repeal
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [School Standards and Framework Act 1998](../../uk-parliament/acts/public/1998/31-school-standards-and-framework-act-1998/README.md) *(changes pending)* — 724 regulations on this topic made under it
-- [Education Act 1996](../../uk-parliament/acts/public/1996/56-education-act-1996/README.md) *(changes pending)* — 491 regulations on this topic made under it
+- [School Standards and Framework Act 1998](../../uk-parliament/acts/public/1998/31-school-standards-and-framework-act-1998/README.md) *(changes pending)* — 722 regulations on this topic made under it
+- [Education Act 1996](../../uk-parliament/acts/public/1996/56-education-act-1996/README.md) *(changes pending)* — 490 regulations on this topic made under it
 - [Education Reform Act 1988](../../uk-parliament/acts/public/1988/40-education-reform-act-1988/README.md) *(changes pending)* — 413 regulations on this topic made under it
 - [Education Act 2002](../../uk-parliament/acts/public/2002/32-education-act-2002/README.md) *(changes pending)* — 403 regulations on this topic made under it
-- [Teaching and Higher Education Act 1998](../../uk-parliament/acts/public/1998/30-teaching-and-higher-education-act-1998/README.md) *(changes pending)* — 309 regulations on this topic made under it
+- [Teaching and Higher Education Act 1998](../../uk-parliament/acts/public/1998/30-teaching-and-higher-education-act-1998/README.md) *(changes pending)* — 308 regulations on this topic made under it
 - [Further and Higher Education Act 1992](../../uk-parliament/acts/public/1992/13-further-and-higher-education-act-1992/README.md) *(changes pending)* — 276 regulations on this topic made under it
 - [Education (Scotland) Act 1980](../../uk-parliament/acts/public/1980/44-education-scotland-act-1980/README.md) *(changes pending)* — 223 regulations on this topic made under it
 - [Education and Inspections Act 2006](../../uk-parliament/acts/public/2006/40-education-and-inspections-act-2006/README.md) *(changes pending)* — 146 regulations on this topic made under it
@@ -85,7 +85,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-4645 in force, by year:
+4642 in force, by year:
 
 | year | in force |
 |---|---|
@@ -107,7 +107,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 | [2011](2011.md) | 89 |
 | [2010](2010.md) | 119 |
 | [2009](2009.md) | 102 |
-| [2008](2008.md) | 141 |
+| [2008](2008.md) | 138 |
 | [2007](2007.md) | 213 |
 | [2006](2006.md) | 171 |
 | [2005](2005.md) | 192 |

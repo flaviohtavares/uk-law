@@ -2,9 +2,9 @@
 title: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 9
 act: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996
 section: '9'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-06-07'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/228/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,14 +12,22 @@ summary: ''
 
 # Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 9. Reporting of danger to an installation
+## 9. Reporting of danger to an installation[^c-affb9d2d715ad6c0ee6f0918697fc80f]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), the duty holder shall ensure that, within 10 days after the appearance of evidence of a significant threat to the integrity of an installation, a report is made to the Department in writing identifying such threat and specifying any action taken or to be taken to avert it.
 
 (2) Paragraph (1) shall not apply to anything of which the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1986[^f00006] require a report to be made.
 
 ## Annotations
+
+[^c-affb9d2d715ad6c0ee6f0918697fc80f]: Commencement: Reg. 9 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
 
 [^f00006]: Footnote: [S.R. 1986 No. 247](https://www.legislation.gov.uk/nisr/1986/247) to which there are amendments not relevant to these Regulations

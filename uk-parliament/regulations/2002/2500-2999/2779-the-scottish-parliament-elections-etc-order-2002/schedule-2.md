@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 2
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
 ## SCHEDULE 2 — SCOTTISH PARLIAMENTARY ELECTION RULES
+
+*Extent: S*
 
 Article 7
 
@@ -348,7 +352,7 @@ MISCELLANEOUS
 
 Return of members and record of returns etc.
 
-### 1. Timetable
+### 1. Timetable[^c-1f58aef90576dfe31ab94efa3f164a3d]
 
 (1) The proceedings at a Scottish Parliamentary election shall, subject to rule 2 below, be conducted in accordance with the following Table–
 
@@ -363,7 +367,7 @@ Return of members and record of returns etc.
 
 (2) Except in relation to the substitutions made by rule 2 below, in the Table in paragraph (1) above the reference to “nomination papers” includes constituency nomination papers, individual nomination papers and regional lists.
 
-### 2. Timetable – Election to fill a vacancy in a constituency seat
+### 2. Timetable – Election to fill a vacancy in a constituency seat[^c-d2529da71acfc6a7e2e56b0e87c84d2b]
 
 In the case of an election under section 9 of the Scotland Act 1998 (constituency vacancies), the proceedings shall be conducted in accordance with the Table in rule 1(1) above, but subject to the following substitutions–
 
@@ -382,7 +386,7 @@ In the case of an election under section 9 of the Scotland Act 1998 (constituenc
 
   .
 
-### 3. Computation of time
+### 3. Computation of time[^c-adec2a029f7513d07fd1f0ac1bc0d819]
 
 In computing any period of time for the purposes of the Table in rule 1(1) above–
 
@@ -397,7 +401,7 @@ shall be disregarded, and any such day shall not be treated as a day for the pur
 
 #### Notice of election
 
-##### 4. Notice of election
+##### 4. Notice of election[^c-7238a6ac034504370de9ac621b2f95ae]
 
 (1) The constituency returning officer shall publish notice of the election stating–
 
@@ -420,7 +424,7 @@ must reach the registration officer in order that they may be effective for the 
 
 #### Nomination
 
-##### 5. Nomination of candidate for return as a constituency member
+##### 5. Nomination of candidate for return as a constituency member[^c-48b2bff6b5279aae4b3de2039388e31f]
 
 (1) Each candidate for return as a constituency member shall be nominated by a separate nomination paper (referred to in these Rules as a “constituency nomination paper”), in the form F set out in the Appendix, delivered to the constituency returning officer at the place fixed for the purpose.
 
@@ -441,7 +445,7 @@ and the surname shall be placed first in the list of his names.
 
 (5) The constituency nomination paper shall also state the name and address of the witness to the candidate’s signature.
 
-##### 6. Nomination of individual candidate for return as a regional member
+##### 6. Nomination of individual candidate for return as a regional member[^c-ba246b906bd6ee00d6a869f0e535f5c8]
 
 (1) Each individual candidate for return as a regional member shall be nominated by a separate nomination paper (referred to in these rules as an “individual nomination paper”), in the form G set out in the Appendix, delivered to the regional returning officer at the place or a place fixed for the purpose.
 
@@ -462,7 +466,7 @@ and the surname shall be placed first in the list of his names.
 
 (5) The individual nomination paper shall also state the name and address of the witness to the candidate’s signature.
 
-##### 7. Nomination of candidates on a regional list
+##### 7. Nomination of candidates on a regional list[^c-cc17def7a647e567efec6d0a9a3ce9af]
 
 (1) A registered party’s regional list of candidates to be regional members for a particular region shall be in the form H set out in the Appendix and that party shall be nominated by the submission of that list by the party’s nominating officer or a person authorised in writing by him to the regional returning officer at the place or a place fixed for the purpose.
 
@@ -481,7 +485,7 @@ and the surname shall be placed first in the list of his names.
 - (a) “registered party” and “qualifying party” means a party which was registered under Part II of the Political Parties, Elections and Referendums Act 2000 at the time by which the notice of election is required to be published by virtue of rule 4 above; and
 - (b) a registered political party is a qualifying party in relation to a constituency if the constituency is in Scotland and the party was at the relevant time registered in respect of Scotland in the Great Britain register maintained under that Part of that Act.
 
-##### 8. Constituency nomination papers: name of registered party
+##### 8. Constituency nomination papers: name of registered party[^c-68f9d7a7f1c3222c7e857063ccbe69c4]
 
 (1) A constituency nomination paper may not include a description of a candidate which is likely to lead voters to associate the candidate with a registered party unless the party is a qualifying party in relation to the constituency and the description is authorised by a certificate in the form I set out in the Appendix–
 
@@ -490,7 +494,7 @@ and the surname shall be placed first in the list of his names.
 
 (2) A person shall be guilty of a corrupt practice if he fraudulently purports to be authorised to issue a certificate under paragraph (1) above on behalf of a registered party’s nominating officer.
 
-##### 9. Nomination papers and regional lists: miscellaneous
+##### 9. Nomination papers and regional lists: miscellaneous[^c-ad5d61d48cd2ec0d5ca4764486f9a9a6]
 
 (1) The constituency returning officer–
 
@@ -508,7 +512,7 @@ but it is not necessary for a nomination to be on a form supplied by the regiona
 
 (3) The regional returning officer shall, on request, supply any person with a form of regional list; but it is not necessary for a regional list to be submitted in the form supplied by the regional returning officer.
 
-##### 10. Consent to nomination
+##### 10. Consent to nomination[^c-1f547ebaee56aa4e14273976b13ab08b]
 
 (1) Subject to paragraph (3) below a person shall not be validly nominated as a candidate for return as a constituency member unless his consent to nomination–
 
@@ -534,7 +538,7 @@ but it is not necessary for a nomination to be on a form supplied by the regiona
   - (iv) in the case of a candidate on a registered party’s regional list, that he is aware of the provisions of section 5(7) of the 1998 Act and that, to the best of his knowledge and belief, he may be included in that list;
   - (v) in the case of an individual candidate for return as a regional member, that he is aware of the terms of section 5(8) of the 1998 Act and, to the best of his knowledge and belief, he may stand as an individual candidate to be a regional member for that region.
 
-##### 11. Deposit
+##### 11. Deposit[^c-d78d049a8135190455549543b585af86]
 
 (1) A person shall not be validly nominated as a candidate for return as a constituency member unless the sum of £500 is deposited by him, or on his behalf, with the constituency returning officer at the place and during the time for delivery of nomination papers.
 
@@ -554,7 +558,7 @@ but the appropriate returning officer may refuse to accept a deposit sought to b
 
 (6) Where the deposit is made on behalf of a party’s nominating officer the person making the deposit shall at the time he makes it give his name and address to the regional returning officer unless that information has previously been given to him under article 31 or rule 7 above.
 
-##### 12. Place for delivery of constituency nomination papers
+##### 12. Place for delivery of constituency nomination papers[^c-2ff2cbd95a91034abfe8509a070294a2]
 
 (1) The constituency returning officer shall fix the place at which constituency nomination papers are to be delivered to him, and shall attend there during the time for their delivery and for making of objections to them.
 
@@ -564,13 +568,13 @@ but the appropriate returning officer may refuse to accept a deposit sought to b
 - (b) the local government area or (if more than one) any of the local government areas in which the constituency is situated; or
 - (c) any local government area adjoining the local government area or areas (as the case may be) in which the constituency is situated.
 
-##### 13. Place for delivery of individual nomination papers and regional lists
+##### 13. Place for delivery of individual nomination papers and regional lists[^c-40821548af5b330a4145dd4d795850be]
 
 (1) The regional returning officer shall fix the place or places at which individual nomination papers and regional lists are to be delivered to him, and he shall attend there during the time for their delivery and for making objections to them.
 
 (2) The place or places shall be in the region.
 
-##### 14. Right to attend nomination
+##### 14. Right to attend nomination[^c-4e9c670623ee1d422a138e878a3078bb]
 
 (1) Except for the purpose of delivering a constituency nomination paper or of assisting the constituency returning officer no person is entitled to attend the proceedings during the time for delivery of constituency nomination papers or for making objections to them unless he is–
 
@@ -593,7 +597,7 @@ but where an individual candidate acts as his own election agent, or a candidate
 
 (4) The right conferred by paragraph (3) above includes the right to inspect and to object to the validity of any individual nomination paper or any regional list (including the nomination of any candidate on such a list).
 
-##### 15. Decisions as to validity of constituency nomination papers
+##### 15. Decisions as to validity of constituency nomination papers[^c-5e66de1ee91afc454217db6ca8c6d005]
 
 (1) Where a constituency nomination paper and the candidate’s consent to it are delivered and a deposit is made in accordance with these Rules, the candidate shall be deemed to stand nominated unless and until–
 
@@ -617,7 +621,7 @@ but where an individual candidate acts as his own election agent, or a candidate
 
 (7) Subject to paragraph (6) above, nothing in this rule prevents the validity of a nomination being questioned on an election petition.
 
-##### 16. Decisions as to validity of individual nomination papers
+##### 16. Decisions as to validity of individual nomination papers[^c-89bef71085330a366cac6ac21f267ac6]
 
 (1) Where an individual nomination paper and the candidate’s consent to it are delivered and a deposit is made in accordance with these Rules, the candidate shall be deemed to stand nominated unless and until–
 
@@ -639,7 +643,7 @@ but where an individual candidate acts as his own election agent, or a candidate
 
 (6) Subject to paragraph (5) above, nothing in this rule prevents the validity of a nomination being questioned on an election petition.
 
-##### 17. Decisions as to validity of regional lists and as to the validity of nominations included on such a list
+##### 17. Decisions as to validity of regional lists and as to the validity of nominations included on such a list[^c-b3435f03d0a1af48c9101f360fda5154]
 
 (1) Where a registered party’s regional list and the consent of each candidate included in that list are delivered and a deposit is made in accordance with these Rules, the party and (subject to paragraphs (3) and (4) below) each candidate on its list shall be deemed to stand nominated unless and until the regional returning officer decides that the regional list is invalid.
 
@@ -682,7 +686,7 @@ shall not be questioned in any proceeding whatsoever.
 
 (8) Subject to paragraph (7) above, nothing in this paragraph prevents the validity of a nomination being questioned on an election petition.
 
-##### 18. Withdrawal of candidates
+##### 18. Withdrawal of candidates[^c-b4a7e4ca580508180589cae26083297e]
 
 (1) A candidate for return as a constituency member may withdraw his candidature by notice of withdrawal–
 
@@ -701,7 +705,7 @@ shall not be questioned in any proceeding whatsoever.
 
 (4) Where a candidate in a regional list has been withdrawn in accordance with this rule the regional returning officer shall delete the name and address of that candidate from the list.
 
-##### 19. Publication of statement of persons nominated as candidates for return as a constituency member
+##### 19. Publication of statement of persons nominated as candidates for return as a constituency member[^c-d1d407967d67740fce8fc68aafa3a807]
 
 (1) The constituency returning officer shall prepare and publish a statement showing the persons who have been and stand nominated as candidates for return as a constituency member and any other persons who have been nominated as such candidates, with the reason why they no longer stand nominated.
 
@@ -716,7 +720,7 @@ shall not be questioned in any proceeding whatsoever.
 - (a) a copy of the statement; and
 - (b) in the case of each candidate standing nominated in respect of whom a certificate has been received by the returning officer in accordance with rule 8 above, a copy of that certificate.
 
-##### 20. Publication of statement of persons and parties nominated for return as regional members
+##### 20. Publication of statement of persons and parties nominated for return as regional members[^c-56d4cf6a9fa8febc99a88f5ff4912679]
 
 (1) The regional returning officer shall prepare and publish a statement showing–
 
@@ -739,19 +743,19 @@ shall not be questioned in any proceeding whatsoever.
 - (a) a copy of the statement; and
 - (b) in the case of each candidate standing nominated in respect of whom a certificate has been received by the returning officer in accordance with rule 8 above, a copy of that certificate as well.
 
-##### 21. Disqualification by Representation of the People Act 1981: candidates for return as constituency members
+##### 21. Disqualification by Representation of the People Act 1981: candidates for return as constituency members[^c-283141a16bd02df58784bff7d44da206]
 
 (1) If it appears to the constituency returning officer that any of the persons nominated as candidates for return as a constituency member might be disqualified by virtue of the Representation of the People Act 1981 he shall, as soon as practicable after the expiry of the time allowed for the delivery of constituency nomination papers, prepare and publish a draft of the statement required by rule 19 above.
 
 (2) The draft shall be headed “Draft statement of persons nominated for return as a constituency member” and shall contain a notice stating that any person who wishes to object to the nomination of any candidate on the ground that he is disqualified for nomination under the Representation of the People Act 1981 may do so between the hours of 10.00 am and 4.00 pm on the day and at the place specified in the notice; and the day so specified shall be the day next after the last day for the delivery of constituency nomination papers.
 
-##### 22. Disqualification by Representation of the People Act 1981: candidates for return as regional members
+##### 22. Disqualification by Representation of the People Act 1981: candidates for return as regional members[^c-15157018834d3fb363f0cee2ea7f55b5]
 
 (1) If it appears to the regional returning officer that any of the persons nominated as candidates for return as a regional member might be disqualified by the Representation of the People Act 1981 he shall, as soon as practicable after the expiry of the time allowed for the delivery of individual nomination papers and regional lists, prepare and publish a draft of the statement required by rule 20 above.
 
 (2) The draft shall be headed “Draft statement of persons nominated for return as regional members” and shall contain a notice stating that any person who wishes to object to the nomination of any candidate on the ground that he is disqualified for nomination under the Representation of the People Act 1981 may do so between the hours of 10.00 am and 4.00 pm on the day and at the place specified in the notice; and the day so specified shall be the day next after the last day for the delivery of individual nomination papers and regional lists.
 
-##### 23. Adjournment of nomination proceedings in the case of riot
+##### 23. Adjournment of nomination proceedings in the case of riot[^c-a0f29036df7b8590b62f411a5beaa018]
 
 (1) Where the proceedings for, or in connection with, nomination are on any day interrupted or obstructed by riot or open violence–
 
@@ -769,13 +773,13 @@ and that day shall be treated for the purposes of these Rules as being the last 
 - (a) may be done after they are continued if the time for doing it had passed at the time of the abandonment;
 - (b) done before the abandonment shall be invalidated by reason of the abandonment.
 
-##### 24. Method of election: candidates for return as constituency members
+##### 24. Method of election: candidates for return as constituency members[^c-90a5bc633eefbb32e14095c75bf27315]
 
 (1) If the statement required by rule 19 above shows more than one person standing nominated, a poll shall be taken in accordance with Part III of these Rules.
 
 (2) If that statement shows only one person standing nominated, that person shall be declared to be elected in accordance with Part IV of these Rules.
 
-##### 25. Method of election: candidates for return as regional members
+##### 25. Method of election: candidates for return as regional members[^c-e9ad5d46951cc4e4a70fc447e5a3eed0]
 
 (1) Subject to paragraph (2)(b) below, if the statement of persons required by rule 20 above shows more candidates (whether on a registered party’s regional list or individual candidates) than the number of seats for that region a poll shall be taken in accordance with Part III of these Rules.
 
@@ -790,13 +794,13 @@ the regional returning officer shall, following receipt of the notification unde
 
 #### General Provisions
 
-##### 26. Poll to be taken by ballot
+##### 26. Poll to be taken by ballot[^c-3eb693c7e8d8655912ecf9aaca9a2b41]
 
 (1) The votes at the poll for the return of a constituency member shall be given by ballot and the result shall be ascertained by counting the votes given to each candidate, and the candidate to whom the majority of votes has been given shall be declared to have been elected.
 
 (2) The regional votes at a poll for the return of regional members shall be given by ballot, and the regional figure for each individual candidate and each registered party shall be ascertained by counting the regional votes given to each individual candidate and each registered party.
 
-##### 27. The ballot paper: constituency candidates
+##### 27. The ballot paper: constituency candidates[^c-e686241be8e0b63bb23aa49dc10c958f]
 
 (1) The ballot of every voter at a poll for the return of a constituency member shall consist of a ballot paper (referred to in these Rules as a “constituency ballot paper”).
 
@@ -818,7 +822,7 @@ the regional returning officer shall, following receipt of the notification unde
 - (a) be made in writing to the constituency returning officer; and
 - (b) be received by him during the period for delivery of nomination papers set out in the Table in rule 1(1) above.
 
-##### 28. The ballot paper: regional candidates
+##### 28. The ballot paper: regional candidates[^c-9e0fb8eccc1c39658e039599b58612ab]
 
 (1) The ballot of every voter at a poll for the return of regional members shall consist of a ballot paper (referred to in these Rules as a “regional ballot paper”).
 
@@ -836,11 +840,11 @@ the regional returning officer shall, following receipt of the notification unde
 
 (5) If a request has been made to the regional returning officer under rule 7(6) above that a registered party’s registered emblem (or, as the case may be, one of the party’s registered emblems) be shown on the ballot paper against that party’s name, the ballot paper shall also contain, to the right of the party’s name, that emblem.
 
-##### 29. Colour of ballot papers
+##### 29. Colour of ballot papers[^c-9fdd66c6302c5b84462fe978571abd7d]
 
 The regional ballot paper shall be a different colour from the constituency ballot paper.
 
-##### 30. The official mark
+##### 30. The official mark[^c-ca9694372e6058afcdcf87459bc4b281]
 
 (1) Every ballot paper shall be marked with an official mark, which shall perforate the ballot paper.
 
@@ -848,11 +852,11 @@ The regional ballot paper shall be a different colour from the constituency ball
 
 (3) The official mark used for ballot papers issued for the purpose of voting by post shall not be used at the same election for ballot papers issued for the purpose of voting in person.
 
-##### 31. Prohibition of disclosure of vote
+##### 31. Prohibition of disclosure of vote[^c-e81e2c81405b77ecaea873d74792ed8e]
 
 No person who has voted at a Scottish parliamentary election shall, in any legal proceeding to question the election or return, be required to state the candidate for whom, or the registered party for which, he voted.
 
-##### 32. Use of schools and public rooms
+##### 32. Use of schools and public rooms[^c-3da6d2adc09318b12bc3f05992126ad8]
 
 (1) At a Scottish parliamentary election the constituency returning officer may use, free of charge, for the purpose of taking the poll or counting the votes–
 
@@ -865,7 +869,7 @@ No person who has voted at a Scottish parliamentary election shall, in any legal
 
 #### Action to be taken before the poll
 
-##### 33. Notice of poll
+##### 33. Notice of poll[^c-6982076c8ac6d560375e514cad95f295]
 
 (1) The statement required by rule 19 above and the statement required by rule 20 above shall each include a notice of the poll, stating the day on which and the hours during which the poll will be taken and, in the case of a Scottish parliamentary general election, each such notice may contain such further information about that election as the returning officer who publishes that notice thinks fit.
 
@@ -876,13 +880,13 @@ No person who has voted at a Scottish parliamentary election shall, in any legal
 
 and he shall as soon as practicable after giving such notice give a copy of it to each of the election agents.
 
-##### 34. Postal ballot papers
+##### 34. Postal ballot papers[^c-a6fb0636ccfb6232c40ebba3e17c9033]
 
 (1) Subject to paragraph (2) below, the constituency returning officer shall as soon as practicable send to those entitled to vote by post, at the address shown in the absent voters list or, in the case of a person entitled to vote by post as proxy, at the address shown in the list kept under article 12(7), a ballot paper and a declaration of identity in the form L set out in the Appendix together with an envelope for their return.
 
 (2) In the case of a person who is entitled to a postal constituency vote and a postal regional vote, the reference in paragraph (1) above to “a ballot paper” shall be construed as a reference to a constituency ballot paper and a regional ballot paper.
 
-##### 35. Provision of polling stations
+##### 35. Provision of polling stations[^c-8ef84487a6bf2e29c220159697ae9453]
 
 (1) The constituency returning officer shall provide a sufficient number of polling stations and, subject to the following provisions of this rule, shall allot the electors to the polling stations in such manner as he thinks most convenient.
 
@@ -892,7 +896,7 @@ and he shall as soon as practicable after giving such notice give a copy of it t
 
 (4) The constituency returning officer shall provide each polling station with such number of compartments as may be necessary in which the voters can mark their votes screened from observation.
 
-##### 36. Appointment of presiding officers and clerks
+##### 36. Appointment of presiding officers and clerks[^c-42a50d063f15633b1da585924f955ce2]
 
 (1) The constituency returning officer shall appoint and pay a presiding officer to attend at each polling station and such clerks as may be necessary, but he shall not appoint any person who has been employed by or on behalf of a candidate or a registered party in or about the election.
 
@@ -900,7 +904,7 @@ and he shall as soon as practicable after giving such notice give a copy of it t
 
 (3) A presiding officer may do, by the clerks appointed to assist him, any act (including the asking of questions) which he is required or authorised by these Rules to do at a polling station except order the arrest, exclusion or removal of any person from the polling station.
 
-##### 37. Issue of official poll cards and notifications
+##### 37. Issue of official poll cards and notifications[^c-2a4c8937790a2a8b18722c0703ac4933]
 
 (1) The constituency returning officer shall as soon as practicable send to each elector and proxy an official poll card or notification, but a card or notification need not be sent to any person–
 
@@ -922,7 +926,7 @@ and he shall as soon as practicable after giving such notice give a copy of it t
   - (a) who is registered in the register of electors for the constituency and the region on the last day for publication of notice of the election; and
   - (b) includes a person then shown in that register as below voting age if (but only if) it appears from the register that he will be of voting age on the day fixed for the poll.
 
-##### 38. Equipment of polling stations
+##### 38. Equipment of polling stations[^c-a443708bd0e09a69c0ff1cafa5c452d8]
 
 (1) The constituency returning officer shall provide each presiding officer with such number of ballot boxes and ballot papers as in the constituency returning officer’s opinion may be necessary. At a Scottish parliamentary general election, separate ballot boxes will be provided for the constituency ballot papers and for the regional ballot papers.
 
@@ -971,7 +975,7 @@ and he shall as soon as practicable after giving such notice give a copy of it t
 
 (15) The statements required by rules 19 and (except in the case of a poll to fill a vacancy in the seat of a constituency member) 20 above shall be printed in conspicuous characters and exhibited inside or outside every polling station and may be exhibited both inside and outside any polling station.
 
-##### 39. Appointment of polling and counting agents
+##### 39. Appointment of polling and counting agents[^c-520f520d5e1f770eba8c9ada95f0cdde]
 
 (1) Each candidate for return as a constituency member, each individual candidate for return as a regional member, and the election agent of each registered party standing nominated, may, before the commencement of the poll, appoint–
 
@@ -1007,7 +1011,7 @@ and he shall as soon as practicable after giving such notice give a copy of it t
 
 (11) Where by these Rules any act or thing is required or authorised to be done in the presence of the polling or counting agents, the non-attendance of any agents or agent at the time and place appointed for the purpose shall not, if the act or thing is otherwise duly done, invalidate the act or thing done.
 
-##### 40. Notification of requirement of secrecy
+##### 40. Notification of requirement of secrecy[^c-d5ce6c78c13b70bb35a7fecce4c535fa]
 
 The constituency returning officer shall make such arrangements as he thinks fit to ensure that–
 
@@ -1016,7 +1020,7 @@ The constituency returning officer shall make such arrangements as he thinks fit
 
 #### The Poll
 
-##### 41. Admission to polling station
+##### 41. Admission to polling station[^c-c93940f58234414b8ad81ca11d43fcd3]
 
 (1) The presiding officer shall regulate the number of voters to be admitted to the polling station at the same time, and shall exclude all other persons except–
 
@@ -1036,7 +1040,7 @@ The constituency returning officer shall make such arrangements as he thinks fit
 
 (5) Any certificate surrendered under this rule shall forthwith be cancelled.
 
-##### 42. Keeping of order in station
+##### 42. Keeping of order in station[^c-e1fefd7728cabcecf78520416d63d99d]
 
 (1) It is the presiding officer’s duty to keep order at his polling station.
 
@@ -1051,7 +1055,7 @@ and the person so removed shall not, without the presiding officer’s permissio
 
 (4) The powers conferred by this rule shall not be exercised so as to prevent a voter who is otherwise entitled to vote at a polling station from having an opportunity of voting at that station.
 
-##### 43. Sealing of ballot boxes
+##### 43. Sealing of ballot boxes[^c-021fc728a55f2c92f1d03683c5bbd141]
 
 Immediately before the commencement of the poll, the presiding officer shall–
 
@@ -1060,7 +1064,7 @@ Immediately before the commencement of the poll, the presiding officer shall–
 - (c) place each box in his view for the receipt of ballot papers; and
 - (d) keep it so sealed.
 
-##### 44. Questions to be put to voters
+##### 44. Questions to be put to voters[^c-8b2ba24bb5febc6da197ad93ccd9437c]
 
 (1) The presiding officer may, and, if required by a candidate or the election or polling agent of a candidate or of a registered party standing nominated, shall, put to any person applying for a ballot paper at the time of his application, but not afterwards, the following questions, or either of them:–
 
@@ -1083,7 +1087,7 @@ and if that question is not answered in the affirmative, the following question�
 
 (4) Save as by this rule authorised, no inquiry shall be permitted as to the right of any person to vote.
 
-##### 45. Challenge of voter
+##### 45. Challenge of voter[^c-b907eabe0ad464b67c15b80771df72f1]
 
 (1) If at the time a person applies for a ballot paper at a Scottish parliamentary election for the purpose of voting in person, or after he has applied for a ballot paper for that purpose and before he has left the polling station, a candidate or the election or polling agent of a candidate or of a registered party standing nominated–
 
@@ -1096,7 +1100,7 @@ the presiding officer may order a constable to arrest the applicant, and the ord
 
 (3) A person arrested under the provisions of this paragraph shall be dealt with as a person taken into custody by a constable for an offence without a warrant.
 
-##### 46. Voting procedure
+##### 46. Voting procedure[^c-410435e8f6564f8ddc2feef943116812]
 
 (1) At a Scottish parliamentary general election, a voter may apply for a constituency ballot paper or a regional ballot paper or both. However at any such election, the presiding officer shall assume, in the absence of a clear indication to the contrary, that the voter’s application is for a constituency ballot paper and a regional ballot paper.
 
@@ -1114,7 +1118,7 @@ the presiding officer may order a constable to arrest the applicant, and the ord
 
 (5) At a Scottish parliamentary general election the same copy of the register of electors may be used under paragraph (2) above for a constituency ballot paper and a regional ballot paper and one mark may be placed in that register under paragraph (2)(d) above or in the list of proxies under paragraph (2)(e) above to denote that each of the ballot papers has been received; and, where one mark is so placed in that register or, as the case may be, list, the mark shall, unless the contrary intention appears, be taken to denote that a constituency ballot paper and regional ballot paper have been received.
 
-##### 47. Votes marked by presiding officer
+##### 47. Votes marked by presiding officer[^c-a18e133fe6733627ed5f22391a07b1e5]
 
 (1) The presiding officer on the application of a voter–
 
@@ -1129,7 +1133,7 @@ shall, in the presence of the polling agents, cause the voter’s vote to be mar
 
 (4) At a Scottish parliamentary general election, the same list of votes marked by the presiding officer may be used for votes marked on constituency ballot papers and votes marked on regional ballot papers and where it is so used, an entry in that list shall, unless the contrary intention appears, be taken to mean that each such ballot paper was so marked.
 
-##### 48. Voting by persons with disabilities
+##### 48. Voting by persons with disabilities[^c-70387af16dbb1dcc38aefb0f4126fdb2]
 
 (1) If a voter makes an application to the presiding officer to be allowed, on the ground of–
 
@@ -1165,7 +1169,7 @@ to vote with the assistance of another person by whom he is accompanied (in thes
 
 (8) At a Scottish parliamentary general election, the same list of voters with disabilities assisted by companions may be used for votes marked on constituency ballot papers and votes marked on regional ballot papers and, where it is so used, an entry in that list shall, unless the contrary intention appears, be taken to mean that the votes of the elector in question were so given in relation to each such ballot paper.
 
-##### 49. Tendered ballot papers
+##### 49. Tendered ballot papers[^c-42421d23c6f8b103a48345b947f7fc49]
 
 (1) If a person, representing himself to be–
 
@@ -1187,11 +1191,11 @@ applies for a ballot paper after another person has voted in person either as th
 
 (6) At a Scottish parliamentary general election, the same tendered votes list may be used in relation to all tendered votes in respect of that election and, where it is so used, an entry in that list in relation to a voter shall unless the contrary intention appears, be taken to mean that tendered ballot papers were marked by that voter in relation to both of his votes at that election.
 
-##### 50. Spoilt ballot papers
+##### 50. Spoilt ballot papers[^c-99891ca7231a3832362c1b2757baef15]
 
 A voter who has inadvertently dealt with a ballot paper of his in such manner that it cannot be conveniently used as a ballot paper may, on delivering it to the presiding officer and proving to his satisfaction the fact of the inadvertence, obtain another ballot paper in the place of the ballot paper so delivered (in these Rules referred to as “a spoilt ballot paper”), and the spoilt ballot paper shall be immediately cancelled.
 
-##### 51. Adjournment of poll in case of riot
+##### 51. Adjournment of poll in case of riot[^c-8e990bb0ebd9d1d453f6c463054f4f8e]
 
 (1) Where the proceedings at any polling station are interrupted or obstructed by riot or open violence, the presiding officer shall adjourn the proceedings till the following day and shall forthwith give notice to the constituency returning officer and, except in the case of an election to fill a vacancy in the seat of a constituency member, the regional returning officer.
 
@@ -1200,7 +1204,7 @@ A voter who has inadvertently dealt with a ballot paper of his in such manner th
 - (a) the hours of polling on the day to which it is adjourned shall be the same as for the original day; and
 - (b) references in this Order to the close of the poll shall be construed accordingly.
 
-##### 52. Procedure on close of poll
+##### 52. Procedure on close of poll[^c-14ac671dfad9bff3728a5d7d5acd826e]
 
 (1) As soon as practicable after the close of the poll, the presiding officer shall, in the presence of the polling agents, using his own seal and the seals of such polling agents as desire to affix their seals, seal each ballot box in use at the station so as to prevent the introduction of additional ballot papers. He shall then make up into separate packets, sealed with his own seal and the seals of such polling agents as desire to affix their seals–
 
@@ -1224,7 +1228,7 @@ and shall deliver the sealed ballot boxes and the packets, or cause them to be d
 
 #### Counting of votes
 
-##### 53. Attendance at counting of votes
+##### 53. Attendance at counting of votes[^c-6b7f224493ac1d4815fa14b27766e684]
 
 (1) The constituency returning officer shall make arrangements for counting the votes in the presence of the counting agents as soon as practicable after the close of the poll and shall give to the counting agents and the regional returning officer notice in writing of the time and place at which he will begin to count the votes.
 
@@ -1252,7 +1256,7 @@ may be present at the counting of the votes, unless permitted by the constituenc
 
 and then counting the number of ballot papers for each such candidate or party, the counting agents shall be entitled to satisfy themselves that the ballot papers are correctly sorted.
 
-##### 54. The count
+##### 54. The count[^c-5fb4712ba1c04cd63730c282679260e1]
 
 (1) The constituency returning officer shall–
 
@@ -1294,19 +1298,19 @@ shall be as effective as the agreement of the counting agent of that candidate o
 - (a) place the ballot papers and other documents relating to the election under his own seal and the seals of such of the counting agents as desire to affix their seals; and
 - (b) otherwise take proper precautions for the security of the papers and documents.
 
-##### 55. Re-count: constituency election
+##### 55. Re-count: constituency election[^c-41475a7c1c00805c7a9d44159ea5ef1d]
 
 (1) A candidate for return as a constituency member or his election agent may, if present when the counting or any re-count of the votes given in the constituency ballot papers is completed, require the constituency returning officer to have these votes re-counted or again re-counted but the constituency returning officer may refuse to do so if in his opinion the request is unreasonable.
 
 (2) No step shall be taken on the completion of the counting or any re-count of votes given in the constituency ballot papers until the candidates and election agents present at its completion have been given a reasonable opportunity to exercise the right conferred by this rule.
 
-##### 56. Re-count: regional votes in a constituency
+##### 56. Re-count: regional votes in a constituency[^c-ac1d379e5e0c17529d85aeaff0fb5a0b]
 
 (1) An individual candidate for return as a regional member or his election agent, or the election agent for a registered party standing nominated (or any person authorised in writing by that agent) may prior to the publication of the statement required by rule 60 below, if present when the counting or any re-count of the votes given in the regional ballot papers is completed in a constituency, require the constituency returning officer to have the votes re-counted or again re counted but the constituency returning officer may refuse to do so if in his opinion the request is unreasonable.
 
 (2) No step shall be taken on the completion of the counting or any re-count of votes until the individual candidates and election agents present at its completion have been given a reasonable opportunity to exercise the right conferred by this rule.
 
-##### 57. Rejected ballot papers
+##### 57. Rejected ballot papers[^c-5ff4e7d70444faad7496fc238b0c776a]
 
 (1) Any ballot paper–
 
@@ -1338,15 +1342,15 @@ shall not for such reason be deemed to be void if an intention that the vote sha
 - (d) writing or mark by which voter could be identified; and
 - (e) unmarked or void for uncertainty.
 
-##### 58. Decisions on ballot papers
+##### 58. Decisions on ballot papers[^c-5c940c44604033092ffe77a62db15bab]
 
 The decision of the constituency returning officer on any question arising in respect of a ballot paper shall be final, but shall be subject to review on an election petition.
 
-##### 59. Equality of votes: election for return of constituency members
+##### 59. Equality of votes: election for return of constituency members[^c-cee32b916d293442359240cc10ea5392]
 
 Where, after the counting of the votes (including any re-count) given in a poll for the return of a constituency member is completed, an equality of votes is found to exist between any candidates and the addition of a vote would entitle any of those candidates to be declared elected, the constituency returning officer shall forthwith decide between those candidates by lot, and proceed as if the candidate on whom the lot falls had received an additional vote.
 
-##### 60. Conveying results of count etc. to regional returning officer
+##### 60. Conveying results of count etc. to regional returning officer[^c-c1dd1c862dbfc4b943a5ceefbff5225f]
 
 (1) As soon as practicable after the conclusion of the counting of the votes (including any re-count) given in a constituency in a poll for return of regional members, the constituency returning officer shall, in accordance with any directions given by the regional returning officer, draw up a statement showing the number of votes given for each registered party and each individual candidate (excluding any votes given on any rejected ballot papers).
 
@@ -1356,7 +1360,7 @@ Where, after the counting of the votes (including any re-count) given in a poll 
 
 ### PART IV — FINAL PROCEEDINGS IN CONTESTED AND UNCONTESTED ELECTIONS
 
-#### 61. Declaration of result: constituency members
+#### 61. Declaration of result: constituency members[^c-5e02fb55ed867201e6dfba1d00d6049e]
 
 (1) In a contested election for return of a constituency member, when the result of the poll for the return of a constituency member has been ascertained, the constituency returning officer shall forthwith–
 
@@ -1375,7 +1379,7 @@ Where, after the counting of the votes (including any re-count) given in a poll 
 - (a) completing a certificate in the form S set out in the Appendix; and
 - (b) delivering it, or causing it to be delivered, to the Clerk of the Parliament.
 
-#### 62. Attendance at allocation of seats for regional members
+#### 62. Attendance at allocation of seats for regional members[^c-f1256667f497660cd51ea3f1f891e43d]
 
 (1) At a contested election, the regional returning officer shall make arrangements for making the calculation and allocation referred to in rule 63 below as soon as practicable after receipt by him of the statement prepared under rule 60 above and of the notification under rule 61(3) above from each constituency returning officer in that region.
 
@@ -1402,7 +1406,7 @@ may be present at that calculation and allocation unless permitted by the region
 
 notice in writing of the place at which he will begin the proceedings under rule 63 below.
 
-#### 63. Allocation of seats
+#### 63. Allocation of seats[^c-23e4d42bb37f1d5b019d045fd5595066]
 
 (1) The regional returning officer shall calculate the total number of regional votes given for each registered party and each individual candidate in all of the constituencies included in the region by adding together the votes given for that registered party or, as the case may be, individual candidate as shown in the statements received under rule 60 above.
 
@@ -1410,7 +1414,7 @@ notice in writing of the place at which he will begin the proceedings under rule
 
 (3) The regional returning officer shall then allocate the seats in accordance with sections 7 and 8 of the 1998 Act.
 
-#### 64. Equality of votes at poll for return of regional members
+#### 64. Equality of votes at poll for return of regional members[^c-d15421f0917efa5e731a6c3c8a290c44]
 
 Section 8(7) of the 1998 Act shall be modified by substituting, for the words after “candidates”, the following words:–
 
@@ -1426,7 +1430,7 @@ Section 8(7) of the 1998 Act shall be modified by substituting, for the words af
 
 .
 
-#### 65. Declaration of results: regional members
+#### 65. Declaration of results: regional members[^c-7cf23e0a0cdd83fd76fe50609ae5a772]
 
 (1) When the regional returning officer has allocated the regional member seats he shall forthwith–
 
@@ -1445,7 +1449,7 @@ Section 8(7) of the 1998 Act shall be modified by substituting, for the words af
 - (a) completing a certificate in the form T set out in the Appendix;
 - (b) delivering it, or causing it to be delivered, to the Clerk of the Parliament.
 
-#### 66. Return or forfeiture of deposit
+#### 66. Return or forfeiture of deposit[^c-559a34afedd36869e594d72b02cd1c1f]
 
 (1) The deposit made under rule 11 above shall either be returned to the person making it or his personal representatives or be forfeited to Her Majesty.
 
@@ -1471,13 +1475,13 @@ the deposit shall be returned as soon as practicable after the publication of th
 
 ### PART V — DISPOSAL OF DOCUMENTS
 
-#### 67. Sealing up of ballot papers
+#### 67. Sealing up of ballot papers[^c-a663eafeddc429cb382aff3db89b0d43]
 
 (1) On the completion of the counting at a contested election the constituency returning officer shall seal up in separate packets the counted and rejected ballot papers.
 
 (2) The constituency returning officer shall not open the sealed packets of tendered ballot papers or of counterfoils and certificates as to employment on duty on the day of the poll, or of marked copies of the register of electors and lists of proxies.
 
-#### 68. Delivery of documents to the sheriff clerk
+#### 68. Delivery of documents to the sheriff clerk[^c-4b6284159aa6117e29ba2529c73b1a01]
 
 (1) The constituency returning officer shall then forward to–
 
@@ -1514,7 +1518,7 @@ endorsing on each packet–
 
 (5) Any receipt to be given for the documents shall show the date and time of their receipt.
 
-#### 69. Orders for production of documents
+#### 69. Orders for production of documents[^c-06a301b8a0c9c231ec3e37be6898beec]
 
 (1) An order–
 
@@ -1550,7 +1554,7 @@ as the court making the order may think expedient; but in making and carrying in
 
 (8) Save as by this paragraph provided, no person shall be allowed to inspect any rejected or counted ballot papers in the possession of the sheriff clerk or to open any sealed packets of counterfoils and certificates.
 
-#### 70. Retention and public inspection of documents
+#### 70. Retention and public inspection of documents[^c-0ddae78707afa42e0622a766d5bb936d]
 
 (1) The sheriff clerk shall retain for a year all documents relating to an election forwarded to him in pursuance of these Rules by a constituency returning officer, and then, unless otherwise directed by order of the Court of Session, shall cause them to be destroyed.
 
@@ -1560,7 +1564,7 @@ as the court making the order may think expedient; but in making and carrying in
 
 ### PART VI — DEATH OF CANDIDATE
 
-#### 71. Countermand or abandonment of poll etc. on death of candidate
+#### 71. Countermand or abandonment of poll etc. on death of candidate[^c-b40e7935c35bae3b22ab8740c99352f2]
 
 (1) If at a contested election for the return of a constituency member proof is given to the constituency returning officer’s satisfaction before the result of the election is declared that one of the persons named or to be named as candidate in the ballot papers has died, then the constituency returning officer shall–
 
@@ -1606,7 +1610,7 @@ in the region for which the election is held.
 
 ### PART VII — MISCELLANEOUS
 
-#### 72. Return of members and record of returns etc.
+#### 72. Return of members and record of returns etc.[^c-e165decd710a6e8e9a3fcc832bc70a56]
 
 (1) The Clerk of the Parliament shall on receipt of a certificate delivered under rule 61 or 65 above enter the information contained in that certificate in a book kept for that purpose at the Parliament (in this paragraph referred to as “the returns book”).
 
@@ -1634,6 +1638,150 @@ he shall record–
 
 ## Annotations
 
+[^c-1f58aef90576dfe31ab94efa3f164a3d]: Commencement: Sch. 2 para. 1 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-d2529da71acfc6a7e2e56b0e87c84d2b]: Commencement: Sch. 2 para. 2 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-adec2a029f7513d07fd1f0ac1bc0d819]: Commencement: Sch. 2 para. 3 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-7238a6ac034504370de9ac621b2f95ae]: Commencement: Sch. 2 para. 4 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-48b2bff6b5279aae4b3de2039388e31f]: Commencement: Sch. 2 para. 5 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-ba246b906bd6ee00d6a869f0e535f5c8]: Commencement: Sch. 2 para. 6 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-cc17def7a647e567efec6d0a9a3ce9af]: Commencement: Sch. 2 para. 7 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-68f9d7a7f1c3222c7e857063ccbe69c4]: Commencement: Sch. 2 para. 8 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-ad5d61d48cd2ec0d5ca4764486f9a9a6]: Commencement: Sch. 2 para. 9 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-1f547ebaee56aa4e14273976b13ab08b]: Commencement: Sch. 2 para. 10 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-d78d049a8135190455549543b585af86]: Commencement: Sch. 2 para. 11 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-2ff2cbd95a91034abfe8509a070294a2]: Commencement: Sch. 2 para. 12 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-40821548af5b330a4145dd4d795850be]: Commencement: Sch. 2 para. 13 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-4e9c670623ee1d422a138e878a3078bb]: Commencement: Sch. 2 para. 14 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-5e66de1ee91afc454217db6ca8c6d005]: Commencement: Sch. 2 para. 15 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
 [^f00040]: Footnote: [1981 c. 34](https://www.legislation.gov.uk/ukpga/1981/34).
 
+[^c-89bef71085330a366cac6ac21f267ac6]: Commencement: Sch. 2 para. 16 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-b3435f03d0a1af48c9101f360fda5154]: Commencement: Sch. 2 para. 17 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-b4a7e4ca580508180589cae26083297e]: Commencement: Sch. 2 para. 18 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-d1d407967d67740fce8fc68aafa3a807]: Commencement: Sch. 2 para. 19 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-56d4cf6a9fa8febc99a88f5ff4912679]: Commencement: Sch. 2 para. 20 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-283141a16bd02df58784bff7d44da206]: Commencement: Sch. 2 para. 21 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-15157018834d3fb363f0cee2ea7f55b5]: Commencement: Sch. 2 para. 22 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-a0f29036df7b8590b62f411a5beaa018]: Commencement: Sch. 2 para. 23 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-90a5bc633eefbb32e14095c75bf27315]: Commencement: Sch. 2 para. 24 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-e9ad5d46951cc4e4a70fc447e5a3eed0]: Commencement: Sch. 2 para. 25 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-3eb693c7e8d8655912ecf9aaca9a2b41]: Commencement: Sch. 2 para. 26 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-e686241be8e0b63bb23aa49dc10c958f]: Commencement: Sch. 2 para. 27 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-9e0fb8eccc1c39658e039599b58612ab]: Commencement: Sch. 2 para. 28 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-9fdd66c6302c5b84462fe978571abd7d]: Commencement: Sch. 2 para. 29 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-ca9694372e6058afcdcf87459bc4b281]: Commencement: Sch. 2 para. 30 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-e81e2c81405b77ecaea873d74792ed8e]: Commencement: Sch. 2 para. 31 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-3da6d2adc09318b12bc3f05992126ad8]: Commencement: Sch. 2 para. 32 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
 [^f00041]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^c-6982076c8ac6d560375e514cad95f295]: Commencement: Sch. 2 para. 33 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-a6fb0636ccfb6232c40ebba3e17c9033]: Commencement: Sch. 2 para. 34 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-8ef84487a6bf2e29c220159697ae9453]: Commencement: Sch. 2 para. 35 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-42a50d063f15633b1da585924f955ce2]: Commencement: Sch. 2 para. 36 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-2a4c8937790a2a8b18722c0703ac4933]: Commencement: Sch. 2 para. 37 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-a443708bd0e09a69c0ff1cafa5c452d8]: Commencement: Sch. 2 para. 38 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-520f520d5e1f770eba8c9ada95f0cdde]: Commencement: Sch. 2 para. 39 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-d5ce6c78c13b70bb35a7fecce4c535fa]: Commencement: Sch. 2 para. 40 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-c93940f58234414b8ad81ca11d43fcd3]: Commencement: Sch. 2 para. 41 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-e1fefd7728cabcecf78520416d63d99d]: Commencement: Sch. 2 para. 42 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-021fc728a55f2c92f1d03683c5bbd141]: Commencement: Sch. 2 para. 43 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-8b2ba24bb5febc6da197ad93ccd9437c]: Commencement: Sch. 2 para. 44 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-b907eabe0ad464b67c15b80771df72f1]: Commencement: Sch. 2 para. 45 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-410435e8f6564f8ddc2feef943116812]: Commencement: Sch. 2 para. 46 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-a18e133fe6733627ed5f22391a07b1e5]: Commencement: Sch. 2 para. 47 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-70387af16dbb1dcc38aefb0f4126fdb2]: Commencement: Sch. 2 para. 48 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-42421d23c6f8b103a48345b947f7fc49]: Commencement: Sch. 2 para. 49 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-99891ca7231a3832362c1b2757baef15]: Commencement: Sch. 2 para. 50 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-8e990bb0ebd9d1d453f6c463054f4f8e]: Commencement: Sch. 2 para. 51 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-14ac671dfad9bff3728a5d7d5acd826e]: Commencement: Sch. 2 para. 52 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-6b7f224493ac1d4815fa14b27766e684]: Commencement: Sch. 2 para. 53 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-5fb4712ba1c04cd63730c282679260e1]: Commencement: Sch. 2 para. 54 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-41475a7c1c00805c7a9d44159ea5ef1d]: Commencement: Sch. 2 para. 55 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-ac1d379e5e0c17529d85aeaff0fb5a0b]: Commencement: Sch. 2 para. 56 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-5ff4e7d70444faad7496fc238b0c776a]: Commencement: Sch. 2 para. 57 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-5c940c44604033092ffe77a62db15bab]: Commencement: Sch. 2 para. 58 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-cee32b916d293442359240cc10ea5392]: Commencement: Sch. 2 para. 59 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-c1dd1c862dbfc4b943a5ceefbff5225f]: Commencement: Sch. 2 para. 60 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-5e02fb55ed867201e6dfba1d00d6049e]: Commencement: Sch. 2 para. 61 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-f1256667f497660cd51ea3f1f891e43d]: Commencement: Sch. 2 para. 62 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-23e4d42bb37f1d5b019d045fd5595066]: Commencement: Sch. 2 para. 63 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-d15421f0917efa5e731a6c3c8a290c44]: Commencement: Sch. 2 para. 64 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-7cf23e0a0cdd83fd76fe50609ae5a772]: Commencement: Sch. 2 para. 65 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-559a34afedd36869e594d72b02cd1c1f]: Commencement: Sch. 2 para. 66 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-a663eafeddc429cb382aff3db89b0d43]: Commencement: Sch. 2 para. 67 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-4b6284159aa6117e29ba2529c73b1a01]: Commencement: Sch. 2 para. 68 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-06a301b8a0c9c231ec3e37be6898beec]: Commencement: Sch. 2 para. 69 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-0ddae78707afa42e0622a766d5bb936d]: Commencement: Sch. 2 para. 70 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-b40e7935c35bae3b22ab8740c99352f2]: Commencement: Sch. 2 para. 71 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+
+[^c-e165decd710a6e8e9a3fcc832bc70a56]: Commencement: Sch. 2 para. 72 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 2A[^M_F_1a8c8018-3170-4aad-cb7f-5692c85fd5c9]
+## Schedule 2A[^M_F_1a8c8018-3170-4aad-cb7f-5692c85fd5c9][^c13739731]
 
 *Extent: E+W+S*
 
@@ -25,3 +25,5 @@ summary: ''
 ## Annotations
 
 [^M_F_1a8c8018-3170-4aad-cb7f-5692c85fd5c9]: Textual amendment: Sch. 2A repealed (S.) (23.3.2007) by [The National Waste Management Plan for Scotland Regulations 2007 (S.S.I. 2007/251)](https://www.legislation.gov.uk/ssi/2007/251), [reg. 8(1)(a)](https://www.legislation.gov.uk/ssi/2007/251/regulation/8/1/a); and omitted (E.W.) (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 3(9)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/3/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 12
 act: London Local Authorities Act 2007
 section: '12'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 12. Railway undertakers: provision for purposes of section 11
+## 12. Railway undertakers: provision for purposes of section 11[^c-a75c633fed4f9699511f8352e6826593]
+
+*Extent: E+W*
 
 (1) Subsections (2) to (4) below apply where a borough council serve a notice under subsection (3) of section 11 (advertising: measures to be taken on surfaces) of this Act (a “section 11 notice”) requiring a protected party to carry out measures in respect of the display of unauthorised advertisements on a relevant surface situated on its operational land.
 
@@ -51,3 +55,7 @@ summary: ''
 
   and their subsidiaries (within the meaning given by section 1159 of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46)), servants, agents and contractors;
 - “relevant power” means a power to enter land conferred by section 287 (power to enter premises) of the Public Health Act [1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49) as applied by subsection (4) of the said section 11.
+
+## Annotations
+
+[^c-a75c633fed4f9699511f8352e6826593]: Commencement: [S. 12](https://www.legislation.gov.uk/ukla/2007/2/section/12) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

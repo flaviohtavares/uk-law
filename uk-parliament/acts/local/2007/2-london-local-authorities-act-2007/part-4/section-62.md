@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 62
 act: London Local Authorities Act 2007
 section: '62'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/62
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 62
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 62. Representations and appeals
+## 62. Representations and appeals[^c-15e78b11b931beb1d9558d9a19d5a986]
+
+*Extent: E+W*
 
 (1) Where it appears to a person on whom a penalty charge notice has been served under section 61 (penalty charges) of this Act that one or other of the grounds mentioned in the penalty charge provision is satisfied, he may make representations to that effect to the borough council.
 
@@ -49,3 +53,7 @@ summary: ''
 - (b) any regulations under section 73(11) of the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40) (provision as to procedure to be followed in relation to proceedings before parking adjudicators) in force at the coming into operation of this Part shall, with any necessary modifications, apply in relation to such proceedings before parking adjudicators when exercising the functions of adjudicators under this section.
 
 (9) If the paragraphs and regulations mentioned in paragraphs (a) and (b) of subsection (8) above are repealed or revoked by the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18) or regulations made under it, then until such time as regulations are in force under subsection (2) above, any regulations under section 80 of the Traffic Management Act 2004 shall, with any necessary modifications, apply in relation to representations, appeals and adjudicators as if made under the corresponding provisions of this section and section 63 (adjudicators) of this Act.
+
+## Annotations
+
+[^c-15e78b11b931beb1d9558d9a19d5a986]: Commencement: [S. 62](https://www.legislation.gov.uk/ukla/2007/2/section/62) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

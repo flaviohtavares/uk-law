@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 84
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '84'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/84
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 84
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 84. Modification of section 10 of the 1998 Act
+## 84. Modification of section 10 of the 1998 Act[^c-4adf0ad7741bc39a0d4b6e70d0bcbb2f]
+
+*Extent: S*
 
 Section 10 of the 1998 Act[^f00035] shall be modified by substituting, for subsections (4) to (5A) of that section, the following:–
 
@@ -46,5 +50,7 @@ Section 10 of the 1998 Act[^f00035] shall be modified by substituting, for subse
 .
 
 ## Annotations
+
+[^c-4adf0ad7741bc39a0d4b6e70d0bcbb2f]: Commencement: Art. 84 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00035]: Footnote: Section 10 was modified by [S.I. 1999/787](https://www.legislation.gov.uk/uksi/1999/787), article 88.

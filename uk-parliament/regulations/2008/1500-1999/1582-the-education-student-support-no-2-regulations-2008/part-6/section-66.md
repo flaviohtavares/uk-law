@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 66
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '66'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/66
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,35 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 66
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Qualifying conditions for the loan for living costs – old system students[^c-c6d7c560a3c79bdf9e7c1b789413d33d]
+## 66. Qualifying conditions for the loan for living costs – old system students[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Subject to paragraphs (4) to (6), an old system student who falls within paragraph (a) or (d)(i) of the definition of “old system student” in regulation 2 qualifies for a loan for living costs in connection with the student’s attendance on a designated course if the student is under the age of 60 on the relevant date.
-
-(2) Subject to paragraph (4), an old system student who falls within paragraph (b), (c) or (d)(ii) of the definition of “old system student” in regulation 2 qualifies for a loan for living costs in connection with the student’s attendance on a designated course if the student meets the following conditions—
-
-- (a) is under the age of 60 on the relevant date; and
-- (b) does not have an honours degree from an institution in the United Kingdom.
-
-(3) The condition in paragraph (2)(b) does not apply where—
-
-- (a) the designated course leads to qualification as a social worker, medical doctor, dentist, veterinary surgeon, architect, landscape architect, landscape designer, landscape manager, town planner or town and country planner;
-- (b) the old system student is eligible to receive any payment under a healthcare bursary the amount of which is calculated by reference to the student’s income or a Scottish healthcare allowance the amount of which is calculated by reference to the student’s income in respect of any academic year of the course; or
-- (c) the old system student is on a course for the initial training of teachers.
-
-(4) An old system student does not qualify for a loan for living costs if the only paragraph in Part 2 of Schedule 1 into which the student falls is paragraph 9.
-
-(5) An old system student does not qualify for a loan for living costs in connection with the student’s attendance on a designated course if that course is a flexible postgraduate course for the initial training of teachers which is of less than one academic year’s duration.
-
-(6) An old system student does not qualify for a loan for living costs if the student is a prisoner.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-c6d7c560a3c79bdf9e7c1b789413d33d]: Commencement: Reg. 66 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 17
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '17'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,12 +12,20 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 17. Returning officers: discharge of functions
+## 17. Returning officers: discharge of functions[^c-fd4d4b153b6702d484636f9ed843daa0]
+
+*Extent: S*
 
 (1) A returning officer at a Scottish parliamentary election may, in writing, appoint one or more persons to discharge all or any of his functions.
 
 (2) Except in the case of an election to fill a vacancy in the seat of a constituency member, it shall be the duty of each regional returning officer and each constituency returning officer for a Scottish parliamentary constituency within that region to co operate with each other in the discharge of their functions.
 
 (3) The duty imposed by paragraph (2) above applies as between constituency returning officers in any region as well as between such officers and the regional returning officer for that region.
+
+## Annotations
+
+[^c-fd4d4b153b6702d484636f9ed843daa0]: Commencement: Art. 17 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

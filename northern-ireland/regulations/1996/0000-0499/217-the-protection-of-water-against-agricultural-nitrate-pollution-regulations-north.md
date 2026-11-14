@@ -3,14 +3,14 @@ title: The Protection of Water Against Agricultural Nitrate Pollution Regulation
 id: nisr/1996/217
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-05-30'
-text_date: null
-extent: null
+text_date: '1996-05-30'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/217
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/217/made/data.pdf
-pending_changes: 9
+- http://www.legislation.gov.uk/nisr/1996/217/data.pdf
+pending_changes: 22
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 1996-05-30. See https://www.legislation.gov.uk/changes/affected/nisr/1996/217
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 217
 
@@ -38,11 +44,11 @@ Coming into operation
 
 The Department of the Environment and the Department of Agriculture, being departments designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the prevention, reduction and elimination of pollution of water, acting jointly in exercise of the powers conferred on them by that section and of every other power enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-5ed6b1b36778331ddb3debcea40962ec]
 
 These Regulations may be cited as the Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 1996, and shall come into operation on 3rd July 1996.
 
-## 2. Interpretation
+## 2. Interpretation[^c-34d9a7adefb107d878297555d29c6d2d]
 
 (1) In these Regulations—
 
@@ -69,13 +75,13 @@ These Regulations may be cited as the Protection of Water Against Agricultural N
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Vulnerable zones
+## 3. Vulnerable zones[^c-b891c955bae82e6dc0b57ef9dfba4972]
 
 (1) In these Regulations, “nitrate vulnerable zone” means any areas designated by the Departments, being all known areas of land which drain into and contribute to pollution of the waters which the Departments have identified, in accordance with the criteria set out in Schedule 1, as waters affected by pollution and waters which could be affected by pollution if action pursuant to regulation 6 were not taken.
 
 (2) The Departments shall, by 19th December 1997 and at least every 4 years thereafter, review and if necessary revise or add to the designation of nitrate vulnerable zones to take into account changes and factors unforeseen at the time of the previous designation.
 
-## 4. Monitoring
+## 4. Monitoring[^c-83a1ec7e7ba80b447f485400d6246d47]
 
 (1) For the purpose of the designation and revision of designations of nitrate vulnerable zones, the Department—
 
@@ -88,11 +94,11 @@ These Regulations may be cited as the Protection of Water Against Agricultural N
 
 (3) Monitoring under this regulation shall be carried out using the reference methods of measurement set out in Schedule 2.
 
-## 5. Code of good agricultural practice
+## 5. Code of good agricultural practice[^c-85276db237ef1bd0b8d2fe0daf4187bc]
 
 The Code of Practice for the Protection of Water entitled “Water, Preventing Pollution by Nitrate”(ISBN 1 85527 1168) (published 1994) shall have effect as the code of good agricultural practice established for the purposes of Article 4 of the Directive.
 
-## 6. Action programmes
+## 6. Action programmes[^c-9f7ccad672108637ea0687dbc52d4d58]
 
 (1) The Departments shall, for the purpose of achieving the Objectives, by Regulations under section 2(2) of the European Communities Act 1972, make provision establishing action programmes in respect of nitrate vulnerable zones.
 
@@ -112,7 +118,7 @@ The Code of Practice for the Protection of Water entitled “Water, Preventing P
 
 (6) The Departments shall, at least every 4 years, review and if necessary revise the action programmes, including any additional measures taken pursuant to regulation 7(2).
 
-## 7. Contents of action programmes
+## 7. Contents of action programmes[^c-a871873e4532672bf8b64729f2d3f1be]
 
 (1) An action programme shall include—
 
@@ -148,19 +154,19 @@ Assistant Secretary
 
 regulation 3(1)
 
-**1.** Waters referred to in regulation 3(1) shall be identified making use, inter alia, of the following criteria:
+**1.**[^c-31b0b5f5b57d034d1a27ad5474307fed] Waters referred to in regulation 3(1) shall be identified making use, inter alia, of the following criteria:
 
 - (a) whether surface freshwaters, in particular those used or intended for the abstraction of drinking water, contain or could contain, if action pursuant to regulation 6 is not taken, more than the concentration of nitrates laid down in accordance with Directive [75/440/EEC](https://www.legislation.gov.uk/european/directive/1975/0440);
 - (b) whether groundwaters contain more than 50 mg/1 nitrates or could contain more than 50 mg/1 nitrates if action pursuant to regulation 6 is not taken;
 - (c) whether natural freshwater lakes, other freshwater bodies, estuaries, coastal waters and marine waters are found to be eutrophic or in the near future may become eutrophic if action pursuant to regulation 6 is not taken.
 
-**2.** In applying these criteria, the Departments shall also take account of:
+**2.**[^c-27caa322d58211f32c4e82f599012b98] In applying these criteria, the Departments shall also take account of:
 
 - (a) the physical and environmental characteristics of the waters and land;
 - (b) the current understanding of the behaviour of nitrogen compounds in the environment (water and soil);
 - (c) the current understanding of the impact of the action to be taken pursuant to regulation 6.
 
-## SCHEDULE 2 — Reference Methods of Measurement
+## SCHEDULE 2 — Reference Methods of Measurement[^c-9799a57114c19357e64b0e85e671942e]
 
 regulation 4(3)
 
@@ -176,7 +182,7 @@ Nitrate concentration shall be measured in accordance with Article 4a(3) of Coun
 
 regulation 7(1)
 
-**1.** An action programme shall include rules relating to—
+**1.**[^c-df74c693e55867934678b1a2ee7b627a] An action programme shall include rules relating to—
 
 (1) periods when the land application of certain types of fertiliser is prohibited;
 
@@ -194,7 +200,7 @@ regulation 7(1)
     - additions of nitrogen compounds from livestock manure,
     - additions of nitrogen compounds from chemical and other fertilisers.
 
-**2.** These rules shall ensure that, for each farm or livestock unit, the amount of livestock manure applied to the land each year, including by the animals themselves, shall not exceed a specified amount per hectare.
+**2.**[^c-a2176d00ec29dd74f7d1fac9a44f942f] These rules shall ensure that, for each farm or livestock unit, the amount of livestock manure applied to the land each year, including by the animals themselves, shall not exceed a specified amount per hectare.
 
 The specified amount per hectare shall be the amount of manure containing 170 kg N. However—
 
@@ -205,7 +211,7 @@ The specified amount per hectare shall be the amount of manure containing 170 kg
   - high net precipitation in the vulnerable zone,
   - soils with exceptionally high denitrification capacity.
 
-**3.** The amounts referred to in paragraph 2 may be calculated on the basis of animal numbers.
+**3.**[^c-f672a94de8f7449ec35d422e1069aac2] The amounts referred to in paragraph 2 may be calculated on the basis of animal numbers.
 
 (This note is not part of the Regulations.)
 
@@ -225,13 +231,33 @@ Copies of Council Directive [91/676/EEC](https://www.legislation.gov.uk/european
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
+[^c-5ed6b1b36778331ddb3debcea40962ec]: Commencement: Reg. 1 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
+[^c-34d9a7adefb107d878297555d29c6d2d]: Commencement: Reg. 2 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
 [^f00003]: Footnote: O.J. No. L375, 31.12.91, p. 1
 
 [^f00004]: Footnote: [1954 c. 33 (N.I. )](https://www.legislation.gov.uk/apni/1954/33)
 
+[^c-b891c955bae82e6dc0b57ef9dfba4972]: Commencement: Reg. 3 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
+[^c-83a1ec7e7ba80b447f485400d6246d47]: Commencement: Reg. 4 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
 [^f00005]: Footnote: O.J. No. L194, 25.7.75, p. 26
 
 [^f00006]: Footnote: O.J. No. L229, 30.8.80, p. 11
+
+[^c-85276db237ef1bd0b8d2fe0daf4187bc]: Commencement: Reg. 5 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
+[^c-9f7ccad672108637ea0687dbc52d4d58]: Commencement: Reg. 6 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
+[^c-a871873e4532672bf8b64729f2d3f1be]: Commencement: Reg. 7 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
+[^c-31b0b5f5b57d034d1a27ad5474307fed]: Commencement: Sch. 1 para. 1 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
+[^c-27caa322d58211f32c4e82f599012b98]: Commencement: Sch. 1 para. 2 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
+[^c-9799a57114c19357e64b0e85e671942e]: Commencement: Sch. 2 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
 
 [^f00007]: Footnote: O.J. No. L213, 22.8.77, p. 1
 
@@ -240,3 +266,9 @@ Copies of Council Directive [91/676/EEC](https://www.legislation.gov.uk/european
 [^f00009]: Footnote: O.J. No. L334, 24.12.77, p. 29
 
 [^f00010]: Footnote: O.J. No. L335, 22.11.86, p. 44
+
+[^c-df74c693e55867934678b1a2ee7b627a]: Commencement: Sch. 3 para. 1 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
+[^c-a2176d00ec29dd74f7d1fac9a44f942f]: Commencement: Sch. 3 para. 2 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)
+
+[^c-f672a94de8f7449ec35d422e1069aac2]: Commencement: Sch. 3 para. 3 in operation at 3.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/217/regulation/1)

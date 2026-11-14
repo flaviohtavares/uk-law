@@ -2,9 +2,9 @@
 title: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 14
 act: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996
 section: '14'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-06-07'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/228/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 14
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 14. Assessment of conditions below ground
+## 14. Assessment of conditions below ground[^c-41d01eaea39a0fbb40da48c6b206a7f8]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) Before the design of a well is commenced the well-operator shall cause—
 
@@ -31,3 +37,7 @@ to be assessed.
 - (b) any procedures,
 
 as is necessary to ensure that the purposes described in regulation 13(1) will continue to be fulfilled.
+
+## Annotations
+
+[^c-41d01eaea39a0fbb40da48c6b206a7f8]: Commencement: Reg. 14 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)

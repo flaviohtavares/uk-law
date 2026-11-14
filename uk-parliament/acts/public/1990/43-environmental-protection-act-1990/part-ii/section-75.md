@@ -85,7 +85,7 @@ summary: ''
 
 (12)[^c-0c674ec316542758ff77fd07b924604e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 75. Meaning of “waste” and household, commercial and industrial waste and special waste.[^c13739461][^c18515732]
+## 75. Meaning of “waste” and household, commercial and industrial waste and special waste.[^c13739461][^c18515732][^c13739731]
 
 *Extent: S*
 
@@ -193,6 +193,8 @@ and dry recyclable waste of the same type (such as glass) is referred to as a �
 [^c13739461]: Commencement: S. 75 wholly in force at 31.5.1991 see s. 164(3) and [S.I. 1991/1319](https://www.legislation.gov.uk/uksi/1991/1319), [art. 2](https://www.legislation.gov.uk/uksi/1991/1319/article/2)
 
 [^c18515732]: Extent: This version of this provision has been created for Scotland only; a separate version has been created for England and Wales only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-e78be630597c0049de0d6b44b6a7c5de]: Textual amendment: S. 75(2) substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [2(12)(a)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/12/a)
 

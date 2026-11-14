@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 18
 act: London Local Authorities Act 2007
 section: '18'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 18. Defacement of buildings
+## 18. Defacement of buildings[^c-7926c3b61da26518c9c7ec8846aa734e]
+
+*Extent: E+W*
 
 (1) Section 12 (defacement of buildings) of the [London Local Authorities Act 1995 (c. x)](https://www.legislation.gov.uk/ukla/1995/10) is amended as follows.
 
@@ -70,3 +74,7 @@ summary: ''
 > (5B) Where a counter notice served under subsection (4) above contains such a requirement as is mentioned in subsection (5A) above the relevant power may not be exercised.
 
 .
+
+## Annotations
+
+[^c-7926c3b61da26518c9c7ec8846aa734e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukla/2007/2/section/18) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

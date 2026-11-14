@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3A — Free distribution of printed matter on designated land[^c18999071]
+## SCHEDULE 3A — Free distribution of printed matter on designated land[^c18999071][^c13739731]
 
 *Extent: E+W*
 
@@ -199,6 +199,8 @@ is evidence of the facts stated.
 ## Annotations
 
 [^c18999071]: Textual amendment: Sch. 3A inserted (E.W.) (6.4.2006 for E. and 15.3.2007 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/23/2), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); [S.I. 2006/2797](https://www.legislation.gov.uk/uksi/2006/2797), [art. 4(j)](https://www.legislation.gov.uk/uksi/2006/2797/article/4/j)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^M_F_3f4bdbe5-0416-43cd-e9c2-c53ba6e3289c]: Textual amendment: Words in Sch. 3A para. 1(4)(a) omitted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. paras. 37(1)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/37/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/37/2/e)
 

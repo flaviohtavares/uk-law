@@ -3,14 +3,14 @@ title: The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008
 id: uksi/2008/2512
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-23'
-text_date: null
-extent: null
+text_date: '2008-10-14'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/2512
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2512/pdfs/uksi_20082512_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2512/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2512/data.pdf
 pending_changes: 10
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (10).** Text as at 2008-10-14. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2512
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2008 No. 2512
 
@@ -51,11 +55,11 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-5986da9edafa03b2f9a85acf5ffed917]
 
 This Order may be cited as the Felixstowe Branch Line and Ipswich Yard Improvement Order 2008 and shall come into force on 14th October 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-5d5cf4ff17489a7c5702a393033bb4e7]
 
 (1) In this Order—
 
@@ -94,7 +98,7 @@ This Order may be cited as the Felixstowe Branch Line and Ipswich Yard Improveme
 
 (3) All distances, directions and lengths stated in the description of the scheduled works or in any description of powers or lands shall be construed as if the words “or thereabouts” were inserted after each such distance, direction and length, and distances between points on a scheduled work shall be taken to be measured along the scheduled work.
 
-### 3. Incorporation of Railways Clauses Acts
+### 3. Incorporation of Railways Clauses Acts[^c-331e1feec781a1a89cb58ab9af4cd2d9]
 
 (1) The following provisions of the Railways Clauses Consolidation Act 1845[^f00012] shall be incorporated in this Order—
 
@@ -129,7 +133,7 @@ This Order may be cited as the Felixstowe Branch Line and Ipswich Yard Improveme
 
 (4) In section 46 of the said Act of 1845, as incorporated in this Order, for the proviso there shall be substituted the words “Provided always that, with the consent of the highway authority and subject to such conditions as the authority may reasonably impose, the railway may be carried across a highway on the level.”.
 
-### 4. Application of the 1991 Act
+### 4. Application of the 1991 Act[^c-8b99d09ebc7763cafe2fbb9bc7f9ffdd]
 
 (1) Works executed under this Order in relation to a highway which consists of or includes a carriageway shall be treated for the purposes of Part 3 of the 1991 Act (street works) as major transport works if—
 
@@ -163,7 +167,7 @@ all such other provisions as apply for the purposes of the provisions mentioned 
 
 ### Principal powers
 
-#### 5. Power to construct and maintain works
+#### 5. Power to construct and maintain works[^c-dcc3a9fa9fd67799464c4e47773442a8]
 
 (1) The undertaker may construct and maintain the scheduled works.
 
@@ -183,7 +187,7 @@ all such other provisions as apply for the purposes of the provisions mentioned 
 
 (5) Paragraphs (3) and (4) shall only authorise the carrying out or maintenance of works outside the limits of deviation if such works are carried out on land shown on the works and land plans as being within the limits of land to be acquired or used.
 
-#### 6. Power to deviate
+#### 6. Power to deviate[^c-0470a44f90013ffc794dbd40cbe341b0]
 
 In constructing or maintaining any of the scheduled works, the undertaker may—
 
@@ -194,7 +198,7 @@ In constructing or maintaining any of the scheduled works, the undertaker may—
 
 ### Streets
 
-#### 7. Power to execute street works
+#### 7. Power to execute street works[^c-86a8c3a88e04f8ca9824e0f11e7dc82e]
 
 (1) The undertaker may, for the purposes of the authorised works, enter upon so much of any of the streets specified in Schedule 2 (streets subject to street works) as is within the Order limits and may—
 
@@ -207,7 +211,7 @@ In constructing or maintaining any of the scheduled works, the undertaker may—
 
 (3) In this article “apparatus” has the same meaning as in Part 3 of the 1991 Act.
 
-#### 8. Stopping up of streets
+#### 8. Stopping up of streets[^c-583f7c0471a066eb464ac03b7d99c271]
 
 (1) Subject to the provisions of this article, the undertaker may, in connection with the construction of the authorised works, stop up each of the streets specified in columns (1) and (2) of Parts 1 and 2 of Schedule 3 (streets to be permanently stopped up) to the extent specified, by reference to the letters and numbers shown on the rights of way plans, in column (3) of those Parts of that Schedule.
 
@@ -234,7 +238,7 @@ In constructing or maintaining any of the scheduled works, the undertaker may—
 
 (7) This article is subject to paragraph 2 of Schedule 9 (provisions relating to statutory undertakers, etc.).
 
-#### 9. Highways subject to redesignation
+#### 9. Highways subject to redesignation[^c-d4ef0465ef6c36462fc0c9a72d718451]
 
 (1) Subject to the provisions of this article, the following highways shall, at the relevant time, cease to be highways of the description specified on the definitive map and statement and shall be designated as highways as described and to the extent specified below by reference to the letters and numbers shown on the rights of way plans—
 
@@ -248,7 +252,7 @@ In constructing or maintaining any of the scheduled works, the undertaker may—
 - (a) all expressions used in this article and in the Wildlife and Countryside Act 1981[^f00015] shall have the same meaning in this article as in that Act; and
 - (b) “the relevant time” means the time at which the new highway to be substituted for restricted byway 28 (Gun Lane) (to be provided pursuant to article 8 (stopping up of streets) and specified in column (4) of Part 1 of Schedule 3) is open for use by the public.
 
-#### 10. Temporary stopping up of streets
+#### 10. Temporary stopping up of streets[^c-e017535b86ec5acc518bb5a66e0da816]
 
 (1) The undertaker, during and for the purposes of the execution of the authorised works, may temporarily stop up, alter or divert any street and may for any reasonable time—
 
@@ -268,7 +272,7 @@ In constructing or maintaining any of the scheduled works, the undertaker may—
 
 (6) Any person who suffers loss by the suspension of any private right of way under this article shall be entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
-#### 11. Traffic regulation
+#### 11. Traffic regulation[^c-7bddfb2ca21fa9b6ff859f94fc9da69f]
 
 (1) Subject to the provisions of this article, and with the consent of the traffic authority in whose area the road is situated, the undertaker may, during and for the purposes of the execution of the authorised works, temporarily restrict the direction of vehicular traffic on Old Felixstowe Road between points T1 and T2 as shown on the rights of way plans.
 
@@ -294,14 +298,14 @@ In constructing or maintaining any of the scheduled works, the undertaker may—
 - “public service vehicle” has the meaning given to it in section 1 of the Public Passenger Vehicles Act 1981[^f00018]; and
 - “the Regulations” means article 3 (procedure for making a temporary order) of the Road Traffic (Temporary Restrictions) Procedure Regulations 1992[^f00019].
 
-#### 12. Access to works
+#### 12. Access to works[^c-1942e87a772b36e7f6cd06fe5e6c39c9]
 
 The undertaker may, for the purposes of the authorised works—
 
 - (a) form and lay out means of access, or improve existing means of access, to the streets specified in columns (1) and (2) of Schedule 5 (access to works); and
 - (b) with the approval of the highway authority, such approval not to be unreasonably withheld, form and lay out such other means of access or improve existing means of access, at such locations within the Order limits as the undertaker reasonably requires for the purposes of the authorised works.
 
-#### 13. Construction and maintenance of new or altered streets
+#### 13. Construction and maintenance of new or altered streets[^c-b3a870e48f3075fa9deb5215251baf21]
 
 (1) Any street intended to be a public highway to be constructed under this Order shall be completed to the reasonable satisfaction of the highway authority and shall, unless otherwise agreed, be maintained by and at the expense of the undertaker for a period of 12 months from its completion and at the expiry of that period by and at the expense of the highway authority.
 
@@ -321,11 +325,11 @@ The undertaker may, for the purposes of the authorised works—
 
 but for the purposes of such defence it is not relevant to prove that the undertaker had arranged for a competent person to carry out or supervise the maintenance of the part of the street to which the action relates unless it is also proved that the undertaker had given him proper instructions with regard to the maintenance of the street and that he had carried out those instructions.
 
-#### 14. Construction of bridges
+#### 14. Construction of bridges[^c-0938a5bd41c3cf1daa903295bed0e74b]
 
 Any bridge to be constructed under this Order for carrying a highway over or under a railway shall be constructed in accordance with the plans and specifications approved by the highway authority, but such approval shall not be unreasonably withheld.
 
-#### 15. Agreements with street authorities
+#### 15. Agreements with street authorities[^c-e690fa9e160249c280235e9bef72e130]
 
 (1) A street authority and the undertaker may enter into agreements with respect to—
 
@@ -343,7 +347,7 @@ Any bridge to be constructed under this Order for carrying a highway over or und
 
 ### Level crossings
 
-#### 16. Alterations to level crossings as a result of the authorised works
+#### 16. Alterations to level crossings as a result of the authorised works[^c-df1b636f6b72e3f37232961bd8d7dda0]
 
 (1) The undertaker may, in connection with the construction of the authorised works, carry the railway on the level across the streets specified in columns (1) and (2) of Part 1 of Schedule 7 (level crossings).
 
@@ -351,7 +355,7 @@ Any bridge to be constructed under this Order for carrying a highway over or und
 
 (3) In this article “the railway” means the railway forming part of the authorised works.
 
-#### 17. Provision of new level crossings in substitution for existing level crossings
+#### 17. Provision of new level crossings in substitution for existing level crossings[^c-6301e341bf01b185f494e9e0ea74fbdf]
 
 (1) The undertaker may, in connection with the construction of the authorised works, carry the railway on the level across the footpaths specified in columns (1) and (2) of Part 2 of Schedule 7 (level crossings).
 
@@ -373,7 +377,7 @@ Any bridge to be constructed under this Order for carrying a highway over or und
 - “new level crossing” means any new level crossing specified in column (3) of Part 2 of Schedule 7 (level crossings) in relation to an existing level crossing; and
 - “railway” means the railway forming part of the authorised works.
 
-#### 18. Stopping up of level crossings
+#### 18. Stopping up of level crossings[^c-4d2f224f1a8c359e6c8d1ca3a0d844b6]
 
 (1) Subject to paragraph (4), the level crossings specified in columns (1) and (2) of Part 3 of Schedule 7 (level crossings) shall be stopped up and discontinued.
 
@@ -385,7 +389,7 @@ Any bridge to be constructed under this Order for carrying a highway over or und
 
 ### Supplemental powers
 
-#### 19. Discharge of water
+#### 19. Discharge of water[^c-da43626ad6f2cd7363bfb52f25b74a5d]
 
 (1) The undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the construction or maintenance of the authorised works and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
@@ -409,7 +413,7 @@ Any bridge to be constructed under this Order for carrying a highway over or und
 - (a) “public sewer or drain” means a sewer or drain which belongs to the Commission for the New Towns, the Environment Agency, a harbour authority within the meaning of the Harbours Act 1964[^f00022], an internal drainage board, a joint planning board, a local authority, a National Park Authority, a sewerage undertaker or an urban development corporation; and
 - (b) other expressions, except watercourse, used both in this article and in the Water Resources Act 1991 have the same meaning as in that Act.
 
-#### 20. Protective works to buildings
+#### 20. Protective works to buildings[^c-bc732f9a88f913254cf701092d49f0df]
 
 (1) Subject to the following provisions of this article, the undertaker may at its own expense carry out such protective works to any building lying within the Order limits as the undertaker considers to be necessary or expedient.
 
@@ -454,7 +458,7 @@ the undertaker shall compensate the owners and occupiers of the building for any
 - (a) underpinning, strengthening and any other works the purpose of which is to prevent damage which may be caused to the building by the construction, maintenance or operation of the authorised works; and
 - (b) any works the purpose of which is to remedy any damage which has been caused to the building by the construction, maintenance or operation of the authorised works.
 
-#### 21. Power to survey and investigate land
+#### 21. Power to survey and investigate land[^c-916a074bdc189204ee0045e45928597e]
 
 (1) The undertaker may for the purposes of this Order—
 
@@ -486,13 +490,13 @@ but such consent shall not be unreasonably withheld.
 
 ### Powers of acquisition
 
-#### 22. Power to acquire land
+#### 22. Power to acquire land[^c-138a016e2da696941d3325d1e8de204b]
 
 (1) The undertaker may acquire compulsorily so much of the land shown on the works and land plans within the limits of land to be acquired or used and described in the book of reference as may be required for the purposes of the authorised works and may use any land so acquired for those purposes or for any other purposes that are ancillary to its railway undertaking.
 
 (2) This article is subject to article 27 (temporary use of land for construction of works).
 
-#### 23. Application of Part 1 of the Compulsory Purchase Act 1965
+#### 23. Application of Part 1 of the Compulsory Purchase Act 1965[^c-aadffcf4b8f9ca98f68b004aac129849]
 
 (1) Part 1 of the 1965 Act, in so far as not modified by or inconsistent with the provisions of this Order, shall apply to the acquisition of land under this Order—
 
@@ -501,7 +505,7 @@ but such consent shall not be unreasonably withheld.
 
 (2) Part 1 of the 1965 Act, as so applied, shall have effect as if section 4 (which provides a time limit for compulsory purchase of land) and paragraph 3(3) of Schedule 3 (which makes provision as to the giving of bonds) were omitted.
 
-#### 24. Application of the Compulsory Purchase (Vesting Declarations) Act 1981
+#### 24. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^c-fe793300eb9f172b45464221e0c77393]
 
 (1) The Compulsory Purchase (Vesting Declarations) Act 1981[^f00025] shall apply as if this Order were a compulsory purchase order.
 
@@ -536,7 +540,7 @@ but such consent shall not be unreasonably withheld.
 
 (8) References to the 1965 Act shall be construed as references to that Act as applied to the acquisition of land under article 22 (power to acquire land).
 
-#### 25. Power to acquire new rights
+#### 25. Power to acquire new rights[^c-00522d229eb68b5b31a554dce8d4216b]
 
 (1) The undertaker may acquire compulsorily such easements or other rights over any land referred to in paragraph (l) of article 22 (power to acquire land) as may be required for any purpose for which that land may be acquired under that provision, by creating them as well as by acquiring easements or other rights already in existence.
 
@@ -544,7 +548,7 @@ but such consent shall not be unreasonably withheld.
 
 (3) Schedule 6 (modification of compensation and compulsory purchase enactments for creation of new rights) shall have effect for the purpose of modifying the enactments relating to compensation and the provisions of the 1965 Act in their application in relation to the compulsory acquisition under this article of a right over land by the creation of a new right.
 
-#### 26. Rights under or over streets
+#### 26. Rights under or over streets[^c-46fb0fc8941c9263d237162bc754c572]
 
 (1) The undertaker may enter upon and appropriate so much of the subsoil of, or air-space over, any street within the Order limits as may be required for the purposes of the authorised works and may use the subsoil or air-space for those purposes or any other purpose ancillary to its undertaking.
 
@@ -561,7 +565,7 @@ but such consent shall not be unreasonably withheld.
 
 ### Temporary possession of land
 
-#### 27. Temporary use of land for construction of works
+#### 27. Temporary use of land for construction of works[^c-0ee3d8a4ffcf269284f394a09e61b16b]
 
 (1) The undertaker may, in connection with the carrying out of the authorised works—
 
@@ -588,7 +592,7 @@ but such consent shall not be unreasonably withheld.
 
 (10) Section 13 of the 1965 Act shall apply to the temporary use of land pursuant to this article to the same extent as it applies to the acquisition of land under this Order by virtue of article 23(1) (application of Part 1 of the Compulsory Purchase Act 1965).
 
-#### 28. Temporary use of land for maintenance of works
+#### 28. Temporary use of land for maintenance of works[^c-89c7cb47f0a1308bef4c3121a543e0bc]
 
 (1) Subject to paragraph (2), at any time during the maintenance period relating to any of the scheduled works, the undertaker may—
 
@@ -620,7 +624,7 @@ but such consent shall not be unreasonably withheld.
 
 ### Compensation
 
-#### 29. Disregard of certain interests and improvements
+#### 29. Disregard of certain interests and improvements[^c-669042178f16980c3a4bd9db3a038932]
 
 (1) In assessing the compensation payable to any person on the acquisition from him of any land under this Order, the tribunal shall not take into account—
 
@@ -631,7 +635,7 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 (2) In paragraph (1) “relevant land” means the land acquired from the person concerned or any other land with which he is, or was at the time when the building was erected, the works executed or the improvement or alteration made, directly or indirectly concerned.
 
-#### 30. Set-off for enhancement in value of retained land
+#### 30. Set-off for enhancement in value of retained land[^c-be8e2a523b7285a71c0f88b6fde7e178]
 
 (1) In assessing the compensation payable to any person in respect of the acquisition from him under this Order of any land (including the subsoil) the tribunal shall set off against the value of the land so acquired any increase in value of any contiguous or adjacent land belonging to that person in the same capacity which will accrue to him by reason of the construction of the authorised works.
 
@@ -646,7 +650,7 @@ which will accrue to him by reason of the construction of the authorised works.
 
 ### Supplementary
 
-#### 31. Acquisition of part of certain properties
+#### 31. Acquisition of part of certain properties[^c-979282b8b83a22391071ab137bf19c50]
 
 (1) This article shall apply instead of section 8(1) of the 1965 Act (as applied by article 23 (application of Part 1 of the Compulsory Purchase Act 1965)) in any case where—
 
@@ -691,7 +695,7 @@ the notice to treat shall be deemed to be a notice to treat for the land subject
 
 (10) Where the owner is required under this article to sell only part of a house, building or manufactory or of land consisting of a house with a park or garden, the undertaker shall pay him compensation for any loss sustained by him due to the severance of that part in addition to the value of the interest acquired.
 
-#### 32. Extinction or suspension of private rights of way
+#### 32. Extinction or suspension of private rights of way[^c-882b6efd7af6fc18f44afc9fcfbe1e0c]
 
 (1) All private rights of way over land subject to compulsory acquisition under this Order shall be extinguished—
 
@@ -708,7 +712,7 @@ whichever is the sooner.
 
 (5) This article does not apply in relation to any right of way to which section 271 or 272 of the 1990 Act (extinguishment of rights of statutory undertakers, etc.) or paragraph 2 of Schedule 9 (provisions relating to statutory undertakers, etc.) applies.
 
-#### 33. Time limit for exercise of powers of acquisition
+#### 33. Time limit for exercise of powers of acquisition[^c-f760f1fd6296851dfe5740d017737ee1]
 
 (1) After the end of the period of 5 years beginning with the day on which this Order comes into force—
 
@@ -719,7 +723,7 @@ whichever is the sooner.
 
 ## PART 4 — MISCELLANEOUS AND GENERAL
 
-### 34. Planning permission and supplementary matters
+### 34. Planning permission and supplementary matters[^c-a3cb275d150b78354eee6d49761edb8e]
 
 (1) In relation to the application of paragraph 3(c) of the Second Schedule of the Form of Tree Preservation Order set out in the Schedule to the Town and Country Planning (Tree Preservation Order) Regulations 1969[^f00027] (including that paragraph as applied by regulation 3(ii) of the Town and Country Planning (Tree Preservation Order) (Amendment) and (Trees in Conservation Areas) (Exempted Cases) Regulations 1975[^f00028], or as incorporated in any tree preservation order), any direction under section 90(2A) of the 1990 Act deeming planning permission to be granted in relation to works authorised by this Order shall be treated as deeming the permission to have been granted on application made under Part 3 of that Act for the purposes of that Part.
 
@@ -727,7 +731,7 @@ whichever is the sooner.
 
 (3) Planning permission which is deemed by a direction under section 90(2A) of the 1990 Act to be granted in relation to works authorised by this Order shall be treated as specific planning permission for the purposes of section 264(3)(a) of that Act (cases in which land is to be treated as operational land for the purposes of that Act).
 
-### 35. Power to lop trees overhanging the authorised works
+### 35. Power to lop trees overhanging the authorised works[^c-d27f92a9415048bd6413437c70680109]
 
 (1) The undertaker may fell or lop any tree or shrub near any part of the authorised works, or cut back its roots, if it reasonably believes it to be necessary to do so to prevent the tree or shrub—
 
@@ -738,7 +742,7 @@ whichever is the sooner.
 
 (3) Any dispute as to a person’s entitlement to compensation under paragraph (2), or as to the amount of compensation, shall be determined under Part 1 of the 1961 Act.
 
-### 36. Power to operate and use railway
+### 36. Power to operate and use railway[^c-0cbc74591f941319d139cb0d98bc26e8]
 
 (1) The undertaker may operate and use the railway as a system, or part of a system, of transport for the carriage of passengers and goods.
 
@@ -746,7 +750,7 @@ whichever is the sooner.
 
 (3) Nothing in this Order, or in any enactment incorporated with or applied by this Order, shall prejudice or affect the operation of Part 1 of the 1993 Act.
 
-### 37. Power to transfer undertaking
+### 37. Power to transfer undertaking[^c-74afc577ee8d5dedc4428627a1835dee]
 
 (1) The undertaker may, with the consent of the Secretary of State—
 
@@ -757,13 +761,13 @@ whichever is the sooner.
 
 (3) The exercise of the powers conferred by any enactment by any person in pursuance of any transfer or grant under paragraph (1) shall be subject to the same restrictions, liabilities and obligations as would apply under this Order if those powers were exercised by the undertaker.
 
-### 38. Power to charge fares
+### 38. Power to charge fares[^c-2cf1ba7fa96f21a9f9a9dad87b075ebf]
 
 (1) The undertaker may demand, take and recover or waive such charges for carrying passengers or goods on the railway comprised in the authorised works, or for any other services or facilities provided in connection with the operation of that railway, as it thinks fit.
 
 (2) The undertaker may permit an operator to demand, take and recover or waive such charges for carrying passengers or goods on the railway comprised in the authorised works, or for any other services or facilities provided in connection with the operation of that railway, as it thinks fit, provided that any such operator is a person who has been granted a licence under section 8 of the 1993 Act, or is exempted by virtue of section 7 of that Act from being so licensed.
 
-### 39. Agreements with Network Rail
+### 39. Agreements with Network Rail[^c-5e5d92fcf6be89a2517948f89fcacd7b]
 
 (1) Without prejudice to article 37 (power to transfer undertaking), the undertaker and Network Rail may enter into and carry into effect agreements with respect to the construction, maintenance, use and operation of—
 
@@ -786,7 +790,7 @@ by Network Rail or by the undertaker, or by the undertaker and Network Rail join
 
 together with any rights and obligations (whether or not statutory) of Network Rail or the undertaker relating thereto.
 
-### 40. Proceedings in respect of statutory nuisance
+### 40. Proceedings in respect of statutory nuisance[^c-d5ea9a5f3d0a834396e6a3e591c6e4a7]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00030] (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order shall be made, and no fine may be imposed, under section 82(2) of that Act if the defendant shows—
 
@@ -800,7 +804,7 @@ together with any rights and obligations (whether or not statutory) of Network R
 
 shall not apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the exercise of the powers conferred by this Order with respect to construction or maintenance of the authorised works.
 
-### 41. Application of landlord and tenant law
+### 41. Application of landlord and tenant law[^c-9d643759cc734e5e78922daaabb405cf]
 
 (1) This article applies to—
 
@@ -817,7 +821,7 @@ so far as any such agreement relates to the terms on which any land which is the
 - (b) confer or impose on any such party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease; or
 - (c) restrict the enforcement (whether by action for damages or otherwise) by any party to the lease of any obligation of any other party under the lease.
 
-### 42. Obstruction of construction of authorised works
+### 42. Obstruction of construction of authorised works[^c-5b463eb8f255447462f93e5648ba72a4]
 
 Any person who, without reasonable excuse—
 
@@ -826,7 +830,7 @@ Any person who, without reasonable excuse—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 43. Trespass
+### 43. Trespass[^c-562375b30485bec07361571327a34e33]
 
 (1) Any person who—
 
@@ -841,7 +845,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (4) In this article “the railway” means the railway forming part of the authorised works.
 
-### 44. Disclosure of confidential information
+### 44. Disclosure of confidential information[^c-bd717cb62b6d20a1369a9917d751db47]
 
 A person who—
 
@@ -850,15 +854,15 @@ A person who—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale unless the disclosure is made in the course of performing his duty in connection with the purposes for which he was authorised to enter the land.
 
-### 45. Statutory undertakers, etc.
+### 45. Statutory undertakers, etc.[^c-5da01b405173bad2e6f7590d269cb9b4]
 
 The provisions of Schedule 9 (provisions relating to statutory undertakers, etc.) shall have effect.
 
-### 46. Protective provisions
+### 46. Protective provisions[^c-ea137dbfe834fa7ab8d8ef771efd3632]
 
 The provisions of Schedule 10 (protective provisions) shall have effect.
 
-### 47. As to application of certain railway enactments
+### 47. As to application of certain railway enactments[^c-3d87fe737924874a357a9d1fdb35bd41]
 
 (1) Any enactment which authorised any railway or former railway of Network Rail comprised within the designated lands shall have effect subject to the provisions of this Order.
 
@@ -869,15 +873,15 @@ The provisions of Schedule 10 (protective provisions) shall have effect.
 
 (3) In this article “designated lands” means any land which is owned by Network Rail shown on the works and land plans and described in the book of reference.
 
-### 48. Application of the Land Drainage Act 1991
+### 48. Application of the Land Drainage Act 1991[^c-e41dd821593a7af61443959692f6b794]
 
 Section 23(6) of the Land Drainage Act 1991[^f00032] shall not apply in relation to any works authorised by this Order.
 
-### 49. Certification of plans, etc.
+### 49. Certification of plans, etc.[^c-4dbfbc45eb28d222625fc12fc41ce944]
 
 The undertaker shall, as soon as practicable after the making of this Order, submit copies of the book of reference, the sections, the works and land plans and the rights of way plans to the Secretary of State for certification that they are, respectively, true copies of the book of reference, sections, works and land plans and rights of way plans referred to in this Order; and a document so certified shall be admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 50. Service of notices
+### 50. Service of notices[^c-b2dfb4f08a5cf01b7d3bba7fb3fc9117]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -909,11 +913,11 @@ The undertaker shall, as soon as practicable after the making of this Order, sub
 
 (9) This article shall not be taken to exclude the employment of any method of service not expressly provided for by it.
 
-### 51. No double recovery
+### 51. No double recovery[^c-8b72fdd571b6de433d38976757135130]
 
 Compensation shall not be payable in respect of the same matter both under this Order and under any other enactment, any contract or any rule of law.
 
-### 52. Arbitration
+### 52. Arbitration[^c-d0b4849a6c4c7430335a1c2145ea5fc6]
 
 Any difference under any provision of this Order, unless otherwise provided for, shall be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the President of the Institution of Civil Engineers.
 
@@ -929,7 +933,7 @@ Department for Transport
 
 SCHEDULES
 
-## SCHEDULE 1 — SCHEDULED WORKS
+## SCHEDULE 1 — SCHEDULED WORKS[^c-beaaa68c5af2d80f44fe43444ab0f508]
 
 Article 5
 
@@ -944,7 +948,7 @@ County of Suffolk
   - *Work No. 5* A road to be adopted by Suffolk County Council as a highway being a realignment of Grimston Lane commencing at a point 15 metres south of the existing junction of Thorpe Lane and Grimston Lane and continuing in an easterly direction towards a point on the existing alignment of Grimston Lane 60 metres east of the existing junction of Thorpe Lane and Grimston Lane including the resurfacing of Grimston Lane, to a point 180 metres from the existing junction.
   - *Work No. 6* The realignment of the existing automatic half barrier level crossing at Thorpe Lane (adopted highway U3112) to accommodate a second railway line by extending the existing level crossing 4.5 metres southwards, and the re-surfacing of the approaching roads on either side of the level crossing.
 
-## SCHEDULE 2 — STREETS SUBJECT TO STREET WORKS
+## SCHEDULE 2 — STREETS SUBJECT TO STREET WORKS[^c-fba5a9741f7d6fd427619f186b19978e]
 
 Article 7
 
@@ -966,7 +970,7 @@ Article 7
 
 Article 8
 
-### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED
+### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-96e029c0d1d0e527e4b74bbbf2352435]
 
 <table>
 <thead>
@@ -982,7 +986,7 @@ Article 8
 </tbody>
 </table>
 
-### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED
+### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-74b8091dd8172b9cc1223f3d5f63b887]
 
 <table>
 <thead>
@@ -994,7 +998,7 @@ Article 8
 </tbody>
 </table>
 
-## SCHEDULE 4 — STREETS TO BE TEMPORARILY STOPPED UP
+## SCHEDULE 4 — STREETS TO BE TEMPORARILY STOPPED UP[^c-1e9d4a7beb405bc6bfdd30aa05d1f4d7]
 
 Article 10
 
@@ -1015,7 +1019,7 @@ Article 10
 </tbody>
 </table>
 
-## SCHEDULE 5 — ACCESS TO WORKS
+## SCHEDULE 5 — ACCESS TO WORKS[^c-0e086c48b82e3bafe3982d0860d91b99]
 
 Article 12
 
@@ -1049,9 +1053,9 @@ Article 25
 
 ### Compensation enactments
 
-**1.** The enactments for the time being in force with respect to compensation for the compulsory purchase of land shall apply with the necessary modifications as respects compensation in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-956477c3fb844d765dac0fb3c582e0e4] The enactments for the time being in force with respect to compensation for the compulsory purchase of land shall apply with the necessary modifications as respects compensation in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.** (1) Without prejudice to the generality of paragraph 1, the Land Compensation Act 1973[^f00034] shall have effect subject to the modifications set out in sub-paragraphs (2) and (3).
+**2.**[^c-43effc0798c3cf571fb8aac7f1566d60] (1) Without prejudice to the generality of paragraph 1, the Land Compensation Act 1973[^f00034] shall have effect subject to the modifications set out in sub-paragraphs (2) and (3).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 4—
 
@@ -1067,20 +1071,20 @@ Article 25
 
 ### Application of the 1965 Act
 
-**3.** (1) The 1965 Act shall have effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are to be read (according to the requirements of the particular context) as referring to, or as including references to—
+**3.**[^c-6909573a1b0d6b2d6beeb838ebe99861] (1) The 1965 Act shall have effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
 - (a) the right acquired or to be acquired, or
 - (b) the land over which the right is or is to be exercisable.
 
 (2) Without prejudice to the generality of sub-paragraph (1), Part 1 of the 1965 Act shall apply in relation to the compulsory acquisition under this Order of a right by the creation of a new right with the modifications specified in the following provisions of this Schedule.
 
-**4.** For section 7 of the 1965 Act (measure of compensation) there shall be substituted the following section—
+**4.**[^c-d5fcb689ec79c0acffc3986cd8e7a198] For section 7 of the 1965 Act (measure of compensation) there shall be substituted the following section—
 
 > **7.** In assessing the compensation to be paid by the acquiring authority under this Act regard shall be had not only to the extent (if any) to which the value of the land over which the right is to be acquired is depreciated by the acquisition of the right but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of his, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
 .
 
-**5.** For section 8 of the 1965 Act (provisions as to divided land) there shall be substituted the following—
+**5.**[^c-7858864501cd40770b280216b0d833a4] For section 8 of the 1965 Act (provisions as to divided land) there shall be substituted the following—
 
 > **8.** (1) Where in consequence of the service on a person under section 5 of this Act of a notice to treat in respect of a right over land consisting of a house, building or manufactory or of a park or garden belonging to a house (“the relevant land”)—
 >
@@ -1097,7 +1101,7 @@ Article 25
 
 .
 
-**6.** The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
+**6.**[^c-bc5027cdaa947986b6c4307af3524482] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
 
 - (a) section 9(4) (failure by owners to convey);
 - (b) paragraph 10(3) of Schedule 1 (owners under incapacity);
@@ -1106,17 +1110,17 @@ Article 25
 
 shall be so modified as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired is vested absolutely in the acquiring authority.
 
-**7.** Section 11 of the 1965 Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right, it has power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on warrant in the event of obstruction) of the 1965 Act shall be modified correspondingly.
+**7.**[^c-a9afc4df17055f88cea59ade72ad3a0b] Section 11 of the 1965 Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right, it has power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on warrant in the event of obstruction) of the 1965 Act shall be modified correspondingly.
 
-**8.** Section 20 of the 1965 Act (protection for interests of tenants at will etc.) shall apply with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
+**8.**[^c-a681ab25e947b583aa22781c5ccea1b2] Section 20 of the 1965 Act (protection for interests of tenants at will etc.) shall apply with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
 
-**9.** Section 22 of the 1965 Act (protection of acquiring authority’s possession where by inadvertence an estate, right or interest has not been got in) shall be so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
+**9.**[^c-11e36787ef86d8270571043838e7dd0e] Section 22 of the 1965 Act (protection of acquiring authority’s possession where by inadvertence an estate, right or interest has not been got in) shall be so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
 
 ## SCHEDULE 7 — LEVEL CROSSINGS
 
 Articles 16, 17 and 18
 
-### PART 1 — LEVEL CROSSINGS ALTERED AS A RESULT OF THE AUTHORISED WORKS
+### PART 1 — LEVEL CROSSINGS ALTERED AS A RESULT OF THE AUTHORISED WORKS[^c-bcf51e8b549f7431e60ab57739c1ab46]
 
 <table>
 <thead>
@@ -1135,7 +1139,7 @@ Articles 16, 17 and 18
 </tbody>
 </table>
 
-### PART 2 — NEW LEVEL CROSSINGS TO BE PROVIDED IN SUBSTITUTION FOR EXISTING LEVEL CROSSINGS
+### PART 2 — NEW LEVEL CROSSINGS TO BE PROVIDED IN SUBSTITUTION FOR EXISTING LEVEL CROSSINGS[^c-0a806d9554e1de6abee7173add8c5958]
 
 <table>
 <thead>
@@ -1149,7 +1153,7 @@ Articles 16, 17 and 18
 </tbody>
 </table>
 
-### PART 3 — LEVEL CROSSINGS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED
+### PART 3 — LEVEL CROSSINGS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-90a1a146eef6489a1a45f0e9f9896d8e]
 
 <table>
 <thead>
@@ -1162,7 +1166,7 @@ Articles 16, 17 and 18
 </tbody>
 </table>
 
-## SCHEDULE 8 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN
+## SCHEDULE 8 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-4d5480000d0c70d00f259b63a50f4d6f]
 
 Article 27
 
@@ -1214,7 +1218,7 @@ Article 45
 
 ### Apparatus of statutory undertakers etc. on land acquired
 
-**1.** (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) shall apply in relation to any land acquired or appropriated by the undertaker under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
+**1.**[^c-c28342bf126287050e45525e2debc6d9] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) shall apply in relation to any land acquired or appropriated by the undertaker under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -1236,7 +1240,7 @@ shall be entitled to recover from the undertaker compensation in respect of expe
 
 ### Apparatus of statutory undertakers etc. in stopped up streets
 
-**2.** (1) Where a street is stopped up under article 8 (stopping up of streets), article 17 (provision of new level crossings in substitution for existing level crossings) or article 18 (stopping up of level crossings) any statutory utility whose apparatus is under, in, upon, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-6c35921e60d66893c9b54dd3b962dabb] (1) Where a street is stopped up under article 8 (stopping up of streets), article 17 (provision of new level crossings in substitution for existing level crossings) or article 18 (stopping up of level crossings) any statutory utility whose apparatus is under, in, upon, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) Where a street is stopped up under article 8 (stopping up of streets), article 17 (provision of new level crossings in substitution for existing level crossings) or article 18 (stopping up of level crossings) any statutory utility whose apparatus is under, in, upon, over, along or across the street may, and if reasonably requested to do so by the undertaker shall—
 
@@ -1275,7 +1279,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ### Railway and navigation undertakings
 
-**3.** (1) Subject to the following provisions of this paragraph, the powers under article 7 (power to execute street works) to break up or open a street shall not be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the Highways Act 1980)—
+**3.**[^c-575f88fc8b079f07e1444d4291252075] (1) Subject to the following provisions of this paragraph, the powers under article 7 (power to execute street works) to break up or open a street shall not be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the Highways Act 1980)—
 
 - (a) is under the control or management of, or is maintainable by, railway or tramway undertakers or a navigation authority; or
 - (b) forms part of a level crossing belonging to any such undertakers or to such an authority or to any other person,
@@ -1294,9 +1298,9 @@ Article 46
 
 ### PART 1 — PROTECTION OF NETWORK RAIL INFRASTRUCTURE LIMITED
 
-**1.** The following provisions of this Schedule shall have effect unless otherwise agreed in writing between the undertaker and Network Rail and, in the case of paragraph 14, any other person on whom rights or obligations are conferred by that paragraph.
+**1.**[^c-e81cdee7b129c15c44692c3fdc961dd5] The following provisions of this Schedule shall have effect unless otherwise agreed in writing between the undertaker and Network Rail and, in the case of paragraph 14, any other person on whom rights or obligations are conferred by that paragraph.
 
-**2.** In this Part of this Schedule—
+**2.**[^c-f48bae641f9440c6e06a400030b6d8c2] In this Part of this Schedule—
 
 - “construction” includes execution, placing, alteration and reconstruction and “construct” and “constructed” have corresponding meanings;
 - “the engineer” means an engineer appointed by Network Rail for the purposes of this Order;
@@ -1305,14 +1309,14 @@ Article 46
 - “railway property” means any railway belonging to Network Rail and any station, land, works, apparatus and equipment belonging to Network Rail or connected therewith and includes any easement or other property interest held or used by Network Rail for the purposes of such railway or works, apparatus or equipment; and
 - “specified work” means so much of any of the authorised works as is situated upon, across, under, over or within 15 metres of, or may in any way affect, railway property.
 
-**3.** (1) Where under this Schedule Network Rail is required to give its consent or approval in respect of any matter, that consent or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures.
+**3.**[^c-636198da51c73548ffd8ed89ab59e23b] (1) Where under this Schedule Network Rail is required to give its consent or approval in respect of any matter, that consent or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures.
 
 (2) In so far as any specified work or the acquisition or use of railway property is or may be subject to railway operational procedures, Network Rail shall—
 
 - (a) co-operate with the undertaker with a view to avoiding undue delay and securing conformity as between any plans approved by the engineer and requirements emanating from those procedures; and
 - (b) use their reasonable endeavours to avoid any conflict arising between the application of those procedures and the proper implementation of the authorised works pursuant to this Order.
 
-**4.** (1) The undertaker shall not exercise the powers conferred by article 22 (power to acquire land) or section 11(3) of the 1965 Act in respect of any railway property unless the exercise of such powers is with the consent of Network Rail.
+**4.**[^c-ac1976b78636209373b1c7e35b4ab987] (1) The undertaker shall not exercise the powers conferred by article 22 (power to acquire land) or section 11(3) of the 1965 Act in respect of any railway property unless the exercise of such powers is with the consent of Network Rail.
 
 (2) The undertaker shall not in the exercise of the powers conferred by this Order prevent pedestrian or vehicular access to any railway property, unless preventing such access is with the consent of Network Rail.
 
@@ -1322,7 +1326,7 @@ Article 46
 
 (5) Where Network Rail is asked to give its consent pursuant to sub-paragraph (1), (2), (3) or (4), such consent shall not be unreasonably withheld but may be given subject to reasonable conditions.
 
-**5.** (1) The undertaker shall before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work shall not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration.
+**5.**[^c-8d8fb1dccd3670a487df0baf437d79c2] (1) The undertaker shall before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work shall not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration.
 
 (2) The approval of the engineer under sub-paragraph (1) shall not be unreasonably withheld or delayed, and if by the end of the period of 28 days beginning with the date on which such plans have been supplied to Network Rail the engineer has not intimated his disapproval of those plans and the grounds of his disapproval the undertaker may serve upon the engineer written notice requiring the engineer to intimate his approval or disapproval within a further period of 28 days beginning with the date upon which the engineer receives written notice from the undertaker. If by the expiry of the further period of 28 days the engineer has not intimated his approval or disapproval, he shall be deemed to have approved the plans as submitted.
 
@@ -1330,7 +1334,7 @@ Article 46
 
 (4) When signifying his approval of the plans the engineer may specify any protective works (whether temporary or permanent) which in his opinion should be carried out before the commencement of construction of a specified work to ensure the safety or stability of railway property or the continuation of safe and efficient operation of the railways of Network Rail or the services of operators using the same (including any relocation, decommissioning and removal of works, apparatus and equipment necessitated by a specified work and the comfort and safety of passengers who may be affected by the specified work) and such protective works as may be reasonably necessary for those purposes shall be constructed by Network Rail or by the undertaker, if Network Rail so desires, and such protective works shall be carried out at the expense of the undertaker, in either case with all reasonable dispatch and the undertaker shall not commence the construction of the specified works until the engineer has notified the undertaker that the protective works have been completed to his reasonable satisfaction.
 
-**6.** (1) Any specified work and any protective works to be constructed by virtue of paragraph 5(4) shall, when commenced be constructed—
+**6.**[^c-c9cc0f74de0bd9f99ece0885722037af] (1) Any specified work and any protective works to be constructed by virtue of paragraph 5(4) shall, when commenced be constructed—
 
 - (a) with all reasonable dispatch in accordance with the plans approved or deemed to have been approved or settled under paragraph 5;
 - (b) under the supervision (where appropriate and if given) and to the reasonable satisfaction of the engineer; and
@@ -1342,20 +1346,20 @@ Article 46
 
 (4) Nothing in this paragraph shall impose any liability on the undertaker with respect to any costs, damages, expenses or loss attributable to the negligence of Network Rail or its servants, contractors or agents.
 
-**7.** The undertaker shall—
+**7.**[^c-b8a0a963540413fcd8b945ca641ad2c5] The undertaker shall—
 
 - (a) at all times afford reasonable facilities to the engineer for access to a specified work during its construction; and
 - (b) supply the engineer with all such information as he may reasonably require with regard to a specified work or the method of constructing it.
 
-**8.** Network Rail shall at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Schedule during their construction and shall supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
+**8.**[^c-21ca72430aebe2909a9714d90e93a0d5] Network Rail shall at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Schedule during their construction and shall supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
 
-**9.** (1) If during the construction of a specified work or during a period of 12 months after the completion of that work any alterations or additions, either permanent or temporary, to railway property are reasonably necessary in consequence of the construction of a specified work in order to ensure the safety of railway property or the continued safe and efficient operation of the railways of Network Rail and Network Rail gives to the undertaker reasonable notice of its intention to carry out such alterations or additions (which shall be specified in the notice), the undertaker shall pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations or additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
+**9.**[^c-a58318aacbbcc98887df9b09ef4b16f7] (1) If during the construction of a specified work or during a period of 12 months after the completion of that work any alterations or additions, either permanent or temporary, to railway property are reasonably necessary in consequence of the construction of a specified work in order to ensure the safety of railway property or the continued safe and efficient operation of the railways of Network Rail and Network Rail gives to the undertaker reasonable notice of its intention to carry out such alterations or additions (which shall be specified in the notice), the undertaker shall pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations or additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
 
 (2) If during the construction of a specified work by the undertaker, Network Rail gives notice to the undertaker that Network Rail elects itself to construct that part of the specified work which in the opinion of the engineer is endangering the stability of railway property or the safe operation of traffic on the railway of Network Rail then, if the undertaker decides that part of the specified work is to be constructed, Network Rail shall assume the construction of that specified work and the undertaker shall, notwithstanding any such approval of the specified work under paragraph 5(1), pay to Network Rail all reasonable expenses to which Network Rail may be put and compensation for any loss which it may suffer by means of the execution by Network Rail of that specified work.
 
 (3) The engineer shall, in respect of the capitalised sums referred to in this paragraph and paragraph 10(a) provide such details of the formula by which those sums have been calculated as the undertaker may reasonably require.
 
-**10.** The undertaker shall repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
+**10.**[^c-37c8bdd93e08169343cfb73c2de7238e] The undertaker shall repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
 
 - (a) in constructing any part of a specified work on behalf of the undertaker as provided by paragraph 5(3) or in constructing any protective works under the provisions of paragraph 5(4) including, in respect of any permanent protective works, a capitalised sum representing the cost of maintaining and renewing those works;
 - (b) in respect of the approval by the engineer of plans submitted by the undertaker and the supervision by the engineer of the construction of a specified work and otherwise in connection with the implementation of the provisions of this Schedule;
@@ -1363,13 +1367,13 @@ Article 46
 - (d) in respect of any special traffic working resulting from any speed restrictions which may, in the opinion of the engineer, require to be imposed by reason or in consequence of the construction or failure of a specified work or from the substitution or diversion of services which may be reasonably necessary for the same reason; and
 - (e) in respect of any additional temporary lighting of railway property in the vicinity of the specified works, being lighting made reasonably necessary by reason or in consequence of the construction or failure of a specified work.
 
-**11.** If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work not vested in Network Rail appears to be such as adversely affects the operation of railway property, the undertaker shall, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
+**11.**[^c-0ca9e22acecd3767bd287c881d82010f] If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work not vested in Network Rail appears to be such as adversely affects the operation of railway property, the undertaker shall, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
 
-**12.** The undertaker shall not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it shall have first consulted Network Rail and it shall comply with Network Rail’s reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
+**12.**[^c-79346ec858b638d81abcef327b362fd9] The undertaker shall not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it shall have first consulted Network Rail and it shall comply with Network Rail’s reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
 
-**13.** Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work shall, provided that 56 days' previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
+**13.**[^c-c1c0d8c847354ab415890ff32057e1ab] Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work shall, provided that 56 days' previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
 
-**14.** (1) The undertaker shall pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Schedule which may be occasioned to or reasonably incurred by Network Rail—
+**14.**[^c-facb961f30c871c77ac3e16acdfa7ce5] (1) The undertaker shall pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Schedule which may be occasioned to or reasonably incurred by Network Rail—
 
 - (a) by reason of the construction or maintenance of a specified work or the failure thereof; or
 - (b) by reason of any act or omission of the undertaker or of any person in its employ or of its contractors or others whilst engaged upon a specified work;
@@ -1389,11 +1393,11 @@ and the undertaker shall indemnify Network Rail from and against all claims and 
 - “the relevant costs” means the costs, direct losses and expenses (including loss of revenue) incurred by each train operator as a consequence of any restriction of the use of Network Rail’s railway network as a result of the construction, maintenance or failure of a specified work, or any such act or omission as mentioned in sub-paragraph (1); and
 - “train operator” means any person who is authorised to act as the operator of a train by a licence under section 8 of the 1993 Act.
 
-**15.** Network Rail shall, on receipt of a request from the undertaker, from time to time provide to the undertaker at the cost of the undertaker, written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Schedule (including the amount of the relevant costs mentioned in paragraph 14) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made pursuant to this Schedule (including any claim relating to those relevant costs).
+**15.**[^c-df587fd59867c6cacaa82c9b4af8decf] Network Rail shall, on receipt of a request from the undertaker, from time to time provide to the undertaker at the cost of the undertaker, written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Schedule (including the amount of the relevant costs mentioned in paragraph 14) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made pursuant to this Schedule (including any claim relating to those relevant costs).
 
-**16.** In the assessment of any sums payable to Network Rail under this Schedule there shall not be taken into account any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary and was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Schedule or increasing the sums so payable.
+**16.**[^c-1336f6b306acefd763e856dd6e694c46] In the assessment of any sums payable to Network Rail under this Schedule there shall not be taken into account any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary and was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Schedule or increasing the sums so payable.
 
-**17.** The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer to the undertaker of—
+**17.**[^c-664f2c9e5e2183b7a38dd9ddee6d03cb] The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer to the undertaker of—
 
 - (a) any railway property shown on the works and land plans and described in the book of reference;
 - (b) any lands, works or other property held in connection with any such railway property; and
@@ -1403,7 +1407,7 @@ and the undertaker shall indemnify Network Rail from and against all claims and 
 
 #### Interpretation
 
-**18.** (1) In this Part of this Schedule—
+**18.**[^c-84eca6509792fcdbdf4d68754d10d4d0] (1) In this Part of this Schedule—
 
 - “alternative apparatus” means alternative apparatus adequate to enable the company in question to fulfil its statutory functions in a manner not less efficient than previously;
 - “apparatus” means any mains, pipes, pressure governors, ventilators, cathodic protection, cables or other apparatus belonging to or maintained by the company for the purposes of the conveyance or storage of gas and includes any structure for the lodging therein of apparatus or for giving access to such apparatus, but the provisions of paragraphs 20 to 28 do not apply to apparatus in respect of which the relations between the undertaker and the company are regulated by the provisions of Part 3 of the 1991 Act;
@@ -1418,17 +1422,17 @@ and the undertaker shall indemnify Network Rail from and against all claims and 
 
 #### Temporarily stopped up streets, etc: maintenance of apparatus
 
-**19.** (1) Notwithstanding the temporary stopping up or diversion of any highway pursuant to article 10 (temporary stopping up of streets), the company shall be at liberty at all times to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable it to maintain or use any apparatus which at the time of the stopping up or diversion was in that highway.
+**19.**[^c-c134d9019d828bda911dc7f81f439b5a] (1) Notwithstanding the temporary stopping up or diversion of any highway pursuant to article 10 (temporary stopping up of streets), the company shall be at liberty at all times to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable it to maintain or use any apparatus which at the time of the stopping up or diversion was in that highway.
 
 (2) Sub-paragraph (1) shall not apply where alternative apparatus has been installed to replace the apparatus in question and is in operation or the apparatus is otherwise redundant.
 
 #### Acquisition of apparatus
 
-**20.** Notwithstanding anything in this Order or shown on the works and land plans the undertaker shall not acquire any apparatus or operational land belonging to the company otherwise than by agreement or consent of the company which shall not be unreasonably withheld or delayed but may be given subject to reasonable conditions.
+**20.**[^c-c6ddca4293bb461c884f36713bbb6192] Notwithstanding anything in this Order or shown on the works and land plans the undertaker shall not acquire any apparatus or operational land belonging to the company otherwise than by agreement or consent of the company which shall not be unreasonably withheld or delayed but may be given subject to reasonable conditions.
 
 #### Removal of apparatus: alternative apparatus
 
-**21.** (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus shall not be removed, and any right of the company to maintain that apparatus in that land shall not be extinguished, until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the company.
+**21.**[^c-7eceb2ff718f39ebf3f2fcc65d2033a1] (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus shall not be removed, and any right of the company to maintain that apparatus in that land shall not be extinguished, until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the company.
 
 (2) If, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, the undertaker requires the removal of any apparatus placed in that land, it shall give to the company no less than 56 days' written notice of that requirement, together with plans of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order the company reasonably needs to remove any of its apparatus) the undertaker shall, subject to sub-paragraph (3), afford to the company the necessary facilities and rights (including legal easements satisfactory to the company) for the construction of alternative apparatus in other land of the undertaker and thereafter for the retention, use, maintenance and renewal of that apparatus.
 
@@ -1452,7 +1456,7 @@ and the undertaker shall indemnify Network Rail from and against all claims and 
 
 (12) Nothing in sub-paragraph (7) shall authorise the undertaker to execute the actual placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 500 millimetres of the apparatus where the apparatus is operating or only capable of operating at below 7 bar pressure or within 3,000 millimetres of the apparatus where the apparatus is operating or capable of operating at or in excess of 7 bar pressure, unless so authorised by the company acting reasonably.
 
-**22.** (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to the company facilities and rights for the construction, use, maintenance and renewal, in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights shall be granted upon such terms and conditions as may be agreed between the undertaker and the company or in default of agreement settled by arbitration in accordance with article 52 (arbitration).
+**22.**[^c-482bb6f154ed2917f3d9c9240f33eb24] (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to the company facilities and rights for the construction, use, maintenance and renewal, in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights shall be granted upon such terms and conditions as may be agreed between the undertaker and the company or in default of agreement settled by arbitration in accordance with article 52 (arbitration).
 
 (2) In settling those terms and conditions in respect of alternative apparatus to be constructed in or along the railway or adjacent to any other of the authorised works, the arbitrator shall—
 
@@ -1463,7 +1467,7 @@ and the undertaker shall indemnify Network Rail from and against all claims and 
 
 #### Protection of apparatus
 
-**23.** (1) Not less than 56 days before commencing the execution of any works in, on or under any land purchased, held, appropriated or used under this Order that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 21(2), the undertaker shall submit to the company plans of the works to be executed.
+**23.**[^c-22f22e213f27562d0176b677e0768616] (1) Not less than 56 days before commencing the execution of any works in, on or under any land purchased, held, appropriated or used under this Order that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 21(2), the undertaker shall submit to the company plans of the works to be executed.
 
 (2) Those works shall be executed only in accordance with the plans submitted under sub-paragraph (1) and in accordance with such reasonable requirements as may be made in accordance with sub-paragraph (3) by the company for the alteration or otherwise for the protection of the apparatus, or for securing access thereto, and the company shall be entitled by its officer to watch and inspect the execution of those works.
 
@@ -1477,11 +1481,11 @@ and the undertaker shall indemnify Network Rail from and against all claims and 
 
 #### Stopped up highways: access to apparatus
 
-**24.** Where, by reason of this Order, any part of any highway in which any apparatus is situated ceases to be part of a highway the company may exercise the same rights of access to such apparatus as it enjoyed immediately before the coming into force of this Order and the undertaker shall grant to the company legal easements satisfactory to the company in respect of such apparatus and access thereto but nothing in this paragraph shall affect any right of the company or of the undertaker to require removal of such apparatus under this Part of this Schedule or the power of the undertaker to execute works in accordance with paragraphs 21 and 23.
+**24.**[^c-c853d3c02c903434138e238ecae35990] Where, by reason of this Order, any part of any highway in which any apparatus is situated ceases to be part of a highway the company may exercise the same rights of access to such apparatus as it enjoyed immediately before the coming into force of this Order and the undertaker shall grant to the company legal easements satisfactory to the company in respect of such apparatus and access thereto but nothing in this paragraph shall affect any right of the company or of the undertaker to require removal of such apparatus under this Part of this Schedule or the power of the undertaker to execute works in accordance with paragraphs 21 and 23.
 
 #### Repayment of expenses
 
-**25.** (1) Subject to the following provisions of this paragraph, the undertaker shall repay to the company the reasonable expenses incurred by the company in, or in connection with—
+**25.**[^c-bd9f9b2fb1e87d52dad00cd5d56b97dd] (1) Subject to the following provisions of this paragraph, the undertaker shall repay to the company the reasonable expenses incurred by the company in, or in connection with—
 
 - (a) the inspection, removal and relaying or replacing, alteration or protection of any apparatus or the construction of any new apparatus under any provision of this Part of this Schedule (including any costs reasonably incurred or compensation properly paid in connection with the acquisition of rights or exercise of statutory powers for such apparatus), and in connection with the cost of the carrying out by the company of any connection work;
 - (b) the cutting off of any apparatus from any other apparatus, or the making safe of any redundant apparatus in consequence of the exercise by the undertaker of any power conferred by the Order;
@@ -1506,7 +1510,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 #### Indemnity
 
-**26.** (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction, maintenance or failure, including subsidence, resulting from any of the works referred to in paragraph 21(2) any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of the company or there is any interruption in any service provided or in the supply or conveyance of any goods by the company, the undertaker shall—
+**26.**[^c-71eb36cb09136fc2bd87b9503c96c518] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction, maintenance or failure, including subsidence, resulting from any of the works referred to in paragraph 21(2) any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of the company or there is any interruption in any service provided or in the supply or conveyance of any goods by the company, the undertaker shall—
 
 - (a) bear and pay the cost reasonably incurred by the company in making good such damage or restoring the service, supply or conveyance; and
 - (b) indemnify the company against all claims, demands, proceedings, costs, damages and expenses which may be made against, or recovered from, or incurred by it,
@@ -1519,31 +1523,31 @@ by reason or in consequence of any such damage or interruption or exercise by th
 
 #### Payment for redundant apparatus
 
-**27.** (1) Where, by reason of the stopping up of any highway pursuant to this Order, any apparatus belonging to the company and laid or placed in such highway or elsewhere is rendered derelict or unnecessary, the undertaker shall, subject to sub-paragraph (2), pay to the company the value of such apparatus (which shall then become the property of the undertaker) and the reasonable cost of and any costs incidental to the cutting off of such apparatus from any other apparatus, and of and incidental to the execution or doing of any works or things rendered necessary or expedient by reason of such apparatus being so rendered derelict or unnecessary.
+**27.**[^c-cb48c2f2f703c597945b24fd8e9b43f0] (1) Where, by reason of the stopping up of any highway pursuant to this Order, any apparatus belonging to the company and laid or placed in such highway or elsewhere is rendered derelict or unnecessary, the undertaker shall, subject to sub-paragraph (2), pay to the company the value of such apparatus (which shall then become the property of the undertaker) and the reasonable cost of and any costs incidental to the cutting off of such apparatus from any other apparatus, and of and incidental to the execution or doing of any works or things rendered necessary or expedient by reason of such apparatus being so rendered derelict or unnecessary.
 
 (2) The undertaker shall not under the provisions of this paragraph be required to pay to the company the value of any apparatus rendered derelict or unnecessary if, to the reasonable satisfaction of the company, other apparatus has at the expense of the undertaker been provided and laid and made ready for use in substitution for the apparatus so rendered derelict or unnecessary.
 
 #### Existing enactments and agreements
 
-**28.** Nothing in this Part of this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the undertaker and the company in respect of any apparatus laid or erected in land belonging to the undertaker on the coming into force of this Order.
+**28.**[^c-4893d4f0d6219614b921569babadab05] Nothing in this Part of this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the undertaker and the company in respect of any apparatus laid or erected in land belonging to the undertaker on the coming into force of this Order.
 
 ### PART 3 — PROTECTION OF CABLE AND WIRELESS PLC
 
-**29.** (1) The provisions of this Part of this Schedule shall have effect for the protection of C&W unless it is otherwise agreed in writing between the undertaker and C&W.
+**29.**[^c-1586e4de41ebffae38ca912e32aae53b] (1) The provisions of this Part of this Schedule shall have effect for the protection of C&W unless it is otherwise agreed in writing between the undertaker and C&W.
 
 (2) In this Part of this Schedule—
 
 - “C&W” means Cable & Wireless Plc; and
 - “public communications provider” has the same meaning as in section 151(1) of the Communications Act 2003[^f00039].
 
-**30.** The temporary stopping up or diversion of any street under article 10 (temporary stopping up of streets) shall not affect any right of a public communications provider under paragraph 9 of the Telecommunications Code (“the Code”), contained in Schedule 2 to the Telecommunications Act 1984[^f00040] as amended by Schedule 3 to the Communications Act 2003, in respect of any apparatus which at the time of the temporary stopping up or diversion is in that street.
+**30.**[^c-f78a7811df659700dd55b26520445ae4] The temporary stopping up or diversion of any street under article 10 (temporary stopping up of streets) shall not affect any right of a public communications provider under paragraph 9 of the Telecommunications Code (“the Code”), contained in Schedule 2 to the Telecommunications Act 1984[^f00040] as amended by Schedule 3 to the Communications Act 2003, in respect of any apparatus which at the time of the temporary stopping up or diversion is in that street.
 
-**31.** If C&W suffers damage by reason or in consequence of the construction, use or failure of the authorised works or any subsidence resulting from those works, the undertaker shall pay the cost reasonably incurred by C&W in making good such damage, and shall indemnify C&W against claims, demands, proceedings, costs, damages and expenses which may be made or taken against or recovered from or incurred by C&W by reason or in consequence of any such damage, but—
+**31.**[^c-3fd7e3f932c2a83eb516df56d6c0862f] If C&W suffers damage by reason or in consequence of the construction, use or failure of the authorised works or any subsidence resulting from those works, the undertaker shall pay the cost reasonably incurred by C&W in making good such damage, and shall indemnify C&W against claims, demands, proceedings, costs, damages and expenses which may be made or taken against or recovered from or incurred by C&W by reason or in consequence of any such damage, but—
 
 - (a) nothing in this paragraph shall impose any liability on the undertaker with respect to any damage to the extent that such damage is attributable to any act or omission of C&W, its officers, servants, contractors or other agents; and
 - (b) C&W shall give to the undertaker reasonable notice of any claim, demand or proceedings and shall make no settlement of any claim, demand or proceedings without the consent of the undertaker, such consent not to be unreasonably withheld.
 
-**32.** Nothing in this Order shall affect any right of a public communications provider under the Code.
+**32.**[^c-68ea28d41bfea289416b1116850df8f0] Nothing in this Order shall affect any right of a public communications provider under the Code.
 
 (This note is not part of the Order)
 
@@ -1556,6 +1560,10 @@ A copy of the works and land plans, the sections and the book of reference may b
 [^f00001]: Footnote: [S.I. 2000/2190](https://www.legislation.gov.uk/uksi/2000/2190). As made under sections 6, 6A, 7 and 10 of the Transport and Works Act 1992.
 
 [^f00002]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42). As amended by [S.I. 1995/1541](https://www.legislation.gov.uk/uksi/1995/1541), [1998/2226](https://www.legislation.gov.uk/uksi/1998/2226), [2000/3199](https://www.legislation.gov.uk/uksi/2000/3199) and [2006/958](https://www.legislation.gov.uk/uksi/2006/958).
+
+[^c-5986da9edafa03b2f9a85acf5ffed917]: Commencement: Art. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-5d5cf4ff17489a7c5702a393033bb4e7]: Commencement: Art. 2 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^f00003]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -1575,13 +1583,31 @@ A copy of the works and land plans, the sections and the book of reference may b
 
 [^f00011]: Footnote: [1875 c. cxlv](https://www.legislation.gov.uk/ukla/1875/145).
 
+[^c-331e1feec781a1a89cb58ab9af4cd2d9]: Commencement: Art. 3 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00012]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20).
 
 [^f00013]: Footnote: [1923 c. 20](https://www.legislation.gov.uk/ukpga/1923/20).
 
 [^f00014]: Footnote: [1863 c. 92](https://www.legislation.gov.uk/ukpga/1863/92).
 
+[^c-8b99d09ebc7763cafe2fbb9bc7f9ffdd]: Commencement: Art. 4 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-dcc3a9fa9fd67799464c4e47773442a8]: Commencement: Art. 5 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-0470a44f90013ffc794dbd40cbe341b0]: Commencement: Art. 6 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-86a8c3a88e04f8ca9824e0f11e7dc82e]: Commencement: Art. 7 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-583f7c0471a066eb464ac03b7d99c271]: Commencement: Art. 8 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-d4ef0465ef6c36462fc0c9a72d718451]: Commencement: Art. 9 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00015]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^c-e017535b86ec5acc518bb5a66e0da816]: Commencement: Art. 10 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-7bddfb2ca21fa9b6ff859f94fc9da69f]: Commencement: Art. 11 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^f00016]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
@@ -1591,19 +1617,65 @@ A copy of the works and land plans, the sections and the book of reference may b
 
 [^f00019]: Footnote: [S.I. 1992/1215](https://www.legislation.gov.uk/uksi/1992/1215).
 
+[^c-1942e87a772b36e7f6cd06fe5e6c39c9]: Commencement: Art. 12 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-b3a870e48f3075fa9deb5215251baf21]: Commencement: Art. 13 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-0938a5bd41c3cf1daa903295bed0e74b]: Commencement: Art. 14 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-e690fa9e160249c280235e9bef72e130]: Commencement: Art. 15 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-df1b636f6b72e3f37232961bd8d7dda0]: Commencement: Art. 16 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-6301e341bf01b185f494e9e0ea74fbdf]: Commencement: Art. 17 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-4d2f224f1a8c359e6c8d1ca3a0d844b6]: Commencement: Art. 18 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-da43626ad6f2cd7363bfb52f25b74a5d]: Commencement: Art. 19 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00020]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
 [^f00021]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
 [^f00022]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
+[^c-bc732f9a88f913254cf701092d49f0df]: Commencement: Art. 20 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-916a074bdc189204ee0045e45928597e]: Commencement: Art. 21 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00023]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
+
+[^c-138a016e2da696941d3325d1e8de204b]: Commencement: Art. 22 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-aadffcf4b8f9ca98f68b004aac129849]: Commencement: Art. 23 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^f00024]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
+[^c-fe793300eb9f172b45464221e0c77393]: Commencement: Art. 24 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00025]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).
 
+[^c-00522d229eb68b5b31a554dce8d4216b]: Commencement: Art. 25 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-46fb0fc8941c9263d237162bc754c572]: Commencement: Art. 26 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-0ee3d8a4ffcf269284f394a09e61b16b]: Commencement: Art. 27 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-89c7cb47f0a1308bef4c3121a543e0bc]: Commencement: Art. 28 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-669042178f16980c3a4bd9db3a038932]: Commencement: Art. 29 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-be8e2a523b7285a71c0f88b6fde7e178]: Commencement: Art. 30 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-979282b8b83a22391071ab137bf19c50]: Commencement: Art. 31 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-882b6efd7af6fc18f44afc9fcfbe1e0c]: Commencement: Art. 32 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-f760f1fd6296851dfe5740d017737ee1]: Commencement: Art. 33 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00026]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).
+
+[^c-a3cb275d150b78354eee6d49761edb8e]: Commencement: Art. 34 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^f00027]: Footnote: [S.I. 1969/17](https://www.legislation.gov.uk/uksi/1969/17).
 
@@ -1611,24 +1683,168 @@ A copy of the works and land plans, the sections and the book of reference may b
 
 [^f00029]: Footnote: [S.I. 1999/1892](https://www.legislation.gov.uk/uksi/1999/1892).
 
+[^c-d27f92a9415048bd6413437c70680109]: Commencement: Art. 35 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-0cbc74591f941319d139cb0d98bc26e8]: Commencement: Art. 36 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-74afc577ee8d5dedc4428627a1835dee]: Commencement: Art. 37 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-2cf1ba7fa96f21a9f9a9dad87b075ebf]: Commencement: Art. 38 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-5e5d92fcf6be89a2517948f89fcacd7b]: Commencement: Art. 39 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-d5ea9a5f3d0a834396e6a3e591c6e4a7]: Commencement: Art. 40 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00030]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
 [^f00031]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
+[^c-9d643759cc734e5e78922daaabb405cf]: Commencement: Art. 41 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-5b463eb8f255447462f93e5648ba72a4]: Commencement: Art. 42 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-562375b30485bec07361571327a34e33]: Commencement: Art. 43 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-bd717cb62b6d20a1369a9917d751db47]: Commencement: Art. 44 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-5da01b405173bad2e6f7590d269cb9b4]: Commencement: Art. 45 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-ea137dbfe834fa7ab8d8ef771efd3632]: Commencement: Art. 46 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-3d87fe737924874a357a9d1fdb35bd41]: Commencement: Art. 47 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-e41dd821593a7af61443959692f6b794]: Commencement: Art. 48 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00032]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
+
+[^c-4dbfbc45eb28d222625fc12fc41ce944]: Commencement: Art. 49 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-b2dfb4f08a5cf01b7d3bba7fb3fc9117]: Commencement: Art. 50 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^f00033]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
+[^c-8b72fdd571b6de433d38976757135130]: Commencement: Art. 51 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-d0b4849a6c4c7430335a1c2145ea5fc6]: Commencement: Art. 52 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-beaaa68c5af2d80f44fe43444ab0f508]: Commencement: Sch. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-fba5a9741f7d6fd427619f186b19978e]: Commencement: Sch. 2 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-96e029c0d1d0e527e4b74bbbf2352435]: Commencement: Sch. 3 Pt. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-74b8091dd8172b9cc1223f3d5f63b887]: Commencement: Sch. 3 Pt. 2 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-1e9d4a7beb405bc6bfdd30aa05d1f4d7]: Commencement: Sch. 4 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-0e086c48b82e3bafe3982d0860d91b99]: Commencement: Sch. 5 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-956477c3fb844d765dac0fb3c582e0e4]: Commencement: Sch. 6 para. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-43effc0798c3cf571fb8aac7f1566d60]: Commencement: Sch. 6 para. 2 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00034]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
+[^c-6909573a1b0d6b2d6beeb838ebe99861]: Commencement: Sch. 6 para. 3 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-d5fcb689ec79c0acffc3986cd8e7a198]: Commencement: Sch. 6 para. 4 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-7858864501cd40770b280216b0d833a4]: Commencement: Sch. 6 para. 5 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00035]: Footnote: [S.I. 2008 2512](https://www.legislation.gov.uk/uksi/2008/2512)/\[ \].
+
+[^c-bc5027cdaa947986b6c4307af3524482]: Commencement: Sch. 6 para. 6 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-a9afc4df17055f88cea59ade72ad3a0b]: Commencement: Sch. 6 para. 7 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-a681ab25e947b583aa22781c5ccea1b2]: Commencement: Sch. 6 para. 8 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-11e36787ef86d8270571043838e7dd0e]: Commencement: Sch. 6 para. 9 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-bcf51e8b549f7431e60ab57739c1ab46]: Commencement: Sch. 7 Pt. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-0a806d9554e1de6abee7173add8c5958]: Commencement: Sch. 7 Pt. 2 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-90a1a146eef6489a1a45f0e9f9896d8e]: Commencement: Sch. 7 Pt. 3 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-4d5480000d0c70d00f259b63a50f4d6f]: Commencement: Sch. 8 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-c28342bf126287050e45525e2debc6d9]: Commencement: Sch. 9 para. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^f00036]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00037]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
+[^c-6c35921e60d66893c9b54dd3b962dabb]: Commencement: Sch. 9 para. 2 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-575f88fc8b079f07e1444d4291252075]: Commencement: Sch. 9 para. 3 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-e81cdee7b129c15c44692c3fdc961dd5]: Commencement: Sch. 10 para. 1 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-f48bae641f9440c6e06a400030b6d8c2]: Commencement: Sch. 10 para. 2 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-636198da51c73548ffd8ed89ab59e23b]: Commencement: Sch. 10 para. 3 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-ac1976b78636209373b1c7e35b4ab987]: Commencement: Sch. 10 para. 4 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-8d8fb1dccd3670a487df0baf437d79c2]: Commencement: Sch. 10 para. 5 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-c9cc0f74de0bd9f99ece0885722037af]: Commencement: Sch. 10 para. 6 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-b8a0a963540413fcd8b945ca641ad2c5]: Commencement: Sch. 10 para. 7 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-21ca72430aebe2909a9714d90e93a0d5]: Commencement: Sch. 10 para. 8 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-a58318aacbbcc98887df9b09ef4b16f7]: Commencement: Sch. 10 para. 9 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-37c8bdd93e08169343cfb73c2de7238e]: Commencement: Sch. 10 para. 10 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-0ca9e22acecd3767bd287c881d82010f]: Commencement: Sch. 10 para. 11 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-79346ec858b638d81abcef327b362fd9]: Commencement: Sch. 10 para. 12 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-c1c0d8c847354ab415890ff32057e1ab]: Commencement: Sch. 10 para. 13 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-facb961f30c871c77ac3e16acdfa7ce5]: Commencement: Sch. 10 para. 14 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-df587fd59867c6cacaa82c9b4af8decf]: Commencement: Sch. 10 para. 15 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-1336f6b306acefd763e856dd6e694c46]: Commencement: Sch. 10 para. 16 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-664f2c9e5e2183b7a38dd9ddee6d03cb]: Commencement: Sch. 10 para. 17 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-84eca6509792fcdbdf4d68754d10d4d0]: Commencement: Sch. 10 para. 18 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00038]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). A new section 7 was substituted by section 5 of the Gas Act [1995, c. 45](https://www.legislation.gov.uk/ukpga/1995/45), and was further amended by section 76 of the Utilities Act [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^c-c134d9019d828bda911dc7f81f439b5a]: Commencement: Sch. 10 para. 19 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-c6ddca4293bb461c884f36713bbb6192]: Commencement: Sch. 10 para. 20 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-7eceb2ff718f39ebf3f2fcc65d2033a1]: Commencement: Sch. 10 para. 21 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-482bb6f154ed2917f3d9c9240f33eb24]: Commencement: Sch. 10 para. 22 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-22f22e213f27562d0176b677e0768616]: Commencement: Sch. 10 para. 23 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-c853d3c02c903434138e238ecae35990]: Commencement: Sch. 10 para. 24 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-bd9f9b2fb1e87d52dad00cd5d56b97dd]: Commencement: Sch. 10 para. 25 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-71eb36cb09136fc2bd87b9503c96c518]: Commencement: Sch. 10 para. 26 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-cb48c2f2f703c597945b24fd8e9b43f0]: Commencement: Sch. 10 para. 27 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-4893d4f0d6219614b921569babadab05]: Commencement: Sch. 10 para. 28 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-1586e4de41ebffae38ca912e32aae53b]: Commencement: Sch. 10 para. 29 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
 
 [^f00039]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
+[^c-f78a7811df659700dd55b26520445ae4]: Commencement: Sch. 10 para. 30 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
 [^f00040]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
+
+[^c-3fd7e3f932c2a83eb516df56d6c0862f]: Commencement: Sch. 10 para. 31 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)
+
+[^c-68ea28d41bfea289416b1116850df8f0]: Commencement: Sch. 10 para. 32 in force at 14.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2512/article/1)

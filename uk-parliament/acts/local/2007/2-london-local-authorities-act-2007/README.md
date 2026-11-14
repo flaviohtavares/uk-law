@@ -3,14 +3,14 @@ title: London Local Authorities Act 2007
 id: ukla/2007/2
 type: UnitedKingdomLocalAct
 category: primary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-07-19'
-text_date: null
-extent: null
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2
 pdf_urls:
 - http://www.legislation.gov.uk/ukla/2007/2/pdfs/ukla_20070002_en.pdf
-- http://www.legislation.gov.uk/ukla/2007/2/enacted/data.pdf
+- http://www.legislation.gov.uk/ukla/2007/2/data.pdf
 pending_changes: 22
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # London Local Authorities Act 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 London Local Authorities Act 2007
 
@@ -51,17 +55,25 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 ### PART 1 — Preliminary
 
+*Extent: E+W*
+
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — General interpretation](part-1/section-2.md)
 - [Section 3 — Appointed day](part-1/section-3.md)
 
 ### PART 2 — Public Health and the Environment
 
+*Extent: E+W*
+
 #### Interpretation
+
+*Extent: E+W*
 
 - [Section 4 — Interpretation of Part 2](part-2/section-4.md)
 
 #### Advertising
+
+*Extent: E+W*
 
 - [Section 5 — Portable advertisements, etc.](part-2/section-5.md)
 - [Section 6 — Advertisements: designation of areas](part-2/section-6.md)
@@ -74,6 +86,8 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 #### Advertising: seizure and forfeiture
 
+*Extent: E+W*
+
 - [Section 13 — Advertising: seizure](part-2/section-13.md)
 - [Section 14 — Return and disposal of seized items](part-2/section-14.md)
 - [Section 15 — Disposal orders](part-2/section-15.md)
@@ -82,9 +96,13 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 #### Graffiti
 
+*Extent: E+W*
+
 - [Section 18 — Defacement of buildings](part-2/section-18.md)
 
 #### Waste and litter
+
+*Extent: E+W*
 
 - [Section 19 — Placing of receptacles for household waste](part-2/section-19.md)
 - [Section 20 — Regulations relating to receptacles for household waste](part-2/section-20.md)
@@ -97,10 +115,14 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 #### Abandoned and nuisance vehicles
 
+*Extent: E+W*
+
 - [Section 27 — Removal of abandoned and nuisance vehicles](part-2/section-27.md)
 - [Section 28 — Disposal of removed vehicles](part-2/section-28.md)
 
 #### Enforcement action zones
+
+*Extent: E+W*
 
 - [Section 29 — Enforcement action zones](part-2/section-29.md)
 - [Section 30 — Designation procedure for enforcement action zones](part-2/section-30.md)
@@ -108,11 +130,17 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 #### Town and country planning
 
+*Extent: E+W*
+
 - [Section 32 — Application of section 215 of the Town and Country Planning Act 1990 to vegetation](part-2/section-32.md)
 
 ### PART 3 — Licensing
 
+*Extent: E+W*
+
 #### CHAPTER 1 — Hostess Bars and Near Beer Premises
+
+*Extent: E+W*
 
 - [Section 33 — Hostess bars](part-3/section-33.md)
 - [Section 34 — Application to existing premises](part-3/section-34.md)
@@ -120,15 +148,23 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 #### CHAPTER 2 — Street Trading
 
+*Extent: E+W*
+
 ##### Introductory
+
+*Extent: E+W*
 
 - [Section 36 — Interpretation of Chapter 2](part-3/section-36.md)
 
 ##### Street trading on certain bridges
 
+*Extent: E+W*
+
 - [Section 37 — Bridges in the City of Westminster and London Borough of Lambeth](part-3/section-37.md)
 
 ##### London Local Authorities Act 1990
+
+*Extent: E+W*
 
 - [Section 38 — Interpretation of Part III of Act of 1990](part-3/section-38.md)
 - [Section 39 — Applications for street trading licences under Act of 1990](part-3/section-39.md)
@@ -145,6 +181,8 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 ##### City of Westminster Act 1999
 
+*Extent: E+W*
+
 - [Section 50 — Interpretation of Act of 1999](part-3/section-50.md)
 - [Section 51 — Applications for street trading licences under Act of 1999](part-3/section-51.md)
 - [Section 52 — Mandatory grounds of refusal of application under Act of 1999](part-3/section-52.md)
@@ -158,11 +196,17 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 ### PART 4 — Penalty Charges and Fixed Penalties
 
+*Extent: E+W*
+
 #### Introductory
+
+*Extent: E+W*
 
 - [Section 60 — Joint committees](part-4/section-60.md)
 
 #### Penalty Charges
+
+*Extent: E+W*
 
 - [Section 61 — Penalty charges](part-4/section-61.md)
 - [Section 62 — Representations and appeals](part-4/section-62.md)
@@ -174,10 +218,14 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 #### Fixed Penalties
 
+*Extent: E+W*
+
 - [Section 68 — Fixed penalties under the London Local Authorities Act 2004](part-4/section-68.md)
 - [Section 69 — Fixed penalty offences](part-4/section-69.md)
 
 ### PART 5 — Miscellaneous
+
+*Extent: E+W*
 
 - [Section 70 — Display of certain video recordings](part-5/section-70.md)
 - [Section 71 — Temporary sleeping accommodation: powers of entry, search and seizure](part-5/section-71.md)
@@ -191,10 +239,14 @@ May it therefore please your Majesty that it may be enacted, and be it enacted, 
 
 ### PART 6 — Supplemental
 
+*Extent: E+W*
+
 - [Section 79 — Obstruction of authorised officer](part-6/section-79.md)
 - [Section 80 — Proof of resolution](part-6/section-80.md)
 - [Section 81 — Liability of directors, etc.](part-6/section-81.md)
 - [Section 82 — Regulations](part-6/section-82.md)
+
+*Extent: E+W*
 
 SCHEDULES
 

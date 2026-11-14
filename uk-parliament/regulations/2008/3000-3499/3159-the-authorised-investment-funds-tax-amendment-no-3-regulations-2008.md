@@ -3,15 +3,15 @@ title: The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008
 id: uksi/2008/3159
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-12-10'
-text_date: null
-extent: null
+text_date: '2009-01-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3159
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3159/pdfs/uksiem_20083159_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3159/pdfs/uksi_20083159_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3159/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/3159/data.pdf
 pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2009-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3159
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 3159
 
@@ -48,7 +52,7 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the powers conferred by sections 17(3) and 18 of the Finance (No. 2) Act 2005[^f00001].
 
-## 1. Citation, commencement and effect
+## 1. Citation, commencement and effect[^c-ccd45c0500d8497f9ff2a376d2619238]
 
 (1) These Regulations may be cited as the Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 and shall come into force on 1st January 2009.
 
@@ -58,7 +62,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (4) Regulation 28 of these Regulations (amendment of regulation 94 of the principal Regulations) has effect in relation to property income distributions paid on or after 1st January 2009.
 
-## 2. Interpretation
+## 2. Interpretation[^c-f95f82a4bf6e3130a0766af8735a2352]
 
 In these Regulations—
 
@@ -68,11 +72,11 @@ In these Regulations—
   - (b) in relation to capital gains tax, means a year of assessment within the meaning of TCGA 1992 (see section 288(1)[^f00003] of that Act);
 - “the principal Regulations” means the Authorised Investment Funds (Tax) Regulations 2006[^f00004].
 
-## 3. Amendment of the principal Regulations
+## 3. Amendment of the principal Regulations[^c-cf14aac578767c13118eadfe0dc341e4]
 
 The principal Regulations are amended as follows.
 
-## 4. Amendment of regulation 2
+## 4. Amendment of regulation 2[^c-9a8b9b4769705f775744106cb10a4e00]
 
 In regulation 2 (structure of Regulations), after “Part 2 deals with the tax treatment of authorised investment funds” insert—
 
@@ -80,7 +84,7 @@ In regulation 2 (structure of Regulations), after “Part 2 deals with the tax t
 
 .
 
-## 5. Amendment of regulation 10
+## 5. Amendment of regulation 10[^c-e54a111523c4a13d308025a227ffd14f]
 
 After paragraph (3) of regulation 10 (general rule for loan relationships: exclusion of capital profits, gains or losses) insert—
 
@@ -88,7 +92,7 @@ After paragraph (3) of regulation 10 (general rule for loan relationships: exclu
 
 .
 
-## 6. Amendment of regulation 11
+## 6. Amendment of regulation 11[^c-b1b5f528bdf2a0de02626ae39697845f]
 
 After paragraph (3) of regulation 11 (general rule for derivative contracts: exclusion of capital profits, gains or losses) insert—
 
@@ -96,19 +100,19 @@ After paragraph (3) of regulation 11 (general rule for derivative contracts: exc
 
 .
 
-## 7. Amendment of regulation 12
+## 7. Amendment of regulation 12[^c-1514600ae9a55272a44397bd2c71393b]
 
 In paragraph (1) of regulation 12 (accounts prepared in accordance with UK generally accepted accounting practice), for sub-paragraphs (a) and (b) substitute “the heading “net capital gains/losses””.
 
-## 8. Amendment of regulation 13
+## 8. Amendment of regulation 13[^c-91179db9dcf433561785e21d4bc54a7c]
 
 In paragraph (3) of regulation 13 (treatment of interest distributions for purposes of loan relationships) after “regulation 14” insert “and regulation 14B (tax treatment of qualified investor schemes)”.
 
-## 9. Amendment of regulation 14
+## 9. Amendment of regulation 14[^c-61c6fe0114e86cdc53f2f30fc21e822c]
 
 In regulation 14 (treatment of deficits on loan relationships), at the end insert “This is subject to regulation 14B (tax treatment of qualified investor schemes)”.
 
-## 10. Insertion of regulation 14A
+## 10. Insertion of regulation 14A[^c-6594f919a53f8a6480d134718f6a7adc]
 
 After regulation 14 (treatment of deficits on loan relationships) insert—
 
@@ -147,7 +151,7 @@ After regulation 14 (treatment of deficits on loan relationships) insert—
 
 .
 
-## 11. Insertion of Part 2A
+## 11. Insertion of Part 2A[^c-b9d1a9a195ef8a8ce5a0d37580f0ef39]
 
 After regulation 14A[^f00008] (authorised investment funds with limited investment powers – stamp duty reserve tax) insert the following Part—
 
@@ -258,11 +262,11 @@ After regulation 14A[^f00008] (authorised investment funds with limited investme
 >
 > (7) For the purposes of paragraph (5)(c), a material amendment is one that may reasonably be construed as causing, or likely to cause, the scheme to fail to meets the genuine diversity of ownership condition in relation to any accounting period.
 
-## 12. Amendment of regulation 24
+## 12. Amendment of regulation 24[^c-172661b205f4b789fb69ce6e858a8646]
 
 Omit the words “Chapter 4 imposes a charge to tax on substantial QIS holdings in qualified investor schemes” from regulation 24 (structure of this Part).
 
-## 13. Amendment of regulation 48
+## 13. Amendment of regulation 48[^c-9486bd1e89fee58d3f8247639846b4d9]
 
 (1) Regulation 48 (dividend distributions: general) is amended as follows.
 
@@ -283,7 +287,7 @@ Omit the words “Chapter 4 imposes a charge to tax on substantial QIS holdings 
 
 > (4) This regulation does not apply in respect of a holding in a qualified investor scheme if the scheme has not met the genuine diversity of ownership condition in regulation 14C in relation to an accounting period.
 
-## 14. Amendment of regulation 49
+## 14. Amendment of regulation 49[^c-bd9b1ece4559c02b5396979a58503f16]
 
 After paragraph (2) of regulation 49 (calculation of unfranked part of a dividend distribution) insert—
 
@@ -291,7 +295,7 @@ After paragraph (2) of regulation 49 (calculation of unfranked part of a dividen
 
 .
 
-## 15. Substitution of regulation 51
+## 15. Substitution of regulation 51[^c-1adbb6410875ab757dd0ae1cf01e171b]
 
 For regulation 51 substitute—
 
@@ -308,7 +312,7 @@ For regulation 51 substitute—
 
 .
 
-## 16. Substitution of regulation 52A
+## 16. Substitution of regulation 52A[^c-c7fb502ad33fc0755b65ef73008cee9f]
 
 For regulation 52A[^f00020] substitute—
 
@@ -346,13 +350,13 @@ For regulation 52A[^f00020] substitute—
 
 .
 
-## 17. Omission of Chapter 4 of Part 4
+## 17. Omission of Chapter 4 of Part 4[^c-8546fcc6483c137795b55a10b093d814]
 
 (1) Omit Chapter 4 of Part 4 (regulations 53 to 69).
 
 (2) Paragraph (1) is subject to regulations 30 and 31 of these Regulations.
 
-## 18. Insertion of regulation 69DA
+## 18. Insertion of regulation 69DA[^c-4396e1c3db7069ed393977742ddf916f]
 
 After regulation 69D (conditions for this Part to apply to company) insert—
 
@@ -367,11 +371,11 @@ After regulation 69D (conditions for this Part to apply to company) insert—
 
 .
 
-## 19. Amendment of regulation 69G
+## 19. Amendment of regulation 69G[^c-4d6ff50a1f231bdb503cfb10a3ab0db1]
 
 In paragraph (4)(c) of regulation 69G (property investment business: further provisions)[^f00025], after “shares” insert “or units”.
 
-## 20. Amendment of regulation 69J
+## 20. Amendment of regulation 69J[^c-2117de925be07271a43343d4cedc27f0]
 
 In paragraph (5) of regulation 69J (the genuine diversity of ownership condition), for sub-paragraph (b) substitute—
 
@@ -379,11 +383,11 @@ In paragraph (5) of regulation 69J (the genuine diversity of ownership condition
 
 .
 
-## 21. Amendment of regulation 69K
+## 21. Amendment of regulation 69K[^c-fa47d04762d72532eb437f3fe4469f0e]
 
 In paragraph (4) of regulation 69K (the corporate ownership condition), for “shareholder” substitute “participant”.
 
-## 22. Amendment of regulation 69L
+## 22. Amendment of regulation 69L[^c-5157ae7f5692572fab518d7c491164db]
 
 (1) Regulation 69L (the corporate ownership condition: further provisions) is amended as follows.
 
@@ -391,11 +395,11 @@ In paragraph (4) of regulation 69K (the corporate ownership condition), for “s
 
 (3) In paragraph (5) for “the trustees are treated” substitute “the unit trust scheme is treated”.
 
-## 23. Amendment of regulation 69Z
+## 23. Amendment of regulation 69Z[^c-db7281cfdbd0d5617a92afe0eb369ec8]
 
 In paragraph (1) of regulation 69Z (meaning of “net income”), for “net income/(expenses) before taxation” substitute “net revenue/(expense) before taxation”.
 
-## 24. Amendment of regulation 69Z19
+## 24. Amendment of regulation 69Z19[^c-85964ebaba4c2098f221cfc1b51d8b40]
 
 For paragraph (1) of regulation 69Z19 (PAIF distributions (interest): liability to tax of participants) substitute—
 
@@ -406,14 +410,14 @@ For paragraph (1) of regulation 69Z19 (PAIF distributions (interest): liability 
 
 .
 
-## 25. Amendment of regulation 69Z23
+## 25. Amendment of regulation 69Z23[^c-067d7bb71ae8a0e4d4bd20ff248fecf8]
 
 Regulation 69Z23 (deduction of tax from PAIF distributions (interest)) is amended as follows—
 
 - (a) in paragraph (1) for “savings rate” substitute “basic rate”; and
 - (b) omit paragraph (3).
 
-## 26. Amendment of regulation 69Z24
+## 26. Amendment of regulation 69Z24[^c-c8be0523bc931ba59ee450f8033c34f3]
 
 Regulation 69Z24 (distribution payments to be made without deduction of tax) is amended as follows—
 
@@ -430,7 +434,7 @@ Regulation 69Z24 (distribution payments to be made without deduction of tax) is 
 
   .
 
-## 27. Insertion of regulations 69Z24A to 69Z24D
+## 27. Insertion of regulations 69Z24A to 69Z24D[^c-335ce7996b3b552ed1d0ce2e883046ca]
 
 After regulation 69Z24 (distribution payments to be made without deduction of tax) insert—
 
@@ -481,7 +485,7 @@ After regulation 69Z24 (distribution payments to be made without deduction of ta
 
 .
 
-## 28. Amendment of regulation 94
+## 28. Amendment of regulation 94[^c-85b5aefcbd0c731b950e3a5bf1be2683]
 
 After paragraph (4) of regulation 94 (modifications of ICTA ) insert—
 
@@ -491,7 +495,7 @@ After paragraph (4) of regulation 94 (modifications of ICTA ) insert—
 
 .
 
-## 29. Amendments to Part 2 of the Schedule
+## 29. Amendments to Part 2 of the Schedule[^c-0c1532df0fd24cd04a3d4c8001c5c21b]
 
 In Part 2 of the Schedule (index of expressions defined or otherwise explained in these regulations)—
 
@@ -510,14 +514,14 @@ In Part 2 of the Schedule (index of expressions defined or otherwise explained i
 
 ## Transitory Provision
 
-### 30. Schemes authorised before 1st January 2009 – genuine diversity of ownership condition
+### 30. Schemes authorised before 1st January 2009 – genuine diversity of ownership condition[^c-a1315d27fb1d8a877b6ce89c31307ca4]
 
 Where a qualified investor scheme is authorised by the Financial Services Authority before 1st January 2009, the scheme shall be deemed to have met the genuine diversity of ownership condition in the inserted regulation 14C (regulation 11 of these Regulations) for the period—
 
 - (a) beginning on 1st January 2009; and
 - (b) ending on the date on which the scheme’s first accounting period beginning on or after 1st January 2009 ends.
 
-### 31. Schemes authorised before 1st January 2009 - continuation of provisions in Chapter 4 of Part 4 of the principal Regulations
+### 31. Schemes authorised before 1st January 2009 - continuation of provisions in Chapter 4 of Part 4 of the principal Regulations[^c-0396daf150ea1b33d7f88b901468215b]
 
 (1) Regulations 55 (amount charged to tax under this Chapter) and 56 (measuring date and meaning of “chargeable measuring date”) of the principal Regulations continue to have effect in relation to qualified investor schemes authorised by the Financial Services Authority before 1st January 2009, with the amendments specified in this regulation.
 
@@ -616,17 +620,39 @@ A full and final Impact Assessment has not been prepared for this instrument as 
 
 [^f00001]: Footnote: [2005, c. 22](https://www.legislation.gov.uk/ukpga/2005/22).
 
+[^c-ccd45c0500d8497f9ff2a376d2619238]: Commencement: Reg. 1 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-f95f82a4bf6e3130a0766af8735a2352]: Commencement: Reg. 2 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
 [^f00002]: Footnote: [1988, c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Amended by sections 526 and 527 of the Income and Corporation Taxes Act [1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10); Schedule 7 to the Capital Gains Tax Act [1979 (c. 14)](https://www.legislation.gov.uk/ukpga/1979/14); section 32 of, and paragraph 16(3) of Schedule 8 to, the Finance Act [1971 (c. 68)](https://www.legislation.gov.uk/ukpga/1971/68); section 93 of, and paragraph 3 of Schedule 24 to, the Finance Act [1972 (c. 41)](https://www.legislation.gov.uk/ukpga/1972/41); paragraph 10 of Schedule 4 to the Finance Act [1974 (c. 30)](https://www.legislation.gov.uk/ukpga/1974/30); paragraph 11 of Schedule 4 to the Finance Act [1976 (c. 40)](https://www.legislation.gov.uk/ukpga/1976/40); paragraph 4 of Schedule 2 to the Finance (No 2) Act [1979 (c. 47)](https://www.legislation.gov.uk/ukpga/1979/47); section 34(5) of the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35); paragraph 7 of Schedule 18 to the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53); paragraph 2 of Schedule 15 to the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16).
 
 [^f00003]: Footnote: [1992, c. 12](https://www.legislation.gov.uk/ukpga/1992/12). The definition of “year of assessment” was substituted by paragraph 101(2) of Schedule 2 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
 
 [^f00004]: Footnote: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964), relevantly amended by [S.I. 2006/3239](https://www.legislation.gov.uk/uksi/2006/3239), [2007/683](https://www.legislation.gov.uk/uksi/2007/683), [2007/794](https://www.legislation.gov.uk/uksi/2007/794), [2008/705](https://www.legislation.gov.uk/uksi/2008/705) and [2008/1463](https://www.legislation.gov.uk/uksi/2008/1463).
 
+[^c-cf14aac578767c13118eadfe0dc341e4]: Commencement: Reg. 3 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-9a8b9b4769705f775744106cb10a4e00]: Commencement: Reg. 4 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-e54a111523c4a13d308025a227ffd14f]: Commencement: Reg. 5 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-b1b5f528bdf2a0de02626ae39697845f]: Commencement: Reg. 6 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-1514600ae9a55272a44397bd2c71393b]: Commencement: Reg. 7 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-91179db9dcf433561785e21d4bc54a7c]: Commencement: Reg. 8 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-61c6fe0114e86cdc53f2f30fc21e822c]: Commencement: Reg. 9 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-6594f919a53f8a6480d134718f6a7adc]: Commencement: Reg. 10 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
 [^f00005]: Footnote: [1999, c. 16](https://www.legislation.gov.uk/ukpga/1999/16). Amended by section 93 of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9).
 
 [^f00006]: Footnote: Subparagraph (4) was amended by section 93 of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9).
 
 [^f00007]: Footnote: [1971, c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c-b9d1a9a195ef8a8ce5a0d37580f0ef39]: Commencement: Reg. 11 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
 
 [^f00008]: Footnote: Regulation 14A was inserted by regulation 10 of the Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008.
 
@@ -644,13 +670,23 @@ A full and final Impact Assessment has not been prepared for this instrument as 
 
 [^f00015]: Footnote: [1988, c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Section 839 was amended by paragraph 20 of Schedule 17 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), paragraph 25 of Schedule 13 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and paragraph 223 to Schedule 1 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3) and by [S.I. 1988/745](https://www.legislation.gov.uk/uksi/1988/745) and [2005/3229](https://www.legislation.gov.uk/uksi/2005/3229).
 
+[^c-172661b205f4b789fb69ce6e858a8646]: Commencement: Reg. 12 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-9486bd1e89fee58d3f8247639846b4d9]: Commencement: Reg. 13 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
 [^f00016]: Footnote: [1988, c. 1](https://www.legislation.gov.uk/ukpga/1988/1). The provisions of section 95 were substituted by section 24 of, and Schedule 8 to, the Finance (No. 2) Act [1997 (c. 58)](https://www.legislation.gov.uk/ukpga/1997/58) in relation to any distribution made on or after 2 July 1997; by sections 882, 883 and 884 of, and Schedule 1 to, the Income Tax (Trading and Other Income) Act [2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5); by section 69 of, and Schedule 7 to, the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16) in relation to distributions made on or after 26 November 2006; by section 216 of, and Schedule 43 to, the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14); and by section 137(2) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
 [^f00017]: Footnote: [1994, c. 9](https://www.legislation.gov.uk/ukpga/1994/9). Subsection (4) was amended by section 22 of, and Schedule 8 to, the Finance (No. 2) Act [1997 (c. 58)](https://www.legislation.gov.uk/ukpga/1997/58) and [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629).
 
+[^c-bd9b1ece4559c02b5396979a58503f16]: Commencement: Reg. 14 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-1adbb6410875ab757dd0ae1cf01e171b]: Commencement: Reg. 15 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
 [^f00018]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12). Section 212 was amended by section 137 of the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25); by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629); by paragraph 63 of Schedule 7 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11); by section 91(2) and (3) of, and Part III (8) of Schedule 23 to, the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34); by paragraphs 9(2) and 28(5) of Schedule 8 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4); by paragraph 5(3)(a) of Schedule 10 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11); by paragraph 63 of Schedule 14 to the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8); by section 134 of the Finance Act 1995; by paragraph 11 of Schedule 26 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12); by Part 3(12) of Schedule 43 to the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14); and by paragraph 18 of Schedule 8 to, and by Part 2(8) of Schedule 27 to, the Finance Act 2007.
 
 [^f00019]: Footnote: [1996, c. 8](https://www.legislation.gov.uk/ukpga/1996/8). Paragraph 4(2) was amended by paragraph 16(2) of Schedule 5 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11); paragraph 4(3) was amended by paragraph 41(2) of Schedule 10 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12); paragraph 4(4) was amended by paragraph 41(3) of Schedule 10 to the Finance Act 2004; paragraphs 4(5) and 4(6) were inserted by paragraph 16(3) of Schedule 5 to the Finance Act 2007.
+
+[^c-c7fb502ad33fc0755b65ef73008cee9f]: Commencement: Reg. 16 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
 
 [^f00020]: Footnote: Regulation 52A was inserted by regulation 2 of [S.I. 2006/3239](https://www.legislation.gov.uk/uksi/2006/3239) and amended by regulation 2 of [S.I. 2007/683](https://www.legislation.gov.uk/uksi/2007/683).
 
@@ -662,9 +698,31 @@ A full and final Impact Assessment has not been prepared for this instrument as 
 
 [^f00024]: Footnote: The definition of “long term business” was inserted into section 431 by paragraph 1 (subject to paragraphs 11 and 12) of Schedule 6 to the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29). This definition was substituted by article 26(5) of [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629).
 
+[^c-8546fcc6483c137795b55a10b093d814]: Commencement: Reg. 17 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-4396e1c3db7069ed393977742ddf916f]: Commencement: Reg. 18 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-4d6ff50a1f231bdb503cfb10a3ab0db1]: Commencement: Reg. 19 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
 [^f00025]: Footnote: Regulations 69G, 69J, 69K, 69L, 69Z, 69Z19, 69Z23 and 69Z24 were inserted by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705).
 
+[^c-2117de925be07271a43343d4cedc27f0]: Commencement: Reg. 20 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-fa47d04762d72532eb437f3fe4469f0e]: Commencement: Reg. 21 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-5157ae7f5692572fab518d7c491164db]: Commencement: Reg. 22 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-db7281cfdbd0d5617a92afe0eb369ec8]: Commencement: Reg. 23 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-85964ebaba4c2098f221cfc1b51d8b40]: Commencement: Reg. 24 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
 [^f00026]: Footnote: [2005, c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
+
+[^c-067d7bb71ae8a0e4d4bd20ff248fecf8]: Commencement: Reg. 25 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-c8be0523bc931ba59ee450f8033c34f3]: Commencement: Reg. 26 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-335ce7996b3b552ed1d0ce2e883046ca]: Commencement: Reg. 27 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
 
 [^f00027]: Footnote: [1988, c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Section 75 was substituted by section 38(1) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), and amended by section 28 of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
@@ -676,4 +734,12 @@ A full and final Impact Assessment has not been prepared for this instrument as 
 
 [^f00031]: Footnote: [1988, c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Schedule 23A was inserted, in relation to manufactured dividends on United Kingdom equities paid on or after 26 February 1992, and in relation to payments of amounts representative of periodical payments of interest on United Kingdom securities made on or after 30 June 1992, and inserted for remaining purposes in relation to payments made on or after 22 April 1993 by paragraph 1 of Schedule 13 to the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31). It was substituted by section 102(5) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36).
 
+[^c-85b5aefcbd0c731b950e3a5bf1be2683]: Commencement: Reg. 28 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
 [^f00032]: Footnote: Section 432(1ZA) was inserted by section 43 of, and paragraph 17 of Schedule 17 to, the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^c-0c1532df0fd24cd04a3d4c8001c5c21b]: Commencement: Reg. 29 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-a1315d27fb1d8a877b6ce89c31307ca4]: Commencement: Reg. 30 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+
+[^c-0396daf150ea1b33d7f88b901468215b]: Commencement: Reg. 31 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)

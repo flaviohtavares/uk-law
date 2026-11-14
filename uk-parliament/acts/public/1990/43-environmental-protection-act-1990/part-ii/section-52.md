@@ -65,7 +65,7 @@ of such amounts representing its net saving of expenditure on the disposal of th
 
 (12)[^c18967001] In this section, references to recycling waste include re-using it (whether or not the waste is subjected to any process).
 
-## 52. Payments for recycling and disposal etc. of waste.[^c13737981][^c18967431]
+## 52. Payments for recycling and disposal etc. of waste.[^c13737981][^c18967431][^c13739731]
 
 *Extent: S*
 
@@ -124,3 +124,5 @@ of such amounts representing its net saving of expenditure on the disposal of th
 [^c18967001]: Textual amendment: S. 52(12) inserted (E.W.) (6.4.2006) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 49(9)](https://www.legislation.gov.uk/ukpga/2005/16/section/49/9), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108); [S.I. 2006/656](https://www.legislation.gov.uk/uksi/2006/656), [art. 3](https://www.legislation.gov.uk/uksi/2006/656/article/3)
 
 [^c18967431]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

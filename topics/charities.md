@@ -186,7 +186,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2008**
 
-- [The Charities (Accounts and Reports) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/629-the-charities-accounts-and-reports-regulations-2008.md) *(as originally made)*
+- [The Charities (Accounts and Reports) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/629-the-charities-accounts-and-reports-regulations-2008.md) *(changes pending)*
 - [The Charities Act 1993 (Exception from Registration) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3268-the-charities-act-1993-exception-from-registration-regulations-2008.md) *(as originally made)*
 - [The Charities Act 2006 (Charitable Companies Audit and Group Accounts Provisions) Order 2008](../uk-parliament/regulations/2008/0500-0999/527-the-charities-act-2006-charitable-companies-audit-and-group-accounts-provisions.md) *(changes pending)*
 - [The Charities Act 2006 (Commencement No. 3, Transitional Provisions and Savings) Order 2008](../uk-parliament/regulations/2008/0500-0999/751-the-charities-act-2006-commencement-no-3-transitional-provisions-and-savings-ord.md) *(as originally made)*

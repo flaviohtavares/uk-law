@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Risk assessment and notification requirements.[^c13747011][^c19013281]
+## 108. Risk assessment and notification requirements.[^c13747011][^c19013281][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,8 @@ and the regulations may make different provision for different cases and differe
 [^c13747011]: Commencement: S. 108 partly in force; s. 108 not in force at Royal Assent see s. 164(2)(3); s. 108(1)(b)(3)(b)(5)(7)(9) in force 1.4.1991 by [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [art. 2](https://www.legislation.gov.uk/uksi/1991/1042/article/2); s. 108(10) in force at 1.1.1993 and s. 108(1) in force for certain purposes at 1.2.1993 by [S.I. 1992/3253](https://www.legislation.gov.uk/uksi/1992/3253), [arts. 2](https://www.legislation.gov.uk/uksi/1992/3253/article/2), [3](https://www.legislation.gov.uk/uksi/1992/3253/article/3)
 
 [^c19013281]: Modification: Ss. 108-110 extended (Isles of Scilly) (with modifications) (4.8.2006) by [The Environmental Protection Act 1990 (Isles of Scilly) Order 2006 (S.I. 2006/1381)](https://www.legislation.gov.uk/uksi/2006/1381), [art. 3](https://www.legislation.gov.uk/uksi/2006/1381/article/3)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c18945061]: Modification: S. 108(1)(a) restricted (temp. from 15.11.2004 to 18.4.2007) by [The Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 (S.S.I. 2002/541)](https://www.legislation.gov.uk/ssi/2002/541), [reg. 17A](https://www.legislation.gov.uk/ssi/2002/541/regulation/17A) (as inserted by [The Genetically Modified Organisms (Deliberate Release) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/439)](https://www.legislation.gov.uk/ssi/2004/439), [reg. 5](https://www.legislation.gov.uk/ssi/2004/439/regulation/5))
 

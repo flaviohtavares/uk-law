@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Rights of entry and inspection.[^c13747211]
+## 115. Rights of entry and inspection.[^c13747211][^c13739731]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,3 +74,5 @@ an inspector shall, if it is practical and safe for him to do so, take a sample 
 ## Annotations
 
 [^c13747211]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/1990/43/section/115) wholly in force; not in force at Royal Assent see [s. 164(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/2); [s. 115(4)](https://www.legislation.gov.uk/ukpga/1990/43/section/115/4) in force 1.4.1991 see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3) and [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [art. 2](https://www.legislation.gov.uk/uksi/1991/1042/article/2); [s. 115(1)-(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/115/1)(5)-(10) in force at 1.2.1993 see [S.I](https://www.legislation.gov.uk/ukpga/1990/43/section/I). 1992/3253, art. 3.
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

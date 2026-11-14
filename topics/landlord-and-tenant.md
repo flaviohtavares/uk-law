@@ -9,10 +9,10 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Agricultural Holdings Act 1986](../uk-parliament/acts/public/1986/5-agricultural-holdings-act-1986/README.md) *(changes pending)* — 58 regulations on this topic made under it
 - [Housing Act 1980](../uk-parliament/acts/public/1980/51-housing-act-1980/README.md) *(changes pending)* — 51 regulations on this topic made under it
 - [Housing Act 1988](../uk-parliament/acts/public/1988/50-housing-act-1988/README.md) *(changes pending)* — 41 regulations on this topic made under it
-- [Commonhold and Leasehold Reform Act 2002](../uk-parliament/acts/public/2002/15-commonhold-and-leasehold-reform-act-2002/README.md) *(changes pending)* — 35 regulations on this topic made under it
+- [Commonhold and Leasehold Reform Act 2002](../uk-parliament/acts/public/2002/15-commonhold-and-leasehold-reform-act-2002/README.md) *(changes pending)* — 36 regulations on this topic made under it
 - [Rent Act 1977](../uk-parliament/acts/public/1977/42-rent-act-1977/README.md) *(changes pending)* — 30 regulations on this topic made under it
 - [The Private Tenancies (Northern Ireland) Order 2006](../northern-ireland/orders-in-council/2006/1459-the-private-tenancies-northern-ireland-order-2006/README.md) — 28 regulations on this topic made under it
-- [Landlord and Tenant Act 1985](../uk-parliament/acts/public/1985/70-landlord-and-tenant-act-1985.md) *(changes pending)* — 23 regulations on this topic made under it
+- [Landlord and Tenant Act 1985](../uk-parliament/acts/public/1985/70-landlord-and-tenant-act-1985.md) *(changes pending)* — 24 regulations on this topic made under it
 - [Landlord and Tenant Act 1987](../uk-parliament/acts/public/1987/31-landlord-and-tenant-act-1987/README.md) *(changes pending)* — 20 regulations on this topic made under it
 - [Landlord and Tenant Act 1954](../uk-parliament/acts/public/eliz2-2-3/56-landlord-and-tenant-act-1954/README.md) *(changes pending)* — 14 regulations on this topic made under it
 - [Agricultural Holdings (Scotland) Act 2003](../scotland/acts/2003/11-agricultural-holdings-scotland-act-2003/README.md) *(changes pending)* — 12 regulations on this topic made under it
@@ -30,7 +30,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-418 in force.
+419 in force.
 
 **2026**
 
@@ -46,6 +46,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Registered Rents (Increase) Order (Northern Ireland) 2026](../northern-ireland/regulations/2026/0000-0499/93-the-registered-rents-increase-order-northern-ireland-2026.md)
 - [The Renters’ Rights Act 2025 (Commencement No. 2 and Transitional and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/421-the-renters-rights-act-2025-commencement-no-2-and-transitional-and-saving-provis.md) *(as originally made)*
 - [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/325-the-renters-rights-act-2025-consequential-amendments-and-tenancies-miscellaneous.md) *(as originally made)*
+- [The Service and Administration Charges (England) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1190-the-service-and-administration-charges-england-regulations-2026.md) *(as originally made)*
 
 **2025**
 

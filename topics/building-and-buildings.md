@@ -200,7 +200,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Building (Amendment) Regulations 2012](../uk-parliament/regulations/2012/0500-0999/718-the-building-amendment-regulations-2012.md) *(as originally made)*
 - [The Building (Repeal of Provisions of Local Acts) Regulations 2012](../uk-parliament/regulations/2012/3000-3499/3124-the-building-repeal-of-provisions-of-local-acts-regulations-2012.md) *(as originally made)*
 - [The Building (Scotland) Amendment Regulations 2012](../scotland/regulations/2012/0000-0499/209-the-building-scotland-amendment-regulations-2012.md) *(as originally made)*
-- [The Building Regulations &c. (Amendment) Regulations 2012](../uk-parliament/regulations/2012/3000-3499/3119-the-building-regulations-c-amendment-regulations-2012.md) *(changes pending)*
+- [The Building Regulations &c. (Amendment) Regulations 2012](../uk-parliament/regulations/2012/3000-3499/3119-the-building-regulations-c-amendment-regulations-2012.md)
 - [The Energy Act 2011 (Amendment) (Energy Performance of Buildings) Regulations 2012](../uk-parliament/regulations/2012/3000-3499/3170-the-energy-act-2011-amendment-energy-performance-of-buildings-regulations-2012.md) *(as originally made)*
 - [The Energy Performance of Buildings (England and Wales) Regulations 2012](../uk-parliament/regulations/2012/3000-3499/3118-the-energy-performance-of-buildings-england-and-wales-regulations-2012.md)
 - [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012](../scotland/regulations/2012/0000-0499/208-the-energy-performance-of-buildings-scotland-amendment-no-2-regulations-2012.md) *(changes pending)*

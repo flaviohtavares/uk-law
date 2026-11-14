@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 5
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 5. Registration appeals
+## 5. Registration appeals[^c-95f871cd1c0e34a24669d148a49d2c56]
+
+*Extent: S*
 
 (1) An appeal lies to the sheriff from any decision under this Order of the registration officer disallowing a person’s application to vote–
 
@@ -37,3 +41,7 @@ as may be required to give effect to the decision.
 (5) Subject to section 13B of the 1983 Act, where, as a result of the decision on an appeal under this article or section 56 of the 1983 Act, an alteration in the register is made on or before the last day for the delivery of nomination papers at an election paragraph (3) above does not apply to that appeal as respects that election.
 
 (6) The registration officer shall on an appeal brought under this article be deemed to be a party to the proceedings, and the registration expenses payable to a registration officer shall include any expenses properly incurred by him by virtue of this paragraph.
+
+## Annotations
+
+[^c-95f871cd1c0e34a24669d148a49d2c56]: Commencement: Art. 5 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

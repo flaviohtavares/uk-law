@@ -2,9 +2,9 @@
 title: The County Court (Amendment) Rules (Northern Ireland) 2026, SCHEDULE
 act: The County Court (Amendment) Rules (Northern Ireland) 2026
 section: schedule
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-11-09'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/188/schedule
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The County Court (Amendment) Rules (Northern Ireland) 2026, SCHEDULE
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## SCHEDULE
+## SCHEDULE[^c-a87fbb5a9a0be656a5ea566fd6f0a33e]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 Rule 3(5)
 
@@ -957,6 +963,8 @@ Rule 3(5)
 > | (vi) | For attending taxation, per hour | £14 |
 
 ## Annotations
+
+[^c-a87fbb5a9a0be656a5ea566fd6f0a33e]: Commencement: Sch. in operation at 30.11.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2026/188/rule/1)
 
 [^f00003]: Footnote: [S.I. 1977/1247 (N.I.14)](https://www.legislation.gov.uk/nisi/1977/1247)
 

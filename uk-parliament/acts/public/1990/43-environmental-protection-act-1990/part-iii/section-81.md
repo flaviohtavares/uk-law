@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
-## 81. Supplementary provisions.[^c19922411][^c13743691][^c18976001]
+## 81. Supplementary provisions.[^c19922411][^c13743691][^c18976001][^c13739731]
 
 *Extent: E+W*
 
@@ -93,6 +93,8 @@ abate the nuisance and do whatever may be necessary in execution of the abatemen
 [^c13743691]: Extent: Ss. 79-82, which previously extended to England and Wales only, extend to Scotland from 1.4.1996 (except where specified) by virtue of the repeal of s. 83 of this Act by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
 [^c18976001]: Modification: S. 79-81 excluded (S.) (22.4.2006 for certain purposes and otherwise prosp.) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 26(10)](https://www.legislation.gov.uk/asp/2005/3/section/26/10), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2006/167](https://www.legislation.gov.uk/ssi/2006/167), [art. 2](https://www.legislation.gov.uk/ssi/2006/167/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/167/schedule/2)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c13743701]: Textual amendment: Words in s. 81(1) substituted (5.1.1994) by [1993 c. 40](https://www.legislation.gov.uk/ukpga/1993/40), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1993/40/section/4/2), [12(1)(2)](https://www.legislation.gov.uk/ukpga/1993/40/section/12/1/2)
 

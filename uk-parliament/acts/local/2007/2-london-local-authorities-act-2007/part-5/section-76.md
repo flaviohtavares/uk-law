@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 76
 act: London Local Authorities Act 2007
 section: '76'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/76
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 76
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 76. Crime prevention on housing land
+## 76. Crime prevention on housing land[^c-d7cd2404bf8ba2699080919716497f24]
+
+*Extent: E+W*
 
 (1) This section applies in a borough in respect of which the borough council has appointed a day in respect of section 5 (crime prevention) of the [London Local Authorities (No. 2) Act 1990 (c. xxx)](https://www.legislation.gov.uk/ukla/1990/30).
 
@@ -29,3 +33,7 @@ summary: ''
 > (4A) The power under subsection (1)(ha) above may be exercised whether or not requested by residents of premises situated on the land.
 
 .
+
+## Annotations
+
+[^c-d7cd2404bf8ba2699080919716497f24]: Commencement: [S. 76](https://www.legislation.gov.uk/ukla/2007/2/section/76) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

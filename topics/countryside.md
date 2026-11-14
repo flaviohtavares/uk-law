@@ -186,7 +186,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Conservation (Natural Habitats, &c.) Amendment (No. 2) (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/425-the-conservation-natural-habitats-c-amendment-no-2-scotland-regulations-2008.md) *(as originally made)*
 - [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/17-the-conservation-natural-habitats-c-amendment-scotland-regulations-2008.md) *(as originally made)*
 - [The Countryside and Rights of Way Act 2000 (Commencement No. 15) Order 2008](../uk-parliament/regulations/2008/0000-0499/308-the-countryside-and-rights-of-way-act-2000-commencement-no-15-order-2008.md)
-- [The National Scenic Areas (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/202-the-national-scenic-areas-scotland-regulations-2008.md) *(as originally made)*
+- [The National Scenic Areas (Scotland) Regulations 2008](../scotland/regulations/2008/0000-0499/202-the-national-scenic-areas-scotland-regulations-2008.md) *(changes pending)*
 
 **2007**
 

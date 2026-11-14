@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 32
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '32'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/32
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 32
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 32. Nomination of sub agent
+## 32. Nomination of sub agent[^c-461698587a68ff60e81c90fbee3ea62d]
+
+*Extent: S*
 
 (1) An election agent of a candidate for return as a constituency member may appoint to act in any part of the constituency one, but not more than one, deputy election agent.
 
@@ -38,3 +42,7 @@ summary: ''
 and in the event of the revocation of the appointment or of the death of a sub agent another sub agent may be appointed, and his name and address shall be forthwith declared in writing to the appropriate returning officer, who shall forthwith give public notice of the name and address so declared.
 
 (7) The declaration to be made to the appropriate returning officer, and such notice to be given by him, under paragraph (5) or (6) above shall specify the part of the constituency or, as the case may be, region within which any sub agent is appointed to act.
+
+## Annotations
+
+[^c-461698587a68ff60e81c90fbee3ea62d]: Commencement: Art. 32 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

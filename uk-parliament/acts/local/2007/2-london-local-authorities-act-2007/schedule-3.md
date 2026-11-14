@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, SCHEDULE 3
 act: London Local Authorities Act 2007
 section: schedule-3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, SCHEDULE 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## SCHEDULE 3 — Part III of the [London Local Authorities Act 1990 (c. vii)](https://www.legislation.gov.uk/ukla/1990/7) as having effect as amended by the [London Local Authorities Act 1994 (c. xii)](https://www.legislation.gov.uk/ukla/1994/12), the [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1) and this Act
+## SCHEDULE 3 — Part III of the [London Local Authorities Act 1990 (c. vii)](https://www.legislation.gov.uk/ukla/1990/7) as having effect as amended by the [London Local Authorities Act 1994 (c. xii)](https://www.legislation.gov.uk/ukla/1994/12), the [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1) and this Act[^c-a02d9d33ca9bc3a82bb9cd80634caf78]
+
+*Extent: E+W*
 
 Section 49
 
@@ -718,3 +722,7 @@ Section 49
 > **41. Saving for sales in legal markets or fairs**
 >
 > In the case of any market or fair held in pursuance of any statute, royal licence, royal charter or letters patent, or as of right from time immemorial, nothing in this Part of this Act shall affect the sale or exposure or offer for sale of goods in any such market or fair by any person who has paid a toll to, or is acting under the written authority of, a person holding or entitled to hold such market or fair or entitled to receive tolls in respect of sales made or stalls or stands occupied in such market or fair.
+
+## Annotations
+
+[^c-a02d9d33ca9bc3a82bb9cd80634caf78]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukla/2007/2/schedule/3) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

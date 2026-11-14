@@ -1,11 +1,11 @@
 ---
 title: The Merchant Shipping Act 1979 (Cayman Islands) Order 1980, SCHEDULE TO THE ORDER
 act: The Merchant Shipping Act 1979 (Cayman Islands) Order 1980
-section: schedule-1
+section: schedule
 status: as-enacted
 text_date: null
 extent: null
-source_url: https://www.legislation.gov.uk/uksi/1980/1512/schedule/1
+source_url: https://www.legislation.gov.uk/uksi/1980/1512/schedule
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
 summary: ''
 ---

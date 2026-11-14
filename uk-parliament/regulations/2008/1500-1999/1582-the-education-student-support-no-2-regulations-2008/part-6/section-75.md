@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 75
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '75'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/75
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,26 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 75
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Students falling into more than one category[^c-474dcf1257dde23d7023b0f63d3fd794]
+## 75. Students falling into more than one category[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-Where an eligible student falls into more than one of the categories set out in regulation 82 in the course of the academic year—
-
-- (a) the maximum amount of loan for living costs for the academic year is the aggregate of the maximum amount of loan for living costs for each quarter in respect of which the loan for living costs is payable;
-- (b) the maximum amount of loan for living costs for each such quarter is one third of the maximum amount of loan for living costs which would apply for the academic year if the student fell into the category which applies to the relevant quarter for the duration of the academic year;
-- (c) the maximum amount of long courses loan for the academic year is the aggregate of the maximum amount of long courses loan for each quarter in respect of which the long courses loan is payable;
-- (d) the maximum amount of long courses loan for each such quarter is one third of the maximum amount of long courses loan which would apply for the academic year if the student fell into the category which applies to the relevant quarter for the duration of the academic year; and
-- (e) the category which applies to a quarter is—
-  - (i) the category into which the student falls for the longer or longest period in that quarter; or
-  - (ii) if the student falls into more than one category for an equal period in that quarter, the category with the higher or highest rate of loan for living costs for the academic year.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-474dcf1257dde23d7023b0f63d3fd794]: Commencement: Reg. 75 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 71
 act: London Local Authorities Act 2007
 section: '71'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/71
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 71
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 71. Temporary sleeping accommodation: powers of entry, search and seizure
+## 71. Temporary sleeping accommodation: powers of entry, search and seizure[^c-20404eea914ba92667f0cc839070f1b3]
+
+*Extent: E+W*
 
 (1) An authorised officer may, at all reasonable hours and on production, if required, of his credentials, exercise the following powers, that is to say—
 
@@ -48,3 +52,7 @@ the justice may by warrant under his hand, which shall continue in force for a p
 - “relevant enforcement notice” means an enforcement notice issued under section 172 of the Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8) (issue of enforcement notice) in respect of a material change of use of the type described in section 25 (provision of temporary sleeping accommodation to constitute material change of use) of the [Greater London Council (General Powers) Act 1973 (c. xxx)](https://www.legislation.gov.uk/ukla/1973/30);
 - “relevant items” means computers, software and other items which may be used to store or record information;
 - “relevant offence” means an offence under section 179 of the Town and Country Planning Act 1990 in relation to a relevant enforcement notice.
+
+## Annotations
+
+[^c-20404eea914ba92667f0cc839070f1b3]: Commencement: [S. 71](https://www.legislation.gov.uk/ukla/2007/2/section/71) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

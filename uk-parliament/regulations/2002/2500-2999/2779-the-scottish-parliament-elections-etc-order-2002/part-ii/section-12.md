@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 12
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '12'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 12. Voting as proxy
+## 12. Voting as proxy[^c-74d39c3af49a9f3e0102f27648a6f818]
+
+*Extent: S*
 
 (1) A person entitled to vote as proxy at a Scottish parliamentary election may do so in person at the polling station allotted to the elector under this Order unless he is entitled to vote by post as proxy for the elector at the election, in which case he may vote by post.
 
@@ -49,3 +53,7 @@ and shall forthwith supply to the constituency returning officer a copy of that 
 - (b) in the case of a person who applied to vote by post as proxy for a particular period, once that period expires;
 - (c) if the elector ceases to be registered in the register of electors; or
 - (d) if the appointment of the person concerned as the elector’s proxy ceases to be in force (whether or not he is re appointed).
+
+## Annotations
+
+[^c-74d39c3af49a9f3e0102f27648a6f818]: Commencement: Art. 12 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

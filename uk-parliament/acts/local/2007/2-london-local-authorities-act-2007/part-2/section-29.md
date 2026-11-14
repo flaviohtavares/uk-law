@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 29
 act: London Local Authorities Act 2007
 section: '29'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 29
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 29. Enforcement action zones
+## 29. Enforcement action zones[^c-1fd709eef55a0ce8cd03e4b780550de6]
+
+*Extent: E+W*
 
 (1) Subject to section 30 (designation procedure for enforcement action zones) of this Act, a borough council (or two or more borough councils acting jointly) may designate an area of land in which, in their opinion, it is expedient that enhanced environmental crime enforcement action should be enabled.
 
@@ -37,3 +41,7 @@ summary: ''
 (6) A designating authority may by resolution bring to an end a designation under this section.
 
 (7) In this section, “environmental crime” means criminal activity which is related to the degradation of the amenity of an area.
+
+## Annotations
+
+[^c-1fd709eef55a0ce8cd03e4b780550de6]: Commencement: [S. 29](https://www.legislation.gov.uk/ukla/2007/2/section/29) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

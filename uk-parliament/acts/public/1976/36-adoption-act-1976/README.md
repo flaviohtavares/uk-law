@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1976-07-22'
-text_date: '2009-10-01'
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1976/36
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1976/36/pdfs/ukpga_19760036_en.pdf
 - http://www.legislation.gov.uk/ukpga/1976/36/data.pdf
-pending_changes: 7
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Adoption Act 1976
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2009-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-11-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

@@ -3,15 +3,15 @@ title: The Alcoholic Liquor Duties (Surcharges) and Tobacco Products Duty Order 
 id: uksi/2008/3026
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-24'
-text_date: null
-extent: null
+text_date: '2008-12-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3026
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3026/pdfs/uksiem_20083026_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3026/pdfs/uksi_20083026_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/3026/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/3026/data.pdf
 pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Alcoholic Liquor Duties (Surcharges) and Tobacco Products Duty Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2008-12-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3026
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 3026
 
@@ -50,15 +54,15 @@ for the purposes of article 3
 
 The Treasury make this Order exercising the powers conferred by sections 1(2)(a) and 1(1)(a) of the Excise Duties (Surcharges or Rebates) Act 1979[^f00001] and sections 6(1) and 6(5)(a) of the Tobacco Products Duty Act 1979[^f00002].
 
-**1.** (1) This Order may be cited as the Alcoholic Liquor Duties (Surcharges) and Tobacco Products Duty Order 2008.
+**1.**[^c-a38deb4ee80526a8ec5b3ccc41f74e91][^c-9eb93915f828f4d80a5ca27a9c6a0b45] (1) This Order may be cited as the Alcoholic Liquor Duties (Surcharges) and Tobacco Products Duty Order 2008.
 
 (2) This article (for the purposes of article 2) and article 2 take effect on 1st December 2008.
 
 (3) This article (for the purposes of article 3) and article 3 take effect at 6.00 p.m. on 24th November 2008[^f00003].
 
-**2.** Schedule 1 takes effect in relation to the excise duties chargeable in respect of spirits, beer, wine, made–wine and cider[^f00004] (8 per cent surcharges on amounts payable).
+**2.**[^c-11bf50b779a0eee4741a76d961165a3f] Schedule 1 takes effect in relation to the excise duties chargeable in respect of spirits, beer, wine, made–wine and cider[^f00004] (8 per cent surcharges on amounts payable).
 
-**3.** Schedule 2 takes effect in relation to the excise duty charged on tobacco products[^f00005] (rates of duty increased by no more than 10 per cent).
+**3.**[^c-deb5d5e4bacc42fda4e66da679dc0e3e] Schedule 2 takes effect in relation to the excise duty charged on tobacco products[^f00005] (rates of duty increased by no more than 10 per cent).
 
 Steve McCabe
 
@@ -72,11 +76,11 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Article 2
 
-**1.** Liabilities to each of the excise duties chargeable in respect of spirits, beer, wine, made-wine and cider are adjusted as follows.
+**1.**[^c-a8763f16555dd13768a2e002c16024e1] Liabilities to each of the excise duties chargeable in respect of spirits, beer, wine, made-wine and cider are adjusted as follows.
 
-**2.** To each amount payable, 8 per cent of that amount is added[^f00006].
+**2.**[^c-2a2fbacaa4525ea596171c0c0eacc24f] To each amount payable, 8 per cent of that amount is added[^f00006].
 
-## SCHEDULE 2 — Tobacco products: increases to rates of duty
+## SCHEDULE 2 — Tobacco products: increases to rates of duty[^c-b4e9ff197c5e3f13878c6584964c63a3]
 
 Article 3
 
@@ -116,13 +120,27 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [1979 c. 7](https://www.legislation.gov.uk/ukpga/1979/7); the instrument was laid before the House of Commons after 1.00 p.m. but before 6.00 p.m. 24th November 2008.
 
+[^c-a38deb4ee80526a8ec5b3ccc41f74e91]: Commencement: Art. 1 in force at 24.11.2008 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/3026/article/1/3)
+
+[^c-9eb93915f828f4d80a5ca27a9c6a0b45]: Commencement: Art. 1 in force at 1.12.2008 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3026/article/1/2)
+
 [^f00003]: Footnote: Greenwich mean time, see sections 9 and 23 of the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c-11bf50b779a0eee4741a76d961165a3f]: Commencement: Art. 2 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3026/article/1/2)
 
 [^f00004]: Footnote: Equivalent expressions have the same meaning as in the [Alcoholic Liquor Duties Act 1979 (c. 4)](https://www.legislation.gov.uk/ukpga/1979/4) (see section 4(1) of the [Excise Duties (Surcharges or Rebates) Act 1979 (c. 8)](https://www.legislation.gov.uk/ukpga/1979/8) and section 1(1) of the [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2)).
 
+[^c-deb5d5e4bacc42fda4e66da679dc0e3e]: Commencement: Art. 3 in force at 24.11.2008 at 6.00 p.m. on 24th November 2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/3026/article/1/3)
+
 [^f00005]: Footnote: Cigarettes, cigars, hand-rolling tobacco, other smoking tobacco and chewing tobacco (see sections 1(1) and 2(1) of, and Schedule 1 to, the [Tobacco Products Duty Act 1979 (c. 7)](https://www.legislation.gov.uk/ukpga/1979/7)).
 
+[^c-a8763f16555dd13768a2e002c16024e1]: Commencement: Sch. 1 para. 1 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3026/article/1/2)
+
+[^c-2a2fbacaa4525ea596171c0c0eacc24f]: Commencement: Sch. 1 para. 2 in force at 1.12.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3026/article/1/2)
+
 [^f00006]: Footnote: The adjustment shall be made where the duty becomes due while the order is in force with respect to it, see section 1(3) of the [Excise Duties (Surcharges or Rebates) Act 1979 (c. 8)](https://www.legislation.gov.uk/ukpga/1979/8) (to which there is an amendment not relevant to this instrument).
+
+[^c-b4e9ff197c5e3f13878c6584964c63a3]: Commencement: Sch. 2 in force at 24.11.2008 at 6.00 p.m. on 24th November 2008, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/3026/article/1/3)
 
 [^f00007]: Footnote: [1979 c. 7](https://www.legislation.gov.uk/ukpga/1979/7); the Table in Schedule 1 was last substituted by section 12(1) of the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
 

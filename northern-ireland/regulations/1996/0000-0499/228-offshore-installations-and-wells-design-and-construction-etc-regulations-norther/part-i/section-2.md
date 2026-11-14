@@ -2,9 +2,9 @@
 title: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 2
 act: Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '1996-06-07'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/228/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 2. Interpretation
+## 2. Interpretation[^c-7823c0d59fed33da5b30024cd5cdfbac]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 (1) In these Regulations—
 
@@ -57,6 +63,8 @@ summary: ''
 and diving operations include the activity of any person in connection with the health and safety of a person who is, or is deemed to be, engaged in diving operations.
 
 ## Annotations
+
+[^c-7823c0d59fed33da5b30024cd5cdfbac]: Commencement: Reg. 2 in operation at 21.7.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/228/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1993 No. 221](https://www.legislation.gov.uk/nisr/1993/221) as amended by [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340) and [S.R. 1995 No. 345](https://www.legislation.gov.uk/nisr/1995/345)
 

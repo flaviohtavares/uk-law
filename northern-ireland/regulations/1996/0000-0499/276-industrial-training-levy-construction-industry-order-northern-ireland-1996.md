@@ -3,14 +3,14 @@ title: Industrial Training Levy (Construction Industry) Order (Northern Ireland)
 id: nisr/1996/276
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-05'
-text_date: null
-extent: null
+text_date: '1996-07-05'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/276
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/276/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/276/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Industrial Training Levy (Construction Industry) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 1996-07-05. See https://www.legislation.gov.uk/changes/affected/nisr/1996/276
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 276
 
@@ -50,7 +56,7 @@ And whereas Article 23(7)(*b*) of the Order of 1984 is applicable;
 
 Now, therefore, the Department in exercise of the powers conferred on it by Articles 23(2) and (3) and 24(3) and (4) of the Order of 1984, and of every other power enabling it in that behalf, hereby makes the following Order:—
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-21fd7c0aa6ba45ac145d73aa32807ac9]
 
 (1) This Order may be cited as the Industrial Training Levy (Construction Industry) Order (Northern Ireland) 1996 and shall come into operation on 31st August 1996.
 
@@ -71,7 +77,7 @@ Now, therefore, the Department in exercise of the powers conferred on it by Arti
 
 (3) Any reference in this Order to an establishment that commences to carry on business or that ceases to carry on business shall not be taken to apply where the location of the establishment is changed but its business is continued wholly or mainly at or from the new location, or where the suspension of activities is of a temporary or seasonal nature.
 
-## 2. Imposition and assessment of the levy for the thirty-second levy period
+## 2. Imposition and assessment of the levy for the thirty-second levy period[^c-ee6fae3fcb1e32ee5b2d25c87795f957]
 
 (1) The levy to be imposed on employers shall be assessed in accordance with the provisions of this Article.
 
@@ -95,7 +101,7 @@ and no remission of the levy shall be given to an employer.
 
 (7) In reckoning the amount of the relevant emoluments for the purposes of this Article no regard shall be had to the emoluments of any person engaged wholly in the supply of food or drink for immediate consumption.
 
-## 3. Assessment notices
+## 3. Assessment notices[^c-6d23fd0a1df1d3db20ca65fddb9a1622]
 
 (1) The Board shall serve an assessment notice on every employer assessed to the levy but one notice may comprise two or more assessments.
 
@@ -110,7 +116,7 @@ and no remission of the levy shall be given to an employer.
 
 (5) An assessment notice may be served on the person assessed to the levy either by delivering it to him personally or by leaving it, or sending it to him by post, at his last known address or place of business in the United Kingdom, or, if that person is a corporation, by leaving it, or sending it by post to the corporation, at such address or place of business or at its registered or principal office.
 
-## 4. Payment of the levy
+## 4. Payment of the levy[^c-32778fc38271cc4207726f18a834aff8]
 
 (1) Subject to the provisions of this Article and of Articles 5 and 6 the amount of each assessment appearing in an assessment notice served by the Board shall be due and payable to the Board in two instalments and the said instalments shall be due respectively on 1st October 1996 and 1st February 1997.
 
@@ -118,13 +124,13 @@ and no remission of the levy shall be given to an employer.
 
 (3) An instalment of an assessment shall not be recoverable by the Board until there has expired the time allowed for appealing against the assessment by Article 6(1) and any further period of time that the Board or an industrial tribunal may have allowed for appealing under Article 6(2) or (3) or, where an appeal is brought, until the appeal is decided or withdrawn.
 
-## 5. Withdrawal of assessment
+## 5. Withdrawal of assessment[^c-784f5168f7fb23fbe83bc8008930bcd4]
 
 (1) The Board may, by a notice served on the person assessed to the levy in the same manner as an assessment notice, withdraw an assessment if that person has appealed against that assessment under the provisions of Article 6 and the appeal has not been entered in the Register of Appeals kept under the regulations specified in Article 6(5).
 
 (2) The withdrawal of an assessment shall be without prejudice to the power of the Board to serve a further assessment notice in respect of any establishment to which that assessment related and where the withdrawal is made by reason of the fact that an establishment has ceased to carry on business in the thirty-second levy period, the said notice may provide that the whole amount payable thereunder shall be due one month after the date of the notice.
 
-## 6. Appeals
+## 6. Appeals[^c-b74e7646ddc5d88d19fd3f354e725014]
 
 (1) A person assessed to the levy may appeal to an industrial tribunal against the assessment within one month from the date of the service of the assessment notice or within any further period of time that may be allowed by the Board or an industrial tribunal under the following provisions of the Article.
 
@@ -136,7 +142,7 @@ and no remission of the levy shall be given to an employer.
 
 (5) An application to an industrial tribunal under this Article shall be made in accordance with the Industrial Tribunals Regulations (Northern Ireland) 1965[^f00005].
 
-## 7. Evidence
+## 7. Evidence[^c-14ade50db02d02d8f9978db429e8fbe5]
 
 Upon the discharge by a person assessed to the levy of his liability under an assessment the Board shall if so requested issue to him a certificate to that effect.
 
@@ -166,8 +172,22 @@ An employer will be exempt from levy in the thirty-second levy period where the 
 
 [^f00002]: Footnote: [S.I. 1984/1159 (N.I. 9)](https://www.legislation.gov.uk/nisi/1984/1159)
 
+[^c-21fd7c0aa6ba45ac145d73aa32807ac9]: Commencement: Art. 1 in operation at 31.8.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/276/article/1/1)
+
 [^f00003]: Footnote: [S.R. & O. (N.I.) 1964 No. 145](https://www.legislation.gov.uk/nisro/1964/145) as amended by [S.R. & O. (N.I.) 1967 No. 236](https://www.legislation.gov.uk/nisro/1967/236) and [S.R. 1994 No. 312](https://www.legislation.gov.uk/nisr/1994/312)
 
 [^f00004]: Footnote: *See* Section 19 Income and Corporation Taxes Act [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
+[^c-ee6fae3fcb1e32ee5b2d25c87795f957]: Commencement: Art. 2 in operation at 31.8.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/276/article/1/1)
+
+[^c-6d23fd0a1df1d3db20ca65fddb9a1622]: Commencement: Art. 3 in operation at 31.8.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/276/article/1/1)
+
+[^c-32778fc38271cc4207726f18a834aff8]: Commencement: Art. 4 in operation at 31.8.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/276/article/1/1)
+
+[^c-784f5168f7fb23fbe83bc8008930bcd4]: Commencement: Art. 5 in operation at 31.8.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/276/article/1/1)
+
+[^c-b74e7646ddc5d88d19fd3f354e725014]: Commencement: Art. 6 in operation at 31.8.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/276/article/1/1)
+
 [^f00005]: Footnote: [S.R. & O. (N.I.) 1965 No. 112](https://www.legislation.gov.uk/nisro/1965/112) as amended by [S.R. & O. (N.I.) 1966 No. 261](https://www.legislation.gov.uk/nisro/1966/261) and [S.R. & O. (N.I.) 1967 No. 109](https://www.legislation.gov.uk/nisro/1967/109)
+
+[^c-14ade50db02d02d8f9978db429e8fbe5]: Commencement: Art. 7 in operation at 31.8.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/276/article/1/1)

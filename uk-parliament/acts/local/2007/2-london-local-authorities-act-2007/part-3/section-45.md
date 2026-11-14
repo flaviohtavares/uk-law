@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 45
 act: London Local Authorities Act 2007
 section: '45'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/45
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 45
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 45. Seizure of perishable items
+## 45. Seizure of perishable items[^c-bcdaab7b451bb36036887b3c9a946e57]
+
+*Extent: E+W*
 
 After section 38 (unlicensed street trading) of the Act of 1990, the following section is inserted—
 
@@ -52,3 +56,7 @@ After section 38 (unlicensed street trading) of the Act of 1990, the following s
 > (12) When this subsection has effect a person who has, or at the time of seizure had, a legal interest in the item seized may recover compensation from the borough council or (where it is seized by a constable) the Commissioner of Police of the Metropolis by civil action in the County Court in respect of any loss suffered by him as a result of the seizure and any such compensation shall not be included in the computation for calculating charges under section 32 (fees and charges) of this Act.
 
 .
+
+## Annotations
+
+[^c-bcdaab7b451bb36036887b3c9a946e57]: Commencement: [S. 45](https://www.legislation.gov.uk/ukla/2007/2/section/45) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

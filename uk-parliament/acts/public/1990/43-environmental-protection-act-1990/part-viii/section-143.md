@@ -16,10 +16,12 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 143. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13748191]
+## 143. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13748191][^c13739731]
 
 *Extent: E+W+S*
 
 ## Annotations
 
 [^c13748191]: Textual amendment: S. 143 repealed (1.4.2000 for E., 14.7.2000 for S. and 15.9.2001 for W.) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1/3), [Sch. 22 para. 91](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/91), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2000/340/article/2/b/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2000/340/article/3)); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2000/180/article/3)); [S.I. 2001/3211](https://www.legislation.gov.uk/uksi/2001/3211), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/3211/article/2/b) (with saving in [art. 3](https://www.legislation.gov.uk/uksi/2001/3211/article/3))
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

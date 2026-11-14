@@ -5,13 +5,13 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2003-10-06'
-text_date: '2016-04-01'
+text_date: '2017-02-20'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2003/2613
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2003/2613/pdfs/uksi_20032613_en.pdf
 - http://www.legislation.gov.uk/uksi/2003/2613/data.pdf
-pending_changes: 104
+pending_changes: 57
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003
 
-> **Warning: changes not yet applied to this text (104).** Text as at 2016-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2613
+> **Warning: changes not yet applied to this text (57).** Text as at 2017-02-20. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2613
 >
 > Extent: England, Wales.
 
@@ -87,7 +87,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 These Regulations apply in relation to council tax demand notices and rate demand notices served by an English billing authority or an authorised person on behalf of such a billing authority in relation to financial years beginning on or after 1st April 2004 and, accordingly, the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 1993[^f00008], shall not have effect in relation to any such notice.
 
-## 3. Content of demand notices, etc[^c-f076b7b6219a903ba77b5238062b01e0]
+## 3. Content of demand notices and publication of explanatory notes[^c-f076b7b6219a903ba77b5238062b01e0][^c-ad48609a7e2d632c13ab04b5590ee785]
 
 (1) Subject to paragraph (2) and (2A), a council tax demand notice shall contain the matters specified in Schedule 1.
 
@@ -100,10 +100,22 @@ need not contain the matter specified in paragraph 24[^c-21b54f2a89eb31b3564636e
 
 (3) A rate demand notice—
 
-- (a) served by a billing authority or an authorised person on behalf of the billing authority, other than the Common Council or a rural settlement authority, shall contain the matters mentioned in Part 1 of Schedule 2;
-- (b) served by a rural settlement authority or an authorised person on behalf of the rural settlement authority, shall contain the matters mentioned in that Part as modified by Part 2; [^c-40cdf3f3a8e737d2dcf0b4d0b482abbf]...
-- (c) served by the Common Council or an authorised person on behalf of the Common Council, shall contain the matters mentioned in Part 3 ; and[^c-8260790ca8f92402c7456b2954d10348]
-- (d)[^c-5751a71f4eea7de9c1e9919e2804fc04] served by a BRS authority or an authorised person on behalf of the BRS authority on a person liable to pay BRS to the authority, shall contain the matters mentioned in Part 1 of Schedule 2 as modified by Part 2A or, where the BRS authority concerned is the Common Council, the matters mentioned in Part 3 of Schedule 2 as modified by Part 3A.
+- (a) served by a billing authority or an authorised person on behalf of the billing authority, other than the Common Council or a rural settlement authority, shall contain the matters mentioned in paragraphs 1 to 6 of[^c-9988c5f5630d3edae38100127f9b24ca] Part 1 of Schedule 2 , and the billing authority must—[^c-a3ec5f732a14d76dcc481e6db4b1ffa8]
+  - (i) publish on its website explanatory notes in the terms, or in substantially similar terms, contained in paragraph 7 of that Part; and
+  - (ii) supply a hard copy of such explanatory notes to a ratepayer on request
+
+    ;
+- (b) served by a rural settlement authority or an authorised person on behalf of the rural settlement authority, shall contain the matters mentioned in paragraphs 1 to 6 of[^c-91da5c227444ccb29103a0af07eb5092] that Part as modified by Part 2 , and the rural settlement authority must—[^c-26234cb8508c02ad32aafd3f22deb490]
+  - (i) publish on its website explanatory notes in the terms, or in substantially similar terms, contained in paragraph 7 of Part 1 as modified by Part 2; and
+  - (ii) supply a hard copy of such explanatory notes to a ratepayer on request; [^c-40cdf3f3a8e737d2dcf0b4d0b482abbf]...
+- (c) served by the Common Council or an authorised person on behalf of the Common Council, shall contain the matters mentioned in paragraphs 1 and 2 of[^c-4a3d4ee3e085beb3382f644bbcbfc72a] Part 3 , and the Common Council must—[^c-ed2e6116ce7f0a1ab183f45513aa68dc]
+  - (i) publish on its website explanatory notes in the terms, or in substantially similar terms, contained in paragraph 3 of that Part; and
+  - (ii) supply a hard copy of such explanatory notes to a ratepayer on request ; and[^c-8260790ca8f92402c7456b2954d10348]
+- (d)[^c-5751a71f4eea7de9c1e9919e2804fc04] served by a BRS authority or an authorised person on behalf of the BRS authority on a person liable to pay BRS to the authority, shall contain the matters mentioned in paragraphs 1 to 6 of[^c-24aeccd807b751ba5e6135b4eac39566] Part 1 of Schedule 2 as modified by Part 2A or, where the BRS authority concerned is the Common Council, the matters mentioned in paragraphs 1 and 2 of[^c-19387574fe775579ba9951dbc126be09] Part 3 of Schedule 2 as modified by Part 3A , and the BRS authority must—[^c-b7fa4079b9ff16c9a68e967377f6ddab]
+  - (i) publish on its website explanatory notes in the terms, or in substantially similar terms, contained in paragraph 7 of Part 1 as modified by Part 2A or, where the BRS authority concerned is the Common Council, contained in paragraph 3 of Part 3 as modified by Part 3A; and
+  - (ii) supply a hard copy of such explanatory notes to a ratepayer on request.
+
+    .
 
 (4) Subject to paragraph (5), a billing authority must when it serves a council tax demand notice supply to the person on whom the notice is served the information mentioned in Part 1 of Schedule 3, and must when it serves a rate demand notice supply to the person on whom the notice is served the information mentioned in paragraphs 2 to 4 of Part 2 of Schedule 2 to the Council Tax (Demand Notices) (England) Regulations 2011 *(Extent: E)*[^c-dee4010612161b1f79bb905e4ba218fe]; and Part 3 of that Schedule shall have effect for the purposes of both Parts 1 and 2.
 
@@ -123,7 +135,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 
 (2) Where—
 
-- (a) a rate demand notice is invalid because it does not comply with sub-paragraph (a) of paragraph (3) of regulation 3, or as the case may be, sub-paragraph (b) or (c) of that paragraph;
+- (a) a rate demand notice is invalid because it does not comply with sub-paragraph (a) of paragraph (3) of regulation 3, or as the case may be, sub-paragraph (b) , (c) or (d)[^c-50d4ed357bf78655aaa4adc8016a62f2] of that paragraph;
 - (b) the failure to comply was due to a mistake; and
 - (c) the amounts required to be paid under the notice were demanded in accordance with Part 2 of the Collection Regulations;
 
@@ -344,7 +356,7 @@ Explanatory notes, which must include—
   - (i) by a person who wishes to dispute any matter shown in the billing authority’s valuation list in relation to the dwelling, or
   - (ii) by a person aggrieved as mentioned in section 16(1) of the Act.
 
-## SCHEDULE 2 — MATTERS TO BE CONTAINED IN RATE DEMAND NOTICES[^c-c513fafa9c19183d474be20d46b6a9bc]
+## SCHEDULE 2 — MATTERS TO BE CONTAINED IN RATE DEMAND NOTICES AND PUBLICATION OF EXPLANATORY NOTES[^c-c513fafa9c19183d474be20d46b6a9bc][^c-a7bccac2b74ec1b38cdb7613be7931c9]
 
 Regulation 3(3)
 
@@ -359,6 +371,8 @@ Regulation 3(3)
 **4.** Where an order under section 45(4A) of the 1988 Act is or will be in force on any day in the relevant year, a statement of the days (if any) on which, for the purposes of calculating the payments required to be made under the notice, it was understood or assumed that the conditions mentioned in section 45(1) of the 1988 Act were or would be fulfilled in relation to any relevant hereditament, and a statement that as regards those days the chargeable amount is reduced by the proportion provided for in the order as compared with the amount it would be if the ratepayer were in occupation of the hereditament.
 
 **5.** Where section 45A applies to any relevant hereditament on any day in the relevant year, a statement that as regards those days the chargeable amount is zero under that section and a statement of the amount by which the aggregate amount demanded under the notice is reduced as compared with the amount which would have been demanded if section 45(4) applied to the calculation of the chargeable amount for those days.
+
+**5A.**[^c-384d56937bfc75b9acb92556978371f1] A statement that explanatory notes are published on the authority’s website, a statement of the website address of the authority where the explanatory notes are published and a statement that hard copies of explanatory notes are available on request from the authority.
 
 **6.** A statement of the days (if any) on which, for the purposes of calculating the payments required to be made under the notice it was understood or assumed that—
 
@@ -378,11 +392,11 @@ Non-Domestic Rates, or business rates, collected by local authorities are the wa
 
 Rateable Value
 
-Apart from properties that are exempt from business rates, each non-domestic property has a rateable value which is set by the valuation officers of the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They draw up and maintain a full list of all rateable values, available at www.gov.uk/government/organisations/valuation-office-agency. The rateable value of your property is shown on the front of this bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date. For the revaluation that came into effect on 1st April 2010, this date was set as 1st April 2008.
+Apart from properties that are exempt from business rates, each non-domestic property has a rateable value which is set by the valuation officers of the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They draw up and maintain a full list of all rateable values, available at www.gov.uk/government/organisations/valuation-office-agency. The rateable value of your property is shown on the front of your bill[^c-f74591cda19108cc24965b6b687d60f4]. This broadly represents the yearly rent the property could have been let for on the open market on a particular date. For the revaluation that came into effect on 1st April 2017[^c-f8213274499355bdcfc66eb7decea222], this date was set as 1st April 2015[^c-84c2de4e813510fe442004eca2baf847].
 
 The valuation officer may alter the value if circumstances change. The ratepayer (and certain others who have an interest in the property) can appeal against the value shown in the list if they believe it is wrong. Full details on your rights of appeal are available from the Valuation Office Agency. Your billing authority can only backdate any business rates rebate to the date from which any change to the list is to have effect.[^c-26c8826d121433611c5fbced3f8179cc]
 
-The Valuation Office Agency will continue to fulfil their legal obligations to alter rating assessments if new information comes to light indicating the valuation is inaccurate. Any alterations they make on or after 1st April 2016 can only be backdated to 1st April 2015.
+The Valuation Office Agency will continue to fulfil their legal obligations to alter rating assessments if new information comes to light indicating the valuation is inaccurate. [^c-50d98bfb2cd5a74d70b42346cf59ed8e]...
 
 Further information about the grounds on which appeals may be made and the process for doing so can be found on the www.gov.uk website or obtained from your local valuation office.
 
@@ -390,21 +404,27 @@ National Non-Domestic Rating Multiplier
 
 The local authority works out the business rates bill by multiplying the rateable value of the property by the appropriate multiplier. There are two multipliers: the standard non-domestic rating multiplier and the small business non-domestic rating multiplier. The former is higher to pay for small business rate relief. Except in the City of London where special arrangements apply, the Government sets the multipliers for each financial year for the whole of England according to formulae set by legislation.
 
-The current multipliers are shown on the front of this bill.[^c-2a14cc2ac61722e54bd18c02d69c45de]
+The current multipliers are shown on the front of[^c-2a14cc2ac61722e54bd18c02d69c45de] your bill[^c-45d5670c8d61bb444f2ef4e1de939722].
 
 Business Rates Instalments
 
 Payment of business rate bills is automatically set on a 10-monthly cycle. However, the Government has put in place regulations that allow businesses to require their local authority to enable payments to be made through 12 monthly instalments. If you wish to take up this offer, you should contact the local authority as soon as possible.
 
-Revaluation 2017
+Revaluation 2017 and Transitional Arrangements[^c-338b594797cc5eb8356b03f292e13b19]
 
-All rateable values are reassessed at a general revaluation to ensure bills paid by any one ratepayer reflect changes over time in the value of their property relative to others. This helps maintain fairness in the rating system by updating valuations in line with changes in the market. The current rating list is based on the 2010 revaluation. The Government has confirmed that the next revaluation will take place in 2017 based on rental values at 1st April 2015. More information on revaluation 2017 can be found at: www.gov.uk/government/organisations/valuation-office-agency.
+All rateable values are reassessed at a general revaluation. The 2017 revaluation takes effect from 1st April 2017. Revaluations make sure each ratepayer pays their fair contribution and no more, by ensuring that the share of the national rates bill paid by any one ratepayer reflects changes over time in the value of their property relative to others. Revaluation does not raise extra money for Government.
 
-In the year of revaluation the multipliers are rebased to account for overall changes to total rateable value and to ensure that the revaluation does not raise extra money for Government. Similarly, the change in the revaluation date to 2017 has no effect on the total amount of revenue raised from business rates.
+Whilst the 2017 revaluation will not increase the amount of rates collected nationally, within this overall picture, over 7 out of 10 ratepayers will receive a reduction or no change in their bill and some ratepayers will see increases.
+
+For those that would otherwise see significant increases in their rates liability, the Government has put in place a £3.6 billion transitional relief scheme to limit and phase in changes in rate bills as a result of the 2017 revaluation. To help pay for the limits on increases in bills, there also have to be limits on reductions in bills. Under the transitional scheme, limits continue to apply to yearly increases and decreases until the full amount is due (rateable value times the appropriate multiplier). The scheme applies only to the bill based on a property at the time of the revaluation. If there are any changes to the property after 1st April 2017, transitional arrangements will not normally apply to the part of a bill that relates to any increase in rateable value due to those changes. Changes to your bill as a result of other reasons (such as changes to the amount of small business rate relief) are not covered by the transitional arrangements.
+
+The transitional arrangements are applied automatically and are shown on the front of your bill. Further information about transitional arrangements and other reliefs may be obtained from \[insert name of billing authority\] or the website www.gov.uk/introduction-to-business-rates.
+
+More information on the 2017 revaluation can be found at www.gov.uk/introduction-to-business-rates/revaluation.
 
 Unoccupied Property Rating
 
-Business rates will not be payable in the first three months that a property is empty. This is extended to six months in the case of certain industrial properties. After this period rates are payable in full unless the unoccupied property rate has been reduced by the Government by order. In most cases the unoccupied property rate is zero for properties owned by charities and community amateur sports clubs. In addition, there are a number of exemptions from the unoccupied property rate. Full details on exemptions can be obtained from your local authority. If the unoccupied property rate for the financial year has been reduced by order, it will be shown on the front of this bill.
+Business rates will not be payable in the first three months that a property is empty. This is extended to six months in the case of certain industrial properties. After this period rates are payable in full unless the unoccupied property rate has been reduced by the Government by order. In most cases the unoccupied property rate is zero for properties owned by charities and community amateur sports clubs. In addition, there are a number of exemptions from the unoccupied property rate. Full details on exemptions can be obtained from your local authority. If the unoccupied property rate for the financial year has been reduced by order, it will be shown on the front of your bill[^c-7288771cfe584b7e6e9f5109961c3773].
 
 The Government has introduced a temporary measure for unoccupied new builds from October 2013. Unoccupied new builds will be exempt from unoccupied property rates for up to 18 months (up to state aid limits) where the property comes on to the list between 1st October 2013 and 30th September 2016. The 18 month period includes the initial 3 or 6 month exemption and so properties may, if unoccupied, be exempt from non-domestic rates for up to an extra 15 or 12 months.
 
@@ -414,16 +434,16 @@ A ratepayer is liable for the full non-domestic rate whether a property is wholl
 
 Small Business Rate Relief
 
-Ratepayers who occupy a property with a rateable value which does not exceed £17,999 outside London or £25,499 in London (and who are not entitled to other mandatory relief or are liable for unoccupied property rates) will have their bills calculated using the lower small business non-domestic rating multiplier, rather than the national non-domestic rating multiplier.[^c-c497bfbe7f4840351ba91867539491cf]
+Ratepayers who occupy a property with a rateable value which does not exceed[^c-c497bfbe7f4840351ba91867539491cf] £50,999[^c-b77e739fdbc8bd69ce8f820acfafa2f3] in London (and who are not entitled to other mandatory relief or are liable for unoccupied property rates) will have their bills calculated using the lower small business non-domestic rating multiplier, rather than the national non-domestic rating multiplier.
 
-In addition, generally, if the sole or main property is shown on the rating list with a rateable value which does not exceed £12,000, the ratepayer will receive a percentage reduction in their rates bill for this property of up to a maximum of 50% for a property with a rateable value of not more than £6,000. The Government has announced, in the Autumn Statement 2015[^c-3e0447d6982c3251b0f415e7028185b1], that the doubling of the usual level of relief - to a maximum of 100% - will continue for a further year, until 31st March 2017[^c-9bd5a574dbc29adfba1e92f244fc4d99].
+In addition, generally, if the sole or main property is shown on the rating list with a rateable value which does not exceed £15,000[^c-849991125dda48e60138fbeb414af03d], the ratepayer will receive a percentage reduction in their rates bill for this property of up to a maximum of 100%. For[^c-77078fed3434820140ea7d78d3d662bd] a property with a rateable value of not more than £12,000, the ratepayer will receive a 100% reduction in their rates bill[^c-19ad0052325ae5ef39691642d9583412].
 
 Generally, this percentage reduction (relief) is only available to ratepayers who occupy either-
 
 - (a) one property, or
-- (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed £2,599.
+- (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed £2,899[^c-588484eb70bafbe06e4324345e73543e].
 
-The rateable value of the property mentioned in (a), or the aggregate rateable value of all the properties mentioned in (b), must not exceed £17,999 outside London or £25,499 in London on each day for which relief is being sought. If the rateable value, or aggregate rateable value, increases above those levels, relief will cease from the day of the increase.
+The rateable value of the property mentioned in (a), or the aggregate rateable value of all the properties mentioned in (b), must not exceed £19,999[^c-eb6e5eedf2d480673d36940100104865] outside London or £27,999[^c-99cbcc0a493ff15ab9b9867ff085f887] in London on each day for which relief is being sought. If the rateable value, or aggregate rateable value, increases above those levels, relief will cease from the day of the increase.
 
 The Government has introduced additional support to small businesses. For those businesses that take on an additional property which would normally have meant the loss of small business rate relief, the Government has confirmed that they will be allowed to keep that relief for a period of 12 months.
 
@@ -439,6 +459,10 @@ Charity and Community Amateur Sports Club Relief
 Charities and registered Community Amateur Sports Clubs are entitled to 80% relief where the property is occupied by the charity or the club, and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the club (or of that and other clubs).
 
 The local authority has discretion to give further relief on the remaining bill. Full details can be obtained from the local authority.
+
+Relief for Local Newspapers[^c-fcc12580c9305325bf7a6834acd93f3b]
+
+The Government is providing funding to local authorities so that they can provide a discount worth up to £1,500 a year for 2 years from 1st April 2017, to office space occupied by local newspapers. This is up to a maximum of one discount per local newspaper title and per hereditament, and up to state aid limits. The relief will be delivered through local authority discretionary discount powers (under section 47(3) of the Local Government Finance Act 1988). Eligibility criteria for this relief is set out in a guidance note: “The case for a business rates relief for local newspapers”, which can be obtained at www.gov.uk/government/consultations/the-case-for-a-business-rates-relief-for-local-newspapers.
 
 [^c-6ac7a69fd0b238ad0528b687e22d91b1]...
 
@@ -456,7 +480,7 @@ The local authority has discretion to give hardship relief in specific circumsta
 
 Rating advisers
 
-Ratepayers do not have to be represented in discussions about their rateable value or their rates bill. Appeals against rateable values can be made free of charge. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS - website www.rics.org) and the Institute of Revenues, Rating and Valuation (IRRV - website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further ad-vice before entering into any contract.
+Ratepayers do not have to be represented in discussions about their rateable value or their rates bill. [^c-1976158a864e90c463c0f01ca2c866c4]...However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS - website www.rics.org) and the Institute of Revenues, Rating and Valuation (IRRV - website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further ad-vice before entering into any contract.
 
 Information Supplied with Demand Notices
 
@@ -471,7 +495,7 @@ In relation to rural settlement authorities, Part 1 shall have effect as if—
 
   > **Rate relief for businesses in rural areas[^c-9ff50b9a7b0f8a466abb679a0e2e7259]**
   >
-  > Certain types of properties in a rural settlement with a population below 3,000 may be entitled to relief. The property must be the only general store, the only post office or a food shop and have a rateable value of less than £8,500, or the only public house or the only petrol station and have a rateable value of less than £12,500. The property has to be occupied. An eligible ratepayer is entitled to relief at 50% of the full charge whilst the local authority also has discretion to give further relief on the remaining bill.
+  > Certain types of properties in a rural settlement with a population below 3,000 may be entitled to relief. The property must be the only general store, the only post office or a food shop and have a rateable value of less than £8,500, or the only public house or the only petrol station and have a rateable value of less than £12,500. The property has to be occupied. An eligible ratepayer is entitled to relief at 50% of the full charge whilst the local authority also has discretion to give further relief on the remaining bill. The 2016 Autumn Statement confirmed the doubling of rural rate relief from 50% to 100% from 1st April 2017. Local authorities will be expected to use their local discount powers to grant 100% rural rate relief to eligible ratepayers from 1st April 2017.[^c-fef329156b9ce6b8e015cc6ef78d146d]
   >
   > Full details can be obtained from the local authority.
 
@@ -509,7 +533,7 @@ In relation to rural settlement authorities, Part 1 shall have effect as if—
 
 ### PART 3 — Special authorities
 
-**1.** The matters mentioned in paragraphs 1, 2, 4, 5 and 6 of Part 1.
+**1.** The matters mentioned in paragraphs 1, 2, 4, 5 , 5A[^c-700b5c78d4e1e62ac2f308f5fe048e4b] and 6 of Part 1.
 
 **2.** A statement of the non-domestic rating multipliers set by the Common Council for the relevant year in accordance with Part 2 of Schedule 7 to the 1988 Act.
 
@@ -523,11 +547,11 @@ Non-Domestic Rates, or business rates, collected by local authorities are the wa
 
 Rateable Value
 
-Apart from properties that are exempt from business rates, each non-domestic property has a rateable value which is set by the valuation officers of the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They draw up and maintain a full list of all rateable values, available on their website at www.gov.uk/government/organisations/valuation-office-agency. The rateable value of your property is shown on the front of this bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date. For the revaluation that came into effect on 1st April 2010, this date was set as 1st April 2008.
+Apart from properties that are exempt from business rates, each non-domestic property has a rateable value which is set by the valuation officers of the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They draw up and maintain a full list of all rateable values, available on their website at www.gov.uk/government/organisations/valuation-office-agency. The rateable value of your property is shown on the front of your bill[^c-3d9acb34ad50810dae36066ddbdb7dce]. This broadly represents the yearly rent the property could have been let for on the open market on a particular date. For the revaluation that came into effect on 1st April 2017[^c-b75e860f1a9a6a2298349f6dfe8987ac], this date was set as 1st April 2015[^c-4a2c30f50304db286670b989d52d4d1f].
 
 The valuation officer may alter the value if circumstances change. The ratepayer (and certain others who have an interest in the property) can appeal against the value shown in the list if they believe it is wrong. Full details on your rights of appeal are available from the Valuation Office Agency. Your billing authority can only backdate any business rates rebate to the date from which any change to the list is to have effect.[^c-bcb936652e327886ee93468433699703]
 
-The Valuation Office Agency will continue to fulfil their legal obligations to alter rating assessments if new information comes to light indicating the valuation is inaccurate. Any alterations they make on or after 1st April 2016 can only be backdated to 1st April 2015.
+The Valuation Office Agency will continue to fulfil their legal obligations to alter rating assessments if new information comes to light indicating the valuation is inaccurate. [^c-dd07abf4f4000237be5093ab29a78abb]...
 
 Further information about the grounds on which appeals may be made and the process for doing so can be found on the www.gov.uk website or obtained from your local valuation office.
 
@@ -539,23 +563,27 @@ There are two multipliers: the standard non-domestic rating multiplier and the s
 
 National Non-Domestic Rating Multiplier
 
-The current multipliers are shown on the front of this bill.[^c-fa642e347beb74275896f238721a1d05]
+The current multipliers are shown on the front of[^c-fa642e347beb74275896f238721a1d05] your bill[^c-9ef5a8cef9c43f1313e80237193b1f54].
 
 Business Rates Instalments
 
 Payment of business rate bills is automatically set on a 10-monthly cycle. However, the Government has put in place regulations that will allow businesses to require their local authority to enable payments to be made through 12 monthly instalments. If you wish to take up this offer, you should contact the local authority as soon as possible.
 
-Revaluation 2017
+Revaluation 2017 and Transitional Arrangements[^c-e2fef56efef37fe4eaa675644b8f3cf4]
 
-All rateable values are reassessed at a general revaluation to ensure bills paid by any one ratepayer reflect changes over time in the value of their property relative to others. This helps maintain fairness in the rating system by updating valuations in line with changes in the market. The current rating list is based on the 2010 revaluation. The Government has confirmed that the next revaluation will take place in 2017 based on rental values at 1st April 2015. More information on revaluation 2017 can be found at www.gov.uk/government/organisations/valuation-ofice-agency.
+All rateable values are reassessed at a general revaluation. The 2017 revaluation takes effect from 1st April 2017. Revaluations make sure each ratepayer pays their fair contribution and no more, by ensuring that the share of the national rates bill paid by any one ratepayer reflects changes over time in the value of their property relative to others. Revaluation does not raise extra money for Government.
 
-In the year of revaluation the multipliers are rebased to account for overall changes to total rateable value and to ensure that the revaluation does not raise extra money for Government. Similarly, the change in the revaluation date to 2017 has no effect on the total amount of revenue raised from business rates.
+Whilst the 2017 revaluation will not increase the amount of rates collected nationally, within this overall picture, over 7 out of 10 ratepayers will receive a reduction or no change in their bill and some ratepayers will see increases.
 
-For those ratepayers who would otherwise have seen significant increases in their rates liability, the Government has put in place a £2 billion transitional relief scheme to limit and phase in changes in rate bills as a result of the 2010 revaluation. To help pay for the limits on increases in bills, there were also limits on reductions in bills. Under the transition scheme, limits continue to apply to yearly increases and decreases until the full amount is due (rateable value times the appropriate multiplier). The scheme applies only to the bill based on a property at the time of the revaluation. If there are any changes to the property after 1st April 2010, transitional arrangements will not normally apply to the part of a bill that relates to any increase in rateable value due to those changes. Changes to your bill as a result of other reasons (such as because of changes to the amount of small business rate relief) are not covered by the transitional arrangements.
+For those that would otherwise see significant increases in their rates liability, the Government has put in place a £3.6 billion transitional relief scheme to limit and phase in changes in rate bills as a result of the 2017 revaluation. To help pay for the limits on increases in bills, there also have to be limits on reductions in bills. Under the transitional scheme, limits continue to apply to yearly increases and decreases until the full amount is due (rateable value times the appropriate multiplier). The scheme applies only to the bill based on a property at the time of the revaluation. If there are any changes to the property after 1st April 2017, transitional arrangements will not normally apply to the part of a bill that relates to any increase in rateable value due to those changes. Changes to your bill as a result of other reasons (such as changes to the amount of small business rate relief) are not covered by the transitional arrangements.
+
+The transitional arrangements are applied automatically and are shown on the front of your bill. Further information about transitional arrangements and other reliefs may be obtained from \[insert name of billing authority\] or the website www.gov.uk/introduction-to-business-rates.
+
+More information on the 2017 revaluation can be found at www.gov.uk/introduction-to-business-rates/revaluation.
 
 Unoccupied Property Rating
 
-Business rates will not be payable in the first three months that a property is empty. This is extended to six months in the case of certain industrial properties. After this period rates are payable in full unless the unoccupied property rate has been reduced by the Government by order. In most cases the unoccupied property rate is zero for properties owned by charities and community amateur sports clubs. In addition, there are a number of exemptions from the unoccupied property rate. Full details on exemptions can be obtained from your local authority. If the unoccupied property rate for the financial year has been reduced by order, it will be shown on the front of this bill.
+Business rates will not be payable in the first three months that a property is empty. This is extended to six months in the case of certain industrial properties. After this period rates are payable in full unless the unoccupied property rate has been reduced by the Government by order. In most cases the unoccupied property rate is zero for properties owned by charities and community amateur sports clubs. In addition, there are a number of exemptions from the unoccupied property rate. Full details on exemptions can be obtained from your local authority. If the unoccupied property rate for the financial year has been reduced by order, it will be shown on the front of your bill[^c-0b24ca93a30ee113ea76c61c3f4c4265] .
 
 The Government has introduced a temporary measure for unoccupied new builds from October 2013. Unoccupied new builds will be exempt from unoccupied property rates for up to 18 months (up to state aid limits) where the property comes on to the list between 1st October 2013 and 30th September 2016. The 18 month period includes the initial 3 or 6 month exemption and so properties may, if unoccupied, be exempt from non-domestic rates for up to an extra 15 or 12 months.
 
@@ -565,16 +593,16 @@ A ratepayer is liable for the full non-domestic rate whether a property is wholl
 
 Small Business Rate Relief
 
-Ratepayers who occupy a property with a rateable value which does not exceed £17,999 outside London or £25,499 in London (and who are not entitled to other mandatory relief or are liable for unoccupied property rates) will have their bill calculated using the lower small business non-domestic rating multiplier, rather than the national non-domestic rating multiplier.[^c-8e561516c44024ef438443dbb023492e]
+Ratepayers who occupy a property with a rateable value which does not exceed[^c-8e561516c44024ef438443dbb023492e] £50,999[^c-7e8409c639f64cf63daea4cc8be013e8] (and who are not entitled to other mandatory relief or are liable for unoccupied property rates) will have their bill calculated using the lower small business non-domestic rating multiplier, rather than the national non-domestic rating multiplier.
 
-In addition, generally, if the sole or main property is shown on the rating list with a rateable value which does not exceed £12,000, the ratepayer will receive a percentage reduction in their rates bill for this property of up to a maximum of 50% for a property with a rateable value of not more than £6,000. The Government has announced, in the Autumn Statement 2015[^c-5f8cbffffdf6103c0eebac85f5673400], that the doubling of the usual level of relief - to a maximum of 100% - will continue for a further year, until 31st March 2017[^c-0b268f520f01367ec59d77244798edf5].
+In addition, generally, if the sole or main property is shown on the rating list with a rateable value which does not exceed £15,000[^c-8c682d9705cdabea64d3cdd3393e5e16], the ratepayer will receive a percentage reduction in their rates bill for this property of up to a maximum of 100%. For[^c-5addd07dd837daad4c77384861633919] a property with a rateable value of not more than £12,000, the ratepayer will receive a 100% reduction in their rates bill[^c-ec3ff7362d19c3e8d69253a01c56e712].
 
 Generally, this percentage reduction (relief) is only available to ratepayers who occupy either-
 
 - (a) one property, or
-- (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed £2,599.
+- (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed £2,899[^c-7beefb3461565d14b855d77852b1e440].
 
-The rateable value of the property mentioned in (a), or the aggregate rateable value of all the properties mentioned in (b), must not exceed £17,999 outside London or £25,499 in London on each day for which relief is being sought. If the rateable value, or aggregate rateable value, increases above those levels, relief will cease from the day of the increase.
+The rateable value of the property mentioned in (a), or the aggregate rateable value of all the properties mentioned in (b), must not exceed £19,999[^c-9ee96ca942d9804d03f7d8d484829c69] outside London or £27,999[^c-68df091d688bd4016593e473f4b1f423] in London on each day for which relief is being sought. If the rateable value, or aggregate rateable value, increases above those levels, relief will cease from the day of the increase.
 
 The Government has introduced additional support to small businesses. For those businesses that take on an additional property which would normally have meant the loss of small business rate relief, the Government has confirmed that they will be allowed to keep that relief for a period of 12 months.
 
@@ -590,6 +618,10 @@ Charity and Community Amateur Sports Club Relief
 Charities and registered Community Amateur Sports Clubs are entitled to 80% relief where the property is occupied by the charity or the club, and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the club (or of that and other clubs).
 
 The local authority has discretion to give further relief on the remaining bill. Full details can be obtained from the local authority.
+
+Relief for Local Newspapers[^c-2e9268cc11c633f11ce594f8ebfecbf6]
+
+The Government is providing funding to local authorities so that they can provide a discount worth up to £1,500 a year for 2 years from 1st April 2017, to office space occupied by local newspapers. This is up to a maximum of one discount per local newspaper title and per hereditament, and up to state aid limits. The relief will be delivered through local authority discretionary discount powers (under section 47(3) of the Local Government Finance Act 1988). Eligibility criteria for this relief is set out in a guidance note: “The case for a business rates relief for local newspapers”, which can be obtained at www.gov.uk/government/consultations/the-case-for-a-business-rates-relief-for-local-newspapers.
 
 [^c-d0578c62b2eec47a5c68e4b1c3fffa7f]...
 
@@ -607,7 +639,7 @@ The local authority has discretion to give hardship relief in specific circumsta
 
 Rating advisers
 
-Ratepayers do not have to be represented in discussions about their rateable value or their rates bill. Appeals against rateable values can be made free of charge. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS - website ) and the Institute of Revenues, Rating and Valuation (IRRV - website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further ad-vice before entering into any contract.
+Ratepayers do not have to be represented in discussions about their rateable value or their rates bill. [^c-f650947a6340a4d4fbeafca1c7f18b1b]... However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS - website ) and the Institute of Revenues, Rating and Valuation (IRRV - website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further ad-vice before entering into any contract.
 
 Information Supplied with Demand Notices
 
@@ -780,17 +812,39 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^c-f076b7b6219a903ba77b5238062b01e0]: Commencement: Reg. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
+[^c-ad48609a7e2d632c13ab04b5590ee785]: Textual amendment: Words in reg. 3 heading substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/39/regulation/4)
+
 [^c-21b54f2a89eb31b3564636e41b4e3c9a]: Textual amendment: Word in reg. 3(2) substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [regs. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [4](https://www.legislation.gov.uk/uksi/2008/387/regulation/4)
 
+[^c-9988c5f5630d3edae38100127f9b24ca]: Textual amendment: Words in reg. 3(3)(a) inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2017/39/regulation/5/a/i)
+
+[^c-a3ec5f732a14d76dcc481e6db4b1ffa8]: Textual amendment: Words in reg. 3(3)(a) inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/5/a/ii)
+
+[^c-91da5c227444ccb29103a0af07eb5092]: Textual amendment: Words in reg. 3(3)(b) inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2017/39/regulation/5/b/i)
+
+[^c-26234cb8508c02ad32aafd3f22deb490]: Textual amendment: Words in reg. 3(3)(b) inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/5/b/ii)
+
 [^c-40cdf3f3a8e737d2dcf0b4d0b482abbf]: Textual amendment: Word in reg. 3(3)(b) revoked (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/a)
+
+[^c-4a3d4ee3e085beb3382f644bbcbfc72a]: Textual amendment: Words in reg. 3(3)(c) inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [5(c)(i)](https://www.legislation.gov.uk/uksi/2017/39/regulation/5/c/i)
+
+[^c-ed2e6116ce7f0a1ab183f45513aa68dc]: Textual amendment: Words in reg. 3(3)(c) inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/5/c/ii)
 
 [^c-8260790ca8f92402c7456b2954d10348]: Textual amendment: Word in reg. 3(3)(c) substituted for full stop (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/b)
 
 [^c-5751a71f4eea7de9c1e9919e2804fc04]: Textual amendment: Reg. 3(3)(d) inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/c)
 
-[^c-dee4010612161b1f79bb905e4ba218fe]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/3/4) substituted (31.3.2012) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/538)](https://www.legislation.gov.uk/uksi/2012/538), [regs. 1](https://www.legislation.gov.uk/uksi/2012/538/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/538/regulation/3)
+[^c-24aeccd807b751ba5e6135b4eac39566]: Textual amendment: Words in reg. 3(3)(d) inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [5(d)(i)](https://www.legislation.gov.uk/uksi/2017/39/regulation/5/d/i)
+
+[^c-19387574fe775579ba9951dbc126be09]: Textual amendment: Words in reg. 3(3)(d) inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [5(d)(ii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/5/d/ii)
+
+[^c-b7fa4079b9ff16c9a68e967377f6ddab]: Textual amendment: Words in reg. 3(3)(d) inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [5(d)(iii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/5/d/iii)
+
+[^c-dee4010612161b1f79bb905e4ba218fe]: Textual amendment: Words in reg. 3(4) substituted (31.3.2012) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/538)](https://www.legislation.gov.uk/uksi/2012/538), [regs. 1](https://www.legislation.gov.uk/uksi/2012/538/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/538/regulation/3)
 
 [^c-49d3a898e4afc6ba556d064f15ecd8a3]: Commencement: Reg. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^c-50d4ed357bf78655aaa4adc8016a62f2]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/4/2/a) substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/39/regulation/6)
 
 [^c-317331f204acfbc1c264b19cebf5e953]: Commencement: Reg. 5 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
@@ -808,27 +862,71 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^c-c513fafa9c19183d474be20d46b6a9bc]: Textual amendment: Sch. 2 substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [reg. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/387/schedule/part/2)
 
+[^c-a7bccac2b74ec1b38cdb7613be7931c9]: Textual amendment: Words in Sch. 2 heading inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/39/regulation/7)
+
+[^c-384d56937bfc75b9acb92556978371f1]: Textual amendment: Sch. 2 para. 5A inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/2)
+
 [^c-7623225385ef4f2a6498361392d1a96b]: Textual amendment: Sch. 2 Pt. 1 para. 7 substituted (1.4.2015) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2015 (S.I. 2015/427)](https://www.legislation.gov.uk/uksi/2015/427), [regs. 1](https://www.legislation.gov.uk/uksi/2015/427/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/427/regulation/3)
+
+[^c-f74591cda19108cc24965b6b687d60f4]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/a/i)
+
+[^c-f8213274499355bdcfc66eb7decea222]: Textual amendment: Word in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/a/ii)
+
+[^c-84c2de4e813510fe442004eca2baf847]: Textual amendment: Word in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/a/iii)
 
 [^c-26c8826d121433611c5fbced3f8179cc]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/1/a)
 
+[^c-50d98bfb2cd5a74d70b42346cf59ed8e]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 omitted (20.2.2017) by virtue of [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/a/iv)
+
 [^c-2a14cc2ac61722e54bd18c02d69c45de]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/1/b)
+
+[^c-45d5670c8d61bb444f2ef4e1de939722]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/b)
+
+[^c-338b594797cc5eb8356b03f292e13b19]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/c)
+
+[^c-7288771cfe584b7e6e9f5109961c3773]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/d)
 
 [^c-c497bfbe7f4840351ba91867539491cf]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(1)(c)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/1/c)
 
-[^c-3e0447d6982c3251b0f415e7028185b1]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(1)(d)(i)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/1/d/i)
+[^c-b77e739fdbc8bd69ce8f820acfafa2f3]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(e)(i)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/e/i)
 
-[^c-9bd5a574dbc29adfba1e92f244fc4d99]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/1/d/ii)
+[^c-849991125dda48e60138fbeb414af03d]: Textual amendment: Word in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/e/ii/aa)
+
+[^c-77078fed3434820140ea7d78d3d662bd]: Textual amendment: Word in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/e/ii/bb)
+
+[^c-19ad0052325ae5ef39691642d9583412]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(e)(ii)(cc)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/e/ii/cc)
+
+[^c-588484eb70bafbe06e4324345e73543e]: Textual amendment: Word in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/e/iii)
+
+[^c-eb6e5eedf2d480673d36940100104865]: Textual amendment: Word in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(e)(iv)(aa)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/e/iv/aa)
+
+[^c-99cbcc0a493ff15ab9b9867ff085f887]: Textual amendment: Word in Sch. 2 Pt. 1 para. 7 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(e)(iv)(bb)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/e/iv/bb)
+
+[^c-fcc12580c9305325bf7a6834acd93f3b]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(f)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/f)
 
 [^c-6ac7a69fd0b238ad0528b687e22d91b1]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 omitted (1.4.2016) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(1)(e)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/1/e)
 
+[^c-1976158a864e90c463c0f01ca2c866c4]: Textual amendment: Words in Sch. 2 Pt. 1 para. 7 omitted (20.2.2017) by virtue of [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [8(3)(g)](https://www.legislation.gov.uk/uksi/2017/39/regulation/8/3/g)
+
 [^c-9ff50b9a7b0f8a466abb679a0e2e7259]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (18.4.2013) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2013 (S.I. 2013/694)](https://www.legislation.gov.uk/uksi/2013/694), [regs. 1](https://www.legislation.gov.uk/uksi/2013/694/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/694/regulation/4)
+
+[^c-fef329156b9ce6b8e015cc6ef78d146d]: Textual amendment: Words in Sch. 2 Pt. 2 inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/39/regulation/9)
 
 [^c-74f3be925957045c3f8987275c7b70c0]: Textual amendment: Sch. 2 Pt. 2A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/a)
 
+[^c-700b5c78d4e1e62ac2f308f5fe048e4b]: Textual amendment: Word in Sch. 2 Pt. 3 para. 1 inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/2)
+
 [^c-e93153bf7e304e189b76a16d5f3e7549]: Textual amendment: Sch. 2 Pt. 3 para. 3 substituted (1.4.2015) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2015 (S.I. 2015/427)](https://www.legislation.gov.uk/uksi/2015/427), [regs. 1](https://www.legislation.gov.uk/uksi/2015/427/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/427/regulation/4)
 
+[^c-3d9acb34ad50810dae36066ddbdb7dce]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/a/i)
+
+[^c-b75e860f1a9a6a2298349f6dfe8987ac]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/a/ii)
+
+[^c-4a2c30f50304db286670b989d52d4d1f]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/a/iii)
+
 [^c-bcb936652e327886ee93468433699703]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/2/a)
+
+[^c-dd07abf4f4000237be5093ab29a78abb]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 omitted (20.2.2017) by virtue of [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/a/iv)
 
 [^c-172b6d764f6beb452d99288b86fc6770]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 omitted (1.4.2016) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/2/b)
 
@@ -836,13 +934,33 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^c-fa642e347beb74275896f238721a1d05]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/2/d)
 
+[^c-9ef5a8cef9c43f1313e80237193b1f54]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/b)
+
+[^c-e2fef56efef37fe4eaa675644b8f3cf4]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/c)
+
+[^c-0b24ca93a30ee113ea76c61c3f4c4265]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(d)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/d)
+
 [^c-8e561516c44024ef438443dbb023492e]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/2/e)
 
-[^c-5f8cbffffdf6103c0eebac85f5673400]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(2)(f)(i)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/2/f/i)
+[^c-7e8409c639f64cf63daea4cc8be013e8]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(e)(i)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/e/i)
 
-[^c-0b268f520f01367ec59d77244798edf5]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (1.4.2016) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/2/f/ii)
+[^c-8c682d9705cdabea64d3cdd3393e5e16]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/e/ii/aa)
+
+[^c-5addd07dd837daad4c77384861633919]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/e/ii/bb)
+
+[^c-ec3ff7362d19c3e8d69253a01c56e712]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(e)(ii)(cc)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/e/ii/cc)
+
+[^c-7beefb3461565d14b855d77852b1e440]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/e/iii)
+
+[^c-9ee96ca942d9804d03f7d8d484829c69]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(e)(iv)(aa)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/e/iv/aa)
+
+[^c-68df091d688bd4016593e473f4b1f423]: Textual amendment: Word in Sch. 2 Pt. 3 para. 3 substituted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(e)(iv)(bb)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/e/iv/bb)
+
+[^c-2e9268cc11c633f11ce594f8ebfecbf6]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 inserted (20.2.2017) by [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(f)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/f)
 
 [^c-d0578c62b2eec47a5c68e4b1c3fffa7f]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 omitted (1.4.2016) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2016 (S.I. 2016/316)](https://www.legislation.gov.uk/uksi/2016/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/316/regulation/1/2), [3(2)(g)](https://www.legislation.gov.uk/uksi/2016/316/regulation/3/2/g)
+
+[^c-f650947a6340a4d4fbeafca1c7f18b1b]: Textual amendment: Words in Sch. 2 Pt. 3 para. 3 omitted (20.2.2017) by virtue of [The Non-Domestic Rating (Demand Notices) (Amendment) (England) Regulations 2017 (S.I. 2017/39)](https://www.legislation.gov.uk/uksi/2017/39), [regs. 1](https://www.legislation.gov.uk/uksi/2017/39/regulation/1), [10(3)(g)](https://www.legislation.gov.uk/uksi/2017/39/regulation/10/3/g)
 
 [^c-20a37fa9766b4710fd47610aa84a48a7]: Textual amendment: Sch. 2 Pt. 3A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/b)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 157. Offences by bodies corporate.[^c13751421][^c-f292078d115fda9ade76f31ff42f1395][^c-82f9c3bb4569b8fd04987d418307ca2d]
+## 157. Offences by bodies corporate.[^c13751421][^c-f292078d115fda9ade76f31ff42f1395][^c-82f9c3bb4569b8fd04987d418307ca2d][^c13739731]
 
 *Extent: E+W+S*
 
@@ -33,3 +33,5 @@ summary: ''
 [^c-f292078d115fda9ade76f31ff42f1395]: Modification: [S. 157](https://www.legislation.gov.uk/ukpga/1990/43/section/157) applied (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [30(5)](https://www.legislation.gov.uk/ssi/2011/228/regulation/30/5) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
 
 [^c-82f9c3bb4569b8fd04987d418307ca2d]: Modification: [S. 157](https://www.legislation.gov.uk/ukpga/1990/43/section/157) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

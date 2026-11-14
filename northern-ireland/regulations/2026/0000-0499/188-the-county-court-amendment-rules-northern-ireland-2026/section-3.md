@@ -2,9 +2,9 @@
 title: The County Court (Amendment) Rules (Northern Ireland) 2026, section 3
 act: The County Court (Amendment) Rules (Northern Ireland) 2026
 section: '3'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2026-11-09'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/2026/188/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The County Court (Amendment) Rules (Northern Ireland) 2026, section 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: Northern Ireland.
 
-## 3. Amendments to the principal Rules
+## 3. Amendments to the principal Rules[^c-e3a2bced2cd8c1f01df69beeb5ced682]
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 The principal Rules are amended as follows—
 
@@ -40,3 +46,7 @@ The principal Rules are amended as follows—
 (4) In Order 55, rule 19(1)(a) for “£10,000” substitute “£20,000”.
 
 (5) For Appendix 2 substitute the new Appendix 2 set out in the Schedule to these Rules.
+
+## Annotations
+
+[^c-e3a2bced2cd8c1f01df69beeb5ced682]: Commencement: Rule 3 in operation at 30.11.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2026/188/rule/1)

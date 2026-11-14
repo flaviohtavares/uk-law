@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 151. Enforcement of orders about collars and tags for dogs.[^c13748421]
+## 151. Enforcement of orders about collars and tags for dogs.[^c13748421][^c13739731]
 
 *Extent: E+W+S*
 
@@ -33,3 +33,5 @@ summary: ''
 ## Annotations
 
 [^c13748421]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/1990/43/section/151) wholly in force; [s. 151](https://www.legislation.gov.uk/ukpga/1990/43/section/151) not in force at Royal Assent see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3); [s. 151](https://www.legislation.gov.uk/ukpga/1990/43/section/151) in force for certain purposes at 14.2.1992 see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3) and [S.I. 1992/266](https://www.legislation.gov.uk/uksi/1992/266), [art. 2](https://www.legislation.gov.uk/uksi/1992/266/article/2); [s. 151](https://www.legislation.gov.uk/ukpga/1990/43/section/151) in force in so far as not then aleardy in force at 1.4.1992 see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3) and [S.I. 1992/266](https://www.legislation.gov.uk/uksi/1992/266), [art. 3](https://www.legislation.gov.uk/uksi/1992/266/article/3).
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)

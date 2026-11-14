@@ -2,8 +2,8 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 48
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '48'
-status: not-yet-in-force
-text_date: '2008-06-17'
+status: repealed
+text_date: '2010-09-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/48
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,23 +12,20 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 48
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Interpretation[^c-ad4e1c8cf31d79eb178a8da5525cae2e]
+## 48. Interpretation[^c-7711013c1a6dc46f18a96a7e5eb3aebc]
 
 *Extent: E+W+S+N.I.*
 
-**Not yet in force.**
+**No longer in force.**
 
-For the purposes of this Chapter—
-
-- (a) any reference to expenditure incurred for the purpose of attending an institution or period of study—
-  - (i) includes expenditure both before and after so attending; and
-  - (ii) does not include any expenditure in respect of which a grant is payable under Chapter 3 of this Part;
-- (b) “**qualifying quarter**” means a quarter during which the eligible student attends as part of the student’s course an overseas institution or the Institute for at least half the period covered by that quarter.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-ad4e1c8cf31d79eb178a8da5525cae2e]: Commencement: Reg. 48 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+[^c-7711013c1a6dc46f18a96a7e5eb3aebc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1582) revoked (1.9.2010) by [The Education (Student Support) Regulations 2009 (S.I. 2009/1555)](https://www.legislation.gov.uk/uksi/2009/1555), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/2/a) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2009/1555/regulation/4/4))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

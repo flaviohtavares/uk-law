@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 30
 act: London Local Authorities Act 2007
 section: '30'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 30
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 30. Designation procedure for enforcement action zones
+## 30. Designation procedure for enforcement action zones[^c-df68cc6717d6c469a3651c5f12d6f2e4]
+
+*Extent: E+W*
 
 (1) Before designating any area under section 29 (enforcement action zones) of this Act, the designating authority shall publish, or cause to be published, in at least one local newspaper circulating in the locality, a notice that such a proposal has been made, naming a place or places in the locality where a map or maps defining the area concerned may be inspected at all reasonable hours.
 
@@ -49,3 +53,7 @@ summary: ''
 - (d) specify a date when the designation shall come into effect, being at least 14 and not more than 28 days after the publication of the notice in the London Gazette.
 
 (10) A designation shall come into effect on the date specified in the notice given under subsection (9) above.
+
+## Annotations
+
+[^c-df68cc6717d6c469a3651c5f12d6f2e4]: Commencement: [S. 30](https://www.legislation.gov.uk/ukla/2007/2/section/30) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

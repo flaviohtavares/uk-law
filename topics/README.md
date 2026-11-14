@@ -54,7 +54,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Bank Levy](bank-levy.md) | 1 | 12 |
 | [Banking](banking.md) | 0 | 5 |
 | [Bankruptcy](bankruptcy.md) | 2 | 40 |
-| [Banks and Banking](banks-and-banking.md) | 7 | 130 |
+| [Banks and Banking](banks-and-banking.md) | 7 | 129 |
 | [Bee Diseases](bee-diseases.md) | 1 | 16 |
 | [Betting, Gaming and Lotteries](betting-gaming-and-lotteries.md) | 5 | 361 |
 | [Biological Weapons](biological-weapons.md) | 1 | 4 |
@@ -127,7 +127,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Competition](competition.md) | 4 | 168 |
 | [Conservation of Sea Fish](conservation-of-sea-fish.md) | 0 | 17 |
 | [Constabulary, Ireland](constabulary-ireland.md) | 0 | 7 |
-| [Constitutional Law](constitutional-law.md) | 10 | 473 |
+| [Constitutional Law](constitutional-law.md) | 10 | 474 |
 | [Construction](construction.md) | 1 | 30 |
 | [Construction Contracts](construction-contracts.md) | 0 | 5 |
 | [Consular Relations](consular-relations.md) | 1 | 21 |
@@ -176,7 +176,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Deregulation](deregulation.md) | 1 | 67 |
 | [Derelict Land](derelict-land.md) | 1 | 7 |
 | [Designs](designs.md) | 1 | 83 |
-| [Devolution](devolution.md) | 7 | 399 |
+| [Devolution](devolution.md) | 7 | 400 |
 | [Diligence](diligence.md) | 1 | 9 |
 | [Diplomatic and International Immunities and Privileges](diplomatic-and-international-immunities-and-privileges.md) | 1 | 43 |
 | [Diplomatic Service](diplomatic-service.md) | 1 | 43 |
@@ -190,7 +190,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Drainage](drainage.md) | 0 | 4 |
 | [Ecclesiastical Law](ecclesiastical-law.md) | 19 | 221 |
 | [Economic Development](economic-development.md) | 0 | 5 |
-| [Education](education/README.md) | 76 | 4645 |
+| [Education](education/README.md) | 76 | 4642 |
 | [Electoral Commission](electoral-commission.md) | 0 | 15 |
 | [Electricity](electricity.md) | 12 | 557 |
 | [Electromagnetic Compatibility](electromagnetic-compatibility.md) | 0 | 22 |
@@ -209,7 +209,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Enterprise](enterprise.md) | 2 | 14 |
 | [Enterprise Zones](enterprise-zones.md) | 0 | 16 |
 | [Environment](environment.md) | 0 | 8 |
-| [Environmental Protection](environmental-protection/README.md) | 30 | 1243 |
+| [Environmental Protection](environmental-protection/README.md) | 30 | 1244 |
 | [Equal Opportunities](equal-opportunities.md) | 0 | 13 |
 | [Equal Opportunities and Human Rights](equal-opportunities-and-human-rights.md) | 1 | 7 |
 | [Equality](equality.md) | 3 | 81 |
@@ -247,7 +247,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Fish Farming](fish-farming.md) | 1 | 23 |
 | [Fisheries](fisheries.md) | 1 | 126 |
 | [Flood Risk Management](flood-risk-management.md) | 3 | 45 |
-| [Food](food/README.md) | 13 | 1271 |
+| [Food](food/README.md) | 13 | 1270 |
 | [Food Safety](food-safety.md) | 0 | 11 |
 | [Foreign Compensation](foreign-compensation.md) | 1 | 35 |
 | [Forestry](forestry.md) | 2 | 49 |
@@ -340,7 +340,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Land Registration](land-registration.md) | 6 | 154 |
 | [Land Transaction Tax](land-transaction-tax.md) | 1 | 23 |
 | [Landfill Tax](landfill-tax.md) | 3 | 84 |
-| [Landlord and Tenant](landlord-and-tenant.md) | 21 | 418 |
+| [Landlord and Tenant](landlord-and-tenant.md) | 21 | 419 |
 | [Landmines](landmines.md) | 1 | 5 |
 | [Lands Tribunal](lands-tribunal.md) | 1 | 46 |
 | [Legal Aid and Advice](legal-aid-and-advice.md) | 4 | 801 |
@@ -503,7 +503,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Registration of Births, Deaths, Marriages etc](registration-of-births-deaths-marriages-etc.md) | 0 | 18 |
 | [Registration of Births, Deaths, Marriages, etc](registration-of-births-deaths-marriages-etc.md) | 8 | 128 |
 | [Registration of Clubs](registration-of-clubs.md) | 1 | 10 |
-| [Registration of Deeds](registration-of-deeds.md) | 0 | 6 |
+| [Registration of Deeds](registration-of-deeds.md) | 0 | 5 |
 | [Registration of Political Parties](registration-of-political-parties.md) | 1 | 15 |
 | [Registration of Vital Events](registration-of-vital-events.md) | 0 | 3 |
 | [Regulatory Reform](regulatory-reform.md) | 3 | 110 |
@@ -529,7 +529,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Salmon and Freshwater Fisheries](salmon-and-freshwater-fisheries.md) | 0 | 18 |
 | [Sanctions](sanctions.md) | 1 | 168 |
 | [Saving Gateway Accounts](saving-gateway-accounts.md) | 0 | 3 |
-| [Savings Banks](savings-banks.md) | 2 | 53 |
+| [Savings Banks](savings-banks.md) | 2 | 52 |
 | [Scientific Research](scientific-research.md) | 1 | 26 |
 | [Scottish Court Service](scottish-court-service.md) | 1 | 11 |
 | [Scottish Courts and Tribunals Service](scottish-courts-and-tribunals-service.md) | 0 | 14 |
@@ -596,7 +596,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Tonnage Tax](tonnage-tax.md) | 0 | 6 |
 | [Torts](torts.md) | 1 | 6 |
 | [Tourism](tourism.md) | 1 | 10 |
-| [Town and Country Planning](town-and-country-planning.md) | 21 | 906 |
+| [Town and Country Planning](town-and-country-planning.md) | 21 | 907 |
 | [Tractors](tractors.md) | 0 | 7 |
 | [Trade](trade.md) | 1 | 65 |
 | [Trade Descriptions](trade-descriptions.md) | 1 | 21 |
@@ -619,7 +619,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Visiting Forces](visiting-forces.md) | 0 | 10 |
 | [Visitor Levy](visitor-levy.md) | 1 | 9 |
 | [Wages Councils](wages-councils.md) | 1 | 4 |
-| [Waste](waste.md) | 0 | 19 |
+| [Waste](waste.md) | 0 | 20 |
 | [Water](water.md) | 10 | 306 |
 | [Water and Sewerage](water-and-sewerage.md) | 2 | 32 |
 | [Water and Sewerage Services](water-and-sewerage-services.md) | 1 | 6 |

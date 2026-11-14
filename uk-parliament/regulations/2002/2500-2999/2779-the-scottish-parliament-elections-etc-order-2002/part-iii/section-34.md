@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 34
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '34'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 34
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 34. Effect of default in election agent’s appointment
+## 34. Effect of default in election agent’s appointment[^c-0b526ba14914a5014d2d34e956ecf421]
+
+*Extent: S*
 
 (1) If no person’s name and address is given as required by article 31 above as the election agent of–
 
@@ -50,3 +54,7 @@ at the latest time for delivery of notices of withdrawal of candidature–
 (7) Where an individual candidate for return as a regional member or a candidate on a registered party’s regional list is by virtue of this article to be treated as an election agent he shall be deemed to have his office at the address given in the statement of persons and parties standing nominated.
 
 (8) The appropriate returning officer on being satisfied that a person is by virtue of this article to be treated as an election agent, shall forthwith proceed to give such like notice as if the name and address of the person and the address of his office had been duly given to him under article 31 above.
+
+## Annotations
+
+[^c-0b526ba14914a5014d2d34e956ecf421]: Commencement: Art. 34 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

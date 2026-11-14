@@ -59,7 +59,7 @@ summary: ''
 - “**specified**” means specified in a direction under this section; and
 - “waste” means anything that is waste within the meaning of Article 3(1) of[^c-04885efeebded4d8c2455ac5c424c15f] the Waste Framework Directive[^c-cd4d5b3b655660dc19d383f57b3913a7] , as read with Articles 5 and 6 of that Directive,[^c-ed3d1d12158095e2caa8f88b119213ab] including anything excluded from the scope of that Directive by Article 2(1)(f) or 2(2)(b) or (c), but not including anything excluded by the remainder of that Article
 
-## 57. Power of Secretary of State to require waste to be accepted, treated, disposed of or delivered.[^c13738131][^c13738141][^c18970881]
+## 57. Power of Secretary of State to require waste to be accepted, treated, disposed of or delivered.[^c13738131][^c13738141][^c18970881][^c13739731]
 
 *Extent: S*
 
@@ -128,6 +128,8 @@ summary: ''
 [^c-ed3d1d12158095e2caa8f88b119213ab]: Textual amendment: Words in [s. 57(8)](https://www.legislation.gov.uk/ukpga/1990/43/section/57/8) inserted (E.W.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/uksi/2019/620/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18970881]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
+
+[^c13739731]: Textual amendment: Pt. 2A (ss. 78A-78YC) inserted (in force at 21.9.1995 for certain purposes only, at 1.4.2000 for E. in so far as not already in force, at 14.7.2000 for S. for certain purposes and otherwise 14.7.2000) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 57](https://www.legislation.gov.uk/ukpga/1995/25/section/57), (with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3); [S.I. 2000/340](https://www.legislation.gov.uk/uksi/2000/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/340/article/2/a); [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/ssi/2000/180/article/2/1/a/2); [S.I. 2000/1986](https://www.legislation.gov.uk/uksi/2000/1986), [art. 2](https://www.legislation.gov.uk/uksi/2000/1986/article/2)
 
 [^c-b4d4e73ae69b47b5c4a26d955f0d855a]: Textual amendment: Words in s. 57(1) substituted (S.) (23.10.2019) by [The Environmental Protection Act 1990 Amendment (Scotland) Regulations 2019 (S.S.I. 2019/332)](https://www.legislation.gov.uk/ssi/2019/332), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/332/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2019/332/regulation/2/a)
 

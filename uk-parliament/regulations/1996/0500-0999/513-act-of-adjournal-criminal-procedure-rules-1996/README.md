@@ -5,12 +5,12 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '1996-02-29'
-text_date: '2026-04-06'
+text_date: '2026-11-02'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/1996/513
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1996/513/data.pdf
-pending_changes: 3
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # Act of Adjournal (Criminal Procedure Rules) 1996
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/1996/513
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/uksi/1996/513
 >
 > Extent: Scotland.
 

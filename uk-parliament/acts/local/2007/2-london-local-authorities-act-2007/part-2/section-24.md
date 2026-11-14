@@ -2,9 +2,9 @@
 title: London Local Authorities Act 2007, section 24
 act: London Local Authorities Act 2007
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2007-09-20'
+extent: E+W
 source_url: https://www.legislation.gov.uk/ukla/2007/2/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # London Local Authorities Act 2007, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2007-09-20. See https://www.legislation.gov.uk/changes/affected/ukla/2007/2
+>
+> Extent: England, Wales.
 
-## 24. Littering from vehicles
+## 24. Littering from vehicles[^c-3acc606403e9386f5e3b5e08b0a1a6a5]
+
+*Extent: E+W*
 
 (1) This section is a penalty charge provision for the purposes of section 61 (penalty charges) of this Act.
 
@@ -63,3 +67,7 @@ and the person acting in contravention of the said section 87 is a passenger in 
 (11) In determining, for the purposes of this section, who was the owner of a motor vehicle at any time, it shall be presumed that the owner was the person in whose name the vehicle was at that time registered under the Vehicle Excise and Registration Act [1994 (c. 22)](https://www.legislation.gov.uk/ukpga/1994/22).
 
 (12) In this section, “motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads.
+
+## Annotations
+
+[^c-3acc606403e9386f5e3b5e08b0a1a6a5]: Commencement: [S. 24](https://www.legislation.gov.uk/ukla/2007/2/section/24) in force at 20.9.2007, see [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3)

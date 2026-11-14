@@ -1597,7 +1597,7 @@ TABLE
 
 |  |
 | --- |
-| ##### 1. Installations regulated under the Environmental Permitting (England and Wales) Regulations 2016[^c14055981][^M_F_237e3b09-ddea-47a3-df09-72dca56eafdd][^c-5fbc9d6b1d4c341679465e3a19ab0536]<br>**No longer in force (ended 2008-04-06).**<br>1\. Part A installations. |
+| ##### 1. Installations regulated under the Environmental Permitting (England and Wales) Regulations 2016[^c14055981][^M_F_237e3b09-ddea-47a3-df09-72dca56eafdd][^c-5fbc9d6b1d4c341679465e3a19ab0536]<br>1\. Part A installations. |
 | ##### 2. Installations that would be so regulated but for a threshold or exception<br>Installations that would be Part A installations but for—<br>- (a) a relevant numeric threshold, or<br>- (b) a relevant exception. |
 | ##### 3. Installations that would be so regulated if certain modifications were made to the Regulations<br>Installations that would be Part A installations if the relevant modifications were made. |
 | ##### 4. Corresponding installations in Scotland and Northern Ireland<br>Installations that are situated in Scotland or Northern Ireland, but if situated in England and Wales—<br>- (a) would be Part A installations,<br>- (b) would be Part A installations but for—<br>  - (i) a relevant numeric threshold, or<br>  - (ii) a relevant exception, or<br>- (c) would be Part A installations if the relevant modifications were made. |

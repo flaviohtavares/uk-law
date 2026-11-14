@@ -3,7 +3,7 @@ title: Act of Adjournal (Criminal Procedure Rules) 1996, section 1
 act: Act of Adjournal (Criminal Procedure Rules) 1996
 section: '1'
 status: revised-with-pending-changes
-text_date: '2026-04-06'
+text_date: '2026-11-02'
 extent: S
 source_url: https://www.legislation.gov.uk/uksi/1996/513/section/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Act of Adjournal (Criminal Procedure Rules) 1996, section 1
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/1996/513
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/uksi/1996/513
 >
 > Extent: Scotland.
 

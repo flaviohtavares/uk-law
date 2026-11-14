@@ -3,15 +3,15 @@ title: The Non-Domestic Rating (Description of Differential Multipliers) (Wales)
 id: wsi/2025/1163
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2025-11-05'
-text_date: null
-extent: null
+text_date: '2025-11-05'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2025/1163
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2025/1163/pdfs/wsi_20251163_mi.pdf
-- http://www.legislation.gov.uk/wsi/2025/1163/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/wsi/2025/1163/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Non-Domestic Rating (Description of Differential Multipliers) (Wales) Regulations 2025
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2025-11-05. See https://www.legislation.gov.uk/changes/affected/wsi/2025/1163
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2025 No. 1163 (W. 190)
 
@@ -39,13 +45,13 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 143A(5)(m) of that Act, a draft of this instrument has been laid before and approved by resolution of Senedd Cymru[^f00002].
 
-## 1. Title and coming into force
+## 1. Title and coming into force[^c-b4f94c322df840e33034a795efbffffb]
 
 (1) The title of these Regulations is the Non-Domestic Rating (Description of Differential Multipliers) (Wales) Regulations 2025.
 
 (2) These Regulations come into force on 1 April 2026.
 
-## 2. Interpretation
+## 2. Interpretation[^c-e5bb6414192ebe5033079c424d581905]
 
 In these Regulations—
 
@@ -59,7 +65,7 @@ In these Regulations—
 - “**local list**” (“***rhestr leol***”) means a list compiled and maintained under section 41ZA of the Act[^f00005];
 - “**rateable value**” (“***gwerth ardrethol***”) means the value calculated under Schedule 6 to the Act[^f00006].
 
-## 3. Description of retail multiplier
+## 3. Description of retail multiplier[^c-349b57abfae1ba0b96e3ef1da6802f75]
 
 (1) For the purposes of paragraph A16(1)(a) of Schedule 7 to the Act, there is a retail multiplier.
 
@@ -73,7 +79,7 @@ In these Regulations—
   - (iv) “shop and premises”, or
   - (v) “shop, post office and premises”.
 
-## 4. Description of higher multiplier
+## 4. Description of higher multiplier[^c-5851e52696230a830e46b32e44106eee]
 
 (1) For the purposes of paragraph A16(1)(a) of Schedule 7 to the Act, there is a higher multiplier.
 
@@ -101,7 +107,7 @@ In these Regulations—
   - (xviii) “swimming pool and premises”, or
   - (xix) “university and premises”.
 
-**5.** (1) For the purposes of paragraph A16(1)(b) of Schedule 7 to the Act, there is a higher multiplier.
+**5.**[^c-ab0e022fae6189300877ee450b3c834b] (1) For the purposes of paragraph A16(1)(b) of Schedule 7 to the Act, there is a higher multiplier.
 
 (2) The higher multiplier applies to hereditaments on the central list that have a rateable value of more than £100,000.
 
@@ -129,6 +135,10 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Section 143A(5)(m) was inserted by section 14 of the Local Government Finance (Wales) Act 2024.
 
+[^c-b4f94c322df840e33034a795efbffffb]: Commencement: Reg. 1 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1163/regulation/1/2)
+
+[^c-e5bb6414192ebe5033079c424d581905]: Commencement: Reg. 2 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1163/regulation/1/2)
+
 [^f00003]: Footnote: Section 52ZA was inserted by section 3(3) of the Local Government Finance (Wales) Act 2024.
 
 [^f00004]: Footnote: Section 64 was amended by section 66 of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), paragraph 13 of the Schedule to the Local Government Finance (Wales) Act 2024 and paragraph 2 of Schedule 10 to the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14); there are other amending instruments but none is relevant to these Regulations.
@@ -136,3 +146,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 [^f00005]: Footnote: Section 41ZA was inserted by section 2(3) of the Local Government Finance (Wales) Act 2024.
 
 [^f00006]: Footnote: Schedule 6 was amended by paragraph 38 of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), section 1(2) and (3) of the Rating (Valuation) Act [1999 (c. 6)](https://www.legislation.gov.uk/ukpga/1999/6), section 14(1)(c)(i) of the Non-Domestic Rating Act [2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53) and paragraph 1(22) of the Schedule to the Local Government Finance (Wales) Act 2024; there are other amending instruments but none is relevant to these Regulations.
+
+[^c-349b57abfae1ba0b96e3ef1da6802f75]: Commencement: Reg. 3 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1163/regulation/1/2)
+
+[^c-5851e52696230a830e46b32e44106eee]: Commencement: Reg. 4 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1163/regulation/1/2)
+
+[^c-ab0e022fae6189300877ee450b3c834b]: Commencement: Reg. 5 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1163/regulation/1/2)

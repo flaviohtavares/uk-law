@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 60
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '60'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2002-11-20'
+extent: S
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/60
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 60
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
+>
+> Extent: Scotland.
 
-## 60. Broadcasting from outside United Kingdom
+## 60. Broadcasting from outside United Kingdom[^c-5eab45903a4c91e0201a3e823530b200]
+
+*Extent: S*
 
 (1) No person shall, with intent to influence persons to give or refrain from giving their votes at a Scottish parliamentary election, include, or aid, abet, counsel or procure the inclusion of, any matter relating to the election in any programme service (within the meaning of the Broadcasting Act 1990[^f00028]) provided from a place outside the United Kingdom otherwise than in pursuance of arrangements made with–
 
@@ -32,6 +36,8 @@ for the reception and re transmission of that matter by that body or the holder 
 - (b) that he exercised all such diligence to prevent the commission of the illegal practice as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
 
 ## Annotations
+
+[^c-5eab45903a4c91e0201a3e823530b200]: Commencement: Art. 60 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00028]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 

@@ -3,14 +3,14 @@ title: The Social Security (Back to Work Bonus) Regulations (Northern Ireland) 1
 id: nisr/1996/201
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-05-15'
-text_date: null
-extent: null
+text_date: '1996-05-15'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/201
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/201/made/data.pdf
-pending_changes: 81
+- http://www.legislation.gov.uk/nisr/1996/201/data.pdf
+pending_changes: 107
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Social Security (Back to Work Bonus) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (107).** Text as at 1996-05-15. See https://www.legislation.gov.uk/changes/affected/nisr/1996/201
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 201
 
@@ -36,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 28 and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, by this statutory rule, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-6aad1d7257b09def3f8d22313e4bb024]
 
 (1) These Regulations may be cited as the Social Security (Back to Work Bonus) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996.
 
@@ -71,7 +77,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) For the purposes of these Regulations the “qualifying benefits” are a jobseeker’s allowance and income support.
 
-## 2. Period of entitlement to a qualifying benefit
+## 2. Period of entitlement to a qualifying benefit[^c-fbca75589923127ee139e018deb0c702]
 
 (1) A period of entitlement to a qualifying benefit comprises only days on which a person is entitled to, or treated as entitled to a qualifying benefit.
 
@@ -90,7 +96,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - (a) where the applicant satisfies the work condition and claims a bonus, on the last day of entitlement to a qualifying benefit which precedes the day on which he first satisfies those requirements;
 - (b) where the person dies, on the date of his death.
 
-## 3. Period of entitlement to a qualifying benefit: further provisions
+## 3. Period of entitlement to a qualifying benefit: further provisions[^c-32e7a23686d988dde7c23da344d6c36e]
 
 (1) Any day falling within a period during which a jobseeker’s allowance is not payable in accordance with Article 21 of the Order shall be treated as a day of entitlement to a qualifying benefit only if and for so long as the claimant complies with the requirements as to attendance and the provision of information and evidence contained in regulations made in accordance with Article 10(1) of the Order.
 
@@ -117,7 +123,7 @@ shall be treated as a day of entitlement to a qualifying benefit.
 - (b) the couple separated, or
 - (c) where paragraph (4)(*c*) applies, the partner’s entitlement to the qualifying benefit ceased.
 
-## 4. Connecting period
+## 4. Connecting period[^c-9209923a05eb1416fc6f95f33a5d1d38]
 
 (1) Subject to paragraphs (2) to (4), a connecting period arises where—
 
@@ -139,7 +145,7 @@ and the connecting period lasts until the new entitlement ends or until the expi
 
 (4) For the purposes of paragraph (1)(*e*) any part of the period of up to 12 weeks mentioned in that sub-paragraph in which the person was not entitled to one of the benefits to which paragraph (1)(*d*) refers shall be disregarded in determining the period of 2 years.
 
-## 5. Periods of entitlement which do not qualify
+## 5. Periods of entitlement which do not qualify[^c-bb4bd0cd34ff5892cbe28e8b449424b7]
 
 (1) The periods specified in paragraph (3) shall be treated for the purposes of these Regulations as periods in which a person is not entitled to a qualifying benefit.
 
@@ -165,13 +171,13 @@ applies.
 
 (5) Paragraph (3)(*c*)(ii) shall not apply to any period in respect of which the claim for a jobseeker’s allowance is determined by the adjudication officer in the claimant’s favour.
 
-## 6. Waiting period
+## 6. Waiting period[^c-02c68d55c19ac4c8b2c38f79d6217a2b]
 
 (1) A person shall not be entitled to a bonus unless he has served or is treated as having served a waiting period.
 
 (2) A waiting period is the period comprising the first 91 days in a period of entitlement to a qualifying benefit in which the claim for the bonus is made or which precedes a claim made in accordance with regulation 23(1)(*b*) (claiming a bonus).
 
-## 7. Requirements for a bonus
+## 7. Requirements for a bonus[^c-dbebc70a7d971581288c61611e1216a3]
 
 (1) An applicant who has served a waiting period shall be entitled to a bonus where he satisfies any one of the conditions set out in paragraphs (2) to (5).
 
@@ -231,7 +237,7 @@ applies.
 
 shall be treated as not satisfying the requirements of paragraph (2)(*c*).
 
-## 8. Amount payable
+## 8. Amount payable[^c-cefedbcf3f3be9d575850382ece81f2a]
 
 (1) Subject to the following provisions of these Regulations, the amount of the bonus payable to an applicant shall be the aggregate of—
 
@@ -273,7 +279,7 @@ then those earnings in so far as they were not fully taken into account shall be
 
 (12) In paragraph (5), “official error” means a mistake made or something done or omitted to be done by an officer of the Department where the person claiming the qualifying benefit or any person acting on his behalf has not caused, or materially contributed to, that mistake or omission.
 
-## 9. Department to issue estimates
+## 9. Department to issue estimates[^c-1ccac30e4f9afa238f99e8b484b944ac]
 
 (1) Where it appears to the Department that a person who is in receipt of a qualifying benefit, or the partner of such a person, has served the waiting period and that, were the conditions of regulation 7 (requirements for a bonus) also to be satisfied, a bonus may be payable to that person, it shall, within a year of the waiting period having been served, provide the person claiming the qualifying benefit with a written statement of the amount it estimates may be payable by way of bonus in his particular case, and shall provide further such statements at intervals of not more than one year as appears to it to be appropriate in the circumstances of the case.
 
@@ -282,7 +288,7 @@ then those earnings in so far as they were not fully taken into account shall be
 - (a) whether the applicant satisfies the conditions of entitlement to the bonus, and
 - (b) the amount, if any, payable where a bonus is awarded.
 
-## 10. Couples who separate
+## 10. Couples who separate[^c-42c878105d74c1cbe7eea1d88c011e8c]
 
 (1) In the case of a couple who separate and at the date of separation one member of the couple has days of entitlement to a qualifying benefit which count towards the waiting period, those days of entitlement which count, up to a maximum of 91 days, shall count towards a waiting period for the other member of the couple, and shall be treated as days on which the other member of the couple was entitled to a qualifying benefit.
 
@@ -294,7 +300,7 @@ then those earnings in so far as they were not fully taken into account shall be
 
 then the number of waiting days the new partner is required to serve in accordance with regulation 6(2) shall be reduced by a number equal to the number by which the days which count under paragraph (1) exceed the days of entitlement to a qualifying benefit which had otherwise accrued to the new partner on the date the partner referred to in paragraph (1) becomes his partner.
 
-## 11. Couples who separate where the partner has earnings
+## 11. Couples who separate where the partner has earnings[^c-b9a20717ee792bc23c10b51b45bdf04c]
 
 (1) This regulation applies where—
 
@@ -332,7 +338,7 @@ where—
 
 (9) Where the conditions for entitlement to a bonus, other than the need to make a claim, are fulfilled before the date of separation, but the claim for the bonus is made after the date of separation, the bonus shall be payable to the person entitled to the qualifying benefit before those conditions were fulfilled and no part of it shall be payable to the separated partner.
 
-## 12. Couples who separate where the separated partner has attained the age of 60
+## 12. Couples who separate where the separated partner has attained the age of 60[^c-c82458da77d6dc25848116d9020b80ac]
 
 (1) This regulation applies where—
 
@@ -367,7 +373,7 @@ any part of the bonus which in accordance with regulation 8(1)(*b*) accrued by v
 
 (8) Where the conditions for entitlement to a bonus, other than the need to make a claim, are fulfilled before the date of separation, but the claim for the bonus is made after the date of separation, the bonus shall be payable to the person entitled to the qualifying benefit before those conditions were fulfilled and no part of it shall be paid to the separated partner.
 
-## 13. Single persons who become couples
+## 13. Single persons who become couples[^c-14ed6569836cd8bad672fc12a9739de4]
 
 (1) This regulation applies where 2 persons form a couple and within the period of 12 weeks immediately before they do so—
 
@@ -385,7 +391,7 @@ any part of the bonus which in accordance with regulation 8(1)(*b*) accrued by v
 
 (5) Where both members of the couple are entitled to a contribution-based jobseeker’s allowance, bonuses accrued to each of them, whether or not the bonuses accrued before they became a couple, shall not be aggregated.
 
-## 14. Single persons who become couples: further provisions
+## 14. Single persons who become couples: further provisions[^c-190a7f9e0f15829d89f032cc66cac3c5]
 
 (1) This regulation applies where 2 persons become a couple and—
 
@@ -396,7 +402,7 @@ any part of the bonus which in accordance with regulation 8(1)(*b*) accrued by v
 
 (2) Any bonus which has accrued to the person mentioned in paragraph (1)(*a*) shall be treated as the bonus of the claimant and not that person.
 
-## 15. Single claimants who are couples
+## 15. Single claimants who are couples[^c-183e758f35b1a568865dddeba888ee7e]
 
 (1) Where—
 
@@ -417,7 +423,7 @@ any part of the bonus which in accordance with regulation 8(1)(*b*) accrued by v
 - (a) would be £1,000 or more, the amount of the bonus shall be the higher amount and shall not be increased further by reference to any earnings accruing since that time, or
 - (b) was less than £1,000, earnings accruing since that time shall be taken into account in accordance with regulation 8, but not so as to increase the amount of the bonus payable to more than £1,000.
 
-## 16. Couples both of whom are entitled to a qualifying benefit
+## 16. Couples both of whom are entitled to a qualifying benefit[^c-f99c33b62b85284393bb3f76c571de22]
 
 (1) Where—
 
@@ -437,7 +443,7 @@ any bonus which accrues in respect of the earnings of the person entitled to a c
 
 then the number of waiting days the person is required to serve in accordance with regulation 6(2) (waiting period) shall be reduced by a number equal to the number by which B exceeds A.
 
-## 17. Persons attaining pensionable age
+## 17. Persons attaining pensionable age[^c-29bb706dc590066296324c95afd3e799]
 
 (1) Where—
 
@@ -463,7 +469,7 @@ but failed to satisfy any one of the conditions specified in regulation 7 (requi
 
 (5) The amount of any bonus to which a person may be entitled in accordance with this regulation shall be calculated in accordance with regulation 8 (amount payable).
 
-## 18. Trainees
+## 18. Trainees[^c-b3dc3d3e2ca7ef8ec4d1c17a77433aac]
 
 (1) This regulation applies to a person who—
 
@@ -474,7 +480,7 @@ but failed to satisfy any one of the conditions specified in regulation 7 (requi
 
 (3) Where a person takes up employment within 14 days of his ceasing to be a person to whom this regulation applies, any claim for a bonus made by him shall be determined as if regulation 7(2)(*b*) (requirements for a bonus) was omitted.
 
-## 19. Death
+## 19. Death[^c-e4a8991b5f40515594b819c00ca7c2dc]
 
 (1) Subject to paragraph (4), this regulation applies where—
 
@@ -508,7 +514,7 @@ but failed to satisfy any one of the conditions specified in regulation 7 (requi
 
 (6) In the case of the partner who had earnings in the deceased partner’s bonus period, which are included in the value “E” in paragraph (5), any amount of bonus which accrued to that partner in accordance with that paragraph shall be increased by an amount equal to the value of half those earnings.
 
-## 20. Trade disputes
+## 20. Trade disputes[^c-029bbf6f75d31510ad60f4b1e34680dd]
 
 (1) The provisions of paragraphs (2) and (4) are subject to paragraph (6).
 
@@ -538,11 +544,11 @@ any earnings earned by that person during the stoppage shall be disregarded in d
 
 (8) Where the partner is again employed at the place of employment where the stoppage of work occurred, that employment shall not satisfy the work condition and no bonus shall be payable in consequence of it.
 
-## 21. Share fishermen
+## 21. Share fishermen[^c-95d212c7a6997a000dadd9eced63b7ca]
 
 In their application to share fishermen, these Regulations shall have effect as if references to earnings were references to earnings earned in any week within the bonus period, whether or not they were paid in that week.
 
-## 22. Bonus to be treated as capital for certain purposes
+## 22. Bonus to be treated as capital for certain purposes[^c-bb1d20f8312c0176858fd6d06f67ff91]
 
 Any bonus paid to an applicant shall be treated as capital of his for the purposes of—
 
@@ -552,7 +558,7 @@ Any bonus paid to an applicant shall be treated as capital of his for the purpos
 - (d) income support;
 - (e) a jobseeker’s allowance.
 
-## 23. Claiming a bonus
+## 23. Claiming a bonus[^c-770ffcdb6215328ca504a5b6e91f1cc4]
 
 (1) A claim for a bonus shall be made in writing on a form approved for the purpose by the Department and shall be made—
 
@@ -572,7 +578,7 @@ Any bonus paid to an applicant shall be treated as capital of his for the purpos
 
 (5) An applicant shall furnish such certificates, documents, information and evidence in connection with the claim, or any question arising out of it, as may be required by the Department and shall do so within one month of being required to do so or such longer period as the Department may consider reasonable.
 
-## 24. Claims: further provisions
+## 24. Claims: further provisions[^c-7cc5d8abe6f02721d3a884cd581ef88d]
 
 (1) A person who has made a claim may amend it at any time by notice in writing received at an appropriate office before a determination has been made on a claim, and any claim so amended may be treated as if it had been so amended in the first instance.
 
@@ -594,14 +600,14 @@ for the reference to 12 weeks in regulation 23(1)(*b*) there shall be substitute
 
 (6) Where the applicant proves there was good cause throughout the period from the expiry of the 12 weeks specified in regulation 23(1), for failure to claim the bonus within the specified time, the time for claiming the bonus shall be extended to the date on which the claim is made or to a period of 12 months, whichever is the shorter period.
 
-## 25. Payment of bonus
+## 25. Payment of bonus[^c-7dc1c42596e3d5d2e6ff9f924cfdaa7a]
 
 A bonus calculated by reference to earnings paid during periods of entitlement to income support and to a jobseeker’s allowance shall be treated as payable—
 
 - (a) wholly by way of a jobseeker’s allowance, where the qualifying benefit last in payment in the bonus period was a jobseeker’s allowance, or
 - (b) wholly by way of income support, where the qualifying benefit last in payment in the bonus period was income support.
 
-## 26. Transitional matters
+## 26. Transitional matters[^c-28de5a2988b24414e26d1eb65b31e012]
 
 (1) For the purposes of determining whether a person satisfies the requirements of regulation 6 (waiting period), days on or after 1st July 1996 but before 7th October 1996 in respect of which a person was entitled to unemployment benefit shall be treated as days of entitlement to a contribution-based jobseeker’s allowance, and shall include those Sundays, or the day substituted for Sunday by regulations made under the former section 25A(1)(*e*) of the Benefits Act[^f00009], which fall only between days of entitlement to unemployment benefit.
 
@@ -648,6 +654,8 @@ Articles 28 and 36(2) of the Order, the enabling provisions under which these Re
 
 [^f00001]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
+[^c-6aad1d7257b09def3f8d22313e4bb024]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
 [^f00002]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146) and [318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1989 Nos. 139](https://www.legislation.gov.uk/nisr/1989/139) and [395](https://www.legislation.gov.uk/nisr/1988/395), [S.R. 1992 No. 298](https://www.legislation.gov.uk/nisr/1992/298), [S.R. 1993 Nos. 120](https://www.legislation.gov.uk/nisr/1993/120) and [149](https://www.legislation.gov.uk/nisr/1993/149) and [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
 
 [^f00003]: Footnote: Relevant amending regulations are [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146) and [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
@@ -656,10 +664,60 @@ Articles 28 and 36(2) of the Order, the enabling provisions under which these Re
 
 [^f00005]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 (S.I. [1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087))
 
+[^c-fbca75589923127ee139e018deb0c702]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-32e7a23686d988dde7c23da344d6c36e]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-9209923a05eb1416fc6f95f33a5d1d38]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
 [^f00006]: Footnote: Section 30C was inserted by Article 5(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
+
+[^c-bb4bd0cd34ff5892cbe28e8b449424b7]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending regulations are [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1993 No. 175](https://www.legislation.gov.uk/nisr/1993/175) and [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11)
 
+[^c-02c68d55c19ac4c8b2c38f79d6217a2b]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-dbebc70a7d971581288c61611e1216a3]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-cefedbcf3f3be9d575850382ece81f2a]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
 [^f00008]: Footnote: Relevant amending regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1989 Nos. 139](https://www.legislation.gov.uk/nisr/1989/139) and [395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1992 No. 298](https://www.legislation.gov.uk/nisr/1992/298) and [S.R. 1993 Nos. 120](https://www.legislation.gov.uk/nisr/1993/120) and [149](https://www.legislation.gov.uk/nisr/1993/149)
+
+[^c-1ccac30e4f9afa238f99e8b484b944ac]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-42c878105d74c1cbe7eea1d88c011e8c]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-b9a20717ee792bc23c10b51b45bdf04c]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-c82458da77d6dc25848116d9020b80ac]: Commencement: Reg. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-14ed6569836cd8bad672fc12a9739de4]: Commencement: Reg. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-190a7f9e0f15829d89f032cc66cac3c5]: Commencement: Reg. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-183e758f35b1a568865dddeba888ee7e]: Commencement: Reg. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-f99c33b62b85284393bb3f76c571de22]: Commencement: Reg. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-29bb706dc590066296324c95afd3e799]: Commencement: Reg. 17 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-b3dc3d3e2ca7ef8ec4d1c17a77433aac]: Commencement: Reg. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-e4a8991b5f40515594b819c00ca7c2dc]: Commencement: Reg. 19 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-029bbf6f75d31510ad60f4b1e34680dd]: Commencement: Reg. 20 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-95d212c7a6997a000dadd9eced63b7ca]: Commencement: Reg. 21 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-bb1d20f8312c0176858fd6d06f67ff91]: Commencement: Reg. 22 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-770ffcdb6215328ca504a5b6e91f1cc4]: Commencement: Reg. 23 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-7cc5d8abe6f02721d3a884cd581ef88d]: Commencement: Reg. 24 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-7dc1c42596e3d5d2e6ff9f924cfdaa7a]: Commencement: Reg. 25 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
+
+[^c-28de5a2988b24414e26d1eb65b31e012]: Commencement: Reg. 26 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/201/regulation/1/1)
 
 [^f00009]: Footnote: Section 25A was inserted by paragraph 5 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
