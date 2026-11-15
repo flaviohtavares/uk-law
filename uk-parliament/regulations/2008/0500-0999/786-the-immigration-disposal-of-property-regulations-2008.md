@@ -3,15 +3,15 @@ title: The Immigration (Disposal of Property) Regulations 2008
 id: uksi/2008/786
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-20'
-text_date: null
-extent: null
+text_date: '2008-04-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/786
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/786/pdfs/uksiem_20080786_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/786/pdfs/uksi_20080786_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/786/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/786/data.pdf
 pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Immigration (Disposal of Property) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2008-04-17. See https://www.legislation.gov.uk/changes/affected/uksi/2008/786
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 786
 
@@ -42,15 +46,15 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 26(5) and section 26(6) of the UK Borders Act 2007[^f00001].
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-f05a0fc2bc73e93a58381990add31ab5]
 
 These Regulations may be cited as the Immigration (Disposal of Property) Regulations 2008 and shall come into force on 17th April 2008.
 
-**2.** In these Regulations—
+**2.**[^c-f6faf98407c99c904d82f311eb406ac0] In these Regulations—
 
 - (a) “the 2007 Act” means the UK Borders Act 2007.
 
-## 3. Property to which these Regulations apply
+## 3. Property to which these Regulations apply[^c-56fafd85505cfd894a312b925845bf54]
 
 These Regulations apply to property where—
 
@@ -58,7 +62,7 @@ These Regulations apply to property where—
 - (b) an order under section 26(2) of the 2007 Act (disposal of property: court order) cannot be made because of subsection (4)(a) of that section, or
 - (c) a court has declined to make an order under section 26(2) of the 2007 Act on the grounds that the court is not satisfied of the matters specified in subsection (4)(b) of that section.
 
-## 4. Restrictions on disposal of property
+## 4. Restrictions on disposal of property[^c-49ac4f4b770cdc0157cf69259a8a8e39]
 
 (1) Subject to regulation 5(2), property to which these Regulations apply, other than money—
 
@@ -67,7 +71,7 @@ These Regulations apply to property where—
 
 (2) Money which is property to which these Regulations apply shall be paid into the Consolidated Fund as soon as is reasonably practicable.
 
-## 5. Sale of property
+## 5. Sale of property[^c-dc4f7932f8132c466e3975fd871c6996]
 
 (1) Subject to paragraph (2), after the expiration of the relevant period referred to in regulation 4, property to which these Regulations apply other than money may be sold.
 
@@ -77,11 +81,11 @@ These Regulations apply to property where—
 
 (4) The Secretary of State may apply the proceeds of all sales under these Regulations, and any money which is property to which these Regulations apply, to defray reasonable expenses incurred in the conveyance, storage, and safe custody of the property and in connection with its sale and otherwise in acting pursuant to these Regulations.
 
-## 6. Retention of property
+## 6. Retention of property[^c-347f3d91642d41f1b854b7492348a8b6]
 
 After the expiration of the relevant period referred to in regulation 4, if, in the opinion of the Secretary of State, property to which these Regulations apply (other than money) can be used in the course of, or in connection with, a function under the Immigration Acts, the Secretary of State may determine that the property is to be retained by her and the property shall vest in the Secretary of State on the making of the determination.
 
-## 7. Other disposal of property in the public interest
+## 7. Other disposal of property in the public interest[^c-c13c5f01f07079df57026a749aeb7880]
 
 If the Secretary of State is satisfied that the nature of any property to which these Regulations apply is such that it is not in the public interest that it should be sold or retained, it shall, after the expiration of the relevant period referred to in regulation 4, be destroyed or otherwise disposed of in accordance with the direction of the Secretary of State.
 
@@ -113,4 +117,18 @@ Regulation 7 provides that if the Secretary of State is satisfied that the natur
 
 [^f00001]: Footnote: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
 
+[^c-f05a0fc2bc73e93a58381990add31ab5]: Commencement: Reg. 1 in force at 17.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/786/regulation/1)
+
+[^c-f6faf98407c99c904d82f311eb406ac0]: Commencement: Reg. 2 in force at 17.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/786/regulation/1)
+
+[^c-56fafd85505cfd894a312b925845bf54]: Commencement: Reg. 3 in force at 17.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/786/regulation/1)
+
+[^c-49ac4f4b770cdc0157cf69259a8a8e39]: Commencement: Reg. 4 in force at 17.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/786/regulation/1)
+
 [^f00002]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 25C was inserted by section 143 of the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41) and subsequently amended by section 1 of the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19).
+
+[^c-dc4f7932f8132c466e3975fd871c6996]: Commencement: Reg. 5 in force at 17.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/786/regulation/1)
+
+[^c-347f3d91642d41f1b854b7492348a8b6]: Commencement: Reg. 6 in force at 17.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/786/regulation/1)
+
+[^c-c13c5f01f07079df57026a749aeb7880]: Commencement: Reg. 7 in force at 17.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/786/regulation/1)

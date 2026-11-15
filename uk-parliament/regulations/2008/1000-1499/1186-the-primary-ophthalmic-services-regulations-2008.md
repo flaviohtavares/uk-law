@@ -3,16 +3,16 @@ title: The Primary Ophthalmic Services Regulations 2008
 id: uksi/2008/1186
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-04-28'
-text_date: null
-extent: null
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1186
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1186/pdfs/uksiem_20081186_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1186/pdfs/uksi_20081186_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1186/made/data.pdf
-pending_changes: 84
+- http://www.legislation.gov.uk/uksi/2008/1186/data.pdf
+pending_changes: 92
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Primary Ophthalmic Services Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (92).** Text as at 2008-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1186
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1186
 
@@ -42,13 +48,13 @@ Coming into force
 
 The Secretary of State for Health makes these Regulations in exercise of the powers conferred by sections 16CD(1), (2) and (3), 16CE and 126(4) of the National Health Service Act 1977[^f00001]:—
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-b56ed985bae402005fe9657ec390f9c8]
 
 (1) These Regulations may be cited as the Primary Ophthalmic Services Regulations 2008 and shall come into force on 1st August 2008.
 
 (2) These Regulations apply in relation to England.
 
-## 2. Interpretation
+## 2. Interpretation[^c-7759528f4ebde9455abb608549e17138]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -94,7 +100,7 @@ The Secretary of State for Health makes these Regulations in exercise of the pow
 - (a) all references to sections or Parts are to sections or Parts, as the case may be, of the Act, except where specified otherwise; and
 - (b) the use of the term “it” in relation to a contractor shall be deemed to include a reference to a contractor who is an individual or two or more individuals practising in partnership and related expressions shall be construed accordingly.
 
-## 3. Sight Tests - eligibility
+## 3. Sight Tests - eligibility[^c-841883b788bfbc06b14d7b98fbc5e92b]
 
 (1) A person may have his sight tested under primary ophthalmic services if, at the time of the testing of sight, he is a person—
 
@@ -136,7 +142,7 @@ The Secretary of State for Health makes these Regulations in exercise of the pow
 - (b) in sub-paragraph (f), “family” has the meaning given to it by section 35 of the Jobseekers Act 1995[^f00015]; and
 - (c) in sub-paragraph (g), “family” has the meaning given to it by regulation 2(2) of the Tax Credits (Definition and Calculation of Income) Regulations 2002[^f00016].
 
-## 4. Sight tests-applications
+## 4. Sight tests-applications[^c-87a1e6d774b12f2f0050cf533b22df07]
 
 (1) An eligible person who wishes to have his sight tested may make an application for his sight to be tested to any contractor—
 
@@ -156,7 +162,7 @@ The Secretary of State for Health makes these Regulations in exercise of the pow
 
 (5) A contractor shall be entitled to demand and recover from a patient or person making an application on a patient’s behalf under regulation 6(1) a sum in respect of loss of remunerative time resulting from that patient’s failure to keep an appointment.
 
-## 5. Sight test treated as a test under general ophthalmic services
+## 5. Sight test treated as a test under general ophthalmic services[^c-91cfdfed5d410be35fdfb082953e413c]
 
 (1) A person whose sight is tested by a contractor, but who was not an eligible person immediately before the testing and is shown—
 
@@ -171,7 +177,7 @@ shall be taken for the purposes of the testing to have so fallen immediately bef
 
 (4) Subject to the provisions of the Charges Regulations, where a testing of a person’s sight is treated by virtue of paragraphs (1)(b), (2) and (3) as a testing of sight under section 115 the PCT shall, on being presented with a receipt for, or other evidence of, any fee paid for the testing, and on being satisfied as to its amount, pay to that person an amount equal to that fee.
 
-## 6. Applications and signatures by children or persons incapable
+## 6. Applications and signatures by children or persons incapable[^c-82d7a12ceb761596554c7f18860c91fd]
 
 (1) Subject to paragraph (2), an application for mandatory services or additional services may be made and a signature required by these regulations may be given—
 
@@ -183,7 +189,7 @@ shall be taken for the purposes of the testing to have so fallen immediately bef
 
 (2) A signature on an application may not be given by the contractor to whom the application is made nor by any person employed by it.
 
-## 7. Entitlement to additional services
+## 7. Entitlement to additional services[^c-2f150a10f15e33f0f90cebef65031087]
 
 (1) Subject to the following provisions of this regulation, any person falling within regulation 3, except a prisoner, may apply under regulation 4 (or have someone apply on his behalf under regulation 6) to have his sight tested by mobile services.
 
@@ -193,7 +199,7 @@ shall be taken for the purposes of the testing to have so fallen immediately bef
 
 (4) He may only have his sight tested at his home if he is unable to leave it unaccompanied because of physical or mental illness or disability.
 
-## 8. Publication of information
+## 8. Publication of information[^c-bdcb8cb67899e7b56218ee53eac9949c]
 
 The PCT shall publish—
 
@@ -228,6 +234,10 @@ An Impact Assessment has not been produced for this Instrument as it has no impa
 
 [^f00001]: Footnote: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49) (“the 1977 Act”); see section 128(1) as amended by the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 26(2)(g) and (i), for the definitions of “prescribed” and “regulations”. Section 16CD and 16CE were inserted by the Health Act [2006 (c.28)](https://www.legislation.gov.uk/ukpga/2006/28) (“the 2006 Act”), section 179(1). Section 126(4) was amended by the 1990 Act, s. 65(2); by the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), Schedule 4, paragraph 37(6), by the Health and Social Care Act [2001 (c.15)](https://www.legislation.gov.uk/ukpga/2001/15) (“the 2001 Act”), Schedule 5, paragraph 5(13)(b) and by the 2006 Act, section 80 and Schedule 8, paragraph 23. As regards Wales, the functions of the Secretary of State under sections 29 and 126(4) of the 1977 Act are transferred to the National Assembly for Wales under article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672); section 68 of the 2001 Act provides that Schedule 1 shall be construed so as to include the amendments made by that Act to the 1977 Act; these Regulations therefore extend only to England.
 
+[^c-b56ed985bae402005fe9657ec390f9c8]: Commencement: Reg. 1 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1186/regulation/1/1)
+
+[^c-7759528f4ebde9455abb608549e17138]: Commencement: Reg. 2 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1186/regulation/1/1)
+
 [^f00002]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); relevant amendments are the Jobseekers Act [1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18) s.41, the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), s. 70, the State Pension Credit Act [2002 (c.16)](https://www.legislation.gov.uk/ukpga/2002/16), ss 14 and 21 and the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), s. 254.
 
 [^f00003]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
@@ -246,6 +256,8 @@ An Impact Assessment has not been produced for this Instrument as it has no impa
 
 [^f00010]: Footnote: [S.I 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185).
 
+[^c-841883b788bfbc06b14d7b98fbc5e92b]: Commencement: Reg. 3 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1186/regulation/1/1)
+
 [^f00011]: Footnote: [1948 (c.29)](https://www.legislation.gov.uk/ukpga/1948/29).
 
 [^f00012]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); relevant amendments are [S.I. 2004/663](https://www.legislation.gov.uk/uksi/2004/663), [683](https://www.legislation.gov.uk/uksi/2004/683) and [936](https://www.legislation.gov.uk/uksi/2004/936), [2005/26](https://www.legislation.gov.uk/uksi/2005/26) and [578](https://www.legislation.gov.uk/uksi/2005/578), [2006/562](https://www.legislation.gov.uk/uksi/2006/562), [675](https://www.legislation.gov.uk/uksi/2006/675), [1065](https://www.legislation.gov.uk/uksi/2006/1065) and [2171](https://www.legislation.gov.uk/uksi/2006/2171), [2007/988](https://www.legislation.gov.uk/uksi/2007/988), [1898](https://www.legislation.gov.uk/uksi/2007/1898), [1975](https://www.legislation.gov.uk/uksi/2007/1975) and [2590](https://www.legislation.gov.uk/uksi/2007/2590) and [2008/843](https://www.legislation.gov.uk/uksi/2008/843).
@@ -257,3 +269,13 @@ An Impact Assessment has not been produced for this Instrument as it has no impa
 [^f00015]: Footnote: Relevant amendment is the Civil Partnership Act 2004 s. 254.
 
 [^f00016]: Footnote: [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006).
+
+[^c-87a1e6d774b12f2f0050cf533b22df07]: Commencement: Reg. 4 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1186/regulation/1/1)
+
+[^c-91cfdfed5d410be35fdfb082953e413c]: Commencement: Reg. 5 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1186/regulation/1/1)
+
+[^c-82d7a12ceb761596554c7f18860c91fd]: Commencement: Reg. 6 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1186/regulation/1/1)
+
+[^c-2f150a10f15e33f0f90cebef65031087]: Commencement: Reg. 7 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1186/regulation/1/1)
+
+[^c-bdcb8cb67899e7b56218ee53eac9949c]: Commencement: Reg. 8 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1186/regulation/1/1)

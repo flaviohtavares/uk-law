@@ -3,7 +3,7 @@ title: Northern Ireland Act 1998, SCHEDULE 6B
 act: Northern Ireland Act 1998
 section: schedule-6b
 status: revised
-text_date: '2026-01-29'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1998/47/schedule/6b
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Northern Ireland Act 1998, SCHEDULE 6B
 
-> Text as at 2026-01-29.
+> Text as at 2026-11-12.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -41,12 +41,12 @@ Section 56B
 - “**Article 13(3a) declaration**” means the unilateral declaration by His Majesty’s Government concerning the involvement of the institutions of the 1998 Agreement as annexed to the decision of the Joint Committee which lays down arrangements relating to the Windsor Framework;
 - “**clerk to the Assembly**” has the same meaning as in Schedule 6A;
 - “**Committee**” means the committee established by paragraph 2;
-- “**Framework**” means the Windsor Framework;
+- [^c-20905eaa89c6fedf8aa92804d8df33d6]...
 - “**Joint Committee**” has the same meaning as in the European Union (Withdrawal) Act 2018;
 - “**new EU act**” means a new EU instrument which has been notified to the United Kingdom in accordance with Article 13(4) of the Windsor Framework;
 - “**replacement EU act**” means an EU instrument which amends or replaces any of the EU instruments referred to in the third subparagraph of Article 5(1) of the Windsor Framework, the first indent of heading 1 of Annex 2 to the Framework or headings 7 to 47 of Annex 2 to the Framework;
 - “**scrutiny period**” means the period of two months beginning with the day on which a replacement EU act is published;
-- “**Windsor Framework**” has the same meaning as in the joint declaration of the United Kingdom of Great Britain and Northern Ireland and the European Union in the Joint Committee which reflects the arrangements in the decision of that Joint Committee laying down the arrangements relating to the Windsor Framework.
+- [^c-2253df21bce697696302ddfeb34dcb1e]...
 
 ### PART 2 — Windsor Framework Democratic Scrutiny Committee
 
@@ -56,7 +56,7 @@ A committee of the Assembly, to be known as the Windsor Framework Democratic Scr
 
 #### 3. Purpose and functions of the Committee
 
-(1) The purpose of the Committee is to assist with the observation and implementation of Article 13(3a) and (4) of the Framework.
+(1) The purpose of the Committee is to assist with the observation and implementation of Article 13(3a) and (4) of the Windsor[^c-cd24400bffc45c336b72b57a3029dcb5] Framework.
 
 (2) In order to fulfil its purpose, the functions of the Committee include—
 
@@ -112,7 +112,7 @@ Membership of the Committee is to be determined in accordance with the standing 
   - (ii) would have a significant impact specific to everyday life of communities in Northern Ireland in a way that is liable to persist, and
 - (b) may have regard to any other matters the Committee considers appropriate.
 
-(3) A decision under sub-paragraph (1) must be made no later than five working days after the day on which the notification is made.
+(3) A decision under sub-paragraph (1) must be made no later than ten working days[^c-e951364484d80d2791ef6c2b178c8072] after the day on which the notification is made.
 
 (4) The Committee must publish any decision made in accordance with this paragraph.
 
@@ -130,13 +130,15 @@ Membership of the Committee is to be determined in accordance with the standing 
 
 (3) A Minister or Northern Ireland department must comply with any reasonable request for information made by the Committee which is relevant to an inquiry of that Committee.
 
+(3A)[^c-da368f6d25d39f9a09ec0a83fe9aa421] For the purposes of sub-paragraph (3), a request for information is not to be regarded as unreasonable solely on the ground that the Minister or Northern Ireland department does not have primary responsibility for the implementation or enforcement of the new EU act or replacement EU act.
+
 #### 10. Committee Inquiries: Reports
 
-(1) The Committee must publish a report of the conclusions of an inquiry into a replacement EU act no later than fifteen working days before the end of the scrutiny period that relates to that EU act.
+(1) The Committee must publish a report of the conclusions of an inquiry into a replacement EU act no later than twelve working days[^c-49a08cc4d67ecfa3ab371c63878046f2] before the end of the scrutiny period that relates to that EU act.
 
 (2) A report issued in accordance with sub-paragraph (1) may include any information which the Committee considers appropriate.
 
-(3) The Committee must also publish the following no later than fifteen working days before the end of the scrutiny period—
+(3) The Committee must also publish the following no later than twelve working days[^c-a4a119d6ea43fe8270ece376f936240f] before the end of the scrutiny period—
 
 - (a) minutes of all Committee meetings relevant to the inquiry,
 - (b) minutes of any discussion or engagement conducted in accordance with paragraph 9(2), and
@@ -148,7 +150,7 @@ Membership of the Committee is to be determined in accordance with the standing 
 
 #### 11. Initiating the procedure to prevent the application of a replacement EU act
 
-(1) The process under this Part of this Schedule for members of the Assembly to seek to prevent a replacement EU act from applying under the Framework is initiated if the Presiding Officer is provided with a written notification which gives detailed reasons for seeking to prevent the application of that EU act with reference to the requirements in paragraph 1(c) of the Article 13(3a) declaration.
+(1) The process under this Part of this Schedule for members of the Assembly to seek to prevent a replacement EU act from applying under the Windsor[^c-61a77429c05f77077898047c65adee9e] Framework is initiated if the Presiding Officer is provided with a written notification which gives detailed reasons for seeking to prevent the application of that EU act with reference to the requirements in paragraph 1(c) of the Article 13(3a) declaration.
 
 (2) A notification made under sub-paragraph (1) must be agreed to by no fewer than 30 members of the Assembly and these must include—
 
@@ -175,14 +177,14 @@ Upon receipt of a notification which satisfies the conditions in paragraph 11(2)
 (1) Before the end of the scrutiny period, the Secretary of State must accept a notification if the Secretary of State considers that it meets the requirements in—
 
 - (a) paragraphs 11 to 13 of this Schedule,
-- (b) Article 13(3a) of the Framework, and
+- (b) Article 13(3a) of the Windsor[^c-f73e98a27e9993948efba76297114909] Framework, and
 - (c) the Article 13(3a) declaration.
 
 (2) In reaching a decision under sub-paragraph (1), the possibility of the European Union taking remedial measures in accordance with Article 13(4) of the Framework is not a relevant consideration.
 
 #### 15. Duty to notify accepted notifications
 
-Before the end of the scrutiny period, a Minister of the Crown must give the European Commission written notification in accordance with the Framework of any notification from members of the Assembly which has been accepted by the Secretary of State.
+Before the end of the scrutiny period, a Minister of the Crown must give the European Commission written notification in accordance with the Windsor[^c-747b0e1a444451cfdca2018b86e23ccb] Framework of any notification from members of the Assembly which has been accepted by the Secretary of State.
 
 #### 16. Duty to give reasons for a decision not to accept a notification
 
@@ -204,7 +206,7 @@ where “\[*x*\]” is to be substituted with the title of the new EU act.
 
 #### 18. Restrictions relating to a decision to add new EU acts
 
-(1) A Minister of the Crown must not agree to the adoption of a decision by the Joint Committee to add a new EU act to the relevant annex in accordance with Article 13(4) of the Framework unless the Assembly has indicated support for the application of that EU act by passing an applicability motion.
+(1) A Minister of the Crown must not agree to the adoption of a decision by the Joint Committee to add a new EU act to the relevant annex in accordance with Article 13(4) of the Windsor[^c-c2dd1f72722d2cb85936daf7e3cafb5f] Framework unless the Assembly has indicated support for the application of that EU act by passing an applicability motion.
 
 (2) But the Minister of the Crown may agree to the adoption of such a decision if the Minister considers that—
 
@@ -226,7 +228,7 @@ where “\[*x*\]” is to be substituted with the title of the new EU act.
 
 (1) No applicability motion may be tabled in relation to a new EU act until a notification has been made under sub-paragraph (2) in relation to the same new EU act.
 
-(2) A notification under this paragraph may be made if a new EU act is being considered by the Joint Committee under Article 13(4) of the Framework.
+(2) A notification under this paragraph may be made if a new EU act is being considered by the Joint Committee under Article 13(4) of the Windsor[^c-d4ff2205b2d2560f6de0d4cb802550fb] Framework.
 
 (3) A notification is made under sub-paragraph (2) if His Majesty’s government in the United Kingdom provides the notification to—
 
@@ -248,3 +250,27 @@ where “\[*x*\]” is to be substituted with the title of the new EU act.
 ## Annotations
 
 [^c-e7502b16b82fd0343aa18bfd9b1c81b6]: Textual amendment: Sch. 6B inserted (2.2.2024) by [The Windsor Framework (Democratic Scrutiny) Regulations 2024 (S.I. 2024/118)](https://www.legislation.gov.uk/uksi/2024/118), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/118/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/118/schedule)
+
+[^c-20905eaa89c6fedf8aa92804d8df33d6]: Textual amendment: Words in Sch. 6B para. 1(6) omitted (12.11.2026) by virtue of [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(a)(i)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/a/i)
+
+[^c-2253df21bce697696302ddfeb34dcb1e]: Textual amendment: Words in Sch. 6B para. 1(6) omitted (12.11.2026) by virtue of [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/a/ii)
+
+[^c-cd24400bffc45c336b72b57a3029dcb5]: Textual amendment: Word in Sch. 6B para. 3(1) inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/b)
+
+[^c-e951364484d80d2791ef6c2b178c8072]: Textual amendment: Words in Sch. 6B para. 8(3) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(c)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/c)
+
+[^c-da368f6d25d39f9a09ec0a83fe9aa421]: Textual amendment: Sch. 6B para. 9(3A) inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(d)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/d)
+
+[^c-49a08cc4d67ecfa3ab371c63878046f2]: Textual amendment: Words in Sch. 6B para. 10(1) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(e)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/e)
+
+[^c-a4a119d6ea43fe8270ece376f936240f]: Textual amendment: Words in Sch. 6B para. 10(3) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(f)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/f)
+
+[^c-61a77429c05f77077898047c65adee9e]: Textual amendment: Word in Sch. 6B para. 11(1) inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(g)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/g)
+
+[^c-f73e98a27e9993948efba76297114909]: Textual amendment: Word in Sch. 6B para. 14(1)(b) inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(g)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/g)
+
+[^c-747b0e1a444451cfdca2018b86e23ccb]: Textual amendment: Word in Sch. 6B para. 15 inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(g)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/g)
+
+[^c-c2dd1f72722d2cb85936daf7e3cafb5f]: Textual amendment: Word in Sch. 6B para. 18(1) inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(g)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/g)
+
+[^c-d4ff2205b2d2560f6de0d4cb802550fb]: Textual amendment: Word in Sch. 6B para. 19(2) inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(7)(g)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/7/g)

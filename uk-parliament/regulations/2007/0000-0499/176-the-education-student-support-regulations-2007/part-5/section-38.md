@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 38
 act: The Education (Student Support) Regulations 2007
 section: '38'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 38
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 38. General qualifying conditions for grants for living and other costs
+## 38. General qualifying conditions for grants for living and other costs[^c-c1d61e5e22b07475bee10fcbd86816b4]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student qualifies for a grant under this Part provided that—
 
@@ -55,6 +61,8 @@ summary: ''
 - (f) the student becomes the child of a Swiss national.
 
 ## Annotations
+
+[^c-c1d61e5e22b07475bee10fcbd86816b4]: Commencement: Reg. 38 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00045]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 8 was amended by the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), section 1(2) and the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 74(1).
 

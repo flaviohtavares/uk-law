@@ -3,15 +3,15 @@ title: The Assisted Areas Order 2007
 id: uksi/2007/107
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-01-22'
-text_date: null
-extent: null
+text_date: '2007-02-13'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2007/107
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/107/pdfs/uksiem_20070107_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/107/pdfs/uksi_20070107_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/107/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/107/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Assisted Areas Order 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-02-13. See https://www.legislation.gov.uk/changes/affected/uksi/2007/107
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2007 No. 107
 
@@ -42,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following order in exercise of the powers conferred upon him by section 1(1), (3), (4) and (7) of the Industrial Development Act 1982[^f00001]:
 
-## 1. Commencement
+## 1. Commencement[^c-38bbac303dd08e4fb581a23e5a9be772]
 
 The Order may be cited as the Assisted Areas Order 2007 and shall come into force on 13th February 2007.
 
-## 2. Interpretation
+## 2. Interpretation[^c-b774b23ce63c197e10cab895e1506593]
 
 (1) In this Order—
 
@@ -64,7 +68,7 @@ The Order may be cited as the Assisted Areas Order 2007 and shall come into forc
 - (a) any reference to a ward shall be a reference to the Census Area Statistic ward relating to the 2001 Census; and
 - (b) any reference to a local authority area shall be a reference to that area as it existed on 21 June 2003.
 
-## 3. Specification
+## 3. Specification[^c-befd712303be8c91f719f198722cbdf6]
 
 (1) In this Order the specification of an area as a development area is for the purposes of the 1982 Act and section 1 of the Derelict Land Act 1982[^f00003].
 
@@ -72,7 +76,7 @@ The Order may be cited as the Assisted Areas Order 2007 and shall come into forc
 
 (3) The area in Scotland in Schedule 1 shall be a development area until 31st December 2010.
 
-## 4. Revocation
+## 4. Revocation[^c-63858fc880dbeee3332669b0ecdbe1ea]
 
 The 2000 Order is revoked.
 
@@ -1779,6 +1783,14 @@ This Order revokes the Assisted Areas Order 2000 (article 4).
 
 [^f00001]: Footnote: [1982 c.52](https://www.legislation.gov.uk/ukpga/1982/52): section 1(4) was inserted by section 4 of the Co-operative Development Agency and Industrial Development Act [1984 (c.57)](https://www.legislation.gov.uk/ukpga/1984/57), words in section 1(4) were omitted by the Statute Law (Repeals) Act [2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14); words in section 1(7) were omitted by the Statute Law (Repeals) Act [2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14).
 
+[^c-38bbac303dd08e4fb581a23e5a9be772]: Commencement: Art. 1 in force at 13.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/107/article/1)
+
+[^c-b774b23ce63c197e10cab895e1506593]: Commencement: Art. 2 in force at 13.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/107/article/1)
+
 [^f00002]: Footnote: [S.I. 2000/2038](https://www.legislation.gov.uk/uksi/2000/2038).
 
+[^c-befd712303be8c91f719f198722cbdf6]: Commencement: Art. 3 in force at 13.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/107/article/1)
+
 [^f00003]: Footnote: [1982 c.42](https://www.legislation.gov.uk/ukpga/1982/42).
+
+[^c-63858fc880dbeee3332669b0ecdbe1ea]: Commencement: Art. 4 in force at 13.2.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/107/article/1)

@@ -3,15 +3,15 @@ title: The Discretionary Housing Payments (Grants) Amendment Order 2008
 id: uksi/2008/1167
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-04-24'
-text_date: null
-extent: null
+text_date: '2008-05-22'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/1167
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1167/pdfs/uksiem_20081167_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1167/pdfs/uksi_20081167_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1167/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1167/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Discretionary Housing Payments (Grants) Amendment Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-05-22. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1167
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2008 No. 1167
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Secretary of State for Work and Pensions in the exercise of powers conferred by sections 140B(1) and 140C(1) and (4) and 189(4) to (6) of the Social Security Administration Act 1992[^f00001] and section 70 of the Child Support, Pensions and Social Security Act 2000[^f00002] with the consent of the Treasury[^f00003] and after consultation with organisations appearing to be representative of the authorities concerned[^f00004] makes the following Order:
 
-## 1. Citation, commencement, application and interpretation
+## 1. Citation, commencement, application and interpretation[^c-45fbf084eb3ee81cf4b0be80788cf2b1]
 
 (1) This Order may be cited as the Discretionary Housing Payment (Grants) Amendment Order 2008 and shall come into force on 22nd May 2008.
 
@@ -52,7 +56,7 @@ The Secretary of State for Work and Pensions in the exercise of powers conferred
 
 (4) In this Order, “the 2001 Order” means the Discretionary Housing Payments (Grants) Order 2001[^f00005].
 
-## 2. Amendment of the 2001 Order
+## 2. Amendment of the 2001 Order[^c-47149a2915e921f165082c08a26185a7]
 
 (1) The 2001 Order is amended as follows.
 
@@ -106,4 +110,8 @@ An impact assessment has not been prepared as this instrument has no impact on b
 
 [^f00004]: Footnote: Section 176(1) of the Social Security Admi nistration Act 1992.
 
+[^c-45fbf084eb3ee81cf4b0be80788cf2b1]: Commencement: Art. 1 in force at 22.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1167/article/1/1)
+
 [^f00005]: Footnote: [S.I. 2001/2340](https://www.legislation.gov.uk/uksi/2001/2340) as amended by S.I.s [2004/2329](https://www.legislation.gov.uk/uksi/2004/2329) and [2005/2052](https://www.legislation.gov.uk/uksi/2005/2052).
+
+[^c-47149a2915e921f165082c08a26185a7]: Commencement: Art. 2 in force at 22.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1167/article/1/1)

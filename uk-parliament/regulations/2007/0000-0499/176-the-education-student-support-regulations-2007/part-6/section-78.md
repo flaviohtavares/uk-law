@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 78
 act: The Education (Student Support) Regulations 2007
 section: '78'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/78
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 78
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 78. Interpretation of Part 6
+## 78. Interpretation of Part 6[^c-fe6424b60c60dfbcfa0089f199f482f5]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 In this Part—
 
@@ -26,3 +32,7 @@ In this Part—
   - (ii) does not qualify for a grant for living and other costs in respect of the academic year because of regulation 38(3)(b) or (5); or
   - (iii) opts when applying for a loan for living costs not to provide the information needed to calculate the household income;
 - (e) where the duration of a graduate-entry or postgraduate-level course for the initial training of teachers is only one academic year, that year is not to be treated as the final year.
+
+## Annotations
+
+[^c-fe6424b60c60dfbcfa0089f199f482f5]: Commencement: Reg. 78 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

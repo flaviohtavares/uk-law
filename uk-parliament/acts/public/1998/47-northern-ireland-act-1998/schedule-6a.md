@@ -3,7 +3,7 @@ title: Northern Ireland Act 1998, SCHEDULE 6A
 act: Northern Ireland Act 1998
 section: schedule-6a
 status: revised
-text_date: '2026-01-29'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1998/47/schedule/6a
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Northern Ireland Act 1998, SCHEDULE 6A
 
-> Text as at 2026-01-29.
+> Text as at 2026-11-12.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -28,13 +28,13 @@ Section 56A *(Extent: N.I.)*
 
 (1 (Extent: N.I.)) Part 2 of this Schedule requires the Secretary of State to initiate the democratic consent process in relation to each new continuation period. *(Extent: N.I.)*
 
-(2 (Extent: N.I.)) Part 3 of this Schedule establishes, for the purposes of Article 18 of the Protocol as read with the unilateral Declaration, the default democratic consent process referred to in paragraphs 3 and 4 of the unilateral Declaration. *(Extent: N.I.)*
+(2 (Extent: N.I.)) Part 3 of this Schedule establishes, for the purposes of Article 18 of the *(Extent: N.I.)* Windsor Framework[^c-e59669817ae9578598b1fd1502d022ce] *(Extent: N.I.)* as read with the unilateral Declaration, the default democratic consent process referred to in paragraphs 3 and 4 of the unilateral Declaration. *(Extent: N.I.)*
 
-(3 (Extent: N.I.)) Part 4 of this Schedule establishes, for the purposes of Article 18 of the Protocol as read with the unilateral Declaration, the alternative democratic consent process referred to in paragraphs 5 and 6 of the unilateral Declaration. *(Extent: N.I.)*
+(3 (Extent: N.I.)) Part 4 of this Schedule establishes, for the purposes of Article 18 of the *(Extent: N.I.)* Windsor Framework *(Extent: N.I.)* as read with the unilateral Declaration, the alternative democratic consent process referred to in paragraphs 5 and 6 of the unilateral Declaration. *(Extent: N.I.)*
 
 (4 (Extent: N.I.)) Part 5 of this Schedule makes provision about procedural matters and the outcome of the democratic consent process. *(Extent: N.I.)*
 
-(5 (Extent: N.I.)) Part 6 of this Schedule makes provision about an independent review into the functioning of the Protocol. *(Extent: N.I.)*
+(5 (Extent: N.I.)) Part 6 of this Schedule makes provision about an independent review into the functioning of the *(Extent: N.I.)* Windsor Framework *(Extent: N.I.)*. *(Extent: N.I.)*
 
 (6 (Extent: N.I.)) To the extent that the standing orders of the Assembly are inconsistent with this Schedule, this Schedule (rather than the standing orders) is to have effect. *(Extent: N.I.)*
 
@@ -45,17 +45,17 @@ Section 56A *(Extent: N.I.)*
 - “alternative democratic consent process” means the democratic consent process established by Part 4 of this Schedule; *(Extent: N.I.)*
 - “default democratic consent process” means the democratic consent process established by Part 3 of this Schedule; *(Extent: N.I.)*
 - “democratic consent process” means the process by which— *(Extent: N.I.)*
-  - (a) democratic consent in Northern Ireland to the continued application of Articles 5 to 10 of the Protocol is to be sought, and *(Extent: N.I.)*
+  - (a) democratic consent in Northern Ireland to the continued application of Articles 5 to 10 of the *(Extent: N.I.)* Windsor Framework *(Extent: N.I.)* is to be sought, and *(Extent: N.I.)*
   - (b) a decision expressing that democratic consent is to be made; *(Extent: N.I.)*
 - “notification of the start of the democratic consent process” has the meaning given in paragraph 4; *(Extent: N.I.)*
-- “Protocol” means the Protocol on Ireland/Northern Ireland to the EU withdrawal agreement; *(Extent: N.I.)*
-- “unilateral Declaration” means the declaration by Her Majesty’s Government concerning the operation of the ‘Democratic consent in Northern Ireland’ provision of the Protocol made on 17 October 2019. *(Extent: N.I.)*
+- [^c-2fa938fd42d49bb1d9438699c06496ae]... *(Extent: N.I.)*
+- “unilateral Declaration” means the declaration by Her Majesty’s Government concerning the operation of the ‘Democratic consent in Northern Ireland’ provision of the *(Extent: N.I.)* Windsor Framework *(Extent: N.I.)* made on 17 October 2019. *(Extent: N.I.)*
 
 #### 2 (Extent: N.I.). Meaning of “consent resolution” and effect if consent resolution rejected (Extent: N.I.)
 
 (1 (Extent: N.I.)) In this Schedule “consent resolution” means a resolution of the Assembly in this form— *(Extent: N.I.)*
 
-> That Articles 5 to 10 of the Protocol on Ireland/Northern Ireland to the EU withdrawal agreement should continue to apply during the new continuation period (within the meaning of Schedule 6A to the Northern Ireland Act 1998). *(Extent: N.I.)*
+> That Articles 5 to 10 of the *(Extent: N.I.)* Windsor Framework[^c-70c3058e93256e55efed7011244e69d4] *(Extent: N.I.)* to the EU withdrawal agreement should continue to apply during the new continuation period (within the meaning of Schedule 6A to the Northern Ireland Act 1998). *(Extent: N.I.)*
 
 (2 (Extent: N.I.)) This Schedule ceases to apply at the end of a particular current period if— *(Extent: N.I.)*
 
@@ -103,7 +103,7 @@ Section 56A *(Extent: N.I.)*
 (4 (Extent: N.I.)) The “notification of the start of the democratic consent process” that relates to a new continuation period is a written notification that— *(Extent: N.I.)*
 
 - (a (Extent: N.I.)) states the date of the first day of the new continuation period, and *(Extent: N.I.)*
-- (b (Extent: N.I.)) states that, before that date, Her Majesty’s Government in the United Kingdom must notify the European Commission of the outcome of the democratic consent process established by this Schedule in relation to the continued application of Articles 5 to 10 of the Protocol during the new continuation period. *(Extent: N.I.)*
+- (b (Extent: N.I.)) states that, before that date, Her Majesty’s Government in the United Kingdom must notify the European Commission of the outcome of the democratic consent process established by this Schedule in relation to the continued application of Articles 5 to 10 of the *(Extent: N.I.)* Windsor Framework[^c-49f89dc3260ec1b7727690a6d483e86f] *(Extent: N.I.)* during the new continuation period. *(Extent: N.I.)*
 
 ### PART 3 (Extent: N.I.) — Default Democratic Consent Process (Extent: N.I.)
 
@@ -382,11 +382,11 @@ This Part applies in relation to any motion for a consent resolution whether the
 
 ### PART 6 (Extent: N.I.) — Independent Review (Extent: N.I.)
 
-#### 21 (Extent: N.I.). Independent review into the functioning of the Protocol (Extent: N.I.)
+#### 21 (Extent: N.I.). Independent review into the functioning of the (Extent: N.I.) Windsor Framework (Extent: N.I.)[^c-fe8f20a50e8b031d743bbe214238fe36]
 
 (1 (Extent: N.I.)) This paragraph applies where the Presiding Officer notifies the Secretary of State that the Assembly has passed a consent resolution by a majority of the members voting but not with cross-community support. *(Extent: N.I.)*
 
-(2 (Extent: N.I.)) Within one month of receiving the notification, the[^c-af65eee9bdd0b180e78bee13d23d25ab] *(Extent: N.I.)* Secretary of State must commission an independent review into the functioning of the Protocol in accordance with paragraphs 7 to 9 of the unilateral Declaration. *(Extent: N.I.)*
+(2 (Extent: N.I.)) Within one month of receiving the notification, the[^c-af65eee9bdd0b180e78bee13d23d25ab] *(Extent: N.I.)* Secretary of State must commission an independent review into the functioning of the *(Extent: N.I.)* Windsor Framework[^c-463d0ff33261e95dd5ab90e3d4bd0e8e] *(Extent: N.I.)* in accordance with paragraphs 7 to 9 of the unilateral Declaration. *(Extent: N.I.)*
 
 (2A (Extent: N.I.))[^c-5e89779537e5947f822f4438d2d0e6da] The review may include consideration of any effect of the Windsor Framework in the withdrawal agreement on— *(Extent: N.I.)*
 
@@ -419,7 +419,19 @@ This Part applies in relation to any motion for a consent resolution whether the
 
 [^c-987fc61a25df1efd41ef519bb7c55274]: Textual amendment: Sch. 6A inserted (10.12.2020) by [The Protocol on Ireland/Northern Ireland (Democratic Consent Process) (EU Exit) Regulations 2020 (S.I. 2020/1500)](https://www.legislation.gov.uk/uksi/2020/1500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/2/3)
 
+[^c-e59669817ae9578598b1fd1502d022ce]: Textual amendment: Words in Sch. 6A para. 1 substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(6)(a)(i)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/6/a/i)
+
+[^c-2fa938fd42d49bb1d9438699c06496ae]: Textual amendment: Words in Sch. 6A para. 1 omitted (12.11.2026) by virtue of [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/6/a/ii)
+
+[^c-70c3058e93256e55efed7011244e69d4]: Textual amendment: Words in Sch. 6A para. 2(1) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/6/b)
+
+[^c-49f89dc3260ec1b7727690a6d483e86f]: Textual amendment: Words in Sch. 6A para. 4(4)(b) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/6/c)
+
+[^c-fe8f20a50e8b031d743bbe214238fe36]: Textual amendment: Words in Sch. 6A para. 21 substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(6)(d)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/6/d)
+
 [^c-af65eee9bdd0b180e78bee13d23d25ab]: Textual amendment: Words in Sch. 6A para. 21(2) substituted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/a)
+
+[^c-463d0ff33261e95dd5ab90e3d4bd0e8e]: Textual amendment: Words in Sch. 6A para. 21(2) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(6)(e)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/6/e)
 
 [^c-5e89779537e5947f822f4438d2d0e6da]: Textual amendment: Sch. 6A para. 21(2A)-(2G) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/b)
 

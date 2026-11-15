@@ -3,15 +3,15 @@ title: The Local Government (Structural and Boundary Changes) (Staffing) Regulat
 id: uksi/2008/1419
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-02'
-text_date: null
-extent: null
+text_date: '2008-06-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1419
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1419/pdfs/uksiem_20081419_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1419/pdfs/uksi_20081419_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1419/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1419/data.pdf
 pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Local Government (Structural and Boundary Changes) (Staffing) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2008-06-28. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1419
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 1419
 
@@ -42,11 +46,11 @@ Coming into force
 
 The Secretary of State in exercise of the powers conferred by sections 14 and 240(10) of the Local Government and Public Involvement in Health Act 2007[^f00001] makes the following Regulations:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-153f2a4930153f85346c1c21bc311425]
 
 These Regulations may be cited as the Local Government (Structural and Boundary Changes) (Staffing) Regulations 2008 and shall come into force on 28th June 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-182eefe62f4a17ebe1c5d7f07a07c806]
 
 In these Regulations—
 
@@ -67,11 +71,11 @@ In these Regulations—
 - “single tier council” means a local authority which on and after the reorganisation date is the sole principal authority for an area; and
 - “structural change” means a change effected by an order which establishes a single tier of local government for an area.
 
-## 3. Transfers of functions: staff
+## 3. Transfers of functions: staff[^c-3e19e14ba250be3f4735a44902497a35]
 
 Subject to regulation 4(1) and notwithstanding regulation 3(5) of the TUPE Regulations, the transfer of functions from a predecessor council to a single tier council in connection with one or both of a structural change and a boundary change shall be treated for all purposes as a relevant transfer[^f00006] within the meaning of the TUPE Regulations, whether or not, apart from this provision, those Regulations would otherwise apply.
 
-## 4. Heads of paid service and other chief officers
+## 4. Heads of paid service and other chief officers[^c-e3aa8917deac5a048dd0445d10aa345c]
 
 (1) Subject to paragraph (3), the 1993 Regulations and the 2001 Regulations shall apply to a preparing council, a shadow council (notwithstanding that it does not have the functions and full powers of a local authority) and a single tier council—
 
@@ -115,7 +119,7 @@ the succeeding single tier council is not under a duty to make a further appoint
   - (c) in relation to a preparing council that is the subject of an order commencing before the coming into force of these Regulations, means the period beginning on the date on which these Regulations come into force and ending on the date that falls twelve months after the reorganisation date; and
   - (d) in relation to any other preparing council or shadow council, means the period beginning on the date on which the order concerned comes into force and ending on the date that falls twelve months after the reorganisation date.
 
-## 5. Redundancy payments
+## 5. Redundancy payments[^c-3505d809ae4de1ab3ca3c8d1e11187b9]
 
 A head of paid service—
 
@@ -124,7 +128,7 @@ A head of paid service—
 
 shall be treated as being dismissed by reason of redundancy for the purposes of the Local Government (Early Termination of Employment) (Discretionary Compensation) (England and Wales) Regulations 2006[^f00010] and the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations 2007[^f00011], regardless of whether or not he applies for the post of head of paid service of the single tier council.
 
-## 6. Local Government Pension Scheme
+## 6. Local Government Pension Scheme[^c-0472de47d4eaa836c9286917073b9ac2]
 
 A shadow council shall, notwithstanding that it does not have the functions and full powers of a district council or a county council, be treated as falling within paragraph 2 of Part 1 of Schedule 2 of the Local Government Pension Scheme (Administration) Regulations 2008[^f00012].
 
@@ -162,6 +166,10 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). Section 14(2) provides for section 14(1) to be read with section 15. Section 240(10) provides for different provision to be made for different cases.
 
+[^c-153f2a4930153f85346c1c21bc311425]: Commencement: Reg. 1 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1419/regulation/1)
+
+[^c-182eefe62f4a17ebe1c5d7f07a07c806]: Commencement: Reg. 2 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1419/regulation/1)
+
 [^f00002]: Footnote: [S.I. 1993/202](https://www.legislation.gov.uk/uksi/1993/202), amended, as to England, by regulation 8 of [S.I. 2001/3384](https://www.legislation.gov.uk/uksi/2001/3384).
 
 [^f00003]: Footnote: [S.I. 2001/3384](https://www.legislation.gov.uk/uksi/2001/3384).
@@ -170,7 +178,11 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00005]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42), to which there are amendments to section 4 not relevant to these Regulations.
 
+[^c-3e19e14ba250be3f4735a44902497a35]: Commencement: Reg. 3 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1419/regulation/1)
+
 [^f00006]: Footnote: As to “relevant transfer”, see regulation 2(1) of the TUPE Regulations.
+
+[^c-e3aa8917deac5a048dd0445d10aa345c]: Commencement: Reg. 4 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1419/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), to which there are amendments relevant to these Regulations made by [S.I. 2001/2212](https://www.legislation.gov.uk/uksi/2001/2212), regulation 2(b) and [S.I. 2004/2748](https://www.legislation.gov.uk/uksi/2004/2748), regulation 2(a).
 
@@ -178,8 +190,12 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00009]: Footnote: *See* section 11(2A) of the Local Government Act 2000, inserted by section 62(1) and (4) of the 2007 Act, but where transitional and saving provisions apply by virtue of paragraph 2 of Schedule 4 to the 2007 Act, *see* section 11(3) of the Local Government Act 2000 as it applied prior to the amendments made by section 62(1) and (5) of the 2007 Act.
 
+[^c-3505d809ae4de1ab3ca3c8d1e11187b9]: Commencement: Reg. 5 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1419/regulation/1)
+
 [^f00010]: Footnote: [S.I. 2006/2914](https://www.legislation.gov.uk/uksi/2006/2914).
 
 [^f00011]: Footnote: [S.I. 2007/1166](https://www.legislation.gov.uk/uksi/2007/1166), to which there are amendments relevant to these provisions.
+
+[^c-0472de47d4eaa836c9286917073b9ac2]: Commencement: Reg. 6 in force at 28.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1419/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2008/239](https://www.legislation.gov.uk/uksi/2008/239).

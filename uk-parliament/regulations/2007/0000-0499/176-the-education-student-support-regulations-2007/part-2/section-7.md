@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 7
 act: The Education (Student Support) Regulations 2007
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 7. Period of eligibility
+## 7. Period of eligibility[^c-3f5aedc02edfce9fac0fcbebe288dc45]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) A student retains his status as an eligible student in connection with a designated course until the status terminates in accordance with this regulation or regulation 5.
 
@@ -36,3 +42,7 @@ summary: ''
 - (c) treat any support paid to the student as an overpayment which may be recovered under Chapter 4 of Part 10.
 
 (7) Where the period of eligibility terminates before the end of the academic year in which the student completes the designated course, the Secretary of State may, at any time, renew the period of eligibility for such period as he determines.
+
+## Annotations
+
+[^c-3f5aedc02edfce9fac0fcbebe288dc45]: Commencement: Reg. 7 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

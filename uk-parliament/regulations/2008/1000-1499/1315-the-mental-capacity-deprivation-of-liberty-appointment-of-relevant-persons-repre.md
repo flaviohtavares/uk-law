@@ -3,16 +3,16 @@ title: 'The Mental Capacity (Deprivation of Liberty: Appointment of Relevant Per
 id: uksi/2008/1315
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-05-14'
-text_date: null
-extent: null
+text_date: '2008-05-14'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1315
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1315/pdfs/uksiem_20081315_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1315/pdfs/uksi_20081315_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1315/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1315/data.pdf
+pending_changes: 16
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Mental Capacity (Deprivation of Liberty: Appointment of Relevant Person’s Representative) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (16).** Text as at 2008-05-14. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1315
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1315
 
@@ -42,13 +48,13 @@ Coming into force
 
 The Secretary of State for Health makes these Regulations in exercise of the powers conferred by section 65(1) of, and paragraphs 138(1), 142 to 145, 148, 149 and 151 of Schedule A1 to, the Mental Capacity Act 2005[^f00001].
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-34653417f077e01ccbea27986e61b7f0]
 
 (1) These Regulations may be cited as the Mental Capacity (Deprivation of Liberty: Appointment of Relevant Person’s Representative) Regulations 2008 and shall come into force on 3<sup>rd</sup> November 2008.
 
 (2) These Regulations apply in relation to England only.
 
-## 2. Interpretation
+## 2. Interpretation[^c-f9d92a8d34252ee093f72296e24a8c15]
 
 In these Regulations—
 
@@ -59,7 +65,7 @@ In these Regulations—
 
 ## PART 1 — Selection of representatives
 
-### 3. Selection of a person to be a representative - general
+### 3. Selection of a person to be a representative - general[^c-7088de4b6e8a2c3818bc1f5164612239]
 
 (1) In addition to any requirements in regulations 6 to 9 and 11, a person can only be selected to be a representative if they are—
 
@@ -98,17 +104,17 @@ In these Regulations—
   - (i) any person holding one tenth or more of the issued shares in the managing authority, where the managing authority is a company limited by shares, and
   - (ii) in all other cases, any of the owners of the managing authority.
 
-### 4. Determination of capacity
+### 4. Determination of capacity[^c-84580c2985885b8825ce5036610a774f]
 
 The best interests assessor must determine whether the relevant person has capacity to select a representative.
 
-### 5. Selection by the relevant person
+### 5. Selection by the relevant person[^c-769c3f5de3b1a2f70efb3d0700261791]
 
 (1) Where the best interests assessor determines that the relevant person has capacity, the relevant person may select a family member, friend or carer.
 
 (2) Where the relevant person does not wish to make a selection under paragraph (1), regulation 8 applies.
 
-### 6. Selection by a donee or deputy
+### 6. Selection by a donee or deputy[^c-936fdc303a5950fd1c410bb081476288]
 
 (1) Where—
 
@@ -121,7 +127,7 @@ the donee or deputy may select such a person.
 
 (3) Where a donee or deputy does not wish to make a selection under paragraph (1) or (2), regulation 8 applies.
 
-### 7. Confirmation of eligibility of family member, friend or carer and recommendation to the supervisory body
+### 7. Confirmation of eligibility of family member, friend or carer and recommendation to the supervisory body[^c-dd03ce75ca6a4c7fe48c79b4f749608e]
 
 (1) The best interests assessor must confirm that a person selected under regulation 5(1) or 6(1) or (2) is eligible to be a representative.
 
@@ -132,7 +138,7 @@ the donee or deputy may select such a person.
 - (a) advise the person who made the selection of that decision and give the reasons for it; and
 - (b) invite them to make a further selection.
 
-### 8. Selection by the best interests assessor
+### 8. Selection by the best interests assessor[^c-0bebda809e6fd97dbd6dcc09b9949a13]
 
 (1) The best interests assessor may select a family member, friend or carer as a representative where paragraph (2) applies.
 
@@ -150,7 +156,7 @@ the donee or deputy may select such a person.
 
 (5) The best interests assessor must notify the supervisory body if they do not select a person who is eligible to be a representative.
 
-### 9. Selection by the supervisory body
+### 9. Selection by the supervisory body[^c-0aa8822804914e133403a9ac4401a87e]
 
 (1) Where a supervisory body is given notice under regulation 8(5), it may select a person to be the representative, who—
 
@@ -168,18 +174,18 @@ the donee or deputy may select such a person.
 
 ## PART 2 — Appointment of representatives
 
-### 10. Commencement of appointment procedure
+### 10. Commencement of appointment procedure[^c-142f76a88df1edf1e72fdb192d39873b]
 
 The procedure for appointing a representative must begin as soon as—
 
 - (a) a best interests assessor is selected by the supervisory body for the purposes of a request for a standard authorisation; or
 - (b) a relevant person’s representative’s appointment terminates, or is to be terminated, under regulation 14 and the relevant person remains subject to a standard authorisation.
 
-### 11. Appointment of representative
+### 11. Appointment of representative[^c-b1c51c21b89fdfad29b9c49f2b24594a]
 
 Except where regulation 9 applies, a supervisory body may not appoint a representative unless the person is recommended to it under regulations 7 or 8.
 
-### 12. Formalities of appointing a representative
+### 12. Formalities of appointing a representative[^c-200a5847d9a03dc3235aa767cffcc227]
 
 (1) The offer of an appointment to a representative must be made in writing and state—
 
@@ -202,7 +208,7 @@ Except where regulation 9 applies, a supervisory body may not appoint a represen
 - (e) any independent mental capacity advocate[^f00014] appointed in accordance with sections 37 to 39D of the Act[^f00015], involved in the relevant person’s case; and
 - (f) every interested person named by the best interests assessor in their report as somebody the assessor has consulted in carrying out the assessment.
 
-### 13. Termination of representative’s appointment
+### 13. Termination of representative’s appointment[^c-59e624752ca0ac8e6133ab1022635b0c]
 
 A person ceases to be a representative if—
 
@@ -215,7 +221,7 @@ A person ceases to be a representative if—
 - (g) the supervisory body terminates the appointment because it is satisfied that the representative is not acting in the best interests of the relevant person; or
 - (h) the supervisory body terminates the appointment because it is satisfied that the person is no longer eligible or was not eligible at the time of appointment, to be a representative.
 
-### 14. Formalities of termination of representative’s appointment
+### 14. Formalities of termination of representative’s appointment[^c-e9ec69d881eef451ee13f6e449cde37b]
 
 (1) Where a representative’s appointment is to be terminated for a reason specified in paragraphs (c) to (h) of regulation 13, the supervisory body must inform the representative of—
 
@@ -231,7 +237,7 @@ A person ceases to be a representative if—
 - (d) any independent mental capacity advocate appointed in accordance with sections 37 to 39D of the Act, involved in the relevant person’s case; and
 - (e) every interested person named by the best interests assessor in their report as somebody the assessor has consulted in carrying out the assessment.
 
-### 15. Payment to a representative
+### 15. Payment to a representative[^c-d916b097b960434686b4fd88b41830b8]
 
 A supervisory body may make payments to a representative appointed following a selection under regulation 9.
 
@@ -271,11 +277,17 @@ These Regulations provide for the selection and appointment of representatives a
 
 [^f00001]: Footnote: [2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9). Schedule A1 was inserted by section 50(5) of and Schedule 7 to the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12).
 
+[^c-34653417f077e01ccbea27986e61b7f0]: Commencement: Reg. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
+[^c-f9d92a8d34252ee093f72296e24a8c15]: Commencement: Reg. 2 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
 [^f00002]: Footnote: The identity of the managing authority is determined in accordance with paragraphs 176, 177 and 179 of Schedule A1 to the Act.
 
 [^f00003]: Footnote: “standard authorisation” is defined in paragraph 8 of Schedule A1 to the Act.
 
 [^f00004]: Footnote: “relevant person” is defined in paragraph 7 of Schedule A1 to the Act
+
+[^c-7088de4b6e8a2c3818bc1f5164612239]: Commencement: Reg. 3 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
 
 [^f00005]: Footnote: The identity of the managing authority is determined in accordance with paragraphs 176, 177 and 179 of Schedule A1 to the Act.
 
@@ -289,12 +301,36 @@ These Regulations provide for the selection and appointment of representatives a
 
 [^f00010]: Footnote: “independent hospital” is defined in paragraph 175(3) of Schedule A1 to the Act.
 
+[^c-84580c2985885b8825ce5036610a774f]: Commencement: Reg. 4 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
+[^c-769c3f5de3b1a2f70efb3d0700261791]: Commencement: Reg. 5 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
+[^c-936fdc303a5950fd1c410bb081476288]: Commencement: Reg. 6 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
 [^f00011]: Footnote: “deputy” is defined in section 64(1) of the Act.
+
+[^c-dd03ce75ca6a4c7fe48c79b4f749608e]: Commencement: Reg. 7 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
+[^c-0bebda809e6fd97dbd6dcc09b9949a13]: Commencement: Reg. 8 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
+[^c-0aa8822804914e133403a9ac4401a87e]: Commencement: Reg. 9 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
 
 [^f00012]: Footnote: [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
 [^f00013]: Footnote: Section 113A was inserted by section 163(2) of the Serious Organised Crime and Police Act 2005.
 
+[^c-142f76a88df1edf1e72fdb192d39873b]: Commencement: Reg. 10 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
+[^c-b1c51c21b89fdfad29b9c49f2b24594a]: Commencement: Reg. 11 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
+[^c-200a5847d9a03dc3235aa767cffcc227]: Commencement: Reg. 12 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
 [^f00014]: Footnote: “independent mental capacity advocate” is defined in section 64(1) of the Act.
 
 [^f00015]: Footnote: Sections 39B to 39D were inserted by section 50 of and Schedule 9 to the Mental Health Act 2007.
+
+[^c-59e624752ca0ac8e6133ab1022635b0c]: Commencement: Reg. 13 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
+[^c-e9ec69d881eef451ee13f6e449cde37b]: Commencement: Reg. 14 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)
+
+[^c-d916b097b960434686b4fd88b41830b8]: Commencement: Reg. 15 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1315/regulation/1/1)

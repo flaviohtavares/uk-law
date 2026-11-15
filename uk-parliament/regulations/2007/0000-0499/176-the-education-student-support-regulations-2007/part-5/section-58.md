@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 58
 act: The Education (Student Support) Regulations 2007
 section: '58'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/58
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 58
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 58. Qualifying conditions for the special support grant
+## 58. Qualifying conditions for the special support grant[^c-1b3d9efc13a5e40242bd5c9b781edce4]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) A current system student qualifies in accordance with this regulation for a special support grant in connection with his attendance on a designated course to defray the costs of books, equipment, travel or childcare incurred for the purpose of attending that course.
 
@@ -29,6 +35,8 @@ summary: ''
 - (b) the designated course is a flexible postgraduate course for the initial training of teachers.
 
 ## Annotations
+
+[^c-1b3d9efc13a5e40242bd5c9b781edce4]: Commencement: Reg. 58 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00058]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) to which there are amendments not relevant to these Regulations. The relevant regulation is regulation 4ZA of the Income Support (General) Regulations 1987 ([S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967)). Regulation 4ZA was inserted by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206), amended by [S.I. 2000/1981](https://www.legislation.gov.uk/uksi/2000/1981); there are other amending instruments but none is relevant.
 

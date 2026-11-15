@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 123
 act: The Education (Student Support) Regulations 2007
 section: '123'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/123
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 123
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 123. Conversion of status
+## 123. Conversion of status[^c-22a1b8e332acdc6f034428ee3db0d497]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Where an eligible student ceases to undertake a designated course and transfers to a designated part-time course at the same or at another institution, the Secretary of State must convert the student’s status as an eligible student to that of an eligible part-time student in connection with the course to which he is transferring where—
 
@@ -43,3 +49,7 @@ summary: ''
 - (b) any support to which the student is entitled under this Part in respect of the academic year in which the student transfers is ignored in determining the amount of support to which he may be entitled in respect of that year under Parts 4 to 6;
 - (c) the maximum amount of any support under Part 5 or 6 to which the student would, apart from this regulation, be entitled in connection with a designated course in respect of that academic year is reduced by one third where the student became an eligible student during the second quarter of that academic year and by two thirds where he became such a student in a later quarter of that year; and
 - (d) where an amount of disabled part-time students’ allowance for any purpose has been paid to the student in a single instalment, the maximum amount of disabled students’ allowance payable to him under Chapter 3 of Part 5 for that purpose is reduced (or, where sub-paragraph (c) applies, further reduced) by the amount of disabled part-time students’ allowance paid to him for that purpose and where the resulting amount is nil or a negative amount that amount is nil.
+
+## Annotations
+
+[^c-22a1b8e332acdc6f034428ee3db0d497]: Commencement: Reg. 123 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

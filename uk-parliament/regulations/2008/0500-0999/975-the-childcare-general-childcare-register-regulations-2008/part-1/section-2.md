@@ -2,9 +2,9 @@
 title: The Childcare (General Childcare Register) Regulations 2008, section 2
 act: The Childcare (General Childcare Register) Regulations 2008
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-03-31'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/975/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Childcare (General Childcare Register) Regulations 2008, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 2. Interpretation
+## 2. Interpretation[^c-fd6ec0471bab12b1c77e64c9188590ed]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 In these Regulations—
 
@@ -29,6 +35,8 @@ In these Regulations—
 - “relevant premises” means, in relation to the provision of childcare by a person, the premises or part of the premises on which that childcare is provided or will be provided.
 
 ## Annotations
+
+[^c-fd6ec0471bab12b1c77e64c9188590ed]: Commencement: Reg. 2 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
 
 [^f00002]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15) and was amended by paragraph 14 of Schedule 9 to the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47), paragraph 149 of Schedule 16 to the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52) and sections 79(1) and 80 of the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14).
 

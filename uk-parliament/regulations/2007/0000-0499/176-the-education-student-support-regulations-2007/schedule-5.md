@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, SCHEDULE 5
 act: The Education (Student Support) Regulations 2007
 section: schedule-5
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,19 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, SCHEDULE 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — FINANCIAL ASSESSMENT
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 Regulation 92
 
-### 1. Definitions
+### 1. Definitions[^c-0d0f5eecd7fe99b9a7906d7ecf5cef2b]
 
 In this Schedule:—
 
@@ -48,7 +54,7 @@ In this Schedule:—
   - (ii) the income tax legislation of another Member State which applies to the person’s income; or
   - (iii) where the legislation of more than one Member State applies to the period, the legislation under which the Secretary of State considers the person will pay the largest amount of tax in that period (except as otherwise provided in paragraph 5).
 
-### 2. Independent eligible student
+### 2. Independent eligible student[^c-319f27199fe450575007962bd0a13ea7]
 
 (1) An independent eligible student is an eligible student where—
 
@@ -73,7 +79,7 @@ In this Schedule:—
 
 (2) An eligible student who qualifies as an independent eligible student under paragraph 2(1)(j) in respect of an academic year of a designated course retains that status for the duration of the period of eligibility.
 
-### 3. Household income
+### 3. Household income[^c-8707181afba585e30d52268502d657a4]
 
 (1) The amount of an eligible student’s contribution depends on the household income.
 
@@ -92,7 +98,7 @@ In this Schedule:—
 
 (4) For the purpose of calculating the contribution payable in respect of a parent student, the residual income of the parent student’s partner must not be aggregated under paragraph (b) of sub-paragraph (2) in the case of a parent student whose child or whose partner’s child holds an award in respect of which the household income is calculated with reference to the residual income of the parent student or of the parent student’s partner or of both.
 
-### 4. Calculation of eligible student’s residual income
+### 4. Calculation of eligible student’s residual income[^c-7ecec197914f7aa74f71f892233715e8]
 
 (1) For the purpose of determining the residual income of an eligible student, there is deducted from his taxable income (unless already deducted in determining taxable income) the aggregate of any amounts falling within any of the following sub-paragraphs—
 
@@ -106,7 +112,7 @@ In this Schedule:—
 - (a) if the student purchases sterling with the income, the amount of sterling the student so receives;
 - (b) otherwise, the value of the sterling which the income would purchase using the rate for the month in which it is received published by the Office for National Statistics[^f00082].
 
-### 5. Calculation of parent’s residual income
+### 5. Calculation of parent’s residual income[^c-4d33f94c7199a202650dd1651890ea38]
 
 (1) For the purposes of determining the taxable income of an eligible student’s parent, any deductions which fall to be made or exemptions which are permitted—
 
@@ -152,7 +158,7 @@ his taxable income for the purposes of this Schedule is computed as though the i
 - (a) the appropriate proportion of the household income determined in accordance with sub-paragraph (9), being the proportion in respect of that part of the relevant year during which the parents are separated; and
 - (b) the appropriate proportion of the household income determined otherwise in respect of the remainder of the relevant year.
 
-### 6. Calculation of eligible student’s partner’s residual income
+### 6. Calculation of eligible student’s partner’s residual income[^c-66df4cb6c544ad79d9841ad8c772a177]
 
 (1) Subject to sub-paragraphs (2), (3) and (4) of this paragraph, an eligible student’s partner’s income is determined in accordance with paragraph 5 (other than sub-paragraphs (8), (9) and (10) of paragraph 5), references to the parent being construed as references to the eligible student’s partner.
 
@@ -162,11 +168,11 @@ his taxable income for the purposes of this Schedule is computed as though the i
 
 (4) Where an eligible student has more than one partner in any one academic year, the provisions of this paragraph apply in relation to each.
 
-### 7. Calculation of parent’s partner’s residual income
+### 7. Calculation of parent’s partner’s residual income[^c-7a1eec54dde61eb05ec61cb0c81f234d]
 
 The income of a new eligible student’s parent’s partner whose income is part of the household income by virtue of paragraph 3(2)(a) is determined in accordance with paragraph 6, references to the eligible student’s partner being construed as references to the new eligible student’s parent’s partner, and references to the eligible student being construed as references to the new eligible student’s parent.
 
-### 8. Calculation of contribution – old system students
+### 8. Calculation of contribution – old system students[^c-b5094e17179cb6972cbfa528e3c3573c]
 
 (1) The contribution payable in relation to an old system student who is not an independent eligible student or is an independent eligible student with a partner is—
 
@@ -189,7 +195,7 @@ The income of a new eligible student’s parent’s partner whose income is part
 - (a) a contribution is payable in relation to two or more eligible students (other than current system students) in respect of the same income under paragraph 5 or, where the relevant parent’s partner’s residual income is taken into account, under paragraphs 5 and 7; or
 - (b) the household income consists of the residual income of an independent eligible student and his partner where both hold a statutory award.
 
-### 9. Calculation of contribution – current system students
+### 9. Calculation of contribution – current system students[^c-b50be130acaa06f0177984a44d54da91]
 
 (1) In relation to an eligible student who is a current system student, the contribution payable is—
 
@@ -207,7 +213,7 @@ The income of a new eligible student’s parent’s partner whose income is part
 - (a) a contribution is payable in relation to two or more eligible students (other than old system students) in respect of the same income under paragraph 5 or, where the relevant parent’s partner’s residual income is taken into account, under paragraphs 5 and 7; or
 - (b) the household income consists of the residual income of an independent eligible student and his partner where both hold a statutory award.
 
-### 10. Split contributions – eligible students who are not independent
+### 10. Split contributions – eligible students who are not independent[^c-130c9f177644bd4e5984a2b373ae03a3]
 
 (1) This paragraph applies where a contribution is payable in relation to an eligible student who is not an independent eligible student.
 
@@ -262,7 +268,7 @@ the contribution in respect of an eligible student is calculated under sub-parag
 
 (13) In this paragraph, “**relevant household**” means all those eligible students in respect of whom a contribution is calculated with reference to the same income under both paragraphs 5 and 7.
 
-### 11. Split contributions – independent eligible students
+### 11. Split contributions – independent eligible students[^c-85dcd384630b4b1f0a548cc58f4b15cb]
 
 (1) Where a contribution is payable under paragraph 8 or 9 in relation to an independent eligible student with a partner, the contribution is payable in accordance with the following sub-paragraphs—
 
@@ -279,7 +285,15 @@ the contribution in respect of an eligible student is calculated under sub-parag
 
 ## Annotations
 
+[^c-0d0f5eecd7fe99b9a7906d7ecf5cef2b]: Commencement: Sch. 5 para. 1 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-319f27199fe450575007962bd0a13ea7]: Commencement: Sch. 5 para. 2 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
 [^f00079]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22 has been amended by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2, Local Government Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41), Schedule 5, paragraph 19, the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), section 116(2) and the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), section 52.
+
+[^c-8707181afba585e30d52268502d657a4]: Commencement: Sch. 5 para. 3 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-7ecec197914f7aa74f71f892233715e8]: Commencement: Sch. 5 para. 4 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00080]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 273 was amended by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), Schedule 3, paragraph 10, the Income Tax (Trading and other Income) Act 2005, Schedule 1 and the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), section 281 and Schedule 35. Sections 619 and 639 were repealed by the Finance Act 2004, section 326 and Schedule 42 with effect from 6th April 2006 subject to the transitional provisions and savings in Schedule 36 to the Finance Act 2004.
 
@@ -287,6 +301,20 @@ the contribution in respect of an eligible student is calculated under sub-parag
 
 [^f00082]: Footnote: “**Financial Statistics**” (ISSN 0015-203X).
 
+[^c-4d33f94c7199a202650dd1651890ea38]: Commencement: Sch. 5 para. 5 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-66df4cb6c544ad79d9841ad8c772a177]: Commencement: Sch. 5 para. 6 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-7a1eec54dde61eb05ec61cb0c81f234d]: Commencement: Sch. 5 para. 7 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-b5094e17179cb6972cbfa528e3c3573c]: Commencement: Sch. 5 para. 8 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-b50be130acaa06f0177984a44d54da91]: Commencement: Sch. 5 para. 9 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-130c9f177644bd4e5984a2b373ae03a3]: Commencement: Sch. 5 para. 10 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
 [^f00083]: Footnote: [S.I. 2003/1994](https://www.legislation.gov.uk/uksi/2003/1994), amended by [S.I. 2004/1038](https://www.legislation.gov.uk/uksi/2004/1038) , [S.I. 2004/1792](https://www.legislation.gov.uk/uksi/2004/1792), [S.I. 2005/2083](https://www.legislation.gov.uk/uksi/2005/2083), [S.I. 2005/3137](https://www.legislation.gov.uk/uksi/2005/3137) and [S.I. 2006/930](https://www.legislation.gov.uk/uksi/2006/930).
 
 [^f00084]: Footnote: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46); section 63 was amended by the National Health Service (Scotland) Act [1972 (c. 58)](https://www.legislation.gov.uk/ukpga/1972/58), Schedule 7, the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), Schedules 4 and 5, the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49), Schedules 15 and 16, the National Health Service (Scotland) Act [1978 (c. 29)](https://www.legislation.gov.uk/ukpga/1978/29), Schedules 16 and 17, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 17, the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), section 20, section 25(2) and Schedule 3, the Local Government (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17), Schedule 1, the Local Government Reorganisation (Wales) (Consequential Amendments No. 2) Order 1996 ([S.I. 1996/1008](https://www.legislation.gov.uk/uksi/1996/1008)), the National Health Service (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), Schedule 2, the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), Schedule 5, the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), Schedules 2, 5 and 9, the National Health Service Reform and Health Care Professions Act 2002 (Commencement No. 1) Order 2002 ([S.I. 2002/2202](https://www.legislation.gov.uk/uksi/2002/2202)), article 4, the National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc Provisions) Regulations 2002 ([S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469)), Schedule 1, the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), Schedules 4, 11 and 14, the Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) Order 2004 ([S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288)), article 7, the Children Act [2204 (c. 31)](https://www.legislation.gov.uk/ukpga/2204/31), section 55 and the Primary Medical Services (Scotland) Act 2004 (Consequential Modifications) Order 2004 ([S.I. 2004/957](https://www.legislation.gov.uk/uksi/2004/957)), the Schedule. The amendments made to section 63 by the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, do not come into force until 1st March 2007.
+
+[^c-85dcd384630b4b1f0a548cc58f4b15cb]: Commencement: Sch. 5 para. 11 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

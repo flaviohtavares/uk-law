@@ -3,14 +3,14 @@ title: The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2008
 id: uksi/2008/688
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-12'
-text_date: null
-extent: null
+text_date: '2008-04-02'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/688
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/688/pdfs/uksi_20080688_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/688/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/688/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-04-02. See https://www.legislation.gov.uk/changes/affected/uksi/2008/688
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 688
 
@@ -39,11 +43,11 @@ The Office of Communications (“OFCOM”) make the following Regulations in exe
 
 Before making the Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-b1203296763318c4e852f5ba19143888]
 
 These Regulations may be cited as the Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2008 and shall come into force on 2nd April 2008**.**
 
-## 2. Amendment of the Wireless Telegraphy (Spectrum Trading) Regulations 2004
+## 2. Amendment of the Wireless Telegraphy (Spectrum Trading) Regulations 2004[^c-662793f2e40732898516b6b798426e08]
 
 Part 4 of the Schedule to The Wireless Telegraphy (Spectrum Trading) Regulations 2004[^f00002] is amended by inserting at the end of Column 2, “1452–1492 MHz”.
 
@@ -68,5 +72,9 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 ## Annotations
 
 [^f00001]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36)
+
+[^c-b1203296763318c4e852f5ba19143888]: Commencement: Reg. 1 in force at 2.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/688/regulation/1)
+
+[^c-662793f2e40732898516b6b798426e08]: Commencement: Reg. 2 in force at 2.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/688/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2004/3154](https://www.legislation.gov.uk/uksi/2004/3154) as amended by [S.I. 2006/339](https://www.legislation.gov.uk/uksi/2006/339), [S.I. 2006/1807](https://www.legislation.gov.uk/uksi/2006/1807), [S.I. 2007/380](https://www.legislation.gov.uk/uksi/2007/380) and [S.I. 2007/3387](https://www.legislation.gov.uk/uksi/2007/3387)

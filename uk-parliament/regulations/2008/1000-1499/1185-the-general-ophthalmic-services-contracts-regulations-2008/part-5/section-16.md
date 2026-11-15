@@ -2,9 +2,9 @@
 title: The General Ophthalmic Services Contracts Regulations 2008, section 16
 act: The General Ophthalmic Services Contracts Regulations 2008
 section: '16'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1185/section/16
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The General Ophthalmic Services Contracts Regulations 2008, section 16
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 16. Fees, charges and financial interests of the contractor
+## 16. Fees, charges and financial interests of the contractor[^c-ff94af7445c3a54bb4e23fac929089da]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The contract must contain terms relating to fees, claims, charges and financial interests which have the same effect as those set out in this regulation.
 
@@ -49,3 +55,7 @@ must do so without regard to its own financial interests.
 
 - (a) which has not been provided under the contract; or
 - (b) for which another claim has already been submitted to the PCT.
+
+## Annotations
+
+[^c-ff94af7445c3a54bb4e23fac929089da]: Commencement: Reg. 16 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)

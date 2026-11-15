@@ -3,16 +3,16 @@ title: The Childcare (General Childcare Register) Regulations 2008
 id: uksi/2008/975
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-31'
-text_date: null
-extent: null
+text_date: '2008-03-31'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/975
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/975/pdfs/uksiem_20080975_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/975/pdfs/uksi_20080975_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/975/made/data.pdf
-pending_changes: 174
+- http://www.legislation.gov.uk/uksi/2008/975/data.pdf
+pending_changes: 318
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Childcare (General Childcare Register) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (318).** Text as at 2008-03-31. See https://www.legislation.gov.uk/changes/affected/uksi/2008/975
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 975
 
@@ -48,22 +54,38 @@ In accordance with sections 59(2) and 67(2) of that Act the Secretary of State h
 
 ### PART 1 — General
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Revocation of the Childcare (Voluntary Registration) Regulations 2007](part-1/section-3.md)
 
 ### PART 2 — Registration in Part A of the general childcare register
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 4 — Prescribed requirements for registration](part-2/section-4.md)
 - [Section 5 — Information to accompany application for registration](part-2/section-5.md)
 
 ### PART 3 — Provisions governing the activities of later years providers
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 6 — Matters prescribed for the purposes of section 59](part-3/section-6.md)
 - [Section 7 — Matters to be considered by the Chief Inspector](part-3/section-7.md)
 - [Section 9 — Offence relating to corporal punishment](part-3/section-9.md)
 
 ### PART 4 — Registration in Part B of the general childcare register
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 10 — Prescribed requirements for registration](part-4/section-10.md)
 - [Section 11 — Information to accompany application for registration](part-4/section-11.md)
@@ -76,6 +98,10 @@ In accordance with sections 59(2) and 67(2) of that Act the Secretary of State h
 - [SCHEDULE 5](schedule-5.md)
 - [SCHEDULE 6](schedule-6.md)
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 Beverley Hughes
 
 Minister of State
@@ -83,6 +109,10 @@ Minister of State
 Department for Children, Schools and Families
 
 31st March 2008
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 EXPLANATORY NOTE
 

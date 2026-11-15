@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 8
 act: The Education (Student Support) Regulations 2007
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 8. Transfer of status
+## 8. Transfer of status[^c-cbc98f9063dcbd2c4a424a2f8dad6881]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Where an eligible student transfers to another course, the Secretary of State must transfer the student’s status as an eligible student to that course where—
 
@@ -40,3 +46,7 @@ summary: ''
 (4) The Secretary of State may re-assess the amount of support payable after the transfer.
 
 (5) An eligible student who transfers under paragraph (1) after the Secretary of State has assessed his support in connection with the academic year of the course from which he is transferring but before he completes that year may not, in connection with the academic year of the course to which he transfers, apply for another grant or loan of a kind that he has already applied for under these Regulations in connection with the academic year of the course from which he is transferring unless otherwise provided.
+
+## Annotations
+
+[^c-cbc98f9063dcbd2c4a424a2f8dad6881]: Commencement: Reg. 8 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

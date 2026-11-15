@@ -3,15 +3,15 @@ title: The Pensions Increase (Review) Order 2008
 id: uksi/2008/711
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-12'
-text_date: null
-extent: null
+text_date: '2008-04-07'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/711
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/711/pdfs/uksiem_20080711_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/711/pdfs/uksi_20080711_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/711/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/711/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Pensions Increase (Review) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-04-07. See https://www.legislation.gov.uk/changes/affected/uksi/2008/711
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 711
 
@@ -44,13 +48,13 @@ In accordance with section 151(1) of the Social Security Administration Act 1992
 
 The Treasury now make the following Order in exercise of the powers conferred by section 59(1), (2), (5) and (5ZA) of the Social Security Pensions Act 1975[^f00003] and now vested in them[^f00004]:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-e5609b4f717f8d46df786385032cf4c7]
 
 (1) This Order may be cited as the Pensions Increase (Review) Order 2008 and comes into force on 7th April 2008.
 
 (2) This Order and the existing Orders may be cited together as the Pensions Increase (Review) Orders 1972 to 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-c6e266063d72db1cec68a72b29b07c89]
 
 (1) In this Order—
 
@@ -68,7 +72,7 @@ The Treasury now make the following Order in exercise of the powers conferred by
 
 (3) Where, for the purposes of this Order, it is necessary to calculate the number of complete months in any period an incomplete month shall be treated as a complete month if it consists of at least 16 days.
 
-## 3. Pension increases
+## 3. Pension increases[^c-b5fd7e40bc066590cfcc9e066e80ceeb]
 
 (1) The pension authority may, if any of the conditions in paragraph (2) are fulfilled, increase the annual rate of an official pension in respect of any period on or after 7th April 2008 as follows—
 
@@ -90,7 +94,7 @@ The Treasury now make the following Order in exercise of the powers conferred by
   - (ii) a substituted pension; or
   - (iii) a relevant injury pension.
 
-## 4. Increases in certain lump sums
+## 4. Increases in certain lump sums[^c-46f6dc3f2e676eed3d22a4c357b2d93e]
 
 (1) This article applies to any lump sum or instalment of a lump sum which became payable on or after 9th April 2007 but before 7th April 2008.
 
@@ -103,7 +107,7 @@ where
 - (a) A is the number of complete months in the period between the beginning date for the lump sum or, if later, 9th April 2007 and the date on which it became payable; and
 - (b) B is 12.
 
-## 5. Reductions in respect of guaranteed minimum pensions
+## 5. Reductions in respect of guaranteed minimum pensions[^c-a939a4fdfc140e856a308f3898f543a2]
 
 The amount by reference to which any increase in the rate of an official pension provided for by this Order is to be calculated shall, in the case of a person—
 
@@ -112,7 +116,7 @@ The amount by reference to which any increase in the rate of an official pension
 
 be reduced by an amount equal to the rate of the guaranteed minimum pension unless the Treasury[^f00048] otherwise direct, in accordance with the provisions of section 59A of the 1975 Act.
 
-**6.** The amount by reference to which any increase in the rate of a widow’s or widower’s pension provided for by this Order is to be calculated shall, where the pensioner becomes entitled on the death of the deceased spouse to a guaranteed minimum pension, be reduced in accordance with section 59(5ZA) of the 1975 Act.
+**6.**[^c-b1e7afc8acdc52964ccb188630be127b] The amount by reference to which any increase in the rate of a widow’s or widower’s pension provided for by this Order is to be calculated shall, where the pensioner becomes entitled on the death of the deceased spouse to a guaranteed minimum pension, be reduced in accordance with section 59(5ZA) of the 1975 Act.
 
 Dave Watts
 
@@ -158,6 +162,10 @@ The Order also makes provision for the amount by reference to which any increase
 [^f00003]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60); section 59(1) was amended by section 1(7) of the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) and by the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6) Schedule 2, paragraph 34. Section 59(5) was amended by section 11 of the Social Security Act [1979 (c. 18)](https://www.legislation.gov.uk/ukpga/1979/18) and the Social Security Act [1985 (c. 53)](https://www.legislation.gov.uk/ukpga/1985/53), Schedule 5, paragraph 33. Section 59 was also amended by the Social Security Act 1979, sections 11 and 21(4) and Schedule 3, paragraph 20, section 9(8) of the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), section 5 of the Pensions (Miscellaneous Provisions) Act 1990, which inserted sub-section (5ZA) and section 190 and Schedule 8, paragraph 9(1) of the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48). Section 59 is modified by section 59A, which was inserted by section 11(4) of the Social Security Act 1979 and amended by section 9(9) of the Social Security Act 1986, and further amended by section 190, Schedule 8, paragraph 9(2) of the Pension Schemes Act 1993.
 
 [^f00004]: Footnote: [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
+
+[^c-e5609b4f717f8d46df786385032cf4c7]: Commencement: Art. 1 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/711/article/1/1)
+
+[^c-c6e266063d72db1cec68a72b29b07c89]: Commencement: Art. 2 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/711/article/1/1)
 
 [^f00005]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 
@@ -245,4 +253,12 @@ The Order also makes provision for the amount by reference to which any increase
 
 [^f00047]: Footnote: Section 8(2) was amended by section 1(5) of the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) and by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), section 39(1) and (4).
 
+[^c-b5fd7e40bc066590cfcc9e066e80ceeb]: Commencement: Art. 3 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/711/article/1/1)
+
+[^c-46f6dc3f2e676eed3d22a4c357b2d93e]: Commencement: Art. 4 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/711/article/1/1)
+
+[^c-a939a4fdfc140e856a308f3898f543a2]: Commencement: Art. 5 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/711/article/1/1)
+
 [^f00048]: Footnote: See [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670), articles 2(1)(c) and 3(5).
+
+[^c-b1e7afc8acdc52964ccb188630be127b]: Commencement: Art. 6 in force at 7.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/711/article/1/1)

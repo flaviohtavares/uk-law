@@ -62,7 +62,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Electoral Administration Act 2006 (Commencement No.1 and Transitional Provisions) (Northern Ireland) Order 2008](../uk-parliament/regulations/2008/1500-1999/1656-the-electoral-administration-act-2006-commencement-no-1-and-transitional-provisi.md) *(as originally made)*
-- [The Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008](../uk-parliament/regulations/2008/1000-1499/1319-the-electoral-administration-act-2006-regulation-of-loans-etc-northern-ireland-o.md) *(as originally made)*
+- [The Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008](../uk-parliament/regulations/2008/1000-1499/1319-the-electoral-administration-act-2006-regulation-of-loans-etc-northern-ireland-o.md) *(changes pending)*
 - [The Political Donations and Regulated Transactions (Anonymous Electors) Regulations 2008](../uk-parliament/regulations/2008/2500-2999/2869-the-political-donations-and-regulated-transactions-anonymous-electors-regulation.md) *(as originally made)*
 - [The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008](../uk-parliament/regulations/2008/1500-1999/1737-the-political-parties-elections-and-referendums-act-2000-northern-ireland-politi.md) *(changes pending)*
 

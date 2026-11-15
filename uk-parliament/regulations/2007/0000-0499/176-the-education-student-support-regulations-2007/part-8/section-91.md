@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 91
 act: The Education (Student Support) Regulations 2007
 section: '91'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/91
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,17 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 91
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Northern Ireland.
 
-## 91. Insolvency
+## 91. Insolvency[^c-1386c20f5d28cd468a677e744ee993d1]
+
+*Extent: E+W+N.I.*
+
+**Not yet in force.**
+
+*Extent: E+W*
 
 (1) In England and Wales—
 
@@ -22,6 +30,8 @@ summary: ''
 - (b) there shall not be included in a person’s bankruptcy debts any debt or liability to which he is or may become subject in respect of any sum payable to an eligible student by way of a loan and which he receives or is entitled to receive—
   - (i) in the case of a bankruptcy commencing before 1st September 2004, after the commencement of the bankruptcy; or
   - (ii) in the case of a bankruptcy commencing on or after 1st September 2004, before or after the commencement of the bankruptcy.
+
+*Extent: N.I.*
 
 (2) In Northern Ireland—
 
@@ -33,6 +43,8 @@ summary: ''
 (3) In this regulation, “**loan**” means a loan pursuant to regulations made by the Secretary of State or the National Assembly for Wales under section 22 of the 1998 Act, including the interest on the loan and any penalties or charges incurred in connection with it.
 
 ## Annotations
+
+[^c-1386c20f5d28cd468a677e744ee993d1]: Commencement: Reg. 91 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00063]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 307 was amended by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), section 261. Section 310 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), section 122 and Schedule 3, paragraph 15, the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), section 18 and Schedule 2, paragraph 2 and the Enterprise Act 2002, sections 259 and 278 and Schedule 26.
 

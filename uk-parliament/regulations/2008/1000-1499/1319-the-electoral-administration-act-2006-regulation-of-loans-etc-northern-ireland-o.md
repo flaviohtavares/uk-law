@@ -3,16 +3,16 @@ title: 'The Electoral Administration Act 2006 (Regulation of Loans etc: Northern
 id: uksi/2008/1319
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-05-14'
-text_date: null
-extent: null
+text_date: '2008-05-15'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1319
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1319/pdfs/uksiem_20081319_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1319/pdfs/uksi_20081319_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1319/made/data.pdf
-pending_changes: 3
+- http://www.legislation.gov.uk/uksi/2008/1319/data.pdf
+pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 2008-05-15. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1319
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
 
 2008 No. 1319
 
@@ -40,13 +44,13 @@ A draft of this Order has been laid before Parliament under section 63(6) of the
 
 Accordingly, the Secretary of State, in exercise of powers conferred on him by section 63(1) and (3)(a), (b), (c) and (e) of the EA Act [^f00002], makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-4617643ad5b9b0f6a8a5ce3bafa0ef00]
 
 (1) This Order may be cited as the Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008.
 
 (2) This article, articles 2 and 6 and shall come into force on the day after the day on which this Order is made and all other articles shall come into force on 1st July 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-a670bae53ec828803d1c52ac7d4e10f0]
 
 In this Order —
 
@@ -56,7 +60,9 @@ In this Order —
 - “the Commission” means the Electoral Commission established under section 1 of the 2000 Act; and
 - “Northern Ireland register” means the register of political parties held under section 23(2)(b) of the 2000 Act.
 
-## 3. Extension of categories of authorised participants
+## 3. Extension of categories of authorised participants[^c-34850859471ff5d85d7257062a6f7455]
+
+**Not yet in force.**
 
 (1) Sections 71F to 71Y of the 2000 Act [^f00005] shall become Chapter 1 of Part 4A of the 2000 Act.
 
@@ -99,7 +105,9 @@ In this Order —
 >
 > (2) The reference in subsection (1)(b) to Great Britain includes the combined region.
 
-## 4. Article 3: supplementary
+## 4. Article 3: supplementary[^c-cd363f24788a0bc459d17b83bae8ea8b]
+
+**Not yet in force.**
 
 (1) In section 156(4) of the 2000 Act[^f00006](orders and regulations- powers subject to affirmative procedure), after paragraph (dc) insert—
 
@@ -111,7 +119,9 @@ In this Order —
 
 (3) Section 13(2) of the 2006 Act is repealed.
 
-## 5. Modifications during the prescribed period
+## 5. Modifications during the prescribed period[^c-24463b92b2fe5518a2cb93fe2628e937]
+
+**Not yet in force.**
 
 (1) During the prescribed period, the 2000 Act applies in relation to Northern Ireland subject to the modifications set out in Schedule 1 to this Order.
 
@@ -130,7 +140,7 @@ In this Order —
 
 (7) When an order is made under paragraph (3) amending sub-paragraph (2)(b) so as to extend the prescribed period, the date which is inserted in sub-paragraph (2)(b) must be the same as that inserted in section 14(2)(b) of the 2006 Act by an order made under section 14(3) of that Act.
 
-## 6. Power to make provision in connection with authorised participants
+## 6. Power to make provision in connection with authorised participants[^c-572bf91a06ea0d0243ee209750908878]
 
 (1) The Secretary of State may, after consulting the Commission, by order make provision, in relation to any time occurring on or after 1st July 2008, in connection with any provision made by—
 
@@ -148,7 +158,9 @@ In this Order —
 
 (5) No order is to be made under paragraph (1) unless a draft of the instrument containing the order has been laid before and approved by a resolution of each House of Parliament.
 
-## 7. Minor and consequential amendments
+## 7. Minor and consequential amendments[^c-c48a70623692ea6cddb98cbd8370ee83]
+
+**Not yet in force.**
 
 Schedule 2 (minor and consequential amendments) has effect.
 
@@ -160,13 +172,15 @@ Northern Ireland Office
 
 14th May 2008
 
+**Not yet in force.**
+
 ## SCHEDULE 1 — Modifications of 2000 Act
 
 Article 5
 
 ### Duty of Commission to verify reports and not to disclose their contents
 
-**1.** After section 71Z2 of the 2000 Act (as inserted by article 3) insert–
+**1.**[^c-46d0ef6979fbcdce2a4de8772b78d109] After section 71Z2 of the 2000 Act (as inserted by article 3) insert–
 
 > **71Z3. Duty to verify transaction reports**
 >
@@ -199,13 +213,13 @@ Article 5
 >
 > (5) A person who contravenes subsection (1) is guilty of an offence.
 
-**2.** In Schedule 20 to the 2000 Act (penalties), after the entry relating to 71T(5)[^f00008] insert—
+**2.**[^c-5aa067ec304e03cf987f0ab87db9955c] In Schedule 20 to the 2000 Act (penalties), after the entry relating to 71T(5)[^f00008] insert—
 
 > |  |  |
 > | --- | --- |
 > | Section 71Z4(5)(disclosing Northern Ireland transaction reports) | On summary conviction in England and Wales: Level 5 or 51 weeks<br>On summary conviction elsewhere: Level 5 or 6 months |
 
-#### 3. No rights to inspect etc. register so far as it relates to regulated or controlled transactions to which a Northern Ireland participant is a party
+#### 3. No rights to inspect etc. register so far as it relates to regulated or controlled transactions to which a Northern Ireland participant is a party[^c-135503e7100a602a910c48691c5906c3]
 
 In section 149 of the 2000 Act [^f00009](inspection of the Commission’s registers etc.) after subsection (9) insert—
 
@@ -217,7 +231,7 @@ In section 149 of the 2000 Act [^f00009](inspection of the Commission’s regist
 
 Article 7
 
-**1.** (1) Section 150 of the 2000 Act is amended as follows.
+**1.**[^c-231bc9ac1bba56cb7661df82efb5a419] (1) Section 150 of the 2000 Act is amended as follows.
 
 (2) In subsection (3)(c) before “1 year” (in both places) insert “51 weeks,”.
 
@@ -251,18 +265,40 @@ Schedule 1 to this Order sets out the modifications to the 2000 Act which govern
 
 [^f00002]: Footnote: The powers in section 63(1) are limited by section 63(2) and section 64(4) makes further provision about the nature of any order making power conferred under section 63(3)(c).
 
+[^c-4617643ad5b9b0f6a8a5ce3bafa0ef00]: Commencement: Art. 1 in force at 15.5.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
+
+[^c-a670bae53ec828803d1c52ac7d4e10f0]: Commencement: Art. 2 in force at 15.5.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
+
 [^f00003]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41).
 
 [^f00004]: Footnote: [2006 c.33](https://www.legislation.gov.uk/ukpga/2006/33).
 
+[^c-34850859471ff5d85d7257062a6f7455]: Commencement: Art. 3 in force at 1.7.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
+
 [^f00005]: Footnote: Sections 71F to 71X were inserted by section 61 of the EA Act and section 71Y was inserted by paragraph 98 of Schedule 1 to the EA Act.
+
+[^c-cd363f24788a0bc459d17b83bae8ea8b]: Commencement: Art. 4 in force at 1.7.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
 
 [^f00006]: Footnote: Section 156(4)(ca) was inserted by section 13(1) of the 2006 Act; section 156(4)(d) was repealed by section 11(8)(a)(iii) of, and Schedule 5 to, the 2006 Act; section 156(4)(da) to (dc) were inserted by section 61(4)(a) of the EA Act and section 156(4)(ha) was inserted by section 61(4)(b) of that Act and section 156(4)(ia) was inserted by section 61(7) of the EA Act.
 
 [^f00007]: Footnote: Section 159A was inserted by [S.I.2002/2626](https://www.legislation.gov.uk/uksi/2002/2626) and in paragraph (a) the words “,18(2) and (4) and Chapter 6 of Part 4” were substituted by section 13(2) of the 2006 Act.
 
+[^c-24463b92b2fe5518a2cb93fe2628e937]: Commencement: Art. 5 in force at 1.7.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
+
+[^c-572bf91a06ea0d0243ee209750908878]: Commencement: Art. 6 in force at 15.5.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
+
+[^c-c48a70623692ea6cddb98cbd8370ee83]: Commencement: Art. 7 in force at 1.7.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
+
+[^c-46d0ef6979fbcdce2a4de8772b78d109]: Commencement: Sch. 1 para. 1 in force at 1.7.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
+
+[^c-5aa067ec304e03cf987f0ab87db9955c]: Commencement: Sch. 1 para. 2 in force at 1.7.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
+
 [^f00008]: Footnote: The entry relating to section 71T(5) was inserted by was inserted by section 61(6) of the EA Act.
 
+[^c-135503e7100a602a910c48691c5906c3]: Commencement: Sch. 1 para. 3 in force at 1.7.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
+
 [^f00009]: Footnote: Section 149(8) and (9) were inserted by section 14 of, and paragraph 3 of Schedule 1 to, the 2006 Act.
+
+[^c-231bc9ac1bba56cb7661df82efb5a419]: Commencement: Sch. 2 para. 1 in force at 1.7.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2)
 
 [^f00010]: Footnote: Section 150(4) was inserted by [S.I.2004/366](https://www.legislation.gov.uk/uksi/2004/366).

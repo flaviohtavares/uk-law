@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 34
 act: The Education (Student Support) Regulations 2007
 section: '34'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/34
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 34
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 34. Previous course
+## 34. Previous course[^c-32ffed32bc2f7424cb1baa3a255500ae]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to the exceptions in paragraphs (3), (4) and (5), a “previous course” is any full-time higher education course or any part-time course for the initial training of teachers which the student began to attend or, in the case of a compressed degree course, undertake before the current course and which meets one or both of the conditions in paragraph (2).
 
@@ -54,3 +60,7 @@ summary: ''
 (9) For the purpose of determining PC in the formulae in regulations 20 and 27, where a student transfers from an academic year of one designated course to an academic year of another designated course before the Secretary of State considers that he has completed the year from which he is transferring, the time spent by the student during the academic year in which the transfer takes place on the course from which he is transferring is not counted as a year spent on a previous course.
 
 (10) A student who undertook a previous course but was not in attendance because he was unable to attend for a reason which related to his disability is only treated as if he were in attendance on the previous course in respect of periods of study beginning on or after 1st September 2006.
+
+## Annotations
+
+[^c-32ffed32bc2f7424cb1baa3a255500ae]: Commencement: Reg. 34 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

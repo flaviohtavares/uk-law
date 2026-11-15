@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 53
 act: The Education (Student Support) Regulations 2007
 section: '53'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/53
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 53
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 53. Additional amount of grant for travel – overseas study
+## 53. Additional amount of grant for travel – overseas study[^c-17cb4a95e4a0cc69778d7b00099256fa]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 An eligible student who—
 
@@ -22,3 +28,7 @@ An eligible student who—
 - (b) reasonably incurs any expenditure in insuring against liability for the cost of medical treatment provided outside the United Kingdom for any illness or bodily injury contracted or suffered during the period he is attending the overseas institution or the Institute,
 
 qualifies for additional grant under this regulation equal to the amount incurred.
+
+## Annotations
+
+[^c-17cb4a95e4a0cc69778d7b00099256fa]: Commencement: Reg. 53 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

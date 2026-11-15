@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 23
 act: The Education (Student Support) Regulations 2007
 section: '23'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 23
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 23. Old system students who are continuing students
+## 23. Old system students who are continuing students[^c-140d596cdb27d711e532a0a74ff00fac]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) This regulation applies to an old system student who began a designated course before 1st September 2006 and is continuing on that course after 31st August 2007 (a “continuing student”).
 
@@ -40,3 +46,7 @@ where
 (8) A continuing student qualifies for a grant for fees in respect of a standard academic year of the designated course if the Secretary of State allocates a grant for fees to that year when assessing the application for support for that year.
 
 (9) The amount of the grant for fees in respect of an academic year is determined in accordance with regulation 29, 30 or 31 and may be nil.
+
+## Annotations
+
+[^c-140d596cdb27d711e532a0a74ff00fac]: Commencement: Reg. 23 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

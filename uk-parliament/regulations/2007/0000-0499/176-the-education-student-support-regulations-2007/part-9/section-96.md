@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 96
 act: The Education (Student Support) Regulations 2007
 section: '96'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/96
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 96
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 96. Application of contribution to loan for living costs
+## 96. Application of contribution to loan for living costs[^c-6cc685b21ce77b7b4ee304434c108125]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) and (3), the “minimum level for the academic year” in regulation 95(d) is—
 
@@ -37,3 +43,7 @@ summary: ''
 (5) The rate applicable for a quarter is determined in accordance with regulation 70.
 
 (6) Categories A to D have the meaning given in regulation 77.
+
+## Annotations
+
+[^c-6cc685b21ce77b7b4ee304434c108125]: Commencement: Reg. 96 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

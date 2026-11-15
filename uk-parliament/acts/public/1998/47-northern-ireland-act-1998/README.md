@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised
 made_date: '1998-11-19'
-text_date: '2026-01-29'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1998/47
 pdf_urls:
@@ -19,7 +19,7 @@ summary: ''
 
 # Northern Ireland Act 1998
 
-> Text as at 2026-01-29.
+> Text as at 2026-11-12.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -418,7 +418,7 @@ SCHEDULES
 
 [^c-9d6b0a93a09bfbcfd06346a8f932215a]: Textual amendment: Words in Pt. 5A heading substituted (2.2.2024) by [The Windsor Framework (Democratic Scrutiny) Regulations 2024 (S.I. 2024/118)](https://www.legislation.gov.uk/uksi/2024/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/118/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/118/regulation/2/2)
 
-[^c-e33b18fb43b9e804cd0ac6b3036f0b3c]: Textual amendment: [Ss. 78A-78E](https://www.legislation.gov.uk/ukpga/1998/47/section/78A) and cross-heading inserted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-e33b18fb43b9e804cd0ac6b3036f0b3c]: Textual amendment: Ss. 78A-78E and cross-heading inserted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
 
 [^c-0db22ce6e11f19a12e2c194a698c57ec]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/1998/47/part/7A) inserted (22.5.2023 for the insertion of s. 78G, 29.1.2026 for the insertion of ss. 78F and 78H(1)(2)(3)(a)-(c)(e)(4) and otherwise prosp.) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/1/1), [10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/a); [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/a)
 

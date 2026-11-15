@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 113
 act: The Education (Student Support) Regulations 2007
 section: '113'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/113
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 113
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 113. Period of eligibility
+## 113. Period of eligibility[^c-11896d04ec9f21cb6b1db2a8e1177057]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) A student retains his status as an eligible part-time student in connection with a designated part-time course until the status terminates in accordance with this regulation and regulation 110.
 
@@ -45,3 +51,7 @@ summary: ''
 - (b) otherwise than under paragraph (5)
 
 the Secretary of State may, at any time, renew or extend the period of eligibility for such period as he determines.
+
+## Annotations
+
+[^c-11896d04ec9f21cb6b1db2a8e1177057]: Commencement: Reg. 113 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 105
 act: The Education (Student Support) Regulations 2007
 section: '105'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/105
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 105
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 105. Payment of loans for living costs
+## 105. Payment of loans for living costs[^c-cfc9dd4a5c179eb6e24bda4a327c864f]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The Secretary of State may pay support under Part 6 in instalments.
 
@@ -45,3 +51,7 @@ summary: ''
 - (a) he must subtract such amount as is necessary to ensure that the student does not borrow an amount of loan for living costs which is greater than that for which he qualifies from any amount of loan for living costs which remains to be paid;
 - (b) if the amount to be subtracted is greater than the amount of loan for living costs remaining to be paid, the latter is reduced to nil;
 - (c) any remaining overpayment is recoverable in accordance with Chapter 4 of this Part.
+
+## Annotations
+
+[^c-cfc9dd4a5c179eb6e24bda4a327c864f]: Commencement: Reg. 105 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

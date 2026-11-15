@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 24
 act: The Education (Student Support) Regulations 2007
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 24. Old system students who are transferring students
+## 24. Old system students who are transferring students[^c-8d3225655a747740cb1d9eda1699d2f7]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), this regulation applies to an old system student—
 
@@ -72,3 +78,7 @@ where
 (13) A transferring student qualifies for a grant for fees in respect of a standard academic year of the designated course if the Secretary of State allocates a grant for fees to that year when assessing the application for support for that year.
 
 (14) The amount of the grant for fees in respect of an academic year is determined in accordance with regulation 29, 30 or 31 and may be nil.
+
+## Annotations
+
+[^c-8d3225655a747740cb1d9eda1699d2f7]: Commencement: Reg. 24 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

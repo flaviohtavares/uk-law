@@ -3,14 +3,14 @@ title: The Wireless Telegraphy (Licence Award) Regulations 2008
 id: uksi/2008/686
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-12'
-text_date: null
-extent: null
+text_date: '2008-04-02'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/686
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/686/pdfs/uksi_20080686_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/686/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/686/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Wireless Telegraphy (Licence Award) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-04-02. See https://www.legislation.gov.uk/changes/affected/uksi/2008/686
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 686
 
@@ -41,13 +45,13 @@ Before making these Regulations OFCOM have given notice of their proposal to do 
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation, commencement and extent
+### 1. Citation, commencement and extent[^c-6f99a3903a0e87fdad705f3915dc3dbc]
 
 (1) These Regulations may be cited as the Wireless Telegraphy (Licence Award) Regulations 2008 and shall come into force on 2nd April 2008.
 
 (2) These Regulations shall not extend to the Channel Islands or to the Isle of Man.
 
-### 2. Interpretation
+### 2. Interpretation[^c-70be5f24822f0429847d508852b6924b]
 
 In these Regulations—
 
@@ -106,11 +110,11 @@ by which that requirement must be fulfilled by that person;
 
 ## PART 2 — APPLICATION STAGE
 
-### 3. Applications for the grant of a licence
+### 3. Applications for the grant of a licence[^c-ca2ab1741b1a04b95b0cdadfc8c8c69a]
 
 Applications for the grant of a licence shall only be made in accordance with the procedure set out in these Regulations.
 
-### 4. Application
+### 4. Application[^c-a73afd3f51a2651233eece7c52128dea]
 
 (1) Only a body corporate may apply to OFCOM for a licence.
 
@@ -129,7 +133,7 @@ Applications for the grant of a licence shall only be made in accordance with th
 
 ## PART 3 — QUALIFICATION STAGE
 
-### 5. Assessment of bidder groups
+### 5. Assessment of bidder groups[^c-0c5c5a0be1a9cc9c535f2a8fcfe31f8b]
 
 (1) OFCOM shall give notice to each applicant of—
 
@@ -152,7 +156,7 @@ Applications for the grant of a licence shall only be made in accordance with th
 
 (6) OFCOM shall record the members of each applicant’s bidder group after the last deadline specified by OFCOM under paragraphs (3) and (5).
 
-### 6. Subsequent changes to bidder groups
+### 6. Subsequent changes to bidder groups[^c-9af81b3d401d53700f0dedc6ff39154f]
 
 (1) An applicant or bidder may change its bidder group after the recording by OFCOM of the members of each applicant’s bidder group but, in relation to the award process, the applicant shall be subject to regulations 7(2) and 49 if they apply to any such change.
 
@@ -160,7 +164,7 @@ Applications for the grant of a licence shall only be made in accordance with th
 
 (3) To add a person who is not an associate of the applicant or bidder to its bidder group, the applicant or bidder must deliver to OFCOM a document in the form set out in Schedule 2 completed by the applicant or bidder and signed on its behalf by two authorised persons and completed by and signed by or on behalf of the person in respect of whom that document is completed.
 
-### 7. Determination of applicants which are qualified to bid
+### 7. Determination of applicants which are qualified to bid[^c-ceef042e40446f2969e0a57819334e14]
 
 (1) OFCOM shall determine whether each applicant which has submitted an application in accordance with regulation 4 is qualified to bid in the award process.
 
@@ -193,13 +197,13 @@ Applications for the grant of a licence shall only be made in accordance with th
 
 (6) Where OFCOM determine that an applicant is not qualified to bid in the award process, that applicant’s initial deposit shall not be forfeited for that reason.
 
-### 8. Publication of determination
+### 8. Publication of determination[^c-7cbf47c58e0dd05bee1fa65a98e1db16]
 
 (1) OFCOM shall notify each applicant of their determination under regulation 7(1).
 
 (2) OFCOM shall also notify each applicant qualified to bid of the name of each other applicant who is so qualified and shall publish the names of all applicants who are qualified to bid on OFCOM’s internet website.
 
-### 9. Withdrawal of an application
+### 9. Withdrawal of an application[^c-588f8894ddcdb04765313bc82c48c725]
 
 (1) OFCOM shall notify each applicant qualified to bid of the last day for withdrawal from the award process (“the last day for withdrawal”) and shall publish the last day for withdrawal on OFCOM’s internet website.
 
@@ -209,7 +213,7 @@ Applications for the grant of a licence shall only be made in accordance with th
 
 (4) Where an applicant withdraws its application in accordance with paragraph (2), that applicant’s initial deposit shall not be forfeited for that reason.
 
-### 10. Determination of number of bidders
+### 10. Determination of number of bidders[^c-b3bfe166fc84c639436f0b78d81c1d0a]
 
 (1) After the last day for withdrawal, OFCOM shall determine the number of bidders.
 
@@ -223,7 +227,7 @@ Applications for the grant of a licence shall only be made in accordance with th
 
 ## PART 4 — PROCEDURE WHERE THERE IS ONLY ONE BIDDER
 
-### 11. Lot selection menu
+### 11. Lot selection menu[^c-529f87b734442f7394fb4d0754e138a7]
 
 (1) Where there is only one bidder, OFCOM shall notify that bidder of—
 
@@ -242,13 +246,13 @@ Applications for the grant of a licence shall only be made in accordance with th
 - (a) where the initial deposit has not been forfeited in accordance with regulation 49, a sum equal to the licence fee less the initial deposit; or
 - (b) where the initial deposit has been so forfeited, a sum equal to the licence fee.
 
-### 12. Grant of licence
+### 12. Grant of licence[^c-4b429382556353fe0d9a139a1bac8a55]
 
 (1) Where OFCOM have received from the bidder a completed lot selection menu in accordance with regulation 11(1)(a) and the required sum in accordance with regulation 11(1)(b), OFCOM shall grant the bidder a licence for the lots selected on that completed lot selection menu which includes the licence condition that matches the licence condition chosen by the bidder.
 
 (2) Where OFCOM have not received from the bidder a completed lot selection menu in accordance with regulation 11(1)(a) or the required sum in accordance with regulation 11(1)(b), the bidder shall not be entitled to the grant of a licence and shall not receive a refund of its initial deposit, which shall (where it has not already been forfeited under regulation 49) be forfeited.
 
-### 13. Completion of the award process
+### 13. Completion of the award process[^c-1c4622c1c508965ef070176936e412bc]
 
 After the grant of the licence, OFCOM shall complete the award process by—
 
@@ -259,7 +263,7 @@ After the grant of the licence, OFCOM shall complete the award process by—
 
 ### CHAPTER 1 — Auction stage
 
-#### 14. Auction stage
+#### 14. Auction stage[^c-f717697456799ddfee4335e87a417cd4]
 
 (1) Where there is more than one bidder, the process for the award of licences shall consist of the procedure set out in Chapters 2 to 5 of this Part (“the auction stage”).
 
@@ -289,7 +293,7 @@ After the grant of the licence, OFCOM shall complete the award process by—
 
 ### CHAPTER 2 — Structure of auction stage
 
-#### 15. Primary bids
+#### 15. Primary bids[^c-3ab0e9574fbb3027776840054127fe94]
 
 (1) A bid made during a primary bid round (“primary bid”) shall–
 
@@ -310,11 +314,11 @@ After the grant of the licence, OFCOM shall complete the award process by—
 
 (6) The number of eligibility points associated with a primary bid shall be a number equal to the total of the eligibility points associated with each lot included in the selection of lots specified in that primary bid set out in Schedule 5.
 
-#### 16. Requirement for a valid primary bid in the first primary bid round
+#### 16. Requirement for a valid primary bid in the first primary bid round[^c-27476b62e67800f312979213fa8582de]
 
 Any bidder which does not submit a valid primary bid in the first primary bid round shall be excluded from the award process and shall not receive a refund of its initial deposit or any sum that the bidder has paid as a deposit under regulation 23, which shall (where not already forfeited under regulation 49) be forfeited.
 
-#### 17. Supplementary bids
+#### 17. Supplementary bids[^c-ed3d6e64052dacc94ae5301f9dd0f92d]
 
 (1) A bid made during the supplementary bids round (“supplementary bid”) shall–
 
@@ -339,7 +343,7 @@ Any bidder which does not submit a valid primary bid in the first primary bid ro
 
 (8) A bidder is not required to submit a supplementary bid.
 
-#### 18. Number of primary bid rounds
+#### 18. Number of primary bid rounds[^c-7432cc334f4bd2abeb21d38e4bb05f07]
 
 (1) Where the combination of all bids received in a primary bid round is a compatible combination of bids—
 
@@ -355,7 +359,7 @@ Any bidder which does not submit a valid primary bid in the first primary bid ro
 
 (4) Where OFCOM have made a determination under paragraph (2) there shall be a supplementary bids round.
 
-#### 19. Determination of round prices for primary round bids
+#### 19. Determination of round prices for primary round bids[^c-bd0e41ec9cda0d7d7e2b8c45d0ad9316]
 
 (1) In the first primary bid round, the round price for each lot shall be the amount set out in Schedule 4.
 
@@ -378,11 +382,11 @@ shall be an amount that is higher than the amount that was the round price for t
 
 (5) The amount of the round price for any lot not included in the circumstances described in paragraph (3), shall be the same amount as it was in the previous primary bid round.
 
-#### 20. Bidder’s eligibility limit for primary bid rounds
+#### 20. Bidder’s eligibility limit for primary bid rounds[^c-3308b67a1a567df099013bff2bdfd4a9]
 
 Before each primary bid round, OFCOM shall determine an eligibility limit for each bidder for that primary bid round in accordance with regulation 21 or 22 (as the case may be).
 
-#### 21. Determination of bidder’s eligibility limit for the first primary bid round
+#### 21. Determination of bidder’s eligibility limit for the first primary bid round[^c-ba8a85cd76231051abe67d72c35602e7]
 
 (1) After the deadline specified in regulation 23(2) and before the start of the first primary bid round, OFCOM shall determine each bidder’s eligibility limit for the first primary bid round in accordance with the requirements of this regulation.
 
@@ -395,7 +399,7 @@ Before each primary bid round, OFCOM shall determine an eligibility limit for ea
 - (a) that number; or
 - (b) where the number is not a whole number, that number rounded down to the nearest whole number.
 
-#### 22. Determination of bidder’s eligibility limit for subsequent primary bid rounds
+#### 22. Determination of bidder’s eligibility limit for subsequent primary bid rounds[^c-86bd24fcdd2718874938fa530dc4a4fb]
 
 (1) For subsequent primary bid rounds, each bidder’s eligibility limit shall be determined either under paragraphs (2) to (4) or under paragraph (5) (as the case may be).
 
@@ -407,13 +411,13 @@ Before each primary bid round, OFCOM shall determine an eligibility limit for ea
 
 (5) Where a bidder does not make a valid primary bid in a primary bid round, the bidder’s eligibility limit for the subsequent primary bid round shall be zero.
 
-#### 23. Additional deposit before first primary bid round
+#### 23. Additional deposit before first primary bid round[^c-bbedccce8ca12b6e52de10c7db463282]
 
 (1) In addition to the initial deposit, a bidder may pay an additional sum in pounds as a deposit which shall be taken into account by OFCOM in accordance with regulation 21 for the purpose of calculating the bidder’s eligibility limit for the first primary bid round.
 
 (2) A bidder wishing to pay such an additional sum must, by the deadline specified by OFCOM, pay the additional sum into OFCOM’s bank account by a same day electronic transfer with accompanying information which identifies the bidder.
 
-#### 24. Valid primary bids
+#### 24. Valid primary bids[^c-45e1d239544866622295a4d37135d3eb]
 
 (1) A primary bid shall only be taken into consideration for the purposes of determining—
 
@@ -431,7 +435,7 @@ if it is a primary bid which satisfies the conditions set out in paragraph (2) (
 - (c) the primary bid complies with the restriction set out in regulation 15(5); and
 - (d) the completed primary bid form is submitted to OFCOM in accordance with regulation 28(1) and is received by OFCOM in accordance with regulation 28(2).
 
-#### 25. Valid supplementary bids
+#### 25. Valid supplementary bids[^c-56218c7bf00bead5040850cede7852d4]
 
 (1) A supplementary bid shall only be taken into consideration for the purposes of determining—
 
@@ -447,7 +451,7 @@ if it is a supplementary bid which satisfies the conditions set out in paragraph
 - (c) the supplementary bid is submitted in accordance with the restriction set out in regulation 17(6); and
 - (d) the completed supplementary bids form is submitted to OFCOM in accordance with regulation 35(1) and is received by OFCOM in accordance with regulation 35(2).
 
-#### 26. Restrictions on the amount of a supplementary bid
+#### 26. Restrictions on the amount of a supplementary bid[^c-096b2c37cc7f98e91930e6b830f859d1]
 
 (1) The amount of a supplementary bid must be not less than the total amount of the round prices in the first primary bid round for the selection of lots comprised in the supplementary bid
 
@@ -464,7 +468,7 @@ the amount of the supplementary bid must not be greater than the amount determin
 
 ### CHAPTER 3 — Procedure for primary bid rounds
 
-#### 27. Notice to be given to bidders before primary bid rounds and extensions to rounds
+#### 27. Notice to be given to bidders before primary bid rounds and extensions to rounds[^c-c914241f7a1743a053269bbb5cf03fb6]
 
 (1) Before the start of each primary bid round, OFCOM shall notify each bidder of—
 
@@ -485,19 +489,19 @@ as that time extended by thirty minutes, and OFCOM shall treat the extended time
 - (b) the bidder submitted its completed primary bid form for that primary bid round so that it was received by OFCOM by the end of round time so extended; and
 - (c) OFCOM have notified the bidder that they are satisfied that, in respect of that primary bid round, circumstances existed which were beyond the bidder’s control which had the effect that the bidder could not have submitted its primary bid form so that it was received by OFCOM by the end of round time without such an extension.
 
-#### 28. Submission of primary bid form to OFCOM
+#### 28. Submission of primary bid form to OFCOM[^c-3495dcc4f52206862873569431d7be66]
 
 (1) Except as provided for in regulation 29, the bidder must submit the completed primary bid form to OFCOM by using the electronic auction system.
 
 (2) The completed primary bid form must be submitted to OFCOM by the end of round time.
 
-#### 29. Alternative method for submission of primary bid form
+#### 29. Alternative method for submission of primary bid form[^c-a99e6c9ad5dd97db870e2de36b150d45]
 
 (1) Where OFCOM are satisfied that a bidder is unable using reasonable endeavours to submit a primary bid form by using the electronic auction system because of technical failure (or an event or circumstance with similar effect on the bidder’s ability to use the electronic auction system), OFCOM shall notify the bidder of an alternative method of submitting the primary bid form and any requirements relating to the authentication of communications made by means of the alternative method.
 
 (2) The bidder must submit the primary bid form by means of the alternative method and must comply with any requirements which have been notified to it under paragraph (1) relating to the authentication of communications.
 
-#### 30. Incomplete or defective primary bid form
+#### 30. Incomplete or defective primary bid form[^c-fae7b19631d70e8ecb3106ab062e9538]
 
 (1) Where, due to the manner of completion, a primary bid form is incomplete or defective but OFCOM believe that they can ascertain the bidder’s intention in relation to the making of the primary bid, OFCOM shall ask the bidder to confirm in a notice to OFCOM by a specified deadline that OFCOM have correctly ascertained the bidder’s intention in relation to the making of the primary bid.
 
@@ -510,18 +514,18 @@ as that time extended by thirty minutes, and OFCOM shall treat the extended time
 - (c) the winning combination of auction stage bids in accordance with regulation 41; and
 - (d) the winning price payable by a winning bidder in accordance with regulation 43.
 
-#### 31. Notification that primary bid not valid
+#### 31. Notification that primary bid not valid[^c-16cf57fa5404dfe9138f2bbc3aa0dc3c]
 
 OFCOM shall notify a bidder which submits a primary bid that is not a valid primary bid of that fact and shall give the reasons why the bid is not a valid primary bid.
 
-#### 32. Release of information on primary bids in auction stage
+#### 32. Release of information on primary bids in auction stage[^c-98dafd317b1968cf56a0bb9873f425d1]
 
 After the end of a primary bid round and before the start of the subsequent primary bid round (or the start of the supplementary bids round if there is no subsequent primary bid round), OFCOM shall notify bidders of—
 
 - (a) the number of bids made in that round which selected each lot available for selection; and
 - (b) the number of those bids which specified each choice of licence condition for each lot available for selection.
 
-#### 33. Additional deposit for primary bid rounds
+#### 33. Additional deposit for primary bid rounds[^c-4d62ebb939ef2999ae944f5786bdd2a4]
 
 (1) Where in respect of a primary bid the amount specified by a bidder under regulation 15(3)(c) is greater than the total amount that the bidder has on deposit (including the initial deposit, any sum paid as a deposit under regulation 23 and any sum or sums paid as a deposit under this regulation, but not including any sum forfeited under regulation 49) OFCOM may, having regard to the desirability of securing an efficient outcome to the auction stage, subsequently notify the bidder that the bidder is required to pay a further sum in pounds as a deposit.
 
@@ -533,32 +537,32 @@ After the end of a primary bid round and before the start of the subsequent prim
 
 ### CHAPTER 4 — Procedure for supplementary bids round and final auction stage deposit
 
-#### 34. Notice to be given to bidders before supplementary bids round
+#### 34. Notice to be given to bidders before supplementary bids round[^c-8cc489cf2e3aaee3822696fa08eefead]
 
 Before the start of the supplementary bids round, OFCOM shall notify each bidder of —
 
 - (a) the date on which, and the times on that date within which, subject to regulation 37, bidders may make supplementary bids; and
 - (b) the deadline by when bidders must pay a further sum in pounds as a deposit in accordance with regulation 40.
 
-#### 35. Submission of supplementary bids form to OFCOM
+#### 35. Submission of supplementary bids form to OFCOM[^c-a737d98231621f4878046305dc8ccb0c]
 
 (1) Except as provided for in regulation 36, a bidder must submit the completed supplementary bids form to OFCOM by using the electronic auction system.
 
 (2) Except as provided for in regulation 37, the completed supplementary bids form must be received by OFCOM by the time notified to bidders under regulation 34(a).
 
-#### 36. Alternative method for submission of supplementary bids form
+#### 36. Alternative method for submission of supplementary bids form[^c-9d08b66b93faca1d718a5754015d6c55]
 
 (1) Where OFCOM are satisfied that a bidder is unable using reasonable endeavours to submit a supplementary bids form by using the electronic auction system because of technical failure (or an event or circumstance with similar effect on the bidder’s ability to use the electronic auction system), OFCOM shall notify the bidder of an alternative method of submitting the supplementary bids form and any requirements relating to the authentication of communications made by means of the alternative method.
 
 (2) The bidder must submit the supplementary bids form by means of the alternative method and must comply with any requirements which have been notified to it under paragraph (1) relating to the authentication of communications.
 
-#### 37. Extension to supplementary bids round
+#### 37. Extension to supplementary bids round[^c-d07eb9c15a14f3faf7c9d523ab8e4862]
 
 (1) Where OFCOM have not received a completed supplementary bids form from a bidder by the time notified to bidders under regulation 34(a) and paragraph (2) applies, the time by which the bidder’s completed supplementary bids form must be received by OFCOM shall be the time sixty minutes after the time notified to bidders under regulation 34(a) as the end of the supplementary bids round.
 
 (2) This paragraph applies where OFCOM are satisfied that circumstances existed which were beyond the bidder’s control which had the effect that the bidder could not have submitted its supplementary bids form so that it was received by OFCOM by the time notified to bidders under regulation 34(a) as the end of the supplementary bids round.
 
-#### 38. Incomplete or defective supplementary bids form
+#### 38. Incomplete or defective supplementary bids form[^c-95fe6236492d3479a6f37f248b582620]
 
 (1) Where, due to the manner of completion, a supplementary bids form is incomplete or defective but OFCOM believe that they can ascertain the bidder’s intention in relation to the making of the supplementary bid or bids, OFCOM shall ask the bidder to confirm in a notice to OFCOM by a specified deadline that OFCOM have correctly ascertained the bidder’s intention in relation to the making of the supplementary bid or bids.
 
@@ -573,11 +577,11 @@ Before the start of the supplementary bids round, OFCOM shall notify each bidder
   - (i) the winning combination of auction stage bids under regulation 41; and
   - (ii) the price payable by a winning bidder under regulation 43.
 
-#### 39. Notification that supplementary bid not valid
+#### 39. Notification that supplementary bid not valid[^c-9371957bf04ca8347cb5b64d6f6fe8b9]
 
 OFCOM shall notify a bidder which submits a supplementary bid that is not a valid supplementary bid of that fact and shall give the reasons why the bid is not a valid supplementary bid.
 
-#### 40. Final auction stage deposit
+#### 40. Final auction stage deposit[^c-a0d60b359e5cd9efdc9178282f1cf663]
 
 (1) By the deadline notified to bidders under regulation 34(b), each bidder must pay into OFCOM’s bank account by a same day electronic transfer, with accompanying information which identifies the bidder, a further sum in pounds as a deposit so that the total amount the bidder has on deposit (including the initial deposit, any sum paid as a deposit under regulation 23 or 33 and any sum paid as a deposit under this paragraph, but not including any sum forfeited under regulation 49) is not less than whichever is the greater of—
 
@@ -591,7 +595,7 @@ OFCOM shall notify a bidder which submits a supplementary bid that is not a vali
 
 ### CHAPTER 5 — Determination of winning auction stage bids and conclusion of auction stage
 
-#### 41. Determination of the winning auction stage bids and the winning combination of auction stage bids
+#### 41. Determination of the winning auction stage bids and the winning combination of auction stage bids[^c-5fde791634e29fcb128071b45d872596]
 
 (1) The winning auction stage bids shall be those valid auction stage bids that comprise the winning combination of auction stage bids.
 
@@ -605,7 +609,7 @@ OFCOM shall notify a bidder which submits a supplementary bid that is not a vali
 
 (6) The number of eligibility points associated with a compatible combination of bids shall be a number equal to the total of the eligibility points associated with each lot included in the selections of lots specified in the bids constituting that compatible combination of bids in accordance with Schedule 5.
 
-#### 42. Unallocated lots
+#### 42. Unallocated lots[^c-0841df2c52151e3d30d00706cff02437]
 
 (1) Where the winning combination of auction stage bids results in some lots not being included in any winning auction stage bid (“unallocated lots”), OFCOM shall–
 
@@ -614,11 +618,11 @@ OFCOM shall notify a bidder which submits a supplementary bid that is not a vali
 
 (2) A winning bidder’s choice of licence condition does not apply to any unallocated lots assigned to it.
 
-#### 43. Determination of winning price of winning auction stage bids
+#### 43. Determination of winning price of winning auction stage bids[^c-5711684af493ab6f1e4ac5eecac06daf]
 
 In respect of each winning auction stage bid, OFCOM shall determine an amount in accordance with Schedule 6 (“the winning price”) which shall be payable by the relevant winning bidder.[^f00003]
 
-#### 44. Notification of results of auction stage
+#### 44. Notification of results of auction stage[^c-b53a4e9fc7c6450255c2f90f715aadc2]
 
 Following determination of the winning combination of auction stage bids under regulation 41 and the determination of the winning price for each winning auction stage bid under regulation 43, OFCOM shall notify each bidder of—
 
@@ -631,11 +635,11 @@ Following determination of the winning combination of auction stage bids under r
 
 ### CHAPTER 6 — Grant stage
 
-#### 45. Determination of the licence fee
+#### 45. Determination of the licence fee[^c-0ec96261b31e920fef957aff1c43fb69]
 
 The licence fee payable by a winning bidder shall be the amount equal to the winning price for that winning bidder’s winning auction stage bid determined by OFCOM under regulation 43.
 
-#### 46. Procedure where amount of winning bidder’s deposit is less than the licence fee
+#### 46. Procedure where amount of winning bidder’s deposit is less than the licence fee[^c-2daf02a3c9456b97cf11c5ab01362d49]
 
 (1) Where the amount of a winning bidder’s deposit (including the initial deposit and any sums paid as a deposit under regulations 23, 33 or 40, but not including any sum forfeited under regulation 49) is an amount that is less than the amount of the winning bidder’s licence fee as determined in accordance with regulation 45—
 
@@ -648,7 +652,7 @@ The licence fee payable by a winning bidder shall be the amount equal to the win
 
 (4) Where a winning bidder does not satisfy the provisions set out in paragraph (1)(b), the winning bidder shall not be entitled to the grant of a licence under these Regulations and shall not receive a refund of its initial deposit or any sums paid as a deposit under regulations 23, 33 or 40, which shall (where not already forfeited under regulation 49) be forfeited.
 
-#### 47. Procedure where amount of winning bidder’s deposit is greater than or equal to the licence fee
+#### 47. Procedure where amount of winning bidder’s deposit is greater than or equal to the licence fee[^c-350647547377d668b005f01b51fd1165]
 
 (1) Where the amount of winning bidder’s deposit (including the initial deposit and any sum paid as a deposit under regulation 23, 33 or 40, but not including any sum forfeited under regulation 49) is greater than or equal to the amount of the winning bidder’s licence fee determined in accordance with regulation 45, OFCOM shall—
 
@@ -657,7 +661,7 @@ The licence fee payable by a winning bidder shall be the amount equal to the win
 
 (2) The sum which OFCOM shall refund to a winning bidder shall be the difference (if any) between the amount of the winning bidder’s deposit (including the initial deposit and any sums paid as a deposit under regulations 23, 33 or 40, but not including any sum forfeited under regulation 49) and the amount of the winning bidder’s licence fee determined in accordance with regulation 45, but not any interest which has accrued on the deposit.
 
-#### 48. Completion of the award process
+#### 48. Completion of the award process[^c-9ba0baf6b7024738ec074691f729dc76]
 
 OFCOM shall compete the award process by—
 
@@ -666,21 +670,21 @@ OFCOM shall compete the award process by—
 
 ## PART 6 — ACTIVITY RULES
 
-### 49. Forfeit of deposit and exclusion from award process
+### 49. Forfeit of deposit and exclusion from award process[^c-a7a5f22ae93a41d3c037ab00daeaaff7]
 
 If, in relation to an applicant which is qualified to bid or a bidder, OFCOM are satisfied that any of the events set out in regulation 51 are occurring (or have occurred) and that the occurrence would materially affect the outcome of the award process—
 
 - (a) the initial deposit and any sum or sums paid as a deposit under regulations 23, 33, or 40 shall be forfeited by, and not refunded to, the applicant or bidder concerned; and
 - (b) that applicant or bidder may also be excluded by OFCOM from the award process by OFCOM giving that applicant or bidder notice in writing.
 
-### 50. Bids made by an excluded bidder
+### 50. Bids made by an excluded bidder[^c-2c09ed619f268c73bcf7c1547dff0316]
 
 (1) Where a bidder is excluded from the award process under regulation 49(b) during the auction stage, all of the primary bids and supplementary bids submitted by the bidder shall be deemed to be invalid and shall not be taken into consideration for the purpose of determining—
 
 - (a) the winning combination of auction stage bids under regulation 41;
 - (b) the winning price payable by a winning bidder under regulation 43.
 
-### 51. Events
+### 51. Events[^c-819acc29b67918f2ad6e40231270a079]
 
 The events referred to in regulation 49, in relation to an applicant or bidder, are—
 
@@ -705,11 +709,11 @@ The events referred to in regulation 49, in relation to an applicant or bidder, 
 
 ## PART 7 — MISCELLANEOUS
 
-### 52. General power of exclusion
+### 52. General power of exclusion[^c-5d348b3cc2c394cc19ede6c372ff7191]
 
 OFCOM may, at any time, notify any applicant or bidder of its exclusion from the award process if, in their opinion, the grant of a licence to that applicant or bidder would be prejudicial to the interests of national security or the applicant or bidder is not a fit and proper person to hold a licence.
 
-### 53. Notification to OFCOM
+### 53. Notification to OFCOM[^c-a97d5196030f2dc1a918956cb1f7ffc4]
 
 If, in accordance with any provision of these Regulations, an applicant or bidder is required, or wishes, to notify OFCOM of any fact or circumstance, it must do so by notice in writing which is marked for the attention of the OFCOM personnel which are specified by OFCOM for that purpose on OFCOM’s internet website and must deliver that notice to OFCOM —
 
@@ -717,7 +721,7 @@ If, in accordance with any provision of these Regulations, an applicant or bidde
 - (b) by personal delivery to Riverside House, 2a Southwark Bridge Road, London, SE1A 9HA; or
 - (c) by fax to a number dedicated to the award process which is published by OFCOM on their internet website.
 
-### 54. Changes to timing or location
+### 54. Changes to timing or location[^c-ec84c6c74d95471404cddc3e856b472c]
 
 (1) Subject to regulations 55 and 56, paragraph (2) applies where OFCOM determine that it is impracticable for any reason—
 
@@ -729,7 +733,7 @@ If, in accordance with any provision of these Regulations, an applicant or bidde
 - (a) delivery must be made on a different day or within different times on that day or at a different place; or
 - (b) the action must be completed on a different day or by a different deadline.
 
-### 55. Changes to round times and use of electronic auction system
+### 55. Changes to round times and use of electronic auction system[^c-f7e59a59887cc2fb4433542c211d1773]
 
 (1) Where a time for the start of a round has been notified to bidders and OFCOM determine that it is impracticable for any reason to start the round at that time, OFCOM shall take all reasonable steps to notify bidders of a revised time for the start of the round.
 
@@ -739,7 +743,7 @@ If, in accordance with any provision of these Regulations, an applicant or bidde
 
 (4) Bidders must use the alternative method of participating in the auction for the purposes notified to them under paragraph (3).
 
-### 56. Rerunning rounds
+### 56. Rerunning rounds[^c-7d33e726185bc1d875d5b21fd5fe6121]
 
 (1) Paragraph (2) applies where a round is in progress and OFCOM determine that it is not possible to continue the round because of technical failure (or an event or circumstance with similar effect).
 
@@ -758,7 +762,7 @@ If, in accordance with any provision of these Regulations, an applicant or bidde
 
 (5) Where paragraph (4) applies, OFCOM shall take all reasonable steps to notify bidders of its determination under that paragraph.
 
-### 57. Refunds
+### 57. Refunds[^c-cb02c5aa8adfcbe2e1cdb068dde987f5]
 
 OFCOM may, in such cases as they think fit, refund, in whole or in part, sums which have been paid to them in accordance with any provision of these Regulations.
 
@@ -770,25 +774,25 @@ For and by authority of the Office of Communications
 
 12th March 2008
 
-## SCHEDULE 1 — APPLICATION FORM AND WARRANTY
+## SCHEDULE 1 — APPLICATION FORM AND WARRANTY[^c-363ac90d5d6856222275de617c64bd8b]
 
 Regulation 4(3)(a)(i)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/686/images/uksi_20080686_en_006) [image: see source](https://www.legislation.gov.uk/uksi/2008/686/images/uksi_20080686_en_007)
 
-## SCHEDULE 2 — DOCUMENT FOR MEMBER OF APPLICANT’S BIDDER GROUP WHO IS NOT AN ASSOCIATE
+## SCHEDULE 2 — DOCUMENT FOR MEMBER OF APPLICANT’S BIDDER GROUP WHO IS NOT AN ASSOCIATE[^c-85c66e00a1ecef8d8847dc9695df54fa]
 
 Regulation 4(3)(a)(ii)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/686/images/uksi_20080686_en_008)
 
-## SCHEDULE 3 — LOT SELECTION MENU WHERE THERE IS ONLY ONE BIDDER
+## SCHEDULE 3 — LOT SELECTION MENU WHERE THERE IS ONLY ONE BIDDER[^c-d0d79f8691c57ad7085183437d0a56e1]
 
 Regulation 11(1)(a)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/686/images/uksi_20080686_en_009)
 
-## SCHEDULE 4 — ROUND PRICE IN THE FIRST PRIMARY BID ROUND
+## SCHEDULE 4 — ROUND PRICE IN THE FIRST PRIMARY BID ROUND[^c-7a108b8acefa2bf0742e6f519338ebd2]
 
 Regulation 19(1)
 
@@ -820,7 +824,7 @@ In the first primary bid round, the round price for a lot of a description menti
 </tbody>
 </table>
 
-## SCHEDULE 5 — ELIGIBILITY POINTS ASSOCIATED WITH LOTS
+## SCHEDULE 5 — ELIGIBILITY POINTS ASSOCIATED WITH LOTS[^c-7e64c54b4011058aff2ecd9d0db5a6d7]
 
 Regulations 15(6), 22(3) and 41(6)
 
@@ -858,20 +862,20 @@ Regulation 43
 
 ### Winning price
 
-**1.** (1) In determining the winning price for each winning auction stage bid, OFCOM shall impose the requirements set out in paragraphs 2 to 5.
+**1.**[^c-0f9b125ddf1dd713175adebe9df551e2] (1) In determining the winning price for each winning auction stage bid, OFCOM shall impose the requirements set out in paragraphs 2 to 5.
 
 (2) Where a winning price so determined includes a fraction of a pound, the winning price shall be that price rounded up to the nearest pound.
 
 ### First requirement
 
-**2.** The winning price for each winning auction stage bid shall be—
+**2.**[^c-d864a7cce99c7fd8772a76614f2bb324] The winning price for each winning auction stage bid shall be—
 
 - (a) no less than the total of the round prices in the first primary bid round for the selection of lots comprised in that winning auction stage bid; and
 - (b) no greater than the amount of that winning auction stage bid.
 
 ### Second requirement
 
-**3.** (1) Taking the winning prices for the winning auction stage bids together, the winning prices shall be such that if—
+**3.**[^c-8f7d6317948f4ecfe1f09bb5dc3136c8] (1) Taking the winning prices for the winning auction stage bids together, the winning prices shall be such that if—
 
 - (a) the amount bid by each winning bidder for the selection of lots and the licence condition chosen comprised in its winning auction stage bid had been the winning price rather than the amount of its winning auction stage bid (“reduced winning auction stage bid”); and
 - (b) the amount bid by each winning bidder in respect of each other valid auction stage bid made by that bidder had been reduced by an amount equal to the difference between the amount of its winning auction stage bid and the winning price for that winning auction stage bid;
@@ -882,11 +886,11 @@ the combination of the reduced winning auction stage bids submitted by the winni
 
 ### Third requirement
 
-**4.** Taking the winning prices for the winning auction stage bids together, the total of the winning prices shall be no greater than the total of any other prices for the winning auction stage bids that satisfy the requirements set out in paragraphs 2 and 3.
+**4.**[^c-c0d906d1af2216fe9f47ec9c36597b73] Taking the winning prices for the winning auction stage bids together, the total of the winning prices shall be no greater than the total of any other prices for the winning auction stage bids that satisfy the requirements set out in paragraphs 2 and 3.
 
 ### Fourth requirement
 
-**5.** (1) Taking the winning prices for the winning auction stage bids together, the opportunity cost variance of those winning prices calculated in accordance with sub-paragraph (2) shall be less than the opportunity cost variance of any other prices for the winning auction stage bids that satisfy the requirements set out in paragraphs 2 to 4 calculated in accordance with sub-paragraph (2).
+**5.**[^c-98b0fcacb45e2838b1843c257dfdc0d8] (1) Taking the winning prices for the winning auction stage bids together, the opportunity cost variance of those winning prices calculated in accordance with sub-paragraph (2) shall be less than the opportunity cost variance of any other prices for the winning auction stage bids that satisfy the requirements set out in paragraphs 2 to 4 calculated in accordance with sub-paragraph (2).
 
 (2) The opportunity cost variance (“[formula: see source](https://www.legislation.gov.uk/uksi/2008/686)”) of the prices mentioned in sub-paragraph (1) is the amount calculated in accordance with the formula—
 
@@ -937,6 +941,140 @@ A full regulatory impact assessment of the effect these Regulations will have on
 
 [^f00001]: Footnote: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36).
 
+[^c-6f99a3903a0e87fdad705f3915dc3dbc]: Commencement: Reg. 1 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-70be5f24822f0429847d508852b6924b]: Commencement: Reg. 2 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
 [^f00002]: Footnote: [2006 c.45](https://www.legislation.gov.uk/ukpga/2006/45).
 
+[^c-ca2ab1741b1a04b95b0cdadfc8c8c69a]: Commencement: Reg. 3 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-a73afd3f51a2651233eece7c52128dea]: Commencement: Reg. 4 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-0c5c5a0be1a9cc9c535f2a8fcfe31f8b]: Commencement: Reg. 5 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-9af81b3d401d53700f0dedc6ff39154f]: Commencement: Reg. 6 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-ceef042e40446f2969e0a57819334e14]: Commencement: Reg. 7 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-7cbf47c58e0dd05bee1fa65a98e1db16]: Commencement: Reg. 8 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-588f8894ddcdb04765313bc82c48c725]: Commencement: Reg. 9 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-b3bfe166fc84c639436f0b78d81c1d0a]: Commencement: Reg. 10 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-529f87b734442f7394fb4d0754e138a7]: Commencement: Reg. 11 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-4b429382556353fe0d9a139a1bac8a55]: Commencement: Reg. 12 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-1c4622c1c508965ef070176936e412bc]: Commencement: Reg. 13 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-f717697456799ddfee4335e87a417cd4]: Commencement: Reg. 14 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-3ab0e9574fbb3027776840054127fe94]: Commencement: Reg. 15 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-27476b62e67800f312979213fa8582de]: Commencement: Reg. 16 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-ed3d6e64052dacc94ae5301f9dd0f92d]: Commencement: Reg. 17 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-7432cc334f4bd2abeb21d38e4bb05f07]: Commencement: Reg. 18 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-bd0e41ec9cda0d7d7e2b8c45d0ad9316]: Commencement: Reg. 19 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-3308b67a1a567df099013bff2bdfd4a9]: Commencement: Reg. 20 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-ba8a85cd76231051abe67d72c35602e7]: Commencement: Reg. 21 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-86bd24fcdd2718874938fa530dc4a4fb]: Commencement: Reg. 22 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-bbedccce8ca12b6e52de10c7db463282]: Commencement: Reg. 23 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-45e1d239544866622295a4d37135d3eb]: Commencement: Reg. 24 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-56218c7bf00bead5040850cede7852d4]: Commencement: Reg. 25 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-096b2c37cc7f98e91930e6b830f859d1]: Commencement: Reg. 26 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-c914241f7a1743a053269bbb5cf03fb6]: Commencement: Reg. 27 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-3495dcc4f52206862873569431d7be66]: Commencement: Reg. 28 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-a99e6c9ad5dd97db870e2de36b150d45]: Commencement: Reg. 29 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-fae7b19631d70e8ecb3106ab062e9538]: Commencement: Reg. 30 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-16cf57fa5404dfe9138f2bbc3aa0dc3c]: Commencement: Reg. 31 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-98dafd317b1968cf56a0bb9873f425d1]: Commencement: Reg. 32 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-4d62ebb939ef2999ae944f5786bdd2a4]: Commencement: Reg. 33 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-8cc489cf2e3aaee3822696fa08eefead]: Commencement: Reg. 34 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-a737d98231621f4878046305dc8ccb0c]: Commencement: Reg. 35 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-9d08b66b93faca1d718a5754015d6c55]: Commencement: Reg. 36 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-d07eb9c15a14f3faf7c9d523ab8e4862]: Commencement: Reg. 37 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-95fe6236492d3479a6f37f248b582620]: Commencement: Reg. 38 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-9371957bf04ca8347cb5b64d6f6fe8b9]: Commencement: Reg. 39 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-a0d60b359e5cd9efdc9178282f1cf663]: Commencement: Reg. 40 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-5fde791634e29fcb128071b45d872596]: Commencement: Reg. 41 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-0841df2c52151e3d30d00706cff02437]: Commencement: Reg. 42 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-5711684af493ab6f1e4ac5eecac06daf]: Commencement: Reg. 43 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
 [^f00003]: Footnote: On 12th March 2008, OFCOM published notes on the determination of the licence fees payable by bidders in a document called ‘Notes on the determination of licence fees payable by bidders in relation to the award of the 1452MHz-1492MHz spectrum band: Schedule 6 to the Wireless Telegraphy (Licence Award) Regulations 2008’.
+
+[^c-b53a4e9fc7c6450255c2f90f715aadc2]: Commencement: Reg. 44 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-0ec96261b31e920fef957aff1c43fb69]: Commencement: Reg. 45 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-2daf02a3c9456b97cf11c5ab01362d49]: Commencement: Reg. 46 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-350647547377d668b005f01b51fd1165]: Commencement: Reg. 47 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-9ba0baf6b7024738ec074691f729dc76]: Commencement: Reg. 48 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-a7a5f22ae93a41d3c037ab00daeaaff7]: Commencement: Reg. 49 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-2c09ed619f268c73bcf7c1547dff0316]: Commencement: Reg. 50 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-819acc29b67918f2ad6e40231270a079]: Commencement: Reg. 51 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-5d348b3cc2c394cc19ede6c372ff7191]: Commencement: Reg. 52 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-a97d5196030f2dc1a918956cb1f7ffc4]: Commencement: Reg. 53 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-ec84c6c74d95471404cddc3e856b472c]: Commencement: Reg. 54 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-f7e59a59887cc2fb4433542c211d1773]: Commencement: Reg. 55 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-7d33e726185bc1d875d5b21fd5fe6121]: Commencement: Reg. 56 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-cb02c5aa8adfcbe2e1cdb068dde987f5]: Commencement: Reg. 57 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-363ac90d5d6856222275de617c64bd8b]: Commencement: Sch. 1 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-85c66e00a1ecef8d8847dc9695df54fa]: Commencement: Sch. 2 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-d0d79f8691c57ad7085183437d0a56e1]: Commencement: Sch. 3 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-7a108b8acefa2bf0742e6f519338ebd2]: Commencement: Sch. 4 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-7e64c54b4011058aff2ecd9d0db5a6d7]: Commencement: Sch. 5 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-0f9b125ddf1dd713175adebe9df551e2]: Commencement: Sch. 6 para. 1 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-d864a7cce99c7fd8772a76614f2bb324]: Commencement: Sch. 6 para. 2 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-8f7d6317948f4ecfe1f09bb5dc3136c8]: Commencement: Sch. 6 para. 3 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-c0d906d1af2216fe9f47ec9c36597b73]: Commencement: Sch. 6 para. 4 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)
+
+[^c-98b0fcacb45e2838b1843c257dfdc0d8]: Commencement: Sch. 6 para. 5 in force at 2.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/686/regulation/1/1)

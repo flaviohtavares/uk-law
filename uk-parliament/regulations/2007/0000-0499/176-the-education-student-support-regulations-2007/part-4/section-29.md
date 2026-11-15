@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 29
 act: The Education (Student Support) Regulations 2007
 section: '29'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 29
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 29. Amount of the grant for fees for a course at a publicly-funded institution
+## 29. Amount of the grant for fees for a course at a publicly-funded institution[^c-74d424d5c794e4a6814961034d060bfd]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Unless one of the cases set out in regulation 22(3) applies, the basic amount of the grant for fees in respect of an academic year of a designated course at a publicly-funded institution is the lesser of—
 
@@ -33,3 +39,7 @@ summary: ''
 (5) In the case of a designated course at Heythrop College, the amount of the grant for fees in respect of an academic year is £2,195.
 
 (6) In the case of a designated course at Guildhall School of Music and Drama, the amount of the grant for fees in respect of an academic year is £4,455.
+
+## Annotations
+
+[^c-74d424d5c794e4a6814961034d060bfd]: Commencement: Reg. 29 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

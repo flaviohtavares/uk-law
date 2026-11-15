@@ -3,7 +3,7 @@ title: Northern Ireland Act 1998, section 98
 act: Northern Ireland Act 1998
 section: '98'
 status: revised
-text_date: '2026-01-29'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1998/47/section/98
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Northern Ireland Act 1998, section 98
 
-> Text as at 2026-01-29.
+> Text as at 2026-11-12.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -58,6 +58,7 @@ summary: ''
 - “[^c20123611]**the St Andrews Agreement**” means the agreement reached on 13 October 2006 at multi-party talks on Northern Ireland held at St Andrews;
 - “**subordinate legislation**” has the same meaning as in the [^c12399941]Interpretation Act 1978 and also includes an instrument made under Northern Ireland legislation;
 - “**transferred matter**” has the meaning given by section 4(1).
+- “[^c-19eeebbe3a7fc6048be7ce119fbfe76e]**Windsor Framework**” means the part of the withdrawal agreement known as the Windsor Framework by virtue of Joint Declaration No. 1/2023 of 24 March 2023 made between the EU and the United Kingdom in the Joint Committee established by the withdrawal agreement.
 
 (2)[^c20120081] For the purposes of this Act, a provision of any enactment, Bill or subordinate legislation deals with the matter, or each of the matters, which it affects otherwise than incidentally.
 
@@ -99,7 +100,7 @@ and may make different determinations or provisions for different purposes.
 
 [^c20120561]: Textual amendment: S. 98(1): entry for 'Judicial Committee' repealed (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [146](https://www.legislation.gov.uk/ukpga/2005/4/section/146), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 112(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/112/b), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)(f)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d/f)
 
-[^c-c7d5dc71030ee87ef8c1ef020722512c]: Textual amendment: Words in [s. 98(1)](https://www.legislation.gov.uk/ukpga/1998/47/section/98/1) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/4), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-c7d5dc71030ee87ef8c1ef020722512c]: Textual amendment: Words in s. 98(1) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/4), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
 [^c12399901]: Marginal citation: [1972 c.22](https://www.legislation.gov.uk/ukpga/1972/22).
 
@@ -114,6 +115,8 @@ and may make different determinations or provisions for different purposes.
 [^c20123611]: Textual amendment: S. 98(1): definition of 'the St. Andrews Agreement' inserted (8.5.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [ss. 19](https://www.legislation.gov.uk/ukpga/2006/53/section/19), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (as amended by [Northern Ireland (St Andrews Agreement) Act 2007 (c. 4)](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/1)), {Sch. 7 para. 3} (with s. 1(3)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)
 
 [^c12399941]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c-19eeebbe3a7fc6048be7ce119fbfe76e]: Textual amendment: Words in s. 98(1) inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/5)
 
 [^c20120081]: Modification: S. 98(2)(3) applied (prosp.) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 247(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/247/9), [263(7)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/7)
 

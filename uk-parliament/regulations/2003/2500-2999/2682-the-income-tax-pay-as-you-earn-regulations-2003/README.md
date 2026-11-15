@@ -3,15 +3,15 @@ title: The Income Tax (Pay As You Earn) Regulations 2003
 id: uksi/2003/2682
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2003-10-21'
-text_date: '2026-07-07'
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2003/2682
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2003/2682/pdfs/uksi_20032682_en.pdf
 - http://www.legislation.gov.uk/uksi/2003/2682/data.pdf
-pending_changes: 11
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Income Tax (Pay As You Earn) Regulations 2003
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2682
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -217,7 +217,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 60 — Late presentation of Form P45](part-3/section-60.md)
 - [Section 61 — Subsequent procedure on issue of UK resident pensioner’s code](part-3/section-61.md)
 
-#### CHAPTER 3A — BENEFITS IN KIND[^c-ecb4e687e0271e10013cc735d05beac4]
+#### CHAPTER 3A — BENEFITS IN KIND[^c-ecb4e687e0271e10013cc735d05beac4]
 
 - [Section 61A — Interpretation](part-3/section-61a.md)
 - [Section 61B — PAYE: benefits in kind](part-3/section-61b.md)
@@ -226,6 +226,8 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 61E — Method of calculating the cash equivalent or relevant amount in respect of the benefit of a car or van](part-3/section-61e.md)
 - [Section 61F — Method of calculating the cash equivalent or amount foregone in respect of the benefit of fuel](part-3/section-61f.md)
 - [Section 61G — Method of calculating the cash equivalent or relevant amount of non-cash vouchers, credit-tokens and employment-related benefits](part-3/section-61g.md)
+- [Section 61GA — Method of calculating the cash equivalent of living accommodation](part-3/section-61ga.md)
+- [Section 61GB — Method of calculating the cash equivalent of loans](part-3/section-61gb.md)
 - [Section 61H — Modification of the general rule: cessation of employment but continuing benefit](part-3/section-61h.md)
 - [Section 61I — Modification of the general rule: in-year adjustments: change to the benefit during the year with effect from the date of the change](part-3/section-61i.md)
 - [Section 61J — Modification of the general rule: in-year adjustments: change to the benefit during the year with effect from the start of tax year and other changes](part-3/section-61j.md)
@@ -819,7 +821,7 @@ A Regulatory Impact Assessment has also been prepared in relation to these Regul
 
 [^c-97c5aebe5757db10e979a53436e85834]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3) heading substituted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2007/2969/regulation/11)
 
-[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
+[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: Pt. 3 Ch. 3A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
 
 [^c-08b6e8f9f8eba33d4316dc76fb9ec396]: Textual amendment: Regs. 67B-67H and cross-headings inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/27/b) (with [regs. 54-57](https://www.legislation.gov.uk/uksi/2012/822/regulation/54))
 

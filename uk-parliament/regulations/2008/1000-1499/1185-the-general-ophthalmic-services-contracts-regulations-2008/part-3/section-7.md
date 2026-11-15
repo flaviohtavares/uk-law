@@ -2,9 +2,9 @@
 title: The General Ophthalmic Services Contracts Regulations 2008, section 7
 act: The General Ophthalmic Services Contracts Regulations 2008
 section: '7'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1185/section/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The General Ophthalmic Services Contracts Regulations 2008, section 7
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 7. Pre-contract disputes
+## 7. Pre-contract disputes[^c-0389264c7aa367332ecd986e745f9660]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) and (3), if, in the course of negotiations intending to lead to a contract, the prospective contracting parties are unable to agree on a particular term of the contract, either party may refer the dispute to the Secretary of State to consider and determine the matter in accordance with the procedure provided for in paragraph 30(2) and (3) of Schedule 1 (NHS dispute resolution procedure).
 
@@ -29,3 +35,7 @@ summary: ''
 - (a) may specify terms to be included in the proposed contract;
 - (b) may require the PCT to proceed with the proposed contract, but may not require the proposed contractor to proceed with the proposed contract; and
 - (c) shall be binding upon the prospective parties to the contract.
+
+## Annotations
+
+[^c-0389264c7aa367332ecd986e745f9660]: Commencement: Reg. 7 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)

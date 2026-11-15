@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 126
 act: The Education (Student Support) Regulations 2007
 section: '126'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/126
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 126
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 126. Overpayments
+## 126. Overpayments[^c-aa4a422a9fa5acbeedd3a9706aa662d4]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Any overpayment of a grant in respect of fees is recoverable by the Secretary of State from the academic authority.
 
@@ -45,3 +51,7 @@ summary: ''
 - (b) a payment of the disabled part-time students’ allowance in respect of specialist equipment is made to the student after the period of eligibility terminated.
 
 (10) Where there is an overpayment of the disabled part-time students’ allowance, the Secretary of State may accept the return of specialist equipment purchased with the grant by way of recovery of all or part of the overpayment if he considers it is appropriate to do so.
+
+## Annotations
+
+[^c-aa4a422a9fa5acbeedd3a9706aa662d4]: Commencement: Reg. 126 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

@@ -2,9 +2,9 @@
 title: The General Ophthalmic Services Contracts Regulations 2008, section 8
 act: The General Ophthalmic Services Contracts Regulations 2008
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1185/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The General Ophthalmic Services Contracts Regulations 2008, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 8. Health service body status
+## 8. Health service body status[^c-7111883c095d02cbb7e85eff5997f757]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Where a proposed contractor elects, in a notice served on the PCT at any time prior to the contract being entered into, to be regarded as a health service body for the purposes of section 9, it shall be so regarded, but only so far as concerns the contract, from the date on which the contract is entered into.
 
@@ -49,3 +55,7 @@ as a health service body for the purposes of section 9, but only so far as conce
   - (ii) after the termination of the contract, whether in connection with or arising out of the termination of the contract or otherwise,
 
 for which purposes it ceases to be such a body on the conclusion of that procedure.
+
+## Annotations
+
+[^c-7111883c095d02cbb7e85eff5997f757]: Commencement: Reg. 8 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)

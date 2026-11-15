@@ -3,15 +3,15 @@ title: The Standards Committee (England) Regulations 2008
 id: uksi/2008/1085
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-04-14'
-text_date: null
-extent: null
+text_date: '2008-05-08'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1085
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1085/pdfs/uksiem_20081085_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1085/pdfs/uksi_20081085_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1085/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1085/data.pdf
 pending_changes: 28
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Standards Committee (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (28).** Text as at 2008-05-08. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1085
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 1085
 
@@ -44,11 +48,11 @@ The Secretary of State, in exercise of the powers conferred by sections 53(6) an
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-1e69a973aa10d5ab808f108a79a25c52]
 
 These Regulations may be cited as the Standards Committee (England) Regulations 2008 and shall come into force on 8th May 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-ae0c09af888567e18c1b52bd9db362e1]
 
 In these Regulations—
 
@@ -67,11 +71,11 @@ In these Regulations—
 
 ## PART 2 — CONSTITUTION AND GENERAL PROCEEDINGS OF STANDARDS COMMITTEEES AND SUB-COMMITTEES
 
-### 3. Interpretation of Part 2
+### 3. Interpretation of Part 2[^c-bca192266ff010c422d6669f548a9965]
 
 In this Part “authority”, except where the context otherwise requires, means a relevant authority in England other than a parish council.
 
-### 4. Composition of standards committees
+### 4. Composition of standards committees[^c-8928aceed281b941d710f2b89d3ff5c1]
 
 (1) An authority must ensure that—
 
@@ -80,7 +84,7 @@ In this Part “authority”, except where the context otherwise requires, means
 
 (2) Where an authority is a responsible authority, it must ensure that at least two members of the standards committee are members of parish councils for which it is responsible, who are not also members of the responsible authority.
 
-### 5. Appointments to standards committees
+### 5. Appointments to standards committees[^c-51b9d7080afc1ab1ef6fb8b0fb75a999]
 
 (1) Subject to the following provisions of this regulation, a person may only be appointed as an independent member of a standards committee if the appointment is—
 
@@ -114,7 +118,7 @@ In this Part “authority”, except where the context otherwise requires, means
 
 (7) An authority must have regard to any relevant guidance issued by the Standards Board in making appointments under this regulation.
 
-### 6. Sub-committees of standards committees
+### 6. Sub-committees of standards committees[^c-037e24418a1b0ec23149b25b3f7af12b]
 
 (1) The standards committee of an authority shall, under section 54A of the Act—
 
@@ -123,7 +127,7 @@ In this Part “authority”, except where the context otherwise requires, means
 
 (2) If the standards committee of an authority appoints sub-committees to discharge functions under regulations 17 to 20 of these Regulations, those sub-committees must be chaired by an independent member.
 
-### 7. Validity of proceedings
+### 7. Validity of proceedings[^c-d8818fdfcaca588aef11728aec6ea839]
 
 (1) A meeting of a standards committee, or sub-committee of a standards committee, shall not be quorate unless at least three members of that committee or sub-committee are present for its duration.
 
@@ -143,7 +147,7 @@ no decision may be taken unless at least one member of that authority is present
 
 relating to a member or former member of a parish council, no decision may be taken unless at least one member of a parish council for which the authority is the responsible authority, who is not also a member of that responsible authority, is present when such matters are being considered.
 
-### 8. Application of the Local Government Act 1972
+### 8. Application of the Local Government Act 1972[^c-55efa49267d14e048b77d9c20c8fbc06]
 
 (1) Subject to paragraphs (2), (3), (5) and (6), Part 5A of the 1972 Act[^f00007] shall apply in relation to meetings of a standards committee, or sub-committee of a standards committee, of an authority as it applies to meetings of a principal council in England.
 
@@ -184,7 +188,7 @@ relating to a member or former member of a parish council, no decision may be ta
 
 ## PART 3 — PROCEDURES RELATING TO ALLEGATIONS
 
-### 9. Interpretation of Part 3
+### 9. Interpretation of Part 3[^c-f9edef65d602fc852773624c10ac9ca1]
 
 In this Part—
 
@@ -194,7 +198,7 @@ In this Part—
 - “member”, except where the context otherwise requires, includes a co-opted member, former member or former co-opted member of an authority;
 - “standards committee” means the standards committee, or sub-committee of a standards committee, which exercises functions in relation to an authority under Part 3 of the Act.
 
-### 10. Written allegations
+### 10. Written allegations[^c-3df06627187aaa3bd60b2a05b6452f92]
 
 (1) Every standards committee shall publish in such manner as it considers appropriate, details of the address or addresses to which written allegations under section 57A(1) of the Act should be sent.
 
@@ -204,7 +208,7 @@ In this Part—
 
 (4) In complying with its obligations under this regulation, every standards committee shall take account of any relevant guidance issued by the Standards Board.
 
-### 11. Modification of duty to give written summary to subject of allegation
+### 11. Modification of duty to give written summary to subject of allegation[^c-c2d07bd0debd349d63cb35a2c727d33f]
 
 (1) The duty in section 57C(2) of the Act to take reasonable steps to give a written summary to the person who is the subject of an allegation does not arise at the time the standards committee receives the allegation, if the standards committee determines that to do so would be contrary to the public interest or would prejudice any person’s ability to investigate the allegation.
 
@@ -220,7 +224,7 @@ In this Part—
 - (a) a monitoring officer from notifying the subject of an allegation that an allegation has been made; or
 - (b) the standards committee from giving the subject of an allegation some details of the allegation if the standards committee is of the opinion that disclosure of those details would not be contrary to the public interest and would not prejudice any investigation.
 
-### 12. Application of section 63 of the Local Government Act 2000 with modification
+### 12. Application of section 63 of the Local Government Act 2000 with modification[^c-ccfa8938be456b38ea153ecb81895eab]
 
 (1) Subsection (1) of section 63 of the Act (restrictions on disclosure of information) shall apply in respect of information obtained by monitoring officers in the performance of any of their functions under Part 3 of the Act and regulations made under that Part, as they apply in respect of information obtained by ethical standards officers under sections 61 and 62 of the Act, subject to the modification set out below.
 
@@ -232,7 +236,7 @@ In this Part—
 
 .
 
-### 13. Referral of matters to monitoring officer for steps other than an investigation
+### 13. Referral of matters to monitoring officer for steps other than an investigation[^c-34ce907e1859dff396a7165f3b6f8511]
 
 (1) This regulation applies—
 
@@ -283,7 +287,7 @@ with a direction to take steps other than carrying out an investigation.
 - (b) the ethical standards officer’s reasons for being dissatisfied; and
 - (c) the monitoring officer’s response to the ethical standards officer’s reasons for being dissatisfied.
 
-### 14. Referral of matters to a monitoring officer for investigation
+### 14. Referral of matters to a monitoring officer for investigation[^c-b6667d50daa51652799650330977f078]
 
 (1) This regulation applies where a matter is referred to a monitoring officer under section 57A(2)(a), 57A(3), 60(2) or (3) of the Act otherwise than in accordance with regulation 13(1).
 
@@ -330,14 +334,14 @@ with a direction to take steps other than carrying out an investigation.
   - (i) the standards committee of the authority; and
   - (ii) the standards committee of any other authority, other than a parish council, of which the person who was the subject of the investigation is a member, if that other authority so requests.
 
-### 15. Matters referred to monitoring officer after investigation
+### 15. Matters referred to monitoring officer after investigation[^c-4446571589e261dccc52ff4198c3ccf4]
 
 Where a matter is referred to a monitoring officer under section 64(2) or (4) of the Act the monitoring officer shall—
 
 - (a) send a copy of any report received from the ethical standards officer who has referred the matter, to any member who is the subject of such a report; and, after that member has received the report,
 - (b) refer the report to the standards committee of the authority for consideration under regulation 17.
 
-### 16. References back from monitoring officer
+### 16. References back from monitoring officer[^c-dec125738415e75f4042101a5161a4b9]
 
 (1) Where a matter is referred to a monitoring officer under section 57A(2)(a) of the Act for investigation, the monitoring officer may, subject to paragraph (4), refer that matter back to the standards committee concerned if—
 
@@ -365,7 +369,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 
 (4) Where a standards committee considers a matter referred back to it under this regulation, it may direct that the matter should not be referred back a further time.
 
-### 17. Consideration of reports by standards committee
+### 17. Consideration of reports by standards committee[^c-67468c424eab1cf900645429e852ffe6]
 
 (1) Where a monitoring officer refers a report to the standards committee of any authority under regulation 14 or 15, that standards committee shall convene to consider that report and make one of the following findings—
 
@@ -400,7 +404,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 
 (7) Where a tribunal appointed under paragraph (6) decides that a member has failed to comply with the code of conduct of an authority, the member may appeal to the High Court against that decision, or any other decision made by that tribunal.
 
-### 18. Hearings by standards committee
+### 18. Hearings by standards committee[^c-8fc0666699dc4d0b0fa4699f96d0677a]
 
 (1) Where a standards committee holds a hearing pursuant to a finding under regulation 17(1)(b), it shall ensure that—
 
@@ -444,7 +448,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 
 (13) Paragraph (1)(a), (c) and (e) and paragraphs (2) to (8) of this regulation shall apply to a hearing convened under paragraph (12) as they apply to a hearing convened under paragraph (1).
 
-### 19. Findings of standards committees
+### 19. Findings of standards committees[^c-d960a5f49cf7cd943854511d4f0b7147]
 
 (1) Following a hearing held under regulation 18, a standards committee shall make one of the following findings—
 
@@ -474,7 +478,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 
 (5) A standards committee may direct that the sanction imposed under any of sub-paragraphs (b) to (k) of paragraph (3) or, where a combination of such sanctions is imposed, such one or more of them as the committee specifies, shall commence on such date, within a period of six months after the imposition of that sanction, as the committee specifies.
 
-### 20. Notification of findings of standards committees
+### 20. Notification of findings of standards committees[^c-c848a7a6647e7e58871a79b003972810]
 
 (1) A standards committee shall, as soon as reasonably practicable after making a finding under regulation 19—
 
@@ -509,7 +513,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 - (d) specify the sanction imposed in accordance with regulation 19(2) or (3); and
 - (e) state that the member concerned may apply under regulation 21 for permission to appeal against the finding or sanction imposed.
 
-### 21. Notices of appeals
+### 21. Notices of appeals[^c-823709fa8b44498a559f6043d0e356b0]
 
 (1) Where a standards committee makes a finding under regulation 19(1)(b) or (c), the member who is the subject of that finding may, by way of notice in writing given to the president of the Adjudication Panel—
 
@@ -540,7 +544,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 
 (7) If permission to appeal or for suspension of a sanction is refused, whether as to the whole or in part, the notice given under paragraph (6) shall give the reasons for the decision.
 
-### 22. Conduct of appeals
+### 22. Conduct of appeals[^c-2b324b2867d367fea5b79dadb9985052]
 
 (1) Where permission to appeal has been given, the president or deputy president (as the case may be) shall refer the matter to an appeals tribunal which shall conduct the appeal in accordance with these Regulations.
 
@@ -559,7 +563,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 
 (6) The standards committee may be represented at an appeals hearing by any member of that committee, the monitoring officer of the authority concerned, by counsel, a solicitor or, subject to the consent of the appeals tribunal, any other representative.
 
-### 23. Composition and procedures of appeal tribunals
+### 23. Composition and procedures of appeal tribunals[^c-1226c34601c05f7e457e97247af35f8f]
 
 (1) An appeals tribunal shall consist of not less than three members appointed by the president of the Adjudication Panel (or, in the absence of the president, by the deputy president), from the members of the Adjudication Panel.
 
@@ -574,7 +578,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 
 (5) The procedure for conducting an appeal shall be such as the appeals tribunal considers appropriate in the circumstances.
 
-### 24. Failure of member concerned to attend appeal hearing
+### 24. Failure of member concerned to attend appeal hearing[^c-62989ab68b2f6b39b15ac14f5d7d1b32]
 
 (1) If a member concerned has been duly notified of an appeal hearing and fails to attend or be represented at that hearing, the appeals tribunal may—
 
@@ -583,7 +587,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 
 (2) Before deciding to determine an appeal in the absence of the member concerned, the appeals tribunal shall consider any representations in writing submitted by that member in response to the notice of the hearing and, for the purpose of this paragraph, any written reply to that notice shall be treated as a the member’s representations in writing.
 
-### 25. Outcome of appeals
+### 25. Outcome of appeals[^c-c03892c274226bb6a7f6eb792c63ba29]
 
 (1) An appeals tribunal must uphold or reject the finding or, where permission to appeal was granted as to only part of the finding, that part of the finding, to which the appeal relates, or may allow the appeal as regards a specified part of the finding.
 
@@ -609,7 +613,7 @@ Where a matter is referred to a monitoring officer under section 64(2) or (4) of
 
 ## PART 4 — AMENDMENTS TO REGULATIONS
 
-**26.** The instruments specified in the Schedule to these Regulations are amended as specified in the third column of that Schedule.
+**26.**[^c-d33afea127bb844f885f0a6e91e69442] The instruments specified in the Schedule to these Regulations are amended as specified in the third column of that Schedule.
 
 Signed by authority of the Secretary of State for Communities and Local Government
 
@@ -621,7 +625,7 @@ Department for Communities and Local Government
 
 14th April 2008
 
-## SCHEDULE
+## SCHEDULE[^c-698ba7598e822b91d133680680c1ca91]
 
 Regulation 26
 
@@ -688,6 +692,10 @@ Regulation 26 and the Schedule to the Regulations amend the Relevant Authorities
 
 [^f00001]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Section 54A was inserted into the 2000 Act by section 113(1) of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26); section 55 was amended by section 188(2) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28), and section 66 was amended by section 194 of the 2007 Act; section 57C was inserted into the 2000 Act by section 185 of the 2007 Act; section 73(1) and (6) were amended by section 194(8) of the 2007 Act. There are other amendments to section 73 which are not relevant to these Regulations.
 
+[^c-1e69a973aa10d5ab808f108a79a25c52]: Commencement: Reg. 1 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-ae0c09af888567e18c1b52bd9db362e1]: Commencement: Reg. 2 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
 [^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00003]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
@@ -698,8 +706,58 @@ Regulation 26 and the Schedule to the Regulations amend the Relevant Authorities
 
 [^f00006]: Footnote: See section 55(13) of the Act for the definition of “unitary county council”.
 
+[^c-bca192266ff010c422d6669f548a9965]: Commencement: Reg. 3 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-8928aceed281b941d710f2b89d3ff5c1]: Commencement: Reg. 4 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-51b9d7080afc1ab1ef6fb8b0fb75a999]: Commencement: Reg. 5 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-037e24418a1b0ec23149b25b3f7af12b]: Commencement: Reg. 6 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-d8818fdfcaca588aef11728aec6ea839]: Commencement: Reg. 7 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-55efa49267d14e048b77d9c20c8fbc06]: Commencement: Reg. 8 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
 [^f00007]: Footnote: Part 5A was inserted by the Local Government (Access to Information) Act [1985 (c. 43)](https://www.legislation.gov.uk/ukpga/1985/43).
 
+[^c-f9edef65d602fc852773624c10ac9ca1]: Commencement: Reg. 9 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-3df06627187aaa3bd60b2a05b6452f92]: Commencement: Reg. 10 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-c2d07bd0debd349d63cb35a2c727d33f]: Commencement: Reg. 11 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-ccfa8938be456b38ea153ecb81895eab]: Commencement: Reg. 12 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-34ce907e1859dff396a7165f3b6f8511]: Commencement: Reg. 13 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-b6667d50daa51652799650330977f078]: Commencement: Reg. 14 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-4446571589e261dccc52ff4198c3ccf4]: Commencement: Reg. 15 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-dec125738415e75f4042101a5161a4b9]: Commencement: Reg. 16 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-67468c424eab1cf900645429e852ffe6]: Commencement: Reg. 17 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-8fc0666699dc4d0b0fa4699f96d0677a]: Commencement: Reg. 18 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-d960a5f49cf7cd943854511d4f0b7147]: Commencement: Reg. 19 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
 [^f00008]: Footnote: See section 83(7) of the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22) for a definition of partial suspension.
+
+[^c-c848a7a6647e7e58871a79b003972810]: Commencement: Reg. 20 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-823709fa8b44498a559f6043d0e356b0]: Commencement: Reg. 21 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-2b324b2867d367fea5b79dadb9985052]: Commencement: Reg. 22 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-1226c34601c05f7e457e97247af35f8f]: Commencement: Reg. 23 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-62989ab68b2f6b39b15ac14f5d7d1b32]: Commencement: Reg. 24 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-c03892c274226bb6a7f6eb792c63ba29]: Commencement: Reg. 25 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-d33afea127bb844f885f0a6e91e69442]: Commencement: Reg. 26 in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
+
+[^c-698ba7598e822b91d133680680c1ca91]: Commencement: Sch. in force at 8.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1085/regulation/1)
 
 [^f00009]: Footnote: Regulation 7(1) was amended, and regulation 7(4) was inserted by regulation 3 of the Local Authorities (Code of Conduct) (Local Determination) Regulations 2003 ([SI 2003/1483](https://www.legislation.gov.uk/uksi/2003/1483)); and regulation 7 was further amended by regulation 2 of the Relevant Authorities (Standards Committee) (Amendment) Regulations 2006 ([SI 2006/87](https://www.legislation.gov.uk/uksi/2006/87)).

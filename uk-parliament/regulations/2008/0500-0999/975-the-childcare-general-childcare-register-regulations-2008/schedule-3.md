@@ -2,9 +2,9 @@
 title: The Childcare (General Childcare Register) Regulations 2008, SCHEDULE 3
 act: The Childcare (General Childcare Register) Regulations 2008
 section: schedule-3
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-03-31'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/975/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,17 +12,23 @@ summary: ''
 
 # The Childcare (General Childcare Register) Regulations 2008, SCHEDULE 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Requirements governing activities: section 59
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 Regulation 6
 
-### 1. Welfare of the children being cared for
+### 1. Welfare of the children being cared for[^c-781c3855321b893d1567e74167c1bdd6]
 
 Children being cared for are kept safe from harm.
 
-**2.** (1) When later years childminding is being provided—
+**2.**[^c-f8c002ff9e1d259e60666b05e2a3ec37] (1) When later years childminding is being provided—
 
 - (a) the later years childminder is present at all times on the relevant premises,
 - (b) for every six children for whom the childminding is being provided, at least one person who has attained the age of 18 cares for such children, and
@@ -41,28 +47,28 @@ Children being cared for are kept safe from harm.
 
 and for the purposes of this sub-paragraph, a person is unsuitable to care for children unless the later years provider is satisfied that an enhanced criminal record certificate has been obtained in respect of that person.
 
-**3.** When a person who has not attained the age of 18 is caring for the children for whom the later years provision is provided, that person is supervised at all times by a person who has attained the age of 18.
+**3.**[^c-feffa33d09cab442b67634b96770d2fd] When a person who has not attained the age of 18 is caring for the children for whom the later years provision is provided, that person is supervised at all times by a person who has attained the age of 18.
 
-**4.** The later years provider ensures, so far as is reasonably practicable, that no person smokes tobacco, or consumes or is under the influence of alcohol or drugs (including medication that may have an adverse effect on the person’s ability to care for children)—
+**4.**[^c-1e386f859d5c7ddda0a81c2d1adfd3e9] The later years provider ensures, so far as is reasonably practicable, that no person smokes tobacco, or consumes or is under the influence of alcohol or drugs (including medication that may have an adverse effect on the person’s ability to care for children)—
 
 - (a) on the relevant premises while the later years provision is being provided, or
 - (b) in the presence of a child for whom later years provision is being provided.
 
-**5.** (1) The later years provider does not give, and ensures that no person who cares for the children gives, corporal punishment to a child for whom the later years provision is being provided.
+**5.**[^c-44330996bb0a0fb0e24b581eac60fb80] (1) The later years provider does not give, and ensures that no person who cares for the children gives, corporal punishment to a child for whom the later years provision is being provided.
 
 (2) The later years provider ensures, so far as is reasonably practicable, that no person living or working on the relevant premises gives corporal punishment to a child for whom the later years provision is being provided.
 
 (3) In this paragraph “corporal punishment” means anything done for the purpose of punishing a child (whether or not there are other reasons for doing it) which, absent any justification, would constitute battery.
 
-### 6. Arrangements for safeguarding the children being cared for
+### 6. Arrangements for safeguarding the children being cared for[^c-07ab17c0f2a58b15fa1bb723ee6f6f29]
 
 A written statement of procedures to be followed to safeguard children being cared for from abuse or neglect, is available and observed.
 
-**7.** (1) No individual who is unsuitable to care for children has unsupervised contact with a child for whom the later years provision is being provided.
+**7.**[^c-451505a97bfc63793864a0fc6772c0cf] (1) No individual who is unsuitable to care for children has unsupervised contact with a child for whom the later years provision is being provided.
 
 (2) For the purposes of sub-paragraph (1), a person is unsuitable to care for children unless the later years provider is satisfied that an enhanced criminal record certificate has been obtained in respect of that person.
 
-### 8. Suitability of persons to care for children
+### 8. Suitability of persons to care for children[^c-512d3afa3dab53776e01d5eb20438ebc]
 
 (1) The later years provider and any person caring for the children for whom the later years provision is being provided—
 
@@ -75,7 +81,7 @@ A written statement of procedures to be followed to safeguard children being car
 
 (3) The later years provider is satisfied that an enhanced criminal record certificate has been obtained in respect of every person who cares for the children for whom the later years provision is provided.
 
-### 9. Suitability of other persons
+### 9. Suitability of other persons[^c-6af18c5e1f83957b50ab79da79017d9e]
 
 (1) Every person who—
 
@@ -86,11 +92,11 @@ is suitable to be in regular contact with children.
 
 (2) For the purposes of this paragraph, a person is unsuitable to be in regular contact with children unless the later years provider is satisfied that an enhanced criminal record certificate has been obtained in respect of that person.
 
-### 10. Qualifications and training
+### 10. Qualifications and training[^c-1ff76c35eacb6fea0112410d36e868d7]
 
 A later years childminder successfully completes, within six months of registration in Part A of the general childcare register, a course approved by an English local authority designed to enable such a childminder to meet such of the requirements in this Schedule as are applicable (unless the childminder has successfully completed such a course prior to registration).
 
-**11.** (1) Subject to sub-paragraph (3), where later years provision (other than later years childminding) is being provided—
+**11.**[^c-5d2c3aadf2bcbbac1f943d36371975ca] (1) Subject to sub-paragraph (3), where later years provision (other than later years childminding) is being provided—
 
 - (a) at least half of all persons caring for children for whom the later years provision is being provided have a qualification at a minimum of level 2 in an area of work relevant to such provision, and
 - (b) the manager has a qualification at a minimum of level 3 in an area of work relevant to such provision.
@@ -102,7 +108,7 @@ A later years childminder successfully completes, within six months of registrat
 - (a) that provider was, immediately before 1st September 2008, registered for child minding under section 79F(1) of the Children Act 1989[^f00008], and
 - (b) on 1st September 2008 becomes registered under section 56(2) of the Act as a later years provider other than a childminder[^f00009].
 
-### 12. Suitability of premises and equipment
+### 12. Suitability of premises and equipment[^c-4210aa2e1942eabfae404809b5a30ac3]
 
 The relevant premises and the equipment used for the purposes of the later years provision are suitable for such provision and, in particular—
 
@@ -110,22 +116,22 @@ The relevant premises and the equipment used for the purposes of the later years
 - (b) a child is not able to leave the relevant premises without a person who is caring for children on those premises becoming aware of the child leaving, and
 - (c) no person is able to enter the relevant premises without a person who is caring for children on those premises being aware of the entry of that person.
 
-**13.** An assessment is undertaken to identify any risks to the health or safety of children for whom the later years provision is provided, arising from the relevant premises (including the means of access to and exit from those premises), the equipment used for the purposes of the later years provision and the activities provided—
+**13.**[^c-6591b498ec3f1c66552284d3328fb76f] An assessment is undertaken to identify any risks to the health or safety of children for whom the later years provision is provided, arising from the relevant premises (including the means of access to and exit from those premises), the equipment used for the purposes of the later years provision and the activities provided—
 
 - (a) at least once in each calendar year, and
 - (b) immediately, where the need for such an assessment arises,
 
 and all necessary measures are taken to minimise any identified risks.
 
-### 14. Manner in which the later years provision is organised
+### 14. Manner in which the later years provision is organised[^c-c450de4e49a4fd285d4b7cd62e402d0c]
 
 Arrangements are in place with other later years providers, or with parents of the children for whom the later years provision is provided, for occasions on which the later years provider is not able to provide the later years provision.
 
-**15.** The behaviour of the children for whom the later years provision is provided is managed in a suitable manner.
+**15.**[^c-afb68a4eb97fdd084f83c007c6fd6797] The behaviour of the children for whom the later years provision is provided is managed in a suitable manner.
 
-**16.** If the later years provider cares for children other than those for whom the later years provision is being provided, at times when the later years provision is being provided, any such care does not have an adverse impact on the later years provision.
+**16.**[^c-d5ad33b5d4a8ed4601afbbbbb204e68c] If the later years provider cares for children other than those for whom the later years provision is being provided, at times when the later years provision is being provided, any such care does not have an adverse impact on the later years provision.
 
-**17.** (1) No child is refused later years provision or, whilst being cared for, is treated less favourably than another child by reason of—
+**17.**[^c-423eb41dd69f627df7591bef4fbdec34] (1) No child is refused later years provision or, whilst being cared for, is treated less favourably than another child by reason of—
 
 - (a) the race, home language, family background or gender of the child,
 - (b) the religion or belief of the child or the child’s parents, or
@@ -133,7 +139,7 @@ Arrangements are in place with other later years providers, or with parents of t
 
 (2) In relation to a physical feature of the relevant premises which makes it impossible or unreasonably difficult for disabled children to make use of the later years provision, the later years provider is treated as complying with this paragraph if the duty in section 21 of the Disability Discrimination Act 1995 (duty of providers of services to make adjustments) has been complied with.
 
-### 18. Procedures for dealing with complaints
+### 18. Procedures for dealing with complaints[^c-15bf5c52333ec512d3fffa87efb0a9a9]
 
 (1) The later years provider ensures that—
 
@@ -151,7 +157,7 @@ Arrangements are in place with other later years providers, or with parents of t
 - (a) is made in writing to the later years provider, and
 - (b) relates to any of the requirements in this Schedule.
 
-### 19. Keeping of records (other than records of complaints)
+### 19. Keeping of records (other than records of complaints)[^c-4a05c930ebdb8ac6c94522f05690940f]
 
 In relation to each child for whom the later years provision is provided, a record is maintained consisting of—
 
@@ -159,19 +165,19 @@ In relation to each child for whom the later years provision is provided, a reco
 - (b) the name, home address and telephone number of the child’s parents, and
 - (c) the days on which, and hours during which, the child has attended the relevant premises.
 
-**20.** A record is maintained of accidents occurring on the relevant premises.
+**20.**[^c-d24a23c5fa8b5ffe3b7b4238fcbfae9e] A record is maintained of accidents occurring on the relevant premises.
 
-**21.** A record is maintained of any medicinal product administered to a child for whom the later years provision is provided, including—
+**21.**[^c-5e520813c26ab4ea79a6e021064307e4] A record is maintained of any medicinal product administered to a child for whom the later years provision is provided, including—
 
 - (a) the date and circumstances of its administration,
 - (b) by whom it was administered, and
 - (c) a record of consent.
 
-**22.** A record is maintained of the name, home address and telephone number of every person living or working on the relevant premises.
+**22.**[^c-61d0fa5a90e0d0d8cd25953365c4ec07] A record is maintained of the name, home address and telephone number of every person living or working on the relevant premises.
 
-**23.** A record specified in paragraphs 19 to 22 is made as soon as is reasonably practicable after the event to which it relates occurs, or the information to which it relates is available, and is retained for a period of two years from the date on which the record was made.
+**23.**[^c-2f75edd7ce2c8890a2e3a17762586063] A record specified in paragraphs 19 to 22 is made as soon as is reasonably practicable after the event to which it relates occurs, or the information to which it relates is available, and is retained for a period of two years from the date on which the record was made.
 
-### 24. Provision of information
+### 24. Provision of information[^c-93b1dedac2c609e58d6eb9d503c3cfc6]
 
 The following information is made available to parents of children for whom the later years provision is provided—
 
@@ -180,7 +186,7 @@ The following information is made available to parents of children for whom the 
 - (c) information about the system of registration under Chapter 3 of Part 3 of the Act, and
 - (d) the address of the Chief Inspector.
 
-**25.** (1) If any of the events specified in sub-paragraph (2) takes place, the later years provider—
+**25.**[^c-cf1d891ed58b2a65c53770d26d8f7a3f] (1) If any of the events specified in sub-paragraph (2) takes place, the later years provider—
 
 - (a) notifies the Chief Inspector as soon as is reasonably practicable, and
 - (b) provides the Chief Inspector with information relating to the event as soon as is reasonably practicable, and in any event within 14 days of the event occurring.
@@ -195,7 +201,7 @@ The following information is made available to parents of children for whom the 
   - (ii) other than on the relevant premises, caused by any person who cares for, or is in regular contact with, the children for whom the later years provision is provided, and
 - (e) any incident of food poisoning affecting two or more children for whom the later years provision is being provided.
 
-**26.** The Chief Inspector is informed of—
+**26.**[^c-518f61ece8ae309fd5714e9b44f26235] The Chief Inspector is informed of—
 
 - (a) any significant event which is likely to affect the suitability to care for children, of the later years provider or any other person caring for the children for whom the later years provision is provided,
 - (b) any significant event which is likely to affect the suitability to be in regular contact with children, of any person who has attained the age of 16 and who—
@@ -205,15 +211,37 @@ The following information is made available to parents of children for whom the 
   - (i) Part 2 of Schedule 1 (in the case of a later years childminder), or
   - (ii) Part 2 of Schedule 2 (in the case of a later years provider other than a later years childminder).
 
-### 27. Other matters
+### 27. Other matters[^c-530e13e2177305d33f51c2c747d62300]
 
 The later years provider is covered by insurance in respect of liability which may be incurred for death, injury, public liability, damage or other loss.
 
-**28.** The certificate of registration given to the later years provider under section 56 or section 92 of the Act is displayed on the relevant premises.
+**28.**[^c-2ee7f06c14d822bec8c6cdf621f2ef8c] The certificate of registration given to the later years provider under section 56 or section 92 of the Act is displayed on the relevant premises.
 
-**29.** If the registration of the later years provider is suspended under regulations made under section 69 of the Act, any notice of suspension given to the later years provider is displayed on the relevant premises during the period of suspension.
+**29.**[^c-122dbc0bfd48f4816ab648cf214fe4b1] If the registration of the later years provider is suspended under regulations made under section 69 of the Act, any notice of suspension given to the later years provider is displayed on the relevant premises during the period of suspension.
 
 ## Annotations
+
+[^c-781c3855321b893d1567e74167c1bdd6]: Commencement: Sch. 3 para. 1 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-f8c002ff9e1d259e60666b05e2a3ec37]: Commencement: Sch. 3 para. 2 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-feffa33d09cab442b67634b96770d2fd]: Commencement: Sch. 3 para. 3 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-1e386f859d5c7ddda0a81c2d1adfd3e9]: Commencement: Sch. 3 para. 4 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-44330996bb0a0fb0e24b581eac60fb80]: Commencement: Sch. 3 para. 5 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-07ab17c0f2a58b15fa1bb723ee6f6f29]: Commencement: Sch. 3 para. 6 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-451505a97bfc63793864a0fc6772c0cf]: Commencement: Sch. 3 para. 7 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-512d3afa3dab53776e01d5eb20438ebc]: Commencement: Sch. 3 para. 8 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-6af18c5e1f83957b50ab79da79017d9e]: Commencement: Sch. 3 para. 9 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-1ff76c35eacb6fea0112410d36e868d7]: Commencement: Sch. 3 para. 10 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-5d2c3aadf2bcbbac1f943d36371975ca]: Commencement: Sch. 3 para. 11 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
 
 [^f00007]: Footnote: The Qualifications and Curriculum Authority was established by section 21 of the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44). The National Qualifications Framework is accessible on the Authority’s website at www.qca.org.uk.
 
@@ -221,6 +249,42 @@ The later years provider is covered by insurance in respect of liability which m
 
 [^f00009]: Footnote: The effect of section 96(9) of the Childcare Act 2006 is explained by footnote (a) on page 8.
 
+[^c-4210aa2e1942eabfae404809b5a30ac3]: Commencement: Sch. 3 para. 12 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-6591b498ec3f1c66552284d3328fb76f]: Commencement: Sch. 3 para. 13 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-c450de4e49a4fd285d4b7cd62e402d0c]: Commencement: Sch. 3 para. 14 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-afb68a4eb97fdd084f83c007c6fd6797]: Commencement: Sch. 3 para. 15 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-d5ad33b5d4a8ed4601afbbbbb204e68c]: Commencement: Sch. 3 para. 16 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-423eb41dd69f627df7591bef4fbdec34]: Commencement: Sch. 3 para. 17 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
 [^f00010]: Footnote: [1995 c.50](https://www.legislation.gov.uk/ukpga/1995/50).
 
 [^f00011]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 312(2) was amended by paragraph 23 of Schedule 7 to the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44).
+
+[^c-15bf5c52333ec512d3fffa87efb0a9a9]: Commencement: Sch. 3 para. 18 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-4a05c930ebdb8ac6c94522f05690940f]: Commencement: Sch. 3 para. 19 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-d24a23c5fa8b5ffe3b7b4238fcbfae9e]: Commencement: Sch. 3 para. 20 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-5e520813c26ab4ea79a6e021064307e4]: Commencement: Sch. 3 para. 21 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-61d0fa5a90e0d0d8cd25953365c4ec07]: Commencement: Sch. 3 para. 22 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-2f75edd7ce2c8890a2e3a17762586063]: Commencement: Sch. 3 para. 23 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-93b1dedac2c609e58d6eb9d503c3cfc6]: Commencement: Sch. 3 para. 24 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-cf1d891ed58b2a65c53770d26d8f7a3f]: Commencement: Sch. 3 para. 25 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-518f61ece8ae309fd5714e9b44f26235]: Commencement: Sch. 3 para. 26 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-530e13e2177305d33f51c2c747d62300]: Commencement: Sch. 3 para. 27 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-2ee7f06c14d822bec8c6cdf621f2ef8c]: Commencement: Sch. 3 para. 28 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)
+
+[^c-122dbc0bfd48f4816ab648cf214fe4b1]: Commencement: Sch. 3 para. 29 in force at 1.9.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/975/regulation/1)

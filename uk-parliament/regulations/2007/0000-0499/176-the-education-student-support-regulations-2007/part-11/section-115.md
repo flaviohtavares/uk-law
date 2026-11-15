@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 115
 act: The Education (Student Support) Regulations 2007
 section: '115'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/115
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 115
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 115. Amount of assistance
+## 115. Amount of assistance[^c-a5b7aa2ba5baa7fe080e7eea2022092f]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The basic grant varies according to the intensity of study.
 
@@ -60,6 +66,8 @@ summary: ''
 - (b) where the basic grant is greater than the actual fees, an amount equal to that left after deducting from the amount calculated under sub-paragraph (a) the difference between the basic grant and the actual fees (unless the amount is a negative number in which case the maximum amount of assistance available under regulation 114(1)(a) is payable).
 
 ## Annotations
+
+[^c-a5b7aa2ba5baa7fe080e7eea2022092f]: Commencement: Reg. 115 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00069]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); Part VII was amended by the Housing Act [1991 (c. 52)](https://www.legislation.gov.uk/ukpga/1991/52), Schedule 19; the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 9 and Schedule 14; the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), Schedule 2 and Schedule 3; the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), Schedule 19 Part 6; the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 8; the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), Schedule 6 Part 3; the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), Schedule 2 and Schedule 3, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), Schedule 6; the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, paragraphs 169 and 179 and the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 24.
 

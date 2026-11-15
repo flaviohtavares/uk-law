@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 44
 act: The Education (Student Support) Regulations 2007
 section: '44'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 44
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 44. Childcare grant
+## 44. Childcare grant[^c-e5731647f29422111fdf86243aef5a98]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student qualifies for a childcare grant in connection with his attendance on a designated course in accordance with this regulation.
 
@@ -42,6 +48,8 @@ except that the student does not qualify for any such grant in respect of each w
 (7) In this regulation “**prescribed childcare charges**” means childcare charges of a description prescribed for the purposes of section 12 of the Tax Credits Act 2002[^f00052].
 
 ## Annotations
+
+[^c-e5731647f29422111fdf86243aef5a98]: Commencement: Reg. 44 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00050]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 312 was amended by the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), Schedule 7, paragraph 23, the Schools Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), section 140, Schedule 30, paragraph 71 and Schedule 31, the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraph 56 and the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 1, paragraph 3.
 

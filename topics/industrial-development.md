@@ -44,7 +44,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **2007**
 
-- [The Assisted Areas Order 2007](../uk-parliament/regulations/2007/0000-0499/107-the-assisted-areas-order-2007.md) *(as originally made)*
+- [The Assisted Areas Order 2007](../uk-parliament/regulations/2007/0000-0499/107-the-assisted-areas-order-2007.md) *(changes pending)*
 
 **2003**
 

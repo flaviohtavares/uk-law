@@ -3,15 +3,15 @@ title: The Northern Rock plc Compensation Scheme Order 2008
 id: uksi/2008/718
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-12'
-text_date: null
-extent: null
+text_date: '2008-03-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/718
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/718/pdfs/uksiem_20080718_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/718/pdfs/uksi_20080718_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/718/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/718/data.pdf
 pending_changes: 13
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Northern Rock plc Compensation Scheme Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (13).** Text as at 2008-03-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/718
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 718
 
@@ -40,11 +44,11 @@ A draft of this Order has been laid before Parliament in accordance with section
 
 Accordingly, the Treasury make the following Order:
 
-**1.** (1) This Order may be cited as the Northern Rock plc Compensation Scheme Order 2008.
+**1.**[^c-47a6bdd8e584046fe0f882ef4a10998d] (1) This Order may be cited as the Northern Rock plc Compensation Scheme Order 2008.
 
 (2) This Order comes into force on the day after the day on which it is made.
 
-**2.** The Northern Rock plc Compensation Scheme set out in the Schedule to this Order shall have effect.
+**2.**[^c-98d2e4bc4fe9a9e3ca451be61a356d55] The Northern Rock plc Compensation Scheme set out in the Schedule to this Order shall have effect.
 
 Dave Watts
 
@@ -60,11 +64,11 @@ Article 2
 
 ### PART 1 — General provisions
 
-#### 1. Citation
+#### 1. Citation[^c-a4b3d10d4b5c8d244d2d9ddeacb61395]
 
 This Scheme may be cited as the Northern Rock plc Compensation Scheme.
 
-#### 2. Interpretation
+#### 2. Interpretation[^c-3297ffd33a10b6031e8cb67072b62cd9]
 
 In this Scheme—
 
@@ -80,7 +84,7 @@ In this Scheme—
 
 ### PART 2 — Determination of amount of compensation
 
-#### 3. Transfer of Northern Rock shares
+#### 3. Transfer of Northern Rock shares[^c-212411b903020884434d3c455693a48b]
 
 (1) The amount of any compensation payable by the Treasury to persons who held shares in Northern Rock immediately before they were transferred by the Transfer Order shall be determined in accordance with this paragraph.
 
@@ -95,7 +99,7 @@ following the reconciliation required by article 3(4) of the Transfer Order.
 
 (4) In sub-paragraph (3) “issuer register of members” and “Operator register of members” have the meanings given in the Uncertificated Securities Regulations 2001[^f00003].
 
-#### 4. Extinguishment of subscription rights
+#### 4. Extinguishment of subscription rights[^c-f191d159002884ac326c395e197b6770]
 
 (1) The amount of any compensation payable by the Treasury to persons whose subscription rights were extinguished by virtue of article 4 of the Transfer Order shall be determined in accordance with this paragraph.
 
@@ -112,7 +116,7 @@ to receive shares in Northern Rock (whether by subscription, conversion or other
 
 (4) In sub-paragraph (3) “relevant undertaking” means Northern Rock or any of its group undertakings.
 
-#### 5. Modification of rights in relevant instruments
+#### 5. Modification of rights in relevant instruments[^c-44b7f01e8be138d8ee199b7a13f219af]
 
 (1) Subject to sub-paragraph (4), the amount of any compensation payable by the Treasury to persons whose rights were extinguished by virtue of the provision made in article 12 of the Transfer Order (referred to in this paragraph as “consequential rights”) shall be determined in accordance with this paragraph.
 
@@ -127,7 +131,7 @@ which is attributable to the consequences specified in article 12(3) of the Tran
 
 (4) Compensation is payable in respect of a person’s consequential rights only if such compensation is required to be paid to comply with the Convention rights (within the meaning given by section 1 of the Human Rights Act 1998[^f00004]).
 
-#### 6. Valuation assumptions
+#### 6. Valuation assumptions[^c-f24238fc4b8d34479820c432537b5a4f]
 
 In determining the amount of any compensation payable by the Treasury to any person in accordance with paragraphs 3 to 5, it must be assumed (in addition to the assumptions required to be made by section 5(4) of the Act (compensation etc. for securities transferred etc.)) that Northern Rock —
 
@@ -136,7 +140,7 @@ In determining the amount of any compensation payable by the Treasury to any per
 
 ### PART 3 — Independent valuer
 
-#### 7. Appointment of independent valuer
+#### 7. Appointment of independent valuer[^c-8896b9a2288f507a368fe242acc25070]
 
 (1) The Treasury shall appoint an independent valuer for the purposes of this Scheme.
 
@@ -148,7 +152,7 @@ In determining the amount of any compensation payable by the Treasury to any per
 
 (5) Before making any appointment under sub-paragraph (1) the Treasury must consult the Institute of Chartered Accountants in England and Wales.
 
-#### 8. Remuneration
+#### 8. Remuneration[^c-3adafe5f558af8ad88828e561e31ad7a]
 
 The valuer shall be—
 
@@ -157,7 +161,7 @@ The valuer shall be—
 
 as the Treasury may determine.
 
-#### 9. Appointment of staff
+#### 9. Appointment of staff[^c-e26af4e59d9f3ee45fc40ebf7e132daa]
 
 (1) The valuer may appoint such staff as he or she may determine.
 
@@ -171,13 +175,13 @@ as the Treasury may determine.
 
 ### PART 4 — Assessment of compensation by valuer
 
-#### 10. Procedure
+#### 10. Procedure[^c-3f056d98e8fd034c0153f836c4e058bc]
 
 (1) The valuer may make such rules as to the procedure in relation to the assessment of any compensation (including the procedure for the reconsideration of any decisions relating to the assessment of compensation) as he or she considers appropriate.
 
 (2) Rules made under sub-paragraph (1) may make different provision for different cases or circumstances.
 
-#### 11. Assessment notice
+#### 11. Assessment notice[^c-f4c2c61eb4e7dd7ae1e20dc861ace448]
 
 (1) Where the valuer has assessed the amount of any compensation payable by the Treasury—
 
@@ -194,7 +198,7 @@ he or she shall issue an assessment notice.
 
 (3) The valuer shall send a copy of the assessment notice to the Treasury.
 
-#### 12. Reconsideration of assessment notice
+#### 12. Reconsideration of assessment notice[^c-7dd6a3682adea8d822a8802f8f07391c]
 
 (1) If —
 
@@ -216,7 +220,7 @@ are dissatisfied with the assessment notice, the Treasury or any such person may
 
 (4) The valuer shall send a copy of the revised assessment notice to the Treasury.
 
-#### 13. Right to refer to the Tribunal
+#### 13. Right to refer to the Tribunal[^c-64e2374a1a46c2bbfaf07df1c11d6105]
 
 If—
 
@@ -225,7 +229,7 @@ If—
 
 are dissatisfied with the revised assessment notice, the Treasury or any such person may refer the matter to the Tribunal.
 
-#### 14. Payment of compensation
+#### 14. Payment of compensation[^c-010ed7675595cd815d6e4fc8c4650d6a]
 
 (1) The Treasury shall pay the amount of any compensation determined by the valuer to be payable—
 
@@ -241,7 +245,7 @@ are dissatisfied with the revised assessment notice, the Treasury or any such pe
 
 ### PART 5 — References to the Tribunal
 
-#### 15. Application of FSMA 2000
+#### 15. Application of FSMA 2000[^c-bdaae1555b0b16f7a95ae142ac7ed58a]
 
 (1) The provisions of—
 
@@ -250,13 +254,13 @@ are dissatisfied with the revised assessment notice, the Treasury or any such pe
 
 shall apply in respect of any reference made under paragraph 13, subject to the modifications set out in this Part.
 
-#### 16. Modification of FSMA 2000
+#### 16. Modification of FSMA 2000[^c-5089dbe176692fe47e21755fb6bc4420]
 
 Part 9 of, and Schedule 13 to, FSMA 2000 are modified as follows.
 
-**17.** In section 133 (proceedings: general provisions) and Schedule 13, for “the Authority” in each place it occurs substitute “the independent valuer appointed under paragraph 7 of the Schedule to the Northern Rock plc Compensation Scheme Order 2008”.
+**17.**[^c-fc8d2e146b3143bca9fe286a3350df9f] In section 133 (proceedings: general provisions) and Schedule 13, for “the Authority” in each place it occurs substitute “the independent valuer appointed under paragraph 7 of the Schedule to the Northern Rock plc Compensation Scheme Order 2008”.
 
-**18.** In section 133—
+**18.**[^c-cd298fda3de4b7e4c60400f00d458e23] In section 133—
 
 - (i) in subsection (1)(a) for “the decision notice or supervisory notice in question”, substitute “ the revised assessment notice issued by the valuer under paragraph 12(2) of the Schedule to the Northern Rock plc Compensation Scheme Order 2008”;
 - (ii) for subsection (4) substitute—
@@ -266,19 +270,19 @@ Part 9 of, and Schedule 13 to, FSMA 2000 are modified as follows.
   ;
 - (iii) omit subsections (5) to (9) and (12).
 
-**19.** Omit sections 134 to 136.
+**19.**[^c-e8d6df5a3e33fdbe83a32fd29eee6f72] Omit sections 134 to 136.
 
-#### 20. Modification of Financial Services and Markets Tribunal Rules 2001
+#### 20. Modification of Financial Services and Markets Tribunal Rules 2001[^c-697c39ecc8799b425a8952adfc45ad13]
 
 The Financial Services and Markets Tribunal Rules 2001 are modified as follows.
 
-**21.** In each place where it occurs (other than in rule 2)—
+**21.**[^c-751d09802ca2e0e79017c4667678d399] In each place where it occurs (other than in rule 2)—
 
 - (a) for “Authority” substitute “respondent”;
 - (b) for “Authority notice” substitute “revised assessment notice”;
 - (c) for “statement of case” substitute “response document”.
 
-**22.** In rule 2 (interpretation)—
+**22.**[^c-f0aeb23e1fbd69beb097431c4a4bab14] In rule 2 (interpretation)—
 
 - (a) omit the definitions for “the Authority”, “Authority notice”, “further material”, “protected item”, “reply” and “statement of case”;
 - (b) in the definition of “party”, for “Authority”, in both places where it occurs, substitute “respondent”;
@@ -291,9 +295,9 @@ The Financial Services and Markets Tribunal Rules 2001 are modified as follows.
 
   .
 
-**23.** In rule 4(6) (reference notice) omit “, a direction under rule 10(1)(e) (suspension of Authority’s action) or”.
+**23.**[^c-678da71e05968bca04e61ae1bc56534d] In rule 4(6) (reference notice) omit “, a direction under rule 10(1)(e) (suspension of Authority’s action) or”.
 
-**24.** In rule 5 (Authority’s statement of case)—
+**24.**[^c-608f561d5dd93dbda5e1ff59418f95ad] In rule 5 (Authority’s statement of case)—
 
 - (a) for paragraphs (1) and (2) substitute—
 
@@ -304,11 +308,11 @@ The Financial Services and Markets Tribunal Rules 2001 are modified as follows.
   ;
 - (b) omit paragraphs (3) and (4).
 
-**25.** Omit rules 6 (applicant’s reply), 7 (secondary disclosure by the Authority), 8 (exceptions to disclosure), 11 (filling of subsequent notices in relation to the referred action), 12(2) (summoning of witnesses), 14(3)(c) (withdrawal of reference and unopposed references), 15 (references by third parties) and 23(4) (application for permission to appeal).
+**25.**[^c-1631f1be8b764df1f8af1e7f75f4643b] Omit rules 6 (applicant’s reply), 7 (secondary disclosure by the Authority), 8 (exceptions to disclosure), 11 (filling of subsequent notices in relation to the referred action), 12(2) (summoning of witnesses), 14(3)(c) (withdrawal of reference and unopposed references), 15 (references by third parties) and 23(4) (application for permission to appeal).
 
-**26.** In rule 10 (particular types of directions) omit paragraphs (1)(e), (2)(a), (6) and (8).
+**26.**[^c-07a65c811b4b9dc9e687560a0d72b751] In rule 10 (particular types of directions) omit paragraphs (1)(e), (2)(a), (6) and (8).
 
-**27.** After rule 10 (particular types of directions) insert—
+**27.**[^c-d3d13f5786c9971654a6d3cc2a72cfa8] After rule 10 (particular types of directions) insert—
 
 > **10A.** (1) The President may, of his own motion or on application by a party, direct that a reference is heard as a lead case where—
 >
@@ -345,7 +349,7 @@ The Financial Services and Markets Tribunal Rules 2001 are modified as follows.
 
 .
 
-**28.** In rule 19(3) (procedure at hearings) omit “when taking the referred action”.
+**28.**[^c-9663779a0f7ee7b0e0e76a09780841e0] In rule 19(3) (procedure at hearings) omit “when taking the referred action”.
 
 EXPLANATORY NOTE
 
@@ -379,12 +383,72 @@ A copy of article 149.1 of the articles of association of Northern Rock plc, as 
 
 [^f00001]: Footnote: [2008 c. 2](https://www.legislation.gov.uk/ukpga/2008/2).
 
+[^c-47a6bdd8e584046fe0f882ef4a10998d]: Commencement: Art. 1 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-98d2e4bc4fe9a9e3ca451be61a356d55]: Commencement: Art. 2 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-a4b3d10d4b5c8d244d2d9ddeacb61395]: Commencement: Sch. para. 1 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-3297ffd33a10b6031e8cb67072b62cd9]: Commencement: Sch. para. 2 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
 [^f00002]: Footnote: [SI 2008/432](https://www.legislation.gov.uk/uksi/2008/432).
+
+[^c-212411b903020884434d3c455693a48b]: Commencement: Sch. para. 3 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755); there are amending instruments but none is relevant.
 
+[^c-f191d159002884ac326c395e197b6770]: Commencement: Sch. para. 4 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-44b7f01e8be138d8ee199b7a13f219af]: Commencement: Sch. para. 5 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
 [^f00004]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
+
+[^c-f24238fc4b8d34479820c432537b5a4f]: Commencement: Sch. para. 6 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-8896b9a2288f507a368fe242acc25070]: Commencement: Sch. para. 7 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-3adafe5f558af8ad88828e561e31ad7a]: Commencement: Sch. para. 8 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-e26af4e59d9f3ee45fc40ebf7e132daa]: Commencement: Sch. para. 9 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-3f056d98e8fd034c0153f836c4e058bc]: Commencement: Sch. para. 10 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-f4c2c61eb4e7dd7ae1e20dc861ace448]: Commencement: Sch. para. 11 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-7dd6a3682adea8d822a8802f8f07391c]: Commencement: Sch. para. 12 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-64e2374a1a46c2bbfaf07df1c11d6105]: Commencement: Sch. para. 13 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-010ed7675595cd815d6e4fc8c4650d6a]: Commencement: Sch. para. 14 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-bdaae1555b0b16f7a95ae142ac7ed58a]: Commencement: Sch. para. 15 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
 
 [^f00005]: Footnote: Section 15 of the Act defines FSMA 2000 as meaning the Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8). Paragraphs 4 and 8 of Schedule 13 to FSMA 2000 were amended by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15(1) and Schedule 4, paragraph 286. Section 137 of FSMA is to be amended by the Constitutional Reform Act 2005, section 40 and Schedule 9, paragraph 70 from a date to be appointed. Schedule 13 to FSMA is to be amended by the Tribunal Courts and Enforcement Act 2007, section 50 and Schedule 10, paragraph 34 on a date to be appointed.
 
 [^f00006]: Footnote: [S.I. 2001/2476](https://www.legislation.gov.uk/uksi/2001/2476).
+
+[^c-5089dbe176692fe47e21755fb6bc4420]: Commencement: Sch. para. 16 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-fc8d2e146b3143bca9fe286a3350df9f]: Commencement: Sch. para. 17 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-cd298fda3de4b7e4c60400f00d458e23]: Commencement: Sch. para. 18 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-e8d6df5a3e33fdbe83a32fd29eee6f72]: Commencement: Sch. para. 19 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-697c39ecc8799b425a8952adfc45ad13]: Commencement: Sch. para. 20 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-751d09802ca2e0e79017c4667678d399]: Commencement: Sch. para. 21 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-f0aeb23e1fbd69beb097431c4a4bab14]: Commencement: Sch. para. 22 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-678da71e05968bca04e61ae1bc56534d]: Commencement: Sch. para. 23 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-608f561d5dd93dbda5e1ff59418f95ad]: Commencement: Sch. para. 24 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-1631f1be8b764df1f8af1e7f75f4643b]: Commencement: Sch. para. 25 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-07a65c811b4b9dc9e687560a0d72b751]: Commencement: Sch. para. 26 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-d3d13f5786c9971654a6d3cc2a72cfa8]: Commencement: Sch. para. 27 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)
+
+[^c-9663779a0f7ee7b0e0e76a09780841e0]: Commencement: Sch. para. 28 in force at 13.3.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/718/article/1/2)

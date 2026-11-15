@@ -3,15 +3,15 @@ title: The Claims Management Services Tribunal Rules 2007
 id: uksi/2007/90
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-01-18'
-text_date: null
-extent: null
+text_date: '2007-02-14'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/90
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/90/pdfs/uksiem_20070090_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/90/pdfs/uksi_20070090_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/90/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/90/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Claims Management Services Tribunal Rules 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-02-14. See https://www.legislation.gov.uk/changes/affected/uksi/2007/90
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 90
 
@@ -44,11 +48,11 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-c179b09dc288f29e188d71bdb7485a2b]
 
 These Rules may be cited as the Claims Management Services Tribunal Rules 2007 and shall come into force on 14th February 2007.
 
-### 2. Interpretation
+### 2. Interpretation[^c-bcfc09ce95decf8fe80a25b9675fffaf]
 
 (1) A reference in these Rules—
 
@@ -90,13 +94,13 @@ These Rules may be cited as the Claims Management Services Tribunal Rules 2007 a
 
 (3) Unless the context requires otherwise, anything permitted or required by these Rules to be done by a party may be done by any representative of that party.
 
-### 3. Scope of these Rules
+### 3. Scope of these Rules[^c-b1b21b9a6a5da8a5d7dc6a15a515564a]
 
 These Rules apply to all appeals to the Tribunal.
 
 ## PART 2 — Preliminary matters
 
-### 4. Appeal notice
+### 4. Appeal notice[^c-f3c8ede26037d3dbb019f921590f6fe5]
 
 (1) A appeal must be made by way of a written notice (“the appeal notice”) signed, dated and filed by the appellant.
 
@@ -135,7 +139,7 @@ These Rules apply to all appeals to the Tribunal.
 
 and the secretary when sending the parties this information must specify the date on which he is sending it.
 
-### 5. Regulator’s statement of case
+### 5. Regulator’s statement of case[^c-6e61c4cd30f754e7c76fef2805985924]
 
 (1) The Regulator must file a written statement (“a statement of case”) in support of the Regulator’s decision.
 
@@ -166,7 +170,7 @@ and the secretary when sending the parties this information must specify the dat
 
 (7) The Regulator may include an application for directions with the statement of case (including with a statement of case that has been amended in accordance with rule 12(f)).
 
-### 6. Appellant’s reply
+### 6. Appellant’s reply[^c-f3ba6b30b5020ee4311d2bdfd50e3ef8]
 
 (1) The appellant must file a written reply so that it is received by the Tribunal no later than 28 days beginning on the day after—
 
@@ -189,7 +193,7 @@ and the secretary when sending the parties this information must specify the dat
 - (a) file the amendments with the Tribunal; and
 - (b) at the same time, send a copy of the amended reply to the Regulator.
 
-### 7. Secondary disclosure by the Regulator
+### 7. Secondary disclosure by the Regulator[^c-08a5332019d7c90bf14f3467b19f50dd]
 
 (1) Following the filing of the appellant’s reply if there is any further material—
 
@@ -202,7 +206,7 @@ the Regulator must file a list of such further material.
 
 (3) At the same time as he files any list required by paragraph (1) the Regulator must send a copy of that list to the appellant.
 
-### 8. Exceptions to disclosure
+### 8. Exceptions to disclosure[^c-5b6584286f10c2917fc9e2835c84125a]
 
 (1) A list provided in accordance with rule 5(4)(a), 6(3) or 7(1) need not include any document in respect of which an application has been or is being made under paragraph (2).
 
@@ -229,14 +233,14 @@ the Regulator must file a list of such further material.
 - (a) to revise the list so as to include the document; and
 - (b) to file a copy of that list as revised and send a copy to the other party.
 
-### 9. Provision of copy documents
+### 9. Provision of copy documents[^c-b31fa303488cb8bceb6ed57fa0b89e56]
 
 A party who has filed a list under rule 5(4)(a), 6(3), 7(1) or 8(6)(b) must, upon the request of the other party—
 
 - (a) provide that other party with a copy of any document specified in the list; or
 - (b) make any such document available to that party for inspection or copying.
 
-### 10. Directions
+### 10. Directions[^c-e3224f313cb5249ef02c9b2013f8a941]
 
 (1) The Tribunal may at any time give directions to—
 
@@ -281,7 +285,7 @@ and, where it gives a direction of its own initiative, it may (but need not) giv
 - (a) notifying the party who applied for the direction, and
 - (b) giving that party an opportunity to make representations.
 
-### 11. Pre-hearing review
+### 11. Pre-hearing review[^c-28130c75ce6a02932c3e43805e2b4bc1]
 
 (1) The following paragraphs of this rule will apply if the chairman directs that it is appropriate to hold a pre-hearing review of the appeal.
 
@@ -292,7 +296,7 @@ and, where it gives a direction of its own initiative, it may (but need not) giv
 - (a) the chairman must give all directions appearing necessary or desirable for securing the just, expeditious and economical conduct of the appeal; and
 - (b) the chairman must endeavour to secure that the parties make all such admissions and agreements as they ought reasonably to have made in relation to the proceedings.
 
-### 12. Particular types of direction
+### 12. Particular types of direction[^c-e6f71e250df0f3954c849988a5ca5ace]
 
 Directions given by the Tribunal may in particular—
 
@@ -328,7 +332,7 @@ Directions given by the Tribunal may in particular—
 
   provide that the appeals or any particular issue or matter raised in the appeals be consolidated or heard together.
 
-### 13. Application for permission to make a late appeal
+### 13. Application for permission to make a late appeal[^c-331356a300b634cd3d026d40b0588dff]
 
 (1) Where the appellant has made an application under rule 4(7) to the Tribunal for a direction under rule 12(e) to allow an appeal to be made after the time limit for doing so has expired, the Tribunal, subject to paragraph (2), must consider whether—
 
@@ -337,7 +341,7 @@ Directions given by the Tribunal may in particular—
 
 (2) The Tribunal must not allow the appeal to proceed under this rule unless it considers that it is in the interests of justice to do so.
 
-### 14. Directions fixing the time and place of the hearing of the appeal
+### 14. Directions fixing the time and place of the hearing of the appeal[^c-dbf6cdfc2c2a10f94d94c31edef36336]
 
 (1) Unless the parties otherwise agree or the Tribunal otherwise directs, the secretary will give the parties not less than 28 days notice of the time and place of the hearing of the appeal fixed in accordance with a direction under rule 12(b).
 
@@ -346,7 +350,7 @@ Directions given by the Tribunal may in particular—
 - (a) whether the appeal should be dealt with as a matter of urgency; and
 - (b) the convenience and the ability of the appellant attending a hearing which is to be heard as a matter of urgency at shorter notice.
 
-### 15. Directions varying time limits
+### 15. Directions varying time limits[^c-ca59e6e2bbf072e91217f398cb66c1e5]
 
 (1) The Tribunal must not make a direction under rule 12(e) to vary any time limit provided by these Rules or by a previous direction of the Tribunal, unless it is satisfied that it is in the interests of justice to do so.
 
@@ -365,7 +369,7 @@ Directions given by the Tribunal may in particular—
 
 (7) If a response document or list is not filed in accordance with the time limit imposed by, or extended under, these Rules, the Tribunal may of its own initiative, direct that the document or list be filed by a specified date.
 
-### 16. Further matters regarding specific directions
+### 16. Further matters regarding specific directions[^c-1c1534a063190d5df868bf92e5d6d4b2]
 
 (1) If the Tribunal gives a direction under rule 12(f) to permit or require a party to provide further information, supplementary statements or to amend a response document or supplementary statement, the direction must require that party to—
 
@@ -385,7 +389,7 @@ Directions given by the Tribunal may in particular—
 - (a) the interests of public order, national security or the protection of the private lives of the parties; or
 - (b) any unfairness to the appellant or prejudice to the interests of justice that might result.
 
-### 17. Applications for suspension of effect of decision
+### 17. Applications for suspension of effect of decision[^c-97da33966122377e37524098381ccdd8]
 
 (1) In this rule—
 
@@ -411,7 +415,7 @@ Directions given by the Tribunal may in particular—
 
 (9) Where a direction is made other than at a hearing at which both parties are present or represented, the secretary must as soon as practicable notify both parties in writing of the terms of the direction.
 
-### 18. Cancellation of direction for suspension
+### 18. Cancellation of direction for suspension[^c-e2786f94301598ecefb8e8ed04ce2bc0]
 
 (1) The Tribunal may terminate the suspension of any decision.
 
@@ -426,11 +430,11 @@ Directions given by the Tribunal may in particular—
 
 (5) Where a decision on an application under this rule is made other than at a hearing at which both parties are present or represented, the secretary must as soon as practicable notify both parties of the decision.
 
-### 19. Filing of subsequent notices in relation to the Regulator’s decision
+### 19. Filing of subsequent notices in relation to the Regulator’s decision[^c-c34811feaa583af98efc42cf2f4d4506]
 
 Where, after the filing of an appeal notice under rule 4(1), the Regulator gives the appellant any notice under the Regulations in relation to the Regulator’s decision, the Regulator must without delay file a copy of that notice.
 
-### 20. Summoning of witnesses
+### 20. Summoning of witnesses[^c-5cebc4aeeef41e574dc291f97d54d869]
 
 (1) The Tribunal may by summons issued on its own initiative or on the application of a party, require any person to—
 
@@ -461,7 +465,7 @@ Where, after the filing of an appeal notice under rule 4(1), the Regulator gives
 
 (9) The Tribunal may, upon the application of the person to whom the summons issued under paragraph (1) is addressed, direct that the summons be set aside or varied.
 
-### 21. Preliminary hearing
+### 21. Preliminary hearing[^c-44f48175fd98d92b25760586278d948e]
 
 (1) The Tribunal may direct that any preliminary question of fact or law which appears to be in issue in relation to the appeal, be determined at a preliminary hearing.
 
@@ -474,7 +478,7 @@ Where, after the filing of an appeal notice under rule 4(1), the Regulator gives
 
 (4) Where the Tribunal determines the preliminary question without an oral hearing under paragraph (3), the Tribunal must not at the same time dispose of the appeal, unless the parties have agreed in writing that it may do so.
 
-### 22. Withdrawal of appeal and unopposed appeals
+### 22. Withdrawal of appeal and unopposed appeals[^c-a0bfbf66e62dd3dac4908e65d5c7b341]
 
 (1) The appellant may withdraw the appeal—
 
@@ -502,7 +506,7 @@ the Tribunal may (subject to its power to give a direction under rule 15(7)) det
 
 ## PART 3 — Hearings
 
-### 23. Determination without oral hearing
+### 23. Determination without oral hearing[^c-729a0a49caf8865b8b77e63625959536]
 
 (1) The Tribunal may determine an appeal, or any particular issue, without an oral hearing if—
 
@@ -524,7 +528,7 @@ the Tribunal may (subject to its power to give a direction under rule 15(7)) det
 
 (6) Before reaching a decision under paragraph (2), the Tribunal must invite the parties to make representations.
 
-### 24. Public hearings and directions for private hearings
+### 24. Public hearings and directions for private hearings[^c-092e448c8bc9415789af0dd200c74283]
 
 (1) In this rule, “**hearing**” means any hearing under these Rules except for the hearing of any application made to the Tribunal without notice to the other party.
 
@@ -558,7 +562,7 @@ if the Tribunal is satisfied that a hearing in private would not prejudice the i
 
 (11) Where a direction is given under paragraph (10), it must state what information (if any), is to be entered in the register or removed from it.
 
-### 25. Representation at hearings
+### 25. Representation at hearings[^c-24efc3f5d89fbc0ad3e17337d463ba47]
 
 (1) Subject to paragraph (2), the parties may appear at the hearing (with assistance from any person if desired), and may be represented by any person, whether or not that person is legally qualified.
 
@@ -566,7 +570,7 @@ if the Tribunal is satisfied that a hearing in private would not prejudice the i
 
 (3) In this rule, “**hearing**” means any hearing under these Rules.
 
-### 26. Procedure at hearings
+### 26. Procedure at hearings[^c-3c8cefdce62a3f79961406dbdaeedad3]
 
 (1) Subject to the 2006 Act and these Rules, the Tribunal must conduct all hearings under these Rules in such manner as it considers most suitable to the clarification of the issues before it, and generally to the just, expeditious and economical determination of the proceedings.
 
@@ -589,7 +593,7 @@ if the Tribunal is satisfied that a hearing in private would not prejudice the i
 
 and may give any directions it thinks fit.
 
-### 27. Decision of the Tribunal
+### 27. Decision of the Tribunal[^c-cc27a0102d5c118be58f27a94e253437]
 
 (1) Subject to paragraph (2) and to rule 23(3), the Tribunal must make arrangements for public access to its decision.
 
@@ -622,7 +626,7 @@ it would be undesirable to publish the whole or part of its decision.
 - (a) any relevant provision of the 2006 Act relating to appeals from the Tribunal; and
 - (b) the time within which, and the place at which, an application for permission to appeal is to be made.
 
-### 28. Review of the Tribunal’s decision
+### 28. Review of the Tribunal’s decision[^c-ff12966725d5d93cf624ae511395c3fa]
 
 (1) If, on the application of a party or of its own initiative, the Tribunal is satisfied that—
 
@@ -662,7 +666,7 @@ stating the grounds on which the application is made.
 
 ## PART 4 — Appeals from the Tribunal
 
-### 29. Permission to appeal to the Court of Appeal
+### 29. Permission to appeal to the Court of Appeal[^c-d420a253157a4b65c7a14463dfe9fc64]
 
 (1) An application to the Tribunal for permission to appeal to the Court of Appeal may be made by the applicant—
 
@@ -676,7 +680,7 @@ stating the grounds on which the application is made.
 - (b) identify the decision of the Tribunal to which the application relates; and
 - (c) state the grounds on which the applicant intends to rely.
 
-### 30. Decision as to permission to appeal to the Court of Appeal
+### 30. Decision as to permission to appeal to the Court of Appeal[^c-8cf0d918e729342082a1127096749fb3]
 
 (1) The application for permission to appeal to the Court of Appeal must be decided without an oral hearing unless—
 
@@ -689,7 +693,7 @@ stating the grounds on which the application is made.
 
 (4) When the Tribunal refuses the application, the notification to the applicant under paragraph (3) must include notification of the time within which an application may be made to the Court of Appeal for permission to appeal to that court.
 
-### 31. Appeal remitted by the Court of Appeal for rehearing
+### 31. Appeal remitted by the Court of Appeal for rehearing[^c-38b5d1ca1140243b2e974b023e5b7269]
 
 Where the Court of Appeal remits an appeal to the Tribunal for rehearing and determination (“the rehearing”)—
 
@@ -698,13 +702,13 @@ Where the Court of Appeal remits an appeal to the Tribunal for rehearing and det
 
 ## PART 5 — General
 
-### 32. The register
+### 32. The register[^c-455bf03e5e82310f946e469a057981c3]
 
 (1) The secretary must maintain a register of appeals to, and decisions of the Tribunal.
 
 (2) The register must be reasonably accessible to any person without charge.
 
-### 33. Miscellaneous powers of Tribunal
+### 33. Miscellaneous powers of Tribunal[^c-64d432d84492ac348b3e03b2ebc537d3]
 
 (1) Any functions of the secretary may be performed by—
 
@@ -723,7 +727,7 @@ Where the Court of Appeal remits an appeal to the Tribunal for rehearing and det
 
 (4) Before making any order under paragraph (3), the Tribunal must provide an opportunity for the party against whom it is proposed that the order should be made, to make representations against the making of the order.
 
-### 34. Failure to comply
+### 34. Failure to comply[^c-3cf041f36271c634e03b6a1c566a3013]
 
 (1) The Tribunal may take any one or more of the steps in paragraph (2) in respect of a party, where that party has, without reasonable excuse, failed to comply—
 
@@ -737,7 +741,7 @@ Where the Court of Appeal remits an appeal to the Tribunal for rehearing and det
 
 (3) The Tribunal must not take any of the steps under this rule in respect of a party unless it has given that party an opportunity to make representations against the taking of any such steps.
 
-### 35. Irregularities
+### 35. Irregularities[^c-a52bce69d1e330b39bfd8ed2a9f5faf5]
 
 (1) Any irregularity that arises before the Tribunal has reached its decision, resulting from failure to comply with any provision of these Rules or of any direction of the Tribunal, will not of itself render the proceedings void.
 
@@ -745,17 +749,17 @@ Where the Court of Appeal remits an appeal to the Tribunal for rehearing and det
 
 (3) Clerical mistakes in any document recording a direction or decision, or errors arising in such a document from an accidental slip or omission, may be corrected by a certificate signed by the chairman.
 
-### 36. Power of chairman to exercise powers of Tribunal
+### 36. Power of chairman to exercise powers of Tribunal[^c-6adc0d2e54b69bd4d351b48dc552b12a]
 
 Any matter (other than the determination of an appeal or the setting aside of a decision) required or authorised by these Rules to be done by the Tribunal may be done by the chairman.
 
-### 37. Proof of documents
+### 37. Proof of documents[^c-1e5fb1904821515a31c144f89b342820]
 
 (1) Any document purporting to be a document duly executed or issued by the chairman or the secretary on behalf of the Tribunal must, unless proved to the contrary, be deemed to be a document so executed or issued.
 
 (2) A document purporting to be certified by the secretary to be a true copy of any entry of a decision in the register will, unless proved to the contrary, be sufficient evidence of the entry and of the matters referred to in it.
 
-### 38. Sending notices
+### 38. Sending notices[^c-448a5b30f57363ce4ff54bde388613b7]
 
 (1) This rule applies to any notice sent under these Rules, and in this rule—
 
@@ -862,8 +866,84 @@ Rules 29 and 30 apply when a person seeks permission to bring an appeal to the C
 
 [^f00002]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 
+[^c-c179b09dc288f29e188d71bdb7485a2b]: Commencement: Rule 1 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-bcfc09ce95decf8fe80a25b9675fffaf]: Commencement: Rule 2 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
 [^f00003]: Footnote: [S.I. 2006/3322](https://www.legislation.gov.uk/uksi/2006/3322).
 
 [^f00004]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^c-b1b21b9a6a5da8a5d7dc6a15a515564a]: Commencement: Rule 3 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-f3c8ede26037d3dbb019f921590f6fe5]: Commencement: Rule 4 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-6e61c4cd30f754e7c76fef2805985924]: Commencement: Rule 5 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-f3ba6b30b5020ee4311d2bdfd50e3ef8]: Commencement: Rule 6 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-08a5332019d7c90bf14f3467b19f50dd]: Commencement: Rule 7 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-5b6584286f10c2917fc9e2835c84125a]: Commencement: Rule 8 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-b31fa303488cb8bceb6ed57fa0b89e56]: Commencement: Rule 9 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-e3224f313cb5249ef02c9b2013f8a941]: Commencement: Rule 10 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-28130c75ce6a02932c3e43805e2b4bc1]: Commencement: Rule 11 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-e6f71e250df0f3954c849988a5ca5ace]: Commencement: Rule 12 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-331356a300b634cd3d026d40b0588dff]: Commencement: Rule 13 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-dbf6cdfc2c2a10f94d94c31edef36336]: Commencement: Rule 14 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-ca59e6e2bbf072e91217f398cb66c1e5]: Commencement: Rule 15 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-1c1534a063190d5df868bf92e5d6d4b2]: Commencement: Rule 16 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-97da33966122377e37524098381ccdd8]: Commencement: Rule 17 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-e2786f94301598ecefb8e8ed04ce2bc0]: Commencement: Rule 18 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-c34811feaa583af98efc42cf2f4d4506]: Commencement: Rule 19 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-5cebc4aeeef41e574dc291f97d54d869]: Commencement: Rule 20 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-44f48175fd98d92b25760586278d948e]: Commencement: Rule 21 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-a0bfbf66e62dd3dac4908e65d5c7b341]: Commencement: Rule 22 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-729a0a49caf8865b8b77e63625959536]: Commencement: Rule 23 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-092e448c8bc9415789af0dd200c74283]: Commencement: Rule 24 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-24efc3f5d89fbc0ad3e17337d463ba47]: Commencement: Rule 25 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-3c8cefdce62a3f79961406dbdaeedad3]: Commencement: Rule 26 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-cc27a0102d5c118be58f27a94e253437]: Commencement: Rule 27 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-ff12966725d5d93cf624ae511395c3fa]: Commencement: Rule 28 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-d420a253157a4b65c7a14463dfe9fc64]: Commencement: Rule 29 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-8cf0d918e729342082a1127096749fb3]: Commencement: Rule 30 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-38b5d1ca1140243b2e974b023e5b7269]: Commencement: Rule 31 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-455bf03e5e82310f946e469a057981c3]: Commencement: Rule 32 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-64d432d84492ac348b3e03b2ebc537d3]: Commencement: Rule 33 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-3cf041f36271c634e03b6a1c566a3013]: Commencement: Rule 34 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-a52bce69d1e330b39bfd8ed2a9f5faf5]: Commencement: Rule 35 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-6adc0d2e54b69bd4d351b48dc552b12a]: Commencement: Rule 36 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-1e5fb1904821515a31c144f89b342820]: Commencement: Rule 37 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
+
+[^c-448a5b30f57363ce4ff54bde388613b7]: Commencement: Rule 38 in force at 14.2.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/90/rule/1)
 
 [^f00005]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

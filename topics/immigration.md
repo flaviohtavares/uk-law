@@ -379,7 +379,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Immigration (Biometric Registration) (Objection to Civil Penalty) Order 2008](../uk-parliament/regulations/2008/2500-2999/2830-the-immigration-biometric-registration-objection-to-civil-penalty-order-2008.md)
 - [The Immigration (Biometric Registration) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3048-the-immigration-biometric-registration-regulations-2008.md)
 - [The Immigration (Designation of Travel Bans) (Amendment) Order 2008](../uk-parliament/regulations/2008/3000-3499/3052-the-immigration-designation-of-travel-bans-amendment-order-2008.md) *(as originally made)*
-- [The Immigration (Disposal of Property) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/786-the-immigration-disposal-of-property-regulations-2008.md) *(as originally made)*
+- [The Immigration (Disposal of Property) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/786-the-immigration-disposal-of-property-regulations-2008.md) *(changes pending)*
 - [The Immigration (Employment of Adults Subject to Immigration Control) (Maximum Penalty) Order 2008](../uk-parliament/regulations/2008/0000-0499/132-the-immigration-employment-of-adults-subject-to-immigration-control-maximum-pena.md) *(as originally made)*
 - [The Immigration (Isle of Man) Order 2008](../uk-parliament/regulations/2008/0500-0999/680-the-immigration-isle-of-man-order-2008/README.md) *(changes pending)*
 - [The Immigration (Notices) (Amendment) (No.2) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1819-the-immigration-notices-amendment-no-2-regulations-2008.md) *(as originally made)*

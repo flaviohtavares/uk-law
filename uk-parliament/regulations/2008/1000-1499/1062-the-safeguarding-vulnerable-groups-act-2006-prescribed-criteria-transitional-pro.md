@@ -3,15 +3,15 @@ title: The Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Transi
 id: uksi/2008/1062
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-04-03'
-text_date: null
-extent: null
+text_date: '2008-04-07'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1062
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1062/pdfs/uksiem_20081062_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1062/pdfs/uksi_20081062_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1062/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1062/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Transitional Provisions) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-04-07. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1062
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 1062
 
@@ -44,7 +48,7 @@ In accordance with section 56(3)(q) of that Act he has consulted the Welsh Minis
 
 A draft of these Regulations was laid before Parliament in accordance with section 61(3) of the Safeguarding Vulnerable Groups Act 2006 and approved by resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-bb1304306fc30f979d94d2e1a43fc1ab]
 
 (1) These Regulations may be cited as the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Transitional Provisions) Regulations 2008 and come into force on 7th April 2008.
 
@@ -65,13 +69,13 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 (5) For the purposes of regulations 2 and 3, an offence committed over a period of time must be treated as having been committed on the last day of that period.
 
-## 2. Prescribed criteria – children’s barred list
+## 2. Prescribed criteria – children’s barred list[^c-2d6c4c155a8fab146672bef653af8f49]
 
 (1) The criteria prescribed for the purposes of paragraph 1 of Schedule 3 to the Act as it has effect for the purposes of article 2(7) of the Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008[^f00004] are that the person has been convicted of, or cautioned in relation to, an offence specified in paragraph 1 of the Schedule which that person committed within the period of 10 years ending on the day that the Secretary of State refers the person to IBB under article 2(1)(c) of that Order for inclusion in the children’s barred list.
 
 (2) Paragraph 1 does not apply in relation to the commission of an offence specified in paragraph 1 of the Schedule if the court, having considered whether to make a disqualification order in relation to that commission of that offence, decided not to.
 
-## 3. Prescribed criteria – adults’ barred list
+## 3. Prescribed criteria – adults’ barred list[^c-62aae0a9ac322eccf65012f20175ab5b]
 
 The criteria prescribed for the purposes of paragraph 7 of Schedule 3 to the Act as it has effect for the purposes of article 4(7) of the Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008 are that the person has been convicted of, or cautioned in relation to, an offence specified in paragraph 2 of the Schedule which that person committed within the period of 10 years ending on the day that the Secretary of State refers the person to IBB under article 4(1)(c) of that Order for inclusion in the adults’ barred list.
 
@@ -87,7 +91,7 @@ Department for Children, Schools and Families
 
 Regulations 2 and 3
 
-**1.** The offences specified for the purposes of regulation 2 are—
+**1.**[^c-7e5ffb96a30c93cded04ff48b002c9a7] The offences specified for the purposes of regulation 2 are—
 
 - (a) the offence of rape contrary to the common law of Scotland, where the offence was committed against a child;
 - (b) the offence of rape contrary to the common law of Northern Ireland, where the offence was committed against a child;
@@ -152,7 +156,7 @@ Regulations 2 and 3
 
     [^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016][^f00017][^f00018]
 
-**2.** The offences specified for the purposes of regulation 3 are—
+**2.**[^c-90fb238b92eea34dd022dcc18ccc4d36] The offences specified for the purposes of regulation 3 are—
 
 - (a) any offence contrary to a provision specified in the table set out in this paragraph;
 - (b) any offence contrary to—
@@ -202,9 +206,17 @@ The offence must have been committed within the period of 10 years ending on the
 
 [^f00002]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
+[^c-bb1304306fc30f979d94d2e1a43fc1ab]: Commencement: Reg. 1 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1062/regulation/1/1)
+
 [^f00003]: Footnote: [2000 c.43](https://www.legislation.gov.uk/ukpga/2000/43); section 29A was inserted by paragraph 2 of Schedule 30 to the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44). An order of the court made under section 28, 29 or 29A disqualifies the person in respect of whom it is made from working with children.
 
+[^c-2d6c4c155a8fab146672bef653af8f49]: Commencement: Reg. 2 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1062/regulation/1/1)
+
 [^f00004]: Footnote: [S.I. 2008/473](https://www.legislation.gov.uk/uksi/2008/473).
+
+[^c-62aae0a9ac322eccf65012f20175ab5b]: Commencement: Reg. 3 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1062/regulation/1/1)
+
+[^c-7e5ffb96a30c93cded04ff48b002c9a7]: Commencement: Sch. para. 1 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1062/regulation/1/1)
 
 [^f00005]: Footnote: [1955 c.18](https://www.legislation.gov.uk/ukpga/1955/18); so far as relevant, section 70 was amended by Schedule 1 to the Suicide Act [1961 (c.60)](https://www.legislation.gov.uk/ukpga/1961/60), section 1(6) of the Genocide Act [1969 (c.12)](https://www.legislation.gov.uk/ukpga/1969/12), section 5(1) of the Biological Weapons Act [1974 (c.6)](https://www.legislation.gov.uk/ukpga/1974/6), section 7(1) of the Criminal Attempts Act [1981 (c.47)](https://www.legislation.gov.uk/ukpga/1981/47), section 35(a) of the Chemical Weapons Act [1996 (c.6)](https://www.legislation.gov.uk/ukpga/1996/6), section 12(a) of the Nuclear Explosions (Prohibition and Inspections) Act [1998 (c.7)](https://www.legislation.gov.uk/ukpga/1998/7), section 74(2)(a) and (b), and (3) of, and Schedule 10 to, the International Criminal Court Act [2001 (c.17)](https://www.legislation.gov.uk/ukpga/2001/17), and paragraph 9(a) and (b) of Schedule 6, and Schedule 7, to the Sexual Offences Act [2003 (c.42)](https://www.legislation.gov.uk/ukpga/2003/42). Section 70 is to be repealed by Schedule 17 to the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52).
 
@@ -233,3 +245,5 @@ The offence must have been committed within the period of 10 years ending on the
 [^f00017]: Footnote: Section 5 was repealed by paragraph 11 of Schedule 6 to the Sexual Offences Act 2003.
 
 [^f00018]: Footnote: [1995 c.39](https://www.legislation.gov.uk/ukpga/1995/39), section 5(2) was amended by section 14 of the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48). Section 5 was amended by section 15 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act [2005 (asp 9)](https://www.legislation.gov.uk/asp/2005/9).
+
+[^c-90fb238b92eea34dd022dcc18ccc4d36]: Commencement: Sch. para. 2 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1062/regulation/1/1)

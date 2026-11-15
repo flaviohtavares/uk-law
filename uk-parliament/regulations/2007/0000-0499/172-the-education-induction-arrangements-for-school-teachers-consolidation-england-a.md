@@ -3,16 +3,16 @@ title: The Education (Induction Arrangements for School Teachers) (Consolidation
 id: uksi/2007/172
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-01-26'
-text_date: null
-extent: null
+text_date: '2007-01-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/172
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/172/pdfs/uksiem_20070172_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/172/pdfs/uksi_20070172_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/172/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2007/172/data.pdf
+pending_changes: 7
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (Induction Arrangements for School Teachers) (Consolidation) (England) (Amendment) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (7).** Text as at 2007-01-26. See https://www.legislation.gov.uk/changes/affected/uksi/2007/172
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2007 No. 172
 
@@ -42,17 +48,17 @@ Coming into force
 
 In exercise of the powers conferred on the Secretary of State by sections 19 and 42(6) of the Teaching and Higher Education Act 1998[^f00001] the Secretary of State for Education and Skills makes the following Regulations:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-bbef467ff813949783f64b91c1603e81]
 
 These Regulations may be cited as the Education (Induction Arrangements for School Teachers) (Consolidation) (England) (Amendment) Regulations 2007 and come into force on 5th March 2007.
 
-**2.** These Regulations apply in relation to England.
+**2.**[^c-ee322253528df5e08af1308ed44d025e] These Regulations apply in relation to England.
 
-## 3. Amendment to the Education (Induction Arrangements for School Teachers) (Consolidation) (England) Regulations 2001
+## 3. Amendment to the Education (Induction Arrangements for School Teachers) (Consolidation) (England) Regulations 2001[^c-a42794bf34779dc7a40ab22bf002a574]
 
 The Education (Induction Arrangements for School Teachers) (Consolidation) (England) Regulations 2001[^f00002] are amended as follows.
 
-**4.** In regulation 16A—
+**4.**[^c-84e55255073a55d543e296720fed6091] In regulation 16A—
 
 - (a) for paragraph (1) substitute—
 
@@ -78,7 +84,7 @@ The Education (Induction Arrangements for School Teachers) (Consolidation) (Engl
 
   .
 
-**5.** In regulation 18A—
+**5.**[^c-39df3ff77f137b50dfff612de2495638] In regulation 18A—
 
 - (a) in paragraph (1)(b)—
   - (i) in sub-paragraph (i) for “on 31st August 2002” substitute “on 27th April 2007”; and
@@ -86,7 +92,7 @@ The Education (Induction Arrangements for School Teachers) (Consolidation) (Engl
 - (b) in paragraph (3) for “after 31st August 2002” substitute “after 27th April 2007”; and
 - (c) in paragraph (4) for “on completion of his induction period or extended induction period” substitute “as soon as practicable after 27th April 2007 or at the end, if later, of the induction period or extended induction period”.
 
-**6.** In paragraph 2 of Schedule 2, after “regulation 16” insert “, 16A”.
+**6.**[^c-6e91c8ab1e34db5147bc9f18a8dfa450] In paragraph 2 of Schedule 2, after “regulation 16” insert “, 16A”.
 
 Jim Knight
 
@@ -114,4 +120,16 @@ A further effect is that the employer of a person who has not passed that test b
 
 [^f00001]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); for the definitions of “regulations” and “prescribed”, *see* section 43(1).
 
+[^c-bbef467ff813949783f64b91c1603e81]: Commencement: Reg. 1 in force at 5.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/172/regulation/1)
+
+[^c-ee322253528df5e08af1308ed44d025e]: Commencement: Reg. 2 in force at 5.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/172/regulation/1)
+
+[^c-a42794bf34779dc7a40ab22bf002a574]: Commencement: Reg. 3 in force at 5.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/172/regulation/1)
+
 [^f00002]: Footnote: [S.I.2001/2897](https://www.legislation.gov.uk/uksi/2001/2897) as amended by [S.I. 2001/3938](https://www.legislation.gov.uk/uksi/2001/3938); there are other amending instruments but none is relevant.
+
+[^c-84e55255073a55d543e296720fed6091]: Commencement: Reg. 4 in force at 5.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/172/regulation/1)
+
+[^c-39df3ff77f137b50dfff612de2495638]: Commencement: Reg. 5 in force at 5.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/172/regulation/1)
+
+[^c-6e91c8ab1e34db5147bc9f18a8dfa450]: Commencement: Reg. 6 in force at 5.3.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/172/regulation/1)

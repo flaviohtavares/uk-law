@@ -3,14 +3,14 @@ title: The Gas (Standards of Performance) (Amendment) Regulations 2008
 id: uksi/2008/696
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-10'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/696
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/696/pdfs/uksi_20080696_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/696/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/696/data.pdf
 pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Gas (Standards of Performance) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/696
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2008 No. 696
 
@@ -45,13 +49,13 @@ In accordance with 33BAA(1)(c) of that Act the Gas and Electricity Markets Autho
 
 In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity Markets Authority has obtained the consent of the Secretary of State for Business, Enterprise and Regulatory Reform to make these Regulations.
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-ac729ab39830735103c8ce45b5a8200c]
 
 (1) These Regulations may be cited as the Gas (Standards of Performance) (Amendment) Regulations 2008 and shall come into force on 1st April 2008.
 
 (2) In these Regulations, the “Principal Regulations” means the Gas (Standards of Performance) Regulations 2005[^f00005].
 
-## 2. Amendment of regulation 3 of the Principal Regulations
+## 2. Amendment of regulation 3 of the Principal Regulations[^c-3b402eb9114ce9e8de8ab421e80e724c]
 
 (1) Regulation 3 (Interpretation) of the Principal Regulations shall be amended as provided below.
 
@@ -76,7 +80,7 @@ In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity
 - (q) omit the definition of “water undertaker”; and
 - (r) in the meaning of “working hours” after “of” omit “the”.
 
-## 3. Amendment of regulation 7 of the Principal Regulations
+## 3. Amendment of regulation 7 of the Principal Regulations[^c-c6be12c87d00313eb04f7ca1287db0bc]
 
 (1) Regulation 7 (Supply restoration) of the Principal Regulations shall be amended as provided below.
 
@@ -108,7 +112,7 @@ In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity
 
 .
 
-## 4. Amendment of regulation 8 of the Principal Regulations
+## 4. Amendment of regulation 8 of the Principal Regulations[^c-49f7d8a0e00cd714d1c464f9e0f96fbd]
 
 (1) Regulation 8 (Reinstatement of customer’s premises) of the Principal Regulations shall be amended as provided below.
 
@@ -118,7 +122,7 @@ In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity
 
 .
 
-## 5. Amendment of regulation 9 of the Principal Regulations
+## 5. Amendment of regulation 9 of the Principal Regulations[^c-be1fb99fd5ab1f0bebce1693d06c71f5]
 
 (1) Regulation 9 (Priority domestic customers) of the Principal Regulations shall be amended as provided below.
 
@@ -134,7 +138,7 @@ In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity
 
 .
 
-## 6. Amendment of regulation 10 of the Principal Regulations
+## 6. Amendment of regulation 10 of the Principal Regulations[^c-1f1ebdc17dec13c99804398d5a780083]
 
 (1) Regulation 10 (Connections) of the Principal Regulations shall be amended as provided below.
 
@@ -172,7 +176,7 @@ In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity
 
 .
 
-## 7. Insertion of regulation 10A of the Principal Regulations
+## 7. Insertion of regulation 10A of the Principal Regulations[^c-9196ef92716b1f5e9e238c26445d9bb7]
 
 (1) Regulation 10A (Notice of planned interruption) of the Principal Regulations shall be inserted as provided below.
 
@@ -191,7 +195,7 @@ In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity
 
 .
 
-## 8. Insertion of regulation 10B of the Principal Regulations
+## 8. Insertion of regulation 10B of the Principal Regulations[^c-b8c0dd5459f3ff1d9122a012767ec31c]
 
 (1) Regulation 10B (Responding to complaints) of the Principal Regulations shall be inserted as provided below.
 
@@ -224,7 +228,7 @@ In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity
 
 .
 
-## 9. Amendment of regulation 12 of the Principal Regulations
+## 9. Amendment of regulation 12 of the Principal Regulations[^c-e0db7c4cde35c4f17235b2906a7a7cb0]
 
 (1) Regulation 12 of the Principal Regulations (Payments) shall be amended as provided below.
 
@@ -290,13 +294,13 @@ In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity
 
 .
 
-## 10. Amendment of regulation 13 of the Principal Regulations
+## 10. Amendment of regulation 13 of the Principal Regulations[^c-fde6f0373dfa2bea941ebd09002920fd]
 
 (1) Regulation 13 of the Principal Regulations (Exemptions) shall be amended as provided below.
 
 (2) In paragraph (2) after “any action,” omit “or any further action”.
 
-## 11. Amendment of regulation 16 of the Principal Regulations
+## 11. Amendment of regulation 16 of the Principal Regulations[^c-d7ae6e31c5e9a924a74eb2003cd35f21]
 
 (1) Regulation 16 (Information to be given to customers about overall performance) shall be amended as provided below.
 
@@ -308,7 +312,7 @@ In accordance with section 33AA(2) of that Act[^f00004], the Gas and Electricity
 
 .
 
-## 12. Amendment of Part 1 of Schedule 1 to the Principal Regulations
+## 12. Amendment of Part 1 of Schedule 1 to the Principal Regulations[^c-4977b2d9c1481ed407dddfb011cba989]
 
 (1) Part 1 of Schedule 1 to the Principal Regulations (Prescribed periods and prescribed sums applicable to all gas suppliers and gas transporters) shall be amended as provided below.
 
@@ -395,4 +399,28 @@ The main changes are—
 
 [^f00004]: Footnote: Section 33A(2) was amended by paragraph 13 of Schedule 6 to the Utilities Act 2000.
 
+[^c-ac729ab39830735103c8ce45b5a8200c]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
 [^f00005]: Footnote: [S.I. 2005/1135](https://www.legislation.gov.uk/uksi/2005/1135).
+
+[^c-3b402eb9114ce9e8de8ab421e80e724c]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-c6be12c87d00313eb04f7ca1287db0bc]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-49f7d8a0e00cd714d1c464f9e0f96fbd]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-be1fb99fd5ab1f0bebce1693d06c71f5]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-1f1ebdc17dec13c99804398d5a780083]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-9196ef92716b1f5e9e238c26445d9bb7]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-b8c0dd5459f3ff1d9122a012767ec31c]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-e0db7c4cde35c4f17235b2906a7a7cb0]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-fde6f0373dfa2bea941ebd09002920fd]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-d7ae6e31c5e9a924a74eb2003cd35f21]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)
+
+[^c-4977b2d9c1481ed407dddfb011cba989]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1)

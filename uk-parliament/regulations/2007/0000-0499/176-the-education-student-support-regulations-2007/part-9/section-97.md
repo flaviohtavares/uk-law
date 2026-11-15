@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 97
 act: The Education (Student Support) Regulations 2007
 section: '97'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/97
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 97
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 97. Amount of loan for living costs payable to certain type 1 and type 2 teacher training students
+## 97. Amount of loan for living costs payable to certain type 1 and type 2 teacher training students[^c-8fd471f20af1a153cf131b6d9f814813]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) This regulation applies to type 1 and type 2 teacher training students who qualify for a maintenance grant and whose contribution exceeds nil.
 
@@ -26,3 +32,7 @@ where
 
 - *A* is the amount of loan for living costs left after applying the contribution in accordance with this Part; and
 - *B* is the amount of maintenance grant payable to the student.
+
+## Annotations
+
+[^c-8fd471f20af1a153cf131b6d9f814813]: Commencement: Reg. 97 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

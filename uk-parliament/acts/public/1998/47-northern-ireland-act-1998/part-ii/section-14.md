@@ -3,7 +3,7 @@ title: Northern Ireland Act 1998, section 14
 act: Northern Ireland Act 1998
 section: '14'
 status: revised
-text_date: '2026-01-29'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1998/47/section/14
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Northern Ireland Act 1998, section 14
 
-> Text as at 2026-01-29.
+> Text as at 2026-11-12.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

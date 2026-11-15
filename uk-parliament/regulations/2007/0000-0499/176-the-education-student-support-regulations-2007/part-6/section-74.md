@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 74
 act: The Education (Student Support) Regulations 2007
 section: '74'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/74
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 74
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 74. Increases in maximum amount
+## 74. Increases in maximum amount[^c-e5def75c57da608c9fdc8ec93b41daa5]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Where an eligible student is required to attend his course for a period exceeding 30 weeks and 3 days in an academic year, the maximum amount of loan for living costs specified in Chapter 2 of this Part is increased for each week or part week of attendance in the academic year beyond 30 weeks and 3 days by the relevant amount in paragraph (3).
 
@@ -28,3 +34,7 @@ summary: ''
 - (d) for a student in category D, £79.
 
 (4) This regulation does not apply in the case of a student with reduced entitlement.
+
+## Annotations
+
+[^c-e5def75c57da608c9fdc8ec93b41daa5]: Commencement: Reg. 74 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

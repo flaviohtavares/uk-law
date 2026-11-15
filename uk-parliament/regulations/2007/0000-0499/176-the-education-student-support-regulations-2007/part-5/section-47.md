@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 47
 act: The Education (Student Support) Regulations 2007
 section: '47'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/47
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 47
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 47. Interpretation of Chapter 4
+## 47. Interpretation of Chapter 4[^c-2fe581be1b12505b07412c97a7d086e5]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) In regulations 43 to 46—
 
@@ -56,6 +62,8 @@ summary: ''
 (4) For the purposes of paragraph (2), where the dependant is a dependent child and payments are made to the eligible student towards the child’s maintenance, those payments are to be treated as the child’s income.
 
 ## Annotations
+
+[^c-2fe581be1b12505b07412c97a7d086e5]: Commencement: Reg. 47 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00053]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) to which there are amendments not relevant to these Regulations.
 

@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 65
 act: The Education (Student Support) Regulations 2007
 section: '65'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/65
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 65
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 65. Current system students with full entitlement
+## 65. Current system students with full entitlement[^c-ee6e68f89fe4070a69e30d8dd89441a2]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) This regulation applies to a current system student with full entitlement (other than a type 1 or type 2 teacher training student whose contribution exceeds nil).
 
@@ -41,3 +47,7 @@ summary: ''
 - (a) where the student qualifies under Chapter 6 of Part 5 for an amount of maintenance grant not exceeding £1,230, the amount of maintenance grant payable;
 - (b) where the student qualifies under Chapter 6 of Part 5 for an amount of maintenance grant exceeding £1,230, £1,230; and
 - (c) where no maintenance grant is payable, nil.
+
+## Annotations
+
+[^c-ee6e68f89fe4070a69e30d8dd89441a2]: Commencement: Reg. 65 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

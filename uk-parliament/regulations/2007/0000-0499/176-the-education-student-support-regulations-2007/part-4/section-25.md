@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 25
 act: The Education (Student Support) Regulations 2007
 section: '25'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 25
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 25. Old system students who are on end-on courses
+## 25. Old system students who are on end-on courses[^c-8ee9b38a6805bb846ed191ca38d4c28e]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An old system student who is on an end-on course of the kind described in paragraph (a) of the definition of “end-on course” in regulation 2 that he began before 1st September 2006 qualifies for a grant for fees in respect of that course in accordance with regulation 23.
 
@@ -51,3 +57,7 @@ where
 (9) An old system student to whom this paragraph applies qualifies for a grant for fees in respect of a standard academic year of a course to which this paragraph applies if the Secretary of State allocates a grant for fees to that year when assessing the application for support for that year.
 
 (10) The amount of the grant for fees in respect of an academic year of a course to which this paragraph applies is determined in accordance with regulation 29, 30 or 31 and may be nil.
+
+## Annotations
+
+[^c-8ee9b38a6805bb846ed191ca38d4c28e]: Commencement: Reg. 25 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

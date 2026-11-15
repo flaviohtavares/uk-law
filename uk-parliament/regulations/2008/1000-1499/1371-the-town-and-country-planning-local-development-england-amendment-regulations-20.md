@@ -3,16 +3,16 @@ title: The Town and Country Planning (Local Development) (England) (Amendment) R
 id: uksi/2008/1371
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-05-19'
-text_date: null
-extent: null
+text_date: '2008-05-19'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1371
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1371/pdfs/uksiem_20081371_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1371/pdfs/uksi_20081371_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1371/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1371/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Town and Country Planning (Local Development) (England) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-05-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1371
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1371
 
@@ -42,13 +48,13 @@ Coming into force
 
 The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 14(3), 15(2)(g), (3), (6A)(b), (6B), (7)(c), (8B)(b), (8C), 17(1)(a), 20(3), 24(3), 36 and 122(3) of the Planning and Compulsory Purchase Act 2004[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-6e7afb6afc1a4164355af3b52c847115]
 
 (1) These Regulations may be cited as the Town and Country Planning (Local Development) (England) (Amendment) Regulations 2008 and shall come into force on 27th June 2008.
 
 (2) In these Regulations “the 2004 Regulations” means the Town and Country Planning (Local Development) (England) Regulations 2004[^f00002].
 
-## 2. Amendment of the 2004 Regulations
+## 2. Amendment of the 2004 Regulations[^c-69a6f472ef4dc8c5b9aca7c034f3ecb4]
 
 (1) The 2004 Regulations are amended as follows.
 
@@ -579,7 +585,7 @@ The Secretary of State for Communities and Local Government, in exercise of the 
 
 .
 
-## 3. Transitional provision
+## 3. Transitional provision[^c-a2ff396bf3ce0e786c8b94670e093942]
 
 (1) The amendments made by regulation 2(2) shall not apply in relation to a supplementary planning document adopted before 1st September 2008.
 
@@ -653,7 +659,11 @@ An impact assessment has been prepared in relation to these Regulations and copi
 
 [^f00001]: Footnote: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5). As to powers to prescribe, see section 122(1). The Planning and Compulsory Purchase Act 2004 is amended by the Greater London Authority Act [2007 (c.24)](https://www.legislation.gov.uk/ukpga/2007/24). Of relevance to these Regulations are the amendments that section 30 of the 2007 Act makes to section 15 of the 2004 Act.
 
+[^c-6e7afb6afc1a4164355af3b52c847115]: Commencement: Reg. 1 in force at 27.6.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1371/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2004/2204](https://www.legislation.gov.uk/uksi/2004/2204).
+
+[^c-69a6f472ef4dc8c5b9aca7c034f3ecb4]: Commencement: Reg. 2 in force at 27.6.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1371/regulation/1/1)
 
 [^f00003]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
 
@@ -666,6 +676,8 @@ An impact assessment has been prepared in relation to these Regulations and copi
 [^f00007]: Footnote: *See* Part 1 of the Railways Act [2005 (c.14)](https://www.legislation.gov.uk/ukpga/2005/14) which provides, amongst other things, for the winding up of the Strategic Railway Authority and the transfer of its functions to the Secretary of State and others.
 
 [^f00008]: Footnote: *See* section 18 of the National Health Service Act [2006 (c.41)](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c-a2ff396bf3ce0e786c8b94670e093942]: Commencement: Reg. 3 in force at 27.6.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1371/regulation/1/1)
 
 [^f00009]: Footnote: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5).
 

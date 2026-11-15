@@ -3,7 +3,7 @@ title: Northern Ireland Act 1998, section 74
 act: Northern Ireland Act 1998
 section: '74'
 status: revised
-text_date: '2026-01-29'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1998/47/section/74
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Northern Ireland Act 1998, section 74
 
-> Text as at 2026-01-29.
+> Text as at 2026-11-12.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -44,10 +44,12 @@ summary: ''
 - (b) for the transfer of rights and liabilities;
 - (c) for payments into the Consolidated Fund or to a specified person.
 
-(7)[^c-cde481b3e2529be4320da5bd713d6454] For functions of the Commission in relation to Article 2(1) of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement (rights of individuals), see sections 78A to 78E.
+(7)[^c-cde481b3e2529be4320da5bd713d6454] For functions of the Commission in relation to Article 2(1) of the Windsor Framework[^c-89ac8ea49d07d9309eb1ac19ad1cb0a7] in the EU withdrawal agreement (rights of individuals), see sections 78A to 78E.
 
 ## Annotations
 
 [^c12397181]: Commencement: S. 74 wholly in force at 1.10.1999; s. 74 not in force at Royal Assent see s. 101(3); s. 74 in force at 21.6.1999 for specified purposes by [S.I. 1999/1753](https://www.legislation.gov.uk/uksi/1999/1753), [art. 2](https://www.legislation.gov.uk/uksi/1999/1753/article/2); s. 74 in force at 1.10.1999 insofar as not in force already by [S.I. 1999/2204](https://www.legislation.gov.uk/uksi/1999/2204), [art. 3](https://www.legislation.gov.uk/uksi/1999/2204/article/3)
 
-[^c-cde481b3e2529be4320da5bd713d6454]: Textual amendment: [S. 74(7)](https://www.legislation.gov.uk/ukpga/1998/47/section/74/7) inserted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/6) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-cde481b3e2529be4320da5bd713d6454]: Textual amendment: S. 74(7) inserted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/6) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+
+[^c-89ac8ea49d07d9309eb1ac19ad1cb0a7]: Textual amendment: Words in s. 74(7) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/3/2)

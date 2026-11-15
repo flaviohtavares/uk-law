@@ -3,16 +3,16 @@ title: The Mental Health (Hospital, Guardianship and Treatment) (England) Regula
 id: uksi/2008/1184
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-04-28'
-text_date: null
-extent: null
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1184
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1184/pdfs/uksiem_20081184_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1184/pdfs/uksi_20081184_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1184/made/data.pdf
-pending_changes: 105
+- http://www.legislation.gov.uk/uksi/2008/1184/data.pdf
+pending_changes: 139
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Mental Health (Hospital, Guardianship and Treatment) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (139).** Text as at 2008-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1184
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1184
 
@@ -46,13 +52,13 @@ In accordance with sections 57A(4) and 58A(8) of that Act, the Secretary of Stat
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-45461071a5e6b859921346e00f8ccc56]
 
 (1) These Regulations may be cited as the Mental Health (Hospital, Guardianship and Treatment) (England) Regulations 2008 and shall come into force on 3rd November 2008.
 
 (2) These Regulations apply to England only.
 
-### 2. Interpretation
+### 2. Interpretation[^c-033af348389fc28d6726b307ce68fbac]
 
 (1) In these Regulations—
 
@@ -72,7 +78,7 @@ In accordance with sections 57A(4) and 58A(8) of that Act, the Secretary of Stat
 - (a) a numbered section is to the section of the Act bearing that number;
 - (b) an alphanumeric form is a reference to the form in Schedule 1 bearing that designation.
 
-### 3. Documents
+### 3. Documents[^c-cc396a2e0e0ee12a7ad10339e755cc4e]
 
 (1) Except in a case to which paragraph (2), (3), (4) or (5) applies, or in a case to which regulation 6(3) (recall notices in respect of community patients) applies, any document required or authorised to be served upon any authority, body or person by or under Part 2 of the Act (compulsory admission to hospital, guardianship or community treatment orders) or these Regulations may be served by delivering it to—
 
@@ -128,7 +134,7 @@ shall be received in evidence and be deemed to be such a document without furthe
 
 ## PART 2 — Procedures and Records Relating to Hospital Admissions, Guardianship and Community Treatment Orders
 
-### 4. Procedure for and record of hospital admissions
+### 4. Procedure for and record of hospital admissions[^c-daae8c649f18055d04f61e17ed9abcd3]
 
 (1) Subject to paragraph (2), for the purposes of admission to hospital under Part 2 of the Act—
 
@@ -170,7 +176,7 @@ shall be received in evidence and be deemed to be such a document without furthe
 
 (5) Where a patient has been admitted to a hospital pursuant to an application under section 4 (admission for assessment in cases of emergency), a record of receipt of a second medical recommendation in support of the application for admission of the patient shall be made by the managers in the form set out in Part 2 of Form H3 and shall be attached to the application.
 
-### 5. Procedure for and acceptance of guardianship applications
+### 5. Procedure for and acceptance of guardianship applications[^c-788e68dc47602adf7d75719ac7b2b02a]
 
 (1) For the purposes of section 7 (application for guardianship)—
 
@@ -184,7 +190,7 @@ shall be received in evidence and be deemed to be such a document without furthe
 
 (2) Where an application for guardianship is accepted by the responsible local social services authority, it shall record its acceptance of the application in the form set out in Form G5 (which shall be attached to the application).
 
-### 6. Procedure for and records relating to community treatment orders
+### 6. Procedure for and records relating to community treatment orders[^c-b7677a20b54ab3b970683a4c56cdf1d7]
 
 (1) For the purposes of section 17A (community treatment orders)—
 
@@ -231,7 +237,7 @@ shall be received in evidence and be deemed to be such a document without furthe
 - (c) as soon as practicable, the responsible clinician shall furnish the managers of the hospital to which the patient is recalled with that Form;
 - (d) where the patient is recalled to a hospital which is not the responsible hospital, the managers of that hospital shall (as soon as reasonably practicable) furnish the managers of the hospital which was the patient’s responsible hospital prior to the revocation of the patient’s community treatment order, with a copy of Form CTO5.
 
-### 7. Transfer from hospital to hospital or guardianship
+### 7. Transfer from hospital to hospital or guardianship[^c-e3a42ae29ae1aa9ea1a4bccd6607f722]
 
 (1) This regulation shall apply in respect of any patient (“a hospital patient”) to whom section 19(1)(a) applies and who is not a patient transferred under—
 
@@ -260,7 +266,7 @@ shall be received in evidence and be deemed to be such a document without furthe
 
 (6) The functions of the managers referred to in this regulation may be performed by an officer authorised by them in that behalf.
 
-### 8. Transfer from guardianship to guardianship or hospital
+### 8. Transfer from guardianship to guardianship or hospital[^c-89066f1b33454070722134fc4b1b70a9]
 
 (1) A guardianship patient may be transferred into the guardianship of another local social services authority or person where—
 
@@ -286,7 +292,7 @@ shall be received in evidence and be deemed to be such a document without furthe
 
 (6) The functions of the managers referred to in this regulation may be performed by an officer authorised by them in that behalf.
 
-### 9. Transfer of community patients recalled to hospital
+### 9. Transfer of community patients recalled to hospital[^c-76e2b72c350251b31584c37bf597bd26]
 
 (1) The managers of a hospital in which a community patient is detained, having been recalled to hospital, may authorise the transfer of that patient to another hospital.
 
@@ -310,7 +316,7 @@ any authority for transfer required under paragraph (3)(a) may be given by an of
 
 (7) The functions of the managers referred to in this regulation may be performed by an officer authorised by them in that behalf.
 
-### 10. Transfers from England to Wales and from Wales to England
+### 10. Transfers from England to Wales and from Wales to England[^c-14cf3988d462100c395b1239bbb0a512]
 
 (1) Where a patient who is liable to be detained or is subject to guardianship under the Act is transferred from a hospital or guardianship in England to a hospital or guardianship in Wales, that transfer shall be subject to the conditions in these Regulations.
 
@@ -318,7 +324,7 @@ any authority for transfer required under paragraph (3)(a) may be given by an of
 
 (3) Where paragraph (2) applies and any Regulations made by the Welsh Ministers to similar effect for Wales provide for authority to convey a patient in Wales, those Regulations shall provide authority to convey the patient whilst in England.
 
-### 11. Conveyance to hospital on transfer from hospital or guardianship
+### 11. Conveyance to hospital on transfer from hospital or guardianship[^c-194de9869969ead4b69db284dc6b6a6a]
 
 (1) Where the conditions of regulation 7(2) or 8(2) are satisfied, the authority for transfer given in accordance with those regulations shall be sufficient authority for the following persons to take the patient and convey the patient to the hospital to which the patient is being transferred within the periods specified—
 
@@ -340,7 +346,7 @@ any authority for transfer required under paragraph (3)(a) may be given by an of
 
 (3) In a case to which regulation 7(5)(a) applies, an officer of or any other person authorised by the managers of the registered establishment may take and convey the patient to the registered establishment to which the patient is being transferred.
 
-### 12. Conveyance from hospital to hospital following recall of community patients
+### 12. Conveyance from hospital to hospital following recall of community patients[^c-37ee8d58f2c90ee31cec8f109250ecaa]
 
 Where the conditions of regulation 9(1) or (3) are satisfied, the authority for transfer given in accordance with that regulation shall be sufficient authority for the following persons to take the patient and convey him to the hospital to which he is being transferred—
 
@@ -349,7 +355,7 @@ Where the conditions of regulation 9(1) or (3) are satisfied, the authority for 
 
 within the period of 72 hours beginning with the time of the patient’s detention pursuant to the patient’s recall under section 17E (power to recall to hospital).
 
-### 13. Renewal of authority for detention or guardianship and extension of community treatment period
+### 13. Renewal of authority for detention or guardianship and extension of community treatment period[^c-8d1df7f37e40c8a5de1ca114bf8ef018]
 
 (1) Any report for the purposes of section 20(3) (medical recommendation for renewal of authority to detain) shall be in the form set out in Parts 1 and 3 of Form H5.
 
@@ -368,7 +374,7 @@ within the period of 72 hours beginning with the time of the patient’s detenti
 
 (7) The managers of the responsible hospital shall record the receipt of Form CTO7 in the form set out in Part 4 of that Form.
 
-### 14. Detention, guardianship or community treatment after absence without leave for more than 28 days
+### 14. Detention, guardianship or community treatment after absence without leave for more than 28 days[^c-0bf33cfbef23c2151d99d7ce66e530bb]
 
 (1) In relation to a patient who is liable to be detained—
 
@@ -385,7 +391,7 @@ within the period of 72 hours beginning with the time of the patient’s detenti
 - (a) any report for the purposes of section 21B(2) shall be in the form set out in Part 1 of Form CTO8, and
 - (b) the receipt of that report shall be recorded by the managers of the responsible hospital in the form set out in Part 2 of that Form.
 
-### 15. Removal to England
+### 15. Removal to England[^c-aa27e60ee4a9c6af01fc52351140b450]
 
 (1) This regulation shall apply to a patient who is removed from Scotland, Northern Ireland, any of the Channel Islands or the Isle of Man to England (“a removed patient”) under—
 
@@ -404,7 +410,7 @@ within the period of 72 hours beginning with the time of the patient’s detenti
   - (i) date mentioned in sub-paragraph (a), and
   - (ii) particulars mentioned in regulation 22(1)(b) and (e).
 
-### 16. Removal to England of patients subject to compulsion in the community
+### 16. Removal to England of patients subject to compulsion in the community[^c-f8f58433b43d1b683215a8dd5d0fe024]
 
 (1) This regulation shall apply to a patient who is removed from Scotland, any of the Channel Islands or the Isle of Man to England under—
 
@@ -419,7 +425,7 @@ within the period of 72 hours beginning with the time of the patient’s detenti
 
 (5) The approved mental health professional’s agreement to the conditions referred to in paragraph (4) shall be recorded by that approved mental health professional in Part 2 of Form CTO9.
 
-### 17. Assignment of responsibility for community patients
+### 17. Assignment of responsibility for community patients[^c-b39dadfb2df9109bcd615395de91c8bd]
 
 (1) This regulation applies to a community patient whether or not the patient has been recalled to hospital in accordance with section 17E (power to recall to hospital).
 
@@ -447,14 +453,14 @@ in the form set out in that Form.
 
 (7) The functions of the managers referred to in this regulation may be performed by an officer authorised by them in that behalf.
 
-### 18. Discharge of patients
+### 18. Discharge of patients[^c-7462ccd32d575fd389df03da10a5d8ce]
 
 For the purposes of section 23 (discharge of patients) a responsible clinician’s order for the discharge of—
 
 - (a) a patient liable to be detained under the Act, or a community patient, shall be sent to the managers of the hospital in which the patient is liable to be detained or the responsible hospital (as applicable) as soon as practicable after it is made;
 - (b) a guardianship patient, shall be sent to the guardian as soon as practicable after it is made.
 
-### 19. Delegation of hospital managers’ functions under the Act
+### 19. Delegation of hospital managers’ functions under the Act[^c-abb492f0deed07f6c238f6e887184ab8]
 
 The functions of the managers of a hospital in respect of the following—
 
@@ -464,11 +470,11 @@ The functions of the managers of a hospital in respect of the following—
 
 may be performed by any person authorised by them in that behalf.
 
-### 20. Delegation of managers’ functions under the Domestic Violence, Crime and Victims Act 2004
+### 20. Delegation of managers’ functions under the Domestic Violence, Crime and Victims Act 2004[^c-7a8bef5b6b5820602ebd108e32be31a6]
 
 The functions of the managers of a hospital under sections 35 to 44B of the Domestic Violence, Crime and Victims Act 2004 (provision of information to victims of patients under the Act etc.)[^f00008] may be performed by any person authorised by them in that behalf.
 
-### 21. Delegation by local social services authorities
+### 21. Delegation by local social services authorities[^c-7e7922b55832059bc5af4f5fc54f65ff]
 
 (1) Except as provided by paragraph (2), a local social services authority may delegate its functions under Parts 2 and 3 of the Act and these Regulations in the same way and to the same persons as its functions referred to in the Local Government Act 1972[^f00009] may be delegated in accordance with section 101 of that Act.
 
@@ -476,7 +482,7 @@ The functions of the managers of a hospital under sections 35 to 44B of the Dome
 
 ## PART 3 — Functions of Guardians and Nearest Relatives
 
-### 22. Duties of private guardians
+### 22. Duties of private guardians[^c-8aed3b8416702eed485af2b5b3031e71]
 
 (1) It shall be the duty of a private guardian—
 
@@ -496,14 +502,14 @@ The functions of the managers of a hospital under sections 35 to 44B of the Dome
 
 (2) Any notice, reports or other information under this regulation may be given or furnished in any other way (in addition to the methods of serving documents provided for by regulation 3(1)) to which the relevant local social services authority agrees, including orally or by electronic communication.
 
-### 23. Visits to patients subject to guardianship
+### 23. Visits to patients subject to guardianship[^c-f4eff8fb256bcc3769786a2bbaf1c014]
 
 The responsible local social services authority shall arrange for every patient received into guardianship under the Act to be visited at such intervals as the authority may decide, but—
 
 - (a) in any case at intervals of not more than 3 months, and
 - (b) at least one such visit in any year shall be made by an approved clinician or a practitioner approved by the Secretary of State for the purposes of section 12 (general provisions as to medical recommendations).
 
-### 24. Performance of functions of nearest relative
+### 24. Performance of functions of nearest relative[^c-e55e1d5b0cac9c48d141602c1958be30]
 
 (1) Subject to the conditions of paragraph (7), any person other than—
 
@@ -537,7 +543,7 @@ of the authorisation or, as the case may be, its revocation.
 
 (8) An authorisation or notification referred to in this regulation may be transmitted by means of electronic communication if the recipient agrees.
 
-### 25. Discharge by nearest relative
+### 25. Discharge by nearest relative[^c-c83f076d45fb3f9ba11fcfd587d1e6cc]
 
 (1) Any report given by the responsible clinician for the purposes of section 25 (restrictions on discharge by nearest relative)—
 
@@ -557,7 +563,7 @@ if the managers of the hospital agree.
 
 ## PART 4 — Provision of Information
 
-**26.** (1) Unless the patient requests otherwise, where —
+**26.**[^c-1eb3113951cf88d42b32eb49104b498d] (1) Unless the patient requests otherwise, where —
 
 - (a) a patient is to be or has been transferred from hospital to hospital pursuant to section 19 or section 123 (regulations as to transfer of patients and transfer to and from special hospitals respectively), the managers of the hospital to which the patient is to be or has been transferred shall take such steps as are reasonably practicable to cause the person (if any) appearing to them to be the patient’s nearest relative to be informed of that transfer before it takes place or as soon as practicable thereafter;
 - (b) a patient’s detention is renewed pursuant to a report furnished under section 20 (duration of authority), the managers of the responsible hospital shall take such steps as are reasonably practicable to cause the person (if any) appearing to them to be the patient’s nearest relative to be informed of that renewal as soon as practicable following their decision not to discharge the patient;
@@ -597,7 +603,7 @@ if the managers of the hospital agree.
 
 ## PART 5 — Consent to Treatment
 
-### 27. Consent to treatment
+### 27. Consent to treatment[^c-0e2c349051e7619e900971aa57543fc0]
 
 (1) For the purposes of section 57 (treatment requiring consent and a second opinion)—
 
@@ -615,7 +621,7 @@ if the managers of the hospital agree.
 
 ## PART 6 — Treatment of Community Patients not Recalled to Hospital
 
-**28.** (1) For the purposes of Part 4A of the Act (treatment of community patients not recalled to hospital), the certificates required for the purposes of sections 64B(2)(b) and 64E(2)(b) (which set out when treatment under Part 4A of the Act may be given to adult and child community patients respectively) shall be in the form set out in Form CTO11.
+**28.**[^c-de0efc21a1006c899141dd9c8578cbb6] (1) For the purposes of Part 4A of the Act (treatment of community patients not recalled to hospital), the certificates required for the purposes of sections 64B(2)(b) and 64E(2)(b) (which set out when treatment under Part 4A of the Act may be given to adult and child community patients respectively) shall be in the form set out in Form CTO11.
 
 (2) Treatment of a patient to whom section 64B(3)(b) or section 64E(3)(b) applies (adult and child patients for whom treatment is immediately necessary), may include treatment by way of administration of medicine as part of electro-convulsive therapy but only where that treatment falls within section 64C(5)(a) or (b) (treatment immediately necessary to save the patient’s life or to prevent a serious deterioration in the patient’s condition).
 
@@ -623,7 +629,7 @@ if the managers of the hospital agree.
 
 ## PART 7 — Correspondence of Patients
 
-### 29. Inspection and opening of postal packets
+### 29. Inspection and opening of postal packets[^c-fc4d400ae95db65906387292a98738fe]
 
 (1) Where under section 134(4) (inspection and opening of postal packets addressed to or by patients in hospital) any postal packet is inspected and opened, but neither the packet nor anything contained in it is withheld under section 134(1) or (2) the person appointed who inspected and opened it, shall record in writing—
 
@@ -659,7 +665,7 @@ and shall, before resealing the packet, place the record in that packet.
 
 (4) For the purposes of this regulation “the person appointed” means a person appointed under section 134(7) to perform the functions of the managers of the hospital under that section.
 
-### 30. Review of decisions to withhold postal packets
+### 30. Review of decisions to withhold postal packets[^c-a18c26e0ba69e6df152274b9019c31e6]
 
 (1) Every application for review by the Commission under section 121(7) (review of any decision to withhold a postal packet, or anything contained in it, under section 134) shall be—
 
@@ -670,7 +676,7 @@ and shall, before resealing the packet, place the record in that packet.
 
 (3) For the purpose of determining any such application the Commission may direct the production of such documents, information and evidence as it may reasonably require.
 
-### 31. Patient advocacy and liaison services and independent mental capacity advocate services
+### 31. Patient advocacy and liaison services and independent mental capacity advocate services[^c-f9c4b7d284d7b57694dec9dc1a4d628a]
 
 (1) In section 134 (correspondence of patients), for the purposes of subsection (3)(ea) “patient advocacy and liaison service” means a service affording assistance in the form of advice and liaison for patients, their families and carers provided by—
 
@@ -682,7 +688,7 @@ and shall, before resealing the packet, place the record in that packet.
 
 ## PART 8 — Revocations
 
-### 32. Revocations
+### 32. Revocations[^c-1361aee3d271790d37be71337eb9ea6d]
 
 The Regulations specified in column 1 of Schedule 2 are hereby revoked to the extent mentioned in column 3 of that Schedule.
 
@@ -696,7 +702,7 @@ Department of Health
 
 28th April 2008
 
-## SCHEDULE 1 — FORMS FOR USE IN CONNECTION WITH COMPULSORY ADMISSION TO HOSPITAL, GUARDIANSHIP AND TREATMENT
+## SCHEDULE 1 — FORMS FOR USE IN CONNECTION WITH COMPULSORY ADMISSION TO HOSPITAL, GUARDIANSHIP AND TREATMENT[^c-615700990c11b462e63b0b4cd583e133]
 
 Regulations 4-9,13-17, 25, 27 and 28
 
@@ -1068,7 +1074,7 @@ Regulations 4-9,13-17, 25, 27 and 28
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/1184/images/uksi_20081184_en_056)
 
-## SCHEDULE 2 — REVOCATIONS
+## SCHEDULE 2 — REVOCATIONS[^c-ad9f5516222240fe4973d6236714ecfc]
 
 Regulation 32
 
@@ -1138,11 +1144,43 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00001]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). The Mental Health Act 1983 was amended by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12).
 
+[^c-45461071a5e6b859921346e00f8ccc56]: Commencement: Reg. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-033af348389fc28d6726b307ce68fbac]: Commencement: Reg. 2 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
 [^f00002]: Footnote: The Mental Health Act Commission was established as a Special Health Authority under section 11 of the National Health Service Act [1977 (c.49)](https://www.legislation.gov.uk/ukpga/1977/49), as consolidated by section 28 of the National Health Service Act [2006 (c.41)](https://www.legislation.gov.uk/ukpga/2006/41). Section 121 of the Mental Health Act 1983 provides for the continuance of the Mental Health Act Commission as a Special Health Authority.
 
 [^f00003]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
 
+[^c-cc396a2e0e0ee12a7ad10339e755cc4e]: Commencement: Reg. 3 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-daae8c649f18055d04f61e17ed9abcd3]: Commencement: Reg. 4 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-788e68dc47602adf7d75719ac7b2b02a]: Commencement: Reg. 5 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-b7677a20b54ab3b970683a4c56cdf1d7]: Commencement: Reg. 6 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-e3a42ae29ae1aa9ea1a4bccd6607f722]: Commencement: Reg. 7 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-89066f1b33454070722134fc4b1b70a9]: Commencement: Reg. 8 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-76e2b72c350251b31584c37bf597bd26]: Commencement: Reg. 9 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-14cf3988d462100c395b1239bbb0a512]: Commencement: Reg. 10 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-194de9869969ead4b69db284dc6b6a6a]: Commencement: Reg. 11 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-37ee8d58f2c90ee31cec8f109250ecaa]: Commencement: Reg. 12 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-8d1df7f37e40c8a5de1ca114bf8ef018]: Commencement: Reg. 13 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-0bf33cfbef23c2151d99d7ce66e530bb]: Commencement: Reg. 14 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-aa27e60ee4a9c6af01fc52351140b450]: Commencement: Reg. 15 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
 [^f00004]: Footnote: [2003 (asp.13)](https://www.legislation.gov.uk/asp/2003/13).
+
+[^c-f8f58433b43d1b683215a8dd5d0fe024]: Commencement: Reg. 16 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
 
 [^f00005]: Footnote: [2003 (asp.13)](https://www.legislation.gov.uk/asp/2003/13).
 
@@ -1150,9 +1188,39 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00007]: Footnote: Section 80C was inserted by paragraph 4(1) of Schedule 5 to the Mental Health Act 2007.
 
+[^c-b39dadfb2df9109bcd615395de91c8bd]: Commencement: Reg. 17 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-7462ccd32d575fd389df03da10a5d8ce]: Commencement: Reg. 18 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-abb492f0deed07f6c238f6e887184ab8]: Commencement: Reg. 19 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-7a8bef5b6b5820602ebd108e32be31a6]: Commencement: Reg. 20 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
 [^f00008]: Footnote: As amended section 48 and Schedule 6 of the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12) . By virtue of section 45(4) of the Domestic Violence, crime and Victims Act 2004 a function conferred on the managers of a hospital under sections 35 to 44B of that Act is to be treated as a function of those managers under Part 3 of the Mental Health Act 1983 for the purposes of section 32(3) of the 1983 Act (regulations as to delegation of managers’ functions, etc).
 
+[^c-7e7922b55832059bc5af4f5fc54f65ff]: Commencement: Reg. 21 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
 [^f00009]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c-8aed3b8416702eed485af2b5b3031e71]: Commencement: Reg. 22 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-f4eff8fb256bcc3769786a2bbaf1c014]: Commencement: Reg. 23 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-e55e1d5b0cac9c48d141602c1958be30]: Commencement: Reg. 24 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-c83f076d45fb3f9ba11fcfd587d1e6cc]: Commencement: Reg. 25 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-1eb3113951cf88d42b32eb49104b498d]: Commencement: Reg. 26 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-0e2c349051e7619e900971aa57543fc0]: Commencement: Reg. 27 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-de0efc21a1006c899141dd9c8578cbb6]: Commencement: Reg. 28 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-fc4d400ae95db65906387292a98738fe]: Commencement: Reg. 29 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-a18c26e0ba69e6df152274b9019c31e6]: Commencement: Reg. 30 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-f9c4b7d284d7b57694dec9dc1a4d628a]: Commencement: Reg. 31 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
 
 [^f00010]: Footnote: As provided for by Part 2, Chapter 3 of the National Health Service Act [2006 (c.41)](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -1161,3 +1229,9 @@ A full impact assessment has not been produced for this instrument as no signifi
 [^f00012]: Footnote: As provided for by Part 2, Chapter 2 of the National Health Service Act 2006.
 
 [^f00013]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^c-1361aee3d271790d37be71337eb9ea6d]: Commencement: Reg. 32 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-615700990c11b462e63b0b4cd583e133]: Commencement: Sch. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)
+
+[^c-ad9f5516222240fe4973d6236714ecfc]: Commencement: Sch. 2 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1184/regulation/1/1)

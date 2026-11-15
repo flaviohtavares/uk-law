@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 98
 act: The Education (Student Support) Regulations 2007
 section: '98'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/98
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 98
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 98. Payment of grants for fees
+## 98. Payment of grants for fees[^c-75cd22b19968e2e02c59860fb41cef04]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The Secretary of State must not pay the grant for fees for which a student qualifies until he has received a request for payment from the academic authority.
 
@@ -29,3 +35,7 @@ summary: ''
 
 - (a) before the expiry of a period of three months beginning with the first day of the academic year the eligible student ceases to attend or, in the case of a student who is treated as in attendance under regulation 17, undertake the course; and
 - (b) the academic authority has determined or agreed that the student will not commence attending or, as the case may be, undertaking in the United Kingdom the course again during the academic year in respect of which the fees are payable or at all.
+
+## Annotations
+
+[^c-75cd22b19968e2e02c59860fb41cef04]: Commencement: Reg. 98 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

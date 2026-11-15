@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 35
 act: The Education (Student Support) Regulations 2007
 section: '35'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 35
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 35. Miscellaneous
+## 35. Miscellaneous[^c-0776f0cdb59ea8e7d6cf73551c3a11df]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible student is not prevented from qualifying for fee support under this Part by virtue of having an honours degree from an institution in the United Kingdom if—
 
@@ -29,6 +35,8 @@ summary: ''
 (4) Where an institution allows an eligible student to study the content of one standard academic year of the designated course over two or more academic years, for the purpose of determining whether the student qualifies for fee support for those years, the last of such years of study is to be treated as a standard academic year and the preceding years of that kind are to be treated as years of repeat study other than for compelling personal reasons.
 
 ## Annotations
+
+[^c-0776f0cdb59ea8e7d6cf73551c3a11df]: Commencement: Reg. 35 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00043]: Footnote: [S.I. 1999/2263](https://www.legislation.gov.uk/uksi/1999/2263), amended by [S.I. 2001/2893](https://www.legislation.gov.uk/uksi/2001/2893).
 

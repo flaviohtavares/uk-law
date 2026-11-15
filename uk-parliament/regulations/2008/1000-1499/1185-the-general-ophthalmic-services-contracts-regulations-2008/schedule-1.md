@@ -2,9 +2,9 @@
 title: The General Ophthalmic Services Contracts Regulations 2008, SCHEDULE 1
 act: The General Ophthalmic Services Contracts Regulations 2008
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1185/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,21 @@ summary: ''
 
 # The General Ophthalmic Services Contracts Regulations 2008, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — OTHER CONTRACTUAL TERMS
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 Regulation 18
 
 ### PART 1 — Patients
 
-#### 1. Persons to whom mandatory services are to be provided
+#### 1. Persons to whom mandatory services are to be provided[^c-2a3530555ae5e576d4e61c09cac41a12]
 
 (1) Subject to sub-paragraphs (3) to (5), the contractor shall provide mandatory services under the contract to any eligible person if a request is made for such services by—
 
@@ -59,14 +65,14 @@ it shall keep a record of that refusal, specifying in that record its grounds fo
 
 ### PART 2 — Provision of Services
 
-#### 2. Mixing of services provided under the contract with private services
+#### 2. Mixing of services provided under the contract with private services[^c-59828e78589f9ba64b49439d17e607d4]
 
 A contractor shall not, with a view to obtaining the agreement of a patient to undergo services privately—
 
 - (a) advise an eligible person that mandatory services are not available from the contractor under the contract; or
 - (b) seek to mislead the patient about the availability, quality and extent of the services under the contract.
 
-#### 3. Premises, equipment and facilities
+#### 3. Premises, equipment and facilities[^c-e25b1cdd0a1d6597355f892119046f44]
 
 (1) The contractor shall ensure that the practice premises and equipment used for the provision of mandatory services under the contract are—
 
@@ -77,7 +83,7 @@ A contractor shall not, with a view to obtaining the agreement of a patient to u
 
 (3) The contractor shall provide, in relation to all of the services to be provided under the contract, such other facilities as are necessary to enable it to properly perform that service.
 
-#### 4. Telephone services
+#### 4. Telephone services[^c-43e752cbb7858b3f211b821c7d80c0d6]
 
 (1) The contractor shall not be a party to any contract or other arrangement under which the number for telephone services—
 
@@ -88,7 +94,7 @@ starts with the digits 087, 090 or 091 or consists of a personal number, unless 
 
 (2) In this paragraph, “personal number” means a telephone number which starts with the number 070 followed by a further 8 digits.
 
-#### 5. Safety of the Public
+#### 5. Safety of the Public[^c-8183c4ef33983542b1b40520dd8f6f2c]
 
 (1) —The contractor shall ensure that it has—
 
@@ -110,14 +116,14 @@ starts with the digits 087, 090 or 091 or consists of a personal number, unless 
 
 ### PART 3 — Persons Who Perform Services
 
-#### 6. Ophthalmic practitioners
+#### 6. Ophthalmic practitioners[^c-85f40973754f28212b6206191ac7c187]
 
 An optometrist or a registered medical practitioner may perform ophthalmic services under the contract provided—
 
 - (a) he is included in an ophthalmic performers list; and
 - (b) his inclusion in that list is not subject to a suspension.
 
-#### 7. Performers: registration and further requirements
+#### 7. Performers: registration and further requirements[^c-fd7b006519d6a879dd50b74e7d7c69ec]
 
 (1) No person shall perform sight tests under the contract unless he is registered and his registration is not subject to a suspension.
 
@@ -128,7 +134,7 @@ An optometrist or a registered medical practitioner may perform ophthalmic servi
 
 is subject to conditions, the contractor shall ensure compliance with those conditions, in so far as they are relevant to the contract or the delivery of services under it.
 
-#### 8. Conditions for employment: ophthalmic practitioners performing ophthalmic services
+#### 8. Conditions for employment: ophthalmic practitioners performing ophthalmic services[^c-5466894b3f7f04f3c8c9f5742a9edac1]
 
 (1) A contractor shall not employ an ophthalmic practitioner to perform ophthalmic services under the contract unless—
 
@@ -140,7 +146,7 @@ is subject to conditions, the contractor shall ensure compliance with those cond
 
 (3) Where the contractor employs the same person on more than one occasion within a period of 6 months, it may rely on the references provided on the first occasion, provided that those references are not more than 12 months old.
 
-#### 9. Conditions for employment: persons assisting in the provision of services under the contract
+#### 9. Conditions for employment: persons assisting in the provision of services under the contract[^c-14fa4e9c1245b1d466706717ea7ff87d]
 
 (1) Before employing any person to assist it in the provision of services under the contract, the contractor shall take reasonable care to satisfy itself that the person in question is both suitably qualified and competent to discharge the duties for which he is to be employed.
 
@@ -150,13 +156,13 @@ is subject to conditions, the contractor shall ensure compliance with those cond
 - (b) education and training; and
 - (c) previous employment or work experience.
 
-#### 10. Level of skill
+#### 10. Level of skill[^c-332b6125658381fdedf40e475fbb75ac]
 
 The contractor shall carry out its obligations under the contract with reasonable care and skill.
 
 ### PART 4 — Records, Information, Notifications, Name and Rights of Entry
 
-#### 11. Patient records
+#### 11. Patient records[^c-42f5d7b1a69a3b3067f35b0fa2fb1c4b]
 
 (1) The contractor shall ensure that a full, accurate and contemporaneous record is kept in the patient record in respect of each patient to whom it provides services under the contract, giving appropriate details of sight testing.
 
@@ -164,11 +170,11 @@ The contractor shall carry out its obligations under the contract with reasonabl
 
 (3) The patient record may be kept in electronic form.
 
-#### 12. Confidentiality of personal data
+#### 12. Confidentiality of personal data[^c-d44ad4668b0b8f9ddd411f730c87b4ef]
 
 The contractor shall nominate a person with responsibility for practices and procedures relating to the confidentiality of personal data held by it.
 
-#### 13. Patient information
+#### 13. Patient information[^c-86dd8a50cb51c5c9e4a609b11fc32208]
 
 The contractor shall ensure that there is displayed in a prominent position in its practice premises, in a part to which patients have access—
 
@@ -177,7 +183,7 @@ The contractor shall ensure that there is displayed in a prominent position in i
 - (c) a notice supplied or approved by the PCT, indicating to which descriptions of its patients a payment may be made under the Charges Regulations; and
 - (d) information about the complaints procedure which it operates in accordance with Part 5 of this Schedule, giving the name and title of the person nominated by the contractor in accordance with paragraph 25(2)(a).
 
-#### 14. Provision of and access to information: PCT
+#### 14. Provision of and access to information: PCT[^c-d5632c94294f86b285d762b18431a27e]
 
 (1) The contractor shall, at the request of the PCT—
 
@@ -193,13 +199,13 @@ the information specified in paragraph (2).
 
 and includes the contractor’s patient records.
 
-#### 15. Use of disqualified name
+#### 15. Use of disqualified name[^c-5e8aceb17f4550915f1a11872dbbd621]
 
 (1) Subject to sub-paragraph (2), a contractor shall not use in any manner whatsoever the name or part of the name or trading name, either alone or in combination with any other words or letters of, or used by, any person subject to a national disqualification or a contract disqualification order.
 
 (2) Nothing in sub-paragraph (1) shall prevent a contractor other than a body corporate from using its own name or, being a body corporate, from using the name by which it is registered pursuant to the provisions of the Opticians Act.
 
-#### 16. Notification to the PCT
+#### 16. Notification to the PCT[^c-b0ebfa72a3cf05f7c589c0a5576a9b74]
 
 (1) In addition to any requirements of notification elsewhere in the Regulations, the contractor shall notify the PCT, as soon as reasonably practicable, of—
 
@@ -215,7 +221,7 @@ and includes the contractor’s patient records.
 
 and the notification shall include the name of the ophthalmic practitioner who has left, or who has been or is to be employed, together with his professional registration number and the name and address of the Primary Care Trust in whose ophthalmic performers list he is included.
 
-#### 17. Notice provisions specific to a contract with a corporate body
+#### 17. Notice provisions specific to a contract with a corporate body[^c-1fe81775e377f3fc819b402aacaceae9]
 
 (1) A contractor which is a corporate body shall notify the PCT forthwith when—
 
@@ -235,7 +241,7 @@ and the notification shall include the name of the ophthalmic practitioner who h
 - (a) the contractor shall within 28 days remove that new secretary, director or chief executive, as the case maybe, and so notify the PCT; and
 - (b) if the contractor does not do so, the PCT shall terminate the contract in accordance with the provisions of paragraph 45.
 
-#### 18. Notice provisions specific to a contract with two or more individuals practising in partnership
+#### 18. Notice provisions specific to a contract with two or more individuals practising in partnership[^c-91a07f42253b2c1d1aeeb22b6c20ff30]
 
 (1) A contractor which is a partnership shall notify the PCT forthwith when—
 
@@ -255,7 +261,7 @@ and the notification shall include the name of the ophthalmic practitioner who h
 - (a) the contractor shall within 28 days remove the new partner; and
 - (b) if the contractor does not do so, the PCT shall terminate the contract in accordance with the provisions of paragraph 45.
 
-#### 19. Entry and inspection by the PCT
+#### 19. Entry and inspection by the PCT[^c-ae2403f7045599cc0a62abf35ee82e3a]
 
 (1) Subject to the conditions in sub-paragraph (2), the contractor shall allow persons authorised in writing by the PCT to enter and inspect the practice premises at any reasonable time.
 
@@ -265,17 +271,17 @@ and the notification shall include the name of the ophthalmic practitioner who h
 - (b) written evidence of the authority of the person seeking entry is produced to the contractor on request; and
 - (c) entry is not made to any premises or part of the premises used as residential accommodation without the consent of the resident.
 
-#### 20. Entering and viewing under the Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008
+#### 20. Entering and viewing under the Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008[^c-ef05b4f06533ea635d37991e9f276eae]
 
 The contractor must comply with regulation 3 of the Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008[^f00028] in so far as it applies to the contractor.
 
-#### 21. Other rights of entry and inspection
+#### 21. Other rights of entry and inspection[^c-eaac6d67f5fe0470d34f274e9730d404]
 
 The contractor shall allow any other person who has a legal right to enter and inspect the practice premises to do so.
 
 ### PART 5 — Complaints
 
-#### 22. Complaints procedure
+#### 22. Complaints procedure[^c-c10e04e25edb392f022faf928e9551ac]
 
 (1) The contractor shall establish and operate a complaints procedure to deal with any complaints in relation to any matter reasonably connected with the provision of services under the contract and that procedure shall comply with the requirements of paragraphs 23, 25 and 27.
 
@@ -287,7 +293,7 @@ The contractor shall allow any other person who has a legal right to enter and i
 
 (3) The contractor shall take reasonable steps to ensure that the complaints procedure is accessible to all patients.
 
-#### 23. Making of complaints
+#### 23. Making of complaints[^c-f284c2f230aa6a563ed8c6a3184c361d]
 
 (1) A complaint may be made by or, with his consent, on behalf of a patient or former patient, who is receiving or has received services under the contract, or—
 
@@ -299,7 +305,7 @@ The contractor shall allow any other person who has a legal right to enter and i
 
 (2) Where a patient has died, a complaint may be made by a relative or other adult person who had an interest in his welfare or, where the patient falls within sub-paragraph (1)(a)(ii) or (iii), by the local authority or voluntary organisation.
 
-#### 24. Period for making complaints
+#### 24. Period for making complaints[^c-23c116e8f2e24122b1d9466fd211b00e]
 
 (1) Subject to sub-paragraph (2), the period for making a complaint is—
 
@@ -313,7 +319,7 @@ The contractor shall allow any other person who has a legal right to enter and i
 
 the complaint shall be treated as if it had been received during the period specified in sub-paragraph (1).
 
-#### 25. Further requirements for complaints procedures
+#### 25. Further requirements for complaints procedures[^c-7480f8405103d320ca28500cb099713f]
 
 (1) A complaints procedure shall also comply with the requirements set out in sub-paragraphs (2) to (6).
 
@@ -334,7 +340,7 @@ the complaint shall be treated as if it had been received during the period spec
 
 (6) The contractor must keep a record of all complaints and copies of all correspondence relating to complaints for a period of at least two years from the date on which such complaints were made, but such records shall be kept separate from patients’ ophthalmic records.
 
-#### 26. Co-operation with investigations
+#### 26. Co-operation with investigations[^c-caa5f49530bdb95a124dc85219425c0f]
 
 (1) The contractor shall co-operate with—
 
@@ -357,17 +363,17 @@ the complaint shall be treated as if it had been received during the period spec
 - (b) providing any information relating to the complaint reasonably required by the PCT; and
 - (c) attending any meeting to consider the complaint (if held at a reasonably accessible place and at a reasonable hour, and due notice has been given) if the contractor’s presence at the meeting is reasonably required by the PCT.
 
-#### 27. Provision of information
+#### 27. Provision of information[^c-b23ec5f390bef700007b06fa844a93d1]
 
 The contractor shall inform the PCT, at such intervals as it shall agree with the PCT, of the number of complaints it has received under the procedure established in accordance with this Part.
 
 ### PART 6 — Dispute Resolution
 
-#### 28. Local resolution of contract disputes
+#### 28. Local resolution of contract disputes[^c-df1ac427f411f5a45d4511ae61228173]
 
 In the case of any dispute arising out of or in connection with the contract, the contractor and the PCT must make every reasonable effort to communicate and co-operate with each other with a view to resolving the dispute, before referring the dispute for determination in accordance with the NHS dispute resolution procedure (or, where applicable, before commencing court proceedings).
 
-#### 29. Dispute resolution: non-NHS contracts
+#### 29. Dispute resolution: non-NHS contracts[^c-c89f98a4bedb7745a2f137b60b9af00f]
 
 (1) In the case of a contract which is not an NHS contract, any dispute arising out of or in connection with the contract, except disputes about matters dealt with under the complaints procedure pursuant to Part 5 of this Schedule, may be referred for consideration and determination to the Secretary of State, if—
 
@@ -379,7 +385,7 @@ In the case of any dispute arising out of or in connection with the contract, th
 - (a) the procedure to be followed is the NHS dispute resolution procedure; and
 - (b) the parties agree (or in a case to which sub-paragraph (1)(b) applies is deemed to agree) to be bound by any determination made by the adjudicator.
 
-#### 30. NHS dispute resolution procedure
+#### 30. NHS dispute resolution procedure[^c-44512d4a4df01967b8b6359e3d237a09]
 
 (1) The procedure specified in the following sub-paragraphs and paragraph 31 applies in the case of any dispute arising out of or in connection with the contract which is referred to the Secretary of State—
 
@@ -426,7 +432,7 @@ In the case of any dispute arising out of or in connection with the contract, th
 
 (13) Subject to the other provisions of this paragraph and paragraph 31, the adjudicator shall have wide discretion in determining the procedure of the dispute resolution to ensure the just, expeditious, economical and final determination of the dispute.
 
-#### 31. Determination of dispute
+#### 31. Determination of dispute[^c-e59d4d639b38474addc03ef931e2623a]
 
 (1) The adjudicator shall record his determination and the reasons for it, in writing and shall give notice of the determination (including a record of the reasons) to the parties.
 
@@ -434,7 +440,7 @@ In the case of any dispute arising out of or in connection with the contract, th
 
 (3) In the case of a contract referred for determination in accordance with paragraph 29(1), section 122(5) (GOS contracts: disputes and enforcement) shall apply as that subsection applies in the case of a contract referred for determination in accordance with section 9.
 
-#### 32. Interpretation of Part 6
+#### 32. Interpretation of Part 6[^c-ae2fe5dca854d41fa3b1f09d84969e45]
 
 (1) In this Part, reference to any dispute arising out of or in connection with the contract includes any dispute arising out of or in connection with the termination of the contract.
 
@@ -442,7 +448,7 @@ In the case of any dispute arising out of or in connection with the contract, th
 
 ### PART 7 — Variation and Termination of Contracts
 
-#### 33. Variation of a contract: general
+#### 33. Variation of a contract: general[^c-f9921478965ae9bc619766efeec646d2]
 
 (1) Save as provided in sub-paragraph (2), no amendment or variation shall have effect unless it is in writing and signed by or on behalf of the PCT and the contractor.
 
@@ -453,7 +459,7 @@ In the case of any dispute arising out of or in connection with the contract, th
 
 and, where it is reasonably practicable to do so, the date that the proposed variation is to take effect shall be not less than 14 days after the date on which the notice under paragraph (b) is served on the contractor.
 
-#### 34. Variation provisions specific to a contract with an individual
+#### 34. Variation provisions specific to a contract with an individual[^c-4d4792c278ed14e620aa2093c7d526b4]
 
 (1) If a contractor who is an individual proposes to practise in partnership with one or more persons during the existence of the contract, the contractor shall notify the PCT of—
 
@@ -480,7 +486,7 @@ and the notice shall be signed by the contractor and by the person, or each of t
 - (a) may vary the contract, but only to the extent that it is satisfied is necessary to reflect the change in status of the contractor from an individual to a partnership; and
 - (b) if it does propose to so vary the contract, it shall include in the notice served on the contractor pursuant to sub-paragraph (4) the wording of the proposed variation and the date upon which that variation is to take effect.
 
-#### 35. Variation provisions specific to a contract with two or more individuals practising in partnership changing to a contract with an individual
+#### 35. Variation provisions specific to a contract with two or more individuals practising in partnership changing to a contract with an individual[^c-dc26856b977c6f39d31a09b587bb13d9]
 
 (1) Subject to sub-paragraph (4), where a contractor consists of two or more individuals practising in partnership, in the event that the partnership is terminated or dissolved, the contract shall only continue with one of the former partners if that partner is nominated in accordance with sub-paragraph (3) and provided that the requirements in sub-paragraphs (2) and (3) are met.
 
@@ -503,7 +509,7 @@ and the notice shall be signed by the contractor and by the person, or each of t
 
 (7) If the PCT varies the contract pursuant to sub-paragraph (6), it shall notify the contractor of the wording of the proposed variation and the date upon which that variation is to take effect.
 
-#### 36. Variation provisions specific to a contract with two or more individuals practising in partnership increasing the number of partners
+#### 36. Variation provisions specific to a contract with two or more individuals practising in partnership increasing the number of partners[^c-fff9181aed23ac86c8957f2741b9c505]
 
 (1) Where a contractor has given notice under paragraph 18(1) that a new partner or partners has joined or proposes to join the partnership, if the PCT is satisfied as to the accuracy of the matters specified in paragraph 18(2) that are included in the notice and of the suitability of that person or persons, the PCT shall give notice to the contractor confirming that the contract shall continue with the partnership entered into by the contractor and its partners, from a date that the PCT specifies in that notice.
 
@@ -514,11 +520,11 @@ and the notice shall be signed by the contractor and by the person, or each of t
 - (a) may vary the contract, but only to the extent that it is satisfied is necessary to reflect the change in the partners; and
 - (b) if it does propose to so vary the contract, it shall include in the notice served on the contractor pursuant to sub-paragraph (1) the wording of the proposed variation and the date upon which that variation is to take effect.
 
-#### 37. Termination by agreement
+#### 37. Termination by agreement[^c-1e1cde2d868a9129ee5f9b812fcb6f10]
 
 The PCT and the contractor may agree in writing to terminate the contract, and if the parties so agree, they shall agree the date upon which that termination should take effect and any further terms upon which the contract should be terminated.
 
-#### 38. Termination on the death of an individual contractor
+#### 38. Termination on the death of an individual contractor[^c-c020c6c8df2ff345d54addae3648df0a]
 
 (1) Where the contract is with an individual who dies, the contract shall terminate at the end of the period of 7 days after the date of death unless, before the end of that period—
 
@@ -529,7 +535,7 @@ The PCT and the contractor may agree in writing to terminate the contract, and i
 
 (3) Sub-paragraph (1) does not affect any other rights to terminate the agreement which the PCT may have under this Part of this Schedule.
 
-#### 39. Termination by the contractor
+#### 39. Termination by the contractor[^c-2613cfbe4fdc93a6f3ed7d786cbcccdb]
 
 (1) A contractor may terminate the contract by serving notice on the PCT at any time.
 
@@ -537,7 +543,7 @@ The PCT and the contractor may agree in writing to terminate the contract, and i
 
 (3) This paragraph and paragraph 40 are without prejudice to any other rights to terminate the contract that the contractor may have.
 
-#### 40. Late payment notices
+#### 40. Late payment notices[^c-398e951af0dd54760729b9ece1f9358e]
 
 (1) The contractor may notify (a “late payment notice”) the PCT if the PCT has failed to make any payments due to the contractor in accordance with a term of the contract that has the effect specified in regulation 15 (finance), and the contractor shall specify in the late payment notice the payments that the PCT has failed to make in accordance with that regulation.
 
@@ -550,11 +556,11 @@ The PCT and the contractor may agree in writing to terminate the contract, and i
 
 whichever is the sooner.
 
-#### 41. Termination by the PCT: general
+#### 41. Termination by the PCT: general[^c-36cf6d94f9cf472ccddce09c5bff2526]
 
 The PCT may only terminate the contract in accordance with the provisions in paragraphs 17(3) or 18(3) or this Part of this Schedule.
 
-#### 42. Termination by the PCT: contractor’s inability to perform services
+#### 42. Termination by the PCT: contractor’s inability to perform services[^c-2884dd5005588bffa7c1868a139f7ff9]
 
 (1) Where a contractor is an individual who is an ophthalmic practitioner and ceases to be able to perform as an ophthalmic practitioner by virtue of a suspension specified in sub-paragraph (2), the PCT shall serve notice on the contractor terminating the contract forthwith unless—
 
@@ -568,7 +574,7 @@ The PCT may only terminate the contract in accordance with the provisions in par
 - (a) suspension of the ophthalmic practitioner by his licensing body; or
 - (b) suspension of the ophthalmic practitioner from an ophthalmic performers list.
 
-#### 43. Termination by the PCT for the provision of untrue etc. information
+#### 43. Termination by the PCT for the provision of untrue etc. information[^c-1d233b2b1eb0cf2a38c63d92e8af68b0]
 
 The PCT may serve notice on the contractor terminating the contract forthwith, or from such date as may be specified in the notice if, after the contract has been entered into, it comes to the attention of the PCT that written information—
 
@@ -578,7 +584,7 @@ The PCT may serve notice on the contractor terminating the contract forthwith, o
 
 in relation to the conditions set out in regulation 4, the information as to suitability in Schedule 3 and compliance with those conditions or that information was, when given, untrue or inaccurate in a material respect or, in a case to which sub-paragraph (c) applies, the information that was not notified was material.
 
-#### 44. Termination by the PCT on grounds of suitability etc.
+#### 44. Termination by the PCT on grounds of suitability etc.[^c-a9c11b7b3ff3ce149fb01c824d6f5e4d]
 
 (1) The PCT shall serve notice on the contractor terminating the contract forthwith, or from such date as may be specified in the notice, if, in the case of a contract with—
 
@@ -639,7 +645,7 @@ and the PCT may only terminate the contract at the end of the period specified i
 - (b) in the case of a contract with two or more individuals practising in partnership, a partner; or
 - (c) in the case of a contract with a corporate body, a director, chief executive or secretary of that body.
 
-#### 45. Immediate Termination by the PCT
+#### 45. Immediate Termination by the PCT[^c-bb586e07aacf6e85c5aa73d1a5da3e32]
 
 The PCT may serve notice on the contractor terminating the contract forthwith, or with effect from such date as may be specified in the notice, if—
 
@@ -647,7 +653,7 @@ The PCT may serve notice on the contractor terminating the contract forthwith, o
 - (b) the contractor’s financial situation is such that the PCT considers that the PCT is at risk of material financial loss; or
 - (c) the contractor has breached the contract and, in the judgment of the PCT, that breach is so significant that it is inappropriate that the contract should continue.
 
-#### 46. Termination by the PCT: remedial notices and breach notices
+#### 46. Termination by the PCT: remedial notices and breach notices[^c-69948f7310e4acdebe011f2eb579bf72]
 
 (1) Where a contractor has breached the contract other than as specified in paragraphs 42 to 45 and the breach is capable of remedy, the PCT shall, before taking any action it is otherwise entitled to take by virtue of the contract, serve a notice on the contractor requiring it to remedy the breach (“remedial notice”).
 
@@ -679,7 +685,7 @@ the PCT may serve notice on the contractor terminating the contract with effect 
 
 (8) If the contractor is in breach of any obligation and a breach notice or a remedial notice in respect of that breach has been given to the contractor, the PCT may withhold or deduct monies which would otherwise be payable under the contract in respect of that obligation which is subject of the breach.
 
-#### 47. Termination by the PCT: additional provisions
+#### 47. Termination by the PCT: additional provisions[^c-5aed0f9e8416cbd12a9232723d3863da]
 
 (1) If the PCT becomes aware that the contractor is carrying on any business which the PCT considers to be detrimental to the contractor’s performance of its obligations under the contract—
 
@@ -701,7 +707,7 @@ who is the subject of a direction pursuant to section 13F of the Opticians Act (
 - (a) the date upon which the contract is to be terminated; and
 - (b) the PCT’s reasons for considering that the change in the membership of the partnership is likely to have the serious adverse impact specified in sub-paragraph (3).
 
-#### 48. Contract sanctions
+#### 48. Contract sanctions[^c-3fb852848a436e97de06955fddf19a2f]
 
 (1) In this paragraph and paragraph 49, “contract sanction” means—
 
@@ -720,7 +726,7 @@ who is the subject of a direction pursuant to section 13F of the Opticians Act (
 
 (5) Where the PCT imposes a contract sanction, the PCT shall be entitled to charge the contractor the reasonable costs of additional administration that the PCT has incurred in order to impose, or as a result of imposing, the contract sanction.
 
-#### 49. Contract sanctions and the NHS dispute resolution procedure
+#### 49. Contract sanctions and the NHS dispute resolution procedure[^c-d3563156fb714b2eefac8feb7927da1b]
 
 (1) If there is a dispute between the PCT and the contractor in relation to a contract sanction that the PCT is proposing to impose, subject to sub-paragraph (4), the PCT shall not impose the proposed contract sanction, except in the circumstances specified in sub-paragraph (2) or (3).
 
@@ -740,7 +746,7 @@ whichever is the sooner.
 
 the PCT shall be entitled to impose the contract sanction forthwith, pending the outcome of that procedure.
 
-#### 50. Termination and the NHS dispute resolution procedure
+#### 50. Termination and the NHS dispute resolution procedure[^c-8721e6f403c4cf53c562da45807da3dd]
 
 (1) Where the PCT is entitled to serve notice on the contractor terminating the contract pursuant to any provision of this Schedule, the PCT shall, in the notice served on the contractor pursuant to those provisions, specify a date on which the contract terminates, that is not less than 28 days after the date on which the PCT has served that notice on the contractor, unless sub-paragraph (2) applies.
 
@@ -768,7 +774,7 @@ sub-paragraphs (3) and (4) shall not apply and the PCT shall be entitled to conf
 
 ### PART 8 — Miscellaneous
 
-#### 51. Insurance: negligent performance and public liability
+#### 51. Insurance: negligent performance and public liability[^c-87b682099f612dab1629a9cf3f1b317d]
 
 (1) The contractor shall at all times hold adequate—
 
@@ -780,7 +786,7 @@ sub-paragraphs (3) and (4) shall not apply and the PCT shall be entitled to conf
 - (a) “insurance” means a contract of insurance or other arrangement made for the purpose of indemnifying the contractor; and
 - (b) a contractor shall be regarded as holding insurance in relation to any of its employees if it is held by that employee in connection with clinical services which that employee provides under the contract.
 
-#### 52. Gifts
+#### 52. Gifts[^c-46155ea59fbe3ca714eca862ce6b6db8]
 
 (1) The contractor shall keep a register of gifts which are given to any of the persons specified in sub-paragraph (2) by or on behalf of—
 
@@ -819,18 +825,18 @@ and have, in its reasonable opinion, an individual value of more than £100.00.
 
 (6) The contractor shall make the register available to the PCT on request.
 
-#### 53. Compliance with legislation and guidance
+#### 53. Compliance with legislation and guidance[^c-0d98a31c73f05c246556ac0e55114951]
 
 The contractor shall—
 
 - (a) comply with all relevant legislation; and
 - (b) have regard to all relevant guidance issued by the PCT, the relevant Strategic Health Authority or the Secretary of State.
 
-#### 54. Third party rights
+#### 54. Third party rights[^c-fd4dd16fc61eb73beacd515a8326eddf]
 
 The contract shall not create any right enforceable by any person not a party to it.
 
-#### 55. Signing of documents
+#### 55. Signing of documents[^c-38d8c8f77938bbefa2259d86eb6c3bfc]
 
 (1) In addition to any other requirement that may relate to the signing of documents whether in these Regulations or otherwise, the contractor shall ensure such documents include—
 
@@ -845,11 +851,63 @@ The contract shall not create any right enforceable by any person not a party to
 
 ## Annotations
 
+[^c-2a3530555ae5e576d4e61c09cac41a12]: Commencement: Sch. 1 para. 1 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
 [^f00026]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^c-59828e78589f9ba64b49439d17e607d4]: Commencement: Sch. 1 para. 2 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-e25b1cdd0a1d6597355f892119046f44]: Commencement: Sch. 1 para. 3 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-43e752cbb7858b3f211b821c7d80c0d6]: Commencement: Sch. 1 para. 4 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-8183c4ef33983542b1b40520dd8f6f2c]: Commencement: Sch. 1 para. 5 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-85f40973754f28212b6206191ac7c187]: Commencement: Sch. 1 para. 6 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-fd7b006519d6a879dd50b74e7d7c69ec]: Commencement: Sch. 1 para. 7 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-5466894b3f7f04f3c8c9f5742a9edac1]: Commencement: Sch. 1 para. 8 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-14fa4e9c1245b1d466706717ea7ff87d]: Commencement: Sch. 1 para. 9 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-332b6125658381fdedf40e475fbb75ac]: Commencement: Sch. 1 para. 10 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-42f5d7b1a69a3b3067f35b0fa2fb1c4b]: Commencement: Sch. 1 para. 11 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-d44ad4668b0b8f9ddd411f730c87b4ef]: Commencement: Sch. 1 para. 12 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-86dd8a50cb51c5c9e4a609b11fc32208]: Commencement: Sch. 1 para. 13 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-d5632c94294f86b285d762b18431a27e]: Commencement: Sch. 1 para. 14 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-5e8aceb17f4550915f1a11872dbbd621]: Commencement: Sch. 1 para. 15 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-b0ebfa72a3cf05f7c589c0a5576a9b74]: Commencement: Sch. 1 para. 16 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-1fe81775e377f3fc819b402aacaceae9]: Commencement: Sch. 1 para. 17 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
 
 [^f00027]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
+[^c-91a07f42253b2c1d1aeeb22b6c20ff30]: Commencement: Sch. 1 para. 18 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-ae2403f7045599cc0a62abf35ee82e3a]: Commencement: Sch. 1 para. 19 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-ef05b4f06533ea635d37991e9f276eae]: Commencement: Sch. 1 para. 20 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
 [^f00028]: Footnote: [S.I. 2008/915](https://www.legislation.gov.uk/uksi/2008/915).
+
+[^c-eaac6d67f5fe0470d34f274e9730d404]: Commencement: Sch. 1 para. 21 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-c10e04e25edb392f022faf928e9551ac]: Commencement: Sch. 1 para. 22 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-f284c2f230aa6a563ed8c6a3184c361d]: Commencement: Sch. 1 para. 23 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-23c116e8f2e24122b1d9466fd211b00e]: Commencement: Sch. 1 para. 24 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-7480f8405103d320ca28500cb099713f]: Commencement: Sch. 1 para. 25 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-caa5f49530bdb95a124dc85219425c0f]: Commencement: Sch. 1 para. 26 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
 
 [^f00029]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -857,4 +915,62 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^f00031]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
+[^c-b23ec5f390bef700007b06fa844a93d1]: Commencement: Sch. 1 para. 27 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-df1ac427f411f5a45d4511ae61228173]: Commencement: Sch. 1 para. 28 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-c89f98a4bedb7745a2f137b60b9af00f]: Commencement: Sch. 1 para. 29 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-44512d4a4df01967b8b6359e3d237a09]: Commencement: Sch. 1 para. 30 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-e59d4d639b38474addc03ef931e2623a]: Commencement: Sch. 1 para. 31 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-ae2fe5dca854d41fa3b1f09d84969e45]: Commencement: Sch. 1 para. 32 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-f9921478965ae9bc619766efeec646d2]: Commencement: Sch. 1 para. 33 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-4d4792c278ed14e620aa2093c7d526b4]: Commencement: Sch. 1 para. 34 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-dc26856b977c6f39d31a09b587bb13d9]: Commencement: Sch. 1 para. 35 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-fff9181aed23ac86c8957f2741b9c505]: Commencement: Sch. 1 para. 36 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-1e1cde2d868a9129ee5f9b812fcb6f10]: Commencement: Sch. 1 para. 37 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-c020c6c8df2ff345d54addae3648df0a]: Commencement: Sch. 1 para. 38 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-2613cfbe4fdc93a6f3ed7d786cbcccdb]: Commencement: Sch. 1 para. 39 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-398e951af0dd54760729b9ece1f9358e]: Commencement: Sch. 1 para. 40 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-36cf6d94f9cf472ccddce09c5bff2526]: Commencement: Sch. 1 para. 41 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-2884dd5005588bffa7c1868a139f7ff9]: Commencement: Sch. 1 para. 42 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-1d233b2b1eb0cf2a38c63d92e8af68b0]: Commencement: Sch. 1 para. 43 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-a9c11b7b3ff3ce149fb01c824d6f5e4d]: Commencement: Sch. 1 para. 44 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-bb586e07aacf6e85c5aa73d1a5da3e32]: Commencement: Sch. 1 para. 45 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-69948f7310e4acdebe011f2eb579bf72]: Commencement: Sch. 1 para. 46 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-5aed0f9e8416cbd12a9232723d3863da]: Commencement: Sch. 1 para. 47 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
 [^f00032]: Footnote: Sections 13F and 13H were inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
+
+[^c-3fb852848a436e97de06955fddf19a2f]: Commencement: Sch. 1 para. 48 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-d3563156fb714b2eefac8feb7927da1b]: Commencement: Sch. 1 para. 49 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-8721e6f403c4cf53c562da45807da3dd]: Commencement: Sch. 1 para. 50 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-87b682099f612dab1629a9cf3f1b317d]: Commencement: Sch. 1 para. 51 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-46155ea59fbe3ca714eca862ce6b6db8]: Commencement: Sch. 1 para. 52 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-0d98a31c73f05c246556ac0e55114951]: Commencement: Sch. 1 para. 53 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-fd4dd16fc61eb73beacd515a8326eddf]: Commencement: Sch. 1 para. 54 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
+
+[^c-38d8c8f77938bbefa2259d86eb6c3bfc]: Commencement: Sch. 1 para. 55 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)

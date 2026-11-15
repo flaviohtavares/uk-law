@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 20
 act: The Education (Student Support) Regulations 2007
 section: '20'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 20
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 20. Standard entitlement of current system students who have transferred from or otherwise studied on a previous course
+## 20. Standard entitlement of current system students who have transferred from or otherwise studied on a previous course[^c-e130adb2a2c44f4a403eef8e0d708020]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The standard entitlement of a current system student who has studied on a previous course and who does not fall within regulation 21 is calculated as follows—
 
@@ -29,3 +35,7 @@ where
 
 - (a) is a previous course; and
 - (b) the student began on or after 1st September 2006.
+
+## Annotations
+
+[^c-e130adb2a2c44f4a403eef8e0d708020]: Commencement: Reg. 20 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

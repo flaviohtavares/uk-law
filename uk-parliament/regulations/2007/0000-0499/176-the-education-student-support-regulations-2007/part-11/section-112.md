@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 112
 act: The Education (Student Support) Regulations 2007
 section: '112'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/112
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 112
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 112. Designated part-time courses
+## 112. Designated part-time courses[^c-617c76277dadb8e5c19b1e6c8ce40159]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) and (3), a part-time course is designated for the purposes of section 22(1) of the 1998 Act and regulation 110 if—
 
@@ -49,5 +55,7 @@ summary: ''
 (6) For the purposes of section 22 of the 1998 Act and regulation 110(1) the Secretary of State may designate courses of higher education which are not designated by paragraph (1).
 
 ## Annotations
+
+[^c-617c76277dadb8e5c19b1e6c8ce40159]: Commencement: Reg. 112 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00066]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.

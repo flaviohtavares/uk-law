@@ -3,16 +3,16 @@ title: The Mental Health (Approved Mental Health Professionals) (Approval) (Engl
 id: uksi/2008/1206
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-04-28'
-text_date: null
-extent: null
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1206
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1206/pdfs/uksiem_20081206_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1206/pdfs/uksi_20081206_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1206/made/data.pdf
-pending_changes: 14
+- http://www.legislation.gov.uk/uksi/2008/1206/data.pdf
+pending_changes: 28
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Mental Health (Approved Mental Health Professionals) (Approval) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (28).** Text as at 2008-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1206
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1206
 
@@ -42,13 +48,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 114 of the Mental Health Act 1983[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-8c164855ab3327cb9f2739f2fb32b3f6]
 
 (1) These Regulations may be cited as the Mental Health (Approved Mental Health Professionals) (Approval) (England) Regulations 2008 and shall come into force on 3rd November 2008.
 
 (2) These Regulations apply to England only.
 
-## 2. Interpretation
+## 2. Interpretation[^c-97725434a57822888ce66c8ebf1a777c]
 
 In these Regulations—
 
@@ -61,7 +67,7 @@ In these Regulations—
 - “LSSA” means a local social services authority in England;
 - “professional requirements” means the requirements set out in Schedule 1.
 
-## 3. Granting approval
+## 3. Granting approval[^c-3a3ad2999f654b5c6853884184f9c2a6]
 
 (1) An LSSA may only approve a person to act as an AMHP if it is satisfied that the person has appropriate competence in dealing with persons who are suffering from mental disorder.
 
@@ -72,11 +78,11 @@ In these Regulations—
 
 (3) Before an LSSA may approve a person to act as an AMHP who has not been approved, or been treated as approved, before in England and Wales, the person must have completed within the last five years a course approved by the General Social Care Council or the Care Council for Wales.
 
-## 4. Period of approval
+## 4. Period of approval[^c-497849299b8f8a22a0074a11e6d36fc3]
 
 An LSSA may approve a person to act as an AMHP for a period of five years.
 
-## 5. Conditions
+## 5. Conditions[^c-03819d90a7dbf993f5fd39fde1526baa]
 
 When any approval is granted under these Regulations, it shall be subject to the following conditions—
 
@@ -85,7 +91,7 @@ When any approval is granted under these Regulations, it shall be subject to the
 - (c) the AMHP shall undertake to cease to act as an AMHP and to notify the approving LSSA immediately if they are suspended from any of the registers or listings referred to in the professional competencies, or if any such suspension ends, and
 - (d) the AMHP shall undertake to cease to act as an AMHP and to notify the approving LSSA immediately if they no longer meet at least one of the professional requirements.
 
-## 6. Suspension of approval
+## 6. Suspension of approval[^c-ba612155d495660e865f25c9254da9ea]
 
 (1) If at any time after being approved, the registration or listing required by the professional requirements of a person approved to act as an AMHP is suspended, the approving LSSA shall suspend that AMHP’s approval for as long as the AMHP’s registration or listing is suspended.
 
@@ -95,7 +101,7 @@ When any approval is granted under these Regulations, it shall be subject to the
 
 (4) Where the suspension of approval has ended, the approval shall continue to run for any unexpired period of approval, unless the approving LSSA ends it earlier in accordance with regulation 7.
 
-## 7. End of approval
+## 7. End of approval[^c-ec3a203177d944748f2ed928f8461087]
 
 (1) Except where paragraph (2) applies, a person shall cease to be approved to act as an AMHP at the end of the day on which their period of approval expires.
 
@@ -114,7 +120,7 @@ When any approval is granted under these Regulations, it shall be subject to the
 
 (5) If an LSSA approves a person as an AMHP knowing that that AMHP is already approved by another LSSA, it shall notify the previous approving LSSA.
 
-## 8. Records
+## 8. Records[^c-53173f1f2d2caf5efa8e2315d1095dd1]
 
 (1) The approving LSSA shall keep a record of each AMHP it approves which shall include—
 
@@ -139,7 +145,7 @@ Department of Health
 
 28th April 2008
 
-## SCHEDULE 1 — Professional Requirements
+## SCHEDULE 1 — Professional Requirements[^c-ee6f3cba55540e7929606997e8fdd0a3]
 
 Regulation 2
 
@@ -154,7 +160,7 @@ The professional requirements are as follows—
 
 Regulation 3(2)
 
-### 1. Key Competence Area 1: Application of Values to the AMHP Role
+### 1. Key Competence Area 1: Application of Values to the AMHP Role[^c-b1c9832c9ed0061cf9ec87150b24ee6b]
 
 Whether the applicant has—
 
@@ -163,7 +169,7 @@ Whether the applicant has—
 - (c) the ability to promote the rights, dignity and self determination of patients consistent with their own needs and wishes, to enable them to contribute to the decisions made affecting their quality of life and liberty, and
 - (d) a sensitivity to individuals’ needs for personal respect, confidentiality, choice, dignity and privacy while exercising the AMHP role.
 
-### 2. Key Competence Area 2: Application of Knowledge: The Legal and Policy Framework
+### 2. Key Competence Area 2: Application of Knowledge: The Legal and Policy Framework[^c-35bc4a16c74bbe119583f72b96c596e4]
 
 (1) Whether the applicant has—
 
@@ -179,7 +185,7 @@ Whether the applicant has—
 
 (2) In paragraph (1), “relevant” means relevant to the decisions that an AMHP is likely to take when acting as an AMHP.
 
-### 3. Key Competence Area 3: Application of Knowledge: Mental Disorder
+### 3. Key Competence Area 3: Application of Knowledge: Mental Disorder[^c-4905e322f5e7414b7775cd19ca8aca5d]
 
 Whether the applicant has a critical understanding of, and is able to apply in practice—
 
@@ -188,7 +194,7 @@ Whether the applicant has a critical understanding of, and is able to apply in p
 - (c) the implications of mental disorder for patients, their relatives and carers, and
 - (d) the implications of a range of treatments and interventions for patients, their relatives and carers.
 
-### 4. Key Competence Area 4: Application of Skills: Working in Partnership
+### 4. Key Competence Area 4: Application of Skills: Working in Partnership[^c-4d482bc18e0165b4fe028b4faaa7e571]
 
 Whether the applicant has the ability to—
 
@@ -204,7 +210,7 @@ Whether the applicant has the ability to—
 - (j) manage and co-ordinate effectively the relevant legal and practical processes including the involvement of other professionals as well as patients, relatives and carers, and
 - (k) balance and manage the competing requirements of confidentiality and effective information sharing to the benefit of the patient and other persons concerned with the patient’s care.
 
-### 5. Key Competence Area 5: Application of Skills: Making and Communicating Informed Decisions
+### 5. Key Competence Area 5: Application of Skills: Making and Communicating Informed Decisions[^c-a04b1c5dff62adde4afa904b4d900b40]
 
 Whether the applicant has the ability to—
 
@@ -244,13 +250,35 @@ An impact assessment on the changes in these regulations was carried out in the 
 
 [^f00001]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).Section 114 was substituted by section 18 of the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12). The Welsh Ministers are making separate Regulations in relation to Wales.
 
+[^c-8c164855ab3327cb9f2739f2fb32b3f6]: Commencement: Reg. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-97725434a57822888ce66c8ebf1a777c]: Commencement: Reg. 2 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
 [^f00002]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^c-3a3ad2999f654b5c6853884184f9c2a6]: Commencement: Reg. 3 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-497849299b8f8a22a0074a11e6d36fc3]: Commencement: Reg. 4 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-03819d90a7dbf993f5fd39fde1526baa]: Commencement: Reg. 5 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-ba612155d495660e865f25c9254da9ea]: Commencement: Reg. 6 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-ec3a203177d944748f2ed928f8461087]: Commencement: Reg. 7 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-53173f1f2d2caf5efa8e2315d1095dd1]: Commencement: Reg. 8 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-ee6f3cba55540e7929606997e8fdd0a3]: Commencement: Sch. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253). The Register is divided into parts in accordance with the Nurses and Midwives (Parts of and Entries in the Register) Order of Council 2004 ([S.I. 2004/1765](https://www.legislation.gov.uk/uksi/2004/1765)).
 
 [^f00004]: Footnote: [S.I .2002/254](https://www.legislation.gov.uk/uksi/2002/254).
 
 [^f00005]: Footnote: The British Psychological Society is a Royal Charter body, registered as a charity in England and Wales No.229642 and is at St Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
+
+[^c-b1c9832c9ed0061cf9ec87150b24ee6b]: Commencement: Sch. 2 para. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-35bc4a16c74bbe119583f72b96c596e4]: Commencement: Sch. 2 para. 2 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
 
 [^f00006]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -259,3 +287,9 @@ An impact assessment on the changes in these regulations was carried out in the 
 [^f00008]: Footnote: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
 
 [^f00009]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^c-4905e322f5e7414b7775cd19ca8aca5d]: Commencement: Sch. 2 para. 3 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-4d482bc18e0165b4fe028b4faaa7e571]: Commencement: Sch. 2 para. 4 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)
+
+[^c-a04b1c5dff62adde4afa904b4d900b40]: Commencement: Sch. 2 para. 5 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1206/regulation/1/1)

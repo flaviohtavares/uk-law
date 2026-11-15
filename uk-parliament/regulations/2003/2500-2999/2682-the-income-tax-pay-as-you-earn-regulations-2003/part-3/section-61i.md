@@ -2,8 +2,8 @@
 title: The Income Tax (Pay As You Earn) Regulations 2003, section 61I
 act: The Income Tax (Pay As You Earn) Regulations 2003
 section: 61I
-status: revised-with-pending-changes
-text_date: '2026-07-07'
+status: revised
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2003/2682/section/61I
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Income Tax (Pay As You Earn) Regulations 2003, section 61I
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2682
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -28,8 +28,8 @@ summary: ''
 
 Before making the next main relevant payment after the change to the specified benefit has taken effect, calculate the revised cash equivalent , relevant amount or amount foregone in respect[^c-b822db655b5a7f0a3021d00dcc49bbb8] of the specified benefit by—
 
-- (a) determining the cash equivalent, relevant amount or amount foregone in respect of the specified benefit that has been provided in the tax year, in accordance with section 87, 87A, 94, 94A, 121, 121A, 149A, 150, 154A, 155, 160A, 161, 203 or 203A of[^c-a0fe0c392d21a1e4d5eb77b2d9067b47] ITEPA, as the case may be, then
-- (b) determining the cash equivalent , relevant amount or amount foregone in respect[^c-1700ef783d9d67034c140440fc7b33ff] of the specified benefit, that will be provided for the remainder of the tax year, in accordance with regulation 61E, 61F or 61G, as the case may be, and
+- (a) determining the cash equivalent, relevant amount or amount foregone in respect of the specified benefit that has been provided in the tax year, in accordance with section 87, 87A, 94, 94A,[^c-a0fe0c392d21a1e4d5eb77b2d9067b47] 102, 103A,[^c-719781af3180046498156680188e391a] 121, 121A, 149A, 150, 154A, 155, 160A, 161, 175, 175A,[^c-b43a00be55018ac887b9be00b298d2e5] 203 or 203A of ITEPA, as the case may be, then
+- (b) determining the cash equivalent , relevant amount or amount foregone in respect[^c-1700ef783d9d67034c140440fc7b33ff] of the specified benefit, that will be provided for the remainder of the tax year, in accordance with regulation 61E, 61F , 61G, 61GA or 61GB[^c-5a898fed827eb57e2f3ac2d880a8037d], as the case may be, and
 - (c) adding these numbers together.
 
 *Step 2*
@@ -69,14 +69,20 @@ Add the Increased Taxable Amount of the Benefit to, or subtract the Reduced Taxa
 
 ## Annotations
 
-[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
+[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: Pt. 3 Ch. 3A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
 
-[^c-c38eed304fee37ea52e55fc5e5d8470e]: Textual amendment: Words in [reg. 61I(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61I/1) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/a)
+[^c-c38eed304fee37ea52e55fc5e5d8470e]: Textual amendment: Words in reg. 61I(1) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/a)
 
-[^c-b822db655b5a7f0a3021d00dcc49bbb8]: Textual amendment: Words in [reg. 61I(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61I/2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/b/i)
+[^c-b822db655b5a7f0a3021d00dcc49bbb8]: Textual amendment: Words in reg. 61I(2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/b/i)
 
-[^c-a0fe0c392d21a1e4d5eb77b2d9067b47]: Textual amendment: Words in [reg. 61I(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61I/2) substituted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/b/ii)
+[^c-a0fe0c392d21a1e4d5eb77b2d9067b47]: Textual amendment: Words in reg. 61I(2) substituted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/b/ii)
 
-[^c-1700ef783d9d67034c140440fc7b33ff]: Textual amendment: Words in [reg. 61I(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61I/2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/b/iii)
+[^c-719781af3180046498156680188e391a]: Textual amendment: Words in reg. 61I(2) inserted (5.11.2026) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2026 (S.I. 2026/1082)](https://www.legislation.gov.uk/uksi/2026/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1082/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/uksi/2026/1082/regulation/8/a/i) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/1082/regulation/10))
 
-[^c-a8019cad3536d549b3ab1a31d5edb5e3]: Textual amendment: Words in [reg. 61I(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61I/2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(b)(iv)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/b/iv)
+[^c-b43a00be55018ac887b9be00b298d2e5]: Textual amendment: Words in reg. 61I(2) inserted (5.11.2026) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2026 (S.I. 2026/1082)](https://www.legislation.gov.uk/uksi/2026/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1082/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1082/regulation/8/a/ii) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/1082/regulation/10))
+
+[^c-1700ef783d9d67034c140440fc7b33ff]: Textual amendment: Words in reg. 61I(2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/b/iii)
+
+[^c-5a898fed827eb57e2f3ac2d880a8037d]: Textual amendment: Words in reg. 61I(2) substituted (5.11.2026) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2026 (S.I. 2026/1082)](https://www.legislation.gov.uk/uksi/2026/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1082/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2026/1082/regulation/8/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/1082/regulation/10))
+
+[^c-a8019cad3536d549b3ab1a31d5edb5e3]: Textual amendment: Words in reg. 61I(2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [9(b)(iv)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/9/b/iv)

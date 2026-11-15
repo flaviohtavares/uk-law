@@ -3,15 +3,15 @@ title: Child Abduction Act 1984
 id: ukpga/1984/37
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: null
-text_date: '2020-12-01'
+text_date: '2026-11-06'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1984/37
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1984/37/pdfs/ukpga_19840037_en.pdf
 - http://www.legislation.gov.uk/ukpga/1984/37/data.pdf
-pending_changes: 10
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Child Abduction Act 1984
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/37
+> Text as at 2026-11-06.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -43,6 +43,11 @@ An Act to amend the criminal law relating to the abduction of children
 
 (1) Subject to subsections (5) and (8) below, a person connected with a child under the age of sixteen commits an offence if he takes or sends the child out of the United Kingdom without the appropriate consent.
 
+(1A)[^c-3857afb16e9c5cba8f38fd35de3f9e68] Subject to subsections (5) and (8), a person connected with a child under the age of sixteen commits an offence if—
+
+- (a) the child is taken or sent out of the United Kingdom with the appropriate consent, and
+- (b) at any time after the child is taken or sent, the person detains the child outside the United Kingdom without the appropriate consent.
+
 (2)[^c802391] A person is connected with a child for the purposes of this section if—
 
 - (a) he is a parent of the child; or
@@ -64,12 +69,12 @@ An Act to amend the criminal law relating to the abduction of children
 - (b) the leave of the court granted under or by virtue of any provision of Part II of the Children Act 1989; or
 - (c) if any person has custody of the child, the leave of the court which awarded custody to him.
 
-(4) A person does not commit an offence under this section by taking or sending a child out of the United Kingdom without obtaining the appropriate consent if—
+(4) A person does not commit an offence under this section by taking or sending a child out of the United Kingdom , or by detaining a child outside the United Kingdom,[^c-c31ceea4d6fa673e3dfe58ce489911b1] without obtaining the appropriate consent if—
 
-- (a)[^c-0d5754406245d68076743b2436fef894] he is a person named in a child arrangements order as a person with whom the child is to live[^c-059bbe0a80e67f20d13d72803cda32ef] and he takes or sends the child out of the United Kingdom for a period of less than one month; or
-- (b) he is a special guardian of the child and he takes or sends the child out of the United Kingdom for a period of less than three months.
+- (a)[^c-0d5754406245d68076743b2436fef894] he is a person named in a child arrangements order as a person with whom the child is to live[^c-059bbe0a80e67f20d13d72803cda32ef] and he takes or sends the child out of the United Kingdom , or detains the child outside the United Kingdom,[^c-4a5dc4cd7e1ae33a36952d7a5fa0711d] for a period of less than one month; or
+- (b) he is a special guardian of the child and he takes or sends the child out of the United Kingdom , or detains the child outside the United Kingdom,[^c-16aa5b1c037f4cb4e3c3bff8b6985220] for a period of less than three months.
 
-(4A) Subsection (4) above does not apply if the person taking or sending the child out of the United Kingdom does so in breach of an order under Part II of the Children Act 1989.
+(4A) Subsection (4) above does not apply if the person taking or sending the child out of the United Kingdom , or detaining the child outside the United Kingdom,[^c-a448661d1b63e171d647c757a023c7eb] does so in breach of an order under Part II of the Children Act 1989.
 
 (5) A person does not commit an offence under this section by doing anything without the consent of another person whose consent is required under the foregoing provisions if—
 
@@ -85,7 +90,7 @@ An Act to amend the criminal law relating to the abduction of children
   - (i)[^c-885ed22114e6d30ce461f3103aeac124] named in a child arrangements order as a person with whom the child is to live;
   - (ia)[^c-1c08acfb4bbc948b5a5a8f7cf088ba26] who is a special guardian of the child; or
   - (ii) who has custody of the child; or
-- (b) the person taking or sending the child out of the United Kingdom is, by so acting, in breach of an order made by a court in the United Kingdom.
+- (b) the person taking or sending the child out of the United Kingdom , or detaining the child outside the United Kingdom,[^c-2bec2de673c56223872f40eb5fa6e533] is, by so acting, in breach of an order made by a court in the United Kingdom.
 
 (6) Where, in proceedings for an offence under this section, there is sufficent evidence to raise an issue as to the application of subsection (5) above, it shall be for the prosecution to prove that that subsection does not apply.
 
@@ -234,7 +239,7 @@ In any proceedings in relation to an offence under this Part of this Act it shal
 
 (3) The reference to abduction in section 1(1)
 
-of the [^c802701]Internationally Protected Persons Act 1978 and sections 63B(2) and 63C(2) of the Terrorism Act 2000[^c-578cb9417f1c36d39fa6dacd188a9aee] shall be construed as not including an offence under section 1 above or any corresponding provision in force in Northern Ireland or Part II of this Act.
+of the [^c802701]Internationally Protected Persons Act 1978 and sections 63B(2) and 63C(2) of the Terrorism Act 2000[^c-578cb9417f1c36d39fa6dacd188a9aee] shall be construed as not including an offence under section 1(1) above[^c-9aa50f398af429eb1e4976918a1f95fe] or any corresponding provision in force in Northern Ireland or Part II of this Act.
 
 (4) In section 4(1)(a) of the [^c802711]Suppression of Terrorism Act 1978, after “11,”, there shall be inserted “11B,”; and in Schedule 1 to that Act, after paragraph 11A, there shall be inserted—
 
@@ -279,7 +284,7 @@ Section 1(8).
 
 (2) Where this paragraph applies, section 1 of this Act shall have effect as if—
 
-- (a) the reference in subsection (1) to the appropriate consent were a reference to the consent of the local authority [^c802801] . . . in whose care the child is; and
+- (a) the reference in subsection (1) or (1A)[^c-5964bfb8c202f6682d793252fec728a3] to the appropriate consent were a reference to the consent of the local authority [^c802801] ... in whose care the child is; and
 - (b) subsections (3) to (6) were omitted.
 
 ### Children in places of safety
@@ -294,7 +299,7 @@ Section 1(8).
 
 (2) Where this paragraph applies, section 1 of this Act shall have effect as if—
 
-- (a) the reference in subsection (1) to the appropriate consent were a reference to the leave of any magistrates’ court acting for the area in which the place of safety , local authority accommodation or youth detention accommodation[^c-16939ebe030c6fff2b5081a382ec8a9b] is; and
+- (a) the reference in subsection (1) or (1A)[^c-a681fe2b7b67e5cdd6ced5cbdb804b07] to the appropriate consent were a reference to the leave of any magistrates’ court acting for the area in which the place of safety , local authority accommodation or youth detention accommodation[^c-16939ebe030c6fff2b5081a382ec8a9b] is; and
 - (b) subsections (3) to (6) were omitted.
 
 ### Adoption and custodianship
@@ -309,7 +314,7 @@ Section 1(8).
 
 (2) Where this paragraph applies, section 1 of this Act shall have effect as if—
 
-- (a) the reference in subsection (1) to the appropriate consent were—
+- (a) the reference in subsection (1) or (1A)[^c-298b4e180722f1d4538d9a73ebbfaa2a] to the appropriate consent were—
   - (i) in a case within sub-paragraph (1)(a) above, a reference to the consent of each person who has parental responsibility for the child or to the leave of the High Court;
   - (ii) in a case within sub-paragraph (1)(b) above, a reference to the leave of the court which made the placement order;
   - (iii) in a case within sub-paragraph (1)(c) or (d) above, a reference to the leave of the court to which the application was made;
@@ -335,6 +340,8 @@ Section 1(8).
 
 [^c802271]: Commencement: Act wholly in force at 12.10.1984 see [s. 13(2)](https://www.legislation.gov.uk/ukpga/1984/37/section/13/2)
 
+[^c-3857afb16e9c5cba8f38fd35de3f9e68]: Textual amendment: S. 1(1A) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/2/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
+
 [^c802391]: Textual amendment: S. 1(2)-(4)(4A) substituted (14.10.1991) for s. 1(2)-(4) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/4), [Sch. 12 para. 37(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/37/2) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
 [^c-91518a9867f099d0294af7bf9bc3fd90]: Textual amendment: Words in s. 1(2)(b) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/9/a)
@@ -347,15 +354,25 @@ Section 1(8).
 
 [^c-fbaed67ef6ab19dcdca7fbde649c6dc1]: Textual amendment: S. 1(3)(a)(iv) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 47(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/47/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
+[^c-c31ceea4d6fa673e3dfe58ce489911b1]: Textual amendment: Words in s. 1(4) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/2/b/i), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
+
 [^c-0d5754406245d68076743b2436fef894]: Textual amendment: S. 1(4)(a)(b) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 42(4)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/42/4) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
 [^c-059bbe0a80e67f20d13d72803cda32ef]: Textual amendment: Words in s. 1(4)(a) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 47(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/47/4); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+
+[^c-4a5dc4cd7e1ae33a36952d7a5fa0711d]: Textual amendment: Words in s. 1(4)(a) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/2/b/ii), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
+
+[^c-16aa5b1c037f4cb4e3c3bff8b6985220]: Textual amendment: Words in s. 1(4)(b) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/2/b/ii), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
+
+[^c-a448661d1b63e171d647c757a023c7eb]: Textual amendment: Words in s. 1(4A) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(2)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/2/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
 
 [^c802401]: Textual amendment: S. 1(5A) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/4), [Sch. 12 para. 37(3)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/37/3) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
 [^c-885ed22114e6d30ce461f3103aeac124]: Textual amendment: S. 1(5A)(a)(i) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 47(5)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/47/5); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
 [^c-1c08acfb4bbc948b5a5a8f7cf088ba26]: Textual amendment: S. 1(5A)(a)(ia) inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 42(5)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/42/5) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
+
+[^c-2bec2de673c56223872f40eb5fa6e533]: Textual amendment: Words in s. 1(5A)(b) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(2)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/2/d), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
 
 [^c802411]: Textual amendment: S. 1(7) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/4), [Sch. 12 para. 37(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/37/4) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -409,6 +426,8 @@ Section 1(8).
 
 [^c-578cb9417f1c36d39fa6dacd188a9aee]: Textual amendment: Words in s. 11(3) inserted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/10); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
 
+[^c-9aa50f398af429eb1e4976918a1f95fe]: Textual amendment: Words in s. 11(3) substituted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
+
 [^c802711]: Marginal citation: [1978 c. 26](https://www.legislation.gov.uk/ukpga/1978/26).
 
 [^c802721]: Marginal citation: [1861 c. 100](https://www.legislation.gov.uk/ukpga/1861/100).
@@ -419,23 +438,29 @@ Section 1(8).
 
 [^c802751]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
 
-[^c802791]: Textual amendment: Words In the Schedule para. 1(1) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/4), [Sch. 12 para.40(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/40/2) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+[^c802791]: Textual amendment: Words in Sch. para. 1(1) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/4), [Sch. 12 para.40(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/40/2) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^c802801]: Textual amendment: Words in the Schedule para. 1(2)(a)repealed (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+[^c-5964bfb8c202f6682d793252fec728a3]: Textual amendment: Words in Sch. para. 1(2)(a) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(4)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/4/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
+
+[^c802801]: Textual amendment: Words in Sch. para. 1(2)(a) repealed (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
 [^c802861]: Textual amendment: Sch. 1 para. 2(1)(a)(b) substituted (14.10.1991)by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/4), [Sch. 12 para. 40(3)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/40/3) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^c-4f1ec2ac6c81d6b5c793fccf367434b2]: Textual amendment: [Sch. para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1984/37/schedule/paragraph/2/1/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 75(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/75/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4f1ec2ac6c81d6b5c793fccf367434b2]: Textual amendment: Sch. para. 2(1)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 75(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/75/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_F_dabaede6-746e-4964-92f7-10ff433c29dd]: Textual amendment: Sch. para. 2(1)(aa) inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [Sch. 7 para. 20(a)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/20/a); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(v)(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/v/x); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(v)(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/v/x)
 
-[^c-aa463f7675262463d6be04e721210336]: Textual amendment: [Sch. para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1984/37/schedule/paragraph/2/1/b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 75(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/75/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-aa463f7675262463d6be04e721210336]: Textual amendment: Sch. para. 2(1)(b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 75(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/75/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_F_0c4f76b0-9223-430c-ff19-0460cfb31e48]: Textual amendment: Sch. para. 2(2)(bb) and word inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [Sch. 12 para. 20(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/20/c); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j);
 
+[^c-a681fe2b7b67e5cdd6ced5cbdb804b07]: Textual amendment: Words in Sch. para. 2(2)(a) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/4/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
+
 [^c-16939ebe030c6fff2b5081a382ec8a9b]: Textual amendment: Words in Sch. para. 2(2)(a) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 20(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/20/c); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
 
-[^c-6e636dfc2eca26252a719e4984a4df21]: Textual amendment: [Sch. paras. 3(1)](https://www.legislation.gov.uk/ukpga/1984/37/schedule/paragraph/3/1) [(2)](https://www.legislation.gov.uk/ukpga/1984/37/schedule/paragraph/3/2) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 43(2)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/43/2) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6), [21](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/21)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
+[^c-6e636dfc2eca26252a719e4984a4df21]: Textual amendment: Sch. para. 3(1) (2) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 43(2)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/43/2) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6), [21](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/21)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
+
+[^c-298b4e180722f1d4538d9a73ebbfaa2a]: Textual amendment: Words in Sch. para. 3(2)(a) inserted (6.11.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 137(4)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/4/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/137/5)); [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/1090/regulation/2/e)
 
 [^c803061]: Textual amendment: Sch. para. 3(3) added (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/4), [Sch. 12 para. 40(6)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/40/6) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 

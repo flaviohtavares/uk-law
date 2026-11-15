@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 131
 act: The Education (Student Support) Regulations 2007
 section: '131'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/131
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 131
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 131. Transfer of status
+## 131. Transfer of status[^c-4a0cabefdb78c91f831c887f84f35bf2]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Where an eligible postgraduate student transfers to another postgraduate course, the Secretary of State must transfer the student’s status as an eligible postgraduate student to that course where—
 
@@ -32,3 +38,7 @@ summary: ''
 (4) The Secretary of State may re-assess the amount of support payable after the transfer.
 
 (5) An eligible student who transfers under paragraph (1) after the Secretary of State has determined his support in connection with the academic year of the course from which he is transferring but before he completes that year may not apply for another grant under this Part in connection with the academic year of the course to which he transfers.
+
+## Annotations
+
+[^c-4a0cabefdb78c91f831c887f84f35bf2]: Commencement: Reg. 131 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

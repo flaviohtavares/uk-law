@@ -3,15 +3,15 @@ title: The Rail Vehicle Accessibility (B2007 Vehicles) Exemption Order 2008
 id: uksi/2008/925
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-30'
-text_date: null
-extent: null
+text_date: '2008-03-31'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/925
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/925/pdfs/uksiem_20080925_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/925/pdfs/uksi_20080925_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/925/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/925/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Rail Vehicle Accessibility (B2007 Vehicles) Exemption Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-03-31. See https://www.legislation.gov.uk/changes/affected/uksi/2008/925
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 925
 
@@ -44,11 +48,11 @@ In accordance with section 47(3) of that Act she has consulted the Disabled Pers
 
 In accordance with sections 67(5A) and 67A[^f00003] of that Act, a draft of the Order has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-67e26b1a44fb1026602894618ccd628b]
 
 This Order may be cited as the Rail Vehicle Accessibility (B2007 Vehicles) Exemption Order 2008 and shall come into force on the day after the day on which it is made.
 
-## 2. Interpretation
+## 2. Interpretation[^c-000ebbc39ea17702141f416cee85c0de]
 
 In this Order—
 
@@ -56,7 +60,7 @@ In this Order—
 - “internal passenger information system” means a system for audible and visual announcements inside a passenger saloon of an exempt vehicle; and
 - “regulation” means a regulation in the Rail Vehicle Accessibility Regulations 1998[^f00004].
 
-## 3. Exemptions
+## 3. Exemptions[^c-e1237a5d0d93e8a0ae47c027da86b13a]
 
 Subject to articles 4 to 6, an exempt vehicle is authorised to be used for carriage even if it does not, or it is used in a manner that does not, conform with—
 
@@ -67,7 +71,7 @@ Subject to articles 4 to 6, an exempt vehicle is authorised to be used for carri
 - (e) regulation 16(1)(d) (no fitting for other passengers accessible through the wheelchair space), but only in so far as it applies to a horizontal handrail; and
 - (f) regulation 23(1) (boarding device when there is a wheelchair-compatible doorway).
 
-## 4. Conditions
+## 4. Conditions[^c-bf1f18610705e6faf0da23177741c503]
 
 (1) The exemption from regulation 4(3)(b) only applies if either or both of paragraphs (2) and (5) applies to each passenger door of the exempt vehicle.
 
@@ -93,13 +97,13 @@ Subject to articles 4 to 6, an exempt vehicle is authorised to be used for carri
 
 (7) The exemption from regulation 23(1) only applies if the gap referred to in that regulation is not more than 85 millimetres measured horizontally and not more than 50 millimetres measured vertically.
 
-## 5. Restrictions
+## 5. Restrictions[^c-7aae621de987f3c54953e9b8ef20f076]
 
 (1) The exemptions from regulations 4(3)(b), 5(2) and 13(4) only apply to exempt vehicles on the Docklands Light Railway network.
 
 (2) The exemption from regulation 23(1) only applies to an exempt vehicle operating at the stations on the Docklands Light Railway network listed in the Schedule to this Order.
 
-## 6. Expiry
+## 6. Expiry[^c-1301e61af13a8c98168bfa1ab6163985]
 
 (1) The exemptions from regulations 11(3) and 16(1)(d) expire on 31st December 2009.
 
@@ -117,7 +121,7 @@ Department for Transport
 
 30th March 2008
 
-## SCHEDULE — Exemption from regulation 23(1)
+## SCHEDULE — Exemption from regulation 23(1)[^c-a19287026a5b0083f6d45740bc37ec3a]
 
 Article 5(2)
 
@@ -168,4 +172,18 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00003]: Footnote: Section 67(5A) was inserted by section 19(1) and Schedule 1, Part 1, paragraph 33(5) of the Disability Discrimination Act 2005; section 67A was inserted by section 6(4) of that Act. The Secretary of State has no discretion as to the type of parliamentary procedure to be used if no regulations made under section 67A(3) are in force. No such regulations are in force.
 
+[^c-67e26b1a44fb1026602894618ccd628b]: Commencement: Art. 1 in force at 31.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/925/article/1)
+
+[^c-000ebbc39ea17702141f416cee85c0de]: Commencement: Art. 2 in force at 31.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/925/article/1)
+
 [^f00004]: Footnote: [S.I. 1998/2456](https://www.legislation.gov.uk/uksi/1998/2456) as amended by [S.I. 2000/3215](https://www.legislation.gov.uk/uksi/2000/3215).
+
+[^c-e1237a5d0d93e8a0ae47c027da86b13a]: Commencement: Art. 3 in force at 31.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/925/article/1)
+
+[^c-bf1f18610705e6faf0da23177741c503]: Commencement: Art. 4 in force at 31.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/925/article/1)
+
+[^c-7aae621de987f3c54953e9b8ef20f076]: Commencement: Art. 5 in force at 31.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/925/article/1)
+
+[^c-1301e61af13a8c98168bfa1ab6163985]: Commencement: Art. 6 in force at 31.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/925/article/1)
+
+[^c-a19287026a5b0083f6d45740bc37ec3a]: Commencement: Sch. in force at 31.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/925/article/1)

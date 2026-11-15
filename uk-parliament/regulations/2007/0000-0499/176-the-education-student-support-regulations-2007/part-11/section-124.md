@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 124
 act: The Education (Student Support) Regulations 2007
 section: '124'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/124
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 124
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 124. Payment of grants for books, travel and other expenditure and disabled part-time students’ allowances
+## 124. Payment of grants for books, travel and other expenditure and disabled part-time students’ allowances[^c-ea0aa9d665c783355b3afd837d3957af]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Payments of the grant for books, travel and other expenditure and the disabled part-time students’ allowance may be made in such manner as the Secretary of State considers appropriate and he may make it a condition of entitlement to payment that the eligible part-time student must provide him with particulars of a bank or building society account in the United Kingdom into which payments may be made by electronic transfer.
 
@@ -30,3 +36,7 @@ summary: ''
 
 - (a) a disabled part-time students’ allowance is payable in which case that particular grant may be paid before the Secretary of State has received a declaration;
 - (b) the Secretary of State has determined that owing to exceptional circumstances it would be appropriate to make a payment without receiving a declaration.
+
+## Annotations
+
+[^c-ea0aa9d665c783355b3afd837d3957af]: Commencement: Reg. 124 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

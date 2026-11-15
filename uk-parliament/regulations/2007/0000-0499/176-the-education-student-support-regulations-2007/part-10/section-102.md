@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 102
 act: The Education (Student Support) Regulations 2007
 section: '102'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/102
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 102
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 102. Information requirements
+## 102. Information requirements[^c-fad641ff066c8eb0b0a39ea49359a337]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) The Secretary of State may at any time request from an applicant, eligible student or qualifying student information that he considers is required to recover a loan.
 
@@ -25,3 +31,7 @@ summary: ''
 (4) Where the Secretary of State has requested information under this regulation, he may withhold any payment of a loan until the person provides what has been requested or provides a satisfactory explanation for not complying with the request.
 
 (5) Where the Secretary of State has requested an agreement as to the method of repayment under this regulation, he may withhold any payment of a loan until the person provides what has been requested.
+
+## Annotations
+
+[^c-fad641ff066c8eb0b0a39ea49359a337]: Commencement: Reg. 102 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

@@ -2,8 +2,8 @@
 title: The Income Tax (Pay As You Earn) Regulations 2003, section 61B
 act: The Income Tax (Pay As You Earn) Regulations 2003
 section: 61B
-status: revised-with-pending-changes
-text_date: '2026-07-07'
+status: revised
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2003/2682/section/61B
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Income Tax (Pay As You Earn) Regulations 2003, section 61B
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2682
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -33,8 +33,8 @@ but this is subject to paragraph (3).
 
 ## Annotations
 
-[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
+[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: Pt. 3 Ch. 3A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
 
-[^c-d48edec8a663dd13ff861790a6e6fc60]: Textual amendment: Words in [reg. 61B(2)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61B/2/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2016 (S.I. 2016/1137)](https://www.legislation.gov.uk/uksi/2016/1137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/4/a)
+[^c-d48edec8a663dd13ff861790a6e6fc60]: Textual amendment: Words in reg. 61B(2)(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2016 (S.I. 2016/1137)](https://www.legislation.gov.uk/uksi/2016/1137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/4/a)
 
-[^c-c73673acc4ec51ade622aec4217b6c4a]: Textual amendment: Words in [reg. 61B(3)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61B/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2016 (S.I. 2016/1137)](https://www.legislation.gov.uk/uksi/2016/1137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/4/b)
+[^c-c73673acc4ec51ade622aec4217b6c4a]: Textual amendment: Words in reg. 61B(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2016 (S.I. 2016/1137)](https://www.legislation.gov.uk/uksi/2016/1137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/4/b)

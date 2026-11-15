@@ -3,15 +3,15 @@ title: The Government Resources and Accounts Act 2000 (Audit of Public Bodies) O
 id: uksi/2008/817
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-25'
-text_date: null
-extent: null
+text_date: '2008-03-26'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/817
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/817/pdfs/uksiem_20080817_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/817/pdfs/uksi_20080817_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/817/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/817/data.pdf
 pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-03-26. See https://www.legislation.gov.uk/changes/affected/uksi/2008/817
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 817
 
@@ -40,15 +44,15 @@ In accordance with section 25(7)(a) of that Act it appears to the Treasury that 
 
 A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with section 25(10)(c) of that Act:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-b5be30c553369d400a3a7abe09a637a4]
 
 This Order may be cited as the Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2008 and comes into force on the day after the day on which it is made.
 
-## 2. Audit of bodies by the Comptroller and Auditor General
+## 2. Audit of bodies by the Comptroller and Auditor General[^c-c3cd7e236a1972ff999e9b723ab99c97]
 
 The accounts of the bodies listed in the Schedule to this Order that relate to financial years ending on or after 31st March 2008 shall be audited by the Comptroller and Auditor General.
 
-## 3. Independent Living Fund (2006)
+## 3. Independent Living Fund (2006)[^c-7d9563b9a132a62e0010f9375bf64ad1]
 
 (1) The trustees of the Independent Living Fund (2006)[^f00002] shall send a copy of the accounts of the Fund for each financial year ending on or after 31st March 2008 to the Comptroller and Auditor General as soon as is reasonably practicable.
 
@@ -57,19 +61,19 @@ The accounts of the bodies listed in the Schedule to this Order that relate to f
 - (a) examine, certify and report on accounts received under this article; and
 - (b) send a copy of the accounts and the report to the Secretary of State who shall lay them before Parliament.
 
-## 4. NHS Direct National Health Service Trust
+## 4. NHS Direct National Health Service Trust[^c-798b7555562c2589ae859b505fdfbcad]
 
 (1) Section 53 of the Audit Commission Act 1998[^f00003] (interpretation) is amended as follows.
 
 (2) In subsection (1), in the definition of “health service body”, after “Special Health Authority” insert “or NHS Direct National Health Service Trust[^f00004]”.
 
-**5.** (1) Schedule 4 to the National Health Service Act 2006[^f00005] (NHS Trusts established under section 25) is amended as follows.
+**5.**[^c-81b03cf9cd0304220ea83402293428a9] (1) Schedule 4 to the National Health Service Act 2006[^f00005] (NHS Trusts established under section 25) is amended as follows.
 
 (2) In paragraph 12, after sub-paragraph (2) insert—
 
 > (2A) In the case of NHS Direct National Health Service Trust the reference to a report under section 8 of the Audit Commission Act 1998 has effect as a reference to a report under paragraph 6(2) of Schedule 15 to this Act.
 
-**6.** (1) Schedule 15 to the National Health Service Act 2006 (accounts and audit) is amended as follows.
+**6.**[^c-4aaf86cc62f3f3c2394e901d0e534bba] (1) Schedule 15 to the National Health Service Act 2006 (accounts and audit) is amended as follows.
 
 (2) In paragraph 1 after sub-paragraph (2) insert—
 
@@ -92,7 +96,7 @@ The accounts of the bodies listed in the Schedule to this Order that relate to f
 
 (7) In paragraph 6(3) for “Special Health Authority” substitute “body”.
 
-## 7. The Royal Ulster Constabulary GC Foundation
+## 7. The Royal Ulster Constabulary GC Foundation[^c-67bc6b4eb119b6af2b57abcc16fcdfcd]
 
 (1) Regulation 11 of the Royal Ulster Constabulary GC Foundation Regulations 2002[^f00006] (accounts relating to the Foundation) is amended as follows.
 
@@ -105,7 +109,7 @@ The accounts of the bodies listed in the Schedule to this Order that relate to f
 > - (a) examine, certify and report on a statement received under Regulation 11; and
 > - (b) send a copy of the statement with the report to the Secretary of State who shall lay them before Parliament.
 
-## 8. Ombudsman for the Board of the Pension Protection Fund
+## 8. Ombudsman for the Board of the Pension Protection Fund[^c-3cb8c31788ed01b152c44b46e6e73828]
 
 After section 212 of the Pensions Act 2004[^f00007] (annual reports to the Secretary of State) insert—
 
@@ -120,7 +124,7 @@ After section 212 of the Pensions Act 2004[^f00007] (annual reports to the Secre
 >
 > (3) In this section “financial year” means a period of 12 months ending with 31st March.
 
-## 9. Pensions Ombudsman
+## 9. Pensions Ombudsman[^c-9bf596aefb9c65f1a4b6b399cd3322b8]
 
 In section 145 of the Pension Schemes Act 1993[^f00008] (the Pensions Ombudsman) after subsection (7) insert—
 
@@ -133,7 +137,7 @@ In section 145 of the Pension Schemes Act 1993[^f00008] (the Pensions Ombudsman)
 >
 > (10) In this section “financial year” means a period of 12 months ending with 31st March.
 
-## 10. Transition
+## 10. Transition[^c-9b578b43861a71a36c2c6c1c0826ee03]
 
 The amendments made by this Order apply only in relation to financial years ending on or after 31st March 2008.
 
@@ -145,7 +149,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 25th March 2008
 
-## SCHEDULE
+## SCHEDULE[^c-85b822853067d5c85af0f1a813fbc944]
 
 Article 2
 
@@ -171,16 +175,38 @@ The rights, liabilities, and property of NHS Direct Special Health Authority and
 
 [^f00001]: Footnote: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20)
 
+[^c-b5be30c553369d400a3a7abe09a637a4]: Commencement: Art. 1 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
+
+[^c-c3cd7e236a1972ff999e9b723ab99c97]: Commencement: Art. 2 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
+
+[^c-7d9563b9a132a62e0010f9375bf64ad1]: Commencement: Art. 3 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
+
 [^f00002]: Footnote: The Independent Living Fund (2006) was established by a deed dated 10th April 2006 and made between the Secretary of State for Work and Pensions of the one part and Margaret Rosemary Cooper, Michael Beresford Boyall and Marie Theresa Martin of the other part. Section 1(1) of the Disability Grants Act [1993 (c.14)](https://www.legislation.gov.uk/ukpga/1993/14), which was extended by section 61 of the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5), permits the Secretary of State to make grants to the Fund.
+
+[^c-798b7555562c2589ae859b505fdfbcad]: Commencement: Art. 4 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
 
 [^f00003]: Footnote: [1998 c.18](https://www.legislation.gov.uk/ukpga/1998/18). The definition of “health service body” in Section 53 was amended by the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8), section 65(2) and Schedule 5; the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 80(1) and Schedule 8, paragraphs 39 and 41; and the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), section 2 and Schedule 1, paragraphs 281 and 296.
 
 [^f00004]: Footnote: The Trust was established by the NHS Direct National Health Service Trust (Establishment) Order 2007 ([S.I. 2007/478](https://www.legislation.gov.uk/uksi/2007/478)).
 
+[^c-81b03cf9cd0304220ea83402293428a9]: Commencement: Art. 5 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
+
 [^f00005]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41)
+
+[^c-4aaf86cc62f3f3c2394e901d0e534bba]: Commencement: Art. 6 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
+
+[^c-67bc6b4eb119b6af2b57abcc16fcdfcd]: Commencement: Art. 7 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
 
 [^f00006]: Footnote: [S.R. (NI) 2002 No 260](https://www.legislation.gov.uk/nisr/2002/260), made under section 70 of the Police (Northern Ireland) Act [2000 (c.32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
+[^c-3cb8c31788ed01b152c44b46e6e73828]: Commencement: Art. 8 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
+
 [^f00007]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35)
 
+[^c-9bf596aefb9c65f1a4b6b399cd3322b8]: Commencement: Art. 9 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
+
 [^f00008]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). Section 145 was amended by the Pensions Act [1995 (c.28)](https://www.legislation.gov.uk/ukpga/1995/28), section 156; section 173 and Schedule 6, paragraph 7; and section 177 and Schedule 7, Part IV; and by the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), sections 319(1) and Schedule 12, paragraphs 9 and 23; section 274(1) and (2).
+
+[^c-9b578b43861a71a36c2c6c1c0826ee03]: Commencement: Art. 10 in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)
+
+[^c-85b822853067d5c85af0f1a813fbc944]: Commencement: Sch. in force at 26.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/817/article/1)

@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 27
 act: The Education (Student Support) Regulations 2007
 section: '27'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/27
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 27
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 27. Old system students who are gap year students who have studied on a previous course
+## 27. Old system students who are gap year students who have studied on a previous course[^c-ca0cc6c75df9412081a727657dd16989]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) This regulation applies where—
 
@@ -48,3 +54,7 @@ where
 (9) Where an old system student to whom this regulation applies qualifies for a grant for fees under paragraph (8), the Secretary of State must not allocate a grant for fees under paragraph (6) to the first academic year that the student takes of the designated course that is not a bursary year or an Erasmus year.
 
 (10) The amount of the grant for fees in respect of an academic year is determined in accordance with regulation 29 or 30 where the eligible student falls within paragraph (1)(a) and in accordance with regulation 29, 30 or 31 where the eligible student falls within paragraph (1)(b) and in either case the amount may be nil.
+
+## Annotations
+
+[^c-ca0cc6c75df9412081a727657dd16989]: Commencement: Reg. 27 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

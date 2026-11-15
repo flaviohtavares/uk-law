@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 41
 act: The Education (Student Support) Regulations 2007
 section: '41'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 41
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 41. Amount of the disabled students’ allowance
+## 41. Amount of the disabled students’ allowance[^c-26235fae7f243178721157cf85d902f4]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to the following paragraphs, the amount of the disabled students’ allowance is the amount that the Secretary of State considers appropriate in accordance with the student’s circumstances.
 
@@ -33,3 +39,7 @@ summary: ''
 
 - (a) an eligible student undertakes a course for the initial training of teachers; and
 - (b) in any academic year of that course, the periods of full-time study and full-time teaching practice are in aggregate less than 6 weeks.
+
+## Annotations
+
+[^c-26235fae7f243178721157cf85d902f4]: Commencement: Reg. 41 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

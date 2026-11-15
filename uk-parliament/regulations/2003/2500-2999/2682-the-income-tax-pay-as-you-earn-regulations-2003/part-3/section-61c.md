@@ -2,8 +2,8 @@
 title: The Income Tax (Pay As You Earn) Regulations 2003, section 61C
 act: The Income Tax (Pay As You Earn) Regulations 2003
 section: 61C
-status: revised-with-pending-changes
-text_date: '2026-07-07'
+status: revised
+text_date: '2026-11-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2003/2682/section/61C
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Income Tax (Pay As You Earn) Regulations 2003, section 61C
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2682
+> Text as at 2026-11-05.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -54,12 +54,12 @@ summary: ''
 
 (9) Any application or notice must be made to HMRC using an approved method of electronic communication unless the employer is one to whom regulation 67D applies.
 
-(9A)[^c-26fd5b6cf4c28e78a1f97594774047e7] An application cannot be made under this regulation for the tax year 2027-28 or subsequent tax years.
+(9A)[^c-d3c61039653c1ea9714ac0c2f516e758] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) For the purposes of this regulation, “Revised Taxable Amount of the Benefit” means the result of the calculation at step 3 of regulation 61I(2), as applied by regulation 61J(2).
 
 ## Annotations
 
-[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
+[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: Pt. 3 Ch. 3A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
 
-[^c-26fd5b6cf4c28e78a1f97594774047e7]: Textual amendment: [Reg. 61C(9A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61C/9A) inserted (6.4.2026) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2026 (S.I. 2026/189)](https://www.legislation.gov.uk/uksi/2026/189), [regs. 1](https://www.legislation.gov.uk/uksi/2026/189/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/189/regulation/2/2)
+[^c-d3c61039653c1ea9714ac0c2f516e758]: Textual amendment: Reg. 61C(9A) omitted (5.11.2026) by virtue of [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2026 (S.I. 2026/1082)](https://www.legislation.gov.uk/uksi/2026/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2026/1082/regulation/1), [4](https://www.legislation.gov.uk/uksi/2026/1082/regulation/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/1082/regulation/10))

@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 55
 act: The Education (Student Support) Regulations 2007
 section: '55'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 55
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 55. Interpretation
+## 55. Interpretation[^c-daab56bcbc06fc41ec325b503dbed164]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 For the purposes of this Chapter—
 
@@ -23,3 +29,7 @@ For the purposes of this Chapter—
   - (ii) does not include any expenditure in respect of which a grant is payable under Chapter 3 of this Part;
 - (b) “**expenses**” means reasonable expenditure within or outside of the United Kingdom for the purpose of attending as part of a designated course an overseas institution or the Institute;
 - (c) “**qualifying quarter**” means a quarter during which the eligible student attends as part of his course an overseas institution or the Institute for at least half the period covered by that quarter.
+
+## Annotations
+
+[^c-daab56bcbc06fc41ec325b503dbed164]: Commencement: Reg. 55 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

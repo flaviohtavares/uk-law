@@ -3,15 +3,15 @@ title: The School Admissions (Co-ordination of Admission Arrangements) (England)
 id: uksi/2007/194
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-01-29'
-text_date: null
-extent: null
+text_date: '2007-02-27'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/194
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/194/pdfs/uksiem_20070194_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/194/pdfs/uksi_20070194_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/194/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2007/194/data.pdf
 pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The School Admissions (Co-ordination of Admission Arrangements) (England) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2007-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2007/194
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2007 No. 194
 
@@ -42,7 +46,7 @@ Coming into force
 
 The Secretary of State for Education and Skills makes the following Regulations in exercise of the powers conferred by sections 89B(1), (4), (5) and (6), 89C(1), (2), (3), (4) and (5), 138(7) and 144(1) of the School Standards and Framework Act 1998[^f00001]:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-0e26c12f73315b1d4ca19cfb82d0f1a7]
 
 (1) These Regulations may be cited as The School Admissions (Co-ordination of Admission Arrangements) (England) Regulations 2007 and come into force on 27th February 2007.
 
@@ -50,11 +54,11 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 (3) These Regulations do not apply to the Council of the Isles of Scilly.
 
-## 2. Revocation of Regulations
+## 2. Revocation of Regulations[^c-526fe85acd2c1f6b4df245675a58e241]
 
 The Regulations set out in Schedule 1 to these Regulations are revoked.
 
-## 3. Interpretation
+## 3. Interpretation[^c-86978aa08be10a5855dff574973a7c98]
 
 (1) In these Regulations—
 
@@ -78,7 +82,7 @@ The Regulations set out in Schedule 1 to these Regulations are revoked.
 - (a) the relevant admission authority for the school determine, in accordance with the school’s admission arrangements, the order of priority in which the application is ranked (or where the governing body are the admission authority for the school and have made arrangements for another body to determine the order of priority in which applications are ranked under paragraph 6(b) of Schedule 3, that body determines the order of priority in which the application is ranked); and
 - (b) a determination relating to the application is made by an authority on or before the date prescribed by regulation 9(2).
 
-## 4. Formulation of qualifying schemes
+## 4. Formulation of qualifying schemes[^c-3195271e3ee156ef776668a332ce759e]
 
 (1) Subject to paragraphs (2) and (3), in relation to each academic year to which these Regulations apply, an authority must formulate a qualifying scheme in relation to each primary school in their area (a “qualifying primary scheme”), and a qualifying scheme in relation to each secondary school in their area (a “qualifying secondary scheme”).
 
@@ -89,7 +93,7 @@ The Regulations set out in Schedule 1 to these Regulations are revoked.
 - (a) a qualifying scheme has been adopted in relation to an academic year by the authority and each governing body who are the admission authority for a primary school or, as the case may be, a secondary school in their area, and after reviewing the scheme the authority consider that it should again be adopted by themselves and each of those governing bodies in relation to the academic year immediately following; or
 - (b) an imposed scheme has been made or has effect in relation to the preceding academic year and has not been revoked, and the authority, after reviewing the scheme, consider that the scheme should be adopted by themselves and each governing body who are the admission authority for a primary school or, as the case may be for a secondary school in their area in relation to the academic year immediately following.
 
-## 5. Action to be taken by a local education authority to secure adoption of a qualifying scheme
+## 5. Action to be taken by a local education authority to secure adoption of a qualifying scheme[^c-064eaae53bdd03b2f661470e1f5d3e43]
 
 (1) This regulation prescribes for the purposes of section 89B(1)(b) of the 1998 Act the action to be taken by an authority with a view to securing the adoption of a qualifying scheme by themselves and each governing body who are the admission authority for a primary school or, as the case may be, a secondary school in their area.
 
@@ -108,11 +112,11 @@ The Regulations set out in Schedule 1 to these Regulations are revoked.
 
 (6) Once the authority have carried out any consultation required under this regulation they must determine the qualifying scheme (either in its original form or with such modifications as the authority think fit) which they propose should apply for the academic year in question and must take all reasonable steps to secure its adoption by themselves and each governing body they consulted in relation to it.
 
-## 6. Information to be provided to the Secretary of State
+## 6. Information to be provided to the Secretary of State[^c-26f2a4a3ac2ad5a46251808225f8587b]
 
 Where, following the action required to be taken under regulation 5, an authority secure agreement to the adoption of a qualifying scheme, or where the authority adopt a scheme pursuant to regulation 4(3), they must inform the Secretary of State accordingly and provide the Secretary of State with a copy of the scheme.
 
-## 7. Making of a scheme by the Secretary of State
+## 7. Making of a scheme by the Secretary of State[^c-b142235c1d299ec566b229981e96c22a]
 
 (1) In any case where by 15th April in the relevant determination year an authority have not informed the Secretary of State in accordance with regulation 6 that a scheme has been adopted in relation to each primary school or, as the case may be, each secondary school in their area—
 
@@ -121,7 +125,7 @@ Where, following the action required to be taken under regulation 5, an authorit
 
 (2) An imposed primary scheme may make provision corresponding to the requirements of a qualifying primary scheme, and an imposed secondary scheme may make provision corresponding to the requirements of a qualifying secondary scheme.
 
-## 8. Date on which decisions in relation to primary school admissions are to be communicated to parents
+## 8. Date on which decisions in relation to primary school admissions are to be communicated to parents[^c-565045dbde003d7c0a1286b5853538d3]
 
 (1) Subject to paragraphs (3), (4) and (5), an authority must designate in accordance with section 89B(5)(a) of the 1998 Act, the single day in each year on which an authority’s determination in accordance with the provisions of a qualifying primary scheme to offer or refuse a child admission to a primary school in their area is to be communicated to a parent.
 
@@ -131,7 +135,7 @@ Where, following the action required to be taken under regulation 5, an authorit
 
 (4) This regulation does not apply to applications made otherwise than in the course of a normal admission round.
 
-## 9. Date on which decisions in relation to secondary school admissions are to be communicated to parents
+## 9. Date on which decisions in relation to secondary school admissions are to be communicated to parents[^c-1c5a6261457684d776343d60d51aa7b3]
 
 (1) Subject to paragraph (3), this regulation prescribes for the purposes of section 89B(5)(b) of the 1998 Act, the single day in each year on which an authority’s determination in accordance with the provisions of a qualifying secondary scheme or an imposed secondary scheme to offer or refuse a child admission to a secondary school in their area is to be communicated to a parent.
 
@@ -139,7 +143,7 @@ Where, following the action required to be taken under regulation 5, an authorit
 
 (3) This regulation does not apply to applications made otherwise than in the course of a normal admission round.
 
-## 10. Sections 496 and 497 of the Education Act 1996
+## 10. Sections 496 and 497 of the Education Act 1996[^c-8bb477d782538dd9dd7a7d4218c04d31]
 
 Sections 496 and 497 of the Education Act 1996[^f00004] applies to an authority or a governing body as if any of the obligations imposed on them under a qualifying scheme or an imposed scheme were duties imposed on them under that Act.
 
@@ -151,7 +155,7 @@ Department for Education and Skills
 
 29th January 2007
 
-## SCHEDULE 1 — Regulations revoked
+## SCHEDULE 1 — Regulations revoked[^c-100eff8cd093c8145785fa2cade1f486]
 
 Regulation 2
 
@@ -168,7 +172,7 @@ Regulation 2
 
 Regulation 4(2)
 
-### 1. General
+### 1. General[^c-f8d060148bcf2c863e9f19192a578fd4]
 
 A qualifying primary scheme must—
 
@@ -185,7 +189,7 @@ A qualifying primary scheme must—
   - (i) is made otherwise than in the course of a normal admission round, or
   - (ii) where it is for admission to a relevant age group, is submitted later than the date stipulated by the scheme.
 
-### 2. Duties of LEA under a qualifying primary scheme
+### 2. Duties of LEA under a qualifying primary scheme[^c-c0ce36cc3e6f2ce91c8447ea73960c80]
 
 A qualifying primary scheme must require an authority—
 
@@ -200,7 +204,7 @@ A qualifying primary scheme must require an authority—
 - (e) to communicate any determination granting or refusing admission to a primary school in their area to the parent in accordance with regulation 8 (such determination being communicated on behalf of a school’s governing body in any case where the authority are not the admission authority for the school); and
 - (f) with regard to any application relating to a child living in a different local education authority’s area, to notify that authority of their determination.
 
-### 3. Duties of governing body under a qualifying primary scheme
+### 3. Duties of governing body under a qualifying primary scheme[^c-2815e8f7224045b980f842075c12daa2]
 
 A qualifying primary scheme must require a governing body who are the admission authority for a primary school—
 
@@ -212,7 +216,7 @@ A qualifying primary scheme must require a governing body who are the admission 
 
 Regulation 4(2)
 
-### 1. General
+### 1. General[^c-d8948df47b948d156e081083daf16962]
 
 A qualifying secondary scheme must—
 
@@ -235,7 +239,7 @@ A qualifying secondary scheme must—
   - (i) is made otherwise than in the course of a normal admission round, or
   - (ii) where it is for admission to a relevant age group, is submitted to the authority later than the date stipulated by the scheme.
 
-### 2. Duties of LEA under a qualifying secondary scheme relating to applications for in-area schools
+### 2. Duties of LEA under a qualifying secondary scheme relating to applications for in-area schools[^c-96a31956f44103b07992354a45022c4c]
 
 A qualifying secondary scheme must require an authority—
 
@@ -250,7 +254,7 @@ A qualifying secondary scheme must require an authority—
 - (e) to communicate any determination granting or refusing admission to a secondary school in their area to the parent on the day prescribed by regulation 9(2) (such determination being communicated on behalf of a school’s governing body in any case where the authority are not the admission authority for the school); and
 - (f) with regard to any application relating to a child living in a different local education authority’s area, to notify that authority of their determination.
 
-### 3. Additional duties on LEA relating to applications for out-of area schools
+### 3. Additional duties on LEA relating to applications for out-of area schools[^c-6aadaa208e5c939b5793ea03a442ed85]
 
 In any case where a parent in the area of the authority (“the home authority”) applies under the common application form for a secondary school in the area of a different local education authority (“the maintaining authority”), a qualifying scheme must—
 
@@ -259,7 +263,7 @@ In any case where a parent in the area of the authority (“the home authority�
   - (i) whether, in determining in accordance with paragraph 2(c) whether the child is to be granted or refused admission to any school in their area for which application has also been made, the home authority will have regard to any information provided by the maintaining authority as to whether the child is to be granted admission to a school within that authority’s area; and
   - (ii) if so, the effect (if any) that such information will have in relation to any other application made by the parent.
 
-**4.** Where a maintaining authority are notified by a home authority of a parent’s application for a secondary school in their area, a qualifying secondary scheme must require the maintaining authority—
+**4.**[^c-fe95042eabd56758672fc5e6beeaef64] Where a maintaining authority are notified by a home authority of a parent’s application for a secondary school in their area, a qualifying secondary scheme must require the maintaining authority—
 
 - (a) where they are not the admission authority for the school, to forward to the school’s governing body details of the application and any information provided by the parent;
 - (b) where they are the admission authority for the school, to determine the order of priority in which the application is ranked;
@@ -271,7 +275,7 @@ In any case where a parent in the area of the authority (“the home authority�
 - (d) to notify the home authority of their determination; and
 - (e) to communicate to the parent any determination granting or refusing admission on the day prescribed by regulation 9(2) (such determination being communicated on behalf of a school’s governing body in a case where the authority are not the admission authority for the school).
 
-**5.** Where paragraphs (i) and (ii) of paragraph 1(a) apply—
+**5.**[^c-fc517798590abdd012be7eb9fbd5ee43] Where paragraphs (i) and (ii) of paragraph 1(a) apply—
 
 - (a) the home authority before making their determination under paragraph 2(c), and the maintaining authority before making their determination under paragraph 4(c), must—
   - (i) each notify the other of their proposed determination, and
@@ -282,7 +286,7 @@ In any case where a parent in the area of the authority (“the home authority�
   - (iii) the requirements of paragraphs 2(e) and 4(e) do not apply in respect of such determinations, and
 - (c) paragraph 3(b) shall not apply to the scheme.
 
-### 6. Duties of governing body under a qualifying secondary scheme
+### 6. Duties of governing body under a qualifying secondary scheme[^c-2167e185bd566218d1636c0f1ef916b6]
 
 A qualifying secondary scheme must require a governing body who are the admission authority for a secondary school—
 
@@ -326,8 +330,48 @@ They also make one substantive change, by enabling governing bodies which are th
 
 [^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31); sections 89B and 89C were inserted by section 48 of the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32) and section 89C was amended by section 43 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
+[^c-0e26c12f73315b1d4ca19cfb82d0f1a7]: Commencement: Reg. 1 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-526fe85acd2c1f6b4df245675a58e241]: Commencement: Reg. 2 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-86978aa08be10a5855dff574973a7c98]: Commencement: Reg. 3 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
 [^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c-3195271e3ee156ef776668a332ce759e]: Commencement: Reg. 4 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-064eaae53bdd03b2f661470e1f5d3e43]: Commencement: Reg. 5 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
 
 [^f00003]: Footnote: Section 85A was inserted by section 45 of the Education Act 2002.
 
+[^c-26f2a4a3ac2ad5a46251808225f8587b]: Commencement: Reg. 6 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-b142235c1d299ec566b229981e96c22a]: Commencement: Reg. 7 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-565045dbde003d7c0a1286b5853538d3]: Commencement: Reg. 8 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-1c5a6261457684d776343d60d51aa7b3]: Commencement: Reg. 9 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-8bb477d782538dd9dd7a7d4218c04d31]: Commencement: Reg. 10 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
 [^f00004]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^c-100eff8cd093c8145785fa2cade1f486]: Commencement: Sch. 1 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-f8d060148bcf2c863e9f19192a578fd4]: Commencement: Sch. 2 para. 1 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-c0ce36cc3e6f2ce91c8447ea73960c80]: Commencement: Sch. 2 para. 2 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-2815e8f7224045b980f842075c12daa2]: Commencement: Sch. 2 para. 3 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-d8948df47b948d156e081083daf16962]: Commencement: Sch. 3 para. 1 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-96a31956f44103b07992354a45022c4c]: Commencement: Sch. 3 para. 2 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-6aadaa208e5c939b5793ea03a442ed85]: Commencement: Sch. 3 para. 3 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-fe95042eabd56758672fc5e6beeaef64]: Commencement: Sch. 3 para. 4 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-fc517798590abdd012be7eb9fbd5ee43]: Commencement: Sch. 3 para. 5 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)
+
+[^c-2167e185bd566218d1636c0f1ef916b6]: Commencement: Sch. 3 para. 6 in force at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/194/regulation/1/1)

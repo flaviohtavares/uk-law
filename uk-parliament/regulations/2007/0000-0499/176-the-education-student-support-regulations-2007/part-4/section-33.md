@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 33
 act: The Education (Student Support) Regulations 2007
 section: '33'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/33
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 33
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 33. Amount of the fee contribution loan
+## 33. Amount of the fee contribution loan[^c-45ee0eb071778f65554bd75a2dae5bd9]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Where an old system student applies for a grant for fees and a fee contribution loan, the amount of the fee contribution loan in respect of an academic year of the designated course is the amount for which the student applies not exceeding the difference between the basic amount of the grant determined under regulation 29 or 30 and the amount of the grant that is payable after the application of the contribution in accordance with regulation 94.
 
@@ -33,3 +39,7 @@ summary: ''
 (4) The additional amount under paragraph (3) is an amount which when added to the amount already applied for does not exceed the increased maximum.
 
 (5) Where an old system student has applied for a fee contribution loan of less than the maximum amount to which he is entitled, he may apply to borrow an additional amount which, when added to the amount already applied for, does not exceed the relevant maximum applicable in his case.
+
+## Annotations
+
+[^c-45ee0eb071778f65554bd75a2dae5bd9]: Commencement: Reg. 33 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

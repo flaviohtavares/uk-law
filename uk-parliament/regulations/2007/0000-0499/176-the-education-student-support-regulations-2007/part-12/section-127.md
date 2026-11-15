@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 127
 act: The Education (Student Support) Regulations 2007
 section: '127'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/127
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 127
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 127. Eligible postgraduate students
+## 127. Eligible postgraduate students[^c-ea59a7a8e55c420b88cd46fe2145178b]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) An eligible postgraduate student qualifies, subject to and in accordance with this Part, for a grant to assist with the additional expenditure which the Secretary of State is satisfied he is obliged to incur by reason of a disability to which he is subject in respect of his undertaking a designated postgraduate course.
 
@@ -86,6 +92,8 @@ A’s status as an eligible postgraduate student terminates immediately before t
 - (c) a designated postgraduate course and a designated part-time course.
 
 ## Annotations
+
+[^c-ea59a7a8e55c420b88cd46fe2145178b]: Commencement: Reg. 127 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
 
 [^f00073]: Footnote: [S.I. 1992/580](https://www.legislation.gov.uk/uksi/1992/580), amended by [S.S.I. 2002/423](https://www.legislation.gov.uk/ssi/2002/423), [S.S.I. 2003/401](https://www.legislation.gov.uk/ssi/2003/401) and [S.S. I 2006/323](https://www.legislation.gov.uk/ssi/2006/323).
 

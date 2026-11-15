@@ -3,16 +3,16 @@ title: The Education (Student Support) Regulations 2007
 id: uksi/2007/176
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2007-01-29'
-text_date: null
-extent: null
+text_date: '2007-01-29'
+extent: E+W+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2007/176
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2007/176/pdfs/uksiem_20070176_en.pdf
 - http://www.legislation.gov.uk/uksi/2007/176/pdfs/uksi_20070176_en.pdf
-- http://www.legislation.gov.uk/uksi/2007/176/made/data.pdf
-pending_changes: 54
+- http://www.legislation.gov.uk/uksi/2007/176/data.pdf
+pending_changes: 237
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (237).** Text as at 2007-01-29. See https://www.legislation.gov.uk/changes/affected/uksi/2007/176
+>
+> Extent: England, Wales, Northern Ireland.
+
+*Extent: E+W+N.I.*
+
+**Not yet in force.**
 
 This Statutory Instrument has been printed in substitution of the SI of the same number and is being issued free of charge to all known recipients of that Statutory Instrument.
 
@@ -50,12 +56,20 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 ### PART 1 — GENERAL
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 1 — Citation, commencement, application and extent](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Amendment of the Education (Student Support) Regulations 2006](part-1/section-3.md)
 - [Section 4 — Revocation, savings and transitional provisions](part-1/section-4.md)
 
 ### PART 2 — ELIGIBILITY
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 5 — Eligible students](part-2/section-5.md)
 - [Section 6 — Designated courses](part-2/section-6.md)
@@ -64,13 +78,25 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 ### PART 3 — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 9 — Applications for support](part-3/section-9.md)
 - [Section 10 — Time limits](part-3/section-10.md)
 - [Section 11 — Information](part-3/section-11.md)
 
 ### PART 4 — FEE SUPPORT
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### CHAPTER 1 — TYPES OF FEE SUPPORT AVAILABLE
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 12 — Current system students](part-4/section-12.md)
 - [Section 13 — Old system students](part-4/section-13.md)
@@ -81,6 +107,10 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 #### CHAPTER 2 — FEE LOANS FOR CURRENT SYSTEM STUDENTS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 18 — Availability of fee loans to current system students - general](part-4/section-18.md)
 - [Section 19 — Standard entitlement of current system students who have not studied on a previous course](part-4/section-19.md)
 - [Section 20 — Standard entitlement of current system students who have transferred from or otherwise studied on a previous course](part-4/section-20.md)
@@ -88,6 +118,10 @@ The Secretary of State for Education and Skills makes the following Regulations 
 - [Section 22 — Amount of the fee loan](part-4/section-22.md)
 
 #### CHAPTER 3 — GRANTS FOR FEES FOR OLD SYSTEM STUDENTS
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 23 — Old system students who are continuing students](part-4/section-23.md)
 - [Section 24 — Old system students who are transferring students](part-4/section-24.md)
@@ -101,32 +135,60 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 #### CHAPTER 4 — FEE CONTRIBUTION LOANS FOR OLD SYSTEM STUDENTS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 32 — Availability of fee contribution loans to old system students](part-4/section-32.md)
 - [Section 33 — Amount of the fee contribution loan](part-4/section-33.md)
 
 #### CHAPTER 5 — INTERPRETATION OF PART 4
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 34 — Previous course](part-4/section-34.md)
 - [Section 35 — Miscellaneous](part-4/section-35.md)
 
 ### PART 5 — GRANTS FOR LIVING AND OTHER COSTS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### CHAPTER 1 — TYPES OF GRANTS AVAILABLE
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 36 — Current system students](part-5/section-36.md)
 - [Section 37 — Old system students](part-5/section-37.md)
 
 #### CHAPTER 2 — GENERAL PROVISIONS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 38 — General qualifying conditions for grants for living and other costs](part-5/section-38.md)
 - [Section 39 — Students who are treated as in attendance](part-5/section-39.md)
 
 #### CHAPTER 3 — DISABLED STUDENTS’ ALLOWANCES
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 40 — Qualifying conditions for the disabled students’ allowance](part-5/section-40.md)
 - [Section 41 — Amount of the disabled students’ allowance](part-5/section-41.md)
 
 #### CHAPTER 4 — GRANTS FOR DEPENDANTS
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 42 — General](part-5/section-42.md)
 - [Section 43 — Adult dependants’ grant](part-5/section-43.md)
@@ -136,6 +198,10 @@ The Secretary of State for Education and Skills makes the following Regulations 
 - [Section 47 — Interpretation of Chapter 4](part-5/section-47.md)
 
 #### CHAPTER 5 — GRANTS FOR TRAVEL
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 48 — General](part-5/section-48.md)
 - [Section 49 — Qualifying conditions for the grant for travel – courses in medicine and dentistry](part-5/section-49.md)
@@ -148,27 +214,51 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 #### CHAPTER 6 — MAINTENANCE GRANTS FOR CURRENT SYSTEM STUDENTS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 56 — Qualifying conditions for the maintenance grant](part-5/section-56.md)
 - [Section 57 — Amount of the maintenance grant](part-5/section-57.md)
 
 #### CHAPTER 7 — SPECIAL SUPPORT GRANTS FOR CURRENT SYSTEM STUDENTS
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 58 — Qualifying conditions for the special support grant](part-5/section-58.md)
 - [Section 59 — Amount of the special support grant](part-5/section-59.md)
 
 #### CHAPTER 8 — HIGHER EDUCATION GRANTS FOR OLD SYSTEM STUDENTS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 60 — Qualifying conditions for the higher education grant](part-5/section-60.md)
 - [Section 61 — Amount of the higher education grant](part-5/section-61.md)
 
 ### PART 6 — LOANS FOR LIVING COSTS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### CHAPTER 1 — QUALIFYING CONDITIONS
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 62 — Qualifying conditions for the loan for living costs – current system students](part-6/section-62.md)
 - [Section 63 — Qualifying conditions for the loan for living costs – old system students](part-6/section-63.md)
 
 #### CHAPTER 2 — MAXIMUM AMOUNTS OF LOANS
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 64 — General](part-6/section-64.md)
 - [Section 65 — Current system students with full entitlement](part-6/section-65.md)
@@ -177,6 +267,10 @@ The Secretary of State for Education and Skills makes the following Regulations 
 - [Section 68 — Students with reduced entitlement](part-6/section-68.md)
 
 #### CHAPTER 3 — MISCELLANEOUS
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 69 — Quarters in respect of which the loan for living costs is payable](part-6/section-69.md)
 - [Section 70 — Students falling into more than one category](part-6/section-70.md)
@@ -191,6 +285,10 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 ### PART 7 — COLLEGE FEE LOANS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 79 — General](part-7/section-79.md)
 - [Section 80 — Qualifying conditions](part-7/section-80.md)
 - [Section 81 — Persons to be treated as eligible students](part-7/section-81.md)
@@ -202,10 +300,18 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 ### PART 8 — INTEREST AND INSOLVENCY
 
+*Extent: E+W+N.I.*
+
+**Not yet in force.**
+
 - [Section 90 — Interest](part-8/section-90.md)
 - [Section 91 — Insolvency](part-8/section-91.md)
 
 ### PART 9 — FINANCIAL ASSESSMENT
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 92 — Calculation of contribution](part-9/section-92.md)
 - [Section 93 — Application of contribution – current system students](part-9/section-93.md)
@@ -216,15 +322,31 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 ### PART 10 — PAYMENTS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 #### CHAPTER 1 — PAYMENT OF GRANTS FOR FEES
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 98 — Payment of grants for fees](part-10/section-98.md)
 
 #### CHAPTER 2 — PAYMENT OF GRANTS FOR LIVING AND OTHER COSTS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 99 — Payment of grants for living and other costs](part-10/section-99.md)
 
 #### CHAPTER 3 — PAYMENT OF LOANS
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 100 — General](part-10/section-100.md)
 - [Section 101 — Provision of United Kingdom national insurance number](part-10/section-101.md)
@@ -235,15 +357,27 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 #### CHAPTER 4 — OVERPAYMENTS
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 106 — Overpayments of fee support](part-10/section-106.md)
 - [Section 107 — Overpayments of college fee loan](part-10/section-107.md)
 - [Section 108 — Overpayments of support payable under Part 5 or Part 6](part-10/section-108.md)
 
 #### CHAPTER 5 — INTERPRETATION
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 109 — Interpretation](part-10/section-109.md)
 
 ### PART 11 — SUPPORT FOR PART-TIME COURSES
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 110 — Eligible part-time students](part-11/section-110.md)
 - [Section 111 — Students becoming eligible during the course of the academic year](part-11/section-111.md)
@@ -265,6 +399,10 @@ The Secretary of State for Education and Skills makes the following Regulations 
 
 ### PART 12 — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 127 — Eligible postgraduate students](part-12/section-127.md)
 - [Section 128 — Students becoming eligible in the course of an academic year](part-12/section-128.md)
 - [Section 129 — Designated postgraduate courses](part-12/section-129.md)
@@ -282,6 +420,10 @@ The Secretary of State for Education and Skills makes the following Regulations 
 - [SCHEDULE 4](schedule-4.md)
 - [SCHEDULE 5](schedule-5.md)
 
+*Extent: E+W+N.I.*
+
+**Not yet in force.**
+
 Bill Rammell
 
 Minister of State
@@ -289,6 +431,10 @@ Minister of State
 Department for Education and Skills
 
 29th January 2007
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 EXPLANATORY NOTE
 

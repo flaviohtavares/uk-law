@@ -3,15 +3,15 @@ title: The Official Statistics Order 2008
 id: uksi/2008/928
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-31'
-text_date: null
-extent: null
+text_date: '2008-04-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/928
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/928/pdfs/uksiem_20080928_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/928/pdfs/uksi_20080928_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/928/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/928/data.pdf
 pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Official Statistics Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2008-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/928
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 928
 
@@ -40,13 +44,13 @@ In accordance with section 6(3) of that Act he has consulted with the Statistics
 
 In accordance with section 65(2) of that Act a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-d4932cdbe0ab15da9555f32a54960100]
 
 (1) This Order may be cited as the Official Statistics Order 2008.
 
 (2) This Order comes into force on 1st April 2008 or, if made after that date, the day after it is made.
 
-## 2. Official Statistics
+## 2. Official Statistics[^c-0c494877820acf21749c8e49f914ecce]
 
 (1) To the extent that they are not otherwise official statistics by virtue of section 6(1)(a) of the Statistics and Registration Service Act 2007, the statistics produced, or to be produced, by the persons listed in the Schedule are specified as official statistics for the purposes of section 6(1)(b) of that Act.
 
@@ -58,7 +62,7 @@ Minister for the Cabinet Office
 
 31st March 2008
 
-## SCHEDULE
+## SCHEDULE[^c-f163e58907f629a66da2d88ce2e999c1]
 
 Article 2(1)
 
@@ -113,5 +117,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 ## Annotations
 
 [^f00001]: Footnote: [2007 c. 18](https://www.legislation.gov.uk/ukpga/2007/18).
+
+[^c-d4932cdbe0ab15da9555f32a54960100]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/928/article/1/2)
+
+[^c-0c494877820acf21749c8e49f914ecce]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/928/article/1/2)
+
+[^c-f163e58907f629a66da2d88ce2e999c1]: Commencement: Sch. in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/928/article/1/2)
 
 [^f00002]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).

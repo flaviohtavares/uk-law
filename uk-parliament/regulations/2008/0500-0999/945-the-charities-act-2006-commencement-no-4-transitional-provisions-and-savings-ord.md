@@ -3,14 +3,14 @@ title: The Charities Act 2006 (Commencement No. 4, Transitional Provisions and S
 id: uksi/2008/945
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-03-31'
-text_date: null
-extent: null
+text_date: '2008-03-31'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/945
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/945/pdfs/uksi_20080945_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/945/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/945/data.pdf
 pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Charities Act 2006 (Commencement No. 4, Transitional Provisions and Savings) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 2008-03-31. See https://www.legislation.gov.uk/changes/affected/uksi/2008/945
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 945 (C. 46)
 
@@ -33,7 +37,7 @@ Made
 
 The Minister for the Cabinet Office makes the following Order in exercise of the powers conferred by section 79(2) and (3) of the Charities Act 2006[^f00001]:
 
-## 1. Citation and interpretation
+## 1. Citation and interpretation[^c-d993088992fb8e1fe3ff9c6f53d4dc82]
 
 (1) This Order may be cited as the Charities Act 2006 (Commencement No. 4, Transitional Provisions and Savings) Order 2008.
 
@@ -47,19 +51,19 @@ The Minister for the Cabinet Office makes the following Order in exercise of the
   - (a) sections 1 to 3 and 5(2) of the 2006 Act; and
   - (b) section 5(1) of the 2006 Act in so far as it relates to section 5(2) of that Act.
 
-## 2. Commencement
+## 2. Commencement[^c-4d484460f657bc00badc1b84a817731e]
 
 Subject to articles 4 to 9, the day appointed for the commencement of the provisions of the 2006 Act specified in Column 1 of Schedule 1 is 1st April 2008 except—
 
 - (a) where a particular purpose is specified in Column 3 of that Schedule in relation to any such provision, the relevant provision comes into force on that date for that particular purpose only;
 - (b) where any other limitation is specified in Column 3 of that Schedule in relation to any such provision, the relevant provision comes into force on that date subject to the specified limitation.
 
-**3.** Subject to articles 10 and 11, the day appointed for the commencement of the provisions of the 2006 Act specified in Column 1 of Schedule 2 is 1st April 2009 except—
+**3.**[^c-92a4539bd16fd671153ff6285a3dde63] Subject to articles 10 and 11, the day appointed for the commencement of the provisions of the 2006 Act specified in Column 1 of Schedule 2 is 1st April 2009 except—
 
 - (a) where a particular purpose is specified in Column 3 of that Schedule in relation to any such provision, the relevant provision comes into force on that date for that particular purpose only;
 - (b) where any other limitation is specified in Column 3 of that Schedule in relation to any such provision, the relevant provision comes into force on that date subject to the specified limitation.
 
-## 4. Transitional provisions and savings in respect of provisions of the 2006 Act commenced on 1st April 2008
+## 4. Transitional provisions and savings in respect of provisions of the 2006 Act commenced on 1st April 2008[^c-c8eec088fbfdefd4c97d64559460dc35]
 
 The commencement of the status provisions by this Order—
 
@@ -70,20 +74,20 @@ The commencement of the status provisions by this Order—
 - (c) does not require anything to be treated as charitable at any time before 1st April 2008 that was not charitable before that date;
 - (d) does not require anything to be treated as not being charitable at any time before 1st April 2008 that was charitable before that date.
 
-**5.** Where an institution ceases to be a charity on 1st April 2008 as a consequence of the commencement of any of the status provisions by this Order, section 4 of the 1993 Act does not apply to that institution during the period beginning on 1st April 2008 and ending on the date on which it is removed from the register of charities by the Commission.
+**5.**[^c-5626e69cae376e584b21274c42d31917] Where an institution ceases to be a charity on 1st April 2008 as a consequence of the commencement of any of the status provisions by this Order, section 4 of the 1993 Act does not apply to that institution during the period beginning on 1st April 2008 and ending on the date on which it is removed from the register of charities by the Commission.
 
-**6.** Section 4(6) of the 2006 Act does not apply in relation to the exercise of a power or duty by a charity trustee of a charity—
+**6.**[^c-a46229809457b23a38b037b63bd057cc] Section 4(6) of the 2006 Act does not apply in relation to the exercise of a power or duty by a charity trustee of a charity—
 
 - (a) on or after 1st April 2008; and
 - (b) in respect of a financial year of the charity beginning before that date.
 
-**7.** The amendment made by paragraph 133(2) of Schedule 8 to the 2006 Act (amendment of section 42 of the 1993 Act) applies only in relation to regulations made by the Minister under section 42 of the 1993 Act in respect of a financial year of a charity beginning on or after 1st April 2008.
+**7.**[^c-fc0214a7757a0b5df0d6b27612d395e5] The amendment made by paragraph 133(2) of Schedule 8 to the 2006 Act (amendment of section 42 of the 1993 Act) applies only in relation to regulations made by the Minister under section 42 of the 1993 Act in respect of a financial year of a charity beginning on or after 1st April 2008.
 
-**8.** The amendment made by paragraph 139(6) of Schedule 8 to the 2006 Act (amendment of section 46 of the 1993 Act) applies only in relation to a report required to be prepared under section 46(5) of the 1993 Act in respect of a financial year of a charity beginning on or after 1st April 2008.
+**8.**[^c-43832f5d9e3a4178ac7dc4d93ff7a5d2] The amendment made by paragraph 139(6) of Schedule 8 to the 2006 Act (amendment of section 46 of the 1993 Act) applies only in relation to a report required to be prepared under section 46(5) of the 1993 Act in respect of a financial year of a charity beginning on or after 1st April 2008.
 
-**9.** Despite the repeal of Part 1 of the 1992 Act by Schedule 9 to the 2006 Act, no vesting or transfer of property in pursuance of any provision of that Part of the 1992 Act, or of any provision of the Charities Act 1960 as amended by that Part, before 1st April 2008 operates as a breach of covenant or condition against alienation or gives rise to a forfeiture**.**
+**9.**[^c-6767d919e41ae9c0289b1c2b4bc7e29d] Despite the repeal of Part 1 of the 1992 Act by Schedule 9 to the 2006 Act, no vesting or transfer of property in pursuance of any provision of that Part of the 1992 Act, or of any provision of the Charities Act 1960 as amended by that Part, before 1st April 2008 operates as a breach of covenant or condition against alienation or gives rise to a forfeiture**.**
 
-## 10. Transitional provisions and savings in respect of provisions of the 2006 Act commenced on 1st April 2009
+## 10. Transitional provisions and savings in respect of provisions of the 2006 Act commenced on 1st April 2009[^c-335f7035329e325900e4f8e8662cdf9c]
 
 (1) The commencement of section 5(3) of the 2006 Act by this Order—
 
@@ -95,7 +99,7 @@ The commencement of the status provisions by this Order—
 
 (2) Where miners’ welfare trusts cease to be charitable on 1st April 2009 as a consequence of the commencement of section 5(3) of the 2006 Act by this Order, section 4 of the 1993 Act does not apply to those trusts during the period beginning on 1st April 2009 and ending on the date on which the trusts are removed from the register of charities by the Commission.
 
-**11.** (1) The commencement of section 5(4) of the 2006 Act by this Order—
+**11.**[^c-6d00dcdd29444b8ec7e5d936cdfb22ff] (1) The commencement of section 5(4) of the 2006 Act by this Order—
 
 - (a) does not affect—
   - (i) any proceedings brought in the court or to the Charity Tribunal in respect of any decision, order or direction made or any other matter arising before 1st April 2009;
@@ -113,7 +117,7 @@ Cabinet Office
 
 31st March 2008
 
-## SCHEDULE 1 — PROVISIONS OF THE 2006 ACT COMING INTO FORCE ON 1ST APRIL 2008
+## SCHEDULE 1 — PROVISIONS OF THE 2006 ACT COMING INTO FORCE ON 1ST APRIL 2008[^c-5ee8e2a54f15d5a1a0c05e33edc08879]
 
 Article 2
 
@@ -137,7 +141,7 @@ Article 2
 | Schedule 10, paragraphs 10, 17 and 28 | Transitional provisions and savings |  |
 | Schedule 10, paragraph 29 | Transitional provisions and savings | Save for paragraph 29(2)(a) |
 
-## SCHEDULE 2 — PROVISIONS OF THE 2006 ACT COMING INTO FORCE ON 1ST APRIL 2009
+## SCHEDULE 2 — PROVISIONS OF THE 2006 ACT COMING INTO FORCE ON 1ST APRIL 2009[^c-c542efc5522c1c0bf3e9e7bd35f0ea83]
 
 Article 3
 
@@ -212,6 +216,32 @@ The following provisions of the Act have been brought into force by a commenceme
 
 [^f00001]: Footnote: [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50)
 
+[^c-d993088992fb8e1fe3ff9c6f53d4dc82]: Commencement: Art. 1 in force at made date
+
 [^f00002]: Footnote: “Financial year” is defined in section 97(1) of the Charities Act 1993. The relevant Regulations are, in relation to financial years beginning on or before 31st March 2008, the Charities (Accounts and Reports) Regulations 2005 ([S.I. 2005/572](https://www.legislation.gov.uk/uksi/2005/572)) and, in relation to financial years beginning on or after 1st April 2008 or transferred years, the Charities (Accounts and Reports) Regulations 2008 ([S.I. 2008/629](https://www.legislation.gov.uk/uksi/2008/629)). “Transferred years” is defined in regulation 4 of the 2008 Regulations.
 
 [^f00003]: Footnote: [1958 c. 17](https://www.legislation.gov.uk/ukpga/1958/17)
+
+[^c-4d484460f657bc00badc1b84a817731e]: Commencement: Art. 2 in force at made date
+
+[^c-92a4539bd16fd671153ff6285a3dde63]: Commencement: Art. 3 in force at made date
+
+[^c-c8eec088fbfdefd4c97d64559460dc35]: Commencement: Art. 4 in force at made date
+
+[^c-5626e69cae376e584b21274c42d31917]: Commencement: Art. 5 in force at made date
+
+[^c-a46229809457b23a38b037b63bd057cc]: Commencement: Art. 6 in force at made date
+
+[^c-fc0214a7757a0b5df0d6b27612d395e5]: Commencement: Art. 7 in force at made date
+
+[^c-43832f5d9e3a4178ac7dc4d93ff7a5d2]: Commencement: Art. 8 in force at made date
+
+[^c-6767d919e41ae9c0289b1c2b4bc7e29d]: Commencement: Art. 9 in force at made date
+
+[^c-335f7035329e325900e4f8e8662cdf9c]: Commencement: Art. 10 in force at made date
+
+[^c-6d00dcdd29444b8ec7e5d936cdfb22ff]: Commencement: Art. 11 in force at made date
+
+[^c-5ee8e2a54f15d5a1a0c05e33edc08879]: Commencement: Sch. 1 in force at made date
+
+[^c-c542efc5522c1c0bf3e9e7bd35f0ea83]: Commencement: Sch. 2 in force at made date

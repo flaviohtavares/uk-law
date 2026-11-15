@@ -173,7 +173,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 - [The Electricity and Gas (Billing) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1163-the-electricity-and-gas-billing-regulations-2008.md) *(as originally made)*
 - [The Electricity and Gas (Carbon Emissions Reduction) Order 2008](../uk-parliament/regulations/2008/0000-0499/188-the-electricity-and-gas-carbon-emissions-reduction-order-2008.md)
-- [The Gas (Standards of Performance) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/696-the-gas-standards-of-performance-amendment-regulations-2008.md) *(as originally made)*
+- [The Gas (Standards of Performance) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/696-the-gas-standards-of-performance-amendment-regulations-2008.md) *(changes pending)*
 - [The Gas and Electricity (Consumer Complaints Handling Standards) Regulations 2008](../uk-parliament/regulations/2008/1500-1999/1898-the-gas-and-electricity-consumer-complaints-handling-standards-regulations-2008.md)
 - [The Gas and Electricity Regulated Providers (Redress Scheme) Order 2008](../uk-parliament/regulations/2008/2000-2499/2268-the-gas-and-electricity-regulated-providers-redress-scheme-order-2008.md) *(as originally made)*
 

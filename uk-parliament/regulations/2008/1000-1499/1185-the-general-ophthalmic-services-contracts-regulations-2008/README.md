@@ -3,16 +3,16 @@ title: The General Ophthalmic Services Contracts Regulations 2008
 id: uksi/2008/1185
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-04-28'
-text_date: null
-extent: null
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1185
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1185/pdfs/uksiem_20081185_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1185/pdfs/uksi_20081185_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1185/made/data.pdf
-pending_changes: 211
+- http://www.legislation.gov.uk/uksi/2008/1185/data.pdf
+pending_changes: 303
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The General Ophthalmic Services Contracts Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (303).** Text as at 2008-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1185
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1185
 
@@ -46,10 +52,18 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 ### PART 1 — General
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 1 — Citation, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
 ### PART 2 — Contractors
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 3 — Conditions: introductory](part-2/section-3.md)
 - [Section 4 — Persons eligible to enter into GOS contracts](part-2/section-4.md)
@@ -58,13 +72,25 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 ### PART 3 — Pre-contract Dispute Resolution
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 7 — Pre-contract disputes](part-3/section-7.md)
 
 ### PART 4 — Health Service Body Status
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 8 — Health service body status](part-4/section-8.md)
 
 ### PART 5 — Contracts: Required Terms
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 - [Section 9 — Parties to the contract](part-5/section-9.md)
 - [Section 10 — NHS contracts](part-5/section-10.md)
@@ -80,12 +106,20 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 ### PART 6 — Transitional Provision
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 - [Section 20 — Commencement of contract](part-6/section-20.md)
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
 - [SCHEDULE 3](schedule-3.md)
 - [SCHEDULE 4](schedule-4.md)
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 Signed by authority of the Secretary of State for Health.
 
@@ -96,6 +130,10 @@ Parliamentary Under-Secretary of State,
 Department of Health
 
 28th April 2008
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 EXPLANATORY NOTE
 

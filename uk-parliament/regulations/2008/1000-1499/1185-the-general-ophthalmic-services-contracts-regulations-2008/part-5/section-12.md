@@ -2,9 +2,9 @@
 title: The General Ophthalmic Services Contracts Regulations 2008, section 12
 act: The General Ophthalmic Services Contracts Regulations 2008
 section: '12'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1185/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The General Ophthalmic Services Contracts Regulations 2008, section 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 12. Duration
+## 12. Duration[^c-5e73eac31f02ab6d5fcff7a14f468135]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Except in the circumstances specified in paragraph (2), a contract must provide for it to subsist until it is terminated in accordance with the terms of the contract or the general law.
 
@@ -24,3 +30,7 @@ summary: ''
 
 - (a) paragraph 39 of Schedule 1 (termination by the contractor) shall not apply to that contract; and
 - (b) the parties to that contract may include such terms as to termination by notice as they may agree.
+
+## Annotations
+
+[^c-5e73eac31f02ab6d5fcff7a14f468135]: Commencement: Reg. 12 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)

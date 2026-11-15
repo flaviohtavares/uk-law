@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, SCHEDULE 1
 act: The Education (Student Support) Regulations 2007
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,19 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — AMENDMENT OF THE EDUCATION (STUDENT SUPPORT) REGULATIONS 2006
 
+*Extent: E+W*
+
+**Not yet in force.**
+
 Regulation 3
 
-### 1. Amendment of regulation 2 of the 2006 Regulations
+### 1. Amendment of regulation 2 of the 2006 Regulations[^c-2fb26ed69a1f9173c4f00153a74f1f17]
 
 In regulation 2(1)—
 
@@ -39,7 +45,7 @@ In regulation 2(1)—
 
   .
 
-**2.** After regulation 2(1), insert
+**2.**[^c-d99c659b7adcc4fa56758918991d50a8] After regulation 2(1), insert
 
 > (1A) The Secretary of State may determine that a course is a compressed degree course if, in his opinion, that course is—
 >
@@ -49,7 +55,7 @@ In regulation 2(1)—
 
 .
 
-### 3. Amendment of regulation 7 of the 2006 Regulations
+### 3. Amendment of regulation 7 of the 2006 Regulations[^c-d32a84f316efa0129af8a9f39ed76bf5]
 
 For regulation 7(2) substitute—
 
@@ -68,7 +74,7 @@ For regulation 7(2) substitute—
 
 .
 
-### 4. Amendment of regulation 15 of the 2006 Regulations
+### 4. Amendment of regulation 15 of the 2006 Regulations[^c-3794ac95b89c1aacf6e7dccbfd36c65b]
 
 For regulation 15 of the 2006 Regulations, substitute—
 
@@ -85,11 +91,11 @@ For regulation 15 of the 2006 Regulations, substitute—
 
 .
 
-### 5. Amendment of regulation 32 of the 2006 Regulations
+### 5. Amendment of regulation 32 of the 2006 Regulations[^c-34c05012b14fd9dfdc0834d0d5757bce]
 
 In regulation 32(1) after “attend”, insert “or, in the case of a compressed degree course, undertake in the United Kingdom”.
 
-### 6. Amendment of regulation 37 of the 2006 Regulations
+### 6. Amendment of regulation 37 of the 2006 Regulations[^c-66c7bc373764d576c870c9f8dc9192a9]
 
 For regulation 37(9), substitute—
 
@@ -106,15 +112,15 @@ For regulation 37(9), substitute—
 >   - (i) is not a compressed degree student; and
 >   - (ii) is undertaking a designated course in the United Kingdom but is not in attendance because he is unable to attend for a reason which relates to his disability.
 
-### 7. Amendment of regulation 57 of the 2006 Regulations
+### 7. Amendment of regulation 57 of the 2006 Regulations[^c-cb6ea96588f1c7fb090accf4f3630979]
 
 In regulation 57 for “an accelerated course” in each place it occurs, substitute “an intensive course”.
 
-### 8. Amendment of regulation 59 of the 2006 Regulations
+### 8. Amendment of regulation 59 of the 2006 Regulations[^c-626b0de0dc3cabb18fae93be6c37cf08]
 
 In regulation 59 for “an accelerated course” in each place it occurs, substitute “an intensive course”.
 
-### 9. Amendment of regulation 61 of the 2006 Regulations
+### 9. Amendment of regulation 61 of the 2006 Regulations[^c-92a598263d6078e834ff851c4ac8860b]
 
 For regulation 61(2), substitute—
 
@@ -125,7 +131,7 @@ For regulation 61(2), substitute—
 
 .
 
-### 10. Amendment of regulation 65 of the 2006 Regulations
+### 10. Amendment of regulation 65 of the 2006 Regulations[^c-85fb4984760853ca7fe3b60eb4058ea3]
 
 For regulation 65, substitute—
 
@@ -142,26 +148,56 @@ For regulation 65, substitute—
 
 .
 
-### 11. Amendment of regulation 77 of the 2006 Regulations
+### 11. Amendment of regulation 77 of the 2006 Regulations[^c-1e71fd504afc1af87639d2191ccb2b2a]
 
 In regulation 77(2) for “an accelerated course”, substitute “an intensive course”.
 
-### 12. Amendment of regulation 78 of the 2006 Regulations
+### 12. Amendment of regulation 78 of the 2006 Regulations[^c-381637bef721ed33da629ee9e3718714]
 
 In regulation 78(4)—
 
 - (a) in sub-paragraph (a) after “attend”, insert “or, in the case of a student treated as in attendance under regulation 15, undertake”;
 - (b) in sub-paragraph (b) after “attending”, insert “or, as the case may be, undertaking in the United Kingdom”.
 
-### 13. Amendment of regulation 79 of the 2006 Regulations
+### 13. Amendment of regulation 79 of the 2006 Regulations[^c-e58b2c64b4466ad8d24895676f763082]
 
 In regulation 79(5)—
 
 - (a) in sub-paragraph (a) after “attend”, insert “or, in the case of a student treated as in attendance under regulation 15, undertake”;
 - (b) in sub-paragraph (b) after “attending”, insert “or, as the case may be, undertaking in the United Kingdom”.
 
-### 14. Amendment of Schedule 1 to the 2006 Regulations
+### 14. Amendment of Schedule 1 to the 2006 Regulations[^c-41922d40e9bd5ab45df8eb02af55577c]
 
 For paragraph 9(1)(b)(ii) of Schedule 1 substitute—
 
 > - (ii) undertaking a compressed degree course, a designated part-time course or a designated postgraduate course in England;
+
+## Annotations
+
+[^c-2fb26ed69a1f9173c4f00153a74f1f17]: Commencement: Sch. 1 para. 1 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-d99c659b7adcc4fa56758918991d50a8]: Commencement: Sch. 1 para. 2 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-d32a84f316efa0129af8a9f39ed76bf5]: Commencement: Sch. 1 para. 3 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-3794ac95b89c1aacf6e7dccbfd36c65b]: Commencement: Sch. 1 para. 4 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-34c05012b14fd9dfdc0834d0d5757bce]: Commencement: Sch. 1 para. 5 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-66c7bc373764d576c870c9f8dc9192a9]: Commencement: Sch. 1 para. 6 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-cb6ea96588f1c7fb090accf4f3630979]: Commencement: Sch. 1 para. 7 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-626b0de0dc3cabb18fae93be6c37cf08]: Commencement: Sch. 1 para. 8 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-92a598263d6078e834ff851c4ac8860b]: Commencement: Sch. 1 para. 9 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-85fb4984760853ca7fe3b60eb4058ea3]: Commencement: Sch. 1 para. 10 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-1e71fd504afc1af87639d2191ccb2b2a]: Commencement: Sch. 1 para. 11 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-381637bef721ed33da629ee9e3718714]: Commencement: Sch. 1 para. 12 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-e58b2c64b4466ad8d24895676f763082]: Commencement: Sch. 1 para. 13 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
+
+[^c-41922d40e9bd5ab45df8eb02af55577c]: Commencement: Sch. 1 para. 14 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

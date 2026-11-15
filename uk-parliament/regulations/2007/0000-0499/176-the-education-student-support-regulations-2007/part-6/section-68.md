@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 68
 act: The Education (Student Support) Regulations 2007
 section: '68'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/68
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 68
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 68. Students with reduced entitlement
+## 68. Students with reduced entitlement[^c-021cefc09fa7b65c5961135ff6bf6781]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to Chapter 3 of this Part, the maximum amount of loan for living costs for which a student with reduced entitlement qualifies in respect of an academic year of a course other than the final year of a course that is not an intensive course is—
 
@@ -67,3 +73,7 @@ summary: ''
   - (i) £615 where the student is a type 1 teacher training student who opts not to provide the information needed to calculate the household income when applying for a maintenance grant and who qualifies for a maintenance grant of £615;
   - (ii) £1,230 where the student is a type 2 teacher training student who opts not to provide the information needed to calculate the household income when applying for a maintenance grant and who qualifies for a maintenance grant of £1,230;
   - (iii) nil where the student is not a type 1 or type 2 teacher training student.
+
+## Annotations
+
+[^c-021cefc09fa7b65c5961135ff6bf6781]: Commencement: Reg. 68 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

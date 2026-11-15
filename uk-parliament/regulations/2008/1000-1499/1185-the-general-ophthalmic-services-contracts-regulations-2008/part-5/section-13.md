@@ -2,9 +2,9 @@
 title: The General Ophthalmic Services Contracts Regulations 2008, section 13
 act: The General Ophthalmic Services Contracts Regulations 2008
 section: '13'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1185/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The General Ophthalmic Services Contracts Regulations 2008, section 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 13. Testing of sight
+## 13. Testing of sight[^c-9d89349b4088fa58c9d428db10839204]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) A contract must contain terms to the effect specified in this regulation.
 
@@ -41,6 +47,8 @@ the contractor shall, if appropriate, and with the consent of the patient—
 (6) A prescription for glasses issued following a testing of sight under general ophthalmic services shall be completed by the method recommended in Appendix A to British Standard BS 2738 Part 3: 2004 (Glossary of Terms relating to Ophthalmic Lenses and Spectacle Frames) published by the British Standards Institution[^f00025] and shall comply with any requirements as to its form specified in any direction made under section 120 for the purposes of payment in respect of the sight test.
 
 ## Annotations
+
+[^c-9d89349b4088fa58c9d428db10839204]: Commencement: Reg. 13 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
 
 [^f00024]: Footnote: Section 26 was amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 

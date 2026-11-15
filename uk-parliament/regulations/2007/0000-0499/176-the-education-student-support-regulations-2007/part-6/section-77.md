@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 77
 act: The Education (Student Support) Regulations 2007
 section: '77'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/77
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 77
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 77. Categories of student
+## 77. Categories of student[^c-d7118e32896bba85a353100d52f0e7e6]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 In this Part—
 
@@ -27,3 +33,7 @@ In this Part—
   - (i) he attends as part of his course an overseas institution; or
   - (ii) he attends the Institute;
 - (d) a student is in category D if he is not in categories A to C.
+
+## Annotations
+
+[^c-d7118e32896bba85a353100d52f0e7e6]: Commencement: Reg. 77 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

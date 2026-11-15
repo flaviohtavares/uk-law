@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 63
 act: The Education (Student Support) Regulations 2007
 section: '63'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/63
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 63
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 63. Qualifying conditions for the loan for living costs – old system students
+## 63. Qualifying conditions for the loan for living costs – old system students[^c-91385fbe85c117353ab4df9d22240f3c]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (4), an old system student who falls within paragraph (a) or (d)(i) of the definition of “old system student” in regulation 2 qualifies for a loan for living costs in connection with his attendance on a designated course if he is under the age of 60 on the relevant date.
 
@@ -33,3 +39,7 @@ summary: ''
 (4) An old system student does not qualify for a loan for living costs if the only paragraph in Part 2 of Schedule 2 into which he falls is paragraph 9.
 
 (5) To receive a loan for living costs, an old system student must enter into a contract with the Secretary of State.
+
+## Annotations
+
+[^c-91385fbe85c117353ab4df9d22240f3c]: Commencement: Reg. 63 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)

@@ -2,9 +2,9 @@
 title: The General Ophthalmic Services Contracts Regulations 2008, section 4
 act: The General Ophthalmic Services Contracts Regulations 2008
 section: '4'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-04-28'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1185/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The General Ophthalmic Services Contracts Regulations 2008, section 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 4. Persons eligible to enter into GOS contracts
+## 4. Persons eligible to enter into GOS contracts[^c-16082669fd5c33fb66191846db96deb6]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) For the purposes of section 118 (persons eligible to enter into GOS contracts) it is a prescribed condition that a person must not fall within paragraph (3).
 
@@ -63,6 +69,8 @@ summary: ''
 - (b) a director, chief executive or secretary of a corporate body entering into a contract.
 
 ## Annotations
+
+[^c-16082669fd5c33fb66191846db96deb6]: Commencement: Reg. 4 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1185/regulation/1/1)
 
 [^f00017]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12); as amended by the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), section 58(1), Sechduel 10, para. 2; the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), section 139 and Schedule 6, para. 7; the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 170 and Schedule 15,. Para. 8, and Schedule 16, para. 16; and the Sexual Offences Act [1956 (c. 69)](https://www.legislation.gov.uk/ukpga/1956/69), sections 48 and 51 and Schedules 3 and 4 and modified by the Criminal Justice Act 1988, section 170(1) and Schedule 15, para. 9.
 

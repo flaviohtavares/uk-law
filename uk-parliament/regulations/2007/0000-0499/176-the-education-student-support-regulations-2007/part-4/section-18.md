@@ -2,9 +2,9 @@
 title: The Education (Student Support) Regulations 2007, section 18
 act: The Education (Student Support) Regulations 2007
 section: '18'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2007-01-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2007/176/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) Regulations 2007, section 18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
 
-## 18. Availability of fee loans to current system students - general
+## 18. Availability of fee loans to current system students - general[^c-cd9bf430e216b7add2c760113a4b755e]
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 (1) A current system student does not qualify for fee support in respect of a designated course if—
 
@@ -46,3 +52,7 @@ summary: ''
 (11) In this regulation, the “number of additional years of support” is the number of years which make up the standard entitlement less the number of standard academic years (plus one where the student qualifies for a fee loan under paragraph (7)).
 
 (12) The amount of the fee loan in respect of an academic year is determined in accordance with regulation 22 and may be nil.
+
+## Annotations
+
+[^c-cd9bf430e216b7add2c760113a4b755e]: Commencement: Reg. 18 in force at 1.3.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/176/regulation/1/1)
