@@ -3,7 +3,7 @@ title: European Union (Withdrawal) Act 2018, section 20
 act: European Union (Withdrawal) Act 2018
 section: '20'
 status: revised-with-pending-changes
-text_date: '2025-08-20'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2018/16/section/20
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # European Union (Withdrawal) Act 2018, section 20
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-12. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -98,6 +98,7 @@ summary: ''
   and (except in section 7 or Schedule 2 or where there is a contrary intention) includes any Order in Council, order, rules, regulations, scheme, warrant, byelaw or other instrument made on or after IP completion day[^c-2f9d1789bae33847c8a5bb98c99c541a] under any assimilated direct[^c-03a6b60d5aa82d5af05a630dc3eba535] legislation;
 - “**tribunal**” means any tribunal in which legal proceedings may be brought;
 - “**Wales**” and “**Welsh zone**” have the same meaning as in the Government of Wales Act 2006 (see section 158 of that Act);
+- “[^c-ed398deebb0a90bd681a00e95e3f44b8]**Windsor Framework**” means the part of the withdrawal agreement known as the Windsor Framework by virtue of Joint Declaration No. 1/2023 of 24 March 2023 made between the EU and the United Kingdom in the Joint Committee established by the withdrawal agreement;
 - [^c-5656d815247cb1b17c16f99b7af0846d]...
 
 (2) In this Act references to before, after or on exit day, or to beginning with exit day, are to be read as references to before, after or at 11.00 p.m. on[^M_F_8358437d-1565-4bc2-f3f7-07cfd209a807] 31 January 2020[^M_F_4764a927-190c-408b-a940-de5e9f5571ab] or (as the case may be) to beginning with 11.00 p.m. on that day.
@@ -158,6 +159,8 @@ includes a reference to that Article as applied by Article 106a of the Euratom T
 [^c-2f9d1789bae33847c8a5bb98c99c541a]: Textual amendment: Words in s. 20(1) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 44(2)(g)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/2/g) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xvii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xvii)
 
 [^c-03a6b60d5aa82d5af05a630dc3eba535]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 8(9)(d)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/8/9/d) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+
+[^c-ed398deebb0a90bd681a00e95e3f44b8]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1) inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/7)
 
 [^c-5656d815247cb1b17c16f99b7af0846d]: Textual amendment: Words in s. 20(1) omitted (31.1.2020) by virtue of [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 44(2)(h)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/2/h) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xvii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xvii)
 

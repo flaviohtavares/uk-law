@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2018-06-26'
-text_date: '2025-08-20'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2018/16
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # European Union (Withdrawal) Act 2018
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-12. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -73,7 +73,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 8 — Dealing with deficiencies arising from withdrawal](section-8.md)
 - [Section 8A — Supplementary power in connection with implementation period](section-8a.md)
 - [Section 8B — Power in connection with certain other separation issues](section-8b.md)
-- [Section 8C — Power in connection with Ireland/Northern Ireland Protocol in withdrawal agreement](section-8c.md)
+- [Section 8C — Power in connection with Windsor Framework in withdrawal agreement](section-8c.md)
 - [Section 9 — Implementing the withdrawal agreement](section-9.md)
 
 ### Devolution

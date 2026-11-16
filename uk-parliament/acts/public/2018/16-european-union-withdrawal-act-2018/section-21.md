@@ -3,7 +3,7 @@ title: European Union (Withdrawal) Act 2018, section 21
 act: European Union (Withdrawal) Act 2018
 section: '21'
 status: revised-with-pending-changes
-text_date: '2025-08-20'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2018/16/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # European Union (Withdrawal) Act 2018, section 21
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-12. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -93,6 +93,7 @@ summary: ''
 | Tribunal | Section 20(1) |
 | Wales | Section 20(1) |
 | Welsh zone | Section 20(1) |
+| Windsor Framework[^c-1dd6ac7698cdb5437d7715c764cb56c5] | Section 20(1) |
 | Withdrawal agreement | Section 1A(6)[^c-e48c0ca0516f5fb06a31e5a897d93aea] |
 
 (2) See paragraph 22 of Schedule 8 for amendments made by this Act to Schedule 1 to the Interpretation Act 1978.
@@ -128,5 +129,7 @@ summary: ''
 [^c-83d5c948aee1eaed45de7f669775716b]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/2018/16/section/21/1) Table omitted (1.1.2024) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 4(5)](https://www.legislation.gov.uk/ukpga/2023/28/section/4/5), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3) (with [s. 22(5)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/5)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/b)
 
 [^c-c683169c40d70f014c17cba84503de02]: Textual amendment: Words in s. 21(1) inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 45(j)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/45/j) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xviii)
+
+[^c-1dd6ac7698cdb5437d7715c764cb56c5]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/2018/16/section/21/1) table inserted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/8)
 
 [^c-e48c0ca0516f5fb06a31e5a897d93aea]: Textual amendment: Words in s. 21(1) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 45(k)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/45/k) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xviii)

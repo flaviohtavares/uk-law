@@ -519,7 +519,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [River](river.md) | 4 | 157 |
 | [River, England and Wales River](river-england-and-wales-river.md) | 0 | 6 |
 | [Road and Railway Transport](road-and-railway-transport.md) | 0 | 30 |
-| [Road Traffic](road-traffic/README.md) | 29 | 2568 |
+| [Road Traffic](road-traffic/README.md) | 29 | 2567 |
 | [Road Traffic and Vehicles](road-traffic-and-vehicles.md) | 7 | 479 |
 | [Roads](roads.md) | 3 | 63 |
 | [Roads and Bridges](roads-and-bridges.md) | 2 | 85 |

@@ -3,7 +3,7 @@ title: European Union (Withdrawal) Act 2018, SCHEDULE 2
 act: European Union (Withdrawal) Act 2018
 section: schedule-2
 status: revised-with-pending-changes
-text_date: '2025-08-20'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2018/16/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # European Union (Withdrawal) Act 2018, SCHEDULE 2
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-12. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -330,21 +330,21 @@ A provision is within the devolved competence of the Scottish Ministers for the 
   - (ii) would, if it were contained in an Act of the Northern Ireland Assembly, be within the legislative competence of the Assembly [^M_F_8f539b0f-3ce0-41a2-9fed-23d7a5ab5437]... and require the consent of the Secretary of State, or
 - (c) the provision is provision which could be made in other subordinate legislation by any Northern Ireland devolved authority acting alone [^M_F_3feb9d21-c4cd-4354-eeed-1171702a9d8b]....
 
-### PART 1C — Provision in connection with Protocol on Ireland/Northern Ireland[^c-7cf0e905800378954254b665a96029e8]
+### PART 1C — Provision in connection with Windsor Framework[^c-7cf0e905800378954254b665a96029e8][^c-eccb8d671f92afa95f546203aac564eb]
 
-#### 11M. Power in connection with Protocol on Ireland/Northern Ireland
+#### 11M. Power in connection with Windsor Framework[^c-5aedbc09467b8b9e849b3745a9521ddd]
 
 (1) A devolved authority may by regulations make such provision as the devolved authority considers appropriate—
 
-- (a) to implement the Protocol on Ireland/Northern Ireland in the withdrawal agreement,
-- (b) to supplement the effect of section 7A in relation to the Protocol, or
-- (c) otherwise for the purposes of dealing with matters arising out of, or related to, the Protocol (including matters arising by virtue of section 7A and the Protocol).
+- (a) to implement the Windsor Framework[^c-bdd127a44ec316c0018bddd9fd073888] in the withdrawal agreement,
+- (b) to supplement the effect of section 7A in relation to the Framework[^c-cd06eb12019756c127dbc2d8540d123d], or
+- (c) otherwise for the purposes of dealing with matters arising out of, or related to, the Framework[^c-80c3dfa3ba4d6553e6b30d559b3bb29b] (including matters arising by virtue of section 7A and the Framework).
 
 (2) A Minister of the Crown acting jointly with a devolved authority may by regulations make such provision as they consider appropriate—
 
-- (a) to implement the Protocol on Ireland/Northern Ireland in the withdrawal agreement,
-- (b) to supplement the effect of section 7A in relation to the Protocol, or
-- (c) otherwise for the purposes of dealing with matters arising out of, or related to, the Protocol (including matters arising by virtue of section 7A and the Protocol).
+- (a) to implement the Windsor Framework[^c-440ab027fd641e40db96d3f1f2704704] in the withdrawal agreement,
+- (b) to supplement the effect of section 7A in relation to the Framework[^c-307354a775c627d49e89587692d02469], or
+- (c) otherwise for the purposes of dealing with matters arising out of, or related to, the Framework[^c-d80f9d758704fae692c355bd18895f5f] (including matters arising by virtue of section 7A and the Framework).
 
 (3) Regulations under this Part may make any provision that could be made by an Act of Parliament.
 
@@ -357,16 +357,16 @@ A provision is within the devolved competence of the Scottish Ministers for the 
 
 in respect of qualifying Northern Ireland goods.
 
-(6) Regulations under this Part may (among other things) restate, for the purposes of making the law clearer or more accessible, anything that forms part of domestic law by virtue of section 7A and the Protocol.
+(6) Regulations under this Part may (among other things) restate, for the purposes of making the law clearer or more accessible, anything that forms part of domestic law by virtue of section 7A and the Framework[^c-5c2f796459b1663e11e7752810e990d0].
 
 (7) Regulations under sub-paragraph (1) are also subject to paragraphs 11N and 11O.
 
-(8) In this paragraph any reference to the Protocol on Ireland/Northern Ireland includes a reference to—
+(8) In this paragraph any reference to the Windsor Framework[^c-f6a638fc9f6775cd68a99541deec6a78] includes a reference to—
 
-- (a) any other provision of the withdrawal agreement so far as applying to the Protocol, and
-- (b) any provision of EU law which is applied by, or referred to in, the Protocol (to the extent of the application or reference),
+- (a) any other provision of the withdrawal agreement so far as applying to the Framework[^c-0b9277fdfc30f8ce1ea4863436ef5d0f], and
+- (b) any provision of EU law which is applied by, or referred to in, the Framework[^c-06d0c2b0a300c776f5a605ee8d3d1a4e] (to the extent of the application or reference),
 
-but does not include the second sentence of Article 11(1) of the Protocol (which provides that the United Kingdom and the Republic of Ireland may continue to make new arrangements that build on the provisions of the Belfast Agreement in other areas of North-South cooperation on the island of Ireland).
+but does not include the second sentence of Article 11(1) of the Framework[^c-c2015a97a9c257609fac826e661f8bd0] (which provides that the United Kingdom and the Republic of Ireland may continue to make new arrangements that build on the provisions of the Belfast Agreement in other areas of North-South cooperation on the island of Ireland).
 
 #### 11N. No power to make provision outside devolved competence
 
@@ -471,5 +471,31 @@ A provision is within the devolved competence of the Scottish Ministers for the 
 [^M_F_3feb9d21-c4cd-4354-eeed-1171702a9d8b]: Textual amendment: Words in Sch. 2 Pt. 1B para. 11L(c) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/b/iii)
 
 [^c-7cf0e905800378954254b665a96029e8]: Textual amendment: [Sch. 2 Pt. 1C](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/part/1C) inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 22](https://www.legislation.gov.uk/ukpga/2020/1/section/22), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/j)
+
+[^c-eccb8d671f92afa95f546203aac564eb]: Textual amendment: Words in [Sch. 2 Pt. 1C](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/part/1C) heading substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/a)
+
+[^c-5aedbc09467b8b9e849b3745a9521ddd]: Textual amendment: Words in [Sch. 2 para. 11M](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M) heading substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/b)
+
+[^c-bdd127a44ec316c0018bddd9fd073888]: Textual amendment: Words in [Sch. 2 para. 11M(1)(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/1/a) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(i)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/i)
+
+[^c-cd06eb12019756c127dbc2d8540d123d]: Textual amendment: Word in [Sch. 2 para. 11M(1)(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/1/b) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/ii)
+
+[^c-80c3dfa3ba4d6553e6b30d559b3bb29b]: Textual amendment: Word in [Sch. 2 para. 11M(1)(c)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/1/c) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/ii)
+
+[^c-440ab027fd641e40db96d3f1f2704704]: Textual amendment: Words in [Sch. 2 para. 11M(2)(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/2/a) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/iii)
+
+[^c-307354a775c627d49e89587692d02469]: Textual amendment: Word in [Sch. 2 para. 11M(2)(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/2/b) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(iv)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/iv)
+
+[^c-d80f9d758704fae692c355bd18895f5f]: Textual amendment: Word in [Sch. 2 para. 11M(2)(c)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/2/c) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(iv)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/iv)
+
+[^c-5c2f796459b1663e11e7752810e990d0]: Textual amendment: Word in [Sch. 2 para. 11M(6)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/6) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(iv)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/iv)
+
+[^c-f6a638fc9f6775cd68a99541deec6a78]: Textual amendment: Words in [Sch. 2 para. 11M(8)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/8) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(v)(aa)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/v/aa)
+
+[^c-0b9277fdfc30f8ce1ea4863436ef5d0f]: Textual amendment: Words in [Sch. 2 para. 11M(8)(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/8/a) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(v)(bb)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/v/bb)
+
+[^c-06d0c2b0a300c776f5a605ee8d3d1a4e]: Textual amendment: Words in [Sch. 2 para. 11M(8)(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/8/b) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(v)(bb)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/v/bb)
+
+[^c-c2015a97a9c257609fac826e661f8bd0]: Textual amendment: Words in [Sch. 2 para. 11M(8)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11M/8) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(9)(c)(v)(bb)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/9/c/v/bb)
 
 [^c-1725b54961ed2a59a55fd905b0b3208c]: Textual amendment: Sch. 2 Pt. 2 repealed (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 36(d)](https://www.legislation.gov.uk/ukpga/2020/1/section/36/d), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))

@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2021-11-29'
-text_date: '2025-11-01'
+text_date: '2026-10-16'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2021/1335
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2021/1335/pdfs/uksiem_20211335_en.pdf
 - http://www.legislation.gov.uk/uksi/2021/1335/pdfs/uksi_20211335_en.pdf
 - http://www.legislation.gov.uk/uksi/2021/1335/data.pdf
-pending_changes: 27
+pending_changes: 7
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Green Gas Support Scheme Regulations 2021
 
-> **Warning: changes not yet applied to this text (27).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/uksi/2021/1335
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-10-16. See https://www.legislation.gov.uk/changes/affected/uksi/2021/1335
 >
 > Extent: England, Wales, Scotland.
 
@@ -171,13 +171,14 @@ A scheme to be known as the Green Gas Support Scheme, which is a scheme to facil
 
 (2) A person may not make an application for a tariff guarantee under paragraph (1) in respect of the production of biomethane—
 
-- (a) if the date on which they expect the injection of that biomethane to commence is later than 31st March 2028[^c-5c8360ad47348b11905e76a6b761b8b7], or
+- (a) if the date on which they expect the injection of that biomethane to commence is later than 31st March[^c-5c8360ad47348b11905e76a6b761b8b7] 2030[^c-8364b65478356387023de5dc4423ffa0], [^c-7308b122be83a8c3f450aab3ad8e6dda]...
 - (b) using equipment used to produce biomethane—
   - (i) where a person is, or has been, registered under regulation 25 of the Renewable Heat Incentive Scheme Regulations 2011[^f00021] or regulation 32 of the Renewable Heat Incentive Scheme Regulations 2018[^f00022] (“RHI registration”) in respect of the production of biomethane using that equipment,
   - (ii) where a person has made an application for RHI registration in respect of the production of biomethane using that equipment, and the application has not yet been determined,
   - (iii) where a person has made an application for a tariff guarantee under regulation 35(1) of the Renewable Heat Incentive Scheme Regulations 2018 in respect of the production of biomethane using that equipment, and the application was withdrawn after the coming into force of these Regulations,
   - (iv) which has been used to produce biomethane for injection by a participant who has withdrawn from the Scheme in accordance with regulation 16,
-  - (v) which has been used to produce biogas or biomethane, or both, before the coming into force of these Regulations, where paragraphs (i) to (iv) do not apply.
+  - (v) which has been used to produce biogas or biomethane, or both, before the coming into force of these Regulations, where paragraphs (i) to (iv) do not apply , or[^c-36582705d9deca316a5715f68afc663d]
+- (c) after 31st March 2028.
 
 (3) An applicant may not—
 
@@ -215,16 +216,27 @@ A scheme to be known as the Green Gas Support Scheme, which is a scheme to facil
 - (d) the information which the applicant must supply to the Authority during the period of the tariff guarantee, and the frequency with which that information must be supplied, and
 - (e) any further conditions which the Authority considers necessary in relation to the tariff guarantee.
 
+(6A)[^c-ef35b07b5cd899957b68c99800321283] The Authority may, if requested by an applicant, re-issue a notice issued under paragraph (6) for an application made on or after 10th December 2025, that substitutes a later date, that is no later than 31st March 2030, as the date by which, for the purposes of the tariff guarantee, the injection of biomethane must commence.
+
+(6B) If the Authority re-issues a notice under paragraph (6A), it may amend the conditions that apply in relation to the tariff guarantee, or impose additional conditions, which the Authority considers necessary in relation to the tariff guarantee.
+
 (7) The Authority—
 
 - (a) may, at any time before the applicant is notified in accordance with regulation 6(4) that they are a participant, revoke a tariff guarantee, if—
   - (i) there has been a material change in circumstances such that, had the application for the tariff guarantee been made after the change in circumstances, it would have been refused,
-  - (ii) the applicant fails to comply with conditions imposed in accordance with paragraph (6)(b), (d) or (e),
+  - (ii) the applicant fails to comply with conditions imposed in accordance with paragraphs (6)(b), (d), (e), (6A), or (6B)[^c-7eda0b3a64a039bb35ad4a07a8c8f5a5],
   - (iii) the Authority considers that the information on which the decision to grant the tariff guarantee was based was incorrect in a material particular, or
   - (iv) the Authority considers that the production and injection of biomethane is materially different from the production and injection of biomethane which was proposed under paragraph (4), and
 - (b) must revoke a tariff guarantee where the tariff start date in relation to a producer of biomethane is—
-  - (i) 183 or more days after the date given in accordance with paragraph (4)(a), or
-  - (ii)[^c-de25a9d7b013f1489cf527ca488402f0] where the application for the tariff guarantee was made before 4th June 2024, after 30th November 2025 and for all other applications, after 31st March 2028,
+  - (i)[^c-fd1efe2f525cb039664802ac7b18d024] 183 or more days after the date given in accordance with—
+    - (aa) paragraph (4)(a), or
+    - (bb) paragraph (6A), where a notice has been re-issued under that paragraph, [^c-1776ed4b16dd6ff0486dab3be65ffb2a]...
+  - (ii)[^c-fb8053f65d0f762fc85e1397ff76fecd] where the application for the tariff guarantee was made before 4th June 2024, after 30th November 2025,
+  - (iii) where the application for the tariff guarantee was made on or after 4th June 2024 and before 10th December 2025, after 31st March 2028,
+  - (iv) where the application for the tariff guarantee was made on or after 10th December 2025 and before 16th October 2026—
+    - (aa) after 31st March 2028, or
+    - (bb) if the notice is re-issued following a request made under paragraph (6A), after 31st March 2030, or
+  - (v) for all other applications, after 31st March 2030,
 
 whichever is the earlier.
 
@@ -316,7 +328,7 @@ whichever is the earlier.
 - “**financial close**” means the date on which the applicant has entered into all financing agreements in relation to all the funding required for the production and injection of biomethane;
 - “**maximum initial capacity**” means the maximum volume of biomethane, expressed in cubic metres per year, which a participant is entitled to supply for injection under the network entry agreement applicable to the biomethane in relation to which an application for registration under regulation 5 is made;
 - “**quarterly biomethane production factors**” means the percentage of their maximum initial capacity or their maximum additional capacity (as the case may be) that a participant is expected to supply for injection in each quarter, beginning with the first quarter in which they are registered as a participant or in which they are registered in respect of the additional biomethane (as the case may be);
-- “**relevant financial year**” means any of the financial years 2021/2022, 2022/2023, 2023/2024, 2024/2025, [^c-436122c9612e2d67cc3dc461756ede5b]... 2025/2026 , 2026/2027[^c-0d5a42910d29e9bf7b1e0f8733e8a423] [^c-54228e38a980b0ccaf45b5995cdc5a73]... 2027/2028 , 2028/2029 and 2029/2030[^c-e2ac72e22b57cdc78c3695533687a460].
+- “**relevant financial year**” means any of the financial years 2021/2022, 2022/2023, 2023/2024, 2024/2025, [^c-436122c9612e2d67cc3dc461756ede5b]... 2025/2026 , 2026/2027[^c-0d5a42910d29e9bf7b1e0f8733e8a423] [^c-54228e38a980b0ccaf45b5995cdc5a73]... 2027/2028 , 2028/2029[^c-e2ac72e22b57cdc78c3695533687a460] , 2029/2030, 2030/2031, 2031/2032, 2032/2033, 2033/2034 and 2034/2035.[^c-82b765a6ec26fdac4c86e6db7646f751].
 
 ### 5. Application for registration as a participant[^c-79dc016673d68ece04d52156035dcefd]
 
@@ -389,7 +401,7 @@ whichever is the earlier.
 - (c) where the applicant refused to allow the Authority access for the purposes of an inspection under regulation 5(3), and—
   - (i) the Authority is not satisfied that the refusal was reasonable, and
   - (ii) any subsequent access granted by the applicant for the purposes of an inspection was not sufficient to enable the Authority to satisfy itself that the applicant should be registered as a participant, or
-- (d) after 31st March 2028[^c-b0ca3b331c727dd559d3e153a2b1f5e3].
+- (d) after 31st March[^c-b0ca3b331c727dd559d3e153a2b1f5e3] 2030[^c-2ef4c2fc29ad37a2c7a72a8140007ca2].
 
 (7) The Authority may refuse to register an applicant as a participant—
 
@@ -419,7 +431,7 @@ the Authority may register the applicant as a participant, but a grant funding d
 (3) This paragraph applies where—
 
 - (a) a grant originates from funds raised by the National Lottery, and
-- (b) on or after 30th November 2021 but not later than 31st March 2028[^c-6136b3e3c953ee2ebc4235893aaa5889] installation of the equipment used to produce biomethane was completed and injection of biomethane produced by that applicant has commenced.
+- (b) on or after 30th November 2021 but not later than 31st March[^c-6136b3e3c953ee2ebc4235893aaa5889] 2030[^c-26e92f1455d510c653a14ca2054d9cff] installation of the equipment used to produce biomethane was completed and injection of biomethane produced by that applicant has commenced.
 
 (4) A grant funding deduction for each quarter is calculated in accordance with the following formula—
 
@@ -502,7 +514,7 @@ may apply to the Authority to be registered in respect of that additional biomet
 
 (4) Where the Authority determines that the heat pump does not meet the criteria to be registered as an eligible heat pump, it must provide reasons for the Authority’s determination.
 
-(5) A deduction for heat derived from an eligible heat pump under regulation 27(2)(c)(i) and 27(2)(d), and electricity supplied to an eligible heat pump under regulation 27(2)(e) cannot be applied before the date of receipt by the Authority of the application under paragraph (1) in which, in the Authority’s opinion, all the information required in respect of that application has been provided.
+(5) An exemption from a[^c-c1400a58acaacd6eab898b04c4bc1fed] deduction for heat derived from an eligible heat pump under regulation 27(2)(c)(i) and 27(2)(d), and a deduction for[^c-328946d5f509872bbffc1fa63cf08a74] electricity supplied to an eligible heat pump under regulation 27(2)(e) cannot be applied before the date of receipt by the Authority of the application under paragraph (1) in which, in the Authority’s opinion, all the information required in respect of that application has been provided.
 
 (6) The Authority may review a registration of an eligible heat pump, and where the Authority determines that a heat pump that is registered as an eligible heat pump—
 
@@ -727,9 +739,13 @@ and must retain evidence of this while they are a participant.
 
 (3) In this regulation, “**sustainability information**” means the information provided pursuant to regulation 12(3) and (4).
 
-(4) Subject to paragraph (5), a participant must submit reports under this regulation annually and within 3 months after each anniversary of the date on which that participant was first registered as a producer of biomethane.
+(4) Subject to paragraphs (5) to (7)[^c-2be66decee48f47b411980cf61a946a8], a participant must submit reports under this regulation annually and within 3 months after the end of each scheme year from[^c-3d365d4e296c10c341db5aee09886b02] the date on which that participant was first registered as a producer of biomethane.
 
-(5) The report must consider and report on each consignment of biomethane produced, within the 12 month period preceding each anniversary of the date on which that participant was first registered as a producer of that biomethane.
+(5) Subject to paragraphs (6) and (7), the[^c-3c19839918f12252b9255e799b2300e9] report must consider and report on each consignment of biomethane produced, within that scheme year.[^c-46413ee020b924e1849ca7b6675f01b4]
+
+(6)[^c-884c4b6f5773f4bcca6018907ce2431c] If a participant has not submitted a report under this regulation, the Authority may require the participant to submit a report that must consider and report on each consignment of biomethane produced on or after the date on which that participant was first registered as a producer of that biomethane and before 1st April 2026.
+
+(7) The Authority may require a participant to submit a report under this regulation within three months after the tariff end date which must consider and report on each consignment of biomethane produced during the period starting on 1st April of the preceding scheme year and ending on the tariff end date.
 
 ## PART 4 — Changes affecting participants
 
@@ -903,9 +919,11 @@ the Secretary of State must publish with the expenditure forecast statement a no
 
 ### 21. Calculation and payment of periodic support payments to participants[^c-8ad43c2aad732def84fb72dde846d0a6]
 
-(1) Periodic support payments are payable for 15 years from the tariff start date.
+(1)[^c-22455c53413b3f3f70b0f24996a9ee17] Subject to paragraph (1A), periodic support payments are payable for 15 years from the tariff start date.
 
-(2) Paragraph (1) is subject to—
+(1A) Where the tariff start date is after 31st March 2028, periodic support payments are not payable in respect of a period after 31st March 2043.
+
+(2) Paragraphs (1) and (1A) are[^c-20ae3d2d9dd898b4048d5dda3c34477b] subject to—
 
 - (a) regulation 8 (additional biomethane),
 - (b) regulation 14 (review of registration following notification of a change in circumstances),
@@ -2800,11 +2818,25 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c-5c8360ad47348b11905e76a6b761b8b7]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/2/a) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/a)
 
+[^c-8364b65478356387023de5dc4423ffa0]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/2/a) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/3/a/i)
+
+[^c-7308b122be83a8c3f450aab3ad8e6dda]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/2/a) omitted (16.10.2026) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/3/a/ii)
+
 [^f00021]: Footnote: [S.I. 2011/2860](https://www.legislation.gov.uk/uksi/2011/2860), as amended by [S.I. 2013/1033](https://www.legislation.gov.uk/uksi/2013/1033), [2410](https://www.legislation.gov.uk/uksi/2013/2410) and [3179](https://www.legislation.gov.uk/uksi/2013/3179), [2014/1413](https://www.legislation.gov.uk/uksi/2014/1413), [2015/197](https://www.legislation.gov.uk/uksi/2015/197) and [477](https://www.legislation.gov.uk/uksi/2015/477), [2016/718](https://www.legislation.gov.uk/uksi/2016/718) and [1197](https://www.legislation.gov.uk/uksi/2016/1197), and [2017/727](https://www.legislation.gov.uk/uksi/2017/727) and [857](https://www.legislation.gov.uk/uksi/2017/857).
 
 [^f00022]: Footnote: [S.I. 2018/611](https://www.legislation.gov.uk/uksi/2018/611), as amended by [S.I. 2021/76](https://www.legislation.gov.uk/uksi/2021/76). There are other amendments not relevant to this instrument. Regulation 32 provides for a producer of biomethane for injection to be registered as a participant in the Renewable Heat Incentive Scheme, and to receive periodic support payments in relation to that production of biomethane. That scheme closed to new applications, with some exceptions, on 31st March 2021 (see regulations 3A and 3B of those Regulations inserted by [S.I. 2021/76](https://www.legislation.gov.uk/uksi/2021/76)).
 
-[^c-de25a9d7b013f1489cf527ca488402f0]: Textual amendment: [Reg. 4(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/7/b/ii) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/b)
+[^c-36582705d9deca316a5715f68afc663d]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/2/c) and word inserted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/3/a/iii)
+
+[^c-ef35b07b5cd899957b68c99800321283]: Textual amendment: [Reg. 4(6A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/6A)[(6B)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/6B) inserted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/3/b)
+
+[^c-7eda0b3a64a039bb35ad4a07a8c8f5a5]: Textual amendment: Words in [reg. 4(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/7/a/ii) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/3/c/i)
+
+[^c-fd1efe2f525cb039664802ac7b18d024]: Textual amendment: [Reg. 4(7)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/7/b/i) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/3/c/ii)
+
+[^c-1776ed4b16dd6ff0486dab3be65ffb2a]: Textual amendment: Word in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/7) omitted (16.10.2026) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [3(c)(iii)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/3/c/iii)
+
+[^c-fb8053f65d0f762fc85e1397ff76fecd]: Textual amendment: [Reg. 4(7)(b)(ii)-(v)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/7/b/ii) substituted for [reg. 4(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/7/b/ii) (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [3(c)(iv)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/3/c/iv)
 
 [^c-124c816950d3c17ecc7e5e63e448b013]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/9) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
@@ -2830,6 +2862,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c-e2ac72e22b57cdc78c3695533687a460]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/c/ii)
 
+[^c-82b765a6ec26fdac4c86e6db7646f751]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/3/d)
+
 [^c-79dc016673d68ece04d52156035dcefd]: Commencement: Reg. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^c-2334780714930b92eaaa9a954021c5d7]: Commencement: Reg. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
@@ -2844,9 +2878,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c-b0ca3b331c727dd559d3e153a2b1f5e3]: Textual amendment: Words in reg. 6(6)(d) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/642/regulation/5)
 
+[^c-2ef4c2fc29ad37a2c7a72a8140007ca2]: Textual amendment: Word in [reg. 6(6)(d)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/6/6/d) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/1051/regulation/4)
+
 [^c-4178cb80ddc5a336a4be1cd3eaf82329]: Commencement: Reg. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^c-6136b3e3c953ee2ebc4235893aaa5889]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/7/3/b) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/642/regulation/6)
+
+[^c-26e92f1455d510c653a14ca2054d9cff]: Textual amendment: Word in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/7/3/b) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/1051/regulation/5)
 
 [^f00025]: Footnote: [1993 c. 39](https://www.legislation.gov.uk/ukpga/1993/39). Section 1 was amended by section 3 of the National Lottery Act [2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23).
 
@@ -2855,6 +2893,10 @@ A full impact assessment of the effect that this instrument will have on the cos
 [^c-b60ba92b4be1c9e13d06ec918cc8549f]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/8/1/b) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/642/regulation/7)
 
 [^c-b41b4b21d84cf3438880be9fd315d735]: Textual amendment: Reg. 8A inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/642/regulation/8)
+
+[^c-c1400a58acaacd6eab898b04c4bc1fed]: Textual amendment: Words in [reg. 8A(5)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/8A/5) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/6/a)
+
+[^c-328946d5f509872bbffc1fa63cf08a74]: Textual amendment: Words in [reg. 8A(5)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/8A/5) inserted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/6/b)
 
 [^c-7fd5760cf0dcf5aa506bdcc4d3556b9c]: Commencement: Reg. 9 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
@@ -2882,6 +2924,16 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00028]: Footnote: International Standard on Assurance Engagements (UK) 3000 (July 2020): Assurance engagements other than audits or reviews of historical financial information, published by the Financial Reporting Council in July 2020. Copies are available at www.frc.org.uk, and hard copies can be obtained from the Financial Reporting Council, 8th Floor, 125 London Wall, London, EC2Y 5AS.
 
+[^c-2be66decee48f47b411980cf61a946a8]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/13/4) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/8/a/i)
+
+[^c-3d365d4e296c10c341db5aee09886b02]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/13/4) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/8/a/ii)
+
+[^c-3c19839918f12252b9255e799b2300e9]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/13/5) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [8(b)(i)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/8/b/i)
+
+[^c-46413ee020b924e1849ca7b6675f01b4]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/13/5) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/8/b/ii)
+
+[^c-884c4b6f5773f4bcca6018907ce2431c]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/13/6)[(7)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/13/7) inserted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/8/c)
+
 [^c-c666e5b060525788845ce38ee53bfeb0]: Commencement: Reg. 14 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^c-587c96b9de477bae923f80901b2499fc]: Textual amendment: Word in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/14/1/a) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2024/642/regulation/11)
@@ -2903,6 +2955,10 @@ A full impact assessment of the effect that this instrument will have on the cos
 [^c-a81d5875ff967755ac327bc5e8955b81]: Commencement: Reg. 20 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^c-8ad43c2aad732def84fb72dde846d0a6]: Commencement: Reg. 21 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^c-22455c53413b3f3f70b0f24996a9ee17]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/21/1)[(1A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/21/1A) substituted for [reg. 21(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/21/1) (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/9/a)
+
+[^c-20ae3d2d9dd898b4048d5dda3c34477b]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/21/2) substituted (16.10.2026) by [The Green Gas Support Scheme (Amendment) Regulations 2026 (S.I. 2026/1051)](https://www.legislation.gov.uk/uksi/2026/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/1051/regulation/9/b)
 
 [^c-7b5c6f31610e0209ea04f23c5db17d84]: Commencement: Reg. 22 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 

@@ -3,7 +3,7 @@ title: European Union (Withdrawal) Act 2018, SCHEDULE 7
 act: European Union (Withdrawal) Act 2018
 section: schedule-7
 status: revised-with-pending-changes
-text_date: '2025-08-20'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2018/16/schedule/7
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # European Union (Withdrawal) Act 2018, SCHEDULE 7
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-12. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -496,7 +496,7 @@ nothing further is to be done under the instrument after the date of the resolut
 
 (17) Sub-paragraphs (14) to (16) apply in place of provision made by any other enactment about the effect of such a resolution.
 
-#### 8F. Powers in connection with the Ireland/Northern Ireland Protocol in the withdrawal agreement
+#### 8F. Powers in connection with the Windsor Framework in the withdrawal agreement[^c-23f05e908837ca82ff8becec21cbe775]
 
 (1) A statutory instrument containing regulations under section 8C(1) which contain provision falling within sub-paragraph (2) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -1067,6 +1067,8 @@ they must make a statement explaining the failure.
 [^M_F_9a473361-2d1a-40f0-847f-1cdee971d2f4]: Textual amendment: Sch. 7 para. 8E(10)(b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 3(2)(d)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/3/2/d)
 
 [^M_F_cef69801-6446-4892-da78-b6d64ba46a15]: Textual amendment: Sch. 7 para. 8E(12)(b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 3(2)(d)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/3/2/d)
+
+[^c-23f05e908837ca82ff8becec21cbe775]: Textual amendment: Words in [Sch. 7 para. 8F heading](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/8F) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/11)
 
 [^c-316b90274027077b1e853ebd86c8f511]: Textual amendment: Words in [Sch. 7 para. 8F(2)(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/paragraph/8F/2/a) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/3/3)
 

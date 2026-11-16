@@ -3,7 +3,7 @@ title: European Union (Withdrawal) Act 2018, section 10
 act: European Union (Withdrawal) Act 2018
 section: '10'
 status: revised-with-pending-changes
-text_date: '2025-08-20'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2018/16/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # European Union (Withdrawal) Act 2018, section 10
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-12. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) diminish any form of North-South cooperation provided for by the Belfast Agreement [^c-b2ab1262625a6347eeb17fc641bcd4a2]..., or
 - (b) create or facilitate border arrangements between Northern Ireland and the Republic of Ireland after exit day which feature physical infrastructure, including border posts, or checks and controls, that did not exist before exit day and are not in accordance with an agreement between the United Kingdom and the EU.
 
-(3)[^c-60b974b84660e04a0f87328ff908cb96] A Minister of the Crown may not agree to the making of a recommendation by the Joint Committee under Article 11(2) of the Protocol on Ireland/Northern Ireland in the withdrawal agreement (recommendations as to North-South cooperation) to—
+(3)[^c-60b974b84660e04a0f87328ff908cb96] A Minister of the Crown may not agree to the making of a recommendation by the Joint Committee under Article 11(2) of the Windsor Framework[^c-f55376b39adba1242b647ad81ad24fba] in the withdrawal agreement (recommendations as to North-South cooperation) to—
 
 - (a) alter the arrangements for North-South co-operation as provided for by the Belfast Agreement,
 - (b) establish a new implementation body, or
@@ -52,3 +52,5 @@ summary: ''
 [^c-b2ab1262625a6347eeb17fc641bcd4a2]: Textual amendment: Words in [s. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2018/16/section/10/2/a) omitted (31.12.2020) by virtue of [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 41(3)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/41/3/b) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
 [^c-60b974b84660e04a0f87328ff908cb96]: Textual amendment: [S. 10(3)(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/10/3) inserted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 24](https://www.legislation.gov.uk/ukpga/2020/1/section/24), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/c)
+
+[^c-f55376b39adba1242b647ad81ad24fba]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2018/16/section/10/3) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/5)

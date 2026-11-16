@@ -3,7 +3,7 @@ title: European Union (Withdrawal) Act 2018, SCHEDULE 4
 act: European Union (Withdrawal) Act 2018
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '2025-08-20'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2018/16/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # European Union (Withdrawal) Act 2018, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-12. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -30,7 +30,7 @@ Section 14(1)
 
 - (a) section 8 or Part 1 of Schedule 2 (powers to deal with deficiencies arising from withdrawal), [^c-f83eafa6d885d83b0288b80d46a9e238]. . .
 - (aa)[^c-d853412ad053e40c08c0205d8d081251] section 8B or Part 1B of Schedule 2 (powers in connection with Part 3 of the withdrawal agreement and Part 3 of the EEA EFTA separation agreement), or
-- (ab) section 8C or Part 1C of Schedule 2 (powers in connection with the Ireland/Northern Ireland Protocol in the withdrawal agreement)
+- (ab) section 8C or Part 1C of Schedule 2 (powers in connection with the Windsor Framework[^c-293c616c3841420f5db2e7dafb5bc336] in the withdrawal agreement)
 - (b)[^c-f83eafa6d885d83b0288b80d46a9e238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where there is more than one appropriate authority in relation to the relevant function, two or more of the appropriate authorities may make regulations under this paragraph jointly.
@@ -156,6 +156,8 @@ the Minister may only make that modification under this Part with the consent of
 [^c-f83eafa6d885d83b0288b80d46a9e238]: Textual amendment: Sch. 4 para. 1(1)(b) and word omitted (23.1.2020) by virtue of [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(6)(e)(viii)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/viii), [Sch. 5 para. 47(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/47/2) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
 
 [^c-d853412ad053e40c08c0205d8d081251]: Textual amendment: [Sch. 4 para. 1(1)(aa)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/4/paragraph/1/1/aa)[(ab)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/4/paragraph/1/1/ab) inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 28(a)](https://www.legislation.gov.uk/ukpga/2020/1/section/28/a), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/m)
+
+[^c-293c616c3841420f5db2e7dafb5bc336]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/4/paragraph/1/1) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/10)
 
 [^c-9548c043a5774b0dc852c14ecd152f0c]: Textual amendment: Words in Sch. 4 para. 5(1) substituted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 28(b)(i)](https://www.legislation.gov.uk/ukpga/2020/1/section/28/b/i), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/m)
 

@@ -3,7 +3,7 @@ title: European Union (Withdrawal) Act 2018, section 7A
 act: European Union (Withdrawal) Act 2018
 section: 7A
 status: revised-with-pending-changes
-text_date: '2025-08-20'
+text_date: '2026-11-12'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2018/16/section/7A
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # European Union (Withdrawal) Act 2018, section 7A
 
-> **Warning: changes not yet applied to this text (15).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-11-12. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -47,11 +47,15 @@ as in accordance with the withdrawal agreement are without further enactment to 
 - (b) section 20 of that Act (financial provision),
 - (c) section 7C of this Act (interpretation of law relating to withdrawal agreement etc.),
 - (d) section 8B of this Act (power in connection with certain other separation issues),
-- (e) section 8C of this Act (power in connection with the Protocol on Ireland/Northern Ireland in withdrawal agreement), and
-- (f) Parts 1B and 1C of Schedule 2 to this Act (powers involving devolved authorities in connection with certain other separation issues and the Ireland/Northern Ireland Protocol).
+- (e) section 8C of this Act (power in connection with the Windsor Framework[^c-f5be91adf4cc11b7b0294cdd2213606d] in withdrawal agreement), and
+- (f) Parts 1B and 1C of Schedule 2 to this Act (powers involving devolved authorities in connection with certain other separation issues and the Windsor Framework[^c-e75c9eaec9498292652d90ebd645ceaf]).
 
 ## Annotations
 
 [^c-e18f94452350f08ee318748bf6f2d3ad]: Textual amendment: S. 7A and cross-heading inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/1/section/5), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/c)
 
 [^c-abf321bebf62eb747c4edfa42eb0ec65]: Textual amendment: S. 7A(3A) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/3/2)
+
+[^c-f5be91adf4cc11b7b0294cdd2213606d]: Textual amendment: Words in [s. 7A(5)(e)](https://www.legislation.gov.uk/ukpga/2018/16/section/7A/5/e) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/2/a)
+
+[^c-e75c9eaec9498292652d90ebd645ceaf]: Textual amendment: Words in [s. 7A(5)(f)](https://www.legislation.gov.uk/ukpga/2018/16/section/7A/5/f) substituted (12.11.2026) by [The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026 (S.I. 2026/1186)](https://www.legislation.gov.uk/uksi/2026/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/1186/regulation/2/2/b)
