@@ -3,16 +3,16 @@ title: The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008
 id: uksi/2008/3159
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-10'
-text_date: '2009-01-01'
+text_date: '2012-02-27'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/3159
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3159/pdfs/uksiem_20083159_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3159/pdfs/uksi_20083159_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3159/data.pdf
-pending_changes: 3
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2009-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3159
+> Text as at 2012-02-27.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -56,7 +56,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (1) These Regulations may be cited as the Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 and shall come into force on 1st January 2009.
 
-(2) In relation to a qualified investor scheme authorised by the Financial Services Authority before 1st January 2009, these regulations have effect subject to regulations 30 and 31.
+(2) In relation to a qualified investor scheme authorised by the Financial Services Authority before 1st January 2009, these regulations have effect subject to regulation[^c-fdcd0a8ca89a44e3b0039ea50f24b501] 31.
 
 (3) Regulation 27 of these Regulations (inserted regulations 69Z24A to 69Z24D) has effect in relation to manufactured dividends paid on or after 1st January 2009.
 
@@ -354,7 +354,7 @@ For regulation 52A[^f00020] substitute—
 
 (1) Omit Chapter 4 of Part 4 (regulations 53 to 69).
 
-(2) Paragraph (1) is subject to regulations 30 and 31 of these Regulations.
+(2) Paragraph (1) is subject to regulation[^c-8f1fa40c60f8298418a5519785e2f047] 31 of these Regulations.
 
 ## 18. Insertion of regulation 69DA[^c-4396e1c3db7069ed393977742ddf916f]
 
@@ -514,12 +514,9 @@ In Part 2 of the Schedule (index of expressions defined or otherwise explained i
 
 ## Transitory Provision
 
-### 30. Schemes authorised before 1st January 2009 – genuine diversity of ownership condition[^c-a1315d27fb1d8a877b6ce89c31307ca4]
+### 30. Schemes authorised before 1st January 2009 – genuine diversity of ownership condition[^c-05edb298e670d74251d2a779dc60b93a]
 
-Where a qualified investor scheme is authorised by the Financial Services Authority before 1st January 2009, the scheme shall be deemed to have met the genuine diversity of ownership condition in the inserted regulation 14C (regulation 11 of these Regulations) for the period—
-
-- (a) beginning on 1st January 2009; and
-- (b) ending on the date on which the scheme’s first accounting period beginning on or after 1st January 2009 ends.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 31. Schemes authorised before 1st January 2009 - continuation of provisions in Chapter 4 of Part 4 of the principal Regulations[^c-0396daf150ea1b33d7f88b901468215b]
 
@@ -622,6 +619,8 @@ A full and final Impact Assessment has not been prepared for this instrument as 
 
 [^c-ccd45c0500d8497f9ff2a376d2619238]: Commencement: Reg. 1 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
 
+[^c-fdcd0a8ca89a44e3b0039ea50f24b501]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/2) substituted (27.2.2012 with effect in accordance with reg. 1(4) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2012 (S.I. 2012/519)](https://www.legislation.gov.uk/uksi/2012/519), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/519/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2012/519/regulation/9/2)
+
 [^c-f95f82a4bf6e3130a0766af8735a2352]: Commencement: Reg. 2 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
 
 [^f00002]: Footnote: [1988, c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Amended by sections 526 and 527 of the Income and Corporation Taxes Act [1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10); Schedule 7 to the Capital Gains Tax Act [1979 (c. 14)](https://www.legislation.gov.uk/ukpga/1979/14); section 32 of, and paragraph 16(3) of Schedule 8 to, the Finance Act [1971 (c. 68)](https://www.legislation.gov.uk/ukpga/1971/68); section 93 of, and paragraph 3 of Schedule 24 to, the Finance Act [1972 (c. 41)](https://www.legislation.gov.uk/ukpga/1972/41); paragraph 10 of Schedule 4 to the Finance Act [1974 (c. 30)](https://www.legislation.gov.uk/ukpga/1974/30); paragraph 11 of Schedule 4 to the Finance Act [1976 (c. 40)](https://www.legislation.gov.uk/ukpga/1976/40); paragraph 4 of Schedule 2 to the Finance (No 2) Act [1979 (c. 47)](https://www.legislation.gov.uk/ukpga/1979/47); section 34(5) of the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35); paragraph 7 of Schedule 18 to the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53); paragraph 2 of Schedule 15 to the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16).
@@ -700,6 +699,8 @@ A full and final Impact Assessment has not been prepared for this instrument as 
 
 [^c-8546fcc6483c137795b55a10b093d814]: Commencement: Reg. 17 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
 
+[^c-8f1fa40c60f8298418a5519785e2f047]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/17/2) substituted (27.2.2012 with effect in accordance with reg. 1(4) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2012 (S.I. 2012/519)](https://www.legislation.gov.uk/uksi/2012/519), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/519/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2012/519/regulation/9/3)
+
 [^c-4396e1c3db7069ed393977742ddf916f]: Commencement: Reg. 18 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
 
 [^c-4d6ff50a1f231bdb503cfb10a3ab0db1]: Commencement: Reg. 19 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
@@ -740,6 +741,6 @@ A full and final Impact Assessment has not been prepared for this instrument as 
 
 [^c-0c1532df0fd24cd04a3d4c8001c5c21b]: Commencement: Reg. 29 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
 
-[^c-a1315d27fb1d8a877b6ce89c31307ca4]: Commencement: Reg. 30 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)
+[^c-05edb298e670d74251d2a779dc60b93a]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2008/3159/regulation/30) omitted (27.2.2012 with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2012 (S.I. 2012/519)](https://www.legislation.gov.uk/uksi/2012/519), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/519/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2012/519/regulation/9/4)
 
 [^c-0396daf150ea1b33d7f88b901468215b]: Commencement: Reg. 31 in force at 1.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1)

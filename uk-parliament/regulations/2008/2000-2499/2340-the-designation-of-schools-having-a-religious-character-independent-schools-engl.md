@@ -3,14 +3,14 @@ title: The Designation of Schools Having a Religious Character (Independent Scho
 id: uksi/2008/2340
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-08-29'
-text_date: null
-extent: null
+text_date: '2008-08-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2340
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2340/pdfs/uksi_20082340_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2340/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2340/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-08-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2340
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 2340
 
@@ -35,15 +39,15 @@ The Secretary of State for Children, Schools and Families makes the following Or
 
 In relation to the making of the Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation
+## 1. Citation[^c-35f9eb3e64e990a23a5db5bf5b802075]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-fe1210d732cee50c8f6d94da0e9c33c7]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted.
 
-## 3. Designation of Schools
+## 3. Designation of Schools[^c-9fe606587fede758dfcb48774d295046]
 
 (1) The schools listed in column (1) of the Schedule are designated as schools having a religious character.
 
@@ -57,7 +61,7 @@ Department for Children, Schools and Families
 
 29th August 2008
 
-## SCHEDULE — Schools Having a Religious Character
+## SCHEDULE — Schools Having a Religious Character[^c-7c49ee46403966c3d5e5b99370ef6163]
 
 Article 3
 
@@ -102,3 +106,11 @@ Designation by this Order is not of itself a means of acquiring a religious char
 [^f00002]: Footnote: Section 124B was inserted by the Independent Schools (Employment of Teachers in Schools with a Religious Character) Regulations 2003 ([S.I. 2003/2037](https://www.legislation.gov.uk/uksi/2003/2037)).
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
+
+[^c-35f9eb3e64e990a23a5db5bf5b802075]: Commencement: Art. 1 in force at made date
+
+[^c-fe1210d732cee50c8f6d94da0e9c33c7]: Commencement: Art. 2 in force at made date
+
+[^c-9fe606587fede758dfcb48774d295046]: Commencement: Art. 3 in force at made date
+
+[^c-7c49ee46403966c3d5e5b99370ef6163]: Commencement: Sch. in force at made date

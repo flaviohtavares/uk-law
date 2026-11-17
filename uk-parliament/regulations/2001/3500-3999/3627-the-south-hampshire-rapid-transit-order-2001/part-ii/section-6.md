@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 6
 act: The South Hampshire Rapid Transit Order 2001
 section: '6'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 6
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 6. Power to deviate
+## 6. Power to deviate[^c-67f9dc6bfcbdb2f6098b514ac5ffba8f]
+
+*Extent: E+W+S*
 
 (1) In constructing or maintaining any of the scheduled works, the undertaker may—
 
@@ -35,3 +39,7 @@ summary: ''
 (4) The power in paragraph (3) above shall not be exercised in the case of any authorised street tramway without the consent of the street authority, but such consent shall not be unreasonably withheld.
 
 (5) The undertaker may in constructing and maintaining any of the authorised tramroads provide within the limits of deviation for those tramroads such number of lines of rails and sidings as may be necessary or expedient.
+
+## Annotations
+
+[^c-67f9dc6bfcbdb2f6098b514ac5ffba8f]: Commencement: Art. 6 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

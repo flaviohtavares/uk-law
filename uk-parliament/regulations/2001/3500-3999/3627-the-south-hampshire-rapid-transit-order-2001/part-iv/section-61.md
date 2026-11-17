@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 61
 act: The South Hampshire Rapid Transit Order 2001
 section: '61'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 61
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 61. Tramcars deemed to be public service vehicles
+## 61. Tramcars deemed to be public service vehicles[^c-1d7d2170bd38073dbad1b78c40ece316]
+
+*Extent: E+W+S*
 
 (1) On such day as may be appointed under paragraph (2) below, regulations made, or having effect as if made, under sections 24, 25 or 60(1)(j) or (k) of the Public Passenger Vehicles Act 1981[^f00041] shall have effect as if the tramcars used on the authorised transit system were public service vehicles used in the provision of a local service within the meaning of the Transport Act 1985.
 
@@ -29,5 +33,7 @@ summary: ''
 - (c) A photostatic or other reproduction certified by the secretary of the undertaker to be a true reproduction of a page, or part of a page, of any newspaper bearing the date of its publication and containing the notice mentioned in sub-paragraph (b) above shall be evidence of the publication of the notice and of the date of publication.
 
 ## Annotations
+
+[^c-1d7d2170bd38073dbad1b78c40ece316]: Commencement: Art. 61 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00041]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).

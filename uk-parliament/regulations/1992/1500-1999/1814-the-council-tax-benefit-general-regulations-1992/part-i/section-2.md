@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 2
 act: The Council Tax Benefit (General) Regulations 1992
 section: '2'
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 2
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -40,7 +40,7 @@ summary: ''
   - (f) any payment based on need for attendance which is paid as part of a war disablement pension;
 - “benefit period” has the meaning prescribed in regulation 57;
 - “benefit week” means a period of 7 consecutive days commencing on a Monday and ending on a Sunday;
-- “boarder” means a person who pays a charge for his accommodation and at least some cooked or prepared meals which are both prepared and consumed in that accommodation or associated premises;
+- [^c-5feada4581960bd8e6d1ed0957df3b18]...
 - “child” means a person under the age of 16;
 - “claim” means a claim for council tax benefit;
 - “claimant” means a person claiming council tax benefit;
@@ -48,6 +48,7 @@ summary: ''
 - “community charge benefit” means community charge benefits under Part VII of the Contributions and Benefits Act 1992 as originally enacted;[^c-d1e93d4e15f429b38ab2d6548d49520d]
 - “concessionary payment” means a payment made under arrangements made by the Secretary of State with the consent of the Treasury which is charged either to the National Insurance Fund or to a Departmental Expenditure Vote to which payments of benefit under the Contributions and Benefits Act 1992 are charged;
 - “council tax benefit” means council tax benefit under Part VII of the Contributions and Benefits Act 1992[^f00006];
+- “Crown property” means property held by Her Majesty in right of the Crown or by a government department or which is held in trust for Her Majesty for the purposes of a government department, except (in the case of an interest held by Her Majesty in right of the Crown) where the interest is under the management of the Crown Estate Commissioners;[^c-8f4dfb8700f97195cf84c90ea865b8ad]
 - “date of claim” means the date on which the claim is made, or treated as made, for the purposes of regulation 62 (time and manner in which claims are to be made);[^c-d10b5b83720a61cdd0d648a3ddc6aaaa]
 - “designated office” means the office designated by the appropriate authority, by way of notice upon a form approved by them, for the purpose of claiming council tax benefit and for the receipt of claims to council tax benefit;
 - “disability living allowance” means a disability living allowance under Part III of the Contributions and Benefits Act 1992;
@@ -55,7 +56,7 @@ summary: ''
 - “dwelling” has the same meaning as in section 3 or 72 of the 1992 Act;
 - “earnings” has the meaning prescribed in regulation 19 or, as the case may be, 21;
 - [^c-4bb2e60c23985d7b4a13a9847462b28b]...
-- “employed earner” is to be construed in accordance with section 2(1)(a) of the Contributions and Benefits Act 1992;
+- “employed earner” is to be construed in accordance with section 2(1)(a) of the Contributions and Benefits Act 1992 and also includes a person who is in receipt of a payment which is payable under any enactment having effect in Northern Ireland and which corresponds to statutory sick pay or statutory maternity pay[^c-f0a36c92c1f980ee49e6909fe3c2ab3a];
 - “family” has the meaning assigned to it by section 137(1) of the Contributions and Benefits Act 1992;
 - “housing benefit” means housing benefit under Part VII of the Contributions and Benefits Act 1992;
 - “invalid carriage or other vehicle” means a vehicle propelled by a petrol engine or by electric power supplied for use on the road and to be controlled by the occupant;
@@ -73,8 +74,14 @@ summary: ''
   - (a) where a claimant is a member of a married or unmarried couple, the other member of that couple; or
   - (b) where a claimant is polygamously married to two or more members of his household, any such member to whom he is married;
 - “payment” includes part of a payment;
-- “person affected” means any person (including the appropriate authority) whose rights, duties or obligations are affected by a determination, whether or not on review, or by a decision on further review;
+- “person affected” means a person who is—[^c-3f8563891d2f4912253772f3d49694a4]
+  - (a) a claimant;
+  - (b) the appropriate authority; or
+  - (c) a person from whom the appropriate authority determines that excess benefit is recoverable in accordance with Part XI,
+
+  and whose rights, duties or obligations are affected by a determination, whether or not on review, or by a decision on further review;
 - “person on income support” means a person in receipt of income support;
+- “personal pension scheme” has the same meaning as in section 191 of the Administration Act 1992 and, in the case of a self-employed earner, includes a scheme approved by the Board of Inland Revenue under Chapter[^c-cac8f7d018e4cecfafb8d28f68402a02] IV of Part XIV of the Income and Corporation Taxes Act 1988
 - “policy of life insurance” means any instrument by which the payment of money is assured on death (except death by accident only) or by the happening of any contingency dependent on human life, or any instrument evidencing a contract which is subject to payment of premiums for a term dependent on human life;
 - “polygamous marriage” means a marriage to which section 133(1) of the Contributions and Benefits Act 1992 refers;
 - “qualifying person” means a person in respect of whom payment has been made from the Fund or the Eileen Trust[^c-4cef7b27610d52b89839ecb6b7ba9cc1];
@@ -89,10 +96,10 @@ summary: ''
 - “supplementary benefit” means a supplementary pension or allowance under section 1 or 4 of the Supplementary Benefit Act 1976[^f00008];
 - “the Eileen Trust” means the charitable trust of that name established on 29th March 1993 out of funds provided by the Secretary of State for the benefit of persons eligible for payment in accordance with its provisions;[^c-d4e6b4474ed0518a25421248d660a475]
 - “the Fund” means moneys made available from time to time by the Secretary of State for the benefit of persons eligible for payment in accordance with the provisions of a scheme established by him on 24th April 1992 or, in Scotland, on 10th April 1992;
-- “the Independent Living Funds” means the Independent Living Fund, the Independent Living (Extension) Fund and the Independent Living (1993) Fund;[^c-6748792ede3385f1f996d4bc4a0718d6]
-- “the Independent Living (Extension) Fund” means the Trust of that name established by a deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part;
+- “the Independent Living (Extension) Fund” means the Trust of that name established by a deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part;[^c-6748792ede3385f1f996d4bc4a0718d6]
 - “the Independent Living (1993) Fund” means the Trust of that name established by a deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part;
 - “the Independent Living Fund” means the charitable trust established out of funds provided by the Secretary of State for the purpose of providing financial assistance to those persons incapacitated by or otherwise suffering from very severe disablement who are in need of such assistance to enable them to live independently;
+- “the Independent Living Funds” means the Independent Living Fund, the Independent Living (Extension) Fund and the Independent Living (1993) Fund;
 - “the Trusts” means
   - (a) “the Macfarlane Trust”, established partly out of funds provided by the Secretary of State to the Haemophilia Society, for the relief of poverty or distress among those suffering from haemophilia;
   - (b) “the Macfarlane (Special Payments) Trust” established on 29th January 1990 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia;
@@ -131,17 +138,27 @@ summary: ''
 
 [^f00005]: Footnote: S.I. [1983/686](https://www.legislation.gov.uk/uksi/1983/686); the relevant amending instruments are S.I. [1983/1164](https://www.legislation.gov.uk/uksi/1983/1164) and [1984/1675](https://www.legislation.gov.uk/uksi/1984/1675).
 
+[^c-5feada4581960bd8e6d1ed0957df3b18]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) omitted (1.4.1994) by virtue of [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [15(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/15/a)
+
 [^c-d1e93d4e15f429b38ab2d6548d49520d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1993/688/regulation/2/1/a)
 
 [^f00006]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); council tax benefit was substituted for community charge benefit in Part VII by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) Schedule 9.
+
+[^c-8f4dfb8700f97195cf84c90ea865b8ad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (3.10.1994) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No.4) Regulations 1994 (S.I. 1994/1924)](https://www.legislation.gov.uk/uksi/1994/1924), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1924/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1924/regulation/2/2/made)
 
 [^c-d10b5b83720a61cdd0d648a3ddc6aaaa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/16/a)
 
 [^c-4bb2e60c23985d7b4a13a9847462b28b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2) omitted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by virtue of [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1993/688/regulation/2/1/b)
 
+[^c-f0a36c92c1f980ee49e6909fe3c2ab3a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) added (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/15/a)
+
 [^c-629b55544f7a3a4ac8c93f2e3a737830]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2) inserted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/1993/688/regulation/2/1/c)
 
 [^c-59d1acd7f6f817cf2995d73b6e31f051]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/16/b)
+
+[^c-3f8563891d2f4912253772f3d49694a4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) substituted (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/15/b)
+
+[^c-cac8f7d018e4cecfafb8d28f68402a02]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) inserted (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [15(b)](https://www.legislation.gov.uk/uksi/1994/578/regulation/15/b)
 
 [^c-4cef7b27610d52b89839ecb6b7ba9cc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/2/1) added (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(2)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/2/a/made)
 

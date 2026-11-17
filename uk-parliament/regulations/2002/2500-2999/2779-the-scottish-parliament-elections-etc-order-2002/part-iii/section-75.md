@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 75
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '75'
-status: revised-with-pending-changes
-text_date: '2002-11-20'
-extent: S
+status: as-enacted
+text_date: null
+extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/75
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,9 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 75
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
->
-> Extent: Scotland.
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
 
-## 75. Treating[^c-8f7ecaf9463cad453794770be294d19a]
-
-*Extent: S*
+## 75. Treating
 
 (1) A person shall be guilty of a corrupt practice if he is guilty of treating.
 
@@ -28,7 +24,3 @@ summary: ''
 - (b) on account of that person or any other person having voted or refrained from voting, or being about to vote or refrain from voting.
 
 (3) Every elector or his proxy who corruptly accepts or takes any such meat, drink, entertainment or provision shall also be guilty of treating.
-
-## Annotations
-
-[^c-8f7ecaf9463cad453794770be294d19a]: Commencement: Art. 75 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

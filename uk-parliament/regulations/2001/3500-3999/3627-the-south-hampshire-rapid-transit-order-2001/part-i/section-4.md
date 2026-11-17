@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 4
 act: The South Hampshire Rapid Transit Order 2001
 section: '4'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 4. Application of 1991 Act
+## 4. Application of 1991 Act[^c-14da4662477719ead374dbf9b4d5cc6c]
+
+*Extent: E+W+S*
 
 (1) Works executed under this Order in relation to a highway which consists of or includes a carriageway shall be treated for the purposes of Part III of the 1991 Act (street works) as major transport works if—
 
@@ -46,5 +50,7 @@ all such other provisions as apply for the purposes of the provisions mentioned 
 - (b) have effect in relation to street works with regard to which the provisions of Part III of the 1991 Act apply.
 
 ## Annotations
+
+[^c-14da4662477719ead374dbf9b4d5cc6c]: Commencement: Art. 4 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00013]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).

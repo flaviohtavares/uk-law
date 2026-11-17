@@ -267,7 +267,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Harbours, Docks, etc](harbours-docks-etc.md) | 0 | 3 |
 | [Harbours, Docks, Piers and Ferries](harbours-docks-piers-and-ferries.md) | 6 | 422 |
 | [Health and Personal Social Services](health-and-personal-social-services.md) | 10 | 403 |
-| [Health and Safety](health-and-safety.md) | 7 | 614 |
+| [Health and Safety](health-and-safety.md) | 7 | 613 |
 | [Health and Social Care](health-and-social-care.md) | 0 | 33 |
 | [Health Care and Associated Professions](health-care-and-associated-professions.md) | 7 | 318 |
 | [Health Professions](health-professions.md) | 0 | 11 |
@@ -601,7 +601,7 @@ Laws in force grouped by the subject headings that legislation.gov.uk gives to s
 | [Trade](trade.md) | 1 | 65 |
 | [Trade Descriptions](trade-descriptions.md) | 1 | 21 |
 | [Trade Marks](trade-marks.md) | 2 | 105 |
-| [Trade Unions](trade-unions.md) | 6 | 87 |
+| [Trade Unions](trade-unions.md) | 6 | 88 |
 | [Trading with the Enemy](trading-with-the-enemy.md) | 0 | 17 |
 | [Transfer of Functions](transfer-of-functions.md) | 0 | 11 |
 | [Transport](transport.md) | 24 | 842 |

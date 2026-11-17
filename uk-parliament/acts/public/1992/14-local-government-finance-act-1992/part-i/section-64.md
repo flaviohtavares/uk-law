@@ -3,7 +3,7 @@ title: Local Government Finance Act 1992, section 64
 act: Local Government Finance Act 1992
 section: '64'
 status: repealed
-text_date: '2026-06-29'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1992/14/section/64
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

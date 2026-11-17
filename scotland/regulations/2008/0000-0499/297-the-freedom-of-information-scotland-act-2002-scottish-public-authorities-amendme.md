@@ -3,16 +3,16 @@ title: The Freedom of Information (Scotland) Act 2002 (Scottish Public Authoriti
 id: ssi/2008/297
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-09-01'
-text_date: '2008-09-01'
+text_date: '2026-04-01'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2008/297
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2008/297/pdfs/ssien_20080297_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/297/pdfs/ssi_20080297_en.pdf
 - http://www.legislation.gov.uk/ssi/2008/297/data.pdf
-pending_changes: 9
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Freedom of Information (Scotland) Act 2002 (Scottish Public Authorities) Amendment Order 2008
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2008-09-01. See https://www.legislation.gov.uk/changes/affected/ssi/2008/297
+> Text as at 2026-04-01.
 >
 > Extent: Scotland.
 
 *Extent: S*
-
-**Not yet in force.**
 
 2008 No. 297
 
@@ -89,7 +87,7 @@ Article 2
 | --- | --- |
 | 29A. | The National Waiting Times Centre Board |
 | 32A | NHS Education for Scotland |
-| 32B | NHS Health Scotland |
+| [^c-ab093b5ce9997d4c5dd7efdd33e411ae]. . . | [^c-ab093b5ce9997d4c5dd7efdd33e411ae]. . . |
 | 32C | NHS Quality Improvement Scotland |
 
 ### PART 7 — OTHERS[^c-9298f2ea1f1ab46743ee362f3d4448b6]
@@ -138,18 +136,20 @@ Article 3 of this Order removes from schedule 1 to the Act the bodies listed in 
 
 [^f00001]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
 
-[^c-3c442200ef4ec8df7c53fa49609d4bc7]: Commencement: Art. 1 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+[^c-3c442200ef4ec8df7c53fa49609d4bc7]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2008/297/article/1) in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
 
-[^c-b121d7d9ad6fc1994c1a08fd098aa4e3]: Commencement: Art. 2 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+[^c-b121d7d9ad6fc1994c1a08fd098aa4e3]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2008/297/article/2) in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
 
-[^c-2981af699acd5fdc41e1aed0c95abf86]: Commencement: Art. 3 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+[^c-2981af699acd5fdc41e1aed0c95abf86]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2008/297/article/3) in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
 
-[^c-357ab0986202b98999b6efcadbbad00e]: Commencement: Sch. 1 Pt. 2 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+[^c-357ab0986202b98999b6efcadbbad00e]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2008/297/schedule/1/part/2) in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
 
-[^c-8e6e38caca0494b3bbfd53bfd87dabf0]: Commencement: Sch. 1 Pt. 4 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+[^c-8e6e38caca0494b3bbfd53bfd87dabf0]: Commencement: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ssi/2008/297/schedule/1/part/4) in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
 
-[^c-9298f2ea1f1ab46743ee362f3d4448b6]: Commencement: Sch. 1 Pt. 7 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+[^c-ab093b5ce9997d4c5dd7efdd33e411ae]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2008/297/schedule/1) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 12](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/12) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
 
-[^c-4694c1bcb3a8a33f5df49fa73c0da691]: Commencement: Sch. 2 Pt. 4 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+[^c-9298f2ea1f1ab46743ee362f3d4448b6]: Commencement: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2008/297/schedule/1/part/7) in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
 
-[^c-c8f5ac711db6c8f39983422e8cfd9d1c]: Commencement: Sch. 2 Pt. 7 in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+[^c-4694c1bcb3a8a33f5df49fa73c0da691]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/ssi/2008/297/schedule/2/part/4) in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)
+
+[^c-c8f5ac711db6c8f39983422e8cfd9d1c]: Commencement: [Sch. 2 Pt. 7](https://www.legislation.gov.uk/ssi/2008/297/schedule/2/part/7) in force at 13.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/297/article/1/1)

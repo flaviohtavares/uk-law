@@ -3,14 +3,14 @@ title: Non-automatic Weighing Machines and Non-automatic Weighing Instruments (A
 id: nisr/1996/320
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-24'
-text_date: null
-extent: null
+text_date: '1996-07-24'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/320
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/320/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/320/data.pdf
+pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Non-automatic Weighing Machines and Non-automatic Weighing Instruments (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (11).** Text as at 1996-07-24. See https://www.legislation.gov.uk/changes/affected/nisr/1996/320
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 320
 
@@ -36,15 +42,15 @@ Coming into operation
 
 The Department of Economic Development, in exercise of the powers conferred by Article 13(1) of the Weights and Measures (Northern Ireland) Order 1981[^f00001] and now vested in it[^f00002] and of every other power enabling it in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-0d0a1c59067acc9d667fe6e3a24cd116]
 
 These Regulations may be cited as the Non-automatic Weighing Machines and Non-automatic Weighing Instruments (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 2nd September 1996.
 
-## 2. Amendment of the Weighing Equipment (Non-automatic Weighing Machines) Regulations (Northern Ireland) 1991
+## 2. Amendment of the Weighing Equipment (Non-automatic Weighing Machines) Regulations (Northern Ireland) 1991[^c-2236848d061cd3566b328f00834330d4]
 
 The Weighing Equipment (Non-automatic Weighing Machines) Regulations (Northern Ireland) 1991[^f00003] shall be amended as provided in regulations 3 to 6.
 
-**3.** In regulation 4—
+**3.**[^c-1d91bd1b8cc1c66e5fc8525a771c822a] In regulation 4—
 
 - (a) for paragraphs (1) and (2) there shall be substituted the following paragraphs—
 
@@ -64,7 +70,7 @@ The Weighing Equipment (Non-automatic Weighing Machines) Regulations (Northern I
 
   .
 
-**4.** After regulation 35 there shall be added the following regulation—
+**4.**[^c-7d387b037405a945fc2a478eeece473d] After regulation 35 there shall be added the following regulation—
 
 > **35A. Non-automatic weighing machines imported from another member State or an EEA State**
 >
@@ -86,13 +92,13 @@ The Weighing Equipment (Non-automatic Weighing Machines) Regulations (Northern I
 
 .
 
-**5.** In regulation 36, for paragraph (2) there shall be substituted—
+**5.**[^c-1f052f7007799400d4ef9c6a7e2cf0bb] In regulation 36, for paragraph (2) there shall be substituted—
 
 > (2) In the case of a machine marked with an approved minimum load, the prescribed limits of error specified in Schedule 4 shall apply on and after 2nd September 1996 for test loads of less than the amount of that load.
 
 .
 
-**6.** In regulation 38—
+**6.**[^c-e81834a23c75a9bc72bf4dcc85531a0e] In regulation 38—
 
 - (a) in paragraph (1), for the words “paragraphs (2) to (4)” there shall be substituted the words “paragraphs (2) to (5)”; and
 - (b) after paragraph (4) there shall be added—
@@ -104,11 +110,11 @@ The Weighing Equipment (Non-automatic Weighing Machines) Regulations (Northern I
 
   .
 
-## 7. Amendment of the Non-automatic Weighing Instruments (EEC Requirements) (Use for Trade) Regulations (Northern Ireland) 1992
+## 7. Amendment of the Non-automatic Weighing Instruments (EEC Requirements) (Use for Trade) Regulations (Northern Ireland) 1992[^c-d4702d6caef0d051f47f5c944f22e2cf]
 
 The Non-automatic Weighing Instruments (EEC Requirements) (Use for Trade) Regulations (Northern Ireland) 1992[^f00005] shall be amended as provided in regulations 8 to 10.
 
-**8.** (1) Regulation 2 shall be renumbered as paragraph (1) of that regulation and in that paragraph—
+**8.**[^c-263372a2cc5ef357305967a2b4216e84] (1) Regulation 2 shall be renumbered as paragraph (1) of that regulation and in that paragraph—
 
 - (a) after the definition of “the 1981 Order” there shall be inserted the following definitions—
 
@@ -128,7 +134,7 @@ The Non-automatic Weighing Instruments (EEC Requirements) (Use for Trade) Regula
 
 (3) In regulation 3, for the words “the 1992 Regulations” there shall be substituted the words “the 1995 Regulations”.
 
-**9.** In regulation 4 for paragraphs (1) to (4) there shall be substituted the following paragraphs—
+**9.**[^c-35067aca5ef40338c1fee2efcbbd3358] In regulation 4 for paragraphs (1) to (4) there shall be substituted the following paragraphs—
 
 > (1) Save in accordance with paragraph (2), a person shall not use for trade an instrument marked with a weighing range for determining a weight outside that range in relation—
 >
@@ -147,7 +153,7 @@ The Non-automatic Weighing Instruments (EEC Requirements) (Use for Trade) Regula
 
 .
 
-**10.** For regulation 12 there shall be substituted the following regulation—
+**10.**[^c-5b75f7078c463ef68d719ed01d6e7c61] For regulation 12 there shall be substituted the following regulation—
 
 > **12. Instruments using decimal parts of a pound**
 >
@@ -179,8 +185,28 @@ They amend the 1992 Regulations to forbid the use for trade of instruments outsi
 
 [^f00002]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
+[^c-0d0a1c59067acc9d667fe6e3a24cd116]: Commencement: Reg. 1 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)
+
+[^c-2236848d061cd3566b328f00834330d4]: Commencement: Reg. 2 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)
+
 [^f00003]: Footnote: [S.R. 1991 No. 266](https://www.legislation.gov.uk/nisr/1991/266) as amended by [S.R. 1992 No. 537](https://www.legislation.gov.uk/nisr/1992/537) and [S.R. 1995 No. 228](https://www.legislation.gov.uk/nisr/1995/228)
+
+[^c-1d91bd1b8cc1c66e5fc8525a771c822a]: Commencement: Reg. 3 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)
+
+[^c-7d387b037405a945fc2a478eeece473d]: Commencement: Reg. 4 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)
 
 [^f00004]: Footnote: EN 45001 is a European Standard which has the status of a British Standard; it is identical with BS 7501 (ISBN 0 580 17939 7), “General criteria for the operation of testing laboratories”.
 
+[^c-1f052f7007799400d4ef9c6a7e2cf0bb]: Commencement: Reg. 5 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)
+
+[^c-e81834a23c75a9bc72bf4dcc85531a0e]: Commencement: Reg. 6 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)
+
+[^c-d4702d6caef0d051f47f5c944f22e2cf]: Commencement: Reg. 7 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)
+
 [^f00005]: Footnote: [S.R. 1992 No. 484](https://www.legislation.gov.uk/nisr/1992/484)
+
+[^c-263372a2cc5ef357305967a2b4216e84]: Commencement: Reg. 8 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)
+
+[^c-35067aca5ef40338c1fee2efcbbd3358]: Commencement: Reg. 9 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)
+
+[^c-5b75f7078c463ef68d719ed01d6e7c61]: Commencement: Reg. 10 in operation at 2.9.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/320/regulation/1)

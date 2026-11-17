@@ -2,8 +2,8 @@
 title: The Local Authorities (Functions and Responsibilities) (England) Regulations 2000, SCHEDULE 2
 act: The Local Authorities (Functions and Responsibilities) (England) Regulations 2000
 section: schedule-2
-status: revised-with-pending-changes
-text_date: '2026-03-25'
+status: revised
+text_date: '2026-11-02'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2000/2853/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Local Authorities (Functions and Responsibilities) (England) Regulations 2000, SCHEDULE 2
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/uksi/2000/2853
+> Text as at 2026-11-02.
 >
 > Extent: England, Wales.
 
@@ -73,6 +73,12 @@ and the revocation of any such appointment.
 **21.** Any function of a local authority in their capacity as a harbour authority (to the extent that the function does not fall within paragraph 1 of this Schedule.
 
 **22.**[^c-995d702b24b777a4b3d8d1485e385302] Functions under sections 106, 110, 111 and 113 of the 2007 Act relating to local area agreements.
+
+**23.**[^c-ee1939c4e4c0040b116d4f1186a3e948] Any function of a local planning authority relating to the making, or revocation of, a local development order under [sections 61A to 61D](https://www.legislation.gov.uk/ukpga/1990/8/section/61A) of and [Schedule 4A](https://www.legislation.gov.uk/ukpga/1990/8/schedule/4A) to the [Town and Country Planning Act 1990](https://www.legislation.gov.uk/ukpga/1990/8/contents) and [article 38](https://www.legislation.gov.uk/uksi/2015/595/article/38) of the [Town and Country Planning (Development Management Procedure) (England) Order 2015](https://www.legislation.gov.uk/uksi/2015/595/contents) ([S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595)).
+
+**24.** Any powers of entry of the local planning authority under [section 324](https://www.legislation.gov.uk/ukpga/1990/8/section/324) of the [Town and Country Planning Act 1990](https://www.legislation.gov.uk/ukpga/1990/8/contents).
+
+**25.** Any powers of entry of the local planning authority under [section 88](https://www.legislation.gov.uk/ukpga/1990/9/section/88) of the [Planning (Listed Buildings and Conservation Areas) Act 1990](https://www.legislation.gov.uk/ukpga/1990/9/contents).
 
 ## Annotations
 
@@ -135,3 +141,5 @@ and the revocation of any such appointment.
 [^c-9cf9fe7dd90d83ec9ebe811f3e48cfe3]: Textual amendment: Sch. 2 paras. 20, 21 inserted (10.7.2001) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2001 (S.I. 2001/2212)](https://www.legislation.gov.uk/uksi/2001/2212), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/2212/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/2212/schedule/part/II) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2001/2212/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2001/2212/regulation/1/5))
 
 [^c-995d702b24b777a4b3d8d1485e385302]: Textual amendment: Sch. 2 para. 22 inserted (31.3.2008) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2008 (S.I. 2008/516)](https://www.legislation.gov.uk/uksi/2008/516), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/516/regulation/1/1/a), [7(b)](https://www.legislation.gov.uk/uksi/2008/516/regulation/7/b)
+
+[^c-ee1939c4e4c0040b116d4f1186a3e948]: Textual amendment: [Sch. 2 paras. 23-25](https://www.legislation.gov.uk/uksi/2000/2853/schedule/2/paragraph/23) inserted (2.11.2026) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2026 (S.I. 2026/1076)](https://www.legislation.gov.uk/uksi/2026/1076), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1076/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/1076/regulation/4)

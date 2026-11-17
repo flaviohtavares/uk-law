@@ -2,8 +2,8 @@
 title: Crime and Policing Act 2026, section 242
 act: Crime and Policing Act 2026
 section: '242'
-status: not-yet-in-force
-text_date: '2026-11-06'
+status: revised-with-pending-changes
+text_date: '2026-11-16'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/242
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Crime and Policing Act 2026, section 242
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (32).** Text as at 2026-11-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
 > Extent: England, Wales.
 
-## 242. Provisions for pardons and criminal records of women prosecuted under abortion law[^c-167ebde69fba052c4c242bf849adaeb6]
+## 242. Provisions for pardons and criminal records of women prosecuted under abortion law[^c-167ebde69fba052c4c242bf849adaeb6][^c-8753f98b0ffc195d39f7d14750d0c94f]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) The [Policing and Crime Act 2017](https://www.legislation.gov.uk/ukpga/2017/3/contents) is amended as follows.
 
@@ -49,3 +47,5 @@ summary: ''
 ## Annotations
 
 [^c-167ebde69fba052c4c242bf849adaeb6]: Commencement: S. 242 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+
+[^c-8753f98b0ffc195d39f7d14750d0c94f]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2026/20/section/242) in force at 16.11.2026 by [S.I. 2026/1090](https://www.legislation.gov.uk/uksi/2026/1090), [reg. 3](https://www.legislation.gov.uk/uksi/2026/1090/regulation/3)

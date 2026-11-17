@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 21
 act: The South Hampshire Rapid Transit Order 2001
 section: '21'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/21
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 21
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 21. Additional powers for tunnel
+## 21. Additional powers for tunnel[^c-b52ccf60af4db14ed8120fa75030def2]
+
+*Extent: E+W+S*
 
 (1) Without prejudice to the other powers conferred by this Order or otherwise available to it, the undertaker may within the tunnel area for the purposes of or in connection with the construction or maintenance of the tunnel and notwithstanding any interference thereby with any public or private rights—
 
@@ -32,5 +36,7 @@ in such manner and to such extent as may appear to it to be necessary or conveni
 (2) Except in the case of urgency, the undertaker will use its reasonable endeavours to notify the owner of any mooring and the owner or master of any vessel or structure affected by the proposal to exercise the powers of paragraph (1)(d) or (e) above before the exercise of that power.
 
 ## Annotations
+
+[^c-b52ccf60af4db14ed8120fa75030def2]: Commencement: Art. 21 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00019]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

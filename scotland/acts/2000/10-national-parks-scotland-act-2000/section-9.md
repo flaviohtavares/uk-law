@@ -3,7 +3,7 @@ title: National Parks (Scotland) Act 2000, section 9
 act: National Parks (Scotland) Act 2000
 section: '9'
 status: revised-with-pending-changes
-text_date: '2014-12-08'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2000/10/section/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # National Parks (Scotland) Act 2000, section 9
 
-> **Warning: changes not yet applied to this text (28).** Text as at 2014-12-08. See https://www.legislation.gov.uk/changes/affected/asp/2000/10
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/asp/2000/10
 >
 > Extent: Scotland.
 
@@ -42,8 +42,10 @@ summary: ''
 
 (5) A thing is not, however, excluded from being done under subsection (3) merely because it involves expenditure, borrowing or lending of money or acquiring or disposing of property.
 
-(6) In exercising its functions a National Park authority must act with a view to accomplishing the purpose set out in subsection (1); but if, in relation to any matter, it appears to the authority that there is a conflict between the National Park aim set out in section 1(a) and other National Park aims, the authority must give greater weight to the aim set out in section 1(a).
+(6) In exercising its functions a National Park authority must act with a view to accomplishing the purpose set out in subsection (1); but if, in relation to any matter, it appears to the authority that there is a conflict between the National Park aim set out in section 1(1)(a)[^c-c5d1d49d8b6dcc32467663493e071ff5] and other National Park aims, the authority must give greater weight to the aim set out in section 1(1)(a).
 
 ## Annotations
 
 [^c-db22cb38b031870970c4d076e0514deb]: Modification: S. 9 modified by 1997 c. 8, s. 26(6J) (as inserted (6.2.2007 for specified purposes, 1.4.2007 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 3(1)(e)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/e), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule))
+
+[^c-c5d1d49d8b6dcc32467663493e071ff5]: Textual amendment: Word in [s. 9(6)](https://www.legislation.gov.uk/asp/2000/10/section/9/6) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 3(3)](https://www.legislation.gov.uk/asp/2026/6/section/3/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/a)

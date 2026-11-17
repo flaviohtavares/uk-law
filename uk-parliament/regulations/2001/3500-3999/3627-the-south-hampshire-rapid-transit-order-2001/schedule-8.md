@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 8
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-8
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,17 +12,21 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 8 — MODIFICATION OF COMPENSATION AND COMPULSORY PURCHASE ENACTMENTS FOR CREATION OF NEW RIGHTS
+
+*Extent: E+W+S*
 
 Article 38
 
 ### Compensation enactments
 
-**1.** The enactments for the time being in force with respect to compensation for the compulsory purchase of land shall apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-ea0a49d113510ce0782a0d3b322ac94c] The enactments for the time being in force with respect to compensation for the compulsory purchase of land shall apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.** (1) Without prejudice to the generality of paragraph 1 above, the Land Compensation Act 1973[^f00045] shall have effect subject to the modifications set out in sub-paragraphs (2) and (3) below.
+**2.**[^c-9cfc53d71964aabc7235abba3146ac26] (1) Without prejudice to the generality of paragraph 1 above, the Land Compensation Act 1973[^f00045] shall have effect subject to the modifications set out in sub-paragraphs (2) and (3) below.
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 4 below—
 
@@ -38,20 +42,20 @@ Article 38
 
 ### Adaptation of the 1965 Act
 
-**3.** (1) The 1965 Act shall have effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are read (according to the requirements of the particular context) as referring to, or as including references to—
+**3.**[^c-fa0aa2a89ea3bd129a53d1b781a90c37] (1) The 1965 Act shall have effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are read (according to the requirements of the particular context) as referring to, or as including references to—
 
 - (a) the right acquired or to be acquired; or
 - (b) the land over which the right is or is to be exercisable.
 
 (2) Without prejudice to the generality of sub-paragraph (1) above, Part I of the 1965 Act shall apply in relation to the compulsory acquisition under this Order of a right by the creation of a new right with the modifications specified in the following provisions of this Schedule.
 
-**4.** For section 7 of the 1965 Act (measure of compensation) there shall be substituted the following section—
+**4.**[^c-5e5d2785e3d1c78958f29bc9a9059444] For section 7 of the 1965 Act (measure of compensation) there shall be substituted the following section—
 
 > **7.** In assessing the compensation to be paid by the acquiring authority under this Act, regard shall be had not only to the extent (if any) to which the value of the land over which the right is to be acquired is depreciated by the acquisition of the right but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of his, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
 .
 
-**5.** For section 8 of the 1965 Act (provisions as to divided land) there shall be substituted the following:—
+**5.**[^c-cdcb92e2aad5bc78eaa161b64c607107] For section 8 of the 1965 Act (provisions as to divided land) there shall be substituted the following:—
 
 > **8.** (1) Where in consequence of the service on a person under section 5 of this Act of a notice to treat in respect of a right over land consisting of a house, building or manufactory or of a park or garden belonging to a house (“the relevant land”)—
 >
@@ -68,7 +72,7 @@ Article 38
 
 .
 
-**6.** The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
+**6.**[^c-de374b06480ad7388aef9a6b68a3e137] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
 
 - (a) section 9(4) (failure by owners to convey),
 - (b) paragraph 10(3) of Schedule 1 (owners under incapacity),
@@ -77,12 +81,30 @@ Article 38
 
 shall be so modified as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired is vested absolutely in the acquiring authority.
 
-**7.** Section 11 of the 1965 Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority have served notice to treat in respect of any right, they have power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on warrant in the event of obstruction) of the 1965 Act shall be modified correspondingly.
+**7.**[^c-c65619d23f0b30b78f4ec0b7cfb2113a] Section 11 of the 1965 Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority have served notice to treat in respect of any right, they have power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on warrant in the event of obstruction) of the 1965 Act shall be modified correspondingly.
 
-**8.** Section 20 of the 1965 Act (protection for interests of tenants at will, etc.) shall apply with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
+**8.**[^c-27971e27a88239a26faf997d46d2e33d] Section 20 of the 1965 Act (protection for interests of tenants at will, etc.) shall apply with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
 
-**9.** Section 22 of the 1965 Act (protection of acquiring authority’s possession where by inadvertence an estate, right or interest has not been got in) shall be so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
+**9.**[^c-6333b8f1c0b0a6a7d875ddf538d2507f] Section 22 of the 1965 Act (protection of acquiring authority’s possession where by inadvertence an estate, right or interest has not been got in) shall be so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
 
 ## Annotations
 
+[^c-ea0a49d113510ce0782a0d3b322ac94c]: Commencement: Sch. 8 para. 1 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-9cfc53d71964aabc7235abba3146ac26]: Commencement: Sch. 8 para. 2 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
 [^f00045]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
+
+[^c-fa0aa2a89ea3bd129a53d1b781a90c37]: Commencement: Sch. 8 para. 3 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-5e5d2785e3d1c78958f29bc9a9059444]: Commencement: Sch. 8 para. 4 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-cdcb92e2aad5bc78eaa161b64c607107]: Commencement: Sch. 8 para. 5 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-de374b06480ad7388aef9a6b68a3e137]: Commencement: Sch. 8 para. 6 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-c65619d23f0b30b78f4ec0b7cfb2113a]: Commencement: Sch. 8 para. 7 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-27971e27a88239a26faf997d46d2e33d]: Commencement: Sch. 8 para. 8 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-6333b8f1c0b0a6a7d875ddf538d2507f]: Commencement: Sch. 8 para. 9 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

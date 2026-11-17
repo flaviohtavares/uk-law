@@ -3,7 +3,7 @@ title: Local Government Finance Act 1992, section 76
 act: Local Government Finance Act 1992
 section: '76'
 status: revised-with-pending-changes
-text_date: '2026-06-29'
+text_date: '2026-11-13'
 extent: S
 source_url: https://www.legislation.gov.uk/ukpga/1992/14/section/76
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Local Government Finance Act 1992, section 76
 
-> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
+> **Warning: changes not yet applied to this text (35).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
 > Extent: Scotland.
 

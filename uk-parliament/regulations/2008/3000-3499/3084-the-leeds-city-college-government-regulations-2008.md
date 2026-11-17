@@ -3,16 +3,16 @@ title: The Leeds City College (Government) Regulations 2008
 id: uksi/2008/3084
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-01'
-text_date: '2008-12-01'
+text_date: '2016-04-06'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3084
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3084/pdfs/uksiem_20083084_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3084/pdfs/uksi_20083084_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3084/data.pdf
-pending_changes: 48
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Leeds City College (Government) Regulations 2008
 
-> **Warning: changes not yet applied to this text (48).** Text as at 2008-12-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3084
+> Text as at 2016-04-06.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 3084
 
@@ -275,9 +273,9 @@ In this Instrument of Government—
 
 (4) Paragraph (3) does not apply to a student who is employed by the Corporation in connection with the student’s role as an officer of a students’ union.
 
-(5) Subject to paragraphs (6) and (7), a person shall be disqualified from holding, or from continuing to hold, office as a member, if that person has been adjudged bankrupt, or is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order. or a bankruptcy restrictions undertaking within the meaning of the Insolvency Act 1986[^f00005], or if that person has made a composition or arrangement with creditors, including an individual voluntary arrangement.
+(5) Subject to paragraphs (6) and (7), a person shall be disqualified from holding, or from continuing to hold, office as a member, if that person has been made[^c-3f384ada4c4ccc20b6893e95d94a7cbf] bankrupt, or is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order. or a bankruptcy restrictions undertaking within the meaning of the Insolvency Act 1986[^f00005], or if that person has made a composition or arrangement with creditors, including an individual voluntary arrangement.
 
-(6) Where a person is disqualified by reason of having been adjudged bankrupt or by reason of being the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order or a bankruptcy restrictions undertaking, that disqualification shall cease—
+(6) Where a person is disqualified by reason of having been made bankrupt or by reason of being the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order or a bankruptcy restrictions undertaking, that disqualification shall cease—
 
 - (a) on that person’s discharge from bankruptcy, unless the bankruptcy order has before then been annulled; or
 - (b) if the bankruptcy order is annulled, at the date of that annulment; or
@@ -473,92 +471,6 @@ The application of the seal of the Corporation shall be authenticated by—
 - (b) the signature of any other member.
 
 ## SCHEDULE 2 — ARTICLES OF GOVERNMENT
-
-Contents
-
-1
-
-Interpretation of the terms used
-
-2
-
-Conduct of the institution
-
-3
-
-Responsibilities of the Corporation, the Principal and the Clerk
-
-4
-
-The establishment of committees and delegation of functions generally
-
-5
-
-The search committee
-
-6
-
-The audit committee
-
-7
-
-Composition of committees
-
-8
-
-Access to committees by non-members and publication of minutes
-
-9-11
-
-Delegable and non-delegable functions
-
-12-13
-
-Appointment and promotion of staff
-
-14
-
-Rules relating to the conduct of staff
-
-15
-
-Academic freedom
-
-16
-
-Grievance, suspension and disciplinary procedures
-
-17
-
-Suspension and dismissal of the Clerk
-
-18
-
-Students
-
-19
-
-Financial matters
-
-20
-
-Co- operation with the LSC’s auditor
-
-21
-
-Internal audit
-
-22
-
-Accounts and audit of accounts
-
-23
-
-Rules and bye-laws
-
-24
-
-Copies of Articles of Government and rules and bye-laws
 
 ### 1. Interpretation of the terms used[^c-233c4481759566fcbf04bb75106c6ba6]
 
@@ -806,106 +718,108 @@ These Regulations prescribe for the Leeds City College Further Education Corpora
 
 [^f00001]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13); Schedule 4 was amended by paragraph 44 of Schedule 9 to the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21); see section 61(1) for the meaning of “regulations”.
 
-[^c-594bfef02b1bc2e0298ee94089ae9c32]: Commencement: Reg. 1 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-594bfef02b1bc2e0298ee94089ae9c32]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-504bf88ac92f4b7a52a9ae47829b531b]: Commencement: Reg. 2 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-504bf88ac92f4b7a52a9ae47829b531b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/3084/regulation/2) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
 [^f00002]: Footnote: Established by [S.I. 2008/3083](https://www.legislation.gov.uk/uksi/2008/3083).
 
-[^c-0f0a2ebb7700afbfc191a909d8b0c28c]: Commencement: Sch. 1 para. 1 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-0f0a2ebb7700afbfc191a909d8b0c28c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/1) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
 [^f00003]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
 
 [^f00004]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21).
 
-[^c-cc092cdf81dbb3a347c55968d1a91aea]: Commencement: Sch. 1 para. 2 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-cc092cdf81dbb3a347c55968d1a91aea]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/2) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-aa986238dd54d3066b4a4856bbb55031]: Commencement: Sch. 1 para. 3 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-aa986238dd54d3066b4a4856bbb55031]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/3) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-5f09ea26b582601cdd56ec5c87fdd2f3]: Commencement: Sch. 1 para. 4 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-5f09ea26b582601cdd56ec5c87fdd2f3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/4) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-26b511ab15988274626a2c0fe30bd167]: Commencement: Sch. 1 para. 5 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-26b511ab15988274626a2c0fe30bd167]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/5) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-36bcb6d785e03c232ad16ae8127ac060]: Commencement: Sch. 1 para. 6 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-36bcb6d785e03c232ad16ae8127ac060]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/6) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-43a483921f4b5fb484c3089356e77c7a]: Commencement: Sch. 1 para. 7 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-43a483921f4b5fb484c3089356e77c7a]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/7) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-adbe02ccc5079b84e784052982ec5db9]: Commencement: Sch. 1 para. 8 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-adbe02ccc5079b84e784052982ec5db9]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/8) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+
+[^c-3f384ada4c4ccc20b6893e95d94a7cbf]: Textual amendment: Word in [Sch. 1 para. 8(5)](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/8/5)[(6)](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/8/6) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^f00005]: Footnote: [1986. c.45](https://www.legislation.gov.uk/ukpga/1986/45) as amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^c-b5fe1bfb0abe5877a19100aa81f98d2f]: Commencement: Sch. 1 para. 9 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-b5fe1bfb0abe5877a19100aa81f98d2f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/9) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-905404fb507675e5edc1fe6d3d0adcb6]: Commencement: Sch. 1 para. 10 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-905404fb507675e5edc1fe6d3d0adcb6]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/10) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-36853c82d6bf2b1a1dbdc64c8e5090ce]: Commencement: Sch. 1 para. 11 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-36853c82d6bf2b1a1dbdc64c8e5090ce]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/11) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-362a5460e19a8217b1c3983a907f1254]: Commencement: Sch. 1 para. 12 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-362a5460e19a8217b1c3983a907f1254]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/12) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-e96adbacbd941788372df6856dbcb247]: Commencement: Sch. 1 para. 13 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-e96adbacbd941788372df6856dbcb247]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/13) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-027ebd40daff2ab1cf2cdbe9821cf7ef]: Commencement: Sch. 1 para. 14 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-027ebd40daff2ab1cf2cdbe9821cf7ef]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/14) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-c82fe7d9de2caf3a703a95f00c2339ef]: Commencement: Sch. 1 para. 15 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-c82fe7d9de2caf3a703a95f00c2339ef]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/15) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-8fef98b766d810a859edd711ace54518]: Commencement: Sch. 1 para. 16 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-8fef98b766d810a859edd711ace54518]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/16) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-44d7eb94b19cf90467736bf4398adfae]: Commencement: Sch. 1 para. 17 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-44d7eb94b19cf90467736bf4398adfae]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/17) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-bf958a20156b5b614ccbb4683004be43]: Commencement: Sch. 1 para. 18 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-bf958a20156b5b614ccbb4683004be43]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/18) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-231ddbd86f1f27568a38485d343c78e2]: Commencement: Sch. 1 para. 19 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-231ddbd86f1f27568a38485d343c78e2]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/19) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-0fc683178401c9a982a75cbf7c8b1941]: Commencement: Sch. 1 para. 20 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-0fc683178401c9a982a75cbf7c8b1941]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/20) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-b9d167a295e85112cbb11c1251801c2e]: Commencement: Sch. 1 para. 21 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-b9d167a295e85112cbb11c1251801c2e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2008/3084/schedule/1/paragraph/21) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-233c4481759566fcbf04bb75106c6ba6]: Commencement: Sch. 2 para. 1 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-233c4481759566fcbf04bb75106c6ba6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/1) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-0eea75b014c296b505a0e024204ba1ed]: Commencement: Sch. 2 para. 2 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-0eea75b014c296b505a0e024204ba1ed]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/2) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-933b3caf4ed428f5ad795151c5c623b8]: Commencement: Sch. 2 para. 3 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-933b3caf4ed428f5ad795151c5c623b8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/3) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-27334515a12f03a02d8439faf554495b]: Commencement: Sch. 2 para. 4 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-27334515a12f03a02d8439faf554495b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/4) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
 [^f00006]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^c-c6640723eed49c5d22c7eaa45cff04cb]: Commencement: Sch. 2 para. 5 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-c6640723eed49c5d22c7eaa45cff04cb]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/5) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-a80427a39c9a41e7a38f5ef7485032e6]: Commencement: Sch. 2 para. 6 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-a80427a39c9a41e7a38f5ef7485032e6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/6) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-698e636f3e745456a67e0a9b1abb2a6f]: Commencement: Sch. 2 para. 7 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-698e636f3e745456a67e0a9b1abb2a6f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/7) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-75f1524f143078586c43e427e66adb42]: Commencement: Sch. 2 para. 8 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-75f1524f143078586c43e427e66adb42]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/8) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-35ba5351e496c48258e3c6b081b2d3d1]: Commencement: Sch. 2 para. 9 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-35ba5351e496c48258e3c6b081b2d3d1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/9) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-ce81bc2791da2f9e21aa43b268ef9ccb]: Commencement: Sch. 2 para. 10 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-ce81bc2791da2f9e21aa43b268ef9ccb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/10) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-1d634db22a5f284fbbde3411108ad2e7]: Commencement: Sch. 2 para. 11 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-1d634db22a5f284fbbde3411108ad2e7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/11) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-6c97fb89a0b04fd37034b20d4b90f916]: Commencement: Sch. 2 para. 12 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-6c97fb89a0b04fd37034b20d4b90f916]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/12) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-3d7a37cf317de6da8e4910f44220d25d]: Commencement: Sch. 2 para. 13 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-3d7a37cf317de6da8e4910f44220d25d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/13) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-60144a51025f8e16533eee48c6a50f23]: Commencement: Sch. 2 para. 14 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-60144a51025f8e16533eee48c6a50f23]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/14) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-a6d95697b191ab3fd4c3c2fd5f305b63]: Commencement: Sch. 2 para. 15 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-a6d95697b191ab3fd4c3c2fd5f305b63]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/15) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-7d8dde8ebbd4456a67804ef6f6e0f5c8]: Commencement: Sch. 2 para. 16 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-7d8dde8ebbd4456a67804ef6f6e0f5c8]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/16) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-750660040ec40d03caa4820a42f6b6ed]: Commencement: Sch. 2 para. 17 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-750660040ec40d03caa4820a42f6b6ed]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/17) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-8be3aec5f2b1276f03df5212fc5d13ca]: Commencement: Sch. 2 para. 18 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-8be3aec5f2b1276f03df5212fc5d13ca]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/18) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-6013f1abb7dba7b2975568809c7c5790]: Commencement: Sch. 2 para. 19 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-6013f1abb7dba7b2975568809c7c5790]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/19) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-cc482a56706d513f0e1ff9f8c56175e7]: Commencement: Sch. 2 para. 20 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-cc482a56706d513f0e1ff9f8c56175e7]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/20) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-e156eb54c03e4563ae5c2af32125bb9b]: Commencement: Sch. 2 para. 21 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-e156eb54c03e4563ae5c2af32125bb9b]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/21) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-3d16bec97c9d7876185da7f7a3bdf73f]: Commencement: Sch. 2 para. 22 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-3d16bec97c9d7876185da7f7a3bdf73f]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/22) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-2062ab31104ed2c1b552e85b118e5e28]: Commencement: Sch. 2 para. 23 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-2062ab31104ed2c1b552e85b118e5e28]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/23) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
 
-[^c-4027220aa66de65aae22c285583457d5]: Commencement: Sch. 2 para. 24 in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)
+[^c-4027220aa66de65aae22c285583457d5]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2008/3084/schedule/2/paragraph/24) in force at 1.1.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3084/regulation/1)

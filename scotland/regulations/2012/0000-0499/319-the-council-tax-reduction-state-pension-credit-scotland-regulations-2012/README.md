@@ -3,16 +3,16 @@ title: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2
 id: ssi/2012/319
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2012-11-21'
-text_date: '2026-04-01'
+text_date: '2026-11-06'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2012/319
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2012/319/pdfs/ssipn_20120319_en.pdf
 - http://www.legislation.gov.uk/ssi/2012/319/pdfs/ssi_20120319_en.pdf
 - http://www.legislation.gov.uk/ssi/2012/319/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2012/319
+> Text as at 2026-11-06.
 >
 > Extent: Scotland.
 

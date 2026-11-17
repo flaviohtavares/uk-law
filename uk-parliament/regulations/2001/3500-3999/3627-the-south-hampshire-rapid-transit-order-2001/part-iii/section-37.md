@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 37
 act: The South Hampshire Rapid Transit Order 2001
 section: '37'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/37
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 37
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 37. Application of Compulsory Purchase (Vesting Declarations) Act 1981
+## 37. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^c-6936f1d63ead87120f6d1067a93f95f9]
+
+*Extent: E+W+S*
 
 (1) The Compulsory Purchase (Vesting Declarations) Act 1981[^f00031] shall apply as if this Order were a compulsory purchase order.
 
@@ -50,5 +54,7 @@ summary: ''
 (8) References to the Compulsory Purchase Act 1965 shall be construed as references to that Act as applied to the acquisition of land under article 36 above.
 
 ## Annotations
+
+[^c-6936f1d63ead87120f6d1067a93f95f9]: Commencement: Art. 37 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00031]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).

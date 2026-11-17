@@ -328,9 +328,9 @@ Regulation 3 extends to England and Wales and Scotland.
 
 (8) Omit the words after Article 6.
 
-### 5. Commission Decision [80/512/EEC](https://www.legislation.gov.uk/eud/1980/512)[^c-aa1b66c46cc1e71ea9e487d92f1cf266][^c-e76184103403cf1f7f9766cbfa9203dc]
+### 5. Commission Decision [80/512/EEC](https://www.legislation.gov.uk/eudn/1980/512)[^c-aa1b66c46cc1e71ea9e487d92f1cf266][^c-e76184103403cf1f7f9766cbfa9203dc]
 
-(1) Commission Decision [80/512/EEC](https://www.legislation.gov.uk/eud/1980/512) authorising the Kingdom of Denmark, the Federal Republic of Germany, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands and the United Kingdom not to apply the conditions laid down in Council Directive [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401) on the marketing of fodder plant seed, as regards the weight of the sample for the determination of seed of Cuscuta is amended as follows.
+(1) Commission Decision [80/512/EEC](https://www.legislation.gov.uk/eudn/1980/512) authorising the Kingdom of Denmark, the Federal Republic of Germany, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands and the United Kingdom not to apply the conditions laid down in Council Directive [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401) on the marketing of fodder plant seed, as regards the weight of the sample for the determination of seed of Cuscuta is amended as follows.
 
 (2) Before Article 1 insert—
 
@@ -357,9 +357,9 @@ Regulation 3 extends to England and Wales and Scotland.
 
 (5) In the Annex, omit paragraphs 1 to 4.
 
-### 6. Council Decision [2003/17/EC](https://www.legislation.gov.uk/eud/2003/17)[^c-3cb95f5b819176ff26847c33544eb3e7]
+### 6. Council Decision [2003/17/EC](https://www.legislation.gov.uk/eudn/2003/17)[^c-3cb95f5b819176ff26847c33544eb3e7]
 
-(1) Council Decision [2003/17/EC](https://www.legislation.gov.uk/eud/2003/17) on equivalence of field inspections carried out in third countries on seed-producing crops and on the equivalence of seed produced in third countries is amended as follows.
+(1) Council Decision [2003/17/EC](https://www.legislation.gov.uk/eudn/2003/17) on equivalence of field inspections carried out in third countries on seed-producing crops and on the equivalence of seed produced in third countries is amended as follows.
 
 (2) Before Article 1 insert—
 
@@ -433,7 +433,7 @@ Regulation 3 extends to England and Wales and Scotland.
       > In the case of basic seed of other varieties, the seed of the preceding generations shall have been produced—
       >
       > - under the responsibility of the persons responsible for the maintenance of the variety referred to in the GB Variety Lists pursuant to regulation 3 of the Seeds (National Lists of Varieties) Regulations 2001 or the NI Variety Lists pursuant to legislation having equivalent effect to the Seeds (National Lists of Varieties) Regulations 2001;
-      > - in a country which has been granted equivalence of checks on practices for the maintenance of varieties under Council [Decision 2005/834/EC](https://www.legislation.gov.uk/eud/2005/0834); or
+      > - in a country which has been granted equivalence of checks on practices for the maintenance of varieties under Council [Decision 2005/834/EC](https://www.legislation.gov.uk/eudn/2005/0834); or
       > - in a country granted equivalence and under the responsibility of the persons responsible for the maintenance of the variety.
 
       .
@@ -442,7 +442,7 @@ Regulation 3 extends to England and Wales and Scotland.
     - (bb) in the second indent, omit “third” and, at the end, insert “ or ”;
     - (cc) after the second indent, insert— “ in a country granted equivalence.[^c-387b0950fca507ba1093af8897624ada]”.
 
-### 7. Council Decision [2005/834/EC](https://www.legislation.gov.uk/eud/2005/834)[^c-18a6de399804dcb935b334d0f918c4db]
+### 7. Council Decision [2005/834/EC](https://www.legislation.gov.uk/eudn/2005/834)[^c-18a6de399804dcb935b334d0f918c4db]
 
 **Not yet in force.**
 
@@ -630,6 +630,8 @@ Department for Environment, Food and Rural Affairs
 
 ## SCHEDULE — Revocation of retained direct EU legislation
 
+**No longer in force (ended 2020-12-31).**
+
 Regulation 12
 
 ### 1. Regulations[^c-1e2682de52974b0dfcc53e3646ab8c38]
@@ -642,13 +644,13 @@ Commission Regulation [(EC) No 1597/2002](https://www.legislation.gov.uk/eur/200
 
 ### 4. Decisions[^c-56cfb9197c1d7ecb7e819d9721398363]
 
-Commission Decision [2000/165/EC](https://www.legislation.gov.uk/eud/2000/165) setting out the arrangements for Community comparative trials and tests on seeds and propagating material of certain plants under Council Directives [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401), [66/402/EEC](https://www.legislation.gov.uk/eudr/1966/402), [66/403/EEC](https://www.legislation.gov.uk/eudr/1966/403) and [69/208/EEC](https://www.legislation.gov.uk/eudr/1969/208).
+Commission Decision [2000/165/EC](https://www.legislation.gov.uk/eudn/2000/165) setting out the arrangements for Community comparative trials and tests on seeds and propagating material of certain plants under Council Directives [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401), [66/402/EEC](https://www.legislation.gov.uk/eudr/1966/402), [66/403/EEC](https://www.legislation.gov.uk/eudr/1966/403) and [69/208/EEC](https://www.legislation.gov.uk/eudr/1969/208).
 
-**5.**[^c-b358ae7c4c693c01c41193dc3902fb34] Commission Decision [2002/984/EC](https://www.legislation.gov.uk/eud/2002/984) on the continuation of Community comparative trials and tests on seeds and propagating material of gramineae, Triticum aestivum, Vitis vinifera, Brassica napus and Allium ascalonicum under Council Directives [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401), [66/402/EEC](https://www.legislation.gov.uk/eudr/1966/402), [68/193/EEC](https://www.legislation.gov.uk/eudr/1968/193), [92/33/EEC](https://www.legislation.gov.uk/eudr/1992/33), [2002/54/EC](https://www.legislation.gov.uk/eudr/2002/54), [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55), [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56) and [2002/57/EC](https://www.legislation.gov.uk/eudr/2002/57).
+**5.**[^c-b358ae7c4c693c01c41193dc3902fb34] Commission Decision [2002/984/EC](https://www.legislation.gov.uk/eudn/2002/984) on the continuation of Community comparative trials and tests on seeds and propagating material of gramineae, Triticum aestivum, Vitis vinifera, Brassica napus and Allium ascalonicum under Council Directives [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401), [66/402/EEC](https://www.legislation.gov.uk/eudr/1966/402), [68/193/EEC](https://www.legislation.gov.uk/eudr/1968/193), [92/33/EEC](https://www.legislation.gov.uk/eudr/1992/33), [2002/54/EC](https://www.legislation.gov.uk/eudr/2002/54), [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55), [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56) and [2002/57/EC](https://www.legislation.gov.uk/eudr/2002/57).
 
-**6.**[^c-0b710e8262ad9be520aff926fadd063a] Commission Decision [2005/5/EC](https://www.legislation.gov.uk/eud/2005/5) setting out the arrangements for Community comparative trials and tests on seeds and propagating material of certain plants of agricultural and vegetable species and vine under Council Directives [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401), [66/402/EEC](https://www.legislation.gov.uk/eudr/1966/402), [68/193/EEC](https://www.legislation.gov.uk/eudr/1968/193), [92/33/EEC](https://www.legislation.gov.uk/eudr/1992/33), [2002/54/EC](https://www.legislation.gov.uk/eudr/2002/54), [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55), [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56) and [2002/57/EC](https://www.legislation.gov.uk/eudr/2002/57) for the years 2005 to 2009.
+**6.**[^c-0b710e8262ad9be520aff926fadd063a] Commission Decision [2005/5/EC](https://www.legislation.gov.uk/eudn/2005/5) setting out the arrangements for Community comparative trials and tests on seeds and propagating material of certain plants of agricultural and vegetable species and vine under Council Directives [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401), [66/402/EEC](https://www.legislation.gov.uk/eudr/1966/402), [68/193/EEC](https://www.legislation.gov.uk/eudr/1968/193), [92/33/EEC](https://www.legislation.gov.uk/eudr/1992/33), [2002/54/EC](https://www.legislation.gov.uk/eudr/2002/54), [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55), [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56) and [2002/57/EC](https://www.legislation.gov.uk/eudr/2002/57) for the years 2005 to 2009.
 
-**7.**[^c-81a70714c1b293953eabdea131a0912b] Commission Decision [2007/321/EC](https://www.legislation.gov.uk/eud/2007/321) releasing the United Kingdom from certain obligations for the marketing of vegetable seed under Council Directive [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55).
+**7.**[^c-81a70714c1b293953eabdea131a0912b] Commission Decision [2007/321/EC](https://www.legislation.gov.uk/eudn/2007/321) releasing the United Kingdom from certain obligations for the marketing of vegetable seed under Council Directive [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55).
 
 ### 7A.[^M_I_ba6aff38-2c2b-4817-bd0b-b0d6577b6e92][^c-9ddab83fa4ba2a8a9ca3b8b8dff85cbb]
 
@@ -686,11 +688,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23551741]: Marginal citation: [S.I.1972/1811](https://www.legislation.gov.uk/uksi/1972/1811), to which there are amendments not relevant to these Regulations.
 
-[^c-533d576c380c701d2b5552db3b8825d3]: Commencement: Reg. 1 in force at 25.2.2019, see reg. 1(2)(a)
+[^c-533d576c380c701d2b5552db3b8825d3]: Commencement: Reg. 1 in force at 25.2.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/a)
 
 [^c-f4a07df3997d87d8e526eec5ec06b9a9]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The Seeds (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1294)](https://www.legislation.gov.uk/uksi/2020/1294), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1294/regulation/1/2/a), [4(2)](https://www.legislation.gov.uk/uksi/2020/1294/regulation/4/2)
 
-[^c-89e19ea7bacf4f4ccaea37a69c10881e]: Commencement: Reg. 2 in force at 25.2.2019, see reg. 1(2)(a)
+[^c-89e19ea7bacf4f4ccaea37a69c10881e]: Commencement: Reg. 2 in force at 25.2.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/a)
 
 [^c23551751]: Marginal citation: [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510); relevant amending instruments are [S.I. 2004/2949](https://www.legislation.gov.uk/uksi/2004/2949), 2010/1195, 2011/1043, 2018/942.
 

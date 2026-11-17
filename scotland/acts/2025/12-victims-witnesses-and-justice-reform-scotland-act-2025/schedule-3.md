@@ -3,7 +3,7 @@ title: Victims, Witnesses, and Justice Reform (Scotland) Act 2025, Schedule 3
 act: Victims, Witnesses, and Justice Reform (Scotland) Act 2025
 section: schedule-3
 status: not-yet-in-force
-text_date: '2026-11-02'
+text_date: '2026-11-16'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2025/12/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -219,7 +219,7 @@ summary: ''
 (5) In section 88(2)(a)—
 
 - (a) after “16(4)” insert “, 16(9), 16B(7)”,
-- (b) after “**17DB(1A)**” (as inserted by section 29B(3)(b)) insert “, 18ZA(5)”.
+- (b) after “**17DB(2)**” (as inserted by section 43(3)(b)) insert “, 18ZA(5)”.
 
 ### Part 2 — Notification of individual other than supporter to receive information
 

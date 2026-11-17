@@ -3,16 +3,16 @@ title: The Revenue and Customs (Complaints and Misconduct) Regulations 2010
 id: uksi/2010/1813
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2010-07-14'
-text_date: '2018-01-08'
+text_date: '2025-07-11'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2010/1813
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/1813/pdfs/uksiem_20101813_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/1813/pdfs/uksi_20101813_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/1813/data.pdf
-pending_changes: 187
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Revenue and Customs (Complaints and Misconduct) Regulations 2010
 
-> **Warning: changes not yet applied to this text (187).** Text as at 2018-01-08. See https://www.legislation.gov.uk/changes/affected/uksi/2010/1813
+> Text as at 2025-07-11.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -64,15 +64,15 @@ These Regulations may be cited as the Revenue and Customs (Complaints and Miscon
 
 - “2002 Act” means the Police Reform Act 2002[^f00004];
 - “appropriate authority”—
-  - (a) in relation to the Commissioners or an officer or in relation to any complaint, matter or investigation relating to the conduct of such a person, means—
-    - (i) if that person is the Chairman, the Chief Executive or the Permanent Secretary for Tax, the Head of the Home Civil Service,
-    - (ii) if that person is a Commissioner, the Chief Executive unless that Commissioner is the Chairman, the Permanent Secretary for Tax or the Chief Executive, or
-    - (iii) if that person is an officer, the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary for Tax), and
-  - (b) in relation to a death or serious injury matter and the relevant officer, means the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary for Tax);
-- “the Chairman” means the Chairman of the Board of HMRC;
-- “the Chief Executive” means the Chief Executive of HMRC;
+  - (a) in relation to the Commissioners or an officer or in relation to any complaint, matter or investigation relating to the conduct of such a person, means—[^c-5ccb58334c6ef26bd11a8887fce845d4]
+    - if that person is a Permanent Secretary, the Head of the Home Civil Service,
+    - if that person is a Commissioner (other than a Permanent Secretary), a Permanent Secretary, or
+    - if that person is an officer, the Commissioners (other than a Permanent Secretary), and
+  - (b) in relation to a death or serious injury matter and the relevant officer, means the Commissioners (other than a Permanent Secretary);
+- [^c-9c1f64c51795596ab23f51bb0dec221a]...
+- [^c-9c1f64c51795596ab23f51bb0dec221a]...
 - “chief officer” means the chief officer of police of any police force;
-- “the Commissioners” unless a contrary intention appears, means the Commissioners for Her Majesty’s Revenue and Customs and for the purposes of these Regulations includes the Chairman (and unless a contrary intention appears, “Commissioner” is to be construed accordingly);
+- “the Commissioners” unless a contrary intention appears, means the Commissioners for Her Majesty’s Revenue and Customs and for the purposes of these Regulations includes a Permanent Secretary[^c-9fd7f58fb9168690b9de25177dfcd466] (and unless a contrary intention appears, “Commissioner” is to be construed accordingly);
 - “complainant” shall be construed in accordance with paragraph (4);
 - “complaint” has the meaning given by regulation 9 (complaints, matters and persons to which these Regulations apply);
 - “conduct” includes acts, omissions and statements (whether actual, alleged or inferred);
@@ -87,7 +87,8 @@ These Regulations may be cited as the Revenue and Customs (Complaints and Miscon
 - “IOPC” means the Independent Office for Police Conduct;
 - [^c-07794d502fd57ac53cd9d2c44fab8fe5]...
 - “officer” means, unless the context otherwise requires, an officer of Revenue and Customs;
-- “the Permanent Secretary for Tax” means HMRC’s Permanent Secretary for Tax;
+- [^c-9c1f64c51795596ab23f51bb0dec221a]...
+- “[^c-edb07658e921caa7c27ba1ac774a04e2]**a Permanent Secretary**” means a Permanent Secretary of HMRC;
 - “the person complained against”, in relation to a complaint, means the person whose conduct is the subject-matter of the complaint;
 - “the person investigating”, in relation to a complaint, recordable conduct matter or DSI matter, means the person appointed or designated to investigate that complaint or matter;
 - “recordable conduct matter” means—
@@ -124,12 +125,12 @@ but where any person is acting on another’s behalf for the purposes of any com
 
 (7) For the purposes of these Regulations, a person is adversely affected if that person suffers any form of loss or damage, distress or inconvenience, if that person is put in danger or if that person is otherwise unduly put at risk of being adversely affected.
 
-(8) References in these Regulations to the investigation of any complaint or matter by the appropriate authority on its own behalf, under the supervision of the Director General[^c-5ed30a7ba510cd8343001676efc6ca5a], under the management of the Director General or by the Director General [^c-dcbf604b35319822083cc14712417bf5]... shall be construed as references to its investigation in accordance with—
+(8) References in these Regulations to the investigation of any complaint or matter by the appropriate authority on its own behalf, under the direction of the Director General[^c-f3ac9d00fe4d96e9aa33303197cba052] or by the Director General[^c-5ed30a7ba510cd8343001676efc6ca5a] [^c-dcbf604b35319822083cc14712417bf5]... shall be construed as references to its investigation in accordance with—
 
 - (a) regulation 44 (investigations by the appropriate authority on its own behalf),
-- (b) regulation 45 (investigations supervised by the Director General),
-- (c) regulation 46 (investigations by a police force under the management or under the supervision of the Director General),
-- (d) regulation 47 (investigations managed by the Director General), or
+- (b)[^c-f705d39b2a1aead5c3f4756d4703ef95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 46 (investigations by a police force under the direction[^c-98c7e15e369bc2cd00da5014b2188458] of the Director General),
+- (d) regulation 47 (investigations directed[^c-666a76005ef0cd1ac5bcd0443098f0da] by the Director General), or
 - (e) regulation 48 (investigations by the Director General [^c-dcbf604b35319822083cc14712417bf5]...).
 
 ### 4. Application: general[^c-83de2720193215f03341c92da55b674c]
@@ -154,17 +155,19 @@ These Regulations shall apply for the purpose of conferring functions on the Dir
 
   ;
 - (d) in subsection (4) for “the Secretary of State” substitute “the Chancellor of the Exchequer”;
-- (e) omit subsection (5)(c).
+- (e)[^c-0a7476ee5ca366cd9cf145211a0ba37a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 23[^f00008] of the 2002 Act—
 
-- (a) in subsection (2)(k)[^f00009], for “a person serving with the police” substitute “a person serving with Her Majesty’s Revenue and Customs”;
-- (b) in subsection (2)(p), for “chief officers” substitute “the Commissioners for Her Majesty’s Revenue and Customs”.
+- (a) in subsection (2)(a) and (k)[^c-c6547428d065f706724771cc82c61daa], for “a person serving with the police” substitute “a person serving with Her Majesty’s Revenue and Customs”;
+- (aa)[^c-8b0a3dc78d4b40b73a06e955b283466b] in subsection (2)(n), after “kept by” insert “the Commissioners for His Majesty’s Revenue and Customs,”;
+- (b) in subsection (2)(p), for “chief officers” substitute “the Commissioners for Her Majesty’s Revenue and Customs” ;[^c-afa42223d464129d3ca822cb9515136a]
+- (c) omit subsection (2)(pa).
 
 (4) In section 24[^f00010] of the 2002 Act—
 
 - (a) at the end of paragraph (a) insert “and Her Majesty’s Revenue and Customs”;
-- (b) omit paragraphs (b) and (c).
+- (b) omit paragraphs (b) , (ba), (bb)[^c-4fb5ab8b704e66528c6cbd0342b56982] and (c).
 
 ### 6. Temporary service and copies of accounts[^c-829b41e87299710d8d2e4469ec40379f]
 
@@ -232,7 +235,11 @@ The Director General and the IOPC must carry out their functions under these Reg
 
 (1)[^c-2e49a5c6c2bad67a8a1c671d77212424] As soon as practicable after the end of each of the IOPC’s financial years, the Director General and the IOPC shall also jointly make a report to the Chancellor of the Exchequer (“the Chancellor”) on the carrying out of its functions during that year.
 
-(2) The Director General shall also make such reports to the Chancellor about matters relating generally to the carrying out of the Director General’s functions as the Chancellor may, from time to time, require.
+(2)[^c-8d747a5f40c3dc1c2f09eda0db234341] The Chancellor may also require reports to be made (at any time)—
+
+- (a) by the Director General about the carrying out of the Director General's functions,
+- (b) by the IOPC about the carrying out of the IOPC’s functions, or
+- (c) jointly by the Director General and the IOPC about the carrying out of their functions.
 
 (3) The Director General may, from time to time, make such other reports to the Chancellor as the Director General considers appropriate for drawing the Chancellor’s attention to matters which—
 
@@ -273,7 +280,7 @@ as the Director General thinks fit.
 - (c) a member of the public who claims to have witnessed the conduct;
 - (d) a person acting on behalf of a person falling within any of sub-paragraphs (a) to (c).
 
-(2) In these Regulations “conduct matter” means (subject to the following provisions of this regulation, and regulation 19(3)) any matter which is not and has not been the subject of a complaint but in the case of which there is an indication (whether from the circumstances or otherwise) that a Commissioner or an officer may have—
+(2) In these Regulations “conduct matter” means (subject to the following provisions of this regulation [^c-8073874129c27a85f19a58e99497f9b3]...) any matter which is not and has not been the subject of a complaint but in the case of which there is an indication (whether from the circumstances or otherwise) that a Commissioner or an officer may have—
 
 - (a) committed a criminal offence, or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings.
@@ -301,6 +308,8 @@ as the Director General thinks fit.
 
 - (a) it was only because the person in question was physically present, or sufficiently nearby, when the conduct took place or the effects occurred that the person was able to see or hear the conduct or its effects, or
 - (b) the adverse effect is attributable to, or was aggravated by, the fact that the person in relation to whom the conduct took place was already known to the person claiming to have suffered the adverse effect.
+
+(8A)[^c-b60530e876670b3936666d1c0a1c267c] In paragraph (8), “**the person in question**” means the person making the complaint or the person on whose behalf the complaint is being made.
 
 (9) For the purposes of this regulation a person shall be taken to have witnessed conduct if, and only if—
 
@@ -334,11 +343,11 @@ Nothing in these Regulations shall have effect with respect to so much of any co
 
 (3) Where the Director General requires the chief officer of a police force to provide a member of that person’s force for appointment under regulation 46 or 47, it shall be the duty of the chief officer to whom the requirement is addressed to comply with it.
 
-(4) It shall be the duty of the Commissioners to provide the Director General and every member of the IOPC’s[^c-51829420cfb59b65be84ac3f47deeb87] staff with all such assistance as the Director General or that member of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the Director General under these Regulations.
+(4) It shall be the duty of the Commissioners to provide the Director General and every member of the IOPC’s[^c-51829420cfb59b65be84ac3f47deeb87] staff with all such assistance as the Director General or that member of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the Director General under these Regulations or any review under regulation 74[^c-9b9caa3ac345ed6ed156483ce2c91691].
 
-(5) It shall be the duty of the Commissioners to ensure that a person appointed under regulation 42 to carry out an investigation is given all such assistance and co-operation in the carrying out of that investigation as that person may reasonably require.
+(5)[^c-3232b020e242e8bdde8a13569390fc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) It shall be the duty of the Head of the Home Civil Service and the Commissioners to ensure that a person appointed under regulation 44, 45, 46 or 47 to carry out an investigation is given all such assistance and co-operation in the carrying out of that investigation as that person may reasonably require.
+(6) It shall be the duty of the Head of the Home Civil Service and the Commissioners to ensure that a person appointed under regulation 44, [^c-69159a89f82cef6c1ea25a926d65d075]... 46 or 47 to carry out an investigation is given all such assistance and co-operation in the carrying out of that investigation as that person may reasonably require.
 
 ### 13. Disclosure of information[^c-989d4223a7fdefc2cde816ef2f978cc4]
 
@@ -347,6 +356,54 @@ Where the Director General, or any person acting on the Director General’s beh
 ### 14. Use of information[^c-0773c623853f314260873c04a501daf8]
 
 Where the Director General or any person acting on the Director General’s behalf, obtains information in the course of performing a function under these Regulations, that information may not be used for any purpose other than in the performance of a function under these Regulations or as otherwise prescribed by law.
+
+### 14A. Restriction on disclosure of sensitive information[^c-53b84f49ce761d4f362302d0dce2c5dc]
+
+(1) Where the Director General receives information within paragraph (3), the Director General must not disclose (whether under regulation 8, 54 or 55 or otherwise) the information, or the fact that it has been received, unless the relevant authority consents to the disclosure.
+
+(2) Where a person appointed under regulation 46 or 47 to investigate a complaint or matter (an “investigator”) receives information within paragraph (3), that investigator must not disclose the information, or the fact that it has been received, to any person other than the Director General unless the relevant authority consents to the disclosure.
+
+(3) The information is—
+
+- (a) intelligence service information;
+- (b) protected information relating to a relevant warrant;
+- (c) information obtained from a government department which, at the time it is provided to the Director General or an investigator, is identified by the department as information the disclosure of which may, in the opinion of the relevant authority—
+  - (i) cause damage to national security, international relations or the economic interests of the United Kingdom or any part of the United Kingdom, or
+  - (ii) jeopardise the safety of any person.
+
+(4) Where the Director General or an investigator discloses to another person information within paragraph (3), or the fact that the Director General or the investigator has received it, the other person must not disclose that information or that fact unless the relevant authority consents to the disclosure.
+
+(5) A person who provides information that is intelligence service information or protected information relating to a relevant warrant to the Director General or an investigator (whether under a provision of these Regulations or otherwise) must—
+
+- (a) make the Director General or investigator aware that the information is intelligence service information or (as the case may be) protected information relating to a relevant warrant, and
+- (b) provide the Director General or investigator with such additional information as will enable the Director General or the investigator to identify the relevant authority in relation to the information.
+
+(6) In this regulation—
+
+- “**government department**” means a department of His Majesty's Government but does not include—
+  - (a) the Security Service,
+  - (b) the Secret Intelligence Service, or
+  - (c) the Government Communications Headquarters (“**GCHQ**”);
+- “**intelligence service information**” means information that was obtained (directly or indirectly) from or that relates to—
+  - (a) the Security Service,
+  - (b) the Secret Intelligence Service,
+  - (c) GCHQ, or
+  - (d) any part of His Majesty's forces, or of the Ministry of Defence, which engages in intelligence activities;
+- “**investigator**” has the meaning given by paragraph (2);
+- “**Minister of the Crown**” includes the Treasury;
+- “**protected information**”, in relation to a relevant warrant, means information relating to any of the matters mentioned in section 57(4) of the Investigatory Powers Act 2016 in relation to the warrant;
+- “**relevant authority**” means—
+  - (a) in the case of intelligence service information obtained (directly or indirectly) from or relating to the Security Service, the Director-General of the Security Service;
+  - (b) in the case of intelligence service information obtained (directly or indirectly) from or relating to the Secret Intelligence Service, the Chief of the Secret Intelligence Service;
+  - (c) in the case of intelligence service information obtained (directly or indirectly) from or relating to GCHQ, the Director of GCHQ;
+  - (d) in the case of intelligence service information obtained (directly or indirectly) from or relating to His Majesty's forces or the Ministry of Defence, the Secretary of State;
+  - (e) in the case of protected information relating to a relevant warrant, the person to whom the relevant warrant is or was addressed;
+  - (f) in the case of information within paragraph (3)(c)—
+    - (i) the Secretary of State, or
+    - (ii) the Minister of the Crown in charge of the government department from which the information was obtained (if that Minister is not a Secretary of State);
+- “**relevant warrant**” means—
+  - (a) a warrant under Chapter 1 of Part 2 of the Investigatory Powers Act 2016, or
+  - (b) a warrant under Chapter 1 of Part 6 of that Act.
 
 ### 15. Payments[^c-27ad63f361bb619017e2fdc1c8abcfe6]
 
@@ -420,31 +477,25 @@ Where the Director General or any person acting on the Director General’s beha
 (2) Those powers or duties may be delegated—
 
 - (a) in the case of the Head of the Home Civil Service, to a member of the Senior Civil Service;
-- (b) in the case of the Chief Executive, to a member of the Senior Civil Service employed in the service of the Commissioners;
-- (c) in the case of a Commissioner (other than the Chief Executive), to an officer.
+- (b) in the case of a Permanent Secretary[^c-fbcba19cbc0148aa9da15375a21c1376], to a member of the Senior Civil Service employed in the service of the Commissioners;
+- (c) in the case of a Commissioner (other than a Permanent Secretary), to an officer.
 
 (3) The appropriate authority shall not, in any particular case, delegate any power or duty under paragraph (1) to a person who has acted as investigating officer in that case.
 
 ### 19. Initial handling and recording of complaints[^c-a4fb7e929f29d717ce8fc50c07cb1344]
 
-(1) Where a complaint is made to the Director General—
+(1)[^c-45b9104d4faf2e44cc20ed990f687b0f] Where a complaint is made to the Director General, the Director General must give notification of the complaint to the appropriate authority.
 
-- (a) the Director General shall ascertain whether the complainant is content for the appropriate authority to be notified of the complaint, and
-- (b) the Director General shall give notification of the complaint to the appropriate authority if, and only if, the complainant is so content.
+(1A) But the Director General is not required to give that notification if the Director General considers that there are exceptional circumstances that justify its not being given.
 
 (2) Where a complaint is made to an appropriate authority, the authority shall—
 
 - (a) determine whether or not it is the appropriate authority in relation to the complaint, and
 - (b) if it determines that it is not, give notification of the complaint to the appropriate authority for the individual complained against.
 
-(3) Where the Director General—
+(3)[^c-9f5fc30420bc9d8b7ab97e1258d7072c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) is prevented by paragraph (1)(b) from notifying any complaint to the appropriate authority, and
-- (b) considers that it is in the public interest for the subject-matter of the complaint to be brought to the attention of the appropriate authority and recorded under regulation 24,
-
-the Director General may bring that matter to the appropriate authority’s attention under that regulation as if it were a recordable conduct matter, and (if the Director General does so) the following provisions of these Regulations shall have effect accordingly as if it were such a matter.
-
-(4) Where the Director General or the appropriate authority gives notification of a complaint under paragraph (1) or (2) or the Director General brings any matter to the appropriate authority’s attention under paragraph (3), the person who gave the notification or, as the case may be, the Director General shall notify the complainant—
+(4) Where the Director General or the appropriate authority gives notification of a complaint under paragraph (1) or (2) [^c-9e0fada8344adc6f910de9d47f19541c]..., the person who gave the notification or, as the case may be, the Director General shall notify the complainant—
 
 - (a) that the notification has been given and of what it contained, or
 - (b) that the matter has been brought to the appropriate authority’s attention to be dealt with otherwise than as a complaint.
@@ -456,9 +507,11 @@ the Director General may bring that matter to the appropriate authority’s atte
 
 the appropriate authority shall record the complaint.
 
+(5A)[^c-b88828c9cc5dbb5649864a6b76940143] Where an appropriate authority records a complaint under paragraph (5), the appropriate authority must notify the complainant of the recording of the complaint.
+
 (6) Nothing in this regulation shall require the notification or recording by any person of any complaint about any conduct if—
 
-- (a) that person is satisfied that the subject-matter of the complaint has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person whose conduct it was, or
+- (a)[^c-bc38e09978699bb02b876a15a07e7345] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the complaint has been withdrawn.
 
 ### 20. Keeping of records[^c-766a3241dd1f7f2bccda87d652ec1d99]
@@ -466,35 +519,13 @@ the appropriate authority shall record the complaint.
 The appropriate authority shall keep records, in such form as the Director General shall determine, of—
 
 - (a) every complaint and purported complaint that is made to it;
-- (b) every conduct matter recorded by it under regulation 23(3) (conduct matters arising in civil proceedings);
+- (b) every conduct matter recorded by it under regulation 23(3) (conduct matters arising in civil proceedings) or regulation 24(1) (recording etc. of conduct matters in other cases)[^c-dbbab1386e79dd6d16302543899a5047];
 - (c) every DSI matter recorded by it under regulation 32 (duty to record DSI matters);
 - (d) every exercise of a power or performance of a duty under these Regulations.
 
-### 21. Failures to notify or record a complaint[^c-9da899b8b5f7587629d56cc6fa2d14b9]
+### 21. Failures to notify or record a complaint[^c-d8b42a0bc43842d9b7f47987161ecfe4]
 
-(1) This regulation applies where anything which is or purports to be a complaint in relation to which regulation 19 (initial handling and recording of complaints) has effect is received by the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) (whether in consequence of having been made directly or of a notification under that regulation).
-
-(2) Where the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) decides or decide not to take action under regulation 19 for notifying or recording the whole or any part of what has been received, the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) shall notify the complainant of the following matters—
-
-- (a) the decision to take no action, and, if that decision relates to only part of what was received, the part in question;
-- (b) the grounds on which the decision was made; and
-- (c) whether the complainant has a right to appeal against that decision under this regulation.
-
-(3) The complainant shall have a right of appeal to the Director General against any failure by the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) to make a determination under regulation 19 or to notify or record anything under that regulation if, but only if, the failure is in respect of conduct which the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) is required to refer to the Director General under regulation 28(1)(a) or (b) (reference of complaints to the Director General).
-
-(4) On an appeal under this regulation, the Director General shall—
-
-- (a) determine whether any action under regulation 19 should have been taken in the case in question, and
-- (b) if the Director General finds in the complainant’s favour, give to the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) such directions as the Director General considers appropriate, as to the action to be taken for making a determination, or for notifying or recording what was received,
-
-and it shall be the duty of the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) to comply with any directions given under sub-paragraph (b).
-
-(5) Directions under paragraph (4)(b) may require action taken in pursuance of the directions to be treated as taken in accordance with any such provision of regulation 19 as may be specified in the direction.
-
-(6) The Director General—
-
-- (a) shall give notification both to the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary), as the case may be, and to the complainant, of any determination made by the Director General under this regulation, and
-- (b) shall give notification to the complainant of any direction given by the Director General to the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) under this regulation.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 22. Handling of complaints by the appropriate authority[^c-0b863a3c1412e7bb4d187ac66e7ee2dc]
 
@@ -503,7 +534,7 @@ and it shall be the duty of the Head of the Home Civil Service, the Chief Execut
 - (a) is one which has been, or must be, referred to the Director General under regulation 28 (reference of complaints to the Director General), and
 - (b) is not for the time being either referred back to the authority under regulation 29 (duties of the Director General on references under regulation 28) or the subject of a determination under regulation 38 (power of the Director General to determine the form of an investigation).
 
-(2) The appropriate authority shall not be required by virtue of any provisions of these Regulations to take any action in relation to the complaint but may handle the complaint in whatever manner it thinks fit, or take no action in relation to the complaint.
+(2) The appropriate authority shall not be required by virtue of any provisions of these Regulations to take any action in relation to the complaint but may handle the complaint in whatever reasonable and proportionate[^c-c951d425d11dad8575a8c856505d485e] manner it thinks fit, which may include taking[^c-1f111ebc505470b5926054b0e220d568] no action in relation to the complaint.
 
 ### 23. Conduct matters arising in civil proceedings[^c-d640d8c24a99bce7617c0941e43a3190]
 
@@ -550,7 +581,7 @@ it shall be the duty of the appropriate authority to record that matter.
 
 - (a) a serious assault, as defined in guidance issued by the Director General;
 - (b) a serious sexual offence, as defined in guidance issued by the Director General;
-- (c) serious corruption, as defined in guidance issued by the Director General;
+- (c) serious corruption, including abuse of position for a sexual purpose or the purpose of pursuing an improper emotional relationship,[^c-9710b9213fe0b777aee1cde3588f674b] as defined in guidance issued by the Director General;
 - (d) a criminal offence or behaviour liable to result in disciplinary proceedings which was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^c-e10a44aef5d7d65d540ee142540a0a12];
 - (e) a relevant offence;
 - (f) conduct whose gravity or other exceptional circumstances make it appropriate to record the matter in which the conduct is involved; or
@@ -563,12 +594,7 @@ it shall be the duty of the appropriate authority to record that matter.
 
 (5) Nothing in paragraph (1) shall require the appropriate authority to record any conduct matter if it is satisfied that the matter has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person to whose conduct the matter relates.
 
-(6) If it appears to the Director General—
-
-- (a) that any matter that has come to the Director General’s attention is a recordable conduct matter, but
-- (b) that that matter has not been recorded by the appropriate authority,
-
-the Director General may direct the appropriate authority to record that matter; and it shall be the duty of that authority to comply with the direction.
+(6)[^c-7ecd190002d142d9d105d1e0145ac09c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 25. Duties to preserve evidence relating to conduct matters[^c-a729e134062e76e04bc081be84beeb1b]
 
@@ -582,7 +608,7 @@ the Director General may direct the appropriate authority to record that matter;
 
 ### 26. Complaints against a person who has subsequently ceased to serve with HMRC[^c-6c6bc8e929610b12cf4bf8275c2ffbe8]
 
-Where a complaint or conduct matter relates to the conduct of a person who has ceased to be a Commissioner or an officer since the time of the conduct, these Regulations shall apply in relation to such person as if they did not include any requirement for an appropriate authority to determine whether disciplinary proceedings should be brought against a person whose conduct is reported to the appropriate authority.
+Where a complaint or conduct matter relates to the conduct of a person who has ceased to be a Commissioner or an officer since the time of the conduct, these Regulations shall apply in relation to such person as if they did not include any requirement for an appropriate authority or the Director General[^c-7222a8aeffc3e6b13c3df159945920ff] to determine whether disciplinary proceedings should be brought against a person whose conduct is reported to the appropriate authority or the Director General.
 
 ## PART 4 — REFERRAL OF MATTERS TO THE Director General
 
@@ -600,33 +626,42 @@ Where a complaint or conduct matter relates to the conduct of a person who has c
 
 ### 28. Reference of complaints to the Director General[^c-8f3a16136f04f21f3270ff1e62d43611]
 
-(1) It shall be the duty of the appropriate authority to refer a complaint to the Director General where the complaint is—
+(1) It shall be the duty of the appropriate authority to refer a complaint to the Director General where the complaint relates to the conduct of a Commissioner or an officer who, at the time of the conduct complained of, was acting in connection with the execution of their duties and is[^c-057d101370c0a82922dd7353e7e4fccd]—
 
 - (a) one alleging that the conduct complained of has resulted in death or serious injury;
-- (b) any complaint not falling within paragraph (a) but alleging conduct which constitutes—
+- (b) any complaint not falling within paragraph (a) but which relates to the performance of a specified enforcement activity and which alleges that the conduct complained of[^c-639aa2e52225e9efcb64825ffdef3e06] constitutes—
   - (i) a serious assault, as defined in guidance issued by the Director General;
   - (ii) a serious sexual offence, as defined in guidance issued by the Director General;
-  - (iii) serious corruption, as defined in guidance issued by the Director General;
+  - (iii) serious corruption, including abuse of position for a sexual purpose or the purpose of pursuing an improper emotional relationship,[^c-b7120d76fb7f40779ed08dade410ca0b] as defined in guidance issued by the Director General;
   - (iv) a criminal offence or behaviour which is liable to lead to a disciplinary sanction and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^c-b6c78709f30d32964145845e5b6b0c16];
   - (v) a relevant offence;
 - (c) a complaint which arises from the same incident as one in which any conduct falling within paragraph (a) or (b) is alleged; or
-- (d) one in respect of which the Director General notifies the appropriate authority that the Director General requires the complaint in question to be referred to the Director General for the Director General’s consideration.
+- (d)[^c-bb77af2e5b30b5a04537a7d514484b2c] one in respect of which—
+  - (i) conduct falling within sub-paragraph (a) or (b) is alleged, and
+  - (ii) the Director General notifies the appropriate authority that the Director General requires the complaint in question to be referred to the Director General for the Director General’s consideration.
 
 (2) The obligation on the Head of the Home Civil Service under paragraph (1)(a) or (b) to refer a complaint about the conduct of a person in respect of whom the Head of the Home Civil Service is the appropriate authority arises only if the Head of the Home Civil Service is satisfied that the complaint contains an indication that a criminal offence may have been committed by that person.
 
-(3) The obligation on the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary for Tax) under paragraph (1)(a) or (b) to refer a complaint about the conduct of a person in respect of whom the Chief Executive is or the Commissioners are the appropriate authority arises only if the Chief Executive is or the Commissioners are satisfied that the complaint contains an indication that the person may have—
+(3) The obligation on a Permanent Secretary[^c-19800640a47717f0934f78d5d4f8839b] or the Commissioners (other than a Permanent Secretary[^c-76dbb5b9951edd54296331b2ad5af0ef]) under paragraph (1)(a) or (b) to refer a complaint about the conduct of a person in respect of whom the Permanent Secretary is[^c-e6fd54d4fb600187032f55a85a029084] or the Commissioners are the appropriate authority arises only if the Permanent Secretary is or the Commissioners are satisfied that the complaint contains an indication that the person may have—
 
 - (a) committed a criminal offence, or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings and that such behaviour (if it had taken place) would be likely to lead to the termination of that person’s office or employment.
 
-(4) In a case where there is no obligation under paragraph (1) to make a reference, the appropriate authority may refer a complaint to the Director General if that authority considers that it would be appropriate to do so by reason of—
+(4) In a case where there is no obligation under paragraph (1) to make a reference, the appropriate authority may refer a complaint to the Director General if [^c-c41a866a27eb645aeaf1ddc333b9e0b6]...—
 
-- (a) the gravity of the subject-matter of the complaint; or
-- (b) any exceptional circumstances.
+- (a)[^c-285e8d53166a3a59a8866a3e0dbc10c5] it is a complaint which alleges conduct that—
+  - (i) falls within paragraph (1)(a), or
+  - (ii) relates to the performance of a specified enforcement activity, and
+- (b) that authority considers that it would be appropriate to do so by reason of—
+  - (i) the gravity of the subject-matter of the complaint, or
+  - (ii) any exceptional circumstances.
 
 (5) In a case in which a reference under paragraph (1) or (4) is neither made nor required to be made, the Head of the Home Civil Service may refer a complaint to the Director General if—
 
-- (a) it is one in relation to which the Chief Executive is the appropriate authority; and
+- (a) it is one in relation to which a Permanent Secretary[^c-ab915c4788eccf5230037355516e3690] is the appropriate authority; [^c-5ebeb131396287fad96d316c19f56eca]...
+- (aa)[^c-b436f8094d1970f57ed92fe32400d8cd] it is a complaint which alleges conduct that—
+  - (i) falls within paragraph (1)(a), or
+  - (ii) relates to the performance of a specified enforcement activity; and
 - (b) the Head of the Home Civil Service considers that it would be appropriate to do so by reason of—
   - (i) the gravity of the subject-matter of the complaint, or
   - (ii) any exceptional circumstances.
@@ -653,10 +688,45 @@ shall each be exercisable at any time irrespective of whether the complaint is a
 - (a) to the complainant, and
 - (b) except in a case where it appears to the appropriate authority that to do so might prejudice a possible future investigation of the complaint, to the person complained against.
 
-(10) A complaint that has already been referred to the Director General under this regulation on a previous occasion—
+(10) A complaint that has already been referred to the Director General under this regulation on a previous occasion , or that has been treated as having been so referred by virtue of regulation 28A[^c-cc4de9f798ab2e903345a1a33328a5aa]—
 
 - (a) shall not be required to be referred again under this regulation unless the Director General so directs, and
 - (b) shall not be referred in exercise of any power conferred by this regulation unless the Director General consents.
+
+(11)[^c-bfc085b0a56dcf656058898517b2d2a2] In this regulation—
+
+- “**specified enforcement activity**” means an activity—
+  - (a) carried out for the purpose of, or in connection with, a criminal investigation, or
+  - (b) in all other cases, which is, or is connected with, the exercise of—
+    - (i) a power of entry;
+    - (ii) a power to search premises, persons or property;
+    - (iii) a power of detention;
+    - (iv) a power of seizure;
+    - (v) a power to examine or inspect premises, persons or property;
+    - (vi) a power to compel the provision of information, or to require the production of documents for inspection, from any person exercised in the presence of that person;
+
+    and includes an activity carried out in connection with any authorisation granted under Part 2 of the Regulation of Investigatory Powers Act 2000;
+- “**criminal investigation**” has the meaning given in section 21(2A) of the Commissioners for Revenue and Customs Act 2005.
+
+### 28A. Power of the Director General to treat complaint as having been referred[^c-23bd04ce6fd1f69798760fc52e52f824]
+
+(1) The Director General may treat a complaint as having been referred if it is a complaint that—
+
+- (a) is required or permitted to be referred to the Director General under regulation 28, and
+- (b) comes to the Director General’s attention other than having been so referred.
+
+(2) Where the Director General treats a complaint as having been referred—
+
+- (a) regulations 19 and 28 do not apply, or cease to apply, in relation to the complaint except to the extent provided for by regulation 28(10), and
+- (b) regulations 22, 29, 38 and 74 apply in relation to the complaint as if it had been referred to the Director General by the appropriate authority under regulation 28.
+
+(3) The Director General must notify the following that the Director General is treating a complaint as having been referred to the Director General—
+
+- (a) the appropriate authority,
+- (b) the complainant, and
+- (c) except in a case where it appears to the Director General that to do so might prejudice an investigation of the complaint (whether an existing investigation or a possible future one), the person complained against (if any).
+
+(4) Where an appropriate authority receives a notification under paragraph (3) in respect of a complaint and the complaint has not been recorded, the appropriate authority must record the complaint.
 
 ### 29. Duties of the Director General on references under regulation 28[^c-ac605dc6cf2c1c1d70633494a8325824]
 
@@ -664,26 +734,28 @@ shall each be exercisable at any time irrespective of whether the complaint is a
 
 (2) Where the Director General determines under this regulation that it is not necessary for a complaint to be investigated, the Director General may, if the Director General thinks fit, refer the complaint back to the appropriate authority in accordance with paragraph (3).
 
-(3) In a case to which paragraph (2) applies, the appropriate authority shall not be required by virtue of any provisions of these Regulations to take any action in relation to the complaint but may handle the complaint in whatever manner it thinks fit, or take no action in relation to the complaint.
+(3) In a case to which paragraph (2) applies, the appropriate authority shall not be required by virtue of any provisions of these Regulations to take any action in relation to the complaint but may handle the complaint in whatever reasonable and proportionate[^c-9a333372669eb7445a829317ecbb78b2] manner it thinks fit, which may include taking[^c-3e660d9b1ff661ae9354a4c31bd071ce] no action in relation to the complaint.
 
 (4) Where the Director General refers a complaint back under paragraph (2), the Director General shall give a notification of the making of the reference back—
 
 - (a) to the complainant, and
-- (b) to the person complained against.
+- (b)[^c-3848a360ecf792c4a0ce48ef301bec85] except in a case where it appears to the Director General that to do so might prejudice an investigation of the complaint (whether an existing investigation or a possible future one), to the person complained against (if any).
 
 ### 30. Reference of conduct matters to the Director General[^c-3503b689638b4c7ff9171d00bfce630f]
 
-(1) It shall be the duty of the appropriate authority to refer a recordable conduct matter to the Director General (whether or not the case falls within regulation 23), if—
+(1) It shall be the duty of the appropriate authority to refer a recordable conduct matter , which concerns the conduct of a Commissioner or an officer acting in connection with the execution of their duties,[^c-c4899c7b2e3e5fa19bae7da2e1173bdc] to the Director General (whether or not the case falls within regulation 23), if—
 
 - (a) that matter relates to any incident or circumstances in or in consequence of which any person has died or suffered serious injury;
 - (b) that matter is of a description specified in paragraph (2); or
-- (c) the Director General notifies the appropriate authority that the Director General requires that matter to be referred to the Director General for the Director General’s consideration.
+- (c)[^c-c207e2ed6b14f03f96b5a77e9f72b064] it is a matter in respect of which—
+  - (i) conduct falling within sub-paragraph (a) or (b) is alleged, and
+  - (ii) the Director General notifies the appropriate authority that the Director General requires that matter to be referred to the Director General for the Director General’s consideration.
 
-(2) Any matter which relates to conduct falling within the following descriptions is specified for the purposes of paragraph (1)(b)—
+(2) Any matter which concerns conduct relating to the performance of a specified enforcement activity and which falls[^c-dc8463f6f42fe57f9f96010405a8929a] within the following descriptions is specified for the purposes of paragraph (1)(b)—
 
 - (a) a serious assault, as defined in guidance issued by the Director General;
 - (b) a serious sexual offence, as defined in guidance issued by the Director General;
-- (c) serious corruption, as defined in guidance issued by the Director General;
+- (c) serious corruption, including abuse of position for a sexual purpose or the purpose of pursuing an improper emotional relationship,[^c-702b26fc5ad822741c2d7093c6d29dd6] as defined in guidance issued by the Director General;
 - (d) a criminal offence or behaviour which is liable to lead to a disciplinary sanction and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General;
 - (e) a relevant offence; or
 - (f) conduct which is alleged to have taken place in the same incident as one in which conduct within sub-paragraphs (a) to (e) is alleged.
@@ -695,14 +767,21 @@ shall each be exercisable at any time irrespective of whether the complaint is a
 - (a) committed a criminal offence, or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings and that such behaviour (if it had taken place) would be likely to lead to the termination of that person’s office or employment.
 
-(5) In any case where there is no obligation under paragraph (1) to make a reference, the appropriate authority may refer a recordable conduct matter to the Director General if that authority considers that it would be appropriate to do so by reason of—
+(5) In any case where there is no obligation under paragraph (1) to make a reference, the appropriate authority may refer a recordable conduct matter to the Director General if [^c-d2ff6404772ce7079ad73bec251d764e]...—
 
-- (a) the gravity of the matter, or
-- (b) any exceptional circumstances.
+- (a)[^c-19b2b1c0a2b7429ade0a755500e98920] the conduct matter—
+  - (i) falls within paragraph (1)(a), or
+  - (ii) relates to the performance of a specified enforcement activity, and
+- (b) that authority considers that it would be appropriate to do so by reason of—
+  - (i) the gravity of the matter, or
+  - (ii) any exceptional circumstances.
 
 (6) In a case in which a reference under paragraph (1) or (5) is neither made nor required to be made, the Head of the Home Civil Service may refer any recordable conduct matter to the Director General if—
 
-- (a) it is one in relation to which the Chief Executive is the appropriate authority, and
+- (a) it is one in relation to which a Permanent Secretary[^c-989a22a5072f30ab9fe562e770d184f9] is the appropriate authority, [^c-b5c2a4aa5468e4107f2d10830e12f989]...
+- (aa)[^c-97ef086b25b56b573e798a7f0ba6c739] the conduct matter—
+  - (i) falls within paragraph (1)(a), or
+  - (ii) relates to the performance of a specified enforcement activity, and
 - (b) the Head of the Home Civil Service considers that it would be appropriate to do so by reason of—
   - (i) the gravity of the matter, or
   - (ii) any exceptional circumstances.
@@ -723,10 +802,31 @@ shall each be exercisable at any time irrespective of whether the matter is alre
 
 it shall give a notification of the making of the reference to the person to whose conduct that matter relates.
 
-(10) A matter that has already been referred to the Director General under this regulation on a previous occasion—
+(10) A matter that has already been referred to the Director General under this regulation on a previous occasion , or that has been treated as having been so referred by virtue of regulation 30A[^c-125784fc2b13d86a4c1cd81e20d68ce2]—
 
 - (a) shall not be required to be referred again under this regulation unless the Director General so directs, and
 - (b) shall not be referred in exercise of any power conferred by this regulation unless the Director General consents.
+
+(11)[^c-1d81ee61a98ec989940ffe845c8ed65d] In this regulation, “**specified enforcement activity**” has the meaning given in regulation 28(11).
+
+### 30A. Power of the Director General to treat conduct matters as having been referred[^c-0360a7fc7107b013860e20c4c76a418b]
+
+(1) The Director General may treat a conduct matter as having been referred if it is a matter that—
+
+- (a) is required or permitted to be referred to the Director General under regulation 30, and
+- (b) comes to the Director General’s attention other than having been so referred.
+
+(2) Where the Director General treats a conduct matter as having been referred—
+
+- (a) regulations 23, 24 and 30 do not apply, or cease to apply, in relation to that matter except to the extent provided for by regulation 30(10), and
+- (b) regulations 31 and 38 apply in relation to that matter as if it had been referred to the Director General by the appropriate authority under regulation 30.
+
+(3) The Director General must notify the following that the Director General is treating a conduct matter as having been referred to the Director General—
+
+- (a) the appropriate authority, and
+- (b) except in a case where it appears to the Director General that to do so might prejudice an investigation of the matter (whether an existing investigation or a possible future one), the person to whose conduct the matter relates.
+
+(4) Where an appropriate authority receives a notification under paragraph (3) in respect of a conduct matter and the matter has not been recorded, the appropriate authority must record the matter.
 
 ### 31. Duties of the Director General on references under regulation 30[^c-8f21433c1fe9e5e078a1db65c8c8374b]
 
@@ -737,7 +837,7 @@ it shall give a notification of the making of the reference to the person to who
 (3) Where—
 
 - (a) the Director General refers a matter back to the appropriate authority under this regulation, and
-- (b) the Director General does not consider that to do so might prejudice a possible future investigation of that matter,
+- (b) the Director General does not consider that to do so might prejudice an investigation of that matter (whether an existing investigation or a possible future one)[^c-c282a0e1f61f42042a9239c66d16b877],
 
 the Director General shall give a notification of the making of the reference to the person to whose conduct that matter relates.
 
@@ -747,12 +847,7 @@ the Director General shall give a notification of the making of the reference to
 
 (1) Where a DSI matter comes to the attention of the appropriate authority, it shall be the duty of the appropriate authority to record that matter.
 
-(2) If it appears to the Director General—
-
-- (a) that any matter that has come to the Director General’s attention is a DSI matter, but
-- (b) that that matter has not been recorded by the appropriate authority,
-
-the Director General may direct the appropriate authority to record that matter; and it shall be the duty of that authority to comply with the direction.
+(2)[^c-13910eac263a70d716674e0a1e3fd42b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 33. Duty to preserve evidence relating to DSI matters[^c-320d74e6052a75e5cbd628161e190afc]
 
@@ -772,6 +867,19 @@ the Director General may direct the appropriate authority to record that matter;
 
 (3) A matter that has already been referred to the Director General under this regulation on a previous occasion shall not be required to be referred again under this regulation unless the Director General so directs.
 
+### 34A. Power of the Director General to treat DSI matters as having been referred[^c-c8490ab401eb6fa4e4d224dfe49fa660]
+
+(1) The Director General may treat a DSI matter that comes to the Director General’s attention otherwise than by having been referred to the Director General under regulation 34 as having been so referred.
+
+(2) Where the Director General treats a DSI matter as having been referred—
+
+- (a) regulations 32 and 34 do not apply, or cease to apply, in relation to that matter except to the extent provided for by regulation 34(3), and
+- (b) regulations 35 and 38 apply in relation to that matter as if it had been referred to the Director General by the appropriate authority under regulation 34.
+
+(3) The Director General must notify the appropriate authority that the Director General is treating a DSI matter as having been referred to the Director General.
+
+(4) Where an appropriate authority receives a notification under paragraph (3) in respect of a DSI matter and the matter has not been recorded, the appropriate authority must record the matter.
+
 ### 35. Duties of Director General on references under regulation 34[^c-0228a7ffdc1294fc50092930583fa692]
 
 (1) It shall be the duty of the Director General, in the case of every DSI matter referred to the Director General by the appropriate authority, to determine whether or not it is necessary for the matter to be investigated.
@@ -780,7 +888,7 @@ the Director General may direct the appropriate authority to record that matter;
 
 ### 36. Procedure where conduct matter is revealed during investigation of DSI matter[^c-206aea828b97e0419d69668f47a6c05f]
 
-(1) If during the course of an investigation of a DSI matter it appears to a person designated under regulation 47 [^c-18e426ecfcfe1cdae12bba7aaa9fe77d]... or appointed to undertake an investigation under the management of the Director General under regulation 46, that there is an indication that the person whose conduct is in question may have—
+(1) If during the course of an investigation of a DSI matter it appears to a person appointed under regulation 46 or 47[^c-80f1ec4d893d7c70c24cf97f9de3d624], that there is an indication that the person whose conduct is in question may have—
 
 - (a) committed a criminal offence, or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
@@ -792,7 +900,14 @@ the person so appointed shall make a submission to that effect to the Director G
 - (a) notify the appropriate authority in relation to the DSI matter and (if different) the appropriate authority in relation to the person whose conduct is in question of the Director General’s determination, and
 - (b) send to it (or each of them) a copy of the submission under paragraph (1).
 
-(2A)[^c-cd77ac9db0a35e20a19a78c8a9b1e5e4] If during the course of an investigation of a DSI matter by a person designated under regulation 48 the Director General determines that the person whose conduct is in question may have—
+(2ZA)[^c-4b0c77888506c06771a1e887c5d54a55] If during the course of an investigation of a DSI matter being carried out by a person appointed under regulation 46 or 47 the Director General determines (without there having been a submission under paragraph (1)) that there is an indication that the person whose conduct is in question may have—
+
+- (a) committed a criminal offence, or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the Director General must notify the appropriate authority in relation to the DSI matter and (if different) the appropriate authority in relation to the person whose conduct is in question of the Director General's determination.
+
+(2A)[^c-cd77ac9db0a35e20a19a78c8a9b1e5e4] If during the course of an investigation of a DSI matter by a person designated under regulation 48 the Director General determines that there is an indication that[^c-0d982c881521b6781aadbdcfcd58ace1] the person whose conduct is in question may have—
 
 - (a) committed a criminal offence; or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
@@ -805,7 +920,7 @@ the Director General shall proceed under sub-paragraph (2B).
 - (b) notify the appropriate authority in relation to the DSI matter and (if different) the appropriate authority in relation to the person whose conduct is in question of the determination, and
 - (c) send to it (or each of them) a copy of the record of the determination prepared under paragraph (a).
 
-(3) If during the course of an investigation of a DSI matter it appears to a person appointed under regulation 44 or 45 or appointed to undertake an investigation under the supervision of the Director General under regulation 46, that there is an indication that the person whose conduct is in question may have—
+(3) If during the course of an investigation of a DSI matter it appears to a person appointed under regulation 44 [^c-96443a037036540d25ee467680c95298]... that there is an indication that the person whose conduct is in question may have—
 
 - (a) committed a criminal offence, or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
@@ -819,11 +934,11 @@ the person so appointed shall make a submission to that effect to the appropriat
 
 (5) Where the appropriate authority in relation to the person whose conduct is in question—
 
-- (a) is notified of a determination by the Director General under paragraph (2) or (2B)[^c-27422fecc486e432c93e10f1a43130ec],
+- (a) is notified of a determination by the Director General under paragraph (2) , (2ZA)[^c-2eb6280daf151f43f7f05285e000eb92] or (2B)[^c-27422fecc486e432c93e10f1a43130ec],
 - (b) (in a case where it is also the appropriate authority in relation to the DSI matter) makes a determination under paragraph (4), or
 - (c) (in a case where it is not the appropriate authority in relation to the DSI matter) is notified by that other authority of a determination by it under paragraph (4),
 
-it shall record the matter under regulation 24 (recording etc of conduct matters in other cases) as a conduct matter (and the other provisions of these Regulations shall apply in relation to that matter accordingly).
+it shall record the matter under regulation 24 (recording etc of conduct matters in other cases) as a conduct matter [^c-ed4df1c84e1327fe5e06c6784ad63070]....
 
 (6) Where a DSI matter is recorded under regulation 24 as a conduct matter by virtue of paragraph (5)—
 
@@ -836,7 +951,7 @@ it shall record the matter under regulation 24 (recording etc of conduct matters
 
 (1) Where—
 
-- (a) the Director General requires the Commissioners to allow a person nominated for the purpose by the Director General to have access to any premises occupied for the purposes of HMRC and to documents and other things on those premises, and
+- (a) the Director General requires the Commissioners to allow a person nominated for the purpose by the Director General to have access to any premises occupied for the purposes of HMRC and to documents and other things on those premises, and
 - (b) the requirement is imposed for any of the purposes mentioned in paragraph (2),
 
 it shall be the duty of the Commissioners to secure that the required access is allowed to the nominated person.
@@ -844,7 +959,8 @@ it shall be the duty of the Commissioners to secure that the required access is 
 (2) Those purposes are—
 
 - (a) the purposes of any examination by the Director General of the efficiency and effectiveness of the arrangements made by the Commissioners for handling complaints or dealing with recordable conduct matters or DSI matters;
-- (b) the purposes of any investigation by the Director General under this Part or of any investigation carried out under the Director General’s supervision or management.
+- (b) the purposes of any investigation by the Director General under this Part or of any investigation carried out under the Director General’s direction;[^c-dcbddcee5e8a977a4663418f5eae0c95];
+- (c)[^c-3ff882ebefc5def9160b0403c2ce3637] the purposes of any review by the Director General under regulation 75.
 
 (3) A requirement imposed under this regulation for the purposes mentioned in paragraph (2)(a) must be notified to the Commissioners at least 48 hours before the time at which access is required.
 
@@ -879,15 +995,32 @@ in that person’s capacity as a constable or as a person with the powers and pr
 (4) The only forms which the investigation may take in accordance with a determination made under this regulation are—
 
 - (a) an investigation by the appropriate authority on its own behalf;
-- (b) an investigation by the appropriate authority under the supervision of the Director General;
-- (c) an investigation by a police force under the supervision of the Director General;
-- (d) an investigation by the appropriate authority under the management of the Director General;
-- (e) an investigation by a police force under the management of the Director General;
+- (b)[^c-eb1ebc8961952cfd29665112ab836c4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-8910494950f3c49240a46f989a41c481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) an investigation by the appropriate authority under the direction[^c-d949e48852c0d603f504bf1997db8d80] of the Director General;
+- (e) an investigation by a police force under the direction[^c-4bdcc8694cd6ab2a9fda3a2784589248] of the Director General;
 - (f) an investigation by the Director General.
 
-(5) An investigation under this regulation relating to any conduct of the Commissioners may only be carried out in the form specified in paragraph (4)(c), (4)(e) or (4)(f).
+(4A)[^c-343a07946113d833a1fefdcc8d1be85d] In making a determination under paragraph (2), the Director General must first determine whether having regard to the seriousness of the case and the public interest, it is appropriate for the investigation to take the form of an investigation by the appropriate authority on its own behalf and if it is the Director General must determine that the investigation is to take that form.
 
-(6) The Director General may at any time make a further determination under this regulation to replace an earlier one.
+(4B) Where in accordance with paragraph (4A), the Director General determines that it is not appropriate for the investigation to take the form of an investigation by the appropriate authority on its own behalf, the Director General must determine that the investigation is to take the form of an investigation by the Director General, unless paragraph (4C) or (4D) applies.
+
+(4C) This paragraph applies where the Director General determines that it would be more appropriate for the investigation to take the form of an investigation by the appropriate authority under the direction of the Director General, in which case the Director General must determine that the investigation is to take that form.
+
+(4D) This paragraph applies where the Director General determines that it would be more appropriate for the investigation to take the form of an investigation by a police force under the direction of the Director General, in which case the Director General must determine that the investigation is to take that form.
+
+(4E) Where the Director General determines under paragraph (4C), (4D) or (4G) that an investigation is to take the form of an investigation under the direction of the Director General, the Director General must keep under review whether that form of investigation continues to be the most appropriate form of investigation.
+
+(4F) If, on such a review, the Director General determines that—
+
+- (a) it would be more appropriate for the investigation to take the form of an investigation by the Director General, the Director General must make a further determination under this paragraph (to replace the earlier one) that the investigation is instead to take that form;
+- (b) having regard to the seriousness of the case and the public interest, it would be more appropriate for the investigation to take the form of an investigation by the appropriate authority on its own behalf, the Director General may make a further determination under this paragraph (to replace the earlier one) that the investigation is instead to take that form.
+
+(4G) Subject to paragraph (4F), if at any time the Director General determines that, were the Director General to apply paragraphs (4A) to (4D) again, the form of the investigation would be different, the Director General may make a further determination under this paragraph (to replace the earlier one) such that the investigation takes that different form.
+
+(5) An investigation under this regulation relating to any conduct of the Commissioners may only be carried out in the form specified in paragraph [^c-71378cf3aa1ac99995bcd315ed24f6db]... (4)(e) or (4)(f).
+
+(6)[^c-0f693de08f96e95d6ddaa49a00690660] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Where a determination under this regulation replaces an earlier determination under this regulation, or relates to a complaint or matter in relation to which the appropriate authority has already begun an investigation on its own behalf, the Director General may give—
 
@@ -898,23 +1031,59 @@ such directions as the Director General considers appropriate for the purpose of
 
 (8) It shall be the duty of a person to whom a direction is given under paragraph (7) to comply with it.
 
-(9) The Director General shall notify the appropriate authority of any determination that the Director General makes under this regulation in relation to a particular complaint or recordable conduct matter or DSI matter.
+(9) The Director General shall notify the appropriate authority of any determination that the Director General makes under this regulation in relation to a particular complaint or recordable conduct matter or DSI matter and of the Director General’s reasons for making that determination[^c-d9e88a288ef230a0b266a8720a6259ac].
+
+(10)[^c-f7e7741a13b41258e2ec565bdb25fc05] The Director General must also notify the following of any determination that the Director General makes under this regulation in relation to a particular complaint, recordable conduct matter or DSI matter and of the Director General’s reasons for making the determination—
+
+- (a) every person entitled to be kept properly informed in relation to the complaint, conduct matter or DSI matter under regulation 55;
+- (b) where the determination is made in relation to a complaint, the complainant;
+- (c) the person in respect of whose conduct the investigation will relate (if any), unless it appears to the Director General that to do so might prejudice an investigation (whether an existing investigation or a possible future one).
+
+(11) Regulation 60 has effect in relation to the duties imposed on the Director General by paragraph (10) of this regulation.
 
 ### 39. Appointment of persons to carry out investigations[^c-37732595dc6cf247651c950dfc8d4990]
 
-No person shall be appointed to carry out an investigation under regulation 44, 45, 46 or 47—
+No person shall be appointed to carry out an investigation under regulation 44, [^c-614b1d9363e413ea338fa4d832422a54]... 46 or 47—
 
 - (a) unless that person has an appropriate level of knowledge, skills and experience to plan and manage the investigation;
 - (b) if that person’s involvement could reasonably give rise to a concern as to whether that person could act impartially under these Regulations; or
 - (c) if that person works, directly or indirectly, under the management of the person whose conduct is being investigated.
 
-### 40. Power of the Director General to impose requirements in relation to an investigation which the Director General is supervising[^c-f300a5d2ec749184e3e35f4f7f193930]
+### 39A. Timeliness of investigations[^c-95a7c53cfefec1d4c372e2de719fff5c]
 
-(1) For the purposes of regulation 45(6) the requirements which may be imposed by the Director General on a person appointed to investigate a complaint, recordable conduct matter or DSI matter are, subject to paragraphs (2) and (3), any reasonable requirements as to the conduct of the investigation as appear to the Director General to be necessary.
+(1) Where an investigation under regulation 44 (investigations by the appropriate authority on its own behalf) is not completed within a relevant period, the appropriate authority must, as soon as practicable after the end of that relevant period, provide in writing the information mentioned in paragraph (4) to the Director General.
 
-(2) Where at any stage of an investigation of a complaint, recordable conduct matter or DSI matter the possibility of criminal proceedings arises, the Director General shall not, under paragraph (1), impose any requirement relating to the obtaining or preservation of evidence of a criminal offence without first obtaining the consent of the Director of Public Prosecutions to the imposition of any such requirement.[^c-3b2355261a37e034134cd13e2b3a8b94]
+(2) Where an investigation under regulation 46, 47 or 48 (investigation by a police force under the direction of the Director General, investigations directed by the Director General and investigations by the Director General) is not completed within a relevant period, the Director General must, as soon as practicable after the end of that relevant period, provide in writing the information mentioned in paragraph (4) to the appropriate authority.
 
-(3) The Director General shall not, under paragraph (1), impose any requirement relating to the resources to be made available by the appropriate authority, for the purposes of an investigation, without first consulting it and having regard to any representations it may make.
+(3) For the purposes of this regulation, each of the following is a “relevant period”—
+
+- (a) the period of 12 months beginning with the date on which—
+  - (i) the complaint to which the investigation relates was made, or
+  - (ii) the conduct matter or DSI matter to which the investigation relates came to the attention of the appropriate authority;
+- (b) each subsequent period of six months beginning with the day after the day on which the previous relevant period ended.
+
+(4) The information that must be provided is—
+
+- (a) the date on which—
+  - (i) the complaint to which the investigation relates was made, or
+  - (ii) the conduct matter or DSI matter to which the investigation relates came to the attention of the appropriate authority,
+- (b) the date on which any notice was given under regulation 56(1),
+- (c) the progress of the investigation,
+- (d) an estimate of when the report on the investigation will be submitted or, in the case of an investigation by the Director General personally, completed under regulation 66 or 69 (final reports on investigations),
+- (e) the reason for the length of time being taken to complete the investigation, and
+- (f) a summary of planned steps to progress the investigation and bring it to a conclusion.
+
+(5) The appropriate authority or Director General (as the case may be) must send a copy of the information provided under paragraph (1) or (2) to—
+
+- (a) every person entitled to be kept properly informed in relation to the complaint, conduct matter or DSI matter under regulation 55,
+- (b) the complainant (if any), and
+- (c) except in a case where it appears to the appropriate authority or Director General (as the case may be) that to do so might prejudice the investigation (including a criminal investigation), the person whose conduct the investigation relates.
+
+(6) Regulation 60 has effect in relation to the duties imposed on the Director General or appropriate authority (as the case may be) by paragraph (5) of this regulation.
+
+### 40. Power of the Director General to impose requirements in relation to an investigation which the Director General is supervising[^c-667bd30b2d8a3de0d2b0a39b3a29d04a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 41. Combining and splitting investigations[^c-6e88c505ca933a77bfa7e1912f76bcc7]
 
@@ -925,85 +1094,23 @@ No person shall be appointed to carry out an investigation under regulation 44, 
 
 if it considers that it is more efficient and effective, or is otherwise in the public interest, to do so.
 
-(2) Subject to paragraph (3), where the Director General is supervising, managing or carrying out an investigation, the Director General may—
+(2) Subject to paragraph (3), where the Director General is directing[^c-3417c64fd3ac4374425e0c5504dad102] or carrying out an investigation, the Director General may—
 
 - (a) combine that investigation with another investigation, or
 - (b) split that investigation into two or more separate investigations,
 
 if the Director General considers that it is more efficient and effective, or is otherwise in the public interest, to do so.
 
-(3) The Director General shall not take any action under paragraph (2) in relation to a supervised or managed investigation except after consultation with the appropriate authority.
+(3) The Director General shall not take any action under paragraph (2) in relation to a directed[^c-6b5ac684a050c62f401cd8c4dbfb208c] investigation except after consultation with the appropriate authority.
 
 (4) Nothing in this regulation shall prevent the Director General from determining—
 
 - (a) that where an investigation is split into two or more separate investigations, those investigations may take different forms, or
 - (b) that two or more separate investigations which take different forms (including an investigation being carried out by the appropriate authority on its own behalf) may be combined into a single investigation.
 
-### 42. Power of the Director General to discontinue an investigation[^c-74eec92471148d66244d2cccf9c32961]
+### 42. Power of the Director General to discontinue an investigation[^c-85b970bdaaacbade3ebd2f30b164aad6]
 
-(1) If, following a determination under regulation 29 (duties of the Director General on reference under regulation 28), 31 (duties of the Director General on reference under regulation 30) or 35 (duties of the Director General on reference under regulation 34), it appears at any time to the Director General (whether on an application by the appropriate authority or otherwise) that a complaint or matter that is being investigated—
-
-- (a) by the appropriate authority on its own behalf, or
-- (b) under the supervision or management of the Director General,
-
-is of a description of complaint or matter specified in paragraph (5), the Director General may by order require the discontinuance of the investigation.
-
-(2) Where the Director General makes an order under this regulation or discontinues an investigation being carried out in accordance with regulation 48 (investigations by the Director General [^c-dcbf604b35319822083cc14712417bf5]...), the Director General shall give notification of the discontinuance—
-
-- (a) to the appropriate authority;
-- (b) to every person entitled to be kept properly informed in relation to the subject matter of the investigation under regulation 55 (duty to provide information for other persons); and
-- (c) in a case where the investigation that is discontinued is an investigation of a complaint, to the complainant.
-
-(3) Where an investigation of a complaint or recordable conduct matter or DSI matter is discontinued in accordance with this regulation—
-
-- (a) the Director General may give the appropriate authority directions to do any such things as the Director General is authorised to direct under paragraphs (11) and (12);
-- (b) the Director General may [^c-dcbf604b35319822083cc14712417bf5]... take any such steps of a description specified in regulations so made as the Director General considers appropriate for purposes connected with the discontinuance of the investigation; and
-- (c) subject to the preceding paragraphs, neither the appropriate authority nor the Director General shall take any further action in accordance with the provisions of these Regulations in relation to that complaint or matter.
-
-(4) The appropriate authority shall comply with any directions given to it under paragraph (3).
-
-(5) The descriptions of complaint or matter are—
-
-- (a) one in which the complainant refuses to co-operate to the extent that the Director General considers that it is not reasonably practicable to continue the investigation;
-- (b) one which the Director General considers is vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints, conduct matters or DSI matters;
-- (c) one which is repetitious, as defined in paragraph (6); and
-- (d) one which the Director General otherwise considers is such as to make it not reasonably practicable to proceed with the investigation.
-
-(6) A complaint is repetitious only if—
-
-- (a) it is substantially the same as a previous complaint (whether made by or on behalf of the same or a different complainant), or it concerns substantially the same conduct as a previous conduct matter;
-- (b) it contains no fresh allegations which significantly affect the account of the conduct complained of;
-- (c) no fresh evidence, being evidence which was not reasonably available at the time the previous complaint was made, is tendered in support of it; and
-- (d) as respects the previous complaint or conduct matter, either—
-  - (i) the requirements of regulation 67(9) or 68(11) (determination by the appropriate authority of what action to take) were complied with;
-  - (ii) the Director General gave the appropriate authority a direction under paragraph (11)(b) (requirement to dispense with the requirements of these Regulations); or
-  - (iii) the complainant gave such notification of the withdrawal of the complaint as is mentioned in regulation 43(1)(a) (complainant withdraws the complaint).
-
-(7) The cases in which the Director General is authorised to discontinue an investigation that is being carried out in accordance with regulation 48 are any cases where the complaint, conduct matter or DSI matter under investigation falls within paragraph (5) of this regulation.
-
-(8) Any application by an appropriate authority to the Director General for an order that the Director General discontinue an investigation shall be in writing and shall be accompanied by—
-
-- (a) a copy of the complaint, and
-- (b) a memorandum from the appropriate authority containing a summary of the investigation undertaken so far and explaining the reasons for the application to discontinue the investigation.
-
-(9) The appropriate authority shall—
-
-- (a) send the complainant a copy of any such application on the same day as the day on which the application is sent to the Director General, and
-- (b) supply any further information requested by the Director General for the purpose of considering that application.
-
-(10) The Director General shall not require the discontinuance of an investigation in a case where there has been no application to do so by the appropriate authority unless the Director General has consulted with that authority.
-
-(11) A direction given to an appropriate authority by the Director General under paragraph (3) may—
-
-- (a) require the appropriate authority to produce an investigation report on the discontinued investigation under regulation 66 and to take any subsequent steps under these Regulations;
-- (b) where the investigation concerned a complaint, require the appropriate authority to dispense with the requirements of these Regulations as respects that complaint;
-- (c) direct the appropriate authority to handle the matter in whatever manner (if any) that authority thinks fit.
-
-(12) For the purposes of this regulation the steps that may be taken by the Director General where an investigation is discontinued are—
-
-- (a) to produce an investigation report on the discontinued investigation and take any subsequent steps required under these Regulations;
-- (b) where the investigation concerned a complaint, to dispense with the requirements of these Regulations as respects that complaint;
-- (c) to handle the matter in whatever manner the Director General thinks fit.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 43. Withdrawn and discontinued complaints[^c-0f0f689d9d0dd7eea105ed40a2b8581e]
 
@@ -1023,7 +1130,7 @@ the appropriate authority shall forthwith record the withdrawal or the fact that
 (3) Where a complainant gives such notification as is mentioned in paragraph (1) to an appropriate authority, or where the appropriate authority receives a copy of a notification under paragraph (2), and it relates to a complaint—
 
 - (a) which was referred to the Director General under regulation 28(1) (reference of complaints to the Director General) and which has not been referred back to the appropriate authority under regulation 29(2);
-- (b) which the appropriate authority knows is currently the subject of an appeal to the Director General under regulation 21 (failures to notify or record a complaint), or 74 (appeals to the Director General with respect to an investigation; or
+- (b)[^c-2edd6e7aa937dc31b2ffd8a739bbb43c] which the appropriate authority knows is currently the subject of an application for a review by the Director General under regulation 74 (review by the Director General with respect to an investigation); or
 - (c) which was notified to the appropriate authority by the Director General under regulation 19(1) (initial handling and recording of complaints),
 
 the appropriate authority shall notify the Director General that it has recorded the withdrawal of the complaint or the fact that the complainant does not wish any further steps to be taken, as the case may be.
@@ -1046,7 +1153,7 @@ the appropriate authority shall notify the Director General that it has recorded
 (8) In a case where—
 
 - (a) a complaint has been subjected to an investigation by the appropriate authority on its own behalf;
-- (b) the complaint is currently subject to an appeal to the Director General under regulation 74; and
+- (b) the complaint is currently subject to a review by[^c-2e675e55c41a93c1c4465732b459ad71] the Director General under regulation 74; and
 - (c) the appropriate authority has notified the Director General under paragraph (5)(b) that it has determined that the complaint is not to be treated as a recordable conduct matter,
 
 the Director General shall consider whether it is in the public interest for that determination to be reversed, and if so the Director General shall instruct the appropriate authority to reverse the decision.
@@ -1059,7 +1166,7 @@ the Director General shall consider whether it is in the public interest for tha
 (10) Those steps are—
 
 - (a) the appropriate authority shall write to the complainant to ascertain whether the complainant wishes to withdraw the complaint or does not wish any further steps to be taken in consequence of the complaint;
-- (b) if the complainant indicates the wish to withdraw the complaint or does not wish any further steps to be taken in consequence of the complaint, or if the complainant fails to reply within 21 days from the date of the communication under sub-paragraph (a), the appropriate authority shall treat the indication as though it had been received in writing signed by the complainant;
+- (b) if the complainant indicates the wish to withdraw the complaint or does not wish any further steps to be taken in consequence of the complaint, or if the complainant fails to reply to a communication under sub-paragraph (a) within a period of 28 days beginning with the day after the day on which the communication was sent[^c-16613697e1cf165d65833957eb9fb386], the appropriate authority shall treat the indication as though it had been received in writing signed by the complainant;
 - (c) if the complainant indicates the wish not to withdraw the complaint, or the wish that further steps be taken in consequence of the complaint, the appropriate authority shall start or resume the investigation as the case may be.
 
 (11) The appropriate authority shall notify the person complained against if—
@@ -1081,28 +1188,15 @@ the Director General shall consider whether it is in the public interest for tha
 
 (2) It shall be the duty of the appropriate authority to appoint an officer to investigate the complaint or matter.
 
-(3) The person to be appointed under this regulation to investigate any DSI matter in relation to which the relevant officer is the Chairman, the Chief Executive or the Permanent Secretary for Tax is the Head of the Home Civil Service.
+(3) The person to be appointed under this regulation to investigate any DSI matter in relation to which the relevant officer is a Permanent Secretary[^c-33adf72f650973435a4fadffdca77036] is the Head of the Home Civil Service.
 
-### 45. Investigations supervised by the Director General[^c-9adafd1e904d1d05a970bc0441225d24]
+### 45. Investigations supervised by the Director General[^c-34f823627d6e16b91ab17583d60b2825]
 
-(1) This regulation applies where the Director General has determined that the Director General should supervise the investigation by the appropriate authority of any complaint or recordable conduct matter or DSI matter.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) On being given notice of that determination, the appropriate authority shall, if it has not already done so, appoint an officer to investigate the complaint or matter.
+### 46. Investigation by a police force under the direction of the Director General[^c-91adc000743cb4475f60869677bf9065][^c-bda3f4f4cf56acee9f0a671a402d8523]
 
-(3) The Director General may require that no appointment is made under paragraph (2) unless the Director General has given notice to the appropriate authority that the Director General it approves the person whom that authority proposes to appoint.
-
-(4) Where a person has already been appointed to investigate the complaint or matter, or is selected under this regulation for appointment, and the Director General is not satisfied with that person, the Director General may require the appropriate authority, as soon as reasonably practicable after being required to do so—
-
-- (a) to select another person falling within paragraph (2) to investigate the complaint or matter, and
-- (b) to notify the Director General of the person selected.
-
-(5) Where a selection made in pursuance of a requirement under paragraph (4) has been notified to the Director General, the appropriate authority shall appoint that person to investigate the complaint or matter if, but only if, the Director General notifies the authority that the Director General approves the appointment of that person.
-
-(6) The person appointed to investigate the complaint or matter shall comply with all the requirements of regulation 40.
-
-### 46. Investigation by a police force under the management or under the supervision of the Director General[^c-91adc000743cb4475f60869677bf9065]
-
-(1) This regulation applies where the Director General determines that there should be an investigation by a police force under the management or supervision of the Director General.
+(1) This regulation applies where the Director General determines that there should be an investigation by a police force under the direction[^c-4a676b5deeb532f199a8f839f1f99198] of the Director General.
 
 (2) The Director General shall—
 
@@ -1117,23 +1211,47 @@ to the appointment by the Director General of that force to carry out the invest
 
 (4) A chief officer of police of a police force who agrees to or is required to carry out an investigation shall, if that person has not already done so, appoint a person serving with the police who is a member of that force to investigate that complaint or matter.
 
-(5) Paragraphs (3) to (6) of regulation 45 (investigations supervised by the Director General) shall apply as they apply to an investigation by the appropriate authority which the Director General has determined is one that the Director General should supervise; and the references to the appropriate authority in those paragraphs shall be treated as references to the chief officer of police concerned.
+(5) Paragraphs (2A) to (2D) of regulation 47 (investigations directed by the Director General)[^c-1f0ae221f45246524651092c48bea604] shall apply as they apply to an investigation by the appropriate authority which the Director General has determined is one that the Director General should direct[^c-841ab6170d7e92a4421cbc870f055499]; and the references to the appropriate authority in those paragraphs shall be treated as references to the chief officer of police concerned.
 
 (6) An appointment of a person under paragraph (4) or (5) shall be notified by the chief of police concerned to the appropriate authority.
 
-(7) The person appointed to investigate the complaint or matter shall, in relation to an investigation under the management of the Director General, be under the direction and control of the Director General.
+(7) The person appointed to investigate the complaint or matter shall, in relation to that investigation[^c-4e2181c6c1d7218c355a3de316f61020], be under the direction and control of the Director General.
 
 (8) The person appointed to investigate the complaint or matter shall comply with all such requirements in relation to the carrying out of that investigation as may be imposed by these Regulations.
 
-### 47. Investigations managed by the Director General[^c-02330acc9f391c0efcf7a52a22967ddf]
+(9)[^c-15667788129431af8c98c5c0d0038140] The person appointed to investigate the complaint or matter must keep the Director General informed of the progress of the investigation.
 
-(1) This regulation applies where the Director General has determined that the Director General should manage the investigation by the appropriate authority of any complaint or recordable conduct matter or DSI matter.
+### 47. Investigations directed by the Director General[^c-02330acc9f391c0efcf7a52a22967ddf][^c-03636170c35ba8351d362ed82ed894bb]
 
-(2) Paragraphs (2) to (5) of regulation 45 shall apply as they apply in the case of an investigation which the Director General has determined is one that the Director General should supervise.
+(1) This regulation applies where the Director General has determined that the Director General should direct[^c-201d43df56fd2365ce0e71e0f384cf6f] the investigation by the appropriate authority of any complaint or recordable conduct matter or DSI matter.
+
+(2)[^c-f92e9252db883dc5edb926a04064dc10] On being given notice of that determination, the appropriate authority must, if it has not already done so, appoint a person to investigate the complaint or matter.
+
+(2A) The Director General may require that no appointment is made under paragraph (2) unless the Director General has given notice to the appropriate authority that the Director General approves the person whom that authority proposes to appoint.
+
+(2B) Where at any time the Director General is not satisfied with the person appointed to investigate, the Director General may require the appropriate authority, as soon as reasonably practicable after being required to do so—
+
+- (a) to select another person to investigate the complaint or matter, and
+- (b) to notify the Director General of the person selected.
+
+(2C) Paragraph (2B) applies whether the person investigating was appointed—
+
+- (a) before the appropriate authority was notified of the Director General’s determination that the Director General should direct the investigation by the appropriate authority,
+- (b) under paragraph (2) (including where the appointment was approved by the Director General in accordance with paragraph (2A)), or
+- (c) under paragraph (2D)(a).
+
+(2D) Where a selection made in pursuance of a direction under paragraph (2B) has been notified to the Director General—
+
+- (a) the appropriate authority must appoint that person to investigate the complaint or matter if, but only if, the Director General notifies the authority that the Director General approves the appointment of that person, or
+- (b) if the Director General notifies the appropriate authority that the Director General does not approve the appointment of that person, the appropriate authority must make another selection in accordance with paragraph (2B).
 
 (3) The person appointed to investigate the complaint or matter shall, in relation to that investigation, be under the direction and control of the Director General.
 
-### 48. Investigations by the Director General ...[^c-b4adf1bb28462097e59fc2937438f445][^c-dcbf604b35319822083cc14712417bf5]
+(4)[^c-352b12bcef3098ea158cc8d316f577bd] The person appointed to investigate the complaint or matter must keep the Director General informed of the progress of the investigation.
+
+(5) The person appointed to investigate the complaint or matter must comply with all such requirements in relation to the carrying out of that investigation as may be imposed by these Regulations.
+
+### 48. Investigations by the Director General...[^c-b4adf1bb28462097e59fc2937438f445][^c-dcbf604b35319822083cc14712417bf5]
 
 (1) This regulation applies where the Director General has determined that the Director General should [^c-dcbf604b35319822083cc14712417bf5]... carry out the investigation of a complaint or recordable conduct matter or DSI matter.
 
@@ -1166,12 +1284,50 @@ shall, for the purposes of the carrying out of the investigation and all purpose
 
 (6) In this regulation “United Kingdom waters” means the sea and other waters within the seaward limits of the United Kingdom’s territorial sea.
 
-### 49. Relinquishing the Director General’s supervision or management of an investigation[^c-0c123950a01a7c9004646a27775a52f6]
+### 48A. Investigations by the Director General: power to serve information notice[^c-b6980cce99f491a3b4d0eae6018ecb1a]
 
-(1) This regulation applies where the Director General—
+(1) The Director General may serve upon any person an information notice requiring the person to provide the Director General with information that the Director General reasonably requires for the purposes of an investigation in accordance with regulation 48.
 
-- (a) relinquishes the management of an investigation in favour of a supervised investigation or an investigation by the appropriate authority on its own behalf, or
-- (b) relinquishes the supervision of an investigation in favour of an investigation by the appropriate authority on its own behalf.
+(2) But an information notice must not require a person—
+
+- (a) to provide information that might incriminate the person;
+- (b) to provide an item subject to legal privilege within the meaning of section 10 of the Police and Criminal Evidence Act 1984;
+- (c) to make a disclosure that would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016;
+- (d) to provide information that was provided to the person by, or by an agency of, the government of a country or territory outside the United Kingdom where that government does not consent to the disclosure of the information.
+
+(3) An information notice must—
+
+- (a) specify or describe the information that is required by the Director General and the form in which it must be provided;
+- (b) specify the period within which the information must be provided;
+- (c) give details of the right of appeal against the information notice under regulation 48C.
+
+(4) The period specified under paragraph (3)(b) must not end before the end of the period within which an appeal can be brought against the notice and, if such an appeal is brought, the information need not be provided pending the determination or withdrawal of the appeal.
+
+(5) The Director General may cancel an information notice by written notice to the person on whom it was served.
+
+### 48B. Failure to comply with information notice
+
+(1) If a person who has received an information notice—
+
+- (a) fails or refuses to provide the information required by the notice, or
+- (b) knowingly or recklessly provides information in response to the notice that is false in a material respect,
+
+the Director General may certify in writing to the High Court that the person has failed to comply with the information notice.
+
+(2) The High Court may then inquire into the matter and, after hearing any witness who may be produced against or on behalf of the person, and after hearing any statement offered in defence, deal with the person as if the person had committed a contempt of court.
+
+### 48C. Appeals against information notices
+
+(1) A person on whom an information notice is served may appeal against the notice to the First-tier Tribunal on the ground that the notice is not in accordance with the law.
+
+(2) If the Tribunal considers that the notice is not in accordance with the law—
+
+- (a) it must quash the notice, and
+- (b) it may give directions to the Director General in relation to the service of a further information notice.
+
+### 49. Relinquishing the Director General’s direction of an investigation[^c-0c123950a01a7c9004646a27775a52f6][^c-fe85216a18c319255b81ef0fe119e224]
+
+(1)[^c-6cb34b8816a53de773c1a6299496cf2d] This regulation applies where the Director General relinquishes the direction of an investigation in favour of an investigation by the appropriate authority on its own behalf.
 
 (2) The Director General—
 
@@ -1184,7 +1340,7 @@ shall, for the purposes of the carrying out of the investigation and all purpose
 
 (1) Subject to the provisions of this regulation, proceedings under these Regulations shall proceed without delay.
 
-(2) In a case investigated by the Director General or under the management of the Director General, the Director General may suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal proceedings. Before referring a case to misconduct proceedings, the Director General shall decide whether misconduct proceedings may prejudice any criminal proceedings.
+(2) In a case investigated by the Director General or under the direction[^c-15c16e112b13866fe31e11fd61e80daf] of the Director General, the Director General may suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal proceedings. Before referring a case to misconduct proceedings, the Director General shall decide whether misconduct proceedings may prejudice any criminal proceedings.
 
 (3) For any period during which the Director General considers misconduct proceedings would prejudice any criminal proceedings, no such misconduct proceedings shall take place.
 
@@ -1192,35 +1348,48 @@ shall, for the purposes of the carrying out of the investigation and all purpose
 
 (5) For the purposes of this regulation, “relevant prosecutor” means the Director of Public Prosecutions or any other person who has or is likely to have responsibility for criminal proceedings.
 
-(6) In a case under the supervision of the Director General or undertaken by the appropriate authority on its own behalf, the appropriate authority may, subject to paragraph (7), suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal investigation or proceedings.
+(6) In a case [^c-c383e8210da60b33e11eaf8861d9e948]... undertaken by the appropriate authority on its own behalf, the appropriate authority may, subject to paragraph (7), suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal investigation or proceedings.
 
 (7) The Director General may direct that any investigation or other procedure under these Regulations which is liable to be suspended under paragraph (6) shall continue if the Director General is of the view that it is in the public interest to make such a direction.
 
 (8) The Director General shall consult the appropriate authority before making such a direction.
 
-### 51. Resumption of investigation after criminal proceedings[^c-22499b233f8197f2c76b0ae2e682ae62]
+### 51. Resumption of investigation of complaint after criminal proceedings[^c-8192aa50a584c4d439582f2e0b99b355]
 
-(1) Where the whole or part of the investigation of a complaint has been suspended until the conclusion of criminal proceedings, and after the conclusion of those proceedings the complainant has failed to express the wish for the investigation to start or to be resumed, the Director General or, as the case may be, the appropriate authority, shall take the steps set out in paragraph (2).
+(1) This regulation applies where—
 
-(2) The Director General or the appropriate authority shall take all reasonable steps to contact the complainant to ascertain whether the complainant wants the investigation to start or to be resumed as the case may be.
+- (a) the Director General or an appropriate authority has suspended the whole or part of the investigation of a complaint until the conclusion of criminal proceedings under regulation 50 (circumstances in which an investigation or other procedure may be suspended), and
+- (b) those proceedings have concluded.
 
-(3) If the complainant expresses the wish for the investigation to start or be resumed, the Director General or the appropriate authority shall start or resume the investigation as the case may be.
+(2) Where the complainant has not indicated—
 
-(4) If the complainant indicates that the complainant does not want the investigation to start or to be resumed, or if the complainant fails to reply within 21 days of the date of the letter to the complainant by the Director General or the appropriate authority, the Director General or the appropriate authority, as the case may be, shall determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter.
+- (a) a wish for the investigation to start or be resumed, or
+- (b) a wish that the investigation is not started or resumed,
 
-(5) If the Director General or the appropriate authority determines that it is not in the public interest for the complaint to be treated as a recordable conduct matter, the provisions of these Regulations shall cease to apply to the complaint.
+the Director General or appropriate authority (as the case may be) must write to the complainant to determine how the complainant wishes to proceed.
 
-(6) If the Director General or the appropriate authority determines that it is in the public interest for the complaint to be treated as a recordable conduct matter, it shall be treated as such under these Regulations.
+(3) Where the complainant indicates a wish for the investigation to start or be resumed, the Director General or appropriate authority (as the case may be) must start or resume the investigation.
 
-(7) The Director General or the appropriate authority shall notify the person complained against if paragraph (5) or (6) applies.
+(4) Where the complainant—
 
-(8) But nothing in paragraph (7) shall require the Director General or the appropriate authority to make a notification if it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+- (a) indicates a wish that the investigation is not started or resumed, or
+- (b) does not reply to a letter under paragraph (2) within a period of 28 days beginning with the day after the day on which the letter was sent by the Director General or appropriate authority in accordance with paragraph (2),
+
+the Director General or appropriate authority (as the case may be) must determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter.
+
+(5) Where the Director General or appropriate authority determines that it is not in the public interest for the complaint to be treated as a recordable conduct matter, the provisions of these Regulations cease to apply to the complaint.
+
+(6) Where the Director General or appropriate authority determines that it is in the public interest for the complaint to be treated as a recordable conduct matter, these Regulations apply to the matter.
+
+(7) Subject to paragraph (8), the Director General or appropriate authority (as the case may be) must notify the person complained against if paragraph (5) or (6) applies.
+
+(8) Nothing in paragraph (7) requires the Director General or appropriate authority to make a notification if the Director General or appropriate authority (as the case may be) believes that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
 
 ### 52. Restrictions on proceedings pending the conclusion of an investigation[^c-fe1ee38984a3411e256890e2fb5c2af6]
 
 (1) No criminal or disciplinary proceedings shall be brought in relation to any matter which falls to be determined under these Regulations until a report on that investigation has been submitted to the Director General or to the appropriate authority under regulation 66 (final reports on investigations: complaints, conduct matters and certain DSI matters) or 69 (final reports on investigations: other DSI matters) or, where under regulation 66 the Director General has personally carried out the investigation, a report has been completed by the Director General[^c-53cf50891578947c78536ef416d50deb].
 
-(2) Nothing in this regulation shall prevent the bringing of criminal or disciplinary proceedings in respect of any conduct at any time after the discontinuance of the investigation in accordance with the provisions of these Regulations which relate to that conduct.
+(2)[^c-6dd0611653562333885ffaf0aa7684af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The restrictions imposed by this regulation in relation to the bringing of criminal proceedings shall not apply to the bringing of criminal proceedings by the Director of Public Prosecutions [^c-b5d3e16538b2c1a34bb51433f5a44fb2]... in any case in which it appears to that person that there are exceptional circumstances which make it undesirable to delay the bringing of such proceedings.
 
@@ -1254,14 +1423,14 @@ as appear to the Director General to be required by the Director General for the
 (1) Subject to regulation 60, in any case in which there is an investigation of a complaint in accordance with the provisions of these Regulations—
 
 - (a) by the Director General, or
-- (b) under the Director General’s management,
+- (b) under the Director General’s direction[^c-644086f13e1ff3d16ef9ead1c551b108],
 
 it shall be the duty of the Director General to provide the complainant with all such information as will keep the complainant properly informed of all the matters specified in paragraph (4) while the investigation is being carried out and subsequently.
 
 (2) Subject to regulation 60, in any case in which there is an investigation of a complaint in accordance with the provisions of these Regulations—
 
-- (a) by the appropriate authority on its own behalf, or
-- (b) under the supervision of the Director General,
+- (a) by the appropriate authority on its own behalf, [^c-a61c1ef33246144b39867957fe347ae1]...
+- (b)[^c-b12ca974386a1eda3b70fbb6ff568d45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 it shall be the duty of the appropriate authority to provide the complainant with all such information as will keep the complainant properly informed, while the investigation is being carried out and subsequently, of all the matters specified in paragraph (4).
 
@@ -1271,7 +1440,7 @@ it shall be the duty of the appropriate authority to provide the complainant wit
 
 - (a) the progress of the investigation;
 - (b) any provisional findings of the person carrying out the investigation;
-- (c) whether any report has been submitted under regulation 69 (final reports on investigations: other DSI matters);
+- (c) whether any report has been submitted under regulation 66 (final reports on investigations: complaints, conduct matters and certain DSI matters) or[^c-34464e7cc738870f89cddbac78bbb1aa] 69 (final reports on investigations: other DSI matters);
 - (d) the action (if any) that is taken in respect of the matters dealt with in any such report; and
 - (e) the outcome of any such action.
 
@@ -1308,14 +1477,14 @@ it shall be the duty of the appropriate authority to provide the complainant wit
 (7) In any case in which there is an investigation of the complaint, recordable conduct matter or DSI matter in accordance with the provisions of these Regulations—
 
 - (a) by the Director General, or
-- (b) under the Director General’s management,
+- (b) under the Director General’s direction[^c-34027488461972998c1fdb418865a69d],
 
 it shall be the duty of the Director General to provide the interested person with all such information as will keep the interested person properly informed of all the matters specified in paragraph (10) while the investigation is being carried out and subsequently.
 
 (8) In any case in which there is an investigation of the complaint, recordable conduct matter or DSI matter in accordance with the provisions of these Regulations—
 
-- (a) by the appropriate authority on its own behalf, or
-- (b) under the supervision of the Director General,
+- (a) by the appropriate authority on its own behalf, [^c-cd3f6281f66fa7c394a931ca4a9c9a34]...
+- (b)[^c-fe7122f3e9b5a0174c1cf8ce845e0723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 it shall be the duty of the appropriate authority to provide the interested person with all such information as will keep the interested person properly informed of all the matters specified in paragraph (10) while the investigation is being carried out and subsequently.
 
@@ -1349,13 +1518,29 @@ the person investigating the complaint or matter must give a notification to the
 
 - (a) provide sufficient details of the complaint or matter in question so that the person whose conduct is in question may make representations to the person investigating the complaint or matter;
 - (b) give the information about the effect of regulation 57 (duty to consider submissions from the person whose conduct is in question);
-- (c) set out the time limits for providing the person investigating the complaint or matter with relevant statements and relevant documents for the purposes of regulation 57(2);
+- (c) state the effect of the time limit in paragraph (2A)[^c-adf9f371fe8f8f38069cbe5225992b55] for providing the person investigating the complaint or matter with relevant statements and relevant documents for the purposes of regulation 57(2);
 - (d) give such information that may be set out in guidance.
 
-(3) Paragraphs (1) and (2) do not apply for so long as the person investigating the complaint or the matter considers that giving the notification might prejudice—
+(2A)[^c-5a3bc749623b5afdea1589a4e1fa0180] The time limit is 10 working days beginning with the day after the day on which the notification is given unless this period is extended by—
+
+- (a) the person investigating, or
+- (b) in the case of an investigation other than by the Director General acting personally, the Director General.
+
+(2B) Where a notification is given under paragraph (1), the person investigating must—
+
+- (a) provide a copy of the terms of reference of the investigation to the person whose conduct is in question, or
+- (b) give the person whose conduct is in question a notice stating that the terms of reference of the investigation are not being provided and explaining why,
+
+where practicable, at the same time as notification is given under paragraph (1), or otherwise within a period of five working days beginning with the first working day after the day on which such notification is given.
+
+(2C) Where a copy of the terms of reference of the investigation has been provided under paragraph (2B) and those terms are revised, the person investigating must provide a copy of the revised terms to the person whose conduct is in question as soon as practicable.
+
+(3) Paragraphs (1) , (2), (2B) and (2C)[^c-18faf62bf269cc99631a8a1e2e5d66c6] do not apply for so long as the person investigating the complaint or the matter considers that giving the notification or providing a copy of the terms, or revised terms, of reference of the investigation[^c-17bb979a0082af9e824099518fbbeb9c] might prejudice—
 
 - (a) the investigation, or
 - (b) any other investigation (including, in particular, a criminal investigation).
+
+(3A)[^c-572938aab45143f8cec448a4693ff88e] A copy of the terms, or revised terms, of reference of the investigation provided under paragraph (2B) or (2C) may be in a form which keeps anonymous the identity of the complainant (if any) or any other person.
 
 (4) In this regulation and regulations 57 and 58, the person whose conduct is in question—
 
@@ -1392,7 +1577,7 @@ the person investigating must consider the statement or document.
 
 (1) For the purposes of regulations 54(4) (duty to keep the complainant informed) and 55(10) (duty to provide information for other persons), the manner in which the Director General or, as the case may be, an appropriate authority, shall perform the duties imposed by those regulations is as follows.
 
-(2) The Director General, in a case falling within regulation 54(1) or 55(7) (investigation of a complaint, conduct matter or DSI matter by or under the management of the Director General), shall inform the complainant or, as the case may be, the interested person—
+(2) The Director General, in a case falling within regulation 54(1) or 55(7) (investigation of a complaint, conduct matter or DSI matter by or under the direction[^c-b261f310d24e5036ac0b6335fa9e30c2] of the Director General), shall inform the complainant or, as the case may be, the interested person—
 
 - (a) of the progress of the investigation promptly, and in any event—
   - (i) if there has been no previous notification, within four weeks of the start of the investigation; and
@@ -1417,11 +1602,11 @@ the person investigating must consider the statement or document.
 
 (7) As soon as practicable after any misconduct hearing or other action that is taken in respect of the matters dealt with in any report submitted under regulation 66, the Director General or, as the case may be, the appropriate authority, shall notify any complainant and interested person of the outcome of that hearing or action, including the fact and outcome of any appeal against the findings of or sanctions imposed by such a hearing.
 
-(8) If the Director General or, as the case may be, the appropriate authority, considers that an investigation has made minimal or no progress since the previous notification, then the next notification may be made by any means that in the opinion of the Director General or, as the case may be, the appropriate authority, is suitable.
+(8)[^c-88ab789e403e16d9131e72eeb6e74ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 60. Exceptions to the duty to keep the complainant informed and to provide information for other persons[^c-1de54a68fd5b12ebc76eaa4d003af8e1]
 
-(1) Subject to paragraph (2), the duties mentioned in regulation 54(1) and (2) (duty to keep the complainant informed), regulation 55(7) and (8) (duty to provide information for other persons) and in regulations 67(11) and 68(12) shall not apply in circumstances where in the opinion of the Director General, or, as the case may be, of the appropriate authority, the non-disclosure of information is necessary for the purpose of—
+(1) Subject to paragraph (2), the duties in the regulations set out in paragraph (1A)[^c-b901822d7e197c87c74a5d17c504922b] shall not apply in circumstances where in the opinion of the Director General, or, as the case may be, of the appropriate authority, the non-disclosure of information is necessary for the purpose of—
 
 - (a) preventing the premature or inappropriate disclosure of information that is relevant to, or may be used in, any actual or prospective criminal proceedings;
 - (b) preventing the disclosure of information in any circumstances in which its non-disclosure—
@@ -1430,8 +1615,20 @@ the person investigating must consider the statement or document.
   - (iii) is required on proportionality grounds; or
   - (iv) is otherwise necessary in the public interest; or
 - (c) preventing the disclosure of any information held by HMRC in connection with its functions which—
-  - (i) is obtained from the Head of the Home Civil Service, the Chief Executive, the Commissioners or an officer, and
+  - (i) is obtained from the Head of the Home Civil Service, [^c-07ac0bcf196bd3aabfb1a86badab1792]... the Commissioners or an officer, and
   - (ii) relates to a person whose identity is specified in the disclosure or can be deduced from it.
+
+(1A)[^c-a3649f8b3401815c0d47b1eece8918fb] The regulations are—
+
+- (a) regulation 38(10);
+- (b) regulation 39A(5);
+- (c) regulation 54(1) and (2);
+- (d) regulation 55(7) and (8);
+- (e) regulation 67(11);
+- (f) regulation 68(12);
+- (g) regulation 70A(13);
+- (h) regulation 70B(6);
+- (i) regulation 75(5) and (6).
 
 (2) Paragraph (1)(c) does not apply to any information relating to internal administrative arrangements of HMRC (whether relating to the Commissioners, officers or others).
 
@@ -1444,14 +1641,14 @@ the person investigating must consider the statement or document.
 
 (5) Without prejudice to the generality of paragraph (1), the Director General, or, as the case may be, the appropriate authority, shall consider whether the non-disclosure of information is justified under that paragraph in circumstances where—
 
-- (a) that information is relevant to, or may be used in, any actual or prospective disciplinary proceedings;
-- (b) the disclosure of that information may lead to the contamination of the evidence of witnesses during such proceedings;
+- (a) that information is relevant to, or may be used in, any actual or prospective disciplinary proceedings or appeal against the outcome of such proceedings[^c-70d6f7a05643e21a870c550adce10343];
+- (b) the disclosure of that information may lead to the contamination of the evidence of witnesses during such proceedings or appeal[^c-fd4f5fdc9b87f9b67fa431ea5e92f7be];
 - (c) the disclosure of that information may prejudice the welfare or safety of any third party;
 - (d) that information constitutes criminal intelligence.
 
 ### 61. Copies of complaints etc.[^c-49efcfb831ecd9b282ded023a6804a04]
 
-(1) Where a complaint is recorded under regulation 19(6) (initial handling and recording of complaints), the appropriate authority shall—
+(1) Where a complaint is recorded under regulation 19(6) (initial handling and recording of complaints) or 28A(4) (recording of complaints)[^c-4a3192f118123fb5fd5b8cfddf62b53d], the appropriate authority shall—
 
 - (a) supply to the complainant a copy of the record made of that complaint; and
 - (b) subject to paragraphs (2) to (4), supply to the person complained against a copy of the complaint.
@@ -1467,7 +1664,7 @@ the person investigating must consider the statement or document.
 
 ### 62. Notification of actions and decisions[^c-60bfd61f87432f79e358d8e5d00df61c]
 
-(1) So far as not covered by regulation 67(11) and (12) and regulation 74(11) and (12) (appeals to the Director General with respect to an investigation), where the Director General takes any action or decisions in consequence of the Director General having received a memorandum under regulation 67(9) or regulation 74(3), the Director General shall notify such action or decisions, together with an explanation of the Director General’s reasons for having taken them, to—
+(1) So far as not covered by regulation 67(11) and (12) and regulation 74(11) and (12) (reviews by[^c-734f538776e5e7a154667fc13eba87c0] the Director General with respect to an investigation), where the Director General takes any action or decisions in consequence of the Director General having made a determination under regulation 67(10)[^c-058be47c0f5bbecf50bc92df6b338cf8], the Director General shall notify such action or decisions, together with an explanation of the Director General’s reasons for having taken them, to—
 
 - (a) the appropriate authority;
 - (b) the complainant and any other interested person within the meaning of regulation 55(2) and (3); and
@@ -1479,21 +1676,21 @@ the person investigating must consider the statement or document.
 
 (1) Where—
 
-- (a) the Director General makes recommendations under regulation 71 (duties with respect to disciplinary proceedings) in the case of an investigation of a complaint, and
+- (a)[^c-055a5eb6a52e8726bc594b614bfa3a53] the Director General makes recommendations under regulation 74(8)(c) (reviews by the Director General with respect to an investigation), and
 - (b) the appropriate authority notifies the Director General that the recommendations have been accepted,
 
 the Director General shall notify the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 55 of that fact and of the steps that have been, or are to be taken, by the appropriate authority to give effect to it.
 
-(2) Where in the case of an investigation of a complaint the appropriate authority—
+(2) Where [^c-c3b4bec0f5ca7bd24d21d48c7e1cd46c]... the appropriate authority—
 
-- (a) notifies the Director General that it does not (either in whole or in part) accept recommendations made by the Director General under regulation 71, or
+- (a) notifies the Director General that it does not (either in whole or in part) accept recommendations made by the Director General under regulation 74(8)(c)[^c-5ea4abcc731b349a7971a24c5a75075c], or
 - (b) fails to take steps to give full effect to any such recommendations,
 
 it shall be the duty of the Director General to determine what further steps (if any) to take under that regulation.
 
 (3) It shall be the duty of the Director General to notify the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 55—
 
-- (a) of any determination under paragraph (2) not to take further steps under regulation 71; and
+- (a) of any determination under paragraph (2) not to take further steps under regulation 74(8)(c)[^c-eac5c86250e9e198e1afa05b822f7c74]; and
 - (b) where the Director General determines under that paragraph to take further steps under that regulation, of the outcome of the taking of those steps.
 
 ### 64. Register to be kept by the Director General[^c-18c83703e5d6c93a7b0160c4fe054787]
@@ -1502,7 +1699,8 @@ it shall be the duty of the Director General to determine what further steps (if
 
 (2) Subject to paragraph (3), the Director General may publish or otherwise disclose to any person any information held on the register provided that the publication or disclosure is necessary for or conducive to the purpose of—
 
-- (a) learning lessons from the handling of, or demonstrating the thoroughness and effectiveness of, investigations by the Director General or of managed or supervised investigations;
+- (a)[^c-b4e7da31ff7b2773c0e3449652476966] learning lessons from the handling of complaints, conduct matters or DSI matters;
+- (aa) demonstrating the thoroughness and effectiveness of the handling of complaints or such matters;
 - (b) raising public awareness of the complaints system; or
 - (c) improving the complaints system.
 
@@ -1528,7 +1726,7 @@ it shall be the duty of the Director General to determine what further steps (if
 
 (2) A person appointed under regulation 44 (investigation by the appropriate authority on its own behalf) shall submit a report on that person’s investigation to the appropriate authority.
 
-(3) A person appointed under regulation 45 (investigations supervised by the Director General), 46 (investigations by a police force under the management or under the supervision of the Director General), or 47 (investigations managed by the Director General) shall—
+(3) A person appointed under regulation [^c-4957688fc2dd39133750096afc09c388]... 46 (investigations by a police force under the direction[^c-d44dc40738c940ec8627695b8577c854] of the Director General), or 47 (investigations directed[^c-1dff8c0de1e7632abc171c12c5edb293] by the Director General) shall—
 
 - (a) submit a report on that person’s investigation to the Director General; and
 - (b) send a copy of that report to the appropriate authority.
@@ -1561,8 +1759,10 @@ it shall be the duty of the Director General to determine what further steps (if
 
 (1) This regulation applies where—
 
-- (a) a report on an investigation carried out under the management of the Director General is submitted to the Director General under paragraph (3) of regulation 66 (final report on investigations: complaints, conduct matters and certain DSI matters); or
+- (a) a report on an investigation carried out under the direction[^c-9f33b2b3e057410a659f294fcca507e5] of the Director General is submitted to the Director General under paragraph (3) of regulation 66 (final report on investigations: complaints, conduct matters and certain DSI matters); or
 - (b) a report on an investigation carried out by a person designated by the Director General is submitted to the Director General, or is otherwise completed,[^c-23c73dbefb8f932f4d615c7514ec5566] under paragraph (5) of that regulation.
+
+(1A)[^c-c193874ba16e86cb9c5e66ae9b6f6f44] But if the Director General determines under regulation 70A (power of the Director General to require a re-investigation) that the complaint, recordable conduct matter or DSI matter is to be re-investigated, the provisions of this regulation other than paragraph (2)(a) (read with paragraph (2A)) do not apply, or cease to apply, in relation to that report.
 
 (2) On receipt of the report , or on its completion by the Director General,[^c-c3e41b8233a0a22ce5ae208c2fda7309], the Director General—
 
@@ -1570,6 +1770,8 @@ it shall be the duty of the Director General to determine what further steps (if
 - (b) shall determine whether the conditions set out in paragraphs (3) and (4) are satisfied in respect of the report;
 - (c) if the Director General determines that those conditions are so satisfied, shall notify the Director of Public Prosecutions [^c-ecd07fc903e668612bd19835cd2bb522]... of the determination and send the Director a copy of the report; and
 - (d) shall notify the appropriate authority and the persons mentioned in paragraph (7) of the Director General’s determination under sub-paragraph (b) and of any action taken by the Director General under sub-paragraph (c).
+
+(2A)[^c-f521907a235c53aa1aa3f72267fea0d7] Where the Director General would contravene regulation 14A by sending a copy of a report in its entirety to the appropriate authority under paragraph (2)(a) or to the Director of Public Prosecutions under paragraph (2)(c), the Director General must instead send a copy of the report after having removed or obscured the information which by virtue of regulation 14A the Director General must not disclose.
 
 (3) The first condition is that the report indicates that a criminal offence may have been committed by a person to whose conduct the investigation related.
 
@@ -1584,25 +1786,43 @@ it shall be the duty of the Director General to determine what further steps (if
 - (a) in the case of a complaint, the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 55 (duty to provide information for other persons); and
 - (b) in the case of a recordable conduct matter, every person entitled to be kept properly informed in relation to that matter under that regulation.
 
-(8) On receipt of the report, the Director General shall also notify the appropriate authority that it must—
+(8)[^c-5fddd58e6021495e9b5fc16ef119dac8] On receipt of the report, or on its completion by the Director General, the Director General must also seek the views of the appropriate authority on whether any person to whose conduct the investigation related has a case to answer in respect of their conduct or has no case to answer.
 
-- (a) determine—
-  - (i) whether any officer (person whose conduct is in question) has a case to answer in respect of their conduct or has no case to answer, and
-  - (ii) what action (if any) the authority is required to, or will in its discretion, take in respect of the matters dealt with in the report; and
-- (b) determine what other action (if any) the authority will in its discretion take in respect of those matters.
+(8A) Where the Director General seeks the views of the appropriate authority, the Director General must notify the appropriate authority of the Director General’s opinion as to the matters mentioned in paragraph (8B).
 
-(9) On receipt of a notification under paragraph (8) the appropriate authority shall make those determinations and submit a memorandum to the Director General which—
+(8B) The matters are—
 
-- (a) sets out the determinations the authority has made; and
-- (b) if the appropriate authority has decided in relation to any person whose conduct is the subject-matter of the report that disciplinary proceedings should not be brought against that person, sets out its reasons for so deciding.
+- (a) whether any person to whose conduct the investigation related has a case to answer in respect of their conduct or has no case to answer;
+- (b) whether or not disciplinary proceedings should be brought against any such person.
 
-(10) On receipt of a memorandum under paragraph (9), the Director General shall—
+(9)[^c-f1719bedb3d689099d94115f0e003b17] The appropriate authority must provide the Director General with its views (if any) on those matters before the expiry of the time limit mentioned in paragraph (9A).
 
-- (a) consider the memorandum and whether the appropriate authority has made the determinations under paragraph (8)(a) that the Director General considers appropriate in respect of the matters dealt with in the report;
-- (b) determine, in the light of the Director General’s consideration of those matters, whether or not to make recommendations under regulation 71 (duties with respect to disciplinary proceedings); and
-- (c) make such recommendations (if any) under that regulation as the Director General thinks fit.
+(9A) The time limit is 28 days beginning with the day after the day on which the Director General seeks the appropriate authority’s views in accordance with paragraph (8), unless this period is extended by the Director General.
 
-(11) On the making of a determination under paragraph (10)(b) the Director General shall give a notification—
+(10)[^c-b130a1bc61f6c09e04f650e6aac94ddd] Having considered the views (if any) of the appropriate authority, the Director General must make a determination as to—
+
+- (a) whether any person to whose conduct the investigation related has a case to answer in respect of their conduct or has no case to answer, and
+- (b) where there is such a case to answer, whether disciplinary proceedings should be brought against any person to whose conduct the investigation related.
+
+(10A) The Director General must notify the appropriate authority of the Director General's determination under paragraph (10).
+
+(10B) Where the Director General determines that disciplinary proceedings should be brought against a person, the Director General must direct the appropriate authority to bring those proceedings.
+
+(10C) The Director General must also direct the appropriate authority to determine what action (if any) the appropriate authority will in its discretion take, not being action involving the bringing of disciplinary proceedings, in respect of the matters dealt with in the report and having regard to the Director General's determination under paragraph (10).
+
+(10D) The appropriate authority must comply with a direction given under paragraph (10B) and must secure that the proceedings, once brought, are proceeded with to a proper conclusion.
+
+(10E) The Director General may at any time withdraw a direction given under paragraph (10B).
+
+(10F) Where the Director General withdraws a direction under paragraph (10E), paragraph (10D) does not impose any obligation in relation to any time after the withdrawal of the direction and regulation 71 (duties with respect to disciplinary proceedings) ceases to apply in relation to the withdrawn direction.
+
+(10G) The appropriate authority must keep the Director General informed of the action it takes in response to a direction given under paragraph (10B).
+
+(10H) The appropriate authority must comply with the direction given under paragraph (10C) and must notify the Director General of the determination it makes.
+
+(10I) On receipt of the report or on its completion by the Director General, where it is a report of an investigation of a complaint, the Director General may also make a recommendation under regulation 70B.
+
+(11) On the making of a determination under paragraph (10)[^c-cee8d3d7fe3acf706ad5a3ad84a16d3b] the Director General shall give a notification—
 
 - (a) in the case of a complaint, to the complainant and to every person entitled to be kept properly informed in relation to the complaint under regulation 55; and
 - (b) in the case of a recordable conduct matter, to every person entitled to be kept properly informed in relation to that matter under that regulation.
@@ -1610,8 +1830,16 @@ it shall be the duty of the Director General to determine what further steps (if
 (12) The notification required by paragraph (11) is one setting out—
 
 - (a) the findings of the report;
-- (b) the Director General’s determination under paragraph (10)(b); and
-- (c) the action which the appropriate authority is to be recommended to take as a consequence of the determination.
+- (b) the Director General’s determination under paragraph (10)[^c-09f48a38d5500db19a841a3cf517e276]; and
+- (c) the action which the appropriate authority is directed[^c-847dfcc9d32855b1bba41a23f60d3144] to take as a consequence of the determination.
+
+(12A)[^c-6091e659a4a996237e1af8d1f01f15b4] Where the Director General determines under paragraph (10) that no disciplinary proceedings should be brought against a person to whose conduct the investigation related, the Director General must provide that person with a copy of the report on the investigation or such parts of it as relate to that person.
+
+(12B) But paragraph (12A) does not apply if the Director General believes that providing a copy of the report, or part of it, might prejudice any investigation or proceedings (including a criminal investigation or proceedings) or review under regulation 74.
+
+(12C) A copy of the report, or part of it, provided under paragraph (12A) may be in the form which keeps anonymous the identity of the complainant (if any).
+
+(12D) Where the Director General would contravene regulation 14A by providing a copy of the report, or a part of it, under paragraph (12A), the Director General must instead provide the copy having removed or obscured the information which by virtue of regulation 14A must not be disclosed.
 
 (13) Regulation 60 shall have effect in relation to the duties imposed on the Director General by paragraph (11) of this regulation.
 
@@ -1623,10 +1851,10 @@ it shall be the duty of the Director General to determine what further steps (if
 
 (1) This regulation applies where—
 
-- (a) a report of an investigation is submitted to the appropriate authority in accordance with regulation 66(2); or
-- (b) a copy of a report on an investigation carried out under the supervision of the Director General is sent to the appropriate authority in accordance with regulation 66(3).
+- (a) a report of an investigation is submitted to the appropriate authority in accordance with regulation 66(2).[^c-6b2d0aca91b4cf0b89556db29ec7b67a]
+- (b)[^c-07884e306c6e6ffeac790535c6113d4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) On receipt of the report or (as the case may be) of the copy, the appropriate authority—
+(2) On receipt of the report [^c-627aa6fbb04b81387bdba0b131268870]... the appropriate authority—
 
 - (a) shall determine whether the conditions set out in paragraphs (3) and (4) are satisfied in respect of the report;
 - (b) if it determines that those conditions are so satisfied, shall notify the Director of Public Prosecutions [^c-d1b1dcc4911dcf4d791f8340ec5889a1]... of the determination and send the Director a copy of the report; and
@@ -1638,28 +1866,25 @@ it shall be the duty of the Director General to determine what further steps (if
 
 (5) The Director of Public Prosecutions [^c-abf1266e2f0d8a4a896d448d005fed2b]... shall notify the appropriate authority of any decision of the Director to take, or not to take, action in respect of the matters dealt with in any report a copy of which has been sent to the Director under paragraph (2).
 
-(6) It shall be the duty of the appropriate authority to notify the persons mentioned in paragraph (7) if criminal proceedings are brought against any person by the Director of Public Prosecutions [^c-3c19f8cf8c5a8dea57589ef25899c488]... in respect of any matters dealt with in a report copied to the Director under paragraph (2)(b).
+(6)[^c-da145f8336e595d76fc5c06333a61405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Those persons are—
 
 - (a) in the case of a complaint, the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 55 (duty to provide information for other persons); and
 - (b) in the case of a recordable conduct matter, every person entitled to be kept properly informed in relation to that matter under that regulation.
 
-(8) In the case of a report falling within paragraph (1)(b) which relates to a recordable conduct matter, the appropriate authority shall also notify the Director General of its determination under paragraph (2)(a).
+(8)[^c-2011a8fb509fd6e4c9d30df582e2e9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) On receipt of such a notification that the appropriate authority has determined that the conditions in paragraphs (3) and (4) are not satisfied in respect of the report, the Director General—
+(9)[^c-2011a8fb509fd6e4c9d30df582e2e9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) shall make the Director General’s own determination as to whether those conditions are so satisfied; and
-- (b) if the Director General determines that they are so satisfied, shall direct the appropriate authority to notify the Director of Public Prosecutions [^c-4961f624a83f1ce591849107e86bb59d]... of the Director General’s determination and send the Director a copy of the report.
+(10)[^c-2011a8fb509fd6e4c9d30df582e2e9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10) It shall be the duty of the appropriate authority to comply with any direction given to it under paragraph (9)(b).
-
-(11) On receipt of the report or (as the case may be) copy, the appropriate authority shall also—
+(11) On receipt of the report [^c-c420069e334be39754595debec55d611]... the appropriate authority shall also—
 
 - (a) determine—
   - (i) whether any person to whose conduct the investigation related has a case to answer in respect of their conduct or has no case to answer, and
-  - (ii) what action (if any) the authority is required to, or will in its discretion, take in respect of the matters dealt with in the report; and
-- (b) determine what other action (if any) the authority will in its discretion take in respect of those matters.
+  - (ii)[^c-66d66819b7906e5c1858e9af22121a53] where there is such a case to answer, whether disciplinary proceedings should be brought against any person to whose conduct the investigation related; and
+- (b) determine what other action (if any) the authority will in its discretion take in respect of the matters dealt with in the report[^c-8d3c4ca9f7df0f0957a802f43c3749ad].
 
 (12) On the making of the determinations under paragraph (11) the appropriate authority shall give a notification—
 
@@ -1670,7 +1895,15 @@ it shall be the duty of the Director General to determine what further steps (if
 
 - (a) the findings of the report;
 - (b) the determinations the authority has made under paragraph (11); and
-- (c) the complainant’s right of appeal under regulation 74 (appeals to the Director General with respect to an investigation).
+- (c)[^c-7c56c06ede3f4916de127217af8d0a5d] the complainant’s right to apply for a review under regulation 74 (reviews by the Director General with respect to an investigation).
+
+(13A)[^c-03c7aef3612cab66e4ede5493ebcb6de] Where the appropriate authority determines under paragraph (11) that no disciplinary proceedings should be brought against a person to whose conduct the investigation related, the appropriate authority must provide that person with a copy of the report on the investigation or such parts of it as relate to that person.
+
+(13B) But paragraph (13A) does not apply if the appropriate authority believes that providing a copy of the report, or part of it, might prejudice any investigation or proceedings (including a criminal investigation or proceedings) or review under regulation 74.
+
+(13C) A copy of the report, or part of it, provided under paragraph (13A) may be in the form which keeps anonymous the identity of the complainant (if any).
+
+(13D) Where the appropriate authority would contravene regulation 14A by providing a copy of the report, or a part of it, under paragraph (13A), the Director General must instead provide the copy having removed or obscured the information which by virtue of regulation 14A must not be disclosed.
 
 (14) Regulation 60 shall have effect in relation to the duties imposed on the appropriate authority by paragraph (12) of this regulation.
 
@@ -1690,6 +1923,8 @@ it shall be the duty of the Director General to determine what further steps (if
 (2A)[^c-64e69ce3d9238d350286f877d25e8a98] Sub-paragraph (2)(a) does not apply where the person investigating is the Director General carrying out an investigation personally under regulation 48, but the Director General shall complete a report on the investigation.
 
 (3) A person submitting a report under sub-paragraph (2)(a) or completing one under sub-paragraph (2A)[^c-7f5c4133c98d3659eeea2b48c57a0b96] shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in that report as that person thinks fit.
+
+(4)[^c-becfcd0bbb1ca525809b6ebd284d91b3] Where a person would contravene regulation 14A by sending a copy of a report in its entirety to the appropriate authority under sub-paragraph (2)(b), the person must instead send a copy of the report after having removed or obscured the information which by virtue of regulation 14A the person must not disclose.
 
 ### 70. Action by the Director General in response to an investigation report under regulation 69[^c-c03129534cd7cafe583b57dd6dd3ef8e]
 
@@ -1721,43 +1956,190 @@ the Director General shall notify the appropriate authority in relation to the p
 - (a) the person investigating the DSI matter shall (subject to any determination made by the Director General under regulation 38(6) (power of the Director General to determine the form of an investigation – further determination)) investigate the conduct matter as if appointed or designated to do so, and
 - (b) the other provisions of these Regulations shall apply in relation to that matter accordingly.
 
+### 70A. Power of the Director General to require a re-investigation[^c-c15a6e68411a55acd757f61904284682]
+
+(1) This regulation applies where—
+
+- (a) a report on an investigation of a complaint, recordable conduct matter or DSI matter carried out under the direction of the Director General has been submitted to the Director General under regulation 66(3)(a) or 69(2)(a), or
+- (b) a report on an investigation of a complaint, recordable conduct matter or DSI matter carried out by a person designated by the Director General has been submitted to the Director General (or, in the case of an investigation carried out under regulation 48 by the Director General personally, is otherwise completed by the Director General) under regulation 66(5)(a) or 69(2)(a).
+
+(2) The Director General may at any time determine that the complaint, recordable conduct matter or DSI matter is to be re-investigated if satisfied that there are compelling reasons for doing so.
+
+(3) Where the Director General makes a determination under paragraph (2), the Director General must determine that the re-investigation is to take the form of an investigation by the Director General unless paragraph (4) or (5) applies, in which case the Director General must determine that the re-investigation is to take the form described in those paragraphs.
+
+(4) This paragraph applies where the Director General determines that it would be more appropriate for the re-investigation to take the form of an investigation by the appropriate authority under the direction of the Director General.
+
+(5) This paragraph applies where the Director General determines that it would be more appropriate for the re-investigation to take the form of an investigation by a police force under the direction of the Director General.
+
+(6) Where—
+
+- (a) the Director General determines under paragraph (3) or (9) that a re-investigation is to take the form of an investigation by the Director General, and
+- (b) at any time after that the Director General determines that paragraph (4) or (5) applies in relation to the re-investigation,
+
+the Director General may make a further determination under this paragraph (to replace the earlier one) that the re-investigation is to take the form of an investigation by the appropriate authority under the direction of the Director General or by a police force under the direction of the Director General.
+
+(7) Where the Director General determines under paragraph (3) or (6) that a re-investigation is to take the form of an investigation by the appropriate authority under the direction of the Director General, the Director General must keep under review whether paragraph (4) continues to apply in relation to the re-investigation.
+
+(8) Where the Director General determines under paragraph (3) or (6) that a re-investigation is to take the form of an investigation by a police force under the direction of the Director General, the Director General must keep under review whether paragraph (5) continues to apply in relation to the re-investigation.
+
+(9) If, on such a review, the Director General determines that paragraph (4) or (5) no longer applies in relation to a re-investigation, the Director General must make a further determination under this paragraph (to replace the earlier one) that the re-investigation is instead to take the form of an investigation by the Director General.
+
+(10) Paragraphs (7) and (8) of regulation 38 apply in relation to a further determination under paragraph (6) or (9) as they apply in the case of a further determination under paragraph (4F) or (4G) of that regulation.
+
+(11) The provisions of these Regulations apply in relation to any re-investigation in pursuance of a determination under this regulation as they apply in relation to any investigation in pursuance of a determination under regulation 38.
+
+(12) The Director General must notify the appropriate authority of any determination that the Director General makes under this regulation and of the Director General’s reasons for making the determination.
+
+(13) The Director General must also notify the following of any determination that the Director General makes under this regulation and of the Director General’s reasons for making the determination—
+
+- (a) every person entitled to be kept properly informed in relation to the complaint, recordable conduct matter or DSI matter (as the case may be) under regulation 55;
+- (b) where the determination is made in relation to a complaint, the complainant;
+- (c) except in a case where it appears to the Director General that to do so might prejudice any proposed re-investigation, the person to whose conduct the re-investigation will relate.
+
+(14) Regulation 60 has effect in relation to the duties imposed on the Director General by paragraph (13) of this regulation.
+
+(15) In relation to a matter that was formerly a DSI matter but was subsequently recorded as a conduct matter under regulation 36(5), the reference in paragraph (12) to the appropriate authority is a reference to the appropriate authority in relation to the person whose conduct was in question.
+
+(16) The reference to a report in paragraph (1) includes a report on a re-investigation by virtue of this regulation or regulation 74(8)(b).
+
+### 70B. Recommendations by the Director General to remedy complaints
+
+(1) A recommendation under this regulation (for the purposes of regulations 67 and 74) is a recommendation to the appropriate authority of a kind described at paragraph (2), which is made with a view to remedying the matters raised in a complaint.
+
+(2) The kinds of recommendation are—
+
+- (a) a recommendation that an apology be made to the complainant concerned;
+- (b) a recommendation that any property seized from the complainant concerned be returned;
+- (c) any other recommendation, other than a recommendation that compensation be paid, which the Director General considers appropriate to remedy the matters raised in the complaint.
+
+(3) Where a recommendation is made under this regulation, the appropriate authority must provide the Director General with a written response stating—
+
+- (a) whether the appropriate authority accepts the recommendation;
+- (b) if the recommendation is accepted, the steps the appropriate authority is proposing to take to give effect to the recommendation;
+- (c) if the recommendation is not accepted, the reasons why not.
+
+(4) Subject to paragraph (5), the appropriate authority must provide the response before the end of the period of 28 days beginning with the day after the day on which the recommendation was made.
+
+(5) The Director General may extend the period mentioned in paragraph (4) and if an extension is granted the appropriate authority must provide the response before the end of the extended period.
+
+(6) The Director General must send a copy of the recommendation and the response to it to—
+
+- (a) the complainant concerned;
+- (b) every person entitled to be kept properly informed in relation to the complaint under regulation 55; and
+- (c) except in a case where it appears to the Director General that to do so might prejudice any investigation (including a criminal investigation), the person complained against (if any).
+
+(7) Regulation 60 has effect in relation to the duties imposed by paragraph (6) of this regulation.
+
+### 70C. Recommendations by the Director General
+
+(1) This regulation applies where the Director General has received a report (or otherwise completed one in relation to an investigation carried out under regulation 48 by the Director General personally) under—
+
+- (a) regulation 66(3) or (5) (final report on investigations: complaints, conduct matters and certain DSI matters), or
+- (b) regulation 69(2) or (2A) (final reports on investigations: other DSI matters).
+
+(2) This regulation also applies where the Director General has made a determination on a review under regulation 74 (reviews by the Director General with respect to an investigation).
+
+(3) The Director General may make a recommendation in relation to a matter dealt with in the report or review.
+
+(4) Where this regulation applies—
+
+- (a) by virtue of paragraph (1)(a) and the report is a report of an investigation of a complaint, or
+- (b) by virtue of paragraph (2),
+
+a recommendation made under paragraph (3) may not be a recommendation of a kind described in regulation 70B(2) (recommendations by the Director General to remedy complaints).
+
+(5) A recommendation under this regulation may be made to any person if it is made—
+
+- (a) following the receipt or completion of a report relating to—
+  - (i) a DSI matter,
+  - (ii) a conduct matter that is required to be referred to the Director General under regulation 30(1) or that the Director General is treating as having been referred under regulation 30A(1), or
+  - (iii) a complaint that is required to be referred to the Director General under regulation 28(1) or that the Director General is treating as having been referred under regulation 28A(1), or
+- (b) following a determination on a review relating to a complaint of a type referred to in sub-paragraph (a)(iii).
+
+(6) In any other case, a recommendation under this regulation may only be made to the appropriate authority.
+
+(7) Where the Director General makes a recommendation under this regulation, the Director General must also—
+
+- (a) publish the recommendation, and
+- (b) send a copy of it—
+  - (i) to the appropriate authority;
+  - (ii) to any person to whom the Director General thinks a copy should be sent.
+
+(8) Nothing in this regulation affects the power of the Director General to make recommendations or give advice under regulation 7(1)(e).
+
+### 70D. Response to recommendations under regulation 70C
+
+(1) A person to whom a recommendation under regulation 70C is made must provide to the Director General a response in writing stating—
+
+- (a) what action the person has taken or proposes to take in response to the recommendation, or
+- (b) why the person has not taken, or does not propose to take, any action in response.
+
+(2) Subject to paragraph (3), the person must provide the response before the end of the period of 56 days beginning with the day on which the recommendation was made.
+
+(3) The Director General may extend the period of 56 days following an application received before the end of the period, and if an extension is granted, the person must provide the response before the end of the extended period.
+
+(4) But if proceedings for judicial review of the Director General's decision to make a recommendation are started during the period allowed by paragraph (2) or (3), that period is extended by however many days the proceedings are in progress.
+
+(5) On receiving a response, the Director General must, within the period of 21 days beginning with the day on which the Director General received it—
+
+- (a) publish the response, and
+- (b) send a copy of it to any person who was sent a copy of the recommendation under regulation 70C(7)(b),
+
+unless the person giving the response has made representations under paragraph (6).
+
+(6) The person giving the response may, at the time of providing it to the Director General, make representations to the Director General asserting that the requirements of publication and disclosure under paragraph (5) should not apply to the response, or to particular parts of it.
+
+(7) On receiving such representations, the Director General may decide—
+
+- (a) that the response should not be published, or that only parts of it should be published;
+- (b) that the response should not be disclosed, or that only parts of the response should be disclosed.
+
+(8) Where, following a decision on representations, the Director General decides to publish or disclose a response (in whole or in part), the Director General must do so only after the person giving the response has been informed of the Director General's decision, and—
+
+- (a) in a case where the Director General has decided to accept all of the representations, the Director General must do so within the period of 21 days beginning with the day on which the Director General received the response;
+- (b) in a case where the Director General has decided to reject any of the representations, the Director General must do so—
+  - (i) within the period of 21 days beginning with the day on which the person was informed of the Director General's decision on the representations, but
+  - (ii) not before the end of the period of 7 days beginning with that day.
+
+(9) But if proceedings for judicial review of the Director General's decision to reject a representation are started during the period of 7 days referred to in paragraph (8)(b)(ii)—
+
+- (a) the Director General must not publish or disclose the response while the proceedings are in progress;
+- (b) if the court upholds the Director General's decision to reject a representation, the Director General must publish and disclose the response (in whole or in part, as appropriate) before the end of the period of 7 days beginning with the day on which the proceedings are no longer in progress.
+
+(10) Where an appropriate authority makes a response under this regulation, the appropriate authority must, at the time the Director General publishes the response, also publish the response (to the same extent as published by the Director General) and the recommendation under regulation 70C.
+
+(11) For the purposes of this regulation—
+
+- (a) “disclosing” a response means sending a copy of it as mentioned in paragraph (5)(b);
+- (b) the period during which judicial review proceedings are in progress includes any day on which an appeal is in progress or may be brought.
+
+(12) This regulation does not apply, or ceases to apply, in relation to a recommendation made by virtue of regulation 70C(1) if the Director General determines under regulation 70A that the complaint, recordable conduct matter or DSI matter that the Director General received a report on, or otherwise completed, is to be re-investigated.
+
 ### 71. Duties with respect to disciplinary proceedings[^c-c663974c09296fe7edec929b4bb35402]
 
-(1) This regulation applies where, in the case of any investigation, the appropriate authority—
+(1)[^c-d81add02ea57bcc83feb5330252cb8f9] This regulation applies where, in the case of any investigation—
 
-- (a) has given, or is required to give, a notification under regulation 68(12) (action by the appropriate authority in response to an investigation report under regulation 66) of the action it is proposing to take in relation to the matters dealt with in any report of the investigation; or
-- (b) has submitted, or is required to submit, a memorandum to the Director General under regulation 67 (action by the Director General in response to an investigation report under regulation 66) or 74 (appeals to the Director General with respect to an investigation) setting out the action that it is proposing to take in relation to those matters.
+- (a) the appropriate authority has given, or is required to give, a notification under regulation 68(12) (action by the appropriate authority in response to an investigation report under regulation 66) of the action it is proposing to take in relation to the matters dealt with in any report of the investigation, or
+- (b) the Director General has given the appropriate authority a direction under regulation 67(10B) (action by the Director General in response to an investigation report under regulation 66) or regulation 74(8B) (reviews by the Director General with respect to an investigation).
 
-(2) Subject to regulation 52 (restrictions on proceedings pending the conclusion of an investigation) and to any recommendations or directions under this regulation, it shall be the duty of the appropriate authority—
+(2) Subject to regulation 52 (restrictions on proceedings pending the conclusion of an investigation) and to any recommendations or directions under regulation 67, 68 or 74[^c-b0efc13654b53aea9d762e0c9596ebf3], it shall be the duty of the appropriate authority—
 
-- (a) to take the action which has been or is required to be notified or, as the case may be, which is or is required to be set out in the memorandum; and
+- (a)[^c-844f9c3fc7c97c697f8b1fa41ddc65c9] to take the action which has been, or is required to be, set out in the notification or direction, and
 - (b) in a case where that action consists of or includes the bringing of disciplinary proceedings, to secure that those proceedings, once brought, are proceeded with to a proper conclusion.
 
-(3) Where this regulation applies by virtue of paragraph (1)(b), the Director General may make a recommendation to the appropriate authority in respect of any person whose conduct is in question—
+(3)[^c-ce47fdc2124dc6a5d6cdf3ebb92c39b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) that the person has a case to answer in respect of their conduct or has no case to answer in relation to their conduct to which the investigation related;
-- (b) that disciplinary proceedings of the form specified in the recommendation are brought against that person in respect of the conduct to which the investigation related; or
-- (c) that any disciplinary proceedings brought against that person are modified so as to deal with such aspects of that conduct as may be so specified;
+(4)[^c-ce47fdc2124dc6a5d6cdf3ebb92c39b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-and it shall be the duty of the appropriate authority to notify the Director General whether it accepts the recommendation and (if it does) to set out in the notification the steps that it is proposing to take to give effect to it.
+(5)[^c-ce47fdc2124dc6a5d6cdf3ebb92c39b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) If, after the Director General has made a recommendation under this regulation, the appropriate authority does not take steps to secure that full effect is given to the recommendation—
+(6)[^c-ce47fdc2124dc6a5d6cdf3ebb92c39b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) the Director General may direct the appropriate authority to take steps for that purpose; and
-- (b) it shall be the duty of the appropriate authority to comply with the direction.
+(7)[^c-ce47fdc2124dc6a5d6cdf3ebb92c39b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) A direction under paragraph (4) may, to such extent as the Director General thinks fit, set out the steps to be taken by the appropriate authority in order to give effect to the recommendation.
+(8)[^c-ce47fdc2124dc6a5d6cdf3ebb92c39b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Where the Director General gives the appropriate authority a direction under this regulation, the Director General shall supply the appropriate authority with a statement of the Director General’s reasons for doing so.
-
-(7) Where disciplinary proceedings have been brought in accordance with a recommendation or direction under this regulation, it shall be the duty of the authority to ensure that they are proceeded with to a proper conclusion.
-
-(8) The Director General may at any time withdraw a direction given under this regulation; and paragraph (7) shall not impose any obligation in relation to any time after the withdrawal of the direction.
-
-(9) The appropriate authority shall keep the Director General informed—
-
-- (a) in a case in which this regulation applies by virtue of paragraph (1)(b), of whatever action it takes in pursuance of its duty under paragraph (2); and
-- (b) in every case of a recommendation or direction under this regulation, of whatever action it takes in response to that recommendation or direction.
+(9)[^c-74646b438fcd7828ccc3a1ba7abe6ff0] The appropriate authority must keep the Director General informed of whatever action it takes in pursuance of its duty under paragraph (2).
 
 ### 72. Complaints against a person whose identity is unascertained[^c-67ac751f3d11c9652b71a432513abd95]
 
@@ -1769,87 +2151,58 @@ and it shall be the duty of the appropriate authority to notify the Director Gen
 
 (2) Where the identity of such a person is subsequently ascertained, the Director General and the appropriate authority shall take such action in accordance with these Regulations as they see fit, regardless of any previous action taken.
 
-## PART 9 — APPEALS
+## PART 9 — REVIEWS BY THE DIRECTOR GENERAL[^c-5a5307fd7c8a7fe0321657c9f7226de4]
 
-### 73. Appeals to the Director General: failures to notify or record a complaint[^c-8f6c7f5f3c0ff5be67b0f336d1a9c555]
+### 73. Appeals to the Director General: failures to notify or record a complaint[^c-2f0463e4c6ba5dc3734f54206129c3a2]
 
-(1) An appeal under regulation 21 (failures to notify or record a complaint) against any failure referred to in regulation 21(3) shall be made within 28 days of the date on which notification of that failure is made or sent to the complainant under regulation 21(2).
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Any such appeal shall be made in writing and shall state—
+### 74. Reviews by the Director General with respect to an investigation[^c-234b4cb5d8ec24a9d0710109922bef41][^c-95d14712097699a9834758a754459cc3]
 
-- (a) details of the complaint;
-- (b) the date on which the complaint was made;
-- (c) the name of the Head of the Home Civil Service, the Chief Executive or the Commissioner (other than the Chairman, the Chief Executive and the Permanent Secretary) who gave notification of the failure;
-- (d) the grounds for the appeal; and
-- (e) the date on which the complainant was notified of the determination or of the failure to record the complaint.
+(1)[^c-dd620abd5feef95e049f23979050aa26] This regulation applies where a complaint has been subjected to an investigation by the appropriate authority on its own behalf.
 
-(3) Where the Director General receives such an appeal the Director General shall—
+(2) Where this regulation applies, the complainant has the right to apply to the Director General for a review of the outcome of the complaint.
 
-- (a) notify the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) concerned of the appeal, and
-- (b) request any information from any person which the Director General considers necessary to dispose of the appeal.
+(3) The Director General must notify the following of an application for a review under paragraph (2)—
 
-(4) Where the Director General receives an appeal which fails to comply with one or more of the requirements mentioned in paragraph (2), the Director General may decide to proceed as if those requirements had been complied with.
+- (a) the appropriate authority,
+- (b) every person entitled to be kept properly informed in relation to the complaint under regulation 55, and
+- (c) the person complained against, (if any) unless it appears to the Director General that to do so might prejudice any proposed review or re-investigation of the complaint.
 
-(5) The Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) shall supply to the Director General any information requested under paragraph (3)(b).
+(4) Where the Director General so requires on the making of an application for a review under paragraph (2), the appropriate authority must provide the Director General with—
 
-(6) The Director General shall determine the outcome of the appeal as soon as practicable.
+- (a) a copy of the report of the investigation, and
+- (b) such information concerning the authority's determinations under regulation 68 as is described in a notification given by the Director General to the authority.
 
-(7) The Director General shall notify the complainant and the Head of the Home Civil Service, the Chief Executive or the Commissioners (other than the Chairman, the Chief Executive and the Permanent Secretary) concerned of the reasons for the Director General’s determination.
+(5) On a review applied for under paragraph (2), the Director General must determine whether the outcome of the complaint is a reasonable and proportionate outcome.
 
-(8) The Director General may extend the time period mentioned in paragraph (1) in any case where the Director General is satisfied that by reason of the special circumstances of the case it is just to do so.
+(6) In making a determination under paragraph (5), the Director General may review the findings of the investigation.
 
-### 74. Appeals to the Director General with respect to an investigation[^c-234b4cb5d8ec24a9d0710109922bef41]
+(7)[^c-b2a74633e7ca546183bc3a7b51d79061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1) This regulation applies where a complaint has been subjected to—
+(8)[^c-f211ad450199d25847eb84a64caa2cfe] Where, following a review under this regulation, the Director General finds that the outcome of the investigation is not a reasonable and proportionate outcome, the Director General may—
 
-- (a) an investigation by the appropriate authority on its own behalf; or
-- (b) an investigation under the supervision of the Director General.
+- (a) make the Director General’s own findings (in place of, or in addition to, findings of the investigation);
+- (b) direct that the complaint be re-investigated;
+- (c) make a recommendation to the appropriate authority in respect of any person—
+  - (i) that the person has a case to answer in respect of their conduct or has no case to answer in relation to the person’s conduct to which the investigation related;
+  - (ii) that disciplinary proceedings are brought against the person in respect of the person’s conduct to which the investigation related;
+  - (iii) that any disciplinary proceedings brought against that person are modified so as to deal with such aspects of that conduct as may be so specified;
+- (d) make a recommendation under regulation 70B.
 
-(2) The complainant shall have the following rights of appeal to the Director General—
+(8A) Where the Director General makes a recommendation under paragraph (8)(c), the appropriate authority must notify the Director General whether it accepts the recommendation and (if it does) set out in the notification the steps that it is proposing to take to give effect to it.
 
-- (a) a right of appeal on the grounds that the complainant has not been provided with adequate information—
-  - (i) about the findings of the investigation; or
-  - (ii) about any determination of the appropriate authority relating to the taking (or not taking) of action in respect of any matters dealt with in the report on the investigation;
-- (b) a right of appeal against the findings of the investigation;
-- (c) a right of appeal against any determination by the appropriate authority that a person to whose conduct the investigation related has a case to answer in respect of that person’s conduct or has no case to answer;
-- (d) a right of appeal against any determination by the appropriate authority relating to the taking (or not taking) of action in respect of any matters dealt with in the report; and
-- (e) a right of appeal against any determination by the appropriate authority under regulation 68(2)(a) (action by the appropriate authority in response to an investigation report under regulation 66), as a result of which it is not required to send the Director of Public Prosecutions [^c-64b7d879002cac2231cfe51f80e1aea7]... a copy of the report.
+(8B) If, after the Director General has made a recommendation under paragraph (8)(c), the appropriate authority does not take steps to secure that full effect is given to that recommendation, the Director General may direct the appropriate authority to take steps for that purpose.
 
-(3) On the bringing of an appeal under this regulation, the Director General may require the appropriate authority to submit a memorandum to the Director General which—
+(8C) A direction under paragraph (8B) may, to such extent as the Director General thinks fit, set out the steps to be taken by the appropriate authority in order to give effect to the recommendation.
 
-- (a) sets out whether the appropriate authority has determined that a person to whose conduct the investigation related has a case to answer in respect of that person’s conduct or has no case to answer;
-- (b) if the appropriate authority is proposing to take any action, sets out what action it is proposing to take;
-- (c) if the appropriate authority has decided in relation to a person to whose conduct the investigation related, that disciplinary proceedings should not be brought against that person, sets out its reasons for so deciding; and
-- (d) if the appropriate authority made a determination under regulation 68(2)(a) as a result of which it is not required to send the Director of Public Prosecutions [^c-4aca3689098a91987f89f0dc3ed82151]..., a copy of the report relating to the investigation, sets out the reasons for that determination;
+(8D) Where the Director General gives the appropriate authority a direction under this regulation, the Director General must supply the appropriate authority with a statement of the Director General’s reasons for doing so.
 
-and it shall be the duty of the appropriate authority to comply with any requirement under this paragraph.
+(8E) The Director General may at any time withdraw a direction given under paragraph (8B) and thereafter regulation 71 (duties with respect to disciplinary proceedings) ceases to apply in relation to the withdrawn direction.
 
-(4) Where the Director General so requires on the bringing of any appeal under this regulation in the case of an investigation by the appropriate authority on its own behalf, the appropriate authority shall provide the Director General with a copy of the report of the investigation.
+(9)[^c-83cd13ff890b6c71bf6dcba238a5f0b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) On an appeal under this regulation, the Director General shall determine such of the following as the Director General considers appropriate in the circumstances—
-
-- (a) whether the complainant has been provided with adequate information about the matters mentioned in paragraph (2)(a);
-- (b) whether the findings of the investigation need to be reconsidered; and
-- (c) whether the appropriate authority—
-  - (i) has made such a determination as is mentioned in paragraph (3)(a) that the Director General considers to be appropriate in respect of matters dealt with in the report, and
-  - (ii) has determined that it is required to or will, in its discretion, take the action (if any) that the Director General considers to be so appropriate; and
-- (d) whether the conditions set out in regulation 68(3) and (4) are satisfied in respect of the report on the investigation.
-
-(6) Where, on an appeal under this regulation, the Director General determines that the complainant has not been provided with adequate information about any matter, the Director General shall give the appropriate authority all such directions as the Director General considers appropriate for securing that the complainant is properly informed.
-
-(7) Nothing in paragraph (6) shall authorise the Director General to require the disclosure of any information the disclosure of which to the appellant has been or is capable of being withheld by virtue of regulation 60.
-
-(8) Where, on an appeal under this regulation, the Director General determines that the findings of the investigation need to be reconsidered, the Director General shall either—
-
-- (a) review those findings without an immediate further investigation; or
-- (b) direct that the complaint be re-investigated.
-
-(9) Where, on an appeal under this regulation, the Director General determines that the appropriate authority has not made a determination as to whether there is a case for a person to whose conduct the investigation related to answer that the Director General considers appropriate or has not determined that it is required to or will, in its discretion, take the action in respect of the matters dealt with in the report that the Director General considers appropriate, the Director General shall—
-
-- (a) determine, in the light of that determination, whether or not to make recommendations under regulation 71 (duties with respect to disciplinary proceedings); and
-- (b) make such recommendations (if any) under that regulation as the Director General thinks fit.
-
-(10) Where, on an appeal under this regulation, the Director General determines that the conditions set out in regulation 68(3) and (4) are satisfied in respect of the report, the Director General shall direct the appropriate authority—
+(10) Where, following a review[^c-be4b9687c151641e294937054ed2a31f] under this regulation, the Director General determines that the conditions set out in regulation 68(3) and (4) are satisfied in respect of the report, the Director General shall direct the appropriate authority—
 
 - (a) to notify the Director of Public Prosecutions [^c-36f83296bf4397162281dd05033f8cdc]..., of the Director General’s determination; and
 - (b) to send the Director a copy of the report.
@@ -1869,43 +2222,38 @@ and it shall be the duty of the appropriate authority to comply with any require
 
 (13) It shall be the duty of the appropriate authority to comply with any directions given to it under this regulation.
 
-(14) Any appeal made by a complainant under this regulation shall be made within 28 days of the date on which the appropriate authority sends a notification to the complainant of its determination under regulation 68(12) as to what action (if any) it will take in respect of the matters dealt with in the investigation report.
+(14) Any application for a review[^c-c432066bc7740d8c7b94809d463c061d] made by a complainant under this regulation shall be made within a period of 28 days beginning with the day after the day[^c-8e269c5ef9bd183fe7f9ba6ab1fef256] on which the appropriate authority sends a notification to the complainant of its determination under regulation 68(12) as to what action (if any) it will take in respect of the matters dealt with in the investigation report.
 
-(15) Any such appeal shall be in writing and shall state—
+(15) Any such application for a review[^c-e162fc973828ff9d066f2dcc9cc99580] shall be in writing and shall state—
 
 - (a) details of the complaint;
 - (b) the date on which the complaint was made;
-- (c) the grounds for the appeal; and
+- (c) the grounds for the application for a review; and
 - (d) the date on which the complainant received notification under regulation 68(12).
 
-(16) Where the Director General receives such an appeal, the Director General shall request any information from any person which the Director General considers necessary to dispose of the appeal.
+(16)[^c-e837abc17e63e079d735d2742182637d] Where the Director General receives such an application for a review, the Director General must request any information from any person which the Director General considers necessary to dispose of the review.
 
-(17) Where the Director General receives an appeal which fails to comply with one or more of the requirements mentioned in paragraph (15), the Director General may decide to proceed as if those requirements had been complied with.
+(16A) Where the Director General makes a request for information, regulation 48A(2) (limitation on information notices) applies to that request as it applies to an information notice served under that regulation.
+
+(17) Where the Director General receives an application for a review[^c-0eab9f64abb68556f646df70e0feaa27] which fails to comply with one or more of the requirements mentioned in paragraph (15), the Director General may decide to proceed as if those requirements had been complied with.
 
 (18) The appropriate authority shall supply to the Director General any further information requested of it under paragraph (16).
 
-(19) The Director General shall determine the outcome of the appeal as soon as practicable.
+(19) The Director General shall determine the outcome of the review[^c-03d99caf25bc0cc7eee134d1378e496e] as soon as practicable.
 
 (20) The Director General shall notify the complainant and the appropriate authority of the reasons for the Director General’s determination.
 
 (21) The Director General may extend the time period mentioned in paragraph (14) in any case where the Director General is satisfied that by reason of the special circumstances of the case it is just to do so.
 
-### 75. Reviews and re-investigations following an appeal[^c-d281122a95b48890eee461f6649fea85]
+### 75. Re-investigations following a review by the Director General[^c-d281122a95b48890eee461f6649fea85][^c-956bcf30aacd9110717c25700b2681f5]
 
-(1) On a review under regulation 74(8)(a) (appeals to the Director General with respect to an investigation) of the findings of an investigation, the powers of the Director General shall be, according to the Director General’s determination on that review, to do one or more of the following—
+(1)[^c-f444f5d10024a9f238fb1e64b809e801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) to uphold the findings in whole or in part;
-- (b) to give the appropriate authority such directions as the Director General thinks fit—
-  - (i) as to the carrying out by the appropriate authority of its own review of the findings,
-  - (ii) as to the information to be provided to the complainant, and
-  - (iii) generally as to the handling of the matter in future;
-- (c) to direct that the complaint be re-investigated.
-
-(2) Where the Director General directs under regulation 74 or paragraph (1) that a complaint be re-investigated, the Director General shall make a determination of the form that the re-investigation should take.
+(2) Where the Director General directs under regulation 74 [^c-6174781a5d82084bc9b6408e6ed0f6a4]... that a complaint be re-investigated, the Director General shall make a determination of the form that the re-investigation should take.
 
 (3) Paragraphs (3) to (8) of regulation 38 (power of the Director General to determine the form of an investigation) shall apply in relation to a determination under paragraph (2) as they apply in the case of a determination under that regulation.
 
-(4) The provisions of these Regulations shall apply in relation to any re-investigation in pursuance of a direction under regulation 74(9) or paragraph (1) as they apply in relation to any investigation in pursuance of a determination under regulation 38.
+(4) The provisions of these Regulations shall apply in relation to any re-investigation in pursuance of a direction under regulation 74(8)[^c-d9d28f62e8870df855866ab2dd069e29] as they apply in relation to any investigation in pursuance of a determination under regulation 38.
 
 (5) The Director General shall give notification of any determination made by the Director General under this regulation—
 
@@ -1919,6 +2267,8 @@ and it shall be the duty of the appropriate authority to comply with any require
 - (a) to the complainant;
 - (b) to every person entitled to be kept properly informed in relation to the complaint under regulation 55; and
 - (c) except in a case where it appears to the Director General that to do so might prejudice any proposed review or re-investigation of the complaint, to the person complained against.
+
+(7)[^c-22afbaa07b8fd15b5c2808a23c53effb] Regulation 60 has effect in relation to the duties imposed by paragraphs (5) and (6) of this regulation.
 
 Michael Fabricant
 
@@ -2004,15 +2354,31 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00004]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30). The 2002 Act has been amended by a number of amendments.
 
-[^c-bf9f46c378c869f66a652c5d7c232079]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/3/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/5/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-5ccb58334c6ef26bd11a8887fce845d4]: Textual amendment: Words in reg. 3(1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/3/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
-[^c-07794d502fd57ac53cd9d2c44fab8fe5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/3/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/5/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-9c1f64c51795596ab23f51bb0dec221a]: Textual amendment: Words in reg. 3(1) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/3/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-9fd7f58fb9168690b9de25177dfcd466]: Textual amendment: Words in reg. 3(1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/3/a/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-bf9f46c378c869f66a652c5d7c232079]: Textual amendment: Words in reg. 3(1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/5/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^c-07794d502fd57ac53cd9d2c44fab8fe5]: Textual amendment: Words in reg. 3(1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/5/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^c-edb07658e921caa7c27ba1ac774a04e2]: Textual amendment: Words in reg. 3(1) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [3(a)(iv)](https://www.legislation.gov.uk/uksi/2025/703/regulation/3/a/iv) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^f00005]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 33 has been amended by sections 17(3)(b) and 101(1) of, and Schedule 4 Part II and paragraph 6 of Schedule 12 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53); sections 2(3)(a) and (b) of the Aggravated Vehicle-Taking Act [1992 (c. 11)](https://www.legislation.gov.uk/ukpga/1992/11) ; sections 165 and 168(1) of, and paragraph 65 of Schedule 9 to, the Powers of the Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6).
+
+[^c-f3ac9d00fe4d96e9aa33303197cba052]: Textual amendment: Words in reg. 3(8) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/3/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-5ed30a7ba510cd8343001676efc6ca5a]: Textual amendment: Words in Regulations substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/2/a) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
 [^c-dcbf604b35319822083cc14712417bf5]: Textual amendment: Word in Regulations omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 18(4)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/4) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^c-f705d39b2a1aead5c3f4756d4703ef95]: Textual amendment: Reg. 3(8)(b) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/3/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-98c7e15e369bc2cd00da5014b2188458]: Textual amendment: Word in reg. 3(8)(c) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [3(b)(iii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/3/b/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-666a76005ef0cd1ac5bcd0443098f0da]: Textual amendment: Word in reg. 3(8)(d) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [3(b)(iv)](https://www.legislation.gov.uk/uksi/2025/703/regulation/3/b/iv) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-83de2720193215f03341c92da55b674c]: Commencement: Reg. 4 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
@@ -2032,11 +2398,19 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00007]: Footnote: Section 22(3) has been amended by section 160 of, and paragraph 11 of Schedule 4 to, the Police and Justice Act 2006.
 
+[^c-0a7476ee5ca366cd9cf145211a0ba37a]: Textual amendment: [Reg. 5(2)(e)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/5/2/e) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^f00008]: Footnote: Section 23 has been amended by section 160 of and paragraphs 1 and 9 of Schedule 12 to the Serious Organised Crime and Police Act 2005; and section 127 of, and paragraphs 1 and 2 of Schedule 23 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 
-[^f00009]: Footnote: Section 23(2) has been amended by section 160 of, and paragraphs 1 and 9 of Schedule 12 to, the Serious Organised Crime and Police Act 2005; and section 127 of, and paragraphs 1 and 2 of Schedule 23 to, the Criminal Justice and Immigration Act 2008.
+[^c-c6547428d065f706724771cc82c61daa]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/5/3/a) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [4(b)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/4/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-8b0a3dc78d4b40b73a06e955b283466b]: Textual amendment: [Reg. 5(3)(aa)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/5/3/aa) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/4/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-afa42223d464129d3ca822cb9515136a]: Textual amendment: [Reg. 5(3)(c)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/5/3/c) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [4(b)(iii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/4/b/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^f00010]: Footnote: Section 24 has been amended by section 6(1) of, and paragraph 12 of Schedule 4 to, the Police and Justice Act 2006.
+
+[^c-4fb5ab8b704e66528c6cbd0342b56982]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/5/4/b) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/4/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-829b41e87299710d8d2e4469ec40379f]: Commencement: Reg. 6 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
@@ -2056,11 +2430,17 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c-2e49a5c6c2bad67a8a1c671d77212424]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/8/1) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(10)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/10/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
+[^c-8d747a5f40c3dc1c2f09eda0db234341]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/8/2) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/703/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-10fbf94d9cd12167ff399f245434140b]: Textual amendment: Words in Regulations substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/2/b) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
 [^c-d4e487105e3e6da6b3c225853d5e5e72]: Textual amendment: Word in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/8/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(10)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/10/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
 [^c-4372a19c5f7396eaafbca56905eb3f50]: Commencement: Reg. 9 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-8073874129c27a85f19a58e99497f9b3]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/9/2) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/6/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b60530e876670b3936666d1c0a1c267c]: Textual amendment: [Reg. 9(8A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/9/8A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/6/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-5c4bcf230e3decfa40bd1627a50b2c04]: Commencement: Reg. 10 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
@@ -2070,9 +2450,17 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c-51829420cfb59b65be84ac3f47deeb87]: Textual amendment: Word in reg. 12(4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
+[^c-9b9caa3ac345ed6ed156483ce2c91691]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/12/4) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/7/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-3232b020e242e8bdde8a13569390fc3f]: Textual amendment: [Reg. 12(5)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/12/5) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/7/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-69159a89f82cef6c1ea25a926d65d075]: Textual amendment: Word in [reg. 12(6)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/12/6) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/7/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-989d4223a7fdefc2cde816ef2f978cc4]: Commencement: Reg. 13 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-0773c623853f314260873c04a501daf8]: Commencement: Reg. 14 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-53b84f49ce761d4f362302d0dce2c5dc]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2010/1813/regulation/14A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/703/regulation/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-27ad63f361bb619017e2fdc1c8abcfe6]: Commencement: Reg. 15 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
@@ -2094,75 +2482,231 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c-548e27993b819eff37e13bb84f146dbc]: Commencement: Reg. 18 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-fbcba19cbc0148aa9da15375a21c1376]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/18/2) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/703/regulation/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-a4fb7e929f29d717ce8fc50c07cb1344]: Commencement: Reg. 19 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-45b9104d4faf2e44cc20ed990f687b0f]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/19/1)[(1A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/19/1A) substituted for [reg. 19(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/19/1) (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/10/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-9f5fc30420bc9d8b7ab97e1258d7072c]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/19/3) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/10/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-9e0fada8344adc6f910de9d47f19541c]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/19/4) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/10/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b88828c9cc5dbb5649864a6b76940143]: Textual amendment: [Reg. 19(5A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/19/5A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [10(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/10/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-bc38e09978699bb02b876a15a07e7345]: Textual amendment: [Reg. 19(6)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/19/6/a)omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [10(e)](https://www.legislation.gov.uk/uksi/2025/703/regulation/10/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-766a3241dd1f7f2bccda87d652ec1d99]: Commencement: Reg. 20 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^c-9da899b8b5f7587629d56cc6fa2d14b9]: Commencement: Reg. 21 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-dbbab1386e79dd6d16302543899a5047]: Textual amendment: Words in [reg. 20(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/20/b) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/703/regulation/11) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-d8b42a0bc43842d9b7f47987161ecfe4]: Textual amendment: Reg. 21 omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/703/regulation/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-0b863a3c1412e7bb4d187ac66e7ee2dc]: Commencement: Reg. 22 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-c951d425d11dad8575a8c856505d485e]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/22/2) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/13/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-1f111ebc505470b5926054b0e220d568]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/22/2) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/13/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-d640d8c24a99bce7617c0941e43a3190]: Commencement: Reg. 23 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-d0d42f91a482b3f3cd690f81ecdbe1a0]: Commencement: Reg. 24 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-9710b9213fe0b777aee1cde3588f674b]: Textual amendment: Words in [reg. 24(3)(c)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/24/3/c) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/14/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-e10a44aef5d7d65d540ee142540a0a12]: Textual amendment: Words in [reg. 24(3)(d)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/24/3/d) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(14)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/14) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^c-7ecd190002d142d9d105d1e0145ac09c]: Textual amendment: [Reg. 24(6)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/24/6) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/14/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-a729e134062e76e04bc081be84beeb1b]: Commencement: Reg. 25 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-6c6bc8e929610b12cf4bf8275c2ffbe8]: Commencement: Reg. 26 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-7222a8aeffc3e6b13c3df159945920ff]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2010/1813/regulation/26) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2025/703/regulation/15) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-97d94fc1fbaee6bb2216c17bd60f469e]: Commencement: Reg. 27 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-8f3a16136f04f21f3270ff1e62d43611]: Commencement: Reg. 28 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^c-b6c78709f30d32964145845e5b6b0c16]: Textual amendment: Words in [reg. 28(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/28/1/b/iv) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(14)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/14) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-057d101370c0a82922dd7353e7e4fccd]: Textual amendment: Words in reg. 28(1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(a)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-639aa2e52225e9efcb64825ffdef3e06]: Textual amendment: Words in reg. 28(1)(b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/a/ii/aa) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b7120d76fb7f40779ed08dade410ca0b]: Textual amendment: Words in reg. 28(1)(b)(iii) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/a/ii/bb) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b6c78709f30d32964145845e5b6b0c16]: Textual amendment: Words in reg. 28(1)(b)(iv) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(14)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/14) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^c-bb77af2e5b30b5a04537a7d514484b2c]: Textual amendment: Reg. 28(1)(d) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(a)(iii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/a/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-19800640a47717f0934f78d5d4f8839b]: Textual amendment: Words in reg. 28(3) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(b)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-76dbb5b9951edd54296331b2ad5af0ef]: Textual amendment: Words in reg. 28(3) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(b)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-e6fd54d4fb600187032f55a85a029084]: Textual amendment: Words in reg. 28(3) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(b)(iii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/b/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-c41a866a27eb645aeaf1ddc333b9e0b6]: Textual amendment: Words in reg. 28(4) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(c)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/c/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-285e8d53166a3a59a8866a3e0dbc10c5]: Textual amendment: Reg. 28(4)(a)(b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(c)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/c/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-ab915c4788eccf5230037355516e3690]: Textual amendment: Words in reg. 28(5)(a) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(d)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/d/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-5ebeb131396287fad96d316c19f56eca]: Textual amendment: Word in reg. 28(5) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(d)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/d/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b436f8094d1970f57ed92fe32400d8cd]: Textual amendment: Reg. 28(5)(aa) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(d)(iii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/d/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-cc4de9f798ab2e903345a1a33328a5aa]: Textual amendment: Words in reg. 28(10) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(e)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-bfc085b0a56dcf656058898517b2d2a2]: Textual amendment: Reg. 28(11) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [16(f)](https://www.legislation.gov.uk/uksi/2025/703/regulation/16/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-23bd04ce6fd1f69798760fc52e52f824]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2010/1813/regulation/28A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/703/regulation/17) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-ac605dc6cf2c1c1d70633494a8325824]: Commencement: Reg. 29 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-9a333372669eb7445a829317ecbb78b2]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/29/3) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [18(a)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/18/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-3e660d9b1ff661ae9354a4c31bd071ce]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/29/3) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [18(a)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/18/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-3848a360ecf792c4a0ce48ef301bec85]: Textual amendment: [Reg. 29(4)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/29/4/b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/18/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-3503b689638b4c7ff9171d00bfce630f]: Commencement: Reg. 30 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-c4899c7b2e3e5fa19bae7da2e1173bdc]: Textual amendment: Words in reg. 30(1) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(a)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-c207e2ed6b14f03f96b5a77e9f72b064]: Textual amendment: Reg. 30(1)(c) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(a)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-dc8463f6f42fe57f9f96010405a8929a]: Textual amendment: Words in reg. 30(2) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(b)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-702b26fc5ad822741c2d7093c6d29dd6]: Textual amendment: Words in reg. 30(2)(c) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-d2ff6404772ce7079ad73bec251d764e]: Textual amendment: Words in reg. 30(5) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(c)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/c/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-19b2b1c0a2b7429ade0a755500e98920]: Textual amendment: Reg. 30(5)(a)(b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(c)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/c/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-989a22a5072f30ab9fe562e770d184f9]: Textual amendment: Words in reg. 30(6)(a) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(d)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/d/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b5c2a4aa5468e4107f2d10830e12f989]: Textual amendment: Word in reg. 30(6) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(d)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/d/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-97ef086b25b56b573e798a7f0ba6c739]: Textual amendment: Reg. 30(6)(aa) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(d)(iii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/d/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-125784fc2b13d86a4c1cd81e20d68ce2]: Textual amendment: Words in reg. 30(10) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(e)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-1d81ee61a98ec989940ffe845c8ed65d]: Textual amendment: Reg. 30(11) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [19(f)](https://www.legislation.gov.uk/uksi/2025/703/regulation/19/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-0360a7fc7107b013860e20c4c76a418b]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2010/1813/regulation/30A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2025/703/regulation/20) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-8f21433c1fe9e5e078a1db65c8c8374b]: Commencement: Reg. 31 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-c282a0e1f61f42042a9239c66d16b877]: Textual amendment: Words in [reg. 31(3)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/31/3/b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2025/703/regulation/21) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-7ca3223c7fd5eec38fb6306d0fd6d09a]: Commencement: Reg. 32 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-13910eac263a70d716674e0a1e3fd42b]: Textual amendment: [Reg. 32(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/32/2) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2025/703/regulation/22) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-320d74e6052a75e5cbd628161e190afc]: Commencement: Reg. 33 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-2243e800aa0412894732646aa7421b13]: Commencement: Reg. 34 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-c8490ab401eb6fa4e4d224dfe49fa660]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/2010/1813/regulation/34A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2025/703/regulation/23) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-0228a7ffdc1294fc50092930583fa692]: Commencement: Reg. 35 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-206aea828b97e0419d69668f47a6c05f]: Commencement: Reg. 36 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^c-18e426ecfcfe1cdae12bba7aaa9fe77d]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(15)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/15/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-80f1ec4d893d7c70c24cf97f9de3d624]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/24/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-4b0c77888506c06771a1e887c5d54a55]: Textual amendment: [Reg. 36(2ZA)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/2ZA) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/24/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-cd77ac9db0a35e20a19a78c8a9b1e5e4]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/2A)[(2B)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/2B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(15)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/15/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^c-27422fecc486e432c93e10f1a43130ec]: Textual amendment: Words in [reg. 36(5)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/5/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(15)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/15/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-0d982c881521b6781aadbdcfcd58ace1]: Textual amendment: Words in [reg. 36(2A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/2A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [24(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/24/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-96443a037036540d25ee467680c95298]: Textual amendment: Words in [reg. 36(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/3) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/24/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-2eb6280daf151f43f7f05285e000eb92]: Textual amendment: Words in [reg. 36(5)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/5/a) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [24(e)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/24/e/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-27422fecc486e432c93e10f1a43130ec]: Textual amendment: Word in [reg. 36(5)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/5/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(15)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/15/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^c-ed4df1c84e1327fe5e06c6784ad63070]: Textual amendment: Words in [reg. 36(5)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/36/5) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [24(e)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/24/e/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-c64d4558b078652ef246dec390080355]: Commencement: Reg. 37 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-dcbddcee5e8a977a4663418f5eae0c95]: Textual amendment: Word in reg. 37(2)(b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/25/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-3ff882ebefc5def9160b0403c2ce3637]: Textual amendment: Reg. 37(2)(c) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/25/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-c248adf7743e580121c414b9abf94bf3]: Commencement: Reg. 38 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-eb1ebc8961952cfd29665112ab836c4d]: Textual amendment: [Reg. 38(4)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/4/b) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [26(a)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/26/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-8910494950f3c49240a46f989a41c481]: Textual amendment: [Reg. 38(4)(c)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/4/c) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [26(a)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/26/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-d949e48852c0d603f504bf1997db8d80]: Textual amendment: Word in [reg. 38(4)(d)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/4/d) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [26(a)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/26/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-4bdcc8694cd6ab2a9fda3a2784589248]: Textual amendment: Word in [reg. 38(4)(e)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/4/e) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [26(a)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/26/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-343a07946113d833a1fefdcc8d1be85d]: Textual amendment: [Reg. 38(4A)-(4G)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/4A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/26/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-71378cf3aa1ac99995bcd315ed24f6db]: Textual amendment: Word in [reg. 38(5)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/5) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [26(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/26/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-0f693de08f96e95d6ddaa49a00690660]: Textual amendment: [Reg. 38(6)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/6) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [26(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/26/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-d9e88a288ef230a0b266a8720a6259ac]: Textual amendment: Words in [reg. 38(9)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/9) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [26(e)](https://www.legislation.gov.uk/uksi/2025/703/regulation/26/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-f7e7741a13b41258e2ec565bdb25fc05]: Textual amendment: [Reg. 38(10)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/10)[(11)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/38/11) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [26(f)](https://www.legislation.gov.uk/uksi/2025/703/regulation/26/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-37732595dc6cf247651c950dfc8d4990]: Commencement: Reg. 39 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^c-f300a5d2ec749184e3e35f4f7f193930]: Commencement: Reg. 40 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-614b1d9363e413ea338fa4d832422a54]: Textual amendment: Word in [reg. 39](https://www.legislation.gov.uk/uksi/2010/1813/regulation/39) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2025/703/regulation/27) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
-[^c-3b2355261a37e034134cd13e2b3a8b94]: Textual amendment: Words in [reg. 40(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/40/2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 31](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/31)
+[^c-95a7c53cfefec1d4c372e2de719fff5c]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/uksi/2010/1813/regulation/39A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/703/regulation/28) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-667bd30b2d8a3de0d2b0a39b3a29d04a]: Textual amendment: Reg. 40 omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2025/703/regulation/29) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-6e88c505ca933a77bfa7e1912f76bcc7]: Commencement: Reg. 41 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^c-74eec92471148d66244d2cccf9c32961]: Commencement: Reg. 42 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-3417c64fd3ac4374425e0c5504dad102]: Textual amendment: Word in [reg. 41(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/41/2) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [30(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/30/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-6b5ac684a050c62f401cd8c4dbfb208c]: Textual amendment: Word in [reg. 41(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/41/3) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [30(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/30/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-85b970bdaaacbade3ebd2f30b164aad6]: Textual amendment: Reg. 42 omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/703/regulation/31) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-0f0f689d9d0dd7eea105ed40a2b8581e]: Commencement: Reg. 43 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-2edd6e7aa937dc31b2ffd8a739bbb43c]: Textual amendment: [Reg. 43(3)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/43/3/b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [32(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/32/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-2e675e55c41a93c1c4465732b459ad71]: Textual amendment: Words in [reg. 43(8)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/43/8/b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [32(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/32/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-16613697e1cf165d65833957eb9fb386]: Textual amendment: Words in [reg. 43(10)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/43/10/b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [32(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/32/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-3de67261c5a36a40a6fb4ae6b9f4cf71]: Commencement: Reg. 44 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^c-9adafd1e904d1d05a970bc0441225d24]: Commencement: Reg. 45 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-33adf72f650973435a4fadffdca77036]: Textual amendment: Words in [reg. 44(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/44/3) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2025/703/regulation/33) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-34f823627d6e16b91ab17583d60b2825]: Textual amendment: Reg. 45 omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2025/703/regulation/34) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-91adc000743cb4475f60869677bf9065]: Commencement: Reg. 46 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-bda3f4f4cf56acee9f0a671a402d8523]: Textual amendment: Word in [reg. 46](https://www.legislation.gov.uk/uksi/2010/1813/regulation/46) heading substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [35(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/35/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-4a676b5deeb532f199a8f839f1f99198]: Textual amendment: Word in [reg. 46(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/46/1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [35(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/35/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-1f0ae221f45246524651092c48bea604]: Textual amendment: Words in [reg. 46(5)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/46/5) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [35(c)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/35/c/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-841ab6170d7e92a4421cbc870f055499]: Textual amendment: Word in [reg. 46(5)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/46/5) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [35(c)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/35/c/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-4e2181c6c1d7218c355a3de316f61020]: Textual amendment: Words in [reg. 46(7)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/46/7) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [35(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/35/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-15667788129431af8c98c5c0d0038140]: Textual amendment: [Reg. 46(9)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/46/9) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [35(e)](https://www.legislation.gov.uk/uksi/2025/703/regulation/35/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-02330acc9f391c0efcf7a52a22967ddf]: Commencement: Reg. 47 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-03636170c35ba8351d362ed82ed894bb]: Textual amendment: Word in [reg. 47](https://www.legislation.gov.uk/uksi/2010/1813/regulation/47) heading substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/36/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-201d43df56fd2365ce0e71e0f384cf6f]: Textual amendment: Word in [reg. 47(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/47/1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [36(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/36/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-f92e9252db883dc5edb926a04064dc10]: Textual amendment: [Reg. 47(2)-(2D)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/47/2) substituted for [reg. 47(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/47/2) (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [36(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/36/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-352b12bcef3098ea158cc8d316f577bd]: Textual amendment: [Reg. 47(4)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/47/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/47/5) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [36(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/36/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-b4adf1bb28462097e59fc2937438f445]: Commencement: Reg. 48 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
@@ -2178,15 +2722,27 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00013]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18). Section 200 has been amended by section 37(2) of, and Schedule 8 to, the 2002 Act.
 
+[^c-b6980cce99f491a3b4d0eae6018ecb1a]: Textual amendment: [Regs. 48A-48C](https://www.legislation.gov.uk/uksi/2010/1813/regulation/48A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2025/703/regulation/37) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-0c123950a01a7c9004646a27775a52f6]: Commencement: Reg. 49 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-fe85216a18c319255b81ef0fe119e224]: Textual amendment: Word in [reg. 49](https://www.legislation.gov.uk/uksi/2010/1813/regulation/49) heading substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [38(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/38/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-6cb34b8816a53de773c1a6299496cf2d]: Textual amendment: [Reg. 49(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/49/1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [38(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/38/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-6838cefc7e8ea6b484f48496fff02d6e]: Commencement: Reg. 50 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^c-22499b233f8197f2c76b0ae2e682ae62]: Commencement: Reg. 51 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-15c16e112b13866fe31e11fd61e80daf]: Textual amendment: Word in [reg. 50(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/50/2) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/39/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-c383e8210da60b33e11eaf8861d9e948]: Textual amendment: Words in [reg. 50(6)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/50/6) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/39/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-8192aa50a584c4d439582f2e0b99b355]: Textual amendment: Reg. 51 substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2025/703/regulation/40) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-fe1ee38984a3411e256890e2fb5c2af6]: Commencement: Reg. 52 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-53cf50891578947c78536ef416d50deb]: Textual amendment: Words in [reg. 52(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/52/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(17)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/17) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^c-6dd0611653562333885ffaf0aa7684af]: Textual amendment: [Reg. 52(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/52/2) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2025/703/regulation/41) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-b5d3e16538b2c1a34bb51433f5a44fb2]: Textual amendment: Words in [reg. 52(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/52/3) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/32)
 
@@ -2194,13 +2750,37 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c-9c4952c10aa07a02988848d880be45a7]: Commencement: Reg. 54 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-644086f13e1ff3d16ef9ead1c551b108]: Textual amendment: Word in [reg. 54(1)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/54/1/b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [42(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/42/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-a61c1ef33246144b39867957fe347ae1]: Textual amendment: Word in [reg. 54(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/54/2) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [42(b)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/42/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b12ca974386a1eda3b70fbb6ff568d45]: Textual amendment: [Reg. 54(2)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/54/2/b) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [42(b)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/42/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-34464e7cc738870f89cddbac78bbb1aa]: Textual amendment: Words in [reg. 54(4)(c)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/54/4/c) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [42(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/42/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-d7b53d22ff793663ddb5165cb70f8074]: Textual amendment: Words in [reg. 54(5)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/54/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(18)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/18) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
 [^c-d082100c6a5e61e8baf2ceca2097a93b]: Commencement: Reg. 55 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-34027488461972998c1fdb418865a69d]: Textual amendment: Word in [reg. 55(7)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/55/7/b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/43/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-cd3f6281f66fa7c394a931ca4a9c9a34]: Textual amendment: Word in [reg. 55(8)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/55/8) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [43(b)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/43/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-fe7122f3e9b5a0174c1cf8ce845e0723]: Textual amendment: [Reg. 55(8)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/55/8/b) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [43(b)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/43/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-01aef1a7ecdbc11974e9f3d29cc5745c]: Commencement: Reg. 56 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-9e94d08c63059625cc16140625021ca3]: Textual amendment: Words in [reg. 56(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/56/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(19)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/19) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^c-adf9f371fe8f8f38069cbe5225992b55]: Textual amendment: Words in [reg. 56(2)(c)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/56/2/c) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/44/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-5a3bc749623b5afdea1589a4e1fa0180]: Textual amendment: [Reg. 56(2A)-(2C)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/56/2A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [44(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/44/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-18faf62bf269cc99631a8a1e2e5d66c6]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/56/3) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [44(c)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/44/c/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-17bb979a0082af9e824099518fbbeb9c]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/56/3) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [44(c)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/44/c/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-572938aab45143f8cec448a4693ff88e]: Textual amendment: [Reg. 56(3A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/56/3A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [44(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/44/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-27a90abdf22d8ce421e09a369633ce81]: Commencement: Reg. 57 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
@@ -2208,19 +2788,55 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c-5ee088b73ccf3441fed803c64a60af41]: Commencement: Reg. 59 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-b261f310d24e5036ac0b6335fa9e30c2]: Textual amendment: Word in [reg. 59(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/59/2) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [45(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/45/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-88ab789e403e16d9131e72eeb6e74ea1]: Textual amendment: [Reg. 59(8)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/59/8) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [45(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/45/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-1de54a68fd5b12ebc76eaa4d003af8e1]: Commencement: Reg. 60 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-b901822d7e197c87c74a5d17c504922b]: Textual amendment: Words in [reg. 60(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/60/1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [46(a)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/46/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-07ac0bcf196bd3aabfb1a86badab1792]: Textual amendment: Words in [reg. 60(1)(c)(i)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/60/1/c/i) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [46(a)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/46/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-a3649f8b3401815c0d47b1eece8918fb]: Textual amendment: [Reg. 60(1A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/60/1A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [46(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/46/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-70d6f7a05643e21a870c550adce10343]: Textual amendment: Words in [reg. 60(5)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/60/5/a) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [46(c)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/46/c/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-fd4f5fdc9b87f9b67fa431ea5e92f7be]: Textual amendment: Words in [reg. 60(5)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/60/5/b) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [46(c)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/46/c/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-49efcfb831ecd9b282ded023a6804a04]: Commencement: Reg. 61 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-4a3192f118123fb5fd5b8cfddf62b53d]: Textual amendment: Words in [reg. 61(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/61/1) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [47](https://www.legislation.gov.uk/uksi/2025/703/regulation/47) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-60bfd61f87432f79e358d8e5d00df61c]: Commencement: Reg. 62 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-734f538776e5e7a154667fc13eba87c0]: Textual amendment: Words in [reg. 62(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/62/1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [48(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/48/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-058be47c0f5bbecf50bc92df6b338cf8]: Textual amendment: Words in [reg. 62(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/62/1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [48(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/48/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-b1f40e6f337b9aa8c161869ad22b980d]: Commencement: Reg. 63 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-055a5eb6a52e8726bc594b614bfa3a53]: Textual amendment: [Reg. 63(1)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/63/1/a) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [49(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/49/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-c3b4bec0f5ca7bd24d21d48c7e1cd46c]: Textual amendment: Words in [reg. 63(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/63/2) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [49(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/49/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-5ea4abcc731b349a7971a24c5a75075c]: Textual amendment: Word in [reg. 63(2)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/63/2/a) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [49(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/49/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-eac5c86250e9e198e1afa05b822f7c74]: Textual amendment: Word in [reg. 63(3)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/63/3/a) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [49(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/49/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-18c83703e5d6c93a7b0160c4fe054787]: Commencement: Reg. 64 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-b4e7da31ff7b2773c0e3449652476966]: Textual amendment: [Reg. 64(2)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/64/2/a)[(aa)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/64/2/aa) substituted for [reg. 64(2)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/64/2/a) (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [50](https://www.legislation.gov.uk/uksi/2025/703/regulation/50) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-797b873f2c4cb5b843c913abdb92223d]: Commencement: Reg. 65 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-3bd4b485b6dfb7e107e3c89607f98ea2]: Commencement: Reg. 66 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-4957688fc2dd39133750096afc09c388]: Textual amendment: Words in [reg. 66(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/66/3) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [51(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/51/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-d44dc40738c940ec8627695b8577c854]: Textual amendment: Word in [reg. 66(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/66/3) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [51(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/51/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-1dff8c0de1e7632abc171c12c5edb293]: Textual amendment: Word in [reg. 66(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/66/3) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [51(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/51/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-6876069c2aae12cabd16a967f681fcd5]: Textual amendment: [Reg. 66(5)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/66/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(20)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/20/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
@@ -2230,11 +2846,17 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c-180afd99fbd211b53964177a22ed2ec2]: Commencement: Reg. 67 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
+[^c-9f33b2b3e057410a659f294fcca507e5]: Textual amendment: Word in [reg. 67(1)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/1/a) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-23c73dbefb8f932f4d615c7514ec5566]: Textual amendment: Words in [reg. 67(1)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(21)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/21/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^c-c193874ba16e86cb9c5e66ae9b6f6f44]: Textual amendment: [Reg. 67(1A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/1A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-c3e41b8233a0a22ce5ae208c2fda7309]: Textual amendment: Words in [reg. 67(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(21)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/21/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
 [^c-ecd07fc903e668612bd19835cd2bb522]: Textual amendment: Words in [reg. 67(2)(c)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/2/c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 33(2)](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/33/2)
+
+[^c-f521907a235c53aa1aa3f72267fea0d7]: Textual amendment: [Reg. 67(2A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/2A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-554019927491bcae86654c66eaf34d71]: Textual amendment: Words in [reg. 67(4)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/4) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 33(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/33/3)
 
@@ -2242,7 +2864,27 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c-1c806b867a5079ebd2d9f03589e7f038]: Textual amendment: Words in [reg. 67(6)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/6) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 33(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/33/3)
 
+[^c-5fddd58e6021495e9b5fc16ef119dac8]: Textual amendment: [Reg. 67(8)-(8B)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/8) substituted for [reg. 67(8)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/8) (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-f1719bedb3d689099d94115f0e003b17]: Textual amendment: [Reg. 67(9)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/9)[(9A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/9A) substituted for [reg. 67(9)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/9) (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(e)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b130a1bc61f6c09e04f650e6aac94ddd]: Textual amendment: [Reg. 67(10)-(10I)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/10) substituted for [reg. 67(10)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/10) (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(f)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-cee8d3d7fe3acf706ad5a3ad84a16d3b]: Textual amendment: Words in [reg. 67(11)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/11) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(g)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/g) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-09f48a38d5500db19a841a3cf517e276]: Textual amendment: Words in [reg. 67(12)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/12/b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(h)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/h/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-847dfcc9d32855b1bba41a23f60d3144]: Textual amendment: Word in [reg. 67(12)(c)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/12/c) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(h)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/h/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-6091e659a4a996237e1af8d1f01f15b4]: Textual amendment: [Reg. 67(12A)-(12D)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/67/12A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [52(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/52/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-d2f7b8d5003e88a91c1888af6fcb18e2]: Commencement: Reg. 68 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-6b2d0aca91b4cf0b89556db29ec7b67a]: Textual amendment: Word in [reg. 68(1)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/1/a) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(a)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-07884e306c6e6ffeac790535c6113d4d]: Textual amendment: [Reg. 68(1)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/1/b) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(a)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-627aa6fbb04b81387bdba0b131268870]: Textual amendment: Words in [reg. 68(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/2) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-d1b1dcc4911dcf4d791f8340ec5889a1]: Textual amendment: Words in [reg. 68(2)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/2/b) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/34)
 
@@ -2250,9 +2892,19 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c-abf1266e2f0d8a4a896d448d005fed2b]: Textual amendment: Words in [reg. 68(5)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/5) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/34)
 
-[^c-3c19f8cf8c5a8dea57589ef25899c488]: Textual amendment: Words in [reg. 68(6)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/6) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/34)
+[^c-da145f8336e595d76fc5c06333a61405]: Textual amendment: [Reg. 68(6)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/6) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
-[^c-4961f624a83f1ce591849107e86bb59d]: Textual amendment: Words in [reg. 68(9)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/9/b) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/34)
+[^c-2011a8fb509fd6e4c9d30df582e2e9f8]: Textual amendment: [Reg. 68(8)-(10)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/8) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-c420069e334be39754595debec55d611]: Textual amendment: Words in [reg. 68(11)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/11) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(e)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/e/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-66d66819b7906e5c1858e9af22121a53]: Textual amendment: [Reg. 68(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/11/a/ii) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(e)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/e/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-8d3c4ca9f7df0f0957a802f43c3749ad]: Textual amendment: Words in [reg. 68(11)(b)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/11/b) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(e)(iii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/e/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-7c56c06ede3f4916de127217af8d0a5d]: Textual amendment: [Reg. 68(13)(c)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/13/c) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(f)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-03c7aef3612cab66e4ede5493ebcb6de]: Textual amendment: [Reg. 68(13A)-(13D)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/68/13A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [53(g)](https://www.legislation.gov.uk/uksi/2025/703/regulation/53/g) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-54f5c8266d858d0ff2e12cc20ec51bab]: Commencement: Reg. 69 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
@@ -2260,22 +2912,68 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^c-7f5c4133c98d3659eeea2b48c57a0b96]: Textual amendment: Words in [reg. 69(3)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/69/3) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(22)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/22/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
+[^c-becfcd0bbb1ca525809b6ebd284d91b3]: Textual amendment: [Reg. 69(4)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/69/4) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2025/703/regulation/54) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-c03129534cd7cafe583b57dd6dd3ef8e]: Commencement: Reg. 70 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
 [^c-8373ec883d9d40158e8fbc82a2b36c33]: Textual amendment: Words in [reg. 70(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/70/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [18(23)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/18/23) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
+[^c-c15a6e68411a55acd757f61904284682]: Textual amendment: [Regs. 70A-70D](https://www.legislation.gov.uk/uksi/2010/1813/regulation/70A) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [55](https://www.legislation.gov.uk/uksi/2025/703/regulation/55) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-c663974c09296fe7edec929b4bb35402]: Commencement: Reg. 71 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-d81add02ea57bcc83feb5330252cb8f9]: Textual amendment: [Reg. 71(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/71/1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [56(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/56/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b0efc13654b53aea9d762e0c9596ebf3]: Textual amendment: Words in [reg. 71(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/71/2) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [56(b)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/56/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-844f9c3fc7c97c697f8b1fa41ddc65c9]: Textual amendment: [Reg. 71(2)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/71/2/a) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [56(b)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/56/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-ce47fdc2124dc6a5d6cdf3ebb92c39b0]: Textual amendment: [Reg. 71(3)-(8)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/71/3) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [56(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/56/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-74646b438fcd7828ccc3a1ba7abe6ff0]: Textual amendment: [Reg. 71(9)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/71/9) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [56(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/56/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-67ac751f3d11c9652b71a432513abd95]: Commencement: Reg. 72 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^c-8f6c7f5f3c0ff5be67b0f336d1a9c555]: Commencement: Reg. 73 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+[^c-5a5307fd7c8a7fe0321657c9f7226de4]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2010/1813/part/9) heading substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [57](https://www.legislation.gov.uk/uksi/2025/703/regulation/57) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-2f0463e4c6ba5dc3734f54206129c3a2]: Textual amendment: Reg. 73 omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [58](https://www.legislation.gov.uk/uksi/2025/703/regulation/58) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-234b4cb5d8ec24a9d0710109922bef41]: Commencement: Reg. 74 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
 
-[^c-64b7d879002cac2231cfe51f80e1aea7]: Textual amendment: Words in [reg. 74(2)(e)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/2/e) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/35)
+[^c-95d14712097699a9834758a754459cc3]: Textual amendment: Words in [reg. 74](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74) heading substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
-[^c-4aca3689098a91987f89f0dc3ed82151]: Textual amendment: Words in [reg. 74(3)(d)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/3/d) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/35)
+[^c-dd620abd5feef95e049f23979050aa26]: Textual amendment: [Reg. 74(1)-(6)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/1) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-b2a74633e7ca546183bc3a7b51d79061]: Textual amendment: [Reg. 74(7)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/7) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-f211ad450199d25847eb84a64caa2cfe]: Textual amendment: [Reg. 74(8)-(8E)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/8) substituted for [reg. 74(8)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/8) (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-83cd13ff890b6c71bf6dcba238a5f0b1]: Textual amendment: [Reg. 74(9)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/9) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(e)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-be4b9687c151641e294937054ed2a31f]: Textual amendment: Words in [reg. 74(10)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/10) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(f)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
 
 [^c-36f83296bf4397162281dd05033f8cdc]: Textual amendment: Words in [reg. 74(10)(a)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/10/a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/35)
 
+[^c-c432066bc7740d8c7b94809d463c061d]: Textual amendment: Words in [reg. 74(14)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/14) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(g)(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/g/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-8e269c5ef9bd183fe7f9ba6ab1fef256]: Textual amendment: Words in [reg. 74(14)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/14) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(g)(ii)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/g/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-e162fc973828ff9d066f2dcc9cc99580]: Textual amendment: Words in [reg. 74(15)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/15) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(h)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/h) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-e837abc17e63e079d735d2742182637d]: Textual amendment: [Reg. 74(16)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/16)[(16A)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/16A) substituted for [reg. 74(16)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/16) (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(i)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-0eab9f64abb68556f646df70e0feaa27]: Textual amendment: Words in [reg. 74(17)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/17) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(j)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/j) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-03d99caf25bc0cc7eee134d1378e496e]: Textual amendment: Word in [reg. 74(19)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/74/19) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [59(k)](https://www.legislation.gov.uk/uksi/2025/703/regulation/59/k) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
 [^c-d281122a95b48890eee461f6649fea85]: Commencement: Reg. 75 in force at 5.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1813/regulation/1)
+
+[^c-956bcf30aacd9110717c25700b2681f5]: Textual amendment: [Reg. 75](https://www.legislation.gov.uk/uksi/2010/1813/regulation/75) heading substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [60(a)](https://www.legislation.gov.uk/uksi/2025/703/regulation/60/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-f444f5d10024a9f238fb1e64b809e801]: Textual amendment: [Reg. 75(1)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/75/1) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [60(b)](https://www.legislation.gov.uk/uksi/2025/703/regulation/60/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-6174781a5d82084bc9b6408e6ed0f6a4]: Textual amendment: Words in [reg. 75(2)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/75/2) omitted (11.7.2025) by virtue of [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [60(c)](https://www.legislation.gov.uk/uksi/2025/703/regulation/60/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-d9d28f62e8870df855866ab2dd069e29]: Textual amendment: Word in [reg. 75(4)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/75/4) substituted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [60(d)](https://www.legislation.gov.uk/uksi/2025/703/regulation/60/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))
+
+[^c-22afbaa07b8fd15b5c2808a23c53effb]: Textual amendment: [Reg. 75(7)](https://www.legislation.gov.uk/uksi/2010/1813/regulation/75/7) inserted (11.7.2025) by [The Revenue and Customs (Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/703)](https://www.legislation.gov.uk/uksi/2025/703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/2), [60(e)](https://www.legislation.gov.uk/uksi/2025/703/regulation/60/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/703/regulation/1/3))

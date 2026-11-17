@@ -2,8 +2,8 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 6
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: '6'
-status: not-yet-in-force
-text_date: '1995-12-06'
+status: repealed
+text_date: '2013-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/section/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,35 +12,20 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 6
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Reporting of gas incidents[^c-21eb7506ffd6710eb6da65f3e62e7d4c]
+## 6. Reporting of gas incidents[^c-47ca94b4421cdc529dd234476ba7293b]
 
 *Extent: E+W+S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Whenever a conveyor of flammable gas through a fixed pipe distribution system, or a filler, importer or supplier (other than by means of retail trade) of a refillable container containing liquefied petroleum gas receives notification of any death or any major injury which has arisen out of or in connection with the gas distributed, filled, imported or supplied, as the case may be, by that person, he shall forthwith notify the Executive of the incident, and shall within 14 days send a report of it to the Executive on a form approved for the purposes of this regulation.
-
-(2) Whenever an employer or self-employed person who is a member of a class of persons approved by the Executive for the purposes of paragraph (3) of regulation 3 of the Gas Safety (Installation and Use) Regulations 1994[^f00017] has in his possession sufficient information for it to be reasonable for him to decide that a gas fitting as defined in the said Regulations or any flue or ventilation used in connection with that fitting, by reason of its design, construction, manner of installation, modification or servicing, is or has been likely to cause death, or any major injury by reason of—
-
-- (a) accidental leakage of gas;
-- (b) inadequate combustion of gas; or
-- (c) inadequate removal of the products of combustion of gas,
-
-he shall within 14 days send a report of it to the Executive on a form approved for the purposes of this regulation, unless he has previously reported such information.
-
-(3) Nothing shall be reportable—
-
-- (a) under this regulation if it is notifiable or reportable elsewhere in these Regulations;
-- (b) under paragraph (2) in relation to any gas fitting, flue or ventilation undergoing testing or examination at a place set aside for that purpose.
-
-(4) In this regulation “liquefied petroleum gas” means commercial butane (that is, a hydrocarbon mixture consisting predominantly of butane, butylene or any mixture thereof) or commercial propane (that is, a hydrocarbon mixture consisting predominantly of propane, propylene or any mixture thereof) or any mixture of commercial butane and commercial propane.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-21eb7506ffd6710eb6da65f3e62e7d4c]: Commencement: Reg. 6 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+[^c-47ca94b4421cdc529dd234476ba7293b]: Textual amendment: Regulations revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [Sch. 4 Table 1](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
 
-[^f00017]: Footnote: [S.I. 1994/1886](https://www.legislation.gov.uk/uksi/1994/1886).
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

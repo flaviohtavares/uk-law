@@ -6,17 +6,17 @@ Laws in force under the legislation.gov.uk subject heading **HEALTH AND SAFETY**
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Health and Safety at Work etc. Act 1974](../uk-parliament/acts/public/1974/37-health-and-safety-at-work-etc-act-1974/README.md) *(changes pending)* — 273 regulations on this topic made under it
+- [Health and Safety at Work etc. Act 1974](../uk-parliament/acts/public/1974/37-health-and-safety-at-work-etc-act-1974/README.md) *(changes pending)* — 272 regulations on this topic made under it
 - [Health and Safety at Work (Northern Ireland) Order 1978](../northern-ireland/orders-in-council/1978/1039-health-and-safety-at-work-northern-ireland-order-1978/README.md) — 134 regulations on this topic made under it
 - [The Offshore, and Pipelines, Safety (Northern Ireland) Order 1992](../northern-ireland/orders-in-council/1992/1728-the-offshore-and-pipelines-safety-northern-ireland-order-1992.md) *(changes pending)* — 10 regulations on this topic made under it
-- [Offshore Safety Act 1992](../uk-parliament/acts/public/1992/15-offshore-safety-act-1992.md) — 7 regulations on this topic made under it
+- [Offshore Safety Act 1992](../uk-parliament/acts/public/1992/15-offshore-safety-act-1992.md) — 6 regulations on this topic made under it
 - [Poisons Act 1972](../uk-parliament/acts/public/1972/66-poisons-act-1972.md) — 4 regulations on this topic made under it
 - [Activity Centres (Young Persons’ Safety) Act 1995](../uk-parliament/acts/public/1995/15-activity-centres-young-persons-safety-act-1995.md) — 3 regulations on this topic made under it
 - [Product Regulation and Metrology Act 2025](../uk-parliament/acts/public/2025/20-product-regulation-and-metrology-act-2025.md) — 3 regulations on this topic made under it
 
 ## Regulations
 
-614 in force.
+613 in force.
 
 **2026**
 
@@ -562,7 +562,6 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995](../uk-parliament/regulations/1995/0500-0999/743-the-offshore-installations-prevention-of-fire-and-explosion-and-emergency-respon.md)
 - [The Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995](../uk-parliament/regulations/1995/0500-0999/738-the-offshore-installations-and-pipeline-works-management-and-administration-regu.md)
 - [The Quarries Miscellaneous Health and Safety Provisions Regulations 1995](../uk-parliament/regulations/1995/2000-2499/2036-the-quarries-miscellaneous-health-and-safety-provisions-regulations-1995.md) *(as originally made)*
-- [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995](../uk-parliament/regulations/1995/3000-3499/3163-the-reporting-of-injuries-diseases-and-dangerous-occurrences-regulations-1995/README.md) *(changes pending)*
 
 **1994**
 

@@ -3,7 +3,7 @@ title: The Global Human Rights and International Humanitarian Law Sanctions Regu
 id: uksi/2026/1071
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2026-10-12'
 text_date: '2026-10-15'
 extent: E+W+S+N.I.
@@ -12,7 +12,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/2026/1071/pdfs/uksiem_20261071_en_001.pdf
 - http://www.legislation.gov.uk/uksi/2026/1071/pdfs/uksi_20261071_en.pdf
 - http://www.legislation.gov.uk/uksi/2026/1071/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/uksi/2026/1071
+> Text as at 2026-10-15.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -46,7 +46,7 @@ Coming into force
 
 15th October 2026
 
-The Secretary of State[^f00001] makes these Regulations in exercise of the powers conferred by section 1(1)(c) and (3)(b), 3(1)(a) and (d)(i), 3A, 4, 9(2)(a), 10(2) to (4), 11(1A) to (9), 12(1A) to (9), 15(2)(a) and (b), (3), (3A), (3B), (4)(b), (5) and (6), 16, 17(2) to (5) and (8), 21(1), 45(1)(a), 54(1) and (2), and 62(4) and (5) of the Sanctions and Anti-Money Laundering Act 2018[^f00002].
+The Secretary of State[^f00001] makes these Regulations in exercise of the powers conferred by section 1(1)(c) and (3)(b), 3(1)(a) and (d)(i), 3A, 4, 9(2)(a), 10(2) to (4), 11(1A) to (9), 12(1A) to (9), 15(2)(a) and (b), (3), (3A), (3B), (4)(b), (5) and (6), 16, 17(2) to (5) and (8), 21(1), 45(1)(a), 54(1) and (2), and 62(4) and (5) of the Sanctions and Anti-Money Laundering Act 2018[^f00002].[^c-61094fbce5326d44a25892fcf14bba16]
 
 ## Part 1 — General
 
@@ -1607,6 +1607,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 [^f00001]: Footnote: The power to make regulations under Part 1 of the Sanctions and Anti-Money Laundering Act [2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13) is conferred on an “appropriate Minister”. Section 1(9)(a) of that Act defines an “appropriate Minister” as including the Secretary of State.
 
 [^f00002]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13). Section 17(5)(b)(i) (enforcement) is amended by the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), Schedule 24, paragraph 443(1). Sections 1, 11 and 16 are amended by the Economic Crime (Transparency and Enforcement) Act [2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), sections 57, 58, 59 and 65. Section 3A and 15(3A) and (3B) were inserted by the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), section 35(3) and is in force only for the limited purpose of conferring power to make regulations.
+
+[^c-61094fbce5326d44a25892fcf14bba16]: Modification: Regulations extended (British territories) (with modifications) (15.10.2026) by [The Global Human Rights and International Humanitarian Law Sanctions (Overseas Territories) Order 2026 (S.I. 2026/1089)](https://www.legislation.gov.uk/uksi/2026/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1089/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/1089/regulation/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2026/1089/schedule/1), [2](https://www.legislation.gov.uk/uksi/2026/1089/schedule/2)
 
 [^c-30f58e8fa85c8a4acb5610a1a2b99e25]: Commencement: Reg. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 

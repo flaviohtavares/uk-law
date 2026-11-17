@@ -3,14 +3,14 @@ title: Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 1996
 id: nisr/1996/311
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-23'
-text_date: null
-extent: null
+text_date: '1996-07-23'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/311
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/311/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/311/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 1996-07-23. See https://www.legislation.gov.uk/changes/affected/nisr/1996/311
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 311
 
@@ -36,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture in exercise of the powers conferred on it by sections 1(1) and 2[^f00001] of the Seeds Act (Northern Ireland) 1965[^f00002] and of every other power enabling it in that behalf, after consultation with representatives of such interests as appear to it to be concerned, hereby makes the following Regulations:—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-9ea536280120c3f6373674f9dcd2f017]
 
 These Regulations may be cited as the Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 23rd August 1996.
 
-## 2. Amendment of the Fodder Plant Seeds Regulations (Northern Ireland) 1994
+## 2. Amendment of the Fodder Plant Seeds Regulations (Northern Ireland) 1994[^c-01f5632f022ef5ed522053e2dd2d94ad]
 
 For sub-paragraph (*a*) of Part II of Schedule 5 (maximum weight of a seed lot and minimum weight of a submitted sample) to the Fodder Plant Seeds Regulations (Northern Ireland) 1994[^f00003] there shall be substituted the following sub-paragraph—
 
@@ -65,5 +71,9 @@ These Regulations, which come into operation on 23rd August 1996, amend the Fodd
 [^f00001]: Footnote: As amended by [1970 c. 20 (N.I.)](https://www.legislation.gov.uk/apni/1970/20) section 10(2)
 
 [^f00002]: Footnote: [1965 c. 22 (N.I.)](https://www.legislation.gov.uk/apni/1965/22)
+
+[^c-9ea536280120c3f6373674f9dcd2f017]: Commencement: Reg. 1 in operation at 23.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/311/regulation/1)
+
+[^c-01f5632f022ef5ed522053e2dd2d94ad]: Commencement: Reg. 2 in operation at 23.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/311/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1994 No. 252](https://www.legislation.gov.uk/nisr/1994/252)

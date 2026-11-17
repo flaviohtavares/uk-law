@@ -3,15 +3,15 @@ title: The Highways (Road Humps) Regulations 1999
 id: uksi/1999/1025
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1999-03-30'
-text_date: '1999-04-28'
+text_date: '2015-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/1999/1025
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1999/1025/pdfs/uksi_19991025_en.pdf
 - http://www.legislation.gov.uk/uksi/1999/1025/data.pdf
-pending_changes: 7
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Highways (Road Humps) Regulations 1999
 
-> **Warning: changes not yet applied to this text (7).** Text as at 1999-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/1999/1025
+> Text as at 2015-04-01.
 >
 > Extent: England, Wales.
 
@@ -65,11 +65,13 @@ These Regulations may be cited as the Highways (Road Humps) Regulations 1999 and
 
 ## 3. Consultation about road hump proposals[^c-e4312015f4977e226eb8ce1dc8b07b5d]
 
-Where the Secretary of State or a local highway authority proposes to construct a road hump, he or they shall, as well as consulting the chief officer of police as required by section 90C(1) of the Act, also consult–
+(1)[^c-49171f8b323593dfbbbe0fbd399b0360] Where the Secretary of State , a strategic highways company[^c-80f722030186d88a36f2e2b98b424e1f] or a local highway authority proposes to construct a road hump, he , it[^c-60463fc8f95ff746eca63bc5e6fd2286] or they shall, as well as consulting the chief officer of police as required by section 90C(1) of the Act, also consult–
 
 - (a) where the proposal is by a local highway authority in England which is the council of a County, any district council in whose district the highway is situated;
-- (b) in all cases, the chief officer of the fire brigade for the area in which the highway concerned is situated and the chief officer of any body providing ambulance services under the National Health Service Act 1977[^f00006] and operating in that area;
-- (c) in all cases, organisations appearing to him or them to represent persons who use the highway to which the proposal related, or to represent persons who are otherwise likely to be affected by the road hump.
+- (b) in all cases, the fire and rescue authority[^c-fd6a9b5ce3a0bfe4ae50b8ebc29c111c] for the area in which the highway concerned is situated and the chief officer of any body providing ambulance services under the National Health Service Act 1977[^f00006] and operating in that area;
+- (c) in all cases, organisations appearing to him , it[^c-ec6a56c504680eb6d139f9944ecc52cb] or them to represent persons who use the highway to which the proposal related, or to represent persons who are otherwise likely to be affected by the road hump.
+
+(2)[^c-a024f9ba97bc81592acdae767476d59a] In paragraph (1) “strategic highways company” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015.
 
 ## 4. Nature, dimensions and location of road humps[^c-f766916c7a39a2202a1f72fbc862292a]
 
@@ -164,7 +166,19 @@ British Standard 5489 may be obtained from any outlet operated by the British St
 
 [^c-e4312015f4977e226eb8ce1dc8b07b5d]: Commencement: Reg. 3 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
 
+[^c-49171f8b323593dfbbbe0fbd399b0360]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 36(2)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/36/2)
+
+[^c-80f722030186d88a36f2e2b98b424e1f]: Textual amendment: Words in reg. 3(1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 36(3)(a)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/36/3/a)
+
+[^c-60463fc8f95ff746eca63bc5e6fd2286]: Textual amendment: Word in reg. 3(1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 36(3)(b)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/36/3/b)
+
+[^c-fd6a9b5ce3a0bfe4ae50b8ebc29c111c]: Textual amendment: Words in reg. 3(b) substituted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [49](https://www.legislation.gov.uk/uksi/2004/3168/article/49); and substituted (W.) (25.10.2005) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/wsi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2005/2929/article/1/1), [49](https://www.legislation.gov.uk/wsi/2005/2929/article/49)
+
 [^f00006]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^c-ec6a56c504680eb6d139f9944ecc52cb]: Textual amendment: Word in reg. 3(1) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 36(3)(c)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/36/3/c)
+
+[^c-a024f9ba97bc81592acdae767476d59a]: Textual amendment: Reg. 3(2) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 36(4)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/36/4)
 
 [^c-f766916c7a39a2202a1f72fbc862292a]: Commencement: Reg. 4 in force at 28.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1025/regulation/1)
 

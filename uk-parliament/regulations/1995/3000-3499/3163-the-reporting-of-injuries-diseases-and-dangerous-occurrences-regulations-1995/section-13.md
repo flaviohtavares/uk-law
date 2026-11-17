@@ -2,8 +2,8 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 13
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: '13'
-status: not-yet-in-force
-text_date: '1995-12-06'
+status: repealed
+text_date: '2013-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,25 +12,20 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 13
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Certificates of exemption[^c-4eb7fdd63cc32c43200251a37cce6c76]
+## 13. Certificates of exemption[^c-47ca94b4421cdc529dd234476ba7293b]
 
 *Extent: E+W+S*
 
-**Not yet in force.**
+**No longer in force.**
 
-(1) Subject to paragraph (2) and to any of the provisions imposed by the Communities in respect of the encouragement of improvements in the safety and health of workers at work, the Executive may, by a certificate in writing, exempt any person or class of persons from any requirement imposed by these Regulations and any such exemption may be granted subject to conditions and with or without limit of time and may be revoked by a certificate in writing at any time.
-
-(2) The Executive shall not grant any such exemption unless, having regard to the circumstances of the case and, in particular, to—
-
-- (a) the conditions, if any, which it proposes to attach to the exemption; and
-- (b) any other requirements imposed by or under any enactments which apply to the case,
-
-it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-4eb7fdd63cc32c43200251a37cce6c76]: Commencement: Reg. 13 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+[^c-47ca94b4421cdc529dd234476ba7293b]: Textual amendment: Regulations revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [Sch. 4 Table 1](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

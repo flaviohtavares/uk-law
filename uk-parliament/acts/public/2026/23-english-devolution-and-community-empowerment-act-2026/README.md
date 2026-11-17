@@ -3,16 +3,16 @@ title: English Devolution and Community Empowerment Act 2026
 id: ukpga/2026/23
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '2026-04-29'
-text_date: '2026-11-04'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/23
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2026/23/pdfs/ukpgaen_20260023_en.pdf
 - http://www.legislation.gov.uk/ukpga/2026/23/pdfs/ukpga_20260023_en.pdf
 - http://www.legislation.gov.uk/ukpga/2026/23/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # English Devolution and Community Empowerment Act 2026
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/23
+> Text as at 2026-11-13.
 >
 > Extent: England, Wales.
 

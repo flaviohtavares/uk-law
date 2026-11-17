@@ -2,8 +2,8 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 4
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: '4'
-status: not-yet-in-force
-text_date: '1995-12-06'
+status: repealed
+text_date: '2013-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/section/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,18 +12,20 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, section 4
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Reporting of the death of an employee[^c-f9fa539fcb513aa444379f12fe0e21ee]
+## 4. Reporting of the death of an employee[^c-47ca94b4421cdc529dd234476ba7293b]
 
 *Extent: E+W+S*
 
-**Not yet in force.**
+**No longer in force.**
 
-Subject to regulation 10, where an employee, as a result of an accident at work, has suffered an injury reportable under regulation 3 which is a cause of his death within one year of the date of that accident, the employer shall inform the relevant enforcing authority in writing of the death as soon as it comes to his knowledge, whether or not the accident has been reported under regulation 3.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-f9fa539fcb513aa444379f12fe0e21ee]: Commencement: Reg. 4 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+[^c-47ca94b4421cdc529dd234476ba7293b]: Textual amendment: Regulations revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [Sch. 4 Table 1](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

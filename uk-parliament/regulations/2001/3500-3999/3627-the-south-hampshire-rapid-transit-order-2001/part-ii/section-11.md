@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 11
 act: The South Hampshire Rapid Transit Order 2001
 section: '11'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 11. Stopping up of streets
+## 11. Stopping up of streets[^c-7685dc504110296dcaf0674f548fecfc]
+
+*Extent: E+W+S*
 
 (1) Subject to the provisions of this article, the undertaker may, in connection with the construction of the authorised works, stop up each of the streets specified in columns (1) and (2) of Parts I and II of Schedule 4 to this Order to the extent specified, by reference to the letters and numbers shown on the works plans, in column (3) of Parts I and II of that Schedule.
 
@@ -36,5 +40,7 @@ summary: ''
 (7) This article is subject to paragraph 2 of Schedule 11 to this Order.
 
 ## Annotations
+
+[^c-7685dc504110296dcaf0674f548fecfc]: Commencement: Art. 11 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00016]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).

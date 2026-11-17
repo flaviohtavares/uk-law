@@ -3,15 +3,15 @@ title: The Local Authorities (Alcohol Disorder Zones) Regulations 2008
 id: uksi/2008/1430
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-04'
-text_date: null
-extent: null
+text_date: '2008-06-05'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1430
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1430/pdfs/uksiem_20081430_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1430/pdfs/uksi_20081430_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1430/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1430/data.pdf
 pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Local Authorities (Alcohol Disorder Zones) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2008-06-05. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1430
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 1430
 
@@ -46,11 +50,11 @@ In accordance with section 20(6) of the Violent Crime Reduction Act 2006, a draf
 
 ## PART 1 — Introductory and interpretation
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-6c9df85d34d30a32ca3efa4bdc7b6afc]
 
 These Regulations may be cited as the Local Authorities (Alcohol Disorder Zones) Regulations 2008 and shall come into force the day after the day on which they are made.
 
-### 2. Interpretation
+### 2. Interpretation[^c-1498b08526072be6ba3ddd4812fada84]
 
 (1) In these Regulations—
 
@@ -74,7 +78,7 @@ These Regulations may be cited as the Local Authorities (Alcohol Disorder Zones)
 
 (2) References in these Regulations to premises’ being in a locality (however described) include references to their being partly in that locality.
 
-### 3. Interpretation of expressions relating to services
+### 3. Interpretation of expressions relating to services[^c-926a48ba09ed607dd3454a50bbaf1b1d]
 
 (1) In these Regulations—
 
@@ -93,7 +97,7 @@ These Regulations may be cited as the Local Authorities (Alcohol Disorder Zones)
 
 ## PART 2 — Proposal to designate a locality as an alcohol disorder zone
 
-### 4. Notice of proposal to designate a locality as an alcohol disorder zone
+### 4. Notice of proposal to designate a locality as an alcohol disorder zone[^c-74097c7c9238b78e150576e12675badb]
 
 (1) A notice published by a local authority in accordance with section 16(2) of the 2006 Act (notice of proposal to designate a locality as an alcohol disorder zone) shall—
 
@@ -109,7 +113,7 @@ These Regulations may be cited as the Local Authorities (Alcohol Disorder Zones)
 
 (3) Before a local authority publishes a notice in accordance with section 16(2) of the 2006 Act it shall consult the Chief Constable of the British Transport Police where the locality of the proposed zone includes or is within five hundred metres of an area where the British Transport Police have jurisdiction under section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003[^f00004].
 
-### 5. Consultation over proposal to designate a locality as an alcohol disorder zone
+### 5. Consultation over proposal to designate a locality as an alcohol disorder zone[^c-ffefb096f2fd5db2b7e2abac54a3ec33]
 
 (1) A local authority that publishes a notice in accordance with section 16(2) of the 2006 Act shall—
 
@@ -148,7 +152,7 @@ These Regulations may be cited as the Local Authorities (Alcohol Disorder Zones)
 
 (5) In paragraph (2)(b) a responsible authority means a responsible authority within the meaning of section 13(4) of the 2003 Act (responsible authorities).
 
-### 6. Response to consultation
+### 6. Response to consultation[^c-1bf65495753b22a8ed80b72b5837fd87]
 
 (1) Where, pursuant to a notice published in accordance with section 16(2) of the 2006 Act or an invitation made in accordance with regulation 5(1)(b), representations are received by a local authority in response to a proposal to designate a locality as an alcohol disorder zone, the local authority shall, before publishing an action plan in relation to that proposal—
 
@@ -170,13 +174,13 @@ These Regulations may be cited as the Local Authorities (Alcohol Disorder Zones)
 
 ## PART 3 — Action Plan
 
-### 7. Payments under an action plan and purposes for which they may be used
+### 7. Payments under an action plan and purposes for which they may be used[^c-ad589b3007272e89ad79e5fc88eaa10c]
 
 (1) Subject to paragraph (3), an action plan published by a local authority and chief officer of police in accordance with section 16(4) of the 2006 Act with a view to making the designation of an alcohol disorder zone unnecessary may include provision for a scheme of payments to be made to the local authority by persons who at the time the action plan is published are, whether for all or part of the duration of the action plan, licence holders in the locality it is proposed will be so designated.
 
 (2) Any such payments shall be used for the provision by the local authority, the chief officer of police or the British Transport Police of non-baseline services in respect of the locality to which the action plan relates for the purpose of reducing nuisance or annoyance to members of the public or disorder in or near that locality which is associated with the consumption of alcohol in that locality or the consumption of alcohol that is supplied at premises in that locality.
 
-### 8. Action plan
+### 8. Action plan[^c-598547082d32d6244899538901d90606]
 
 (1) An action plan published by a local authority and chief officer of police in accordance with section 16(4) of the 2006 Act shall set out—
 
@@ -199,7 +203,7 @@ These Regulations may be cited as the Local Authorities (Alcohol Disorder Zones)
 
 ## PART 4 — Alcohol Disorder Zone: Designation and Charges
 
-### 9. Designation of an alcohol disorder zone
+### 9. Designation of an alcohol disorder zone[^c-d7794fa5fa5fb8b7ed35457ede422cb2]
 
 (1) Before designating an alcohol disorder zone where the locality includes or is adjacent to an area where the British Transport Police have jurisdiction under section 31(1) of the Railways and Transport Safety Act 2003, a local authority shall consult the Chief Constable of the British Transport Police and shall obtain his consent in respect of any non-baseline services which it is proposed are to be provided by the British Transport Police.
 
@@ -208,17 +212,17 @@ These Regulations may be cited as the Local Authorities (Alcohol Disorder Zones)
 - (a) publish that order, and set out in general terms the effect of that order, in a local newspaper circulating in the area in which the locality designated is situated or in such public places within the locality designated as the local authority considers appropriate; and
 - (b) give notice to each licence holder in the alcohol disorder zone of that decision.
 
-### 10. Imposition of charges on licence holders etc. in alcohol disorder zones
+### 10. Imposition of charges on licence holders etc. in alcohol disorder zones[^c-855408c8c16761a82608949d2afb2fb3]
 
 Subject to regulation 12, a local authority may impose charges to be paid to it for each month by all persons who, for all or part of the month in question, are licence holders in an alcohol disorder zone in that authority’s area.
 
-### 11. Purposes for which charges to be used
+### 11. Purposes for which charges to be used[^c-fb43b7a4e87e69dcc33441c1407e704e]
 
 (1) Any charges paid to a local authority under this Part shall, after the costs of the scheme have been met, be used for the provision of non-baseline services by the local authority, the chief officer of police or the British Transport Police in or in connection with the alcohol disorder zone in question and to cover the costs of reviewing the zone under Part 5 of these Regulations.
 
 (2) In paragraph (1) the reference to the costs of the scheme is a reference to the costs of the arrangements made for, or in connection with, the imposition, collection and recovery of charges to be paid under this Part.
 
-### 12. Exemption from charge
+### 12. Exemption from charge[^c-625944c9553fe169808ddc93a69e08e0]
 
 (1) A licence holder to whom paragraph (2) applies is exempt from any charge to be paid to a local authority under this Part.
 
@@ -229,7 +233,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 
 (3) For the purposes of paragraph (2)(a), a local authority shall take into account any classification given to particular premises under the Town and Country Planning (Use Classes) Order 1987[^f00005].
 
-### 13. Discount from charge
+### 13. Discount from charge[^c-4cee54d198f565794a9914b9d88d0c8b]
 
 (1) A local authority may grant a licence holder a discount of up to ninety per cent. on any charge to be paid to it under this Part where the licence holder has implemented, in whole or in part, the steps set out in the action plan relating to the designation of the alcohol disorder zone in question which are applicable to him.
 
@@ -240,7 +244,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 
 (3) In granting any discount under paragraph (2), the local authority shall have regard to the extent to which the licence holder has implemented the steps set out in the action plan which are applicable to him.
 
-### 14. Rates of charges: method of computing
+### 14. Rates of charges: method of computing[^c-95959ef9d625ea3e538255f14d5d1108]
 
 (1) A local authority shall calculate the rates of charges applicable to each alcohol disorder zone which it designates under section 16 of the 2006 Act in accordance with these Regulations.
 
@@ -249,7 +253,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 - (a) calculating the total cost of that zone in accordance with regulation 15; and
 - (b) allocating, in accordance with regulation 16, that total cost between all licence holders within that zone, except those who are granted an exemption under regulation 12.
 
-### 15. Rates of charges: calculation of total cost of alcohol disorder zone
+### 15. Rates of charges: calculation of total cost of alcohol disorder zone[^c-d41cdaba16599a5b1515204eb494628b]
 
 (1) The total cost of the alcohol disorder zone shall be calculated by adding together the cost of—
 
@@ -276,7 +280,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 - (a) the chief executive officer of a local authority means the head of the paid service of the authority designated under section 4 of the Local Government and Housing Act 1989[^f00011]; and
 - (b) an environmental health officer of a local authority means an officer authorised by that authority for the purpose of exercising a statutory function in relation to pollution of the environment or harm to human health.
 
-### 16. Rates of charges: allocation of total cost of alcohol disorder zone
+### 16. Rates of charges: allocation of total cost of alcohol disorder zone[^c-0722013be7b4d4f31f9b7b9461ad8c72]
 
 (1) A local authority shall, in accordance with this regulation, score each set of premises in an alcohol disorder zone in respect of which a licence holder is licensed or authorised, except premises in respect of which the licence holder is entitled to an exemption under regulation 12.
 
@@ -295,7 +299,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 
 (7) A local authority may create bands of total scores, whereby each premises within a band will be subject to the same charge.
 
-### 17. Statement of charge
+### 17. Statement of charge[^c-c302055a9d2df7ac10521c9fd2702588]
 
 (1) Where a local authority designates a locality as an alcohol disorder zone in accordance with section 16(1) of the 2006 Act it shall, within five days of that designation, issue to each licence holder in that zone a statement containing the information specified in paragraph (2).
 
@@ -313,7 +317,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 - (j) the means by which the licence holder can complain about the level of charge imposed; and
 - (k) the regularity with which the licence holder will be invoiced.
 
-### 18. Collection of charge
+### 18. Collection of charge[^c-a5a3f2ca7749f66480583fa4a7827858]
 
 (1) The local authority shall, on a regular basis, issue an invoice to each licence holder in an alcohol disorder zone except those who are granted an exemption under regulation 12
 
@@ -334,7 +338,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 
 (5) For the purposes of paragraph (3)(g) there is a reduction in non-baseline services if the level of non-baseline services provided by the local authority, the chief officer of police and the British Transport Police in or in connection with the alcohol disorder zone as a whole is lower than the level of non-baseline services set out in the statement of charge in accordance with regulation 17(2)(a)*.*
 
-### 19. Late payment of charge
+### 19. Late payment of charge[^c-f588915a6c5efa4ea3c1d1f9fc9999e6]
 
 (1) Where a charge, or part of a charge, has not been paid to a local authority within twenty-eight days of service of the invoice the local authority shall issue a final demand notice to the licence holder.
 
@@ -344,7 +348,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 
 (4) A final demand notice shall be served by post and is deemed to be served five days after the day on which it is posted.
 
-### 20. Suspension of premises licences and club premises certificates for non payment of charge
+### 20. Suspension of premises licences and club premises certificates for non payment of charge[^c-a8ad8126ee14c9430000646b03cf5ff6]
 
 (1) Where a charge has not been paid to a local authority within seven days of service of a final demand notice, the local authority may issue a certificate to the relevant licensing authority which—
 
@@ -380,7 +384,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 
 (11) For the purposes of this regulation “licensing authority” has the same meaning as in section 3 of the Licensing Act 2003 (licensing authorities) and the relevant licensing authority is the authority which issued the premises licence or club premises certificate in respect of the premises identified in the certificate.
 
-### 21. Allocation of charges received
+### 21. Allocation of charges received[^c-7ff6c7dac7117bffa333f346d92d8cc3]
 
 (1) A local authority shall pay to the police authority for the police area in which the alcohol disorder zone is situated the costs incurred by that authority in the provision of chargeable non-baseline services by the chief officer of police calculated in accordance with regulation 15.
 
@@ -388,7 +392,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 
 ## PART 5 — Review of alcohol disorder zone
 
-### 22. Review of alcohol disorder zone
+### 22. Review of alcohol disorder zone[^c-2ff78dc0b7f84a156e369a27b0cb19f8]
 
 (1) When carrying out a review of an alcohol disorder zone in accordance with section 17(4) of the 2006 Act (review of existing alcohol disorder zone) the local authority and chief officer of police shall, where the locality of the zone includes or is within five hundred metres of an area where the British Transport Police have jurisdiction under section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003, consult the Chief Constable of the British Transport Police.
 
@@ -408,7 +412,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
     and shall invite representations to be made by those persons within seven days;
 - (b) a local authority shall publish in a local newspaper circulating in the area in which the designated locality under review is situated or in such public places within the designated locality as the local authority considers appropriate a notice setting out their proposals for the alcohol disorder zone and inviting representations within seven days.
 
-### 23. Outcome of review
+### 23. Outcome of review[^c-a9528568f7dab5ffe09a777485576632]
 
 (1) A local authority may, following consideration of any representations made pursuant to regulation 23, vary, revoke or maintain a designation.
 
@@ -421,7 +425,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 
 ## PART 6 — Miscellaneous
 
-### 24. Notification to Secretary of State
+### 24. Notification to Secretary of State[^c-e4f3e095fb9c42b456a5ff3450be1848]
 
 (1) A local authority shall send to the Secretary of State a copy of each of the documents specified in paragraph (2) as soon as reasonably practicable after it has been published or made as the case may be.
 
@@ -431,7 +435,7 @@ Subject to regulation 12, a local authority may impose charges to be paid to it 
 - (b) an order under section 16(1) of the 2006 Act designating such a zone; and
 - (c) a notice of, or order made pursuant to, a final review decision, under regulation 24(1).
 
-### 25. Amendment of Local Authorities (Functions and Responsibilities) (England) Regulations 2000
+### 25. Amendment of Local Authorities (Functions and Responsibilities) (England) Regulations 2000[^c-4e322155472473f531f040ba2de537b9]
 
 In Part I (miscellaneous functions) of Schedule 1 (functions not to be the responsibility of an authority’s executive) to the Local Authorities (Functions and Responsibilities) (England) Regulations 2000[^f00012]—
 
@@ -446,7 +450,7 @@ In Part I (miscellaneous functions) of Schedule 1 (functions not to be the respo
 
   .
 
-### 26. Amendment of Local Authorities Executive Arrangements (Functions and Responsibilities) (Wales) Regulations 2007
+### 26. Amendment of Local Authorities Executive Arrangements (Functions and Responsibilities) (Wales) Regulations 2007[^c-61a0928d2026f871395729c75d4c3a34]
 
 (1) In Part I (miscellaneous functions) of Schedule 1 to the Local Authorities Executive Arrangements (Functions and Responsibilities) (Wales) Regulations 2007[^f00013]—
 
@@ -495,11 +499,41 @@ A full regulatory impact assessment of the effect that alcohol disorder zones wi
 
 [^f00002]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22).
 
+[^c-6c9df85d34d30a32ca3efa4bdc7b6afc]: Commencement: Reg. 1 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-1498b08526072be6ba3ddd4812fada84]: Commencement: Reg. 2 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
 [^f00003]: Footnote: [2003 c.17](https://www.legislation.gov.uk/ukpga/2003/17).
+
+[^c-926a48ba09ed607dd3454a50bbaf1b1d]: Commencement: Reg. 3 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-74097c7c9238b78e150576e12675badb]: Commencement: Reg. 4 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
 
 [^f00004]: Footnote: [2003 c.20](https://www.legislation.gov.uk/ukpga/2003/20).
 
+[^c-ffefb096f2fd5db2b7e2abac54a3ec33]: Commencement: Reg. 5 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-1bf65495753b22a8ed80b72b5837fd87]: Commencement: Reg. 6 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-ad589b3007272e89ad79e5fc88eaa10c]: Commencement: Reg. 7 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-598547082d32d6244899538901d90606]: Commencement: Reg. 8 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-d7794fa5fa5fb8b7ed35457ede422cb2]: Commencement: Reg. 9 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-855408c8c16761a82608949d2afb2fb3]: Commencement: Reg. 10 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-fb43b7a4e87e69dcc33441c1407e704e]: Commencement: Reg. 11 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-625944c9553fe169808ddc93a69e08e0]: Commencement: Reg. 12 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
 [^f00005]: Footnote: [S.I. 1987/764](https://www.legislation.gov.uk/uksi/1987/764); this instrument has been amended by [S.I. 1991/1567](https://www.legislation.gov.uk/uksi/1991/1567); [S.I.1992/610](https://www.legislation.gov.uk/uksi/1992/610); [S.I. 1992/657](https://www.legislation.gov.uk/uksi/1992/657); [S.I. 1994/724](https://www.legislation.gov.uk/uksi/1994/724); [S.I. 1995/297](https://www.legislation.gov.uk/uksi/1995/297); [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293); [S.I. 2002/1875](https://www.legislation.gov.uk/uksi/2002/1875); [S.I. 2005/84](https://www.legislation.gov.uk/uksi/2005/84); [S.I. 2006/220](https://www.legislation.gov.uk/uksi/2006/220); [S.I. 2006/1282](https://www.legislation.gov.uk/uksi/2006/1282); and [S.I. 2006/1386](https://www.legislation.gov.uk/uksi/2006/1386).
+
+[^c-4cee54d198f565794a9914b9d88d0c8b]: Commencement: Reg. 13 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-95959ef9d625ea3e538255f14d5d1108]: Commencement: Reg. 14 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-d41cdaba16599a5b1515204eb494628b]: Commencement: Reg. 15 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
 
 [^f00006]: Footnote: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72). Section 72 of the 1985 Act has been amended by [S.I. 2006/659](https://www.legislation.gov.uk/uksi/2006/659).
 
@@ -513,6 +547,28 @@ A full regulatory impact assessment of the effect that alcohol disorder zones wi
 
 [^f00011]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42). Section 4 of the 1989 Act has been amended but none of the amendments is relevant to this instrument.
 
+[^c-0722013be7b4d4f31f9b7b9461ad8c72]: Commencement: Reg. 16 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-c302055a9d2df7ac10521c9fd2702588]: Commencement: Reg. 17 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-a5a3f2ca7749f66480583fa4a7827858]: Commencement: Reg. 18 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-f588915a6c5efa4ea3c1d1f9fc9999e6]: Commencement: Reg. 19 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-a8ad8126ee14c9430000646b03cf5ff6]: Commencement: Reg. 20 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-7ff6c7dac7117bffa333f346d92d8cc3]: Commencement: Reg. 21 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-2ff78dc0b7f84a156e369a27b0cb19f8]: Commencement: Reg. 22 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-a9528568f7dab5ffe09a777485576632]: Commencement: Reg. 23 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-e4f3e095fb9c42b456a5ff3450be1848]: Commencement: Reg. 24 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
+[^c-4e322155472473f531f040ba2de537b9]: Commencement: Reg. 25 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
+
 [^f00012]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853). Part I (miscellaneous functions) of Schedule 1 to this instrument has been amended by [S.I. 2001/2212](https://www.legislation.gov.uk/uksi/2001/2212), [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177), [S.I. 2004/2748](https://www.legislation.gov.uk/uksi/2004/2748), [S.I. 2005/714](https://www.legislation.gov.uk/uksi/2005/714) and [S.I. 2007/806](https://www.legislation.gov.uk/uksi/2007/806).
+
+[^c-61a0928d2026f871395729c75d4c3a34]: Commencement: Reg. 26 in force at 5.6.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1430/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2007/399](https://www.legislation.gov.uk/uksi/2007/399).

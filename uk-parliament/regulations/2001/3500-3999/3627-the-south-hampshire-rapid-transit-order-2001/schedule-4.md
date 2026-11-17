@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 4
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-4
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,17 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — STREETS TO BE STOPPED UP
 
+*Extent: E+W+S*
+
 Article 11
 
-### PART I — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED
+### PART I — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-41569d33bc40f4b46178d1338f9aa31e]
 
 <table>
 <thead>
@@ -37,7 +41,7 @@ Article 11
 </tbody>
 </table>
 
-### PART II — STREETS FOR WHICH NO SUBSTITUTE WILL BE PROVIDED
+### PART II — STREETS FOR WHICH NO SUBSTITUTE WILL BE PROVIDED[^c-df0296cf474dd73aa659314622d8bf48]
 
 <table>
 <thead>
@@ -49,3 +53,9 @@ Article 11
 <tr><td>Borough of Fareham</td><td>Access road to Delme Court</td><td>Permanent stopping up street between PS19 and PS20</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-41569d33bc40f4b46178d1338f9aa31e]: Commencement: Sch. 4 Pt. I in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-df0296cf474dd73aa659314622d8bf48]: Commencement: Sch. 4 Pt. II in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

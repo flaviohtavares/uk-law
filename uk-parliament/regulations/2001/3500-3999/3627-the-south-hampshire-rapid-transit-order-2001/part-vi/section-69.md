@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 69
 act: The South Hampshire Rapid Transit Order 2001
 section: '69'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/69
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 69
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 69. Service of notices
+## 69. Service of notices[^c-ddf30e553be4b9c5a0fb12e0c1d9abba]
+
+*Extent: E+W+S*
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served by post.
 
@@ -33,5 +37,7 @@ summary: ''
 (5) This article shall not be taken to exclude the employment of any method of service not expressly provided for by it.
 
 ## Annotations
+
+[^c-ddf30e553be4b9c5a0fb12e0c1d9abba]: Commencement: Art. 69 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00043]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

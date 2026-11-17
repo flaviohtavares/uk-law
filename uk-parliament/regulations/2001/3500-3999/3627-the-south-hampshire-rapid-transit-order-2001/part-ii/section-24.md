@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 24
 act: The South Hampshire Rapid Transit Order 2001
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 24. As to Portsmouth to Gosport ferry, etc.
+## 24. As to Portsmouth to Gosport ferry, etc.[^c-03e6933ee7c64eae254fbf0afafb7fc3]
+
+*Extent: E+W+S*
 
 (1) Subject to paragraphs (2) and (3) below and except as may otherwise be agreed in writing between the undertaker and the harbour company, if the undertaker in exercising its powers under article 35, article 42 or any other provision of this Order, takes possession of the Portsea landing-place or the site of the Portsea landing-place, it shall assume and may exercise, until such time as it may by agreement with the harbour company permanently reinstate or replace the Portsea landing-place to the reasonable satisfaction of the harbour company, all of the powers conferred upon the harbour company by the Portsea Harbour Company Act 1984[^f00020] in relation to the landing-place and shall be subject to all the restrictions, liabilities and obligations in relation to the landing-place to which the harbour company is subject and shall perform the functions of the harbour company under the Act.
 
@@ -54,6 +58,8 @@ summary: ''
 (11) In this article “the harbour company” and “the Portsea landing-place” mean the harbour company and the landing-place as respectively defined in the Portsea Harbour Company Act 1984.
 
 ## Annotations
+
+[^c-03e6933ee7c64eae254fbf0afafb7fc3]: Commencement: Art. 24 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00020]: Footnote: [1984 c. xviii](https://www.legislation.gov.uk/ukla/1984/18).
 

@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 3
 act: The Council Tax Benefit (General) Regulations 1992
 section: '3'
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 3
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) In these Regulations, “non-dependant” means any person, except someone to whom paragraph (2) applies, who normally resides with a claimant.
+(1) In these Regulations, “non-dependant” means any person, except someone to whom paragraph (2) applies, who normally resides with a claimant or with whom a claimant normally resides.[^c-a86072b7120c36c2adde27de268498bf]
 
 (2) This paragraph applies to—
 
@@ -42,3 +42,5 @@ summary: ''
 ## Annotations
 
 [^c-06cbb913490d172b227acb3c39b3f549]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/1814/regulation/3) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+
+[^c-a86072b7120c36c2adde27de268498bf]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/3/1) added (2.12.1994) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 6) Regulations 1994 (S.I. 1994/3061)](https://www.legislation.gov.uk/uksi/1994/3061), [regs. 1](https://www.legislation.gov.uk/uksi/1994/3061/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1994/3061/regulation/3/2/made)

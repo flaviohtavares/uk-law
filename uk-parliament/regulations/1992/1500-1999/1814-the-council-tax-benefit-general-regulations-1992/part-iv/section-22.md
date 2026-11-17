@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 22
 act: The Council Tax Benefit (General) Regulations 1992
 section: '22'
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 22
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) in the case of a self-employed earner who is engaged in employment on his own account, the net profit derived from that employment;
 - (b) in the case of a self-employed earner whose employment is carried on in partnership or is that of a share fisherman within the meaning of the Social Security (Mariners' Benefits) Regulations 1975[^f00034], his share of the net profit derived from that employment, less—
   - (i) an amount in respect of income tax and of social security contributions payable under the Contributions and Benefits Act 1992 calculated in accordance with regulation 23 (deduction of tax and contributions for selfemployed earners), and
-  - (ii) one-half of any qualifying premium payable.
+  - (ii) one-half of the amount calculated in accordance with paragraph (12) in respect of any qualifying premium[^c-d66c9db5735108eae225785e069d6989].
 
 (2) There shall be disregarded from a claimant’s net profit, any sum, where applicable, specified in paragraphs 1 to 12 of Schedule 3.
 
@@ -35,7 +35,7 @@ summary: ''
 - (b) an amount in respect of—
   - (i) income tax, and
   - (ii) social security contributions payable under the Contributions and Benefits Act 1992, calculated in accordance with regulation 23 (deduction of tax and contributions for self-employed earners); and
-- (c) one-half of any qualifying premium payable.
+- (c) one-half of the amount calculated in accordance with paragraph (12) in respect of any qualifying premium.
 
 (4) For the purposes of paragraph (1)(b) the net profit of the employment shall be calculated by taking into account the earnings of the employment over the assessment period less, subject to paragraphs (5) to (7), any expenses wholly and exclusively incurred in that period for the purposes of the employment.
 
@@ -69,14 +69,26 @@ summary: ''
 - (a) an amount in respect of—
   - (i) income tax, and
   - (ii) social security contributions payable under the Contributions and Benefits Act 1992, calculated in accordance with regulation 23 (deduction of tax and contributions for self-employed earners); and
-- (b) one-half of any qualifying premium payable.
+- (b) one-half of the amount calculated in accordance with paragraph (12) in respect of any qualifying premium.
 
-(10) For the avoidance of doubt, where a claimant is engaged in employment as a selfemployed earner and he is also engaged in one or more other employments as a selfemployed earner or employed earner any loss incurred in any one of his employments shall not be offset against his earnings in any other of his employments.
+(10) For the avoidance of doubt, where a claimant is engaged in employment as a self employed earner and he is also engaged in one or more other employments as a self employed earner or employed earner any loss incurred in any one of his employments shall not be offset against his earnings in any other of his employments.
 
-(11) In this regulation “qualifying premium” means any premium or other consideration payable under an annuity contract for the time being approved by the Board of Inland Revenue as having for its main object the provision for the claimant of a life annuity in old age or the provision of an annuity for his partner or for any one or more of his dependants and in respect of which relief for income tax may be given.
+(11)[^c-9dd835474f05d2bb376dee2f5fac71bd] In this regulation—
+
+- “qualifying premium” means any premium which is payable periodically in respect of a retirement annuity contract or a personal pension scheme and is so payable on or after the date of claim;
+- “retirement annuity contract” means an annuity contract for the time being approved by the Board of Inland Revenue as having for its main object the provision of a life annuity in old age or the provision of an annuity for a partner or dependant and in respect of which relief from income tax may be given on any premium.
+
+(12) The amount in respect of any qualifying premium shall be calculated by multiplying the daily amount of the qualifying premium by the number equal to the number of days in the assessment period; and for the purposes of this regulation the daily amount of the qualifying premium shall be determined—
+
+- (a) where the qualifying premium is payable monthly, by multiplying the amount of the qualifying premium by 12 and dividing the product by 365;
+- (b) in any other case, by dividing the amount of the qualifying premium by the number equal to the number of days in the period to which the qualifying premium relates.
 
 ## Annotations
 
 [^c-9604a8ca5bceeb0665c798e9f4ec7dac]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00034]: Footnote: S.I. [1975/529](https://www.legislation.gov.uk/uksi/1975/529).
+
+[^c-d66c9db5735108eae225785e069d6989]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22) substituted (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [19(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/19/a)
+
+[^c-9dd835474f05d2bb376dee2f5fac71bd]: Textual amendment: [Reg. 22(11)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22/11)[(12)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22/12) substituted for [reg. 22(11)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22/11) (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [19(b)](https://www.legislation.gov.uk/uksi/1994/578/regulation/19/b)

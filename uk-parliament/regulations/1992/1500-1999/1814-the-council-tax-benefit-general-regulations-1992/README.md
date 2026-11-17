@@ -5,12 +5,12 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '1992-07-20'
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/1992/1814/data.pdf
-pending_changes: 2043
+pending_changes: 1903
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -58,6 +58,7 @@ Now, therefore, the Secretary of State for Social Security in exercise of powers
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Definition of non-dependant](part-i/section-3.md)
 - [Section 4 — Remunerative work](part-i/section-4.md)
+- [Section 4A — Persons from Abroad](part-i/section-4a.md)
 
 ### PART II — Membership of a family
 
@@ -91,6 +92,7 @@ Now, therefore, the Secretary of State for Social Security in exercise of powers
 *Extent: E+W+S*
 
 - [Section 13 — Calculation of income on a weekly basis](part-iv/section-13.md)
+- [Section 13A — Treatment of child care charges](part-iv/section-13a.md)
 - [Section 14 — Average weekly earnings of employed earners](part-iv/section-14.md)
 - [Section 15 — Average weekly earnings of self-employed earners](part-iv/section-15.md)
 - [Section 16 — Average weekly income other than earnings](part-iv/section-16.md)
@@ -240,6 +242,7 @@ Now, therefore, the Secretary of State for Social Security in exercise of powers
 
 - [Section 92 — Information to be supplied by the Secretary of State to an appropriate authority](part-xii/section-92.md)
 - [Section 93 — Information to be supplied by an appropriate authority to the Secretary of State](part-xii/section-93.md)
+- [Section 94 — Further information to be supplied by an appropriate authority to the Secretary of State](part-xii/section-94.md)
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)

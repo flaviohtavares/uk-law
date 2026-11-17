@@ -2,8 +2,8 @@
 title: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, SCHEDULE 4
 act: The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995
 section: schedule-4
-status: not-yet-in-force
-text_date: '1995-12-06'
+status: repealed
+text_date: '2013-10-01'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1995/3163/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,80 +12,50 @@ summary: ''
 
 # The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, SCHEDULE 4
 
-> This provision is not yet in force.
+> This provision is no longer in force.
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — RECORDS
+## SCHEDULE 4 — RECORDS[^c-47ca94b4421cdc529dd234476ba7293b]
 
 *Extent: E+W+S*
 
-**Not yet in force.**
+**No longer in force.**
 
 Regulation 7
 
-### PART I — PARTICULARS TO BE KEPT IN RECORDS OF ANY EVENT WHICH IS REPORTABLE UNDER REGULATION 3
+### PART I — PARTICULARS TO BE KEPT IN RECORDS OF ANY EVENT WHICH IS REPORTABLE UNDER REGULATION 3[^c-47ca94b4421cdc529dd234476ba7293b]
 
-**1.**[^c-8d4dd651a0515ca798a8044acb206890] Date and time of the accident or dangerous occurrence.
+**1.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^c-5dc9802f5bf5351675785d5ea7f769b8] In the event of an accident suffered by a person at work, the following particulars of that person—
+**2.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) full name;
-- (b) occupation;
-- (c) nature of injury.
+**3.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^c-16cca93833c2c27f42774ab4c29fe981] In the event of an accident suffered by a person not at work, the following particulars of that person (unless they are not known and it is not reasonably practicable to ascertain them)—
+**4.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) full name;
-- (b) status (for example “passenger”, “customer”, “visitor” or “bystander”);
-- (c) nature of injury.
+**5.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^c-ef737dfd12dcd8b52a1b1bff618eeeeb] Place where the accident or dangerous occurrence happened.
+**6.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^c-e9ddaedc6de81b20a1eb7bc108259636] A brief description of the circumstances in which the accident or dangerous occurrence happened.
+**7.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^c-738476d0de00ac0ef17cc0fb6163dbf5] The date on which the event was first reported to the relevant enforcing authority.
+### PART II — PARTICULARS TO BE KEPT IN RECORDS OF INSTANCES OF ANY OF THE DISEASES SPECIFIED IN SCHEDULE 3 AND REPORTABLE UNDER REGULATION 5[^c-47ca94b4421cdc529dd234476ba7293b]
 
-**7.**[^c-4dfac9e8c1254f55524a2d079fc91a11] The method by which the event was reported.
+**1.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PARTICULARS TO BE KEPT IN RECORDS OF INSTANCES OF ANY OF THE DISEASES SPECIFIED IN SCHEDULE 3 AND REPORTABLE UNDER REGULATION 5
+**2.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^c-17b801cb18dac5506e33fbc8c29ce14d] Date of diagnosis of the disease.
+**3.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^c-31bf9c152d933d6453d0e466531a3464] Name of the person affected.
+**4.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^c-4c69a51e1be16bedb17529682eec0430] Occupation of the person affected.
+**5.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^c-e582c580de9bcd8f65092fec25c56509] Name or nature of the disease.
-
-**5.**[^c-d2c472aa6a3e67035fdf9cfec9ec2424] The date on which the disease was first reported to the relevant enforcing authority.
-
-**6.**[^c-e5ac4913610e277869814506ad04b042] The method by which the disease was reported.
+**6.**[^c-47ca94b4421cdc529dd234476ba7293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^c-8d4dd651a0515ca798a8044acb206890]: Commencement: Sch. 4 Pt. I para. 1 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+[^c-47ca94b4421cdc529dd234476ba7293b]: Textual amendment: Regulations revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [Sch. 4 Table 1](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
 
-[^c-5dc9802f5bf5351675785d5ea7f769b8]: Commencement: Sch. 4 Pt. I para. 2 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-16cca93833c2c27f42774ab4c29fe981]: Commencement: Sch. 4 Pt. I para. 3 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-ef737dfd12dcd8b52a1b1bff618eeeeb]: Commencement: Sch. 4 Pt. I para. 4 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-e9ddaedc6de81b20a1eb7bc108259636]: Commencement: Sch. 4 Pt. I para. 5 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-738476d0de00ac0ef17cc0fb6163dbf5]: Commencement: Sch. 4 Pt. I para. 6 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-4dfac9e8c1254f55524a2d079fc91a11]: Commencement: Sch. 4 para. 7 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-17b801cb18dac5506e33fbc8c29ce14d]: Commencement: Sch. 4 Pt. II para. 1 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-31bf9c152d933d6453d0e466531a3464]: Commencement: Sch. 4 Pt. II para. 2 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-4c69a51e1be16bedb17529682eec0430]: Commencement: Sch. 4 Pt. II para. 3 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-e582c580de9bcd8f65092fec25c56509]: Commencement: Sch. 4 Pt. II para. 4 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-d2c472aa6a3e67035fdf9cfec9ec2424]: Commencement: Sch. 4 Pt. II para. 5 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
-
-[^c-e5ac4913610e277869814506ad04b042]: Commencement: Sch. 4 Pt. II para. 6 in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/3163/regulation/1)
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

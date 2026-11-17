@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 23
 act: The South Hampshire Rapid Transit Order 2001
 section: '23'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 23
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 23. Protection of tunnel, etc.
+## 23. Protection of tunnel, etc.[^c-612860c5331a3f8dd39ac61a3848a58d]
+
+*Extent: E+W+S*
 
 (1) A person may not without the consent in writing of the undertaker (which may be given subject to conditions)—
 
@@ -29,3 +33,7 @@ summary: ''
 
 - “tunnel approach works” means works for providing access to the tunnel on either side of the river; and
 - “tunnel units” means sections of concrete, steel or other material (or combination of materials) designed to be attached together so as to constitute the framework of the tunnel.
+
+## Annotations
+
+[^c-612860c5331a3f8dd39ac61a3848a58d]: Commencement: Art. 23 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

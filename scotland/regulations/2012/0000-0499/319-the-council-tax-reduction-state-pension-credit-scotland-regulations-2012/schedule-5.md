@@ -2,8 +2,8 @@
 title: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, SCHEDULE 5
 act: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 section: schedule-5
-status: revised-with-pending-changes
-text_date: '2026-04-01'
+status: revised
+text_date: '2026-11-06'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2012/319/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, SCHEDULE 5
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2012/319
+> Text as at 2026-11-06.
 >
 > Extent: Scotland.
 
@@ -44,7 +44,7 @@ Table
 - (f) any payment or interest on a payment made under the Windrush Compensation (Expenditure) Act 2020;
 - (g) a vaccine damage payment made in any of the circumstances described in paragraph 16(1D) of schedule 4;
 - (h) any payment made under the Victims of Overseas Terrorism Compensation Scheme;
-- (i) any redress payment made under Part 4 of the Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021;
+- (i)[^c-efbad02fe4f2d435945ae5098195b568] any payment made from a scheme established for the purposes of providing compensation for historical institutional child abuse in the United Kingdom,
 - (j) any *ex gratia* payment made at the discretion of the Scottish Ministers from the Advance Payment Scheme within the meaning of section 42(7) of the Redress for Survivors (Historical Abuse in Care) (Scotland) Act 2021;
 - (k) any payment made under or by an infected blood payment scheme; [^c-c9ea684262189091bba58a646624b97e]...
 - (l) any payment made from the estate of a deceased person where—
@@ -102,6 +102,8 @@ Table
 [^c-c61e0ae31533ee3227d9b20bb123087b]: Textual amendment: Words in [sch. 5 para. 2(c)](https://www.legislation.gov.uk/ssi/2012/319/schedule/5/paragraph/2/c) substituted (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 5 para. 4(10)](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/4/10) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
 [^c-0eb632d986c3816d05a7679ad7f0c8b6]: Textual amendment: [Sch. 5 paras. 2(d)-(l)](https://www.legislation.gov.uk/ssi/2012/319/schedule/5/paragraph/2/d) inserted (1.12.2024) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2024 (S.S.I. 2024/310)](https://www.legislation.gov.uk/ssi/2024/310), [regs. 1](https://www.legislation.gov.uk/ssi/2024/310/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2024/310/regulation/2/6/c)
+
+[^c-efbad02fe4f2d435945ae5098195b568]: Textual amendment: [Sch. 5 para. 2(i)](https://www.legislation.gov.uk/ssi/2012/319/schedule/5/paragraph/2/i) substituted (6.11.2026) by [The Council Tax Reduction (Miscellaneous Amendment) (No. 2) (Scotland) Regulations 2026 (S.S.I. 2026/259)](https://www.legislation.gov.uk/ssi/2026/259), [regs. 1](https://www.legislation.gov.uk/ssi/2026/259/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2026/259/regulation/2/6)
 
 [^c-c9ea684262189091bba58a646624b97e]: Textual amendment: Word in [sch. 5 para. 2(k)](https://www.legislation.gov.uk/ssi/2012/319/schedule/5/paragraph/2/k) omitted (3.6.2025) by virtue of [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/112)](https://www.legislation.gov.uk/ssi/2025/112), [regs. 1](https://www.legislation.gov.uk/ssi/2025/112/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2025/112/regulation/2/6/a)
 

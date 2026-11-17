@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, SCHEDULE 5
 act: The Council Tax Benefit (General) Regulations 1992
 section: schedule-5
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, SCHEDULE 5
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -157,7 +157,7 @@ which is to be used for the intended purpose for a period of 26 weeks from the d
 
 for a period of 26 weeks from the date on which he received such a grant or such longer period as is reasonable in the circumstances to enable the purchase, repairs or alterations to be completed and the claimant to commence occupation of those premises as his home.
 
-**37.**[^c-3bcbc59a8a4384f7ae551efedf7d874a] Any arrears of special war widows payment which is disregarded under paragraph 42 of Schedule 4 (sums to be disregarded in the calculation of income other than earnings), but only for a period of 52 weeks from the date of the receipt of the arrears.
+**37.**[^c-3bcbc59a8a4384f7ae551efedf7d874a] Any arrears of special war widows payment which is disregarded under paragraph 42 of Schedule 4 (sums to be disregarded in the calculation of income other than earnings) or of any amount which is disregarded under paragraph 52, 53 or 54 of that Schedule[^c-cc4fa36b162da576a2243b3654cab4b8], but only for a period of 52 weeks from the date of the receipt of the arrears.
 
 **38.**[^c-b130bc4a7d425952c612a30b2393b0c5] (1) Any payment or repayment made—
 
@@ -183,6 +183,16 @@ but only for a period of 52 weeks from the date of the receipt of the payment or
 **45.** (1) Subject to sub-paragraph (2), where a claimant satisfies the conditions in section 131(3) and (6) of the Contributions and Benefits Act 1992 (entitlement to the alternative maximum council tax benefit), the whole of his capital.
 
 (2) Where in addition to satisfying the conditions in section 131(3) and (6) of the Contributions and Benefits Act 1992 the claimant also satisfies the conditions in section 131(4) and (5) of that Act (entitlement to the maximum council tax benefit), sub-paragraph (1) shall not have effect.
+
+**46.**[^c-b215719b931b1bd668aaf96991ab8ba5] Any sum of capital administered on behalf of a person under the age of 18 by the High Court under the provisions of Order 80 of the Rules of the Supreme Court, the County Court under Order 10 of the County Court Rules 1981, or the Court of Protection, where such sum derives from—
+
+- (a) an award of damages for a personal injury to that person; or
+- (b) compensation for the death of one or both parents.
+
+**47.** Any sum of capital administered on behalf of a person under the age of 18 in accordance with an order made under Rule 43.15 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 or under Rule 131 of the Act of Sederunt (Rules of the Court, consolidation and amendment) 1965, or under Rule 36.14 of the Ordinary Cause Rules 1993 or under Rule 128 of the Ordinary Cause Rules, where such sum derives from—
+
+- (a) an award of damages for a personal injury to that person; or
+- (b) compensation for the death of one or both parents.
 
 ## Annotations
 
@@ -292,6 +302,8 @@ but only for a period of 52 weeks from the date of the receipt of the payment or
 
 [^c-3bcbc59a8a4384f7ae551efedf7d874a]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/37) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
+[^c-cc4fa36b162da576a2243b3654cab4b8]: Textual amendment: Words in [Sch. 5 para. 37](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/37) inserted (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [29(a)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/29/a)
+
 [^c-b130bc4a7d425952c612a30b2393b0c5]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/38) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^c-de5e61c49278602d2c6b58df6b3932f2]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/39) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
@@ -311,3 +323,5 @@ but only for a period of 52 weeks from the date of the receipt of the payment or
 [^f00127]: Footnote: [1958 c. 33](https://www.legislation.gov.uk/ukpga/1958/33).
 
 [^c-2393ffe1cc8325c11476d5e902d8ce43]: Textual amendment: [Sch. 5 paras. 44](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/44), [45](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/45) added (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/1993/688/regulation/26/b)
+
+[^c-b215719b931b1bd668aaf96991ab8ba5]: Textual amendment: [Sch. 5 paras. 46-47](https://www.legislation.gov.uk/uksi/1992/1814/schedule/5/paragraph/46) added (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [29(b)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/29/b)

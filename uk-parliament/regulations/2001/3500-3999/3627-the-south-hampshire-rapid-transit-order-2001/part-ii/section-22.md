@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 22
 act: The South Hampshire Rapid Transit Order 2001
 section: '22'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 22
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 22. Prohibitions within tunnel area
+## 22. Prohibitions within tunnel area[^c-5cc068bcc5b88f2223e012b55041d69b]
+
+*Extent: E+W+S*
 
 (1) Notwithstanding anything in any other enactment or rule of law but subject to the provisions of this article and paragraph 10 of Schedule 7, the Queen’s Harbour Master shall, at the request of the undertaker and at the undertakers' expense, at any time when it appears to the undertaker necessary or convenient for the purposes of the construction or maintenance of the tunnel, by direction close the whole or any part of the tunnel area to navigation by all vessels or by any class of vessel.
 
@@ -46,3 +50,7 @@ unless he does so in compliance with any direction which the Queen’s Harbour M
 (9) Without prejudice to the provisions of article 36 (application of Part I of the Compulsory Purchase Act 1965) neither the undertaker nor the Queen’s Harbour Master shall be liable for any costs, damages or expenses whatsoever incurred by any person as a result, directly or indirectly, of any closure of the tunnel area under this article.
 
 (10) A direction given under this article may be varied or revoked by a subsequent direction given under this article.
+
+## Annotations
+
+[^c-5cc068bcc5b88f2223e012b55041d69b]: Commencement: Art. 22 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

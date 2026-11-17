@@ -6,7 +6,7 @@ Laws in force under the legislation.gov.uk subject heading **TRADE UNIONS**. Rep
 
 Acts and Orders in Council with this heading, or under which most of the regulations made carry it.
 
-- [Trade Union and Labour Relations (Consolidation) Act 1992](../uk-parliament/acts/public/1992/52-trade-union-and-labour-relations-consolidation-act-1992/README.md) *(changes pending)* — 43 regulations on this topic made under it
+- [Trade Union and Labour Relations (Consolidation) Act 1992](../uk-parliament/acts/public/1992/52-trade-union-and-labour-relations-consolidation-act-1992/README.md) *(changes pending)* — 44 regulations on this topic made under it
 - [Trade Union Act 2016](../uk-parliament/acts/public/2016/15-trade-union-act-2016.md) *(changes pending)* — 7 regulations on this topic made under it
 - [The Trade Union and Labour Relations (Northern Ireland) Order 1995](../northern-ireland/orders-in-council/1995/1980-the-trade-union-and-labour-relations-northern-ireland-order-1995/README.md) *(changes pending)* — 6 regulations on this topic made under it
 - [Employment Rights Act 2025](../uk-parliament/acts/public/2025/36-employment-rights-act-2025/README.md) *(changes pending)* — 5 regulations on this topic made under it
@@ -15,7 +15,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 ## Regulations
 
-87 in force.
+88 in force.
 
 **2026**
 
@@ -29,6 +29,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Employment Rights Act 2025 (Commencement No. 6 and Transitional and Saving Provisions) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1065-the-employment-rights-act-2025-commencement-no-6-and-transitional-and-saving-pro.md) *(as originally made)*
 - [The Employment Rights Act 2025 (Minimum Service Levels) (Consequential Revocation) Regulations 2026](../uk-parliament/regulations/2026/0000-0499/42-the-employment-rights-act-2025-minimum-service-levels-consequential-revocation-r.md) *(as originally made)*
 - [The Protection Against Detriment (Industrial Action) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1099-the-protection-against-detriment-industrial-action-regulations-2026.md) *(as originally made)*
+- [The Statement of Trade Union Rights Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1193-the-statement-of-trade-union-rights-regulations-2026.md) *(as originally made)*
 - [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026](../uk-parliament/regulations/2026/0500-0999/881-the-trade-unions-permissible-means-of-voting-and-employment-rights-unfair-dismis.md) *(as originally made)*
 - [The Trade Unions (Right to Access Workplaces) (Required Information) Regulations 2026](../uk-parliament/regulations/2026/0500-0999/756-the-trade-unions-right-to-access-workplaces-required-information-regulations-202.md) *(as originally made)*
 - [The Trade Unions (Right to Access Workplaces) Regulations 2026](../uk-parliament/regulations/2026/1000-1499/1101-the-trade-unions-right-to-access-workplaces-regulations-2026.md) *(as originally made)*

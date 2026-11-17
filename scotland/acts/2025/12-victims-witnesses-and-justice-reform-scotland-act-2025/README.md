@@ -5,14 +5,14 @@ type: ScottishAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2025-10-30'
-text_date: '2026-11-02'
+text_date: '2026-11-16'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2025/12
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2025/12/pdfs/aspen_20250012_en.pdf
 - http://www.legislation.gov.uk/asp/2025/12/pdfs/asp_20250012_en.pdf
 - http://www.legislation.gov.uk/asp/2025/12/data.pdf
-pending_changes: 3
+pending_changes: 9
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Victims, Witnesses, and Justice Reform (Scotland) Act 2025
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/asp/2025/12
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-11-16. See https://www.legislation.gov.uk/changes/affected/asp/2025/12
 >
 > Extent: Scotland.
 

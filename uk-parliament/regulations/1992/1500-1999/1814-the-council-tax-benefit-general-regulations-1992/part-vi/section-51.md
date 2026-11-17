@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 51
 act: The Council Tax Benefit (General) Regulations 1992
 section: '51'
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/51
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 51
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to paragraphs (2) to (4), the amount of a person’s maximum council tax benefit in respect of a day for which he is liable to pay council tax, shall be 100 per cent. of the amount
+(1) Subject to paragraphs (2) to (5)[^c-0428de269e897b53b0551525344dfa8b], the amount of a person’s maximum council tax benefit in respect of a day for which he is liable to pay council tax, shall be 100 per cent. of the amount
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1992/1814)
 
@@ -45,8 +45,22 @@ less any deductions in respect of non-dependants which fall to be made under reg
 
 (4) Where a claimant is jointly and severally liable for council tax in respect of a dwelling with only his partner, paragraph (3) shall not apply in his case.
 
+(5)[^c-6e52b8ee461f4ae5aa1c4dba482952ed] Where—
+
+- (a) the appropriate authority is satisfied that a claimant’s circumstances are exceptional; and
+- (b) either—
+  - (i) any deduction (“non-dependant deduction”) in respect of non-dependants falls to be made under regulation 52 for the purpose of determining a person’s appropriate maximum council tax benefit; or
+  - (ii) an amount falls to be deducted from a person’s appropriate maximum council tax benefit in accordance with section 131(8)(b) of the Contributions and Benefits Act 1992 (amount of council tax benefit where income exceeds applicable amount); and
+- (c) the condition in section 131(5) of that Act (condition as to income) would be fulfilled in respect of that person even if his appropriate maximum council tax benefit were not increased under this paragraph,
+
+the authority may determine that the amount of the person’s appropriate maximum council tax benefit calculated in accordance with paragraphs (1) to (4) (“the lower amount”) shall be such higher amount (“the increased amount”) as it considers appropriate in the particular circumstances of the case, but so that the increased amount, after any deduction made in accordance with section 131(8)(b) of that Act, shall not exceed the sum of the lower amount and any non-dependant deductions.
+
 ## Annotations
 
 [^c-f2963286a41a20415c89e7bb4359c5e6]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1992/1814/regulation/51) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
+[^c-0428de269e897b53b0551525344dfa8b]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/51/1) substituted (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/19/2)
+
 [^c-c92794ff0b2243147315761f0da418e7]: Textual amendment: Words in [reg. 51(2)(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/51/2/b) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/1993/688/regulation/13)
+
+[^c-6e52b8ee461f4ae5aa1c4dba482952ed]: Textual amendment: [Reg. 51(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/51/5) added (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/19/3)

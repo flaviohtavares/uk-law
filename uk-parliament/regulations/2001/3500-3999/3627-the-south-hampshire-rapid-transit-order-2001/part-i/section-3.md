@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 3
 act: The South Hampshire Rapid Transit Order 2001
 section: '3'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 3. Application of enactments relating to railways
+## 3. Application of enactments relating to railways[^c-9eaebcf5a95187d10343d09d6ff2917d]
+
+*Extent: E+W+S*
 
 (1) The provisions of the Regulation of Railways Acts 1840 to 1893 shall not apply in relation to the authorised transit system.
 
@@ -23,6 +27,8 @@ summary: ''
 (3) Nothing in this article shall be taken as affecting the application to the authorised tramroads of sections 32 to 34 of the Offences Against the Person Act 1861[^f00012].
 
 ## Annotations
+
+[^c-9eaebcf5a95187d10343d09d6ff2917d]: Commencement: Art. 3 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00011]: Footnote: [1839 c. 45](https://www.legislation.gov.uk/ukpga/1839/45).
 

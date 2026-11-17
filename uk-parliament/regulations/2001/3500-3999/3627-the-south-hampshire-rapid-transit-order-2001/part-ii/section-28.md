@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 28
 act: The South Hampshire Rapid Transit Order 2001
 section: '28'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/28
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 28
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 28. Discharge of water
+## 28. Discharge of water[^c-20057de8a85c701d4a9b5d39307b226d]
+
+*Extent: E+W+S*
 
 (1) The undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the construction or maintenance of the authorised works and for that purpose may lay down, take up and alter pipes and may, on any land within the limits of deviation shown on the works plans or in any street along which any authorised street tramway is authorised to be laid, make openings into, and connections with, the watercourse, sewer or drain.
 
@@ -35,6 +39,8 @@ summary: ''
 - (c) other expressions used both in this article and in the Water Resources Act 1991 have the same meaning as in that Act.
 
 ## Annotations
+
+[^c-20057de8a85c701d4a9b5d39307b226d]: Commencement: Art. 28 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00024]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 

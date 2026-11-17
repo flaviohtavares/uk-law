@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 40
 act: The South Hampshire Rapid Transit Order 2001
 section: '40'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 40
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 40. Rights under or over streets
+## 40. Rights under or over streets[^c-7a0d7cc74653b2c8df2658ea67701a4b]
+
+*Extent: E+W+S*
 
 (1) The undertaker may enter upon and appropriate so much of the surface, subsoil of, or air-space over, any street shown on the land plans and described in the book of reference as may be required for the purposes of the authorised works and may use the surface, subsoil and air-space for those purposes or any other purpose connected with or ancillary to its transit system undertaking.
 
@@ -26,3 +30,7 @@ summary: ''
 
 - (a) any subway or underground building; or
 - (b) any cellar, vault, arch or other construction in or on a street which forms part of a building fronting on to the street.
+
+## Annotations
+
+[^c-7a0d7cc74653b2c8df2658ea67701a4b]: Commencement: Art. 40 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

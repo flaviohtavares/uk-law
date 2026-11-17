@@ -38,7 +38,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [Local Government (Wales) Measure 2011](../../wales/measures/2011/4-local-government-wales-measure-2011/README.md) *(changes pending)* — 10 regulations on this topic made under it
 - [Democracy and Boundary Commission Cymru etc. Act 2013](../../wales/acts/2013/4-democracy-and-boundary-commission-cymru-etc-act-2013/README.md) *(changes pending)* — 9 regulations on this topic made under it
 - [Islands (Scotland) Act 2018](../../scotland/acts/2018/12-islands-scotland-act-2018/README.md) — 9 regulations on this topic made under it
-- [English Devolution and Community Empowerment Act 2026](../../uk-parliament/acts/public/2026/23-english-devolution-and-community-empowerment-act-2026/README.md) *(changes pending)* — 8 regulations on this topic made under it
+- [English Devolution and Community Empowerment Act 2026](../../uk-parliament/acts/public/2026/23-english-devolution-and-community-empowerment-act-2026/README.md) — 8 regulations on this topic made under it
 - [Local Government (Wales) Measure 2009](../../wales/measures/2009/2-local-government-wales-measure-2009/README.md) *(changes pending)* — 8 regulations on this topic made under it
 - [The Local Government (Northern Ireland) Order 2005](../../northern-ireland/orders-in-council/2005/1968-the-local-government-northern-ireland-order-2005.md) — 8 regulations on this topic made under it
 - [Local Government &c. (Northern Ireland) Order 1972](../../northern-ireland/orders-in-council/1972/1999-local-government-c-northern-ireland-order-1972.md) — 7 regulations on this topic made under it

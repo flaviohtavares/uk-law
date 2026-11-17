@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 11
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-11
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 11
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 11 — PROVISIONS RELATING TO STATUTORY UNDERTAKERS, ETC.
+
+*Extent: E+W+S*
 
 Article 63
 
 ### Apparatus of statutory undertakers, etc. on land acquired
 
-**1.** (1) Subject to the following provisions of this paragraph, sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired under this Order, or which is held by the undertaker and is appropriated or used (or about to be used) by it for the purposes of the Order or purposes connected therewith and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
+**1.**[^c-f7aa2a113a36c6af720b17490706c011] (1) Subject to the following provisions of this paragraph, sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired under this Order, or which is held by the undertaker and is appropriated or used (or about to be used) by it for the purposes of the Order or purposes connected therewith and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1) above references to the appropriate Minister are references to the Secretary of State.
 
@@ -45,7 +49,7 @@ shall be entitled to recover from the undertaker compensation in respect of expe
 
 ### Apparatus of statutory undertakers, etc. in stopped up streets
 
-**2.** (1) Where a street is stopped up under article 11 of this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-4d508057a06071ff96ecb9560dac8c83] (1) Where a street is stopped up under article 11 of this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) The undertaker shall give not less than 28 days' notice in writing of its intention to stop up any street under article 11 of this Order to any statutory utility whose apparatus is under, in, upon, over, along or across that street.
 
@@ -86,7 +90,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ### Application of telecommunications code
 
-**3.** (1) Paragraph 21 of the telecommunications code shall not apply for the purposes of the authorised works to the extent that such works are regulated by Part XI of the 1990 Act, sections 84 and 85 of the 1991 Act (or regulations made under section 85 of that Act), paragraph 2 above or sub-paragraph (3) below.
+**3.**[^c-7dad17a82059869442db74575e22d041] (1) Paragraph 21 of the telecommunications code shall not apply for the purposes of the authorised works to the extent that such works are regulated by Part XI of the 1990 Act, sections 84 and 85 of the 1991 Act (or regulations made under section 85 of that Act), paragraph 2 above or sub-paragraph (3) below.
 
 (2) Paragraph 23 of the telecommunications code shall apply for the purposes of the authorised works, save—
 
@@ -104,8 +108,14 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
+[^c-f7aa2a113a36c6af720b17490706c011]: Commencement: Sch. 11 para. 1 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
 [^f00046]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
 [^f00047]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
 
 [^f00048]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^c-4d508057a06071ff96ecb9560dac8c83]: Commencement: Sch. 11 para. 2 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-7dad17a82059869442db74575e22d041]: Commencement: Sch. 11 para. 3 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

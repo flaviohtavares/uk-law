@@ -3,16 +3,16 @@ title: The Mental Health Act 1983 (Independent Mental Health Advocates) (England
 id: uksi/2008/3166
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2008-12-09'
-text_date: '2008-12-09'
+text_date: '2013-04-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/3166
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/3166/pdfs/uksiem_20083166_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3166/pdfs/uksi_20083166_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/3166/data.pdf
-pending_changes: 13
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,13 +20,11 @@ summary: ''
 
 # The Mental Health Act 1983 (Independent Mental Health Advocates) (England) Regulations 2008
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2008-12-09. See https://www.legislation.gov.uk/changes/affected/uksi/2008/3166
+> Text as at 2013-04-01.
 >
 > Extent: England, Wales.
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 2008 No. 3166
 
@@ -61,72 +59,26 @@ The Secretary of State in exercise of the powers conferred by section 130A of th
 In these Regulations—
 
 - “the Act” means the Mental Health Act 1983;
-- “commissioning body” means a body, individual or group of individuals (or any combination of these) authorised under regulations 3 and 10 of the National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^f00003] or regulation 4 of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^f00004] to exercise section 130A functions;
+- “[^c-50a19e757b5a403fc81b02b429c465a2]**commissioning body**” means a local social services authority whose area is in England;
 - “IMHA” means an independent mental health advocate;
 - “provider of advocacy services” means a person (including a voluntary organisation) that employs or engages individuals who may be made available to act as an IMHA but does not include a commissioning body;
-- “section 130A functions” means the Secretary of State’s functions under section 130A of the Act.
+- “[^c-27c4be1e70bc7deb817fdc4576da385f]**section 130A functions**” means the functions under section 130A of the Act of a local social services authority whose area is in England.
 
-## 3. Directions in respect of section 130A functions[^c-86164d670fb26839a9c38b0b24642d0e]
+## 3. Circumstances in which a person may be appointed to be an Independent Mental Health Advocate[^c-86164d670fb26839a9c38b0b24642d0e][^c-c65579d9bc6dc002ab6f523f1280581b]
 
-(1) Where a commissioning body, in exercising section 130A functions, enters into arrangements with an individual who may be made available to act as an IMHA the Secretary of State directs that the commissioning body must be satisfied that the conditions set out in regulation 6 are satisfied.
+(1) A commissioning body, in exercising section 130A functions, may enter into arrangements to appoint an individual to act as an IMHA only if the commissioning body is satisfied that the conditions set out in regulation 6 are satisfied.
 
-(2) Where a commissioning body, in exercising section 130A functions, enters into arrangements with a provider of advocacy services the Secretary of State directs that such arrangements must include a term that the provider of advocacy services is satisfied that the conditions set out in regulation 6 are satisfied.
+(2) A commissioning body, in exercising section 130A functions, may enter into arrangements with a provider of advocacy services only if such arrangements include a term that the provider is satisfied that the conditions set out in regulation 6 are satisfied in respect of an individual made available by the provider to act as an IMHA.
 
-(3) The Secretary of State directs that a commissioning body, in exercising section 130A functions must, as far as reasonably practicable, have regard to the diverse circumstances (including but not limited to the ethnic, cultural and demographic needs) of qualifying patients in respect of whom that commissioning body may exercise those functions.
+(3) A commissioning body may only enter into the arrangements described in paragraphs (1) or (2) above where it has had due regard to the diverse circumstances (including but not limited to the ethnic, cultural and demographic needs) of qualifying patients.
 
-## 4. Amendment of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^c-f8d3297fa0a7acf999dad851ef769d04]
+## 4. Amendment of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^c-91e4db5abf10f5f6dc70e4a91ff7dc17]
 
-In regulation 5(b) (functions of NHS bodies) of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000, for “and 117” substitute “, 117 and 130A”.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^c-2072adff31a610e917ce0a60b6208d4d]
+## 5. Amendment of the National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^c-1f5204c118cd26c5a2dbce48bfee46f1]
 
-(1) The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002 are amended as follows.
-
-(2) In regulation 2 (interpretation) after the definition of “prison”, insert—
-
-> - “qualifying patient” has the same meaning as in section 130C of the Mental Health Act 1983;
-
-.
-
-(3) In regulation 3 (functions of the Secretary of State exercisable by Strategic Health Authorities and Primary Care Trusts)—
-
-- (a) at the end of paragraph (7)(a)(i), delete “and”;
-- (b) after paragraph (7)(a)(ii), add—
-
-  > - (iii) qualifying patients resident in Scotland, Wales or Northern Ireland who are present in its area and who do not fall under the responsibility of another Primary Care Trust under head (i) above; and
-  > - (iv) qualifying patients present in Wales who are liable to be detained under the Mental Health Act 1983 in a hospital or registered establishment in its area and who do not fall under the responsibility of another Primary Care Trust under head (i) and (ii) above.
-
-  ;
-- (c) after paragraph (11) add—
-
-  > (12) In this regulation, “registered establishment” has the same meaning as in section 34(1) of the Mental Health Act 1983.
-
-  .
-
-(4) In regulation 10 (arrangements by Primary Care Trusts for exercise of functions)—
-
-- (a) in paragraph (1) for “paragraphs (5)”, substitute “paragraphs (1A), (5)”;
-- (b) after paragraph (1), insert—
-
-  > (1A) A Primary Care Trust may not exercise jointly with an NHS trust any functions under section 130A of the Mental Health Act 1983.
-
-  .
-
-(5) After the entry relating to section 121 of the Chronically Sick and Disabled Persons Act 1970[^f00005] in Part 2 of Schedule 1 (Secretary of State Functions exercisable by (A) Primary Care Trusts and (B) Strategic Health Authorities for Specified Purposes Only)—
-
-(6) in column (1), add the following entry—
-
-> “Mental Health Act 1983—
->
-> - section 130A
-
-;
-
-- (a) in column (2), add the following entry—
-
-  > Making such arrangements as considered reasonable to enable independent mental health advocates to help qualifying patients
-
-  .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Independent Mental Health Advocates: conditions[^c-f34671ffc6a75fc1554b1a6287ec7378]
 
@@ -143,10 +95,10 @@ In regulation 5(b) (functions of NHS bodies) of the NHS Bodies and Local Authori
 
 (4) The standards referred to in paragraph (3) may include any qualification that the Secretary of State may determine as appropriate.
 
-(5) For the purposes of the condition referred to in paragraph (2)(b) there must be obtained in respect of that person—
+(5)[^c-8c5da44107908498a538386e28bac556] For the purposes of the condition referred to in paragraph (2)(b) there must be obtained, in respect of that person, an enhanced criminal record certificate issued pursuant to section 113B of the Police Act 1997 which includes—
 
-- (a) an enhanced criminal record certificate issued pursuant to section 113B of the Police Act 1997[^f00006] (enhanced criminal record certificates); or
-- (b) if the purpose for which the certificate is required is not one prescribed under subsection (2) of that section, a criminal record certificate issued pursuant to section 113A of that Act (criminal record certificates).
+- (a) where the qualifying patient has not attained the age of 18, suitability information relating to children (within the meaning of section 113BA of the Police Act 1997);
+- (b) where the qualifying patient has attained the age of 18, suitability information relating to vulnerable adults (within the meaning of section 113BB of that Act).
 
 ## 7. Persons not professionally concerned with a patient’s medical treatment[^c-6db4a015304e871ad3dbfffeaa476fa5]
 
@@ -189,24 +141,24 @@ Regulation 7 specifies those who are not to be treated as concerned in the patie
 
 [^f00002]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^c-8d4fbf6fce77fbdbdee354591efe7a4f]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
+[^c-8d4fbf6fce77fbdbdee354591efe7a4f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
 
-[^c-4cbf219f05469324c939bbfdba8aae5d]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
+[^c-4cbf219f05469324c939bbfdba8aae5d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/3166/regulation/2) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
 
-[^f00003]: Footnote: [S.I .2002/2375](https://www.legislation.gov.uk/uksi/2002/2375); relevant amending instruments are [S.I. 2003/1497](https://www.legislation.gov.uk/uksi/2003/1497), [2004/865](https://www.legislation.gov.uk/uksi/2004/865), [2006/359](https://www.legislation.gov.uk/uksi/2006/359), [2007/559](https://www.legislation.gov.uk/uksi/2007/559) and [1818](https://www.legislation.gov.uk/uksi/2007/1818).
+[^c-50a19e757b5a403fc81b02b429c465a2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/3166/regulation/2) substituted (1.4.2013) by [The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/261)](https://www.legislation.gov.uk/uksi/2013/261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2013/261/regulation/16/2/a)
 
-[^f00004]: Footnote: [S.I.2000/617](https://www.legislation.gov.uk/uksi/2000/617).
+[^c-27c4be1e70bc7deb817fdc4576da385f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/3166/regulation/2) substituted (1.4.2013) by [The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/261)](https://www.legislation.gov.uk/uksi/2013/261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2013/261/regulation/16/2/b)
 
-[^c-86164d670fb26839a9c38b0b24642d0e]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
+[^c-86164d670fb26839a9c38b0b24642d0e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/3166/regulation/3) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
 
-[^c-f8d3297fa0a7acf999dad851ef769d04]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
+[^c-c65579d9bc6dc002ab6f523f1280581b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/3166/regulation/3) substituted (1.4.2013) by [The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/261)](https://www.legislation.gov.uk/uksi/2013/261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2013/261/regulation/16/3)
 
-[^c-2072adff31a610e917ce0a60b6208d4d]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
+[^c-91e4db5abf10f5f6dc70e4a91ff7dc17]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/3166/regulation/4) omitted (1.4.2013) by virtue of [The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/261)](https://www.legislation.gov.uk/uksi/2013/261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2013/261/regulation/16/4)
 
-[^f00005]: Footnote: [1970 c.44](https://www.legislation.gov.uk/ukpga/1970/44).
+[^c-1f5204c118cd26c5a2dbce48bfee46f1]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/3166/regulation/5) omitted (1.4.2013) by virtue of [The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/261)](https://www.legislation.gov.uk/uksi/2013/261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2013/261/regulation/16/5)
 
-[^c-f34671ffc6a75fc1554b1a6287ec7378]: Commencement: Reg. 6 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
+[^c-f34671ffc6a75fc1554b1a6287ec7378]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/3166/regulation/6) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
 
-[^f00006]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50). Sections 113A and 113B were inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15). Section 113A was amended by paragraph 14 of Schedule 9 to the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47), section 78 of the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14) and section 50 of the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4). Section 113B was amended by paragraph 14 of Schedule 9 to the Safeguarding Vulnerable Groups Act 2006, paragraph 149 of Schedule 16 to the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52) and section 79 of the Protection of Vulnerable Groups (Scotland) Act 2007.
+[^c-8c5da44107908498a538386e28bac556]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/6/5) substituted (12.10.2009) by [The Mental Health and Mental Capacity (Advocacy) Amendment (England) Regulations 2009 (S.I. 2009/2376)](https://www.legislation.gov.uk/uksi/2009/2376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2376/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/2376/regulation/3/2)
 
-[^c-6db4a015304e871ad3dbfffeaa476fa5]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)
+[^c-6db4a015304e871ad3dbfffeaa476fa5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/3166/regulation/7) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3166/regulation/1/2)

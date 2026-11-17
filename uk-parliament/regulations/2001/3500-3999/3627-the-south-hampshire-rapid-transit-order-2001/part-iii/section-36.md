@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 36
 act: The South Hampshire Rapid Transit Order 2001
 section: '36'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/36
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 36
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 36. Application of Part I of Compulsory Purchase Act 1965
+## 36. Application of Part I of Compulsory Purchase Act 1965[^c-a6365139e3632488e3b8ba44265898b1]
+
+*Extent: E+W+S*
 
 (1) Part I of the 1965 Act, in so far as not modified by or inconsistent with the provisions of this Order, shall apply to the acquisition of land under this Order—
 
@@ -29,5 +33,7 @@ summary: ''
   - (ii) in any other case, a reference to notice of 3 months.
 
 ## Annotations
+
+[^c-a6365139e3632488e3b8ba44265898b1]: Commencement: Art. 36 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00030]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

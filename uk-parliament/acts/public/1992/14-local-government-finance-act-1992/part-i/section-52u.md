@@ -3,7 +3,7 @@ title: Local Government Finance Act 1992, section 52U
 act: Local Government Finance Act 1992
 section: 52U
 status: revised-with-pending-changes
-text_date: '2026-06-29'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1992/14/section/52U
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Local Government Finance Act 1992, section 52U
 
-> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
+> **Warning: changes not yet applied to this text (35).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
 > Extent: England, Wales.
 

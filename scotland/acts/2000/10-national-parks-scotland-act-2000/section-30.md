@@ -3,7 +3,7 @@ title: National Parks (Scotland) Act 2000, section 30
 act: National Parks (Scotland) Act 2000
 section: '30'
 status: revised-with-pending-changes
-text_date: '2014-12-08'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2000/10/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # National Parks (Scotland) Act 2000, section 30
 
-> **Warning: changes not yet applied to this text (28).** Text as at 2014-12-08. See https://www.legislation.gov.uk/changes/affected/asp/2000/10
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/asp/2000/10
 >
 > Extent: Scotland.
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) modifying—
   - (i) the area of a National Park identified in a designation order,
   - (ii) the functions conferred on a National Park authority by virtue of section 9(2)(d) or under section 10,
-  - (iii) the matters specified in a designation order by virtue of section 7(1)(c) or (d), or
+  - (iii) the matters specified in a designation order by virtue of section 7(1)(c) , (ca)[^c-57fd2b7348873fb4ec6f6ed3ca2e00e7] or (d), or
 - (b) revoking a designation order.
 
 (3) In such a case the Scottish Ministers must set out in writing—
@@ -45,3 +45,7 @@ and, in either case, their reasons for the proposal.
 with such modifications as the Scottish Ministers may by order specify.
 
 (5) Sections 2 to 7 do not otherwise apply in relation to an order under subsection (1) of this section.
+
+## Annotations
+
+[^c-57fd2b7348873fb4ec6f6ed3ca2e00e7]: Textual amendment: Word in [s. 30(2)(a)(iii)](https://www.legislation.gov.uk/asp/2000/10/section/30/2/a/iii) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 9(5)](https://www.legislation.gov.uk/asp/2026/6/section/9/5), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/g)

@@ -3,16 +3,16 @@ title: The National Health Service (Charges for Drugs and Appliances) and (Trave
 id: uksi/2008/1697
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-26'
-text_date: null
-extent: null
+text_date: '2008-06-26'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1697
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1697/pdfs/uksiem_20081697_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1697/pdfs/uksi_20081697_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1697/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1697/data.pdf
+pending_changes: 6
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment (No.2) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (6).** Text as at 2008-06-26. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1697
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1697
 
@@ -48,7 +54,7 @@ regulations 3 and 4
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 172, 182, 183, 184 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation, commencement, application and interpretation
+## 1. Citation, commencement, application and interpretation[^c-225d3c177a145504ac76b80ccb456a96]
 
 (1) These Regulations may be cited as the National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment (No.2) Regulations 2008 and shall come into force on 1<sup>st</sup> August 2008, except for regulations 3 and 4 which shall come into force on 27<sup>th</sup> October 2008.
 
@@ -60,7 +66,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - “the Income Support Regulations” means the means the Income Support (General) Regulations 1987[^f00003];
 - “the Travel Expenses and Remission of Charges Regulations” means the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00004].
 
-## 2. Amendment of regulation 2 of the Charges Regulations
+## 2. Amendment of regulation 2 of the Charges Regulations[^c-464020b659e6403db29d10f88a35fe43]
 
 In regulation 2 of the Charges Regulations (interpretation), in paragraph (1)—
 
@@ -73,7 +79,7 @@ In regulation 2 of the Charges Regulations (interpretation), in paragraph (1)—
   ; and
 - (b) in the definition of “prescriber”, after “pharmacist independent prescriber,” insert “optometrist independent prescriber,”.
 
-## 3. Amendment of regulation 2 of the Travel Expenses and Remission of Charges Regulations
+## 3. Amendment of regulation 2 of the Travel Expenses and Remission of Charges Regulations[^c-3ad2fb951f9cc14eb82da290439c7f60]
 
 (1) Regulation 2 of the Travel Expenses and Remission of Charges Regulations (interpretation) is amended as follows.
 
@@ -89,7 +95,7 @@ In regulation 2 of the Charges Regulations (interpretation), in paragraph (1)—
 
 .
 
-## 4. Amendment of regulation 5 of the Travel Expenses and Remission of Charges Regulations
+## 4. Amendment of regulation 5 of the Travel Expenses and Remission of Charges Regulations[^c-1a8c4f68e500325bc3f14812df92e1fa]
 
 In regulation 5 of the Travel Expenses and Remission of Charges Regulations (entitlement to full remission and payment), in paragraph (1)—
 
@@ -100,7 +106,7 @@ In regulation 5 of the Travel Expenses and Remission of Charges Regulations (ent
   ; and
 - (b) in sub-paragraph (d), after “income based jobseeker’s allowance” insert “, income-related employment and support allowance”.
 
-## 5. Modifications of the Income Support Regulations in Schedule 1 to the Travel Expenses and Remission of Charges Regulations
+## 5. Modifications of the Income Support Regulations in Schedule 1 to the Travel Expenses and Remission of Charges Regulations[^c-19c5ed29884e95a8cf811eb7b2e4d5ff]
 
 (1) Schedule 1 to the Travel Expenses and Remission of Charges Regulations (Modifications of the Income Support (General) Regulations 1987) is amended as follows.
 
@@ -134,16 +140,26 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
+[^c-225d3c177a145504ac76b80ccb456a96]: Commencement: Reg. 1 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2000/620](https://www.legislation.gov.uk/uksi/2000/620); relevant amendments are made by [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [2006/913](https://www.legislation.gov.uk/uksi/2006/913).
 
 [^f00003]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
 [^f00004]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); relevant amendments are made by [S.I. 2004/663](https://www.legislation.gov.uk/uksi/2004/663), [2005/578](https://www.legislation.gov.uk/uksi/2005/578), and [2007/1975](https://www.legislation.gov.uk/uksi/2007/1975).
 
+[^c-464020b659e6403db29d10f88a35fe43]: Commencement: Reg. 2 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
+
 [^f00005]: Footnote: [1989 c.44](https://www.legislation.gov.uk/ukpga/1989/44).
+
+[^c-3ad2fb951f9cc14eb82da290439c7f60]: Commencement: Reg. 3 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
 [^f00007]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^c-1a8c4f68e500325bc3f14812df92e1fa]: Commencement: Reg. 4 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
+
+[^c-19c5ed29884e95a8cf811eb7b2e4d5ff]: Commencement: Reg. 5 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1697/regulation/1/1)
 
 [^f00008]: Footnote: The Guide is available on the Student Awards Agency for Scotland website at http://www.saas.gov.uk.

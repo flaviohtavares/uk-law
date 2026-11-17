@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 27
 act: The South Hampshire Rapid Transit Order 2001
 section: '27'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/27
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 27
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 27. Attachment of equipment to buildings for purposes of transit system
+## 27. Attachment of equipment to buildings for purposes of transit system[^c-2dd131d09cc72052d11e766264c52aca]
+
+*Extent: E+W+S*
 
 (1) Subject to the following provisions of this article, the undertaker may affix to any building, other than an excepted building—
 
@@ -51,5 +55,7 @@ the consent shall be deemed to have been withheld.
   - (b) in relation to any other building, means the person for the time being receiving the rack rent of the building whether on his own account or as agent or trustee for any other person, or who would so receive it if the building were let at a rack rent.
 
 ## Annotations
+
+[^c-2dd131d09cc72052d11e766264c52aca]: Commencement: Art. 27 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00023]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).

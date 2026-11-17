@@ -2,8 +2,8 @@
 title: English Devolution and Community Empowerment Act 2026, section 12
 act: English Devolution and Community Empowerment Act 2026
 section: '12'
-status: not-yet-in-force
-text_date: '2026-11-04'
+status: revised
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/23/section/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # English Devolution and Community Empowerment Act 2026, section 12
 
-> This provision is not yet in force.
+> Text as at 2026-11-13.
 >
 > Extent: England, Wales.
 
-## 12. Mayoral combined authorities and CCAs: precepts[^c-d6d6fe3f2db50401d27086ff71f590b5]
+## 12. Mayoral combined authorities and CCAs: precepts[^c-d6d6fe3f2db50401d27086ff71f590b5][^c-e68c35afae5740f233beacca62b2cf5e]
 
 *Extent: E+W*
-
-**Not yet in force.**
 
 (1) In [section 40](https://www.legislation.gov.uk/ukpga/1992/14/section/40) of the [Local Government Finance Act 1992](https://www.legislation.gov.uk/ukpga/1992/14/contents) (issue of precepts by major precepting authorities)—
 
@@ -46,3 +44,5 @@ summary: ''
 ## Annotations
 
 [^c-d6d6fe3f2db50401d27086ff71f590b5]: Commencement: S. 12 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+
+[^c-e68c35afae5740f233beacca62b2cf5e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2026/23/section/12) in force at 13.11.2026 by [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)

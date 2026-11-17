@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 54
 act: The South Hampshire Rapid Transit Order 2001
 section: '54'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/54
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 54
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 54. Traffic regulation
+## 54. Traffic regulation[^c-b66226073e57772c0ae2402ff39256ae]
+
+*Extent: E+W+S*
 
 (1) Subject to the provisions of this article, the undertaker may, for the purposes of the authorised transit system, at any time prior to the expiry of 12 months from the opening of the system for use and with the consent of the traffic authority in whose area the road is situated—
 
@@ -32,3 +36,7 @@ summary: ''
 (3) Any prohibition, restriction or other provision made by the undertaker under sub-paragraph (1)(a), (c), (d) or (e) above shall have effect as if duly made by the traffic authority in whose area the road is situated as a traffic regulation order under the 1984 Act and the instrument by which it is effected may specify savings (in addition to those mentioned in Schedule 10) to which the prohibition, restriction or other provision is subject.
 
 (4) Any authorisation of a parking place made by the undertaker under sub-paragraph (1)(b) above shall have effect as if duly made by the local authority as an order under section 32 of the 1984 Act.
+
+## Annotations
+
+[^c-b66226073e57772c0ae2402ff39256ae]: Commencement: Art. 54 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

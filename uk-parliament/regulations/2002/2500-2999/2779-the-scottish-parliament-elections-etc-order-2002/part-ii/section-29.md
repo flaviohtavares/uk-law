@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 29
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '29'
-status: revised-with-pending-changes
-text_date: '2002-11-20'
-extent: S
+status: as-enacted
+text_date: null
+extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,9 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 29
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
->
-> Extent: Scotland.
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
 
-## 29. Tampering with nomination papers, ballot papers etc[^c-fb47090c6476e631f5e45c16c1516196]
-
-*Extent: S*
+## 29. Tampering with nomination papers, ballot papers etc
 
 (1) A person shall be guilty of an offence, if, at a Scottish parliamentary election, he–
 
@@ -43,8 +39,4 @@ summary: ''
 
 (4) If any other person is guilty of an offence under this article he shall be liable on summary conviction to a fine not exceeding the amount specified as level 5 on the standard scale, or to imprisonment for a term not exceeding three months, or to both.
 
-(5) In this article “nomination paper” includes a regional list of a registered party.
-
-## Annotations
-
-[^c-fb47090c6476e631f5e45c16c1516196]: Commencement: Art. 29 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+(5) In this article “**nomination paper**” includes a regional list of a registered party.

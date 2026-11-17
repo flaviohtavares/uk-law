@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 1
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — SCHEDULED WORKS
+## SCHEDULE 1 — SCHEDULED WORKS[^c-65c9f5a83daf6d5bda3fabbb170fa072]
+
+*Extent: E+W+S*
 
 Article 5
 
@@ -65,3 +69,7 @@ Article 5
 <tr><td></td><td>Work No. 9</td><td>A street tramway 1496 metres in length (double line) extending from its junction with the termination of Work No. 8 along The Hard, Queen Street, Edinburgh Road, Stanhope Road and Station Street terminating west of the junction of Station Street and Slindon Street</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-65c9f5a83daf6d5bda3fabbb170fa072]: Commencement: Sch. 1 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

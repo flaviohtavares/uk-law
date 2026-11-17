@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 44
 act: The Council Tax Benefit (General) Regulations 1992
 section: '44'
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 44
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any sums intended for any expenditure specified in regulation 42(2)(a) to (f) (calculation of grant income) necessary as a result of his attendance on the course shall be disregarded;
 - (b) any covenant income, up to the amount of the standard maintenance grant, which is not so disregarded, shall be apportioned equally between the weeks of the period of study;
-- (c) there shall be disregarded from the amount so apportioned the amount which would have been disregarded under regulation 42(2)(g) and (h) (calculation of grant income) had the student been in receipt of the standard maintenance grant;
+- (c) there shall be disregarded from the amount so apportioned the amount which would have been disregarded under regulation 42(2)(g) and (3)[^c-7f575749fa228c7c80a1be80c6db1c91] (calculation of grant income) had the student been in receipt of the standard maintenance grant;
 - (d) there shall be deducted from any amount in excess of the sums in subparagraphs (a) and (b) the amount deducted by way of tax in respect of the covenanted income; and
 - (e) the balance, if any, shall be divided by 52 or 53 whichever is reasonable in the circumstances and treated as weekly income of which £5 shall be disregarded.
 
@@ -36,3 +36,5 @@ summary: ''
 ## Annotations
 
 [^c-c8a829437d3517d2156bad65fa4cfdfc]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1992/1814/regulation/44) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+
+[^c-7f575749fa228c7c80a1be80c6db1c91]: Textual amendment: Words in [reg. 44(1)(c)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/44/1/c) substituted (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [21](https://www.legislation.gov.uk/uksi/1994/578/regulation/21)

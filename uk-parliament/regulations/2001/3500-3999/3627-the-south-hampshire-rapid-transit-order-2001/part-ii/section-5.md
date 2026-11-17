@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 5
 act: The South Hampshire Rapid Transit Order 2001
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 5. Power to construct works
+## 5. Power to construct works[^c-99d82611054f81dd7fd93b1f6cfa67b3]
+
+*Extent: E+W+S*
 
 (1) The undertaker may construct and maintain the scheduled works.
 
@@ -39,3 +43,7 @@ summary: ''
 - (a) within the limits of deviation for the scheduled works shown on the works plans;
 - (b) within the boundaries of any street along which the construction of a street tramway is shown on the works plans or which has a junction with such a street; or
 - (c) on land specified in columns (1) and (2) of Schedule 2 to this Order for the purpose specified in relation to that land in column (3) of that Schedule.
+
+## Annotations
+
+[^c-99d82611054f81dd7fd93b1f6cfa67b3]: Commencement: Art. 5 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

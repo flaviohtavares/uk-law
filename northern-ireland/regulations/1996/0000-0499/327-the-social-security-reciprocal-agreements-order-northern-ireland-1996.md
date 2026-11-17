@@ -3,14 +3,14 @@ title: The Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996
 id: nisr/1996/327
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-18'
-text_date: null
-extent: null
+text_date: '1996-07-18'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/327
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/327/made/data.pdf
-pending_changes: 3
+- http://www.legislation.gov.uk/nisr/1996/327/data.pdf
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (8).** Text as at 1996-07-18. See https://www.legislation.gov.uk/changes/affected/nisr/1996/327
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 327
 
@@ -36,11 +42,11 @@ Coming into operation
 
 In exercise of the powers conferred on me by section 155(1)(*b*) and (2) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling me in that behalf, I hereby make the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-548e77423f98c77f5ce323446a636659]
 
 This Order may be cited as the Social Security (Reciprocal Agreements) Order (Northern Ireland) 1996 and shall come into operation on 7th October 1996.
 
-## 2. Modification or adaptation of Acts and the Jobseekers (Northern Ireland) Order
+## 2. Modification or adaptation of Acts and the Jobseekers (Northern Ireland) Order[^c-9235bd274644ae8a3a8281ecaa33cd18]
 
 The Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], the Social Security Administration (Northern Ireland) Act 1992 and the Jobseekers (Northern Ireland) Order 1995[^f00003] shall be modified or adapted to such extent as may be required to give effect to the alterations set out in Schedule 1 to this Order which are proposed to the agreements set out in the Orders in Council, or Orders made by the Secretary of State, specified in Schedule 2 to this Order.
 
@@ -54,11 +60,11 @@ Dated this 18th day of July 1996.
 
 Article 2
 
-**1.** Where in the agreement set out in the Schedule to an Order in Council, or an Order made by the Secretary of State, specified in Schedule 2 to this Order there are references to unemployment benefit under the legislation of the United Kingdom or any specified part thereof, such references shall be altered to include a reference to contribution-based jobseeker’s allowance under the legislation of the United Kingdom or any specified part thereof.
+**1.**[^c-d3595cb83b71551f283a55f440476a84] Where in the agreement set out in the Schedule to an Order in Council, or an Order made by the Secretary of State, specified in Schedule 2 to this Order there are references to unemployment benefit under the legislation of the United Kingdom or any specified part thereof, such references shall be altered to include a reference to contribution-based jobseeker’s allowance under the legislation of the United Kingdom or any specified part thereof.
 
-**2.** Where in the agreement set out in the Schedule to an Order in Council, or an Order made by the Secretary of State, specified in Schedule 2 to this Order there is a definition of the legislation to which the agreement applies, that definition shall be read as including a reference to the Jobseekers (Northern Ireland) Order 1995.
+**2.**[^c-ee660103f56b1c4efd0338937ae2df9e] Where in the agreement set out in the Schedule to an Order in Council, or an Order made by the Secretary of State, specified in Schedule 2 to this Order there is a definition of the legislation to which the agreement applies, that definition shall be read as including a reference to the Jobseekers (Northern Ireland) Order 1995.
 
-## SCHEDULE 2 — Orders in Council and Orders of the Secretary of State modified by this Order
+## SCHEDULE 2 — Orders in Council and Orders of the Secretary of State modified by this Order[^c-e9c4117ebf2669fff5f8f99da63b33f3]
 
 Article 2
 
@@ -99,6 +105,16 @@ This Order provides for social security legislation to be modified or adapted to
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 155 was amended by paragraph 48 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705))
 
+[^c-548e77423f98c77f5ce323446a636659]: Commencement: Art. 1 in operation at 7.10.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/327/article/1)
+
+[^c-9235bd274644ae8a3a8281ecaa33cd18]: Commencement: Art. 2 in operation at 7.10.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/327/article/1)
+
 [^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
 [^f00003]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
+
+[^c-d3595cb83b71551f283a55f440476a84]: Commencement: Sch. 1 para. 1 in operation at 7.10.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/327/article/1)
+
+[^c-ee660103f56b1c4efd0338937ae2df9e]: Commencement: Sch. 1 para. 2 in operation at 7.10.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/327/article/1)
+
+[^c-e9c4117ebf2669fff5f8f99da63b33f3]: Commencement: Sch. 2 in operation at 7.10.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/327/article/1)

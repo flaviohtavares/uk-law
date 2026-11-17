@@ -3,15 +3,15 @@ title: The Plastic Materials and Articles in Contact with Food (England) (Amendm
 id: uksi/2008/1642
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-23'
-text_date: null
-extent: null
+text_date: '2008-07-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1642
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1642/pdfs/uksiem_20081642_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1642/pdfs/uksi_20081642_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1642/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1642/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Plastic Materials and Articles in Contact with Food (England) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1642
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 1642
 
@@ -52,18 +56,18 @@ In accordance with section 48(4A) of the Food Safety Act 1990 he has had regard 
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Title and commencement
+## 1. Title and commencement[^c-0476ba9e5bdcde384681a9aaba1050f5]
 
 These Regulations may be cited as the Plastic Materials and Articles in Contact with Food (England) (Amendment) Regulations 2008 and come into force —
 
 - (a) for the purpose of regulation 4 on 30th June 2008, and
 - (b) for all other purposes the 1st July 2008.
 
-## 2. Amendments to the Plastic Materials and Articles in Contact with Food (England) Regulations 2008
+## 2. Amendments to the Plastic Materials and Articles in Contact with Food (England) Regulations 2008[^c-4c81b17db2bac3fb9f30636934d8f627]
 
 The Plastic Materials and Articles in Contact with Food (England) Regulations 2008[^f00004] are amended in accordance with regulations 3 to 5.
 
-**3.** For paragraph (3) of regulation 22 (other transitional defences and savings) substitute the following —
+**3.**[^c-1b6e31426ff9dd09097db04ff8e5e599] For paragraph (3) of regulation 22 (other transitional defences and savings) substitute the following —
 
 > (3) In any proceedings for an offence under these Regulations other than an offence referred to in regulation 21(1), it shall be a defence to prove —
 >
@@ -72,13 +76,13 @@ The Plastic Materials and Articles in Contact with Food (England) Regulations 20
 > - (c) in any case other than those mentioned in sub-paragraph (a) or (b), that the act constituting the alleged offence was committed in relation to a plastic material or article which was manufactured or imported into the European Community before 1st May 2009; and
 > - (d) that the act constituting the alleged offence would not otherwise have constituted an offence under these Regulations if the amendments to the Directive made by Commission Directive [2007/19/EC](https://www.legislation.gov.uk/european/directive/2007/0019) had not been implemented in England at the time the matter occurred.
 
-**4.** In regulation 29 (revocations), omit paragraph (c).
+**4.**[^c-ba2f22a0fd88d152e2d5ccd9b30ca6f4] In regulation 29 (revocations), omit paragraph (c).
 
-## 5. Amendment to the Materials and Articles in Contact with Food (England) Regulations 2007
+## 5. Amendment to the Materials and Articles in Contact with Food (England) Regulations 2007[^c-762f35940a92c0e77f1bccd13b671864]
 
 In paragraph (5) of regulation 11 (migration limits for regenerated cellulose film coated with plastics) of the Materials and Articles in Contact with Food (England) Regulations 2007[^f00007], for the expression “as read with regulation 11” substitute “as read with regulation 13”.
 
-## 6. Amendment of the Plastic Materials and Articles in Contact with Food (Lid Gaskets) (England) Regulations 2007
+## 6. Amendment of the Plastic Materials and Articles in Contact with Food (Lid Gaskets) (England) Regulations 2007[^c-18fd0b512e0cee750fe8ff0a95191b9a]
 
 In regulation 2 (interpretation) of the Plastic Materials and Articles in Contact with Food (Lid Gaskets) (England) Regulations 2007[^f00008], for the definition of “the Commission Regulation” substitute the following definition —
 
@@ -116,13 +120,25 @@ EXPLANATORY NOTE
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1.). That Regulation was last amended by Commission Regulation (EC) No. 202/2008 (OJ No. L60, 5.3.2008, p.17).
 
+[^c-0476ba9e5bdcde384681a9aaba1050f5]: Commencement: Reg. 1 in force at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/1642/regulation/1/b)
+
+[^c-4c81b17db2bac3fb9f30636934d8f627]: Commencement: Reg. 2 in force at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/1642/regulation/1/b)
+
 [^f00004]: Footnote: [S.I. 2008/916](https://www.legislation.gov.uk/uksi/2008/916).
+
+[^c-1b6e31426ff9dd09097db04ff8e5e599]: Commencement: Reg. 3 in force at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/1642/regulation/1/b)
 
 [^f00005]: Footnote: OJ No. L92, 3.4.2007, p.9.
 
 [^f00006]: Footnote: [Commission Regulation (EC) No. 597/2008](https://www.legislation.gov.uk/european/regulation/2008/0597) (OJ No. L164, 25.6.2008, p.12).
 
+[^c-ba2f22a0fd88d152e2d5ccd9b30ca6f4]: Commencement: Reg. 4 in force at 30.6.2008, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/2008/1642/regulation/1/a)
+
+[^c-762f35940a92c0e77f1bccd13b671864]: Commencement: Reg. 5 in force at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/1642/regulation/1/b)
+
 [^f00007]: Footnote: [S.I. 2007/2790](https://www.legislation.gov.uk/uksi/2007/2790), as amended by [S.I. 2008/916](https://www.legislation.gov.uk/uksi/2008/916).
+
+[^c-18fd0b512e0cee750fe8ff0a95191b9a]: Commencement: Reg. 6 in force at 1.7.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/1642/regulation/1/b)
 
 [^f00008]: Footnote: [S.I. 2007/2786](https://www.legislation.gov.uk/uksi/2007/2786).
 

@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 58
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '58'
-status: revised-with-pending-changes
-text_date: '2002-11-20'
-extent: S
+status: as-enacted
+text_date: null
+extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/58
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,9 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 58
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
->
-> Extent: Scotland.
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
 
-## 58. Right to send election address post free[^c-c6afbb1483c6ffebfbc601abd1e7d4da]
-
-*Extent: S*
+## 58. Right to send election address post free
 
 (1) At a Scottish parliamentary election–
 
@@ -37,17 +33,15 @@ is entitled, to send free of any charge for postage which would otherwise be mad
 
 (4) A registered party shall not be deemed to have submitted a regional list for the purposes of this article unless that party is shown as standing nominated in the statement published under rule 20 of the Scottish Parliamentary Election Rules but until the publication of that statement the nominating officer of a party which has submitted a regional list shall be entitled to exercise the right of free postage conferred by this article if he gives such security as may be required by the universal service provider should the party not be shown as standing nominated as mentioned above.
 
-(5) For the purposes of this article, “elector” means a person–
+(5) For the purposes of this article, “**elector**” means a person–
 
 - (a) who is registered in the register of electors for the constituency or region on the last day for publication of notice of the election; and
 - (b) includes a person then shown in that register as below voting age if (but only if) it appears from the register that he will be of voting age on the day fixed for the poll,
 
-(6) In this article “universal service provider” has the same meaning as in the Postal Services Act 2000[^f00027].
+(6) In this article “**universal service provider**” has the same meaning as in the Postal Services Act 2000[^f00027].
 
 (7) If the area of a regional returning officer is situated in the area of more than one official designated by a universal postal service provider, the controlling designated official shall be determined by that regional returning officer.
 
 ## Annotations
-
-[^c-c6afbb1483c6ffebfbc601abd1e7d4da]: Commencement: Art. 58 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00027]: Footnote: [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26).

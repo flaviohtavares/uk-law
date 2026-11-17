@@ -3,14 +3,14 @@ title: The South Hampshire Rapid Transit Order 2001
 id: uksi/2001/3627
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2001-07-03'
-text_date: null
-extent: null
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2001/3627/pdfs/uksi_20013627_en.pdf
-- http://www.legislation.gov.uk/uksi/2001/3627/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2001/3627/data.pdf
 pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2001 No. 3627
 
@@ -53,6 +57,8 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 ### PART I — PRELIMINARY
 
+*Extent: E+W+S*
+
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Application of enactments relating to railways](part-i/section-3.md)
@@ -60,13 +66,19 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 ### PART II — WORKS PROVISIONS
 
+*Extent: E+W+S*
+
 #### Principal powers
+
+*Extent: E+W+S*
 
 - [Section 5 — Power to construct works](part-ii/section-5.md)
 - [Section 6 — Power to deviate](part-ii/section-6.md)
 - [Section 7 — Designation of works](part-ii/section-7.md)
 
 #### Streets
+
+*Extent: E+W+S*
 
 - [Section 8 — Power to alter layout of streets](part-ii/section-8.md)
 - [Section 9 — Power to keep apparatus in streets](part-ii/section-9.md)
@@ -82,10 +94,14 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 #### Incorporation of railways
 
+*Extent: E+W+S*
+
 - [Section 19 — Agreements with Railtrack](part-ii/section-19.md)
 - [Section 20 — As to local railway enactments](part-ii/section-20.md)
 
 #### The Tunnel
+
+*Extent: E+W+S*
 
 - [Section 21 — Additional powers for tunnel](part-ii/section-21.md)
 - [Section 22 — Prohibitions within tunnel area](part-ii/section-22.md)
@@ -95,6 +111,8 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 - [Section 26 — Protection of navigation](part-ii/section-26.md)
 
 #### Supplemental
+
+*Extent: E+W+S*
 
 - [Section 27 — Attachment of equipment to buildings for purposes of transit system](part-ii/section-27.md)
 - [Section 28 — Discharge of water](part-ii/section-28.md)
@@ -107,7 +125,11 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 ### PART III — ACQUISITION AND POSSESSION OF LAND
 
+*Extent: E+W+S*
+
 #### Powers of acquisition
+
+*Extent: E+W+S*
 
 - [Section 35 — Power to acquire land](part-iii/section-35.md)
 - [Section 36 — Application of Part I of Compulsory Purchase Act 1965](part-iii/section-36.md)
@@ -118,20 +140,28 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 #### Temporary possession of land
 
+*Extent: E+W+S*
+
 - [Section 41 — Temporary use of land for construction of works](part-iii/section-41.md)
 - [Section 42 — Temporary use of land for maintenance of works](part-iii/section-42.md)
 
 #### Compensation
 
+*Extent: E+W+S*
+
 - [Section 43 — Disregard of certain interests and improvements](part-iii/section-43.md)
 
 #### Supplementary
+
+*Extent: E+W+S*
 
 - [Section 44 — Acquisition of part of certain properties](part-iii/section-44.md)
 - [Section 45 — Extinction or suspension of private rights of way](part-iii/section-45.md)
 - [Section 46 — Time limit for exercise of powers of acquisition](part-iii/section-46.md)
 
 ### PART IV — OPERATION OF TRANSIT SYSTEM
+
+*Extent: E+W+S*
 
 - [Section 47 — Power to operate and use transit system](part-iv/section-47.md)
 - [Section 48 — Maintenance of approved works, etc.](part-iv/section-48.md)
@@ -152,6 +182,8 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 ### PART V — PROTECTIVE PROVISIONS
 
+*Extent: E+W+S*
+
 - [Section 63 — Statutory undertakers, etc.](part-v/section-63.md)
 - [Section 64 — Protection of railway interests](part-v/section-64.md)
 - [Section 65 — Minerals](part-v/section-65.md)
@@ -159,11 +191,15 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 ### PART VI — MISCELLANEOUS AND GENERAL
 
+*Extent: E+W+S*
+
 - [Section 67 — Disclosure of confidential information](part-vi/section-67.md)
 - [Section 68 — Certification of plans, etc.](part-vi/section-68.md)
 - [Section 69 — Service of notices](part-vi/section-69.md)
 - [Section 70 — No double recovery](part-vi/section-70.md)
 - [Section 71 — Arbitration](part-vi/section-71.md)
+
+*Extent: E+W+S*
 
 SCHEDULES
 
@@ -179,6 +215,8 @@ SCHEDULES
 - [SCHEDULE 10](schedule-10.md)
 - [SCHEDULE 11](schedule-11.md)
 - [SCHEDULE 12](schedule-12.md)
+
+*Extent: E+W+S*
 
 Signed by authority of the Secretary of State
 

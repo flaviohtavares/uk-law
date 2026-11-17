@@ -3,14 +3,14 @@ title: The Criminal Justice and Immigration Act 2008 (Commencement No.1 and Tran
 id: uksi/2008/1466
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-07'
-text_date: null
-extent: null
+text_date: '2008-06-07'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1466
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1466/pdfs/uksi_20081466_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1466/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1466/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Criminal Justice and Immigration Act 2008 (Commencement No.1 and Transitional Provisions) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-06-07. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1466
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 1466 (C. 66)
 
@@ -33,13 +37,13 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 153(7) and (8)(b) of the Criminal Justice and Immigration Act 2008[^f00001]:
 
-## 1. Citation and interpretation
+## 1. Citation and interpretation[^c-081f381dbf1d9407398a84eaef701e0d]
 
 (1) This Order may be cited as the Criminal Justice and Immigration Act 2008 (Commencement No.1 and Transitional Provisions) Order 2008.
 
 (2) In this Order “the Act” means the Criminal Justice and Immigration Act 2008.
 
-## 2. Commencement
+## 2. Commencement[^c-c4968e8644642a460299619220083ad2]
 
 Subject to articles 3 and 4, the day appointed for the coming into force of the following provisions of the Act is 9<sup>th</sup> June 2008—
 
@@ -52,7 +56,7 @@ Subject to articles 3 and 4, the day appointed for the coming into force of the 
   - (iv) 40 and 45(a) (Powers of Criminal Courts (Sentencing) Act 2000[^f00005]); and
 - (d) paragraphs 8 and 9 of Schedule 27 (transitory, transitional and saving provisions).
 
-## 3. Transitional provisions
+## 3. Transitional provisions[^c-b46e34a14508d02e8a49f037cc27ab8e]
 
 The coming into force of section 26 of the Act is of no effect in relation to—
 
@@ -63,7 +67,7 @@ The coming into force of section 26 of the Act is of no effect in relation to—
 - (e) long-term prisoners serving sentences of imprisonment for an offence of aiding, abetting counselling, procuring or inciting the commission of an offence listed in any of paragraphs (b) to (d) of this article; and
 - (f) long-term prisoners serving sentences of imprisonment for an offence of conspiring or attempting to commit an offence listed in any of paragraphs (b) to (d) of this article.
 
-**4.** The coming into force of paragraph 19(4) of Schedule 26 to the Act is no effect in relation to long-term prisoners serving a sentence for one or more offences committed before 4<sup>th</sup> April 2005 by virtue of having been transferred to the United Kingdom pursuant to a warrant under section 1 of the Repatriation of Prisoners Act 1984 where the warrant was issued prior to the commencement of section 26 of the Act.
+**4.**[^c-e1a45b80d78db817e1a2c147e1a56292] The coming into force of paragraph 19(4) of Schedule 26 to the Act is no effect in relation to long-term prisoners serving a sentence for one or more offences committed before 4<sup>th</sup> April 2005 by virtue of having been transferred to the United Kingdom pursuant to a warrant under section 1 of the Repatriation of Prisoners Act 1984 where the warrant was issued prior to the commencement of section 26 of the Act.
 
 Signed by the authority of the Secretary of State
 
@@ -87,6 +91,10 @@ The transitional provision in article 3 provides that the duty to release prison
 
 [^f00001]: Footnote: [2008 c.4](https://www.legislation.gov.uk/ukpga/2008/4).
 
+[^c-081f381dbf1d9407398a84eaef701e0d]: Commencement: Art. 1 in force at made date
+
+[^c-c4968e8644642a460299619220083ad2]: Commencement: Art. 2 in force at made date
+
 [^f00002]: Footnote: [1991 c.53](https://www.legislation.gov.uk/ukpga/1991/53).
 
 [^f00003]: Footnote: [1984 c.47](https://www.legislation.gov.uk/ukpga/1984/47).
@@ -95,8 +103,12 @@ The transitional provision in article 3 provides that the duty to release prison
 
 [^f00005]: Footnote: [2000 c.6](https://www.legislation.gov.uk/ukpga/2000/6).
 
+[^c-b46e34a14508d02e8a49f037cc27ab8e]: Commencement: Art. 3 in force at made date
+
 [^f00006]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 
 [^f00007]: Footnote: [2001 c.24](https://www.legislation.gov.uk/ukpga/2001/24).
 
 [^f00008]: Footnote: [1956 c.69](https://www.legislation.gov.uk/ukpga/1956/69); section 12 was repealed by the Sexual Offences Act [2003 (c.42)](https://www.legislation.gov.uk/ukpga/2003/42), sections 139 and 140, Schedule 6, paragraph 11(a) and Schedule 7.
+
+[^c-e1a45b80d78db817e1a2c147e1a56292]: Commencement: Art. 4 in force at made date

@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, SCHEDULE 4
 act: The Council Tax Benefit (General) Regulations 1992
 section: schedule-4
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -101,7 +101,7 @@ but this paragraph, except in so far as it relates to a payment under sub-paragr
 
 the amount, calculated on a weekly basis, equal to—
 
-- (i) where, or insofar as, section 369 of the Income and Corporation Taxes Act 1988[^f00094] (mortgage interest payable under deduction of tax) applies to the payments of interest on the loan, the interest which is payable after deduction of a sum equal to income tax on such payments at the basic rate for the year of assessment in which the payment of interest becomes due,
+- (i) where, or insofar as, section 369 of the Income and Corporation Taxes Act 1988[^f00094] (mortgage interest payable under deduction of tax) applies to the payments of interest on the loan, the interest which is payable after deduction of a sum equal to income tax on such payments at the applicable percentage of income tax within the meaning of section 369(1A) of that Act;[^c-75b00f5b196eb44fb398ab3f0d1e4f28]
 - (ii) in any other case the interest which is payable on the loan without deduction of such a sum.
 
 **17.**[^c-28f442ab8f016ff5ed49936be0547282] Where the claimant makes a parental contribution in respect of a student attending a course at an establishment in the United Kingdom or undergoing education in the United Kingdom, which contribution has been assessed for the purposes of calculating—
@@ -128,15 +128,17 @@ whichever is less.
 
 **19.**[^c-d1f1074a755045356a95bc72a5fbf640] Any payment made to the claimant by a child or young person or a non-dependant.
 
-**20.**[^c-432a0a7322fec6aee91a6f15f7788ede] Where the claimant occupies a dwelling as his home which is also occupied by a person other than one to whom paragraph 19 refers and that person is contractually liable to make payments in respect of his occupation of the dwelling to the claimant—
+**20.**[^c-432a0a7322fec6aee91a6f15f7788ede][^c-377951cae25c4fa64db2cabaffa4532c] Where the claimant occupies a dwelling as his home and the dwelling is also occupied by a person other than one to whom paragraph 19 or 21 refers and there is a contractual liability to make payments to the claimant in respect of the occupation of the dwelling by that person or a member of his family—
 
-- (a) £4 of any payment made by that person; and
-- (b) a further £8.60 where the payment is inclusive of an amount for heating.
+- (a) £4 of the aggregate of any payments made in respect of any one week in respect of the occupation of the dwelling by that person or a member of his family, or by that person and a member of his family; and
+- (b) a further £8.60, where the aggregate of any such payments is inclusive of an amount for heating.
 
-**21.**[^c-6a6ecc43400b2d7e7c60d9c0e3d2cac7] Where the claimant occupies a dwelling as his home which is also occupied by a boarder and payments are made by the boarder in respect of his occupation—
+**21.**[^c-6a6ecc43400b2d7e7c60d9c0e3d2cac7][^c-ac0fd7c3eee9bc955edd63c19e36a083] (1) Where the claimant occupies a dwelling as his home and he provides in that dwelling board and lodging accommodation, an amount, in respect of each person for whom such accommodation is provided for the whole or any part of a week, equal to—
 
-- (a) £20.00 of any payment made by that boarder; and
-- (b) where any payment exceeds £20.00, 50% of the excess.
+- (a) where the aggregate of any payments made in respect of any one week in respect of such accommodation provided to such person does not exceed £20.00, 100% of such payments; or
+- (b) where the aggregate of any such payments exceeds £20.00, £20.00 and 50% of the excess over £20.00.
+
+(2) In this paragraph “board and lodging accommodation” means accommodation provided to a person or, if he is a member of a family, to him or any other member of his family, for a charge which is inclusive of the provision of that accommodation and at least some cooked or prepared meals which both are cooked or prepared (by a person other than the person to whom the accommodation is provided or a member of his family) and are consumed in that accommodation or associated premises.
 
 **22.**[^c-575f4e2ae620c6c71799e2bf75053716] Any income in kind.
 
@@ -258,6 +260,21 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 
 **50.** Any community charge benefit.
 
+**51.**[^c-e30b1bd1e406d444dfe7d86440bddf25] Where the claimant is in receipt of any benefit under Parts II, III or V of the Contributions and Benefits Act 1992, any increase in the rate of that benefit arising under Part IV (increases for dependants) or section 106(a) (unemployability supplement) of that Act where the dependant in respect of whom the increase is paid is not a member of the claimant’s family.
+
+**52.**[^c-d626f9e353a2a96354bd40961b9afe9c] Any supplementary pension under article 29(1A) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 (pensions to widows).
+
+**53.** In the case of a pension awarded at the supplementary rate under article 27(3) of the Personal Injuries (Civilians) Scheme 1983 (pensions to widows), the sum specified in paragraph 1(c) of Schedule 4 to that Scheme.
+
+**54.** (1) Any payment which is—
+
+- (a) made under any of the Dispensing Instruments to a widow of a person—
+  - (i) whose death was attributable to service in a capacity analogous to service as a member of the armed forces of the Crown; and
+  - (ii) whose service in such capacity terminated before 31st March 1973; and
+- (b) equal to the amount specified in article 29(1A) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 (pensions to widows).
+
+(2) In this paragraph “the Dispensing Instruments” means the Order in Council of 19th December 1881, the Royal Warrant of 27th October 1884 and the Order by His Majesty of 14th January 1922 (exceptional grants of pay, non- effective pay and allowances).
+
 ## Annotations
 
 [^c-dd9c2bb7065fc17363b619e16b7fcbbc]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/1) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
@@ -314,6 +331,8 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 
 [^f00094]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
+[^c-75b00f5b196eb44fb398ab3f0d1e4f28]: Textual amendment: Words in [Sch. 4 para. 16(i)](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/16/i) substituted (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [28(a)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/28/a)
+
 [^c-28f442ab8f016ff5ed49936be0547282]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/17) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00095]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); sections 1 and 2 were substituted by section 19 and Schedule 5 of the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20) and section 1(3) was amended by section 4 of the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11) and *see* the Education (Mandatory Awards) Regulations 1988 (S.I. [1988/1360](https://www.legislation.gov.uk/uksi/1988/1360)).
@@ -326,7 +345,11 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 
 [^c-432a0a7322fec6aee91a6f15f7788ede]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/20) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
+[^c-377951cae25c4fa64db2cabaffa4532c]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/20) substituted (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [25(2)](https://www.legislation.gov.uk/uksi/1994/578/regulation/25/2)
+
 [^c-6a6ecc43400b2d7e7c60d9c0e3d2cac7]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/21) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+
+[^c-ac0fd7c3eee9bc955edd63c19e36a083]: Textual amendment: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/21) substituted (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [25(3)](https://www.legislation.gov.uk/uksi/1994/578/regulation/25/3)
 
 [^c-575f4e2ae620c6c71799e2bf75053716]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/22) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
@@ -429,3 +452,7 @@ and any analogous payment made by the Secretary of State for Defence to any pers
 [^f00115]: Footnote: [1944 c. 10](https://www.legislation.gov.uk/ukpga/1944/10).
 
 [^c-234c270a41204b340ac51bb6f54c7acc]: Textual amendment: [Sch. 4 paras. 49](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/49), [50](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/50) added (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [25(d)](https://www.legislation.gov.uk/uksi/1993/688/regulation/25/d)
+
+[^c-e30b1bd1e406d444dfe7d86440bddf25]: Textual amendment: [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/51) added (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [25(4)](https://www.legislation.gov.uk/uksi/1994/578/regulation/25/4)
+
+[^c-d626f9e353a2a96354bd40961b9afe9c]: Textual amendment: [Sch. 4 paras. 52-54](https://www.legislation.gov.uk/uksi/1992/1814/schedule/4/paragraph/52) added (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [28(b)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/28/b)

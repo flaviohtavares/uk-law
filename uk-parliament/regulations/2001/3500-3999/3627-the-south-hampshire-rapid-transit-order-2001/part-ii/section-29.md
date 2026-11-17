@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 29
 act: The South Hampshire Rapid Transit Order 2001
 section: '29'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 29
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 29. Safeguarding works to buildings
+## 29. Safeguarding works to buildings[^c-518fe95ef579d489aba7a39108e3f32b]
+
+*Extent: E+W+S*
 
 (1) Subject to the following provisions of this article, the undertaker may, at its own expense and from time to time, carry out such safeguarding works to any building lying within the limits of deviation or on the lands numbered 16/12 and 16/13 on the land plans as the undertaker considers to be necessary or expedient.
 
@@ -63,5 +67,7 @@ the undertaker shall compensate the owners and occupiers of the building for any
   - (iii) any works the purpose of which is to secure the safe operation of the transit system or to prevent or minimise the risk of such operation being disrupted.
 
 ## Annotations
+
+[^c-518fe95ef579d489aba7a39108e3f32b]: Commencement: Art. 29 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00026]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).

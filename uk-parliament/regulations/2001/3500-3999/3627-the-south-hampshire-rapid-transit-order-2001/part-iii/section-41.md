@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 41
 act: The South Hampshire Rapid Transit Order 2001
 section: '41'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 41
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 41. Temporary use of land for construction of works
+## 41. Temporary use of land for construction of works[^c-4188145ccf35161d986ac6bfe578c173]
+
+*Extent: E+W+S*
 
 (1) The undertaker may, in connection with the carrying out of the authorised works—
 
@@ -44,5 +48,7 @@ summary: ''
 (10) In this article “building” includes structure or any other erection.
 
 ## Annotations
+
+[^c-4188145ccf35161d986ac6bfe578c173]: Commencement: Art. 41 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00032]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).

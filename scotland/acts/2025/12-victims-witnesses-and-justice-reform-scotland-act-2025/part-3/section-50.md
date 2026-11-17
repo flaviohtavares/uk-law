@@ -2,8 +2,8 @@
 title: Victims, Witnesses, and Justice Reform (Scotland) Act 2025, section 50
 act: Victims, Witnesses, and Justice Reform (Scotland) Act 2025
 section: '50'
-status: not-yet-in-force
-text_date: '2026-11-02'
+status: revised-with-pending-changes
+text_date: '2026-11-16'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2025/12/section/50
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,15 +12,13 @@ summary: ''
 
 # Victims, Witnesses, and Justice Reform (Scotland) Act 2025, section 50
 
-> This provision is not yet in force.
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-11-16. See https://www.legislation.gov.uk/changes/affected/asp/2025/12
 >
 > Extent: Scotland.
 
-## 50. Victim statements in solemn proceedings[^c-27b0305b87ce6611d85a02ae1e907fc1]
+## 50. Victim statements in solemn proceedings[^c-27b0305b87ce6611d85a02ae1e907fc1][^c-4b797b2eb730872b49c49baa546dc0f3]
 
 *Extent: S*
-
-**Not yet in force.**
 
 (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
@@ -62,3 +60,5 @@ summary: ''
 ## Annotations
 
 [^c-27b0305b87ce6611d85a02ae1e907fc1]: Commencement: S. 50 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+
+[^c-4b797b2eb730872b49c49baa546dc0f3]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2025/12/section/50) in force at 16.11.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

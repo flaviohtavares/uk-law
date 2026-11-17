@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 5
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-5
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — STREETS TO BE TEMPORARILY STOPPED UP
+## SCHEDULE 5 — STREETS TO BE TEMPORARILY STOPPED UP[^c-3e4be83e139841838474fbc907710430]
+
+*Extent: E+W+S*
 
 Article 12
 
@@ -58,3 +62,7 @@ Article 12
 <tr><td></td><td>Station Road</td><td>Between TS52 and TS53</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-3e4be83e139841838474fbc907710430]: Commencement: Sch. 5 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

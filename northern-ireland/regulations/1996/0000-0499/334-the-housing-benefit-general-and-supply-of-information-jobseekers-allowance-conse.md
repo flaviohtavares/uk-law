@@ -3,14 +3,14 @@ title: The Housing Benefit (General and Supply of Information) (Jobseeker’s Al
 id: nisr/1996/334
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-30'
-text_date: null
-extent: null
+text_date: '1996-07-30'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/334
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/334/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/334/data.pdf
+pending_changes: 26
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Housing Benefit (General and Supply of Information) (Jobseeker’s Allowance) (Consequential Amendments) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (26).** Text as at 1996-07-30. See https://www.legislation.gov.uk/changes/affected/nisr/1996/334
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 334
 
@@ -36,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by Article 39 of the Jobseekers (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations made by virtue of, or consequential upon, Article 39(1) of that Order and with the consent of the Department of the Environment for Northern Ireland[^f00002] in so far as its consent is required, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-650f44d5c1aa34a4eac5bd756c87f316]
 
 (1) These Regulations may be cited as the Housing Benefit (General and Supply of Information) (Jobseeker’s Allowance) (Consequential Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996.
 
@@ -47,7 +53,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of regulation 2 of the principal Regulations
+## 2. Amendment of regulation 2 of the principal Regulations[^c-38a428f5414e6f2f8388dc849ec5c0ac]
 
 In regulation 2 of the principal Regulations (interpretation)—
 
@@ -72,11 +78,11 @@ In regulation 2 of the principal Regulations (interpretation)—
 
   .
 
-## 3. Amendment of regulation 4 of the principal Regulations
+## 3. Amendment of regulation 4 of the principal Regulations[^c-0a5e666fb6355c974789207b0605cb4a]
 
 In regulation 4(5) of the principal Regulations (remunerative work) after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 4. Amendment of regulation 7A of the principal Regulations
+## 4. Amendment of regulation 7A of the principal Regulations[^c-aa3bc627b757cc20bd777dceefbbfb0f]
 
 In regulation 7A(5) of the principal Regulations (persons from abroad)[^f00006] after sub-paragraph (*d*) there shall be added the following sub-paragraph—
 
@@ -84,19 +90,19 @@ In regulation 7A(5) of the principal Regulations (persons from abroad)[^f00006] 
 
 .
 
-## 5. Amendment of regulation 8 of the principal Regulations
+## 5. Amendment of regulation 8 of the principal Regulations[^c-7ebae6a42c1653d9d6ba9eeda75e7d0a]
 
 In regulation 8 of the principal Regulations (eligible housing costs)[^f00007] in paragraphs (2) and (3) after “income support” in each place where it occurs there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 6. Amendment of regulation 13 of the principal Regulations
+## 6. Amendment of regulation 13 of the principal Regulations[^c-bef0eaa935ee0d2c75cb737f85c8c5c3]
 
 In regulation 13(2) of the principal Regulations (persons of prescribed description)[^f00008] after “on income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 7. Amendment of regulation 20 of the principal Regulations
+## 7. Amendment of regulation 20 of the principal Regulations[^c-c4b5bca0023cfa7f8f62f95e889930f4]
 
 In regulation 20(1) of the principal Regulations (circumstances in which income of a non-dependant is to be treated as claimant's) after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 8. Amendment of regulation 43A of the principal Regulations
+## 8. Amendment of regulation 43A of the principal Regulations[^c-f430a0e4b699f318d21d08f5430e4df8]
 
 In regulation 43A of the principal Regulations (diminishing notional capital rule)[^f00009]—
 
@@ -120,19 +126,19 @@ In regulation 43A of the principal Regulations (diminishing notional capital rul
   - (i) for “paragraph (4)(*c*)” there shall be substituted “paragraph (4)(*c*) and (*e*)”;
   - (ii) after “income support” there shall be inserted “, or, as the case may be, an income-based jobseeker’s allowance,”.
 
-## 9. Amendment of regulation 48A of the principal Regulations
+## 9. Amendment of regulation 48A of the principal Regulations[^c-bd472ff20433f5ee7ce8ffed6f8c29de]
 
 In regulation 48A(2)(*a*) of the principal Regulations[^f00011] (full-time students to be treated as not liable to make payments in respect of a dwelling) after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 10. Amendment of regulation 63 of the principal Regulations
+## 10. Amendment of regulation 63 of the principal Regulations[^c-c2979152d29c0e4b8a62eab791c6bbc5]
 
 In regulation 63(8)(*a*) and (*b*) of the principal Regulations[^f00012] (non-dependant deductions) after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 11. Amendment of regulation 66 of the principal Regulations
+## 11. Amendment of regulation 66 of the principal Regulations[^c-fe3336904722627b5d8b1e97eccd403c]
 
 In regulation 66(4) of the principal Regulations (benefit period) after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 12. Amendment of regulation 67 of the principal Regulations
+## 12. Amendment of regulation 67 of the principal Regulations[^c-483a3064a7d01d1bf93a82a85622180e]
 
 In regulation 67 of the principal Regulations (date on which benefit period is to end)[^f00013]—
 
@@ -152,7 +158,7 @@ In regulation 67 of the principal Regulations (date on which benefit period is t
 
   .
 
-## 13. Amendment of regulation 72 of the principal Regulations
+## 13. Amendment of regulation 72 of the principal Regulations[^c-18bd59730edc7bcf4f5b6c1bd159e18f]
 
 In regulation 72 of the principal Regulations (time and manner in which claims are to be made)—
 
@@ -169,26 +175,26 @@ In regulation 72 of the principal Regulations (time and manner in which claims a
 - (c) in sub-paragraph (*bb*) after “income support” there shall be inserted “or an income-based jobseeker’s allowance”;
 - (c) in paragraph (13)(*a*)[^f00015] after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 14. Amendment of regulation 75 of the principal Regulations
+## 14. Amendment of regulation 75 of the principal Regulations[^c-9e8ba45f530b96d9177cf90bf15b7dd1]
 
 In regulation 75(2)(*e*) of the principal Regulations (duty to notify changes of circumstances) after “income support” in each place where it occurs there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 15. Amendment of regulation 76 of the principal Regulations
+## 15. Amendment of regulation 76 of the principal Regulations[^c-88af0c5bb76cdbed49429e6d32361b21]
 
 In regulation 76(4)(*a*) of the principal Regulations (who is to make a determination)[^f00016] after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 16. Amendment of regulation 93 of the principal Regulations
+## 16. Amendment of regulation 93 of the principal Regulations[^c-2b952b48e16a8001093c54093a1ef933]
 
 In regulation 93(1)(*a*) of the principal Regulations (circumstances in which payment is to be made to a landlord or the Department of the Environment)—
 
 - (a) for “the Order” there shall be substituted “the Social Security Administration (Northern Ireland) Act 1992”, and
 - (b) after “income support” there shall be inserted “or a jobseeker’s allowance”.
 
-## 17. Amendment of regulation 95 of the principal Regulations
+## 17. Amendment of regulation 95 of the principal Regulations[^c-52af9cc872d4a7da75f18cc0f103bd5c]
 
 In regulation 95(4A) of the principal Regulations (withholding of benefit)[^f00017] after “income support” in the first place where it occurs there shall be inserted “or an income-based jobseeker’s allowance” and in the second place where it occurs there shall be inserted “or income-based jobseeker’s allowance”.
 
-## 18. Amendment of regulation 105 of the principal Regulations
+## 18. Amendment of regulation 105 of the principal Regulations[^c-8b854d4aa6e7fd0d4c4a4ad5d6d10d95]
 
 In regulation 105(1) of the principal Regulations (recovery of overpayments from prescribed benefits)[^f00018] at the end there shall be added the following sub-paragraph—
 
@@ -196,11 +202,11 @@ In regulation 105(1) of the principal Regulations (recovery of overpayments from
 
 .
 
-## 19. Amendment of Schedule 3 to the principal Regulations
+## 19. Amendment of Schedule 3 to the principal Regulations[^c-f44d36389adfbb8de5f676afdc7efc73]
 
 In Schedule 3 to the principal Regulations (sums to be disregarded in the calculation of earnings) in paragraph 10 after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 20. Amendment of Schedule 4 to the principal Regulations
+## 20. Amendment of Schedule 4 to the principal Regulations[^c-5418299c0aa453cd48c56ec67458eb44]
 
 In Schedule 4 to the principal Regulations (sums to be disregarded in the calculation of income other than earnings)—
 
@@ -218,7 +224,7 @@ In Schedule 4 to the principal Regulations (sums to be disregarded in the calcul
 
     .
 
-## 21. Amendment of Schedule 5 to the principal Regulations
+## 21. Amendment of Schedule 5 to the principal Regulations[^c-2b02227bebcb065006fb594ac578b00c]
 
 In Schedule 5 to the principal Regulations (capital to be disregarded)—
 
@@ -234,7 +240,7 @@ In Schedule 5 to the principal Regulations (capital to be disregarded)—
 
   .
 
-## 22. Amendment of Schedule 5A to the principal Regulations
+## 22. Amendment of Schedule 5A to the principal Regulations[^c-255112ea88cf0912ef6924e712096679]
 
 In Schedule 5A to the principal Regulations (extended payments of housing benefit)[^f00021]—
 
@@ -254,7 +260,7 @@ In Schedule 5A to the principal Regulations (extended payments of housing benefi
   - (ii) in sub-paragraph (3)(*a*) at the beginning there shall be inserted “where the Department certifies under paragraph 2(*a*) that the claimant was entitled to and in receipt of income support,”;
 - (c) in paragraph 13 in the definition of “the relevant day” after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 23. Amendment of Schedule 6 to the principal Regulations
+## 23. Amendment of Schedule 6 to the principal Regulations[^c-ae4051f11f5302291d99f583bef78850]
 
 (1) In the provisions of Schedule 6 to the principal Regulations (matters to be included in the notice of determination)[^f00022] listed in paragraph (2), after “income support” in each place where it occurs there shall be inserted “or an income-based jobseeker’s allowance”.
 
@@ -264,7 +270,7 @@ In Schedule 5A to the principal Regulations (extended payments of housing benefi
 - (b) paragraph 10;
 - (c) paragraph 13(*a*)(ii).
 
-## 24. Amendment of regulation 1 of the Supply of Information Regulations
+## 24. Amendment of regulation 1 of the Supply of Information Regulations[^c-cdcda039b606e11184af1afea42cf1ef]
 
 In regulation 1(2) of the Supply of Information Regulations (citation, commencement and interpretation)—
 
@@ -280,7 +286,7 @@ In regulation 1(2) of the Supply of Information Regulations (citation, commencem
 
   .
 
-## 25. Amendment of regulation 2 of the Supply of Information Regulations
+## 25. Amendment of regulation 2 of the Supply of Information Regulations[^c-ba472599693d76b293df9b64abfd5358]
 
 In regulation 2 (Information to be supplied by the Department to the Executive)[^f00023]—
 
@@ -333,44 +339,94 @@ These Regulations are made pursuant to Article 39 of the Jobseekers (Northern Ir
 
 [^f00002]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 ([1992 c. 7)](https://www.legislation.gov.uk/ukpga/1992/7) inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 (S.I. [1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
 
+[^c-650f44d5c1aa34a4eac5bd756c87f316]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
 [^f00003]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending Regulations are [S.R. 1988 Nos. 314](https://www.legislation.gov.uk/nisr/1988/314) and [424](https://www.legislation.gov.uk/nisr/1988/424), [S.R. 1990 Nos. 136](https://www.legislation.gov.uk/nisr/1990/136), [137](https://www.legislation.gov.uk/nisr/1990/137), [297](https://www.legislation.gov.uk/nisr/1990/297) and [345](https://www.legislation.gov.uk/nisr/1990/345), [S.R. 1991 Nos. 47](https://www.legislation.gov.uk/nisr/1991/47), [176](https://www.legislation.gov.uk/nisr/1991/176) and [337](https://www.legislation.gov.uk/nisr/1991/337), [S.R. 1992 Nos. 6](https://www.legislation.gov.uk/nisr/1992/6), [141](https://www.legislation.gov.uk/nisr/1992/141), [404](https://www.legislation.gov.uk/nisr/1992/404) and [549](https://www.legislation.gov.uk/nisr/1992/549), [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), [S.R. 1994 Nos. 80](https://www.legislation.gov.uk/nisr/1994/80) and [88](https://www.legislation.gov.uk/nisr/1994/88), [S.R. 1995 No. 89](https://www.legislation.gov.uk/nisr/1995/89) and [367](https://www.legislation.gov.uk/nisr/1995/367) and [S.R. 1996 Nos. 11](https://www.legislation.gov.uk/nisr/1996/11), [93](https://www.legislation.gov.uk/nisr/1996/93) and [115](https://www.legislation.gov.uk/nisr/1996/115)
 
 [^f00004]: Footnote: [S.R. 1988 No. 118](https://www.legislation.gov.uk/nisr/1988/118); relevant amending Regulations are [S.R. 1992 No. 141](https://www.legislation.gov.uk/nisr/1992/141), [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335) and [S.R. 1995 No. 129](https://www.legislation.gov.uk/nisr/1995/129)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
+[^c-38a428f5414e6f2f8388dc849ec5c0ac]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
+[^c-0a5e666fb6355c974789207b0605cb4a]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
+[^c-aa3bc627b757cc20bd777dceefbbfb0f]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
 [^f00006]: Footnote: Regulation 7A was inserted by regulation 2(1) of [S.R. 1994 No. 80](https://www.legislation.gov.uk/nisr/1994/80) and paragraph (5) was substituted by regulation 5(*b*) of [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11)
+
+[^c-7ebae6a42c1653d9d6ba9eeda75e7d0a]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
 
 [^f00007]: Footnote: Paragraphs (2) and (3) were amended by regulation 3 of [S.R. 1988 No. 314](https://www.legislation.gov.uk/nisr/1988/314) and regulation 3(5) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
 
+[^c-bef0eaa935ee0d2c75cb737f85c8c5c3]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
 [^f00008]: Footnote: Paragraph (2) was amended by regulation 4 of [S.R. 1990 No. 136](https://www.legislation.gov.uk/nisr/1990/136)
+
+[^c-c4b5bca0023cfa7f8f62f95e889930f4]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
+[^c-f430a0e4b699f318d21d08f5430e4df8]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
 
 [^f00009]: Footnote: Regulation 43A was inserted by regulation 6 of [S.R. 1990 No. 345](https://www.legislation.gov.uk/nisr/1990/345); relevant amending Regulations are regulation 5 of [S.R. 1991 No. 47](https://www.legislation.gov.uk/nisr/1991/47) and regulation 8 of [S.R. 1992 No. 404](https://www.legislation.gov.uk/nisr/1992/404)
 
 [^f00010]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
 
+[^c-bd472ff20433f5ee7ce8ffed6f8c29de]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
 [^f00011]: Footnote: Regulation 48A was inserted by regulation 3(6) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
+
+[^c-c2979152d29c0e4b8a62eab791c6bbc5]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
 
 [^f00012]: Footnote: Paragraph 8 was substituted by regulation 7(*c*) of [S.R. 1992 No. 549](https://www.legislation.gov.uk/nisr/1992/549)
 
+[^c-fe3336904722627b5d8b1e97eccd403c]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
+[^c-483a3064a7d01d1bf93a82a85622180e]: Commencement: Reg. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
 [^f00013]: Footnote: Regulation 67 was amended by regulation 9 of [S.R. 1990 No. 136](https://www.legislation.gov.uk/nisr/1990/136) and regulation 8 of [S.R. 1995 No. 89](https://www.legislation.gov.uk/nisr/1995/89)
+
+[^c-18bd59730edc7bcf4f5b6c1bd159e18f]: Commencement: Reg. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
 
 [^f00014]: Footnote: Paragraph (5) was amended by regulation 4(4)(*a*) of [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137), regulation 9 of [S.R. 1991 No. 47](https://www.legislation.gov.uk/nisr/1991/47), regulation 3(*a*) of [S.R. 1991 No. 176](https://www.legislation.gov.uk/nisr/1991/176) and by regulation 13 of [S.R. 1991 No. 337](https://www.legislation.gov.uk/nisr/1991/337)
 
 [^f00015]: Footnote: Paragraph (13)(*a*) was amended by regulation 9(*b*) of [S.R. 1991 No. 47](https://www.legislation.gov.uk/nisr/1991/47)
 
+[^c-9e8ba45f530b96d9177cf90bf15b7dd1]: Commencement: Reg. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
+[^c-88af0c5bb76cdbed49429e6d32361b21]: Commencement: Reg. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
 [^f00016]: Footnote: Paragraph (4) was added by regulation 5 of [S.R. 1996 No. 115](https://www.legislation.gov.uk/nisr/1996/115)
+
+[^c-2b952b48e16a8001093c54093a1ef933]: Commencement: Reg. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
+[^c-52af9cc872d4a7da75f18cc0f103bd5c]: Commencement: Reg. 17 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
 
 [^f00017]: Footnote: Paragraph (4A) was inserted by regulation 9(*a*) of [S.R. 1995 No. 89](https://www.legislation.gov.uk/nisr/1995/89)
 
+[^c-8b854d4aa6e7fd0d4c4a4ad5d6d10d95]: Commencement: Reg. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
 [^f00018]: Footnote: Paragraph (1) was amended by regulation 16 of [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424) and reglation 11(3)(*a*) and (*b*) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
+
+[^c-f44d36389adfbb8de5f676afdc7efc73]: Commencement: Reg. 19 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
+[^c-5418299c0aa453cd48c56ec67458eb44]: Commencement: Reg. 20 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
 
 [^f00019]: Footnote: Paragraph 55 was added by regulation 11(*c*) of [S.R. 1994 No. 88](https://www.legislation.gov.uk/nisr/1994/88) and amended by regulation 3(9)(*b*) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
 
+[^c-2b02227bebcb065006fb594ac578b00c]: Commencement: Reg. 21 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
 [^f00020]: Footnote: Paragraph 46 was added by regulation 10(2) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
+
+[^c-255112ea88cf0912ef6924e712096679]: Commencement: Reg. 22 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
 
 [^f00021]: Footnote: Schedule 5A was inserted by regulation 6 of [S.R. 1996 No. 115](https://www.legislation.gov.uk/nisr/1996/115)
 
+[^c-ae4051f11f5302291d99f583bef78850]: Commencement: Reg. 23 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
 [^f00022]: Footnote: Paragraph (2) was amended by regulation 15 of [S.R. 1992 No. 141](https://www.legislation.gov.uk/nisr/1992/141)
+
+[^c-cdcda039b606e11184af1afea42cf1ef]: Commencement: Reg. 24 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
+
+[^c-ba472599693d76b293df9b64abfd5358]: Commencement: Reg. 25 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/334/regulation/1/1)
 
 [^f00023]: Footnote: Regulation 2 was amended by regulation 16 of [S.R. 1992 No. 141](https://www.legislation.gov.uk/nisr/1992/141), regulation 14(3) of [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335), regulation 10 of [S.R. 1995 No. 129](https://www.legislation.gov.uk/nisr/1995/129) and regulation 7 of [S.R. 1996 No. 115](https://www.legislation.gov.uk/nisr/1996/115)

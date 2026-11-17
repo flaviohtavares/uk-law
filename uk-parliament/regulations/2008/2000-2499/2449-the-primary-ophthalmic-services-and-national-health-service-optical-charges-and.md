@@ -3,16 +3,16 @@ title: The Primary Ophthalmic Services and National Health Service (Optical Char
 id: uksi/2008/2449
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-16'
-text_date: null
-extent: null
+text_date: '2008-09-16'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2449
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2449/pdfs/uksiem_20082449_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2449/pdfs/uksi_20082449_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2449/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/2449/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Primary Ophthalmic Services and National Health Service (Optical Charges and Payments) Amendment Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-09-16. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2449
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 2449
 
@@ -42,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 115(2), 116(2) and 180(1), (2) and (5) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation, commencement, application and interpretation
+## 1. Citation, commencement, application and interpretation[^c-a8b55e868f5c94b721350996617530b5]
 
 (1) These Regulations may be cited as the Primary Ophthalmic Services and National Health Service (Optical Charges and Payments) Amendment Regulations 2008 and shall come into force on 27th October 2008.
 
@@ -53,7 +59,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “the POS Regulations” means the Primary Ophthalmic Services Regulations 2008[^f00002]; and
 - “the Charges Regulations” means the National Health Service (Optical Charges and Payments) Regulations 1997[^f00003].
 
-## 2. Amendments to the POS Regulations
+## 2. Amendments to the POS Regulations[^c-427e22f1bbfca8f2479198bfc0e2e340]
 
 (1) The POS Regulations are amended in accordance with the following paragraphs of this regulation.
 
@@ -76,7 +82,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-## 3. Amendments to the Charges Regulations
+## 3. Amendments to the Charges Regulations[^c-a50fb7de7d46d81c66a4e73603015643]
 
 (1) The Charges Regulations are amended in accordance with the following paragraphs of this regulation.
 
@@ -134,13 +140,19 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
+[^c-a8b55e868f5c94b721350996617530b5]: Commencement: Reg. 1 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2449/regulation/1/1)
+
 [^f00002]: Footnote: [S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186) to which there are amendments which are not relevant to these Regulations.
 
 [^f00003]: Footnote: [S.I. 1997/818](https://www.legislation.gov.uk/uksi/1997/818); relevant amendments are [S.I. 2003/657](https://www.legislation.gov.uk/uksi/2003/657) and [2381](https://www.legislation.gov.uk/uksi/2003/2381), [2004/642](https://www.legislation.gov.uk/uksi/2004/642) and [936](https://www.legislation.gov.uk/uksi/2004/936) and [2005/480 and 483](https://www.legislation.gov.uk/uksi/2005/630).
 
+[^c-427e22f1bbfca8f2479198bfc0e2e340]: Commencement: Reg. 2 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2449/regulation/1/1)
+
 [^f00004]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
 
 [^f00005]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
+
+[^c-a50fb7de7d46d81c66a4e73603015643]: Commencement: Reg. 3 in force at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2449/regulation/1/1)
 
 [^f00006]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
 

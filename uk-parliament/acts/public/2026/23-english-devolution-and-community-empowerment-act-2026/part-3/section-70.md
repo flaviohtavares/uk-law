@@ -3,7 +3,7 @@ title: English Devolution and Community Empowerment Act 2026, section 70
 act: English Devolution and Community Empowerment Act 2026
 section: '70'
 status: not-yet-in-force
-text_date: '2026-11-04'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2026/23/section/70
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

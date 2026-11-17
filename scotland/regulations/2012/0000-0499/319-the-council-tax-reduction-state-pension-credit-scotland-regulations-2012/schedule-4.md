@@ -2,8 +2,8 @@
 title: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, SCHEDULE 4
 act: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 section: schedule-4
-status: revised-with-pending-changes
-text_date: '2026-04-01'
+status: revised
+text_date: '2026-11-06'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2012/319/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2012/319
+> Text as at 2026-11-06.
 >
 > Extent: Scotland.
 
@@ -139,6 +139,10 @@ at the date of the diagnosed person's death includes a person who would have bee
 - (ii) the payment it derives from was made to the estate of the deceased person as a result of that person having been infected through treatment with blood, blood products or tissue, or through another person being so infected.
 
 (1H)[^c-cb3fac94291a04a670ccd429eda61e22] Any payment made under or by the LGBT Financial Recognition Scheme.
+
+(1I)[^c-fde9940ae672f3002d7016e3a60e91a5] Any payment made from a scheme established for the purposes of providing compensation for historical institutional child abuse in the United Kingdom.
+
+(1J) Any payment made under the Mother and Baby Institutions Payment Scheme established by the Mother and Baby Institutions Payment Scheme Act 2023.
 
 (2) Any payment by or on behalf of a person [^c-fd900b73688f4bbb8eb0f06187975799]... who is or was a qualifying person, which derives from a payment made under or by any of the Trusts or an infected blood payment scheme[^c-935e60c885d5e2b5632a43b13a56138e] and which is made to or for the benefit of that person's partner or former partner from whom the applicant is not, or where that person has died was not, estranged or divorced or with whom the applicant has formed a civil partnership that has not been dissolved or, where that person has died, had not been dissolved at the time of that person's death.
 
@@ -362,6 +366,8 @@ and under the terms of the trust, payments fall to be made, or the trustees have
 [^c-15c9af7d627b766355f7c32cabd16911]: Textual amendment: [Sch. 4 para. 16(1F)](https://www.legislation.gov.uk/ssi/2012/319/schedule/4/paragraph/16/1F)[(1G)](https://www.legislation.gov.uk/ssi/2012/319/schedule/4/paragraph/16/1G) inserted (1.12.2024) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2024 (S.S.I. 2024/310)](https://www.legislation.gov.uk/ssi/2024/310), [regs. 1](https://www.legislation.gov.uk/ssi/2024/310/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2024/310/regulation/2/5/b)
 
 [^c-cb3fac94291a04a670ccd429eda61e22]: Textual amendment: [Sch. 4 para. 16(1H)](https://www.legislation.gov.uk/ssi/2012/319/schedule/4/paragraph/16/1H) inserted (3.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/112)](https://www.legislation.gov.uk/ssi/2025/112), [regs. 1](https://www.legislation.gov.uk/ssi/2025/112/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2025/112/regulation/2/5/a)
+
+[^c-fde9940ae672f3002d7016e3a60e91a5]: Textual amendment: [Sch. 4 para. 16(1I)](https://www.legislation.gov.uk/ssi/2012/319/schedule/4/paragraph/16/1I)[(1J)](https://www.legislation.gov.uk/ssi/2012/319/schedule/4/paragraph/16/1J) inserted (6.11.2026) by [The Council Tax Reduction (Miscellaneous Amendment) (No. 2) (Scotland) Regulations 2026 (S.S.I. 2026/259)](https://www.legislation.gov.uk/ssi/2026/259), [regs. 1](https://www.legislation.gov.uk/ssi/2026/259/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2026/259/regulation/2/5)
 
 [^c-fd900b73688f4bbb8eb0f06187975799]: Textual amendment: Words in [sch. 4 para. 16(2)](https://www.legislation.gov.uk/ssi/2012/319/schedule/4/paragraph/16/2) omitted (1.12.2024) by virtue of [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2024 (S.S.I. 2024/310)](https://www.legislation.gov.uk/ssi/2024/310), [regs. 1](https://www.legislation.gov.uk/ssi/2024/310/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2024/310/regulation/2/5/c)
 

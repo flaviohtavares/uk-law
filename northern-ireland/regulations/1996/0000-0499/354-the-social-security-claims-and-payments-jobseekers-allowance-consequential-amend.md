@@ -3,14 +3,14 @@ title: The Social Security (Claims and Payments) (Jobseeker’s Allowance Conseq
 id: nisr/1996/354
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-08-01'
-text_date: null
-extent: null
+text_date: '1996-08-01'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/354
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/354/made/data.pdf
-pending_changes: 13
+- http://www.legislation.gov.uk/nisr/1996/354/data.pdf
+pending_changes: 17
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Social Security (Claims and Payments) (Jobseeker’s Allowance Consequential Amendments) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (17).** Text as at 1996-08-01. See https://www.legislation.gov.uk/changes/affected/nisr/1996/354
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 354
 
@@ -36,13 +42,13 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by sections 1(1), 5(1), 13A(2) and 165(6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Article 28 of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations consequential upon the Jobseekers (Northern Ireland) Order 1995, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-e36edfda365dbbad26f6e1046992f902]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments) (Jobseeker’s Allowance Consequential Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-c9cf56ac109c06c00d1164438b549a0e]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004] shall be amended in accordance with paragraphs (2) to (27).
 
@@ -350,7 +356,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
   - (ii) in sub-paragraph (3)(*a*) after “income support” there shall be inserted “or income-based jobseeker’s allowance”; and
 - (g) in paragraph 10(2)(*a*) after “the Income Support Regulations” there shall be inserted “or, as the case may be, paragraph 11 of Schedule 2 to the Jobseeker’s Allowance Regulations”.
 
-## 3. Revocations
+## 3. Revocations[^c-e8043d39016e3cd7b49051368f00d9ca]
 
 The regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
 
@@ -360,7 +366,7 @@ D. A. Baker
 
 Assistant Secretary
 
-## SCHEDULE — Regulations Revoked
+## SCHEDULE — Regulations Revoked[^c-0213ab986a231d3455e1e49d4142aac6]
 
 Regulation 3
 
@@ -395,7 +401,11 @@ Article 28 of the Jobseekers Order is an enabling provision under which these Re
 
 [^f00002]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
+[^c-e36edfda365dbbad26f6e1046992f902]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/354/regulation/1/1)
+
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c-c9cf56ac109c06c00d1164438b549a0e]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/354/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 Nos. 67](https://www.legislation.gov.uk/nisr/1988/67), [141](https://www.legislation.gov.uk/nisr/1988/141) and [369](https://www.legislation.gov.uk/nisr/1988/369), [S.R. 1989 Nos. 40](https://www.legislation.gov.uk/nisr/1989/40), [373](https://www.legislation.gov.uk/nisr/1989/373) and [398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), [S.R. 1992 Nos. 7](https://www.legislation.gov.uk/nisr/1992/7), [83](https://www.legislation.gov.uk/nisr/1992/83), [271](https://www.legislation.gov.uk/nisr/1992/271) and [453](https://www.legislation.gov.uk/nisr/1992/453), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [375](https://www.legislation.gov.uk/nisr/1993/375), [S.R. 1994 Nos. 345](https://www.legislation.gov.uk/nisr/1994/345), [456](https://www.legislation.gov.uk/nisr/1994/456) and [484](https://www.legislation.gov.uk/nisr/1994/484) and [S.R. 1995 Nos. 301](https://www.legislation.gov.uk/nisr/1995/301) and [367](https://www.legislation.gov.uk/nisr/1995/367)
 
@@ -436,3 +446,7 @@ Article 28 of the Jobseekers Order is an enabling provision under which these Re
 [^f00022]: Footnote: Paragraph 4A was inserted by regulation 6(7)(*d*) of [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488)
 
 [^f00023]: Footnote: Schedule 8B was inserted by regulation 5 of, and the Schedule to, [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271); relevant amending regulations are [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456) and [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
+
+[^c-e8043d39016e3cd7b49051368f00d9ca]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/354/regulation/1/1)
+
+[^c-0213ab986a231d3455e1e49d4142aac6]: Commencement: Sch. in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/354/regulation/1/1)

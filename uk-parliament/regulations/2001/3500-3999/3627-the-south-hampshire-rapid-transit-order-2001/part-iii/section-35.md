@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 35
 act: The South Hampshire Rapid Transit Order 2001
 section: '35'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 35
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 35. Power to acquire land
+## 35. Power to acquire land[^c-4c35861ae16e02fdcaf468ecdf0a81f2]
+
+*Extent: E+W+S*
 
 (1) The undertaker may acquire compulsorily—
 
@@ -26,3 +30,7 @@ and may use any land so acquired for those purposes or for any other purposes co
 (2) This article is subject to article 40(2) and article 41(8) below.
 
 (3) The undertaker shall not under the powers of this Order acquire compulsorily any interest in the land numbered 1/1, 1/14, 1/15, 1/16, 1/18, 1/19, 1/20, 1/21, 1/27, 8/9, 8/10, 8/11, 11/7, 12/3, 12/4, 13/13 and 15/10 in the book of reference.
+
+## Annotations
+
+[^c-4c35861ae16e02fdcaf468ecdf0a81f2]: Commencement: Art. 35 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

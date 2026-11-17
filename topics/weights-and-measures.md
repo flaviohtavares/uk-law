@@ -187,7 +187,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [Non-automatic Weighing Machines and Non-automatic Weighing Instruments (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/320-non-automatic-weighing-machines-and-non-automatic-weighing-instruments-amendment.md) *(as originally made)*
+- [Non-automatic Weighing Machines and Non-automatic Weighing Instruments (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/320-non-automatic-weighing-machines-and-non-automatic-weighing-instruments-amendment.md) *(changes pending)*
 - [The Measuring Equipment (Measures of Length) (Amendment) (No. 2) Regulations 1996](../uk-parliament/regulations/1996/3000-3499/3020-the-measuring-equipment-measures-of-length-amendment-no-2-regulations-1996.md) *(as originally made)*
 - [The Measuring Equipment (Measures of Length) (Amendment) Regulations 1996](../uk-parliament/regulations/1996/2500-2999/2636-the-measuring-equipment-measures-of-length-amendment-regulations-1996.md) *(as originally made)*
 - [The Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) (Amendment) Regulations 1996](../uk-parliament/regulations/1996/0500-0999/797-the-weighing-equipment-filling-and-discontinuous-totalising-automatic-weighing-m.md) *(as originally made)*

@@ -3,14 +3,14 @@ title: The Social Security (Adjudication) (Amendment) Regulations (Northern Irel
 id: nisr/1996/355
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-08-01'
-text_date: null
-extent: null
+text_date: '1996-08-01'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/355
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/355/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/355/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # The Social Security (Adjudication) (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 1996-08-01. See https://www.legislation.gov.uk/changes/affected/nisr/1996/355
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 355
 
@@ -36,13 +42,13 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by sections 25(1), 57(1), (2) and (5) and 59(1) and (2) of, and Schedule 3 to, the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Article 32 of, and paragraph (4) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations consequential upon the Jobseekers (Northern Ireland) Order 1995, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-6985b8d15496cd8ee16e5cdcec8a7fdb]
 
 (1) These Regulations may be cited as the Social Security (Adjudication) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Social Security (Adjudication) Regulations
+## 2. Amendment of the Social Security (Adjudication) Regulations[^c-e56b07d5e80c51713ff54eb2a7481edf]
 
 (1) The Social Security (Adjudication) Regulations (Northern Ireland) 1995[^f00004] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -201,7 +207,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (7) In regulation 64 (repayment of student loan not a change of circumstances) for “or regulation 42A of the Family Credit (General) Regulations (Northern Ireland) 1987” there shall be substituted “, regulation 42A of the Family Credit (General) Regulations (Northern Ireland) 1987 or regulation 136 of the Jobseeker’s Allowance Regulations”.
 
-## 3. Revocation
+## 3. Revocation[^c-a4edd92acdbc5a00a08c17badb0e9faf]
 
 Regulation 6(2) and (3)(*a*) of the Social Security (Industrial Injuries and Diseases) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996[^f00015] is hereby revoked.
 
@@ -225,7 +231,11 @@ Article 32 of the Jobseekers Order is an enabling provision under which these Re
 
 [^f00002]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
+[^c-6985b8d15496cd8ee16e5cdcec8a7fdb]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/355/regulation/1/1)
+
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
+
+[^c-e56b07d5e80c51713ff54eb2a7481edf]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/355/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293); relevant amending regulations are [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434) and [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57)
 
@@ -248,5 +258,7 @@ Article 32 of the Jobseekers Order is an enabling provision under which these Re
 [^f00013]: Footnote: Section 139A is inserted by Article 26 of the Jobseekers (Northern Ireland) Order 1995
 
 [^f00014]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460); relevant amending regulations are [S.R. 1988 Nos. 132](https://www.legislation.gov.uk/nisr/1988/132) and [153](https://www.legislation.gov.uk/nisr/1988/153), [S.R. 1989 Nos. 371](https://www.legislation.gov.uk/nisr/1989/371) and [485](https://www.legislation.gov.uk/nisr/1989/485), [S.R. 1991 No. 341](https://www.legislation.gov.uk/nisr/1991/341) and [S.R. 1992 No. 284](https://www.legislation.gov.uk/nisr/1992/284)
+
+[^c-a4edd92acdbc5a00a08c17badb0e9faf]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/355/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1996 No. 57](https://www.legislation.gov.uk/nisr/1996/57)

@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 64
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '64'
-status: revised-with-pending-changes
-text_date: '2002-11-20'
-extent: S
+status: as-enacted
+text_date: null
+extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/64
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,9 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 64
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
->
-> Extent: Scotland.
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
 
-## 64. Schools and rooms for Scottish parliamentary election meetings: candidates for return as regional members[^c-2881f042bc85d6831e90ba9d62ccc0ca]
-
-*Extent: S*
+## 64. Schools and rooms for Scottish parliamentary election meetings: candidates for return as regional members
 
 (1) Subject to the provisions of this article–
 
@@ -45,9 +41,5 @@ to the use free of charge at reasonable times between the last date on which not
 
 (7) For the purposes of this article (except those of paragraph (4)(b) above), the premises of a school shall not be taken to include any private dwellinghouse, and in this article–
 
-- (a) the expression “meeting room” means any room which it is the practice to let for public meetings; and
-- (b) the expression “room” includes a hall, gallery or gymnasium.
-
-## Annotations
-
-[^c-2881f042bc85d6831e90ba9d62ccc0ca]: Commencement: Art. 64 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
+- (a) the expression “**meeting room**” means any room which it is the practice to let for public meetings; and
+- (b) the expression “**room**” includes a hall, gallery or gymnasium.

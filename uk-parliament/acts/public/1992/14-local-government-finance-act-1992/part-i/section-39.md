@@ -3,7 +3,7 @@ title: Local Government Finance Act 1992, section 39
 act: Local Government Finance Act 1992
 section: '39'
 status: revised-with-pending-changes
-text_date: '2026-06-29'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1992/14/section/39
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Local Government Finance Act 1992, section 39
 
-> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
+> **Warning: changes not yet applied to this text (35).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
 > Extent: England, Wales.
 
@@ -58,7 +58,7 @@ summary: ''
 
 [^c-f0b320cd782925eff458a347aa70a3e6]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1992/14/section/39) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 55](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/55) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
-[^c-bb7f6b996e608a693d568e2b4cc6cc54]: Modification: [Pt. 1 Chs. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4), [4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA): power to modify conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [s. 107G(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/3) (as inserted (E.W.) (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2))
+[^c-bb7f6b996e608a693d568e2b4cc6cc54]: Modification: Pt. 1 Chs. 4, 4ZA: power to modify conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [s. 107G(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/3) (as inserted (E.W.) (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2))
 
 [^c12076961]: Textual amendment: Words in s. 39(1)(a) inserted (3.4.1995 subject to art. 6(2) to (5) of the commencing S.I.) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 35(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/35/6) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 para. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 6(1)](https://www.legislation.gov.uk/uksi/1995/852/article/6/1)
 

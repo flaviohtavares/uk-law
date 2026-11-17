@@ -65,7 +65,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Finance Act 2009, Sections 101 to 103 (Appointed Day and Supplemental Provision) Order 2010](../uk-parliament/regulations/2010/1500-1999/1878-the-finance-act-2009-sections-101-to-103-appointed-day-and-supplemental-provisio.md) *(as originally made)*
 - [The Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010](../northern-ireland/regulations/2010/0000-0499/42-the-police-and-criminal-evidence-application-to-revenue-and-customs-order-northe.md) *(as originally made)*
 - [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2007 (Amendment) Order 2010](../uk-parliament/regulations/2010/0000-0499/360-the-police-and-criminal-evidence-act-1984-application-to-revenue-and-customs-ord.md) *(as originally made)*
-- [The Revenue and Customs (Complaints and Misconduct) Regulations 2010](../uk-parliament/regulations/2010/1500-1999/1813-the-revenue-and-customs-complaints-and-misconduct-regulations-2010.md) *(changes pending)*
+- [The Revenue and Customs (Complaints and Misconduct) Regulations 2010](../uk-parliament/regulations/2010/1500-1999/1813-the-revenue-and-customs-complaints-and-misconduct-regulations-2010.md)
 - [The Stamp Duty Reserve Tax (Amendment) Regulations 2010](../uk-parliament/regulations/2010/0500-0999/664-the-stamp-duty-reserve-tax-amendment-regulations-2010.md) *(as originally made)*
 - [The UK Border Agency (Complaints and Misconduct) Regulations 2010](../uk-parliament/regulations/2010/0500-0999/782-the-uk-border-agency-complaints-and-misconduct-regulations-2010.md)
 

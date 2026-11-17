@@ -3,15 +3,15 @@ title: The Health Act 1999 (Supplementary, Consequential etc. Provisions) Order 
 id: uksi/2000/90
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2000-01-18'
-text_date: null
-extent: null
+text_date: '2000-02-08'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2000/90
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2000/90/pdfs/uksi_20000090_en.pdf
-- http://www.legislation.gov.uk/uksi/2000/90/made/data.pdf
-pending_changes: 33
+- http://www.legislation.gov.uk/uksi/2000/90/data.pdf
+pending_changes: 42
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,11 @@ summary: ''
 
 # The Health Act 1999 (Supplementary, Consequential etc. Provisions) Order 2000
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (42).** Text as at 2000-02-08. See https://www.legislation.gov.uk/changes/affected/uksi/2000/90
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2000 No. 90
 
@@ -47,11 +51,11 @@ for the purposes of article 3(2)
 
 The Secretary of State for Health, in exercise of the powers conferred on him by section 126(4) of the National Health Service Act 1977[^f00001] and section 63 of the Health Act 1999[^f00002], and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-ee90e06c8d8a2082abddfe110bbd595c]
 
 This Order may be cited as the Health Act 1999 (Supplementary, Consequential etc. Provisions) Order 2000 and shall come into force for the purposes of article 3(2) on 1st April 2000 and for all other purposes on 8th February 2000.
 
-## 2. Extent and interpretation
+## 2. Extent and interpretation[^c-6a71626aa2758ec485c79398b6fe4ad1]
 
 (1) Subject to the following paragraphs, this Order extends only to England and Wales.
 
@@ -63,13 +67,15 @@ This Order may be cited as the Health Act 1999 (Supplementary, Consequential etc
 
 (5) Any reference to a Primary Care Trust in any enactment amended by this Order is to be construed as a reference to a Primary Care Trust established for an area in England.
 
-## 3. Consequential amendments
+## 3. Consequential amendments[^c-78ce3d4b9e536ad4fa3a686e5e70f2ce][^c-822c00e730b110fd6be3fc26f89ed491]
 
 (1) The enactments specified in Schedule 1 to this Order are amended as there specified.
 
 (2) The enactments specified in Schedule 2 to this Order are amended as there specified.
 
-## 4. Use and development of consecrated land and burial grounds
+## 4. Use and development of consecrated land and burial grounds[^c-af1b631b5a24f435774af152f2f9b6a5]
+
+*Extent: E+W*
 
 Sections 238 and 239 of the Town and Country Planning Act 1990 (use and development of consecrated land and burial grounds)[^f00003] shall apply to consecrated ground or, as the case may be, land comprised in a burial ground (within the meaning of section 240 of that Act) which a Primary Care Trust established for an area in England holds for any of its purposes as if–
 
@@ -92,7 +98,9 @@ Article 3(1)
 
 ### Voluntary Hospitals (Paying Patients) Act 1936
 
-**1.** In section 1 of the Voluntary Hospitals (Paying Patients) Act 1936 (definitions)[^f00005]–
+*Extent: E+W*
+
+**1.**[^c-a6dd6bfbc23483c32e330e34b7bef4bf] In section 1 of the Voluntary Hospitals (Paying Patients) Act 1936 (definitions)[^f00005]–
 
 - (a) in the definition of “voluntary hospital”, after “trust” there is inserted “or a Primary Care Trust”;
 - (b) after the definition of “Order” there is inserted the following definition–
@@ -103,25 +111,29 @@ Article 3(1)
 
 ### National Assistance Act 1948
 
-**2.** In section 24 of the National Assistance Act 1948 (authority liable for provision of accommodation)[^f00006]–
+*Extent: E+W*
+
+**2.**[^c-e879fc652f4fc8ffabb2e0e95b882f05] In section 24 of the National Assistance Act 1948 (authority liable for provision of accommodation)[^f00006]–
 
 - (a) in subsection (6)[^f00007], after “Secretary of State” there is inserted “, a Primary Care Trust”;
 - (b) in subsection (7)[^f00008], after “1978” there is inserted “ , and “Primary Care Trust” means a Primary Care Trust established under section 16A of the National Health Service Act 1977.”
 
 ### Public Records Act 1958
 
-**3.** In the first Schedule to the Public Records Act 1958 (definition of public records)[^f00009], in the table at the end of paragraph 3, in Part I, in the second column, in the entry relating to National Health Service Authorities[^f00010], after the first “including” there is inserted “Primary Care Trusts and”.
+**3.**[^c-285450a5503064885b2d4b28cf86e35f] In the first Schedule to the Public Records Act 1958 (definition of public records)[^f00009], in the table at the end of paragraph 3, in Part I, in the second column, in the entry relating to National Health Service Authorities[^f00010], after the first “including” there is inserted “Primary Care Trusts and”.
 
 ### Human Tissue Act 1961
 
-**4.** In section 1 of the Human Tissue Act 1961 (removal of parts of bodies for medical purposes)[^f00011]–
+*Extent: E+W*
+
+**4.**[^c-e00c8ce78fa0733234b64999973e9d3d] In section 1 of the Human Tissue Act 1961 (removal of parts of bodies for medical purposes)[^f00011]–
 
 - (a) in subsection (4A)(b), after “authority” there is inserted “, Primary Care Trust”;
 - (b) at the end of subsection (10) there is added “and “Primary Care Trust” means a Primary Care Trust established under section 16A of the National Health Service Act 1977.”.
 
 ### Parliamentary Commissioner Act 1967
 
-**5.** In Schedule 3 to the Parliamentary Commissioner Act 1967 (matters not subject to investigation)[^f00012], paragraph 8 shall be renumbered as sub-paragraph (1) of that paragraph and–
+**5.**[^c-f32d099222977855949e620d1c94884d] In Schedule 3 to the Parliamentary Commissioner Act 1967 (matters not subject to investigation)[^f00012], paragraph 8 shall be renumbered as sub-paragraph (1) of that paragraph and–
 
 - (a) in that sub-paragraph as so renumbered, for “a Health Authority, a Special Health Authority” there is substituted “a Health Authority, a Primary Care Trust, a Special Health Authority”; and
 - (b) after that sub-paragraph there is inserted the following sub-paragraph–
@@ -130,46 +142,58 @@ Article 3(1)
 
 ### Abortion Act 1967
 
-**6.** In section 1 of the Abortion Act 1967 (medical termination of pregnancy)[^f00013], in subsection (3), after “or in a hospital vested in” there is inserted “a Primary Care Trust or”.
+*Extent: E+W+S*
+
+**6.**[^c-a74ff362a622b4523b05a1853a8f9d7e] In section 1 of the Abortion Act 1967 (medical termination of pregnancy)[^f00013], in subsection (3), after “or in a hospital vested in” there is inserted “a Primary Care Trust or”.
 
 ### Leasehold Reform Act 1967
 
-**7.** In section 28 of the Leasehold Reform Act 1967 (retention or resumption of land required for public purposes)[^f00014]–
+*Extent: E+W*
+
+**7.**[^c-d194af6d835162eaf63ddedfac3e18d8] In section 28 of the Leasehold Reform Act 1967 (retention or resumption of land required for public purposes)[^f00014]–
 
 - (a) in subsection (5)(d), after “Special Health Authority” there is inserted “ , any Primary Care Trust”;
 - (b) in subsection (6)(c), after “Special Health Authority” there is inserted “ , Primary Care Trust”.
 
 ### Post Office Act 1969
 
-**8.** In section 86 of the Post Office Act 1969 (Interpretation of Part III)[^f00015], in the definition of “national health service authority”, in paragraph (a), for “or a Special Health Authority” there is substituted, “ , a Special Health Authority or a Primary Care Trust”.
+**8.**[^c-382d565a043012ee249b3e19e61aa097] In section 86 of the Post Office Act 1969 (Interpretation of Part III)[^f00015], in the definition of “national health service authority”, in paragraph (a), for “or a Special Health Authority” there is substituted, “ , a Special Health Authority or a Primary Care Trust”.
 
 ### Employers' Liability (Compulsory Insurance) Act 1969
 
-**9.** In section 3 of the Employers' Liability (Compulsory Insurance) Act 1969 (employers exempted from insurance)[^f00016], in subsection (2)(a)–
+*Extent: E+W+S*
+
+**9.**[^c-6a5ef6cfab558f2831311e303fbf14a6] In section 3 of the Employers' Liability (Compulsory Insurance) Act 1969 (employers exempted from insurance)[^f00016], in subsection (2)(a)–
 
 - (a) the word “and”, in the second place where it appears, is omitted; and
 - (b) after “1978” there is inserted “and a Primary Care Trust established under section 16A of the National Health Service Act 1977”.
 
 ### Local Government Act 1972
 
-**10.** In section 113 of the Local Government Act 1972 (placing of staff of local authorities at disposal of other local authorities)[^f00017]–
+*Extent: E+W*
+
+**10.**[^c-3db86148e10f9c368fff0c49ae65f324] In section 113 of the Local Government Act 1972 (placing of staff of local authorities at disposal of other local authorities)[^f00017]–
 
 - (a) in subsection (1A), for “Health Authority, Special Health Authority ”, in each place the words appear, there is inserted “Health Authority, Special Health Authority, Primary Care Trust”; and
 - (b) in subsection (4), after “1990” there is inserted “and “Primary Care Trust” means a Primary Care Trust established under section 16A of the National Health Service Act 1977”.
 
 ### House of Commons Disqualification Act 1975
 
-**11.** In Part III of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices)[^f00018], there is inserted the following entry–
+**11.**[^c-fbeb5a069a9d6ed602be60a82a4672da] In Part III of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices)[^f00018], there is inserted the following entry–
 
 > - Chairman or any member, not also being an employee, of a Primary Care Trust established under section 16A of the National Health Service Act 1977.
 
 ### Adoption Act 1976
 
-**12.** In section 2 of the Adoption Act 1976 (local authorities' social services)[^f00019], in paragraph (a), after “Special Health Authorities,” there is inserted “Primary Care Trusts,”.
+*Extent: E+W*
+
+**12.**[^c-50c97b98a42a0fd974fd12190ed2cb85] In section 2 of the Adoption Act 1976 (local authorities' social services)[^f00019], in paragraph (a), after “Special Health Authorities,” there is inserted “Primary Care Trusts,”.
 
 ### National Health Service Act 1977
 
-**13.** (1) The National Health Service Act 1977[^f00020] is amended as follows.
+*Extent: E+W*
+
+**13.**[^c-70aa028d95bb0b4fd66c51df2da7fe6c] (1) The National Health Service Act 1977[^f00020] is amended as follows.
 
 (2) In section 23 (voluntary organisations and other bodies), in subsection (2)[^f00021], for “or Special Health Authority” there is substituted “ , Special Health Authority or Primary Care Trust,”.
 
@@ -194,7 +218,7 @@ Article 3(1)
 
 ### Overseas Development and Co-operation Act 1980
 
-**14.** In Schedule 1 to the Overseas Development and Co-operation Act 1980 (statutory bodies with powers under section 2(1) of that Act)[^f00027], in Part II, after “A Special Health Authority” there is inserted–
+**14.**[^c-b70e64e1c6c47efab673bc9426b83abe] In Schedule 1 to the Overseas Development and Co-operation Act 1980 (statutory bodies with powers under section 2(1) of that Act)[^f00027], in Part II, after “A Special Health Authority” there is inserted–
 
 > A Primary Care Trust
 
@@ -202,7 +226,9 @@ Article 3(1)
 
 ### Acquisition of Land Act 1981
 
-**15.** (1) The Acquisition of Land Act 1981[^f00028] is amended as follows.
+*Extent: E+W*
+
+**15.**[^c-a47f27b939205f18a4cc12ed573e62d9] (1) The Acquisition of Land Act 1981[^f00028] is amended as follows.
 
 (2) In section 16 (statutory undertakers' land excluded from compulsory purchase), in subsection (3)[^f00029]–
 
@@ -223,7 +249,9 @@ Article 3(1)
 
 ### Mental Health Act 1983
 
-**16.** (1) The Mental Health Act 1983[^f00031] is amended as follows.
+*Extent: E+W*
+
+**16.**[^c-d84c5456ff8e92d76d056507aa596884] (1) The Mental Health Act 1983[^f00031] is amended as follows.
 
 (2) In section 12 (general provisions as to medical recommendations), in subsection (3)[^f00032], for “65 or 66” there is substituted “18A(4), 65 or 66”.
 
@@ -256,7 +284,9 @@ Article 3(1)
 
 ### Public Health (Control of Disease) Act 1984
 
-**17.** (1) The Public Health (Control of Disease) Act 1984[^f00040] is amended as follows.
+*Extent: E+W*
+
+**17.**[^c-a7091a43652c134708811a46e5ea3def] (1) The Public Health (Control of Disease) Act 1984[^f00040] is amended as follows.
 
 (2) In section 1 (authorities administering Act), in subsection (4)(b)[^f00041], for “or Special Health Authorities” there is inserted “ , Special Health Authorities or Primary Care Trusts”.
 
@@ -274,7 +304,9 @@ Article 3(1)
 
 ### Disabled Persons (Services, Consultation and Representation) Act 1986
 
-**18.** (1) The Disabled Persons (Services, Consultation and Representation) Act 1986[^f00045] is amended as follows.
+*Extent: E+W*
+
+**18.**[^c-03126e93234a2d8877173e9326582d6e] (1) The Disabled Persons (Services, Consultation and Representation) Act 1986[^f00045] is amended as follows.
 
 (2) In section 2 (rights of authorised representatives of disabled persons)–
 
@@ -298,7 +330,9 @@ Article 3(1)
 
 ### AIDS (Control) Act 1987
 
-**19.** (1) The AIDS (Control) Act 1987[^f00051] is amended as follows.
+*Extent: E+W*
+
+**19.**[^c-0119cdc4b467e6baaad428856eb447f8] (1) The AIDS (Control) Act 1987[^f00051] is amended as follows.
 
 (2) In section 1 (periodical reports on matters relating to AIDS and HIV)[^f00052]–
 
@@ -320,23 +354,31 @@ Article 3(1)
 
 ### Dartford-Thurrock Crossing Act 1988
 
-**20.** In section 19 of the Dartford-Thurrock Crossing Act 1988 (exemption from tolls)[^f00053], in paragraph (b), for “or a Special Health Authority established under section 11 of that Act” there is substituted “, a Special Health Authority established under section 11 of that Act or a Primary Care Trust established under section 16A of that Act”.
+*Extent: E+W*
+
+**20.**[^c-d2446342838db59e4b9dc98cb3191d20] In section 19 of the Dartford-Thurrock Crossing Act 1988 (exemption from tolls)[^f00053], in paragraph (b), for “or a Special Health Authority established under section 11 of that Act” there is substituted “, a Special Health Authority established under section 11 of that Act or a Primary Care Trust established under section 16A of that Act”.
 
 ### Community Health Councils (Access to Information) Act 1988
 
-**21.** In section 1 of the Community Health Councils (Access to Information) Act 1988 (access to meetings and documents of Community Health Councils)[^f00054], in subsection (6)(a), after “Health Authority” there is inserted “or Primary Care Trust”.
+*Extent: E+W*
+
+**21.**[^c-517ab8c2638fd6effb9d8a1bafb20909] In section 1 of the Community Health Councils (Access to Information) Act 1988 (access to meetings and documents of Community Health Councils)[^f00054], in subsection (6)(a), after “Health Authority” there is inserted “or Primary Care Trust”.
 
 ### Copyright, Designs and Patents Act 1988
 
-**22.** In section 48 of the Copyright, Designs and Patents Act 1988 (material communicated to the Crown in the course of public business)[^f00055], in subsection (6), after “1990”, there is inserted “a Primary Care Trust established under section 16A of the National Health Service Act 1977, ”.
+**22.**[^c-64fb36dd97ecedc17ded8371b3d3b618] In section 48 of the Copyright, Designs and Patents Act 1988 (material communicated to the Crown in the course of public business)[^f00055], in subsection (6), after “1990”, there is inserted “a Primary Care Trust established under section 16A of the National Health Service Act 1977, ”.
 
 ### Road Traffic Act 1988
 
-**23.** In section 144 of the Road Traffic Act 1988 (exceptions from requirement of third-party insurance or security)[^f00056], in subsection (2)(da), after “1990” there is inserted, “by a Primary Care Trust established under section 16A of the National Health Service Act 1977”.
+*Extent: E+W+S*
+
+**23.**[^c-2069ebff7fa07a41909aadecc8f8d809] In section 144 of the Road Traffic Act 1988 (exceptions from requirement of third-party insurance or security)[^f00056], in subsection (2)(da), after “1990” there is inserted, “by a Primary Care Trust established under section 16A of the National Health Service Act 1977”.
 
 ### Children Act 1989
 
-**24.** (1) The Children Act 1989[^f00057] is amended as follows.
+*Extent: E+W*
+
+**24.**[^c-26be8525275f2bc7fedd7fb220040275] (1) The Children Act 1989[^f00057] is amended as follows.
 
 (2) In section 19 (review of provision for day care, child minding etc)[^f00058], in subsection (7)(a), after “Special Health Authority” there is inserted “, Primary Care Trust”.
 
@@ -378,7 +420,9 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ### Access to Health Records Act 1990
 
-**25.** In section 11 of the Access to Health Records Act 1990 (interpretation)[^f00067]–
+*Extent: E+W*
+
+**25.**[^c-35edeeb506a65d5e54a4c8838bcbb7ac] In section 11 of the Access to Health Records Act 1990 (interpretation)[^f00067]–
 
 - (a) in the definition of “health service body”, for “or Special Health Authority” there is substituted “, Special Health Authority or Primary Care Trust”;
 - (b) after the definition of “parental responsibility” there is inserted the following definition–
@@ -389,11 +433,13 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ### London Local Authorities Act 1991
 
-**26.** In section 4 of the London Local Authorities Act 1991 (interpretation of Part II of that Act)[^f00068], in the definition of “establishment for special treatment”, in paragraph (d), after “Secretary of State” there is inserted “, by a Primary Care Trust established under section 16A of the National Health Service Act 1977”.
+**26.**[^c-e6bb77f0c39571140e72f6daedab4e01] In section 4 of the London Local Authorities Act 1991 (interpretation of Part II of that Act)[^f00068], in the definition of “establishment for special treatment”, in paragraph (d), after “Secretary of State” there is inserted “, by a Primary Care Trust established under section 16A of the National Health Service Act 1977”.
 
 ### Social Security Contributions and Benefits Act 1992
 
-**27.** (1) The Social Security Contributions and Benefits Act 1992[^f00069] is amended as follows.
+*Extent: E+W+S*
+
+**27.**[^c-83bc24b05e8472131118bcf696d7983e] (1) The Social Security Contributions and Benefits Act 1992[^f00069] is amended as follows.
 
 (2) In section 163 (interpretation of Part XI of the Act (statutory sick pay) and supplementary provisions), in subsection (6), after “two or more contracts, ” there is inserted “or where an order under paragraph 23(1) of Schedule 5A to the National Health Service Act 1977 provides that a person’s contract of employment is so divided,”.
 
@@ -401,7 +447,7 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ### Vehicle Excise and Registration Act 1994
 
-**28.** In Schedule 2 to the Vehicle Excise and Registration Act 1994 (vehicles exempt from vehicle excise duty)[^f00070], in paragraph 7, after sub-paragraph (c), there is inserted
+**28.**[^c-3008b6ba830aacc0fe24ce6e24849b38] In Schedule 2 to the Vehicle Excise and Registration Act 1994 (vehicles exempt from vehicle excise duty)[^f00070], in paragraph 7, after sub-paragraph (c), there is inserted
 
 > or
 >
@@ -411,14 +457,16 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ### Value Added Tax Act 1994
 
-**29.** In section 41 of the Value Added Tax Act 1994 (application of the Act to the Crown)[^f00071]–
+**29.**[^c-317a6e1d874969ab332b5e148dda1af8] In section 41 of the Value Added Tax Act 1994 (application of the Act to the Crown)[^f00071]–
 
 - (a) in subsection (6), the words from “a health service body” to “ 1990, and” are omitted;
 - (b) in subsection (7), for the words from “a National Health Service trust ” to “1990” there is substituted “a health service body as defined in section 60(7) of the National Health Service and Community Care Act 1990, and a National Health Service trust established under Part I of that Act”.
 
 ### Employment Rights Act 1996
 
-**30.** (1) The Employment Rights Act 1996[^f00072] is amended as follows.
+*Extent: E+W+S*
+
+**30.**[^c-58764cafe65199ee4bb869ca5cc236f9] (1) The Employment Rights Act 1996[^f00072] is amended as follows.
 
 (2) In section 50 (right to time off for public duties), in subsection (8)(b), for “or a Special Health Authority established under section 11 of that Act” there is substituted “, a Special Health Authority established under section 11 of that Act or a Primary Care Trust established under section 16A of that Act”.
 
@@ -430,7 +478,9 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ### Housing Grants, Construction and Regeneration Act 1996
 
-**31.** (1) The Housing Grants, Construction and Regeneration Act 1996[^f00073] is amended as follows.
+*Extent: E+W*
+
+**31.**[^c-64ec2c730265060510b9023a528661a6] (1) The Housing Grants, Construction and Regeneration Act 1996[^f00073] is amended as follows.
 
 (2) In section 3 (applicants ineligible for grants for improvements and repairs, etc), in subsection (2)(f), after “special health authority” there is inserted “, Primary Care Trust”.
 
@@ -438,7 +488,9 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ### Education Act 1996
 
-**32.** (1) The Education Act 1996[^f00074] is amended as follows.
+*Extent: E+W*
+
+**32.**[^c-da71eceacc8c1683d8f6eb832cce3ce0] (1) The Education Act 1996[^f00074] is amended as follows.
 
 (2) In section 322 (duty of Health Authority or local authority to help local education authority)–
 
@@ -455,7 +507,7 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ### Data Protection Act 1998
 
-**33.** In section 69 of the Data Protection Act 1998 (meaning of “health professional ”)[^f00075], in subsection (3), after paragraph (b), there is inserted the following paragraph–
+**33.**[^c-53836ad5bf1e6210caa207d93803cc42] In section 69 of the Data Protection Act 1998 (meaning of “health professional ”)[^f00075], in subsection (3), after paragraph (b), there is inserted the following paragraph–
 
 > - (bb) a Primary Care Trust established under section 16A of that Act,
 
@@ -463,11 +515,15 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ### School Standards and Framework Act 1998
 
-**34.** In Schedule 9 of the School Standards and Framework Act 1998 (constitution of governing bodies)[^f00076], in paragraph 10(5), after “National Health Service trust” there is inserted “or a Primary Care Trust”.
+*Extent: E+W*
+
+**34.**[^c-e3f912c252bb6c5cd6d52f58dc19f96d] In Schedule 9 of the School Standards and Framework Act 1998 (constitution of governing bodies)[^f00076], in paragraph 10(5), after “National Health Service trust” there is inserted “or a Primary Care Trust”.
 
 ### Crime and Disorder Act 1998
 
-**35.** (1) The Crime and Disorder Act 1998[^f00077] is amended as follows.
+*Extent: E+W*
+
+**35.**[^c-5a8f177a87260d27359cd0ddd7a531e9] (1) The Crime and Disorder Act 1998[^f00077] is amended as follows.
 
 (2) In section 5 (authorities responsible for crime and disorder strategies), in subsection (2)(b), for “or health authority” there is substituted “ , health authority or Primary Care Trust”.
 
@@ -487,7 +543,9 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ### Road Traffic (NHS Charges) Act 1999
 
-**36.** (1) The Road Traffic (NHS Charges) Act 1999[^f00078] is amended as follows.
+*Extent: E+W*
+
+**36.**[^c-d584d641c0cea5d797371a54ba271df9] (1) The Road Traffic (NHS Charges) Act 1999[^f00078] is amended as follows.
 
 (2) In section 1 (payment for hospital treatment), in subsection (6)(a), for “ section 65” there is inserted “section 18A(4) or 65”.
 
@@ -502,25 +560,33 @@ after “Special Health Authority” there is inserted “, Primary Care Trust�
 
 ## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS IN RESPECT OF HIGH SECURITY PSYCHIATRIC SERVICES
 
+*Extent: E+W+S*
+
+**Not yet in force.**
+
 Article 3(2)
 
 ### PART I — ACTS
 
 #### Criminal Appeal Act 1968
 
-**1.** In section 51 of the Criminal Appeal Act 1968 (interpretation)[^f00079], in subsection (2), after “section 145(1)” there is inserted “and (1AA) ”.
+*Extent: E+W*
+
+**1.**[^c-fd748e322c31280315c0ae40b39450e9] In section 51 of the Criminal Appeal Act 1968 (interpretation)[^f00079], in subsection (2), after “section 145(1)” there is inserted “and (1AA) ”.
 
 #### Health Services and Public Health Act 1968
 
-**2.** In section 66 of the Health Services and Public Health Act 1968 (payments in respect of travelling expenses of visitors to patients in special hospitals)[^f00080], in subsections (1) and (2), for “special hospitals”, in each place those words appear, there is substituted “hospitals at which high security psychiatric services are provided”.
+**2.**[^c-2d6cf9a6abe6424fa30cf9ee21c247ac] In section 66 of the Health Services and Public Health Act 1968 (payments in respect of travelling expenses of visitors to patients in special hospitals)[^f00080], in subsections (1) and (2), for “special hospitals”, in each place those words appear, there is substituted “hospitals at which high security psychiatric services are provided”.
 
 #### Children and Young Persons Act 1969
 
-**3.** In section 12B of the Children and Young Persons Act 1969 (requirements as to mental treatment)[^f00081], in subsection (1)(c), for “special hospital within the meaning of that Act” there is substituted “hospital at which high security psychiatric services within the meaning of that Act are provided”.
+*Extent: E+W*
+
+**3.**[^c-aae99181c985bc9b1b9aca40f013b8c7] In section 12B of the Children and Young Persons Act 1969 (requirements as to mental treatment)[^f00081], in subsection (1)(c), for “special hospital within the meaning of that Act” there is substituted “hospital at which high security psychiatric services within the meaning of that Act are provided”.
 
 #### Disabled Persons (Services, Consultation and Representation) Act 1986
 
-**4.** (1) The Disabled Persons (Services, Consultation and Representation) Act 1986[^f00082] is amended as follows.
+**4.**[^c-a474c9040d12f4aa4db12c646de8b5dd] (1) The Disabled Persons (Services, Consultation and Representation) Act 1986[^f00082] is amended as follows.
 
 (2) In section 7 (persons discharged from hospital), in subsection (9), in the definition of “the managers”[^f00083]–
 
@@ -533,17 +599,23 @@ Article 3(2)
 
 #### Children Act 1989
 
-**5.** In section 105 of the Children Act 1989 (interpretation), in subsection (1), in the definition of “hospital”, for “special hospital within the meaning of that Act” there is substituted “hospital at which high security psychiatric services within the meaning of that Act are provided ”.
+*Extent: E+W*
+
+**5.**[^c-7dda7785b3ded9f642d1ca99ab03027e] In section 105 of the Children Act 1989 (interpretation), in subsection (1), in the definition of “hospital”, for “special hospital within the meaning of that Act” there is substituted “hospital at which high security psychiatric services within the meaning of that Act are provided ”.
 
 #### Criminal Procedure (Insanity and Unfitness to Plead) Act 1991
 
-**6.** In Schedule 2 to the Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (supervision and treatment orders)[^f00084], in paragraph 4(2)(a), for “special hospital within the meaning of the National Health Service Act 1977” there is substituted “hospital at which high security psychiatric services within the meaning of the National Health Service Act 1977 are provided ”.
+*Extent: E+W*
+
+**6.**[^c-97fce874323e2c6fa2f809fdc3b69c5f] In Schedule 2 to the Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (supervision and treatment orders)[^f00084], in paragraph 4(2)(a), for “special hospital within the meaning of the National Health Service Act 1977” there is substituted “hospital at which high security psychiatric services within the meaning of the National Health Service Act 1977 are provided ”.
 
 ### PART II — REGULATIONS AND ORDERS
 
+*Extent: E+W*
+
 #### The Authorities for the Ashworth, Broadmoor and Rampton Hospitals (Establishment and Constitution) Order 1996
 
-**7.** (1) The Authorities for the Ashworth, Broadmoor and Rampton Hospitals (Establishment and Constitution) Order 1996[^f00085] is amended as follows.
+**7.**[^c-35c43e13265bc40ebc2521385c35e835] (1) The Authorities for the Ashworth, Broadmoor and Rampton Hospitals (Establishment and Constitution) Order 1996[^f00085] is amended as follows.
 
 (2) In article 3 (functions of the Authorities), for “special hospital” there is substituted “provision of high security psychiatric services at the hospital”.
 
@@ -551,7 +623,7 @@ Article 3(2)
 
 #### The Ashworth, Broadmoor and Rampton Hospital Authorities (Functions and Membership) Regulations 1996
 
-**8.** (1) The Ashworth, Broadmoor and Rampton Hospital Authorities (Functions and Membership) Regulations[^f00086] are amended as follows.
+**8.**[^c-74b67ded2acdc0f7d398b64d8f3c9d93] (1) The Ashworth, Broadmoor and Rampton Hospital Authorities (Functions and Membership) Regulations[^f00086] are amended as follows.
 
 (2) In regulation 1(2) (interpretation)–
 
@@ -576,11 +648,25 @@ Article 3(2) and Schedule 2 make amendments to certain Acts and to the Order and
 
 [^f00002]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8). The powers of the Secretary of State under section 63 of the 1999 Act are, so far as that section relates to any provision of that Act which by virtue of section 66(2) of that Act may be brought into force by the National Assembly for Wales and so far as they are exercisable in relation to Wales, transferred to the Assembly by article 2(a) of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), as amended by section 66(5)(c) of the 1999 Act. The powers of the Secretary of State under section 63 of the 1999 Act are, so far as they are exercisable within devolved competence (within the meaning of section 54 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46)), exercisable by the Scottish Ministers, by virtue of section 66(1) of the 1999 Act and section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). By virtue of section 68(2) of the 1999 Act, the power under section 63 of that Act to amend an enactment which extends to any part of the United Kingdom extends also to that part.
 
+[^c-ee90e06c8d8a2082abddfe110bbd595c]: Commencement: Art. 1 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
+[^c-6a71626aa2758ec485c79398b6fe4ad1]: Commencement: Art. 2 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
+[^c-78ce3d4b9e536ad4fa3a686e5e70f2ce]: Commencement: Art. 3(1) in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
+[^c-822c00e730b110fd6be3fc26f89ed491]: Commencement: Art. 3(2) in force at 1.4.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
+[^c-af1b631b5a24f435774af152f2f9b6a5]: Commencement: Art. 4 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00003]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
 [^f00004]: Footnote: *See* section 262 of the Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8) for the definition of “statutory undertaker”.
 
+[^c-a6dd6bfbc23483c32e330e34b7bef4bf]: Commencement: Sch. 1 para. 1 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00005]: Footnote: [26 Geo. 5 & 1 Edw. 8, c. 17](https://www.legislation.gov.uk/ukpga/1936/17). The definition of “voluntary hospital” in section 1 was amended by the National Health Service Act [1946 (c. 81)](https://www.legislation.gov.uk/ukpga/1946/81), Schedule 10, and by the 1990 Act, Schedule 9, paragraph 2(a); the amendment made by Schedule 10 to the National Health Service Act 1946 was saved by the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49) (“the 1977 Act”), Schedule 14, paragraph 13(1)(a).
+
+[^c-e879fc652f4fc8ffabb2e0e95b882f05]: Commencement: Sch. 1 para. 2 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00006]: Footnote: [11 & 12 Geo. 6, c. 29](https://www.legislation.gov.uk/ukpga/1948/29).
 
@@ -588,27 +674,49 @@ Article 3(2) and Schedule 2 make amendments to certain Acts and to the Order and
 
 [^f00008]: Footnote: Section 24(7) was inserted by the 1990 Act, Schedule 9, paragraph 5(4)(b).
 
+[^c-285450a5503064885b2d4b28cf86e35f]: Commencement: Sch. 1 para. 3 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00009]: Footnote: [6 & 7 Eliz. 2, c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
 
 [^f00010]: Footnote: The entry relating to National Health Service Authorities was amended by the 1990 Act, Schedule 9, paragraph 6(a) and the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), Schedule 12, paragraph 3(3)(a).
 
+[^c-e00c8ce78fa0733234b64999973e9d3d]: Commencement: Sch. 1 para. 4 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00011]: Footnote: [9 & 10 Eliz. 2, c. 54](https://www.legislation.gov.uk/ukpga/1961/54); section 1(4) and 1(4A) were substituted for section 1(4) by the Corneal Tissue Act [1986 (c. 18)](https://www.legislation.gov.uk/ukpga/1986/18), section 1 and amended by the 1990 Act, Schedule 9, paragraph 7(a); section 1(10) was added by the Corneal Tissue Act 1986, section 1 and was amended by the 1990 Act, Schedule 9, paragraph 7(b) and by the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17) (“the 1995 Act”), Schedule 1, paragraph 92.
+
+[^c-f32d099222977855949e620d1c94884d]: Commencement: Sch. 1 para. 5 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00012]: Footnote: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13). Paragraph 8 of Schedule 3 was amended by the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32) (“the 1973 Act”), Schedule 4, paragraph 109, the Health Service Commissioners Act [1993 (c. 46)](https://www.legislation.gov.uk/ukpga/1993/46), Schedule 2, paragraph 2, the 1995 Act, Schedule 1, paragraph 93, and by [S.I. 1981/736](https://www.legislation.gov.uk/uksi/1981/736), [1986/1168](https://www.legislation.gov.uk/uksi/1986/1168) and [1987/661](https://www.legislation.gov.uk/uksi/1987/661).
 
+[^c-a74ff362a622b4523b05a1853a8f9d7e]: Commencement: Sch. 1 para. 6 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00013]: Footnote: [1967 c. 87](https://www.legislation.gov.uk/ukpga/1967/87); section 1(3) was amended by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 1, paragraph 17(1) and the 1990 Act, Schedule 9, paragraph 8.
+
+[^c-d194af6d835162eaf63ddedfac3e18d8]: Commencement: Sch. 1 para. 7 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00014]: Footnote: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88); section 28(5)(d) and (6)(c) were substituted by the 1973 Act, Schedule 4, paragraph 111 and were amended by the 1977 Act, Schedule 15, paragraph 42, the 1990 Act, Schedule 9, paragraph 9 and the 1995 Act, Schedule 1, paragraph 94.
 
+[^c-382d565a043012ee249b3e19e61aa097]: Commencement: Sch. 1 para. 8 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00015]: Footnote: [1969 c. 48](https://www.legislation.gov.uk/ukpga/1969/48). Paragraph (a) of the definition of “national health service authority” in section 86 was amended by the 1973 Act, Schedule 4, paragraph 130 and the 1995 Act, Schedule 1, paragraph 96.
+
+[^c-6a5ef6cfab558f2831311e303fbf14a6]: Commencement: Sch. 1 para. 9 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00016]: Footnote: [1969 c. 57](https://www.legislation.gov.uk/ukpga/1969/57); section 3(2)(a) was inserted by the 1990 Act, Schedule 8, Part I, paragraph 1.
 
+[^c-3db86148e10f9c368fff0c49ae65f324]: Commencement: Sch. 1 para. 10 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00017]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 113(1A) was inserted by the 1973 Act, Schedule 4, paragraph 151 and amended by the 1990 Act, Schedule 9, paragraph 13(a) and the 1995 Act, Schedule 1, paragraph 97(2); section 113(4) was added by the 1990 Act, Schedule 9, paragraph 13(b).
+
+[^c-fbeb5a069a9d6ed602be60a82a4672da]: Commencement: Sch. 1 para. 11 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00018]: Footnote: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
+[^c-50c97b98a42a0fd974fd12190ed2cb85]: Commencement: Sch. 1 para. 12 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00019]: Footnote: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36); section 2(a) was substituted by the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41), Schedule 10, paragraph 1 and amended by the 1990 Act, Schedule 9, paragraph 17 and the 1995 Act, Schedule 1, paragraph 101.
+
+[^c-70aa028d95bb0b4fd66c51df2da7fe6c]: Commencement: Sch. 1 para. 13 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00020]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -624,13 +732,19 @@ Article 3(2) and Schedule 2 make amendments to certain Acts and to the Order and
 
 [^f00026]: Footnote: Paragraphs (a) to (c) of section 125 were substituted by the 1995 Act, Schedule 1, paragraph 56.
 
+[^c-b70e64e1c6c47efab673bc9426b83abe]: Commencement: Sch. 1 para. 14 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00027]: Footnote: [1980 c. 63](https://www.legislation.gov.uk/ukpga/1980/63); the entry in Part II of Schedule 1 for a Special Health Authority was inserted by the 1995 Act, Schedule 1, paragraph 105.
+
+[^c-a47f27b939205f18a4cc12ed573e62d9]: Commencement: Sch. 1 para. 15 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00028]: Footnote: [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67).
 
 [^f00029]: Footnote: Section 16(3) was inserted by the 1990 Act, Schedule 8, paragraph 8(1).
 
 [^f00030]: Footnote: In the definition of “statutory undertakers”, paragraph (aa) was inserted by the 1990 Act, Schedule 9, paragraph 23, and paragraphs (ab) and (ac) were inserted by the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 37, paragraph 51: paragraph (ab) was repealed by the School Standards and Framework Act 1998, section 140(3) and Schedule 31, and paragraph (ac) is repealed by that Schedule from a day to be appointed under section 145(3) of that Act.
+
+[^c-d84c5456ff8e92d76d056507aa596884]: Commencement: Sch. 1 para. 16 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00031]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
@@ -650,6 +764,8 @@ Article 3(2) and Schedule 2 make amendments to certain Acts and to the Order and
 
 [^f00039]: Footnote: Paragraph (bb) was inserted by the 1990 Act, Schedule 9, paragraph 25(9) and amended by the Mental Health (Amendment) Act [1994 (c. 6)](https://www.legislation.gov.uk/ukpga/1994/6), section 1.
 
+[^c-a7091a43652c134708811a46e5ea3def]: Commencement: Sch. 1 para. 17 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00040]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
 [^f00041]: Footnote: Section 1(4)(b) was substituted by the 1995 Act, Schedule 1, paragraph 108(2).
@@ -659,6 +775,8 @@ Article 3(2) and Schedule 2 make amendments to certain Acts and to the Order and
 [^f00043]: Footnote: Section 37(1) was amended by the 1990 Act, Schedule 9, paragraph 26(2) and the 1995 Act, Schedule 1, paragraph 108(6).
 
 [^f00044]: Footnote: Section 41(1) was amended by the 1990 Act, Schedule 9, paragraph 26(3) and the 1995 Act, Schedule 1, paragraph 108(8).
+
+[^c-03126e93234a2d8877173e9326582d6e]: Commencement: Sch. 1 para. 18 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00045]: Footnote: [1986 c. 33](https://www.legislation.gov.uk/ukpga/1986/33).
 
@@ -672,17 +790,29 @@ Article 3(2) and Schedule 2 make amendments to certain Acts and to the Order and
 
 [^f00050]: Footnote: The definition of “parental responsibility” was inserted by the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41), Schedule 13, paragraph 61(2).
 
+[^c-0119cdc4b467e6baaad428856eb447f8]: Commencement: Sch. 1 para. 19 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00051]: Footnote: [1987 c. 33](https://www.legislation.gov.uk/ukpga/1987/33).
 
 [^f00052]: Footnote: Section 1 was amended by the 1990 Act, Schedule 9, paragraph 32(1) and the 1995 Act, Schedule 1, paragraph 113(2).
 
+[^c-d2446342838db59e4b9dc98cb3191d20]: Commencement: Sch. 1 para. 20 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00053]: Footnote: [1988 c. 20](https://www.legislation.gov.uk/ukpga/1988/20); section 19(b) was amended by the 1995 Act, Schedule 1, paragraph 115.
+
+[^c-517ab8c2638fd6effb9d8a1bafb20909]: Commencement: Sch. 1 para. 21 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00054]: Footnote: [1988 c. 24](https://www.legislation.gov.uk/ukpga/1988/24); section 1(6)(a) was amended by the 1990 Act, Schedule 9, paragraph 33 and the 1995 Act, Schedule 1, paragraph 116.
 
+[^c-64fb36dd97ecedc17ded8371b3d3b618]: Commencement: Sch. 1 para. 22 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00055]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48); section 48(6) was inserted by the 1990 Act, Schedule 8, paragraph 3 and was amended by the Health and Personal Social Services (Northern Ireland) Order 1991, [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194), Schedule 2, paragraph 3 and the Health Act 1999 (Supplementary and Consequential Provisions) Order 1999, [S.I. 1999/2795](https://www.legislation.gov.uk/uksi/1999/2795).
 
+[^c-2069ebff7fa07a41909aadecc8f8d809]: Commencement: Sch. 1 para. 23 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00056]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Paragraph (da) of section 144(2) was inserted by the 1990 Act, Schedule 8, paragraph 4 and was amended by the Health Act 1999 (Supplementary and Consequential Provisions) Order 1999, [S.I. 1999/2795](https://www.legislation.gov.uk/uksi/1999/2795).
+
+[^c-26be8525275f2bc7fedd7fb220040275]: Commencement: Sch. 1 para. 24 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00057]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -704,42 +834,82 @@ Article 3(2) and Schedule 2 make amendments to certain Acts and to the Order and
 
 [^f00066]: Footnote: Paragraph 1A was inserted by the Children Act 1989 (Amendment) (Children’s Services Planning) Order 1996, [S.I. 1996/785](https://www.legislation.gov.uk/uksi/1996/785).
 
+[^c-35edeeb506a65d5e54a4c8838bcbb7ac]: Commencement: Sch. 1 para. 25 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00067]: Footnote: [1990 c. 23](https://www.legislation.gov.uk/ukpga/1990/23); the definition of “health service body” in section 11 was amended by the 1995 Act, Schedule 1, paragraph 119(4).
+
+[^c-e6bb77f0c39571140e72f6daedab4e01]: Commencement: Sch. 1 para. 26 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00068]: Footnote: [1991 c. xiii](https://www.legislation.gov.uk/ukla/1991/13); paragraph (d) of the definition “establishment for special treatment” was amended by the Charities Act [1993 (c. 10)](https://www.legislation.gov.uk/ukpga/1993/10), Schedule 6, paragraph 28.
 
+[^c-83bc24b05e8472131118bcf696d7983e]: Commencement: Sch. 1 para. 27 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00069]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^c-3008b6ba830aacc0fe24ce6e24849b38]: Commencement: Sch. 1 para. 28 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00070]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22); paragraph 7(c) of Schedule 2 to the Act was inserted by the Health Act 1999 (Supplementary and Consequential Provisions) Order 1999, [S.I. 1999/2795](https://www.legislation.gov.uk/uksi/1999/2795).
 
+[^c-317a6e1d874969ab332b5e148dda1af8]: Commencement: Sch. 1 para. 29 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00071]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); section 41(6) was amended by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), Schedule 12, paragraph 35 and by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 30; section 41(7) was amended by the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, paragraph 86.
+
+[^c-58764cafe65199ee4bb869ca5cc236f9]: Commencement: Sch. 1 para. 30 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00072]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
+[^c-64ec2c730265060510b9023a528661a6]: Commencement: Sch. 1 para. 31 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00073]: Footnote: [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53).
+
+[^c-da71eceacc8c1683d8f6eb832cce3ce0]: Commencement: Sch. 1 para. 32 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00074]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
+[^c-53836ad5bf1e6210caa207d93803cc42]: Commencement: Sch. 1 para. 33 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00075]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^c-e3f912c252bb6c5cd6d52f58dc19f96d]: Commencement: Sch. 1 para. 34 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00076]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
 
+[^c-5a8f177a87260d27359cd0ddd7a531e9]: Commencement: Sch. 1 para. 35 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00077]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
+
+[^c-d584d641c0cea5d797371a54ba271df9]: Commencement: Sch. 1 para. 36 in force at 8.2.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00078]: Footnote: [1999 c. 3](https://www.legislation.gov.uk/ukpga/1999/3).
 
+[^c-fd748e322c31280315c0ae40b39450e9]: Commencement: Sch. 2 para. 1 in force at 1.4.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00079]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); in section 51(2) “section 145(1) of the Mental Health Act 1983” was substituted by that Act (c. 20), Schedule 4, paragraph 23.
+
+[^c-2d6cf9a6abe6424fa30cf9ee21c247ac]: Commencement: Sch. 2 para. 2 in force at 1.4.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00080]: Footnote: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46).
 
+[^c-aae99181c985bc9b1b9aca40f013b8c7]: Commencement: Sch. 2 para. 3 in force at 1.4.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00081]: Footnote: [1969 c. 54](https://www.legislation.gov.uk/ukpga/1969/54); sections 12 to 12D was substituted for section 12 by the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), Part I of Schedule 10; section 12B(1)(c) was amended by the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 7, paragraph 5(1)(f).
+
+[^c-a474c9040d12f4aa4db12c646de8b5dd]: Commencement: Sch. 2 para. 4 in force at 1.4.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00082]: Footnote: [1986 c. 33](https://www.legislation.gov.uk/ukpga/1986/33).
 
 [^f00083]: Footnote: The definition of “the managers” was amended by the 1990 Act, Schedule 9, paragraph 30(2) and the 1995 Act, Schedule 1, paragraph 111(3)(b)(ii), and is amended by this Order, Schedule 1, paragraph 18(3).
 
+[^c-7dda7785b3ded9f642d1ca99ab03027e]: Commencement: Sch. 2 para. 5 in force at 1.4.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
+[^c-97fce874323e2c6fa2f809fdc3b69c5f]: Commencement: Sch. 2 para. 6 in force at 1.4.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00084]: Footnote: [1991 c. 25](https://www.legislation.gov.uk/ukpga/1991/25).
 
+[^c-35c43e13265bc40ebc2521385c35e835]: Commencement: Sch. 2 para. 7 in force at 1.4.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
+
 [^f00085]: Footnote: [S.I. 1996/488](https://www.legislation.gov.uk/uksi/1996/488).
+
+[^c-74b67ded2acdc0f7d398b64d8f3c9d93]: Commencement: Sch. 2 para. 8 in force at 1.4.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/90/article/1)
 
 [^f00086]: Footnote: [S.I. 1996/489](https://www.legislation.gov.uk/uksi/1996/489).

@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 18
 act: The South Hampshire Rapid Transit Order 2001
 section: '18'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 18. Level crossings
+## 18. Level crossings[^c-54b1fd260dceaff091efa20718618e78]
+
+*Extent: E+W+S*
 
 (1) The undertaker may construct the authorised transit system so as to carry it on the level across the highways specified in Parts I and II of Schedule 6 to this Order.
 
@@ -31,3 +35,7 @@ summary: ''
 - “barrier” includes gate;
 - “new level crossing” means the place at which an authorised tramroad crosses a highway on the level under the powers conferred by this article; and
 - “protective equipment” includes lights, traffic signs (within the meaning of section 64(1) of the 1984 Act), manual, mechanical, automatic, electrical or telephonic equipment or other devices.
+
+## Annotations
+
+[^c-54b1fd260dceaff091efa20718618e78]: Commencement: Art. 18 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

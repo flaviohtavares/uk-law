@@ -3,7 +3,7 @@ title: Local Government Finance Act 1992, section 40
 act: Local Government Finance Act 1992
 section: '40'
 status: revised-with-pending-changes
-text_date: '2026-06-29'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1992/14/section/40
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Local Government Finance Act 1992, section 40
 
-> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
+> **Warning: changes not yet applied to this text (35).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
 > Extent: England, Wales.
 
@@ -66,13 +66,13 @@ summary: ''
 
 (11)[^c-08744efe18ddfa86bee91c8b0c9ca55b] Where the precepting authority is a mayoral combined authority—
 
-- (a) a precept may be issued under this section only in relation to expenditure incurred by the mayor for the authority's area in, or in connection with, the exercise of mayoral functions (as defined by section 107G(7) of the Local Democracy, Economic Development and Construction Act 2009), and
-- (b) the issuing and calculation of a precept under this Chapter is subject to any provision made in an order under that section.
+- (a)[^c-72e0d83f1a8610ac8408269bac9a00e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the issuing and calculation of a precept under this Chapter is subject to any provision made in an order under section 107G of the Local Democracy, Economic Development and Construction Act 2009[^c-e0d1906525dd04eaf6e0ea07d27372ad].
 
 (12)[^c-56fe0f8ee417c07f548c12c359c5dd76] Where the precepting authority is a mayoral CCA—
 
-- (a) a precept may be issued under this section only in relation to expenditure incurred by the mayor for the authority’s area in, or in connection with, the exercise of mayoral functions (as defined by section 41(8) of the Levelling-up and Regeneration Act 2023), and
-- (b) the issuing and calculation of a precept under this Chapter is subject to any provision made in regulations under that section.
+- (a)[^c-afbddf9b72b1c8bf232ea8b656d41100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the issuing and calculation of a precept under this Chapter is subject to any provision made in regulations under section 41 of the Levelling-up and Regeneration Act 2023[^c-6740fe97d6097971e747faa3dab0f12a].
 
 ## Annotations
 
@@ -82,7 +82,7 @@ summary: ''
 
 [^c12077061]: Modification: Pt. I Chs. III-IV (ss. 30-52) modified (E.) (1.2.1993) by [S.I. 1993/22](https://www.legislation.gov.uk/uksi/1993/22), [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/22/article/4/2)
 
-[^c-bb7f6b996e608a693d568e2b4cc6cc54]: Modification: [Pt. 1 Chs. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4), [4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA): power to modify conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [s. 107G(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/3) (as inserted (E.W.) (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2))
+[^c-bb7f6b996e608a693d568e2b4cc6cc54]: Modification: Pt. 1 Chs. 4, 4ZA: power to modify conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [s. 107G(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/3) (as inserted (E.W.) (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2))
 
 [^c-2fa19a36882b97946420b1f1a37dfae6]: Textual amendment: Words in s. 40(2)(a) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 17(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/17/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
@@ -112,4 +112,12 @@ summary: ''
 
 [^c-08744efe18ddfa86bee91c8b0c9ca55b]: Textual amendment: S. 40(11) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/2), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^c-56fe0f8ee417c07f548c12c359c5dd76]: Textual amendment: [S. 40(12)](https://www.legislation.gov.uk/ukpga/1992/14/section/40/12) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 112](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/112) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-72e0d83f1a8610ac8408269bac9a00e8]: Textual amendment: S. 40(11)(a) omitted (13.11.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/1/a), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
+
+[^c-e0d1906525dd04eaf6e0ea07d27372ad]: Textual amendment: Words in s. 40(11)(b) substituted (13.11.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/1/b), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
+
+[^c-56fe0f8ee417c07f548c12c359c5dd76]: Textual amendment: S. 40(12) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 112](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/112) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^c-afbddf9b72b1c8bf232ea8b656d41100]: Textual amendment: S. 40(12)(a) omitted (13.11.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(1)(c)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/1/c), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)
+
+[^c-6740fe97d6097971e747faa3dab0f12a]: Textual amendment: Words in s. 40(12)(b) substituted (13.11.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 12(1)(d)](https://www.legislation.gov.uk/ukpga/2026/23/section/12/1/d), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1141](https://www.legislation.gov.uk/uksi/2026/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1141/regulation/2)

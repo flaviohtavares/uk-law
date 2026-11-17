@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1992-03-06'
-text_date: '2026-06-29'
+text_date: '2026-11-13'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1992/14
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1992/14/pdfs/ukpga_19920014_en.pdf
 - http://www.legislation.gov.uk/ukpga/1992/14/data.pdf
-pending_changes: 40
+pending_changes: 35
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Local Government Finance Act 1992
 
-> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
+> **Warning: changes not yet applied to this text (35).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
 > Extent: England, Wales, Scotland.
 
@@ -194,7 +194,7 @@ An Act to provide for certain local authorities to levy and collect a new tax, t
 
 - [Section 52 — Information for purposes of Chapter IV.](part-i/section-52.md)
 
-#### CHAPTER IVZA — Referendums relating to council tax increases[^c-92e8115527ff13b77001988cfd8f99f7][^c-bb7f6b996e608a693d568e2b4cc6cc54][^c-72294a4a9a039d94c791af624e46de74][^c-bb87d70d5a131d782099172c2abb0316][^c-6e7ef88ffa521f0c646645ea0a191527]
+#### CHAPTER IVZA — Referendums relating to council tax increases[^c-bb7f6b996e608a693d568e2b4cc6cc54][^c-92e8115527ff13b77001988cfd8f99f7][^c-72294a4a9a039d94c791af624e46de74][^c-bb87d70d5a131d782099172c2abb0316][^c-6e7ef88ffa521f0c646645ea0a191527]
 
 *Extent: E+W*
 
@@ -556,15 +556,15 @@ SCHEDULES
 
     Pt. I Ch. IV (ss. 39-52) restricted (12.7.1995) by [S.I. 1995/1774](https://www.legislation.gov.uk/uksi/1995/1774), [art. 4(3)(b)(i)](https://www.legislation.gov.uk/uksi/1995/1774/article/4/3/b/i)
 
-[^c-bb7f6b996e608a693d568e2b4cc6cc54]: Modification: [Pt. 1 Chs. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4), [4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA): power to modify conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [s. 107G(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/3) (as inserted (E.W.) (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2))
+[^c-bb7f6b996e608a693d568e2b4cc6cc54]: Modification: Pt. 1 Chs. 4, 4ZA: power to modify conferred by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [s. 107G(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/107G/3) (as inserted (E.W.) (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/5/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2))
 
-[^c-72294a4a9a039d94c791af624e46de74]: Modification: [Pt. 1 Chs. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4), [4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA) applied (with modifications) (27.4.2017) by [The Combined Authorities (Finance) Order 2017 (S.I. 2017/611)](https://www.legislation.gov.uk/uksi/2017/611), [arts. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1), [4(1)(2)(a)](https://www.legislation.gov.uk/uksi/2017/611/article/4/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2017/611/schedule) (as amended (17.5.2024) by [S.I. 2024/652](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/1), [3(a)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a))
+[^c-72294a4a9a039d94c791af624e46de74]: Modification: Pt. 1 Chs. 4, 4ZA applied (with modifications) (27.4.2017) by [The Combined Authorities (Finance) Order 2017 (S.I. 2017/611)](https://www.legislation.gov.uk/uksi/2017/611), [arts. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1), [4(1)(2)(a)](https://www.legislation.gov.uk/uksi/2017/611/article/4/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2017/611/schedule) (as amended (17.5.2024) by [S.I. 2024/652](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/1), [3(a)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a); and (13.11.2026) by [S.I. 2026/1118](https://www.legislation.gov.uk/uksi/2026/1118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2026/1118/regulation/2/7))
 
 [^c-01267f34dda8d89fcdb641f13434ed4b]: Modification: [Pt. 1 Ch. 4](https://www.legislation.gov.uk/ukpga/1992/14/part/I/chapter/IV): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/41/3), [255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^c-92e8115527ff13b77001988cfd8f99f7]: Modification: Pt. 1 Ch. 4ZA modified by S.I. 2008/3022, reg. 15A, Sch. 3 (as inserted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/20/regulation/7), [11](https://www.legislation.gov.uk/uksi/2012/20/regulation/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/20/schedule/2)) (as amended (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1296/regulation/10), [12](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12))
+[^c-92e8115527ff13b77001988cfd8f99f7]: Modification: Pt. 1 Ch. 4ZA modified by [S.I. 2008/3022](https://www.legislation.gov.uk/uksi/2008/3022), [reg. 15A](https://www.legislation.gov.uk/uksi/2008/3022/regulation/15A), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/3022/schedule/3) (as inserted (25.1.2012) by [The Local Government (Structural Changes) (Finance) (Amendment) Regulations 2012 (S.I. 2012/20)](https://www.legislation.gov.uk/uksi/2012/20), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/20/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/20/regulation/7), [11](https://www.legislation.gov.uk/uksi/2012/20/regulation/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/20/schedule/2)) (as amended (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1296/regulation/10), [12](https://www.legislation.gov.uk/uksi/2018/1296/regulation/12))
 
-[^c-bb87d70d5a131d782099172c2abb0316]: Modification: [Pt. 1 Ch. 4ZA](https://www.legislation.gov.uk/ukpga/1992/14/part/1/chapter/4ZA): power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/41/3), [255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-bb87d70d5a131d782099172c2abb0316]: Modification: Pt. 1 Ch. 4ZA: power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/41/3), [255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
 

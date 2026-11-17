@@ -2,8 +2,8 @@
 title: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, section 48
 act: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 section: '48'
-status: revised-with-pending-changes
-text_date: '2026-04-01'
+status: revised
+text_date: '2026-11-06'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2012/319/section/48
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, section 48
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2012/319
+> Text as at 2026-11-06.
 >
 > Extent: Scotland.
 
@@ -77,7 +77,7 @@ the deduction in respect of that non-dependant must be apportioned equally betwe
 - (c) any payment which, had the person’s income fallen to be calculated under regulation 39 of the Council Tax Reduction (Scotland) Regulations 2012, would have been disregarded under paragraph 41 of Schedule 4 to those Regulations (payments made under certain trusts and certain other payments);[^c-f5ab8ea6ce71b71dae08e4695d61d920] [^c-313454f44c13462978866a3059a5f000]...
 - (d) any payment made under or by the Thalidomide Trust;[^c-106b876c600cb8a1fc1b01d07a7b6b48]
 - (e) any payment or interest on a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;
-- (f) any redress payment made under part 4 of the Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021;
+- (f)[^c-5168fad7c29315bb8cec8fa695ebd622] any payment made from a scheme established for the purposes of providing compensation for historical institutional child abuse in the United Kingdom,
 - (g) any ex gratia payment made at the discretion of the Scottish Ministers from the Advance Payment Scheme within the meaning of section 42(7) of the Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021;
 - (h) any Grenfell Tower payment;
 - (i) any Post Office compensation payment; [^c-402316394bea8c98de341f7052bbd795]...
@@ -176,6 +176,8 @@ the deduction in respect of that non-dependant must be apportioned equally betwe
 [^c-313454f44c13462978866a3059a5f000]: Textual amendment: Word in [reg. 48(9)(c)](https://www.legislation.gov.uk/ssi/2012/319/regulation/48/9/c) omitted (5.11.2023) by virtue of [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/4/a)
 
 [^c-106b876c600cb8a1fc1b01d07a7b6b48]: Textual amendment: [Reg. 48(9)(e)-(j)](https://www.legislation.gov.uk/ssi/2012/319/regulation/48/9/e) inserted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/4/b)
+
+[^c-5168fad7c29315bb8cec8fa695ebd622]: Textual amendment: [Reg. 48(9)(f)](https://www.legislation.gov.uk/ssi/2012/319/regulation/48/9/f) substituted (6.11.2026) by [The Council Tax Reduction (Miscellaneous Amendment) (No. 2) (Scotland) Regulations 2026 (S.S.I. 2026/259)](https://www.legislation.gov.uk/ssi/2026/259), [regs. 1](https://www.legislation.gov.uk/ssi/2026/259/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/259/regulation/2/3)
 
 [^c-402316394bea8c98de341f7052bbd795]: Textual amendment: Word in [reg. 48(9)(i)](https://www.legislation.gov.uk/ssi/2012/319/regulation/48/9/i) omitted (1.4.2024) by virtue of [The Council Tax Reduction (Scotland) Amendment Regulations 2024 (S.S.I. 2024/35)](https://www.legislation.gov.uk/ssi/2024/35), [regs. 1](https://www.legislation.gov.uk/ssi/2024/35/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2024/35/regulation/4/a)
 

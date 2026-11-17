@@ -451,7 +451,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 **2008**
 
 - [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2008](../uk-parliament/regulations/2008/1000-1499/1463-the-authorised-investment-funds-tax-amendment-no-2-regulations-2008.md) *(as originally made)*
-- [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3159-the-authorised-investment-funds-tax-amendment-no-3-regulations-2008.md) *(changes pending)*
+- [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008](../uk-parliament/regulations/2008/3000-3499/3159-the-authorised-investment-funds-tax-amendment-no-3-regulations-2008.md)
 - [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0500-0999/705-the-authorised-investment-funds-tax-amendment-regulations-2008.md) *(as originally made)*
 - [The Capital Allowances (Environmentally Beneficial Plant and Machinery) (Amendment) Order 2008](../uk-parliament/regulations/2008/1500-1999/1917-the-capital-allowances-environmentally-beneficial-plant-and-machinery-amendment.md) *(as originally made)*
 - [The Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) (Amendment) Regulations 2008](../uk-parliament/regulations/2008/0000-0499/383-the-community-investment-tax-relief-accreditation-of-community-development-finan.md) *(as originally made)*
@@ -600,7 +600,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Friendly Societies (Modification of the Corporation Tax Acts) (Amendment) Regulations 2005](../uk-parliament/regulations/2005/2000-2499/2005-the-friendly-societies-modification-of-the-corporation-tax-acts-amendment-regula.md) *(as originally made)*
 - [The Friendly Societies (Modification of the Corporation Tax Acts) Regulations 2005](../uk-parliament/regulations/2005/2000-2499/2014-the-friendly-societies-modification-of-the-corporation-tax-acts-regulations-2005.md) *(as originally made)*
 - [The General Insurance Reserves (Tax) (Amendment) Regulations 2005](../uk-parliament/regulations/2005/3000-3499/3289-the-general-insurance-reserves-tax-amendment-regulations-2005.md) *(as originally made)*
-- [The Income Tax (Construction Industry Scheme) Regulations 2005](../uk-parliament/regulations/2005/2000-2499/2045-the-income-tax-construction-industry-scheme-regulations-2005.md) *(changes pending)*
+- [The Income Tax (Construction Industry Scheme) Regulations 2005](../uk-parliament/regulations/2005/2000-2499/2045-the-income-tax-construction-industry-scheme-regulations-2005/README.md) *(changes pending)*
 - [The Insurance Companies (Corporation Tax Acts) (Amendment) Order 2005](../uk-parliament/regulations/2005/3000-3499/3465-the-insurance-companies-corporation-tax-acts-amendment-order-2005.md) *(as originally made)*
 - [The Lloyd’s Underwriters (Tax) Regulations 2005](../uk-parliament/regulations/2005/3000-3499/3338-the-lloyds-underwriters-tax-regulations-2005.md) *(as originally made)*
 - [The Loan Relationships and Derivative Contracts (Change of Accounting Practice) (Amendment) Regulations 2005](../uk-parliament/regulations/2005/3000-3499/3383-the-loan-relationships-and-derivative-contracts-change-of-accounting-practice-am.md) *(as originally made)*

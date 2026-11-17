@@ -3,7 +3,7 @@ title: Victims, Witnesses, and Justice Reform (Scotland) Act 2025, section 43
 act: Victims, Witnesses, and Justice Reform (Scotland) Act 2025
 section: '43'
 status: not-yet-in-force
-text_date: '2026-11-02'
+text_date: '2026-11-16'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2025/12/section/43
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -43,13 +43,13 @@ summary: ''
 > - (b) has responsibility for information relevant to the Scottish Ministers’ functions under sections 16 to 17DA.
 >
 > (5) For the purposes of this section, co-operation includes in particular the provision of such information as the Scottish Ministers reasonably require for the purpose of exercising those functions.
->
-> (6) In section 88(2)—
->
-> - (a) in the opening words, after “order” insert “or regulations”,
-> - (b) in paragraph (a), after “17B(7)” (as inserted by section 42(6)) insert “, 17DB(2)”.
 
 .
+
+(3) In section 88(2)—
+
+- (a) in the opening words, after “order” insert “or regulations”,
+- (b) in paragraph (a), after “17B(7)” (as inserted by section 42(6)) insert “, 17DB(2)”.
 
 ## Annotations
 

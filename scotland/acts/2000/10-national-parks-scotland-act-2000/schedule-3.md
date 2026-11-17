@@ -3,7 +3,7 @@ title: National Parks (Scotland) Act 2000, SCHEDULE 3
 act: National Parks (Scotland) Act 2000
 section: schedule-3
 status: revised-with-pending-changes
-text_date: '2014-12-08'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2000/10/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # National Parks (Scotland) Act 2000, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (28).** Text as at 2014-12-08. See https://www.legislation.gov.uk/changes/affected/asp/2000/10
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/asp/2000/10
 >
 > Extent: Scotland.
 
@@ -43,7 +43,7 @@ A National Park authority may provide, or arrange for the provision of—
 - (a) information,
 - (b) educational services and facilities,
 
-for the purpose of promoting understanding and enjoyment of the special qualities of the National Park by the public.
+for the purpose of promoting understanding and enjoyment of the National Park area’s natural and cultural heritage[^c-ac3f80aff98e8ba0aff62c0ffac28057] by the public.
 
 ### 4. Tourism and leisure
 
@@ -151,3 +151,7 @@ for purposes relating to leisure.
 ### 8. Improvement of waterways for recreation
 
 Sections 61 and 62 (powers to improve waterways for purposes of open-air recreation) of the Countryside (Scotland) Act 1967 (c.86) have effect as if references to a planning authority and the authority’s area included references to a National Park authority and the National Park.
+
+## Annotations
+
+[^c-ac3f80aff98e8ba0aff62c0ffac28057]: Textual amendment: Words in [sch. 3 para. 3](https://www.legislation.gov.uk/asp/2000/10/schedule/3/paragraph/3) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 3(5)](https://www.legislation.gov.uk/asp/2026/6/section/3/5), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/a)

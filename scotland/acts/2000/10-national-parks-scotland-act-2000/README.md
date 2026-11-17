@@ -5,14 +5,14 @@ type: ScottishAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2000-08-09'
-text_date: '2014-12-08'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2000/10
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2000/10/pdfs/aspen_20000010_en.pdf
 - http://www.legislation.gov.uk/asp/2000/10/pdfs/asp_20000010_en.pdf
 - http://www.legislation.gov.uk/asp/2000/10/data.pdf
-pending_changes: 28
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # National Parks (Scotland) Act 2000
 
-> **Warning: changes not yet applied to this text (28).** Text as at 2014-12-08. See https://www.legislation.gov.uk/changes/affected/asp/2000/10
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/asp/2000/10
 >
 > Extent: Scotland.
 
@@ -39,10 +39,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 ### The National Park aims
 
 - [Section 1 — The National Park aims](section-1.md)
+- [Section 1A — Policy statements by the Scottish Ministers](section-1a.md)
 
 ### National Park proposals
 
 - [Section 2 — National Park proposals](section-2.md)
+- [Section 2A — Advice before making a National Park proposal](section-2a.md)
 - [Section 3 — Reports on National Park proposals](section-3.md)
 - [Section 4 — Statements by the Scottish Ministers](section-4.md)
 - [Section 5 — Local inquiries](section-5.md)
@@ -60,7 +62,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 11 — National Park Plans](section-11.md)
 - [Section 12 — National Park Plans: procedure](section-12.md)
 - [Section 13 — National Park Plans: review](section-13.md)
-- [Section 14 — Duty to have regard to National Park Plans](section-14.md)
+- [Section 14 — Duty to facilitate implementation of National Park Plans](section-14.md)
 - [Section 15 — Management agreements](section-15.md)
 
 ### General
@@ -82,6 +84,10 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 ### Information and annual reports
 
 - [Section 26 — Information and annual reports](section-26.md)
+
+### Enforcement of National Park byelaws[^c-0d51612df70f71dc6dee1e479e792a86]
+
+- [Section 26A — Fixed penalty notices for National Park byelaw offences](section-26a.md)
 
 ### Miscellaneous
 
@@ -110,3 +116,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [SCHEDULE 3](schedule-3.md)
 - [SCHEDULE 4](schedule-4.md)
 - [SCHEDULE 5](schedule-5.md)
+
+## Annotations
+
+[^c-0d51612df70f71dc6dee1e479e792a86]: Textual amendment: [S. 26A](https://www.legislation.gov.uk/asp/2000/10/section/26A) and cross-heading inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 10(2)](https://www.legislation.gov.uk/asp/2026/6/section/10/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/h)

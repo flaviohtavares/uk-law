@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 3
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-3
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 3
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — STREETS SUBJECT TO ALTERATION OF LAYOUT
+## SCHEDULE 3 — STREETS SUBJECT TO ALTERATION OF LAYOUT[^c-05c9aceb3b8b433bc5761a2c585949dd]
+
+*Extent: E+W+S*
 
 Article 8
 
@@ -176,3 +180,7 @@ Article 8
 <tr><td></td><td>Station Street</td><td>Kerb line to be set back between KB71 and KB72 along southern edge of Station Street</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-05c9aceb3b8b433bc5761a2c585949dd]: Commencement: Sch. 3 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

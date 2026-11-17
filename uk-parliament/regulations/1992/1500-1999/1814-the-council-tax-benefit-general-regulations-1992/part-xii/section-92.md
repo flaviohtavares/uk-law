@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 92
 act: The Council Tax Benefit (General) Regulations 1992
 section: '92'
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/92
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 92
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -36,12 +36,17 @@ summary: ''
   - (ii) that other person is a non-dependant,
 
   the name and date of birth of that other person;
-- (k) any information not referred to in paragraphs (a) to (j) above which is required for the purpose of—
-  - (i) the calculation and recovery of excess council tax benefit,
-  - (ii) the investigation and prevention of offences relating to council tax benefit,
+- (k) any information not referred to in sub-paragraphs (a) to (j), (l) or (m)[^c-aa22c581ac3ab0bd8e886e12ee060063] above which is required for the purpose of—
+  - (i) the detection, investigation, calculation, recovery and prevention[^c-4286cf6b89b770bb958f71d60bb50d9b] of excess council tax benefit,
+  - (ii) the detection, investigation[^c-4b6bfe224bda80cbb54a304509a72984] and prevention of offences relating to council tax benefit,
   - (iii) any proceedings for an offence relating to council tax benefit.
+- (l)[^c-21e3f668c170e3d77070143137a0c146] that payment of income support to a person has been withheld in whole or in part;
+- (m) where payment of income support to a person has been withheld in whole or in part—
+  - (i) the date from which it was withheld;
+  - (ii) the reason why it was withheld;
+  - (iii) whether payment of any withheld payment has been or is to be made.
 
-(2)[^c-6b38bca03801d59dfd67a3d577477439] Except in the case of a non-dependant to whom paragraph (1)(j) refers, in this regulation “person” means a person by whom or in respect of whom a claim for council tax benefit has been made.
+(2)[^c-6b38bca03801d59dfd67a3d577477439] Except in the case of a non-dependant to whom paragraph (1)(j) refers, in this regulation and in regulation 93[^c-e85a35c4c051b4e3e1a2d324ce088957] “person” means a person by whom or in respect of whom a claim for council tax benefit has been made.
 
 ## Annotations
 
@@ -51,4 +56,14 @@ summary: ''
 
 [^f00076]: Footnote: Section 128 of the Administration Act 1992 was amended to apply to council tax benefit by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) Schedule 9 paragraph 18.
 
+[^c-aa22c581ac3ab0bd8e886e12ee060063]: Textual amendment: Words in [reg. 92(1)(k)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/92/1/k) substituted (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [25(2)(a)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/25/2/a)
+
+[^c-4286cf6b89b770bb958f71d60bb50d9b]: Textual amendment: Words in [reg. 92(1)(k)(i)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/92/1/k/i) substituted (1.9.1994) by [The Housing Benefit (Supply of Information) and Council Tax Benefit (General) Amendment Regulations 1994 (S.I. 1994/1925)](https://www.legislation.gov.uk/uksi/1994/1925), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1925/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/1994/1925/regulation/3/2/a/i)
+
+[^c-4b6bfe224bda80cbb54a304509a72984]: Textual amendment: Words in [reg. 92(1)(k)(ii)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/92/1/k/ii) substituted (1.9.1994) by [The Housing Benefit (Supply of Information) and Council Tax Benefit (General) Amendment Regulations 1994 (S.I. 1994/1925)](https://www.legislation.gov.uk/uksi/1994/1925), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1925/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1994/1925/regulation/3/2/a/ii)
+
+[^c-21e3f668c170e3d77070143137a0c146]: Textual amendment: [Reg. 92(1)(l)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/92/1/l)[(m)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/92/1/m) added (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/25/2/b)
+
 [^c-6b38bca03801d59dfd67a3d577477439]: Textual amendment: [Reg. 92(2)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/92/2) added (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/1993/688/regulation/21)
+
+[^c-e85a35c4c051b4e3e1a2d324ce088957]: Textual amendment: Words in [reg. 92(2)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/92/2) added (1.9.1994) by [The Housing Benefit (Supply of Information) and Council Tax Benefit (General) Amendment Regulations 1994 (S.I. 1994/1925)](https://www.legislation.gov.uk/uksi/1994/1925), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1925/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1994/1925/regulation/3/2/b)

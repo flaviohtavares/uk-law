@@ -3,15 +3,15 @@ title: The Bradford & Bingley plc Transfer of Securities and Property etc. Order
 id: uksi/2008/2546
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-29'
-text_date: null
-extent: null
+text_date: '2008-09-29'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2546
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2546/pdfs/uksiem_20082546_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2546/pdfs/uksi_20082546_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2546/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2546/data.pdf
 pending_changes: 19
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2008-09-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2546
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2546
 
@@ -48,13 +52,13 @@ The Treasury, in exercise of the powers conferred by sections 3, 4, 8, 12 and 13
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-ceb20116286af522c71c7a491c6b9b20]
 
 (1) This Order may be cited as the Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008.
 
 (2) This Order comes into force at 8.00a.m on 29th September 2008.
 
-### 2. Interpretation: general
+### 2. Interpretation: general[^c-103e700c20d44963bf06621d91d8e6b9]
 
 In this Order—
 
@@ -97,7 +101,7 @@ In this Order—
 
 ## PART 2 — THE FIRST TRANSFER AND RELATED PROVISIONS
 
-### 3. The first transfer
+### 3. The first transfer[^c-c024570cf0080e259b82a5f2d16ca953]
 
 (1) By virtue of this Order, the shares in Bradford & Bingley are transferred to the Treasury Solicitor as nominee of the Treasury.
 
@@ -108,7 +112,7 @@ In this Order—
 - (a) free from all trusts, liabilities and incumbrances; and
 - (b) together with all rights, benefits or privileges which attach or accrue to or arise from such shares on or after the first transfer time.
 
-### 4. Registration of shares and issue of certificates
+### 4. Registration of shares and issue of certificates[^c-3ed8c8b704811471ee78203035528ddf]
 
 (1) The Treasury Solicitor is entitled with effect from the first transfer time to be entered in the register of members of Bradford & Bingley as holder of the shares in Bradford & Bingley without the need for delivery of any instrument of transfer or other instrument or document and notwithstanding—
 
@@ -146,7 +150,7 @@ In this Order—
 
 (8) In this article “certificated”, “issuer register of members”, “operator”, “operator register of members”, “relevant system” and “system-member” have the meanings given in the USRs.
 
-### 5. Extinguishment of rights in relation to shares in Bradford & Bingley
+### 5. Extinguishment of rights in relation to shares in Bradford & Bingley[^c-e28dcc8620e50e1a29e89d1fd86ff179]
 
 By virtue of this Order, with effect from the first transfer time, any right or entitlement of a person to receive shares in Bradford & Bingley (whether by subscription, conversion or otherwise) is extinguished if the right or entitlement was granted by—
 
@@ -155,7 +159,7 @@ By virtue of this Order, with effect from the first transfer time, any right or 
   - (i) any person’s office or employment with a relevant undertaking; or
   - (ii) the services provided by any person to a relevant undertaking.
 
-### 6. Modification of interests, rights and liabilities associated with the dated subordinated notes
+### 6. Modification of interests, rights and liabilities associated with the dated subordinated notes[^c-e7a05ef0e8a1aa64b900c20f752c9e9d]
 
 (1) This article applies, with effect from the first transfer time, in respect of the dated subordinated notes.
 
@@ -166,7 +170,7 @@ By virtue of this Order, with effect from the first transfer time, any right or 
 - (a) shall not constitute an event of default under the note; and
 - (b) shall not give rise to the consequences specified in paragraph (3) of article 7 in respect of any relevant instrument under that article.
 
-### 7. Modification of rights in relevant instruments
+### 7. Modification of rights in relevant instruments[^c-b700a1be2a6ef3d04a85ca149f106861]
 
 (1) The consequences specified in paragraph (3) shall not arise in respect of any relevant instrument as a result of the first transfer, or any other thing done, or matter arising, by virtue of or in connection with the first transfer.
 
@@ -193,13 +197,13 @@ By virtue of this Order, with effect from the first transfer time, any right or 
 
 ## PART 3 — MEMBERS, MEETINGS, DIRECTORS AND PROCEEDINGS
 
-### 8. Minimum membership for carrying on business
+### 8. Minimum membership for carrying on business[^c-3e2c96626ce88ea91114e634041ae733]
 
 (1) While Bradford & Bingley is wholly owned by the Treasury, section 24 of the 1985 Act (minimum membership for carrying on business) shall not apply in relation to Bradford & Bingley or any member of Bradford & Bingley.
 
 (2) While Bradford & Bingley is wholly owned by the Treasury, no petition shall be presented for the winding up of Bradford & Bingley on the ground that the number of its members is less than the number required by law, nor shall any person be liable on that ground as a member of the company for the payment of any of its debts.
 
-### 9. Resolutions and meetings
+### 9. Resolutions and meetings[^c-6d9add74a59b1b2be9a42c74503397ed]
 
 (1) While Bradford & Bingley is wholly owned by the Treasury, any meeting of members of Bradford & Bingley shall, if the Treasury Solicitor is present in person, by proxy or authorises a corporate representative to attend, be deemed to be a duly constituted general meeting of the company notwithstanding that it may not have been properly called, or notice of it may not have been properly given, or any quorum required by Bradford & Bingley’s articles of association may not be present.
 
@@ -212,7 +216,7 @@ By virtue of this Order, with effect from the first transfer time, any right or 
 
 (3) A resolution of the company adopted after the first transfer time is effective notwithstanding that special notice (notice of intention to move it given to company at least 28 days before the meeting at which it is moved) of the resolution is required by any provision of the 1985 Act or 2006 Act but has not been given.
 
-### 10. Removal of directors
+### 10. Removal of directors[^c-365b1881f5e3a917434a13dc5d11c710]
 
 (1) While Bradford & Bingley is wholly owned by the Treasury, the Treasury may in accordance with this article—
 
@@ -243,7 +247,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
 (8) In this article and in article 11, “service contract” has the meaning given by section 227 of the 2006 Act (directors’ service contracts).
 
-### 11. Appointment of directors
+### 11. Appointment of directors[^c-579d4746a8013bb615b9c7dd9bb432f9]
 
 (1) While Bradford & Bingley is wholly owned by the Treasury, the Treasury may appoint one or more directors of a relevant undertaking in accordance with this article and notwithstanding any provision in the articles of association of the relevant undertaking.
 
@@ -257,7 +261,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
 (6) This article does not derogate from any power to appoint a director or determine the remuneration and other terms and conditions of a director’s service contract that may exist apart from this article.
 
-### 12. Proceedings against directors
+### 12. Proceedings against directors[^c-50dd5f5bc61e30b601577bf3b4f7db45]
 
 (1) No director of a relevant undertaking shall be liable for any act or omission of the director, acting in such capacity, which occurs while Bradford & Bingley is wholly owned by the Treasury and accordingly no proceedings may be brought (or in Scotland, raised) against any such director in respect of such matters.
 
@@ -276,7 +280,7 @@ in accordance with this article shall not have any right or claim against the Tr
   - (b) a person who was a director immediately before the first transfer time and whose continuing appointment as director while Bradford & Bingley is wholly owned by the Treasury, the Treasury approves in writing, whether or not he has ceased to be a director at the time when proceedings in respect of that liability commenced; and
   - (c) an alternate director of a person falling within sub-paragraph (a) or (b).
 
-### 13. Shadow directorship
+### 13. Shadow directorship[^c-e79d610785d3aabcc19a9784c1de5176]
 
 (1) While Bradford & Bingley is wholly owned by the Treasury, for the purposes of the provisions listed in Schedule 1 to this Order, none of the persons listed in paragraph (3) shall be regarded as a shadow director of or (unless otherwise appointed as a director) a person discharging managerial responsibilities of a relevant undertaking.
 
@@ -296,13 +300,13 @@ in accordance with this article shall not have any right or claim against the Tr
 
 ## PART 4 — DE-LISTING, APPROVAL ETC.
 
-### 14. De-listing
+### 14. De-listing[^c-0daa84cd96527d3c8309b70a81a297ed]
 
 (1) By virtue of this Order, the listing of any shares of Bradford & Bingley is discontinued with effect from the first transfer time without the need for any notice to, or consent of, Bradford & Bingley or any other person.
 
 (2) In paragraph (1), “listing” has the meaning given in section 74 of the 2000 Act (the official list)[^f00007].
 
-### 15. Approved persons
+### 15. Approved persons[^c-605d66fcca858dfd618253733b5d7732]
 
 (1) While Bradford & Bingley is wholly owned by the Treasury, the requirements imposed on a relevant undertaking by section 59 of the 2000 Act (approval for particular arrangements) in relation to directors (including non-executive directors) and the chief executive officer shall be deemed to be satisfied in relation to the relevant undertaking, provided that at all material times the Authority is satisfied that at least two individuals who effectively direct the business of the relevant undertaking are of sufficiently good repute and have sufficient experience to perform controlled functions in that respect.
 
@@ -314,7 +318,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
 ## PART 5 — THE SECOND TRANSFER
 
-### 16. The second transfer
+### 16. The second transfer[^c-03e59317f36ade9a7aa595d20f7d00dc]
 
 (1) By virtue of this Order—
 
@@ -328,7 +332,7 @@ are transferred to Abbey.
 
 (2) The transfer under paragraph (1) takes place immediately after the first transfer time (“the second transfer time”).
 
-### 17. Isle of Man deposits
+### 17. Isle of Man deposits[^c-1990b15c5709b786bdfda648d209157c]
 
 (1) Subject to the prior approval of the Financial Services Commission of the Isle of Man of the proposed change of control of Bradford & Bingley International, as soon as practicable after the second transfer time, Bradford & Bingley shall—
 
@@ -352,11 +356,11 @@ are transferred to Abbey.
 - “the intercompany undertaking” means the undertaking by Bradford & Bingley, dated 4 December 2000, to discharge the liabilities of Bradford & Bingley International;
 - “the relevant time” means the time at which the transfer under paragraph (1) is effected.
 
-### 18. No consent or concurrence required
+### 18. No consent or concurrence required[^c-4b425dc37f71c52536a2a4a9c997e627]
 
 The second transfer is effective despite the absence of any required consent or concurrence to or with the transfer.
 
-### 19. Associated liability and interference
+### 19. Associated liability and interference[^c-539f12b352d94e485b0ad8c78dcd409d]
 
 (1) The second transfer takes effect as if—
 
@@ -365,7 +369,7 @@ The second transfer is effective despite the absence of any required consent or 
 
 (2) In this article, “associated liability” and “associated interference” have the meanings given in paragraph 2(2) of Schedule 2 to the Act.
 
-### 20. Termination etc. of interest or right
+### 20. Termination etc. of interest or right[^c-e23cae633f669eaeebda10dd4512536a]
 
 (1) Subject to paragraph (2)—
 
@@ -374,7 +378,7 @@ The second transfer is effective despite the absence of any required consent or 
 
 (2) This article shall not apply to the ordinary course of dealings by a depositor in relation to his retail deposit.
 
-### 21. Interests, rights and liabilities of third parties relating to property, rights and liabilities transferred
+### 21. Interests, rights and liabilities of third parties relating to property, rights and liabilities transferred[^c-1cb0c18433dc84585a710512edd82657]
 
 (1) No interest or right of any third party relating to any property, right or liability of Bradford & Bingley, whether or not it is transferred by article 16, shall arise or become exercisable by virtue of or in connection with the second transfer.
 
@@ -405,7 +409,7 @@ The second transfer is effective despite the absence of any required consent or 
 - “relevant instrument” has the same meaning as in paragraph 4(3) of Schedule 1 to the Act and the specified connection referred to in paragraph 4(3)(c) of that Schedule is between Bradford & Bingley and those undertakings whose assets and liabilities, profits and losses are consolidated in the consolidated accounts of Bradford & Bingley; and
 - “third party” shall be construed in accordance with paragraph 2(3) of Schedule 2 to the Act.
 
-### 22. Modification of rights and liabilities transferred
+### 22. Modification of rights and liabilities transferred[^c-819d9c5fd5d8f444e09407a6128559b0]
 
 (1) Where a transferred obligation conflicts with an obligation of Abbey existing at the second transfer time, the transferred obligation is modified to the extent required to avoid that conflict.
 
@@ -413,11 +417,11 @@ The second transfer is effective despite the absence of any required consent or 
 
 (3) In this article a “transferred obligation” means an obligation, covenant, undertaking or restriction under a contract, agreement or arrangement transferred to Abbey under article 16(1)(c) or treated as made or done by or in relation to Abbey in accordance with article 25(a).
 
-### 23. Foreign property etc.
+### 23. Foreign property etc.[^c-8edb922e2fd7ddbfc9da219765bfab99]
 
 Bradford & Bingley must take such steps as are reasonably requested by Abbey for securing the vesting in Abbey under the relevant foreign law of any foreign property, foreign rights or liabilities expressed to be transferred by article 16.
 
-### 24. Subsequent transactions
+### 24. Subsequent transactions[^c-d82d22e7179ac3814fb028cef1c9d572]
 
 (1) To the extent that any property, rights or liabilities—
 
@@ -432,18 +436,18 @@ the Treasury Solicitor and Abbey shall procure that such property, rights and li
 
 (4) For the purposes of this article “qualifying financial contract” means any agreement entered into either with the purpose of borrowing or lending money (not being a retail deposit), or in connection with a transaction on the financial markets, including (howsoever documented) any loan agreement, securities contract, derivative contract, commodities contract, forward contract, repurchase contract, swap agreement, margin lending agreement and master agreement.
 
-### 25. Construction of documents etc.
+### 25. Construction of documents etc.[^c-f293971181c08446436f3ca8f7638a6b]
 
 As from the second transfer time, and save as otherwise provided in this Order—
 
 - (a) agreements made or other things done by or in relation to Bradford & Bingley shall be treated, so far as may be necessary for the purposes of or in connection with the second transfer, but not otherwise, as made or done by or in relation to Abbey, as the case may be; and
 - (b) references to Bradford & Bingley, or to any officer or employee of Bradford & Bingley, in instruments or documents relating to the property, rights and liabilities transferred by or under article 16 shall have effect as if they were references to Abbey, or to any officer or employee of Abbey, as the case may be.
 
-### 26. Pensions
+### 26. Pensions[^c-538e4f5fa5e6245ba7a40401c32f18ab]
 
 Schedule 3 shall have effect.
 
-### 27. Employees
+### 27. Employees[^c-8f146be38c3a02bedc1d621539b086fd]
 
 (1) The Transfer of Undertakings (Protection of Employment) Regulations 2006[^f00008] (the “transfer regulations”) and sections 257 and 258 of the Pensions Act 2004[^f00009] shall apply upon the second transfer on the basis that any individual other than a director of Bradford & Bingley who is employed by a relevant undertaking and—
 
@@ -458,7 +462,7 @@ is assigned to the organised grouping of resources or employees that is subject 
 
 ## PART 6 — FINANCIAL SERVICES COMPENSATION SCHEME
 
-### 28. Sums to be paid to Abbey following the second transfer
+### 28. Sums to be paid to Abbey following the second transfer[^c-1978080192a89c0e3a937f413e16b7d7]
 
 (1) The following liabilities arise on the occurrence of the second transfer—
 
@@ -489,7 +493,7 @@ and the FSCS, the Treasury and Abbey shall make such corresponding payments to e
 
 (6) The liability referred to in paragraph (1)(a) shall be assessed by the FSCS and, in doing so, the FSCS may calculate, by any methodology or approach it considers appropriate, the total amounts of compensation that would have been paid to all qualifying claimants, if (and to the extent that) it considers that the costs of ascertaining the entitlement to and amount of compensation by reference to each qualifying claimant would exceed or be disproportionate to the benefit of doing so.
 
-### 29. Payment to Abbey to constitute payment of compensation for the purposes of the Financial Services Compensation Scheme
+### 29. Payment to Abbey to constitute payment of compensation for the purposes of the Financial Services Compensation Scheme[^c-06334c40ac355b75037b169778b5af53]
 
 For the purposes of Part 15 (the financial services compensation scheme) of the 2000 Act, the COMP Sourcebook and the FEES 6 Chapter (including, without limitation, the power of the FSCS to impose levies)—
 
@@ -500,7 +504,7 @@ For the purposes of Part 15 (the financial services compensation scheme) of the 
 
 and, accordingly, a qualifying claimant has no right to claim, and the FSCS has no obligation to pay, for a protected deposit any further compensation under the Financial Services Compensation Scheme in respect of the default of Bradford & Bingley determined by the Authority under section 6.3 of the COMP Sourcebook.
 
-### 30. Liability of Bradford & Bingley to the FSCS and the Treasury
+### 30. Liability of Bradford & Bingley to the FSCS and the Treasury[^c-153d091912829166058dc1c75e848360]
 
 (1) Bradford & Bingley is liable to the FSCS in respect of an amount equal to the aggregate of—
 
@@ -522,7 +526,7 @@ and, where the liability is a liability owed by Bradford and Bingley to a qualif
 
 (6) Nothing in this Part shall have the effect that the FSCS recovers less than it would have recovered if this Order had not been made and Bradford and Bingley had gone into liquidation following the declaration of default by the Authority in relation to Bradford and Bingley for the purposes of section 6.3 of the COMP Sourcebook.
 
-### 31. Co-operation with the FSCS
+### 31. Co-operation with the FSCS[^c-93e500e7da784bd099c1acd2bbfac1fb]
 
 (1) Bradford & Bingley and Abbey must each—
 
@@ -531,21 +535,21 @@ and, where the liability is a liability owed by Bradford and Bingley to a qualif
 
 (2) Nothing in this article affects the power of the FSCS to require information under section 219 of the 2000 Act (scheme manager’s power to require information).
 
-### 32. Statutory immunity
+### 32. Statutory immunity[^c-76e246b8d01a89a5901835c452294dbb]
 
 For the purposes of section 222 (statutory immunity) of the 2000 Act the scheme manager’s functions shall include any acts or omissions carried out by the FSCS pursuant to or in connection with this Order.
 
 ## PART 7 — TRANSITIONAL PROVISIONS
 
-### 33. Services and facilities
+### 33. Services and facilities[^c-9895a84af9a8b4666611c6b692acbabe]
 
 The agreement dated 29th September 2009 between the Treasury and Abbey relating to the provision of transitional services by Bradford & Bingley and Abbey to one another shall bind Bradford & Bingley as if it were a party.
 
-### 34. Use of the Bradford & Bingley brand by Abbey
+### 34. Use of the Bradford & Bingley brand by Abbey[^c-7f64461689664a20cf40b3f471c1533e]
 
 Bradford & Bingley shall grant to Abbey a non-exclusive royalty-free licence for a period of three years to use the Bradford & Bingley brand for the purposes of carrying on the business transferred to Abbey by the second transfer.
 
-### 35. Termination etc. of interest or right
+### 35. Termination etc. of interest or right[^c-ea043a80e0e741a0a4ee57911baa1b9f]
 
 (1) Except with the consent of the Treasury or the permission of the court, during the transitional period—
 
@@ -569,13 +573,13 @@ Bradford & Bingley shall grant to Abbey a non-exclusive royalty-free licence for
 
 (5) This article is subject to any requirement of Community law.
 
-### 36. Provision of information
+### 36. Provision of information[^c-55cf4603f9db1d172ef56aac0b46c950]
 
 Bradford & Bingley shall provide Abbey with such information as is reasonably requested by Abbey in relation to anything transferred by or under article 16.
 
 ## PART 8 — SUPPLEMENTARY
 
-### 37. Modification to Authority’s rule-making power
+### 37. Modification to Authority’s rule-making power[^c-762f2849f9b201d77f8662a3184d9c90]
 
 (1) Subsections (1) and (1A)[^f00010] of section 138 of the 2000 Act (general rule-making power) have effect as if modified by inserting after “protecting the interests of consumers”—
 
@@ -590,7 +594,7 @@ Bradford & Bingley shall provide Abbey with such information as is reasonably re
 
 (3) Section 148(4)[^f00012] of the 2000 Act shall not prevent the Authority from modifying or waiving rules in relation to a relevant undertaking under section 148 of that Act provided that the Authority is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the first or second transfer.
 
-### 38. Modification to Authority’s duty to consult on rule changes
+### 38. Modification to Authority’s duty to consult on rule changes[^c-3019de5d3634b9ce499c80d7c254e09c]
 
 (1) Section 155(7) of the 2000 Act (consultation) has effect as if modified by adding at the end—
 
@@ -602,7 +606,7 @@ Bradford & Bingley shall provide Abbey with such information as is reasonably re
 
 .
 
-### 39. Modification of provision on liability in relation to operator’s functions
+### 39. Modification of provision on liability in relation to operator’s functions[^c-1dd21537e20dfb4e7ad095ed4802b197]
 
 (1) Section 291 of the 2000 Act (liability in relation to recognised body’s regulatory functions) shall have effect for the purposes of this Order as if the following modifications are made.
 
@@ -619,18 +623,18 @@ Bradford & Bingley shall provide Abbey with such information as is reasonably re
 
 .
 
-### 40. Enterprise Act 2002
+### 40. Enterprise Act 2002[^c-2d0fd758061e6a4a60f3d876ce303566]
 
 Part 3 of the Enterprise Act 2002 (mergers)[^f00013] shall not apply to the first or second transfer save insofar as it gives effect to an obligation under Community law.
 
-### 41. Freedom of information
+### 41. Freedom of information[^c-aa126997bf16d2ce5b9fb01b330fbb10]
 
 For the purposes of section 3 of the Freedom of Information Act 2000 (public authorities)[^f00014], while Bradford & Bingley is wholly owned by the Treasury, a relevant undertaking shall be deemed—
 
 - (a) not to be a publicly-owned company for the purposes of subsection (1)(b);
 - (b) not to hold information on behalf of the Treasury for the purposes of subsection (2)(b).
 
-### 42. Notification requirement
+### 42. Notification requirement[^c-fb676e6b3c1c6d3b8b53aba4f43207e1]
 
 (1) The Treasury must notify the Authority of the making of this Order.
 
@@ -651,13 +655,13 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Article 13
 
-**1.** The following provisions of the 1985 Act[^f00015]—
+**1.**[^c-9e222195d3e23a17e7ee80448e089479] The following provisions of the 1985 Act[^f00015]—
 
 - (a) section 288 (register of directors);
 - (b) section 305 (directors’ names on correspondence, etc.);
 - (c) section 317 (disclosure of interests in contracts).
 
-**2.** The following provisions of the 2006 Act—
+**2.**[^c-cb9889f77a7067caddc3a5bf2b6bb854] The following provisions of the 2006 Act—
 
 - (a) section 84 (criminal consequences of failure to make required disclosure);
 - (b) section 162 (register of directors);
@@ -674,12 +678,12 @@ Article 13
 - (m) sections 260 to 269 (derivative claims in England and Wales and Northern Ireland);
 - (n) sections 854 to 859 (annual return).
 
-**3.** The following provisions of the Insolvency Act 1986—
+**3.**[^c-46a64448e19ddc15ec3239d2441f44fd] The following provisions of the Insolvency Act 1986—
 
 - (a) section 214 (wrongful trading);
 - (b) section 249 (“connected” with a company).
 
-**4.** The following provisions of the 2000 Act[^f00016]—
+**4.**[^c-ba7957fa6ed04948c35606f36e5eac0c] The following provisions of the 2000 Act[^f00016]—
 
 - (a) section 96A (disclosure of information requirements);
 - (b) section 96B (disclosure rules: persons responsible for compliance).
@@ -688,59 +692,59 @@ Article 13
 
 Article 16
 
-**1.** Subject to paragraph 2, all rights and liabilities in respect of retail deposits with Bradford & Bingley.
+**1.**[^c-f8f86468617936d352f52dd878448b3d] Subject to paragraph 2, all rights and liabilities in respect of retail deposits with Bradford & Bingley.
 
-**2.** The liabilities referred to in paragraph 1 shall not include any liability in respect of any breach of a contract with or other duty in relation to any customer of the retail deposit business arising before the second transfer time.
+**2.**[^c-bfa382b9eaeb643fc7066c6ef9a5ab13] The liabilities referred to in paragraph 1 shall not include any liability in respect of any breach of a contract with or other duty in relation to any customer of the retail deposit business arising before the second transfer time.
 
-**3.** All freehold and leasehold real property of a relevant undertaking relating to—
+**3.**[^c-36cd0b371dd6318e7af7bb2a03d788f0] All freehold and leasehold real property of a relevant undertaking relating to—
 
 - (a) all retail deposit branches of Bradford & Bingley;
 - (b) the operation of any branch-type agency of Bradford & Bingley; and
 - (c) any other properties, including call-centres, which mainly relate to the operation of the retail deposit business of Bradford & Bingley.
 
-**4.** All contracts, agreements and other arrangements of Bradford & Bingley or a relevant undertaking which relate mainly to—
+**4.**[^c-05fd2986cd0625e5280f921d5a425910] All contracts, agreements and other arrangements of Bradford & Bingley or a relevant undertaking which relate mainly to—
 
 - (a) the retail deposit business of Bradford & Bingley; or
 - (b) any property, rights or liabilities transferred to Abbey by article 16(1)(b) or (d), but excluding any contract of employment,
 
 but excluding any qualifying financial contract within the meaning of article 24(4).
 
-**5.** Any personal property of a relevant undertaking—
+**5.**[^c-b7b0e2cf708e2a5b27ecd16af70b8d6f] Any personal property of a relevant undertaking—
 
 - (a) situated within any real property transferred by article 16(1)(b); or
 - (b) relating mainly to the retail deposit business of Bradford & Bingley.
 
-**6.** All intellectual property which relate to the operation of the retail deposit business of Bradford & Bingley except the Bradford & Bingley brand.
+**6.**[^c-a42e7bd34101124eb76d59b54d6cb9b3] All intellectual property which relate to the operation of the retail deposit business of Bradford & Bingley except the Bradford & Bingley brand.
 
 ## SCHEDULE 3 — PENSIONS
 
 Article 26
 
-**1.** With effect from the segregation time the provisions of the pension scheme shall be modified so as to include a section (“the international section”) which is divided from the remainder of the pension scheme (“the remaining section”) such that—
+**1.**[^c-34280d11ad516b6dbb557097c7a37f48] With effect from the segregation time the provisions of the pension scheme shall be modified so as to include a section (“the international section”) which is divided from the remainder of the pension scheme (“the remaining section”) such that—
 
 - (a) the only employer in the international section shall be Bradford & Bingley International;
 - (b) all members of the pension scheme who are in pensionable service with Bradford & Bingley International at the segregation time shall become members of the international section immediately following the segregation time;
 - (c) the contributions payable by Bradford & Bingley International and the members of the international section to the pension scheme shall be allocated to the international section; and
 - (d) the assets attributable to the international section cannot be used for the purposes of, or to meet any liabilities arising under, any other part of the pension scheme.
 
-**2.** The liabilities of the international section shall be—
+**2.**[^c-858762f67bac59c3e520eeffbf800831] The liabilities of the international section shall be—
 
 - (a) the liabilities of the pension scheme existing at the segregation time that are attributable to pensionable service with Bradford & Bingley International including any liabilities attributable to a transfer received by the pension scheme during that pensionable service; and
 - (b) any liabilities arising after the segregation time by reason of—
   - (i) the continued pensionable service of the active members referred to in paragraph 1(b); or
   - (ii) the admission of new members after the segregation time in accordance with the terms of the international section from time to time.
 
-**3.** At the segregation time, the following assets shall be allocated to the international section—
+**3.**[^c-3a5001f27eb9777265d72c2eab383e00] At the segregation time, the following assets shall be allocated to the international section—
 
 - (a) the assets representing the value of any rights to money purchase benefits which are comprised within the liabilities mentioned in paragraph 2(a); and
 - (b) a proportion of the assets of the pension scheme determined in accordance with paragraph 4 at the segregation time.
 
-**4.** The proportion shall be—
+**4.**[^c-73faba4ee1da3466ea0cbf562d404afb] The proportion shall be—
 
 - (a) comprised of a selection of assets of the pension scheme (excluding any assets representing the value of any rights to money purchase benefits) that the actuary reasonably considers to be representative of those assets; and
 - (b) equal in value to such proportion of the pension scheme’s assets as the amount of the liabilities in paragraph 2(a) bears to the total amount of the pension scheme’s liabilities.
 
-**5.** For the purposes of paragraph 4(b)—
+**5.**[^c-f2fe1a620c751177f08b8d0aa2f0fa81] For the purposes of paragraph 4(b)—
 
 - (a) any liabilities or assets representing the value of any rights to money purchase benefits under the pension scheme are to be left out of account;
 - (b) the value of any other liabilities is to be determined by the actuary—
@@ -748,25 +752,25 @@ Article 26
   - (ii) updating any economic and financial assumptions which are based on yields, rates or indices to take account of those yields, rates or indices as at the segregation time (or the latest practicable time prior to the segregation time); and
 - (c) the value of any asset is to be determined by such method as the actuary reasonably considers to be a proper means of providing a market value of that asset at the segregation time.
 
-**6.** At the segregation time—
+**6.**[^c-69c5c13cb8c651421302836f0d9429b2] At the segregation time—
 
 - (a) Bradford & Bingley International shall cease to be an employer in the remaining section; and
 - (b) if it would otherwise apply, section 75 of the Pensions Act 1995[^f00018] shall not apply to that cessation.
 
-**7.** (1) Following the segregation time Bradford & Bingley International shall have no liability, including any liability arising by virtue of sections 38 and 43 of the Pensions Act 2004, with regard to the liabilities of any part of the pension scheme (other than the international section) by reason of any fact, matter or circumstance occurring or existing prior to the second transfer time and accordingly no proceedings may be brought in respect of such matters.
+**7.**[^c-bb3846a624eeb3731f87dc18357c0d09] (1) Following the segregation time Bradford & Bingley International shall have no liability, including any liability arising by virtue of sections 38 and 43 of the Pensions Act 2004, with regard to the liabilities of any part of the pension scheme (other than the international section) by reason of any fact, matter or circumstance occurring or existing prior to the second transfer time and accordingly no proceedings may be brought in respect of such matters.
 
 (2) The Treasury may in writing—
 
 - (a) disapply sub-paragraph (1); and
 - (b) give consent to bring such proceedings.
 
-**8.** Subject to this Schedule, the provisions of the international section (including any provisions as to amendment or termination) at the segregation time shall be identical to those of the remaining section, save that any reference in the pension scheme to Bradford & Bingley shall, in relation only to the international section, be taken to be a reference to Bradford & Bingley International.
+**8.**[^c-b9db2c437f511458da47aeb29f57034d] Subject to this Schedule, the provisions of the international section (including any provisions as to amendment or termination) at the segregation time shall be identical to those of the remaining section, save that any reference in the pension scheme to Bradford & Bingley shall, in relation only to the international section, be taken to be a reference to Bradford & Bingley International.
 
-**9.** No provision of the pension scheme shall apply if it would otherwise have the effect of requiring Bradford & Bingley International to cease participation in the scheme when it ceases to be associated with Bradford & Bingley.
+**9.**[^c-171a1fa5cb412be29a0d975c4d86691f] No provision of the pension scheme shall apply if it would otherwise have the effect of requiring Bradford & Bingley International to cease participation in the scheme when it ceases to be associated with Bradford & Bingley.
 
-**10.** The Treasury shall give a guarantee or make other arrangements for the purposes of securing that the assets of the remaining section are sufficient to meet its liabilities.
+**10.**[^c-20bc8124547e276aec233e5df4af2275] The Treasury shall give a guarantee or make other arrangements for the purposes of securing that the assets of the remaining section are sufficient to meet its liabilities.
 
-**11.** Unless otherwise stated or provided in the guarantee or arrangements mentioned in paragraph 10—
+**11.**[^c-ce690e554013469e0a4a48e83a65b6d4] Unless otherwise stated or provided in the guarantee or arrangements mentioned in paragraph 10—
 
 - (a) that guarantee or those arrangements shall for the purposes of determining the application of any provision of pensions legislation be deemed to have been given or made at the guarantee time ; and
 - (b) from the guarantee time until the time that such guarantee or arrangements have been given or made the following provisions shall not apply to the remaining section—
@@ -774,12 +778,12 @@ Article 26
   - (ii) sections 38, 43 and 52 of the Pensions Act 2004; and
   - (iii) Part 3 (scheme funding) of the Pensions Act 2004.
 
-**12.** Except as expressly provided in this Schedule, or to the extent necessary to give effect to article 27, or to the extent necessary to give effect to the Transfer of Undertakings (Protection of Employment) Regulations 2006—
+**12.**[^c-b008d2373984b1bc6a36e96aee70f866] Except as expressly provided in this Schedule, or to the extent necessary to give effect to article 27, or to the extent necessary to give effect to the Transfer of Undertakings (Protection of Employment) Regulations 2006—
 
 - (a) nothing in Part 7 transfers to Abbey, or to any party associated or connected with Abbey, any rights or liabilities in connection with any occupational pension scheme operated by any relevant undertaking; and
 - (b) article 23 shall not apply to any agreements, instruments, documents or other things related to any such scheme.
 
-**13.** In this Schedule—
+**13.**[^c-909bb05e4f31a8e90e0a782c7d2edda8] In this Schedule—
 
 - “the actuary” means the actuary appointed for the pension scheme in pursuance of subsection (1)(b) of section 47 of the Pensions Act 1995;
 - “the guarantee time” means the time immediately before the second transfer time;
@@ -842,6 +846,10 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^f00001]: Footnote: [2008 c.2](https://www.legislation.gov.uk/ukpga/2008/2).
 
+[^c-ceb20116286af522c71c7a491c6b9b20]: Commencement: Art. 1 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-103e700c20d44963bf06621d91d8e6b9]: Commencement: Art. 2 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
 [^f00002]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00003]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
@@ -852,11 +860,81 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^f00006]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755); as amended by [S.I. 2003/1633](https://www.legislation.gov.uk/uksi/2003/1633), there are other amending instruments but none is relevant.
 
+[^c-c024570cf0080e259b82a5f2d16ca953]: Commencement: Art. 3 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-3ed8c8b704811471ee78203035528ddf]: Commencement: Art. 4 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-e28dcc8620e50e1a29e89d1fd86ff179]: Commencement: Art. 5 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-e7a05ef0e8a1aa64b900c20f752c9e9d]: Commencement: Art. 6 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-b700a1be2a6ef3d04a85ca149f106861]: Commencement: Art. 7 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-3e2c96626ce88ea91114e634041ae733]: Commencement: Art. 8 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-6d9add74a59b1b2be9a42c74503397ed]: Commencement: Art. 9 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-365b1881f5e3a917434a13dc5d11c710]: Commencement: Art. 10 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-579d4746a8013bb615b9c7dd9bb432f9]: Commencement: Art. 11 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-50dd5f5bc61e30b601577bf3b4f7db45]: Commencement: Art. 12 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-e79d610785d3aabcc19a9784c1de5176]: Commencement: Art. 13 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-0daa84cd96527d3c8309b70a81a297ed]: Commencement: Art. 14 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
 [^f00007]: Footnote: Section 74 was amended by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381) and [2005/1433](https://www.legislation.gov.uk/uksi/2005/1433).
+
+[^c-605d66fcca858dfd618253733b5d7732]: Commencement: Art. 15 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-03e59317f36ade9a7aa595d20f7d00dc]: Commencement: Art. 16 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-1990b15c5709b786bdfda648d209157c]: Commencement: Art. 17 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-4b425dc37f71c52536a2a4a9c997e627]: Commencement: Art. 18 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-539f12b352d94e485b0ad8c78dcd409d]: Commencement: Art. 19 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-e23cae633f669eaeebda10dd4512536a]: Commencement: Art. 20 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-1cb0c18433dc84585a710512edd82657]: Commencement: Art. 21 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-819d9c5fd5d8f444e09407a6128559b0]: Commencement: Art. 22 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-8edb922e2fd7ddbfc9da219765bfab99]: Commencement: Art. 23 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-d82d22e7179ac3814fb028cef1c9d572]: Commencement: Art. 24 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-f293971181c08446436f3ca8f7638a6b]: Commencement: Art. 25 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-538e4f5fa5e6245ba7a40401c32f18ab]: Commencement: Art. 26 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-8f146be38c3a02bedc1d621539b086fd]: Commencement: Art. 27 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
 [^f00008]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246).
 
 [^f00009]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^c-1978080192a89c0e3a937f413e16b7d7]: Commencement: Art. 28 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-06334c40ac355b75037b169778b5af53]: Commencement: Art. 29 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-153d091912829166058dc1c75e848360]: Commencement: Art. 30 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-93e500e7da784bd099c1acd2bbfac1fb]: Commencement: Art. 31 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-76e246b8d01a89a5901835c452294dbb]: Commencement: Art. 32 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-9895a84af9a8b4666611c6b692acbabe]: Commencement: Art. 33 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-7f64461689664a20cf40b3f471c1533e]: Commencement: Art. 34 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-ea043a80e0e741a0a4ee57911baa1b9f]: Commencement: Art. 35 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-55cf4603f9db1d172ef56aac0b46c950]: Commencement: Art. 36 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-762f2849f9b201d77f8662a3184d9c90]: Commencement: Art. 37 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
 [^f00010]: Footnote: Subsections (1A) to (1C) were inserted by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
 
@@ -864,16 +942,72 @@ An Impact Assessment of the effect of this instrument on the costs to business h
 
 [^f00012]: Footnote: Subsection (4)(a) was amended by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
 
+[^c-3019de5d3634b9ce499c80d7c254e09c]: Commencement: Art. 38 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-1dd21537e20dfb4e7ad095ed4802b197]: Commencement: Art. 39 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-2d0fd758061e6a4a60f3d876ce303566]: Commencement: Art. 40 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
 [^f00013]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^c-aa126997bf16d2ce5b9fb01b330fbb10]: Commencement: Art. 41 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
 [^f00014]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
 
+[^c-fb676e6b3c1c6d3b8b53aba4f43207e1]: Commencement: Art. 42 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-9e222195d3e23a17e7ee80448e089479]: Commencement: Sch. 1 para. 1 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
 [^f00015]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^c-cb9889f77a7067caddc3a5bf2b6bb854]: Commencement: Sch. 1 para. 2 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-46a64448e19ddc15ec3239d2441f44fd]: Commencement: Sch. 1 para. 3 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-ba7957fa6ed04948c35606f36e5eac0c]: Commencement: Sch. 1 para. 4 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
 [^f00016]: Footnote: Sections 96A and 96B were inserted by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381).
 
+[^c-f8f86468617936d352f52dd878448b3d]: Commencement: Sch. 2 para. 1 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-bfa382b9eaeb643fc7066c6ef9a5ab13]: Commencement: Sch. 2 para. 2 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-36cd0b371dd6318e7af7bb2a03d788f0]: Commencement: Sch. 2 para. 3 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-05fd2986cd0625e5280f921d5a425910]: Commencement: Sch. 2 para. 4 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-b7b0e2cf708e2a5b27ecd16af70b8d6f]: Commencement: Sch. 2 para. 5 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-a42e7bd34101124eb76d59b54d6cb9b3]: Commencement: Sch. 2 para. 6 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-34280d11ad516b6dbb557097c7a37f48]: Commencement: Sch. 3 para. 1 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-858762f67bac59c3e520eeffbf800831]: Commencement: Sch. 3 para. 2 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-3a5001f27eb9777265d72c2eab383e00]: Commencement: Sch. 3 para. 3 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-73faba4ee1da3466ea0cbf562d404afb]: Commencement: Sch. 3 para. 4 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-f2fe1a620c751177f08b8d0aa2f0fa81]: Commencement: Sch. 3 para. 5 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
 [^f00017]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35).
 
+[^c-69c5c13cb8c651421302836f0d9429b2]: Commencement: Sch. 3 para. 6 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
 [^f00018]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c-bb3846a624eeb3731f87dc18357c0d09]: Commencement: Sch. 3 para. 7 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-b9db2c437f511458da47aeb29f57034d]: Commencement: Sch. 3 para. 8 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-171a1fa5cb412be29a0d975c4d86691f]: Commencement: Sch. 3 para. 9 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-20bc8124547e276aec233e5df4af2275]: Commencement: Sch. 3 para. 10 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-ce690e554013469e0a4a48e83a65b6d4]: Commencement: Sch. 3 para. 11 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-b008d2373984b1bc6a36e96aee70f866]: Commencement: Sch. 3 para. 12 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
+
+[^c-909bb05e4f31a8e90e0a782c7d2edda8]: Commencement: Sch. 3 para. 13 in force at 29.9.2008 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2)
 
 [^f00019]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).

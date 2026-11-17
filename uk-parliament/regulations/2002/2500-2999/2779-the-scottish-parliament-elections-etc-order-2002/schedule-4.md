@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 4
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: schedule-4
-status: revised-with-pending-changes
-text_date: '2002-11-20'
-extent: S
+status: as-enacted
+text_date: null
+extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,9 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, SCHEDULE 4
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
->
-> Extent: Scotland.
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
 
 ## SCHEDULE 4 — ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS
-
-*Extent: S*
 
 Article 13(3)
 
@@ -132,30 +128,30 @@ Abandoned poll.
 
 Forwarding of documents.
 
-### 1. Interpretation[^c-4a9a58f37af2a4935f4acf28afc47959]
+### 1. Interpretation
 
 For the purposes of this Schedule, unless the context otherwise requires–
 
-- “agent” includes an election agent and a person appointed to attend in the election agent’s place;
+- “**agent**” includes an election agent and a person appointed to attend in the election agent’s place;
 - “ballot paper envelope” and “covering envelope” mean the envelopes referred to in paragraph 10 below;
-- “issue” includes the original and any subsequent issue;
-- “list of postal proxies” means the list kept under article 12(7);
-- “postal ballot box” means the ballot box referred to in paragraph 16(1)(b) below;
-- “postal ballot paper” means a ballot paper issued to a postal voter;
-- “postal voter” means a voter who is entitled to vote by post (and includes a postal proxy);
+- “**issue**” includes the original and any subsequent issue;
+- “**list of postal proxies**” means the list kept under article 12(7);
+- “**postal ballot box**” means the ballot box referred to in paragraph 16(1)(b) below;
+- “**postal ballot paper**” means a ballot paper issued to a postal voter;
+- “**postal voter**” means a voter who is entitled to vote by post (and includes a postal proxy);
 - “postal voters' ballot box” means the ballot box referred to in paragraph 16(1)(a) below;
 - “receptacle for ballot paper envelopes” and “receptacle for declarations of identity” mean the receptacles referred to in paragraph 16(5) below;
-- “receptacle for rejected ballot paper envelopes” means the receptacle referred to in paragraph 15(4) below;
-- “receptacle for rejected votes” means the receptacle referred to in paragraph 16(5) below; and
-- “spoilt postal ballot paper” means a ballot paper referred to in paragraph 13(1) below.
+- “**receptacle for rejected ballot paper envelopes**” means the receptacle referred to in paragraph 15(4) below;
+- “**receptacle for rejected votes**” means the receptacle referred to in paragraph 16(5) below; and
+- “**spoilt postal ballot paper**” means a ballot paper referred to in paragraph 13(1) below.
 
 ### Issue of postal ballot papers
 
-#### 2. Combination of polls[^c-b121c978451e154de6b59ba6f1b00931]
+#### 2. Combination of polls
 
 Where the polls at elections are taken together under article 14(1) or (2) the proceedings on the issue and receipt of postal ballot papers in respect of each election may, if the returning officers concerned agree, be taken together.
 
-#### 3. Form of declaration of identity[^c-eeda12c2639d3a4f27312b7cc530324a]
+#### 3. Form of declaration of identity
 
 The declaration of identity sent with the postal ballot paper to a postal voter shall be–
 
@@ -163,11 +159,11 @@ The declaration of identity sent with the postal ballot paper to a postal voter 
 - (b) in the form U set out in the Appendix to a Scottish parliamentary election where the proceedings on the issue and receipt of ballot papers are taken together with those proceedings at another election under paragraph 2 above; and
 - (c) in the form V set out in the Appendix at a Scottish parliamentary election the poll at which is taken together with a poll at another election under article 14(1) or (2) in any part of the constituency but where the proceedings on the issue and receipt of postal ballot papers are not taken together under paragraph 2 above, for use in that part of the constituency in which polls at more than one election are taken together.
 
-#### 4. Persons entitled to be present at proceedings on issue of postal ballot papers[^c-e066bb6f65733e220f71d5301c96f76e]
+#### 4. Persons entitled to be present at proceedings on issue of postal ballot papers
 
 No person may be present at the proceedings on the issue of postal ballot papers other than the constituency returning officer and members of his staff.
 
-#### 5. Persons entitled to be present at receipt of postal ballot papers[^c-66ad5803e5e869b65117d5ff28b6c1c8]
+#### 5. Persons entitled to be present at receipt of postal ballot papers
 
 (1) No person may be present at the proceedings on the receipt of postal ballot papers other than–
 
@@ -206,11 +202,11 @@ may himself do any act or thing which any agent of his, if appointed, would have
 
 (9) Where in this Schedule any act or thing is required or authorised to be done in the presence of the candidates or their agents, the non-attendance of any such person at the time and place appointed for the purpose shall not, if the act or thing is otherwise duly done, invalidate the act or thing done.
 
-#### 6. Notification of requirement of secrecy[^c-aade4c340c7c8e5da014620da3ab66ba]
+#### 6. Notification of requirement of secrecy
 
 The constituency returning officer shall make arrangements to ensure that every person attending the proceedings in connection with the issue or receipt of postal ballot papers has been given a copy in writing of the provisions of article 30(4) and (6).
 
-#### 7. Time when postal ballot papers are to be issued[^c-6101c5d132038e93c2feb3acbe81f51e]
+#### 7. Time when postal ballot papers are to be issued
 
 (1) In the case of a person shown in the record kept under–
 
@@ -221,7 +217,7 @@ no postal ballot paper (and no declaration of identity) shall be issued until af
 
 (2) In the case of any other person, the postal ballot paper (and declaration of identity) shall be issued by the constituency returning officer as soon as practicable after the registration officer has granted the application to vote by post.
 
-#### 8. Procedures on the issue of postal ballot papers[^c-46fd8791c0ff3ca9734d6b4e146d0f2c]
+#### 8. Procedures on the issue of postal ballot papers
 
 (1) Each postal ballot paper issued shall be stamped with the official mark and the name and number of the elector as stated in the register shall be called out, and such number shall be marked on the counterfoil, and a mark shall be placed in the absent voters list or the list of postal proxies against the number of the elector to denote that a ballot paper has been issued to the elector or his proxy but without showing the particular ballot paper issued.
 
@@ -234,15 +230,15 @@ no postal ballot paper (and no declaration of identity) shall be issued until af
 
 (4) Where the poll at a Scottish parliamentary election is taken with the poll at another election under article 14(1) or (2) but the proceedings on the issue and receipt of postal ballot papers are not taken together under paragraph 2 above, the colours of the postal ballot papers (or, as the case may be, the colour of the postal ballot paper) shall also be marked on the declaration of identity sent with those papers (or as the case may be, that paper).
 
-#### 9. Refusal to issue postal ballot paper[^c-564e4ecc6aa52469c4257640f1db661c]
+#### 9. Refusal to issue postal ballot paper
 
 Where a constituency returning officer is satisfied that two or more entries in either the absent voters list, or the list of postal proxies, or in each of those lists relate to the same elector he shall not issue more than one constituency ballot paper or, as the case may be, more than one regional ballot paper in respect of the same elector in respect of the same election.
 
-#### 10. Envelopes[^c-c6ebce15e48750ea7f18f14cf4892653]
+#### 10. Envelopes
 
-(1) The envelope which the constituency returning officer is required by rule 34 of the Scottish Parliamentary Election Rules[^f00047] to send to a postal voter for the return of postal ballot papers (or, as the case may be, a postal ballot paper) and the declaration of identity (referred to as a “covering envelope”) shall be marked with the letter “B”.
+(1) The envelope which the constituency returning officer is required by rule 34 of the Scottish Parliamentary Election Rules[^f00047] to send to a postal voter for the return of postal ballot papers (or, as the case may be, a postal ballot paper) and the declaration of identity (referred to as a “**covering envelope**”) shall be marked with the letter “B”.
 
-(2) In addition to the documents referred to in sub-paragraph (1) above, the constituency returning officer shall send to a postal voter a smaller envelope (referred to as a “ballot paper envelope”) which shall be marked with–
+(2) In addition to the documents referred to in sub-paragraph (1) above, the constituency returning officer shall send to a postal voter a smaller envelope (referred to as a “**ballot paper envelope**”) which shall be marked with–
 
 - (a) the letter “A”;
 - (b) the words “Ballot paper envelope”; and
@@ -253,7 +249,7 @@ Where a constituency returning officer is satisfied that two or more entries in 
 - (a) the envelope referred to in sub-paragraph (1) above shall also be marked “Covering envelope for the “insert colour of ballot paper(s) coloured ballot paper(s)”; and
 - (b) on the envelope referred to in sub-paragraph (2) above, after the words “Ballot paper envelope” there shall be added the words “for the \[insert colour of ballot paper(s)\] coloured ballot paper(s)”.
 
-#### 11. Delivery of postal ballot papers[^c-b076818f4f442a52b9ac5b8aac8bab0a]
+#### 11. Delivery of postal ballot papers
 
 (1) For the purpose of delivering postal ballot papers, the constituency returning officer may use–
 
@@ -267,9 +263,9 @@ Where a constituency returning officer is satisfied that two or more entries in 
 
 (4) Return postage shall be prepaid on all covering envelopes where the address provided by the postal voter for the receipt of the postal ballot paper is within the United Kingdom.
 
-(5) In this paragraph, “universal postal service provider” has the meaning given in the Postal Services Act 2000 to a “universal service provider”.
+(5) In this paragraph, “**universal postal service provider**” has the meaning given in the Postal Services Act 2000 to a “universal service provider”.
 
-#### 12. Sealing up of special lists and counterfoils[^c-94e812c71999e7628bbc131490013869]
+#### 12. Sealing up of special lists and counterfoils
 
 (1) As soon as practicable after the issue of each batch of postal ballot papers, the constituency returning officer shall make up into a packet the counterfoils of those ballot papers which have been issued and shall seal such a packet.
 
@@ -277,9 +273,9 @@ Where a constituency returning officer is satisfied that two or more entries in 
 
 (3) Until the time referred to in sub-paragraph (2) above, the constituency returning officer shall take proper precautions for the security of the lists referred to in that sub paragraph.
 
-#### 13. Spoilt postal ballot paper[^c-b7672c2fcf18ec9bb3af5d48563dc489]
+#### 13. Spoilt postal ballot paper
 
-(1) If a postal voter has inadvertently dealt with a postal ballot paper of his in such manner that it cannot be conveniently used as a ballot paper (referred to as “a spoilt postal ballot paper”) he may return (either by hand or by post) to the constituency returning officer the spoilt postal ballot paper and the declaration of identity.
+(1) If a postal voter has inadvertently dealt with a postal ballot paper of his in such manner that it cannot be conveniently used as a ballot paper (referred to as “**a spoilt postal ballot paper**”) he may return (either by hand or by post) to the constituency returning officer the spoilt postal ballot paper and the declaration of identity.
 
 (2) Where two or more postal ballot papers have been issued together to him (whether at a Scottish parliamentary general election or under paragraph 2 above), the postal voter shall, if he exercises the entitlement conferred by sub-paragraph (1) above, return all of the ballot papers so issued, whether spoilt or not.
 
@@ -293,13 +289,13 @@ Where a constituency returning officer is satisfied that two or more entries in 
 
 (7) Where a postal voter applies in person, the constituency returning officer may hand a replacement postal ballot paper to him instead of delivering it in accordance with paragraph 11 above.
 
-(8) The constituency returning officer shall enter in a list kept for the purpose (“the list of spoilt postal ballot papers”)–
+(8) The constituency returning officer shall enter in a list kept for the purpose (“**the list of spoilt postal ballot papers**”)–
 
 - (a) the name and number of the elector as stated in the register;
 - (b) the number of the postal ballot paper (or papers) issued under this paragraph, and
 - (c) where the postal voter whose ballot paper is spoilt is a proxy, his name and address.
 
-#### 14. Lost postal ballot paper[^c-936f403f86d7c1429d92ce52d93c6597]
+#### 14. Lost postal ballot paper
 
 (1) Where a postal voter has not received his postal ballot paper by the third day before the day of the poll, he may apply (whether or not in person ) to the constituency returning officer for a replacement ballot paper.
 
@@ -312,7 +308,7 @@ Where a constituency returning officer is satisfied that two or more entries in 
 
 he shall issue another postal ballot paper or, as the case may be, postal ballot papers.
 
-(4) The constituency returning officer shall enter in a list kept for the purpose (“the list of lost postal ballot papers”)–
+(4) The constituency returning officer shall enter in a list kept for the purpose (“**the list of lost postal ballot papers**”)–
 
 - (a) the name and number of the elector as stated in the register;
 - (b) the number of the lost postal ballot paper and of its replacement issued under this paragraph; and
@@ -326,7 +322,7 @@ he shall issue another postal ballot paper or, as the case may be, postal ballot
 
 ### Receipt of postal ballot papers
 
-#### 15. Notice of opening of postal ballot paper envelopes[^c-87a05bf4d87ad4dc328e36c34cdf351a]
+#### 15. Notice of opening of postal ballot paper envelopes
 
 (1) The constituency returning officer shall give not less than 48 hours' notice in writing of each occasion on which a postal voters' ballot box and the envelopes contained in it is to be opened, to–
 
@@ -338,12 +334,12 @@ he shall issue another postal ballot paper or, as the case may be, postal ballot
 - (a) the time and place at which such an opening is to take place, and
 - (b) the number of agents a candidate may appoint under paragraph 5(2) above to attend each opening.
 
-#### 16. Postal ballot boxes and receptacles[^c-2e3c107b715ed540970cd576b1c79526]
+#### 16. Postal ballot boxes and receptacles
 
 (1) The constituency returning officer shall provide a separate ballot box for the reception of–
 
 - (a) the covering envelopes when returned by the postal voters (“postal voters' ballot box”); and
-- (b) postal ballot papers (“postal ballot box”).
+- (b) postal ballot papers (“**postal ballot box**”).
 
 (2) Each such ballot box shall be marked “postal voters' ballot box” or “postal ballot box”, as the case may be, and with the name of the constituency or electoral area for which the election is, or, as the case may be, the elections are, held.
 
@@ -360,7 +356,7 @@ he shall issue another postal ballot paper or, as the case may be, postal ballot
 
 (6) The constituency returning officer shall take proper precautions for the safe custody of every ballot box and receptacle referred to in this paragraph.
 
-#### 17. Receipt of covering envelope[^c-2766afd8ea3c7b5cc4a06951b58f741a]
+#### 17. Receipt of covering envelope
 
 (1) The constituency returning officer shall, immediately on receipt (whether by hand or by post) of a covering envelope (or an envelope which is stated to include a postal vote) before the close of the poll, place it unopened in a postal voters' ballot box.
 
@@ -371,7 +367,7 @@ he shall issue another postal ballot paper or, as the case may be, postal ballot
 
 the first–mentioned envelope, together with its contents, shall be placed in a postal voters' ballot box.
 
-#### 18. Opening of postal voters' ballot box[^c-9ade4461d9ad9e02c752707be0f6e52c]
+#### 18. Opening of postal voters' ballot box
 
 (1) Each postal voters' ballot box shall be opened by the constituency returning officer in the presence of any agents, if in attendance.
 
@@ -379,7 +375,7 @@ the first–mentioned envelope, together with its contents, shall be placed in a
 
 (3) The last postal voters' ballot box and the postal ballot box shall be opened at the counting of the votes under rule 54 of the Scottish Parliamentary Election Rules.
 
-#### 19. Opening of covering envelopes[^c-bfb51ac7ed5bc6c7edbcc8ee37926839]
+#### 19. Opening of covering envelopes
 
 (1) When a postal voters' ballot box is opened, the constituency returning officer shall count and record the number of covering envelopes, and shall then open each covering envelope (including any envelope to which paragraph 17(2) above applies) separately.
 
@@ -397,9 +393,9 @@ the first–mentioned envelope, together with its contents, shall be placed in a
 
 the constituency returning officer shall mark the covering envelope “provisionally rejected”, attach its contents (if any) and place it in the receptacle for rejected votes.
 
-#### 20. Procedure in relation to declarations of identity[^c-4cb99c0a8261d70f25ac2b54222649b2]
+#### 20. Procedure in relation to declarations of identity
 
-(1) The constituency returning officer shall satisfy himself that the declaration of identity has been duly signed by the voter and authenticated by a witness who has signed the declaration and given his address (referred to as a “valid declaration of identity”).
+(1) The constituency returning officer shall satisfy himself that the declaration of identity has been duly signed by the voter and authenticated by a witness who has signed the declaration and given his address (referred to as a “**valid declaration of identity**”).
 
 (2) Where the constituency returning officer is not so satisfied, he shall mark the declaration “rejected”, attach to it the ballot paper envelope, or if there is no such envelope, the ballot paper (or ballot papers), and, subject to sub-paragraph (3) below, place it in the receptacle for rejected votes.
 
@@ -426,7 +422,7 @@ the constituency returning officer shall mark the covering envelope “provision
   and shall indicate the missing ballot paper, where that is the case; and
 - (d) place in the receptacle for declarations of identity, any such declaration not disposed of under sub paragraph (b) or (c) above.
 
-#### 21. Opening of ballot paper envelopes[^c-ed998fde1bb63d5c864f9fd13ba627ad]
+#### 21. Opening of ballot paper envelopes
 
 (1) The constituency returning officer shall open separately each ballot paper envelope placed in the receptacle for ballot paper envelopes.
 
@@ -436,7 +432,7 @@ the constituency returning officer shall mark the covering envelope “provision
 - (b) in the receptacle for rejected votes, any other ballot paper which shall be marked “provisionally rejected” and to which shall be attached the ballot paper envelope; and
 - (c) in the receptacle for rejected ballot paper envelopes, any ballot paper envelope which shall be marked “provisionally rejected” because it does not contain either a ballot paper or, where more than one number appears on the ballot paper envelope, a sufficient number of ballot papers (and indicating, in such a case, the missing ballot paper/or papers).
 
-#### 22. Lists of rejected postal ballot papers[^c-6244b23e0744b282a65e74fceddf5224]
+#### 22. Lists of rejected postal ballot papers
 
 (1) In respect of any election, the constituency returning officer shall keep two separate lists of rejected postal ballot papers.
 
@@ -444,7 +440,7 @@ the constituency returning officer shall mark the covering envelope “provision
 
 (3) In the second list, he shall record the ballot paper number of any postal ballot paper which is entered on a valid declaration of identity where that ballot paper is not received with the declaration of identity.
 
-#### 23. Checking of lists kept under paragraph 22[^c-d154a00fb5939182675662bca0d0b987]
+#### 23. Checking of lists kept under paragraph 22
 
 (1) Where the constituency returning officer receives a valid declaration of identity without the postal ballot paper (or papers or, as the case may be, all of the papers) to which it relates, he shall from time to time prior to the close of the poll, check the list kept under paragraph 22(2) above to see whether the number (or numbers) of a postal ballot paper to which the declaration relates is (or are) entered in that list.
 
@@ -456,7 +452,7 @@ the constituency returning officer shall mark the covering envelope “provision
 
 (5) The constituency returning officer shall then take the appropriate steps under this Schedule as though any document earlier marked “provisionally rejected” had not been so marked and shall amend the document accordingly.
 
-#### 24. Sealing of receptacles[^c-8b60a9cde37917d0a4c5d0d682e8db3d]
+#### 24. Sealing of receptacles
 
 (1) As soon practicable after the completion of the procedure under paragraph 23(3) and (4) above, the constituency returning officer shall make up into separate packets the contents of–
 
@@ -469,7 +465,7 @@ and shall seal up such packets.
 
 (2) Any document in those packets marked “provisionally rejected” shall be deemed to be marked “rejected”.
 
-#### 25. Abandoned poll[^c-0de548121ec7141fc8987b07668e92be]
+#### 25. Abandoned poll
 
 (1) Where a poll is abandoned or countermanded after postal ballot papers have been issued, by reason of the death of a candidate, the constituency returning officer–
 
@@ -478,7 +474,7 @@ and shall seal up such packets.
 
 (2) Sub-paragraph (1) above shall not apply where postal ballot papers for more than one election have been issued together under paragraph 2 above.
 
-#### 26. Forwarding of documents[^c-47f9d93e6bf487f23442226a854b763a]
+#### 26. Forwarding of documents
 
 (1) The constituency returning officer shall forward to the sheriff clerk at the same time as he forwards the documents mentioned in rule 68 of the Scottish Parliamentary Election Rules–
 
@@ -499,56 +495,4 @@ the constituency returning officer shall put them unopened in a separate packet,
 
 ## Annotations
 
-[^c-4a9a58f37af2a4935f4acf28afc47959]: Commencement: Sch. 4 para. 1 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-b121c978451e154de6b59ba6f1b00931]: Commencement: Sch. 4 para. 2 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-eeda12c2639d3a4f27312b7cc530324a]: Commencement: Sch. 4 para. 3 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-e066bb6f65733e220f71d5301c96f76e]: Commencement: Sch. 4 para. 4 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-66ad5803e5e869b65117d5ff28b6c1c8]: Commencement: Sch. 4 para. 5 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-aade4c340c7c8e5da014620da3ab66ba]: Commencement: Sch. 4 para. 6 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-6101c5d132038e93c2feb3acbe81f51e]: Commencement: Sch. 4 para. 7 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-46fd8791c0ff3ca9734d6b4e146d0f2c]: Commencement: Sch. 4 para. 8 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-564e4ecc6aa52469c4257640f1db661c]: Commencement: Sch. 4 para. 9 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-c6ebce15e48750ea7f18f14cf4892653]: Commencement: Sch. 4 para. 10 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
 [^f00047]: Footnote: Schedule 2 to this Order.
-
-[^c-b076818f4f442a52b9ac5b8aac8bab0a]: Commencement: Sch. 4 para. 11 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-94e812c71999e7628bbc131490013869]: Commencement: Sch. 4 para. 12 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-b7672c2fcf18ec9bb3af5d48563dc489]: Commencement: Sch. 4 para. 13 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-936f403f86d7c1429d92ce52d93c6597]: Commencement: Sch. 4 para. 14 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-87a05bf4d87ad4dc328e36c34cdf351a]: Commencement: Sch. 4 para. 15 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-2e3c107b715ed540970cd576b1c79526]: Commencement: Sch. 4 para. 16 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-2766afd8ea3c7b5cc4a06951b58f741a]: Commencement: Sch. 4 para. 17 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-9ade4461d9ad9e02c752707be0f6e52c]: Commencement: Sch. 4 para. 18 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-bfb51ac7ed5bc6c7edbcc8ee37926839]: Commencement: Sch. 4 para. 19 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-4cb99c0a8261d70f25ac2b54222649b2]: Commencement: Sch. 4 para. 20 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-ed998fde1bb63d5c864f9fd13ba627ad]: Commencement: Sch. 4 para. 21 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-6244b23e0744b282a65e74fceddf5224]: Commencement: Sch. 4 para. 22 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-d154a00fb5939182675662bca0d0b987]: Commencement: Sch. 4 para. 23 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-8b60a9cde37917d0a4c5d0d682e8db3d]: Commencement: Sch. 4 para. 24 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-0de548121ec7141fc8987b07668e92be]: Commencement: Sch. 4 para. 25 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
-
-[^c-47f9d93e6bf487f23442226a854b763a]: Commencement: Sch. 4 para. 26 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)

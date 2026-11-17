@@ -3,16 +3,16 @@ title: The Infant Formula and Follow-on Formula (England) (Amendment) Regulation
 id: uksi/2008/2445
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-16'
-text_date: null
-extent: null
+text_date: '2008-09-16'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/2445
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2445/pdfs/uksiem_20082445_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2445/pdfs/uksi_20082445_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2445/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/2445/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Infant Formula and Follow-on Formula (England) (Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2008-09-16. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2445
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
 
 2008 No. 2445
 
@@ -46,14 +52,14 @@ In accordance with section 48(4A) of the Food Safety Act 1990, the Secretary of 
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Title and commencement
+## 1. Title and commencement[^c-6334771c9f3a6a525f9827e4c7ee633b]
 
 These Regulations—
 
 - (a) may be cited as the Infant Formula and Follow-on Formula (England) (Amendment) Regulations 2008; and
 - (b) come into force on 29th October 2008.
 
-## 2. Amendment of the Infant Formula and Follow-on Formula (England) Regulations 2007
+## 2. Amendment of the Infant Formula and Follow-on Formula (England) Regulations 2007[^c-c1dd30cf47eb37ec7d3ebfd4de767ad5]
 
 (1) The Infant Formula and Follow-on Formula (England) Regulations 2007[^f00004] are amended in accordance with the following paragraphs.
 
@@ -113,7 +119,7 @@ These Regulations—
 
 .
 
-## 3. Amendment of the Medical Food (England) Regulations 2000
+## 3. Amendment of the Medical Food (England) Regulations 2000[^c-def336f72a22d34eeac04669c17c536e]
 
 (1) The Medical Food (England) Regulations[^f00005] are amended in accordance with paragraph (2).
 
@@ -163,6 +169,12 @@ EXPLANATORY NOTE
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by [Commission Regulation (EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the Scientific Panels of the European Food Safety Authority (OJ No. L60, 5.3.2008, p.17).
 
+[^c-6334771c9f3a6a525f9827e4c7ee633b]: Commencement: Reg. 1 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/2445/regulation/1/b)
+
+[^c-c1dd30cf47eb37ec7d3ebfd4de767ad5]: Commencement: Reg. 2 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/2445/regulation/1/b)
+
 [^f00004]: Footnote: [S.I. 2007/3521](https://www.legislation.gov.uk/uksi/2007/3521).
+
+[^c-def336f72a22d34eeac04669c17c536e]: Commencement: Reg. 3 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/2445/regulation/1/b)
 
 [^f00005]: Footnote: [S.I. 2000/845](https://www.legislation.gov.uk/uksi/2000/845), amended by [S.I. 2007/3521](https://www.legislation.gov.uk/uksi/2007/3521); there are other amending instruments but none is relevant.

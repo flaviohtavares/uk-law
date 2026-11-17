@@ -3,7 +3,7 @@ title: Victims, Witnesses, and Justice Reform (Scotland) Act 2025, section 62
 act: Victims, Witnesses, and Justice Reform (Scotland) Act 2025
 section: '62'
 status: revised-with-pending-changes
-text_date: '2026-11-02'
+text_date: '2026-11-16'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2025/12/section/62
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Victims, Witnesses, and Justice Reform (Scotland) Act 2025, section 62
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/asp/2025/12
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-11-16. See https://www.legislation.gov.uk/changes/affected/asp/2025/12
 >
 > Extent: Scotland.
 

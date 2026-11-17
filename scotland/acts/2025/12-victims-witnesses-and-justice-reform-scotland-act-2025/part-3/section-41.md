@@ -3,7 +3,7 @@ title: Victims, Witnesses, and Justice Reform (Scotland) Act 2025, section 41
 act: Victims, Witnesses, and Justice Reform (Scotland) Act 2025
 section: '41'
 status: not-yet-in-force
-text_date: '2026-11-02'
+text_date: '2026-11-16'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2025/12/section/41
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

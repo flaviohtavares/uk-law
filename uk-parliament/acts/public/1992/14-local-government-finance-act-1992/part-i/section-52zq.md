@@ -3,7 +3,7 @@ title: Local Government Finance Act 1992, section 52ZQ
 act: Local Government Finance Act 1992
 section: 52ZQ
 status: revised-with-pending-changes
-text_date: '2026-06-29'
+text_date: '2026-11-13'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1992/14/section/52ZQ
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Local Government Finance Act 1992, section 52ZQ
 
-> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
+> **Warning: changes not yet applied to this text (35).** Text as at 2026-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
 > Extent: England, Wales.
 
@@ -56,12 +56,12 @@ summary: ''
 
 [^c-572b48653e0a9f082dff6ab7dd81cb9d]: Modification: S. 52ZQ functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/e) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^c-aeab8f0f9ca24b0f30f6ffd7bb5d4da6]: Modification: [S. 52ZQ](https://www.legislation.gov.uk/ukpga/1992/14/section/52ZQ): functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(e)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/e) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-aeab8f0f9ca24b0f30f6ffd7bb5d4da6]: Modification: S. 52ZQ: functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(e)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/e) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
 
-[^c-57e85bbe2c27436cc1cbf0465719f641]: Textual amendment: Words in [s. 52ZQ(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/52ZQ/1) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/9/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-57e85bbe2c27436cc1cbf0465719f641]: Textual amendment: Words in s. 52ZQ(1) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/9/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^c-0fa9fa7e28d564312da5a5c381a7bb9c]: Textual amendment: Words in [s. 52ZQ(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/52ZQ/2) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/9/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-0fa9fa7e28d564312da5a5c381a7bb9c]: Textual amendment: Words in s. 52ZQ(2) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/9/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^c-92e23520501e46c26d77a8f223d552ea]: Textual amendment: Words in [s. 52ZQ(6)](https://www.legislation.gov.uk/ukpga/1992/14/section/52ZQ/6) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/9/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-92e23520501e46c26d77a8f223d552ea]: Textual amendment: Words in s. 52ZQ(6) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/9/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))

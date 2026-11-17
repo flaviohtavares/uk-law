@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, SCHEDULE 2
 act: The Council Tax Benefit (General) Regulations 1992
 section: schedule-2
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, SCHEDULE 2
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -36,12 +36,12 @@ Regulation 54
 <tbody>
 <tr><td>(a) Where the second adult or all second adults are in receipt of income support;</td><td>(a) 25 per cent. of the council tax due in respect of that day;</td></tr>
 <tr><td>(b) Where the gross income of the second adult or, where there is more than one second adult, their aggregate gross income disregarding any income of persons on income support,</td><td>(b)</td></tr>
-<tr><td>(i) is less than £105 per week;</td><td>(i) 15 per cent. of the council tax due in respect of that day;</td></tr>
-<tr><td>(ii) is not less than £105 per week, but is less than £135 per week;</td><td>(ii) 7.5 per cent. of the council tax due in respect of that day.</td></tr>
+<tr><td>(i) is less than £108.00 per week;</td><td>(i) 15 per cent. of the council tax due in respect of that day;</td></tr>
+<tr><td>(ii) is not less than £108.00 per week, but is less than £139.00 per week;</td><td>(ii) 7.5 per cent. of the council tax due in respect of that day.</td></tr>
 </tbody>
 </table>
 
-[^c-71e6ea8167b008672fa828022885d902][^c-29541f272aed95afa92e9b712c07588f]
+[^c-71e6ea8167b008672fa828022885d902][^M_F_ab6bc0e5-4b8c-456c-f6f3-1ef5a91d5e3d][^c-29541f272aed95afa92e9b712c07588f]
 
 **2.**[^c-0ae727775c59231a97b74c30fc8d8935] In determining a second adult’s gross income for the purposes of this Schedule, there shall be disregarded from that income—
 
@@ -56,6 +56,8 @@ Regulation 54
 [^c-477c91911745349a5f797f6e12178e7b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1992/1814/schedule/2/paragraph/1) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^c-71e6ea8167b008672fa828022885d902]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1992/1814/schedule/2) Table substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [23(a)(i)](https://www.legislation.gov.uk/uksi/1993/688/regulation/23/a/i)
+
+[^M_F_ab6bc0e5-4b8c-456c-f6f3-1ef5a91d5e3d]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/1992/1814/schedule/2) Table substituted (1.4.1994) by [The Social Security Benefits Up-rating Order 1994 (S.I. 1994/542)](https://www.legislation.gov.uk/uksi/1994/542), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1994/542/article/1/2/a), [20(8)](https://www.legislation.gov.uk/uksi/1994/542/article/20/8)
 
 [^c-29541f272aed95afa92e9b712c07588f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1992/1814/schedule/2) Table substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [23(a)(ii)](https://www.legislation.gov.uk/uksi/1993/688/regulation/23/a/ii)
 

@@ -3,7 +3,7 @@ title: Policing and Crime Act 2017, section 152
 act: Policing and Crime Act 2017
 section: '152'
 status: repealed
-text_date: '2026-06-29'
+text_date: '2026-11-16'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2017/3/section/152
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

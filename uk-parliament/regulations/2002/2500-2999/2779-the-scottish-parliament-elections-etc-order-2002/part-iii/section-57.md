@@ -2,9 +2,9 @@
 title: The Scottish Parliament (Elections etc.) Order 2002, section 57
 act: The Scottish Parliament (Elections etc.) Order 2002
 section: '57'
-status: revised-with-pending-changes
-text_date: '2002-11-20'
-extent: S
+status: as-enacted
+text_date: null
+extent: null
 source_url: https://www.legislation.gov.uk/uksi/2002/2779/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,9 @@ summary: ''
 
 # The Scottish Parliament (Elections etc.) Order 2002, section 57
 
-> **Warning: changes not yet applied to this text (11).** Text as at 2002-11-20. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2779
->
-> Extent: Scotland.
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
 
-## 57. Property, goods, services etc provided free of charge or at a discount[^c-55a7c67178d76ec958ea67f3076806ad]
-
-*Extent: S*
+## 57. Property, goods, services etc provided free of charge or at a discount
 
 (1) This article applies where, in the case of a candidate at an election–
 
@@ -29,7 +25,7 @@ summary: ''
 
 (2) Where this article applies–
 
-- (a) an amount of election expenses determined in accordance with this article (“the appropriate amount”) shall be treated, for the purposes of this article, as incurred by the candidate, and
+- (a) an amount of election expenses determined in accordance with this article (“**the appropriate amount**”) shall be treated, for the purposes of this article, as incurred by the candidate, and
 - (b) the candidate’s election agent shall make a declaration of that amount, unless that amount is not more than £50.
 
 This paragraph has effect subject to article 55(3) above.
@@ -50,10 +46,8 @@ as is reasonably attributable to the use made of the property, goods, services o
 
 (5) Where the services of an employee are made available by his employer for the use or benefit of a candidate, then for the purposes of this article the commercial rate for the provision of those services shall be the amount of the remuneration and allowances payable to the employee by his employer in respect of the period for which his services are so made available (but shall not include any amount in respect of any contributions or other payments for which the employer is liable in respect of the employee).
 
-(6) In this article, “market value”, in relation to any property or goods, means the price which might reasonably be expected to be paid for the property or goods on a sale in the open market; and paragraph 2(6)(a) of Schedule 2A to the 1983 Act[^f00026] shall apply with any necessary modifications for the purpose of determining, for the purposes of paragraph (1) above, whether property or goods is or are transferred to a candidate or his election agent.
+(6) In this article, “**market value**”, in relation to any property or goods, means the price which might reasonably be expected to be paid for the property or goods on a sale in the open market; and paragraph 2(6)(a) of Schedule 2A to the 1983 Act[^f00026] shall apply with any necessary modifications for the purpose of determining, for the purposes of paragraph (1) above, whether property or goods is or are transferred to a candidate or his election agent.
 
 ## Annotations
-
-[^c-55a7c67178d76ec958ea67f3076806ad]: Commencement: Art. 57 in force at 20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1)
 
 [^f00026]: Footnote: Schedule 2A was added to the 1983 Act by the 2000 Political Parties Act, Schedule 16.

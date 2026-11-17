@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 8
 act: The South Hampshire Rapid Transit Order 2001
 section: '8'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/8
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 8
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 8. Power to alter layout of streets
+## 8. Power to alter layout of streets[^c-4a5785bb386df9a3e90a15e137f466d4]
+
+*Extent: E+W+S*
 
 (1) The undertaker may alter the layout of any street specified in columns (1) and (2) of Schedule 3 to this Order in the manner specified in relation to that street in column (3) of that Schedule.
 
@@ -31,5 +35,7 @@ summary: ''
 (3) The powers in paragraph (2) above shall not be exercised without the consent of the street authority, but such consent shall not be unreasonably withheld.
 
 ## Annotations
+
+[^c-4a5785bb386df9a3e90a15e137f466d4]: Commencement: Art. 8 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00014]: Footnote: [S.I. 1999/1026](https://www.legislation.gov.uk/uksi/1999/1026).

@@ -2,8 +2,8 @@
 title: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, SCHEDULE 3
 act: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 section: schedule-3
-status: revised-with-pending-changes
-text_date: '2026-04-01'
+status: revised
+text_date: '2026-11-06'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2012/319/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2012/319
+> Text as at 2026-11-06.
 >
 > Extent: Scotland.
 
@@ -49,7 +49,7 @@ Regulation 31(10)
 
 **6.** £15 of any widowed parent's allowance to which the applicant is entitled under section 39A of the 1992 Act [^c21460161].
 
-**7.** £15 of any widowed mother's allowance to which the applicant is entitled under section 37 of the 1992 Act [^c21460171].
+**7.**[^c-13086ce3c9a248452ba7cef9f34d3030] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** Where the applicant occupies a dwelling as a home and provides in that dwelling board and lodging accommodation for a charge, an amount in respect of each person for whom the accommodation is provided for the whole or any part of a week, equal to—
 
@@ -163,7 +163,7 @@ and the applicant makes payments by way of a contribution towards the student's 
 
 [^c21460161]: Marginal citation: Section 39A was inserted by section 55 of the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and amended by paragraph 3 of Schedule 1 to the [Child Benefit Act 2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6), [paragraph 20](https://www.legislation.gov.uk/ukpga/2005/6/paragraph/20) of Schedule 24, and Schedule 30, to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and section 51 of the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^c21460171]: Marginal citation: Section 37 was amended by paragraph 2 of Schedule 1 to the [Child Benefit Act 2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6), [paragraph 18](https://www.legislation.gov.uk/ukpga/2005/6/paragraph/18) of Schedule 24, and Schedule 30, to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and section 50 of the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5).
+[^c-13086ce3c9a248452ba7cef9f34d3030]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2012/319/schedule/3/paragraph/7) omitted (6.11.2026) by virtue of [The Council Tax Reduction (Miscellaneous Amendment) (No. 2) (Scotland) Regulations 2026 (S.S.I. 2026/259)](https://www.legislation.gov.uk/ssi/2026/259), [regs. 1](https://www.legislation.gov.uk/ssi/2026/259/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/259/regulation/2/4)
 
 [^c-49f6d5cf2ab824ac14127abf10968a5e]: Textual amendment: Words in [sch. 3 para. 10(b)](https://www.legislation.gov.uk/ssi/2012/319/schedule/3/paragraph/10/b) substituted (1.2.2021) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020 (S.S.I. 2020/413)](https://www.legislation.gov.uk/ssi/2020/413), [regs. 1](https://www.legislation.gov.uk/ssi/2020/413/regulation/1), [14](https://www.legislation.gov.uk/ssi/2020/413/regulation/14)
 

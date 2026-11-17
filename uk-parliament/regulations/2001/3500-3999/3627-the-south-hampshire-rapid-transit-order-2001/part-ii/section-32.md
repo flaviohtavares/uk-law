@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 32
 act: The South Hampshire Rapid Transit Order 2001
 section: '32'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/32
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 32
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 32. Power to survey and investigate land
+## 32. Power to survey and investigate land[^c-1cfa54ef06364263ccfaedc9c902354e]
+
+*Extent: E+W+S*
 
 (1) The undertaker may for the purposes of this Order—
 
@@ -38,6 +42,8 @@ summary: ''
 (6) Nothing in this article shall obviate the need to obtain scheduled monument consent under the Ancient Monuments and Archaeological Areas Act 1979[^f00029].
 
 ## Annotations
+
+[^c-1cfa54ef06364263ccfaedc9c902354e]: Commencement: Art. 32 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00028]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 

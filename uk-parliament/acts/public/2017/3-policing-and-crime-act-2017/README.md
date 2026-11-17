@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2017-01-31'
-text_date: '2026-06-29'
+text_date: '2026-11-16'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2017/3
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2017/3/pdfs/ukpgaen_20170003_en.pdf
 - http://www.legislation.gov.uk/ukpga/2017/3/pdfs/ukpga_20170003_en.pdf
 - http://www.legislation.gov.uk/ukpga/2017/3/data.pdf
-pending_changes: 13
+pending_changes: 10
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Policing and Crime Act 2017
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -436,6 +436,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 164 — Posthumous pardons for convictions etc of certain abolished offences: England and Wales](part-9/section-164.md)
 - [Section 165 — Other pardons for convictions etc of certain abolished offences: England and Wales](part-9/section-165.md)
+- [Section 165B — Pardon and expungement of records for women under the law related to abortion](part-9/section-165b.md)
 - [Section 166 — Power to provide for disregards and pardons for additional abolished offences: England and Wales](part-9/section-166.md)
 - [Section 167 — Sections 164 to 166: supplementary](part-9/section-167.md)
 - [Section 168 — Disregarding certain convictions etc for abolished offences: Northern Ireland](part-9/section-168.md)

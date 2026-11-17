@@ -3,14 +3,14 @@ title: Vegetable Seeds (Amendment) Regulations (Northern Ireland) 1996
 id: nisr/1996/313
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '1996-07-23'
-text_date: null
-extent: null
+text_date: '1996-07-23'
+extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/313
 pdf_urls:
-- http://www.legislation.gov.uk/nisr/1996/313/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/nisr/1996/313/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,13 @@ summary: ''
 
 # Vegetable Seeds (Amendment) Regulations (Northern Ireland) 1996
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 1996-07-23. See https://www.legislation.gov.uk/changes/affected/nisr/1996/313
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+**Not yet in force.**
 
 1996 No. 313
 
@@ -36,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture in exercise of the powers conferred on it by sections 1(1) and 2[^f00001] of the Seeds Act (Northern Ireland) 1965[^f00002] and of every other power enabling it in that behalf, after consultation with representatives of such interests as appear to it to be concerned, hereby makes the following Regulations:—
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-f3277d910eed0228b011ce4701875ac7]
 
 These Regulations may be cited as the Vegetable Seeds (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 23rd August 1996.
 
-## 2. Amendment of the Vegetable Seeds Regulations (Northern Ireland) 1994
+## 2. Amendment of the Vegetable Seeds Regulations (Northern Ireland) 1994[^c-4806f781009200493b81ac40f5960621]
 
 In the table in sub-paragraph (*a*) of Part II of Schedule 5 (maximum weight of a seed lot and minimum weight of a submitted sample) to the Vegetable Seeds Regulations (Northern Ireland) 1994[^f00003] for the figure “20” in the second column opposite the entries “Broad bean”, “French bean” and “Pea” in the first column there shall be substituted the figure “25”.
 
@@ -61,5 +67,9 @@ These Regulations, which come into operation on 23rd August 1996, amend the Vege
 [^f00001]: Footnote: As amended by [1970 c. 20 (N.I.)](https://www.legislation.gov.uk/apni/1970/20) section 10(2)
 
 [^f00002]: Footnote: [1965 c. 22 (N.I.)](https://www.legislation.gov.uk/apni/1965/22)
+
+[^c-f3277d910eed0228b011ce4701875ac7]: Commencement: Reg. 1 in operation at 23.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/313/regulation/1)
+
+[^c-4806f781009200493b81ac40f5960621]: Commencement: Reg. 2 in operation at 23.8.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/313/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1994 No. 250](https://www.legislation.gov.uk/nisr/1994/250)

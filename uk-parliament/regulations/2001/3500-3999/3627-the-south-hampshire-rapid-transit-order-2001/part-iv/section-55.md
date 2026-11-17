@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 55
 act: The South Hampshire Rapid Transit Order 2001
 section: '55'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/55
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 55
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 55. Power to lop trees overhanging transit system
+## 55. Power to lop trees overhanging transit system[^c-964a85c2d328ebac6acd2433ae292fe0]
+
+*Extent: E+W+S*
 
 (1) The undertaker may fell or lop any tree or shrub near any part of the authorised transit system, or cut back its roots, if it reasonably believes it to be necessary to do so to prevent the tree or shrub—
 
@@ -28,6 +32,8 @@ summary: ''
 (4) Any dispute as to a person’s entitlement to compensation under paragraph (2) above, or as to the amount of the compensation, shall be determined under Part I of the Land Compensation Act 1961[^f00038].
 
 ## Annotations
+
+[^c-964a85c2d328ebac6acd2433ae292fe0]: Commencement: Art. 55 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00037]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 

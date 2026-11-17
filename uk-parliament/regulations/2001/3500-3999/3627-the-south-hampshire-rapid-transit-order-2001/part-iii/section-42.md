@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 42
 act: The South Hampshire Rapid Transit Order 2001
 section: '42'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/42
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 42
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 42. Temporary use of land for maintenance of works
+## 42. Temporary use of land for maintenance of works[^c-a137e4cef4710a658d9a0e6862a8fe21]
+
+*Extent: E+W+S*
 
 (1) At any time during the maintenance period relating to any of the scheduled works, the undertaker may—
 
@@ -45,3 +49,7 @@ summary: ''
 - (a) “the maintenance period”, in relation to a scheduled work, means the period of 5 years beginning with the date on which the work is opened for use;
 - (b) “building” includes structure or any other erection; and
 - (c) any reference to land within a specified distance of a work includes, in the case of a work under the surface of the ground, a reference to land within the specified distance of the point on the surface below which the work is situated.
+
+## Annotations
+
+[^c-a137e4cef4710a658d9a0e6862a8fe21]: Commencement: Art. 42 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

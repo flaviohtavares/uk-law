@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 2
 act: The South Hampshire Rapid Transit Order 2001
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 2. Interpretation
+## 2. Interpretation[^c-2b04e36c0a420ec08ff51f2d26a05071]
+
+*Extent: E+W+S*
 
 (1) In this Order, unless the context otherwise requires—
 
@@ -71,6 +75,8 @@ summary: ''
 (5) All distances, directions and lengths stated in the description of the scheduled works or in any description of powers or lands shall be construed as if the words “or thereabouts” were inserted after each such distance, direction and length, and distances between points on a scheduled work shall be taken to be measured along the scheduled work.
 
 ## Annotations
+
+[^c-2b04e36c0a420ec08ff51f2d26a05071]: Commencement: Art. 2 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
 
 [^f00003]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 

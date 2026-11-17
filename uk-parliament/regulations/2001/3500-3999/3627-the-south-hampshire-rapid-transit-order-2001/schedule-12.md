@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 12
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-12
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/12
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,19 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 12
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 12 — PROTECTION OF RAILWAY INTERESTS
 
+*Extent: E+W+S*
+
 Article 64
 
-**1.** The following provisions of this Schedule shall have effect, unless otherwise agreed in writing between Railtrack and the undertaker and, in the case of paragraphs 3 and 16 below, any other person on whom rights or obligations are conferred by those paragraphs.
+**1.**[^c-416b0df065afbcfbce4366d250401917] The following provisions of this Schedule shall have effect, unless otherwise agreed in writing between Railtrack and the undertaker and, in the case of paragraphs 3 and 16 below, any other person on whom rights or obligations are conferred by those paragraphs.
 
-**2.** In this Schedule—
+**2.**[^c-ba91ea2a994e265dad6f6d7bfbfb08e6] In this Schedule—
 
 - “construction” includes execution, placing, alteration and reconstruction and “construct” and “constructed” have corresponding meanings;
 - “the engineer” means an engineer to be appointed by Railtrack for the purposes of this Order;
@@ -37,14 +41,14 @@ Article 64
 - “South West Trains” means South West Trains Limited or, with respect to Fareham Station, Portsmouth and Southsea Station or Portsmouth Harbour Station, its successors in title as lessees of that station;
 - “specified works” means so much of the authorised works as may be situated upon, across, under or over or within 15 metres of, or may in any way affect, railway property.
 
-**3.** In so far as the specified works or the acquisition or use of railway property are or may be subject to railway operational procedures, Railtrack and South West Trains shall—
+**3.**[^c-5796e51b2082a506f2e24fd5e91f9312] In so far as the specified works or the acquisition or use of railway property are or may be subject to railway operational procedures, Railtrack and South West Trains shall—
 
 - (a) co-operate with the undertaker with a view to avoiding undue delay and securing conformity as between any plans approved by the engineer and requirements emanating from those procedures; and
 - (b) use their reasonable endeavours to avoid any conflict arising between the application of those procedures and the proper implementation of the rapid transit system pursuant to the Order.
 
-**4.** The undertaker shall not under the powers of this Order acquire or use or acquire new rights over any railway property (other than the Gosport railway) except with the consent of Railtrack which subject to compliance with railway operational procedures, shall not be unreasonably withheld but may be given subject to reasonable conditions.
+**4.**[^c-f76aaaed1359515c3d4e7b07abeb4640] The undertaker shall not under the powers of this Order acquire or use or acquire new rights over any railway property (other than the Gosport railway) except with the consent of Railtrack which subject to compliance with railway operational procedures, shall not be unreasonably withheld but may be given subject to reasonable conditions.
 
-**5.** (1) The undertaker shall not exercise the powers of article 32 of this Order or the powers of section 11(3) of the 1965 Act in respect of any railway property except with the consent of Railtrack which consent, subject to compliance with railway operational procedures, shall not be unreasonably withheld but may be given subject to reasonable conditions.
+**5.**[^c-4b851c9e4115ea78e1707b7e74f85166] (1) The undertaker shall not exercise the powers of article 32 of this Order or the powers of section 11(3) of the 1965 Act in respect of any railway property except with the consent of Railtrack which consent, subject to compliance with railway operational procedures, shall not be unreasonably withheld but may be given subject to reasonable conditions.
 
 (2) Except with the consent of Railtrack the undertaker shall not in the exercise of the powers of this Order prevent pedestrian or vehicular access to railway property.
 
@@ -52,7 +56,7 @@ Article 64
 
 (4) The consent of Railtrack under sub-paragraphs (2) and (3) above shall not be unreasonably withheld but may be given subject to reasonable conditions.
 
-**6.** (1) For the purposes of this paragraph—
+**6.**[^c-5a2bad8938c325b650b04c6f8f40cbb5] (1) For the purposes of this paragraph—
 
 - “EMI” means, subject to sub-paragraph (2) below, electromagnetic interference with Railtrack’s apparatus generated by the operation of the undertaker’s apparatus where such interference is of a level which adversely affects the safe operation of Railtrack’s apparatus;
 - “the undertaker’s apparatus” means any electric lines, circuits, wires, apparatus, equipment, rolling stock and other works of any description owned or used (or intended to be used) by the undertaker for the purposes of operating the authorised transit system; and
@@ -89,7 +93,7 @@ Article 64
 
 (11) In relation to any dispute arising under this paragraph the reference in article 71 above to the Institution of Civil Engineers shall be read as a reference to the Institution of Electrical Engineers.
 
-**7.** (1) The undertaker shall, as soon as reasonably practicable following the decision to proceed with the construction of the authorised works, commission a study of the effects of the construction of Work No. 8A under the harbour for the purposes of, and in accordance with, the provisions of this paragraph.
+**7.**[^c-15932c62c3398669b7aeff6db9ac3f88] (1) The undertaker shall, as soon as reasonably practicable following the decision to proceed with the construction of the authorised works, commission a study of the effects of the construction of Work No. 8A under the harbour for the purposes of, and in accordance with, the provisions of this paragraph.
 
 (2) The study shall be carried out by an engineer approved by Railtrack and the undertaker or, in the absence of agreement, approved by the President for the time being of the Institution of Civil Engineers.
 
@@ -103,7 +107,7 @@ Article 64
 
 (7) Without prejudice to any other measures which may be required by the engineer under paragraph 9(1) below but subject to the requirement of reasonableness specified in that paragraph, any measures identified in the study as reasonably required in connection with the construction of Work No. 8 shall be treated as protective works which may be required by the engineer under that paragraph.
 
-**8.** (1) The undertaker shall before commencing construction of the specified works supply to Railtrack proper and sufficient plans for the reasonable approval of the engineer.
+**8.**[^c-dafa2724c6de841959dc6b31c95a5f97] (1) The undertaker shall before commencing construction of the specified works supply to Railtrack proper and sufficient plans for the reasonable approval of the engineer.
 
 (2) The plans shall provide in particular for—
 
@@ -118,7 +122,7 @@ Article 64
 
 (6) In the event of Railtrack not constructing or completing any part of the specified works pursuant to sub-paragraph (5) above with reasonable despatch and to the reasonable satisfaction of the undertaker in accordance with such programme as may be agreed with the undertaker or settled by arbitration, Railtrack shall pay compensation to the undertaker for any loss which it may thereby reasonably sustain.
 
-**9.** (1) Upon signifying his approval or disapproval of the plans the engineer may specify any protective works or other alterations or additions to railway property (whether temporary or permanent) which in his reasonable opinion should be carried out in consequence of the specified works, either before the commencement, during the construction or within 12 months of completion of the specified works, in order to ensure the safety or stability of railway property, the continued safe and efficient operation of railway property or the services of operators using the same (including any relocation of works, apparatus and equipment necessitated by the specified works).
+**9.**[^c-90e2421677b43fd905480c687c940d3e] (1) Upon signifying his approval or disapproval of the plans the engineer may specify any protective works or other alterations or additions to railway property (whether temporary or permanent) which in his reasonable opinion should be carried out in consequence of the specified works, either before the commencement, during the construction or within 12 months of completion of the specified works, in order to ensure the safety or stability of railway property, the continued safe and efficient operation of railway property or the services of operators using the same (including any relocation of works, apparatus and equipment necessitated by the specified works).
 
 (2) Subject to compliance where applicable with railway operational procedures all such works specified by the engineer under sub-paragraph (1) above as may be agreed by the undertaker or, failing agreement, settled by arbitration, shall be constructed by Railtrack or, if Railtrack so desires, by the undertaker with all reasonable despatch during the period agreed or settled for such works.
 
@@ -128,9 +132,9 @@ Article 64
 
 (5) If any other alterations, either permanent or temporary, to railway property are reasonably necessary during the construction of the specified works or during a period of 12 months after the completion thereof in consequence of the construction of the specified works, the engineer may give notice to the undertaker specifying the alterations or additions to be carried out and sub-paragraph (2) above shall apply to works specified under this sub-paragraph as it applies to works specified under sub-paragraph (1) above.
 
-**10.** The undertaker shall give to the engineer not less than 28 days' notice of its intention to commence the construction of any of the specified works and also, except in emergency (when it shall give such notice as may be reasonably practicable), of its intention to carry out any works for the alteration or reconstruction of the specified works in so far as such works of alteration or reconstruction affect or interfere with railway property.
+**10.**[^c-414d24cc587d755c809f45c79f64b48c] The undertaker shall give to the engineer not less than 28 days' notice of its intention to commence the construction of any of the specified works and also, except in emergency (when it shall give such notice as may be reasonably practicable), of its intention to carry out any works for the alteration or reconstruction of the specified works in so far as such works of alteration or reconstruction affect or interfere with railway property.
 
-**11.** The specified works shall, when commenced, be constructed—
+**11.**[^c-f7b67648c2d9543d3243eb32420649f4] The specified works shall, when commenced, be constructed—
 
 - (a) with all reasonable despatch in accordance with the plans approved or deemed to have been approved or settled in accordance with the requirements of this Schedule;
 - (b) under the supervision (where appropriate and if given) and to the reasonable satisfaction of the engineer;
@@ -139,18 +143,18 @@ Article 64
 
 and, if any damage to railway property is caused or takes place during and in consequence of the construction of the specified works, the undertaker shall, (so far as consistent with the plans as approved, deemed to have been approved or settled) make good such damage.
 
-**12.** The undertaker shall—
+**12.**[^c-483cc3d493490004122fb5ee9c2cd700] The undertaker shall—
 
 - (a) at all times afford reasonable facilities to the engineer for access to the specified works during their construction, and
 - (b) supply the engineer with all such information as he may reasonably require with regard to the specified works or the method of construction of the specified works.
 
-**13.** Railtrack shall at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Railtrack under this Schedule during their construction and shall supply the undertaker with such information as it may reasonably require with regard to such works or the method of construction of those works.
+**13.**[^c-281103d1ea62cf3fe8a490cf1091dcc9] Railtrack shall at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Railtrack under this Schedule during their construction and shall supply the undertaker with such information as it may reasonably require with regard to such works or the method of construction of those works.
 
-**14.** Before either Railtrack or the undertaker provide any new illumination or illuminated traffic sign at or in the vicinity of Fareham station, it shall consult the other and comply with any reasonable requirements of that other party made for the purpose of preventing confusion between such illumination or illuminated sign and any signal or other light used for controlling, directing or securing the safety of traffic on the railway or the authorised transit system as the case may be.
+**14.**[^c-04ef74e7e7342004bbd85a84f8cbaaed] Before either Railtrack or the undertaker provide any new illumination or illuminated traffic sign at or in the vicinity of Fareham station, it shall consult the other and comply with any reasonable requirements of that other party made for the purpose of preventing confusion between such illumination or illuminated sign and any signal or other light used for controlling, directing or securing the safety of traffic on the railway or the authorised transit system as the case may be.
 
-**15.** If at any time after completion of the specified works Railtrack gives notice to the undertaker that the state of maintenance of any part of the specified works not vested in Railtrack appears to be such as adversely affects the operation of railway property, the undertaker shall, on receipt of such notice, take such steps as may be reasonably necessary to put and keep that part of the specified works in such state of maintenance as shall not affect railway property adversely.
+**15.**[^c-b5106e67ee099beb9b6e3b9e198fbeeb] If at any time after completion of the specified works Railtrack gives notice to the undertaker that the state of maintenance of any part of the specified works not vested in Railtrack appears to be such as adversely affects the operation of railway property, the undertaker shall, on receipt of such notice, take such steps as may be reasonably necessary to put and keep that part of the specified works in such state of maintenance as shall not affect railway property adversely.
 
-**16.** (1) Subject to paragraph 19 below, the undertaker shall pay to Railtrack—
+**16.**[^c-2f94a85f6a2f22e9f8d2bc8632ba21f4] (1) Subject to paragraph 19 below, the undertaker shall pay to Railtrack—
 
 - (a) all reasonable costs, charges and expenses incurred by Railtrack and its engineer in considering proposals and giving approval to plans submitted under paragraphs 6 and 8 above (other than in respect of any arbitration), in supplying information under paragraph 19 below, in complying with railway operational procedures in connection with the specified works and, where appropriate, in supervising and monitoring the construction of the specified works;
 - (b) all reasonable costs, charges and expenses incurred by Railtrack in constructing any part of the specified works on behalf of the undertaker as provided by paragraph 8(5) above or in constructing any protective or other works under the provisions of paragraph 9 above;
@@ -170,17 +174,17 @@ and, if any damage to railway property is caused or takes place during and in co
 - (a) maintaining and renewing any protective works or other additions or alterations to railway property; and
 - (b) altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of the specified works.
 
-**17.** Railtrack shall, on receipt of a request of a receipt from the undertaker, from time to time provide the undertaker free of charge with written estimates of its costs, charges, expenses and other liabilities for which the undertaker is or will become liable under paragraph 16 above and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made pursuant to that paragraph.
+**17.**[^c-a8c1aecbb1e3972ec3fdb90d80750174] Railtrack shall, on receipt of a request of a receipt from the undertaker, from time to time provide the undertaker free of charge with written estimates of its costs, charges, expenses and other liabilities for which the undertaker is or will become liable under paragraph 16 above and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made pursuant to that paragraph.
 
-**18.** The undertaker shall indemnify Railtrack from and against all claims and demands arising out of or in connection with the specified works and the fact that any act or thing may have been done by Railtrack on behalf of the undertaker or in accordance with plans approved by the engineer or in accordance with any requirement of the engineer or under his supervision shall not (if it was done without negligence on the part of Railtrack or of any person in its employ or of its contractors or agents) excuse the undertaker from any liability under the provisions of this paragraph.
+**18.**[^c-a3280f48b286e668af0861ad04c8ca9f] The undertaker shall indemnify Railtrack from and against all claims and demands arising out of or in connection with the specified works and the fact that any act or thing may have been done by Railtrack on behalf of the undertaker or in accordance with plans approved by the engineer or in accordance with any requirement of the engineer or under his supervision shall not (if it was done without negligence on the part of Railtrack or of any person in its employ or of its contractors or agents) excuse the undertaker from any liability under the provisions of this paragraph.
 
-**19.** Railtrack shall give to the undertaker reasonable notice of any claim or demand of the type mentioned in paragraph 18 and no settlement or compromise of any such claim or demand shall be made without the prior consent of the undertaker who, if it withholds such consent, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
+**19.**[^c-41ad21fad59cc4fd4c98ce8027a4272f] Railtrack shall give to the undertaker reasonable notice of any claim or demand of the type mentioned in paragraph 18 and no settlement or compromise of any such claim or demand shall be made without the prior consent of the undertaker who, if it withholds such consent, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-**20.** In the assessment of any sums payable to Railtrack under this Schedule there shall not be taken into account any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Railtrack if that action or agreement was not reasonably necessary or was taken or entered into with a view to obtaining payment of those sums or increasing the sums so payable.
+**20.**[^c-9760864ea01f209e167d28497b900a3b] In the assessment of any sums payable to Railtrack under this Schedule there shall not be taken into account any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Railtrack if that action or agreement was not reasonably necessary or was taken or entered into with a view to obtaining payment of those sums or increasing the sums so payable.
 
-**21.** Nothing in this Schedule shall impose any liability on the undertaker with respect to any damage, cost, expense or loss which is attributable to the negligence of Railtrack or of any person in its employ or its contractors or agents.
+**21.**[^c-5f8f138e4a2a078ef6c92b5abe56dae2] Nothing in this Schedule shall impose any liability on the undertaker with respect to any damage, cost, expense or loss which is attributable to the negligence of Railtrack or of any person in its employ or its contractors or agents.
 
-**22.** If the cost to Railtrack of maintaining, working or removing railway property is reduced in consequence of anything done under or pursuant to this Schedule, a capitalised sum representing such saving shall be set off against any sum payable by the undertaker to Railtrack under paragraph 16(6) above.
+**22.**[^c-deda61c541105d94a70c6c4c1ce375b1] If the cost to Railtrack of maintaining, working or removing railway property is reduced in consequence of anything done under or pursuant to this Schedule, a capitalised sum representing such saving shall be set off against any sum payable by the undertaker to Railtrack under paragraph 16(6) above.
 
 - This note is not part of the OrderThis Order authorises Hampshire County Council and Portsmouth City Council, acting jointly, to construct and operate a rapid transit system between Fareham, Gosport and Portsmouth (including a tunnel under Portsmouth harbour) and, for that purpose compulsorily or by agreement to acquire land and rights in land. It contains a number of protective provisions for the benefit of affected undertakings.
 - Copies of the works plans, the sections, the land plans and the book of reference are available for public inspection free of charge during working hours at—
@@ -189,4 +193,48 @@ and, if any damage to railway property is caused or takes place during and in co
 
 ## Annotations
 
+[^c-416b0df065afbcfbce4366d250401917]: Commencement: Sch. 12 para. 1 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-ba91ea2a994e265dad6f6d7bfbfb08e6]: Commencement: Sch. 12 para. 2 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
 [^f00049]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^c-5796e51b2082a506f2e24fd5e91f9312]: Commencement: Sch. 12 para. 3 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-f76aaaed1359515c3d4e7b07abeb4640]: Commencement: Sch. 12 para. 4 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-4b851c9e4115ea78e1707b7e74f85166]: Commencement: Sch. 12 para. 5 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-5a2bad8938c325b650b04c6f8f40cbb5]: Commencement: Sch. 12 para. 6 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-15932c62c3398669b7aeff6db9ac3f88]: Commencement: Sch. 12 para. 7 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-dafa2724c6de841959dc6b31c95a5f97]: Commencement: Sch. 12 para. 8 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-90e2421677b43fd905480c687c940d3e]: Commencement: Sch. 12 para. 9 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-414d24cc587d755c809f45c79f64b48c]: Commencement: Sch. 12 para. 10 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-f7b67648c2d9543d3243eb32420649f4]: Commencement: Sch. 12 para. 11 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-483cc3d493490004122fb5ee9c2cd700]: Commencement: Sch. 12 para. 12 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-281103d1ea62cf3fe8a490cf1091dcc9]: Commencement: Sch. 12 para. 13 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-04ef74e7e7342004bbd85a84f8cbaaed]: Commencement: Sch. 12 para. 14 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-b5106e67ee099beb9b6e3b9e198fbeeb]: Commencement: Sch. 12 para. 15 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-2f94a85f6a2f22e9f8d2bc8632ba21f4]: Commencement: Sch. 12 para. 16 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-a8c1aecbb1e3972ec3fdb90d80750174]: Commencement: Sch. 12 para. 17 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-a3280f48b286e668af0861ad04c8ca9f]: Commencement: Sch. 12 para. 18 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-41ad21fad59cc4fd4c98ce8027a4272f]: Commencement: Sch. 12 para. 19 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-9760864ea01f209e167d28497b900a3b]: Commencement: Sch. 12 para. 20 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-5f8f138e4a2a078ef6c92b5abe56dae2]: Commencement: Sch. 12 para. 21 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)
+
+[^c-deda61c541105d94a70c6c4c1ce375b1]: Commencement: Sch. 12 para. 22 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

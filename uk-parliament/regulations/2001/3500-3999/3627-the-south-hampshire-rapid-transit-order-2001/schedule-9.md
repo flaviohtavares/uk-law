@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 9
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-9
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/9
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 9
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN
+## SCHEDULE 9 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-4cc0e8dc728d511972a525c26802373e]
+
+*Extent: E+W+S*
 
 Article 41
 
@@ -42,3 +46,7 @@ Article 41
 <tr><td>City of Portsmouth</td><td>15/15 to 15/18 inclusive: Area of land south of HMS Warrior Jetty</td><td>Contractor’s temporary works area</td><td>Work Nos. 8, 8A, 8B and 8C</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-4cc0e8dc728d511972a525c26802373e]: Commencement: Sch. 9 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

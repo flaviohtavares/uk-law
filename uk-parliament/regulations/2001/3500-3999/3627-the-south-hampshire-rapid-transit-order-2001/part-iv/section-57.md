@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 57
 act: The South Hampshire Rapid Transit Order 2001
 section: '57'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 57
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 57. Power to make byelaws
+## 57. Power to make byelaws[^c-ad5b0abfdecd1b12c433309b5b0a1209]
+
+*Extent: E+W+S*
 
 (1) The undertaker may make byelaws regulating the use and operation of, and travel on, the authorised transit system, the maintenance of order on the authorised transit system and on transit system premises or other facilities provided in connection with the authorised transit system and the conduct of all persons, including employees of the undertaker, while on the authorised transit system or on transit system premises.
 
@@ -56,3 +60,7 @@ summary: ''
 - (d) the date when the byelaws came into operation,
 
 shall be prima facie evidence of the facts stated in the certificate.
+
+## Annotations
+
+[^c-ad5b0abfdecd1b12c433309b5b0a1209]: Commencement: Art. 57 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

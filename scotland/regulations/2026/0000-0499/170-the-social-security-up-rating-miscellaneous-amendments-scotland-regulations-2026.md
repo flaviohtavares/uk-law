@@ -340,8 +340,6 @@ These Regulations provide for an increase in various values and amounts of forms
 
 The Regulations come into force on 1 April 2026 with the exception of regulation 12(2) and (3) which comes into force on 5 April 2026, and regulations 2, 9, 10, 13, 14 and 16(2) which come into force on 6 April 2026.
 
-The Regulations come into force on 1 April 2026 with the exception of regulation 12(2) and (3) which comes into force on 5 April 2026, and regulations 2, 9, 10, 13, 14 and 16(2) which come into force on 6 April 2026.
-
 Regulation 2 amends regulation 8(1) of the Social Security (Invalid Care Allowance) Regulations 1976 so that the value of earnings at which a person shall be treated as gainfully employed is increased.
 
 Regulation 12(2) amends regulation 14(1) of the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 so that the value of the earnings limit (in any award week) for entitlement to carer support payment is increased.

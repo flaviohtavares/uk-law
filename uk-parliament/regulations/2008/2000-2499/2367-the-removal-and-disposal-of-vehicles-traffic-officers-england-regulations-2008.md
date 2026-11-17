@@ -3,15 +3,15 @@ title: The Removal and Disposal of Vehicles (Traffic Officers) (England) Regulat
 id: uksi/2008/2367
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-04'
-text_date: null
-extent: null
+text_date: '2008-10-01'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/2367
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2367/pdfs/uksiem_20082367_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2367/pdfs/uksi_20082367_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2367/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2367/data.pdf
 pending_changes: 22
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Removal and Disposal of Vehicles (Traffic Officers) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (22).** Text as at 2008-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2367
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 2367
 
@@ -46,13 +50,13 @@ In accordance with section 134(2) of the 1984 Act she has consulted with such re
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and extent
+### 1. Citation, commencement and extent[^c-4d96a4ea6d7fcd2d9c4e6d101adcde7e]
 
 (1) These Regulations may be cited as the Removal and Disposal of Vehicles (Traffic Officers) (England) Regulations 2008 and shall come into force on 1st October 2008.
 
 (2) These Regulations apply as respects England only.
 
-### 2. Interpretation
+### 2. Interpretation[^c-7e3c0a285f8c8b5ef021492567e19bb7]
 
 (1) In these Regulations—
 
@@ -70,7 +74,7 @@ In accordance with section 134(2) of the 1984 Act she has consulted with such re
 
 ## PART 2 — REMOVAL OF VEHICLES
 
-### 3. Power of traffic officer to require removal of vehicles from relevant roads
+### 3. Power of traffic officer to require removal of vehicles from relevant roads[^c-e39a7d7b4b7fcba908a79646095d76ca]
 
 (1) This regulation applies to a vehicle which—
 
@@ -86,7 +90,7 @@ In accordance with section 134(2) of the 1984 Act she has consulted with such re
 
 (4) A person required to remove a vehicle, or to have it removed, under this regulation shall comply as soon as practicable.
 
-### 4. Power of traffic officer to remove vehicles from relevant roads
+### 4. Power of traffic officer to remove vehicles from relevant roads[^c-4f88b639cd858db1765921bd4c5abf0f]
 
 (1) This regulation applies to a vehicle which—
 
@@ -98,7 +102,7 @@ In accordance with section 134(2) of the 1984 Act she has consulted with such re
 
 (3) In exercising this power he may move it, or arrange for it to be moved, to another position on any road or to any other place.
 
-### 5. Power of traffic officer to require removal of vehicles from roads other than relevant roads
+### 5. Power of traffic officer to require removal of vehicles from roads other than relevant roads[^c-a54f6885a15fdc00d12e25d796c5d28a]
 
 (1) This regulation applies to a vehicle which—
 
@@ -114,7 +118,7 @@ In accordance with section 134(2) of the 1984 Act she has consulted with such re
 
 (4) A person required to remove a vehicle, or to have it removed, under this regulation shall comply as soon as practicable.
 
-### 6. Power of traffic officer to remove vehicles from roads other than relevant roads
+### 6. Power of traffic officer to remove vehicles from roads other than relevant roads[^c-b2e94cd0eeefb53dca82c56956bed44e]
 
 (1) This regulation applies to a vehicle which—
 
@@ -126,7 +130,7 @@ In accordance with section 134(2) of the 1984 Act she has consulted with such re
 
 (3) In exercising this power he may move it, or arrange for it to be moved, to another position on any road or to any other place.
 
-### 7. Restriction on the exercise of powers in regulations 5 and 6
+### 7. Restriction on the exercise of powers in regulations 5 and 6[^c-e430a800c2b450b11e8848eb21089f99]
 
 (1) The exercise of the powers contained in regulations 5(2) and 6(2) are subject to the following restrictions.
 
@@ -142,11 +146,11 @@ or for a purpose incidental to either of those purposes.
 - (a) at the direction of the chief officer of police for the area in which the road, from which the vehicle is to be removed, is situated; or
 - (b) with the consent of the traffic authority for that road.
 
-### 8. Removing abandoned vehicles from land adjoining a relevant road
+### 8. Removing abandoned vehicles from land adjoining a relevant road[^c-f0b585fd0cf792734a1e7194f037a4c7]
 
 Where a vehicle has been permitted to remain at rest on any land in the open air, which is adjacent to a relevant road, in such a position or in such condition or in such circumstances as to appear to a traffic officer in uniform to have been abandoned without lawful authority, a traffic officer in uniform may, subject to sections 99 and 100, remove it or arrange for its removal.
 
-### 9. Manner of giving notice to occupier of land before removing a vehicle
+### 9. Manner of giving notice to occupier of land before removing a vehicle[^c-11261d1037d336840e83486cd2c9f898]
 
 (1) Any notice given by a traffic officer for the purposes of section 99(3) shall be in, or to the like effect as, the form in Schedule 2.
 
@@ -171,7 +175,7 @@ the notice may be affixed to an object on the land.
 
 (5) Any envelope containing the notice shall be clearly and legibly marked with the words “IMPORTANT - This communication affects your property”.
 
-### 10. Manner and period during which occupier of land may object
+### 10. Manner and period during which occupier of land may object[^c-b15075544f86e8d1332538d34abc9639]
 
 (1) For the purpose of section 99(3), where a notice is given in accordance with regulation 9, the occupier of the land may object, in the manner set out in paragraph (2), to the removal of the vehicle.
 
@@ -183,7 +187,7 @@ the notice may be affixed to an object on the land.
 
 (3) The period within which the occupier may object shall be 15 days beginning with the day on which the notice is given.
 
-### 11. Method of removing vehicles
+### 11. Method of removing vehicles[^c-28428920da5828f751f5027d680516b0]
 
 (1) A person who removes or moves a vehicle under regulation 3, 4, 5, 6 or 8 may do so by towing or driving the vehicle or in such other manner as he may think necessary and may take such measures in relation to the vehicle as he may think necessary to enable him to remove or move it.
 
@@ -193,7 +197,7 @@ the notice may be affixed to an object on the land.
 
 ## PART 3 — DISPOSAL OF ABANDONED VEHICLES
 
-### 12. Interpretation of Part 3
+### 12. Interpretation of Part 3[^c-54a7056b65468787c88303db5c8285fd]
 
 In this Part—
 
@@ -204,7 +208,7 @@ In this Part—
   - (a) in the case of a vehicle which carries a GB registration mark, or a mark indicating registration in a country outside Great Britain, particulars of such mark; and
   - (b) the make of the vehicle.
 
-### 13. Amendment of the Road Traffic Regulation Act 1984
+### 13. Amendment of the Road Traffic Regulation Act 1984[^c-16e7c4ea2c804726575c0554daf312bf]
 
 (1) The Road Traffic Regulation Act 1984 Act is amended as follows in its application as respects England.
 
@@ -266,7 +270,7 @@ In this Part—
 
     .
 
-### 14. Steps to be taken to find the owners of certain vehicles
+### 14. Steps to be taken to find the owners of certain vehicles[^c-606b9a181df6d1d328436afad9126156]
 
 (1) For the purpose of section 101(3)(c), the steps to be taken by the Secretary of State to find a person appearing to be the owner of a vehicle shall be the steps set out in paragraphs (2) to (6) that are applicable to the vehicle.
 
@@ -296,7 +300,7 @@ and shall ask whether they can make enquiries to find the owner of the vehicle.
 
 (6) Where the vehicle does not carry a GB registration mark or any other registration mark, the Secretary of State shall give the specified information and a description of the place of abandonment to the chief officer of the police force in whose area the vehicle appeared to have been abandoned and ask whether that officer has any information as to the owner’s identity.
 
-### 15. Notice to owner requiring removal of vehicle
+### 15. Notice to owner requiring removal of vehicle[^c-987e45b6925b2c7ea399fa82ce330f1d]
 
 (1) The Secretary of State shall, where the name and address of a person appearing to be the owner of a vehicle has been found, send him a notice—
 
@@ -314,11 +318,11 @@ and shall ask whether they can make enquiries to find the owner of the vehicle.
 
 (3) Where the person who appears to be the owner is a body corporate, the notice shall be served by delivering it, or sending it by prepaid registered or recorded delivery post, to its registered or principal office.
 
-### 16. Period during which owner may remove vehicle before it can be disposed of
+### 16. Period during which owner may remove vehicle before it can be disposed of[^c-bacb37c28ac3758c6ff309cff2076a84]
 
 For the purpose of section 101(3)(c)(ii), the period, during which a person on whom the notice referred to in regulation 15 has been served shall be required to remove the vehicle from the Secretary of State’s custody, is 7 days beginning with the day on which the notice is served.
 
-### 17. Information to be given relating to the disposal of a vehicle
+### 17. Information to be given relating to the disposal of a vehicle[^c-c1f845c76750d2280a396f40017d2e28]
 
 (1) For the purpose of section 101(7), after a vehicle has been disposed of, the Secretary of State shall give information relating to the disposal as follows.
 
@@ -344,7 +348,7 @@ For the purpose of section 101(3)(c)(ii), the period, during which a person on w
 - (b) such of the specified information as has not been previously given to the same person in respect of the removal, storage or disposal of the vehicle; and
 - (c) information as to whether the vehicle was disposed of by destruction or by sale and if by sale, the sum realised.
 
-### 18. Period during which owner may remove vehicle before it is disposed of
+### 18. Period during which owner may remove vehicle before it is disposed of[^c-92d1da8fa90d0015950ef39f0b6a3851]
 
 For the purpose of section 101A, where a person—
 
@@ -367,9 +371,9 @@ Department for Transport
 
 Regulations 3 and 5
 
-**1.** Section 36 of the Road Traffic Act 1988[^f00005] (drivers to comply with traffic signs).
+**1.**[^c-f96f787faf911d68432ab89964bfe60d] Section 36 of the Road Traffic Act 1988[^f00005] (drivers to comply with traffic signs).
 
-**2.** The following sections of the Road Traffic Regulation Act 1984[^f00006]:
+**2.**[^c-16b62ac7ec0469d47df875056b6dda98] The following sections of the Road Traffic Regulation Act 1984[^f00006]:
 
 (1) Section 1[^f00007] (traffic regulation orders outside Greater London).
 
@@ -389,9 +393,9 @@ Regulations 3 and 5
 
 (9) Section 67[^f00014] (emergencies and temporary obstructions).
 
-**3.** Any enactment contained in any local Act for the time being in force and any byelaw having effect under any enactment for the time being in force, being an enactment or byelaw imposing or authorising the imposition of a prohibition or restriction similar to any prohibition or restriction which is or can be imposed by or under any of the enactments referred to in paragraphs 1 and 2.
+**3.**[^c-091b7b16f7b549f0e6abc806a7e227d2] Any enactment contained in any local Act for the time being in force and any byelaw having effect under any enactment for the time being in force, being an enactment or byelaw imposing or authorising the imposition of a prohibition or restriction similar to any prohibition or restriction which is or can be imposed by or under any of the enactments referred to in paragraphs 1 and 2.
 
-## SCHEDULE 2 — FORM OF NOTICE
+## SCHEDULE 2 — FORM OF NOTICE[^c-82b534709a0f1fa21825043900f78884]
 
 Regulation 9
 
@@ -433,11 +437,51 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18).
 
+[^c-4d96a4ea6d7fcd2d9c4e6d101adcde7e]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-7e3c0a285f8c8b5ef021492567e19bb7]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-e39a7d7b4b7fcba908a79646095d76ca]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-4f88b639cd858db1765921bd4c5abf0f]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-a54f6885a15fdc00d12e25d796c5d28a]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-b2e94cd0eeefb53dca82c56956bed44e]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-e430a800c2b450b11e8848eb21089f99]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-f0b585fd0cf792734a1e7194f037a4c7]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-11261d1037d336840e83486cd2c9f898]: Commencement: Reg. 9 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-b15075544f86e8d1332538d34abc9639]: Commencement: Reg. 10 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-28428920da5828f751f5027d680516b0]: Commencement: Reg. 11 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-54a7056b65468787c88303db5c8285fd]: Commencement: Reg. 12 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
 [^f00003]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00004]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
 
+[^c-16e7c4ea2c804726575c0554daf312bf]: Commencement: Reg. 13 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-606b9a181df6d1d328436afad9126156]: Commencement: Reg. 14 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-987e45b6925b2c7ea399fa82ce330f1d]: Commencement: Reg. 15 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-bacb37c28ac3758c6ff309cff2076a84]: Commencement: Reg. 16 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-c1f845c76750d2280a396f40017d2e28]: Commencement: Reg. 17 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-92d1da8fa90d0015950ef39f0b6a3851]: Commencement: Reg. 18 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-f96f787faf911d68432ab89964bfe60d]: Commencement: Sch. 1 para. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
 [^f00005]: Footnote: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52). Section 36(5) was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971). Further amendment was made relating to the exercise of power under section 36(5) by [S.I. 1999/3143](https://www.legislation.gov.uk/uksi/1999/3143).
+
+[^c-16b62ac7ec0469d47df875056b6dda98]: Commencement: Sch. 1 para. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
 
 [^f00006]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27).
 
@@ -456,3 +500,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 [^f00013]: Footnote: Section 66(1) was amended by the New Road and Street Works Act 1991, Schedule 8, paragraph 49 and by the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54), Schedule 3, paragraph 25(4);
 
 [^f00014]: Footnote: Section 67(1) was amended by the New Road and Street Works Act 1991, Schedule 8, paragraph 50; subsection (1A) was inserted by the Civil Contingencies Act [2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36), section 32(1), Schedule 2, paragraph 16(1) and (3); subsection (2) was amended by the Road Traffic (Consequential Provisions) Act 1988, Schedule 3, paragraph 25(5).
+
+[^c-091b7b16f7b549f0e6abc806a7e227d2]: Commencement: Sch. 1 para. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)
+
+[^c-82b534709a0f1fa21825043900f78884]: Commencement: Sch. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/1/1)

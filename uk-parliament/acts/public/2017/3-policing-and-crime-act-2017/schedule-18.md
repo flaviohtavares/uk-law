@@ -3,7 +3,7 @@ title: Policing and Crime Act 2017, SCHEDULE 18
 act: Policing and Crime Act 2017
 section: schedule-18
 status: revised-with-pending-changes
-text_date: '2026-06-29'
+text_date: '2026-11-16'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2017/3/schedule/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Policing and Crime Act 2017, SCHEDULE 18
 
-> **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-11-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
 > Extent: England, Wales.
 

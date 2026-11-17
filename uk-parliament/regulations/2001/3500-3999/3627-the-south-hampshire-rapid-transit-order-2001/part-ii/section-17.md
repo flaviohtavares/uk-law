@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 17
 act: The South Hampshire Rapid Transit Order 2001
 section: '17'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/17
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 17
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 17. Agreements with street authorities
+## 17. Agreements with street authorities[^c-3a85a07ae4c489c205d33881d46c8ced]
+
+*Extent: E+W+S*
 
 (1) A street authority and the undertaker may enter into agreements with respect to—
 
@@ -27,3 +31,7 @@ summary: ''
 
 - (a) provide for the street authority to carry out any function under this Order which relates to the street in question; and
 - (b) contain such terms as to payment and otherwise as the parties consider appropriate.
+
+## Annotations
+
+[^c-3a85a07ae4c489c205d33881d46c8ced]: Commencement: Art. 17 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

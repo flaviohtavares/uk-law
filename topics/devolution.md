@@ -397,7 +397,7 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 - [The Scotland Act 1998 (Modifications of Schedule 5) Order 2002](../uk-parliament/regulations/2002/1500-1999/1629-the-scotland-act-1998-modifications-of-schedule-5-order-2002.md) *(as originally made)*
 - [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2002](../uk-parliament/regulations/2002/1500-1999/1630-the-scotland-act-1998-transfer-of-functions-to-the-scottish-ministers-etc-order.md) *(as originally made)*
 - [The Scottish Administration (Offices) Order 2002](../uk-parliament/regulations/2002/0500-0999/801-the-scottish-administration-offices-order-2002.md) *(as originally made)*
-- [The Scottish Parliament (Elections etc.) Order 2002](../uk-parliament/regulations/2002/2500-2999/2779-the-scottish-parliament-elections-etc-order-2002/README.md) *(changes pending)*
+- [The Scottish Parliament (Elections etc.) Order 2002](../uk-parliament/regulations/2002/2500-2999/2779-the-scottish-parliament-elections-etc-order-2002/README.md) *(as originally made)*
 - [The Water Industry (Scotland) Act 2002 (Directions in the Interests of National Security) Order 2002](../uk-parliament/regulations/2002/1000-1499/1264-the-water-industry-scotland-act-2002-directions-in-the-interests-of-national-sec.md) *(as originally made)*
 
 **2001**

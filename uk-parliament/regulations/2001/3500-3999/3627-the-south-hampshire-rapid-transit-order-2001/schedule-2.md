@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, SCHEDULE 2
 act: The South Hampshire Rapid Transit Order 2001
 section: schedule-2
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, SCHEDULE 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — ACQUISITION OF CERTAIN LAND
+## SCHEDULE 2 — ACQUISITION OF CERTAIN LAND[^c-db69df6f97dcabfc3c538091ff40fff4]
+
+*Extent: E+W+S*
 
 Articles 5 and 35
 
@@ -75,3 +79,7 @@ Articles 5 and 35
 <tr><td></td><td>16/1: Land on north side of Queen Street east of York Place and west of HMS Nelson</td><td>Location for substation and contractors' work site</td></tr>
 </tbody>
 </table>
+
+## Annotations
+
+[^c-db69df6f97dcabfc3c538091ff40fff4]: Commencement: Sch. 2 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

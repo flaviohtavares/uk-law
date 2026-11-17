@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 26
 act: The Council Tax Benefit (General) Regulations 1992
 section: '26'
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 26
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -42,8 +42,8 @@ the appropriate authority shall treat the claimant as possessing such earnings (
 
 (7) Where a claimant is treated as possessing any earnings under paragraph (5), the foregoing provisions of this Part shall apply for the purposes of calculating the amount of those earnings as if a payment had actually been made and as if they were actual earnings which he does possess except that paragraph (3) of regulation 20 (calculation of net earnings of employed earners) shall not apply and his net earnings shall be calculated by taking into account those earnings which he is treated as possessing, less—
 
-- (a) an amount in respect of income tax equivalent to an amount calculated by applying to those earnings the lower rate or, as the case may be, the lower rate and the basic rate of tax[^c-c7efbf36c9df0d896100acba259a4fa0] in the year of assessment in which the claim was made less only the personal relief to which the claimant is entitled under sections 257(1), (6) and (7) and 259(1)(a) and (2) of the Income and Corporation Taxes Act 1988 (personal relief) as is appropriate to his circumstances; but, if the assessment period is less than a year , the earnings to which the lower rate and, if appropriate, the basic rate of tax is to be applied and[^c-de9292a46183b301fbb51ae99d6d13c0] the amount of the personal relief deductible under this sub-paragraph shall be calculated on a prorata basis;
-- (b) an amount in respect of primary Class 1 contributions payable under the Contributions and Benefits Act 1992 in respect of those earnings; and
+- (a) an amount in respect of income tax equivalent to an amount calculated by applying to those earnings the lower rate or, as the case may be, the lower rate and the basic rate of tax[^c-c7efbf36c9df0d896100acba259a4fa0] in the year of assessment in which the claim was made less only the personal relief to which the claimant is entitled under sections 257(1), (6) and (7) and 259(1)(a) and (2) of the Income and Corporation Taxes Act 1988 (personal relief) as is appropriate to his circumstances; but, if the assessment period is less than a year , the earnings to which the lower rate[^c-de9292a46183b301fbb51ae99d6d13c0] [^c-1a4f9b03bd4cd4406c88d711a5ea255d]... of tax is to be applied and the amount of the personal relief deductible under this sub-paragraph shall be calculated on a prorata basis;
+- (b)[^c-f097eeab4914a52c1795804ee0eda3cd] an amount equivalent to the amount of the primary Class 1 contributions that would be payable by him under the Contributions and Benefits Act 1992 in respect of those earnings if such contributions were payable; and
 - (c) one-half of any sum payable by the claimant by way of a contribution towards an occupational or personal pension scheme.
 
 (8) In paragraph (3), the expression “ordinary clothing or footwear” means clothing or footwear for normal daily use, but does not include school uniforms, or clothing or footwear used solely for sporting activities.
@@ -61,3 +61,7 @@ the appropriate authority shall treat the claimant as possessing such earnings (
 [^c-c7efbf36c9df0d896100acba259a4fa0]: Textual amendment: Words in [reg. 26(7)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/7/a) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/1993/688/regulation/8/b/i)
 
 [^c-de9292a46183b301fbb51ae99d6d13c0]: Textual amendment: Words in [reg. 26(7)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/7/a) inserted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/1993/688/regulation/8/b/ii)
+
+[^c-1a4f9b03bd4cd4406c88d711a5ea255d]: Textual amendment: Words in [reg. 26(7)(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/7/a) omitted (3.10.1994) by virtue of [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/1994/2137/regulation/18)
+
+[^c-f097eeab4914a52c1795804ee0eda3cd]: Textual amendment: [Reg. 26(7)(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/26/7/b) substituted (1.4.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/578)](https://www.legislation.gov.uk/uksi/1994/578), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1994/578/regulation/1/1/a), [20](https://www.legislation.gov.uk/uksi/1994/578/regulation/20)

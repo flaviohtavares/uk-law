@@ -2,9 +2,9 @@
 title: The South Hampshire Rapid Transit Order 2001, section 44
 act: The South Hampshire Rapid Transit Order 2001
 section: '44'
-status: as-enacted
-text_date: null
-extent: null
+status: revised-with-pending-changes
+text_date: '2001-07-24'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2001/3627/section/44
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,13 @@ summary: ''
 
 # The South Hampshire Rapid Transit Order 2001, section 44
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2001-07-24. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3627
+>
+> Extent: England, Wales, Scotland.
 
-## 44. Acquisition of part of certain properties
+## 44. Acquisition of part of certain properties[^c-17501962225bf88326c150601df3a090]
+
+*Extent: E+W+S*
 
 (1) This article shall apply instead of section 8(1) of the 1965 Act (as applied by article 36 above) in any case where—
 
@@ -58,3 +62,7 @@ the notice to treat shall be deemed to be a notice to treat for the land subject
 (9) In any case where by virtue of a determination by the tribunal under this article a notice to treat is deemed to be a notice to treat for less land or more land than that specified in the notice, the undertaker may, within the period of 6 weeks beginning with the day on which the determination is made, withdraw the notice to treat; and if it does so shall pay to the owner compensation for any loss or expense occasioned to him by the giving and withdrawal of the notice, to be determined in case of dispute by the tribunal.
 
 (10) Where the owner is required under this article to sell only part of a house, building or factory or of land consisting of a house with a park or garden, the undertaker shall pay him compensation for any loss sustained by him due to the severance of that part in addition to the value of the interest acquired.
+
+## Annotations
+
+[^c-17501962225bf88326c150601df3a090]: Commencement: Art. 44 in force at 24.7.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3627/article/1)

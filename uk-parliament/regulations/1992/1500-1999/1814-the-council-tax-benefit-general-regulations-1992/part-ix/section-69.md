@@ -3,7 +3,7 @@ title: The Council Tax Benefit (General) Regulations 1992, section 69
 act: The Council Tax Benefit (General) Regulations 1992
 section: '69'
 status: revised-with-pending-changes
-text_date: '1993-10-04'
+text_date: '1994-12-02'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/1992/1814/section/69
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Council Tax Benefit (General) Regulations 1992, section 69
 
-> **Warning: changes not yet applied to this text (2043).** Text as at 1993-10-04. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
+> **Warning: changes not yet applied to this text (1903).** Text as at 1994-12-02. See https://www.legislation.gov.uk/changes/affected/uksi/1992/1814
 >
 > Extent: England, Wales, Scotland.
 
@@ -28,7 +28,7 @@ summary: ''
 
 (1A)[^c-2f667b9d6642980e3b44b0d963650f89] In paragraph (1)(c) the expression “a mistake as to the law” shall not include any question as to whether, in making any provision in a regulation or Order, the Secretary of State went beyond the powers exercisable by him.
 
-(2) Notwithstanding paragraph (1), except in the case of a question to which paragraph (1A) refers,[^c-5b8a7abea50d20f88137c20d2073f6ff] if a person makes written representations to an authority concerning a determination which it makes in relation to him within 6 weeks of the date of notification to him of the determination, the authority shall review the determination in the light of those representations within 14 days of receiving the representations or as soon as reasonably practicable thereafter.
+(2) Notwithstanding paragraph (1), except in the case of a question to which paragraph (1A) refers,[^c-5b8a7abea50d20f88137c20d2073f6ff] if a person affected[^c-4eb17a5aa46e4934b39daeef147ee2cf] makes written representations to an authority concerning a determination which it makes in relation to him within 6 weeks of the date of notification to him of the determination, the authority shall review the determination in the light of those representations within 14 days of receiving the representations or as soon as reasonably practicable thereafter.
 
 (3) Subject to paragraph (5), where a determination is revised on review, the determination as revised shall have effect—
 
@@ -56,3 +56,5 @@ summary: ''
 [^c-2f667b9d6642980e3b44b0d963650f89]: Textual amendment: [Reg. 69(1A)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/69/1A) inserted (25.5.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 2) Regulations 1993 (S.I. 1993/1150)](https://www.legislation.gov.uk/uksi/1993/1150), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1150/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/1993/1150/regulation/5/2/b//made)
 
 [^c-5b8a7abea50d20f88137c20d2073f6ff]: Textual amendment: Words in [reg. 69(2)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/69/2) inserted (25.5.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 2) Regulations 1993 (S.I. 1993/1150)](https://www.legislation.gov.uk/uksi/1993/1150), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1150/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/1993/1150/regulation/5/2/c/made)
+
+[^c-4eb17a5aa46e4934b39daeef147ee2cf]: Textual amendment: Word in [reg. 69(2)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/69/2) inserted (3.10.1994) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No. 2) Regulations 1994 (S.I. 1994/2137)](https://www.legislation.gov.uk/uksi/1994/2137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2137/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/1994/2137/regulation/23)

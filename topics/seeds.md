@@ -293,15 +293,15 @@ Acts and Orders in Council with this heading, or under which most of the regulat
 
 **1996**
 
-- [Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/311-fodder-plant-seeds-amendment-regulations-northern-ireland-1996.md) *(as originally made)*
-- [Oil and Fibre Plant Seeds (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/312-oil-and-fibre-plant-seeds-amendment-regulations-northern-ireland-1996.md) *(as originally made)*
+- [Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/311-fodder-plant-seeds-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
+- [Oil and Fibre Plant Seeds (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/312-oil-and-fibre-plant-seeds-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
 - [Seed Potatoes (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/242-seed-potatoes-amendment-regulations-northern-ireland-1996.md) *(as originally made)*
 - [Seeds (Fees) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/409-seeds-fees-regulations-northern-ireland-1996.md) *(as originally made)*
 - [The Fodder Plant Seeds (Amendment) Regulations 1996](../uk-parliament/regulations/1996/1000-1499/1453-the-fodder-plant-seeds-amendment-regulations-1996.md) *(as originally made)*
 - [The Oil and Fibre Plant Seeds (Amendment) Regulations 1996](../uk-parliament/regulations/1996/1000-1499/1451-the-oil-and-fibre-plant-seeds-amendment-regulations-1996.md) *(as originally made)*
 - [The Seeds (Fees) (Amendment) Regulations 1996](../uk-parliament/regulations/1996/1000-1499/1486-the-seeds-fees-amendment-regulations-1996.md) *(as originally made)*
 - [The Vegetable Seeds (Amendment) Regulations 1996](../uk-parliament/regulations/1996/1000-1499/1452-the-vegetable-seeds-amendment-regulations-1996.md)
-- [Vegetable Seeds (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/313-vegetable-seeds-amendment-regulations-northern-ireland-1996.md) *(as originally made)*
+- [Vegetable Seeds (Amendment) Regulations (Northern Ireland) 1996](../northern-ireland/regulations/1996/0000-0499/313-vegetable-seeds-amendment-regulations-northern-ireland-1996.md) *(changes pending)*
 
 **1995**
 
